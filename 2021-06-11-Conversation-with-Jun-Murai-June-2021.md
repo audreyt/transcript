@@ -183,7 +183,7 @@ My grandma, who is raised speaking Tâi-gí and Nihongo, actually had a Japanese
 
 Within my family, there's easily four languages going on. Of course, they share the kanji writing system. Eventually, everyone learned Mandarin, but still with a heavy accent. I was raised by my grandparents and uncles and aunts along with my parents, and I learned about transculturalism very earily on.
 
-There's no particular side to take. Instead, I take all the sides. After all, all the different positions have the same shared value because they raised me toegther. They wanted the future generation to enjoy living at least as good or better than the current generation.
+There's no particular side to take. Instead, I take all the sides. After all, all the different positions have the same shared value because they raised me together. They wanted the future generation to enjoy living at least as good or better than the current generation.
 
 That's their shared value because they raised me together -- goes without saying. The same is in the public service. We in the public service want to make the world, the society, better -- or at least not worse -- for future generations. That's our shared value.
 
