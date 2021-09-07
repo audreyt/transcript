@@ -824,7 +824,7 @@ This type of thing pops up every once in a while – this type of controversy an
 ### Audrey Tang:
 No, I don't think so, because I think that the Internet is known for its memes. I think there's a lot of co creational potential. When I feel frustrated — I don't often feel frustrated — I just do what any The Onion readers would do which is take an Internet meme and make fun of myself. There's quite a few people for making fun of me. I think it's all in good fun.
 
-There is popular VTubers. There's a VTuber called Ena, that really looks like me in likeness. People have a lot of jokes. There's a character in "Hunter Hunter" that looks like me and people make a lot of jokes around that.
+There is popular VTubers. There's a VTuber called Ina (イナニス), that really looks like me in likeness. People have a lot of jokes. There's a character in "Hunter Hunter", Melody (センリツ) that looks like me and people make a lot of jokes around that.
 
 What I'm trying to say is that I see these creations as material for remixing, or as we say in computational linguistics: as corpus, meaning that it's material for other people to work on.
 
