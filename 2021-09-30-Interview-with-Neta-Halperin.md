@@ -1,4 +1,5 @@
 # 2021-09-30 Interview with Neta Halperin
+
 ### Neta Halperin:
 ...definitely fine by me. I was surprised, because I know that usually on Tuesday you go for a tour?
 
@@ -148,7 +149,7 @@ When humor has the capacity to spread more dramatically than even outrage, that 
 Wow. It's interesting to learn that the humor as a tool is deriven from, let's say, a national wound.
 
 ### Audrey Tang:
-Exactly, because otherwise people will say, "Oh, damn, what's different from our democratic regime? Who is that dictator we still remember?
+Exactly, because otherwise people will say, "Well then, what's so different about our democratic regime to that dictator we still remember?"
 
 ### Neta Halperin:
 From that perspective, I'm very interested to learn.
@@ -202,9 +203,9 @@ Given the fact that the role of technology in our life is so sensitive and somet
 ### Audrey Tang:
 Well, first of all, I would say radical transparency is the norm in the judicial and the parliament branches in the other two branches in the government.
 
-You don't often hear the Parliament say, "Oh, let's make a parliamentary interpolation, but it's off record." It's impossible, it doesn't work that way.
+You don't often hear the Parliament say, "Oh, let's make a parliamentary interpellation, but it's off record." It's impossible, it doesn't work that way.
 
-Neither would the Supreme Court, the constitution called mega-constitutional ruling, but say, "Let's just publish the results, but not our individual ideas." It's impossible, right?
+Neither would the Supreme Court, the Constitution Count, make a constitutional ruling, but say, "Let's just publish the results, but not our individual ideas." It's impossible, right?
 
 I think there's already traditions of radical transparency, that's to say transparent from the proceedings and the drafts onward, not just publishing the conclusions in the other branches. I'm just bringing those ideas into the administration.
 
@@ -212,7 +213,7 @@ The administration mostly practices this less transparent fashion not because we
 
 If all the drafts and all the meetings and interviews, journalists need to be managed and transcribed, there are simply too many of these in the administration compared to the parliament and the judicial branches.
 
-Nowadays, we understand the assisted intelligence, the AIs, can help simplify most of the transcribing work. It only requires 10 working days for all the participants to correct any lingering misspellings or adding their own references to expand some acronyms.
+Nowadays, we understand the assistive intelligence, the AIs, can help simplify most of the transcribing work. It only requires 10 working days for all the participants to correct any lingering misspellings or adding their own references to expand some acronyms.
 
 It's a veritably lower threshold as compared to the previous days when we have to have dedicated personnel after each meeting in order to take real-time notes.
 
