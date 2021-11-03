@@ -164,7 +164,7 @@ I think all these individual elements are easy to adapt in other jurisdictions. 
 Speaking about Europe and Taiwan, you said you had a quick look at the piece that I wrote.
 
 ### Audrey Tang:
-Yeah, I did. He nodded quickly.
+Yeah, I did... and not so "quickly".
 
 > (laughter)
 
