@@ -1,4 +1,6 @@
-# 2021-12-02 Interview at Reuters NEXT 
+# 2021-12-02 Interview at Reuters NEXT
+
+> ([Video recording](https://youtu.be/3Mw6GAF8ISA))
 
 ### Ben Blanchard:
 
