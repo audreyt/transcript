@@ -556,7 +556,7 @@ What was your family discussion table like?
 It was very lively. And because both my parents were journalists, that works with the political and law training, and so democratization is on the forefront of their minds. And also, because they were censored by the Single Party a lot at the time, I would read their drafts and their drafts being censored, and they will debate a censor, taking the case to the owner of the press if needed be, and for environmental justice and social justice and so on. A lot of discussion was around censorship and the freedom of press when I was really young.
 
 ### Tyler Cowen:
-Are their cognitive advantages to being transgender?
+Are there cognitive advantages to being transgender?
 
 ### Audrey Tang:
 Of course. I think it makes it easier to empathize with people because I’ve gone through some parts of your puberty, no matter the gender of you, so I wouldn’t feel that half a population is different from me. I would feel that I am just part of homo sapiens. This is a large community.
