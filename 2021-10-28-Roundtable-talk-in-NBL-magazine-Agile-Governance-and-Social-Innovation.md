@@ -1,4 +1,4 @@
-# 2021-10-28 Roundtable talk in NBL magazine
+# 2021-10-28 Roundtable talk in NBL magazine Agile Governance and Social Innovation
 
 ### Hiroki Habuka:
 
