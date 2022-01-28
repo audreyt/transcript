@@ -1,6 +1,22 @@
 # 2021-12-14 Interview with Jana Puglierin and Rafael Loss
 
 ### Rafael Loss:
+
+As the EU builds up its global footprint, it's crucial to avoid European navel-gazing. Instead, Europe needs to engage partners around the world on their expectations and concerns about the EU's activities and ambitions.
+
+### Jana Puglierin:
+
+That's right. Now, it's time for Europe to listen carefully and with curiosity. Welcome to "Europe Listens," where we explore issues, countries, and regions that often receive too little attention in European discussions of global affairs. I am Jana Puglierin, senior policy fellow at ECFR and the head of our Berlin office.
+
+### Rafael Loss:
+
+My name is Rafael Loss. I am ECFR's coordinator for pan-European data projects.
+
+In our second episode of Europe Listens, we want to discuss global digital governance and EU-Taiwan relations. No one is better positioned to talk about those issues than Audrey Tang, Taiwan's digital minister -- a post she's held since 2016.
+
+In 2019, she was named a "Top 100 Global Thinker" by Foreign Policy magazine. Before joining government, Minister Tang was a political activist, advocating for democracy, transparency, and media literacy. She also held senior positions in various Silicon Valley software companies and spent part of her childhood in Europe.
+
+### Rafael Loss:
 Thanks for joining us, Minister. In a recent video, you compared digital democracy to bubble tea. What is global digital governance? What food or drink would you compare to it? How do you and the government of Taiwan approach digital governance?
 
 ### Audrey Tang:
@@ -99,7 +115,7 @@ Thank you very much for the conversation, Minister Tang. We listened carefully. 
 Thank you.
 
 ### Rafael Loss:
-Europe Listens is part of ECFR's Re--shape Global Europe project supported by Stiftung Mercator. Thank you all for tuning in and listening in. Until next time.
+Europe Listens is part of ECFR's Re:shape Global Europe project supported by Stiftung Mercator. Thank you all for tuning in and listening in. Until next time.
 
 ### Audrey Tang:
 Live long and prosper.
