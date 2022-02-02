@@ -373,7 +373,7 @@ The speed, the cost-sharing, and the ability to engage in more agile transformat
 Audrey, we talked a little bit about open source people.
 
 ### Audrey Tang:
-Assign pull requests. It's also a political necessity if the municipal mayor and central government's leader, the premier, in Taiwan's case, is not the same political party. Actually, our type A mayor is a leader of opposition party.
+Aside from pull requests, it's also a political necessity if the municipal mayor and central government's leader, the Premier in Taiwan's case, is not the same political party. Actually, the Taipei mayor is a leader of opposition party.
 
 In many cases, data sharing arrangements and open source is the only way politically, that they can collaborate on things like contact tracing. The great thing about open source collaboration is that it's collaborating in a dictionary sense, you don't have to love your collaborator but you can still collaborate with them.
 
