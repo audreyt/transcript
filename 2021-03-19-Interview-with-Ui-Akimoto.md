@@ -97,7 +97,7 @@ When did you realize that you are female?
 I realized that the expectations — how exclusively a man or a boy should interact with the world — does not describe me usually. This is like, for example, you have written a book, I have written some books too, but the fact that we are “authors”, simply means that we have some experiences. We can talk about those experiences, but we are not limited by this label of “author”.
 
 ### Audrey Tang:
-If people start saying to you, “Oh, because you’re a author, you have to behave in such and such way.” You may say, “But I’m not just an author, I have also ha other experiences.”
+If people start saying to you, “Oh, because you’re a author, you have to behave in such and such way.” You may say, “But I’m not just an author, I have also other experiences.”
 
 ### Audrey Tang:
 I realized that when I was around 12 years old when I discovered the Internet and the computer does not care about my gender, never asked about my gender. I realized that much more expressions are available to me than that is expected by the society of “boys”.
