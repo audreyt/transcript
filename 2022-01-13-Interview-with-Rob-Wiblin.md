@@ -1456,7 +1456,7 @@ If you’d like to hear more from Audrey I can recommend her interview on the po
 
 Just a reminder that we’re looking to hire advisors to counsel people one on one about how to have more impact with their work and a new Job Board lead to take it to the next level.
 
-Applications close on the 20th and 27th of February respectively, so go learn more about those roles soon at [80000hours.org/latest](80000hours.org/latest).
+Applications close on the 20th and 27th of February respectively, so go learn more about those roles soon at [80000hours.org/latest](https://80000hours.org/latest).
 
 Alright, the 80,000 Hours Podcast is produced and edited by Keiran Harris.
 
