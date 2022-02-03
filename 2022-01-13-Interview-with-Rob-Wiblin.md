@@ -408,7 +408,7 @@ Wow. OK. So if me and someone else, we both basically have exactly the same opin
 
 ### Audrey Tang:
 
-No, not at all. So of course, maybe that 99% was a civil attack — so maybe it’s all pseudonyms. Of course in practice, in the Join platform, you have to first authenticate through SMS. So we don’t know who you are, but you can’t arbitrarily create 5,000 accounts unless you can manufacture 5,000 SIM cards — where the money laundering office may want to talk to you. The point here is that it’s not limitless character generation, so to speak.
+No, not at all. So of course, maybe that 99% was a [sybil attack](https://en.wikipedia.org/wiki/Sybil_attack) — so maybe it’s all pseudonyms. Of course in practice, in the Join platform, you have to first authenticate through SMS. So we don’t know who you are, but you can’t arbitrarily create 5,000 accounts unless you can manufacture 5,000 SIM cards — where the money laundering office may want to talk to you. The point here is that it’s not limitless character generation, so to speak.
 
 ### Audrey Tang:
 
