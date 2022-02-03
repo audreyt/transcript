@@ -589,7 +589,7 @@ They seem more balanced. And also, I think mostly it’s just looking at the act
 
 ### Audrey Tang:
 
-But for more elaborate analysis, I encourage you to look at [Gitcoin](https://gitcoin.co/), which is actually putting real money on the table instead of just votes. There’s kind of an implicit funding part in it, which I think increased the payout even more. Of course, more risk of civil attacks too. And so [quadratic funding](https://www.radicalxchange.org/concepts/quadratic-funding), I think, exemplifies the good parts of quadratic voting that we see in the Presidential Hackathon, but we have not yet implemented quadratic funding or participatory budgeting.
+But for more elaborate analysis, I encourage you to look at [Gitcoin](https://gitcoin.co/), which is actually putting real money on the table instead of just votes. There’s kind of an implicit funding part in it, which I think increased the payout even more. Of course, more risk of Sybil attacks too. And so [quadratic funding](https://www.radicalxchange.org/concepts/quadratic-funding), I think, exemplifies the good parts of quadratic voting that we see in the Presidential Hackathon, but we have not yet implemented quadratic funding or participatory budgeting.
 
 ### Rob Wiblin:
 
@@ -625,7 +625,7 @@ This innovation works really well with quadratic funding because previously, the
 
 ### Audrey Tang:
 
-But of course, Gitcoin is still experimenting a lot on preventing civil attacks on this middle ground, and it probably needs to be a little bit more mature before we can actually implement it in our pay for success designs.
+But of course, Gitcoin is still experimenting a lot on preventing Sybil attacks on this middle ground, and it probably needs to be a little bit more mature before we can actually implement it in our pay for success designs.
 
 ### Rob Wiblin:
 
