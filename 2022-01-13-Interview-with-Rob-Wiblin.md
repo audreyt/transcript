@@ -103,7 +103,7 @@ OK. Sounds like you agree.
 
 ### Audrey Tang:
 
-Definitely. Yeah. I think it’s partly about how much government workers — public servants — trust the citizens. Because trust is reciprocal. If we don’t publish things as open data, then it means, kind of implicitly, that we don’t trust the citizens with these data. If you have to file an FI request and wait for 90 days and a heavily redacted copy gets sent to you, this of course says something about the trust from the government to the citizens.
+Definitely. Yeah. I think it’s partly about how much government workers — public servants — trust the citizens. Because trust is reciprocal. If we don’t publish things as open data, then it means, kind of implicitly, that we don’t trust the citizens with these data. If you have to file a FOIA request and wait for 90 days and a heavily redacted copy gets sent to you, this of course says something about the trust from the government to the citizens.
 
 ### Audrey Tang:
 
@@ -1209,7 +1209,7 @@ Just so I can understand better how this community works. It sounds like there�
 
 ### Audrey Tang:
 
-Well, the thing is that the civic tech people don’t really need a government-sponsored platform. They actually have GitLab, GitHub, and so on. So it’s not like we have to build a domestic GitHub in order for me to send a full request — GitHub is already there. The same goes for other GitHub-like spaces.
+Well, the thing is that the civic tech people don’t really need a government-sponsored platform. They actually have GitLab, GitHub, and so on. So it’s not like we have to build a domestic GitHub in order for me to send a pull request — GitHub is already there. The same goes for other GitHub-like spaces.
 
 ### Audrey Tang:
 
@@ -1238,7 +1238,7 @@ Before 2014, was the Taiwanese government perhaps unusually closed, or unusually
 
 ### Audrey Tang:
 
-Part of the reason why is that back in 2014, there was a real sense of powerlessness. People had a lot of good internet connection — we already had internet as broadband before we had broadband as broadband. So it was very easy for good ideas to spread in the civic infrastructures, but there was no systemic way for the public service to incorporate those.
+Part of the reason why is that back in 2014, there was a real sense of powerlessness. People had a lot of good internet connection — we already had internet as human right before we had broadband as human right. So it was very easy for good ideas to spread in the civic infrastructures, but there was no systemic way for the public service to incorporate those.
 
 ### Audrey Tang:
 
