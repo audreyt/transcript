@@ -22,9 +22,13 @@ So while singularity connects machines, plurality connects people.  Thank you.
 
 ### Audience Member:
 
-In order to reflect the will of the people more directly in politics through the use of digital technology, we suppose that the active participation of each and every citizen a prerequisite. In this regard, Japan’s voter turnout is on a downward trend, and young people in particular are noticeably disengaged from politics.
+Thank you. I'm working at the manufacturer mainly doing business in healthcare sector. My name is Shu Do. Thank you for your valuable time. Without further ado, let me ask you a question.
 
-Do you think the introduction of a system like Taiwan's such as Join.gov.tw will have the effect of increasing each citizen's sense of participation in democracy? Please let us know what you are doing in Taiwan to make this system work effectively, and any advice you have for Japan.
+If you want to have people really reflected more directly in politics, utilizing digital technology, we support that active participation of each citizen is a prerequisite. I wonder if you agree on that point.
+
+In Japan the voter turnout is declining, and the young people are disengaged from politics. I wonder where the system like Taiwan's drawing would work well in Japan, or introduction of such a system here in Taiwan would help raise public awareness for the need for participation in democracy.
+
+What do you do to make it join a real function, the system in Taiwan? If you can give us any advice for Japan I'll be grateful. Thank you very much.
 
 ### Audrey Tang:
 
@@ -46,7 +50,9 @@ So, I do believe that if you have this kind of learning circle, learning organiz
 
 ### Audience Member:
 
-I would like to ask you about "radical transparency," which is the foundation of Taiwan's efforts. We suppose that some government functions, such as diplomacy, defense, and public security, cannot be fully disclosed. In some cases, it may be necessary to monitor people to protect them. In Taiwan, how do you convince people of the limitations of such transparency and how do you ensure their trust in the government?
+I'm a certified public accountant. I would like to ask about radical transparency that is at the foundation of Taiwan's initiatives. Government functions include diplomacy, defense and policy that cannot be made public.
+
+In some cases, there may be occasions where government will conduct surveillance of people in order to protect them. How does Taiwan handle the issue of this limitation to transparency? How do you obtain the consent of people with regards to this limitation and secure trust of the people towards the government?
 
 ### Audrey Tang:
 
@@ -67,7 +73,12 @@ So, through a secure multi-party configuration, only the contact tracer get acce
 
 ### Audience Member:
 
-How people can be comfortable with policy areas where transparency doesn’t apply?
+Thank you very much. Yes, in the responses you've given just now, that people and contact tracing system within that framework. People trust the system with their own information and information will not be conveyed any further beyond a necessary boundary. It is not used for police or other purposes I understand.
+
+Though, that in the high assistance, the question, he said the diplomacy, defense, and public security, maybe they are not very good for transparency purposes. They should be sometimes excluded for those limitations.
+
+People in Taiwan think that they can trust the government and I wonder how people have nurtured such a trust based relationship. However, based on the specific examples that you cited, they are able to learn that government can be trusted based on such specific cases. May I understand in that way?
+
 
 ### Audrey Tang:
 
@@ -75,7 +86,9 @@ Definitely, but also because the Taiwanese people know they can always work thro
 
 ### Audience Member:
 
-Minister Tang has pointed out the effectiveness of purpose-based learning in cultivating social competence and acquiring immunity from misinformation so prevalent in a digital society, by taking examples such as Air Box in elementary schools and fact-checking during elections by high school students. What should adults do to acquire such competence from now on? You have advocated building people-public-private partnerships What roles can businesses play in this process?
+Thank you very much. I placed him on a lot of vitamins. I think that's good for your immunity in your body system. [inaudible 21:48] is our next questionnaire. I'm a certified public accountant. Thank you very much, Minister Tang. You argue that in order to live in a digital society, we need social competence to avoid being misled by close information.
+
+You cited examples of air books in elementary schools are factor checking during the elections by junior high school students. [inaudible 22:09] is effective according to you. What can we do as adults to acquire such skills? What roles can business play in order to make this democracy function more effectively? Those are the questions. Thank you.
 
 ### Audrey Tang:
 
@@ -89,7 +102,7 @@ And indeed, in many companies, it's easier to adopt such techniques than what we
 
 ### Audience Member:
 
-What is the moment in Taiwan history when the government trusted people and people in return started to trust the government?
+In Taiwan, the people trust the government. The government trust the people and the people trust the government because of that. First, the government trust the people, and people started trusting the government. According to your experience, when did you feel people started trusting the government?
 
 ### Audrey Tang:
 
@@ -97,7 +110,12 @@ I believe it is when we actually invited the people who occupied the parliament 
 
 ### Audience Member:
 
-Now, we would like to ask how to design regulation. When businesses introduce innovative but risky technologies and/or business models such as drones and crypto asset trading, they may need to be regulated in some situations. For example, there is a trend to regulate AI that interprets human emotions across the board, due to risks on privacy and other issues such as the fear that it could lead to profiling. What do you think of this regulatory trend? 
+I provide support to corporations as a lawyer. Thank you so much for your time today. I would like to ask about the regulation. How the regulation should be vis à vis innovation.
+
+The project I worked on involved AI for inference of emotion. This technology has the potential to lead to profiling of the people. Because of that regulation governing, this area was a hurdle for usage of this technology.
+
+Innovative technologies and services, including transactions of cryptocurrency or drones always involve unknown risks and dangers. Because of that, they tend to be regulated more by doing so towards those regulations. What is your take on that? What is your view about those regulations?
+
 
 ### Audrey Tang:
 
@@ -113,7 +131,9 @@ That's by small scale experiments, with stakeholders participating. This is exac
 
 ### Audience Member:
 
-One possible way to regulate innovation is to involve the businesses that want to introduce new technologies and business models, and therefore the most knowledgeable about them in the rule-making process, and let them collaborate with other stakeholders, including the government, to formulate the rules. How can businesses play a leading role in this rulemaking process? What specific actions do you think businesses should take in order to speed up the rulemaking process?
+I am a lawyer. Thank you for this opportunity. The one possible solution is to involve companies seeking to provide innovative technologies and services which know about those technologies more than anybody else, to be involved in the rulemaking process in collaboration with other stakeholders, including the government.
+
+How can companies play a leading role in this rulemaking process? What do you think companies should do specifically, in order to speed up that rulemaking process? Thank you very much. Those are the questions.
 
 ### Audrey Tang:
 
@@ -127,7 +147,11 @@ So, what I'm trying to say is that, think about the purpose as you would think a
 
 ### Audience Member:
 
-Even if businesses are involved in rulemaking, unless there are benefits that exceed the costs, they have little incentive to move forward. For example, in Japan, there is a movement to introduce Online Dispute Resolution (ODR), in which private organizations act as the organizers of the dispute settlement proceedings. However, the huge cost of security and other measures will raise the fees for dispute settlement, hindering the spread of this service. Therefore, although there is a need for ODR from the public, the introduction of ODR has been slow because of the low prospect of making a profit for the private sector. What do you think is the best way to turn this kind of socially impactful but not immediately profitable service into a sustainable business?
+I work in public affairs department at an auditing firm. Thank you so much for this opportunity. Corporations are generally passive to social implementation or role making unless they have economic incentives. For example, in Japan, some people hope for a wider use of private online dispute resolution services.
+
+However, because it is very costly for corporations to take security counter measures. Audrey san, you talked about the secure environment for using the QR code but for corporations, it's very costly to take security counter measures and because of that, online dispute resolution services have not spread so much in Japan.
+
+What kind of methodology is possible to incentivize these corporations to participate in such socially meaningful project and make the project sustainable as a business? I think that the private corporations need more practice in doing this, but how do you think would make it more smoothly to make this happen? If you could give Taiwanese examples, I would appreciate it.
 
 ### Audrey Tang:
 
@@ -142,8 +166,15 @@ So, these are kind of the underlying operating systems. Once you absorb all the 
 So, my suggestion is to look at the cost centers, the risks and so on, and find out if you introduce universal fabrics of such human rights, the rights to move, to be identified, to hold assets, and things like that, like the physical rights but online, and absorb all the costs for the entrepreneurs and innovators, then I'm not worried about the incentive on the application layer.
 
 ### Audience Member:
+Thank you very much. I am working at the life insurance company. I am in charge of business development. I am Tsudzumi. Thank you very much for this valuable opportunity, Audrey.
 
-As we have discussed, agile and collaborative governance with many stakeholders is essential for a company to provide new value to society through innovation. In particular, horizontal dialogue with the government and the building of trust through that dialogue are essential for businesses. On the other hand, I feel that there are certain hurdles to horizontal dialogue between "government" and "business" because the relationship between them is often that of "supervisors" and "supervised". What is the key to effective horizontal dialogue between "government" and "business"? I would be grateful if you could give me your opinion, with the description of the relationship between government and business in Taiwan, so that we can understand the context.
+As a person who is seeking innovation at company, I have been receiving a lot of stimulus from you. From my part, as we have discussed with several examples already in agile collaborative governance, horizontal dialogue with government is very important.
+
+If companies want to participate in governance, and also building of trusts through, that dialogue is very important. On the other hand, since I am working at the financial institution, I feel that there is a certain hurdle or obstacle to horizontal dialogue between the government and business because the relation between the two is, in a sense, one between the supervisor and the supervised.
+
+Therefore, I think there's a certain hurdle, an obstacle to create truly equal fitting relationship between the government and companies. That is I feel. Now, based on that, the government and businesses in order for them to have a fitting horizontal dialogue, what would be the key for that to happen? In Taiwan, what's the relation between government and business?
+
+If you can cite some examples to illustrate the relationship between the two, I would appreciate it. Thank you very much.
 
 ### Audrey Tang:
 
@@ -165,7 +196,12 @@ So, many reverse mentors in the cabinet also have their own businesses. They may
 
 ### Audience Member:
 
-Would you like to offer your guidance for individuals in the era of divisive and polarized social media?
+Thank you so much. There's one question I would like to ask from Tang. We talked about the governments' role, the cooperation's role, but at the foundation is each individual by cost. In the digital society, what kind of mindsets should each individual have when we talk about the politics?
+
+Because we are so busy with our daily lives, we think that it's cumbersome to think about politics. We don't spend so much time thinking about politics. Then on the Internet, it's anonymous, so we pretend to be release our stress and we may make very bad comments. That has become a problem online, but there are some negative cycles.
+
+We need to break away from the negative cycle. We should be accountable for participating in the governance. In order to do so, what kind of mindsets should we have? How should we change our mindset? Do you have any advice?
+
 
 ### Audrey Tang:
 
@@ -183,7 +219,8 @@ In Taiwan, of course, we're blessed to have PTT, which is subsidized by the acad
 
 ### Audience Member:
 
-How might we reunite a polarized society? Where would you start?
+Yes, as you explained as a mechanism of framework. Through that framework, we are able to have a discussion purely for the benefit of society. That is ideal. That is very good, but the toxic network environment we are in, the society is already polarized sometimes, in some cases.
+Once society is polarized, that has to be united. Is that possible? If we want to unite the country, where could we start? That is a question.
 
 ### Audrey Tang:
 
