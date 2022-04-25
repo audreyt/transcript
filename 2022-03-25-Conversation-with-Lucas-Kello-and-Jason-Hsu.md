@@ -1,7 +1,5 @@
 # 2022-03-25 Conversation with Lucas Kello and Jason Hsu
 
-> ([Slides from Lucas Kello](https://issuu.com/pdis.tw/docs/cyber_studies_introductory_meeting_25_may_22))
-
 ### Audrey Tang:
 Hello.
 
@@ -26,6 +24,8 @@ I'll hand it over to Lucas. Lucas, maybe you can take it over from here.
 
 ### Audrey Tang:
 Please.
+
+> ([Slides from Lucas Kello](https://issuu.com/pdis.tw/docs/cyber_studies_introductory_meeting_25_may_22))
 
 ### Lucas Kello:
 Thank you, Jason and Audrey. It's fantastic to meet you. I know you're doing some very exciting things in Taiwan that I'd love to learn more about. If not today, in some other occasion.
