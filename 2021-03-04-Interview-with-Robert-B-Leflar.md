@@ -436,7 +436,7 @@ That’s the case. If you can, because of the design of this place, even if it�
 I see. Just as a matter of personal curiosity, usually I commute between my apartment in Wanlong and to the NTU on a YouBike back and forth every day that it’s not raining. I’m wondering since I carry my cell phone in my pocket, does that mean that our movements…?
 
 ### Audrey Tang:
-Your telecoms know exactly where you are up to a 15 meter radius. That’s true in any place that has 3G connection because that’s how they provide raw materials.
+Your telecoms know exactly where you are up to a 50 meter radius. That’s true in any place that has 3G connection because that’s how they provide raw materials.
 
 ### Audrey Tang:
 In Taiwan, we already use this location based tracking for earthquake warnings, flood, evacuation warnings and so on. People do understand the SMS and its limitations, and also the fact that sending SMS based on the location definitely doesn’t read your emails or WhatsApp communication. They use a different layer.
