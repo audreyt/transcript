@@ -158,12 +158,12 @@ Self parody. It wasn't it. We do it.
 That's right. It traveled very quickly, and everybody who see this can't unsee it. [laughs] The panic just went down I think over a weekend.
 
 ### Ian Williams:
-Was it mezzy? I suppose there are more conservative members of the government. Is it always easy to get them on board with this stuff?
+Was it easy? I suppose there are more conservative members of the government. Is it always easy to get them on board with this stuff?
 
 ### Audrey Tang:
-It's piggybacking on in earlier meme [non English speech] or we only have one earth. It's a very popular environmental protection slogan. We only have one earth. We don't have Plan B. Things like that.
+It's piggybacking on in earlier meme 我們只有一個地球 or we only have one earth. It's a very popular environmental protection slogan. We only have one earth. We don't have Plan B. Things like that.
 
-The parody goes, we only have a pair of buttons. We don't have other pairs of buttons, which means that the actual usage is limited. [laughs] You don't have to stockpile basically. It's a wordplay because stockpile is a homonym to button.
+The parody goes, we only have a pair of bottoms. We don't have other pairs of bottoms, which means that the actual usage is limited. [laughs] You don't have to stockpile basically. It's a wordplay because stockpile is a homonym to bottoms.
 
 All this is the Premier's team pre cleared the use of this humor with the Premier because if it takes a entire day to get the approval, then it will lose its efficacy. At the time, then the conspiracy theory will win.
 
@@ -194,10 +194,10 @@ That's another one. It's actually from a movie.
 It's not a drone shot. There are many examples.
 
 ### Ian Williams:
-You'd sometimes described yourself as a conservative amicus. How would you define that?
+You'd sometimes described yourself as a conservative anarchist. How would you define that?
 
 ### Audrey Tang:
-I could also say I'm a spiritual Taoist, but then, if I say that for many Western listeners, who mean that I perform certain rituals. [laughs] It's like that. I'm not a religious Taoist. To me, what matters is that the conservative part is the traditions, the existing institutions. There are there two to exist for a reason. We need to honor the relations that's already there.
+I could also say I'm a spiritual Taoist, but then, if I say that for many Western listeners, who mean that I perform certain rituals. [laughs] It's not like that. I'm not a religious Taoist. To me, what matters is that the conservative part is the traditions, the existing institutions. There are there two to exist for a reason. We need to honor the relations that's already there.
 
 Then the anarchist part says they do not have a monopoly on the possible configuration of institutions. New kinds of processes, communities, networks should be able to form without taking orders or giving orders to existing institutions.
 
@@ -206,7 +206,7 @@ Basically, it's a way to say live and let live with existing institutions. Repur
 > (laughter)
 
 ### Audrey Tang:
-I emphasize the parts that anarchism shares with early Taoism in taking the orders and giving the orders in voluntary association, and things like that. If we overemphasize that pump, people say some individualistic. Meaning that each person should be able to disrupt whatever institutions they don't feel like. I'm like, "No."
+I emphasize the parts that anarchism shares with early Taoism in not taking the orders and giving the orders, preferring instead voluntary association, and things like that. If we overemphasize that part, people say some individualistic. Meaning that each person should be able to disrupt whatever institutions they don't feel like. I'm like, "No."
 
 I'm actually saying that indigenous traditions, Taiwan's 20 national languages. They all exist in a plural way. It's transcultural conservativism instead of a single culture monopoly that conserve that culture to the detriment to the other 19 different languages.
 
@@ -237,7 +237,7 @@ If they can influence such that people do not, for example, believe the result o
 There's a real incentive here to do this kind of information manipulation. That is...
 
 ### Ian Williams:
-Part of the gray wolf.
+Part of the gray warfare.
 
 ### Audrey Tang:
 That's the first, the reason, I believe. The second reason, I believe, is that a lot of people in Taiwan are seeing that this kind of cybersecurity attacks, and so on, as a way, not just politically motivated, but also economically motivated.
@@ -348,7 +348,7 @@ There's a sense as well in this. That I was having a conversation with someone t
 A pride in what the country has achieved, whether it's through democracy, social activism, which is in stark contrast like so much else with the rather rabid ethnic nationalism that you see across the street.
 
 ### Audrey Tang:
-We don't have a democratic backslide. [laughs] We're not centralizing state power to further some national...I think it's called fascism. The old. Last century word. We're not turning fascist. [laughs]
+We don't have a democratic backslide. [laughs] We're not centralizing state power to further some national...I think it's called fascism. The old, last-century word. We're not turning fascist. [laughs]
 
 What we're doing, essentially, is to make sure that people identify with their urgency in furthering democracy. Democracy to us is not something static. Is like semiconductor or any computer code. It's something that people can contribute, can improve, and share the innovation with the world.
 
@@ -356,7 +356,7 @@ What we're doing, essentially, is to make sure that people identify with their u
 Need to improve. It's an ongoing project, I guess.
 
 ### Audrey Tang:
-Yes. The old democratic systems suffer from the problem of lack of bandwidth, high latency every four years, and not connecting to sufficient amount of people. Certainly not people younger than 18. What we're doing is to improve the democratic system so that it has higher bandwidth, lower latency, and connects to more.
+Yes. The old democratic systems suffer from the problem of lack of bandwidth, high latency -- every four years -- and not connecting to sufficient amount of people. Certainly not people younger than 18. What we're doing is to improve the democratic system so that it has higher bandwidth, lower latency, and connects to more.
 
 ### Ian Williams:
 It's permanently in a state of renewal and reinvigoration in a sense.
