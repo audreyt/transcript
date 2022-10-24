@@ -79,7 +79,7 @@ It's quite continuous.
 For example, when the US speaker, Nancy Pelosi, visited, we've seen one single time, the peak 23 times higher than the previous peak of the distributed denial of service attack, trying to shut down the websites of the Ministry of National Defense or the President's office and so on.
 
 ### Audrey Tang:
-Although they didn't succeed in revealing any sensitive information or exposing the confidential documents, and so the height of the attack is quite visible to everyone.
+Although they didn't succeed in revealing any sensitive information or exposing the confidential documents, the height of the attack is quite visible to everyone.
 
 So because of that, there is a renewed interest in strengthening our cybersecurity.
 
@@ -268,7 +268,7 @@ And in the domain of cybersecurity, which I'm more familiar with, we've also got
 Sure.
 
 ### Audrey Tang:
-..when times come for a kind of all-out defense.
+...when times come for a kind of all-out defense.
 
 So I think this is not just about the Ministry of National Defense, but also about equipping our citizens.
 
