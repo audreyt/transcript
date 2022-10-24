@@ -116,7 +116,7 @@ As part of that ambition, you have proposed a satellite trial program to try to 
 But given the current tensions with China, these talks are pretty urgent, aren't they, between private sector companies and the Taiwanese government?
 
 ### Audrey Tang:
-Yeah, we're quite happy with our existing collaboration with vendors currently in middle Earth orbit. And we will, of course, expand that to new vendors to the low earth orbit.
+Yeah, we're quite happy with our existing collaboration with vendors currently in mid Earth orbit. And we will, of course, expand that to new vendors to the low Earth orbit.
 
 But I think taken together, this provides a heterogenous, that is to say composed of various different solutions and vendors, a palette for us to continue the conversation, because if you do not have real time video feed in a time of event of disaster, the appetite for information is still there.
 
