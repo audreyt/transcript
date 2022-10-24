@@ -91,7 +91,7 @@ You were involved in the Sunflower student protests in 2014 to try to avoid the 
 
 You are the first openly transgender minister anywhere in the world. So, you know, a first there.
 
-But given that your own department is the Ministry for Digital Affairs, you need to strengthen Taiwan's digital protection.
+But given that your own department is the Ministry of Digital Affairs, you need to strengthen Taiwan's digital protection.
 
 So how capable is your infrastructure of withstanding these cyberattacks from China?
 
@@ -311,7 +311,7 @@ I think, first of all, clarity doesn't mean escalation. So it's not like we're e
 
 And the second thing is that, as I mentioned, there's a lot of willingness from not just the US but also European counterparts and many other democratic allies.
 
-All the 60 signatories of the Declaration for the Future of the Internet are committed to keep it free and open. Can we just...
+All the 60 signatories of the Declaration for the Future of the Internet are committed to keep it free and open.
 
 ### Zeinab Badawi:
 Sticking with the tensions, you're not escalating the tensions, but the tensions between China and the United States are escalating. Joe Biden has got the export controls now on Chinese technology and so on. And my point is, how is Taiwan viewing this?
@@ -319,24 +319,24 @@ Sticking with the tensions, you're not escalating the tensions, but the tensions
 Because I'll give you a quote, Michael Swain from the Quincy Institute for Responsible Statecraft says Biden's statements make Taiwan less secure because they increase the chance of the US being pulled into a war. Makes you less secure. Is he right?
 
 ### Audrey Tang:
-The point I'm making is that, for example, the UK also realized that previously considered "inexpensive" 5G communication equipment from authoritarian regimes are actually expensive, if you think about the risk it poses to national security.
+The point I'm making is that, for example, the UK also realized that previously considered "inexpensive" 5G communication equipments from authoritarian regimes are actually expensive, if you think about the risk it poses to national security.
 
-So it's not like only the US does that assessment. Everybody else is doing the same assessment and concludes that Taiwan is the more trustworthy partner when it comes to powering the secure telecommunication or any scientific, military computation needs. We’re the better democratic partner and they're willing to commit...
+So it's not like only the US does that assessment. Everybody else is doing the same assessment and concludes that Taiwan is the more trustworthy partner when it comes to powering the secure telecommunication or any scientific, military computation needs.
 
 ### Zeinab Badawi:
-Yeah, exactly.
+It’s the better democratic partner and they're willing to commit...
 
 ### Audrey Tang:
-..military support.
+Yeah, exactly.
 
 ### Zeinab Badawi:
-Right. And that's something that's good in your opinion.
+..military support, and that's something that's good in your opinion.
 
 ### Audrey Tang:
 Right. So this is not a US-PRC thing. This is a free democratic alliance thing.
 
 ### Zeinab Badawi:
-All right. Finally, as Minister for Digital Affairs, Audrey Tang, you're trying to transform Taiwan into a digital democracy. Around 87% of people under the age of 12 are connected. And you want to increase citizen participation online.
+All right. Finally, as Minister of Digital Affairs, Audrey Tang, you're trying to transform Taiwan into a digital democracy. Around 87% of people under the age of 12 are connected. And you want to increase citizen participation online.
 
 ### Audrey Tang:
 Yes.
@@ -358,7 +358,7 @@ My own grandma is a local Taiwanese who studied Japanese and my grandpa comes fr
 Today, Taiwan is home to, like, 20 national languages and many different ethnic people. So the point I'm making is that democracy must build collaboration across diversity, and that's the way we're employing digital technologies to do.
 
 ### Zeinab Badawi:
-Audrey Tang, Minister for Digital Affairs here in Taiwan, thank you very much indeed for coming on HARDtalk.
+Audrey Tang, Minister of Digital Affairs here in Taiwan, thank you very much indeed for coming on HARDtalk.
 
 ### Audrey Tang:
 Thank you. Live long and prosper.
