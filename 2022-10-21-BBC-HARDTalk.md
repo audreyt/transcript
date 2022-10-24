@@ -160,7 +160,7 @@ I think all the major parties, including the DPP, the Democratic Progressive Par
 
 When we look at Hong Kong, the so-called "one country two systems" has turned into so called "only patriots can rule Hong Kong." So I think we all reject that.
 
-And our way of life, of course, is a free and democratic one. So in the digital realm, we're happy, for example, that's our domain name, .TW, it's quite independent from .UK, .US and .CN, obviously, so I think people care more about our state as a full fledged member — a partner to the democratic community — more than anything else.
+And our way of life, of course, is a free and democratic one. So in the digital realm, we're happy, for example, that's our domain name, .TW, it's quite independent from .UK, .US and .CN, obviously, so I think people care more about this day-to-day state as a full fledged member — a partner to the democratic community — more than anything else.
 
 But you are part of a government — I appreciate you are nonpartisan and not a member of the DPP — but President Tsai Ing Wen's comments are quite puzzling.
 
