@@ -151,7 +151,7 @@ A symbol of trust, but does it protect you from Chinese aggression?
 I think if the world comes to see Taiwan as an essential partner in providing trustworthy computation, then the entire democratic camp will see us as a very valuable partner and so will come to our defense.
 
 ### Zeinab Badawi:
-I mean, another paradox which is quite positive about Taiwan is, you are part of the government which came to power in 2016 when President Tsai Ing Wen, who leads the Democratic Progressive Party, the DPP, won the elections very decisively.
+I mean, another paradox which is quite puzzling about Taiwan is, you are part of the government which came to power in 2016 when President Tsai Ing Wen, who leads the Democratic Progressive Party, the DPP, won the elections very decisively.
 
 What is the position of the Government when it comes to independence? Because polls consistently show that the Taiwanese people don't want independence, and yet they don't want unification with China. So how does the government reconcile this?
 
