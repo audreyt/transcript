@@ -76,7 +76,7 @@ I mean, is he right? Is Taiwan effectively engaged in a cyber war with China?
 ### Audrey Tang:
 It's quite continuous.
 
-For example, when the US speaker, Nancy Pelosi, visited, we've seen one single time, the peak 23 times higher than the previous peak of the distributed denial of service attack, trying to shut down the websites of the Ministry of National Defense or the President's office and so on.
+For example, when the US Speaker Nancy Pelosi visited, we've seen one single time, the peak 23 times higher than the previous peak of the distributed denial of service attack, trying to shut down the websites of the Ministry of National Defense or the President's office and so on.
 
 ### Audrey Tang:
 Although they didn't succeed in revealing any sensitive information or exposing the confidential documents, the height of the attack is quite visible to everyone.
