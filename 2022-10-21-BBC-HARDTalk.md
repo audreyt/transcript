@@ -362,4 +362,3 @@ Audrey Tang, Minister for Digital Affairs here in Taiwan, thank you very much in
 
 ### Audrey Tang:
 Thank you. Live long and prosper.
-
