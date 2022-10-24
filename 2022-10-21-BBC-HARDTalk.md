@@ -314,7 +314,7 @@ All the 60 signatories of the Declaration for the Future of the Internet are com
 ### Zeinab Badawi:
 Sticking with the tensions, you're not escalating the tensions, but the tensions between China and the United States are escalating. Joe Biden has got the export controls now on Chinese technology and so on. And my point is, how is Taiwan viewing this?
 
-Because I'll give you a quote, Michael Swain from the Quincy Institute for Responsible Statecraft says Biden's statements make Taiwan less secure because they increase the chance of the US being pulled into a war. Makes you less secure. Is he right?
+Because I'll give you a quote, Michael Swain from the Quincy Institute for Responsible Statecraft says Biden's statements make Taiwan less secure because they increase the chance of the US being pulled into a war. Makes you less secure. Is it right?
 
 ### Audrey Tang:
 The point I'm making is that, for example, the UK also realized that previously considered "inexpensive" 5G communication equipments from authoritarian regimes are actually expensive, if you think about the risk it poses to national security.
