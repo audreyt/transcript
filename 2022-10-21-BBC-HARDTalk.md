@@ -103,10 +103,9 @@ Fact checking, for example, is a popular pastime for Taiwanese students to do th
 
 So once we are armed with so-called antibodies of the mind, we're less vulnerable to the disinformation attacks.
 
-### Zeinab Badawi:
+### Audrey Tang:
 Now, in terms of cybersecurity attacks, it's been pointed out that the submarine cables is one of the vulnerabilities in Taiwan, because these are the places that connect us to the world.
 
-### Audrey Tang:
 So learning from Ukraine, we're now investing around, I think, 15 million USD over the next couple years to build more than 700 mobile or fixed satellite receivers for the non-geostationary satellites in orbit, so that we can still keep a line open to talk to our democratic allies around the world, even in the event of the severe disruption to our submarine cables.
 
 ### Zeinab Badawi:
