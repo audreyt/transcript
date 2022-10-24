@@ -223,7 +223,7 @@ Maybe a video conference then?
 But, I mean, not even that's taken place. I mean, are you encouraging her to do that?
 
 ### Audrey Tang:
-My point here is that if there are ways for the Beijing authorities and Taiwan government to have a more matter of factly conversation, around the day to day conversations, matters when it concerns the people's livelihoods and so on, that has been going on for quite a while.
+My point here is that if there are ways for the Beijing authorities and Taiwan government to have a more matter of factly conversation, around the day to day conversations, on matters when it concerns the people's livelihoods and so on, that has been going on for quite a while.
 
 What you're asking is essentially the political question, but from my point of view, because I'm nonpartisan, I think it's far easier if we focus on the parts, for example, advancing democracy, human rights and so on.
 
