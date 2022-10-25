@@ -1,23 +1,17 @@
 # 2022-10-21 BBC HARDTalk
 
 ### Zeinab Badawi:
-This is BBC News. We will have the headlines and all the main news for you after HARDtalk.
+Welcome to this special edition of "HARDtalk" with me, Zeinab Badawi, from the Taiwanese capital, Taipei. People here in Taiwan which is self-governed live under a constant threat from China which lies about 160 kilometers across the waters.
 
-Welcome to this special edition of HARDtalk with me, Zeinab Badawi from the Taiwanese capital, Taipei.
+Beijing claims Taiwan is part of its territory and in the past few months has carried out hundreds of military sources near Taiwan leading to speculation that it is preparing for an invasion. Taiwan has also been subjected to cyberattacks from China. My guest is the Taiwanese digital minister, Audrey Tang. Can Taiwan really forge its own path?
 
-People here in Taiwan, which is self-governed, live under a constant threat from China, which lies about 160km across the waters.
-
-Beijing claims Taiwan as part of its territory and in the past few months has carried out hundreds of military sorties near Taiwan, leading to speculation that it is preparing for an invasion. Taiwan has also been subjected to cyber attacks from China.
-
-My guest is the Taiwanese digital minister, Audrey Tang.
-
-Can Taiwan really forge its own path? Minister Audrey Tang in Taipei, welcome to HARDtalk.
+Minister Audrey Tang in Taipei, welcome to HARDtalk.
 
 ### Audrey Tang:
 Thank you. Really happy to be here.
 
 ### Zeinab Badawi:
-President Xi of China reiterated at the recent Chinese Communist Party Congress that China wants to strive for the prospect of peaceful unification with Taiwan, but that he will never promise to give up the option to use force.
+President Xi of China reiterated at the recent Chinese Communist Party Congress that "China wants to strive for the prospect of peaceful unification with Taiwan," but that he will "never promise to give up the option to use force."
 
 Just sum up briefly the mood for us, the reaction to that possibly new threat.
 
@@ -34,7 +28,7 @@ Not especially worried.
 
 Of course, we've been seeing renewed interest in, for example, countering disinformation, cybersecurity attacks and so on.
 
-But I think the overall mood is quite calm.
+But the overall mood is quite calm.
 
 ### Zeinab Badawi:
 OK, because China has claimed Taiwan as part of its territory since 1949.
@@ -43,7 +37,7 @@ But now, according to intelligence in the United States, President Xi wants to a
 
 So you've got this timeframe.
 
-We've seen increased military activity, spy planes, bombers, missiles being fired over the Taiwan Strait. Surely you cannot discount the possibility that there could be a military conflict.
+We've seen increased military activity, spy planes, bombers, missiles being fired over the Taiwan Strait. Surely, you cannot discount the possibility that there could be a military conflict.
 
 ### Audrey Tang:
 Well, in Taiwan, we face earthquakes or typhoons all the time. Earthquakes don’t give us a lot of advance notice either.
@@ -55,7 +49,7 @@ Our readiness, I think, stands high at any given time.
 ### Zeinab Badawi:
 You sound quite relaxed about it, if I may say, Minister Tang.
 
-Because the Foreign Minister of Taiwan, Joseph Wu, says China's behavior is provocative and threatening regional peace and stability.
+Because the Foreign Minister of Taiwan, Joseph Wu, says "China's behavior is provocative and threatening regional peace and stability."
 
 I mean, Taiwan is the reddest of red lines for China, isn't it?
 
@@ -76,7 +70,7 @@ I mean, is he right? Is Taiwan effectively engaged in a cyber war with China?
 ### Audrey Tang:
 It's quite continuous.
 
-For example, when the US Speaker Nancy Pelosi visited, we've seen one single time, the peak 23 times higher than the previous peak of the distributed denial of service attack, trying to shut down the websites of the Ministry of National Defense or the President's office and so on.
+For example, when the US Speaker Nancy Pelosi visited, we've seen one single time, the peak 23 times higher than the previous peak of the distributed denial of service attack, trying to shut down the websites of the Ministry of National Defense, the President's office and so on.
 
 ### Audrey Tang:
 Although they didn't succeed in revealing any sensitive information or exposing the confidential documents, the height of the attack is quite visible to everyone.
@@ -99,7 +93,7 @@ I would say that we build resilience in order to counter not just the hard cyber
 
 On the counter disinformation part we rely on, well, journalism, but also our citizens practicing journalism.
 
-Fact checking, for example, is a popular pastime for Taiwanese students to do their exercise and so on.
+Fact checking, for example, is a popular pastime [laughs] for Taiwanese students to do their exercise and so on.
 
 So once we are armed with so-called antibodies of the mind, we're less vulnerable to the disinformation attacks.
 
@@ -118,7 +112,7 @@ But given the current tensions with China, these talks are pretty urgent, aren't
 ### Audrey Tang:
 Yeah, we're quite happy with our existing collaboration with vendors currently in mid Earth orbit. And we will, of course, expand that to new vendors to the low Earth orbit.
 
-But I think taken together, this provides a heterogenous, that is to say composed of various different solutions and vendors, a palette for us to continue the conversation, because if you do not have real time video feed in a time of event of disaster, the appetite for information is still there.
+But I think taken together, this provides a heterogenous, that is to say composed of various different solutions and vendors, a palette for us to continue the conversation, because if you do not have real time video feed in a time of event of disaster, the appetite for information is still there. [laughs]
 
 And so disinformation would take the place of real journalistic reports if we do not provide journalism with high speed bandwidth of the internet.
 
@@ -160,7 +154,7 @@ I think all the major parties, including the DPP, the Democratic Progressive Par
 
 When we look at Hong Kong, the so-called "one country two systems" has turned into so called "only patriots can rule Hong Kong." So I think we all reject that.
 
-And our way of life, of course, is a free and democratic one. So in the digital realm, we're happy, for example, that's our domain name, .TW, it's quite independent from .UK, .US and .CN, obviously, so I think people care more about this day-to-day state as a full fledged member — a partner to the democratic community — more than anything else.
+And our way of life, of course, is a free and democratic one. So in the digital realm, we're happy that, for example, our domain name .TW is quite independent from .UK, .US and .CN, obviously, so I think people care more about this day-to-day state as a full fledged member — a partner to the democratic community — more than anything else.
 
 But you are part of a government — I appreciate you are nonpartisan and not a member of the DPP — but President Tsai Ing Wen's comments are quite puzzling.
 
@@ -169,7 +163,7 @@ For example, in 2020, she told the BBC that, "We don't have a need to declare in
 ### Audrey Tang:
 Well, the ROC government officially relocated to Taiwan in the 1940s.
 
-And ever since then, we say ROC Taiwan, with or without the parenthesis, to symbolize that when we talk about the ROC now, it means that the people in this free country have elected the President directly since 1996 and so on.
+And ever since then, we say ROC Taiwan, with or without the parenthesis [laughs], to symbolize that when we talk about the ROC now, it means that the people in this free country have elected the President directly since 1996 and so on.
 
 And so they have become like synonyms, the ROC and Taiwan.
 
@@ -195,7 +189,7 @@ And in the declaration, we're all referred to as partners or as democracies and 
 But can you say you are a country when, as I just said, major countries, the United States, all of the European Union don't recognize Taiwan as a nation state? You don't have a seat at the United Nations.
 
 ### Audrey Tang:
-Yeah, but we do have a top-level Internet domain. So my point here is...
+Yeah, but we do have a top-level Internet domain. So my point here is... [laughs] 
 
 ### Zeinab Badawi:
 So you exist as a country only in the digital space. Is that what you're saying?
@@ -214,10 +208,10 @@ Why is President Tsai here not accepting to talk directly with the Chinese?
 Well, I think in her national day address, President Tsai Ing-Wen said very clearly that as long as there are equitable terms for dialogue, she's happy to have a conversation to keep the Taiwan Strait peaceful and so on.
 
 ### Zeinab Badawi:
-But I mean, she says she will only talk if Beijing drops that precondition that Taiwan is part of China. And so you've got a deadlock. They're not going to do that. President Xi has just reiterated unification must happen, and so you have no dialogue.
+But I mean, she says she will only talk if Beijing drops that precondition that Taiwan is part of China. [laughs] And so you've got a deadlock. They're not going to do that. President Xi has just reiterated unification must happen, and so you have no dialogue.
 
 ### Audrey Tang:
-Maybe a video conference then?
+Maybe a video conference then? [laughs]
 
 ### Zeinab Badawi:
 But, I mean, not even that's taken place. I mean, are you encouraging her to do that?
@@ -230,7 +224,7 @@ What you're asking is essentially the political question, but from my point of v
 We work as the Ministry of Digital Affairs through the Department of Democracy Network, not just with government entities of fellow democracies, but also people who are advocating for democracy and independent journalists and so on, even if they live in authoritarian regimes. And so on these topics, we're happy to have conversations.
 
 ### Zeinab Badawi:
-All right, but it's not just the political question where there is a lack of clarity. Even Taiwan's defense strategy is lacking. Taiwan's former top military official, staff Admiral Lee Hsi-ming, who retired three years ago, says the Taiwanese army is not prepared and that it must think strategically, which he says it isn't doing.
+All right, but it's not just the political question where there is a lack of clarity. Even Taiwan's defense strategy is lacking. Taiwan's former top military official, staff Admiral Lee Hsi-ming, who retired three years ago, says "the Taiwanese army is not prepared and that it must think strategically," which he says it isn't doing.
 
 His criticisms highlight the inertia in the Taiwanese army because it was the armed wing of the KMT, the Chinese Nationalist Party, that ruled under martial law for decades. And so therefore, it's not reinvented itself sufficiently for the modern era.
 
@@ -291,7 +285,7 @@ But now he's saying that the US would get involved militarily if China invaded T
 So what's your interpretation now of US policy towards Taiwan?
 
 ### Audrey Tang:
-It is obviously to deter expansionism by authoritarian regimes by making it clear, as I mentioned, that the cost will be insurmountable if they even consider...
+It is obviously to deter expansionism by authoritarian regimes by making it clear, as I mentioned, that the cost will be insurmountable if they even consider annexation...
 
 ### Zeinab Badawi:
 Do you see a shift in policy? Do you see an abandonment of that strategic ambiguity in favor of a more robust approach?
@@ -347,7 +341,7 @@ America, where we've seen the internet being used in a way that polarizes societ
 ### Audrey Tang:
 Yeah. So our point is that democracy can deliver — if it becomes more democratic, so that everybody can participate.
 
-You mentioned Chiang Kai-shek's relocation of the ROC government to Taiwan in the '40s.
+You mentioned Chiang Kai-shek's relocation [laughs] of the ROC government to Taiwan in the '40s.
 
 At the time, there's very — like, people with very different life experiences suddenly having to coexist together.
 
