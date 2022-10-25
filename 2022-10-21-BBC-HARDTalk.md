@@ -156,6 +156,7 @@ When we look at Hong Kong, the so-called "one country two systems" has turned in
 
 And our way of life, of course, is a free and democratic one. So in the digital realm, we're happy that, for example, our domain name .TW is quite independent from .UK, .US and .CN, obviously, so I think people care more about this day-to-day state as a full fledged member — a partner to the democratic community — more than anything else.
 
+### Zeinab Badawi:
 But you are part of a government — I appreciate you are nonpartisan and not a member of the DPP — but President Tsai Ing Wen's comments are quite puzzling.
 
 For example, in 2020, she told the BBC that, "We don't have a need to declare independence. We are an independent country already, and call ourselves the Republic of China." What does she mean by that?
