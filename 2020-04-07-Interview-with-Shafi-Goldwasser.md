@@ -217,7 +217,7 @@ Hmm, I personally did not have calls with people in Israel. We understand our, f
 That apparently has some constitutional controversies, watching from afar. I did not have any conversations, nor do I know anyone who did have direct conversations with your prime minister.
 
 ### Shafi Goldwasser:
-Very interesting. About all the other things, in a usual day, like federated learning or the venture pharmacy, the work we’re doing with MPC and homomorphic encryption. It’s a big anti-money-laundering type of use or form of encryption, which is very similar to what you need here.
+Very interesting. About all the other things, in a usual day, like federated learning or differential privacy, the work we’re doing with MPC and homomorphic encryption. It’s a big anti-money-laundering type of use or form of encryption, which is very similar to what you need here.
 
 ### Shafi Goldwasser:
 You need to query information and only get back without letting them know what you’re querying, and so forth. I’d be very happy to talk to you in the future.
