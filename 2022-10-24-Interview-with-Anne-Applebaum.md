@@ -58,7 +58,7 @@ Yeah, the excluded parts of the society.
 ### Audrey Tang:
 We're helped by the fact that the PRC regime didn't do very well on this wild innovation thing. They canceled their own narrative on that.
 
-### Audrey Tang:
+### Anne Applebaum:
 You mean because the economy's not doing well?
 
 ### Audrey Tang:
