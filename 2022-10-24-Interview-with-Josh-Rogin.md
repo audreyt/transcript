@@ -168,7 +168,7 @@ These agencies used to have to ask their ministries for approval. Now it's like 
 That example of 5G mobile? Can you talk a little bit more about that?
 
 ### Audrey Tang:
-Sure. Very simply put, we're going to deploy at least 700 satellite receivers, non geostationary orbit satellite guns. Many of them will be connected to the 5G towers. Those 5G towers may be mobile on cars, boats, or whatever.
+Sure. Very simply put, we're going to deploy at least 700 satellite receivers, non geostationary orbit satellite ground stations. Many of them will be connected to the 5G towers. Those 5G towers may be mobile on cars, boats, or whatever.
 
 That's when earthquake, typhoon, or anything happens that disrupts the communication, we can very quickly deploy alternate connectivity that's not submarine cables to these places so that people can still keep the communication open, and even have a live video to the places under impact.
 
