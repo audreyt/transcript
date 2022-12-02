@@ -205,7 +205,7 @@ How do you stay connected with them, with their old ministry? What is the connec
 ### Audrey Tang:
 Horizontal connections. Around the same time, a month before moda became a ministry, the Ministry of Science and Technology changed to a Council. The National Science and Technology Council (NSTC), which covers not just science but also technology, serves as a top-level coordination structure.
 
-I'm a member of the NSTC, but so are the other ministers that I talked about. The at-large minister in charge of digital affairs, is now Minister Tsung-Tsong Wu, head of the NSTC and coordinator of interministerial digital affairs.
+I'm a member of the NSTC, and so are the other ministers that I talked about. The at-large minister in charge of digital affairs, is now Minister Tsung-Tsong Wu, head of the NSTC and coordinator of interministerial digital affairs.
 
 For example, we work with Facebook and Google to hold dialogues with journalism organizations, it's Minister Wu hosting the interministerial collaboration meeting, working with the Ministers of Culture, Communications, and Fair Trade Commission, and so on. In the meeting, he is the convener, and we are the capacity builder.
 
