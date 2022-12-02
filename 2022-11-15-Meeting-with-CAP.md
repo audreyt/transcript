@@ -163,7 +163,7 @@ That's essential because during the pandemic, there is the CECC, the Central Epi
 
 Everyone who participated share this idea of resilience, meaning that in an adversity situation, everybody, including the private sector, the civic sector, all agreed that we need to fix this -- by yesterday.
 
-Now, who among the government can say "go ahead?" Is this legal? Is this secure? Is this privacy-enhancing? Usually, it takes four ministers, and three minister at-large in order to OK every step. During the pandemic, of course there is the CECC commander who basically says, "This must be done."
+Now, who among the government can say "go ahead"? Is this legal? Is this secure? Is this privacy-enhancing? Usually, it takes four ministers, and three minister at-large in order to OK every step. During the pandemic, of course there is the CECC commander who basically says, "This must be done."
 
 We had a really intense experience nationwide, to deploy very large-scale, on the fly situation applications during the past three years.
 
