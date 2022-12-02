@@ -52,7 +52,7 @@ I've been thinking about how I could orchestrate this, all day long.
 ### Audrey Tang:
 As I was saying... Back in 2018 we were maybe at peak trolling, peak disinformation here.
 
-In 2018, there was a referendum and a mayor election on the same day, literally. Disinformatino around these two fed into each other and there was a lot of sponsored social and political advertisement, precision targeting, on Facebook and the like.
+In 2018, there was a referendum and a mayor election on the same day, literally. Disinformation around these two fed into each other and there was a lot of sponsored social and political advertisement, precision targeting, on Facebook and the like.
 
 Right after the election, the civil society got really serious about applying social pressure to Facebook, saying that if you do not provide honest assessment of who reaches where, what, and the foreign money... Because back in 2018, if they paid Facebook, they could bypass fact checking. This entire fact checking ecosystem is for naught if you can simply pay Facebook to bypass fact checking as a service.
 
@@ -101,13 +101,13 @@ We deliberately choose a decentralized network and tie ourselves to that backbon
 > (laughter)
 
 ### Audrey Tang:
-There's a lot of volunteers around the world. IPFS counts more than 200,000 computers. Each one cmay donate a little bit of their spare hard disk to keep our website alive, to improve our resilience.
+There's a lot of volunteers around the world. IPFS counts more than 200,000 computers. Each one may donate a little bit of their spare hard disk to keep our website alive, to improve our resilience.
 
 It's also an offensive because it means that Protocol Labs, as well as people in Argentina, Lithuania, and so on, who otherwise do not have ways to contribute to Taiwanese causes can very easily do so now. They can just pin our website on IPFS and then participate in our defense. It's not unlike the so called IT Army of Ukraine.
 
 That was quite successful. People understood that there's no way to take down our website. From this point onward, other ministries also know that they can find a safe harbor in decentralized communities.
 
-Now, this also doubles as a way to help the journalists and the people who work on human rights within the PRC regime, because they may also use the same system to put tamper proofaccounts of what's actually happening under the Zero COVID in terms of human rights abuses; this is essential for direct action.
+Now, this also doubles as a way to help the journalists and the people who work on human rights within the PRC regime, because they may also use the same system to put tamper proof accounts of what's actually happening under the Zero COVID in terms of human rights abuses; this is essential for direct action.
 
 By asking people to donate their computing power to this tamper proof network, we're also playing offensive because it helps to also keep alive not just our website, but also the accounts of all the human rights abuse that the PRC regime doesn't want its people to see.
 
@@ -205,9 +205,9 @@ How do you stay connected with them, with their old ministry? What is the connec
 ### Audrey Tang:
 Horizontal connections. Around the same time, a month before moda became a ministry, the Ministry of Science and Technology changed to a Council. The National Science and Technology Council (NSTC), which covers not just science but also technology, serves as a top-level coordination structure.
 
-I'm a member of the NSTC, and so are the other ministers that I talked about. The at-large minister in charge of digital affairs, is now Minister Tsung-Tsong Wu, head of the NSTC and coordinator of interministerial digital affairs.
+I'm a member of the NSTC, and so are the other ministers that I talked about. The at-large minister in charge of digital affairs, is now Minister Tsung-Tsong Wu, head of the NSTC and coordinator of inter-ministerial digital affairs.
 
-For example, we work with Facebook and Google to hold dialogues with journalism organizations, it's Minister Wu hosting the interministerial collaboration meeting, working with the Ministers of Culture, Communications, and Fair Trade Commission, and so on. In the meeting, he is the convener, and we are the capacity builder.
+For example, we work with Facebook and Google to hold dialogues with journalism organizations, it's Minister Wu hosting the inter-ministerial collaboration meeting, working with the Ministers of Culture, Communications, and Fair Trade Commission, and so on. In the meeting, he is the convener, and we are the capacity builder.
 
 We are not a regulatory agency by any means, but when other regulatory agencies need, for example, cybersecurity capability, digital transformation capability, we provide that capability.
 
@@ -270,13 +270,13 @@ That's because, first of all, people can see it for themself. When you queue in 
 
 Now, if we don't have this real time open data published way before this interpellation, it would have become a zero sum game. Because we do publish that, the MPs have exactly the same data as we do. So Minister Chen said, "Legislator, teach us. You work with this very capable community. Teach us how to match the supply and demand better." MP Ann Kao did suggest better ways, such as preregistration. Within 24 hours, we started pre-registration and worked with convenience stores so as to be more fair to rural places.
 
-In essence, if we publish nonpersonal data in the flow of work, it not just alleviates the public servants from political fallout or damage. It also turns opposition into co-creation.
+In essence, if we publish non-personal data in the flow of work, it not just alleviates the public servants from political fallout or damage. It also turns opposition into co-creation.
 
 ### Thomas Perez:
 If I could go back to this five million a day...I'm trying to quantify what you feel your success rate is. Is it 100 percent? Is it 80 percent? If you had to quantify your ability to respond defensively, how would you describe your success rate?
 
 ### Audrey Tang:
-My main metric is the time that these architectures buys us to respond. Just like a earthquake warning system, it's not measured by the amount of earthquakes prevented -- because when you have high precision equipment, you actually detect more earthquakes. There's three felt earthquakes per day somewhere in Taiwan.
+My main metric is the time that these architectures buys us to respond. Just like an earthquake warning system, it's not measured by the amount of earthquakes prevented -- because when you have high precision equipment, you actually detect more earthquakes. There's three felt earthquakes per day somewhere in Taiwan.
 
 The other are not felt, but recorded by the machines and the earthquake sensors. They are here because we can then inform our elevators, our escalators, and all the construction machinery during those 20 seconds to not cause damage. When we have better sensors, better machinery, we can increase the time to respond.
 
@@ -355,7 +355,7 @@ We believe in talent circulation. [laughs]
 I don't like that. [laughs]
 
 ### Audrey Tang:
-Our main way ofattracting private sector people, is saying that you're not going to be here forever. Maybe for the next three or four years...
+Our main way of attracting private sector people, is saying that you're not going to be here forever. Maybe for the next three or four years...
 
 ### Liz Schrayer:
 How exciting to be...
@@ -423,7 +423,7 @@ On the other hand, maybe it's OK that we are not at the top of the world when it
 
 Nowadays, we simply say AI is only as useful as it is assistive, augmentative. The AI-in-the-loop responses to the community needs are not straying from the societal norms. By building a norm based order, in which that AI can be deployed with community governance, we can collective reject the authoritarian AI siphoning personal data from our population.
 
-Once we reach this point, we can simply say, it's OK to coexist with the retweet buttonl; our democracy can thrive, and even be resilient. Whereas, around 2012, the PRC regime they want zero hate. They don't want to co-exist with viral tweets. They want to ban the words "civil society," and spending more in their military budget on zero-hate campaigns, just like their lockdowns now.
+Once we reach this point, we can simply say, it's OK to coexist with the retweet button; our democracy can thrive, and even be resilient. Whereas, around 2012, the PRC regime they want zero hate. They don't want to co-exist with viral tweets. They want to ban the words "civil society," and spending more in their military budget on zero-hate campaigns, just like their lockdowns now.
 
 Well, we're now on very different paths. It's no longer just a fork in the road. It's completely opposite direction, at times. We need to make this value based argument very clear to the rest of the world.
 
@@ -435,7 +435,7 @@ Indeed, it enabled a different strain of virus now. TikTok by any other name is 
 
 In the current US federal law, it's still legal for these ecosystem to keep sending profiling information back to the PRC regime. It's a false sense of comfort if you only ban TikTok and not deal with the entire ecosystem. If, on the other hand, we take a more EU-like approach, and say that it's the other way around -- They have to earn it in order to collect any personal information, that's much more likely to work.
 
-That is to say, in situations when overcollection of profiling data would pose a high risk to the society, maybe we by default just don't do that, and evaluate on a case-by-case basis, as we already do in the field of health data, in the US around HIPAA.
+That is to say, in situations when over-collection of profiling data would pose a high risk to the society, maybe we by default just don't do that, and evaluate on a case-by-case basis, as we already do in the field of health data, in the US around HIPAA.
 
 If we treat ordinary people dancing to their phone cameras in a way that's consistent to how we treat financial and medical data, then we are looking at a much more effective regime to harmonize our data protection and cybersecurity laws. TikTok is certainly a symptom, but we need to treat the cause.
 
@@ -482,7 +482,7 @@ If you look at the newspaper and it says a "netizen" said this or that, chances 
 
 To register new accounts, you have to authenticate by sending a SMS to PTT, that's how it did away with the trolls. The moderation and governance system itself is by merit.
 
-What I'm trying to say is thatm, by serving no advertisers or shareholders, it can stay for 25 years. It's like the National Public Radio for civic discourse. I don't think the National Public Radio in the US wants to run Twitter, but that would be the equivalent.
+What I'm trying to say is that, by serving no advertisers or shareholders, it can stay for 25 years. It's like the National Public Radio for civic discourse. I don't think the National Public Radio in the US wants to run Twitter, but that would be the equivalent.
 
 > (laughter)
 
