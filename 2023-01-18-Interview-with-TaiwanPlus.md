@@ -130,7 +130,7 @@ To demonstrate to the world, through Starlink...
 Amazing. There's also been reports that Taiwan's National Institute of Cyber Security obviously that you manage, will invest in Lithuania's cyber security. Can you tell us about this investment?
 
 ### Audrey Tang:
-As a chair of NICS, we have recently in our board meeting discuss our ways to invest with countries that have signed the DFI, the declaration for the future of the Internet along with Taiwan. Along with the US, Ukraine, Lithuania, they're all DFI-signing countries.
+As a chair of NICS, we have recently in our board meeting discuss our ways to invest with countries that have signed the DFI — the Declaration for the Future of the Internet — along with Taiwan, along with the US, Ukraine, Lithuania, they're all DFI-signing countries.
 
 These countries share the same values when it comes to democratic resilience, and some of them are also in the frontline so to speak and have to plan their cyber defense for the worst. To these democracies, we say that first, the NICS when they're doing the research, awareness on cyber resilience, on counter disinformation.
 
@@ -185,7 +185,7 @@ Yes, they're literally in the front line.
 In terms of school, reconstruction, in terms of additional layers, truly the sky is the limit. Now that we have our delegate, my colleague physically in Ukraine, we can open more doors. As I said, we stand together in our common struggle against autocracy.
 
 ### Yin Khvat:
-Minister, Tang, thank you so much for joining Taiwan Talks today.
+Minister Tang, thank you so much for joining Taiwan Talks today.
 
 ### Audrey Tang:
 Thank you.
