@@ -109,7 +109,7 @@ Yeah, the DN. And the reason we chose this name is that we want to network with 
 As I mentioned in my opening keynote in the afternoon yesterday, participation for innovative public good is easier to prove if you show that this is for international solidarity-based security. Because public security, including national defense, is by default public good. It is actually the textbook example of the public good. As long as the military doesn't try to attack other neighboring countries, of course.
 
 ### Audrey Tang:
-Defense-oriented public security is by default a public good. These are great to establish this coordination between the countries who don't otherwise have Track 1 diplomatic ties. I mean, Taiwan and Japan were not very close to Track 1, but still not fully Track 1.
+Defense-oriented public security is by default a public good. DAOs are great to establish this coordination between the countries who don't otherwise have Track 1 diplomatic ties. I mean, Taiwan and Japan are now very close to Track 1, but still not fully Track 1.
 
 ### Audrey Tang:
 So and those are great to establish this coordination between the countries of you don't otherwise have direct one diplomatic ties. I mean, Taiwan and Japan, we're now very close to track one, but still not fully track one. 
