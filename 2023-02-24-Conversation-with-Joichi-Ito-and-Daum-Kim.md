@@ -112,9 +112,6 @@ As I mentioned in my opening keynote in the afternoon yesterday, participation f
 Defense-oriented public security is by default a public good. DAOs are great to establish this coordination between the countries who don't otherwise have Track 1 diplomatic ties. I mean, Taiwan and Japan are now very close to Track 1, but still not fully Track 1.
 
 ### Audrey Tang:
-So and those are great to establish this coordination between the countries of you don't otherwise have direct one diplomatic ties. I mean, Taiwan and Japan, we're now very close to track one, but still not fully track one. 
-
-### Audrey Tang:
 As for Taiwan and other jurisdictions that are still trying to figure out how close to be with Taiwan... I was just in Lithuania. And they can give me e-residency without any doubt. So I'm a Lithuanian e-resident now, which means that I get to sign contracts as a Lithuanian, and therefore part of EU, and therefore part of eIDAS, and therefore part of the European blockchain. And so the idea is that the individualization is up to each individual.
 
 ### Audrey Tang:
