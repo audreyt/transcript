@@ -1,4 +1,4 @@
-# 2023-02-09 Meeting with FIDO CEO
+# 2023-02-09 Meeting with FIDO Alliance
 
 ### Karen Chang:
 This shirt is...
