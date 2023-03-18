@@ -95,9 +95,9 @@ I’ve only been at Google for a year and a bit, but I’m hoping to come back m
 I did want to ask you about the Cybersecurity Management Act, what your ideas and hopes are in that area. In addition to news, what are some things that you would like us to be doing more of? What can we do better? How can we invest more as well in the digital skills in Taiwan? What can we learn from Taiwan to take out to the world? Thank you for having me.
 
 ### Audrey Tang:
-Thank you. I said publicly that for this year, there are three priorities for the MoDA, our ministry. One, of course, is this journalism co prosperity platform thing.
+Thank you. I said publicly that for this year, there are three priorities for the MoDA, our ministry. One, of course, is News Co-prosperity dialogues with digital platforms.
 
-The other equally important is communication resilience so that we will work with non geostationary satellite providers to ensure that when submarine cables are cut, which is not hypothetical, it just got cut, the Matsu line. We had to switch to micro wave. A few years ago, an earthquake also cut submarine cables, so it's something that actually happens.
+The other equally important is communication resilience so that we will work with non geostationary satellite providers to ensure that when submarine cables are cut, which is not hypothetical, it just got cut, the Matsu line. We had to switch to microwave. A few years ago, an earthquake also cut submarine cables, so it's something that actually happens.
 
 ### Michaela Browning:
 That’s right. This is why Google’s investments into sub-sea cables and building that resiliency is so important because this place plays such an important role, not just for Taiwan, but beyond for the Internet. It’s really important.
