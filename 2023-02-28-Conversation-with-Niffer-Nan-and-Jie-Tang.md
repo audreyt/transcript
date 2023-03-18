@@ -497,7 +497,7 @@ Our president's background is in trade negotiations, which is why I always frame
 
 If the legislators think in the metaphors that they can internalize and understand whatever their original background is, then the issues become much easier to solve because they can bring their wisdoms there and tap into their constituents.
 
-Again, we're back to a cultural translation problem, something that OpenAI can help to ensure that you find the right metaverse that actually can survive close scrutiny. That will then enable the legislator to frame this issue in a way that they can understand.
+Again, we're back to a cultural translation problem, something that OpenAI can help to ensure that you find the right metaphors that actually can survive close scrutiny. That will then enable the legislator to frame this issue in a way that they can understand.
 
 ### Niffer Nan:
 Is that what you've seen be successful with your own experience or...?
@@ -564,9 +564,9 @@ It's more tightly bound. I wonder for other countries where there isn't that for
 This seems more challenging.
 
 ### Audrey Tang:
-I think that the Taiwanese situation is particularly interesting because the security demands for the people working on participation in innovation, there's no dispute. When I talk to these people that we need to communicate to the outside world when our submarine cables are cut by earthquakes or fishing vessels, this is not something that we say, "Oh, maybe it's hypothetical."
+I think that the Taiwanese situation is particularly interesting because the security demands for the people working on participation in innovation, there's no dispute.
 
-Maybe the government use this as excuse, because our submarine cables are being cut.
+When I talk to these people that we need to communicate to the outside world when our submarine cables are cut by earthquakes or fishing vessels, this is not something that we say, "Oh, maybe it's hypothetical. Maybe the government use this as excuse," because our submarine cables are being cut.
 
 ### Niffer Nan:
 If there are high security risks, then the requirement for government to be competent is higher.
@@ -586,7 +586,7 @@ Exactly, for us...
 ...COVID, they're used to dealing with threats all the time.
 
 ### Audrey Tang:
-Exactly. It's as you said, quite fortunate for Taiwan to serve as a kind of a lab for this kind of research in augment to collective intelligence. On the other hand though, the products of our experiments are readily reusable. It's not doomed, right? Just as it's cause a lot to do the training for the base model.
+Exactly. It's as you said, quite fortunate for Taiwan to serve as a kind of a lab for this kind of research in augment to collective intelligence. On the other hand though, the products of our experiments are readily reusable. It's not doomed, right? Just as it costs a lot to do the training for the base model.
 
 Once you train the base model, everybody can use the API with some prompt engineering. Again, I think what we need to figure out here a kind of accord, like the Paris Accord, that people can sign up on and that's what the Plurality Institute is trying to do.
 
