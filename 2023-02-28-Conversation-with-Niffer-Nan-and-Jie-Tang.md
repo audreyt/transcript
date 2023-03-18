@@ -610,7 +610,7 @@ Yeah. Exactly.
 
 
 ### Audrey Tang:
-The pandemic or infodemic issues has nothing really similar to the original issues we designed post application to solve in 2015. At the time, it was solving Uber, Airbnb, and so on, which has completely different stakeholder configurations.
+The pandemic or infodemic issues has nothing really similar to the original issues we designed pol.is applications to solve in 2015. At the time, it was solving Uber, Airbnb, and so on, which has completely different stakeholder configurations.
 
 ### Niffer Nan:
 That's right.
@@ -622,7 +622,7 @@ Still, the algorithms and the general norm-shaping idea still carry to this day.
 Just curious, is there anything else that you think we ought have to asked for or talked about or easier to breach in?
 
 ### Audrey Tang:
-Can we, as I mentioned, work in a more working level with openAI in the future when it comes to two things we talked about? One is the low-resource languages and the incorporation of those local norms into a kind of tuning cultural layer thing with openAI. That's very close to our work in the following year. That's one.
+Can we, as I mentioned, work in a more working level with OpenAI in the future when it comes to two things we talked about? One is the low-resource languages and the incorporation of those local norms into a kind of tuning cultural layer thing with OpenAI. That's very close to our work in the following year. That's one.
 
 The other is this translating for the legalese of legislators.
 
