@@ -556,12 +556,12 @@ Socially speaking, it's important to continue this exercise of empowering even m
 > (laughter)
 
 ### Audrey Tang:
-If you're in Nangang, you participate all the time.
+If you're in Nangang, you participate all the time...
 
 > (laughter)
 
 ### Audrey Tang:
-If you're in Tainan, maybe not as much. To extend from this very Nangang based movement, [laughs] we need to think about, as I mentioned, the solidarities with low resource languages all around the world, their cultures all around the world, which is why a lot of our work is just to present a gist of what happened in g0v in accessible English.
+If you're in Tainan, maybe not as much. To extend from this Nangang-based movement, [laughs] we need to think about, as I mentioned, the solidarities with low resource languages all around the world, their cultures all around the world, which is why a lot of our work is just to present a gist of what happened in g0v in accessible English.
 
 Which, of course, has its drawbacks, because the readers without this full immersion in Taiwanese cultures, sometimes see it as a fairytale. We cannot replicate here, it's too confrontational here.
 
