@@ -616,13 +616,13 @@ This is in stark contrast with the US, which has signed a pact or something, wit
 
 When new technologies come that could actually simplify the process, there is no easy way for the state to simply say, "Oh, now the civic society can take care more of these things."
 
-The private sector should adhere to the new norms, as we've just shown by the MOE Tech thing, which is, essentially, the Minister of Education telling the private sectors, "Now, you'll listen to whatever your people have said." A similar dynamic's much harder to occur in the US.
+The private sector should adhere to the new norms, as we've just shown by the MoeDict thing, which is, essentially, the Minister of Education telling the private sectors, "Now, you'll listen to whatever our people have said." A similar dynamic's much harder to occur in the US.
 
 As a result of that, there is a gap between people who know a lot about technologies, especially advanced, transformative technologies, like AI, and so on, and the people who care deeply about empowering marginalized groups, LGBTQ, and many other communities. These people, who are natural allies, don't see themselves as such.
 
 Whereas, in Taiwan, we can easily point at the MOE dictionary, the text filing system, and things like that, and say it's natural for these people to work together. Technology, of course, should impart democracy. That sentence, that utterance, much harder to make in the US.
 
-In the US, people think about decontextualized anti social social media that builds addiction and polarization. People think about controlling authoritarian use of surveillance, capitalism, and so on. Then, the big tech, it doesn't carry the same notion in Taiwan. They can't co-prosper with the marginalized communities, especially not in the last few years.
+In the US, think about decontextualized anti-social social media that builds addiction and polarization. Think about controlling authoritarian use in surveillance capitalism, and so on. Then the big tech, it doesn't carry the same notion in Taiwan. They can't co-prosper with the marginalized communities, especially not in the last few years.
 
 ### Cynthia Wang:
 Very interesting. Do you have any other questions?
