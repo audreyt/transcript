@@ -15,7 +15,7 @@ I've reviewed the questions, but feel free to ask unstructured questions. Feel f
 He's my host, so I've learned a lot.
 
 ### Tyng-Ruey Chuang:
-The reason why we are is that she will do research with Academia Sinica until end of June. I'm her host, arrange things.
+The reason why we are here is that she will do research with Academia Sinica until end of June. I'm her host, arrange things.
  
 ### Audrey Tang:
 I, literally, was incubated by the Information Institute of our national academy...
@@ -283,7 +283,7 @@ It's just to build solidarity so that people in other areas can learn from the M
 
 By building solidarities, again, the National Academy was the AirBox initiative and many other initiatives. We don't have to keep fighting the dictionary, because it's already done.
 
-Then we're setting up, writing up our example. It was written in [_TAHR-PAS_](https://www.tahr.org.tw/publication/1369), Quarterly of the Taiwan Association of Human Rights 台灣人權促進會季刊, how we did this MoeDict negotiation, and then many people took that to other open data movements.
+Then we're setting up, writing up our example. It was written in [TAHR-PAS](https://www.tahr.org.tw/publication/1369), Quarterly of the Taiwan Association of Human Rights 台灣人權促進會季刊, how we did this MoeDict negotiation, and then many people took that to other open data movements.
 
 ### Cynthia Wang:
 It has been spreading this way.
