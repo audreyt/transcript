@@ -195,7 +195,7 @@ For those basic rules,  they instructed them with a series of cultural sensitive
 > (laughter)
 
 ### Audrey Tang:
-So, right, the point I’m making is that it needs to be instructed and tunable, every layer, and the way we naturally do that is by collecting conversations and expectations of those conversations, so-called alignment assemblies and so on, mine need to be bootstrapped on that, so this is actually a wider-range project that would also have value for the journalists as well and the many communication experts.
+So, right, the point I’m making is that it needs to be instructed and tunable, every layer, and the way we naturally do that is by collecting conversations and expectations of those conversations, so-called alignment assemblies and so on, might need to be bootstrapped on that, so this is actually a wider-range project that would also have value for the journalists as well and the many communication experts.
 
 ### Guy Diedrich:
 I'm going to stop now because all I'm doing is thinking of projects.
