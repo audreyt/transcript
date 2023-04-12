@@ -171,7 +171,7 @@ Also, I’ve got this local model, LLaMa 65B, running on this MacBook Pro with 9
 Really?
 
 ### Audrey Tang:
-Yes, you just tell it what to write, and it’s like disposable, like these things, right? [picks up business card] The Industrial Revolution made this disposable in the sense that you can mass manufacture it according to your need, and the same goes for Python coding now, and specifically Python, because [Salesforce CodeGen](https://github.com/salesforce/CodeGen) trains on Python.
+Yes, you just tell it what to write, and it’s like disposable, like these things, right? picks up business card The Industrial Revolution made this disposable in the sense that you can mass manufacture it according to your need, and the same goes for Python coding now, and specifically Python, because [Salesforce CodeGen](https://github.com/salesforce/CodeGen) trains on Python.
 
 With GPT and similar language models, we’re looking for ways for people not very fluent with English and not very fluent with specific subset of Mandarin that the coders in Taiwan use in their comments, if they speak Taigi or sign language and so on, they can also join this cognitive revolution, without getting left behind. This is one of our priorities this year.
 
