@@ -17,19 +17,19 @@ We are considering to what extent decisions regarding AI policy could be resolve
 And I just would like to understand to what extent the systems work, where they fail and what would be your recommendations. 
 
 ### Audrey Tang:
-Excellent. To your question, I'll just say that the dream scenario I read from Sam Altman about global deliberation need to be done in a kind of consuming level fashion. 
+Excellent. To your question, I'll just say that the dream scenario I read from Sam Altman about global deliberation need to be done in a fashion with multiple zooming levels. 
 
-There are broadly speaking three methodologies that needs to be concurrently at play. One is online and offline deliberative assemblies, bringing together randomly selected samples of larger population. So this is statistical representativeness. The strengths of this are that you get a high-quality consensus that is provably scale-free. Like if you invite 1000 people, 10,000 people, they tend to agree on the same thing or 100,000 people. So it's a kind of time-saving measure to do a sortation. This is one. And the second, but actually if you only select 10,000 people from the whole global population, most people wasn't invited. 
+There are broadly speaking three methodologies that needs to be concurrently at play. One is online and offline deliberative assemblies, bringing together randomly selected samples of larger population. So this is statistical representativeness. The strengths of this are that you get a high-quality consensus that is provably scale-free. Like if you invite 1000 people, 10,000 people, they tend to agree on the same thing or 100,000 people. So it's a kind of time-saving measure to do a sortition. This is one. And the second, but actually if you only select 10,000 people from the whole global population, most people wasn't invited. 
 
 And so, for these people, for most of the people, there need to be additional offline venues for participation at all levels to gather and disseminate knowledge that would benefit deliberations of those randomly selected assembly. So this is the second one. And the third one is, well, more direct democracy. 
 
 It's just online platforms like Polis for direct input from millions to identify and measure the consensus and dissent on various issues. And this is where AI can enter play in a most constructive fashion because you already have a very good language model that can identify the bridging narratives that translates across cultures and so on.
 
-And so you don't need to reinvent the wheel on any of these three levels because there exist existing institutions to run these things already. On the first one, the sortation one, there were almost 600 cases documented by OECD. 
+And so you don't need to reinvent the wheel on any of these three levels because there exist existing institutions to run these things already. On the first one, the sortition one, there were almost 600 cases documented by OECD. 
 
 And the second component, more regional. For example, I'm more familiar with participatory budgeting, which came from Brazil, but there's also the Swiss Landsgemeinde, the New England town meetings, the Indian Gram Sabhas, there are many possible formats. And so for these, we will probably just use whatever those local formats are instead of forcing the local people to learn another format. 
 
-And finally, the purely online component. I understand that Polis has been working with GPT-2 since GPT-2 and GPT-3 and many other language models. And so, they can aggregate public opinions on hundreds of polarizing issues, using language models to kind of find a bridge in narratives. In Taiwan, we use Polis very regularly. The vTaiwan process alone passed half a dozen laws and regulations, including Uber and so on. And we have a plan to use Polis for what we call alignment assemblies later this year, June and July. June for the online component and July for the face-to-face component. 
+And finally, the purely online component. I understand that Polis has been working with GPT-2 since GPT-2 and GPT-3 and many other language models. And so, they can aggregate public opinions on hundreds of polarizing issues, using language models to kind of find a bridge in narratives. In Taiwan, we use Polis very regularly. The vTaiwan process alone passed half a dozen laws, and regulations including Uber and so on. And we have a plan to use Polis for what we call alignment assemblies later this year, June and July. June for the online component and July for the face-to-face component. 
 
 So, I'll just stop here and say that combining the regional to global assembly and online agenda setting to regional, these two bridges can be done in parallel and in tandem. And what this does is that it can build a quick consensus on the boundaries of AI and the localized assemblies will be able to fit into the specific policies for a particular political and regulatory context. I hope I'm making some sense because I literally just woke up. And feel free to ask any questions. 
 
@@ -331,7 +331,7 @@ One more thing that would be useful. Would you be able to kind of enumerate the 
 ### Audrey Tang:
 Well, this process always works. It's just to what degree does the consensus built by this process is seen as legitimate by the stakeholders? This is another problem altogether. If you bring people into a Polis conversation, provided that they don't, I don't know, hack, compromise, they're like, it always produced some sort of consensus. 
 
-But the people who boycott this conversation may try to delegitimize the whole effort of going through a Polis conversation or a sortation or a referendum and so on. And how to bring these people into the conversation with a good enough promise, pre-commitment, accountability, like no matter how radical your ideas are, if they make it to the top 10 or top 20, we hold ourselves accountable to answer to them one by one. But if you then proceed to actually not answer them, then it creates a legitimacy crisis. It will feel like you're just running a survey for show and so on. 
+But the people who boycott this conversation may try to delegitimize the whole effort of going through a Polis conversation or a sortition or a referendum and so on. And how to bring these people into the conversation with a good enough promise, pre-commitment, accountability, like no matter how radical your ideas are, if they make it to the top 10 or top 20, we hold ourselves accountable to answer to them one by one. But if you then proceed to actually not answer them, then it creates a legitimacy crisis. It will feel like you're just running a survey for show and so on. 
 
 And that would delegitimize the whole result. So the quality of pre-commitment, even just time, right? When I was a minister at large for social innovation, I would just say, I pre-commit four hours of my time or seven hours of my time to come to the vicinity of the people's main concerns are. So, if we have a municipal conversation, a controversial issue that is mostly on Southern Taiwan, or even on one of our remote islands, I commit to fly there to spend a day or two days with the local people to understand what those statements actually mean. 
 
@@ -364,7 +364,7 @@ I understand everything.
 Arka, do you have further questions?  
 
 ### Arka Dhar:
-I was going to say, this is incredibly interesting, and I'm sure we will have a ton of questions as we start experimenting. I have one final, very broad question for you. I'm sure you went through a lot of experimentation as you're figuring out the different blocks of information gathering, sharing, surfacing inside, running sortation.
+I was going to say, this is incredibly interesting, and I'm sure we will have a ton of questions as we start experimenting. I have one final, very broad question for you. I'm sure you went through a lot of experimentation as you're figuring out the different blocks of information gathering, sharing, surfacing inside, running sortition.
 
 Which one was the toughest one for you to crack, and which one do you think is still in your mind can be significantly improved, if you were to pick one part of this process?  
 
