@@ -375,7 +375,7 @@ The g0v, vTaiwan, the participation officers, the public digital innovation spac
 
 That was not the case 10 years ago. And so most of the work was political, was trying to... Because initially, the largest parties, the DPP and KMT, they have this dynamic, like if one party choose a method, the other party would choose a different method, just to show that we're not captured by these parties. 
 
-So, the initial credibly neutral people is not enough to overcome this psychology. We actually need to institutionalize it. So we worked very hard to pass as national regulation the participatory officer in each and every ministry. We built alliance with the Korea Public Service. 
+So, the initial credibly neutral people is not enough to overcome this psychology. We actually need to institutionalize it. So we worked very hard to pass as national regulation the participatory officer in each and every ministry. We built alliance with the career public servants.
 
 So in your case, that would be people in NIST and equivalent organizations worldwide. So that the technocrats, which are not partisan, they're there regardless of who's the president, see this kind of legitimacy process as de-risking their own involvement in this so that they will not be flip-flopped once different stakeholders take charge of the government. So that took us the better half of the decade. 
 
