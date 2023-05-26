@@ -205,7 +205,7 @@ Yeah. We made it quite clear because we founded last August which is close to an
 
 > (laughter)
 
-That is to say we're non-partisan in our nature and we're not interested in meddling with the election at all. We're just interested in countering fuming and not helping any party win. And I made a point of attending none of the rallies. I never attended any party rallies anyway. I don't belong to any political party.
+That is to say we're non-partisan in our nature and we're not interested in meddling with the election at all. We're just interested in countering FIMI and not in helping any party win. And I made a point of attending none of the rallies. I never attended any party rallies anyway. I don't belong to any political party.
 
 So, this time around I think because we're in the transportation committee in the LY.
 
