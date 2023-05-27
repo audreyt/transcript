@@ -131,7 +131,7 @@ And so, if there is an escalation in the traditional military sense, we expect t
 Is there interoperability? Are you looking at interoperability also between the civilian and military channels? Sort of networks on that so there is a channel by which…
 
 ### Audrey Tang:
-Yeah of course, and also a shared posture. The posture is zero trust architecture. Everyone in the private sector is facing state-sponsored attacks. It's not like those state-sponsored attacks will see you're a dot com, so will not attack you because of, I don't know, Italian rules of engagement or whatever. They don't care.
+Yeah of course, and also a shared posture. The posture is zero trust architecture. Everyone in the private sector is facing state-sponsored attacks. It's not like those state-sponsored attacks will see you're a dot com, so will not attack you because of, I don't know, the Tallinn Manual's rules of engagement or whatever. They don't care.
 
 So, whether you're TSMC or whether you're the administration, you're subject to the same coordinated attack. And that means that the industrial standards, such as the SEMI E187, by the semiconductor supply chain, they suffer actually from the same degree of attack or even more because of industrial espionage and other needs of those state-sponsored attackers. So again, they adopt the same posture as the CMMC requirement of zero trust architecture. So, we're converging to zero trust architecture as a shared way for the defense-oriented certifications and the civilian certifications and the private sector certifications so that the same techniques, the same tools, the same talent training and so on can interoperate and flow more easily between the different systems.
 
@@ -209,7 +209,7 @@ That is to say we're non-partisan in our nature and we're not interested in medd
 
 So, this time around I think because we're in the transportation committee in the LY.
 
-Last year, every time they interpolated NCC they invited me in because they think somehow I'm part of that. But this session not anymore, so we're not confused with the NCC.
+Last year, every time they interpellated NCC they invited me in because they think somehow I'm part of that. But this session not anymore, so we're not confused with the NCC.
 
 ### Russell Hsiao:
 Right. It was sort of a matter of understanding whether or not there's legislative authorities for the particular agency that you are in charge of, you know, and whether or not those authorities are competitive authorities. 
@@ -272,7 +272,7 @@ It's pretty easy now.
 It's pretty easy now? There aren't any restrictions given Taiwan's status?
 
 ### Audrey Tang:
-It almost changed overnight with the Ukraine situation. It used to be that we had to sort… I was once in an open government partnership meeting before the Ukraine situation and I was representing Taiwan as a civil society organization, the Taiwan CSO. And there are many contorted like TPKM stuff, jurisdictions, separate custom territory, country's clash area, you name it. But now, after the Ukrainian situation, it's very easy. We're just democracies in the democracy summit. We're just partners in the declaration for the future of the internet.
+It almost changed overnight with the Ukraine situation. It used to be that we had to sort… I was once in an open government partnership meeting before the Ukraine situation and I was representing Taiwan as a civil society organization, Taiwan as a CSO. And there are many contortions like the TPKM jurisdictions, separate custom territory, "country/area", you name it. But now, after the Ukrainian situation, it's very easy. We're just democracies in the Summit for Democracy. We're just partners in the Declaration for the Future of the Internet.
 
 So, by participating as partners or democracies, we are full members but we don't need to do this whole country/area/jurisdiction/regime dance. And this is quite fresh to me. And so far, we don't have any problem directly pinging my counterparts under this state are part of this multistakeholder system of democratic partners.
 
