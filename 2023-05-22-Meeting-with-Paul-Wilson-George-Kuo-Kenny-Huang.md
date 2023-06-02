@@ -107,8 +107,7 @@ So, we've always had that internet development mission as part of what we do, an
 
 So, APNIC is fully member-funded, and the members generously provided support for those activities. But then, you know, the demand didn't get less, so we decided that in order to keep expanding, we'd form this foundation.
 
-Then it was a couple of years after that, a couple of years ago, that another opportunity came along, and that's called the Asia Pacific Internet Development Trust. This is a joint project, with WIDE project, with Jun Murai in Japan,
-and it's got a large endowment which is invested for a continual return, which is also providing some millions of dollars per year for more of the internet development work that either APNIC does or it's done by the foundation or by a wide project.
+Then it was a couple of years after that, a couple of years ago, that another opportunity came along, and that's called the Asia Pacific Internet Development Trust. This is a joint project, with WIDE project, with Jun Murai in Japan, and it's got a large endowment which is invested for a continual return, which is also providing some millions of dollars per year for more of the internet development work that either APNIC does or it's done by the foundation or by a wide project.
 
 Also, there is an infrastructure company that has several hundred gig fiber circuits centred on Guam, Guam to Singapore to Tokyo to Indonesia, Philippines, and that's an academic network backbone to provide additional redundancy and capacity for the networking for academic and research networking around the region.
 
@@ -134,7 +133,7 @@ So, we've got a long-term vision.
 Oh, wow. Okay.
 
 ### Paul Wilson:
-I think the need for internet development and particularly internet the proper support for internet governance and so forth, it's not going away, right? We don't think so.
+I think the need for internet development and particularly internet — the proper support for internet governance and so forth, it's not going away, right? We don't think so.
 
 ### Audrey Tang:
 So, in Taiwan in the past couple of years, we've also been blessed by the continued earthquakes, let's just call that.
@@ -262,7 +261,7 @@ And it also has the potential to help democracy instead of just creating bomb sc
 Are there language models in Chinese? Chinese language? Are they being developed at the same scale?
 
 ### Audrey Tang:
-Yes, our National Science and Technology Commission, I think next month, will be rolling out the TAIDE, the Trustworthy AI Dialogue Engine. And it's basically building off this what they call big science work across jurisdictions. I think France started with Bloom, and nowadays there's also the Facebook LLaMA models that has open-source replications like RedPajama and so on. So yeah, we're building off those open-source models.
+Yes, our National Science and Technology Commission, within this year, will be rolling out the TAIDE, the Trustworthy AI Dialogue Engine. And it's basically building off the BigScience work across jurisdictions. I think France started with Bloom, and nowadays there's also the Facebook LLaMA models that has open-source replications like RedPajama and so on. So yeah, we're building off those open-source models.
 
 ### Paul Wilson:
 Are they multilingual?
@@ -369,7 +368,7 @@ If you'd ever like to support any fellows to come along to APNIC meetings, we al
 So, if you ever have any spare capacity that you'd like to allocate, it could be for Taiwanese fellows or it could be for fellows from other parts that you'd like to support, we could also accommodate that.
 
 ### Audrey Tang:
-Or any non-Taiwanese fellows can become Taiwanese fellows if we just hand them a gold card of three years residency...
+Or any non-Taiwanese fellows can become also-Taiwanese fellows if we just hand them a gold card of three years residency...
 
 ### Kenny Huang:
 And we can also partially match that kind of fellowship. If anyone is sponsored by, endorsed by TWNIC, by Taiwan, I think that could be arranged.
