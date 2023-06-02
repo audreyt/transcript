@@ -221,7 +221,7 @@ Doubtless with language models, it will become more AI-powered in the future —
 
 We've seen many jurisdictions facing this kind of DDoS of the mind, to resort to clamp down their internet, right? Geofencing, for example.
 
-But that, as I understand, goes against the grain of the One Internet idea where we would much prefer to have multi-stakeholder solutions to these kinds of things like with spam blocking, it's not blocking entire continents, right? It's against specific actors and behaviors, through digital signatures like DNSSEC, in multiple layers to make sure that people cannot falsely sign as somebody else .
+But that, as I understand, goes against the grain of the One Internet idea where we would much prefer to have multi-stakeholder solutions to these kinds of things like with spam blocking, it's not blocking entire continents, right? It's against specific actors and behaviors, through digital signatures like DNSSEC, in multiple layers to make sure that people cannot falsely sign as somebody else.
 
 So, without such technical training, many jurisdictions might resort to a more balkanizing reaction.
 
