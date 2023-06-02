@@ -108,18 +108,13 @@ So, we've always had that internet development mission as part of what we do, an
 So, APNIC is fully member-funded, and the members generously provided support for those activities. But then, you know, the demand didn't get less, so we decided that in order to keep expanding, we'd form this foundation.
 
 Then it was a couple of years after that, a couple of years ago, that another opportunity came along, and that's called the Asia Pacific Internet Development Trust. This is a joint project, with WIDE project, with Jun Murai in Japan,
-
-and it's got a large endowment which is invested for a continual return, which is also providing some millions of dollars per year for more of the internet development work
-
-that either APNIC does or it's done by the foundation or by a wide project.
+and it's got a large endowment which is invested for a continual return, which is also providing some millions of dollars per year for more of the internet development work that either APNIC does or it's done by the foundation or by a wide project.
 
 Also, there is an infrastructure company that has several hundred gig fiber circuits centred on Guam, Guam to Singapore to Tokyo to Indonesia, Philippines, and that's an academic network backbone to provide additional redundancy and capacity for the networking for academic and research networking around the region.
 
 So that, plus more work on small grants: the foundation runs a small grant program with about 2 million dollars a year, and training activities and other development activities. There's a very interesting one called Switch, which is a program for diversity in engineering, particularly women, young people, different gender identities and so on.
 
-Across that whole spectrum, Switch has provided support for dozens of individuals
-
-who are receiving professional development, both in relation to the internet and in general as well. So yeah, we're pretty busy.
+Across that whole spectrum, Switch has provided support for dozens of individuals who are receiving professional development, both in relation to the internet and in general as well. So yeah, we're pretty busy.
 
 ### Audrey Tang:
 Oh, wow. This is much wider in scope than I previously remembered.
@@ -139,11 +134,7 @@ So, we've got a long-term vision.
 Oh, wow. Okay.
 
 ### Paul Wilson:
-I think the need for internet development and particularly internet—
-
-the proper support for internet governance and so forth, it's not going away, right?
-
-We don't think so.
+I think the need for internet development and particularly internet the proper support for internet governance and so forth, it's not going away, right? We don't think so.
 
 ### Audrey Tang:
 So, in Taiwan in the past couple of years, we've also been blessed by the continued earthquakes, let's just call that.
