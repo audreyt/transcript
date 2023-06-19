@@ -38,7 +38,7 @@ I think first and foremost, it enables what I call assistive intelligence, the p
 
 For example, on Twitter, I posted a picture as I was traveling here, in airplane mode on this MacBook, running a language model — without an internet connection — that is trained on my public speeches and my emails. It can draft emails entirely in my style. 
 
-So this kind of hyper personalized assistants, trained and used by not just individuals, but also communities, I think that's going to make it very effective for people to empower the people closest to the pain and convey their viewpoints, to make more effective communication.
+So this kind of hyper personalized assistants, trained and used by not just individuals, but also communities, I think that's going to make it very effective for people to empower the people closest to the pain and convey their viewpoints, to effect more effective communication.
 
 ### Interviewer:
 
@@ -46,7 +46,7 @@ That's fascinating. You're a minister. You're also very techie, as our listeners
 
 ### Audrey Tang:
 
-But that assistive intelligence is entirely trained by me on my MacBook, not on somebody else's computer. It's using my personal data, granted, but it's not transferred elsewhere.
+That assistive intelligence is entirely trained by me on my MacBook, not on somebody else's computer. It's using my personal data, granted, but it's not transferred elsewhere.
 
 So what I mean is just like personal computers, the devices are an extension of our daily lives, not something that people push from a monoculture to me.
 
@@ -54,7 +54,7 @@ I often liken it to assistive technology such as eyeglasses — I wear this to e
 
 ### Interviewer:
 
-What are the dangers of artificial intelligence? On the email point, you're a minister, and your AI system surely could go haywire and could give out a directive which your staff would follow, but which you may not actually want, from the AI system?
+What are the dangers of artificial intelligence? On the email point, you're a minister, and your AI system surely could go haywire and could give out a directive which your staff would follow, but which you may not actually want your AI system to issue?
 
 ### Audrey Tang:
 
@@ -62,7 +62,7 @@ Exactly, exactly. So it's AI — the assistant — in the loop. It's not the one
 
 ### Interviewer:
 
-Right, so you're reading it before it goes out.
+Do you read it before it goes out?
 
 ### Audrey Tang:
 
