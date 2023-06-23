@@ -284,9 +284,9 @@ That's very interesting. Commitment to continuous integration.
 > (laughter)
 
 ### Phini Yang:
-So, one of my questions is, I think for Ethereum Foundation, we don’t really have experience to work with the government, especially before this meeting, we discussed about how the Taiwanese government is in a different special position. 
+So, one of my questions is, I don’t really have experience working with the government, especially before this meeting, we discussed about how the Taiwanese government is in a different special position.
 
-So, I guess my question would be, I wanted to know, your point of view, like how Ethereum Foundation can work with the government or to help the government with the tool we have or the infrastructure we have. What do you think?
+So, I guess my question would be, I wanted to know, your point of view, like how would you recommend people work with or help the government use tools or infrastructure like blockchain? What do you think?
 
 ### Audrey Tang:
 So, from the government's point of view, you're a not-for-profit. For all the not-for-profits, we would ask, what are the public goods that you serve? And usually, the kind of public good that you serve determines the kind of primary ministerial contact that you have. 
