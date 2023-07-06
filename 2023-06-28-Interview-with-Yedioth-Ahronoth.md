@@ -52,7 +52,7 @@ I think we can do it normal flow.
 Perfect.
 
 ### Audrey Tang:
-I mean, there are questions that my staff says I should minimize my answers, like commenting to your PM or MP.
+I mean, there are questions that my staff says I should minimize my answers, like commenting to your PM or MPs.
 
 > (laughter)
 
@@ -71,7 +71,7 @@ Yeah, we're not interfering with domestic politics.
 We only share our experience in Taiwan.
 
 ### Audrey Tang:
-Yes. We'll just talk about… And in our experience in Taiwan, really, there's nothing off limits, I will share everything. But I don't yet understand your politics well enough to comment on your MP or PMs.
+Yes. We'll just talk about… And in our experience in Taiwan, really, there's nothing off limits, I will share everything. But I don't yet understand your politics well enough to comment on your PM or MPs.
 
 ### Interviewer:
 OK. One of the things I understood because it's connected to what you say now, it's about the fake news, the time that you do the response. It's so quickly, like two hours maximum.
@@ -211,7 +211,7 @@ Yes, it's been used in other countries as well. But I think Taiwan is the first 
 National.
 
 ### Audrey Tang:
-It's used for town halls in Bowling Green in Kentucky, Kentucky. In many places, if you check POLIS website, you will see. But mostly, they are for municipalities or districts and so on. And we take those small-scale technology and make it national, so that everybody can chime in.
+It's used for town halls in Bowling Green in Kentucky. In many places, if you check Pol.is website, you will see. But mostly, they are for municipalities or districts and so on. And we take those small-scale technology and make it national, so that everybody can chime in.
 
 And very quickly, we saw on the Uber conversation, that everybody actually agreed on most of the points. There's just one that people don't agree. Whether to call it sharing economy, or geek or extractive economy, that's different ideologies. But actually, everybody agrees there should be insurance, there should be registration, they should undercut existing meters, but surge pricing is fine and so on.
 
