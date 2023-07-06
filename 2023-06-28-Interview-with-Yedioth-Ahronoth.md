@@ -366,7 +366,7 @@ I will make a mistake if I look it up. You are spelling it out, also the mother.
 I see.
 
 ### Interviewer:
-In Israel and also in Europe. Noah Klieger is his name. He's not with us anymore. He died four years ago; he was 93. He's very, very nice. I spoke with Anna about the story about the Holocaust and that's one of the questions that I want to ask on this article that we made with you. 
+In Israel and also in Europe. Noah Klieger is his name. He's not with us anymore. He died four years ago; he was 93. He's very, very nice. I spoke with Abby about the story about the Holocaust and that's one of the questions that I want to ask on this article that we made with you. 
 
 Holocaust for Jewish, for Israel, it's one of the most important historic sites. It's one of our, you know, during our life, we together made stories with the survivors every year on Holocaust Day. It's going to be, you know, it's finished. They are old, they are going to disappear. And the witnesses, the witnesses that went through the Holocaust, they are going to, how can I say it, they have died almost.
 
@@ -374,7 +374,7 @@ Holocaust for Jewish, for Israel, it's one of the most important historic sites.
 They are walking out.
 
 ### Interviewer:
-And books of history and Iran for the other side that ignored that there was, they were not Holocaust. I spoke a little bit with Anna about Taiwan attitude and I was so happy to hear that in school, there is in history lessons, in books, there is a part that spoke about Holocaust, about the murder of six million Jewish…
+And books of history and Iran for the other side that ignored that there was, they were not Holocaust. I spoke a little bit with Abby about Taiwan attitude and I was so happy to hear that in school, there is in history lessons, in books, there is a part that spoke about Holocaust, about the murder of six million Jewish…
 
 ### Audrey Tang:
 Definitely.
@@ -529,7 +529,7 @@ Because of our perfect ambassador. I said that on record.
 > (laughter)
 
 ### Interviewer:
-We need also a picture with Anna, by the way, I forgot to tell you… We have also, it's okay, we have a picture.
+We need also a picture with Abby, by the way, I forgot to tell you… We have also, it's okay, we have a picture.
 
 ### Audrey Tang:
 Suddenly it's about you. Would you like to be part of it?
