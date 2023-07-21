@@ -41,9 +41,6 @@ Hello, my name is Fan Jiang Zhong Cen. 今天主要是來了解 GCP 上跟 AI �
 ### Audrey Tang:
 Okay.
 
-### Wendy Hsueh:
-Hi everyone, I’m Wendy from the Minister's office. Today we are recording and afterwards, we will publish it on the moda website. Thank you.
-
 ### Audrey Tang:
 Okay. Great. So, it's…
 
@@ -149,7 +146,7 @@ So, we’re talking about this hybrid Ccoud configuration where each government 
 ### 柯維然:
 其中有一個不一樣的是，這一塊政府雲的區域，一樣 Google 是有一部分幫我們維運持續的能力，這塊維運還是有 SSL 的品質，只是管理的權限可能是我們有一部分掌握的能力在裡面，這個是過去放在自己家裡，維運不善的話，還是有一些風險在，政府雲的肉還是會受到 Google 一定水準的保護跟維運能力，把不想要放在他家的資料，暫時放在這邊來做機敏的管控。
 
-#### Audrey Tang:
+### Audrey Tang:
 這個是誰的需求，我們是要滿足誰的需求？
 
 
