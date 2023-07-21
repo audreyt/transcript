@@ -1,0 +1,606 @@
+# 2023-07-04 Conversation with Google Cloud
+
+### Stella Lai:
+Thank you so much, Minister, for your time, and everyone for your time to meet with us today. And so, before we start, I, first of all, would like to congratulate for your very successful panel discussion at the AI Summit in the London Tech Week. It was very impressive.
+
+### Audrey Tang:
+Thank you.
+
+### Stella Lai:
+And also, congratulating on the positive exposure generated from your European trip. Before we start, I would like to introduce the participants on Google's side to ensure that everyone knows who is who.
+
+So, we have Karan Bajwa, the Vice President of Google Cloud, APAC. And Kathy Lee is our Managing Director. And Tony Lee is the Public Sector Lead for Google Cloud Taiwan. I'm Stella Lai, Head of Government Affairs and Public Policy for Google Cloud Taiwan. And Harry Lin is the Head of Customer Solutions Architect for Google Cloud Taiwan. And Sue Ann is our Chief of Staff for Karan's org. And we also have Nick Chen and Isaac Tsai, they are both in charge of our moda account. And I know that they service our moda very well.
+
+### Audrey Tang:
+Yes. So, and welcome. Perhaps a very quick round of self-introduction from our side?
+
+### 王誠明:
+Okay, my name is Ken Wong, and I work for the Digital Service of Government. And actually, we are planning a mid-term program across ministries. Now, for resilience, we are extending to Google Cloud and other programs.
+
+### 陳俊傑:
+I am Scott Chen.
+
+### 王誠明:
+He is my colleague.
+
+### Audrey Tang:
+In the Department of Digital Service.
+
+### 柯維然:
+I'm Wei Jan, and I know that everyone in moda uses a lot of Google Cloud.
+
+### 周智禾:
+I'm Chih-Ho Chou. I'm the Deputy Director of Department of Information Management of moda.
+
+### 葉世湛:
+Hello, my name is James Ye. I work for Department of Information Management. He is my boss.
+
+### 范姜中岑:
+Hello, my name is Fan Jiang Zhong Cen. 今天主要是來了解 GCP 上跟 AI 相關的東西。
+
+### Audrey Tang:
+Okay.
+
+### Wendy Hsueh:
+Hi everyone, I’m Wendy from the Minister's office. Today we are recording and afterwards, we will publish it on the moda website. Thank you.
+
+### Audrey Tang:
+Okay. Great. So, it's…
+
+### Stella Lai:
+So, um, today we have two topics to discuss with you. One is about Google in the Gov Cloud, so our team has discussed with them for a while on the Gov Cloud and that we are aware of the local resiliency policy very well. So, we would like to discuss more on this regard.
+
+And the second is about AI, especially on the generative AI and how we can explore the collaboration with moda from different angles, from the innovation opportunities that we see that the generative AI can bring to Taiwan government and the society. And also, we will touch base on the security front. So, with that, I will head over to Karan Bajwa to give the opening.
+
+### Karan Bajwa:
+Sure. Thank you, Stella. Do you want me to switch on the mic or is that okay?
+
+### Stella Lai:
+Yes, that's the mic.
+
+### Audrey Tang:
+No, that's fine.
+
+### Karan Bajwa:
+Thank you, minister. It’s really a pleasure that I have the opportunity to come to Taiwan after a very long time and I was pleasantly surprised. I've been here for about 48 hours now, met a lot of customers, experienced the wonderful place. This is the vibrancy. I actually visited the night market as well. So, that was a very pleasant experience. And it took us a while to come back. I think COVID was pretty restrictive.
+
+And my main purpose to come here today is to, one, get connection to you and reiterate our commitment to this country. In fact, this is one of the largest footprints for Google across Asia Pacific and we are proud of that. We have a lot of representation across all our business units, including Cloud. And we fully understand the government's vision of the resiliency framework and why. We fully understand the geopolitical needs of that framework as well. And I'm delighted that we are actually very compliant with that vision as well. We do have a data center region in Taiwan. And of course, we have other regions to support that, the broader framework as well.
+
+Today, my goal is to, one, understand your imperatives. What are the big things that you have in mind? And there are two things that I thought would be very interesting to discuss with governments. And always, these are top of mind, cybersecurity, cyber risk.
+
+And you are an expert, so I try not to… [laughter] But I think cybersecurity is one. How can we better collaborate with the government to support your goals, support your architectural needs? Of course, we have deep capability as Google. And very recently, we've also made some very significant acquisitions to acquire companies who can complement our security portfolio.
+
+The second, minister, is really about deeply talking about AI. How are you thinking about AI? And how does it apply to government, not just as a user, but how are you thinking about the ecosystem within the country as well? And how do you foster? Clearly, there has been a heightened interest around AI very recently. And everyone's keen to know what to do, what can be done in this field.
+
+### Audrey Tang:
+What to not do.
+
+### Karan Bajwa:
+What to not do as well. That is equally important. And that is possibly been the one reason that we've been extremely cautious. Our entire focus has been around privacy, explainability, bias, security. Those have been our very big concerns that we've been working on very deeply.
+
+One of the things we are doing with governments across the world, of course, we start in a slow way to make sure everyone understands, is to deeply partner, not just to have government as an AI user, but how do you actually help the government with their vision for AI?
+
+We recently, about three weeks ago, announced a very deep partnership with the Singapore government, which had really four aspects of partnership. One, of course, bring use cases into government. Second, help Singapore as one of the hubs in the globe as a developer for AI. So, really building the ecosystem. A very important aspect was also about policy and governance framework. What should be the policy framework?
+
+And really giving our learnings as we've been working on in terms of what should be the framework or policy standard. Of course, it's the government's call, we just give suggestions.
+
+And finally, it's about the ecosystem of startups. How do you encourage the ecosystem of startups? So, that's a fairly deep partnership. We are off the blocks on that. We'd love to explore how you're thinking about AI more broadly, but Gen AI more in particular as well. Some of our AI capabilities are starting to get… you are a user of Google Workspace. I think the first place we can start is showcase to you, do it AI capabilities.
+
+### Audrey Tang:
+Yeah, when is it coming to our Workspace account?
+
+### Karan Bajwa:
+It's actually available. We can get you a Trusted Tester program. It's unfortunately still in English.
+
+### Audrey Tang:
+That is fine.
+
+### Karan Bajwa:
+It's fine, right? So, we'll make sure we get you the trusted access. I actually checked in while coming today. So, I'll figure out… Stella, I'll work with you to get you a trusted access. And that should give you the first flavor of how we are bringing AI to our products, and we can then start from there.
+
+But those are the two main things. Of course, there is government cloud, which we are very keen to discuss more deeply with you. And anything else that you would like to highlight as well.
+
+### Audrey Tang:
+Great. Thank you. It's a wonderful agenda. Any from your team that would like to add?
+
+### Stella Lai:
+Yes, so for the first topic about Government Cloud, we would like to discover how Google's cloud solutions can fulfill the Taiwan government's local resilience requirements. So, we have Nick and also Isaac here.
+
+Nick, would you like to explain the context of our discussions and the current status?
+
+### Nick Chang:
+Okay. Thank you. Actually, previously we met with Chiueh and Wei Jan on March 13th… at the end of March to discuss about this topic, about Gov Cloud. And we have a proposal on how we think about how Gov Cloud looks like. And we got very positive feedback from Chet Sen and Wei Jan. We are confident about local resilience requirements. And we have a local data center to achieve this.
+
+And after that, we are trying to build up a PoC environment. And now, we are waiting for our opinions and maybe some feedback about this. And maybe we can have some one or two workload systems to do the proof of concept about how this architecture works.
+
+Or we can have some modification or some adjustment.
+
+### Audrey Tang:
+Okay, great. So, just to reiterate, here we use the word local resilience instead of data localization, because data localization already means something else. We understand that many jurisdictions use data localization to mean data residency, which means that according to their privacy law, anything that's collected within the jurisdiction cannot be transferred outside of the jurisdiction for processing unless in an encrypted form, right? But we don't mean that.
+
+In Taiwan, actually, our Personal Data Protection Act do not forbid extra jurisdictional processing. So, when we say local resilience, we don't mean that you cannot send the private data you collected here to other places to compute. What we do mean is that when, not if, all the subsea cables around Taiwan are cut, then the computation need to still work. So, you can have like X number of backups anywhere else, but at least one backup here that needs to work. And including the metadata, the handshake, the anycast DNS, like all the layers within the stack need to continue to function when, not if, our subsea cables are cut. This is the first thing.
+
+And the second is that the physical apparatus, the data center, need to be administered by people with our nationality. This is easily satisfied by Google, more so than pretty much any other data center company. So, this, I'm not worried. So, when you say that you have a PoC, I understand that it's for a specific use case. Because according to what Wei Jan told me, what we have today, like with Google Workspace or whatever, already satisfy the two local resilience criteria.
+
+So, what is this PoC that you're talking about, if not our Google Workspace?
+
+### 柯維然:
+Oh, okay. Maybe I can speak in Chinese?
+
+### Audrey Tang:
+Sure. Mandarin is fine. I can interpret for you. You can do the whisper…
+
+> (laughter)
+
+### 柯維然:
+Okay. 我跟部長報告一下，目前有跟 Google 提出政府雲的 POC 部分，這個機敏性的資料，我們希望由政府這邊有更強的掌握力，不要把資料放在 Google 的機房內，我們希望有更強的掌握力，確保這個資料不管有沒有被存取或者實體被訪問，我們都可以很完全掌握，未來規劃是可以用指派或者選擇實體的區域，由 Google 來對資料進行管理跟存取，資料是我們可以掌握的實體空間，有點類似是 out pos 的做法，但 Google 是有高速的光纖，還是回到機房去做運算，但資料還是在我們家裡面，我們可以對資料來做完整的管理跟掌握，這個大概是目前跟 Google 就政府雲在做 POC 的概念，已經在選擇合適的服務，正在做架構的測試。
+
+### Audrey Tang:
+這個有點像是我們以前在做公部門混合雲的那種東西，對不對？
+
+### 柯維然:
+對。
+
+### Audrey Tang:
+有些運算放地端，不是所有的東西一定要到 Google 的機房算？
+
+So, we’re talking about this hybrid Ccoud configuration where each government agency may have some locally-kept data in their local compute, but for certain compute that is beyond the local compute capability, they may, through dedicated lines, send to the Google data centers for additional computing. But the source of truth, the primary storage, is in the local agency.
+
+### 柯維然:
+其中有一個不一樣的是，這一塊政府雲的區域，一樣 Google 是有一部分幫我們維運持續的能力，這塊維運還是有 SSL 的品質，只是管理的權限可能是我們有一部分掌握的能力在裡面，這個是過去放在自己家裡，維運不善的話，還是有一些風險在，政府雲的肉還是會受到 Google 一定水準的保護跟維運能力，把不想要放在他家的資料，暫時放在這邊來做機敏的管控。
+
+#### Audrey Tang:
+這個是誰的需求，我們是要滿足誰的需求？
+
+
+### 柯維然：
+因為之前進行架構的部分，從 Mydata 那邊有一些機敏性的資料，不適合全部來上雲，所以就跟 Google 要求，算是我們自己在評估是否適合，也可以從政府雲的角度來做安全的區域。
+
+
+### Audrey Tang:
+包含內政部的公有雲服務，他們要直接這樣用嗎？或者他們去用 GCP 了？
+
+
+### Nick Chen：
+目前內政部是直接上 GCP 了。
+
+
+### Audrey Tang:
+所以沒有這個需求？
+
+### Nick Chen：
+我們看資料，以台灣的等級，基本上對民眾開放的東西都上雲，有一些比較機敏的，也沒有上雲的機會。但是中間有一些是希望有一些資料可以自己掌管，但在運算上是配合公有雲的資料，我們跟維然討論的是比較偏向中間這塊，一些系統跟機關上的運用。
+
+
+### Audrey Tang:
+這個需求之前微軟也有來談過，他們提議的解決方案就是我們自己塞自己的 Key 進去，他們保證不會在記憶體解密的時後偷看，所以概念上是我們送去運算的部分是直接加密到晶片，他就主張落地，這就跟放在自己家一樣，我不知道你們有沒有現在的 offer，你們對這樣的想法是什麼？
+
+
+### Isaac Tsai：
+有兩塊，我們這邊也有運算的東西，一樣是在 CPU 的記憶體裡面做的，也做了加密，除此之外，我們在 policy 跟操作的部分會有另外第二層的保護。
+
+### Audrey Tang:
+但是你們有偏好嗎？維然講的是實體混合雲，我在講的比較是用密碼學的方式，是用模擬出一個租借，你們覺得哪種比較好？
+
+### Isaac Tsai：
+都可以。
+
+### Harry Lini：
+跟部長報告一下，其實我們的架構這兩個來講是不相衝突的，是一起做的，從安全性的角度來講，其實都可以確保的。
+
+### Audrey Tang:
+有點類似 AMAZON 的立場，Outpost 能賣就賣，不能賣就不要賣，兩個都有最好。
+
+### 柯維然：
+之前 AMD 有來跟我們講過，在 Google Cloud 上有一些記憶體運算的 VM，預設一開的話，無法打勾，記憶體是完全加密的，而且機敏運算在台灣是完全落地的，所以在台灣是可以雙重保障的。
+
+### Audrey Tang:
+我記得你們還有另外一個完全對加密資料去進行運算的全同態加密，不過看各位的表情應該是還沒有商轉，還在研究室裡面。我這次去以色列有一個新創，他們主張的是就像 AI 有專門的 TPU，他們主張全同態加密也要有 3PU。因為我現在對著你的 CPU 加密送出去，我還是要相信你跟 CPU 的製造商沒有勾結，但是如果是全同態加密（FHE），我可以跟我的 auditor 說怎麼樣都不能還原。
+
+如果還沒有商轉的話，我覺得可以先當一個 PoC，等到你們以後真的有 FHE，我們再把真正國家機密、軍事機密放上來，還是要分層，大概是這樣。
+
+### Karan Bajwa:
+If I may, I caught the essence of the conversation. There are three ways we handle government workloads. One, workloads for which the data is available in public domain, which are not really private, that can run on standard public cloud with standard security.
+
+We then have the second layer of assured workloads, which need a certain level of privacy, including encryption keys, etc. Where we share with you the key management, which is totally owned by you, but still, it runs on the public cloud infrastructure. These are assured workloads encrypted by special security controls, which we can share more details about.
+
+The third is special specific workloads that you would not simply send out of your infrastructure, for whatever reasons. Could be defense, security, or anything else. For that, minister, what we've done is, ultimately the goal is to provide you the hyperscale capability with all the innovation. I believe we do it in a public cloud platform.
+
+What we've developed is a Google distributed cloud hosted environment, where we actually put all that capability, there's a roadmap for that, and bring it into your private cloud. It is completely air-gapped, it does not touch the internet. We can talk about who manages it. We can manage with local nationals, we can manage with a local partner, or the government can manage. So, that then allows you a full hyperscaler Google capability inside your data center, which is not connected to the internet, but allows you to run your extremely sensitive workloads on-premise as well.
+
+So, there are three ways we handle that. If you would like more details, we are happy to furnish this.
+
+### Audrey Tang:
+Yes, we are mainly talking about how to increase the cryptographic security of the second assured workloads case with zero knowledge technology, essentially. So, that is cryptographically as secure as the third one, even though of course the availability profile would differ, but otherwise the same.
+
+### Karan Bajwa:
+Sure. And would you be okay if we shared more details offline with you?
+
+### Audrey Tang:
+Sure, of course.
+
+### Karan Bajwa:
+We will send you a paper on this one.
+
+### Audrey Tang:
+Yeah, sure. So, as I understand, the requirement then is our internal one, specifically our MyData platform. And for the MyData platform, I think it does qualify as confidential information, because that's pretty much handling all the private details of all the citizens storing all the agencies. This is what MyData is about. So, I think we need to test the assured workloads with something that's less sensitive than MyData. And for MyData, I think something like Outpost, which you just described, the third approach, is more called for. I think that's the general direction.
+
+Okay. Does the digital service department have…
+
+### 王誠明:
+剛剛講的那個部分，所以現在目前測的結果跟效能的部分是？
+
+### 柯維然：
+我們即將提供一個 ZONE 給我們，在那個 ZONE 之下，我們可以把 ZONE 放在裡面，這與資料中心是有高速連結，在那邊落地，也就是在我家落地，再傳一份去 Google。
+
+### Audrey Tang:
+Okay. And while we're talking about cryptography, our Google Workspace, as I understand, has the potential to support client-side encryption.
+
+### Karan Bajwa:
+Yes.
+
+### Audrey Tang:
+Which is sort of like end-to-end, but not quite, right? But some sort of encryption. Is there a vision, because I understand that you've successfully used Google Duo to transform Google Meet into something that's more end-to-end encrypted, more secure… is there a vision to do that for Google workspace as well?
+
+Because we are now evaluating Google workspace vis-a-vis Signal for our internal communication. And Signal, as we all know, is end-to-end encrypted. And Google workspace, as I understand, is fully plain text at the moment, which means that many of our more confidential groups cannot be moved from Signal to Google Workspace, which is why we're still using Signal. So, I wonder what's your take on this.
+
+### Karan Bajwa:
+I would have to revert back. We will revert to you right back. I will check to make sure the roadmap, I don't end up giving you wrong information. So please allow me to check with the Workspace team and revert back to you.
+
+### Audrey Tang:
+Or maybe we can convince Signal to run on the hosted Google on-prem servers.
+
+### Karan Bajwa:
+Yeah, I'll go with you.
+
+> (laughter)
+
+### Audrey Tang:
+Okay, great. So, in general, we do host extranet conversations. And at the moment, it's all Signals, but Signal is not locally resilient. That is to say, when the subsea cables are cut, Signal is gone. So, we're, on one hand, working with Signal, or Signal-like technology, Element/Matrix and so on, so that we have some sort of local resilience.
+
+But on the other hand, if the Google communication tools have local resilience and offers end-to-end encryption so we can invite extranet people in and they don't have to blindly trust us, right, they can trust their own browsers, then that is, to us, a much better configuration because everybody is very well acquainted with Google interface anyway.
+
+### Karan Bajwa:
+I'll revert back to you on this.
+
+### Audrey Tang:
+Okay, great. Thank you.
+
+### Karan Bajwa:
+I have two suggestions to make, and we will work with your team on that. And that would be a deeper collaboration on cybersecurity and on AI. I'll share the same core example. If we have your alignment on this, we would like to work with your team to develop a deeper partnership on these two areas.
+
+### Audrey Tang:
+Yeah. Well, I'd like to spend some time to… I don't have any meeting after this, so I can afford to talk a little bit… Let's talk about AI first.
+
+### Karan Bajwa:
+Sure.
+
+### Audrey Tang:
+So, in addition to Duet and so on, at the moment, the ministry is partnering with OpenAI and Anthropic on collective intelligence project. The idea, very simply put, is that we will take care of asking our citizens of what they expect out of generative AI and to use generative AI then to comprehend the collective will, if you will, of the citizens on a particular AI model.
+
+And then the hope with Anthropic is that their constitutional AI, that's to say their AI supervisor to train next generation of AI, will use this norm of our population to train a specific catering to that norm version of aligned AI. Because at the moment, Claude is universal, meaning that everybody who asks Claude get the same set of answers. But just like Facebook or YouTube, they quickly learn that every jurisdiction has different norms, every language has different norms and so on.
+
+And so, a way to continuously upgrade those norms and upload it so that they don't have to redo the pre-training, but rather can train a LoRa or something that adapts the same foundation model to the expectation of the local population becomes very important.
+
+Yeah. And I understand that GPT-4 offers some VIP customers this sort of capability to essentially fine tune the GPT-4, but that is not generally available. We can currently only tune GPT-3, so I wonder whether any of your foundation models, especially language models, but also multimodal ones, are amenable to this kind of client fine tuning or local adaptation.
+
+### Karan Bajwa:
+Yes, they are the foundational models. The only thing is we're still working on the language access. So, that's work in progress. We are, again, as I said, the barriers for us really are the caution around hallucination, bias. Those are the problems we should be very sure about. So, we are cautiously releasing the language models. But short answer to your question, the base models, which is PaLM, they will be made available. I'll have to revert back to you. We can actually give you, again, trusted access to the PaLM models as well. But language access will take some time.
+
+### Audrey Tang:
+So, but I didn't… Sorry, I maybe wasn't very clear. I mean specifically fine-tuning capabilities.
+
+### Karan Bajwa:
+Yes, I understand. Absolutely. With your data, right?
+
+### Audrey Tang:
+Right, right. With our data and also our examples. So, the idea is that through crowdsourcing, we can have a set of ideal answers. It's like a curriculum of sorts. And then just align PaLM to that particular communal norm. And I mean, it's not like we don't have other like LLaMa, open-source models… OpenLLaMa, not Meta LLaMa.
+
+> (laughter)
+
+…Open-source model upon which the National Science and Technology Council is building the Taiwan Trustworthy AI Dialogue Engine upon. So, we already have a branch of open-source models aligned this way with alignment assemblies. But if more than OpenAI and Anthropic, if PaLM and everyone is on board, then we have a real chance of establishment continuously, democratically upgraded guardrail, which I believe is one of the keys to avoid existential risk by this suddenly widening gap between the half AIs and the half nots.
+
+### Karan Bajwa:
+Got it. Yes, absolutely. Short answer. Yes, we will come back with the trusted access for PaLM. And by the way, we work very closely with Anthropic as well, so there's a new partnership there.
+
+### Audrey Tang:
+Okay, that's awesome. Yeah. And the other thing I would like to ask is about cybersecurity. So, when you talk about partnership, do you mean like threat indicator sharing or some other things?
+
+### Karan Bajwa:
+That is the basic. We recently made an acquisition of a company called Mandate, which I'm not sure you've heard of…
+
+### Audrey Tang:
+I’ve heard of it but…
+
+### Karan Bajwa:
+You've heard about them. So really, they are the ones that governments call when there is a cyber risk. That's really the gold standard. So that's an acquisition we made that basically incident response, threat management. And we can bring in all the best practices to your cybersecurity team, including also exposure to all the foundational tools that Google has from a security standpoint, which we use to protect our own properties.
+
+So, Mandate is one more kind of a services capability and sharing all the best practices, tools, and then the broader Google capability as well. We can work offline with your team on the details of that.
+
+### Audrey Tang:
+Great.
+
+### Karan Bajwa:
+And who would you suggest we work with on cyber?
+
+### Audrey Tang:
+So, the NICS, the National Institute of Cyber Security, is the non-departmental public body in charge of all the technical aspects of cyber. We're moving more and more capabilities in other agencies, such as the CERT, Taiwan CERT from TWNIC. We're moving it also to the NICS. So NICS will consolidate both the civilly and through indicator sharing, as well as the national and CERT and so on.
+
+### Karan Bajwa:
+Good. With your support, we will reach out to NICS and we will build that engagement.
+
+### Audrey Tang:
+Okay. I'm also chair of NICS. So, in a sense, you're already reaching out to NICS.
+
+> (laughter)
+
+### Karan Bajwa:
+Okay.
+
+### Stella Lai:
+So, let me ask a question. What do you see the cybersecurity challenges that Taiwan government has? And how do you think Google Cloud can help in this regard?
+
+### Audrey Tang:
+The main challenge is that we're still using passwords. And it's the same challenge for everyone, as long as we still use passwords. The strong ones, we cannot remember. The weak ones are easily cracked. So, it's a universal challenge.
+
+And I think for moda ourselves, we're switching to passwordless in a couple months, if I'm not mistaken. The idea is we use three layers. We have on our device something like CrowdStrike or other EDR capability that assures the device has not been tampered with.
+
+We have TW FIDO and Azure AD to make sure that my fingerprint works on the authenticator here. And we also have CloudFlare Zero Trust, as well as other cloud-based behavior trust inference.
+
+And our main idea, which is Wei-Jan's idea, is that we never work with the same vendor in two adjacent layers. So, we would not be a, for example, Intune — Azure AD — Azure Compute shop, because there would be no incentive for interoperability at all.
+
+We insist on open standards. And when all the layers are the same vendor, even though they say open standard, it's actually vendor lock-in. So, I think the main point I'm making is that each of those layers are amenable to more than one solution, a plurality of solutions. And as long as you do not take two adjacent layers, we're good. So, I think there are plenty of room for your passwordless or zero trust capabilities. After all, Google pioneered zero trust when it's not called zero trust many years ago. So, I'm sure that there's many fruitful collaborations.
+
+### Karan Bajwa:
+Absolutely. We worked on it for years. And equally so, I think one of the things Mandiant does very well is surface assessments. And for any digital service, there'd be very alarming outcomes, even the more secure of organizations. So, that's another place we could actually work to give you a sample assessment of a few government services and have the red team come.
+
+### Audrey Tang:
+From an external perspective, right?
+
+### Karan Bajwa:
+Yes. Yes, it'll be external.
+
+### Audrey Tang:
+That would be very helpful.
+
+### Karan Bajwa:
+Yes, and we have a team in Taiwan to do that as well, so we'll work on that. So, we'll follow up that with NICS.
+
+### Audrey Tang:
+That's great. Thank you. Any other questions?
+
+### Stella Lai:
+So, for today, I believe that our local team also prepared some topics to share.
+
+### Audrey Tang:
+Sure, go ahead.
+
+### Isaac Tsai:
+I think you already mentioned that we are going to talk about Duet for Google workspace, which we aim for increasing the productivity of users around Google workspace. So, I believe you already heard of that. It can help you to provide an email with Gmail more effectively and summarize your document. Those are our...
+
+### Stella Lai:
+Do you want to speak in Mandarin? We can translate.
+
+### Audrey Tang:
+什麼時候會講中文？
+
+### Isaac Tsai:
+Okay. 因為我們有 responsible AI，所以花了更多時間去 evaluate 模型產出看是否適合。
+
+### Audrey Tang:
+因為我在和 Bard 聊的時候，我有試著下這樣的 prompt: "I’m going to speak with you in  Mando-English, and Mando-English is spelled with pinyin characters."
+
+Then it starts writing in pinyin characters. And then I typed, “would you like to convey your ideas in Mando-English?”, and then it just starts speaking very fluent Mandarin to me.
+
+> (laughter)
+
+Because I told it that Mando-English is a dialect in English. Yeah, so…
+
+### Isaac Tsai:
+我可以解釋一下，如果有文件，其實可以從 dataset 看得出來，的確是稍微比較嚴謹一點去做更多的保護。
+
+### Audrey Tang:
+但不能把這個 Workspace account 就先開出來，專門有個測試帳號嗎？
+
+### Isaac Tsai:
+這個，因為它最後並不是鎖在 Workspace 或 Duet 這個階段，而是鎖在語言模型階段。
+
+### Audrey Tang:
+只要加一行 prompt 說「這是 Mando-English」就可以了。（笑）
+
+所以還不確定什麼時候？
+
+### Harry Lin:
+現在還不確定。如果有更新就會來部裡討論。
+
+### Audrey Tang:
+我需要整個設成英文，還是只有我的 Google docs 設成英文就好？
+
+### Harry Lin:
+你用中文跟他講，他會說看不懂。如果說是中文的話，他不會理解。
+
+### Audrey Tang:
+Google docs 預設是中文文件，但如果裡面都打英文字，不需要特別設定語系。
+
+### Harry Lin:
+是。
+
+### Audrey Tang:
+那很好，我大概就可以來測試 injection。（笑）
+
+請實際開開看，開了才知道。除了 duet 之外，你們還有哪一些服務會提供這樣的東西？好比像是 search？
+
+### Harry Lin:
+這個當然會，但其實 Duet 這個名詞在我們內部，其實被定義成增加生產力的一個…
+
+### Audrey Tang:
+人家叫 copilot 的，你們叫 Duet 就是了？
+
+### Harry Lin:
+對我們來說，可以看到有很多放在產品上，第一個是在 Google Cloud Console 上，跟使用者互動的部分，它會有 Duet 幫忙，讓你更好操作。
+
+再來是 Workspace，接下來我們有一個 low-code no-code 的 Solution 叫 AppSheet，這個東西也有幫助大家 Gathering
+ 這塊。所以 Duet 你可以想像這個 Branding 做的事情，就是跟使用者第一個接觸, 然後再增加生產力的部分。
+
+回到後面剛剛提到的 Fine Tuning，這些 Model 都會在 Vertex AI 裡面使用。
+
+### Audrey Tang:
+有啊，我有點開我們 account 裡面的 Vertex AI 看，不過看起來還沒開放？
+
+### Harry Lin:
+PaLM 現在應該可以打開，所以現在已經有了，現在是可以用。
+
+### Audrey Tang:
+那 Fine Tuning 呢?
+
+### Harry Lin:
+Fine Tuning 還要再等一下。
+
+### Audrey Tang:
+理解，我剛剛說的是 Fine Tuning。
+
+### Harry Lin:
+這個功能出來的時候，它會在我們中間講的類似 Adapter。Adapter 就像您說的，是一個 LoRa 在上面的東西。
+
+### Audrey Tang:
+你們這樣子的 LoRa，因為其實我們也有跟微軟有簽，他們是按照 Best Effort。比如說某個資料中心沒有算力了，它就突然間不支援 Fine Tuning 了，要換一個。
+
+我比較好奇的是說，你們剛剛有提到 On-prem 的類似 Outpost 的型態，這個也包含 TPU 的部分嗎？還是沒有？
+
+### Harry Lin:
+那個應該比較 Generic。
+
+### Audrey Tang:
+了解，所以我不可能跟你買一塊這個，然後我自己來 fine tune 這樣子。
+
+### Harry Lin:
+目前沒有這樣的規劃。
+
+### Audrey Tang:
+我了解，不然 Logistics 太複雜了。但它是在台灣 Fine Tune 嗎？就是它的 TPU Workload 是送到別的地方去算嗎?
+
+### Harry Lin:
+這個部分，TPU 的部分的話，我們是選擇各個不同的 Region。所以要做 Training 的時候，Depends on 所選的 Region。所以沒有選擇台灣、美國。
+
+### Audrey Tang:
+所以現在彰濱是有一些算力的？
+
+### Harry Lin:
+TPU 其實有不同的版本。TPU 有 V3、V4、V5。不同的 region, 不同版本的 TPU 可以做 training。
+
+### Audrey Tang:
+好，那像我開了 Duet，在 Workspace 裡面用，這個 workload 是在 Workspace 台灣的 region 算的還是不一定？
+
+### Harry Lin:
+它可能就送到任何地方的 Duet 去算。目前 Workspace 是一個 Global services。
+
+### Audrey Tang:
+我了解了。
+
+### Harry Lin:
+所以目前是還沒有辦法制定一個 Local Setting。
+
+### Audrey Tang:
+了解，就是一個 Redundancy 的概念。
+
+像我現在所有真正機密的 Workload，我都是在這台 MacBook 上面算，因為它有 96G RAM，所以算起來還蠻快的。
+
+但 Workspace Duet 可以先開沒關係。謝謝。
+
+### Stella Lai:
+So, I think we are really glad to discuss that generative AI, talking about its opportunities and innovation, and also how to increase the productivity of Taiwan's government. I think for countries that run on a national, global scale, for those countries that embrace AI more, it definitely can compete with those that are slower.
+
+So, we are also working to address the AI in security, because we understand that security is definitely the government's top of mind. And for security… I mean for AI, on one hand, you probably can create content about misinformation and disinformation. But on the other hand, you also can use AI to help identify and track the misinformation, disinformation, as well as the manipulated media.
+
+So, for Google, we are also very concerned about this, and would like to discuss with the minister how you see AI in security, and how you think Google can work together with the moda to bring Taiwan a positive impact by using generative AI.
+
+### Audrey Tang:
+Yeah. As I mentioned, anything that can be transmitted over a phone, including passwords, is probably gone. We assume phishing attacks, scam calls, will always succeed. This is just like our local resilience. We assume any communication hardware infrastructure that is public in its location will be destroyed. This is our first assumption. So, synthetic media is so convincing that anything that can be transmitted will be transmitted. This is our basic assumption, which is why we need to switch to passwordless as quickly as possible, because none of the behavior, device, or biometric can be transmitted over a scam call. And so, we still have some measure of security.
+
+And so that requires a widespread adoption of digital signature, and by extension, provenance technologies. We need to ensure that any content that's posted online can be verified as posting, for example, from a resident or a citizen, but that carries its own civil liberty risks. And so, we've been working with NICS and ITRI and so on to develop zero-knowledge verifiable credentials, so that a person can easily prove they are a natural person of 18 years old, for example, without revealing any more information about themselves when posting online.
+
+And soon, I think we will be at a stage where all the content that is not verified in this way is assumed to be fake online. We'll probably get there within a year or so. I think this agrees with the extinction risk paper published by DeepMind recently. So, I don't think anyone here wants to see an information ecosystem that is entirely fake or synthetic content, but this is the future we're heading toward. So, for that, it's that.
+
+I think there were some solutions being bandied about, like watermarks and so on, which as soon as Facebook releases the llama, it's gone, right? Because paraphrasing attacks is something everybody can execute locally. So, I don't think watermark is the way to go. It's actually counterproductive.
+
+And so, the other thing is, here in Taiwan, we do believe in open source, the current generation of language models because they cannot do much harm anyway. If they can do harm, like synthesizing biohazards or things like that, we're already gone. And the fact that we're still alive says that the current generation of language models isn't that extinction dangerous anyway.
+
+And if people do get access to those language models that they can run locally or within the community, it makes innovations on safety easier because then everybody who cares about safety gets to innovate instead of having to wait for the retraining for it to pass your guardrails and so on, which means that only your team gets to improve your safety. But with open source, everybody gets to improve their safety together. So, I do believe in open source in this capability stage now, more than disinformation.
+
+The other risk I think is more short-term, which is like Red Team AI bots. So, if there is a ransomware that can write itself using the system resources on the target system, then to most of the threat indication mechanisms, they simply don't exist until they finally decide to coordinate an attack. So, the traditional defense in depth will probably be not very useful in this case.
+
+I don't have a very good solution to that, and maybe you have thought about that already- a persistent advanced self-writing Red Teaming bot. So, that is something I'm interested to explore together with the Nice and Google partnership.
+
+And finally, I think is about bias. In Taiwan, we've got 20 national languages. PaLM currently doesn't speak any of the 20. And GPT only speaks Mandarin and not very well at that. So, there is… because I, before entering the cabinet, worked with the Siri team for six years. And we very much care about Siri's impact on a previously heterogeneous or plural population. And it has a tendency of just streamlining or collapsing the context so that everybody has to speak perfect English to be understood. And it has a devastating effect on the next generation of the languages.
+
+So, I think it's to this end that OpenAI decided to work with Icelandic language communities specifically to preserve that language. And they have reached out to us as well to working on Taigi, Hakka and the 16 indigenous Pacific Islander languages in Taiwan.
+
+I don't know whether you have similar ambitions. I understand that in the speech recognition model, there's a pretty good spoken language support, but I don't know whether you have similar ambitions in the language model world. We've heard many MPs saying that the Google Translate is polluted with PRC vocabulary. It's actually easier to fix just installing a post filter on things like OpenCC or something, but I think it signifies a wider concern.
+
+When you green light PaLM. in the training material, PRC materials could vastly outnumber Taiwanese materials. And it's almost inevitable that it will carry some of the PRC bias on the Mandarin parts, not to mention the Taigi or Hakka parts.
+
+So specifically, low resource or lower resource languages is something I care deeply about. We're currently exploring open source as a solution. But if you're interested in working with us on that, we can also work on that together.
+
+### Karan Bajwa:
+Got it. Noted and we'll go and check.
+
+### Audrey Tang:
+Sure.
+
+### Stella Lai:
+部長，因為你剛剛有提到有關 Translation 的部分，我想說也在這邊跟部長反映一下。事實上我們在臺灣，我們有 hire full-time employee，他就是專門在看這件事情。
+
+所以如果說部裡面有看到在 Translation 的時候，特別的覺得需要跟我們反映的，那也歡迎可以透過維然或者是誰來告訴我，那我們有專人是會跟我們後面的 engineering team 來跟他們反映 Translation 相關的問題，我們是非常重視臺灣的市場。
+
+### Audrey Tang:
+但是這個可以自動測試，就像我剛剛講的 OpenCC 其實有一張表。所以你們自己拿那張表進去就知道，到底是不是有 localize，理論上不應該只由我們一個一個來反映才對。
+
+之後 NICS 資安院也會有一個驗測機制，我們可以在這個機制裡面做一些調整。我想之前很多立委提出來的是說，好像沒有>
+一個很系統性的方式來解決這個問題。
+
+### Harry Lin:
+部長，我這邊有兩點要補充。
+
+第一個針對 Open Source 的部分，我想 Google 一直是非常倡導 Open Source。其實我們針對 Open Source 的 adoption，我們有所謂的 assured Open Source Software。在 Google Cloud 上，經過 Google 本身。我們本身也在對 Open Source 做 contribution。我們也在使用，所以我們可以 verify Open Source 的 source code version。
+
+Google 內部在用的，我們是把它 release 出來，變成在 Google Cloud 上讓我們的 user 選用這些 safe、secure 的 Open Source。
+
+### Audrey Tang:
+這我們了解，包括 SBOM、SPDX 等等。
+
+### Harry Lin:
+另外一個部分是針對剛提到的 Security，Bot Attack。
+
+目前我們也有跟 PaLM 技術做整合，把網路上不同的 Attack 或是這些 Behavior，甚至 Bot 的 Behavior 丟到 PaLM 裡面去做 Further Training，我們稱之為 Sec-PaLM Model，來做這樣的 Security Defense。
+
+如果之後有機會的話，可以跟部長再多詳細介紹如何 Defend 新型態的 Zero Day Attack 攻擊，透過 Sec-PaLM。
+
+### Audrey Tang:
+對，因為我剛剛講的 Threat Profile 比較是類似 PaLM 的邪惡版本。
+
+就是說進入你的內網、潛伏取得你的機器之後，什麼都不做，但是就按照實際的狀態開始寫 Zero Day Exploit，但是寫的都不用，就一直存在那台電腦上，一直到整個 Kill-chain 我覺得做好了，再一次全部執行。
+
+所以等於是一個攻擊手的腦袋，跑在你的電腦裡，那這種型態是最難防禦的，因為從外面看起來是沒有 traffic，幾乎沒有任何的徵兆。
+
+### Harry Lin:
+對。
+
+### Audrey Tang:
+就是 fully stealth。那這一套我有看一些 paper，目前看起來 open source 的 model 已經快要接近可以做這件事情的程度，那其實蠻令人憂心。因為在這樣的情況下，如果是人在執行 kill-chain，你還是可以做一個大範圍的 attribution，你打掉它就好了。但是如果現在是有點像是勒索病毒，它對面其實是機器人，你可能沒有辦法找得到它。
+
+這個是比較接近的風險，因為我有跟三百多個人一起簽 extinction statement，說 AI 就跟 pandemic 或者 nuclear proliferation 一樣，搞不好會變成大概可能大家都只剩幾年可以活的那種狀況。那我們要化解那個狀況，我覺得就要先看我們在哪些領域上最靠近 extinction risk，那目前看起來這種自走的 bot，可能是現有的幾個大的 vector，包括 Biohazard、Infohazard 等等裡面，Cyber 好像是比較接近 extinction 的那一個。
+
+### Kathy Lee:
+Minister，我想代 Karan 問一下。其實我一直在做翻譯，然後他就想說，其實他想建議或者是詢問一下，就是您會有興趣跟我們 Mountain View 的一些，就是真的是 Deepmind AI 的 Engineering 的專門的 Expert，來進行一個比較更加深入的討論嗎？
+
+### Audrey Tang:
+可以，就是隨時都可以聊。
+
+So, my conversation with the OpenAI co-founder, Wojciech, is on public record online, and we talked about pretty much the same topics. So, if on your Google DeepMind, Gemini team, there are experts that are interested in exploring this together, I’m always available for a video conference on the record.
+
+### Karan Bajwa:
+Thank you. Great. I really appreciate your time. It was inspiring meeting you and getting a sense of how you are thinking. We have a few follow-on actions on our side, on the tech side, and including work we will reach out to NICS. I look forward to a great collaboration. Thank you very much.
+
+### Audrey Tang:
+Thank you. Thank you so much.
+
