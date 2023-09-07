@@ -1,4 +1,4 @@
-# 2023-08-14 Interview with Yasmeen Serhan
+# 2023-08-14 Interview with TIME
 
 
 ### Yasmeen Serhan:
