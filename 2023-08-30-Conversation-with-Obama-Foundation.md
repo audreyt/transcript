@@ -47,9 +47,7 @@ Our office is in Shalun, which is very close to Kaohsiung. It's on the Tainan-Ka
 > (laughter)
 
 ### Risa Pieters:
-Well, I know our time is short today, so we were just hoping to share more
-
-about what the Obama Foundation is continuing to do with our Asia-Pacific program. And we love your session. Was it two years ago now? Last year?
+Well, I know our time is short today, so we were just hoping to share more about what the Obama Foundation is continuing to do with our Asia-Pacific program. And we love your session. Was it two years ago now? Last year?
 
 ### Audrey Tang:
 Last year.
@@ -80,9 +78,7 @@ And is it determined next year where the gathering will be? Will it still be in 
 > (laughter)
 
 ### Risa Pieters:
-Yeah, I personally would love to bring it to Taiwan in my personal opinion. So, it was just Greece for last year. And we are still, we're looking at our convening model and whether we will keep it a global model, so we brought our Asia Pacific leaders
-
-to Greece with the Europe and Africa leaders. So, if it were to be in Asia next year, again, the two cohorts might come here. I would love to, if we can, bring a future meeting.
+Yeah, I personally would love to bring it to Taiwan in my personal opinion. So, it was just Greece for last year. And we are still, we're looking at our convening model and whether we will keep it a global model, so we brought our Asia Pacific leaders to Greece with the Europe and Africa leaders. So, if it were to be in Asia next year, again, the two cohorts might come here. I would love to, if we can, bring a future meeting.
 
 ### Audrey Tang:
 Okay. Yeah.
@@ -120,11 +116,7 @@ Everyone I meet here has done an event with us.
 ### Audrey Tang:
 OK, yeah. So yeah, if you're coming physically for the town gathering, I'm committed to be here. If it is over the internet, then our Democracy Network department is kind of set up for this kind of engagement. So, if I'm available, I can talk. But also, the DN has connections also to many AI democratization leaders.
 
-In fact, this coming Saturday, the science minister and I will both be in Shalun on a deliberative workshop to collectively align AI, emerging AI. We listened from a lot of very young people, actually, many people, because we don't have an 18-year-old limit
-
-for the online participation. So, we've got actually many junior high school students
-
-and their teachers and so on. And they're all very interested in aligning AI together. So, we did a wiki survey and using that as agenda, a whole day of deliberative workshop. And a whole transcript is then used.
+In fact, this coming Saturday, the science minister and I will both be in Shalun on a deliberative workshop to collectively align AI, emerging AI. We listened from a lot of very young people, actually, many people, because we don't have an 18-year-old limit for the online participation. So, we've got actually many junior high school students and their teachers and so on. And they're all very interested in aligning AI together. So, we did a wiki survey and using that as agenda, a whole day of deliberative workshop. And a whole transcript is then used.
 
 We share with OpenAI and Anthropic and other AI labs for them to align the AI to the communal norms. So, this kind of democratic alignment can solve a lot of bias, monoculture, linguistic injustice, and so on issues. So, it's called alignment assemblies.
 
@@ -199,17 +191,13 @@ Yeah, that would be great. Thank you. We really appreciate that. So, we're excit
 > (laughter)
 
 ### Risa Pieters:
-And we agree. So, it really is a special privilege for them to hear from you. And your lessons resonate with them. I just was in Hong Kong and I was meeting with a leader who
-
-sat in the New York session last year. And he was still quoting the session, like direct quotes in his brain. And so, the impact is really high, even though that hour that you give up from your schedule, it means a lot to them and to us.
+And we agree. So, it really is a special privilege for them to hear from you. And your lessons resonate with them. I just was in Hong Kong and I was meeting with a leader who sat in the New York session last year. And he was still quoting the session, like direct quotes in his brain. And so, the impact is really high, even though that hour that you give up from your schedule, it means a lot to them and to us.
 
 ### Audrey Tang:
 Yeah, so looking forward to… you said next September?
 
 ### Risa Pieters:
-Yeah, next September. And that gives us more time to try and squeeze
-
-into your schedule.
+Yeah, next September. And that gives us more time to try and squeeze into your schedule.
 
 ### Audrey Tang:
 Definitely. No, I don't even know where I'll be.
@@ -257,11 +245,7 @@ I see. Okay.
 ### Risa Pieters:
 Yeah. But I mean, I know our Asia Pacific leaders love to hear from you. But it would be great for the US leaders as well, because I think the US has a lot to learn from looking out on these topics, too, and bringing it back in.
 
-And in that same light, we also launched a college scholarship called the Obama-Chesky Voyager Program. And they fund… these are just for college students interested in public service. Notoriously very difficult to get into public service if you don't come from a lot of money in the US. Cap Hill internships aren't paid. And so, it's very difficult. So this
-
-is helping them to get through and help talent get through that pipeline. But they also are, they receive support from Airbnb to travel around the world and study best models
-
-and practices.
+And in that same light, we also launched a college scholarship called the Obama-Chesky Voyager Program. And they fund… these are just for college students interested in public service. Notoriously very difficult to get into public service if you don't come from a lot of money in the US. Cap Hill internships aren't paid. And so, it's very difficult. So this is helping them to get through and help talent get through that pipeline. But they also are, they receive support from Airbnb to travel around the world and study best models and practices.
 
 And so, I think we'd love to elevate Taiwan as a place that folks should consider to learn from and bring some of that back and have that learning exchange with the US, too.
 
@@ -342,21 +326,15 @@ That's great. Thank you. I will share that with our community as well. But I'm n
 Does Rich and Oliver have anything…
 
 ### Oliver Chang:
-Not really. It's kind of like supporting them to organize some trips or meetups with some important stakeholders like you. Because we really want to highlight
+Not really. It's kind of like supporting them to organize some trips or meetups with some important stakeholders like you. Because we really want to highlight the whole development of the nation or social innovation or something that will be possible to be presented to the world.
 
-the whole development of the nation or social innovation or something that will be possible to be presented to the world.
-
-Because from my personal experience at the program, it was really beneficial for me. But also, we're in the program that you can really have a peer or the whole corps to support you. And you can also learn from each other. So, I think that will be really awesome
-
-if we can have more leaders or more speakers from Taiwan to speak and to voice out.
+Because from my personal experience at the program, it was really beneficial for me. But also, we're in the program that you can really have a peer or the whole corps to support you. And you can also learn from each other. So, I think that will be really awesome if we can have more leaders or more speakers from Taiwan to speak and to voice out.
 
 ### Audrey Tang:
 Excellent.
 
 ### Risa Pieters:
-Yeah, they've organized amazing… We have another event this evening,
-
-but we had a dinner yesterday. And it was great for us to meet… I mean, when we travel on these trips, too, it's also a listening and learning opportunity. And so, we obviously have our biases like I lived in Hong Kong and am Japanese. And so, I'm still listening and learning about other contexts in the Asia Pacific, too. And so, it's really great to hear from their network and a range of ages, voices, backgrounds, public sector, private sector, from Asia. So, it was incredibly helpful and really inspiring, actually, to meet them all.
+Yeah, they've organized amazing… We have another event this evening, but we had a dinner yesterday. And it was great for us to meet… I mean, when we travel on these trips, too, it's also a listening and learning opportunity. And so, we obviously have our biases like I lived in Hong Kong and am Japanese. And so, I'm still listening and learning about other contexts in the Asia Pacific, too. And so, it's really great to hear from their network and a range of ages, voices, backgrounds, public sector, private sector, from Asia. So, it was incredibly helpful and really inspiring, actually, to meet them all.
 
 ### Rich Chen:
 Tomorrow, they're going to have a tour around the parliament and also the youth development agency.
@@ -474,9 +452,7 @@ If you will, see for the article from Obama Foundation in the future…
 Yeah.
 
 ### Oliver Chang:
-Even from the leaders, it will be really great. Like from the leaders' perspective on how exactly they work on innovation. Because SSIR is not really centered
-
-on social innovation only. So, from the non-profits, but even from the enterprise perspective.
+Even from the leaders, it will be really great. Like from the leaders' perspective on how exactly they work on innovation. Because SSIR is not really centered on social innovation only. So, from the non-profits, but even from the enterprise perspective.
 
 ### Risa Pieters:
 Yeah.
@@ -496,13 +472,9 @@ Yeah. I think that's it. And I'm not really sure if you have any other things…
 ### Risa Pieters:
 We just wanted to share… it's a small flyer, but it just has more information about the program. And then this is about the Asia Pacific program. And then now, with Oliver's program, they graduated and they were our first cohort. And now that we've had three cohorts, Asia Pacific leaders, and a few of Europe and Africa, we have the Obama Leadership Network. So, it's a global network where they all connect.
 
-So, the Asia Pacific leaders will talk about leadership in the region, and then when they join, they graduate into the larger network. They actually can connect on specific topics,
+So, the Asia Pacific leaders will talk about leadership in the region, and then when they join, they graduate into the larger network. They actually can connect on specific topics, whether they are climate change leaders, whether they're journalists or academics. That's when they kind of find their communities of practice.
 
-whether they are climate change leaders, whether they're journalists or academics. That's when they kind of find their communities of practice.
-
-So, we just hired a new team to manage that. So, that's more of an official kind of growth on our end. But that's where we're at as a foundation. We're 270 APAC leaders strong now. I think over 1,000 around the world, and hoping to grow and bring more of Taiwan
-
-into that in the next year.
+So, we just hired a new team to manage that. So, that's more of an official kind of growth on our end. But that's where we're at as a foundation. We're 270 APAC leaders strong now. I think over 1,000 around the world, and hoping to grow and bring more of Taiwan into that in the next year.
 
 ### Oliver Chang:
 This is not just about the community, but also, it's a physical online community where everyone can be there. And then right now, on the community, there's a couple of community of practice, like COPs. For example, there's a social enterprise COP, or educational COP, or even climate action COP. We're kind of being part of the COP to discuss and find synergies to collaborate with each other from across the world. which is really helpful.
