@@ -59,7 +59,6 @@ Time flies. Yeah, it was so popular. I was telling them we have an impact report
 
 > (laughter)
 
-### Risa Pieters:
 But his session is so special and very popular. But our leaders really value listening to leaders like you from the region that they look up to and admire and feel like your leadership holds a lot of lessons and inspiration for them. So, you're a very special speaker for them. And I know leaders keep asking if you will come back and speak to future cohorts.
 
 ### Audrey Tang:
@@ -190,15 +189,13 @@ That's excellent. The youth participation network that we have built together ov
 
 > (laughter)
 
-### Audrey Tang:
 But if you want an extra recommendation and extra person to talk to, then I'm happy to help as well.
 
 ### Risa Pieters:
 Yeah, that would be great. Thank you. We really appreciate that. So, we're excited to expand and bring more Taiwanese people in next year. But yeah, I just have to say, we ask at the front of the program leaders, who would you bring in as a speaker? And your name is always at the top of the list.
 
 > (laughter)
->
-### Risa Pieters:
+
 And we agree. So, it really is a special privilege for them to hear from you. And your lessons resonate with them. I just was in Hong Kong and I was meeting with a leader who
 
 sat in the New York session last year. And he was still quoting the session, like direct quotes in his brain. And so, the impact is really high, even though that hour that you give up from your schedule, it means a lot to them and to us.
@@ -227,8 +224,7 @@ Somewhere on this planet.
 
 > (laughter)
 
-### Audrey Tang:
-the ideas we talked about last time, plurality, within the Democracy Network, there's now an entire section called Plurality Section. And they focus on bridge-making mechanisms to build cooperation across differences. Basically, the thing we just talked about.
+Yeah. But the ideas we talked about last time, plurality, within the Democracy Network, there's now an entire section called Plurality Section. And they focus on bridge-making mechanisms to build cooperation across differences. Basically, the thing we just talked about.
 
 And recently, there's also the Plurality Research Network. And the work that we did with OpenAI and Anthropic that I just talked to was also part of the plurality. It's called GETTING-Plurality Research Network. So, it's now becoming a movement of sorts.
 
@@ -291,7 +287,6 @@ Once I get more information, I will pass it to you. That one doesn't fall under 
 
 > (laughter)
 
-### Risa Pieters:
 But no, that would be really great.
 
 ### Audrey Tang:
@@ -316,7 +311,6 @@ OK. We'll have to read that. Yeah, leaders… they tend to, I don't know, there'
 
 > (laughter)
 
-### Risa Pieters:
 But they're always looking for books to read after they get exposed to a speaker or a topic, kind of extend their learning. So, I think that's one that they would probably be keen to read as well.
 
 ### Audrey Tang:
@@ -335,7 +329,6 @@ Wow. That's incredible. I'll definitely give that a read. Plurality.net. OK. I c
 
 > (laughter)
 
-### Risa Pieters:
 That's great. Thank you. I will share that with our community as well. But I'm not wearing my watch, so I don't want to take up too much of your time.
 
 ### Audrey Tang:
@@ -381,7 +374,6 @@ On the other hand, Taiwan has been able to counter the COVID almost entirely bec
 
 > (laughter)
 
-### Audrey Tang:
 In a sense, this solidarity then fueled the Taiwan perspective to be a very strong counter-narrative to the old only autocracy can combat virus narrative that we're also very familiar with.
 
 ### Risa Pieters:
@@ -391,7 +383,6 @@ And I was in Hong Kong during COVID, and so watching the news and then the respo
 
 > (laughter)
 
-### Risa Pieters:
 And so, yeah, it just remains an utmost inspiration.
 
 ### Oliver Chang:
@@ -424,7 +415,6 @@ So, one of the main lobby points that we did back when I was minister without po
 
 > (laughter)
 
-### Audrey Tang:
 And so, they're personal workshops, even… So, this year, we switched all the way, so that the T-Com, marketplace, and everything, not just take care of co-ops and SIOs and local long-term care facilities, or whatever, clinics, but actually spend most of their business development budget to help digital transformation, to connect the digital gap.
 
 Because we saw that with generative AI and things like that, the larger, even medium-sized companies, they have no problem adjusting. But micro-ones and the social innovation organizations have a lot of problems adapting, just that their data quality is not there. So, now we have the ADI and also the moda to help them. So yeah, if you need someone on the committee, we have many people now.
@@ -450,7 +440,6 @@ That's great. SSIR is really great. Yeah. They have such a wide readership. I me
 
 > (laughter)
 
-### Risa Pieters:
 But we pay it because it's so important.
 
 ### Oliver Chang:
