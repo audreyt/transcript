@@ -85,7 +85,7 @@ Well, I already posted everything I would say [to the public web](https://pdis.n
 Oh yeah!
 
 ### Audrey Tang:
-So, "AI and Democracy" — What are you going to talk about?
+So, [AI and Democracy](https://www.youtube.com/watch?v=W3M-H6pYHWg) — What are you going to talk about?
 
 ### Lawrence Lessig:
 Well, basically, AI will end democracy.
