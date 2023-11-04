@@ -140,7 +140,7 @@ This is about, you probably already have hours and hours of deep interviews, or 
 Then it's just understand the perspective, and summarize it in a way that is sympathetic to that group. And you can then lead a group discussion, and show them the summary. And they can say, ‘oh, this was misrepresenting,’ ‘I didn't mean it like that,’ and so on. And you can also tune it overnight. And then after a while, you will have a co-facilitator that understand very deeply what is important to the community for them to have a voice, exactly.
 
 ### Interviewer:
-Okay. Let me talk [about]… You were a protester once.
+Okay. Let me talk about… You were a protester once.
 
 ### Audrey Tang:
 Sure.
@@ -210,7 +210,7 @@ No, I think what we have shown was that while many countries were forced by the 
 So, while in our region, many countries backslid on their amount of free expressions, Taiwan actually advanced, not by a lot, I would say, advanced a little bit, but because there's a gradual backslide across our region. So now we're at the top one.
 
 ### Interviewer:
-I looked at that list, actually, and you were head of the United Kingdom. I think I'll need… Who was ahead of you? Iceland, Costa Rica, Canada? Have I got that right? I'm not sure about my number three. And number four, I think, was Taiwan. And that's for Freedom House 2022 for internet freedom.
+I looked at that list, actually, and you were ahead of the United Kingdom. I think I'll need… Who was ahead of you? Iceland, Costa Rica, Canada? Have I got that right? I'm not sure about my number three. And number four, I think, was Taiwan. And that's for Freedom House 2022 for internet freedom.
 
 There was, with some of your initiatives for a digital democracy in Taiwan, a freedom of expression we've talked about, but no reply button on some of the projects. Talk to me about that.
 
@@ -227,13 +227,13 @@ And this is very powerful, because those cruxes, the bridge makers, once they ge
 Why are you such an optimist, do you think?
 
 ### Audrey Tang:
-Well, because we did counter the pandemic without a day of lockdown, and the infodemic without a single administrative takedown. So, we do have some confidence that this thing actually works in a quality of 23 million.
+Well, because we did counter the pandemic without a day of lockdown, and the infodemic without a single administrative takedown. So, we do have some confidence that this thing actually works in a polity of 23 million.
 
 ### Interviewer:
 What is the biggest challenge?
 
 ### Audrey Tang:
-The main challenge is to maintain credible neutrality. So, I think now all the four major parties, MPs in the parliament, generally understand that I'm not just non-binary, but really all partisan, right? Non-partisan, pan-partisan, so that I take the sides of all four major parties.
+The main challenge is to maintain credible neutrality. So, I think now all the four major parties, MPs in the parliament, generally understand that I'm not just non-binary, but really all-partisan, right? Non-partisan, pan-partisan, so that I take the sides of all four major parties.
 
 But back in 2014, it was considered almost impossible for someone to have credible neutrality and also work on internet style of platforms and digital democracy.
 
@@ -247,7 +247,7 @@ Well, I was part of the Ma Ying-jeou administration in 2014. I joined the cabine
 I should say, the previous administration, which is a person who was with the KMT, as opposed to the DPP, who are currently in power.
 
 ### Audrey Tang:
-Exactly. So, and I'm not alone in this, right? Our trade negotiation minister, John Dung, was minister of economic affairs also in the Manchuria administration. So, I think at this time, there's more independent cabinet members than members of any party in the cabinet. So, when I say credibly neutral, this is what I mean.
+Exactly. So, and I'm not alone in this, right? Our trade negotiation minister, John Deng, was minister of economic affairs also in the Ma Ying-jeou administration. So, I think at this time, there's more independent cabinet members than members of any party in the cabinet. So, when I say credibly neutral, this is what I mean.
 
 ### Interviewer:
 Is it difficult to remain neutral?
@@ -321,7 +321,7 @@ Interesting. Um, you did write your own job description.
 ### Audrey Tang:
 Yes. So it's really a prayer or a poem. So that was in 2016 because Taiwan never had a digital minister. So, people keep asking me, what does a digital minister do? And because in Mandarin, as I mentioned, ‘shu wei’ means plural, not just digital. So, I had this wordplay and wrote a job description based on the idea of digital as plurality.
 
-So, it's very short, I'll just read it to you. When we see internet of things, let's make it an internet of beings. When we see virtual reality, let's make it a shared reality. When we see machine learning, let's make it collaborative learning. When we see user experience, let's make it about human experience. And whenever we hear that singularity is near, let's always remember the plurality is here.
+So, it's very short, I'll just read it to you: "When we see internet of things, let's make it an internet of beings. When we see virtual reality, let's make it a shared reality. When we see machine learning, let's make it collaborative learning. When we see user experience, let's make it about human experience. And whenever we hear that singularity is near, let's always remember the plurality is here."
 
 ### Interviewer:
 Very nice. One more, just thinking about AI, this is the last one. Where do you see it going? You've talked about, I think you see AI or the internet really as a tool that can be used. It's not good or bad, it's just a tool. But, because you can probably look into the future… [laughter] I mean, one of the top 100 people in AI. Where do you see it?
