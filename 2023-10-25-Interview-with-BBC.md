@@ -281,7 +281,7 @@ Yeah, I'll do this again. So last August, at the height of cyberattacks, Ms. Hsi
 
 > (laughter)
 
-Because that's the battlefield. If the psyops, if the cognitive warfare, if everything renders us unable to sleep, then we don't get to learn from what transpired during the day. Humans learn by four or more hours of sleep in which the short-term memory is internalized into long-term memory. And if we don't get hours of sleep every day, then we don't get to learn from those attacks, which means that novel ways of attack will always catch us. But if we sleep for eight, four hours, we are able to come up with very creative strategies.
+Because that's the battlefield. If the psyops, if the cognitive warfare, if everything renders us unable to sleep, then we don't get to learn from what transpired during the day. Humans learn by four or more hours of sleep in which the short-term memory is internalized into long-term memory. And if we don't get hours of sleep every day, then we don't get to learn from those attacks, which means that novel ways of attack will always catch us. But if we sleep for eight full hours, we are able to come up with very creative strategies.
 
 ### Interviewer:
 So, you sleep well?
