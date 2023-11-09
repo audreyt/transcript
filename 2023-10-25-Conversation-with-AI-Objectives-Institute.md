@@ -60,7 +60,7 @@ This is the recursive dataset. I can send a short video that I compiled of a lot
 ### Audrey Tang:
 You can also just airplay it.
 
-### Wendy:
+### Wendy Hsueh:
 Oh, yeah.
 
 ### Vehbi Deger Turan:
@@ -578,7 +578,7 @@ OK, that's good. I'm curious, like what comes to your mind is, you know. Which f
 ### Audrey Tang:
 Yeah, you can say mentoring as well.
 
-### Wendy:
+### Wendy Hsueh:
 Which part would you like to know？
 
 ### Vehbi Deger Turan:
@@ -588,13 +588,13 @@ But people be canvassing would work in your projection. Like, what is what is so
 
 Is there something specific that actually would be helpful or we will have more data than a human would be able to read in these systems. So what would be helpful?
 
-### Wendy:
+### Wendy Hsueh:
 So, we are a digital industry.
 
 ### Audrey Tang:
 That's right.
 
-### Wendy:
+### Wendy Hsueh:
 Yeah, so, also AI is an important issue in the future. So, choose a base topic. But, actually, I think a lot of public issues like rules or regulations that we usually want to use.
 
 ### Audrey Tang:
