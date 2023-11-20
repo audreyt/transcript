@@ -469,7 +469,7 @@ Yeah. Um, cool. Anything else? About five minutes… anything else that jumps ou
 Yeah, we've went through the whole agenda for not eating anything from Wendy.
 
 ### Wendy Hsueh:
-I only have one thing to mention about the conclusion of the declaration. And it's very important to approach the government, because a lot of initial conversations, everyone took that, but if we just keep discussing and don’t…
+There is only one thing I would like to mention it, thai is about the public discussion on the review. The results of the public discussion must be linked back to the government policy, because if it is not linked back to the government policy, the content of the discussion will become an invalid discussion. Therefore, the schedule must be meaningful. The premise is that the purpose and method of discussion must be well designed.
 
 ### Audrey Tang:
 Indeed. After the bridges are made between the same building groups or clustering, if result in governance changes either from any level of governments on regulations or maybe municipal level changes if it's a river.
