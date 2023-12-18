@@ -31,7 +31,7 @@ Computer programming I started very early on, when I was eight years old, but it
 When I was 12 when I joined, it was 1993. There was no graphical browsers, yet. The World Wide Web was just being invented.
 
 ### Audrey Tang:
-Gopher and FTP Rkey and so on were the dominant players. I personally fell in love with the Gopher technology, and also was very frequent in the dial-up BBS that are being transplanted onto the Internet into a kind of massively-multiplayer BBS. They are still around.
+Gopher, FTP, Archive and so on were the dominant players. I personally fell in love with the Gopher technology, and also was very frequent in the dial-up BBS that are being transplanted onto the Internet into a kind of massively-multiplayer BBS. They are still around.
 
 ### Audrey Tang:
 The point is that I witnessed for myself as an enthusiast and as an early adopter how World Wide Web just boardified everything, and helped I think mostly by Gopher’s restrictive copyright license at the time. Gopher was refusing to hand out license in a non-exclusive, open fashion.
