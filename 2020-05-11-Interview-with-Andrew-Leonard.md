@@ -34,7 +34,7 @@ When I was 12 when I joined, it was 1993. There was no graphical browsers, yet. 
 Gopher, FTP, Archive and so on were the dominant players. I personally fell in love with the Gopher technology, and also was very frequent in the dial-up BBS that are being transplanted onto the Internet into a kind of massively-multiplayer BBS. They are still around.
 
 ### Audrey Tang:
-The point is that I witnessed for myself as an enthusiast and as an early adopter how World Wide Web just boardified everything, and helped I think mostly by Gopher’s restrictive copyright license at the time. Gopher was refusing to hand out license in a non-exclusive, open fashion.
+The point is that I witnessed for myself as an enthusiast and as an early adopter how World Wide Web just borgified everything, and helped I think mostly by Gopher’s restrictive copyright license at the time. Gopher was refusing to hand out license in a non-exclusive, open fashion.
 
 ### Audrey Tang:
 You have to actually talk to the Gopher makers to operate your own Gopher server, whereas as we all know, Tim Berners-Lee did nothing of that sort and said everybody is welcome to fork my ideas. I paraphrase.
@@ -85,7 +85,7 @@ Also, inoculation. Making sure that people receive a different kind of sentiment
 It all depends on which are the driving sentiments. We happened to chose humor and fun as our driving sentiment. I think that is where it really diverges.
 
 ### Andrew Leonard:
-That seems to be maybe coming in a little later. I’m also curious about, I talked to a guy who studies disinformation for the Institute of the Future, and he’s spent time in Taiwan, has really been tracking things. He thinks that Taiwan has the most active civil tech society in the world.
+That seems to be maybe coming in a little later. I’m also curious about, I talked to a guy who studies disinformation for the Institute of the Future, and he’s spent time in Taiwan, has really been tracking things. He thinks that Taiwan has the most active civic tech society in the world.
 
 ### Audrey Tang:
 Oh, yeah, certainly.
@@ -683,7 +683,7 @@ Is there a way to quantify how many people in Taiwan participate in civil tech w
 Sure. You can just look at a number of people in the g0v Slack channel. It’s a good proxy. At the moment, the general channel is 7,400 people. The active people in the COVID-19 channel is 547.
 
 ### Audrey Tang:
-For each idea is different. There’s the random channel, where people are just typing random things for the Mozilla Common Voice to use as speech synthesis and recognition samples. They have 300 people. vTaiwan is 271 people, and so on and so forth. The general channel is 7,400.
+For each idea is different. There’s the random channel, where people are just typing random things for the Mozilla Common Voice to use as speech synthesis and recognition samples. That channel has 300 people. the vTaiwan channel is 271 people, and so on and so forth. The general channel is 7,400.
 
 ### Andrew Leonard:
 What does that mean for just larger penetration into Taiwanese society? How many people are engaged in…?
