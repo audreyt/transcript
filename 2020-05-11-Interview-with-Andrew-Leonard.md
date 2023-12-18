@@ -222,7 +222,7 @@ No problem.
 I can’t hear you now. There’s no sound.
 
 ### Audrey Tang:
-OK, right. I’m back. Shared experiences help, so this is Starbucks. \[laughs\] When I work with Silicon Valley companies, mostly telecommuting, social text, there was a colleague who sent me bottles of wine. Not very expensive ones, just bottles of wine from Napa Valley so that we can video conference and then drink the same wine.
+OK, right. I’m back. Shared experiences help, so this is Starbucks. \[laughs\] When I work with Silicon Valley companies, mostly telecommuting, at Socialtext there was a colleague who sent me bottles of wine. Not very expensive ones, just bottles of wine from Napa Valley so that we can video conference and then drink the same wine.
 
 ### Andrew Leonard:
 \[laughs\] That’s nice.
