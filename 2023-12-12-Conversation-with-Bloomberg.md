@@ -27,7 +27,7 @@ But I'm all three, and I'm also chair of the National Institute of Cyber Securit
 But you do still have a tradeoff that’s inside your head.
 
 ### Audrey Tang:
-Inside my head, I need to turn conflicts into creation. I need to overcome the threat side of machine integrity including deepfakes and so on, without decimating freedom of speech and freedom of journalism and so on. And so, there is no easy solutions for all of those issues that are facing us.
+Inside my head, I need to turn conflicts into creation. I need to overcome the threat against information integrity including deepfakes and so on, without decimating freedom of speech and freedom of journalism and so on. And so, there is no easy solutions for all of those issues that are facing us.
 
 But I think one of my priorities throughout is to co-create, to work with, not for, the people, so that the people who have actually delivered on a smaller scale, solutions that overcome those trade-offs can be scaled to national scale.
 
