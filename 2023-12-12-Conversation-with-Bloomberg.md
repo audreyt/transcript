@@ -335,7 +335,7 @@ And in a sense, I think, in Taiwan, we face the most advanced form of those mani
 Do you have a potential scenario of what may happen next year after the election? Like if the vice president wins the election, what kind of attack that we expect to see?
 
 ### Audrey Tang:
-I thought you were about to say, if we have super intelligence, they want to run, right?
+I thought you were about to say, if we have produced artificial superintelligence, they would want to run, right?
 
 > (laughter)
 
@@ -369,7 +369,7 @@ Now, with that said, there are parts reviewed by the survey that we still need t
 This is the OECD PISA?
 
 ### Audrey Tang:
-It was something that's published along with PISA. PISA is education. This is the civic measurement or something, but it's published on the same day as PISA. It was announced in the cabinet meeting a week or two ago. Last week, exactly. So, we have beautiful PowerPoints and so on.
+It was ICCS (International Civic and Citizenship Education Study), published along with PISA. PISA is education. This is the civic measurement or something, but it's published on the same day as PISA. It was announced in the cabinet meeting a week or two ago. Last week, exactly. So, we have beautiful PowerPoints and so on.
 
 And really, we're quite proud of the work of the teachers because this is really, to me, it feels very assuring because before entering the cabinet, I worked on the basic education curriculum, the so-called 2019 basic education curriculum. And that reform is a comprehensive switch from rote memorization, so-called literacy curriculum, to a maker-doer competence - no standardized answers. You work with your fellow students and help them compete against them. So, almost Nordic way of reimagining education.
 
