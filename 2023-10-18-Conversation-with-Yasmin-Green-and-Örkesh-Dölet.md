@@ -284,7 +284,7 @@ Yeah, of course.
 Can you show it right now?
 
 ### Audrey Tang:
-Yeah, of course. This is called [Talk to the City](https://www.talktothe.city/twitter). You can just take a picture.
+Yeah, of course. This is called Talk to the City. You can just take a picture.
 
 ### Yasmin Green:
 Yeah, picture. Yes, ok.

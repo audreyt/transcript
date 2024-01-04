@@ -257,11 +257,11 @@ I see. The way we're using Polis now goes well beyond just the original wiki sur
 > (laughter)
 
 ### Audrey Tang:
-And then this website called Talk to the City charted all these [Twitter conversations related to AI governance](https://www.talktothe.city/twitter). And then, using a language model, grouped them, but more importantly this lets us visualize the bridging statements, right? So at that point the main divisiveness -- here is the [initial CIP Polis report](https://pol.is/report/r3nhe9auvzhr36dwaytsk) -- was whether we call this an extinction risk.
+And then this website called Talk to the City charted all these Twitter conversations related to AI governance. And then, using a language model, grouped them, but more importantly this lets us visualize the bridging statements, right? So at that point the main divisiveness -- here is the [initial CIP Polis report](https://pol.is/report/r3nhe9auvzhr36dwaytsk) -- was whether we call this an extinction risk.
 
 Half the people think we shouldn't because it just paralyzes people and it's crying wolf, but the other half thinks that the people are not taking safety seriously, especially when it concerns global coordination and democracy. So only by comparing it to a nuclear bomb can we do anything useful for safety. I think Tristan was right in the middle of it.
 
-What this does is that it focuses on things, for example, on the long-term concerns. We can then talk to a cluster and ask, "What are the [bridging narratives](https://vitalik.ca/general/2023/08/16/communitynotes.html)?" In July, we ran a [Taiwan-specific version](https://www.talktothe.city/genai) as part of our alignment assemblies. And for example, in Taiwan, people would say that, for example, integrating AI into governmental uses and the public officials, we should demonstrate our use of responsible AI as an example to the industry.
+What this does is that it focuses on things, for example, on the long-term concerns. We can then talk to a cluster and ask, "What are the [bridging narratives](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)?" In July, we ran a [Taiwan-specific version](https://tttc.dev/genai) as part of our alignment assemblies. And for example, in Taiwan, people would say that, for example, integrating AI into governmental uses and the public officials, we should demonstrate our use of responsible AI as an example to the industry.
 
 Now, that sentiment wasn't found in the previous conversation at all. But for Taiwan, this is a bridging narrative. And then we can talk to this particular cluster, like establish legal foundation of public sector use and things like that.
 

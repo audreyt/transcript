@@ -115,7 +115,7 @@ And I know that you've already listed some examples, but I was wondering if you 
 I mean, you've talked about kind of radical transparency and even these fact checks, like these sort of civil society things, but are there ways that you think the government can or is already incorporating AI to enhance and strengthen democracy?
 
 ### Audrey Tang:
-Yes, definitely. If you go to this website, it's called [Talk to the City](https://www.talktothe.city/genai?lang=tw), you can see our recent alignment assembly, which is gathered by the polis tool. If you click on it, you can very quickly see a constellation, and it's bilingual. So regardless of whether the person commented in English or in Mandarin, it can be displayed as the same cluster.
+Yes, definitely. If you go to this website, it's called [Talk to the City](https://tttc.dev/genai), you can see our recent alignment assembly, which is gathered by the polis tool. If you click on it, you can very quickly see a constellation, and it's bilingual. So regardless of whether the person commented in English or in Mandarin, it can be displayed as the same cluster.
 
 And then if you click into a cluster on the right, you will see the main arguments, which are also summarized by the reports on the top right. But if you click into a statement in the cluster, you should be able to have a conversation with that cluster. You can ask, why do you believe this? Can you elaborate? I disagree, and so on.
 
