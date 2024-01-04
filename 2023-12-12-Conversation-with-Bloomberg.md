@@ -195,7 +195,7 @@ We think the journalists and correspondents, are very high on the priority.
 Okay, good to know.
 
 ### Audrey Tang:
-My parents are both journalists. Video pilots from there.
+My parents are both journalists. Filial piety and all that.
 
 > (laughter)
 
