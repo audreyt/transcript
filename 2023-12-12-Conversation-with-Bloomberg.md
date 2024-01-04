@@ -63,7 +63,7 @@ Yes.
 What about for the next… for China’s next challenge?
 
 ### Audrey Tang:
-So, I think one of the newer attack vectors that we see now is… of course, generative AI is on everyone's mind. But even leaving aside the societal scale, extinction risk, whatever, let's just focus on the short term.
+So, I think one of the newer attack vectors that we see now is… of course, generative AI is on everyone's mind. But even leaving aside the societal scale, extinction risk, whatever -- let's just focus on the short term for now.
 
 Prior to generative AI, it was costly to spearfish, to scam someone in an individual-to-individual fashion. You have to note that target person's culture, language, habits, and so on, in order to mount social engineering attacks. But now, even if you don't speak Mandarin at all, you can mount very convincing spearfishing attacks thanks to language models, right?
 
@@ -139,7 +139,7 @@ I visited OpenAI when I was a Minister without portfolio and had very good conve
 And so, what's it called when you said the exercise you did with OpenAI?
 
 ### Audrey Tang:
-It's called an alignment assembly. Yeah, you can find it on cip.org, collectiveintelligenceproject.org. It's called alignment assemblies. We also run our own alignment assemblies in Tainan and Taipei. And the consensus is very different from the US population, actually.
+It's called an alignment assembly. Yeah, you can find it on cip.org, Collective Intelligence Project. It's called Alignment Assemblies. We also run our own alignment assemblies in Tainan and Taipei. And the consensus is very different from the US population, actually.
 
 ### Stephanie Flanders:
 You can tell. I've been most of my time as an economist, so I find this fascinating. And all of these things are now interacting with the, obviously, the world of economic support. So, I need to learn from you. I'm just trying to get…
@@ -159,7 +159,7 @@ We're happy that the community notes feature has been translated in Taiwan.
 No, no, no. Starlink.
 
 ### Audrey Tang:
-Oh, with Starlink. He has so many comments.
+Oh, with Starlink. He has so many companies.
 
 > (laughter)
 
@@ -297,7 +297,7 @@ And, I mean, voice cloning, scam calls, robocalls is a thing, right? And so, bas
 
 And so, this kind of things, I think, while, of course, a great threat to all the liberal democracies that are international phone calls, and is now actually, interestingly, playing an inoculating role in this society. Because now, people know that there are deepfakes that can, you know, are shape-shifter that can take your friends' and family's voices.
 
-People who know that or know people who have been subjected to that are far less likely to be captured by deepfakes leading up to an election.
+People who know that — or know people who have been subjected to that — are far less likely to be captured by deepfakes leading up to an election.
 
 ### Stephanie Flanders:
 So, do you think that probably you shouldn't… around the US election, for example, think that, there's lots of things that one might think that are not important. There's lots of things that one might be worried about in the US election, maybe even the result we might worry about, but that deepfakes are not necessarily going to determine the result in the way that we might have thought?
@@ -311,7 +311,7 @@ What are the examples of the change of AI? What you were just talking about? Whe
 ### Audrey Tang:
 Well, in a sense, we’ve already seen it on Facebook in the series. And on, you know, those short videos. And especially around short videos.
 
-I think that the point I'm making is that, so I consciously don't touch the touchscreen for more than a second, like just a few seconds. I always use a stylus. And that is because once I touch the touchscreen for, say, an hour or so, my brain changes, right? It thinks that the screen is part of my body. and it's become difficult to put it down. And it's almost like a screen scrolling making my brain scrolling the screen at that point. And we discovered that quite long ago, so I've always used Palm Pilot, Sharp Zoros, Galaxy Note, now Galaxy Fold, not as product endorsement, just a matter of fact, because they were the stylus-attaching devices of each generation.
+I think that the point I'm making is that, so I consciously don't touch the touchscreen for more than a second, like just a few seconds. I always use a stylus. And that is because once I touch the touchscreen for, say, an hour or so, my brain changes, right? It thinks that the screen is part of my body. and it's become difficult to put it down. And it's almost like a screen scrolling making my brain scrolling the screen at that point. And we discovered that quite long ago, so I've always used Palm Pilot, Sharp Zaurus, Galaxy Note, now Galaxy Fold, not as product endorsement, just a matter of fact, because they were the stylus-attaching devices of each generation.
 
 But I think once people become addicted to a precision surveillance/profiling AI that can now synthesize content, not just push content to you, it is a real vehicle. If I am someone who wants to push a certain political agenda and things like that, you also alluded to it when you say that it's about nudging. It's no longer about a viral disinformation. It's about nudging people to think slightly a certain way in an individualized, persuasive manner.
 
