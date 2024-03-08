@@ -825,7 +825,7 @@ Github 只是我們中間的鏡像站。
 喔？
 
 ### 唐鳳：
-如果將來乙太坊 merge 成功了，那歡迎加入淨零的行列。
+如果將來以太坊 merge 成功了，那歡迎加入淨零的行列。
 
 ### Isabel Hou：
 我覺得這樣子滿好的，你知道「＃decentralizehk」那個專案，我覺得我們很早開始「＃decentralizetaiwan」。
