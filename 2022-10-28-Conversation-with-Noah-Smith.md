@@ -982,7 +982,7 @@ Of all these, only video game is within our ministerial portfolio.
 I would say that, are there video game studios in Taiwan?
 
 ### Audrey Tang:
-Yes. Quite a few. They actually cross-pollinate. They take good ideas from video games -- like [Detention](https://en.wikipedia.org/wiki/Detention_(video_game)) -- and make [movies](https://en.wikipedia.org/wiki/Detention_(2019_film)) from it, make comics about it. There are pretty good video games studios here.
+Yes. Quite a few. They actually cross-pollinate. They take good ideas from video games -- like [Detention](https://en.wikipedia.org/wiki/Detention_%28video_game%29) -- and make [movies](https://en.wikipedia.org/wiki/Detention_%282019_film%29) from it, make comics about it. There are pretty good video games studios here.
 
 ### Noah Smith:
 I would do that. I would also try to focus on something with live action. Live action includes TV, movies, and music because you actually see the person.
