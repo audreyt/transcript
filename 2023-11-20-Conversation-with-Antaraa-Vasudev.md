@@ -248,7 +248,7 @@ And sometimes you need some of that. But I feel like in our context where rebell
 ### Audrey Tang:
 So, you're already aware of the plurality mindset. So, let's just talk about plurality for a bit.
 
-Plurality means [collaborative diversity](https://www.plurality.net/v/chapters/05-00/eng/#the-depth-breadth-spectrum). And things that are diverse you can basically use Dunbar's number, like 150 people. Taiwan is perhaps here... And the world may be here. And collaboration. You can like… the lowest transaction cost collaboration is maybe just a few bits of, you know, let's just quote a bargain. So, one dollar to one dollar. And voting. which you can design like for traffic voting. You know, interesting voting system. So, it's just a step above market. And here you have conversation. And here you have co-creation. And here you have, let's just call it, intimacy.
+Plurality means [collaborative diversity](https://www.plurality.net/v/chapters/5-0/eng/#the-depth-breadth-spectrum). And things that are diverse you can basically use Dunbar's number, like 150 people. Taiwan is perhaps here... And the world may be here. And collaboration. You can like… the lowest transaction cost collaboration is maybe just a few bits of, you know, let's just quote a bargain. So, one dollar to one dollar. And voting. which you can design like for traffic voting. You know, interesting voting system. So, it's just a step above market. And here you have conversation. And here you have co-creation. And here you have, let's just call it, intimacy.
 
 Now, the original constraint was that if you wanted these audiences in the world, we only really have a few.
 
