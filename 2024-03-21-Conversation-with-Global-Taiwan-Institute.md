@@ -179,7 +179,7 @@ We don't have jurisdiction over Taiwan.
 ### Audrey Tang:
 Well, we also have a Cyber Security Management Act, currently in the cabinet, that takes the same definition as the bill in the Senate, which means any source, any entity that is de facto controlled by a foreign adversary is subject to the Cyber Security Management Act, and any product or service that is controlled by this entity — which means the foreign adversary only has indirect control — is considered harmful.
 
-It doesn't matter where its company is registered. It doesn't matter which shareholder structure it takes, as long as there is any indication from our Netsack or from ministries of economy or trade or whatever that indicates this indirect control. It can be two evidences, one on this and one on this, then it's classified as a harmful product.
+It doesn't matter where its company is registered. It doesn't matter which shareholder structure it takes, as long as there is any indication from our natsec or from ministries of economy or trade or whatever that indicates this indirect control. It can be two evidences, one on this and one on this, then it's classified as a harmful product.
 
 Not only it's banned within the government as where you already are, but also in government-operated places and the internet access service provided there. Where neccessary, we can also extend it to specific critical infrastructure providers, as well as places operated by them.
 
