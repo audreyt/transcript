@@ -49,7 +49,7 @@ This is also something that is very helpful. Instead of asking people to look at
 
 We sent these to hundreds of thousands of people. We use a sortition method, chose a representative sample of 450 people, and asked them to go online this Saturday, on a series of deliberations about the red lines of the platforms and how much state control is warranted for which measures. 
 
-So think of it like a radar scanning of what people across all parties feel as the most immediate mark and what is considered proportionate for us to assign a liability scheme. And once that is collected, we send it to the department and say, There's this is special anti-scam law or anti-fraud law or whatever. This is what the people across parties already want, so please pass it as ASAP. 
+So think of it like a radar scanning of what people across all parties feel as the most immediate mark and what is considered proportionate for us to assign a liability scheme. And once that is collected, we send it to the department and say, there's this is special anti-scam law or anti-fraud law or whatever. This is what the people across parties already want, so please pass it as ASAP. 
 
 So with this rapid coordination and rapid legislation, I think we're still in a phase where it's manageable because we took action before it got to community spread, so to speak. But if it's already widely community spread, then maybe some lockdown or takedown will be filled as justified. But just as in front of a pandemic, we try not to go there because we challenge our libertarian-ish internet regime.
 
