@@ -45,7 +45,7 @@ That's a great question. I think it's manageable if and only if we fully ask the
 
 This is also why our investment scam law is the way it is. There's no fine on Facebook, but if somebody get conned for 1 million after Facebook knowingly caused that advertisement of defake, Facebook is liable for that 1 million. We've not fined Facebook yet, but they actually complied magically. We need to do that for each and every harm, and we're running a civic deliberation. We send to hundreds of thousands of random SMS numbers using our official number, 111, which means it's our official communication. 
 
-This is also something that is very helpful. Instead of asking people to look at content or behavior of communication, just have short codes, easily memorable, and say everything else, the purpose to be official is a scam.
+This is also something that is very helpful. Instead of asking people to look at content or behavior of communication, just have short codes, easily memorable, and say everything else that purports to be official is a scam.
 
 We sent these to hundreds of thousands of people. We use a sortition method, chose a representative sample of 450 people, and asked them to go online this Saturday, on a series of deliberations about the red lines of the platforms and how much state control is warranted for which measures. 
 
