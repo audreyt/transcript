@@ -135,7 +135,7 @@ Maybe I could ask one more question. When I was working in Congress in Capitol H
 ...packages of cyber norms.
 
 ### Igor Khrestin:
-Yes. Given that our adversaries, in the US, are very deeply embedded, a lot of this is public now in our infrastructure. Is such a thing possible? That's the first question where, again, through your own process you described trying to see things from others' perspective. Is it possible to come to some a consensus where, because I'm not an expert, I would say, We will not destroy the universe, Oppenheimer style, through the tools that we've developed that we have? 
+Yes. Given that our adversaries, in the US, are very deeply embedded, a lot of this is public now in our infrastructure. Is such a thing possible? That's the first question where, again, through your own process you described trying to see things from others' perspective. Is it possible to come to some a consensus where, because I'm not an expert, I would say, we will not destroy the universe, oppenheimer style, through the tools that we've developed that we have? 
 
 Or has the Ukraine war, on the other hand, rendered that impossible because it demonstrated, obviously, the capability of some of these tools, but also the deterrent effect of them. Maybe you should have some thoughts on that.
 
