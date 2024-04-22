@@ -165,7 +165,7 @@ These technologies are not unseen. People can look at the product and see it's p
 
 That is to say to make it maximally appealing to you. Super stimulus. Where it used to require pre-training time, alignment, and inference, and so on, which is very costly. It doesn't have to be so. According to that paper, people can just film a vote for this candidate or whatever, a very regular video.
 
-But across the 5 million devices that view the video using their own GP, it's turned into a super stimulus that impersonates the people they trust more or are speaking an accent that they trust more, which they already have the reward model anyway, based on their viewing capability. Again, this is not secret. They publish it.
+But across the 5 million devices that view the video using their own GPU, it's turned into a super stimulus that impersonates the people they trust more or are speaking an accent that they trust more, which they already have the reward model anyway, based on their viewing capability. Again, this is not secret. They publish it.
 
 ### Interviewer Man:
 What's the proper countermeasures?
