@@ -49,17 +49,17 @@ This is also something that is very helpful. Instead of asking people to look at
 
 We sent these to hundreds of thousands of people. We use a sortition method, chose a representative sample of 450 people, and asked them to go online this Saturday, on a series of deliberations about the red lines of the platforms and how much state control is warranted for which measures. 
 
-So think of it like a radar scanning of what people across all parties feel as the most immediate mark and what is considered proportionate for us to assign a liability scheme. And once that is collected, we send it to the department and say, there's this is special anti-scam law or anti-fraud law or whatever. This is what the people across parties already want, so please pass it as ASAP. 
+So think of it like a radar scanning of what people across all parties feel as the most immediate mark and what is considered proportionate for us to assign a liability scheme. And once that is collected, we send it to the department and say, there's this is special anti-scam law or anti-fraud law or whatever — "This is what the people across parties already want, so please pass it as ASAP."
 
 So with this rapid coordination and rapid legislation, I think we're still in a phase where it's manageable because we took action before it got to community spread, so to speak. But if it's already widely community spread, then maybe some lockdown or takedown will be filled as justified. But just as in front of a pandemic, we try not to go there because we challenge our libertarian-ish internet regime.
 
-### Interviewer Woman:
+### Liza Tobin:
 I wonder if I can turn the topic to critical infrastructure. Clearly, this is on everybody's minds. How do we defend our critical infrastructure, especially in an age of AI with digitization affecting everything? I think in the last 6-12 months or so, more and more information has come out in the public domain about China's attacks on US critical infrastructure.
 
 ### Audrey Tang:
 Volt Typhoon, all sorts of typhoons.
 
-### Interviewer Woman:
+### Liza Tobin:
 Yes. It's a challenge, and the US government, frankly, hasn't gotten its hands fully around problem. I've also heard that in the last few years, the manufacturing sector is the most under attack. As the US is attempting to rebuild our manufacturing base, at the same time as we want to harness AI and automation technologies to make that efficient, we're also inadvertently adding threat vectors because there's sensors embedded in everything. 
 
 I'm just wondering where Taiwan is on this issue of defending critical infrastructure, in particular as it pertains to the manufacturing sector and what advice you have and how far along are you in getting a handle on that problem 
@@ -79,7 +79,7 @@ Anyway, so by insisting on interoperable protocols, transparently procured, we a
 
 But also we started later. People who started earlier have to pay more for this kind of thing. But now, like FIDO implementations, interoperable protocols around zero knowledge verification, what the EU calls digital identity wallets, and so on. These are now mature technology, thanks to blockchain. Now, when we start doing it, we can afford to roll it out nationwide instead of proof of concepts like people who tried to do this 10 years ago.
 
-### Interviewer Woman:
+### Liza Tobin:
 Do you offer training to other countries? Is this something you offer?
 
 ### Audrey Tang:
@@ -94,25 +94,25 @@ But actually, we found a lot of attacks are those very attrition-type-like denia
 ### Audrey Tang:
 They don't even deny it. They just say it's an accident. I think with the gray zone operations, that is going to be the norm. We have to assume breach for our physical infrastructures that are location-transparent to the entire society.
 
-### Interviewer Woman:
+### Liza Tobin:
 That's very interesting. You're working with the three US cloud providers on those?
 
 ### Audrey Tang:
-Yeah, Microsoft, Google, and Amazon anyway. 
+Yeah, Microsoft, Google, and Amazon. 
 
-### Interviewer Man:
+### Russell Hsiao:
 Since you mentioned one lesson from Ukraine, what are some other lessons that you've drawn from the Russia/Ukraine war?
 
 ### Audrey Tang:
-Open Source really works. They open sourceed the Diia app recently, their super app. It's really flipped the default because many people in national security or defense and so on, they see open source and they think the adversary can send pull request, which is scary. But when coupled with a good software build of a material on regime, the spawn regime, free software or open source can be every bit as secure because it also means that independent security analysis can run on the code base, which at least theoretically should make it more secure if the red team and pentesters have even higher technical expertise than the attackers. 
+Open Source really works. They open sourced the Diia app recently, their super app. It's really flipped the default because many people in national security or defense and so on, they see open source and they think the adversary can send pull request, which is scary. But when coupled with a good software build of a material on regime, the spawn regime, free software or open source can be every bit as secure because it also means that independent security analysis can run on the code base, which at least theoretically should make it more secure if the red team and pentesters have even higher technical expertise than the attackers. 
 
-We very consciously push non-open source but public code, which means that it's not just open source, but comes with a set of code regulations and code of adoption within the government. It's either greenfield government code or government vetted code with full software-built materials. For something qualifying as public code, it can receive public infrastructure budget in Taiwan, which is a new plan starting this year. It used the same pocket of money as highways and bridges and so on, which means it's both more plentiful and also that people feel it's okay to invest more upfront.
+We very consciously push not "open source" but "public code" which means that it's not just open source, but comes with a set of code regulations and code of adoption within the government. It's either greenfield government code or government vetted code with full software-built materials. For something qualifying as public code, it can receive public infrastructure budget in Taiwan, which is a new plan starting this year. It used the same pocket of money as highways and bridges and so on, which means it's both more plentiful and also that people feel it's okay to invest more upfront.
 
 Because previously, many jurisdictions said, open source is a cost-saving measure, which doesn't make sense, actually. It is a resilience measure. It means that more people can reuse the components and improve their resilience and their adaptability, but it's going to cost more, actually. 
 
 Now that the budget comes from the highway and bridges, pockets, people generally think, Yeah, of course, we should invest more because investment of public construction that's going to be reused across jurisdictional boundaries, of course, should cost more. This is another thing that we push for procurement. Really revolution, we rewrote the full procurement thing. It also is taking effect, I think this month, with the system integrators in procurement rules, to have SLA and resilience and so on as value-added items in their procurement conscience. 
 
-### Interviewer Man:
+### Russell Hsiao:
 Just a quick side off of the policy. A number of the things that are going on in Taiwan are quite innovative. They're quite distinct, and they haven't been done anywhere else. You would have been one of the thought leaders and driving some of this. I've heard since you were a student long ago.
 
 I'm just being curious, what in your experience do you think has helped you see things in a different way? Because the way you talk about this is a thing I feel very distinct from a lot of people. I'm just curious if you thought about how you ended up with your view. Where would you were able to take part in that.
@@ -155,7 +155,7 @@ But when that happens, we will need full attribution and full liability so that 
 ### Audrey Tang:
 If across small crisis, we can say democracy doesn't lead to chaos and people don't hate each other after such small crisis, then it just actually includes more people into decision making and increases societal resilience.
 
-### Interviewer Man:
+### Alexander B. Gray:
 If I may just on... You've always been very forward-looking and able to utilize your deep expertise in cybersecurity and digital issues to foresee what are the challenges and threats ahead. As you are looking at the next generation of cyber digital threats, what keeps you up at night these days in terms of...
 
 ### Audrey Tang:
@@ -167,13 +167,13 @@ That is to say to make it maximally appealing to you. Super stimulus. Where it u
 
 But across the 5 million devices that view the video using their own GPU, it's turned into a super stimulus that impersonates the people they trust more or are speaking an accent that they trust more, which they already have the reward model anyway, based on their viewing capability. Again, this is not secret. They publish it.
 
-### Interviewer Man:
+### Alexander B. Gray:
 What's the proper countermeasures?
 
 ### Audrey Tang:
 I hear there's a bill in the Senate?
 
-### Interviewer Woman:
+### Liza Tobin:
 We don't have jurisdiction over Taiwan.
 
 ### Audrey Tang:
@@ -259,16 +259,16 @@ But the exact same technology is the one that is used to distribute information 
 
 But it's not a weapon. It cannot be weaponized. It's very difficult actually for the PRC to sanction its use because their enterprise also want backups that are resilient. More tools like this would be a very wise investment. But if some tool is seen as primarily offensive, then it gives PRC the best reason to weave the conspiracy theory of foreign interference and manipulation. I would encourage more investment in defensive-oriented tools.
 
-### Interviewer Woman:
+### Liza Tobin:
 What do you need or want more of from the United States?
 
 ### Audrey Tang:
 I need you to survive your election and love each other more.
 
-### Interviewer Man:
+### Peter Mattis:
 Good answer. 
 
-### Interviewer Woman:
+### Liza Tobin:
 Wish us luck.
 
 ### Audrey Tang:
@@ -277,10 +277,10 @@ Taiwan can help.
 ### Igor Khrestin:
 I think that's it. Just to add, that's an important point. I think this is where the Taiwan can help model is a great one because of the innovative work that's done here that we in the US could use more of to apply to our domestic, even though we don't like to admit it a lot because the US views itself as a leader in everything. But sometimes you really lag behind on certain things. This is definitely not even being an expert. This is definitely one of them. I really hope you can share your experiences more widely, including with US audiences. Liza has got some events coming up.
 
-### Interviewer Woman:
+### Liza Tobin:
 Yeah.
 
-### Interviewer Man:
+### Russell Hsiao:
 Well, I know that you just attended the summit of democracy. Yes. And so there, what's your main takeaway from the summit? It's the process of it and the major takeaway that you think is important to share with the broader community, for people who are concerned about the state of democracy and the importance of democratic solidarity in the current geopolitical landscape?
 
 ### Audrey Tang:
@@ -296,7 +296,7 @@ Of course, PRC condemned our attendance. When journalists asked me a couple of d
 
 We're an equal partner among democracies. Diplomacy-wise, I think this is very good. The Korean handling of this is very commendable. They're a democracy, of course. Along with Japan, we're the top three democracies in this region. Of course, we should talk to each other about democracy.
 
-### Interviewer Man:
+### Russell Hsiao:
 Anybody else with a question or comments? We're going to go back to something you said earlier.
 
 You said, find new lines of division, don't mirror the old ones.
@@ -304,7 +304,7 @@ You said, find new lines of division, don't mirror the old ones.
 ### Audrey Tang:
 Exactly. 
 
-### Interviewer Man:
+### Peter Mattis:
 Everything that you said was in a much more positive way, and that seems like very strange.
 
 I understand your point, but I would be curious if you could explain it a little bit more and how you come up that in a positive way rather than creating a new form of polarization that we keep struggling with.
@@ -318,13 +318,13 @@ Then it becomes whether people value commitments to each other and state enterpr
 
 If we frame things this way as an individual, it's the same. It doesn't create divisions across religions anymore. It only creates divisions on people who, for example, feel that the homosexuals actually have an advantage here because they don't have as much obligations to extended families... It becomes a very different conversation is what I mean. I think we can always find this overlapping consensus and reframe the conflict based on that overlapping consensus.
 
-### Interviewer Man:
+### Russell Hsiao:
 Perhaps, I don't know if there are any questions, but perhaps we can end with what your vision is for this ministry going forward now. I know it's just a startup, as you say, but where do you see it going?
 
 ### Audrey Tang:
 We're just one and a half years old. 
 
-### Interviewer Man:
+### Peter Mattis:
 Yeah, one and a half year old but where do you see it going in the near term?
 
 ### Audrey Tang:
@@ -338,7 +338,7 @@ I think in the US, one good example is the National Institute of Standards and T
 
 I think it's something like that, extending its purview to make sure that it can address the incoming threats which requires ethnographic, anthropologic, and all social science expertise, but still rapid within a credibly politically neutral term instead of, pardon the example, but this information over the sideboard. It is strictly necessary if you are going to counter the emerging threats.
 
-### Interviewer Man:
+### Alexander B. Gray:
 Out of curiosity, as you were staffing your six directorships, do you want to draw those folks from specific agencies, or how do you think about where they should come from within the broader government?
 
 ### Audrey Tang:
@@ -358,7 +358,7 @@ That's, again, not a question, but I think it's a very important observation. I 
 ### Audrey Tang:
 Yeah, we need a conservative progress towards social markets. We need to bridge everything that's bridgeable. That's what it looks like.
 
-### Interviewer Man:
+### Russell Hsiao:
 Thank you so much. Really appreciate your time.
 
 ### Audrey Tang:
