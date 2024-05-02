@@ -94,7 +94,7 @@ Excellent.
 Zach Chang: Hi, this is Zach Chang from the Audrey Tang's office. Before this job, I worked in the Taipei City Hall. And during that period, Taipei City Hall established the Smart City PMO.
 
 ### Wendy Hsueh:
-Hello everyone, I’m Wendy. I'm currently working in the Minister’s office. And I'm responsible for citizens' assembly. And actually, tomorrow we will have a citizens’ assembly and we'll collaborate with the staff for a university.
+Hello everyone, I’m Wendy. I'm currently working in the Minister’s office. And I'm responsible for citizens' assembly. And actually, tomorrow we will have a citizens’ assembly and we'll collaborate with Stanford university.
 
 ### Audrey Tang:
 To set the boundary of AI. 
