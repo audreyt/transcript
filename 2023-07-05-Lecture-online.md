@@ -47,7 +47,7 @@ So that's like my three-minute elevator pitch. I hope that answered this questio
 
 ### Audrey Tang:
 
-What would I say to encourage girls to learn and work in information technologies? Interestingly, because in Mandarin, we translate "程式設计," programming, as program design or software design, instead of software engineering.
+What would I say to encourage girls to learn and work in information technologies? Interestingly, because in Mandarin, we translate "程式設計," programming, as program design or software design, instead of software engineering.
 
 So we have a very healthy balance of boys and girls, because many people consider design as something that's closer to people instead of just engineering, which is closer to machines. At some places, we even need to encourage boys to get into design because of the other way of gender imbalance.
 
