@@ -146,7 +146,7 @@ The searching and using of links is a general purpose approach. We have classifi
 Thank you. So you mentioned like significant self-harm and so on. So if our community already have a list of such resources as well as the triggers, let's call it the fight them for such resources, would it also be in a local affairs team? So that we can get to citizens and NGOs and MPOs in soft of and their resources to your local affairs team so that Taiwanese people using champion at church up you will benefit from those more far reaching not the election because we're not going to have an election anytime soon?
 
 ### OpenAI_Teddy Lee:
-Yes, I would say so. My team Collective Alignment (https://openai.com/index/democratic-inputs-to-ai-grant-program-update) is focused on, for example, contextualizing or models to different geographies or different contexts, and so my team would be the ones to connect with on pointing people to canonical resources in general. But election-related topics would be more of a Global Affairs topic.
+Yes, I would say so. [My team Collective Alignment] (https://openai.com/index/democratic-inputs-to-ai-grant-program-update) is focused on, for example, contextualizing or models to different geographies or different contexts, and so my team would be the ones to connect with on pointing people to canonical resources in general. But election-related topics would be more of a Global Affairs topic.
 
 ### Audrey Tang:
 Understand. So we'll continue to build a relationship with your team. Thank you. Now we have Microsoft back.
