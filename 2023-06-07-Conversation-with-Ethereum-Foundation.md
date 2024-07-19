@@ -148,7 +148,7 @@ Yes, I was part of Zuzalu online, actually.
 Oh, really? You were there?
 
 ### Audrey Tang:
-I logged into the [Zuzalu.network server](https://zuzalu.network/u/audreyt/summary) and participated in quadratic voting to support Divya and Saffron for the CIP session. And it turns out that I could vote online, without physically being there.
+I logged into the Zuzalu.network server and participated in quadratic voting to support Divya and Saffron for the CIP session. And it turns out that I could vote online, without physically being there.
 
 So, I was able to simply connect my Ethereum wallet and started voting. It asked me which camp I identify with, and then just deducted my votes based on the overlaps with my camp.
 
