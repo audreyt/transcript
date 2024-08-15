@@ -1,7 +1,5 @@
 # 2024-07-11 BW Column: Making Algorithms Kind
 
-> (Interview and Compilation by Hsin-Ting Fang. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant))
-
 ### Audrey Tang:
 
 We’ve grown accustomed to social media constantly feeding us interesting posts and ads, but we rarely consider that current algorithms are actually steering the world towards anxiety.
@@ -21,3 +19,5 @@ For example, X.com and the U.S. version of YouTube have introduced “community 
 Over time, online discourse has become increasingly polarized because predictive AI systems amplifies extreme emotions. Those who agree add fuel to the fire, while those who disagree push back even harder, deepening societal divisions. Meanwhile, the internet platforms determining content ranking absolve themselves of responsibility, claiming it’s “user-generated content” and obscuring the harm caused by AI systems.
 
 To change the status quo, we need to encourage more people to voluntarily participate and make algorithms kinder. Only then can we find common ground among divided groups and restore true freedom of expression.
+
+> (Interview and Compilation by Hsin-Ting Fang. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
