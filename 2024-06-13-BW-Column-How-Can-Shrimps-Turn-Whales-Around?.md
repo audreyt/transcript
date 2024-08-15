@@ -1,7 +1,5 @@
 # 2024-06-13 BW Column: How Can Shrimps Turn Whales Around?
 
-> (Interview and Compilation by Hsin-Ting Fang. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant))
-
 ### Audrey Tang:
 
 After May 20th, I have been on a whirlwind EU tour, with a speech at VivaTech – Europe’s largest tech and startup event in Paris, France. At the forefront of innovation, everyone is still talking about AI. But this time, there is a noteworthy phenomenon: many Europeans are not entirely optimistic about AI, and some are even quite worried.
@@ -25,3 +23,5 @@ One solution is to extend the relevant provisions of the EU digital acts, requir
 Another solution involves financial power, as exemplified by the former Dodgers’ owner. By introducing open-source protocols and governance models similar to cooperative organizations, power can be "returned to the people." Even without corporate backing, leaders can first collaborate with other smaller community platforms, gradually returning revenue sharing and control to users. Open-source AI models can then be used to recommend content that promotes mutual understanding, allowing good currency to drive out bad currency.
 
 Although this may sound idealistic, it can guide a new vision. Governance of foreign platforms is a global challenge, and as the new wave of AI arrives, we should approach it from a different angle, harnessing the collective intelligence of many to foster positive change.
+
+> (Interview and Compilation by Hsin-Ting Fang. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
