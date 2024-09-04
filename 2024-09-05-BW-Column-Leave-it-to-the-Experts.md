@@ -1,23 +1,23 @@
-# 2024-08-08 BW Column: Leave It to the Experts
+# 2024-09-05 BW Column: Leave It to the Experts
 
 ### Audrey Tang:
 
-The Mozilla Foundation recently announced its "Rise25: Leading the Next Wave of AI" list, highlighting 25 individuals, and I am honored to be among them.
+The Mozilla Foundation recently unveiled its "Rise25" list, spotlighting 25 individuals leading the next wave of AI innovation. I am honored to be among them.
 
-The selected individuals share a commitment to "equity," working across various fields with the spirit of open source to address issues such as racial, gender, and economic disparities. Whether in technology or business applications, the AI solutions proposed by these honorees are grounded in this principle.
+The selected honorees are united by a shared commitment to equity, applying the open source ethos across various fields to tackle issues like racial, gender, and economic inequality. Whether in technology or business, the AI solutions proposed by these individuals are deeply rooted in this principle.
 
-Open-source platforms are like public libraries—where everyone is equal. Utilizing the open-source model is crucial to countering the risk of generative AI being monopolized by tech giants and to promoting resource sharing.
+Open source platforms are akin to public libraries—places where everyone has equal access. Leveraging the open-source model is essential to counteract the growing threat of generative AI being monopolized by a few tech giants and to encourage the sharing of resources.
 
-Why is this important? Because as AI models grow larger and require more data, akin to having a bigger brain and reading more books, the cost of training also increases, often becoming affordable only to a few tech companies. By open-sourcing foundational models, various sectors can combine their own data and customize AI systems according to their needs, creating solutions that better meet real-world demands.
+Why is this crucial? As AI models become larger and require more data—much like how a larger brain needs more books to read—the cost of training these models rises steeply, often becoming feasible only for a few large tech companies. By open sourcing foundational models, various industries can pool their data and tailor AI systems to meet specific needs, resulting in solutions better suited to real-world challenges.
 
-For example, this year's Rise25 honoree, Peter Gault, emphasizes close collaboration with educators through his open-source initiative, Quill.org. Gault’s platform uses AI to provide free resources for students to improve their reading and writing skills, while also offering high-quality curriculum content to teachers, giving students with limited resources greater learning opportunities.
+For example, one of this year's Rise25 honorees, Peter Gault, demonstrates the power of collaboration with educators through his open source project, Quill.org. Gault’s platform leverages AI to provide free tools for students to improve their reading and writing skills while offering teachers high-quality curriculum content. This helps level the playing field, giving students with limited resources greater opportunities to learn.
 
-Quill brings together a group of K-12 teachers to create the content they need. Quill's Teacher Advisory Council (TAC), with over 300 members, tests every learning activity before it is launched, building a vast sample of real classroom scenarios to guide AI development. This approach ensures that AI-generated feedback is relevant to classroom needs, making it a practical tool. In contrast, many generative AI systems led by technical teams often provide direct answers when students struggle, failing to effectively address students' learning needs.
+Quill collaborates closely with K-12 teachers to develop the content for classrooms. The platform’s Teacher Advisory Council (TAC), composed of over 300 members, tests every learning activity before it is released, using real-world scenarios to guide AI development. This ensures that AI-generated feedback is relevant to the needs of teachers and students, making it a practical and effective tool. In contrast, many generative AI systems created by tech teams tend to offer direct answers, which doesn’t always address the underlying learning gaps of students.
 
-Currently, Quill is limited to English usage. Fortunately, many in Taiwan are also dedicating their efforts to open-source models, datasets, and evaluation systems. A great example of this is the "TAiwan Mixture of Experts (Project TAME)," a collaborative effort between industry experts from chemical engineering, electronics, healthcare, content creation, and law, working with a team from National Taiwan University.
+Currently, Quill’s services are available only in English. In Taiwan, there are also ongoing efforts to develop open source models, datasets, and evaluation systems. One standout example is the "TAiwan Mixture of Experts (Project TAME)," a collaborative initiative involving experts from various fields such as chemical engineering, electronics, healthcare, content creation, and law, alongside a team from National Taiwan University.
 
-In the education sector, projects like the Taiwan Knowledge Base (ATK) open-source initiative cover a wide range of topics including history, culture, politics, education, and current events. These projects are curated and validated by educators and subject matter experts, ensuring that AI tools align with local contexts and are more accessible to the public.
+In the educational sphere, open source initiatives like the Awesome Taiwan Knowledge (ATK) cover a broad array of subjects, including history, culture, politics, education, and current affairs. These projects are curated and validated by educators and subject matter experts, ensuring that AI tools align with local contexts and remain accessible to the general public.
 
-As discussions continue on whether generative AI is merely a passing trend, those committed to open source are gradually tackling previously unsolvable problems, laying the groundwork for a more equitable and inclusive future.
+While debates continue about whether generative AI is just a passing trend, those dedicated to the open-source approach are steadily solving previously insurmountable challenges, paving the way for a more equitable and inclusive future.
 
 > (Interview and Compilation by Hsin-Ting Fang. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
