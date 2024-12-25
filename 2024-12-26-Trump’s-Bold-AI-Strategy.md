@@ -1,4 +1,4 @@
-# 2024-10-03 BW Column: Trump’s Bold AI Strategy
+# 2024-12-26 BW Column: Trump’s Bold AI Strategy
 
 ### Audrey Tang:
 
