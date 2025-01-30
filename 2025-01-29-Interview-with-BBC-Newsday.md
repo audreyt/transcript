@@ -56,7 +56,7 @@ You touched on some of the potential negative impacts of this breakthrough. Can 
 
 Definitely. Previously, hosted versions of OpenAI, Gemini, or Anthropic’s models had guardrails in their web or API endpoints to block malicious uses like propaganda, disinformation, or phishing attacks.
 
-Now, DeepSeek also offers a web/app store version with guardrails, but because it’s openly accessible, people can download it onto their own systems, remove those safeguards, and start generating phishing campaigns, polarization scams, or targeted attacks.
+Now, DeepSeek also offers a web/app store version with guardrails, but because it’s openly accessible, people can download it onto their own systems, remove those safeguards, and start generating phishing campaigns, polarization, scams, cyber attacks, and so on.
 
 And because it’s not hosted centrally, there’s no external audit trail for these activities.
 
