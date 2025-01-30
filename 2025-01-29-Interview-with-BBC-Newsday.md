@@ -6,24 +6,25 @@ On Tuesday, the US President Donald Trump called the rise of the Chinese company
 
 DeepSeek claims that its model was made at a fraction of the cost of its rivals. It’s also raised cybersecurity concerns in some countries, with the Australian Science Minister, for example, urging caution. Nevertheless, DeepSeek has become the most downloaded free app in the US just a week after it was launched.
 
-So let’s discuss this and some of the wider issues around AI with Audrey Tang, Taiwan’s cyber ambassador at large and former Minister of Technology. Welcome to the programme. What are the strengths of DeepSeek? 
+So let’s discuss this and some of the wider issues around AI with Audrey Tang, Taiwan’s cyber ambassador at large and former Minister of Technology. Welcome to the programme. What are the strengths of DeepSeek?
 
 ### Audrey Tang:
 
-I’m sorry, can you repeat the question? 
+I’m sorry, can you repeat the question?
 
 ### Interviewer:
 
 Yeah, I wondered what the strengths of DeepSeek were. What makes it so impressive at this early stage?
 
 ### Audrey Tang:
+
 The uniqueness is that it can squeeze onto a single high-end laptop.
 
 So that while the frontier labs require a lot of operational costs, nowadays, in your phone or laptop, you can run a distilled or smaller version of DeepSeek.
 
-And because of this, the guardrails that usually come with services can be completely ablated -- or deleted -- from those local versions.
+And because of this, the guardrails that usually come with services can be completely ablated — or deleted — from those local versions.
 
-When this happens, weaponizing AI for polarizing attacks, phishing attacks, propaganda and so on, just became far more accessible.
+When this happens, weaponizing AI for polarizing attacks, phishing attacks, propaganda, and so on, just becomes far more accessible.
 
 ### Interviewer:
 
@@ -67,10 +68,10 @@ Does that leave citizens at risk of state-sponsored action via DeepSeek, or are 
 
 State actors already had similar capabilities. We’re now seeing small-time actors, like criminal gangs, gaining access.
 
-Imagine scammers posting ads on social media. If you click it, a “celebrity” engages in a real-time conversation with to you, and they seem to actually know something about you and can follow your reasoning and scams you, into buying some very fraudulent goods or services, and so on.
+Imagine scammers posting ads on social media. If you click it, a “celebrity” engages in a real-time conversation with you, and they seem to actually know something about you. They can follow your reasoning and then scam you into buying fraudulent goods or services, and so on.
 
-Previously, it requires a human in the loop. With R1, small-time actors and criminal gangs can now tune their own versions.
+Previously, it required a human in the loop. With R1, small-time actors and criminal gangs can now tune their own versions.
 
 ### Interviewer:
 
-Audrey Tang, thank you very much indeed, Taiwan cyber ambassador at large.
+Audrey Tang, thank you very much indeed, Taiwan’s cyber ambassador at large.
