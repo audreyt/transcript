@@ -58,17 +58,18 @@ Definitely. Previously, hosted versions of OpenAI, Gemini, or Anthropic’s mode
 
 Now, DeepSeek also offers a web/app store version with guardrails, but because it’s openly accessible, people can download it onto their own systems, remove those safeguards, and start generating phishing campaigns, polarization, scams, cyber attacks, and so on.
 
-And because it’s not hosted centrally, there’s no external audit trail for these activities.
+And because it’s not hosted, there’s no external audit trail of anybody doing this.
 
 ### Interviewer:
 
-Does that leave citizens at risk of state-sponsored action via DeepSeek, or are we talking more about individual criminal enterprises?
+Does that leave citizens of a certain country at risk of almost state action via DeepSeek, or are we talking more about individual, perhaps criminal enterprises?
 
 ### Audrey Tang:
 
-State actors already had similar capabilities. We’re now seeing small-time actors, like criminal gangs, gaining access.
+State actors already had similar capabilities. So we’re talking about small-time actors now gaining access to this kind of activities.
 
 Imagine scammers posting ads on social media. If you click it, a “celebrity” engages in a real-time conversation with you, and they seem to actually know something about you. They can follow your reasoning and then scam you into buying fraudulent goods or services, and so on.
+
 
 Previously, it required a human in the loop. With R1, small-time actors and criminal gangs can now tune their own versions.
 
