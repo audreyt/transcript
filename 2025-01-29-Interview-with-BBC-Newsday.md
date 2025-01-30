@@ -44,7 +44,7 @@ Does that mean its rivals are going to have to follow suit? That everything is g
 
 In a sense, yes. DeepSeek R1 was not the first to figure out the reasoning model tricks. We’ve already seen Google’s Gemini “thinking” model, Anthropic, and OpenAI’s o1 and o3 before DeepSeek R1, delivering similar or higher performances.
 
-The main difference is that DeepSeek R1 is open in a sense that people can host versions of it themselves, and it can be used to teach smaller models like LLaMA and Qwen these reasoning tricks.
+The main difference is that DeepSeek R1 is open in the sense that people can host versions of it themselves, and it can be used to teach smaller models like LLaMA and Qwen these reasoning tricks.
 
 So while it didn’t break new ground in reasoning power, it made the technology much more accessible.
 
