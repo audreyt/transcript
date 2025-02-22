@@ -66,7 +66,7 @@ Right. So that underlying ideology is essentially because of the way it was trai
 
 ### Audrey Tang:
 
-Precisely. But we’ve already seen, for instance, that Perplexity.ai’s embedded R1 version has removed those unnatural censorship and avoidance behaviours through changes to the model weights. Even if you disable search on Perplexity and use what they call “assistive writing mode,” when you ask about politically sensitive keywords or historical events, it responds normally.
+Precisely. But we’ve already seen, for instance, that [Perplexity.ai’s embedded R1 version](https://huggingface.co/perplexity-ai/r1-1776) has removed those unnatural censorship and avoidance behaviours through changes to the model weights. Even if you disable search on Perplexity and use what they call “assistive writing mode,” when you ask about politically sensitive keywords or historical events, it responds normally.
 
 This shows that, because its weights are open source, one can modify them to remove these unnatural censorship routines.
 
