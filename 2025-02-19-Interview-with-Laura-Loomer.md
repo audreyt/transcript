@@ -86,7 +86,7 @@ You mentioned the Sunflower Movement in Taiwan, and I wanted to get your take on
 
 ### Laura Loomer：
 
-Did you see similar things happen when you had the occupation of your own government buildings in Taiwan during the Sunflower Movement? Because it’s interesting to see how, around the world, there have been protest movements where citizens have occupied political buildings, and yet the reactions have been so drastic. I mean, here in the United States, you had politicians like Kamala Harris actually saying that January 6 was worse than Pearl Harbor or worse than 9/11—when thousands of people lost their lives in acts of terrorism. So how would you compare and contrast something like Taiwan’s Sunflower Movement to the January 6 protest at the United States Capitol?
+Did you see similar things happen when you had the occupation of your own government buildings in Taiwan during the Sunflower Movement? Because it’s interesting to see how, around the world, there have been protest movements where citizens have occupied political buildings, and yet the reactions have been so drastic. I mean, here in the United States, you had politicians like Kamala Harris actually saying that January 6 was worse than Pearl Harbor or worse than 9/11<sup>[note](https://www.snopes.com/fact-check/kamala-harris-jan-6-attack-9-11-pearl-harbor/)</sup>—when thousands of people lost their lives in acts of terrorism. So how would you compare and contrast something like Taiwan’s Sunflower Movement to the January 6 protest at the United States Capitol?
 
 ### Audrey Tang：
 
