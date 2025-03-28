@@ -1,4 +1,4 @@
-# 2010-12-08 Rino A Nugroho, Dachi Liao and Septyanto Galan Prakoso visit
+# 2020-12-08 Rino A Nugroho, Dachi Liao and Septyanto Galan Prakoso visit
 
 ### Rino Nugroho：
 Thank you for your time. My name is Rino Nugroho. I’m from Sebelas Maret University in Indonesia. Today, I have a research with my colleague, Professor Liao, from NSYSU and my colleague as well in UNS and assistant at NSYSU, Galan.
