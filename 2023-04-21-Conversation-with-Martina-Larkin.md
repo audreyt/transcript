@@ -85,8 +85,7 @@ Yeah, absolutely. And I mean, one of the things I would love to get your perspec
 
 And so, one of the things I was curious is your thoughts on how does a protocol like that really achieve, like true scale? Is it through, you know, standardization, making it the standard and making sure international standardization bodies accept it and recognize it as such which is one of the tracks we're working on. Is it building use cases? Is it building use cases in the Web2 world like MeWe? Should we… Is the roadmap really to bring many, many of these Web2 companies on board as a key aspect? Is it really to work with almost like with the Web3 community to build all of the new technology on DSNP? Is it a combination of all? And if it is a combination, then where should the priority lie in your view in making this really critical? 
 
-### And then the other question I have is:
-From a government perspective, how do we incorporate this as a kind of ubiquitous tool into a government process?
+And then the other question I have is: From a government perspective, how do we incorporate this as a kind of ubiquitous tool into a government process?
 
 ### Audrey Tang:
 Okay, those are really good questions. So, our first large-scale use of IPFS was in last August and it was as a cybersecurity solution. Because last August, after US House Speaker Nancy Pelosi visited Taiwan, we've seen in a single day 23 times more DDoS distributed in our service compared to the previous peak, in terms of volumes of DDoS attacked our societal infrastructure, including governmental websites. And so, with the Web2 stuff, you know, look really good and smooth and so on, but on this huge amount of DDoS, it begins to fall down. And our ministry's website, which is based on IPFS, can still be accessed on ipns://moda.gov.tw without even suffering a second of slowdown. 
