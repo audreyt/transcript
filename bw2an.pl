@@ -1,5 +1,8 @@
+use utf8;
 use strict;
 use warnings;
+binmode STDIN, ':utf8';
+binmode STDOUT, ':utf8';
 
 print qq{<?xml version="1.0" encoding="utf-8"?>\n};
 print qq{<akomaNtoso>\n};
@@ -19,10 +22,9 @@ print qq{                <heading>\n};
 print qq{                    $heading\n};
 print qq{                </heading>\n};
 
-$line = <STDIN>;
-chomp $line;  # Assuming "### 唐鳳："
+1 until <STDIN> =~ /(Audrey Tang|唐鳳)[:：]/;
 
-print qq{                <speech by="#唐鳳">\n};
+print qq{                <speech by="#$1">\n};
 
 local $/ = "\n\n";
 while (my $para = <STDIN>) {
