@@ -1,4 +1,4 @@
-# 2025-06-19 BW Column: Beyond Winner-Take-All: How AI Can Forge Consensus
+# 2025-07-17 BW Column: Beyond Winner-Take-All: How AI Can Forge Consensus
 
 ### Audrey Tang:
 
