@@ -4,25 +4,24 @@ use warnings;
 binmode STDIN, ':utf8';
 binmode STDOUT, ':utf8';
 
+my $line = <STDIN>;
+chomp $line;
+my $heading = substr($line, 2);
+1 until <STDIN> =~ /(Audrey Tang|唐鳳)[:：]/;
+
 print qq{<?xml version="1.0" encoding="utf-8"?>\n};
 print qq{<akomaNtoso>\n};
 print qq{    <debate>\n};
 print qq{        <meta>\n};
 print qq{            <references>\n};
-print qq{                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>\n};
+print qq{                <TLCPerson href="/ontology/person/::/$1" id="$1" showAs="$1"/>\n};
 print qq{            </references>\n};
 print qq{        </meta>\n};
 print qq{        <debateBody>\n};
 print qq{            <debateSection>\n};
-
-my $line = <STDIN>;
-chomp $line;
-my $heading = substr($line, 2);
 print qq{                <heading>\n};
 print qq{                    $heading\n};
 print qq{                </heading>\n};
-
-1 until <STDIN> =~ /(Audrey Tang|唐鳳)[:：]/;
 
 print qq{                <speech by="#$1">\n};
 
