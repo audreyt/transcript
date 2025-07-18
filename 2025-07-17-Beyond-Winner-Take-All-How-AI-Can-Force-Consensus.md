@@ -10,9 +10,9 @@ Following the devastating California wildfires that forced nearly 200,000 people
 
 The affected residents were a diverse population, with different racial backgrounds, ages, locations, and economic means. Their priorities for rebuilding varied significantly, making it nearly impossible to satisfy everyone.
 
-In response, the California government utilized "Engaged California," an innovative platform where every individual could voice their opinion. The system then identified priorities with the most overlap, and AI synthesized these into viable policy proposals. Initiatives that proved highly polarizing were advanced to a further round of deliberation.
+In response, the California government piloted "Engaged California," an innovative platform where every individual could voice their opinion. The system then identified priorities with the most overlap, and AI synthesized these into viable policy proposals. Initiatives that proved highly polarizing were advanced to a further round of deliberation.
 
-This approach ensures that while the majority guides the general direction of policy, minority groups have the power to block initiatives that are clearly detrimental to them. By ensuring every group's concerns are heard, this process significantly reduces public dissatisfaction. By design, every policy that is implemented is moderate and enjoys a broad base of support.
+This approach ensures that while the majority guides the general direction of policy, minority groups have the power to block initiatives that are clearly detrimental to them. By ensuring every group's concerns are heard, this process significantly reduces public dissatisfaction. The design goal is for every policy that is implemented to be moderate and enjoy a broad base of support.
 
 The platform works by identifying different demographic groups and the policies that matter most to each. For example, while a smaller number of people might prioritize mental health recovery—making it difficult for the issue to gain traction in traditional budget debates—this system calculates a consensus metric called the "Ethelo Score." This score ensures that proposals are balanced, weighing the breadth of support against the level of contention, thereby reducing the dissatisfaction of minority groups.
 
