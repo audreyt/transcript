@@ -354,7 +354,7 @@ I didn’t know that. Universities say “use it, just disclose how,” which se
 
 ### Audrey Tang:
 
-Of course. Since *Coded Bias*—like *The Social Dilemma*—policymakers aren’t blind. People want **working programs**, no matter how small. In the **“pocket of good,”** in Taiwan we sent **200,000 messages** to people; **450 people** came together and deliberated online; starting this year, if an ad can **touch a Taiwanese person’s eyeball**, Facebook needs **strong digital‑signature KYC**. If they don’t, and someone gets in with **$7 million**, they are **liable** for that $7 million. If they still don’t comply, we can **slow down connections** to their service until conditions are met.
+Of course. Since *Coded Bias*—like *The Social Dilemma*—policymakers aren’t blind. People want **working programs**, no matter how small. In the **“pocket of good,”** in Taiwan we sent **200,000 messages** to people; **450 people** came together and deliberated online; starting this year, if an ad can **touch a Taiwanese person’s eyeball**, Facebook needs **strong digital‑signature KYC**. If they don’t, and someone lost **$7 million** to unsigned ads, the platform would be **liable** for that $7 million. If they still don’t comply, we can **slow down connections** to their service until conditions are met.
 
 ### Cristina Fominaya:
 
