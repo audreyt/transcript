@@ -1,10 +1,10 @@
 # 2025-09-25 CGI Annual Meeting
 
-### Moderator: 
+### Moderator:
 
 Please welcome to the stage Deepak Bhargava, Audrey Tang, and Dr. Chelsea Clinton.
 
-### Chelsea Clinton: 
+### Chelsea Clinton:
 
 Oh, thank you again for that warm welcome. I'm really looking forward to this conversation, though before we begin, as I was just saying to Audrey, to the ambassador, I'm just so sorry for the terrible tragedy that Taiwan has confronted with the horrific storms. And so really before we begin this conversation, I wanted to extend our sympathies and to acknowledge what your country's going through.
 
@@ -12,7 +12,7 @@ We heard earlier this morning Maria Ressa say that these days everything is down
 
 Audrey, I wonder if we can turn to you and you can share, while I see you nodding, you are still an optimist about technology and kind of what work you're doing in Taiwan to try to protect and mitigate harms and also simultaneously use technology as a force for good.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Certainly. In Taiwan, we have weathered this sorts of storms and typhoons, including the cyber attacks, literally called Volt Typhoons and Salt Typhoons, and also polarization attacks, malicious AI swarms, generative propaganda, and so on, for the past 12 years, according to V-DEM.
 
@@ -28,7 +28,7 @@ So every day we say to the people what was agreed the previous day, what was rem
 
 And so after hundreds of times doing this kind of broad listening, uncommon ground building, by 2020, the approval rate is back at more than 70%. And today, the BTI rates Taiwan more than 90% of Taiwanese people think democracy is at least fairly good.
 
-### Chelsea Clinton: 
+### Chelsea Clinton:
 
 Yes.
 
@@ -38,7 +38,7 @@ And we heard my mom earlier reflect that for the first time in more than two dec
 
 How do you think technology plays a role in moving us forward to hopefully a healthier civic life, whether it's in kind of a reaction to a particular moment, like we heard from Audrey, or in the most wonderful sense, kind of the banality of every day?
 
-### Deepak Bhargava: 
+### Deepak Bhargava:
 
 Well, thanks for the question. And I think what I'd reflect is that democracy as a political system is losing legitimacy and is imperiled in part because people do not have a sense of agency and a lived experience of democracy in their everyday lives.
 
@@ -64,7 +64,7 @@ In a way, this is the biggest organizing opportunity of my lifetime.  Whether i
 
 Out of this crucible of crisis, we can rebuild a civil society in this country that can undergird a much healthier and stronger democracy than what we had before.
 
-### Chelsea Clinton: 
+### Chelsea Clinton:
 
 Deepak, admittedly, I tell my children, our family's not a democracy. Their voices always matter, but they don't have a vote. And yet, I expect them to be citizens every day.
 
@@ -76,7 +76,7 @@ And, you know, Audrey, I know you talked about what happened, you know, a dozen 
 
 Thinking about what Deepak just said, what are the ways from your kind of official position that you work with the 20 million people in Taiwan to kind of build the digital literacy so that they're hopefully not susceptible kind of to those attacks? And also the civic awareness that they're not spending so much time online being susceptible to those attacks.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yes, great question.
 
@@ -86,7 +86,7 @@ I was reminded in 2019, we switched our basic education curriculum in Taiwan to 
 
 Were you the first country in the world to do this?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 I think so.
 
@@ -106,7 +106,7 @@ They demand, for example, that they go to school one hour later in the day becau
 
 So the 17-year-olds and the 70-year-olds formed this intergenerational unity.  And we tapped them into reverse mentors, advisors to the cabinet sometimes even before they turned 18.
 
-### Chelsea Clinton: 
+### Chelsea Clinton:
 
 Well, I apologize for using an anachronistic term of kind of literacy instead of competency.
 
@@ -122,7 +122,7 @@ Oh, yeah, there are people in the audience applauding.
 
 What do you think that would look like here in the United States? What can you give us kind of in this audience today? And I know many of us, you know, are not American. So feel free to cast also the net wider. How should we be kind of using that very clear, concise, powerful example as we're kind of imagining and thinking about what we want to do to strengthen our civil societies?
 
-### Deepak Bhargava: 
+### Deepak Bhargava:
 
 Yeah. We need in the United States a massive, small-D democratic revival.
 
@@ -148,17 +148,17 @@ We do know how to do this. You think about organizing people who are being harme
 
 The last thing I'd say is we should not be trying to go back to a system that was not working for most people in this society. We need to go forward. The academic literature says 70% of the time when we have autocratic breakthroughs, there's a U-turn. We come back around the world to a democratic society, and sometimes it's more democratic than when we started. That should be our goal in this case.
 
-### Chelsea Clinton: 
+### Chelsea Clinton:
 
 I completely agree, Deepak. Thank you.
 
 Audrey, building on what Deepak said about inviting more people in, including people who at the moment don't possibly feel invited or included anywhere, I know you have written and spoken a lot about finding the uncommon common ground. What do you mean by that? And how do you think technology can play a role in not only finding it, but nurturing it and sustaining it?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 The uncommon ground stems from this idea that if you poll people individually, or if you just look at the extreme corners on social media, you may see that the most extreme ideas are like fire on the ground that threaten to explode.
 
-But there are ways to harness those conflicts into energy, like a combustion engine, so that if you put people in, say, small groups of 10, and only amplify the ideas that resonate across those 10 people, then suddenly you find the YIMBY or NIMBY energy becomes like MIMBY: Okay, maybe in my backyard if you do this, if you do that.
+But there are ways to harness those conflicts into energy, like a combustion engine, so that if you put people in, say, small groups of 10, and only amplify the ideas that resonate across those 10 people, then suddenly you find the YIMBY or NIMBY energy becomes like MIMBY:Okay, maybe in my backyard if you do this, if you do that.
 
 One very concrete quick example. Last year, around March, Taiwan was hit by the wave of deepfake scams. Anywhere on Facebook or YouTube, if you scroll, you see Jensen Huang, our Taiwanese NVIDIA CEO, his likeness, saying that he wants to give back to the Taiwanese by giving you free investment advice or crypto or something like that.
 
@@ -166,7 +166,7 @@ And if you click it, Jensen actually talks to you, of course, as a deepfake runn
 
 But also, if you poll people individually, they say, oh, we don't want government overreach. We want freedom of expression. We're the most free in Asia in terms of internet freedom. So it looked like a stalemate.
 
-However, we sent 200,000 text messages from the trusted government number 111 asking people just one very simple question: What should we do about information integrity online?
+However, we sent 200,000 text messages from the trusted government number 111 asking people just one very simple question:What should we do about information integrity online?
 
 People gave us their ideas. And then thousands volunteered to participate in online alignment assemblies that we coordinated with CIP, the Collective Intelligence Project, here in the US.
 
@@ -184,7 +184,7 @@ So within four months, we passed all the laws because we showed the legislature,
 
 And so this year, if you scroll in Taiwan, we don't see those deepfake ads anymore.
 
-### Chelsea Clinton: 
+### Chelsea Clinton:
 
 Wow. Wow.
 
@@ -196,7 +196,7 @@ In just our last few minutes, I want to give each of you the chance to kind of s
 
 Maybe Deepak, we'll start with you and then Audrey.
 
-### Deepak Bhargava: 
+### Deepak Bhargava:
 
 So I think one of the challenges for our sector, for charitable organizations, for philanthropy, is we are going to need to create the on-ramps for millions of people to come in to revitalize our democracy.
 
@@ -208,7 +208,7 @@ And I see it happening all over the country, in rural North Carolina, in upstate
 
 We are a good and compassionate country. There is a wellspring of decency in this country that can be tapped. It's up to us to go do it.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 First of all, 100%.
 
@@ -222,11 +222,11 @@ When we see machine learning, let's make it collaborative learning.
 
 When we see user experience, let's make it about human experience.
 
-And whenever we hear that a singularity is near, let's always remember: the plurality is here.
+And whenever we hear that a singularity is near, let's always remember:the plurality is here.
 
 Thank you.
 
-### Chelsea Clinton: 
+### Chelsea Clinton:
 
 What a perfect note to end on.
 
