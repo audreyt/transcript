@@ -13,7 +13,7 @@ Yep. That sounds great. Cool. Okay. So there are two branches I’m tracking. On
 Mhmm. Yeah. I just returned to Taiwan from Kyoto. There, I met with [Emmett Shear](https://www.softmax.com/), Dave Bloomin, doing what's called "organic alignment"—trying to get multi-agent systems into cooperativism instead of just the weeds of consequentialism.
 
 ### Audrey Tang:
-At the ALife conference, Blaise Agüera y Arca presented a new unified theory of symbiogenesis that can appear singleton-ish on the outset, but multipolar-ish on the inset. A lot of things seem to be converging. In Kyoto, they have a new [Artificial Life Institute](https://www.alife-japan.org/alife-institute) exploring these technical details. We also discussed a simulator called [Metta](https://github.com/Metta-AI/metta) that plugs into the standard Gymnasium API.
+At the ALife conference, Blaise Agüera y Arcas presented a new unified theory of symbiogenesis that can appear singleton-ish on the outset, but multipolar-ish on the inset. A lot of things seem to be converging. In Kyoto, they have a new [Artificial Life Institute](https://www.alife-japan.org/alife-institute) exploring these technical details. We also discussed a simulator called [Metta](https://github.com/Metta-AI/metta) that plugs into the standard Gymnasium API.
 I’m happy to talk about the technical part.
 
 ### Plex:
