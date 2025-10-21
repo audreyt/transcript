@@ -278,7 +278,7 @@ I agree. This could also be a good bootstrap phase toward CEV, assuming CEV is a
 Manually do a little bit of CEV ourselves. I funded a friend to make a series of interviews called “Utopiagraphy,” interviewing people about what they would like the future to be like. But something much more scalable seems way better.
 
 ### Audrey Tang:
-Definitely. With [Weval.org](http://Weval.org) and the Global Dialogue Challenge, we have something like clustered volition, so if you extrapolate, you start from the cluster level, not the individual level. This feeds into the hyperlocal moral scope thing we just talked about. They seem very synergistic.
+Definitely. With [Weval.org](http://Weval.org) and the [Global Dialogue Challenge](https://www.cip.org/challenge), we have something like clustered volition, so if you extrapolate, you start from the cluster level, not the individual level. This feeds into the hyperlocal moral scope thing we just talked about. They seem very synergistic.
 
 ### Plex:
 Absolutely agree. The second point is that the alignment field itself is astonishingly bad at sense-making about what the technical problem is or how to address it. If you take three alignment researchers and put them in a room, you will have more than three opinions, and not just different opinions, but different ontologies and definitions.
