@@ -2,7 +2,7 @@
 
 ### Audrey Tang:
 
-We want to send a message to the world that we're here to show that authoritarianism actually does not deliver as well as democracy. And if people around the world can echo this message because no democracy is an island, not even Taiwan. And if we can all band together, then that collision of democracies is much stronger than any single authoritarian threat.
+We want to send a message to the world that we're here to show that authoritarianism actually does not deliver as well as democracy. And if people around the world can echo this message because no democracy is an island, not even Taiwan. And if we can all band together, then that coalition of democracies is much stronger than any single authoritarian threat.
 
 ### Margaret Hoover:
 
@@ -26,7 +26,7 @@ The existing apparatus is slower than the pace of innovation of emerging technol
 
 ### Audrey Tang:
 
-The government need to trust the people before the people trust the government back. To give no trust is to get no trust.
+The government needs to trust the people before the people trust the government back. To give no trust is to get no trust.
 
 ### Margaret Hoover:
 
@@ -146,11 +146,11 @@ And so because of that, we are able to broadcast, contact tracing, notification 
 
 ### Margaret Hoover:
 
-You have credited the collaborative efforts which you've been a part of using technology as helping to rebuild trust, as you just said, in the government from 9% in 2014 to over 70% in 2020\. By 2020\. What lessons can other countries take from this?
+You have credited the collaborative efforts which you've been a part of using technology as helping to rebuild trust, as you just said, in the government from 9% in 2014 to over 70% by 2020. What lessons can other countries take from this?
 
 ### Audrey Tang:
 
-The main lesson is the government need to trust the people before the people trust the government back. To give no trust is to get no trust. So, for example, in 2024, in Taiwan, we saw a lot of deep fake messages, advertisements on, say, Facebook or YouTube. You see Jensen Huang, you know, the Nvidia CEO, a Taiwanese. You see his face saying that he's giving back to his, Taiwan, friends and families, some free cryptocurrency or free investment advice or something like that. It's an investment scam. Now, if the government doesn't trust the people, we will probably go to censorship or something like that. But because we radically trust our citizens, we sent 200,000 text messages to random numbers around Taiwan with only one question. What should we do about deep fakes and information integrity online? And people answered with many very good ideas. And thousands volunteered to join an online citizen assembly, which by that time people understand this comes from this trusted number 111\. So this is actually Audrey Tang asking you to join a citizen assembly, and we chose 450 people statistically representative of our polity. So it's a mini public of Taiwan, and then they crowdsourced the laws, the ideas that really made the defect ads not a problem anymore this year.
+The main lesson is the government needs to trust the people before the people trust the government back. To give no trust is to get no trust. So, for example, in 2024, in Taiwan, we saw a lot of deepfake messages, advertisements on, say, Facebook or YouTube. You see Jensen Huang, you know, the Nvidia CEO, a Taiwanese. You see his face saying that he's giving back to his, Taiwan, friends and families, some free cryptocurrency or free investment advice or something like that. It's an investment scam. Now, if the government doesn't trust the people, we will probably go to censorship or something like that. But because we radically trust our citizens, we sent 200,000 text messages to random numbers around Taiwan with only one question. What should we do about deepfakes and information integrity online? And people answered with many very good ideas. And thousands volunteered to join an online citizen assembly, which by that time people understand this comes from this trusted number 111\. So this is actually Audrey Tang asking you to join a citizen assembly, and we chose 450 people statistically representative of our polity. So it's a mini public of Taiwan, and then they crowdsourced the laws, the ideas that really made the defect ads not a problem anymore this year.
 
 ### Margaret Hoover:
 
@@ -158,7 +158,7 @@ It seems to me that this seems plausible for a small country like Taiwan. For a 
 
 ### Audrey Tang:
 
-Mhm. Well, it is true that as of last year, Taiwan was the largest polity in which this kind of institutionalized digital democracy platform have worked, but this year not anymore. Because we have Engaged California running now. Governor Newsom, we have been working for two years or so, to launch this platform, which is essentially an application of a model inspired by vTaiwan so that people in California can crowdsource their ideas and deliberate online, again, in a room where there's no reply button or retweet button. So people in California can deliberate about ideas, for example, how to mitigate wildfires, because that was launched during the Los Angeles wildfire recovery efforts in Eaton and Palisade.
+Mhm. Well, it is true that as of last year, Taiwan was the largest polity in which this kind of institutionalized digital democracy platform have worked, but this year not anymore. Because we have Engaged California running now; Governor Newsom, we have been working for two years or so, to launch this platform, which is essentially an application of a model inspired by vTaiwan so that people in California can crowdsource their ideas and deliberate online, again, in a room where there's no reply button or retweet button. So people in California can deliberate about ideas, for example, how to mitigate wildfires, because that was launched during the Los Angeles wildfire recovery efforts in Eaton and Palisade.
 
 And now they're having a deliberation about how to increase government efficiency like DOGE by introducing AI into the state's employees, but with the deliberators themselves being state employees. So it is a way to crowdsource ideas in a room where there is no retweet button, there's no way for the extreme views to go viral, but the technology discover again the uncommon ground, the package of proposals that leaves everybody slightly happier and nobody very unhappy.
 
@@ -396,7 +396,7 @@ Taiwan's government has recently issued an update for a civil defense handbook t
 
 In the cyber realm, most of our defense is in the form of cyber resilience, which means we're not saying that messages from the PRC cannot reach Taiwanese eyeballs. What we're saying is that people around Taiwan organized to pre-bunk such messages. Instead of debunking, which is saying something after the fact, pre-bunking means to basically identify the attributes of coordinated inauthentic behavior, for example.
 
-A couple years ago, I deepfaked myself, showing people how it's done, showing an actor playing me, morphing into me and so on. And that was before this kind of deep fake attack was used to meddle in our elections last year. Right? But by the time the attack came, because of the pre-bunking efforts by the government and by the civil society groups, people see it for what it is, and it arguably backfired and did not achieve its intended effect in our 2024 election.
+A couple years ago, I deepfaked myself, showing people how it's done, showing an actor playing me, morphing into me and so on. And that was before this kind of deepfake attack was used to meddle in our elections last year. Right? But by the time the attack came, because of the pre-bunking efforts by the government and by the civil society groups, people see it for what it is, and it arguably backfired and did not achieve its intended effect in our 2024 election.
 
 ### Margaret Hoover:
 
@@ -404,9 +404,9 @@ Misinformation spread by technology has been growing, it's a growing problem in 
 
 ### Audrey Tang:
 
-So, first of all, pre-bunking with the people, not just for the people, is key. So it's not just the government pushing out like deep fake, public service, announcements, but rather people, for example, in high schools or even in primary schools, in 2019, we switched our curriculum of basic education from what's called a literacy-based curriculum to what's called a competency-based curriculum. Media literacy is when you receive information and learn critical thinking and so on. But competence is when you do the journalistic work to check the sources, to balance the sources, to push out contextualized narratives and so on, to correct the three presidential candidates as they're having a debate and so on. And this is what our middle schoolers do.
+So, first of all, pre-bunking with the people, not just for the people, is key. So it's not just the government pushing out like deepfake, public service, announcements, but rather people, for example, in high schools or even in primary schools, in 2019, we switched our curriculum of basic education from what's called a literacy-based curriculum to what's called a competency-based curriculum. Media literacy is when you receive information and learn critical thinking and so on. But competence is when you do the journalistic work to check the sources, to balance the sources, to push out contextualized narratives and so on, to correct the three presidential candidates as they're having a debate and so on. And this is what our middle schoolers do.
 
-According to ICCS, the International Civics and Citizenship Standard Study, the Taiwanese 15 years old by 2022 are top of the world when it comes to their civic knowledge and their ability to engage on these kinds of public issues even before they turn 18\. So by strengthening the civic muscle of the young people and through them the elderly, as well, we became anti-fragile. That is to say, every time a polarization attack, a def fake attack comes to Taiwan, it actually strengthens our solidarity.
+According to ICCS, the International Civics and Citizenship Standard Study, the Taiwanese 15 years old by 2022 are top of the world when it comes to their civic knowledge and their ability to engage on these kinds of public issues even before they turn 18\. So by strengthening the civic muscle of the young people and through them the elderly, as well, we became anti-fragile. That is to say, every time a polarization attack, a deepfake attack comes to Taiwan, it actually strengthens our solidarity.
 
 ### Margaret Hoover:
 
@@ -414,7 +414,7 @@ What about using technology to harden the voting infrastructure and protect voti
 
 ### Audrey Tang:
 
-Yeah, for elections on presidential and legislative seats in Taiwan, we use paper-based ballots only. And during the tallying, the influencers from all three parties document the whole process. So when the deep fake video inevitably came right after the tallying, saying that, oh, there's election fraud or whatever, no matter which party you support, you can find the influence of your camp that showed the entire documentary of the ballot process. And it's been taken like for each ballot is counted, like in different perspectives, different angles. So people very quickly, all the three party leaders say, yeah, there's no election fraud. So, imagine if we do not have that kind of civil society sousveillance, the bottom-up surveillance that looks at the entire tallying process, then very easily then the deep fake would have won the day.
+Yeah, for elections on presidential and legislative seats in Taiwan, we use paper-based ballots only. And during the tallying, the influencers from all three parties document the whole process. So when the deepfake video inevitably came right after the tallying, saying that, oh, there's election fraud or whatever, no matter which party you support, you can find the influence of your camp that showed the entire documentary of the ballot process. And it's been taken like for each ballot is counted, like in different perspectives, different angles. So people very quickly, all the three party leaders say, yeah, there's no election fraud. So, imagine if we do not have that kind of civil society sousveillance, the bottom-up surveillance that looks at the entire tallying process, then very easily then the deepfake would have won the day.
 
 ### Margaret Hoover:
 
