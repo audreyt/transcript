@@ -17,8 +17,6 @@ Good local time! It really is a profound honor to welcome all of you here in Tai
 
 Now, I want to begin with a personal story about a crack. When I was around five years old, I was diagnosed with a congenital heart condition. The doctors told me and my family that this child has only a 50% chance of surviving until heart surgery. And after that, every night going to sleep felt like a coin toss. And this instilled in me an urgency and a key lesson that I don't have time to wait for perfection. I adopted a mantra that I call "Publish Before I Perish." I document every lesson that I learned throughout the day, first on cassettes and then floppy disks, and now the internet.
 
-
----
 And I learned something profound. On the internet, if you publish something perfect, people press "like," and then they scroll away. But if you publish some half-formed thought, your vulnerabilities, unfinished work, cracks, then that invites participation. People correct, debate, co-create. As the late, great Canadian singer, Leonard Cohen, said, "There is a crack in everything, and that is how the light gets in."
 
 And this is how we in the social enterprise movement understood all along. We see cracks of this world—broken systems, marginalized communities, misaligned incentives—but not as despair, but rather as entrances for light, invitations for shaping tomorrow.
