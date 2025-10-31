@@ -1,19 +1,14 @@
 # 2025-10-30 SEWF: Reshaping Tomorrow
 
-# ⛰️✨
+### Audrey Tang:
 
-Good local time! It really is a profound honor to welcome all of you here in Taiwan, an island of resilience shaped by tectonic plates —
+> (⛰️✨)
 
-> 4 Million Years.
-> Plate Against Plate.
-> Taiwan:
-> Forever Rising.
-> Forever Starward.
+Good local time! It really is a profound honor to welcome all of you here in Taiwan, an island of resilience shaped by tectonic plates — 4 Million Years. Plate Against Plate. Taiwan: Forever Rising. Forever Starward.
 
-— here, tremors remind us daily of the instability of the ground beneath our feet. Yet looking at this room, I feel an energy that is extraordinary: the energy of commitment. Over the past two days, you have embodied our theme, "Shaping Tomorrow." You navigate the cracks, reimagining finance, fostering intergenerational unity, as well as tackling the climate emergency. You're the practitioners of hope.
+Here, tremors remind us daily of the instability of the ground beneath our feet. Yet looking at this room, I feel an energy that is extraordinary: the energy of commitment. Over the past two days, you have embodied our theme, "Shaping Tomorrow." You navigate the cracks, reimagining finance, fostering intergenerational unity, as well as tackling the climate emergency. You're the practitioners of hope.
 
----
-# 💥
+> (💥)
 
 Now, I want to begin with a personal story about a crack. When I was around five years old, I was diagnosed with a congenital heart condition. The doctors told me and my family that this child has only a 50% chance of surviving until heart surgery. And after that, every night going to sleep felt like a coin toss. And this instilled in me an urgency and a key lesson that I don't have time to wait for perfection. I adopted a mantra that I call "Publish Before I Perish." I document every lesson that I learned throughout the day, first on cassettes and then floppy disks, and now the internet.
 
@@ -21,8 +16,7 @@ And I learned something profound. On the internet, if you publish something perf
 
 And this is how we in the social enterprise movement understood all along. We see cracks of this world—broken systems, marginalized communities, misaligned incentives—but not as despair, but rather as entrances for light, invitations for shaping tomorrow.
 
----
-# Limits of the Max OS
+> (Limits of the Max OS)
 
 But we must be honest: in many places around the world today, the cracks are widening, and often they are being widened deliberately. For too long, they are widened by the dominant operating system that has been operating on the instruction of maximization. I call it the Max OS, not macOS, Max OS.
 
@@ -30,8 +24,7 @@ In the economic sphere, it maximized profit efficiency. Of course, it led to gro
 
 And your work, the entire social enterprise movement, has been building the counter-narrative to this extractive model of the Max OS. You're the ones trying to rewrite the code. But much of the world still runs on the Max OS.
 
----
-# Parasitic Engine: Fueling Division
+> (Parasitic Engine: Fueling Division)
 
 I'll use one example: the digital realm, where the maximizing instruction is applied to human relationships and leading to catastrophic results. Ten years ago, many social media companies switched from a simple thing where we follow the same micro-bloggers, the same bloggers, and we see the same content. They switched to what I call a parasitic engine, parasitic AI, their recommendation system. 
 
@@ -39,15 +32,13 @@ Instead of people following one another, unsolicited content gets pushed to keep
 
 And this has led to an environment of very high PPM. And I don't mean CO2 parts per million; I mean polarization per minute. And so for the past 10 years, we've been living through higher and higher PPM on the infosphere online, creating a headwind against which every social movement, every social entrepreneur is struggling because we cannot easily build consensus on what is happening to the climate, to financing impact, if the entire social fabric has been masked by the smoke of the high PPM. And that parasitic engine paralyzes our ability to do collective action.
 
----
-# Escaping the Hamster Wheel
+> (Escaping the Hamster Wheel)
 
 And now, a couple of years ago, into this already exhaustive system of high PPM, people introduced increasingly powerful generative AI. And again, we're entering now the AI slop era. "Slop" means content free from relational nutrition, optimized not for nourishment, but purely to keep us addicted. And we used to talk about the importance of "human in the loop." But with AI slop, "human in the loop of AI" feels like a hamster in the wheel of a hamster wheel.
 
 The hamster is running faster and faster, maybe feeling great because they need exercise, but has absolutely no steering toward where the wheel is pointing to. And the crucial question now is not whether we should accelerate AI to make the wheel spin faster, or whether we should stop AI to stop the wheel altogether. We need to take control of the steering wheel. So it's not "human in the loop of AI," but rather "AI in the loop of humanity."
 
----
-# Plurality: The New OS
+> (Plurality: The New OS)
 
 We have been building a new operating system here in Taiwan for a decade because we're very familiar with the intense pressure—environmental, geopolitical, social pressures. But instead of getting destroyed or staying away from those pressures, these conflicts, we learn what I call a geothermal way of facing conflicts.
 
@@ -55,8 +46,7 @@ If you listen deeply to the earth in a social fabric sense, then the friction of
 
 This is technology designed not to maximize any one number for any one individual, but rather to strengthen the health of the relationship between people. An AI system trained this way is not following the utilitarian maximizing logic, but rather the ethics of care.
 
----
-# From Outrage to Overlap
+> (From Outrage to Overlap)
 
 Ten years ago, we had a demo, a demonstration of this AI that we call the bridging systems. At the time, Uber was entering Taiwan, and as in the rest of the world, we were facing a lot of conflict, a lot of tension between people who like the sharing economy, convenience, and the people who really want to protect the unions, the taxi workers, and their living conditions.
 
@@ -67,8 +57,7 @@ And then you start seeing in the Polis system that we use, your avatar moving to
 Now, this system is being adopted as an industry standard called Community Notes on X.com, on YouTube, and on Facebook.
 
 
----
-# Broad Listening
+> (Broad Listening)
 
 But we can go further now, especially with language models. We can scale the process of listening into broad listening. Last year, another example: Taiwan faced a lot of scams, advertisements featuring Jensen Huang, the Taiwanese NVIDIA CEO. Last March, if you opened Facebook, chances are you'd see Jensen's face trying to give back to Taiwan by giving you free investment advice or free cryptocurrency. If you clicked it, Jensen actually talked to you. It sounded just like him. Probably not Jensen, but a deepfake running on an NVIDIA GPU.
 
@@ -82,8 +71,7 @@ Another room said, "if somebody lost $7 million to an investment scam that was n
 
 Another room said, at the time, TikTok did not have a Taiwan office, so they could ignore the liability, and they said instead of censoring them, "let's gradually slow down the connection to their video so their business goes to their competitor, but we're not censoring speech; we're just modulating reach."
 
----
-# Uncommon Ground
+> (Uncommon Ground)
 
 And so these ideas, taken together, form a very coherent package. And we used a language model to weave them together. Because if you have done a facilitated assembly, 45 facilitators mind-melding takes literally a week. But using a language model, the 45 rooms actually wove together the coherent package just in the afternoon, and people voted on it. So this is the uncommon ground.
 
@@ -91,8 +79,7 @@ They discovered common ground between people, across all their communities. And 
 
 So this is the geothermal engine in action. It demonstrates that no matter how much conflict, how much heat we have on controversial issues, emerging harms, we can use AI to foster deep and broad listening and foster uncommon ground between people.
 
----
-# Plurality for Planet
+> (Plurality for Planet)
 
 And these tools are vital for the work that we do every day on the planet as well. Because the climate crisis and the transition to the circular economy demand unprecedented levels of coordination, managing common resources—atmosphere, oceans, biodiversity, and so on.
 
@@ -100,8 +87,7 @@ So this kind of engine can translate communities that use very different metapho
 
 But using this idea of uncommon ground and bridging systems, for the first time, we're able to build pro-social bridges that translate between these different ideas, different dictionaries, synthesizing them into resilient policy.
 
----
-# Open Ecosystem
+> (Open Ecosystem)
 
 Now, for this vision to thrive, the system I just described needs to be open, transparent, and locally governed. We cannot build this bridge on closed, proprietary, colonizing infrastructure. We need to build a digital public infrastructure, DPI, based on the equivalent of public roads, bridges, and parks. It should not be owned by a single corporation. It needs to be a shared resource based on open protocols.
 
@@ -111,8 +97,7 @@ But the current digital landscape often lacks such openness. We're like drivers 
 
 There are a number of jurisdictions, such as the state of Utah, that has already passed and is now preparing for next July where you can take your account from, like, X.com into Bluesky or Truth Social, and the old network is legally required to keep forwarding new likes, new reactions, new friends to the new network. So switching away does not cost you your community. And now we're working with the European Union and also with the senators in the US to make this the norm also for AI systems, so that the human context, the terms of service, is set by the community, not by the monopolists.
 
----
-# Kami: AI with Care
+> (Kami: AI with Care)
 
 And so this brings me to the vision of the AI future that we are co-creating. Some of you know there is a dominant narrative about artificial superintelligence this year. It is frequently envisioned as an all-knowing, all-centralized intelligence, a Skynet, a false idol, and this has led to anxiety about control. But many of you here, I think, would love to see a different, positive vision in the work that we all do, in the wisdom of the Indo-Pacific, Austronesian-speaking population.
 
@@ -126,8 +111,7 @@ That means that climate justice or creation care, spiritual or communal, a child
 
 And I think all of you are local stewards to your communities, and the superintelligence we need is not a machine. It is all of us. We are the superintelligence we've been waiting for. And it is our collective capacity to coordinate, to care, that can steer this future together.
 
----
-# Building Civic Muscle
+> (Building Civic Muscle)
 
 Now, of course, there are a lot of dangers in trying to steer away from the maximizing OS using AI as a facilitator. One impulse I hear from many policymakers is they will say, "Oh, let's then just ask a chatbot to interview people for a few minutes, and then we'll have those chatbots debate with one another and then create policy." And they have this kind of machine; they call it a Habermas machine.
 
@@ -135,8 +119,7 @@ But if we just design policies this way, using proxies of ourselves, it would be
 
 And I think we as social entrepreneurs have known this for more than a decade. We're the global civic muscle. And we have done a lot of the difficult, relational work for change. And it is time that we set this as the norm for AI conversations.
 
----
-# Writing the Air 
+> (Writing the Air )
 # — Together
 
 In Japan, they have this notion of "reading the air," which is quite resonant in a lot of Asia. It's about understanding the unspoken social context and adapting to that context. But I think we're past the point of simply just reading the air and figuring out our theory of change. The air, as I mentioned, is polluted by high polarization per minute. The fog is very thick.
@@ -151,8 +134,7 @@ Because we're at a turning point. The old system, the Max OS, is already crackli
 
 So we can remember the lesson of the geothermal engine: that pressure can be transformed into people power. And the cracks that the old system is showing—that is how the light gets in. And you are that light.
 
----
-# The Plurality is Here
+> (The Plurality is Here)
 
 To close, I offer this poem, this prayer, a vision of our work together. Ten years ago, when I became Taiwan's Digital Minister—*shùwèi* means both digital but also plural, so this is my job description—it goes like this:
 
@@ -168,8 +150,6 @@ To close, I offer this poem, this prayer, a vision of our work together. Ten yea
 > let’s remember: The Plurality is here.
 
 Thank you so much.
-
-**Q&A**
 
 ### Emily Wu:
 Thank you, Audrey. And as we move into our Q\&A, commit to change that will stay so we can be in this space. And for our participants here, by the way, also online, now get your phone up or client chat box and start asking questions. We'll start pulling questions from the Q\&A. Thank you, Audrey. That was a lot in 20 minutes, from Leonard Cohen to participatory governance to the *kami* values. Thank you so much.
