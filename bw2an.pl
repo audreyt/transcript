@@ -1,13 +1,13 @@
 use utf8;
 use strict;
 use warnings;
-binmode STDIN, ':utf8';
-binmode STDOUT, ':utf8';
 
-my $line = <STDIN>;
+utf8::decode(my $line = <>);
+binmode ARGV, ':utf8';
+binmode STDOUT, ':utf8';
 chomp $line;
 my $heading = substr($line, 2);
-1 until <STDIN> =~ /(Audrey Tang|唐鳳)[:：]/;
+1 until <> =~ /(Audrey Tang|唐鳳)[:：]/;
 
 print qq{<?xml version="1.0" encoding="utf-8"?>\n};
 print qq{<akomaNtoso>\n};
@@ -26,7 +26,7 @@ print qq{                </heading>\n};
 print qq{                <speech by="#$1">\n};
 
 local $/ = "\n\n";
-while (my $para = <STDIN>) {
+while (my $para = <>) {
     $para =~ s/^\s+//;
     $para =~ s/\s+$//;
     if ($para =~ s/^>//) {
