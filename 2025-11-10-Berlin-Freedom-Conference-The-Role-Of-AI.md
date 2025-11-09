@@ -1,4 +1,4 @@
-# 2025-11-06 Berlin Freedom Conference: The Role of AI
+# 2025-11-10 Berlin Freedom Conference: The Role of AI
 
 ### Audrey Tang:
 
