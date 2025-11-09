@@ -16,7 +16,7 @@ I propose that the most important frontier model is not found in a lab. It is us
 
 When I was five, a life-threatening heart condition taught me urgency. I adopted the mantra of publishing before perishing, recording what I learned each day. And I discovered something profound.
 
-Perfection invites applause. But imperfections, imperfections invite participation. Our cracks are openings for collaboration. As Leonard Cohen sang, “There’s a crack in everything, that’s how the light gets in.”
+Perfection invites applause. But imperfections — imperfections invite participation. Our cracks are openings for collaboration. As Leonard Cohen sang, “There’s a crack in everything, that’s how the light gets in.”
 
 For democracies, this is key: We must publish our process, not just our final policy. When the people see the “how” and “why,”  critics become co-creators.
 
