@@ -26,13 +26,13 @@ Let us call the dominant logic of our digital age the Max OS. And no, I do not m
 
 In our social systems, Max OS creates parasitic recommendation engines. What is the best way to keep our attention? Fueling outrage. The result? Very high PPM, or polarization per minute.
 
-Ten years of maximizing engagement morphed our social feeds into adrenaline fabs. It rewarded the extremes and punished the nuances. This environment of fractured trust is exactly what authoritarians exploit. Now, add generative AI to the mix and we are flooding the zone with “slop” — content with zero relational nutrition.
+Ten years of maximizing engagement morphed our social feeds into adrenaline fabs. It rewarded extremes and punished nuance. This environment of fractured trust is exactly what authoritarians exploit. Now, add generative AI to the mix and we are spinning faster with “slop” — content with zero relational nutrition.
 
 So, the question is not “Should we accelerate or stop AI?” The question is “Who steers AI?”
 
 > (Steering, not Spinning)
 
-Right now, if we are the “human-in-the-loop” of that parasitic wheel, there is no control. We must move from “human-in-the-loop-of-AI” to “AI-in-the-loop-of-humanity.”
+Right now, if we are the “human-in-the-loop” of that hamster wheel, there is no control. We must move from “human-in-the-loop-of-AI” to “AI-in-the-loop-of-humanity.”
 
 What does this mean? It means we take control of the steering wheel. We use AI as assistive intelligence, not addictive intelligence. We use it to help find the overlaps that turn conflict into geothermal energy for powerful co-creation. 
 
@@ -56,7 +56,7 @@ Let us extend that spirit. We need protocols for freedom of movement, for associ
 
 Authoritarian playbooks are global. Spyware. Troll farms. Transnational repression. Our responses cannot just be “takedowns” after the harm is done. They have to be “prebunking.” They have to be safe by design.  
 
-What does this look like? First, selective disclosure: It means you can verify any one part of your credentials that is relevant — like “I am over 18” or "Ich bin ein Berliner” — without revealing your identity.
+What does this look like? First, selective disclosure: It means you can verify any one part of your credentials that is relevant — like “I am over 18” or “Ich bin ein Berliner” — without revealing your identity.
 
 Second, edge AI: Smart defenders that run on our devices, safeguarding our community.
 
