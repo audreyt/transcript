@@ -29,7 +29,7 @@ Like, you can say “they.” And my pronouns are literally “whatever.” Go a
 
 Okay—forgive me. We’ll continue. Audrey helped develop participatory‑democracy platforms such as vTaiwan and Join, bringing civic innovation into the public sector through initiatives like the Presidential Hackathon and Ideathon.
 
-Francesca Bria is also an incredible human being—a leading innovation economist working at the intersection of technology, geopolitics, and society. Francesca is an honorary professor at the Institute for Innovation and Public Purpose at University College London and a fellow at Stiftung Mercator in Berlin, where she leads the Eurostack initiative on Europe’s digital sovereignty. She’s a member of Spain’s International Council on Artificial Intelligence, established by Prime Minister Pedro Sánchez, and president of the Italian Innovation Agency in Bologna. I could go on forever, but I think I’ve embarrassed you both enough.
+Francesca Bria is also an incredible human being—a leading innovation economist working at the intersection of technology, geopolitics, and society. Francesca is an honorary professor at the Institute for Innovation and Public Purpose at University College London and a fellow at Stiftung Mercator in Berlin, where she leads the EuroStack initiative on Europe’s digital sovereignty. She’s a member of Spain’s International Council on Artificial Intelligence, established by Prime Minister Pedro Sánchez, and president of the Italian Innovation Agency in Bologna. I could go on forever, but I think I’ve embarrassed you both enough.
 
 The question for this evening: Do traditional regulatory frameworks—built for industrial‑era technologies—still serve in the age of AI and an attention economy governed by algorithms? Are we clinging to outdated, ineffective regulatory platforms? What new models can promote democratic participation, technological sovereignty, and human‑centric innovation? How can regulation be reimagined as dynamic, participatory, and adaptive?
 
@@ -83,7 +83,7 @@ That was March. In April we held multi‑stakeholder consultations with big tech
 
 ### Julie Brill:
 
-Awesome. Francesca, you have a suite of ideas—similar to Audrey’s but in the European context—around Eurostack, digital commons, and data commons. Tell us about the solution set you’re driving in Europe.
+Awesome. Francesca, you have a suite of ideas—similar to Audrey’s but in the European context—around EuroStack, digital commons, and data commons. Tell us about the solution set you’re driving in Europe.
 
 ### Francesca Bria:
 
@@ -97,15 +97,15 @@ My usual narrative: Europe is squeezed between two digital empires—the Silicon
 
 We need a better *industrial plan* for the world: less concentration, less extraction, fewer billionaires and authoritarians; a system that works for the majority, particularly the global south.
 
-When I argue for Eurostack—green compute; data as a common good; open source; interoperability; data sovereignty—the question remains: *who are our allies*? We don’t want a protectionist wall around Europe. Sovereignty shouldn’t mean state isolation. Technological sovereignty must mean *popular democratic* sovereignty, built through *global alliances* with other democracies and non‑aligned countries that reject new digital empires. Are we still in time to do this—or are we giving in to a project that destroys democracy?
+When I argue for EuroStack—green compute; data as a common good; open source; interoperability; data sovereignty—the question remains: *who are our allies*? We don’t want a protectionist wall around Europe. Sovereignty shouldn’t mean state isolation. Technological sovereignty must mean *popular democratic* sovereignty, built through *global alliances* with other democracies and non‑aligned countries that reject new digital empires. Are we still in time to do this—or are we giving in to a project that destroys democracy?
 
 ### Julie Brill:
 
-Audrey, what systems would you like to see to empower individuals over corporate and governmental power? Is Eurostack part of the answer? Are vTaiwan and Join part of it? How would you weave these together?
+Audrey, what systems would you like to see to empower individuals over corporate and governmental power? Is EuroStack part of the answer? Are vTaiwan and Join part of it? How would you weave these together?
 
 ### Audrey Tang:
 
-When we brainstormed Eurostack in Brussels, I loved the idea of building it through *interoperability*, as Francesca said. 
+When we brainstormed EuroStack in Brussels, I loved the idea of building it through *interoperability*, as Francesca said. 
 
 There’s precedent in the U.S.: under President Bush, number portability between telecoms. Telecoms hated it, but it meant you could switch carriers and keep your number—and your old carrier couldn’t keep your address book. That’s freedom of movement beyond corporate walls.
 
@@ -113,7 +113,7 @@ This isn’t American, European, or Taiwanese—it’s about fundamental freedom
 
 That changes incentives. Platforms will have to compete on *quality of care*. Today, platforms trap you—humans in the loop of a platform’s AI—like hamsters in a wheel. The wheel spins faster; dopamine flows; but you can’t *steer*. The wheel is fixed; it’s a walled garden.
 
-If we put tech in the *loop of society*, society can demand smaller, pro‑social alternatives. Then small alternatives can actually compete—because people can move, one by one. Big tech will have to innovate—build on open‑source recommendation engines that respect explicit preferences instead of subverting them. They’ll have to adopt pro‑social systems, or people will freely move away. A decentralized, interoperable Eurostack is stronger than building a vertical “European champion” stack.
+If we put tech in the *loop of society*, society can demand smaller, pro‑social alternatives. Then small alternatives can actually compete—because people can move, one by one. Big tech will have to innovate—build on open‑source recommendation engines that respect explicit preferences instead of subverting them. They’ll have to adopt pro‑social systems, or people will freely move away. A decentralized, interoperable EuroStack is stronger than building a vertical “European champion” stack.
 
 ### Julie Brill:
 
@@ -145,7 +145,7 @@ Just one? A simple one: switch away from what I call “Max OS” (not macOS)—
 
 We don’t need that. We can train AI from an *ethics of care* that cares for a *small community’s* relational health. In our 45 rooms of 10 people each, a local agent with *millions*—not billions—of parameters can deeply understand the conversation and help bridge differences.
 
-This is a different vision from a “see everything, do everything” idol. In East Asia we have *ujigami*—local spirits caring for a forest, river, or community. If we train AI and govern AI toward *care*, we avoid threats from maximizing any single metric—no “paperclips,” no GDP above all. The doom‑versus‑acceleration debate is like a car with only accelerator and brake. Let’s build the *steering wheel*.
+This is a different vision from a “see everything, do everything” false idol. In East Asia we have **local kami**—steward spirits caring for a forest, river, or community. If we train AI and govern AI toward **care**, we avoid threats from maximizing any single metric—no “paperclips,” no GDP above all. The doom‑versus‑acceleration debate is like a car with only accelerator and brake. Let’s build the *steering wheel*.
 
 ### Julie Brill:
 
@@ -233,7 +233,7 @@ Beyond taxing billionaires (which we should), Europe proposed digital‑services
 
 Another key lever—very “sexy”—is *public procurement*. Roughly 70% of public spending flows through procurement. We must reform procurement laws to include sovereignty criteria—interoperability, open source, new architectures. Otherwise, we keep spending public money on proprietary cloud and NVIDIA chips. Set targets—e.g., 50% of procurement by 2030 for interoperable, open, sovereign tech.
 
-On funds: In Eurostack we propose a European Sovereignty Tech Fund—to enable these experiments. Start at €10B; scale to €100B or €300B if needed. Much of this is expensive.
+On funds: In EuroStack we propose a European Sovereignty Tech Fund—to enable these experiments. Start at €10B; scale to €100B or €300B if needed. Much of this is expensive.
 
 On jobs: We’re not discussing this enough. New jobs will be created, but we must design for *public value* and fair distribution of the productivity gains—affordable housing (a human right Barcelona has fought for), healthcare, green cities, better jobs. Design funds with clear outcomes and governance.
 
