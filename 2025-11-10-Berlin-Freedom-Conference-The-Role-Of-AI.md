@@ -42,7 +42,7 @@ The metric we should maximize is relational health, trust, inclusion and the spe
 
 In Taiwan, we know all about pressure. We are the number one global target for polarization attacks. But we adapted. We learned to replace “anti-social” media dynamics with “pro-social” architectures. We now use tools where you cannot quote-tweet just to dunk on someone. Instead, statements are assessed as to whether they resonate across divides. The ideas that go viral are not the extremes, they are the ones that bridge left and right — the "uncommon ground" at the heart of the Taiwan Model. 
 
-When ride-sharing came to Taiwan ten years ago, it triggered intense conflict amid many segments of society. So, we used bridging systems — widely used today as Community Notes — to map where the people actually agreed. In just weeks, we turned that conflict into policy options that most people could live with. I call this the “up-wing consensus.”
+When ride-sharing came to Taiwan ten years ago, it triggered intense conflict in many segments of society. So, we used bridging systems — widely used today as Community Notes — to map where the people actually agreed. In just weeks, we turned that conflict into policy options that most people could live with. I call this the “up-wing consensus.”
 
 > (Freedom Architecture)
 
@@ -58,7 +58,7 @@ Authoritarian playbooks are global. Spyware. Troll farms. Transnational repressi
 
 What does this look like? First, selective disclosure: It means you can verify only one part of your credentials that is relevant — like “I am over 18” or "Ich bin ein Berliner” — without revealing your identity.
 
-Second, edge AI: Smart defenders that run on our device, safeguarding our community. Third, bring your own policy. This means our local safety rules, our deliberation norms, they move with us across the web.
+Second, edge AI: Smart defenders that run on our devices, safeguarding our community. Third, bring your own policy. This means our local safety rules and our deliberation norms, they move with us across the web.
 
 Such an approach is critical in rolling back transnational repression. We can use AI to detect patterns of harassment, but we let the community’s code of conduct make the final judgment. Nothing about us, without us, must be the principle of our architecture.
 
@@ -66,7 +66,7 @@ Such an approach is critical in rolling back transnational repression. We can us
 
 Forging stronger democracies is not easy. We need to see the process as working out in a civic gym with a care loop. 
 
-There are six basic moves: Actually listen to people; actually keep promises; let people in on the process, then check the results together. As win-win as possible — and as local as possible.
+There are six basic moves: Listen to people; keep promises; invest the people in the process, verify the results together. As win-win as possible, as local as possible.
 
 Training AI this way moves beyond maximizing a score or following a rule. This is relational alignment. We align with a process of care. Because, if we delegate democracy and policies to chatbots for debate — like sendings robots to a gym — our civic muscles will atrophy. 
 
