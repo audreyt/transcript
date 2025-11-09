@@ -46,9 +46,9 @@ When ride-sharing came to Taiwan ten years ago, it triggered intense conflict in
 
 > (Freedom Architecture)
 
-Berlin builds bridges, Europe promotes interoperability and portability. This spirit enables you to exit of a social system with your data and social graph, just like you keep your phone number when you change carriers. This is freedom architecture.
+Berlin builds bridges; Europe promotes interoperability and portability. This spirit enables you to exit a platform with your data and social graph, just like you keep your phone number when you change carriers. This is freedom architecture.
 
-We must safeguard freedom of movement online by resisting digital colonialism. Policy is catching up to the reality that platforms are places. The Data Act gave us data portability, the Digital Markets Act, interoperability.
+We must safeguard freedom of movement online by resisting digital colonialism. Policy is catching up to the reality that platforms are places. The Data Act gave us data portability; the Digital Markets Act, interoperability.
 
 Let us extend that spirit. We need protocols for freedom of movement, for association, for deliberation, for safety. Think of them as public roads, bridges and parks — not private, walled gardens. Because when an exit is real, platforms must compete on care, not on capture.
 
@@ -56,7 +56,7 @@ Let us extend that spirit. We need protocols for freedom of movement, for associ
 
 Authoritarian playbooks are global. Spyware. Troll farms. Transnational repression. Our responses cannot just be “takedowns” after the harm is done. They have to be “prebunking.” They have to be safe by design.  
 
-What does this look like? First, selective disclosure: It means you can verify any one part of your credentials that is relevant — like “I am over 18” or “Ich bin ein Berliner” — without revealing your identity.
+What does this look like? First, selective disclosure: It means you can verify any part of your credentials that is relevant — like “I am over 18” or “Ich bin ein Berliner” — without revealing your identity.
 
 Second, edge AI: Smart defenders that run on our devices, safeguarding our community.
 
