@@ -187,7 +187,7 @@ Audrey, when you instrumentalize these radical, uncommon ideas, how do you think
 
 Great question. In Taiwan, I believe the state should work *with* the people, not merely *for* the people—and certainly not for the government alone (I’m an anarchist!). The state is an *instrument* that channels people power toward widely supported goals—nothing more, nothing less.
 
-Seeing the state as a *listening* device, not a *broadcasting* device, resolves much of the tension you described. This comes from our civic‑hacking movement, g0v (gov-zero). We registered g0v.tw, and for any government service at gov.tw that we don’t like, we build a *shadow* version at g0v.tw—open source, Creative Commons. Change an “o” to a zero, and you’re at the shadow site.
+Seeing the state as a *broad listening* device, not a *broadcasting* device, resolves much of the tension you described. This comes from our civic‑hacking movement, g0v (gov-zero). We registered g0v.tw, and for any government service at gov.tw that we don’t like, we build a *shadow* version at g0v.tw—open source, Creative Commons. Change an “o” to a zero, and you’re at the shadow site.
 
 If, say, a contact‑tracing system during COVID wasn’t privacy‑preserving enough, g0v folks *forked* it into a zero‑knowledge version—forcing the government to adopt it in three days. Same with the mask maps—citizens built them, and the state adopted them.
 
