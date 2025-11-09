@@ -46,7 +46,7 @@ When ride-sharing came to Taiwan ten years ago, it triggered intense conflict in
 
 > (Freedom Architecture)
 
-Berlin builds bridges, Europe promotes interoperability and portability. This spirit enables the exit of a social system with your data and social graph, just like you keep your phone number when you change carriers. This is freedom architecture.
+Berlin builds bridges, Europe promotes interoperability and portability. This spirit enables you to exit of a social system with your data and social graph, just like you keep your phone number when you change carriers. This is freedom architecture.
 
 We must safeguard freedom of movement online by resisting digital colonialism. Policy is catching up to the reality that platforms are places. The Data Act gave us data portability, the Digital Markets Act, interoperability.
 
