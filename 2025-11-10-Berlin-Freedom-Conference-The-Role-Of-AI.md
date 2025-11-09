@@ -66,7 +66,7 @@ Such an approach is critical in rolling back transnational repression. We can us
 
 Forging stronger democracies is not easy. We need to see the process as working out in a civic gym with a care loop. 
 
-There are six basic moves: Listen to people; keep promises; invest the people in the process, verify the results together. As win-win as possible, as local as possible.
+There are six basic moves: Listen to people; keep promises; invest the people in the process; verify the results together; win-win as possible; and local as possible.
 
 Training AI this way moves beyond maximizing a score or following a rule. This is relational alignment. We align with a process of care. Because, if we delegate democracy and policies to chatbots for debate — like sendings robots to a gym — our civic muscles will atrophy. 
 
