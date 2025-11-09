@@ -161,11 +161,11 @@ Awesome. We have time for questions. Please go ahead.
 
 ### Anil Dash:
 
-Before Q&A, I want to acknowledge a distressing moment at the start that I know was upsetting for many. For context, before coming on stage, we discussed pronouns, and Audrey shared that one acceptable pronoun was literally “whatever.”
+Before Q&A, I want to acknowledge a distressing moment at the start that I know was upsetting for many. For context, before coming on stage, we discussed pronouns, and Audrey shared that one acceptable pronoun was literally “what/ever.”
 
 ### Audrey Tang:
 
-“What/ever.”
+Just, whatever.
 
 ### Anil Dash:
 
