@@ -22,7 +22,7 @@ For democracies, this is key: We must publish our process, not just our final po
 
 > (Max OS vs. Plurality)
 
-Let us call the dominant logic of our digital age the Max OS. And no, I do not mean Apple’s macOS. I mean an operating system that maximizes engagement, watch time and clicks.
+Let us call the dominant logic of our digital age the Max OS. And no, I do not mean Apple’s macOS. I mean an operating system that maximizes engagement, watch time, and clicks.
 
 In our social systems, Max OS creates parasitic recommendation engines. What is the best way to keep our attention? Fueling outrage. The result? Very high PPM, or polarization per minute.
 
