@@ -50,15 +50,17 @@ Berlin builds bridges, Europe promotes interoperability and portability. This sp
 
 We must safeguard freedom of movement online by resisting digital colonialism. Policy is catching up to the reality that platforms are places. The Data Act gave us data portability, the Digital Markets Act, interoperability.
 
-Let us extend that spirit. We need protocols for freedom of movement, for association, for deliberation, for safety. Think of them as public roads, bridges and parks not private, walled gardens. Because when an exit is real, platforms must compete on care, not on capture.
+Let us extend that spirit. We need protocols for freedom of movement, for association, for deliberation, for safety. Think of them as public roads, bridges and parks — not private, walled gardens. Because when an exit is real, platforms must compete on care, not on capture.
 
 > (Digital Resilience for All)
 
 Authoritarian playbooks are global. Spyware. Troll farms. Transnational repression. Our responses cannot just be “takedowns” after the harm is done. They have to be “prebunking.” They have to be safe by design.  
 
-What does this look like? First, selective disclosure: It means you can verify only one part of your credentials that is relevant — like “I am over 18” or "Ich bin ein Berliner” — without revealing your identity.
+What does this look like? First, selective disclosure: It means you can verify any one part of your credentials that is relevant — like “I am over 18” or "Ich bin ein Berliner” — without revealing your identity.
 
-Second, edge AI: Smart defenders that run on our devices, safeguarding our community. Third, bring your own policy. This means our local safety rules and our deliberation norms, they move with us across the web.
+Second, edge AI: Smart defenders that run on our devices, safeguarding our community.
+
+Third, bring your own policy. This means our local safety rules and our deliberation norms, they move with us across the web.
 
 Such an approach is critical in rolling back transnational repression. We can use AI to detect patterns of harassment, but we let the community’s code of conduct make the final judgment. Nothing about us, without us, must be the principle of our architecture.
 
@@ -84,6 +86,6 @@ When we see machine learning, let’s make it collaborative learning.
 
 When we see user experience, let’s make it human experience.  
 
-And when we hear the singularity is near, remember, the Plurality is here.
+And when we hear the singularity is near, let’s always remember: the Plurality is here.
 
 Thank you for your generous and kind attention. Live long and … prosper.
