@@ -40,9 +40,11 @@ The metric we should maximize is relational health, trust, inclusion and the spe
 
 > (Outrage to Overlap)
 
-In Taiwan, we know all about pressure. We are the number one global target for polarization attacks. But we adapted. We learned to replace “anti-social” media dynamics with “pro-social” architectures. We now use tools where you cannot quote-tweet just to dunk on someone. Instead, statements are assessed as to whether they resonate across divides. The ideas that go viral are not the extremes, they are the ones that bridge left and right — the "uncommon ground" at the heart of the Taiwan Model. 
+In Taiwan, we know all about pressure. We are the number one global target for polarization attacks. But we adapted. We learned to replace “anti-social” media dynamics with “pro-social” architectures. We now use tools where you cannot quote-tweet just to dunk on someone. Instead, statements are assessed as to whether they resonate across divides. The ideas that go viral are not the extremes, they are the ones that bridge left and right — the “uncommon ground” at the heart of the Taiwan Model. 
 
-When ride-sharing came to Taiwan ten years ago, it triggered intense conflict in many segments of society. So, we used bridging systems — widely used today as Community Notes — to map where the people actually agreed. In just weeks, we turned that conflict into policy options that most people could live with. I call this the “up-wing consensus.”
+When Uber came to Taiwan ten years ago, it triggered intense conflict in many segments of society. So, we used a bridging system to map where the people actually agreed. In just weeks, the Polis system turned that conflict into policy options that most people could live with. I call this the “up-wing consensus,” and the system is now widely used today in Community Notes.
+
+And last year, when deepfake scam ads flooded our feeds — like a fake “Jensen Huang” offering investment advice — we did not centralize censorship. We convened an Alignment Assembly to map the overlap, facilitated by AI. The cross-partisan proposals were simple and fair: hold platforms liable for unsigned scam ads and require verifiable signatures for all advertisements. As these ideas resonated across divides, they moved fast — turning outrage to overlap.
 
 > (Freedom Architecture)
 
