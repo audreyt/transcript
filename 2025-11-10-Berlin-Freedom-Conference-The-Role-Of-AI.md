@@ -14,7 +14,7 @@ I propose that the most important frontier model is not found in a lab. It is us
 
 > (A Crack, and a Lesson)
 
-When I was five, a life-threatening heart condition taught me urgency. I adopted the mantra of publishing before perishing, recording what I learned each day. And I discovered something profound.
+When I was five, a life-threatening heart condition taught me urgency. Doctors told me I only had a 50 percent chance of surviving till I was old enough for surgery, so every night felt like a coin flip. I adopted the mantra of publishing before perishing, recording what I learned each day. And I discovered something profound.
 
 Perfection invites applause. But imperfections — imperfections invite participation. Our cracks are openings for collaboration. As Leonard Cohen sang, “There’s a crack in everything, that’s how the light gets in.”
 
