@@ -78,7 +78,7 @@ We need to bring our own policy. Our local safety rules and deliberation norms n
 
 Now, forging stronger democracies is never easy. We need to see the process as working out in a civic gym with a care loop.
 
-In Oxford, I'm developing the "sixth pack" of care with six basic moves: Listen to people, keep promises. Invest the people in the process, verify the results together. Win-win as possible and as local as possible.
+In Oxford, I'm developing the "6-Pack of Care" with six basic moves: Listen to people, keep promises. Invest the people in the process, verify the results together. Win-win as possible and as local as possible.
 
 And we can train AI agents this way, beyond maximizing a score or just following some thin rules. This is called relational alignment. We align with the process of care.
 
