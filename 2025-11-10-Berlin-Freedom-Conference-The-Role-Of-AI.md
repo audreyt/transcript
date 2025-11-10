@@ -26,7 +26,7 @@ Let us call the dominant logic of our digital age the Max OS. And no, I do not m
 
 In our social systems, Max OS creates parasitic recommendation engines. What is the best way to keep our attention? Fueling outrage. The result? Very high PPM, or polarization per minute.
 
-Ten years of maximizing engagement morphed our social feeds into adrenaline fabs. It rewarded extremes and punished nuance. This environment of fractured trust is exactly what authoritarians exploit. Now, add generative AI to the mix and we are spinning faster with “slop” — content with zero relational nutrition.
+Ten years of maximizing engagement through enragement morphed our social feeds into adrenaline factories. It rewarded extremes and punished nuance. This environment of fractured trust is exactly what authoritarians exploit. Now, add generative AI to the mix and we are spinning faster with “slop” — content with zero relational nutrition.
 
 So, the question is not “Should we accelerate or stop AI?” The question is “Who steers AI?”
 
