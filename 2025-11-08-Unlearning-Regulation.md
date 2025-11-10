@@ -23,7 +23,7 @@ Nonviolently.
 He did…she…whatever…did it nonviolently.— No?
 
 ### Audrey Tang:
-Like, you can say “they.” And my pronouns are literally “whatever.” Go ahead.
+Go ahead. Like, you can say “they.” And my pronouns are literally “whatever.”
 
 ### Julie Brill:
 
