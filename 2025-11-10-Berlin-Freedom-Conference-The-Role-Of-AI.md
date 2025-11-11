@@ -3,7 +3,7 @@
 ### Leopoldo López:
 So as our next speaker, we have Audrey Tang.
 
-Audrey Tang has become a well-known global figure after her incredible work in Taiwan by protecting the digital space in Taiwan. She wrote a book with a friend, Glen, about plurality that has to do with the ways in which technology can actually be good for democracy, good for collaboration, and it can be a source of good.
+Audrey Tang has become a well-known global figure after her incredible work in Taiwan by protecting the digital space in Taiwan. She wrote a book with a friend, Glen, about Plurality that has to do with the ways in which technology can actually be good for democracy, good for collaboration, and it can be a source of good.
 
 We will hear from Audrey and then we will have a panel discussion with three other people that will go into this area of technology for freedom and democracy. It is truly an honor to have someone that is breaking ground in this idea of technology for democracy.
 
