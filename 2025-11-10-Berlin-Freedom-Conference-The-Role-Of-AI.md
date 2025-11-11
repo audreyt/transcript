@@ -16,7 +16,7 @@ Good evening Berlin. It is such an honor to be in the city that proved to all â€
 
 And Berlin, I think, is a perfect place to talk about the role of AI because here the lesson of '89 is very simple: When people co-create, we outperform any master plan.
 
-Now, I wish to share my thoughts on how we move AI from addictive intelligence to assistive intelligence. I want to ask you to help me to move from extractive platforms to protocols to foster relational health. And I propose the most important frontier model is not found in a lab somewhere. It is us, our augmented collective intelligence. We the people.
+Now, I wish to share my thoughts on how we move AI from addictive intelligence to assistive intelligence. I ask you to join me in moving from extractive platforms to protocols to foster relational health. And I propose the most important frontier model is not found in a lab somewhere. It is us, our augmented collective intelligence. We the people.
 
 > (A Crack, and a Lesson)
 
