@@ -48,7 +48,7 @@ So ten years ago, when ride-sharing Uber came to Taiwan, it triggered intense co
 
 And last year, when we faced a new threat from deepfake scams online, many people saw Jensen Huang, the Taiwanese NVIDIA CEO's face. If you click it, Jensen wants to give you free cryptocurrency or some investment advice. Of course, it's not Jensen. It's a deepfake of him running on an NVIDIA GPU.
 
-However, the people in Taiwan, if you poll them individually, they're all like, "Oh, the government should stay away from censoring the internet because after all, as Dr. Tsai, our president said, you know, we're the most free in all of Asia when it comes to internet freedom." So what to do?
+But, people in Taiwan, if you poll them individually, say the same thing. “The government should stay away from censoring the internet. As Dr. Tsai, our president said, you know, we’re the most free in all of Asia when it comes to internet freedom.” So, what to do?
 
 We sent 200,000 text messages to random numbers around Taiwan asking for a citizen assembly to deliberate the idea. So 447 people randomly selected, representing the same demographic as the Taiwanese population, in rooms of ten, facilitated by an AI. We said to them, those 45 rooms, "You have to come up with an idea that resonates with the other nine people in that video room in order for it to be considered."
 
