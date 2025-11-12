@@ -54,7 +54,7 @@ We sent 200,000 text messages to random numbers around Taiwan asking for a citiz
 
 So one room said, "Let's label all advertisement prominently until it's digitally signed off by somebody." Another room said, "If somebody lost 7 million to an investment scam that's not signed, let's make them fully liable, like Facebook." So Facebook has to pay that 7 million dollars damage if it runs unsigned advertisement. Very good idea. Another room said, "TikTok at the time did not have a Taiwan office. If they ignore our rules, every day they ignore our rules, let's slow down the connection to their video by 1%, but not censoring them."
 
-So basically, those ideas get woven together by a language model, a small language model, at the end of the day, and everybody voted on it. So those 447 people, more than 85% regardless of demographics, agreed. And the other 15% could live with it, considered it quite legitimate. That was last March, and by May we passed the amendment on the Digital Signature Act. By July, we passed the anti-fraud law. And this year, these deep scams are not there anymore. Advertisement for fraud is down by more than 90%.
+Those ideas get woven together by a language model, a small language model, at the end of the day, and everybody voted on it. So those 447 people, more than 85% regardless of demographics, agreed. And the other 15% could live with it, considered it quite legitimate. That was last March, and by May we passed the amendment on the Digital Signature Act. By July, we passed the anti-fraud law. And this year, these deep scams are not there anymore. Advertisement for fraud is down by more than 90%.
 
 > (Freedom Architecture)
 
