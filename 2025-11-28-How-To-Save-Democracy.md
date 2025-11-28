@@ -5,13 +5,13 @@ There was no digital minister in Taiwan before, so I get to write my own job des
 
 > (music)
 
-### John Alexander:
-Welcome to How to Save Democracy, the podcast where we look at the relationship between humanity and democracy and try to figure out how to rebuild it. I'm John.
+### Jon Alexander:
+Welcome to How to Save Democracy, the podcast where we look at the relationship between humanity and democracy and try to figure out how to rebuild it. I'm Jon.
 
 ### Omezzine Khelifa:
 And I'm Omezzine. For this episode, we're going to look to a place where the relationship between humanity and democracy has actually improved over the last 10 years, which isn't the picture in most of the world. A place that has grown stronger and stronger, where trust in government has gone from 9%—wait for it—to above 70%.
 
-### John Alexander:
+### Jon Alexander:
 In summer 2024, I arranged for Audrey Tang, former digital minister of Taiwan, to come to the UK, and I hosted her at the Conduit. We're going to listen in to that conversation and draw out some of the key lessons, contrasting what happened in Taiwan with what's happened in other places, and use that to see what could be done differently.
 
 That moment of the Sunflower Revolution, the protest moment. Maybe just tell us a bit more about the URL that popped up on the screen—budget.g0v.tw—as a real thing. Please.
@@ -28,7 +28,7 @@ Yeah, I see two main powerful things in what she said right now. One is the demo
 
 Yes, and then comes the second point, where the political leadership was not violently repressing the movement as they did everywhere else. In Tunisia, people were shot by the police and killed. In the Occupy movement, people were taken off the street and arrested. Right. But here, the political leadership was open to seeing that there is an alternative, that these people are coming with a solution, and that they need to listen to them.
 
-### John Alexander:
+### Jon Alexander:
 So two really fundamental differences. The action from outside was to create the space for politics to move into rather than to attack the politics. And from inside, the leadership was to step into that space rather than reject that space.
 
 ### Omezzine Khelifa:
@@ -38,7 +38,7 @@ It makes me think of what happened in the Tunisian revolution, where the social 
 
 There is this delicate moment in time that the movement can totally lose in front of the existing power. In Tunisia, I think one of the failures of this transition was that people who went to the streets didn't have the tools or the collective capacity to bring this new vision, which made them super weak in front of others who had another vision. In a protest movement, in a revolution, you need to come up with a vision; otherwise, others will take it from you and use their own vision to force it on you.
 
-### John Alexander:
+### Jon Alexander:
 So we're going to paint that timeline a little bit to start us off. The budget website came in 2012.
 
 ### Audrey Tang:
@@ -46,7 +46,7 @@ So we're going to paint that timeline a little bit to start us off. The budget w
 
 So 2012, these websites that have forked the government—I've heard you use that phrase. 'Forked the government.' Fork means steering it in a different direction, and always with the hope to merge it back.
 
-### John Alexander:
+### Jon Alexander:
 So demonstrate, not protest, and fork the government. We start there in 2012. The momentum is building. 2014 comes, and what triggered that moment?
 
 ### Audrey Tang:
@@ -56,7 +56,7 @@ The g0v people helped to code up some tools that say, if you just enter your com
 
 Every day we take this group selfie, this snapshot, because everything is live-streamed—just like we're being live-streamed now—and transcribed and translated. Instead of diverging over time, it actually converged day after day. We'd read what people were able to agree roughly with each other—we call it 'rough consensus'—to live with such an agreement the previous day, and what remains to be deliberated. No matter how soon or how late you join, there are still some points to contribute to the deliberation.
 
-### John Alexander:
+### Jon Alexander:
 I want to draw out how different this protest moment, the Sunflower Revolution, the Occupy movement in Taiwan, is in its operation from some others. One of my thought experiments to illustrate this would be about Extinction Rebellion (XR) in the UK. When XR started, it was incredibly popular, right? It's hard to remember now, but my mom nearly went to Waterloo Bridge, right? And my mom is not a Waterloo Bridge woman.
 
 In that moment, the demands of XR included a citizen's assembly on climate policy. They wanted that assembly to be legally binding by 2035 for how Britain would reach net zero. I won't go into the detail, but a citizens' assembly was commissioned in the UK—not many people even know this, which illustrates my point. A citizens' assembly was commissioned by six select committees of Parliament.
@@ -66,19 +66,19 @@ My thought experiment is, if you contrast that with g0v, what these guys were do
 ### Omezzine Khelifa:
 So what actually happened was, because the citizens' assembly that was commissioned was not quite what XR had asked for, they basically decided to ignore it. Hm. Big mistake.
 
-### John Alexander:
+### Jon Alexander:
 And my thought experiment is, what if they had chosen to follow that citizens' assembly? What if, for each meeting of the assembly—there were three, I think—what if they'd set the dates for their rebellions, for the big protests, on those dates to draw attention to the citizens' assembly? To say, "This isn't perfect, but we need more of this. This is the direction we want to go." I wonder if that might have conducted energy into that process that could have shown a new way forward, in the same way as the g0v gang, by equipping people to have these meetings outside the parliament, sort of validated the occupation of the parliament by doing that. Mmm.
 
 ### Omezzine Khelifa:
 So, if they had been more pragmatic? If they would have accepted the situation as it is and not tried to implement their vision from the beginning and impose it? Like, accept that maybe the political leadership was not ready yet for that, but see the citizens' assembly, as imperfect as it is, as a first step instead of, "Okay, this is a no-go."
 
-### John Alexander:
+### Jon Alexander:
 Right, it's almost like a 'yes, and' rather than a 'no.' Look, I'm hesitant with this a little bit because hindsight is always 20/20, but I think it's useful to draw out the contrast between the way Extinction Rebellion happened and the way the Sunflower Revolution in Taiwan happened. There was this participation that showed and demonstrated and lived and said 'yes, and we can do more of this,' rather than a demand and then a failure.
 
 ### Omezzine Khelifa:
 Would that be the contrast between an idealist and a pragmatic person or group? An idealist would have this idea and want to implement it exactly as it is in a utopia. The pragmatic person or group would say, "Okay, I have this beautiful vision, it's still a utopia, but I have to deal with the reality. Any step towards making this idea concrete is relevant, and I take it, accept it, and move forward with it."
 
-### John Alexander:
+### Jon Alexander:
 Something like that. I hesitate because I consider myself to be an idealist more than a pragmatist, but maybe I'd describe Audrey as a radical pragmatist.
 
 We're starting to build this muscle of developing these things. 2014 comes, and there's an attempt to rush through the trade bill. That triggers this protest moment—Demonstration. Demonstration. Sorry. And at this point, you are part of g0v.
@@ -94,7 +94,7 @@ Then it's up to us to determine what to do. Now we have mayors that ran with ope
 
 I was 33 at the time, so I got recruited into the cabinet as a reverse mentor to Minister Jaclyn Tsai, who was in charge of regulation for the cyberspace. We did a bunch of stuff together—UberX, Airbnb, crowdfunding, all the interesting things around 2015—using the vTaiwan process that builds these bridging sentiments across polarization. Long story short, after two years serving as the young reverse mentor, I turned 35. I'm too old to be a young adviser, so I got promoted to a full cabinet minister.
 
-### John Alexander:
+### Jon Alexander:
 Obviously, right. Career trajectory in four years: hacker to mentor to minister. Let's bring it up to 2020 and, for me, the pinnacle of the story.
 
 ### Audrey Tang:
@@ -114,7 +114,7 @@ Just to underline one more thing: the three design principles that were publicly
 
 For example, people in their 70s and 60s, because they read some reports from Europe around AstraZeneca, they don't prefer AstraZeneca. They would say, "We prefer Moderna." There are people in certain age brackets, like 30 years old, who really root for the local team, the home-brew, the Medigen. But there are people who swear Medigen is toxic and they will only get BNT. I got all four brands just to make a point, but anyway, the point is that we knew there was going to be an anti-vax polarization attack down the road. Instead of debunking that, we turned that energy into civic participation. Basically, a 'my vaccine better than your vaccine' kind of friendly competition. Because of that, Taiwan does not have an anti-vax political faction. Everybody got vaccinated, but still to this day, people would believe that only the one that they got works, and the other ones are fake.
 
-### John Alexander:
+### Jon Alexander:
 There's so much in Taiwan's COVID response that is just—I mean, we laugh, right, but it works. I still can't believe that I'm one of the only people who seems to tell this story that Fast, Fun, and Fair, that pre-bunking not debunking, that humor over rumor—that these kinds of approaches really worked. Taiwan had the second lowest death rate anywhere in the world. The country as a whole never went into lockdown. And trust in government built through that process. The economy was doing better, the trust was doing better.
 
 At the core of it, I think, is this idea that the government trusted its citizens. The government sought to tap into the ideas, energy, and resources of everyone in the country to be part of a national team response, rather than trying to do it for them or to them. Rather than seeing citizens as something to be managed, they saw their citizens as a resource to be tapped.
@@ -122,7 +122,7 @@ At the core of it, I think, is this idea that the government trusted its citizen
 ### Omezzine Khelifa:
 I think this is unique. I would love to see that in more places in the world, but again, I want to acknowledge the political leadership there. Seeing citizens as resources, trusting collective intelligence, understanding that it's a crisis—a humanity crisis—and that they don't have the solution and need everyone to come up with the answer is pretty unique. I'm wondering how we can get politicians to embrace that vision, that trust in their citizens.
 
-### John Alexander:
+### Jon Alexander:
 This is exactly the question, I think, and that's where I took the conversation next. It can be easy to think of Taiwan as just another planet and to say, "Well, this could never happen anywhere else." So I put that question to Audrey: could it happen anywhere else?
 
 ### Audrey Tang:
@@ -137,7 +137,7 @@ In Taiwan, what we have demonstrated is that it does take time. In 2018, it was 
 ### Omezzine Khelifa:
 I want to go back to this powerful sentence: 'To give no trust is to get no trust.' I'm wondering where it starts. Someone needs to be the first to give this trust in this atmosphere of suspicion. Again, we can think of it as this unique place, but at the same time, if the most powerful give that trust, right?
 
-### John Alexander:
+### Jon Alexander:
 I think that's right. The danger in this moment, and what's so powerful about that articulation—'to give no trust is to get no trust' (it's actually a quote from the Tao Te Ching from Laozi)—is that it tells us it's a cycle. It's reciprocal. If you give no trust, you get less trust. Government trusts people less, people trust government less, government trusts people less.
 
 But it's also possible to reverse that cycle, and it's possible to do that anywhere. The first acts of government putting trust in people begins to turn that the other way. I think that's what you can see from examples around the world, where just the first experiments with a citizens' assembly, like in Ireland in one of our other episodes, or in Norway, or a big participatory budgeting effort in the city of Paris, or a climate assembly in the city of Brussels. These sorts of things begin to create a different relationship, and anywhere in the world, it can begin from there.
@@ -145,7 +145,7 @@ But it's also possible to reverse that cycle, and it's possible to do that anywh
 ### Audrey Tang:
 I just want to underline this because there is an instinct to project onto Taiwan as this deeply solidary nation in the face of an oppressor. By this year, yes, but not 10 years ago. Just to refer to some of those numbers you put out: trust in government was at 9% in 2014 and 20% in 2018.
 
-### John Alexander:
+### Jon Alexander:
 This year in the UK we're on about 20%. To give you a sense, we are actually double where they were at the beginning. The latest OECD data was 20%. So we're starting at a slightly higher baseline, even with what's happened here.
 
 ### Audrey Tang:
@@ -160,13 +160,13 @@ It becomes a race to the top. I think this point really stands out. One of the m
 
 Looking at Tunisia under dictatorship and Taiwan under democracy, I've come to see the relationship between civil society organizations and public servants as a kind of thermometer for the health of a democracy. The more trust there is between them, the healthier the system tends to be. To repair our relationship to democracy, we need to start looking at the relationship between civil society organizations and civil servants.
 
-### John Alexander:
+### Jon Alexander:
 I totally agree. I think the relationship between civil service and civil society is another of these absolutely fundamental relationships where the trust has to be rebuilt. It speaks also to this underlying philosophy that is there in Audrey's work and that she'd actually, when I brought her over to the UK, had just put out into the world in the form of a book co-authored with Glen Weyl called *Plurality*. I decided at this point to steer her into talking about that.
 
 ### Audrey Tang:
 Let's zoom out again a little bit to the underlying philosophy here. This is the book *Plurality*. The only 20-odd copies that are in the UK at the moment are at the back of the room and have all been signed—not that there's a massive sales plug going on here or anything.
 
-### John Alexander:
+### Jon Alexander:
 This isn't just a story. There's an underlying philosophy, a mindset that you're now working with Glen and putting out into the world as an offer of something to step into.
 
 ### Audrey Tang:
@@ -178,7 +178,7 @@ Plurality, or collaborative diversity, stems from the radical kind of conflict t
 
 There are a lot of ways that digital technology can help the face-to-face, the in-person, the facilitative, the community sectors, the neighborhoods, to make that happen. If we look at the traditional Mandarin word for 'digital,' *shùwèi*, it actually also means plural—several, more than one digit. A Minister of Digital Affairs is also a minister for plurality. This is where the philosophy stems from. It is digital in the service of collaborative diversity.
 
-### John Alexander:
+### Jon Alexander:
 Once again, we've got huge ideas here. This concept of assistive intelligence rather than artificial general intelligence, the giant spaghetti squid in the sky. Audrey has some good images as well, right? But I think juxtaposing those two possibilities—the idea of using technology to tap into the ideas, energy, and resources of citizens to enable collaboration, to enable human experience, not user experience.
 
 It's such a powerful thing to juxtapose that with where things are arguably going at the moment. When you start from a lack of trust in people, when you see the role of government as being to manage or deliver for people, you end up with this kind of centralized power that is crushing. I find it so inspiring to see and hear Audrey talking about this. Seeing people as citizens, as capable contributors, means that you use technology entirely differently. The starting point is how do we make the most of what people are capable of and assist them to do it, rather than how do we supersede.
@@ -186,7 +186,7 @@ It's such a powerful thing to juxtapose that with where things are arguably goin
 ### Omezzine Khelifa:
 The private sector is guilty. To be honest, when you think of it, our technologies today are not designed to see people as citizens, but mostly as consumers—as people who need to buy and be addicted to the products they buy. The more addicted, the more we can sell them things, instead of seeing them as a resource for intelligence and for moving humanity forward. I think that's our curse today because AI is not designed by visionaries like Audrey, but by people who want to extract more from us. How do we change that?
 
-### John Alexander:
+### Jon Alexander:
 Follow Taiwan. Citizens not consumers—you're not going to get any disagreement on that from me. Just to underline, the metaphor of the Eurasian plate and the plates crashing into one another is pretty powerful. I relate to this very deeply. In my work, I talk about three stories of the individual in society in this moment: the subject story, the consumer story, and the citizen story.
 
 The subject story: the right thing to do is do as you're told because the God-given few know best. The consumer story: the right thing to do is to pursue your self-interest because that will add up to collective interest. The citizen story: get involved because all of us are smarter than any of us. You draw on an analogous—I suppose seeing the same thing through a different lens. Maybe you could set out how you see that trio?
@@ -219,19 +219,19 @@ For example, there's a statement that says, "Surge pricing is fine, but undercut
 ### Omezzine Khelifa:
 I think this UberX story is a powerful example showing how the design of a tech platform and the values it is promoting can influence the outcome of dialogue and the real possibility to reach consensus to eventually become law.
 
-### John Alexander:
+### Jon Alexander:
 And it's all built out of an underlying mindset, right? That plurality is what we want, that we can actually build the best solutions by understanding and seeing all of these different perspectives and finding the consensus out of them. We can use technology to help find consensus rather than just to deliver goods and services to people more efficiently.
 
 ### Omezzine Khelifa:
 That's so inspiring. The joy in this conversation for me was knowing that these tools, these approaches, are available and are also starting to get picked up.
 
-### John Alexander:
+### Jon Alexander:
 Now, the thing is it's taking too long, but I do believe and see that these sorts of conversations, this sort of work, is actually happening all over the world in many different places. In the UK right now, there's a new campaign called Our House, which is seeking to use some of these same tools to crowdsource what they're calling a people's charter for the 21st-century democracy, trying to crowdsource what the rules of democracy that might need to change might be from outside of the political system, drawing inspiration from g0v, using some of the same tools as Taiwan. This is starting to replicate.
 
 ### Omezzine Khelifa:
 This conversation is making me understand how important it is to have ethical political leadership aligned with good technologists to build the kind of platforms we need to advance democracy.
 
-### John Alexander:
+### Jon Alexander:
 Right. Political leadership cannot be disconnected anymore from technology, and they need to have the tech people with them to build the kind of platforms that will eventually become the societal values that we want. It just feels like such a different conversation, doesn't it? It's a conversation about how this could actually create a better world, rather than how do we limit the damage that technology does, which feels like it's about the best conversation that anyone can dream of at the moment. This is just another level, and I find that super exciting.
 
 At the end of the conversation, I asked Audrey what advice she would give, particularly to the UK, but maybe it's relevant more widely as well.
@@ -241,7 +241,7 @@ I think it really is the time for demonstration, for demonstrators. There's a ve
 
 That is the kind of movement that we faced in 2014 and 2016, and we did institutionalize a lot of the stuff. That then led to this what we call 'people-first public-private partnership.' So PPPP. That then defined Taiwanese politics for the past five years. I would encourage you to think as a demonstrator, and with an eye on perhaps institutionalizing the stuff that you'll be doing in the next coming months.
 
-### John Alexander:
+### Jon Alexander:
 So one last massive idea from Audrey there: the PPPP, people-first public-private partnership, and this invocation to build and to demonstrate. That's such a powerful note to end on. She was talking in summer 2024, just after the election of a new Labour government in the UK. That's the specific context, but these moments keep coming. The moments when things could change dramatically. If we can have a different model available for a government to step into, like they did in Taiwan with that Occupy moment, then things can change very quickly. The work needs to start.
 
 Maybe I want to take us back to your comment at the beginning about the two kinds of leadership that are present here: the leadership from the outside of demonstration rather than protest, and the leadership from the inside of being prepared to step into the space that's made. Powerful.
@@ -249,5 +249,5 @@ Maybe I want to take us back to your comment at the beginning about the two kind
 ### Omezzine Khelifa:
 This was How to Save Democracy, the podcast for people who love democracy, but know we've got serious work to do to save it.
 
-### John Alexander:
-This episode was hosted by John Alexander and Omezzine Khelifa and produced by Joe Barrett. The studio engineer was Kristen Kaca. Subscribe wherever you get your podcasts, or if you want to get closer, find us online at howtosavedemocracy.co and sign up to the mailing list. How to Save Democracy is produced in partnership with the Conduit and with Urban MBA, and wouldn't be possible without the financial support of our listeners. We've got big plans, so if you can chip in and help us to make them happen, we'd love to have you on board.
+### Jon Alexander:
+This episode was hosted by Jon Alexander and Omezzine Khelifa and produced by Joe Barrett. The studio engineer was Kristen Kaca. Subscribe wherever you get your podcasts, or if you want to get closer, find us online at howtosavedemocracy.co and sign up to the mailing list. How to Save Democracy is produced in partnership with the Conduit and with Urban MBA, and wouldn't be possible without the financial support of our listeners. We've got big plans, so if you can chip in and help us to make them happen, we'd love to have you on board.
