@@ -39,7 +39,7 @@ is not my honor alone — it is ours.
 
 To everyone who etched their mark on digital freedom,
 to everyone waging peace around the globe:
-thank you.
+Thank you.
 
 婆娑之洋，美麗之島。
 公民之國，萬華之中。
