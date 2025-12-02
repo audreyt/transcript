@@ -2,11 +2,6 @@
 
 ### Audrey Tang:
 
-四百萬年以來，
-在海陸板塊的碰撞中，
-台灣一直就是：
-不斷向上，仰望星空。
-
 Four million years. Plate against plate.
 Taiwan: forever rising, forever starward.
 
@@ -22,7 +17,7 @@ crashing plates
 give rise to a majestic verdancy.
 
 We built a geothermal democracy —
-one that transforms the negative heat of disagreement
+the crashing plates transformed
 into positive energy for renewal.
 
 This is the challenge for all democracies faced with backsliding:
@@ -32,7 +27,7 @@ but to channel conflict.
 AI must not divide us with outrage.
 It must connect us through uncommon ground.
 
-We the people are the superintelligence.
+We the people are the true superintelligence.
 
 To be Taiwan’s first Right Livelihood Laureate
 is not my honor alone — it is ours.
