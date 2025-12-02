@@ -17,7 +17,7 @@ crashing plates
 give rise to a majestic verdancy.
 
 We built a geothermal democracy —
-the crashing plates transformed
+the crashing plates turned
 into positive energy for renewal.
 
 This is the challenge for all democracies faced with backsliding:
