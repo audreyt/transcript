@@ -20,7 +20,7 @@ We built a geothermal democracy —
 the crashing plates turned
 into positive energy for renewal.
 
-This is the challenge for all democracies faced with backsliding:
+This is the challenge for all democracies facing backsliding:
 not to silence
 but to channel conflict.
 
