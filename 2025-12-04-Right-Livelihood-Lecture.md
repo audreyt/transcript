@@ -42,7 +42,7 @@ A world where solidarity is always at the forefront.
 
 Good local time, Zurich. It is a great honor to be speaking with you as the 2025 Right Livelihood Laureate. First, let me reflect on what brings us together today: Right Livelihood. It's not a list of permitted professions or some spouted moral rule. It is a dynamic practice, a way of engaging with the world, as we have seen in the short clip, that makes us, working in the field, bound by curiosity, by collaboration, and civic care.
 
-His Holiness the Dalai Lama wrote, and I quote: "In order to carry out a positive action, we must develop here a positive vision. It is under the greatest adversity that there exists the greatest potential for doing good both for oneself and the others." Now, we're arriving at an age and time of intense pressure. We have seen the climate crisis, social polarization, and democracy backsliding around the globe. So you can feel, really, that the adversity, the darkness, is closing in.
+His Holiness the Dalai Lama wrote, and I quote: "In order to carry out a positive action, we must develop here a positive vision. It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and the others." Now, we're arriving at an age and time of intense pressure. We have seen the climate crisis, social polarization, and democracy backsliding around the globe. So you can feel, really, that the adversity, the darkness, is closing in.
 
 But as the Dalai Lama teaches us, Right Livelihood thrives on adversity, offering hope in the form of light. Light that shines through the cracks. Light that illuminates opportunities for real change and lasting change.
 
@@ -110,15 +110,15 @@ And so there is now a temptation in the research community to automate some of t
 
 So we cannot delegate democracy. We need to be part of the civic gym. We need to ensure that our schools, the civic gyms, continue to train our civic muscles. We need to ensure that we research and develop the tools for digital democracy and develop the ethical frameworks that guide our technology. We must move beyond MaxOS, toward the Ethic of Care.
 
-So in Oxford, I'm developing the “6-Pack of Care.” You know, muscle. And also portable. So this is called the alignment to a process of relationship, relational alignment. So the process of care, as the ethics of care says, should maximize not engagement but the relational health, mutual trust, and inclusion.
+So in Oxford, I'm developing the “6-Pack of Care.” You know, muscle. And also portable. So this is called the alignment to a process of relationship — relational alignment. So the process of care, as the ethics of care says, should maximize not engagement but the relational health, mutual trust, and inclusion.
 
-And so here we return to Right Livelihood not as a virtue for individuals but something that cultivated society can see as the civic virtue of the entire community. This is what I call "Techno-communitarianism." Technology to foster the ability for communities to integrate their own interpretation of ethics and contemplative practice through policy that protect human and ecological well-being. And this is aligned with many wisdom traditions, those institutions that nourish compassion and engagement.
+And so here we return to Right Livelihood not as a virtue for individuals but something that cultivated society can see as the civic virtue of the entire community. This is what I call "Techno-communitarianism." Technology to foster the ability for communities to integrate their own interpretation of ethics and contemplative practice, through policy that protect human and ecological well-being. And this is aligned with many wisdom traditions, those institutions that nourish compassion and engagement.
 
 And so I think the future is rooted in this attentiveness, this care, this presence, where Right Livelihood emerges from a symbiogenesis of communities with other communities. We can build the local AI systems that take the local community norm, for example one around climate justice for specific communities. And another community can train an AI system to attend to the biblical creation care. And we have worked to build social translation systems so that the machine can talk to this group of people and show that that group of people is also doing God's work. And this is an amplification for the broad listening technique that has shown its practice and effectiveness in Taiwan.
 
 Now, many people are looking for superintelligence to be built in some lab somewhere. But I think the future of intelligence is not a machine waiting to be invented. It is us. Our augmented collective intelligence. It is our capacity to coordinate with care. We, the people, are the true superintelligence.
 
-And remember: positive vision brings positive action. In the greatest adversity lies the greatest potential for doing good, both for oneself and the others. So the adversity is here. And so is our capacity to care. AI must not divide us with outrage. It must connect us through Uncommon Ground.
+And remember: positive vision brings positive action. "In the greatest adversity lies the greatest potential for doing good, both for oneself and the others." So the adversity is here. And so is our capacity to care. AI must not divide us with outrage. It must connect us through Uncommon Ground.
 
 And so in closing, I offer a poem, a prayer, a vision for us working together. When I first became Taiwan's Digital Minister in 2016, I noted that in Taiwanese Mandarin, *Shùwèi* (數位) means both "digital" and "plural." So I wrote my own job description that remains my mantra to this day. It goes like this:
 
@@ -180,7 +180,7 @@ So in Switzerland we think that digital democracy equals internet voting. And eq
 
 Well, I'm sure you already have surveys, that's to say polls, and institutional media that runs such poll results. So in a sense, our way, the Alignment Assembly, from one side looks like a regular citizen assembly. But on the other side, it looks like a poll. So you can actually think of it not as deliberation but rather as a survey that surveys not individuals but groups of ten. It's as simple as that.
 
-Because if you individually survey people, they tend to be extreme. They're like "YIMBY\! Yes, in my backyard\!" "NIMBY\! Never in my backyard\!" But if you say to a group of ten: Only the idea that resonate in the room has a chance to pass out of the room, to go out cross-pollinate other rooms, everybody become NIMBY—"Maybe In My Backyard"—if you do this, if you do that. Right? So again there's a function of the space, not the function of the people. But if you publish the result of such a deliberative poll, it looks exactly like a regular poll. And so all the existing ways you integrate polls into your democracy still functions. So the point here is not to reinvent some wild new form of digital democracy. It is to ensure that we can come to see each other on overlap, not on outrage, using pro-social design.
+Because if you individually survey people, they tend to be extreme. They're like "YIMBY\! Yes, in my backyard\!" "NIMBY\! Never in my backyard\!" But if you say to a group of ten: Only the idea that resonate in the room has a chance to pass out of the room, to go out cross-pollinate other rooms, everybody become MIMBY—"Maybe In My Backyard"—if you do this, if you do that. Right? So again there's a function of the space, not the function of the people. But if you publish the result of such a deliberative poll, it looks exactly like a regular poll. And so all the existing ways you integrate polls into your democracy still functions. So the point here is not to reinvent some wild new form of digital democracy. It is to ensure that we can come to see each other on overlap, not on outrage, using pro-social design.
 
 ### Adrienne Fichter:
 
@@ -248,7 +248,7 @@ And we want Personal Computing, which means you can install your own spreadsheet
 
 ### Adrienne Fichter:
 
-Sorry. Moving on. Catch up. You told me in a preparatory talk like when I thought about what you do in Switzerland, you told me like: Okay you have that democracy. But you also have sometimes on public votes slight majorities of 51% or like 49% no. That would not be enough in Taiwan. You really aim for having 80%, like also for the AI regulation law you want to pass these days, should be at the end a minimum of 80%.
+Sorry. Moving on. Catch up. You told me in a preparatory talk like when I thought about what you do in Switzerland, you told me like: Okay you have direct democracy. But you also have sometimes on public votes slight majorities of 51% or like 49% no. That would not be enough in Taiwan. You really aim for having 80%, like also for the AI regulation law you want to pass these days, should be at the end a minimum of 80%.
 
 ### Audrey Tang:
 
@@ -268,7 +268,7 @@ You don't like the word disinformation campaigns. You prefer "polarization attac
 
 ### Audrey Tang:
 
-Okay. They are widening their free service now. And it's because of language models. It used to be that you had to speak the target language to successfully mount an attack. But now malicious AIs won't speak that language so well, even the memes, that's to say pictures, can be translated perfectly into any target culture. So it does widen the aperture for polarization and disinformation attacks.
+Okay. They are widening their free service now. And it's because of language models. It used to be that you had to speak the target language to successfully mount an attack. But now malicious AIs not only speak all languages so well, even the memes, that's to say pictures, can be translated perfectly into any target culture. So it does widen the aperture for polarization and disinformation attacks.
 
 In Taiwan, we basically invite these as topics for conversation. Social objects. We pre-bunk instead of debunk messages. Debunking is after the fact. And it's bound to polarize some people if you debunk.
 
