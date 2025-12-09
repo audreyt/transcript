@@ -33,7 +33,7 @@ To be Taiwan’s first Right Livelihood Laureate
 is not my honor alone — it is ours.
 
 To everyone who etched their mark on digital freedom,
-to everyone waging peace around the globe:
+to everyone waging peace across the globe:
 Thank you.
 
 婆娑之洋，美麗之島。
