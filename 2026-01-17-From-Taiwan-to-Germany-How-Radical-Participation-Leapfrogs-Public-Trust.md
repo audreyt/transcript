@@ -2,11 +2,11 @@
 
 ### Steffi Czerny:
 
-Friends, from Taiwan to Germany: how radical participation can leapfrog public trust.
+Friends, from Taiwan to Germany: How radical participation can leapfrog public trust.
 
-Public trust is fragile. Once it’s gone, it’s hard to win back. So the question is not only how we communicate better, it’s how we design systems where people feel heard, involved, and respected. Systems that can hold disagreement, because disagreement matters. It’s how progress happens. The challenge is scaling participation without sliding into chaos.
+Public trust is fragile. Once it’s gone, it’s hard to win back. So the question is not only how we communicate better, it’s how we design systems where people feel heard, involved and respected. Systems that can hold disagreement, because disagreement matters. It’s how progress happens. The challenge is scaling participation without sliding into chaos.
 
-I’m very happy to welcome Audrey Tang, Taiwan’s first Digital Minister (2016–2024) and now Cyber Ambassador. Audrey is a globally recognized civic tech leader who helped position Taiwan at the forefront of digital democracy and internet freedom. TIME named Audrey to its inaugural list of the 100 most influential people in AI (2023) for impact in using technology for public good. It’s an honor to have you here.
+I’m very happy to welcome Audrey Tang, Taiwan’s first Digital Minister from 2016 to 2024 and now Cyber Ambassador. Audrey is a globally recognized civic tech leader who helped position Taiwan at the forefront of digital democracy and internet freedom. TIME named Audrey to its inaugural 2023 list of the 100 most influential people in AI for impact in using technology for public good. It’s an honor to have you here.
 
 Zarah Bruhn introduced us, thank you for that. Zarah leads SPRIND Society at Germany’s Federal Agency for Disruptive Innovation. She’s building the Digital Democracy Lab, a real-world space to rethink citizen participation in Germany. She’s also a founder and social entrepreneur, known for founding SocialBee and helping place thousands of refugees with companies. She works at the intersection of innovation, society, and policy. I’m honored to have you both here. Thank you for your time.
 
@@ -24,19 +24,17 @@ Exactly. And now we finally have a big announcement we’ll make at the end of t
 
 ### Audrey Tang:
 
-Yes, we’re co-creating the Presidential Hackathon model here in Germany.
+Yes, we are co-creating the Presidential Hackathon model here in Germany.
 
 ### Zarah Bruhn:
 
-Exactly. And I had to learn what that is when I first went to Taiwan. I was Commissioner for Social Innovation in the federal government during the last legislative term. Then I got an email: “Do you want to travel to Taiwan? There’s a digital minister doing remarkable things in the tech and social innovation ecosystems. You have to meet her.”
+Exactly. And I had to learn what that is when I first went to Taiwan. I was commissioner for social innovation in the federal government during the last legislative term. Then I got an email: “Do you want to travel to Taiwan? There’s a digital minister doing remarkable things in the tech and social innovation ecosystems. You have to meet her.”
 
-So I flew to Taiwan not knowing what to expect. Then I met Audrey, and afterward I basically wanted to move to Taiwan, learn from these models, and bring them to Germany. I was completely blown away. I even wrote a chapter about you in my book, arguing we should bring these models here. And now we’re finally doing it. It’s a pleasure to sit here together.
+So, I flew to Taiwan not knowing what to expect. Then I met Audrey, and afterward I basically wanted to move to Taiwan, learn from these models, and bring them to Germany. I was completely blown away. I even wrote a chapter about you in my book, arguing we should bring these models here. And now we’re finally doing it. It’s a pleasure to sit here together.
 
 ### Audrey Tang:
 
-Thank you. Streamlining bureaucracy was the original reason I was brought in in 2016 as Taiwan’s first Digital Minister. And I’m delighted to learn that “make it simple” is now also making it to Germany: Einfach machen.
-
-> (applause)
+Thank you. Streamlining bureaucracy was the original reason I was brought in as Taiwan’s first digital minister in 2016. And I am delighted to learn that “make it simple” is now also making it to Germany: Einfach machen.
 
 ### Zarah Bruhn:
 
@@ -44,17 +42,15 @@ We also learned from you that humor is essential when you try to disrupt the sta
 
 ### Audrey Tang:
 
-Certainly. In 2014, I kind of invited myself into government with half a million people on the street, in a demonstration called the Sunflower Movement.
+Certainly. In 2014, I kind of invited myself into government with half a million people on the street, in a demo called the Sunflower Movement.
 
-In March 2014, people thought the trade deal with Beijing, which was being fast-tracked through, really sucked. So we occupied the parliament peacefully for three weeks, not just to protest what sucked, but to demonstrate what works.
+In March 2014, people thought the trade deal with Beijing, which was being fast-tracked, really sucked. So, we occupied the parliament peacefully for three weeks, not just to protest what sucked, but to demonstrate what works.
 
 We used technologies to listen to the half million people on the street, and many more online, about what they wanted instead. Every day we converged: we showed what had been agreed the previous day, and what still needed debate.
 
-After three weeks, the Speaker of Parliament basically said, “The crowdsourced version is better than the MPs’ version. Why not go with it?” I was then invited to join the cabinet as a young reverse mentor to the minister in charge of participation.
+After three weeks, the speaker of the parliament basically said, “The crowdsourced version is better than the MPs’ version. Why not go with it?” I was then invited to join the Cabinet as a young reverse mentor to the minister in charge of participation.
 
-After two years working on participation, I was promoted as national tech support, the first Digital Minister. It was a government-efficiency role, the OG DOGE, but not with a chainsaw. With a chain reaction. We asked people what sucks, then made it work together.
-
-> (applause)
+After two years working on participation, I was promoted as national tech support, the first digital minister. It was a government-efficiency role, the OG DOGE, but not with a chainsaw. With a chain reaction. We asked people what sucks, then made it work together.
 
 ### Zarah Bruhn:
 
@@ -66,39 +62,39 @@ When you actually entered government, first the ministry and later your role, wh
 
 One key insight: if you make government more efficient, you reduce friction for everyone.
 
-When you cut tax filing from three hours to three minutes by crowdsourcing ways to simplify the process, you also save civil servants hours of complaints. It becomes win-win. You don’t expose public servants to more risk if they’re part of the co-creation.
+When you cut tax filing from three hours to three minutes by crowdsourcing ways to simplify the process, you also save civil servants hours of complaints. It becomes win-win. You do not expose public servants to more risk if they are part of the co-creation.
 
 We built two platforms.
 
 One is the Join platform. Anyone can start a petition, and once it reaches 5,000 supporters, it triggers a ministerial response and a public conversation on that topic.
 
-For example, people under 18 are among the most active users. A 17-year-old petitioned to move the school day one hour later, because an extra hour of sleep often improves performance more than an extra hour of studying. They got a response from the Education Minister.
+For example, people under 18 are among the most active users. A 17-year-old petitioned to move the school day one hour later, because an extra hour of sleep often improves performance more than an extra hour of studying. They got a response from the education minister.
 
 And 17-year-olds often partner with 70-year-olds, the second most active segment on Join. Both groups have a bit more time, sure, but also the 70-year-olds carry a lot of wisdom about passing values to the next generations, values like sustainability and “make it simple.”
 
-That intergenerational energy helped grow the Presidential Hackathon. Here’s how it works: local teams in a district or municipality take problems surfaced on Join, build a working prototype, and then every year we award five teams a trophy (it’s a projector). If you turn it on, it projects the president giving you the trophy. Very meta.
+That intergenerational energy helped grow the Presidential Hackathon. Here is how it works: local teams in a district or municipality take problems surfaced on Join, build a working prototype, and then every year we award five teams a trophy, it is a projector!. If you turn it on, it projects the president giving you the trophy. Very meta.
 
-The point is the commitment behind it: that local innovation will be scaled into national infrastructure in the next fiscal year. So local prototypes can become national infrastructure.
+The point is the commitment behind it: that local innovation will be scaled into national infrastructure in the next fiscal year. Local prototypes can become national infrastructure.
 
-So: Join for what sucks, and Presidential Hackathon for what works.
+So, Join for what sucks and Presidential Hackathon for what works.
 
-I have a question for you, Zarah. When we met in Taipei, you described your role in government promoting social innovation. Now you’re at an agency focused on breakthrough innovation, and you kind of designed your own job description, as I did in 2016. Can you talk about that transition?
+I have a question for you, Zarah. When we met in Taipei, you described your role in government promoting social innovation. Now you are at an agency focused on breakthrough innovation, and you kind of designed your own job description, as I did in 2016. Can you talk about that transition?
 
 ### Zarah Bruhn:
 
-Yes. My first step into government came from entrepreneurship. I founded a social enterprise to integrate refugees into the labor market. Then the ministry called and asked if I would become Germany’s first Commissioner for Social Innovation.
+Yes. My first step into government came from entrepreneurship. I founded a social enterprise to integrate refugees into the labor market. Then the ministry called and asked if I would become Germany’s first commissioner for social innovation.
 
 Like you, I didn’t come with a classic political portfolio. That alone created room for a different kind of work.
 
-But I also found myself inside a very bureaucratic system, at a pace I wasn’t used to. Still, we changed a lot. We released the first national strategy on social innovation and social startups, and we pushed innovation programs to be open not just to tech innovation, but also to societal innovation.
+But, I also found myself inside a very bureaucratic system, at a pace I wasn’t used to. Still, we changed a lot. We released the first national strategy on social innovation and social startups, and we pushed innovation programs to be open not just to tech innovation, but also to societal innovation.
 
 That’s where I met SPRIND, the Federal Agency for Disruptive Innovation. SPRIND invests in deep tech: fusion energy, quantum computing, Alzheimer’s research, disruptive things. But not social innovation, not yet.
 
-So I called SPRIND and asked, “Why aren’t you doing social innovation?” Rafael, the head of the agency, said, “Why don’t you do it here?” And during my time, SPRIND expanded to include social innovation as well. That’s why we can now build this space for innovating the state and innovating society.
+So, I called SPRIND and asked, “Why aren’t you doing social innovation?” Rafael, the head of the agency, said, “Why don’t you do it here?” And during my time, SPRIND expanded to include social innovation as well. That’s why we can now build this space for innovating the state and innovating society.
 
 ### Audrey Tang:
 
-So not letting the natural sciences have all the fun. We can have quantum democracy in the social sciences too.
+So, not letting the natural sciences have all the fun. We can have quantum democracy in the social sciences too.
 
 ### Zarah Bruhn:
 
@@ -108,31 +104,31 @@ I learned today that “digital democracy” is already outdated. It’s quantum
 
 What we learned is that traditional Newtonian politics, bumping one party into another, is reaching its limits.
 
-In Taiwan, for example, we faced deepfakes and scam ads. Two years ago, if I scrolled on Facebook I’d see Jensen Huang, NVIDIA’s Taiwanese CEO, promising investment advice or crypto. If I clicked, “Jensen” would talk to me in a voice that sounded just like him. Of course it wasn’t Jensen. It was a deepfake, generated on a GPU.
+In Taiwan, for example, we faced deepfakes and scam ads. Two years ago, if I scrolled on Facebook I would see Jensen Huang, Nvidia CEO, promising investment advice or crypto. If I clicked, “Jensen” would talk to me in a voice that sounded just like him. Of course it was not Jensen. It was a deepfake, generated on a GPU.
 
-Because Taiwan is the freest place in Asia when it comes to internet freedom, people did not want the government to solve this through censorship. So what do you do?
+Because Taiwan is the freest country in Asia when it comes to internet freedom, people did not want the government to solve this through censorship. So, what to do?
 
 We sent a message through the government short code 111, to 200,000 randomly selected numbers across Taiwan: “What should we do about deepfakes and scam ads, together?” People sent ideas. Then we invited many of them deeper into the process.
 
-We convened 447 people, a statistical microcosm of Taiwan, into groups of about ten (around 45 video rooms). Each group worked toward a proposal that could win majority support at that table.
+We convened 447 people, a statistical microcosm of Taiwan, into groups of about ten in around 45 video rooms. Each group worked toward a proposal that could win majority support at that table.
 
 One group said: label social media ads as “probably a scam,” like cigarette warning labels, unless the advertiser can provide a verified digital signature.
 
-Another group said: if someone loses, say, $7 million to an unsigned scam ad, then the platform that profited from the ad should share liability for the damage.
+Another group said: if someone loses, say, 7 million dollars to an unsigned scam ad, then the platform that profited from the ad should share liability for the damage.
 
-Another group asked: what about platforms without a local office? For example, at the time, TikTok had no Taiwan office. Their idea was: if a platform ignores legal accountability, we should gradually throttle delivery of their videos, 1% slower per day of non-compliance.
+Another group asked: what about platforms without a local office? For example, at the time, TikTok had no Taiwan office. Their idea was: if a platform ignores legal accountability, we should gradually throttle delivery of their videos, 1 percent slower per day of non-compliance.
 
-None of this targets content. None of this is censorship. It’s about accountability and incentives.
+None of this targets content. None of this is censorship. It is about accountability and incentives.
 
 We then used AI tools to summarize and weave proposals across tables, with human facilitators ensuring the process stayed transparent and faithful to what people said. At the end, we voted.
 
-More than 85% of the mini-public supported the final package, and the remaining 15% said they could live with it. It moved into law within three months.
+More than 85 percent of the mini-public supported the final package, and the remaining 15 percent said they could live with it. It moved into law within three months.
 
-And in 2025, that specific wave of unsigned deepfake investment ads largely disappeared in Taiwan. The problem wasn’t “managed.” It was effectively shut down.
+And in 2025, that specific wave of unsigned deepfake investment ads largely disappeared in Taiwan. The problem was not “managed.” It was effectively shut down.
 
-So we showed we can tunnel through partisan fighting by asking a simple question: what should we do together?
+So, we showed we can tunnel through partisan fighting by asking a simple question: what should we do together?
 
-> (applause)
+
 
 ### Zarah Bruhn:
 
@@ -144,7 +140,7 @@ We’re exploring your tools and trying to bring them to Germany. It’s incredi
 
 ### Audrey Tang:
 
-Do you want to talk about [the website](https://deutschland-was-geht.org/)?
+Do you want to talk about the website, [deutschland-was-geht.org](https://deutschland-was-geht.org) ?
 
 ### Zarah Bruhn:
 
@@ -158,7 +154,7 @@ So at SPRIND Society, we’re asking: how do we disrupt education? How do we mod
 
 In education, we invest in EdTech, but only where it can change the system. In social welfare, we’re investing in a project where people can apply for support in a few clicks instead of assembling endless documents. That friction creates frustration and fear.
 
-In Germany right now, trust in the state is alarmingly low, in some polls below 20%. We have to change that, especially in areas where people experience the state most.
+In Germany right now, trust in the state is alarmingly low, in some polls below 20 percent. We have to change that, especially in areas where people experience the state most.
 
 And the biggest everyday interface is bureaucracy. Your train is late. You try to get a passport and wait months. You hit processes that feel designed to exhaust you.
 
@@ -180,23 +176,21 @@ We don’t know which ideas yet. That’s the point. We need you to submit them,
 
 ### Audrey Tang:
 
-Amazing. Turning complaint into energy!
+Amazing. Turning complaints into energy!
 
-> (applause)
 
 ### Audrey Tang:
 
-A new geothermal engine: turning polarization, heat, and frustration into renewal. Not a wildfire that burns trust down, but a campfire that people gather around.
+A new geothermal engine: turning polarization, heat and frustration into renewal. Not a wildfire that burns trust down, but a campfire for people to gather around.
 
-In Taiwan, in 2014, the administration’s approval rating was in single digits. In a country of 23 million people, it felt like everything the president said had 20 million people against it, and those 20 million were themselves fragmented.
+Circa 2014 in Taiwan, the government’s approval rating was in single digits. In a country of 23 million people, it felt like everything the president said had 20 million people against it, and those 20 million were themselves fragmented.
 
-By 2020, after hundreds of Join initiatives and Presidential Hackathon projects, approval rose above 70%. In six years, a dramatic shift.
+By 2020, after hundreds of Join initiatives and Presidential Hackathon projects, approval rose above 70 percent. In six years, a dramatic shift.
 
-But you can leapfrog this. You don’t need six years. You can do it in six months, because we now have better tools for sensemaking and synthesis. What used to take weeks, summarizing input, mapping options, finding shared language, can now be done in hours. The legitimacy still comes from people deliberating, but the feedback loop can be much faster.
+But, you can leapfrog this. You do not need six years. You can do it in six months, because we now have better tools for sensemaking and synthesis. What used to take weeks, summarizing input, mapping options, finding shared language, can now be done in hours. The legitimacy still comes from people deliberating, but the feedback loop can be much faster.
 
-When you can quickly turn “what sucks” into “what works,” you get a flywheel: more participation, more visible results, more trust. Democracy can be fast, fair, and fun.
+When you can quickly turn “what sucks” into “what works,” you get a flywheel: more participation, more visible results, more trust. Democracy can be fast, fair and fun.
 
-> (applause)
 
 ### Zarah Bruhn:
 
@@ -208,9 +202,9 @@ Of course you will.
 
 Taiwan was like Estonia for radical participation, because we built institutions early and they work well enough.
 
-But Germany has a lot of “bureaucracy pain” that can become fuel. And we’re also seeing in the U.S. that what people call “polarization” is often a kind of trapped energy.
+But Germany has a lot of “bureaucracy pain” that can become fuel. And we are also seeing in the U.S. that what people call “polarization” is often a kind of trapped energy.
 
-In California, I’ve been working with Governor Gavin Newsom and Jennifer Siebel Newsom, California’s First Partner, to build Engaged California. We’re using wildfire prevention and mitigation as a pilot. In a real crisis, people cut through partisan slogans and talk about practical things: burying utility lines, resilient infrastructure, better support systems.
+In California, I have been working with Governor Gavin Newsom and Jennifer Siebel Newsom, California’s First Partner, to build Engaged California. We are using wildfire prevention and mitigation as a pilot. In a real crisis, people cut through partisan slogans and talk about practical things: burying utility lines, resilient infrastructure, better support systems.
 
 When the problem is real, people look past ideology and co-create.
 
@@ -224,9 +218,7 @@ So what can we hope for in Germany, based on what you’ve seen internationally?
 
 People are polarized on ideology. But what unites people is what sucks.
 
-If people can agree on what sucks, you can convert polarization into momentum, like a geothermal engine. Everyone loves “zero waste of time.” That could be a rallying cry that pulls people across ideology into einfach machen.
-
-> (applause)
+If people can agree on what sucks, you can convert polarization into momentum, like a geothermal engine. Everyone loves zero waste of time. That could be a rallying cry that pulls people across ideology into einfach machen.
 
 ### Zarah Bruhn:
 
@@ -242,9 +234,9 @@ So thank you.
 
 ### Audrey Tang:
 
-Thank you. I’ll be supporting from Oxford, with Civic AI and the Ethics in AI Institute.
+Thank you. I will be supporting from Oxford, with Civic AI and the Ethics in AI Institute.
 
 We can all free the future — together. Thank you.
 
-> (applause)
+
 
