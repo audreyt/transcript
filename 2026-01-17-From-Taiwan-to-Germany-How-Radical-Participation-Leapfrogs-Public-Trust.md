@@ -8,7 +8,7 @@ Public trust is fragile. Once it’s gone, it’s hard to win back. So the quest
 
 I’m very happy to welcome Audrey Tang, Taiwan’s first Digital Minister (2016–2024) and now Cyber Ambassador. Audrey is a globally recognized civic tech leader who helped position Taiwan at the forefront of digital democracy and internet freedom. TIME named Audrey to its inaugural list of the 100 most influential people in AI (2023) for impact in using technology for public good. It’s an honor to have you here.
 
-Zarah Bruhn introduced us, thank you for that. Zarah leads SPRIND Society at Germany’s Federal Agency for Disruptive Innovation (SPRIND). She’s building the Digital Democracy Lab, a real-world space to rethink citizen participation in Germany. She’s also a founder and social entrepreneur, known for founding SocialBee and helping place thousands of refugees with companies. She works at the intersection of innovation, society, and policy. I’m honored to have you both here. Thank you for your time.
+Zarah Bruhn introduced us, thank you for that. Zarah leads SPRIND Society at Germany’s Federal Agency for Disruptive Innovation. She’s building the Digital Democracy Lab, a real-world space to rethink citizen participation in Germany. She’s also a founder and social entrepreneur, known for founding SocialBee and helping place thousands of refugees with companies. She works at the intersection of innovation, society, and policy. I’m honored to have you both here. Thank you for your time.
 
 ### Zarah Bruhn:
 
