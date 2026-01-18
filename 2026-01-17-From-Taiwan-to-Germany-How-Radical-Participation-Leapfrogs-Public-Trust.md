@@ -110,7 +110,7 @@ What we learned is that traditional Newtonian politics, bumping one party into a
 
 In Taiwan, for example, we faced deepfakes and scam ads. Two years ago, if I scrolled on Facebook I’d see Jensen Huang, NVIDIA’s Taiwanese CEO, promising investment advice or crypto. If I clicked, “Jensen” would talk to me in a voice that sounded just like him. Of course it wasn’t Jensen. It was a deepfake, generated on a GPU.
 
-Because Taiwan is among the freest places in Asia when it comes to internet freedom, people did not want the government to solve this through censorship. So what do you do?
+Because Taiwan is the freest place in Asia when it comes to internet freedom, people did not want the government to solve this through censorship. So what do you do?
 
 We sent a message through the government short code 111, to 200,000 randomly selected numbers across Taiwan: “What should we do about deepfakes and scam ads, together?” People sent ideas. Then we invited many of them deeper into the process.
 
