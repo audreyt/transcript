@@ -114,7 +114,7 @@ Because Taiwan is among the freest places in Asia when it comes to internet free
 
 We sent a message through the government short code 111, to 200,000 randomly selected numbers across Taiwan: “What should we do about deepfakes and scam ads, together?” People sent ideas. Then we invited many of them deeper into the process.
 
-We convened 447 people, a statistical microcosm of Taiwan, into groups of about ten (around 45 tables). Each group worked toward a proposal that could win majority support at that table.
+We convened 447 people, a statistical microcosm of Taiwan, into groups of about ten (around 45 video rooms). Each group worked toward a proposal that could win majority support at that table.
 
 One group said: label social media ads as “probably a scam,” like cigarette warning labels, unless the advertiser can provide a verified digital signature.
 
