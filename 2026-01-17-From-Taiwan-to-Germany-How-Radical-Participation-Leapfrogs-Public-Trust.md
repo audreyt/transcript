@@ -34,7 +34,7 @@ So I flew to Taiwan not knowing what to expect. Then I met Audrey, and afterward
 
 ### Audrey Tang:
 
-Thank you. Streamlining bureaucracy was the original reason I was brought in in 2016 as Taiwan’s first Digital Minister. And I’m delighted to learn that “make it simple” is now also “make it to Germany”: Einfach machen.
+Thank you. Streamlining bureaucracy was the original reason I was brought in in 2016 as Taiwan’s first Digital Minister. And I’m delighted to learn that “make it simple” is now also making it to Germany: Einfach machen.
 
 > (applause)
 
