@@ -2,11 +2,13 @@
 
 ### Steffi Czerny:
 
-Friends, from Taiwan to Germany, how radical participation leapfrogs public trust. Public trust is fragile, and once it's gone, it's very hard to win it back. So the real question is not only how we communicate better; it's how we design systems where people actually feel heard, involved, and respected. Systems that can handle disagreement. As we heard many times in the last two days, disagreement is important. It's important for progress to scale participation without turning into chaos.
+Friends, from Taiwan to Germany: How radical participation leapfrogs public trust.
 
-We are very happy, very happy to welcome Audrey Tang, Taiwan's pioneering first digital minister from 2016 to 2024 and now cyber ambassador. Audrey is a globally recognized civic tech leader and has positioned Taiwan at the forefront of internet freedom and digital democracy. TIME, the magazine TIME, named Audrey to its inaugural list of the 100 most influential people in AI 2023 for impact in using technology for public good. It's an honor to have you here.
+Public trust is fragile. Once it’s gone, rebuilding it is hard. The challenge is not only communication, but system design: how do we create processes where people feel heard, respected, and able to disagree without everything turning into chaos?
 
-Zarah Bruhn was the one who introduced us. Thank you for this. She leads SPRIND Society at the federal agency for disruptive innovation. Zarah is building the Digital Democracy Lab, a real-world space to rethink citizen participation in Germany. It's very important. It's very important here in Germany. She's also a founder and social entrepreneur known for founding SocialBee, helping place thousands of refugees with companies and for her work at the intersection of innovation, society, and policy. I'm honored that you both are here. Thank you for your time.
+We are very happy to welcome Audrey Tang, Taiwan’s pioneering first digital minister from 2016 to 2024 and now cyber ambassador. Audrey is a globally recognized civic tech leader and has positioned Taiwan at the forefront of internet freedom and digital democracy. TIME magazine named Audrey to its inaugural list of the 100 most influential people in AI 2023 for impact in using technology for public good. It’s an honor to have you here.
+
+Zarah Bruhn was the one who introduced us. Thank you for this. She leads SPRIND Society at the federal agency for disruptive innovation. Zarah is building the Digital Democracy Lab, a real-world space to rethink citizen participation in Germany. It’s very important. It’s very important here in Germany. She’s also a social entrepreneur known for founding SocialBee, helping place thousands of refugees with companies and for her work at the intersection of innovation, society, and policy. I’m honored that you both are here. Thank you for your time.
 
 ### Zarah Bruhn:
 
