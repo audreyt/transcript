@@ -36,6 +36,7 @@ def an2md(xml_root: etree._Element, out_path: str) -> None:
     md_out = f"# {heading_text}\n\n"
 
     # 逐一處理 debateSection 的直屬子元素
+    last_speaker = None
     for child in element_children(debate):
         tag = etree.QName(child).localname
         if tag == "speech":
@@ -80,7 +81,11 @@ def an2md(xml_root: etree._Element, out_path: str) -> None:
                 # 移除斜體文字前後的不必要換行
                 content_md = re.sub(r'\n+(\*.*?\*)', r' \1', content_md)
                 content_md = re.sub(r'(\*.*?\*)\n+', r'\1 ', content_md)
-            md_out += f"### {speaker}{colon}\n{content_md}\n\n"
+            if speaker == last_speaker:
+                md_out += f"{content_md}\n\n"
+            else:
+                md_out += f"### {speaker}{colon}\n{content_md}\n\n"
+                last_speaker = speaker
 
         elif tag == "narrative":
             kids = element_children(child)
@@ -89,6 +94,7 @@ def an2md(xml_root: etree._Element, out_path: str) -> None:
             # 對齊原始碼：narrative 的 MD 會把底線移除
             text_md = md(text_html).replace("_", "").strip()
             md_out += f"> {text_md}\n\n"
+            last_speaker = None
 
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(md_out)
