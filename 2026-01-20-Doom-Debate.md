@@ -258,6 +258,8 @@ But I take pandemic and nuclear war very seriously, and I want the entire world 
 So even today, heading into 2026, you still think that the risk of extinction from AI should be a global priority alongside pandemics, nuclear war, and other societal scale? You stand by that statement, correct?
 
 ### Audrey Tang:
+
+
 And “mitigating” starts with “measuring.”
 
 ### Liron Shapira:
