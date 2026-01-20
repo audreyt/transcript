@@ -258,7 +258,7 @@ But I take pandemic and nuclear war very seriously, and I want the entire world 
 So even today, heading into 2026, you still think that the risk of extinction from AI should be a global priority alongside pandemics, nuclear war, and other societal scale? You stand by that statement, correct?
 
 ### Audrey Tang:
-And “mitigating” starts with “me.” Yes.
+And “mitigating” starts with “measuring.”
 
 ### Liron Shapira:
 Okay. Well, that’s great. I think that’s productive that you signed that statement. I think a surprising amount of people signed it, right? Sam Altman, Dario Amodei, Demis Hassabis, all the top AI company leaders except Yann LeCun and Mark Zuckerberg signed it, so I was happy to see that.
