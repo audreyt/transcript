@@ -94,10 +94,10 @@ jobs:
               print(f"Skip missing file: {rel_path}")
               continue
 
-            content = abs_path.read_text(encoding="utf-8")
+            markdown = abs_path.read_text(encoding="utf-8")
             payload = {
               "filename": rel_path,
-              "content": content,
+              "markdown": markdown,
             }
             data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
             req = urllib.request.Request(

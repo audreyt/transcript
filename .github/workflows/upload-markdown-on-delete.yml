@@ -110,6 +110,16 @@ jobs:
             except urllib.error.HTTPError as e:
               body = e.read().decode("utf-8", errors="replace")
               print(f"DELETE {rel_path} failed -> HTTP {e.code}")
+              print("[debug] response headers:")
+              print(dict(e.headers.items()))
+              lower_body = body.lower()
+              server_header = (e.headers.get("server", "") or "").lower()
+              cf_ray = e.headers.get("cf-ray", "")
+              if "cloudflare" in server_header or "error code: 1010" in lower_body:
+                print("[diagnostic] request likely blocked by Cloudflare/WAF before reaching backend.")
+                if cf_ray:
+                  print(f"[diagnostic] cf-ray={cf_ray}")
+                print("[diagnostic] check Cloudflare Firewall/Bot rules for DELETE /api/upload_markdown")
               print(body)
               raise
           PY
