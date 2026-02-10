@@ -99,6 +99,8 @@ jobs:
               headers={
                 "Authorization": f"Bearer {token}",
                 "Content-Type": "application/json; charset=utf-8",
+                "User-Agent": "github-actions/1.0",
+                "X-GitHub-Repository": "audreyt/transcript"
               },
             )
 
