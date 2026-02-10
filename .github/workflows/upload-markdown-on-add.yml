@@ -1,0 +1,100 @@
+name: Upload markdown on add
+
+on:
+  push:
+    paths:
+      - "*.md"
+
+jobs:
+  upload-added-markdown:
+    runs-on: ubuntu-latest
+    env:
+      API_ENDPOINT: https://dev.archive.tw/api/upload_markdown
+      AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
+      BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Resolve token
+        id: token
+        shell: bash
+        run: |
+          if [ -n "${AUDREYT_TRANSCRIPT_TOKEN}" ]; then
+            echo "value=${AUDREYT_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
+          elif [ -n "${BESTIAN_TRANSCRIPT_TOKEN}" ]; then
+            echo "value=${BESTIAN_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
+          else
+            echo "Neither AUDREYT_TRANSCRIPT_TOKEN nor BESTIAN_TRANSCRIPT_TOKEN is set." >&2
+            exit 1
+          fi
+
+      - name: POST added markdown files
+        env:
+          TOKEN: ${{ steps.token.outputs.value }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import pathlib
+          import sys
+          import urllib.error
+          import urllib.request
+
+          endpoint = os.environ["API_ENDPOINT"]
+          token = os.environ["TOKEN"]
+          workspace = pathlib.Path(os.environ["GITHUB_WORKSPACE"])
+          event_path = pathlib.Path(os.environ["GITHUB_EVENT_PATH"])
+
+          with event_path.open("r", encoding="utf-8") as f:
+            event = json.load(f)
+
+          added_files = []
+          for commit in event.get("commits", []):
+            for rel_path in commit.get("added", []):
+              p = pathlib.Path(rel_path)
+              if p.suffix == ".md" and len(p.parts) == 1:
+                added_files.append(rel_path)
+
+          # Keep order while removing duplicates.
+          unique_added_files = list(dict.fromkeys(added_files))
+          if not unique_added_files:
+            print("No root-level added markdown files detected.")
+            sys.exit(0)
+
+          for rel_path in unique_added_files:
+            abs_path = workspace / rel_path
+            if not abs_path.exists():
+              print(f"Skip missing file: {rel_path}")
+              continue
+
+            content = abs_path.read_text(encoding="utf-8")
+            payload = {
+              "filename": rel_path,
+              "content": content,
+            }
+            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            req = urllib.request.Request(
+              endpoint,
+              data=data,
+              method="POST",
+              headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json; charset=utf-8",
+              },
+            )
+
+            try:
+              with urllib.request.urlopen(req) as resp:
+                body = resp.read().decode("utf-8", errors="replace")
+                print(f"POST {rel_path} -> HTTP {resp.status}")
+                print(body)
+            except urllib.error.HTTPError as e:
+              body = e.read().decode("utf-8", errors="replace")
+              print(f"POST {rel_path} failed -> HTTP {e.code}")
+              print(body)
+              raise
+          PY
