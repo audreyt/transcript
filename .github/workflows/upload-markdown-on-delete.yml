@@ -13,6 +13,11 @@ jobs:
       AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
       BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Resolve token
         id: token
         shell: bash
@@ -35,26 +40,49 @@ jobs:
           import json
           import os
           import pathlib
+          import subprocess
           import sys
           import urllib.error
           import urllib.request
 
           endpoint = os.environ["API_ENDPOINT"]
           token = os.environ["TOKEN"]
-          event_path = pathlib.Path(os.environ["GITHUB_EVENT_PATH"])
+          before_sha = os.environ.get("GITHUB_EVENT_BEFORE", "")
+          after_sha = os.environ.get("GITHUB_SHA", "")
+          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
+          ref_name = os.environ.get("GITHUB_REF_NAME", "")
 
-          with event_path.open("r", encoding="utf-8") as f:
-            event = json.load(f)
+          print(f"[debug] event={event_name} ref={ref_name}")
+          print(f"[debug] before={before_sha}")
+          print(f"[debug] after={after_sha}")
+
+          if before_sha and before_sha != ("0" * 40):
+            cmd = ["git", "diff", "--name-status", before_sha, after_sha]
+          else:
+            # Fallback for the first push where "before" can be all zeros.
+            cmd = ["git", "show", "--name-status", "--pretty=format:", after_sha]
+
+          print(f"[debug] cmd={' '.join(cmd)}")
+          diff_output = subprocess.check_output(cmd, text=True)
+          print("[debug] raw diff output:")
+          print(diff_output if diff_output.strip() else "(empty)")
 
           removed_files = []
-          for commit in event.get("commits", []):
-            for rel_path in commit.get("removed", []):
-              p = pathlib.Path(rel_path)
-              if p.suffix == ".md" and len(p.parts) == 1:
-                removed_files.append(rel_path)
+          for line in diff_output.splitlines():
+            if not line.strip():
+              continue
+            parts = line.split("\t")
+            status = parts[0]
+            if not status.startswith("D") or len(parts) < 2:
+              continue
+            rel_path = parts[-1]
+            p = pathlib.Path(rel_path)
+            if p.suffix == ".md" and len(p.parts) == 1:
+              removed_files.append(rel_path)
 
           # Keep order while removing duplicates.
           unique_removed_files = list(dict.fromkeys(removed_files))
+          print(f"[debug] removed root md files={unique_removed_files}")
           if not unique_removed_files:
             print("No root-level removed markdown files detected.")
             sys.exit(0)
