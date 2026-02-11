@@ -76,6 +76,7 @@ jobs:
           print(repr(diff_output) if diff_output else "(empty)")
 
           added_files = []
+          modified_files = []
           removed_files = []
 
           # Parse NUL-delimited output: format is <status> NUL <path> NUL [ <status> NUL <path> NUL ... ]
@@ -98,18 +99,23 @@ jobs:
             if status.startswith("A"):
               added_files.append(rel_path)
               print(f"[debug] detect added: {rel_path!r}")
+            elif status.startswith("M"):
+              modified_files.append(rel_path)
+              print(f"[debug] detect modified: {rel_path!r}")
             elif status.startswith("D"):
               removed_files.append(rel_path)
               print(f"[debug] detect removed: {rel_path!r}")
 
           # Keep order while removing duplicates.
           unique_added_files = list(dict.fromkeys(added_files))
+          unique_modified_files = list(dict.fromkeys(modified_files))
           unique_removed_files = list(dict.fromkeys(removed_files))
           print(f"[debug] added root md files={unique_added_files}")
+          print(f"[debug] modified root md files={unique_modified_files}")
           print(f"[debug] removed root md files={unique_removed_files}")
 
-          if not unique_added_files and not unique_removed_files:
-            print("No root-level added or removed markdown files detected.")
+          if not unique_added_files and not unique_modified_files and not unique_removed_files:
+            print("No root-level added, modified, or removed markdown files detected.")
             sys.exit(0)
 
           for rel_path in unique_added_files:
@@ -144,6 +150,69 @@ jobs:
             except urllib.error.HTTPError as e:
               body = e.read().decode("utf-8", errors="replace")
               print(f"POST {rel_path} failed -> HTTP {e.code}")
+              print(body)
+              raise
+
+          for rel_path in unique_modified_files:
+            # Modified files: DELETE then re-POST
+            payload = {
+              "filename": rel_path,
+            }
+            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            req = urllib.request.Request(
+              endpoint,
+              data=data,
+              method="DELETE",
+              headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json; charset=utf-8",
+                "User-Agent": "github-actions/1.0",
+                "X-GitHub-Repository": "audreyt/transcript",
+              },
+            )
+
+            try:
+              with urllib.request.urlopen(req) as resp:
+                body = resp.read().decode("utf-8", errors="replace")
+                print(f"DELETE (modify) {rel_path} -> HTTP {resp.status}")
+                print(body)
+            except urllib.error.HTTPError as e:
+              body = e.read().decode("utf-8", errors="replace")
+              print(f"DELETE (modify) {rel_path} failed -> HTTP {e.code}")
+              print(body)
+              # Continue to POST even if DELETE fails (file may not exist yet)
+
+            abs_path = workspace / rel_path
+            if not abs_path.exists():
+              print(f"Skip missing file: {rel_path}")
+              continue
+
+            markdown = abs_path.read_text(encoding="utf-8")
+            payload = {
+              "filename": rel_path,
+              "markdown": markdown,
+            }
+            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            req = urllib.request.Request(
+              endpoint,
+              data=data,
+              method="POST",
+              headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json; charset=utf-8",
+                "User-Agent": "github-actions/1.0",
+                "X-GitHub-Repository": "audreyt/transcript",
+              },
+            )
+
+            try:
+              with urllib.request.urlopen(req) as resp:
+                body = resp.read().decode("utf-8", errors="replace")
+                print(f"POST (modify) {rel_path} -> HTTP {resp.status}")
+                print(body)
+            except urllib.error.HTTPError as e:
+              body = e.read().decode("utf-8", errors="replace")
+              print(f"POST (modify) {rel_path} failed -> HTTP {e.code}")
               print(body)
               raise
 
