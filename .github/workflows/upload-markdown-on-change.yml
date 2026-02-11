@@ -71,7 +71,7 @@ jobs:
             cmd = ["git", "show", "--name-status", "--pretty=format:", "--no-renames", "-z", after_sha]
 
           print(f"[debug] cmd={' '.join(cmd)}")
-          diff_output = subprocess.check_output(cmd, text=True)
+          diff_output = subprocess.check_output(cmd, encoding="utf-8")
           print("[debug] raw diff output:")
           print(repr(diff_output) if diff_output else "(empty)")
 
@@ -129,7 +129,7 @@ jobs:
               "filename": rel_path,
               "markdown": markdown,
             }
-            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(
               endpoint,
               data=data,
@@ -158,7 +158,7 @@ jobs:
             payload = {
               "filename": rel_path,
             }
-            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(
               endpoint,
               data=data,
@@ -192,7 +192,7 @@ jobs:
               "filename": rel_path,
               "markdown": markdown,
             }
-            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(
               endpoint,
               data=data,
@@ -220,7 +220,7 @@ jobs:
             payload = {
               "filename": rel_path,
             }
-            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(
               endpoint,
               data=data,
