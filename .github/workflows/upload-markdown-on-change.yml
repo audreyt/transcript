@@ -65,37 +65,45 @@ jobs:
           print(f"[debug] after={after_sha}")
 
           if before_sha and before_sha != ("0" * 40):
-            cmd = ["git", "diff", "--name-status", "--no-renames", before_sha, after_sha]
+            cmd = ["git", "diff", "--name-status", "--no-renames", "-z", before_sha, after_sha]
           else:
             # Fallback for the first push where "before" can be all zeros.
-            cmd = ["git", "show", "--name-status", "--pretty=format:", "--no-renames", after_sha]
+            cmd = ["git", "show", "--name-status", "--pretty=format:", "--no-renames", "-z", after_sha]
 
           print(f"[debug] cmd={' '.join(cmd)}")
           diff_output = subprocess.check_output(cmd, text=True)
           print("[debug] raw diff output:")
-          print(diff_output if diff_output.strip() else "(empty)")
+          print(repr(diff_output) if diff_output else "(empty)")
 
           added_files = []
           removed_files = []
 
-          for line in diff_output.splitlines():
-            if not line.strip():
+          # Parse NUL-delimited output from `git ... --name-status -z`
+          for entry in diff_output.split("\0"):
+            if not entry:
               continue
-            parts = line.split("\t")
+            parts = entry.split("\t")
             if len(parts) < 2:
+              print(f"[debug] skip malformed entry: {entry!r}")
               continue
             status = (parts[0] or "").strip()
             rel_path = (parts[-1] or "").strip()
+            # Defensive fallback for any quoted path format.
+            if rel_path.startswith('"') and rel_path.endswith('"') and len(rel_path) >= 2:
+              rel_path = rel_path[1:-1]
             p = pathlib.Path(rel_path)
 
             # 只處理根目錄 markdown 檔
             if p.suffix != ".md" or len(p.parts) != 1:
+              print(f"[debug] skip by path filter: status={status!r} path={rel_path!r}")
               continue
 
             if status.startswith("A"):
               added_files.append(rel_path)
+              print(f"[debug] detect added: {rel_path!r}")
             elif status.startswith("D"):
               removed_files.append(rel_path)
+              print(f"[debug] detect removed: {rel_path!r}")
 
           # Keep order while removing duplicates.
           unique_added_files = list(dict.fromkeys(added_files))
