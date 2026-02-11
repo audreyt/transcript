@@ -78,17 +78,14 @@ jobs:
           added_files = []
           removed_files = []
 
-          # Parse NUL-delimited output from `git ... --name-status -z`
-          for entry in diff_output.split("\0"):
-            if not entry:
-              continue
-            parts = entry.split("\t")
-            if len(parts) < 2:
-              print(f"[debug] skip malformed entry: {entry!r}")
-              continue
-            status = (parts[0] or "").strip()
-            rel_path = (parts[-1] or "").strip()
-            # Defensive fallback for any quoted path format.
+          # Parse NUL-delimited output: format is <status> NUL <path> NUL [ <status> NUL <path> NUL ... ]
+          tokens = [t.strip() for t in diff_output.split("\0") if t.strip()]
+          i = 0
+          while i + 1 < len(tokens):
+            status = tokens[i]
+            rel_path = tokens[i + 1]
+            i += 2
+            # Defensive: unquote if needed
             if rel_path.startswith('"') and rel_path.endswith('"') and len(rel_path) >= 2:
               rel_path = rel_path[1:-1]
             p = pathlib.Path(rel_path)
