@@ -16,6 +16,7 @@ jobs:
     env:
       API_ENDPOINT: https://sayit.archive.tw/api/upload_markdown
       AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
+      BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,8 +29,10 @@ jobs:
         run: |
           if [ -n "${AUDREYT_TRANSCRIPT_TOKEN}" ]; then
             echo "value=${AUDREYT_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
+          elif [ -n "${BESTIAN_TRANSCRIPT_TOKEN}" ]; then
+            echo "value=${BESTIAN_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
           else
-            echo "AUDREYT_TRANSCRIPT_TOKEN is not set." >&2
+            echo "Neither AUDREYT_TRANSCRIPT_TOKEN nor BESTIAN_TRANSCRIPT_TOKEN is set." >&2
             exit 1
           fi
 
