@@ -1,15 +1,17 @@
-name: Upload markdown on delete
+name: Sync markdown on push
 
 on:
   push:
     paths:
       - "*.md"
 
+# 同一 commit 若重複觸發，只保留一次執行
+concurrency:
+  group: upload-markdown-sync-${{ github.ref }}-${{ github.sha }}
+  cancel-in-progress: true
+
 jobs:
-  notify-deleted-markdown:
-    # Push 事件本身無法只用 deleted 檔案當觸發條件，所以在 job 層級過濾：
-    # 只有 commits 中出現被 removed 的 .md 檔案才執行。
-    if: ${{ contains(toJSON(github.event.commits.*.removed), '.md') }}
+  sync-markdown:
     runs-on: ubuntu-latest
     env:
       API_ENDPOINT: https://dev.archive.tw/api/upload_markdown
@@ -34,9 +36,11 @@ jobs:
             exit 1
           fi
 
-      - name: DELETE removed markdown files
+      - name: Sync added and deleted markdown files
         env:
           TOKEN: ${{ steps.token.outputs.value }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
         shell: bash
         run: |
           python3 - <<'PY'
@@ -50,8 +54,9 @@ jobs:
 
           endpoint = os.environ["API_ENDPOINT"]
           token = os.environ["TOKEN"]
-          before_sha = os.environ.get("GITHUB_EVENT_BEFORE", "")
-          after_sha = os.environ.get("GITHUB_SHA", "")
+          workspace = pathlib.Path(os.environ["GITHUB_WORKSPACE"])
+          before_sha = os.environ.get("BEFORE_SHA", "")
+          after_sha = os.environ.get("AFTER_SHA", "")
           event_name = os.environ.get("GITHUB_EVENT_NAME", "")
           ref_name = os.environ.get("GITHUB_REF_NAME", "")
 
@@ -60,35 +65,82 @@ jobs:
           print(f"[debug] after={after_sha}")
 
           if before_sha and before_sha != ("0" * 40):
-            cmd = ["git", "diff", "--name-status", before_sha, after_sha]
+            cmd = ["git", "diff", "--name-status", "--no-renames", before_sha, after_sha]
           else:
             # Fallback for the first push where "before" can be all zeros.
-            cmd = ["git", "show", "--name-status", "--pretty=format:", after_sha]
+            cmd = ["git", "show", "--name-status", "--pretty=format:", "--no-renames", after_sha]
 
           print(f"[debug] cmd={' '.join(cmd)}")
           diff_output = subprocess.check_output(cmd, text=True)
           print("[debug] raw diff output:")
           print(diff_output if diff_output.strip() else "(empty)")
 
+          added_files = []
           removed_files = []
+
           for line in diff_output.splitlines():
             if not line.strip():
               continue
             parts = line.split("\t")
-            status = parts[0]
-            if not status.startswith("D") or len(parts) < 2:
+            if len(parts) < 2:
               continue
-            rel_path = parts[-1]
+            status = (parts[0] or "").strip()
+            rel_path = (parts[-1] or "").strip()
             p = pathlib.Path(rel_path)
-            if p.suffix == ".md" and len(p.parts) == 1:
+
+            # 只處理根目錄 markdown 檔
+            if p.suffix != ".md" or len(p.parts) != 1:
+              continue
+
+            if status.startswith("A"):
+              added_files.append(rel_path)
+            elif status.startswith("D"):
               removed_files.append(rel_path)
 
           # Keep order while removing duplicates.
+          unique_added_files = list(dict.fromkeys(added_files))
           unique_removed_files = list(dict.fromkeys(removed_files))
+          print(f"[debug] added root md files={unique_added_files}")
           print(f"[debug] removed root md files={unique_removed_files}")
-          if not unique_removed_files:
-            print("No root-level removed markdown files detected.")
+
+          if not unique_added_files and not unique_removed_files:
+            print("No root-level added or removed markdown files detected.")
             sys.exit(0)
+
+          for rel_path in unique_added_files:
+            abs_path = workspace / rel_path
+            if not abs_path.exists():
+              print(f"Skip missing file: {rel_path}")
+              continue
+
+            markdown = abs_path.read_text(encoding="utf-8")
+            payload = {
+              "filename": rel_path,
+              "markdown": markdown,
+            }
+            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            req = urllib.request.Request(
+              endpoint,
+              data=data,
+              method="POST",
+              headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json; charset=utf-8",
+                "User-Agent": "github-actions/1.0",
+                "X-GitHub-Repository": "audreyt/transcript",
+              },
+            )
+
+            try:
+              with urllib.request.urlopen(req) as resp:
+                body = resp.read().decode("utf-8", errors="replace")
+                print(f"POST {rel_path} -> HTTP {resp.status}")
+                print(body)
+            except urllib.error.HTTPError as e:
+              body = e.read().decode("utf-8", errors="replace")
+              print(f"POST {rel_path} failed -> HTTP {e.code}")
+              print(body)
+              raise
 
           for rel_path in unique_removed_files:
             payload = {
@@ -103,7 +155,7 @@ jobs:
                 "Authorization": f"Bearer {token}",
                 "Content-Type": "application/json; charset=utf-8",
                 "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript"
+                "X-GitHub-Repository": "audreyt/transcript",
               },
             )
 
