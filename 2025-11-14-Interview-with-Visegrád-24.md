@@ -50,7 +50,9 @@ So, for example, when we came up with the anti-deepfake rule, we sent SMS text m
 Do you think that people in Taiwan are radicalized by what China is doing against you?
 
 ### Audrey Tang:
-Not at all. I think we are actually anti-fragile. In the sense that whenever a new attack comes, it becomes a social object. People have conversations around it. In 2019, we changed our basic education curriculum. It used to say "media literacy." But now it's "media competency." Literacy is when you consume information, maybe with some critical thinking. But competency is when you find out what's going on *together* with your classmates. So it's exercising the civic muscle. And our young people, our 15-year-olds, are top of the world when it comes to civic knowledge, according to ICCS in 2022\. So even before they turn 18, they already feel they can change the direction of the society, starting petitions, movements, like going to school one hour later because they show scientific proof one more hour of sleep gets you better grades. It's a popular petition.
+Not at all. I think we are actually anti-fragile. In the sense that whenever a new attack comes, it becomes a social object. People have conversations around it. In 2019, we changed our basic education curriculum. It used to say "media literacy." But now it's "media competency."
+
+Literacy is when you consume information, maybe with some critical thinking. But competency is when you find out what's going on *together* with your classmates. So it's exercising the civic muscle. And our young people, our 15-year-olds, are top of the world when it comes to civic knowledge, according to ICCS in 2022\. So even before they turn 18, they already feel they can change the direction of the society, starting petitions, movements, like going to school one hour later because they show scientific proof one more hour of sleep gets you better grades. It's a popular petition.
 
 ### Stefan Thompson:
 That's popular.
