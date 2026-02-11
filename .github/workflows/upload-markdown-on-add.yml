@@ -7,6 +7,9 @@ on:
 
 jobs:
   upload-added-markdown:
+    # Push 事件本身無法只用 added 檔案當觸發條件，所以在 job 層級過濾：
+    # 只有 commits 中出現被 added 的 .md 檔案才執行。
+    if: ${{ contains(toJSON(github.event.commits.*.added), '.md') }}
     runs-on: ubuntu-latest
     env:
       API_ENDPOINT: https://dev.archive.tw/api/upload_markdown
