@@ -1,0 +1,187 @@
+name: Sync markdown on push
+
+on:
+  push:
+    paths:
+      - "*.md"
+
+# 同一 commit 若重複觸發，只保留一次執行
+concurrency:
+  group: upload-markdown-sync-${{ github.ref }}-${{ github.sha }}
+  cancel-in-progress: true
+
+jobs:
+  sync-markdown:
+    runs-on: ubuntu-latest
+    env:
+      API_ENDPOINT: https://dev.archive.tw/api/upload_markdown
+      AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
+      BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve token
+        id: token
+        shell: bash
+        run: |
+          if [ -n "${AUDREYT_TRANSCRIPT_TOKEN}" ]; then
+            echo "value=${AUDREYT_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
+          elif [ -n "${BESTIAN_TRANSCRIPT_TOKEN}" ]; then
+            echo "value=${BESTIAN_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
+          else
+            echo "Neither AUDREYT_TRANSCRIPT_TOKEN nor BESTIAN_TRANSCRIPT_TOKEN is set." >&2
+            exit 1
+          fi
+
+      - name: Sync added and deleted markdown files
+        env:
+          TOKEN: ${{ steps.token.outputs.value }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import pathlib
+          import subprocess
+          import sys
+          import urllib.error
+          import urllib.request
+
+          endpoint = os.environ["API_ENDPOINT"]
+          token = os.environ["TOKEN"]
+          workspace = pathlib.Path(os.environ["GITHUB_WORKSPACE"])
+          before_sha = os.environ.get("BEFORE_SHA", "")
+          after_sha = os.environ.get("AFTER_SHA", "")
+          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
+          ref_name = os.environ.get("GITHUB_REF_NAME", "")
+
+          print(f"[debug] event={event_name} ref={ref_name}")
+          print(f"[debug] before={before_sha}")
+          print(f"[debug] after={after_sha}")
+
+          if before_sha and before_sha != ("0" * 40):
+            cmd = ["git", "diff", "--name-status", "--no-renames", "-z", before_sha, after_sha]
+          else:
+            # Fallback for the first push where "before" can be all zeros.
+            cmd = ["git", "show", "--name-status", "--pretty=format:", "--no-renames", "-z", after_sha]
+
+          print(f"[debug] cmd={' '.join(cmd)}")
+          diff_output = subprocess.check_output(cmd, text=True)
+          print("[debug] raw diff output:")
+          print(repr(diff_output) if diff_output else "(empty)")
+
+          added_files = []
+          removed_files = []
+
+          # Parse NUL-delimited output: format is <status> NUL <path> NUL [ <status> NUL <path> NUL ... ]
+          tokens = [t.strip() for t in diff_output.split("\0") if t.strip()]
+          i = 0
+          while i + 1 < len(tokens):
+            status = tokens[i]
+            rel_path = tokens[i + 1]
+            i += 2
+            # Defensive: unquote if needed
+            if rel_path.startswith('"') and rel_path.endswith('"') and len(rel_path) >= 2:
+              rel_path = rel_path[1:-1]
+            p = pathlib.Path(rel_path)
+
+            # 只處理根目錄 markdown 檔
+            if p.suffix != ".md" or len(p.parts) != 1:
+              print(f"[debug] skip by path filter: status={status!r} path={rel_path!r}")
+              continue
+
+            if status.startswith("A"):
+              added_files.append(rel_path)
+              print(f"[debug] detect added: {rel_path!r}")
+            elif status.startswith("D"):
+              removed_files.append(rel_path)
+              print(f"[debug] detect removed: {rel_path!r}")
+
+          # Keep order while removing duplicates.
+          unique_added_files = list(dict.fromkeys(added_files))
+          unique_removed_files = list(dict.fromkeys(removed_files))
+          print(f"[debug] added root md files={unique_added_files}")
+          print(f"[debug] removed root md files={unique_removed_files}")
+
+          if not unique_added_files and not unique_removed_files:
+            print("No root-level added or removed markdown files detected.")
+            sys.exit(0)
+
+          for rel_path in unique_added_files:
+            abs_path = workspace / rel_path
+            if not abs_path.exists():
+              print(f"Skip missing file: {rel_path}")
+              continue
+
+            markdown = abs_path.read_text(encoding="utf-8")
+            payload = {
+              "filename": rel_path,
+              "markdown": markdown,
+            }
+            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            req = urllib.request.Request(
+              endpoint,
+              data=data,
+              method="POST",
+              headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json; charset=utf-8",
+                "User-Agent": "github-actions/1.0",
+                "X-GitHub-Repository": "audreyt/transcript",
+              },
+            )
+
+            try:
+              with urllib.request.urlopen(req) as resp:
+                body = resp.read().decode("utf-8", errors="replace")
+                print(f"POST {rel_path} -> HTTP {resp.status}")
+                print(body)
+            except urllib.error.HTTPError as e:
+              body = e.read().decode("utf-8", errors="replace")
+              print(f"POST {rel_path} failed -> HTTP {e.code}")
+              print(body)
+              raise
+
+          for rel_path in unique_removed_files:
+            payload = {
+              "filename": rel_path,
+            }
+            data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+            req = urllib.request.Request(
+              endpoint,
+              data=data,
+              method="DELETE",
+              headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json; charset=utf-8",
+                "User-Agent": "github-actions/1.0",
+                "X-GitHub-Repository": "audreyt/transcript",
+              },
+            )
+
+            try:
+              with urllib.request.urlopen(req) as resp:
+                body = resp.read().decode("utf-8", errors="replace")
+                print(f"DELETE {rel_path} -> HTTP {resp.status}")
+                print(body)
+            except urllib.error.HTTPError as e:
+              body = e.read().decode("utf-8", errors="replace")
+              print(f"DELETE {rel_path} failed -> HTTP {e.code}")
+              print("[debug] response headers:")
+              print(dict(e.headers.items()))
+              lower_body = body.lower()
+              server_header = (e.headers.get("server", "") or "").lower()
+              cf_ray = e.headers.get("cf-ray", "")
+              if "cloudflare" in server_header or "error code: 1010" in lower_body:
+                print("[diagnostic] request likely blocked by Cloudflare/WAF before reaching backend.")
+                if cf_ray:
+                  print(f"[diagnostic] cf-ray={cf_ray}")
+                print("[diagnostic] check Cloudflare Firewall/Bot rules for DELETE /api/upload_markdown")
+              print(body)
+              raise
+          PY
