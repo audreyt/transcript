@@ -29,4 +29,3 @@ Only works that allow us to see one another within a dilemma can—like Arthur M
 If we position AI as a bridge between people, it can be a wonderful facilitator, like a warm, inviting bonfire. But if you place it in the spot where a human should stand, that is the onset of "Mad Cow Disease"—a spark likely to become a forest fire that destroys interpersonal trust, burning beyond all control.
 
 > (Interview and Compilation by Yu-Tang You. License: <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>)
-
