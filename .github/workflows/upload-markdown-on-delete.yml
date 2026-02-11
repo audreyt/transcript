@@ -7,6 +7,9 @@ on:
 
 jobs:
   notify-deleted-markdown:
+    # Push 事件本身無法只用 deleted 檔案當觸發條件，所以在 job 層級過濾：
+    # 只有 commits 中出現被 removed 的 .md 檔案才執行。
+    if: ${{ contains(toJSON(github.event.commits.*.removed), '.md') }}
     runs-on: ubuntu-latest
     env:
       API_ENDPOINT: https://dev.archive.tw/api/upload_markdown
