@@ -50,6 +50,7 @@ jobs:
           import subprocess
           import sys
           import urllib.error
+          import urllib.parse
           import urllib.request
 
           endpoint = os.environ["API_ENDPOINT"]
@@ -155,17 +156,13 @@ jobs:
 
           for rel_path in unique_modified_files:
             # Modified files: DELETE then re-POST
-            payload = {
-              "filename": rel_path,
-            }
-            data = json.dumps(payload).encode("utf-8")
+            # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
+            delete_url = endpoint + "?filename=" + urllib.parse.quote(rel_path, safe="")
             req = urllib.request.Request(
-              endpoint,
-              data=data,
+              delete_url,
               method="DELETE",
               headers={
                 "Authorization": f"Bearer {token}",
-                "Content-Type": "application/json; charset=utf-8",
                 "User-Agent": "github-actions/1.0",
                 "X-GitHub-Repository": "audreyt/transcript",
               },
@@ -217,17 +214,13 @@ jobs:
               raise
 
           for rel_path in unique_removed_files:
-            payload = {
-              "filename": rel_path,
-            }
-            data = json.dumps(payload).encode("utf-8")
+            # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
+            delete_url = endpoint + "?filename=" + urllib.parse.quote(rel_path, safe="")
             req = urllib.request.Request(
-              endpoint,
-              data=data,
+              delete_url,
               method="DELETE",
               headers={
                 "Authorization": f"Bearer {token}",
-                "Content-Type": "application/json; charset=utf-8",
                 "User-Agent": "github-actions/1.0",
                 "X-GitHub-Repository": "audreyt/transcript",
               },
@@ -241,16 +234,6 @@ jobs:
             except urllib.error.HTTPError as e:
               body = e.read().decode("utf-8", errors="replace")
               print(f"DELETE {rel_path} failed -> HTTP {e.code}")
-              print("[debug] response headers:")
-              print(dict(e.headers.items()))
-              lower_body = body.lower()
-              server_header = (e.headers.get("server", "") or "").lower()
-              cf_ray = e.headers.get("cf-ray", "")
-              if "cloudflare" in server_header or "error code: 1010" in lower_body:
-                print("[diagnostic] request likely blocked by Cloudflare/WAF before reaching backend.")
-                if cf_ray:
-                  print(f"[diagnostic] cf-ray={cf_ray}")
-                print("[diagnostic] check Cloudflare Firewall/Bot rules for DELETE /api/upload_markdown")
               print(body)
               raise
           PY
