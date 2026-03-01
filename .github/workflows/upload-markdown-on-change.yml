@@ -49,6 +49,7 @@ jobs:
           import pathlib
           import subprocess
           import sys
+          import time
           import urllib.error
           import urllib.parse
           import urllib.request
@@ -60,6 +61,39 @@ jobs:
           after_sha = os.environ.get("AFTER_SHA", "")
           event_name = os.environ.get("GITHUB_EVENT_NAME", "")
           ref_name = os.environ.get("GITHUB_REF_NAME", "")
+
+          MAX_RETRIES = 3
+          BASE_DELAY = 2  # seconds
+
+          def request_with_retry(req, label, max_retries=MAX_RETRIES):
+            """Send an HTTP request with exponential backoff retry on 5xx errors."""
+            for attempt in range(1, max_retries + 1):
+              try:
+                with urllib.request.urlopen(req) as resp:
+                  body = resp.read().decode("utf-8", errors="replace")
+                  print(f"{label} -> HTTP {resp.status}")
+                  print(body)
+                  return resp.status, body
+              except urllib.error.HTTPError as e:
+                body = e.read().decode("utf-8", errors="replace")
+                if e.code >= 500 and attempt < max_retries:
+                  delay = BASE_DELAY * (2 ** (attempt - 1))
+                  print(f"{label} failed -> HTTP {e.code} (attempt {attempt}/{max_retries}, retrying in {delay}s)")
+                  print(body)
+                  time.sleep(delay)
+                  # Re-create the request (the previous one's data stream is consumed)
+                  new_req = urllib.request.Request(
+                    req.full_url,
+                    data=req.data,
+                    method=req.get_method(),
+                  )
+                  for header, value in req.headers.items():
+                    new_req.add_header(header, value)
+                  req = new_req
+                  continue
+                print(f"{label} failed -> HTTP {e.code}")
+                print(body)
+                raise
 
           print(f"[debug] event={event_name} ref={ref_name}")
           print(f"[debug] before={before_sha}")
@@ -143,16 +177,7 @@ jobs:
               },
             )
 
-            try:
-              with urllib.request.urlopen(req) as resp:
-                body = resp.read().decode("utf-8", errors="replace")
-                print(f"POST {rel_path} -> HTTP {resp.status}")
-                print(body)
-            except urllib.error.HTTPError as e:
-              body = e.read().decode("utf-8", errors="replace")
-              print(f"POST {rel_path} failed -> HTTP {e.code}")
-              print(body)
-              raise
+            request_with_retry(req, f"POST {rel_path}")
 
           for rel_path in unique_modified_files:
             # Modified files: DELETE then re-POST
@@ -169,15 +194,10 @@ jobs:
             )
 
             try:
-              with urllib.request.urlopen(req) as resp:
-                body = resp.read().decode("utf-8", errors="replace")
-                print(f"DELETE (modify) {rel_path} -> HTTP {resp.status}")
-                print(body)
-            except urllib.error.HTTPError as e:
-              body = e.read().decode("utf-8", errors="replace")
-              print(f"DELETE (modify) {rel_path} failed -> HTTP {e.code}")
-              print(body)
+              request_with_retry(req, f"DELETE (modify) {rel_path}")
+            except urllib.error.HTTPError:
               # Continue to POST even if DELETE fails (file may not exist yet)
+              pass
 
             abs_path = workspace / rel_path
             if not abs_path.exists():
@@ -202,16 +222,7 @@ jobs:
               },
             )
 
-            try:
-              with urllib.request.urlopen(req) as resp:
-                body = resp.read().decode("utf-8", errors="replace")
-                print(f"POST (modify) {rel_path} -> HTTP {resp.status}")
-                print(body)
-            except urllib.error.HTTPError as e:
-              body = e.read().decode("utf-8", errors="replace")
-              print(f"POST (modify) {rel_path} failed -> HTTP {e.code}")
-              print(body)
-              raise
+            request_with_retry(req, f"POST (modify) {rel_path}")
 
           for rel_path in unique_removed_files:
             # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
@@ -226,16 +237,7 @@ jobs:
               },
             )
 
-            try:
-              with urllib.request.urlopen(req) as resp:
-                body = resp.read().decode("utf-8", errors="replace")
-                print(f"DELETE {rel_path} -> HTTP {resp.status}")
-                print(body)
-            except urllib.error.HTTPError as e:
-              body = e.read().decode("utf-8", errors="replace")
-              print(f"DELETE {rel_path} failed -> HTTP {e.code}")
-              print(body)
-              raise
+            request_with_retry(req, f"DELETE {rel_path}")
           PY
 
   rebuild-search-index:
