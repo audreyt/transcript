@@ -1,6 +1,6 @@
 # 2026-03-13 A Dialogue on Civic AI
 
-Metacognition, Compassion, and Symbiosis. A Conversation with Audrey Tang, in Dialogue with Geshe Thabkhe Lodroe and Geshe Lodoe Sangpo. Dharamsala, India.
+_Metacognition, Compassion, and Symbiosis. A Conversation with Audrey Tang, in Dialogue with Geshe Thabkhe Lodroe and Geshe Lodoe Sangpo. Dharamsala, India._
 
 > (Part I — The Nature and Obscurity of the Machine)
 
