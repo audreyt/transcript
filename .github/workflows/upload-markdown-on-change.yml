@@ -14,7 +14,7 @@ jobs:
   sync-markdown:
     runs-on: ubuntu-latest
     env:
-      API_ENDPOINT: https://sayit.archive.tw/api/upload_markdown
+      API_ENDPOINT: https://archive.tw/api/upload_markdown
       AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
       BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
     steps:
