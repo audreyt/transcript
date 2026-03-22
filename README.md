@@ -1,6 +1,6 @@
 # Transcript
 
-Public transcripts of Audrey Tang's speeches, interviews, and columns — roughly 2,000 markdown files from 1999 to the present. Published in the spirit of *publishing before perishing*: released as soon as possible, open to correction by anyone.
+Public transcripts of Audrey Tang's speeches, interviews, and columns — roughly 2,000 markdown files from 2015 to the present. Published in the spirit of *publishing before perishing*: released as soon as possible, open to correction by anyone.
 
 Served at [archive.tw](https://archive.tw) via [sayit-hono](https://github.com/audreyt/sayit-hono).
 
@@ -56,7 +56,7 @@ git push *.md
     ▼
 GitHub Actions workflow
     ├─ POST /api/upload_markdown   → archive.tw (D1 + R2)
-    └─ rebuild Pagefind index      → deploy sayit-hono to Cloudflare Workers
+    └─ rebuild search index        → deploy sayit-hono to Cloudflare Workers
 ```
 
 On every push that touches a `.md` file, the workflow in `.github/workflows/upload-markdown-on-change.yml`:
