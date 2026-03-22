@@ -62,6 +62,23 @@ jobs:
           event_name = os.environ.get("GITHUB_EVENT_NAME", "")
           ref_name = os.environ.get("GITHUB_REF_NAME", "")
 
+          # Parse .alternates file: bidirectional map of filename → alternate slug
+          alternates = {}
+          alt_path = workspace / ".alternates"
+          if alt_path.exists():
+            for line in alt_path.read_text(encoding="utf-8").splitlines():
+              line = line.strip()
+              if not line or line.startswith("#"):
+                continue
+              parts = line.split("\t")
+              if len(parts) == 2:
+                a, b = parts[0].strip(), parts[1].strip()
+                a_slug = pathlib.Path(a).stem.lower()
+                b_slug = pathlib.Path(b).stem.lower()
+                alternates[a] = b_slug
+                alternates[b] = a_slug
+            print(f"[debug] loaded {len(alternates)} alternate mappings")
+
           MAX_RETRIES = 3
           BASE_DELAY = 2  # seconds
 
@@ -164,6 +181,9 @@ jobs:
               "filename": rel_path,
               "markdown": markdown,
             }
+            if rel_path in alternates:
+              payload["alternate_filename"] = alternates[rel_path]
+              print(f"[debug] alternate for {rel_path}: {alternates[rel_path]}")
             data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(
               endpoint,
@@ -209,6 +229,9 @@ jobs:
               "filename": rel_path,
               "markdown": markdown,
             }
+            if rel_path in alternates:
+              payload["alternate_filename"] = alternates[rel_path]
+              print(f"[debug] alternate for {rel_path}: {alternates[rel_path]}")
             data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(
               endpoint,
