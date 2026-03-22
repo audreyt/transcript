@@ -251,7 +251,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: audreyt/sayit-hono
-          token: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
           path: sayit-hono
 
       - name: Setup Node.js
@@ -267,9 +266,12 @@ jobs:
         working-directory: sayit-hono
         run: npm run build:views && npm run build:assets
 
-      - name: Build Pagefind search index
+      - name: Build search index
         working-directory: sayit-hono
         run: npm run build:search -- ${{ github.workspace }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       - name: Deploy to Cloudflare
         working-directory: sayit-hono
