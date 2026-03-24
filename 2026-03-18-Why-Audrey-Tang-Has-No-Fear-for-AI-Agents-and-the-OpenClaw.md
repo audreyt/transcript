@@ -30,8 +30,8 @@ These days, there isn't a day that goes by without hearing anxiety about AI and 
 
 Three plain verbs: I translate, I demonstrate, and I connect.
 
-* **Translate:** I translate what worked in Taiwan across cultures and political vocabularies so it lands in California, Tokyo, London, and beyond.  
-* **Demonstrate:** I show that Taiwan's methods are portable.  
+* **Translate:** I translate what worked in Taiwan across cultures and political vocabularies so it lands in California, Tokyo, London, and beyond.
+* **Demonstrate:** I show that Taiwan's methods are portable.
 * **Connect:** I build cultural bridges before conversations begin.
 
 A very concrete example: earlier this month, I flew from India to Japan to speak with the Japanese philosopher Hiroki Azuma, whose new book *Peace and Stupidity* is already out in Japanese but not yet in English.
@@ -118,8 +118,8 @@ Right. In other words, unlike social media, which often amplifies outrage, Civic
 
 The public came up with several concrete proposals:
 
-* Label all unsigned advertisements as "probably scam" until they are digitally signed.  
-* Hold platforms jointly liable for unsolicited scam ads that cause financial loss.  
+* Label all unsigned advertisements as "probably scam" until they are digitally signed.
+* Hold platforms jointly liable for unsolicited scam ads that cause financial loss.
 * If a noncompliant platform refuses to cooperate, slow its connection speeds by 1 percent per day. This mattered at the time because TikTok did not have a Taiwan representative office and could otherwise ignore fines.
 
 We translated those ideas into law. We pushed out the Digital Signature Act, which was passed in May 2024, and we offered a draft of the Fraud Crime Hazard Prevention Act also in May, which passed in July 2024. When it took effect last year, within 12 months, impersonation scam ads dropped by more than 94 percent.
@@ -134,10 +134,10 @@ In your Oxford work, you also talk about "local Kami" as part of the 6-Pack of C
 
 The 6-Pack of Care consists of six pillars that make AI civic. The first five come from philosopher Joan Tronto's care loop. A caring machine should exhibit:
 
-* **Attentiveness:** Listening to the people closest to the problem, not just the powerful people.  
-* **Responsibility:** Keeping specific promises with real, credible commitments.  
-* **Competence:** Making sure people can check the AI's process transparently.  
-* **Responsiveness:** Ensuring people can evaluate the results using metrics they helped design.  
+* **Attentiveness:** Listening to the people closest to the problem, not just the powerful people.
+* **Responsibility:** Keeping specific promises with real, credible commitments.
+* **Competence:** Making sure people can check the AI's process transparently.
+* **Responsiveness:** Ensuring people can evaluate the results using metrics they helped design.
 * **Solidarity:** Producing win-win outcomes so users aren't locked into a single ecosystem and can easily switch vendors.
 
 The sixth pillar is **symbiosis**, which I also call **local kami**. It means running AI as locally as possible, rather than as a one-size-fits-all cloud overlord. The same summarizing AI can run in the cloud, but it can also run on a laptop. When it runs locally, there is less surveillance, of course, but more importantly, it is easier for people to correct.
@@ -202,8 +202,8 @@ That made something very clear to educators. If a seven-year-old enters school m
 
 So we concluded that there are three intrinsic human virtues that cannot be automated:
 
-1. **Curiosity (*zifa*):** the autonomy to explore new relationships.  
-2. **Collaboration (*hudong*):** the ability to work across differences.  
+1. **Curiosity (*zifa*):** the autonomy to explore new relationships.
+2. **Collaboration (*hudong*):** the ability to work across differences.
 3. **Civic care (*gonghao*):** the commitment to the common good.
 
 These are relational virtues. No matter how capable robots become, they cannot replace curiosity, collaboration, or civic care. So the wrong question is, *Will AI take away human meaning?* The right question is, *Will AI force me to act like a machine, or can Civic AI help me become more curious, more collaborative, and more caring?*
