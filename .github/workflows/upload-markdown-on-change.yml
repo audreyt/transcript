@@ -262,25 +262,6 @@ jobs:
             request_with_retry(req, f"POST {rel_path}")
 
           for rel_path in unique_modified_files:
-            # Modified files: DELETE then re-POST
-            # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
-            delete_url = endpoint + "?filename=" + urllib.parse.quote(rel_path, safe="")
-            req = urllib.request.Request(
-              delete_url,
-              method="DELETE",
-              headers={
-                "Authorization": f"Bearer {token}",
-                "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript",
-              },
-            )
-
-            try:
-              request_with_retry(req, f"DELETE (modify) {rel_path}")
-            except urllib.error.HTTPError:
-              # Continue to POST even if DELETE fails (file may not exist yet)
-              pass
-
             abs_path = workspace / rel_path
             if not abs_path.exists():
               print(f"Skip missing file: {rel_path}")
@@ -290,15 +271,14 @@ jobs:
             payload = {
               "filename": rel_path,
               "markdown": markdown,
+              "alternate_filename": alternates.get(rel_path),
             }
-            if rel_path in alternates:
-              payload["alternate_filename"] = alternates[rel_path]
-              print(f"[debug] alternate for {rel_path}: {alternates[rel_path]}")
+            print(f"[debug] alternate for {rel_path}: {payload['alternate_filename']}")
             data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(
               endpoint,
               data=data,
-              method="POST",
+              method="PATCH",
               headers={
                 "Authorization": f"Bearer {token}",
                 "Content-Type": "application/json; charset=utf-8",
@@ -307,7 +287,7 @@ jobs:
               },
             )
 
-            request_with_retry(req, f"POST (modify) {rel_path}")
+            request_with_retry(req, f"PATCH {rel_path}")
 
           for rel_path in unique_removed_files:
             # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
