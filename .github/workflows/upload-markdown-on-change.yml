@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "*.md"
+      - ".alternates"
 
 # 同一 commit 若重複觸發，只保留一次執行
 concurrency:
@@ -36,7 +37,7 @@ jobs:
             exit 1
           fi
 
-      - name: Sync added and deleted markdown files
+      - name: Sync changed markdown and alternate mappings
         env:
           TOKEN: ${{ steps.token.outputs.value }}
           BEFORE_SHA: ${{ github.event.before }}
@@ -62,21 +63,48 @@ jobs:
           event_name = os.environ.get("GITHUB_EVENT_NAME", "")
           ref_name = os.environ.get("GITHUB_REF_NAME", "")
 
-          # Parse .alternates file: bidirectional map of filename → alternate slug
-          alternates = {}
-          alt_path = workspace / ".alternates"
-          if alt_path.exists():
-            for line in alt_path.read_text(encoding="utf-8").splitlines():
+          def parse_alternates_text(raw_text):
+            filename_pairs = {}
+            slug_pairs = {}
+            if not raw_text:
+              return filename_pairs, slug_pairs
+
+            for line in raw_text.splitlines():
               line = line.strip()
               if not line or line.startswith("#"):
                 continue
               parts = line.split("\t")
               if len(parts) == 2:
-                a, b = parts[0].strip(), parts[1].strip()
-                a_slug = pathlib.Path(a).stem.lower()
-                b_slug = pathlib.Path(b).stem.lower()
-                alternates[a] = b_slug
-                alternates[b] = a_slug
+                a = pathlib.Path(parts[0].strip()).name
+                b = pathlib.Path(parts[1].strip()).name
+                if pathlib.Path(a).suffix != ".md" or pathlib.Path(b).suffix != ".md":
+                  continue
+                filename_pairs[a] = b
+                filename_pairs[b] = a
+                slug_pairs[a] = pathlib.Path(b).stem.lower()
+                slug_pairs[b] = pathlib.Path(a).stem.lower()
+            return filename_pairs, slug_pairs
+
+          def read_file_at_ref(ref, rel_path):
+            if not ref or ref == ("0" * 40):
+              return None
+            try:
+              return subprocess.check_output(
+                ["git", "show", f"{ref}:{rel_path}"],
+                encoding="utf-8",
+                errors="replace",
+              )
+            except subprocess.CalledProcessError:
+              return None
+
+          # Parse current .alternates file: bidirectional map of filename → alternate slug
+          alternates = {}
+          current_alt_pairs = {}
+          alt_path = workspace / ".alternates"
+          if alt_path.exists():
+            current_alt_pairs, alternates = parse_alternates_text(
+              alt_path.read_text(encoding="utf-8")
+            )
             print(f"[debug] loaded {len(alternates)} alternate mappings")
 
           MAX_RETRIES = 3
@@ -130,6 +158,7 @@ jobs:
           added_files = []
           modified_files = []
           removed_files = []
+          alternates_changed = False
 
           # Parse NUL-delimited output: format is <status> NUL <path> NUL [ <status> NUL <path> NUL ... ]
           tokens = [t.strip() for t in diff_output.split("\0") if t.strip()]
@@ -142,6 +171,11 @@ jobs:
             if rel_path.startswith('"') and rel_path.endswith('"') and len(rel_path) >= 2:
               rel_path = rel_path[1:-1]
             p = pathlib.Path(rel_path)
+
+            if rel_path == ".alternates":
+              alternates_changed = True
+              print(f"[debug] detect .alternates change: status={status!r}")
+              continue
 
             # 只處理根目錄 markdown 檔
             if p.suffix != ".md" or len(p.parts) != 1:
@@ -166,8 +200,36 @@ jobs:
           print(f"[debug] modified root md files={unique_modified_files}")
           print(f"[debug] removed root md files={unique_removed_files}")
 
+          if alternates_changed:
+            before_alt_pairs, _ = parse_alternates_text(
+              read_file_at_ref(before_sha, ".alternates")
+            )
+            affected_alt_files = sorted(
+              rel_path
+              for rel_path in (set(before_alt_pairs) | set(current_alt_pairs))
+              if before_alt_pairs.get(rel_path) != current_alt_pairs.get(rel_path)
+            )
+            print(f"[debug] .alternates affected root md files={affected_alt_files}")
+
+            for rel_path in affected_alt_files:
+              if rel_path in unique_added_files or rel_path in unique_modified_files or rel_path in unique_removed_files:
+                continue
+
+              p = pathlib.Path(rel_path)
+              if p.suffix != ".md" or len(p.parts) != 1:
+                print(f"[debug] skip non-root alternate target: {rel_path!r}")
+                continue
+
+              abs_path = workspace / rel_path
+              if abs_path.exists():
+                unique_modified_files.append(rel_path)
+                print(f"[debug] re-sync due to .alternates change: {rel_path!r}")
+              else:
+                unique_removed_files.append(rel_path)
+                print(f"[debug] delete stale alternate target: {rel_path!r}")
+
           if not unique_added_files and not unique_modified_files and not unique_removed_files:
-            print("No root-level added, modified, or removed markdown files detected.")
+            print("No root-level markdown or .alternates changes requiring sync.")
             sys.exit(0)
 
           for rel_path in unique_added_files:

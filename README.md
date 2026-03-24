@@ -51,7 +51,7 @@ The CI workflow reads this file and sends `alternate_filename` to the API so the
 ## How it works
 
 ```
-git push *.md
+git push *.md .alternates
     │
     ▼
 GitHub Actions workflow
@@ -59,11 +59,12 @@ GitHub Actions workflow
     └─ rebuild search index        → deploy sayit-hono to Cloudflare Workers
 ```
 
-On every push that touches a `.md` file, the workflow in `.github/workflows/upload-markdown-on-change.yml`:
+On every push that touches a root-level `.md` file or `.alternates`, the workflow in `.github/workflows/upload-markdown-on-change.yml`:
 
 1. Detects added, modified, and deleted markdown files
-2. Uploads (or deletes) them via the archive.tw API, including `alternate_filename` for bilingual pairs
-3. Rebuilds the Pagefind search index and redeploys the site
+2. Detects `.alternates` pairing changes and re-syncs the affected markdown files
+3. Uploads (or deletes) them via the archive.tw API, including `alternate_filename` for bilingual pairs
+4. Rebuilds the Pagefind search index and redeploys the site
 
 ## Contributing
 
