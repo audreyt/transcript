@@ -178,7 +178,7 @@ For the YouTube creator labelling  - it's any content uploaded to YouTube that h
 Now YouTube products that you're also rolling it out such as system?
 
 ### Google_Anita Chen:
-In terms of disinformation - purposefully misleading content: Any ad created with GAI is subject to our existing Ads policies before it serves and enforcement actions, if it violates our policies. Our ads policies prohibit manipulating media to deceive, defraud, or mislead others.  So basically, there are exisitng ads product policy that will apply whether your content is generative AI lead or not. But if you use generative AI to create content as your ad, you are also required to disclose that.
+In terms of disinformation - purposefully misleading content: Any ad created with GAI is subject to our existing Ads policies before it serves and enforcement actions, if it violates our policies. Our ads policies prohibit manipulating media to deceive, defraud, or mislead others.  So basically, there are existing ads product policy that will apply whether your content is generative AI lead or not. But if you use generative AI to create content as your ad, you are also required to disclose that.
 
 ### Audrey Tang:
 So that there is a direct correspondence, right because Facebook or Instagram you can also post pictures and videos and also advertisements. So for this point I would like to hear Meta’s response.
@@ -259,7 +259,7 @@ Okay, we get your idea about post deployment evaluations that would need to resp
 So I think we're talking fundamentally about two different things. This is about pre-deployment or just about to be deployed, this kind of testing. Do you have the same concerns, as you outlined?
 
 ### Google_Anita Chen:
-So I will definitely take this back to our team, but in my discussion with our team the past few days, I think our preference is that developer of LLM provide documentaion outlining how the model is intended to be used, known inappropriate uses, known risks, and recommendations for deployers and users to manage risk. That's our current preference, but I will definitely bring your your recommendation back to our team.
+So I will definitely take this back to our team, but in my discussion with our team the past few days, I think our preference is that developer of LLM provide documentation outlining how the model is intended to be used, known inappropriate uses, known risks, and recommendations for deployers and users to manage risk. That's our current preference, but I will definitely bring your your recommendation back to our team.
 
 ### Audrey Tang:
 We're not talking about a model. We're talking about an API. So API, just like the existing API that takes a prompt and normal prompt and feedback, something so that the evaluation is done not on the model weights itself, but rather as API user is just that it's more like early research or red team access. So that this access is granted to AIEC before it reaches our population, so we can assess harm. We're not saying that you should submit the entire model with Gemini to AIEC. We're saying that open up APIs slightly before deployment. Is this more clear?
@@ -315,4 +315,3 @@ So does anyone want to raise any extra points to this meeting? If not, then I si
 I look forward in the next 14 days after the transcript is produced to add links and everything, blogs, announcements, so that the reader of this transcript can also collectively benefits from the cutting edge research and the commitment from the industry to a safer and more trustworthy AI and information integrity environment.
 
 I thank all for attending. Thank you.
-

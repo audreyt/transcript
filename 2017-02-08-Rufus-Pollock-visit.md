@@ -1,6 +1,6 @@
 # 2017‑02‑08 Rufus Pollock visit
 
-> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/RB0Cywqou\WRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd](https://ey.pdis.nat.gov.tw/shared/RB0CywqouWRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd) )
+> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/RB0CywqouWRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd](https://ey.pdis.nat.gov.tw/shared/RB0CywqouWRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd) )
 
 ### Rufus Pollock：
 I normally record myself too, but you guys are going to record it, right?

@@ -801,7 +801,7 @@ Oh yeah. Sure. I was a petal...
 ...in the Sunflower Movement, mostly working on the communication infrastructure. After Sunflower, there was a mayoral election at the end of that year. There was also a national forum on economic development where people asked for a open government platform. join.g0v.tw was the end result of that particular national forum.
 
 ### Audrey Tang:
-Those two combined into the end-of-the-year election result in 2014, where all the candidates that supported the Occupy gets elected as mayors, sometimes without preparing any auguration speech.
+Those two combined into the end-of-the-year election result in 2014, where all the candidates that supported the Occupy gets elected as mayors, sometimes without preparing any inauguration speech.
 
 ### Audrey Tang:
 All the candidates that are against the Occupy lose their seats. The political will is very clear. Anyone who advocate for transparency, it’s not progressive, it’s baseline. Otherwise, you don’t get to be mayors.
@@ -939,4 +939,3 @@ Thank you.
 
 ### Audrey Tang:
 Thank you.
-

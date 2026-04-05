@@ -118,7 +118,7 @@ Sometimes I think it’s easier, if there’s a small opportunity, to get a lapt
 What we’re finding right now is the general design pattern for most of those voice recognition services are white, 35-year-old males from North America. That’s what those systems basically recognize. What all these big companies are missing out on is the fact that there are different languages in the world, different cultures in the world, different dialects in the world. We really would like to empower people.
 
 ### Desigan Chinniah:
-We ourselves, at Mozilla, we don’t plan to build an Alexa. That is, it’s currrently not our focus to build such products. What we want to do is if we can find the data, we will allow other people to innovate on top of that, and potentially create niche competition for the likes of Amazon and Google.
+We ourselves, at Mozilla, we don’t plan to build an Alexa. That is, it’s currently not our focus to build such products. What we want to do is if we can find the data, we will allow other people to innovate on top of that, and potentially create niche competition for the likes of Amazon and Google.
 
 ### Desigan Chinniah:
 That’s good for everyone, because once there’s innovation and competition, then we’ll see probably very cool things appearing in this voice space. Right now, we’re guided by what Amazon does or what Google does. I think that’s not great for the entire world. It’s great for North America or maybe Western Europe, but for the rest of world, not that.
@@ -1154,4 +1154,3 @@ Firefox Developer Edition. That’s my browser of choice.
 
 ### Desigan Chinniah:
 I also have, not too many, but T-shirts.
-

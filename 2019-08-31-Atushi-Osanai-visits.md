@@ -77,7 +77,7 @@ Shima-san work for the Microsoft. He is a sales manager.
 Yes.
 
 ### Atsushi Osanai:
-Aichi-san, now living in Taiwan. She is working in Japanese companye.
+Aichi-san, now living in Taiwan. She is working in Japanese company.
 
 ### Audrey Tang:
 How should we proceed?
@@ -795,4 +795,3 @@ This is entirely driven by people’s questions, fears, uncertainties, and doubt
 
 ### Audrey Tang:
 Thank you for your questions.
-
