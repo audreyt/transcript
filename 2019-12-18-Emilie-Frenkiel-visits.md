@@ -87,7 +87,7 @@ A lot of our work, surprisingly, is just to make sure that the civil society und
 Good. That’s very good. Here, we’re in the Social Innovation Lab. But in your message, you said, “Let’s meet at the PDIS.” What are these two?
 
 ### Audrey Tang:
-The PDIS, Pubic Digital Innovation Space, is literally just some spaces. We have a meeting room here. We have the office full of pizza right now in the ground floor. We have a room also in the basement. Those three are three physical spaces of the PDIS. Similarly, in the administration building, we also have two office spaces at the ground floor and one at the third floor.
+The PDIS, Public Digital Innovation Space, is literally just some spaces. We have a meeting room here. We have the office full of pizza right now in the ground floor. We have a room also in the basement. Those three are three physical spaces of the PDIS. Similarly, in the administration building, we also have two office spaces at the ground floor and one at the third floor.
 
 ### Audrey Tang:
 These six physical spaces together form the physical compartment of the PDIS. Of course, we also have interns. They can work anywhere.

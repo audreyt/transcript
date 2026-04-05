@@ -1,6 +1,6 @@
 # 2017-02-24 Eileen Wagner visit
 
-> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/J4kl0BLg\o40EHZwpNx2qt0P-YhWF2z\seFCJ5DJIg9](https://ey.pdis.nat.gov.tw/shared/J4kl0BLgo40EHZwpNx2qt0P-YhWF2zseFCJ5DJIg9) )
+> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/J4kl0BLgo40EHZwpNx2qt0P-YhWF2zseFCJ5DJIg9](https://ey.pdis.nat.gov.tw/shared/J4kl0BLgo40EHZwpNx2qt0P-YhWF2zseFCJ5DJIg9) )
 
 ### Audrey Tang:
 All right, anything I can help you with?

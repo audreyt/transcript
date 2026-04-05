@@ -1,6 +1,6 @@
 # 2017-02-14 Open discussion with Rufus Pollock
 
-> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMV\WfUXKlPa](https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMVWfUXKlPa) )
+> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMVWfUXKlPa](https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMVWfUXKlPa) )
 
 ### Audrey Tang:
 2:00 PM today, we’re going to design one of the larger common API — not with the OpenAPI spec — but a common, standard‑based refactoring of our national disaster response systems.

@@ -152,7 +152,7 @@ So trial and error.
 It’s a trial and error. I mean, in 2017, I remember raising in a Cabinet meeting that this timely clarification is my suggestion to all the minister, that they have to be timely, that they have to be open, and that they have to be structured. The timely and openness gradually improved.
 
 ### Audrey Tang:
-The credit should go to the two spokespersons during this time, Minsiter Hsu Kuo-yung and Kolas Yokata. As for structured, it took us almost two years to reach this structure. The earlier structures weren’t that viral. They weren’t maybe as viral as the disinformation. Now we arrived at this structure, thanks mostly to Kolas Yotaka and her team, that almost always is more viral than the rumor.
+The credit should go to the two spokespersons during this time, Minister Hsu Kuo-yung and Kolas Yotaka. As for structured, it took us almost two years to reach this structure. The earlier structures weren’t that viral. They weren’t maybe as viral as the disinformation. Now we arrived at this structure, thanks mostly to Kolas Yotaka and her team, that almost always is more viral than the rumor.
 
 ### Manpreet Singh Anand:
 Does it mean that you need to -- I’m just thinking from a mechanical standpoint -- have to start building capacity within each of your ministries for people who…
@@ -648,4 +648,3 @@ Thank you.
 
 ### Shari Bryan:
 We’ll see you soon.
-

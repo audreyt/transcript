@@ -362,7 +362,7 @@ Do you have any numbers that says, during the off peak hours, if you can get, I 
 Yes. Actually, I’d be happy to give you case examples from multiple countries that have done so.
 
 ### Audrey Tang:
-Other e-taxi fleets are actually asking the same. If we’re saying all e-taxi fleets are allowed to have a off peak discount by some definition of off peak, andif that covers both your needs and the existing e-taxi fleets’ needs, because the e-taxi policy is a regulation, it’s easier to change.
+Other e-taxi fleets are actually asking the same. If we’re saying all e-taxi fleets are allowed to have a off peak discount by some definition of off peak, and if that covers both your needs and the existing e-taxi fleets’ needs, because the e-taxi policy is a regulation, it’s easier to change.
 
 ### Audrey Tang:
 It is just like the optional meter installation which is also something pretty much all the e-taxi fleets are asking. You just signaled that you would like that as well?
@@ -664,4 +664,3 @@ Thank you for your time too.
 
 ### Amit Jain:
 I appreciate it as well. Always a pleasure. Thank you for pushing technology, pushing progression in Taiwan, which obviously you’re a champion of the future.
-

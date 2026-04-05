@@ -1414,7 +1414,7 @@ That is also something that is felt kind of in a gut way here because the electi
 That’s natural in election campaigns. Our one that just passed is actually OK in terms of the divisiveness. What I’m saying is that it goes naturally with representational democracy. You’re going to have divisive of rhetoric the week before the election. It’s just part of the course.
 
 ### Audrey Tang:
-We just had one so we’re in for a collective healing period two days afterward. What I’m saying is that our intervention is going to be predicated on the fact that people are re-feeling that they have more in common with each other than they would have belived when they walked into the voting booth 40 hour ago.
+We just had one so we’re in for a collective healing period two days afterward. What I’m saying is that our intervention is going to be predicated on the fact that people are re-feeling that they have more in common with each other than they would have believed when they walked into the voting booth 40 hour ago.
 
 ### Audrey Tang:
 In terms of group dynamics, that will be our intervention time to say, first, there are certain optical mechanisms in terms of social media, in terms of political rhetoric, that makes people seem more divided ethnically, gender-wise, or however, than it actually is.
@@ -1981,4 +1981,3 @@ Not yet. Ko Wen-je is still tied with Ting Shou-chung... They are still tied.
 
 ### Audrey Tang:
 Well, let this be the end of this transcript.
-

@@ -181,7 +181,7 @@ Well, we also have a Cyber Security Management Act, currently in the cabinet, th
 
 It doesn't matter where its company is registered. It doesn't matter which shareholder structure it takes, as long as there is any indication from our natsec or from ministries of economy or trade or whatever that indicates this indirect control. It can be two evidences, one on this and one on this, then it's classified as a harmful product.
 
-Not only it's banned within the government as where you already are, but also in government-operated places and the internet access service provided there. Where neccessary, we can also extend it to specific critical infrastructure providers, as well as places operated by them.
+Not only it's banned within the government as where you already are, but also in government-operated places and the internet access service provided there. Where necessary, we can also extend it to specific critical infrastructure providers, as well as places operated by them.
 
 ### Igor Khrestin:
 Minister, how does the authorities that you have in this ministry? I'm curious. You're a relatively new entity.
@@ -330,7 +330,7 @@ Yeah, one and a half year old but where do you see it going in the near term?
 ### Audrey Tang:
 I think I've always tried for this Ministry to be seen as a credibly neutral party in everything, which is why, although by law, we can use political appointees for our directors in our departments. There are six of them. I've used exactly zero. All of them are career public servants. We strive for political neutrality as if we're an independent commission but we're not. We're a Ministry. 
 
-Meanwhile, I don't belong to any political party, really. But for issues like cybersecurity, if there's a partisanship around this, if the municipalities are against national policies, there's no way anythings to be done. We can only be effective on cyber resilience if we are throughly politically neutral. I think this is part of the legacy that I want to pass on to whomever the next minister will be, so that they don't have to rebuild this credible neutrality.
+Meanwhile, I don't belong to any political party, really. But for issues like cybersecurity, if there's a partisanship around this, if the municipalities are against national policies, there's no way anythings to be done. We can only be effective on cyber resilience if we are thoroughly politically neutral. I think this is part of the legacy that I want to pass on to whomever the next minister will be, so that they don't have to rebuild this credible neutrality.
 
 Across the board, I have talked with my counterparts, either cyber ambassadors or fellow ministers that have a similar incredibly neutral view, not necessarily a partisanship, but just on being a nexus of trust across political parties.
 
@@ -349,7 +349,7 @@ He has deep connection with the hardware side of things. He has been a member of
 Anyway, we want to be a electric motor that drives digital transformation, but we never take the credit. We want those upper industries to take the credit. The same applies to the directors of our departments.
 
 ### Igor Khrestin:
-Can I just one more thing? Because you mentioned something that is very important, and that is, I think, in the US, we have a deficit of, which is credible non-partisan arbitors of the most precious currency we have, I think, which is free speech. Whether we need them or not, and you mentioned the disinformation board became such a partisan issue, partially where it was housed, which was DHS. 
+Can I just one more thing? Because you mentioned something that is very important, and that is, I think, in the US, we have a deficit of, which is credible non-partisan arbiters of the most precious currency we have, I think, which is free speech. Whether we need them or not, and you mentioned the disinformation board became such a partisan issue, partially where it was housed, which was DHS. 
 
 I don't know if that was the best place to out, but also because there was no trust on either side, that that would be a credible non-partisan arbiter, and the person or people running that would play that role. This is maybe one example. But this is it's not necessarily a question other than it's an observation, but you created something here which I think is very unique, and I really hope we can replicate it in our system so that we can have these conversations and not think, Hey, I'm conservative, and you're trying to shut down my speech by telling me what I should think, how I should act, or on the other side. 
 
@@ -363,4 +363,3 @@ Thank you so much. Really appreciate your time.
 
 ### Audrey Tang:
 Thank you.
-

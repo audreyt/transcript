@@ -109,7 +109,7 @@ Very cheaply, you can connect those measurement boxes into a distributed ledger 
 When you have more than 2,000 people measuring the air quality together, it forms a new way of legitimacy that no private sector or public sector administrations can compete with. In Taiwan, we call them data coalitions.
 
 ### Audrey Tang：
-They can negotiate with the pubic sector so that we must join their network instead of asking civic tech to be co-opted by gov tech. We must build gov tech on top of civic tech. We join their network by providing our measurements in the gaps that they cannot measure, for example, industrial parks, which are private property but turns out the government owns the land.
+They can negotiate with the public sector so that we must join their network instead of asking civic tech to be co-opted by gov tech. We must build gov tech on top of civic tech. We join their network by providing our measurements in the gaps that they cannot measure, for example, industrial parks, which are private property but turns out the government owns the land.
 
 ### Audrey Tang：
 If we install their air box on the lamps, then we can join their network, but the governance is still done by the people. With the data coalitions, people are in a much better bargaining position with the GAFA, which are primarily relying on people not having a collective bargaining power when it comes to data.
