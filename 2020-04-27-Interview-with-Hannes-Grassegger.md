@@ -456,13 +456,13 @@ Bye-bye.
 > (Follow-up questions with written answers.)
 
 ### Hannes Grassegger:
-Minister, what is more effective in battling Coivid19, democracy or authoritarianism?
+Minister, what is more effective in battling Covid19, democracy or authoritarianism?
 
 ### Audrey Tang:
 Collaborative governance — COGOV — is the most effective way to counter the COVID.
 
 ### Hannes Grassegger:
-Great! So your strategy against Cod19 was to bring more people on the Join platform and channels.
+Great! So your strategy against Covid19 was to bring more people on the Join platform and channels.
 
 ### Audrey Tang:
 COGOV refers to [“Decentralized co-governance architecture”](https://pdis.nat.gov.tw/en/blog/%E6%95%B8%E4%BD%8D%E4%BA%92%E8%B3%B4%E7%9A%84%E6%99%82%E4%BB%A3/) here, which includes government platforms but primarily are based on social sector platforms.

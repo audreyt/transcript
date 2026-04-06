@@ -73,7 +73,7 @@ That was in Germany.
 Why were you in Europe?
 
 ### Audrey Tang:
-My dad went earlier to Germany for a year pursing PhD studies. Then we moved, because I was finishing primary school education at the time, two years in advance. In Taiwan there’s no way for the high school student to jump two grades. I was left without education.
+My dad went earlier to Germany for a year pursuing PhD studies. Then we moved, because I was finishing primary school education at the time, two years in advance. In Taiwan there’s no way for the high school student to jump two grades. I was left without education.
 
 ### Audrey Tang:
 My teachers, they all suggested that I went somewhere else to experience different education systems.

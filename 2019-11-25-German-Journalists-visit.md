@@ -423,7 +423,7 @@ The basic principle is that they record – DW, of course, records – then I wi
 After you do, we respect the journalism profession. Then only after co-editing. Even for internal meetings, people have 10 working days to go over it, because sometimes people mention anecdotally some of their friends’ or families’ cases.
 
 ### Audrey Tang:
-These people have not cleared for publication. We go back and change it a little bit. The point here is that the openness is the default. It takes extra effort to change the text. That is what I mean by radical, meaning at the root. Did I answer your quetion?
+These people have not cleared for publication. We go back and change it a little bit. The point here is that the openness is the default. It takes extra effort to change the text. That is what I mean by radical, meaning at the root. Did I answer your question?
 
 ### Gundula Sophie Haage:
 Yeah.

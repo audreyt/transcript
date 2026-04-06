@@ -306,7 +306,7 @@ You didn’t speak German at all, right?
 I didn’t speak German at all, and not English, either. In any case, I was given preferential treatment back in Taiwan because my mathematics was really, really good.
 
 ### Audrey Tang:
-In the primary schcool system they didn’t put any emphasis on this kind of super specialties. They work, instead, on the social dynamics of students, and the wellbeing of people’s dignity, and things like that. Behaving like adults, that’s the main educational agenda, which I felt, at that time, that the Taiwanese education is seriously lacking, by the way.
+In the primary school system they didn’t put any emphasis on this kind of super specialties. They work, instead, on the social dynamics of students, and the wellbeing of people’s dignity, and things like that. Behaving like adults, that’s the main educational agenda, which I felt, at that time, that the Taiwanese education is seriously lacking, by the way.
 
 ### Audrey Tang:
 I have fond memories because Frau Wagner saw me not as someone who need to specialize on anything, but to ensure my well-being, that I fit in, and well adapted, bring some interesting friendships, had something to share, and so on, with the classmates.

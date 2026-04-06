@@ -412,7 +412,7 @@ There are many configuration possibilities. Mostly, it is to make sure that the 
 That is the main thing we want to find out in the initial phase in the first half of next year. Whether it is possible for them to...As I mentioned, think of it as an extended WiFi network. If that is possible, then it makes new providers plug and play. You don't care about how many providers you have, because the experience is seamless.
 
 ### Roman Winkelhahn:
-On your National Day last month, President Tsai Ing wen mentioned that there must be more investions into the space industry, into the domestic space industry in Taiwan. You mentioned the semiconductor industry earlier.
+On your National Day last month, President Tsai Ing wen mentioned that there must be more investments into the space industry, into the domestic space industry in Taiwan. You mentioned the semiconductor industry earlier.
 
 Analysts say that there is the possibility for Taiwan to scale up the semiconductor industry to become an independent space country that's part in the global space industry, which Taiwan is not right now. What are the prospectus there if you're looking at the potential that Taiwan has to scale up?
 

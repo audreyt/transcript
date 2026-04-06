@@ -558,7 +558,7 @@ On another topic, what about quantum computing? Does moda play any kind of role 
 ### Audrey Tang:
 Anything that's more than four years in the horizon that's the NSTC. That's the National Science and Technology Council. We focus, along with our National Institute of Cybersecurity, on things that can be rolled out in the next four years.
 
-It involves, for example, quantum resistant cryptography, but jot quantum computing, because it's different time horizon.
+It involves, for example, quantum resistant cryptography, but not quantum computing, because it's different time horizon.
 
 ### Nerio Musa：
 That's coming up soon.

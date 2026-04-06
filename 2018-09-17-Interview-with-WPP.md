@@ -459,7 +459,7 @@ If any public servants come to our consultative collaborative workshop, it count
 Also, because I don’t give commands, so any commandment they bring to the table, they bring it by their own volition. They have to act in the sense that they have to enter this deliberative space, and listen, and respond point-by-point.
 
 ### Audrey Tang:
-It doesn’t compel them to act outside their professional capacity. This, again, is not like a referdendum.
+It doesn’t compel them to act outside their professional capacity. This, again, is not like a referendum.
 
 ### Jinan Younis:
 When you talk about the participation officer’s network, this, I’m guessing, is one of the enablers of citizen engagement?

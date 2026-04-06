@@ -213,7 +213,7 @@ There was panic buying of tissue papers, because people were saying, “Oh, we�
 This is very interesting, because this is our premier, Premier Su Tseng-chang. He is showing his buttocks, wiggling it a little bit here. A large title said, “Each of us only have one pair of buttocks.”
 
 ### Audrey Tang:
-This table says, “The tissue paper are made out of South American material and medical mask of domestic material. Ramping up one production doesn’t actually render the other out of stock. Please do not spread that tumor.”
+This table says, “The tissue paper are made out of South American material and medical mask of domestic material. Ramping up one production doesn’t actually render the other out of stock. Please do not spread that rumor.”
 
 ### Audrey Tang:
 This is shaped like a tissue paper box. This went absolutely viral, like an Internet meme. The rumor died down within 24 hours, and people don’t panic buy anymore. We discovered the person who spread the rumor in the first place was a tissue paper reseller.

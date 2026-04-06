@@ -228,7 +228,7 @@ Sorry, yeah.
 \[laughs\]
 
 ### Nicola Smith:
-The contract tracing app is a big subject of debate at the minute.
+The contact tracing app is a big subject of debate at the minute.
 
 ### Audrey Tang:
 Last I heard, it was Bluetooth-only.

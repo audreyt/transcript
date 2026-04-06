@@ -10,7 +10,7 @@ Previously, we were talking about, given all that’s been written about Pol.is,
 I think there’s two things. One, as you correctly pointed out, I’m not just digital minister at Taiwan. I’m also a board member of Digital Future Society, which is convening next week in Barcelona, regardless that MWC just got canceled, and also board member of RadicalxChange, along with Vitalik Buterin, Glen Weyl, Cristina Caffarra and Danielle Allen.
 
 ### Audrey Tang:
-Also, board member soon of CONSUL Foundation, with is the Madrid participation platform. After Madrid election, they moved to Amsterdam, trying to find a new home supporting civic participation software development and figuring out a financial model as a new social innovation organization.
+Also, board member soon of CONSUL Foundation, which is the Madrid participation platform. After Madrid election, they moved to Amsterdam, trying to find a new home supporting civic participation software development and figuring out a financial model as a new social innovation organization.
 
 ### Audrey Tang:
 Three very different international NGOs, one you would think well-funded, but now we don’t know. \[laughs\] The Digital Future Society, I mean. Then RadicalxChange which has, of course, the Ethereum backup as a experimental community.
@@ -134,7 +134,7 @@ As the fully bootstrapped version.
 Yeah.
 
 ### Audrey Tang:
-I like the sound of it, but I will also say that if that is the case, like in the near horizon, of course we have the tech challenge which is a couple week from now in Taipei, where we work with across Indo-Pacific vendors selling or at least wokring on counter-disinformation tactics and strategies, of which civic participation is only just one aspect of many.
+I like the sound of it, but I will also say that if that is the case, like in the near horizon, of course we have the tech challenge which is a couple week from now in Taipei, where we work with across Indo-Pacific vendors selling or at least working on counter-disinformation tactics and strategies, of which civic participation is only just one aspect of many.
 
 ### Audrey Tang:
 Then, we have various human right organizations and also state-sponsored organizations like NDI, IRI and the NED folks, all taking action in Taiwan and around Taiwan. You will have the Open Tech Fund, Oslo Freedom Forum for sure, maybe next year the RightsCon, and so on.
@@ -146,7 +146,7 @@ All this is basically saying that we’re sharing this ecosystem of civic hacker
 Then the real story will be what the people at, for example, Thailand in the Chulalongkorn University, after our workshops with them, what kind of political angle are they interacting with the Thai government. What does the governor of Bangkok if there is a new government of Bangkok, think about the Taiwanese influence and things like that.
 
 ### Audrey Tang:
-That would get something moving very quickly, but then it will not be about Pol.is, chances are Pol.is would not be used at all, or iit will use only a very minor version.
+That would get something moving very quickly, but then it will not be about Pol.is, chances are Pol.is would not be used at all, or it will use only a very minor version.
 
 ### Gideon Lewis-Kraus:
 I think that I’m certainly interested in which Pol.is is involved, I think for all sorts of obvious reasons. Especially given that we’re all so saturated with the narrative about social media and divisiveness and outrage. I think there is naturally a big appetite for what does it mean to…

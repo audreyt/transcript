@@ -455,7 +455,7 @@ You were so happy about it.
 > (laughter)
 
 ### Manuel Edghill:
-I’m was getting pumped here.
+I was getting pumped here.
 
 > (laughter)
 

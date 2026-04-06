@@ -1,4 +1,4 @@
-# 2025-11-06 Commual AI for a Plural Future
+# 2025-11-06 Communal AI for a Plural Future
 
 ### Audrey Tang:
 

@@ -165,7 +165,7 @@ Micro-businesses, really.
 Do you mean that they had the idea for them to do other things, rather than just sell one kind of thing?
 
 ### Audrey Tang:
-That’s right, diversify, because social enterprise in Taiwan is an ecosystem. They can carry fair trade coffee. They carry all sorts of indigenous products, some of which are in our the Taiwan booth here. They become the outlet for all the social enterprises.
+That’s right, diversify, because social enterprise in Taiwan is an ecosystem. They can carry fair trade coffee. They carry all sorts of indigenous products, some of which are in our Taiwan booth here. They become the outlet for all the social enterprises.
 
 ### Lee Mannion:
 Presumably, they can make more money if they’re making progress.
@@ -219,7 +219,7 @@ What do your fellow ministers think of the fact that civil society might put the
 Like people willing to work for free?
 
 ### Lee Mannion:
-What do in your fellow ministers think?
+What do your fellow ministers think?
 
 ### Audrey Tang:
 The thing is that it’s just like juries. It’s not putting judges out of a job.

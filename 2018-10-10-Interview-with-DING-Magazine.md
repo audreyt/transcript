@@ -98,7 +98,7 @@ What do you think needs to happen to get more diverse groups involved in decisio
 Intersectionality reminds us that we all have some part of us that is vulnerable, that has suffered from social injustice, and that is in the minority. Through these painful experiences, we can emerge with an authentic voice and listen to people who are suffering for a different reason yet feel the same pain.
 
 ### Audrey Tang:
-When individual voices can represent themselves authentically, that helps us rethink our own experiences of vulnerability. As far as I know, empowering people who are suffering is the best way to to scale listening among disintegrating pluralities and to safeguard democracy.
+When individual voices can represent themselves authentically, that helps us rethink our own experiences of vulnerability. As far as I know, empowering people who are suffering is the best way to scale listening among disintegrating pluralities and to safeguard democracy.
 
 ### Julia Kloiber:
 Beautifully said! Here’s my last question:

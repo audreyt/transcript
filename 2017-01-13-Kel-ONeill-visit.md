@@ -743,7 +743,7 @@ Right. Exactly. Although they’re physically in different places, they could st
 I teach...There’s a State Department program I’m involved with where filmmakers from the Middle East come to the US and learn about American production methods. I do the immersive and interactive mentoring for them.
 
 ### Kel O’Neill：
-I’ve been trying to explain wwhat social VR is to them and the best way that I can explain it is that you’re always the person sitting in the turning chair even if you are, like in a solitary VR experience, even if it’s very convincing how it shifts your perspective. But with social VR, I can be in Moscow and you can be in Taipei, and you can be a lion and I can be a snake and we believe each other.
+I’ve been trying to explain what social VR is to them and the best way that I can explain it is that you’re always the person sitting in the turning chair even if you are, like in a solitary VR experience, even if it’s very convincing how it shifts your perspective. But with social VR, I can be in Moscow and you can be in Taipei, and you can be a lion and I can be a snake and we believe each other.
 
 ### Audrey Tang：
 I think this has tremendous potential for post‑conflict work.

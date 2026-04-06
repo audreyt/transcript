@@ -142,7 +142,7 @@ My grandma not only helped reviewing this plan but also introduced her younger f
 Then the 70-year-old grandmother young told me that she isn’t comfortable, because she have to type her bank card password. She was afraid that this would transfer not only NT$52 but actually NT$50,000 \[laughs\] to some other account.
 
 ### Audrey Tang:
-We eventually decoupled the authentication and the payment so she would authenticate without having to enter a password using her house insurance card and then she can pay with cash over the counter.
+We eventually decoupled the authentication and the payment so she would authenticate without having to enter a password using her health insurance card and then she can pay with cash over the counter.
 
 ### Audrey Tang:
 Initially, we designed for a mobile phone scanner, but she has a difficulty in seeing. She use a very large tablet, and so we also worked so that the scanner works with large tablets as well.

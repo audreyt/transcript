@@ -51,7 +51,7 @@ We have a UAE team that’s serving the Middle East and EMEA market. I’m the o
 We have a small team in Hong Kong. In Hong Kong, we are focusing more on fintech. Primarily, the team in Hong Kong, most of them have financial technology background. They are using our platform to find partners in that area, focusing on, for example, AML solution, small medium size loan processing, essentially using our AI platform to drive that. We also have a small team in Japan.
 
 ### David Liu:
-Within a relatively short period of time, we’ve done a fair amount of work trying to set up the infrastructure in Asia. I personally spent a fair amount of time in Taiwan. That’s when I learnt most of my Chinese. I was a general council for a Taiwan comapny for about nine years. Then I moved back to the States and started my investment business about 10 years ago.
+Within a relatively short period of time, we’ve done a fair amount of work trying to set up the infrastructure in Asia. I personally spent a fair amount of time in Taiwan. That’s when I learnt most of my Chinese. I was a general council for a Taiwan company for about nine years. Then I moved back to the States and started my investment business about 10 years ago.
 
 ### David Liu:
 Basically, in the past 10 years, I’ve been trying to identify unique technology platform. Hopefully, either me as a venture investor, and then later on try to branch out to other parts of the world, primarily in Asia.
@@ -111,7 +111,7 @@ Body area network?
 That’s right. A lot of them has to do with COVID management. Especially in some other areas, even in developing countries, it’s about allocating hospital resources. To the extent that you can understand the current, the physical conditions of the, not exactly patients, just the general populace.
 
 ### David Liu:
-Then, you can manage how to direct the right populace to the hospital, and say how to match together. “You’re OK, you can probably stay at home and and take care of herself or not.” We are developing solutions like that, with our healthcare partners. Definitely, if there are solutions that we think we can bring in to Taiwan, we would love to.
+Then, you can manage how to direct the right populace to the hospital, and say how to match together. “You’re OK, you can probably stay at home and take care of herself or not.” We are developing solutions like that, with our healthcare partners. Definitely, if there are solutions that we think we can bring in to Taiwan, we would love to.
 
 ### David Liu:
 We also, very much, like I said, the second purpose for us to be in Taiwan is to innovate with local Taiwan partners. Both on hardware design solution, developing different solution, different verticals. Then, the third purpose is to build talent pool. We will be hiring folks, AI engineers, data scientists over here.

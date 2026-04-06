@@ -637,7 +637,7 @@ Thank you.
 Hear, hear.
 
 ### Rachael Harder:
-Thank you for all of the work that you’re doing. Again, thank you for sharing you’re expertise with us.
+Thank you for all of the work that you’re doing. Again, thank you for sharing your expertise with us.
 
 ### Audrey Tang:
 Thank you. Thank you, our ambassador to Canada, for making this happen. \[laughs\]

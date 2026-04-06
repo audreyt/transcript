@@ -9,7 +9,7 @@ Oh, OK. I want to meet you in-person.
 > (laughter)
 
 ### Audrey Tang:
-Very nice to meet you you. I don't have any meeting after this, so we get a full hour.
+Very nice to meet you. I don't have any meeting after this, so we get a full hour.
 
 ### Keng-Yen Huang:
 OK, great. Thank you.
@@ -450,7 +450,7 @@ My colleague and I, are working on developing some of those using a trajectory a
 What are the outcomes here?
 
 ### Keng-Yen Huang:
-[laughs] This is the picutre show the domains that we're assessing in the digital tool. You can see this part represent findings from multiple individuals.
+[laughs] This is the picture show the domains that we're assessing in the digital tool. You can see this part represent findings from multiple individuals.
 
 ### Audrey Tang:
 Each column is a individual.

@@ -131,7 +131,7 @@ The result could be 100 percent workable, but it is just five people making the 
 That has changed completely. We are now regularly live streaming the multi-stakeholder meetings. We can, of course, do better in order to include more people in the participation, to raise awareness of the importance of proper process, the quality of output, how the text was written collaboratively — we’re looking at that. At least the format itself has changed to include as many stakeholders as possible.
 
 ### Sarah Maquet：
-For the next few years, after becoming the digital minister, wheat would you like for Taiwanese society?
+For the next few years, after becoming the digital minister, what would you like for Taiwanese society?
 
 ### Audrey Tang：
 I would like the professional public servants to trust the people more. Usually other governments in the world, they would ask the people to trust the government more. To me, trust is mutual. If you cannot really trust people more, it’s impossible for people to trust you back.

@@ -112,7 +112,7 @@ The thing with the deliberation is that it’s magical, because when people ente
 The problem with deliberation is two. First, it’s messy. Meaning that every time you run it there’s no established way to get high quality deliberation. Second, it doesn’t scale. Meaning, if it’s 20 people, maybe you can get deliberation. If it’s 200 people, it’s impossible. If it’s 2,000 people, people just start shouting at each other.
 
 ### Audrey Tang：
-Basically, listening, as the key to deliberation, does not scale. Meaning with more people it actually loose it’s magic. We use ICT, information communication technology, to scale the experience of listening. That’s our main contribution.
+Basically, listening, as the key to deliberation, does not scale. Meaning with more people it actually loses its magic. We use ICT, information communication technology, to scale the experience of listening. That’s our main contribution.
 
 ### MK：
 In that process, do you actually allow the netizens into listening process?

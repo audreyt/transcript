@@ -424,7 +424,7 @@ The Chinese defense minister recently said that the restoration of Taiwan to Chi
 
 Well, Taiwan, as you know, is an island that is made from 4 million years of plate moving against plate. So we do have earthquakes, like three felt earthquakes every day somewhere in Taiwan, and we do have a lot of tectonic shifts, as it were, across people who believe in different things, like the free China people and free from China people from within Taiwan.
 
-But this year, for the first time in a political rally, those two flags flew together in Taiwan, both the ROC flag signifying the Republic of China state, but also the Taiwan independence flag, the whale that signifies this free from China segment. But both banded together because we want to send a message to the world that we're here to show that authoritarianism actually does not deliver as well as democracy. And if people around the world can echo this message because no democracy is an island, not even Taiwan. And if we can all band together, then that collision of democracies is much stronger than any single authoritarian threat.
+But this year, for the first time in a political rally, those two flags flew together in Taiwan, both the ROC flag signifying the Republic of China state, but also the Taiwan independence flag, the whale that signifies this free from China segment. But both banded together because we want to send a message to the world that we're here to show that authoritarianism actually does not deliver as well as democracy. And if people around the world can echo this message because no democracy is an island, not even Taiwan. And if we can all band together, then that coalition of democracies is much stronger than any single authoritarian threat.
 
 ### Margaret Hoover:
 

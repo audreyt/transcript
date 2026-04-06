@@ -19,7 +19,7 @@ Thank you for the great question. In Taiwan, we managed to counter the pandemic 
 On the fast part, we ensure that anybody who detect a disinformation online even on end-to-end encrypted channels, they can flag it, not to the authorities but rather to professional journalists, as well as civic technologists running a crowdsource fact-checking project that anyone can join.
 
 ### Audrey Tang:
-Then once this gets detected, for example, last December when Li Wenliang whistleblowing gets up voted this way on the public forum PTT, we’d decided that it was not this information after all because it looks very legit.
+Then once this gets detected, for example, last December when Li Wenliang whistleblowing gets up voted this way on the public forum PTT, we’d decided that it was not disinformation after all because it looks very legit.
 
 ### Audrey Tang:
 The medical officers immediately took the “seven new SARS cases” too hard and then started the health inspection for all flight passengers coming in from Wuhan the very next day, which is the first day of 2020.
@@ -61,7 +61,7 @@ In Taiwan, we do not make the false trade-off or dilemma between having to sacri
 The Taiwan’s record on both the counter pandemic and also recording GDP growth this year has been the top of the world. By showing people that instead of the government knows everything, we instead say, in mandarin, 你行你來 — “If you can do it, do it.”
 
 ### Audrey Tang:
-The idea very simply put is that the economic sector as well as the social sector can call the shots when they see, for example, a better way of distributing a mosque first in the pharmacies, then in convenience stores through mobile apps, and then on kiosk, even vending machines and so on.
+The idea very simply put is that the economic sector as well as the social sector can call the shots when they see, for example, a better way of distributing a mask first in the pharmacies, then in convenience stores through mobile apps, and then on kiosk, even vending machines and so on.
 
 ### Audrey Tang:
 The government, far from dictating anything, takes actively the piloted ideas and then just amplifies it through the support of real-time open API and open data. This is what I refer to as reverse procurements.

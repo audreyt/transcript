@@ -370,7 +370,7 @@ Yu-Shan?
 Tseng.
 
 ### Audrey Tang:
-Tseng Yu-Shan. From my point of view, it’s actually really easy. I will just highlight the physical, the temporal, and the digital impressions on me personally. This is my actual office. We could have met there. I don’t why Shuyang brought you here...
+Tseng Yu-Shan. From my point of view, it’s actually really easy. I will just highlight the physical, the temporal, and the digital impressions on me personally. This is my actual office. We could have met there. I don’t know why Shuyang brought you here...
 
 > (laughter)
 
@@ -989,7 +989,7 @@ It just feels natural because definitely people see the World Wide Web and its d
 There’s also this implicit cognitive metaphor of the closed networks, the well-guarded, in the sense of one being a metaphor for the military law days, and the more free, hyperlinked world as a metaphor of the post-martial law days. That’s also, I think, in popular imagination.
 
 ### Jeffrey Bardzell:
-This is great. This is what we’ve intuited, but it’s nice to hear you say it, actually flash it out with some examples. When I think about open source, the way I’ve been taught to understand it, I think about it as an organizational strategy for IT development.
+This is great. This is what we’ve intuited, but it’s nice to hear you say it, actually flesh it out with some examples. When I think about open source, the way I’ve been taught to understand it, I think about it as an organizational strategy for IT development.
 
 ### Audrey Tang:
 That’s what we decided to market it, the free software movement.

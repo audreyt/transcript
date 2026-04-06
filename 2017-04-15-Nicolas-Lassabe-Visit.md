@@ -87,7 +87,7 @@ Have you been to Toulouse?
 No, but my friends did. They went there for the CNDP deliberation. They were going to construct a new train, something, and the Center of National Debate Public did a deliberation there. They wrote a very detailed account back, so it’s excellent.
 
 ### Audrey Tang:
-Before I became the minister, I used to do some open hardware with a friend, Jesse Vincent, on a a stenographic keyboard, a chording keyboard for Chinese input. We did the hardware design and fabrication.
+Before I became the minister, I used to do some open hardware with a friend, Jesse Vincent, on a stenographic keyboard, a chording keyboard for Chinese input. We did the hardware design and fabrication.
 
 ### Audrey Tang:
 I think it’s a great place to really bring people together, even for me I don’t really have any hardware experience. But I was able to find the hardware geeks at that corner. Of course, I’m very happy to help in any way.

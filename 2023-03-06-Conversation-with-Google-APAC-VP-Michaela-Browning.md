@@ -5,7 +5,7 @@ I'm here for a few days because we have our big Google for Taiwan event on Wedne
 
 We're really excited to be partnering with you. We're pleased to have the partnership of the publishing industry associations and others. That's very much due to the important partnership we've had with you.
 
-I'm excited because, having come from where I've come from, I think this is necessary to think about how is the news industry going to transition in a digital age, and we all need it so much. This is a terrific model, hopefully. We can learn from it, and we can get better and better at supporting the news industry because it's so impotent.
+I'm excited because, having come from where I've come from, I think this is necessary to think about how is the news industry going to transition in a digital age, and we all need it so much. This is a terrific model, hopefully. We can learn from it, and we can get better and better at supporting the news industry because it's so important.
 
 ### Audrey Tang:
 Well, Australian people started it off...

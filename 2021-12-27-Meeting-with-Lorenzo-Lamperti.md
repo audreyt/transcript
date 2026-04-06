@@ -3,7 +3,7 @@
 Minister Tang, digital and democracy, these two worlds, how can they fit together? How could you make it fit so well together?
 
 ### Audrey Tang:
-I filmed this entire clip about about bubble tea.
+I filmed this entire clip about bubble tea.
 
 > (laughter)
 
@@ -70,7 +70,7 @@ That's right. Yeah. We set it up on the first day of January.
 In Italy, we tend to think that giving more room to digital and technology could threaten the privacy. Is this true or there is a way to combine the two things. I mean, safety and also privacy?
 
 ### Audrey Tang:
-We call them privacy enhancing technologies, RPTs. There are technology that takes privacy away but there's also technology that adds back privacy or even design privacy as the beginning of the design.
+We call them privacy enhancing technologies, PETs. There are technology that takes privacy away but there's also technology that adds back privacy or even design privacy as the beginning of the design.
 
 For example, in Taiwan, when you scan the QR code and send an SMS the telecom carrier doesn't know what those 15 digits mean, is kept somewhere else. This QR code maker doesn't know which venue you're frequented.
 

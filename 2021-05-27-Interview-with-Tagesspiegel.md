@@ -272,7 +272,7 @@ You've often famously referred to yourself as a conservative anarchist.
 That's right.
 
 ### Cornelius Dieckmann:
-You were 35 when you became a minister in Taiwan, the youngest ever cabinet member in Taiwan. Isn't it in a way quite risky for a government to give a miistry to someone who calls themselves an anarchist?
+You were 35 when you became a minister in Taiwan, the youngest ever cabinet member in Taiwan. Isn't it in a way quite risky for a government to give a ministry to someone who calls themselves an anarchist?
 
 ### Audrey Tang:
 Fact check -- when Cheng, Li-Chiun (鄭麗君) became the youth head counselor, she was 34, a few months younger than when I joined the cabinet.

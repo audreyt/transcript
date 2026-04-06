@@ -388,7 +388,7 @@ Yes. Now, remaining on the middle layer of the stack, the call of our ministry â
 
 We are now the Ministry in charge of the cybersecurity industry, and also in charge of the industrial digital transformation. Both are our jobs. The business opportunities would be in looking at innovative ways to deliver on risk mitigating work, think of it like investment of resilience, redundancy and so on.
 
-We are currently also the ministry promoting zero-trust architceture using cloud identities and decentralized identifiers and so on. Of course, I understand that's more about W3C than ICANN, but the principles are the same.
+We are currently also the ministry promoting zero-trust architecture using cloud identities and decentralized identifiers and so on. Of course, I understand that's more about W3C than ICANN, but the principles are the same.
 
 When we talk about decentralized identifiers, it's not just abstract technical discussion, but actually, a real ministry-level test-bed or sandbox that we can offer to all those vendors to test the interoperability of the one Internet, actually, the one Internet of Trust, of Names, and so on.
 

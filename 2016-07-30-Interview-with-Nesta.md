@@ -124,7 +124,7 @@ It’s not. People generally find it a very interesting game to play.
 Can you tell me something a little bit about the user interface of the tool, and how that encourages people to participate, and particularly how you can see views converging and diverging on the matrix?
 
 ### Audrey Tang:
-Certainly. If you go to any Pol.is conversation, you see one sentiment of your fellow citizen. Of course, the first thing that you will see is whatever preparatory materials that we calculated to make it eye-catching for the first five seconds, and then provides just sufficient inform in the next 25 seconds.
+Certainly. If you go to any Pol.is conversation, you see one sentiment of your fellow citizen. Of course, the first thing that you will see is whatever preparatory materials that we calculated to make it eye-catching for the first five seconds, and then provides just sufficient information in the next 25 seconds.
 
 ### Theo Bass:
 Can you tell me a bit about how these online consultations improve the legitimacy of decision-making by the government ministry?

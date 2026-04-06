@@ -76,7 +76,7 @@ Sure. The mission, very simply put, is to provide digital resilience for all. We
 
 We sincerely believe that it is a top priority to adapt from the adversities: Cyberattack, disinformation crisis, the pandemic too. These crises have promoted a renewed interagency collaboration with a sense of urgency during the past three years or so, that unites what was previously different units within five different ministries and offices, to work in a weekly, or even hourly, interval, very closely together.
 
-Among which are — for example — the part of the National Communication Commission that handles non-geostationary orbit sattelites that are deployed like in Ukraine. Also the part of the National Development Council that specialize in data governance, and real time open data like the mask rationing map...
+Among which are — for example — the part of the National Communication Commission that handles non-geostationary orbit satellites that are deployed like in Ukraine. Also the part of the National Development Council that specialize in data governance, and real time open data like the mask rationing map...
 
 ### Josh Rogin:
 Like what?

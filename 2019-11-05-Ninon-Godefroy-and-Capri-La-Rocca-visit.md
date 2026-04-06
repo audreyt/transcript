@@ -108,7 +108,7 @@ Like in a “Harry Potter” movie.
 > (laughter)
 
 ### Capri La Rocca:
-We do make lots of references to Harry Porter.
+We do make lots of references to Harry Potter.
 
 ### Audrey Tang:
 That’s right. Taipei would present the grand prizes I guess.

@@ -9,7 +9,7 @@
 That is actually a good, concrete example to talk about, because that would involve merging two established governmental units, at least their front‑end websites, together, and establishing a common data exchange pipeline around disaster data.
 
 ### Audrey Tang:
-Also, we need to somehow demonstrate that it’s better if you open‑source the part of code which may suffer from performance problems, rather than keeping it tied to proprietary DBs and and throwing more hardware at it.
+Also, we need to somehow demonstrate that it’s better if you open‑source the part of code which may suffer from performance problems, rather than keeping it tied to proprietary DBs and throwing more hardware at it.
 
 ### Audrey Tang:
 There’s many dimensions of that operation, and the kick‑off meeting is at 2:00 PM.

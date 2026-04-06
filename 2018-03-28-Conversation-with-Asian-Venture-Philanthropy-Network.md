@@ -66,7 +66,7 @@ The society had some concerns because we have a European Union style privacy law
 But it’s out of the picture.
 
 ### Audrey Tang:
-Well, it needs innovation to protect privacy and enable use for socila good.
+Well, it needs innovation to protect privacy and enable use for social good.
 
 ### Audrey Tang:
 One of the reasons why we’re doing this presidential social innovation hackathon -- you may have heard of it -- is to get the public servants out of your comfort zone and propose something wildly impossible. With the blessing of the president, we’ve seen 108 proposals so far, we can turn plenty of them into a free mass incubation period and to get the data situation figured out.
