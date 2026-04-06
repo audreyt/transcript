@@ -287,21 +287,25 @@ jobs:
               }
               print(f"[debug] alternate for {rel_path}: {payload['alternate_filename']}")
               data = json.dumps(payload).encode("utf-8")
-              req = urllib.request.Request(
-                endpoint,
-                data=data,
-                method="PATCH",
-                headers={
-                  "Authorization": f"Bearer {token}",
-                  "Content-Type": "application/json; charset=utf-8",
-                  "User-Agent": "github-actions/1.0",
-                  "X-GitHub-Repository": "audreyt/transcript",
-                },
-              )
-
-              request_with_retry(req, f"PATCH {rel_path}")
+              headers = {
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json; charset=utf-8",
+                "User-Agent": "github-actions/1.0",
+                "X-GitHub-Repository": "audreyt/transcript",
+              }
+              req = urllib.request.Request(endpoint, data=data, method="PATCH", headers=headers)
+              try:
+                request_with_retry(req, f"PATCH {rel_path}")
+              except urllib.error.HTTPError as patch_err:
+                if patch_err.code == 404:
+                  print(f"PATCH {rel_path} got 404, falling back to POST")
+                  post_data = json.dumps(payload).encode("utf-8")
+                  post_req = urllib.request.Request(endpoint, data=post_data, method="POST", headers=headers)
+                  request_with_retry(post_req, f"POST (fallback) {rel_path}")
+                else:
+                  raise
             except Exception as e:
-              print(f"ERROR patching {rel_path}: {e}")
+              print(f"ERROR syncing {rel_path}: {e}")
               failures.append(rel_path)
 
           for rel_path in unique_removed_files:
