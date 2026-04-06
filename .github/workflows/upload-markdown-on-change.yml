@@ -27,7 +27,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: ${{ github.event_name == 'workflow_dispatch' && 0 || 5 }}
+          fetch-depth: ${{ github.event_name != 'workflow_dispatch' && 5 || 0 }}
 
       - name: Resolve token
         id: token
