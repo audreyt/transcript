@@ -195,7 +195,7 @@ You are perhaps an exception. Where should be the limits? It it important that w
 The rules help, like the GDPR. We’re happy to see that GDPR has been accepted and that one of the first largest cases by the CNIL on Google is being actively debated. It is a very good progression.
 
 ### Audrey Tang:
-Taiwan’s personal date protection act is modeled after the European one. We share the same tradition of preferring individual autonomy over state or capitalist control.
+Taiwan’s personal data protection act is modeled after the European one. We share the same tradition of preferring individual autonomy over state or capitalist control.
 
 ### Audrey Tang:
 Personally, speaking as a free software development advocate, all the system data I write, they function in flight mode. That means that even if you disconnect WiFi, if you disconnect 4G, they still work. That, basically, means we’re not holding people in hostage to having their data be surveilled in exchange for functionality. If they want to share their data, it is on a voluntary basis.

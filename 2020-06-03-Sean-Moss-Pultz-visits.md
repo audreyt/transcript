@@ -526,7 +526,7 @@ Of course. If you google for First Year of g0v, with a zero in it, you will find
 Are there other efforts like this that I should be aware of here in Taiwan, or is this the main you think that’s really…?
 
 ### Audrey Tang:
-There’s many ones like this, but g0v is particularly good because in g0v hackathons most of the other movements will show of to recruit. The next large one is the g0v summit 2020. That’s in Tainan.
+There’s many ones like this, but g0v is particularly good because in g0v hackathons most of the other movements will show up to recruit. The next large one is the g0v summit 2020. That’s in Tainan.
 
 ### Sean Moss-Pultz:
 When is this?

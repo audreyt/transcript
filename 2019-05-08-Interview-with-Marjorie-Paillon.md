@@ -415,7 +415,7 @@ They don’t even say email anymore. I think dropping the &quot;e-&quot; prefix,
 Is there anything you want to add to this conversation?
 
 ### Audrey Tang:
-I would just like to quote one of my favorite songs from Leona Cohen, that says, &quot;There is a crack in everything. And that is how the light gets in.&quot; While the current digital world has a lot of gaps, a lot of inequalities, injustices, those are actually the lights, the cracks that allow people to discover each other, and to find our common values.
+I would just like to quote one of my favorite songs from Leonard Cohen, that says, &quot;There is a crack in everything. And that is how the light gets in.&quot; While the current digital world has a lot of gaps, a lot of inequalities, injustices, those are actually the lights, the cracks that allow people to discover each other, and to find our common values.
 
 ### Audrey Tang:
 As you quoted Sir Tim Berners-Lee, we are here to rediscover the purpose of the web and let the web to be the connecting force that connects the forces together.

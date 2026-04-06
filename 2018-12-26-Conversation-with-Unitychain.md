@@ -464,7 +464,7 @@ Wonderful. That sounds great. We do have a lot of cool things under the hood tha
 We’re doing the right thing by sourcing out and connecting with people that are smarter than us, or more expert in different fields, bringing them together, and sourcing the right people.
 
 ### Jon Jones:
-I have one more thing. We’re thinking on the lines of when we should open source. We have this idea of seeding our network with ultimately good actors, hopefully. Our idea is to see the network with at least 30,000 nodes before we open source. That was the idea, to just protect us in the short run.
+I have one more thing. We’re thinking on the lines of when we should open source. We have this idea of seeding our network with ultimately good actors, hopefully. Our idea is to seed the network with at least 30,000 nodes before we open source. That was the idea, to just protect us in the short run.
 
 ### Audrey Tang:
 Closed beta and stuff.

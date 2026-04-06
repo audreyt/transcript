@@ -184,13 +184,13 @@ Yeah, and I think you pointed out something very important: This is the actor/be
 
 So, the previous stopgap measures against content/distribution doesn't matter anymore, really, because we now have a very powerful rephrasing engine that can rephrase literally anything to speak to anyone with nuance.
 
-And so, on the actor/behavior level, we see it as a cyberattack with the full kill chain, threat indicators, and things like that. So the question becomes, when this kind of foreign actor does this meddling behavior, and we receieve STIX for threats intelligence from our cybersecurity allies, how quickly can we take decisive action to stop the kill chain from activating?
+And so, on the actor/behavior level, we see it as a cyberattack with the full kill chain, threat indicators, and things like that. So the question becomes, when this kind of foreign actor does this meddling behavior, and we receive STIX for threats intelligence from our cybersecurity allies, how quickly can we take decisive action to stop the kill chain from activating?
 
 I think part of this is just to frame this as a cyberattack, not to frame this as a Section 230 or something like that. Because if you take that route, then you will be asking: is there a conscious being behind the keyboard? Which is impossible to prove, and we're down the rabbit hole.
 
 So the actor/behavior part is what we're focusing on. And to that end, we're basically flipping the default. Like in Taiwan, soon, in a few weeks, the SMS sent by the government will start going through a dedicated short number, 111. So it doesn't matter what the content is. If it does come from 111, then it's not a scam. So that's shifting left to the actor part.
 
-Or for example, if we do full provenance, meaning that I enumerate a list of my social media accounts and say, these are me, everything else is not. And then for the viewers and browsers everywhere to basically display prominently that this is trying to fake Audrey Tang because it's not part of the provenace manifest, then this is focusing on the actor/behavior link. So I think either flipping the default on the actor part or the actor/behavior link is what we should do.
+Or for example, if we do full provenance, meaning that I enumerate a list of my social media accounts and say, these are me, everything else is not. And then for the viewers and browsers everywhere to basically display prominently that this is trying to fake Audrey Tang because it's not part of the provenance manifest, then this is focusing on the actor/behavior link. So I think either flipping the default on the actor part or the actor/behavior link is what we should do.
 
 In summary, we need to adopt a decisively cybersecurity angle to it.
 
@@ -417,7 +417,7 @@ But the question is you know, so when you tell me that OpenAI has a solution...
 
 I don't think superalignment, that's to say putting care ethics into a chip, is a simple problem; my P(doom) is still high at the moment, and has been so since last December, which puts me squarely in the Tristan camp.
 
-However, I do see that they genuinely believe that they're working on something essential. It's a bit like the nuclear plant researchers and engineers, right? Taiwan stopped building the forth nuclear plant, but the scientists and engineers who worked on it probably feel they're doing very important work. So I think they really want a mechanism, crystallized into this idea that maybe they'll just make the first super-AI and it will be used to care for humanity.
+However, I do see that they genuinely believe that they're working on something essential. It's a bit like the nuclear plant researchers and engineers, right? Taiwan stopped building the fourth nuclear plant, but the scientists and engineers who worked on it probably feel they're doing very important work. So I think they really want a mechanism, crystallized into this idea that maybe they'll just make the first super-AI and it will be used to care for humanity.
 
 ### Lawrence Lessig:
 Right. But isn't there a similar level of code in the chips, just to imagine throttling capabilities to make it so that if things run awry, we can at least pull them down or at least slow them down. Or throttling capabilities and licensing capabilities so we could at least identify where these activities were happening?

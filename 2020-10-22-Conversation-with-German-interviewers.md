@@ -13,7 +13,7 @@ I think the CIVICUS Monitor, which is a human right group, still rates Taiwan as
 There’s three pillars in our digital social innovation – that’s fast, fair, and fun, very easy to remember. The fast part is a collective intelligence system. Last December, when Dr. Li Wenliang, the PRC whistleblower, shared on various social media that there’s seven new SARS cases in Wuhan, it gets immediately noticed by a very young doctor in Taiwan.
 
 ### Audrey Tang:
-She posted it on PPT, which is a Taiwanese equivalent of Reddit, except it’s run by a bunch of very young people for decades now because it’s part of National Taiwan University. Instead of answering to surveillance capitalism on one side or authoritarian intelligence on the other, this is just pure social sector intelligence.
+She posted it on PTT, which is a Taiwanese equivalent of Reddit, except it’s run by a bunch of very young people for decades now because it’s part of National Taiwan University. Instead of answering to surveillance capitalism on one side or authoritarian intelligence on the other, this is just pure social sector intelligence.
 
 ### Audrey Tang:
 They upvoted and collectively fact-checked Dr. Li Wenliang’s message so that the very next day, which is the first day of January, it convinced all the medical officers in Taiwan. We started health inspections for all the flights coming in from Wuhan to Taiwan. This shows how a vibrant free speech society can contribute as a advanced radar warning to the counter pandemic.
@@ -22,7 +22,7 @@ They upvoted and collectively fact-checked Dr. Li Wenliang’s message so that t
 We set up this Central Epidemic Command Center that gets this toll-free number, 1922. Of course, there’s chatbots and everything. We set up this toll-free number just so that people don’t have to use smartphones or any fancy technology. Anyone, any young people, can pick up their phone, call 1922.
 
 ### Audrey Tang:
-For example, back in April, there was a very young boy, I think, primary school, that called 1922 saying that he doesn’t want to go to school because we were rationing mask, all he had was pink medical mask and his classmates are wearing other colors, and they may laugh at him he said. The very next day, on the daily CBCC Press Conference, all the medical officers, regardless of gender, wore a pink medical mask.
+For example, back in April, there was a very young boy, I think, primary school, that called 1922 saying that he doesn’t want to go to school because we were rationing mask, all he had was pink medical mask and his classmates are wearing other colors, and they may laugh at him he said. The very next day, on the daily CECC Press Conference, all the medical officers, regardless of gender, wore a pink medical mask.
 
 ### Audrey Tang:
 Minister Chen, the commander even said the Pink Panther was his favorite childhood idol or something. Suddenly, the young boy become the most hip boy in his class \[laughs\] because only he has the color of the mask that the heroes wear. The fair part pertains to participatory accountability. When we’re rationing out the masks we work with the pharmacists, thousands of them that gets the trust from the local neighborhoods already.

@@ -141,7 +141,7 @@ Then, after that, just some innovations that we can take to the president or to 
 How about let’s accelerate them so that whatever they prototyped in Orchid Island or in Keelung, we give them a presidential award by the president, that is a micro projector, when turned on, it projects the president giving the award to the team.
 
 ### Audrey Tang:
-That’s a mandate from the president whatever they did in the past three months, we will make it international policy within the next 12 months, and so that’s also the acceleration part.
+That’s a mandate from the president whatever they did in the past three months, we will make it national policy within the next 12 months, and so that’s also the acceleration part.
 
 ### Audrey Tang:
 We mostly talk about the middle one in our previous discussions. But the first enabling condition and the second the political will is now also part of the Social Innovation Lab’s agenda.
@@ -767,7 +767,7 @@ Yes.
 What I’m trying to get to is that for many people, this is kind of defining characteristics of Taiwan. It’s not a language. We have more than 20 national languages now. It is not any particular culture.
 
 ### Audrey Tang:
-Lots of new immigrants now in Taiwan. Like there’s a Taiwanese citizen that’s going to vote for the first time. She’s Urkrainian and is becoming very visible ambassador of saying that Taiwan is about a democratic process and not about your skin color, and things like that.
+Lots of new immigrants now in Taiwan. Like there’s a Taiwanese citizen that’s going to vote for the first time. She’s Ukrainian and is becoming very visible ambassador of saying that Taiwan is about a democratic process and not about your skin color, and things like that.
 
 ### Audrey Tang:
 My point being that if this is the single thing that young people, and now increasingly older people of all different cultural lineages can agree on, this transculture point becomes not only a survival thing, but it becomes an identity, a kind of new identity.

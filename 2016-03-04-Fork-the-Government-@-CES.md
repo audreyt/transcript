@@ -230,7 +230,7 @@ I quit school and I helped to build the World Wide Web, because I took so much f
 I think this one, in particular, made a lasting impact that probably everybody knows about, is the Wikipedia project where people use the same open source idea, but use it to produce human knowledge.
 
 ### Audrey Tang:
-There is one common thing in all this different project I worked with, is that it’s facilitating a safe space, where nobody could censor each others’ speech or drive a tank, or something, to stop other people from talking. In this relatively safe space, we can learn from each other, and just try one a time and many times, until we have something that’s working.
+There is one common thing in all this different project I worked with, is that it’s facilitating a safe space, where nobody could censor each others’ speech or drive a tank, or something, to stop other people from talking. In this relatively safe space, we can learn from each other, and just try one at a time and many times, until we have something that’s working.
 
 ### Audrey Tang:
 Before Wikipedia, there were at least 10 different projects like Wikipedia that I participated in personally. None of them worked, but the Wikipedia somehow clicked. It’s OK, because over the Internet, it costs nothing to fail. It is not a scarcity economy. We just keep trying until we get something that is acceptable to the world.

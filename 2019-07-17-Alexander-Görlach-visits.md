@@ -518,7 +518,7 @@ If the ultimate payer is not a Taiwanese citizen, then it’s subject to $50 mil
 That is really like, from the America point of view, let’s say in the business model Facebook, that would be a huge infringement as in terms of saying, &quot;As long as I book an ad and I pay for it, I can display my ad.&quot;
 
 ### Audrey Tang：
-Facebook, just like Line, have signed on what they call they call the counter-disinformation best practice. They did agree on that.
+Facebook, just like Line, have signed on what they call the counter-disinformation best practice. They did agree on that.
 
 ### Alexander Görlach：
 Very cool. That’s the learning out of Cambridge Analytica I suppose.

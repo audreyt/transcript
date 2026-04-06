@@ -130,7 +130,7 @@ Now, once they flag it — and sufficient number of people do so — then we hav
 
 Focusing on debunking and adding context, we enlist professional comedians. In each and every ministry, there's professional public servants that are in charge engaging the public.
 
-The engagement or participation officers are sometimes comedians themselves, or they work closely with professional comedians. Like our Minister of Health and Welfare Preservation Office that lives was this very cute dog, Shiba Inu. The name is Zongchai.
+The engagement or participation officers are sometimes comedians themselves, or they work closely with professional comedians. Like our Minister of Health and Welfare Participation Office that lives was this very cute dog, Shiba Inu. The name is Zongchai.
 
 For example, when there's a disinformation about mask use, a very cute dog, a Shiba puts their food out their mouths and said, "Masks are there to protect your own face against your own unwashed hands."
 

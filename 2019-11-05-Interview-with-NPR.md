@@ -223,7 +223,7 @@ Most of Minister Lo’s work on this is just making sure that these concepts hel
 What kind of researchers would you need though to apply these concepts to everything that goes on the Internet from a news outlet?
 
 ### Audrey Tang:
-It’s not about news outlets. It’s more about, as I said, intentional, harmful untruth. People who have a premeditated intent to cause harm – diinformation – that is just illegal. It could also be spreading not disinformation but misleading information. It’s called malinformation – information operation and things like that.
+It’s not about news outlets. It’s more about, as I said, intentional, harmful untruth. People who have a premeditated intent to cause harm – disinformation – that is just illegal. It could also be spreading not disinformation but misleading information. It’s called malinformation – information operation and things like that.
 
 ### Audrey Tang:
 The idea is that, if we can prove in a court process the intent and harm, disinformation is just one of the many kinds of behaviors that could fulfill the intent to cause harm. Of course, this process is just like any other court-system cases, subject to public scrutiny.

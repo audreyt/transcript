@@ -1424,7 +1424,7 @@ Yeah, I think we’re good. Just one last question.
 We’ll do the last question.
 
 ### Audrey Tang:
-Sure. Cool. I’m Audrey Tang, a Digital Minister in charge of social innovation, open government and use engagement. I describe myself as a Taoist, which means that I follow the way, which follows the people.
+Sure. Cool. I’m Audrey Tang, a Digital Minister in charge of social innovation, open government and youth engagement. I describe myself as a Taoist, which means that I follow the way, which follows the people.
 
 ### Audrey Tang:
 I see myself as a channel, something empty like a clay that’s cut to make a pot and into which people can put their trustworthiness that they have toward one another. I hold a place to make sure that co-creation, the discovery of common values out of different positions can happen naturally.

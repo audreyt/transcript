@@ -124,7 +124,7 @@ Of course.
 Thank you. If we believe what we read, then your childhood was a little bit different to most. What are the things that stand out for you from your childhood?
 
 ### Audrey Tang:
-I was born with a heart defect that prevents most of the not only mobility, but also the ability to feel truly upset. My grandparents and my parents told me that if I feel especially upset, then because my heart cannot pump so much oxygen into the brain, my face will turn people, and then I will feint.
+I was born with a heart defect that prevents most of the not only mobility, but also the ability to feel truly upset. My grandparents and my parents told me that if I feel especially upset, then because my heart cannot pump so much oxygen into the brain, my face will turn purple, and then I will faint.
 
 ### Audrey Tang:
 Until I get the surgery when I was 12 years old, and that fixed the problem, the entire family knows that I really cannot feel upset, or extreme joy, or anything that makes my heart beat too much. I guess I remained calm more than most other children because of survival.

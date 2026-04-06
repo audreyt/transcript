@@ -102,7 +102,7 @@ The clarification work that's usually built by deliberation, which didn't use to
 
 Finally, the dedicated teams in each ministries, we call them participation officers. If you look at a participation officer, you'll find the materials regularly held deliberation workshops, where they serve as breakout group leaders to the issues that were raised by petitioner by other ministry that has nothing to do with their job.
 
-For example, the coastal guard will facilitate a tax filing system redesign, the tax agency would have chaired the breakout groups of, for example, the ocean, surfing and fishing policies. The idea is that the citizens feel that those preservation officers are on the side of citizens, because the coastal guard also filed their own tax and the tax agency person also fish.
+For example, the coastal guard will facilitate a tax filing system redesign, the tax agency would have chaired the breakout groups of, for example, the ocean, surfing and fishing policies. The idea is that the citizens feel that those participation officers are on the side of citizens, because the coastal guard also filed their own tax and the tax agency person also fish.
 
 Basically, they take the citizen side, but turn those more misinformed energy into power. It's like a motor that turns electricity outrage, or whatever, into direct action. Once it's turned into direct action, that there's nothing that still motivates people to share the misinformation because they know that they effect a change.
 

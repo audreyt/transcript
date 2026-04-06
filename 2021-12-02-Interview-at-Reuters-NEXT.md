@@ -29,7 +29,7 @@ I mean, you know there is constant pressure from China and especially the fact t
 
 ### Audrey Tang:
 
-I think this is the the first round of the Summit for Democracy, but it's not going to be the last. There will be, in the future, more summit gatherings for democracy.
+I think this is the first round of the Summit for Democracy, but it's not going to be the last. There will be, in the future, more summit gatherings for democracy.
 
 So for all the governments and peoples around the world who feel maybe slighted that they have not been invited as a participant, my suggestion is to double down on realizing democracy, so that maybe by the next round, we will be sharing the same stage.
 
@@ -51,7 +51,7 @@ Well as a digital minister, of course, it's natural for me to appear digitally a
 
 ### Ben Blanchard:
 
-Okay. Now, Minister, one of the the things that you are most well known for in Taiwan is about participatory democracy, about radical transparency and openness.
+Okay. Now, Minister, one of the things that you are most well known for in Taiwan is about participatory democracy, about radical transparency and openness.
 
 We obviously exist in a time of extreme disinformation on the Internet. The Taiwanese government complains frequently about disinformation that spreads in Taiwan and a lot of it they say comes from China.
 
@@ -69,7 +69,7 @@ So the alternate caption came from the 中央政法委长安剑 or the central p
 
 Instead of taking this message down, we just made sure that on the social networks and so on where this message is being spread there is this label and when you share it, that says you know this is sponsored by the 长安剑 as discovered by the Taiwan Fact Checking Center.
 
-So it's not to inhibit the virus of the mind, so to speak, but rather to make inoculation and immunization so that we develop kind of antibodies. It's like a mRNA strand -- to stretch the metaphor a little bit -- so that we can actually repackage this this information into something that enhance the resilience and immunity of the entire citizenry.
+So it's not to inhibit the virus of the mind, so to speak, but rather to make inoculation and immunization so that we develop kind of antibodies. It's like a mRNA strand -- to stretch the metaphor a little bit -- so that we can actually repackage this disinformation into something that enhance the resilience and immunity of the entire citizenry.
 
 We also use "humor over rumor," like the very cute spokes dog, Zong Chai, a shiba inu, so pretty much all the central academic command sunshine's counter disinformation posters are based on this very cute dog as an Internet meme basically, that spreads even faster than outrage.
 
@@ -77,7 +77,7 @@ We also use "humor over rumor," like the very cute spokes dog, Zong Chai, a shib
 
 A lot of this in Taiwan, obviously, is where it's a very free society here; we're a democracy with freedom of speech. People are very passionate users of Facebook, Instagram and Twitter.
 
-But China is becoming increasingly good at using these these platforms, which are of course ironically banned in China themselves, to sort of spread its message around the world.
+But China is becoming increasingly good at using these platforms, which are of course ironically banned in China themselves, to sort of spread its message around the world.
 
 We saw last week, for example, 胡锡进, the editor of the global times was busy attacking President Tsai on Twitter for meeting the Baltic lawmakers.
 
@@ -167,7 +167,7 @@ But if you look at our recent referenda discussions, it's quite obvious that, be
 
 This is actually the first time that we can treat referenda as the subject matters by themselves, instead of tied to particular election cycles about politicians or political parties.
 
-So, a culture around a more deliberative tone of democracy, to get a good enough consensus going, I think that is the the main challenge. We're starting now, with this current referendum, to start to build such a more conversational and deliberative culture.
+So, a culture around a more deliberative tone of democracy, to get a good enough consensus going, I think that is the main challenge. We're starting now, with this current referendum, to start to build such a more conversational and deliberative culture.
 
 The second challenge is people who don't even have a vote in the referendum or elections, people younger than 18, who are responsible for more than one quarter of citizens initiatives in our Join.gov.tw platform.
 

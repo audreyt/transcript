@@ -85,7 +85,7 @@ This optimism began when I was 15 years old. That was 1996. I told my teachers a
 I write to professors who just write back to me on their pre-prints, doing research. They don’t know I’m only 14 years old, so I’m doing research at the time. I said to my teachers, &quot;I can either be reading textbooks that are 10 years out of date or I can join, participate in creating knowledge that will be in the textbook 10 years afterwards.&quot;
 
 ### Audrey Tang:
-Surprising, all my teaches agreed with it. They faked my attendance records and I get to quit high school...
+Surprising, all my teachers agreed with it. They faked my attendance records and I get to quit high school...
 
 > (laughter)
 

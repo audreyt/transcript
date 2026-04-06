@@ -71,7 +71,7 @@ Starting in 2019, Taiwan became one of the first jurisdiction in which Facebook 
 This is one concrete example. There are many other examples, but I believe, like trade negotiations, if the citizens, the social sector sets the norm, it's much easier than the public sector unilaterally setting on the top-down measure.
 
 ### Masa Watanabe:
-Minister, what do you about the Big Tech like GAFA platform regulation issues?
+Minister, what do you think about the Big Tech like GAFA platform regulation issues?
 
 ### Audrey Tang:
 That's what I've just said. The GAFA, of course, adopt different polices in different jurisdictions. One of the employees who later on left Facebook civic integrity team would eventually speak to the media, and say that Facebook adopted a different civic integrity policy depending on how much social pressure they receive.

@@ -4,7 +4,7 @@
 Our research focus is on the probability of Taiwanese and Chinese reunification…
 
 ### Audrey Tang:
-Whoa — were they unified to being with?
+Whoa — were they unified to begin with?
 
 ### Audience Member:
 Excuse me?
@@ -511,7 +511,7 @@ Many long-held regulatory deadlocks, for example there was one about whether ass
 Anyway, for these things, these are solved on the spot. If they’re not solved, then the local people can propose it into the sandbox system, or the social innovation platform which would allow people focusing on similar sustainable goals to bond together, and to propose their idea directly to the President, to the Presidential Hackathon, which is like the top level.
 
 ### Audrey Tang:
-Every year the President gives out five award, it’s like a prototype fund, but the one that actually got the five winning spots gets a trophy form our President, the trophy looks something like this, but it’s a projector, there’s no prize money. When turned on, it projects the President handing a trophy to you, so it’s very meta, and each time are cross-sectorial.
+Every year the President gives out five award, it’s like a prototype fund, but the one that actually got the five winning spots gets a trophy from our President, the trophy looks something like this, but it’s a projector, there’s no prize money. When turned on, it projects the President handing a trophy to you, so it’s very meta, and each time are cross-sectorial.
 
 ### Audrey Tang:
 Each time the trophy gets turned on, their Director General will come up with budget, and their ministry will come to the regulatory and personnel adjustments, so every year we make five such bypasses into the regulatory idea, and that actually enhances the social innovation lab’s presence, because every year we took those five ideas that are then promised by the President to be integrated into the public service within a year.

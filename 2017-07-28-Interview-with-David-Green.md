@@ -184,7 +184,7 @@ For sure. To follow up on the question about working on it, when these laws are 
 That’s exactly right. It will happen right there on vTaiwan. We have a Digital Nation working group, comprised of many ministries. One subdivision, co-chaired by the head of the National Development Council and yours truly, is now working weekly to make sure that we will first review the data protection agency law proposal.
 
 ### Audrey Tang:
-I commissioned a research on whether it is actually allowed for our ministerial DPAs to praticipate in the APEC Cross Border Privacy Framework. \[laughs\] It’s like every ministry is a member, but does that actually work?
+I commissioned a research on whether it is actually allowed for our ministerial DPAs to participate in the APEC Cross Border Privacy Framework. \[laughs\] It’s like every ministry is a member, but does that actually work?
 
 ### Audrey Tang:
 If it doesn’t, we can perhaps consider the French model, where they have the justice system, the legislation system, the administration, as well as other sectors all join in a multi-stakeholder way to form a DPA.
@@ -193,7 +193,7 @@ If it doesn’t, we can perhaps consider the French model, where they have the j
 This, I think, is a pretty good method because just the ministries alone wouldn’t convince the legislators, and we have a separate agency for oversight, called the Corrective Yuan, which is a constitutional body. I think this redesign needs to happen in a way that involves all the stakeholders. Fortunately, we already have the vTaiwan platform to do this.
 
 ### Audrey Tang:
-After our DPA deliberation, we will then have a open data law deliberation, where we try to review our freedom of information laws, and also the laws on obtaining data, and the Charges and Fees lawor, and review those to see if we can make sure that &quot;open data by default&quot; needs to be not just regulation but a law. Or, if it doesn’t require a law, at least we can make sure those regulations are consistent with each other. That’s going to be our next step.
+After our DPA deliberation, we will then have a open data law deliberation, where we try to review our freedom of information laws, and also the laws on obtaining data, and the Charges and Fees law or, and review those to see if we can make sure that &quot;open data by default&quot; needs to be not just regulation but a law. Or, if it doesn’t require a law, at least we can make sure those regulations are consistent with each other. That’s going to be our next step.
 
 ### Audrey Tang:
 Then maybe we will move on to algorithmic transparency, or, as some stakeholders have argued, data localization -- or the rejection of data localization -- needs to be deliberated.

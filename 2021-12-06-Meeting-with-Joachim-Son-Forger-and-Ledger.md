@@ -160,7 +160,7 @@ You've shown me their convergence of interests between different agencies, to ad
 Of course when it's a smaller country, sometimes it's easier to conduct experiments. How come you ensure that because you have an eye on the different organizations, all ministries or...I need to understand more...
 
 ### Audrey Tang:
-Definitel.! Well, I'm a minister at large, one of nine that is working cross ministrially in the 32 ministries, each of them have a participation officer team.
+Definitely! Well, I'm a minister at large, one of nine that is working cross ministrially in the 32 ministries, each of them have a participation officer team.
 
 There's a vertical minister which of course for budget issues and regulation issues have a lot of silo mentality in it but there are issues that are fundamentally new. It could be e sport, actually this could be Ledger itself right! Many things that do not have a fixed per view that's already fixed within any particular home ministry or agency.
 
@@ -368,9 +368,9 @@ What I think is inspiring about your approach — and I thank you for taking the
 But it seems to me that you're asking what can we build right now that will — as you said — ease that transition or answer some of these key questions for our citizenry to make our our citizens more in power?
 
 ### Audrey Tang:
-Yep, that's a very fair summarization. I'm also   as is the norm — typing my contact and so on, and I think I'm happy to to continue the conversation, really. So I am aware that we can't afford Twitter right now. It has not completed its Web3 transition, but still, I think it's one of the places that's at least open to such possibilities.
+Yep, that's a very fair summarization. I'm also   as is the norm — typing my contact and so on, and I think I'm happy to continue the conversation, really. So I am aware that we can't afford Twitter right now. It has not completed its Web3 transition, but still, I think it's one of the places that's at least open to such possibilities.
 
-Twitter publicly said it is also willing to entertain such truly decentralized configurations and so on. So I'm not seeing Web3 as a kind of completely taking down the Web2 giants, just like Web2wasn't about taking out with the Web1 giants.
+Twitter publicly said it is also willing to entertain such truly decentralized configurations and so on. So I'm not seeing Web3 as a kind of completely taking down the Web2 giants, just like Web2 wasn't about taking out with the Web1 giants.
 
 It's about making sure that abuses are not self perpetuating and that genuinely better configurations can emerge on a quicker time frame, and I believe that is really essential. So, yeah, I'm really happy to explore together on this space, and I see some Web2 giants.
 
@@ -381,13 +381,13 @@ But I think there's sufficient amount of rough consensus in those Web2 configura
 > (pause)
 
 ### Pascal Gauthier:
-Wonderful, Audrey, thank you so much. My last question would be, is it OK to to send you as a as a gift one of our devices so you can play with it, open it, and see what it's like?
+Wonderful, Audrey, thank you so much. My last question would be, is it OK to send you as a gift one of our devices so you can play with it, open it, and see what it's like?
 
 ### Audrey Tang:
 Well, if it exceeds 500 dollars NTD, then of course I can't accept. But if it's less than that, I still prefer to buy it myself. But anyway, this is our kind of ethics guidelines I just iterated to you so we can figure it out again.
 
 ### Pascal Gauthier:
-I understand. it's a lot less than than 500. It's actually under $60, so it's a really a small thing, and it's always best to use the technology to understand what it does. Our product is better understood when used. But now you get the website Ledger that comes...
+I understand. it's a lot less than 500. It's actually under $60, so it's a really a small thing, and it's always best to use the technology to understand what it does. Our product is better understood when used. But now you get the website Ledger that comes...
 
 ### Audrey Tang:
 Well, $60 USD is around 2000 NT dollars. So that's above our ethics guidelines. So I prefer to buy it myself, if possible. We can figure it out over email.

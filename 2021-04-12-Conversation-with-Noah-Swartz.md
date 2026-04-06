@@ -42,7 +42,7 @@ The governance principle basically said that anyone who's not a user of PTT can'
 
 By extension, just like the university campus, the PTT is a campus in the digital space. NTU is liberal enough in that they allow the civic sector, the social sector to take de facto control.
 
-The PTT doesn't have to pay for the legal support or things like that in order to establish itself as a freedom of speech space. The MTU subsidized that without making any demands to the PTT. It's a patronage initiative.
+The PTT doesn't have to pay for the legal support or things like that in order to establish itself as a freedom of speech space. The NTU subsidized that without making any demands to the PTT. It's a patronage initiative.
 
 We can talk about why that came about, but the gist is that the bedrock of Taiwanese social sector is founded upon such principles that public deliberation should belong to the civic or the social sector. Our digital infrastructure, including the laws interpretations, are made to match that reality.
 

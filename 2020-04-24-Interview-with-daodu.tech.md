@@ -58,7 +58,7 @@ The same social media whistleblowing gets reposted on PTT, which is Taiwan’s e
 And within 24 hours, we started getting news that there was health inspections of all passengers that flew from Wuhan to Taiwan. So the response started last year. Unlike many other countries which started this year. So we’re really grateful to Dr. Li Wenliang, of the whistleblowing.
 
 ### Audrey Tang:
-My role during this, in additional to social innovation plan to counter the coronavirus, is to ensure not only the fast response, but also the fairness of mask distribution.
+My role during this, in addition to social innovation plan to counter the coronavirus, is to ensure not only the fast response, but also the fairness of mask distribution.
 
 ### Audrey Tang:
 And precisely as you said in the very beginning, when convenience stores started selling the masks, there was a limitation of how many masks a person can buy. But there was no way to verify if the same person just hopped to the next convenience store. If people know that convenience stores received their mask supply by 2 am, actually by 3 am, they ride scooters and buy all the available masks. Because there’s no way for a convenience store to verify it’s not the same person across multiple purchases.

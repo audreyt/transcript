@@ -309,7 +309,7 @@ That, to my understanding, pretty much sounds like agile software development, w
 That’s exactly right. We run on a weekly basis where we have stand-up meetings every day, and then, also, offline and online Kanban boards, notes, and things like that.
 
 ### Audrey Tang:
-We used to record our roadmap in business oragamis, so all those tools that people use in startup and on the weekly iteration cycle is mostly how I run this Public Digital Innovation Space.
+We used to record our roadmap in business origamis, so all those tools that people use in startup and on the weekly iteration cycle is mostly how I run this Public Digital Innovation Space.
 
 ### Fridtjof Detzner:
 That sounds great, but I could hardly imagine with people that are not used to software development, that kind of working method, isn’t it hard to work with them?

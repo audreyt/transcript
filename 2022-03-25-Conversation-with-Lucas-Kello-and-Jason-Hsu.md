@@ -577,7 +577,7 @@ Right. The thing is that it's by necessity, because if you are a resident but no
 
 Which is why I stressed the importance of autonomy of those administrations. It's quite different from the Estonian model, is what I'm trying to say. The Estonian model is more similar to the Taipei municipality model, which is reasonable... Because of similar population? [laughs]
 
-If you are in the Taipei municipality, you do have acces sto TaipeiPASS and they're explicitly modeled after Estonia. In the national government's case, it's quite different, so prepare for cultural differences.
+If you are in the Taipei municipality, you do have access to TaipeiPASS and they're explicitly modeled after Estonia. In the national government's case, it's quite different, so prepare for cultural differences.
 
 ### Lucas Kello:
 What you're saying reminds me of a small project that we ran actually with Andrew Martin. This was several years ago. Looking at the way the different countries had structured their national identification system.

@@ -294,7 +294,7 @@ Awesome. Anything you'd like to add?
 ### Jeremy Grant:
 No, I think Andrew covered it pretty well. My role is I used to lead the digital identity team at NIST and also led the Obama administration's national strategy for trust and identities in cyberspace.
 
-My role with FIDO — six years now, I think — has been as an advisor, helping them with government engagement across the globe, in part because — how's s the best way to say it? — FIDO changed the paradigm.
+My role with FIDO — six years now, I think — has been as an advisor, helping them with government engagement across the globe, in part because — how's the best way to say it? — FIDO changed the paradigm.
 
 There were a lot of regulations where pointed to either one time pass codes, they pointed to PKI. FIDO was something that was new and different. There's a lot of work to do to run around the world and educate governments.
 

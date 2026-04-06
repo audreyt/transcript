@@ -63,7 +63,7 @@ Yeah, that’s right. This is a designer covering on top of it to make it more b
 > (laughter)
 
 ### Audrey Tang:
-This is also good for creative industry. What we’re getting at is that this builds a new culture, because it’s a social signal that I’m watching my hands properly, I’m not touching my face, and it reminds other people to do the same.
+This is also good for creative industry. What we’re getting at is that this builds a new culture, because it’s a social signal that I’m washing my hands properly, I’m not touching my face, and it reminds other people to do the same.
 
 ### Audrey Tang:
 This kind of social innovation is backed by the Made in Taiwan infrastructure that we’re heavily exporting to the entire world. I think that will lead not only to the ordering of the masks themselves as products, but actually the know-how of how to build such a logistic chain in a way that is essentially fully automated.

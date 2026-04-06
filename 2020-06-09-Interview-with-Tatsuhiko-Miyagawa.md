@@ -652,7 +652,7 @@ Of course, we need a community, and a community is not just human beings, but al
 We are just stumbling in a new field and just trying to find your way, because then you get to focus on the issues that people think are most pertinent at a day instead of things that you read from the outdated textbooks, so just learn from the state of the art. If you cannot comprehend the state of the art, there’s always a lot of articles, blog posts, and things like that that you can chase.
 
 ### Audrey Tang:
-As long as you maintain an open mind and not too proud to be corrected all the time – like I did when I was at the Haskell channel during Perl 6 – then you it’ll be fine. It just took me, I think, a month or so to learn sufficient category theory so that I can implement Perl 6 in Haskell.
+As long as you maintain an open mind and not too proud to be corrected all the time – like I did when I was at the Haskell channel during Perl 6 – then it’ll be fine. It just took me, I think, a month or so to learn sufficient category theory so that I can implement Perl 6 in Haskell.
 
 ### Tatsuhiko Miyagawa:
 \[laughs\] Do you usually take that approach when you learn new things? I think writing a Perl 6 compiler was a very interesting approach to learn Haskell. When you learn some new language, do you read books first, or do you start writing the code and try to understand the language?

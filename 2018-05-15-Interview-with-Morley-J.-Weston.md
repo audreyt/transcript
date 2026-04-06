@@ -241,7 +241,7 @@ We’re going to have a what we call a regulatory co-creation environment, where
 Great.
 
 ### Audrey Tang:
-We’ll be updating our plans in AI Taiwan. That’s ai.taiwan.gov.tw. There are many other web pages, smart.taiwain.gov.tw, bio.taiwain.gov.tw. That all ends in gov.tw. It’s using a more modern aesthetics. We’re very aware of that. We’re working on that, too.
+We’ll be updating our plans in AI Taiwan. That’s ai.taiwan.gov.tw. There are many other web pages, smart.taiwan.gov.tw, bio.taiwan.gov.tw. That all ends in gov.tw. It’s using a more modern aesthetics. We’re very aware of that. We’re working on that, too.
 
 > (laughter)
 

@@ -334,7 +334,7 @@ They are going to subsidize.
 ### Kimberly Rogovin:
 There's not enough money to support it. The Fisheries Agency is providing 10 percent subsidies for the whole fleet, so that's 110 of the 1,100 fishing vessels. We're saying that's not enough, and it definitely needs to go further than that.
 
-We also know that some vessels are already providing WiFi, even some of the smaller vessels are already providing WiFi. We talked so far to one satellite WiFi company called Samsung here, and they told us about the costs. They're not as high as we as we thought.
+We also know that some vessels are already providing WiFi, even some of the smaller vessels are already providing WiFi. We talked so far to one satellite WiFi company called Samsung here, and they told us about the costs. They're not as high as we thought.
 
 ### Audrey Tang:
 Because there's competition now.
@@ -732,7 +732,7 @@ That's very interesting.
 ### Audrey Tang:
 One of the contributions the ministry may make is over the course of this year and next to try out such mobile satellite receivers for secure communication.
 
-Already we are allocating 700 satellite receivers around Taiwan for the emergency communication when large earthquakes break our submarine cables for example, natural or unnaturalearthquakes... We are going to remain connected.
+Already we are allocating 700 satellite receivers around Taiwan for the emergency communication when large earthquakes break our submarine cables for example, natural or unnatural earthquakes... We are going to remain connected.
 
 ### Female Participant:
 Regardless of what?

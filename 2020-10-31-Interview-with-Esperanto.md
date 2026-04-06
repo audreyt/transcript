@@ -860,7 +860,7 @@ Do you have a date set, or are you still coordinating…
 We already run two pilots around open contracting because procurement is something that comes across all jurisdictions. The easier work of international track, thanks to the contribution of the Open Contracting Partnership, is already in place. If you check out the Presidential Hackathon website, there’s a international track for the past couple years, and you can check out the winning team.
 
 ### Hanako Zhang:
-Wow. How do you see these initiatives expanding in the future? What do you imagine and wwhat do you wish for?
+Wow. How do you see these initiatives expanding in the future? What do you imagine and what do you wish for?
 
 ### Audrey Tang:
 In a couple ways. First, internationally, people will realize it’s easier and less risk if you consult people what’s the social norm before you implement any top-down policy. That’s why we’re running cybersecurity audits and all that to our pol.is instance, which is a open-source tool developed initially in Seattle. \[laughs\]

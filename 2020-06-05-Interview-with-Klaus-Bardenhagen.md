@@ -282,7 +282,7 @@ Yeah, the last time was to Miaoli.
 Who did you meet there? What did you learn there at that time?
 
 ### Audrey Tang:
-As to who I met actually there’s a full trasncript. You can find all of it on the Social Innovation Platform. If you go to the Social Innovation Tool and click this Miaoli, you see exactly, precisely who I met, what questions they made, and how…
+As to who I met actually there’s a full transcript. You can find all of it on the Social Innovation Platform. If you go to the Social Innovation Tool and click this Miaoli, you see exactly, precisely who I met, what questions they made, and how…
 
 ### Klaus Bardenhagen:
 I’m asking for your personal opinion.
@@ -908,7 +908,7 @@ Another big appointment for you this week was the consumption voucher implementa
 Yeah, stimulus voucher.
 
 ### Klaus Bardenhagen:
-Stimulus voucher implementation press conference. Are you satisfied with the way things are going? You are not involved in everything, but it’s pulling quite a lot of, an usual amount of criticism, don’t you think so?
+Stimulus voucher implementation press conference. Are you satisfied with the way things are going? You are not involved in everything, but it’s pulling quite a lot of, an unusual amount of criticism, don’t you think so?
 
 ### Audrey Tang:
 No, it’s…

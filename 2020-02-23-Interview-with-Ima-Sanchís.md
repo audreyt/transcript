@@ -545,7 +545,7 @@ The last part, I’m sorry?
 The more participatory and transparent it is, the more legitimate the movement is day by day.
 
 ### Audrey Tang：
-After three weeks, all our demand were accepted by the head of parliament. It’s one of the rear occupy that is victorious.
+After three weeks, all our demand were accepted by the head of parliament. It’s one of the rare occupy that is victorious.
 
 ### Ima Sanchís：
 What you’re saying is that this is not about social movements, about more transparency, this is about a garden? Or, is this garden a metaphor or a symbol?

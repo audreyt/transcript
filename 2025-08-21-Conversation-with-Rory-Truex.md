@@ -84,7 +84,7 @@ One interesting feature: you worked in government while proclaiming to be an ana
 
 I still am an anarchist. *Anarchism* is counter‑coercion, not anti‑governance. If you have a good *multi‑stakeholder* institution — the way the Internet is governed — Kropotkin would be happy. I am against top‑down, coercive takedowns, shutdowns, lockdowns.
 
-In Taiwan the people understand I am at a Lagrange point between social movements and government — working with government, with the people, not for them. I resist capture by either orbit. My focus is on civic‑care capacity. I do not have a platform other than the platform. I do not need top‑down coercion because I do no thave a *pre‑concluded* policy outcome — only a procedural outcome: people’s ability to be *attentive, responsible, competent, responsive, in solidarity*. That shields me from partisan capture and polarization.
+In Taiwan the people understand I am at a Lagrange point between social movements and government — working with government, with the people, not for them. I resist capture by either orbit. My focus is on civic‑care capacity. I do not have a platform other than the platform. I do not need top‑down coercion because I do not have a *pre‑concluded* policy outcome — only a procedural outcome: people’s ability to be *attentive, responsible, competent, responsive, in solidarity*. That shields me from partisan capture and polarization.
 
 ### Rory Truex:
 
@@ -204,7 +204,7 @@ We need people to self‑organize. American civil society has declined for 40–
 
 ### Audrey Tang:
 
-Try Partifu l — an app that makes it trivial to host house parties; it amplifies in‑person connection. In Taiwan we are among the least lonely societies by various measures: community colleges, vibrant spiritual practices (I am a Taoist), the second‑most religiously diverse society. Highly educated people often practice spirituality publicly. That strengthens the third sector.
+Try Partiful — an app that makes it trivial to host house parties; it amplifies in‑person connection. In Taiwan we are among the least lonely societies by various measures: community colleges, vibrant spiritual practices (I am a Taoist), the second‑most religiously diverse society. Highly educated people often practice spirituality publicly. That strengthens the third sector.
 
 I was also called the minister of Plurality. I believe the digital space can connect otherwise unrelated people — and those connections translate offline. The two go together.
 

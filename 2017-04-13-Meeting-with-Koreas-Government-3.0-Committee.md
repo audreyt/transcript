@@ -45,7 +45,7 @@ The PDIS has hired a consultant with work experience at the U.K. Policy Lab to s
 Does Korea model its public service reforms on similar programs in other countries? What are some specific objectives over the next one to three years for reforming administrative efficiency?
 
 ### Gov 3.0：
-Korea takes examples from many countries like the U.S. and the U.K., especially regarding open data. Unlike Taiwan, we do not engage outside experts, but we do maintain frequent contact and experiencial exchanges with other countries.
+Korea takes examples from many countries like the U.S. and the U.K., especially regarding open data. Unlike Taiwan, we do not engage outside experts, but we do maintain frequent contact and experiential exchanges with other countries.
 
 ### Gov 3.0：
 Open data can be implemented in a very short time, but data-driven policy will take longer and depends on the abilities of civil servants. So we’d rather continue promoting these ideas in existing projects than start new projects.

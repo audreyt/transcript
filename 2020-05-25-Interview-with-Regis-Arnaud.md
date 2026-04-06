@@ -298,7 +298,7 @@ What you mean to say is that it’s not seen as rude. If someone in the drugstor
 That’s right, because they’re reminding you that this is a place with a high population density. Perhaps it’s not possible to keep a social distance.
 
 ### Audrey Tang:
-This is like saying, “It’s raining. Why don’t you bring out your umbrella?” or “The pollution level is high today. Why don’t you out on your mask?” This is something that people already do to one another. It’s a friendly reminder to take care of your own health.
+This is like saying, “It’s raining. Why don’t you bring out your umbrella?” or “The pollution level is high today. Why don’t you put on your mask?” This is something that people already do to one another. It’s a friendly reminder to take care of your own health.
 
 ### Regis Arnaud:
 In Taiwan there is no debate about efficiency of masks?

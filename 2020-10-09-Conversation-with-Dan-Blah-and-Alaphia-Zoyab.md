@@ -569,7 +569,7 @@ Old, tried and true primitives, or deep learning and stuff, but with a good math
 It’s a good first test toward auditability of end to end and forward secrecy in communication, because that’s what people care about. It’s that they will not be eavesdropped in the future. That sounds wrong, like “Tenet.” Anyway, you know what I mean.
 
 ### Dan Blah:
-I was just going to add a couple weird antidotes. One is like where functional programming, functional machine learning, functional algorithms built, I think that that’s like…
+I was just going to add a couple weird anecdotes. One is like where functional programming, functional machine learning, functional algorithms built, I think that that’s like…
 
 ### Dan Blah:
 Then I was just extend that, Alaphia, to one of the things that is a nugget that’s been in the back of my head with the Lando project, which you got a brief introduction to is how do you do functional legislating in the same way?

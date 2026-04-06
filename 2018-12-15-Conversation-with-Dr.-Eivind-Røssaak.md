@@ -4,7 +4,7 @@
 Should I start? My name is Eivind Røssaak. I work as a researcher at the National Library of Norway. I think we’re one of the few national libraries in the world to have a distinguished research section. We take part in national research projects in Norway. The current project is called &quot;Digitization and Diversity&quot;, in cooperation with the Oslo Business School among others.
 
 ### Eivind Røssaak：
-We look into the transformation of culture and media industries in Norway after digitization, as we call it, in a broadest possible sense. We investigate the book industry, the newspaper industry, the book industry, libraries and museums, and finally the cinema industry. We’re a team of about 20 researchers.
+We look into the transformation of culture and media industries in Norway after digitization, as we call it, in a broadest possible sense. We investigate the book industry, the newspaper industry, libraries and museums, and finally the cinema industry. We’re a team of about 20 researchers.
 
 ### Eivind Røssaak：
 Here today, I represent them, and I told them I would hopefully be able to meet you. They’re very curious and very interested in both your role, what a person like you are able to do within a government structure, so to speak, and how this set-up can also possibly inspire other countries.
@@ -610,7 +610,7 @@ Of course. As you can see, there’s only three rumors that’s not yet replied.
 At this particular moment, there is usually about...This one is very popular, for some reason. No, not this one, the 11 people one, which is true, actually. \[laughs\] This one is also very popular. It’s about when someone have a cardiac arrest, you should use a bow tie or a tie, actually, to fix the issue. It’s actually misinformation.
 
 ### Audrey Tang：
-It’s actually wrong, and it shows you exactly how it’s wrong. If you just just teach your friends to flag those, the bot can get back to you, and say whether it’s true or not. Some of it is true, it’s just very sensational. Some of it is false, and then you don’t have to do the explaining. It doesn’t harm your social relationship with your Line friends.
+It’s actually wrong, and it shows you exactly how it’s wrong. If you just teach your friends to flag those, the bot can get back to you, and say whether it’s true or not. Some of it is true, it’s just very sensational. Some of it is false, and then you don’t have to do the explaining. It doesn’t harm your social relationship with your Line friends.
 
 ### Jing-Yue Yeh：
 That’s good. The second question was, all the issues will be published on the Facebook, on the website, on the Internet before the law has become law? Every stage will be open?

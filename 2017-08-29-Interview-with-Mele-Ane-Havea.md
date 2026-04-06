@@ -61,7 +61,7 @@ Oh, OK. Awesome. I think Taiwan is really interesting because we’re a very you
 My generation is the first generation to enjoy freedom of speech, freedom of assembly. My parents’ generation, they can’t really do this. When they were university students there was still martial law going on. We’re really new to this democracy thing.
 
 ### Audrey Tang:
-Interestingly, they were the first generation to direct election of the president of Taiwan, and also the first generation to do interconnectivity, to do ICT-based development because the World Wide Woeb came in ’96. It was also the year where we had our first presidential election.
+Interestingly, they were the first generation to direct election of the president of Taiwan, and also the first generation to do interconnectivity, to do ICT-based development because the World Wide Web came in ’96. It was also the year where we had our first presidential election.
 
 ### Audrey Tang:
 Instead of in many older democracies where there are people working on the dominance and people working on innovation, and they don’t really consider them as the same tribe, here in Taiwan I’ve seen a bunch of people doing democratic innovations and ICT innovations. I think that’s kind of special here in Taiwan.

@@ -979,7 +979,7 @@ OK.
 What about, Audrey, if you tell us about what the whole pol.is platform means in simple terms, in the sense that it can bring people with very different views, who think that they’re enemies, actually find common ground.
 
 ### Audrey Tang:
-That’s right. You just put it verywell.
+That’s right. You just put it very well.
 
 ### Shiroma Silva:
 If you could just…Yeah, you need to say it.

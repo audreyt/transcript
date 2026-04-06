@@ -133,7 +133,7 @@ We have a tendency to isolate them and think of them as autonomous units. But I 
 Part of the United Front?
 
 ### Russell Hsiao:
-Right, where United Front groups are actually advertising \[laughs\] on those meida outlets and how they censor information about the protests.
+Right, where United Front groups are actually advertising \[laughs\] on those media outlets and how they censor information about the protests.
 
 ### Russell Hsiao:
 Again, it’s important to look at this holistically. Oftentimes, we have a tendency to look at these in very siloed ways. When we look at it more holistically, we appreciate much more of the implication.

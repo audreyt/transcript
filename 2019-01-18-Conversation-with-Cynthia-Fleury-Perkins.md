@@ -646,7 +646,7 @@ It’s very interesting that they all are thinking of how to engage with a new g
 I think just by lowering the cost to be accountable, it is by itself a significant contribution.
 
 ### Audrey Tang:
-Even if the telescope is still dusty, we’ll just keep making knew ones. \[laughs\].
+Even if the telescope is still dusty, we’ll just keep making new ones. \[laughs\].
 
 ### Cynthia Fleury-Perkins:
 You think you will come back during the national debate in Paris or no? You don’t know yet?

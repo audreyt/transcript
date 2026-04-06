@@ -106,7 +106,7 @@ It’s synthetic.
 It’s synthetic, but people will believe a meme if they see one image.
 
 ### Audrey Tang:
-They won’t neccessarily believe a meme. They do share the meme, different idea.
+They won’t necessarily believe a meme. They do share the meme, different idea.
 
 ### Raymond Zhong:
 OK, but they’re willing to share it.

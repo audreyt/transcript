@@ -134,7 +134,7 @@ Budget.Taipei is this whole new thing.
 Yes, we’ve seen it.
 
 ### Audrey Tang：
-This is the classical open spending visualization. Then you can drill down to each of those details. Then this corresponds to the original projects, desciring how the plan came from, and then it goes back to a discussion forum.
+This is the classical open spending visualization. Then you can drill down to each of those details. Then this corresponds to the original projects, describing how the plan came from, and then it goes back to a discussion forum.
 
 ### Audrey Tang：
 The main innovation here is to have each budget item be a discussion area, and then have the public servant carrying this to go here. They respond directly, instead of through an intermediary, which may have any kind of distortions.
@@ -275,7 +275,7 @@ Or, you can have a free license, fitting the open definition, but with terrible 
 Strictly, the definition of open data is that it’s under a license that is open and it is machine readable.
 
 ### Audrey Tang：
-I thought it must also provide access to people. (Seciton 1.2 of Open Definition)
+I thought it must also provide access to people. (Section 1.2 of Open Definition)
 
 ### Rufus Pollock：
 No, that’s not a requirement. First of all, that would be incredibly difficult. Strictly, the machine readable definition can always be debated a bit. For example, you gave a really great example before. Is DocX a machine‑readable format, for example, for tabular data?
@@ -404,7 +404,7 @@ But it wasn’t free to use. For me, that usage of &quot;open&quot; is massively
 I think we’re on the same page. When we say &quot;OpenAPI,&quot; we meant an API format that is open. That’s the definition part.
 
 ### Rufus Pollock：
-Let’s not say &quot;the OpenAPI format.&quot; Let’ just say &quot;the OpenAPI definition.&quot;
+Let’s not say &quot;the OpenAPI format.&quot; Let’s just say &quot;the OpenAPI definition.&quot;
 
 ### Audrey Tang：
 Then this says nothing about the license nor the access.
@@ -835,7 +835,7 @@ Absolutely. It’s also a great point you just made, here, which is by having th
 By the second year of this integration running, we expect that the revision here will be relatively solidified. Then, once it does that, we basically take a snapshot saying, &quot;OK, now we know these views are free of privacy issues, FOIA‑compatible.&quot;
 
 ### Audrey Tang：
-Then the checkbox, what I mentioned before, can be checked. Then, we take this, and then make an open data repository out of the now‑frozen part of this. Then this switches to this scenario, where it’s not depenent on the original data store anymore
+Then the checkbox, what I mentioned before, can be checked. Then, we take this, and then make an open data repository out of the now‑frozen part of this. Then this switches to this scenario, where it’s not dependent on the original data store anymore
 
 ### Rufus Pollock：
 Even better, this one should not be coming from their API that you take the frozen, if possible.
@@ -1018,7 +1018,7 @@ For example here, they have no tests, clearly that the data publish each month..
 Yes. The NDC already is working on automatic checks for simple things like this...
 
 ### Rufus Pollock：
-The other thing you’re probable encountering is the human aspect of data maintanence.
+The other thing you’re probable encountering is the human aspect of data maintenance.
 
 ### Rufus Pollock：
 This has been amazing because also I’m aware of time, and we all run out of time.
@@ -1638,7 +1638,7 @@ It’s not going to be a public event. Many people must be in the policy, PhD ca
 No problem.
 
 ### Rufus Pollock：
-I’m here until next Wednesday. Next Tuesday, Wednesday. If tere’s anything you want to follow up on let me know. This has been very, a privilege to meet you.
+I’m here until next Wednesday. Next Tuesday, Wednesday. If there’s anything you want to follow up on let me know. This has been very, a privilege to meet you.
 
 ### Audrey Tang：
 Sure. Let me just say a final thing.

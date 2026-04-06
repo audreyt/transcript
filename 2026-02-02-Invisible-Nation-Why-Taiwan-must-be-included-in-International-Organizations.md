@@ -16,7 +16,7 @@ I’m also thrilled to be joined by Michael Fern, who’s become a friend and is
 
 Michael made a very moving short video, which is on my Substack and which I will reshare [(linked here)](https://vanessahope.substack.com/p/27-june-23-2024), about UN General Assembly Resolution 2758—how it’s been misused, and why Taiwan really should be included in the UN.
 
-Global governance is at a crossroads, and the world is witnessing escalating geopolitical fragmentation—from Russia’s nuclear threats to China’s intentions toward Taiwan, to the unraveling of the Western alliance under America’s now chaotic turn. At this moment of uncertainty, Taiwan’s exclusion from major international organizations poses a defining question for the future of global legitimacy. This hopeful conversa tion envisions what a more inclusive, plural, and effective international order might look like—one that recognizes contribution, not coercion, as the basis of participation.
+Global governance is at a crossroads, and the world is witnessing escalating geopolitical fragmentation—from Russia’s nuclear threats to China’s intentions toward Taiwan, to the unraveling of the Western alliance under America’s now chaotic turn. At this moment of uncertainty, Taiwan’s exclusion from major international organizations poses a defining question for the future of global legitimacy. This hopeful conversation envisions what a more inclusive, plural, and effective international order might look like—one that recognizes contribution, not coercion, as the basis of participation.
 
 Thank you both for being here. Thank you, Audrey. Thank you, Michael.
 

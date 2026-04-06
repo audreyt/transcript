@@ -283,7 +283,7 @@ The Ministry of Education starts with something that the parents understand, lik
 > (laughter)
 
 ### Audrey Tang:
-…commly translated here as “the girl with a thousand faces”, \[laughs\] to explain. Of course, then it starts to build their own like moe moe branding.
+…commonly translated here as “the girl with a thousand faces”, \[laughs\] to explain. Of course, then it starts to build their own like moe moe branding.
 
 > (laughter)
 
@@ -588,7 +588,7 @@ Delinquency.
 > (non-English speech)
 
 ### Mami Takesada:
-When we do the training in that context, we realized that some of the children with autism or ADHD included in that area, and the girl also included in the area because of the environmental factoers…how can I say. In Japan and most Asian country, maybe women is weaker than men. There are no much choice. quite limited than men.
+When we do the training in that context, we realized that some of the children with autism or ADHD included in that area, and the girl also included in the area because of the environmental factors…how can I say. In Japan and most Asian country, maybe women is weaker than men. There are no much choice. quite limited than men.
 
 ### Mami Takesada:
 And the children who have the program with the parents or the families go out to the city. In the case of the young girl just go around in the night, out at night, some adults get them to join the sexual industry, the maid cafe where the girls wear maid uniforms to serve customers who perform as a master or something like that. It’s a little bit easier one, but heavier accident happened in Tokyo or some cities.
@@ -855,7 +855,7 @@ Then we will do this weekend in Tainan, and it will be continued.
 After, you can just report this on the hackathon?
 
 ### Mami Takesada:
-\[laughs\] Right. I think the only problem we have is the language diffrences.
+\[laughs\] Right. I think the only problem we have is the language differences.
 
 ### Audrey Tang:
 And spread the use of UDTalk?

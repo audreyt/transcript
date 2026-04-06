@@ -580,7 +580,7 @@ These liaison people that you’ve borrowed from these departments, when they go
 Yeah, it’s at the core team, like 22 people.
 
 ### Audrey Tang:
-In 34 ministries, each ministry has a team of participation offiers. It’s a satellite network.
+In 34 ministries, each ministry has a team of participation officers. It’s a satellite network.
 
 ### David Worthington:
 What sort of methods or approaches do they use? I know it’s voluntary association, so you’re not going in there and telling them to do it. What methods do they use within their departments? Are they standardized or all they all...?
@@ -774,7 +774,7 @@ There’s automated tools for that... I wrote one myself.
 I’ll let them know.
 
 ### Audrey Tang:
-To do a proper lexicon-based subsitution through e.g. OpenCC, it doesn’t cost you a dime to translate to traditional Chinese. You can start with the corporate home page... That technology, it’s open source, by the way.
+To do a proper lexicon-based substitution through e.g. OpenCC, it doesn’t cost you a dime to translate to traditional Chinese. You can start with the corporate home page... That technology, it’s open source, by the way.
 
 ### Margaret Dawson:
 I will pass that on. Thank you. I will take that feedback.

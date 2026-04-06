@@ -778,7 +778,7 @@ Exactly. And then, just one of the crew buys an expensive new phone and shares i
 I like that a lot. Because it does cover our worry about freedom of association. It also depends on the will of good or disreputable vessel owners and management.
 
 ### Audrey Tang:
-Yeah. “If you blow the whisle, I’ll switch you off.”
+Yeah. “If you blow the whistle, I’ll switch you off.”
 
 ### Valery Alzago:
 And the whistleblower right now, I think it does become a very important part of the IUU side. I mean the fact that today, there was something on Taiwan being equated with China. I mean that's the title of the news right now. It's like this all could help. I'm just saying that it's also important to have whistleblowing capacity, and you don't need to be very vocal.

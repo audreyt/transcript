@@ -76,7 +76,7 @@ Behind the differences, there’s also something that can be shared like mutual 
 By tapping into the experiences of older generations, there could be a transfer of wisdom or transfer of leadership experiences which is very essential, even, particularly, for Taiwan. We want there to be a good rapport between these different generations of leaders.
 
 ### Yuri Baral:
-The goal is to spread the message of meaningful experiences and exchanges across generations to different parts of the region. When we think of the the New Southbound Policy, one of the main stakeholders are the youth. We want to engage them more proactively in regional development, giving them a voice, giving them a role in social transformation.
+The goal is to spread the message of meaningful experiences and exchanges across generations to different parts of the region. When we think of the New Southbound Policy, one of the main stakeholders are the youth. We want to engage them more proactively in regional development, giving them a voice, giving them a role in social transformation.
 
 ### Yuri Baral:
 This is going to be one of the activities. We’re doing this here to extend that or to promote the NSP’s goal of better youth engagement. The other thing is for us to build quality connections for better relations with our neighbors within the region.

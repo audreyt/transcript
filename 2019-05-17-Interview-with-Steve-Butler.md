@@ -395,7 +395,7 @@ This, I think, is a really narrow criteria, whereas most of the press’s work i
 I can easily think of a lot of corner cases. But in the general case, where the media serves their subscribers, or just the journalistic community, then they’re not actually classified as a political advertisement, and so not part of this spot, or not part of the 72 hours.
 
 ### Steve Butler:
-A number of people have said to us, talking about Taiwan’s democracy being relatively young, it’s been 30 years, and yet this is quite an innovative system. I’m wondering what your own assessment is about the depth of the democratic values among the population. You mentioned once the revoltion against the martial law.
+A number of people have said to us, talking about Taiwan’s democracy being relatively young, it’s been 30 years, and yet this is quite an innovative system. I’m wondering what your own assessment is about the depth of the democratic values among the population. You mentioned once the revolution against the martial law.
 
 ### Audrey Tang:
 That’s right.

@@ -418,7 +418,7 @@ I guess, everything will be in the transcript, but if I have any questions I wil
 Just email me.
 
 ### Arwa Mahdawi:
-Thank you so much. I really appreciate this, and I look forward to to being in touch.
+Thank you so much. I really appreciate this, and I look forward to being in touch.
 
 ### Audrey Tang:
 Thank you. Live long and prosper. Bye.

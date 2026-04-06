@@ -987,7 +987,7 @@ I think, at the end, that may be the only way out, because otherwise, it is an a
 I have to deal with Trump, no matter how.
 
 ### Audrey Tang:
-Well, I just shahred a few common practices we’re observing here. I think we are at time. Thank you for your great questions.
+Well, I just shared a few common practices we’re observing here. I think we are at time. Thank you for your great questions.
 
 ### Judith Hecht-Kontojannis:
 Thank you very much for your time. It was a pleasure. Thank you very much.

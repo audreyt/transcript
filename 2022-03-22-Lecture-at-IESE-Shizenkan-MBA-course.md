@@ -264,7 +264,7 @@ Just by sharing pictures after pictures of the common values, it enabled innovat
 Definitely. Thank you very much.
 
 ### Audience Member:
-Hi Audrey. I actually watched your TED talk, and you mentioned that every Wednesday you will meet communities and and probably individuals. My question is, is there a way for you to identify which ideas are the good or the best one that you might come up with? How do you deal with ideas that are not very ideal? How do you lay the news to people that actually gave those ideas?
+Hi Audrey. I actually watched your TED talk, and you mentioned that every Wednesday you will meet communities and probably individuals. My question is, is there a way for you to identify which ideas are the good or the best one that you might come up with? How do you deal with ideas that are not very ideal? How do you lay the news to people that actually gave those ideas?
 
 ### Audrey Tang:
 This is an excellent question. This is a social innovation lab, where I meet people, the social innovators every week. Also, many of them are remote too. Whether it's remote, or whether it's in person, I make sure that it's on the record, and it's in the Creative Commons, and it's not necessarily just Wednesday.

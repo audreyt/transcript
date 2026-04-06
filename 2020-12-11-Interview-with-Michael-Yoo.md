@@ -172,7 +172,7 @@ There are big barrier to China because, a lot of people, they said because they 
 Not that I’m aware of. I think the only system that both us and the PRC, the People’s Republic of China regime, have worked in the same mechanism is that COVAX, the Gavi Vaccination Alliance, but other than that, I’m not aware of any kind of collaborations.
 
 ### Audrey Tang:
-Of course it is very sad that in the beginning, when Dr. Li Wenliang literally saved Taiwanese people by having his whistle-blowing essentially reposted to the Taiwanese equivalent of Reddit, it saved everyone in Taiwan because, the very next day, we sent an email to WHO, but it didn’t save people in Wuhan. The Dr. Lin Wenliang’s message didn’t reach the Wuhan people.
+Of course it is very sad that in the beginning, when Dr. Li Wenliang literally saved Taiwanese people by having his whistle-blowing essentially reposted to the Taiwanese equivalent of Reddit, it saved everyone in Taiwan because, the very next day, we sent an email to WHO, but it didn’t save people in Wuhan. The Dr. Li Wenliang’s message didn’t reach the Wuhan people.
 
 ### Audrey Tang:
 The Wuhan people still run these very large gatherings, and that got them into a situation where they had to do a lockdown, and so it was very tragic. Had we had ministerial access to the WHO, then our email will reach not just the science people, but the actual ministers, and it may save more people. At least the world will gain 10 days by listening to Taiwan.

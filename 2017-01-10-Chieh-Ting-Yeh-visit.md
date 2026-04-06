@@ -52,7 +52,7 @@ The media of course is our ally. However, we can’t really delegate all the wor
 One of the deliverables is establishing a cross‑discipline cross‑university online learning platform, which is tailor-made for things that are tangible. That means we have plenty of Coursera, edX, and the Taiwan learning communities on two dimensional videos, and the interactions with chat rooms and whatever.
 
 ### Audrey Tang:
-Those are good to learn just mathematics, psychics, things that are more verbal, more knowledge based. You can’t really learn fixing a motorcycle this way though. For that matter, repairing IoT devices also quires a more interactive kind of education. We really need to charter something that’s based on augmented and virtual reality.
+Those are good to learn just mathematics, physics, things that are more verbal, more knowledge based. You can’t really learn fixing a motorcycle this way though. For that matter, repairing IoT devices also requires a more interactive kind of education. We really need to charter something that’s based on augmented and virtual reality.
 
 ### Chieh-Ting Yeh:
 More hands on.
@@ -89,7 +89,7 @@ Exactly. Just carrying this, what you call, west coast law...
 > (laughter)
 
 ### Audrey Tang:
-West cost code into the east coast code. It’s very, very important to have this mutual dialog in this way, so it doesn’t get off track in the ASV project.
+West coast code into the east coast code. It’s very, very important to have this mutual dialog in this way, so it doesn’t get off track in the ASV project.
 
 ### Audrey Tang:
 The third question, on the new media. During the transition time, like from the January election last year to May, we had an experiment that I contributed to, but not produced by me.
