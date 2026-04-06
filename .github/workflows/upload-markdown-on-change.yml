@@ -5,6 +5,11 @@ on:
     paths:
       - "*.md"
       - ".alternates"
+  workflow_dispatch:
+    inputs:
+      before_sha:
+        description: 'Before SHA for catch-up sync after a failed run'
+        required: true
 
 # 同一 commit 若重複觸發，只保留一次執行
 concurrency:
@@ -22,7 +27,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 5
+          fetch-depth: ${{ github.event_name == 'workflow_dispatch' && 0 || 5 }}
 
       - name: Resolve token
         id: token
@@ -40,7 +45,7 @@ jobs:
       - name: Sync changed markdown and alternate mappings
         env:
           TOKEN: ${{ steps.token.outputs.value }}
-          BEFORE_SHA: ${{ github.event.before }}
+          BEFORE_SHA: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.before_sha || github.event.before }}
           AFTER_SHA: ${{ github.sha }}
         shell: bash
         run: |
@@ -232,34 +237,40 @@ jobs:
             print("No root-level markdown or .alternates changes requiring sync.")
             sys.exit(0)
 
+          failures = []
+
           for rel_path in unique_added_files:
             abs_path = workspace / rel_path
             if not abs_path.exists():
               print(f"Skip missing file: {rel_path}")
               continue
 
-            markdown = abs_path.read_text(encoding="utf-8")
-            payload = {
-              "filename": rel_path,
-              "markdown": markdown,
-            }
-            if rel_path in alternates:
-              payload["alternate_filename"] = alternates[rel_path]
-              print(f"[debug] alternate for {rel_path}: {alternates[rel_path]}")
-            data = json.dumps(payload).encode("utf-8")
-            req = urllib.request.Request(
-              endpoint,
-              data=data,
-              method="POST",
-              headers={
-                "Authorization": f"Bearer {token}",
-                "Content-Type": "application/json; charset=utf-8",
-                "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript",
-              },
-            )
+            try:
+              markdown = abs_path.read_text(encoding="utf-8")
+              payload = {
+                "filename": rel_path,
+                "markdown": markdown,
+              }
+              if rel_path in alternates:
+                payload["alternate_filename"] = alternates[rel_path]
+                print(f"[debug] alternate for {rel_path}: {alternates[rel_path]}")
+              data = json.dumps(payload).encode("utf-8")
+              req = urllib.request.Request(
+                endpoint,
+                data=data,
+                method="POST",
+                headers={
+                  "Authorization": f"Bearer {token}",
+                  "Content-Type": "application/json; charset=utf-8",
+                  "User-Agent": "github-actions/1.0",
+                  "X-GitHub-Repository": "audreyt/transcript",
+                },
+              )
 
-            request_with_retry(req, f"POST {rel_path}")
+              request_with_retry(req, f"POST {rel_path}")
+            except Exception as e:
+              print(f"ERROR posting {rel_path}: {e}")
+              failures.append(rel_path)
 
           for rel_path in unique_modified_files:
             abs_path = workspace / rel_path
@@ -267,27 +278,31 @@ jobs:
               print(f"Skip missing file: {rel_path}")
               continue
 
-            markdown = abs_path.read_text(encoding="utf-8")
-            payload = {
-              "filename": rel_path,
-              "markdown": markdown,
-              "alternate_filename": alternates.get(rel_path),
-            }
-            print(f"[debug] alternate for {rel_path}: {payload['alternate_filename']}")
-            data = json.dumps(payload).encode("utf-8")
-            req = urllib.request.Request(
-              endpoint,
-              data=data,
-              method="PATCH",
-              headers={
-                "Authorization": f"Bearer {token}",
-                "Content-Type": "application/json; charset=utf-8",
-                "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript",
-              },
-            )
+            try:
+              markdown = abs_path.read_text(encoding="utf-8")
+              payload = {
+                "filename": rel_path,
+                "markdown": markdown,
+                "alternate_filename": alternates.get(rel_path),
+              }
+              print(f"[debug] alternate for {rel_path}: {payload['alternate_filename']}")
+              data = json.dumps(payload).encode("utf-8")
+              req = urllib.request.Request(
+                endpoint,
+                data=data,
+                method="PATCH",
+                headers={
+                  "Authorization": f"Bearer {token}",
+                  "Content-Type": "application/json; charset=utf-8",
+                  "User-Agent": "github-actions/1.0",
+                  "X-GitHub-Repository": "audreyt/transcript",
+                },
+              )
 
-            request_with_retry(req, f"PATCH {rel_path}")
+              request_with_retry(req, f"PATCH {rel_path}")
+            except Exception as e:
+              print(f"ERROR patching {rel_path}: {e}")
+              failures.append(rel_path)
 
           for rel_path in unique_removed_files:
             # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
@@ -302,7 +317,21 @@ jobs:
               },
             )
 
-            request_with_retry(req, f"DELETE {rel_path}")
+            try:
+              request_with_retry(req, f"DELETE {rel_path}")
+            except urllib.error.HTTPError as e:
+              if e.code == 404:
+                print(f"DELETE {rel_path}: already absent (HTTP 404), skipping")
+              else:
+                print(f"ERROR deleting {rel_path}: {e}")
+                failures.append(rel_path)
+            except Exception as e:
+              print(f"ERROR deleting {rel_path}: {e}")
+              failures.append(rel_path)
+
+          if failures:
+            print(f"\nFailed to sync {len(failures)} file(s): {failures}")
+            sys.exit(1)
           PY
 
   rebuild-search-index:
