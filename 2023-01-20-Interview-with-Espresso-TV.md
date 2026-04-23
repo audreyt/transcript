@@ -60,7 +60,7 @@ In this respect, Taiwan is like Ukraine, because Taiwanese people also speak Chi
 ### Audrey Tang:
 Indeed. We've had a very long history fighting authoritarian expansionism. Consistently, we put a key priority on strengthening resilience of not just our critical infrastructure, but also our journalism, our newsmakers sector so that we can, together, overcome online harms and also increase participation in democratic processes.
 
-That's partly because in Taiwan, democracy is a relatively new thing. We first started the direct presidential election in 1996. That's already after the Wide Web.
+That's partly because in Taiwan, democracy is a relatively new thing. We first started the direct presidential election in 1996. That's already after the World Wide Web.
 
 When designing our democracy, we put a lot of emphasis on not just the once-every-four-year or every-two-year voting, but also on participatory budgeting, our referendums, our sandbox applications, presidential hackathon, and many continuous democracy, a deliberative democracy.
 

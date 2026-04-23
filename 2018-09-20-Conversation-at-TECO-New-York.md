@@ -187,7 +187,7 @@ Wonderful, so YPFP...
 Thank you so much. YPFP is extremely thrilled to be a part of this tonight. We are a membership organization of about 20,000 individuals across the globe and across a number of branches that tries to also promote networking and the sharing of ideas.
 
 ### Colin Wolfgang:
-Basically, creating a space for young individuals that have an interest in international relations. I encourage all of you to take a look at our website, ypfp.org. Thank you to Minister Tang and everybody else here who’s put this wonderful event together. We’re trilled to be a part of it.
+Basically, creating a space for young individuals that have an interest in international relations. I encourage all of you to take a look at our website, ypfp.org. Thank you to Minister Tang and everybody else here who’s put this wonderful event together. We’re thrilled to be a part of it.
 
 > (applause)
 
@@ -438,7 +438,7 @@ They’ve been doing this for sometimes 20 or 30 years now, sometimes even befor
 They have to make a living in Taiwan. There’s many young designers in Taiwan who work in the Social Innovation Lab, just transforming how the society perceives these people in wheelchairs. All the visual assets you see here are done by this design creative agency called Agoood, in conjunction with people with Down’s syndrome in the Children’s Arts Foundation.
 
 ### Audrey Tang:
-It turns out they are excellent artists. I don’t know whether you know the “Dialogue in the Dark.” It is a kind of conversation in the dark, facilitated with people with seeing the disabilities. They are actually the the superior, the alpha in that environment.
+It turns out they are excellent artists. I don’t know whether you know the “Dialogue in the Dark.” It is a kind of conversation in the dark, facilitated with people with seeing the disabilities. They are actually the superior, the alpha in that environment.
 
 ### Audrey Tang:
 After a few hours, we will feel very comfortable. They feel very confident. These kind of social design people just look systematically at each vulnerable population, and try to find a way to turn them into office in their place.

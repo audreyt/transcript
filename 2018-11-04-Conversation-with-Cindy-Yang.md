@@ -157,7 +157,7 @@ I’m not sure.
 > (laughter)
 
 ### Yun-Chen Chien:
-I’m not sure his topic, but I thought it’s more about international relationahips.
+I’m not sure his topic, but I thought it’s more about international relationships.
 
 ### Audrey Tang:
 That’s right. That’s right. About the network of civic entrepreneurs, or however you call them.
@@ -557,7 +557,7 @@ They don’t yet know what’s supposed to be in reality.
 Reality.
 
 ### Cindy Yang:
-Exactly, so they think when they see through the camera, it’s there, and they don’t understand that that’s an effect in place. The other thing is, they don’t always hold the tablet properly, because theyir hands are small. A lot of times, a tablet is face down on the table.
+Exactly, so they think when they see through the camera, it’s there, and they don’t understand that that’s an effect in place. The other thing is, they don’t always hold the tablet properly, because their hands are small. A lot of times, a tablet is face down on the table.
 
 ### Audrey Tang:
 My nephew is three-and-a-half. I know exactly what you’re talking about. \[laughs\]

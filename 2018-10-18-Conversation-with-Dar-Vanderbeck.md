@@ -827,5 +827,5 @@ Yes.
 Continuing our tradition of every meeting gets a picture, which I love.
 
 ### Audrey Tang:
-Let’s take the picutre outside that wall of Post-It Notes.
+Let’s take the picture outside that wall of Post-It Notes.
 

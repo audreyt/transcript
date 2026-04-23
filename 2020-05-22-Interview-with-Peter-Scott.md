@@ -157,7 +157,7 @@ What they have done is that after each daily press conference, take photos of th
 If you’re outdoor, keep two Doggo apart, as a way to explain social distancing, as it were. This has been viral, literally, on the cyberspace that just dwarfed the conspiracy theories and pseudoscientific health advices.
 
 ### Audrey Tang:
-Every adored the spokesdog of the CECC, the Zongchai. That amplifies Taiwan’s message, and also, our way of countering disinformation, and the power of humor to pretty much a lot of nearby jurisdictions, including Japan and South Korea.
+Everyone adored the spokesdog of the CECC, the Zongchai. That amplifies Taiwan’s message, and also, our way of countering disinformation, and the power of humor to pretty much a lot of nearby jurisdictions, including Japan and South Korea.
 
 ### Audrey Tang:
 That also amplified, we see, in other places that if you’re authoritarian to begin with – if you make citizen transparent to the state – then that tendency also gets amplified. If you rely on multinational tech companies as a more capable fiduciary trust of people’s data, then we also see in places that gets amplified.
@@ -208,7 +208,7 @@ Yeah, you laugh, but that means the meme had worked. A table that shows that the
 Everybody who laughed at that, it has that two-by-two table kind of remembered in their mind. They will not then share the panic buying conspiracy theory, because they know it’s the different material.
 
 ### Audrey Tang:
-The conspiracy theory died down just in a couple days, and we eventually found that the person who spread that tumor was a tissue paper reseller, go figure. The idea is that we need to respond within a couple hours to each trending rumor.
+The conspiracy theory died down just in a couple days, and we eventually found that the person who spread that rumor was a tissue paper reseller, go figure. The idea is that we need to respond within a couple hours to each trending rumor.
 
 ### Audrey Tang:
 The response need to be short and succinct, like 20 characters or less in its title. Also, it needs to have a memetic payload that evokes a sense of humor. Once we do that, then we successfully inoculate the disinformation that’s rampant on social media.

@@ -40,7 +40,7 @@ The thing with the dog, that came into being only now with the pandemic.
 That’s right. With the pandemic, the PO system.
 
 ### Kathrin Hille:
-What that your idea?
+Was that your idea?
 
 ### Audrey Tang:
 No, it was the PO, the Minister of Health and Welfare’s PO’s idea. They literally live with that dog. Their personal space, their house, is very close to the Ministry of Health and Welfare. Any time that the Central Epidemic Command Center rolls out a new policy, they just rush back home and take a new photo of the dog, then we have a new Internet meme.

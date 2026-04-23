@@ -202,7 +202,7 @@ Taiwan is pretty big again. I think now everything is happening here in Taipei, 
 Sure.
 
 ### Ryota Kamio:
-I don’t know why. Recently I talked to the editor-in-chief of a publication in Japan, and he didn’t explain way, but he mention Tainan is quite interesting place.
+I don’t know why. Recently I talked to the editor-in-chief of a publication in Japan, and he didn’t explain why, but he mention Tainan is quite interesting place.
 
 ### Audrey Tang:
 It is. It’s our cultural capital.
@@ -853,7 +853,7 @@ In their parents’ generation, it’s not like that. It’s giving a good accou
 That creates tension. That’s why we’re saying, “You don’t have to think that if you are working for a social purpose it cuts into your profits. If you are designed for circularity, actually, you tap into a much larger market in the investment community than you can possibly imagine. You are solving world-wide problems and world-wide profits because of that.
 
 ### Audrey Tang:
-ST would has a more up-dated list of the key SIOs.
+ST would have a more up-dated list of the key SIOs.
 
 ### Ryota Kamio:
 OK, this organization, this company, or this community is must go?

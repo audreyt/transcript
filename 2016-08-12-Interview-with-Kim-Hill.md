@@ -9,7 +9,7 @@ Ok. Let me start. You describe yourself as a &quot;conservative anarchist&quot;,
 Sure. The term &quot;anarchist&quot; has a well-defined meaning, meaning nations and countries are very useful illusions, but they’re not always a useful. So we just use it where it’s good to use, and try not to pay too much attention into it where it isn’t.
 
 ### Audrey Tang:
-I guess your are interested in the &quot;conservative&quot; part?
+I guess you are interested in the &quot;conservative&quot; part?
 
 ### Kim Hill:
 I’m interested in both the conservative and anarchist parts, and how they are linked together, actually.
@@ -48,10 +48,10 @@ Yes, that’s the part where we relinquish our copyright comes in, because then 
 Have you any evidence — I mean, you know one of the concerns is &quot;clicktivism&quot; — Have you any evidence that this actually increased people’s engagement in the process?
 
 ### Audrey Tang:
-&quot;Clickvism&quot; usually refers to people who would spend maybe one to ten seconds, like that time you require for a click to interact.
+&quot;Clicktivism&quot; usually refers to people who would spend maybe one to ten seconds, like that time you require for a click to interact.
 
 ### Audrey Tang:
-But I think the gap between clicktivism and hacktivism (which requires almost full-time attention) was an arbitrary distinction. What the g0v people is doing, is to build engagement at levels of maybe one minute, maybe one hour, maybe three hours and so on. So everybody can find their useful way of engagement. So yes, we’ve seen a lot of conversions from people who contribute donly a few seconds, to two hours or maybe a few days a month.
+But I think the gap between clicktivism and hacktivism (which requires almost full-time attention) was an arbitrary distinction. What the g0v people is doing, is to build engagement at levels of maybe one minute, maybe one hour, maybe three hours and so on. So everybody can find their useful way of engagement. So yes, we’ve seen a lot of conversions from people who contribute only a few seconds, to two hours or maybe a few days a month.
 
 ### Kim Hill:
 I suppose, more to the point: Have you any evidence that you’re engaging people previously uninterested in democratic participation?
@@ -84,7 +84,7 @@ That would be correct. I mean how do you get into it so early? How were you able
 Well I think it was due to the digital equality program the Taiwan government did when I was 12, to make sure that everybody — even the less connected areas — must have affordable ADSL lines for Internet download. I think I was fortunate in that the first web sites that I ran into, was for example the Gutenberg project, which was a digitisation of all the books that fell out of copyright. I learned mostly from the classics that I read online.
 
 ### Kim Hill:
-You know, one of the one of the concerns about the Internet, with sites like Facebook, Twitter, etc, is that far from enhancing the quality of civil society — we just talked about getting people engaged in the budget discussion, but in general — far from enhancing the quality of civil society, it lets people get stuck with their own interest groups with their own prejudices, in general. Can you see a way through that?
+You know, one of the concerns about the Internet, with sites like Facebook, Twitter, etc, is that far from enhancing the quality of civil society — we just talked about getting people engaged in the budget discussion, but in general — far from enhancing the quality of civil society, it lets people get stuck with their own interest groups with their own prejudices, in general. Can you see a way through that?
 
 ### Audrey Tang:
 Certainly. Facebook is sort of in its own league, as their social media is trying to encompass all modes of media and try to basically let people stay on it forever, using machine learning algorithms to tailor-made itself into the kind of media that someone craves — not necessarily needs. So yes, I think outside of Facebook, there’s a lot of different ways: A lot of different ways to build interactions and social sites to encourage people to form a consensus through empathy, instead of just spending so much time on the same arguments over and again. So yes there is a lot of ways out of it.
@@ -96,7 +96,7 @@ How do you do that? How do you encourage people to see the other side of the arg
 For example one could install this browser plug-in called &quot;Facebook feed eradicator&quot;. And once you install the plug-in, the social feed goes away from the Facebook website — you can still use its other functions.
 
 ### Audrey Tang:
-In other modes, we also buy Facebook advertise meant to take people out of Facebook, saying that &quot;maybe you can have your discussions elsewhere, where it has a binding effect on the government&quot; — either state or a national level. Most people would find this motivation enough.
+In other modes, we also buy Facebook advertisement to take people out of Facebook, saying that &quot;maybe you can have your discussions elsewhere, where it has a binding effect on the government&quot; — either state or a national level. Most people would find this motivation enough.
 
 ### Kim Hill:
 What are you doing with Uber? It is controversial around the world. New Zealand has issues with Uber, the government says it’s not playing by the rules and we’re thinking about banning it. I don’t know what the status is in Taiwan, but you’ve done some interesting experiments, with open source software and the Internet, to try to bring people together on that issue, haven’t you?

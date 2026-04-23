@@ -57,7 +57,7 @@ In a sense, of course, nowadays our bandwidth is much wider than that in 2004. T
 In 2003, the smaller island, the Pescadores Islands, Penghu, already has an IC card. Instead of a paper card, they are already piloting the IC card for the healthcare access. We found that it’s very useful when you’re making sure that, for example, people in clinics have the access to the previous prescription history
 
 ### Audrey Tang:
-It’s essential for the Pescadores Islands for run that pilot, because people understood that when SARS 1.0 came, that’s why the Penghu Island’s response much better actually \[laughs\] than the main Taiwan Island. The very next year, i 2004, we started rolling out the IC cards island-wide.
+It’s essential for the Pescadores Islands for run that pilot, because people understood that when SARS 1.0 came, that’s why the Penghu Island’s response much better actually \[laughs\] than the main Taiwan Island. The very next year, in 2004, we started rolling out the IC cards island-wide.
 
 ### Georg Diez:
 It’s interesting to understand that this crisis is more than a health crisis. It’s connected to how society works. It’s a societal issue. That’s key in what you’re saying. The way the state is conceived, the way citizens feel represented, the way that their participation works, that’s key to solving a crisis like that.

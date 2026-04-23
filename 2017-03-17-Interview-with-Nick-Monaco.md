@@ -332,7 +332,7 @@ The instrumental use at this became a lot of interest, both on the actual tools,
 As a political worker, what I’ve been doing is introducing career public servants to this kind of self-organization and horizontal communication structures. The first thing I did as digital minister, literally, is to recompile the Linux kernel.
 
 ### Audrey Tang:
-One of kernel machines so that I can install Sandstorm and Docker clusters, and introduce the open-source collaboartion tools, all sorts of collaboration tools into the intranet so that people can collaborate in a way that they know are protected by our cybersecurity team, but nevertheless regain some organizational features.
+One of kernel machines so that I can install Sandstorm and Docker clusters, and introduce the open-source collaboration tools, all sorts of collaboration tools into the intranet so that people can collaborate in a way that they know are protected by our cybersecurity team, but nevertheless regain some organizational features.
 
 ### Audrey Tang:
 These kind of self-organized mobilization groups across departmental breaking out of silo kind of ways. That’s why we do weekly hackathons. I was just back from one. It was a very lively discussion.

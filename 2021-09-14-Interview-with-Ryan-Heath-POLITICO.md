@@ -245,7 +245,7 @@ I'm like "OK. What about the compulsory education?" She's like, "I'll cover for 
 Wow.
 
 ### Audrey Tang:
-[laughs] The point here is, it engrained in my very young mind, that Korean public servants are actually the most innovative people in the world if you can talk with them and to them in a pear-to-pear fashion.
+[laughs] The point here is, it engrained in my very young mind, that career public servants are actually the most innovative people in the world if you can talk with them and to them in a peer-to-peer fashion.
 
 ### Ryan Heath:
 That's fascinating. I love that you are ground breaking in that way. I guess, I had two other personal questions about your journey. Then you went to Silicon Valley a couple of years after that, and that's a thing that a lot of people spend half of their career working towards.
@@ -300,7 +300,7 @@ That's right. Free hugs for trolls. Indeed, as I said, there's a lot of people o
 
 If I can paraphrase or interpret 5 words within that 100 into something that's constructive, something that by sharing their own experience, it actually results in innovation in policy or in the work that I do, then I ignore promptly the 95 words.
 
-To thank them profusely for the five words, and started a productive jamming session, if you will, on social media for those ideas. It's supposed pedagogical in the sense that people see that by sharing authentic co-creating materials.
+To thank them profusely for the five words, and started a productive jamming session, if you will, on social media for those ideas. It's supposedly pedagogical in the sense that people see that by sharing authentic co-creating materials.
 
 They can engage with me very quickly, but also it's a good hobby because I make friends. There's a lot of trolls that become pretty good acquaintances, and even visit me on the social innovation lab.
 

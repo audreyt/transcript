@@ -588,7 +588,7 @@ With time, maybe we will identify, instead, more about being beautiful islands i
 You have said that you’re going to use the 5G technology. However, after the Huawei scandal, 5G has been accused for spying, in other words, more cyber attacks. That’s my first question.
 
 ### Audience Member:
-My second is, after the Sunflower Movement, you were invited to join the government. Will you keep your position after the elections in case that KMD take the presidency?
+My second is, after the Sunflower Movement, you were invited to join the government. Will you keep your position after the elections in case that KMT take the presidency?
 
 ### Audrey Tang:
 The first question is easily answered in Taiwan context. The Occupy was done by 20 or so NGOs at the time, each deliberating about one specific aspect of the Cross-Strait Service and Trade Agreement.

@@ -106,7 +106,7 @@ Taiwanese government says its aims are to strengthen the resilience of the democ
 Minister, now whilst we are not going to focus on the chips, that wanting to build the democratic supply chain, that is something that you also...
 
 ### Audrey Tang:
-That's sharing know-how. The E3 was and still is the incubator of much of Taiwan semiconductor supply chain. Sharing this know-how is very important as we are sharing our cyber resilience, no housing with Lithuania.
+That's sharing know-how. The E3 was and still is the incubator of much of Taiwan semiconductor supply chain. Sharing this know-how is very important as we are sharing our cyber resilience, know-how with Lithuania.
 
 ### Yin Khvat:
 Let's talk about the satellite technology.
@@ -116,7 +116,7 @@ Sure. For example, Lithuania, as Estonia and many other jurisdictions in that re
 
 To that end, they are also working to modernize their data storage systems and communication systems to focus on a secure use of the public cloud for backup purposes, and also the non-geostationary satellites in order to maintain connectivity even when the fiber optics and audio landlines are cut.
 
-These two concerns the public cloud backup, as well as the cyber resilience via satellites are also our priority areas and is within moda's purview. I sincerely believe that we do not need to reinvent the wheel — so to speak — and can share our no house and our planning together to enhance resilience for all.
+These two concerns the public cloud backup, as well as the cyber resilience via satellites are also our priority areas and is within moda's purview. I sincerely believe that we do not need to reinvent the wheel — so to speak — and can share our know-how and our planning together to enhance resilience for all.
 
 ### Yin Khvat:
 This is something that Ukraine obviously has managed to harness.

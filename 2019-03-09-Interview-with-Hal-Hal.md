@@ -168,7 +168,7 @@ Also, Clay Shirky who used the Perl community to develop his theory of collectiv
 We worked to bring all the wiki, microblogging, and many other community systems into the enterprise, so that we can collaboratively capture the collective wisdom of the organization also.
 
 ### Audrey Tang:
-Socialtext was another startup where we worked on many technologies, such as te collaborative spreadsheet EtherCalc as well as Etherpad. Many technologies then became the founding blocks of the g0v movement.
+Socialtext was another startup where we worked on many technologies, such as the collaborative spreadsheet EtherCalc as well as Etherpad. Many technologies then became the founding blocks of the g0v movement.
 
 ### 関治之:
 I think in my opinion, the open-source culture idea is more...
@@ -362,7 +362,7 @@ We are, like, collaborating right now.
 > (laughter)
 
 ### Audrey Tang:
-I’ve held this kind of conversations before I entered the cabinet. Many people were very surprised that Taiwan has been able to make the democratic governance tools so quickly after so long of marshal law.
+I’ve held this kind of conversations before I entered the cabinet. Many people were very surprised that Taiwan has been able to make the democratic governance tools so quickly after so long of martial law.
 
 ### Audrey Tang:
 I think just getting the message out is one of the most important things, because for many especially more senior people, is to remember Taiwan as a very authoritarian society. It’s not until they say, &quot;Oh, they have marriage equality too?&quot;

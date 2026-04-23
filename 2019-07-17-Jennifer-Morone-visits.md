@@ -206,7 +206,7 @@ Matt, RxC’s President is working with, collaboratively, on a handbook for loca
 The usual suspects.
 
 ### Jennifer Morone:
-Yes, so there’s a lot of cross-collaboration and cross-discussions with like-minded preople and groups, which is really what we need. What we would really like to see are more co-ops.
+Yes, so there’s a lot of cross-collaboration and cross-discussions with like-minded people and groups, which is really what we need. What we would really like to see are more co-ops.
 
 ### Audrey Tang:
 In Taiwan, we’re trying to rekindle the co-op culture, because there’s been, I think, a decade or two where there’s no significant co-ops happening. The old one are all running really well, but the main implementers and founders, indeed, are well in their 60s and 70s.
@@ -902,4 +902,3 @@ Thank you so much.
 
 ### Jennifer Morone:
 I had a great time.
-

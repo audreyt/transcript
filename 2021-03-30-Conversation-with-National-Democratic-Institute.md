@@ -440,7 +440,7 @@ The Ministry of Culture houses the officers.
 Then they go to say, "We're seeing this. We need your help to come up with something. Take some stock photos."
 
 ### Audrey Tang:
-Exactly. The PO, the Preservation Officer is both a communication expert and also in charge of handling citizens' initiatives and petitions. For example, when a young boy called saying in last April saying, "Hey, you are rationing out our mask, but why all the friends in my class, all the boys got navy blue, but all my household got is pink?"
+Exactly. The PO, the Participation Officer is both a communication expert and also in charge of handling citizens' initiatives and petitions. For example, when a young boy called saying in last April saying, "Hey, you are rationing out our mask, but why all the friends in my class, all the boys got navy blue, but all my household got is pink?"
 
 The boy doesn't want to wear pink to school. That gets escalated to the same participation officer. Based on their suggestion, the minister of health and welfare, as well as the medical officer in the next 2:00 PM daily press conference, all wore pink. Pink became the most hip color.
 
@@ -580,7 +580,7 @@ That's a global thing. [laughs] You can't find a jurisdiction that's not having 
 I'm wondering if you or your office is also doing something to prepare for the future possible doubts or disinformation that's going to spread around the COVID vaccine rollout.
 
 ### Audrey Tang:
-If something that's strictly within the ministry...I'm a minister at large. I work on things that are across ministerial, but if something does within a single ministry, then usually the preservation officer in the Ministry of Health and Welfare takes care of that.
+If something that's strictly within the ministry...I'm a minister at large. I work on things that are across ministerial, but if something does within a single ministry, then usually the participation officer in the Ministry of Health and Welfare takes care of that.
 
 We are connected. If they need something from another ministry, then, of course, they would brief me. Otherwise, in a day to day things, they operate on their own ministry. Feel free to reach out to the...
 

@@ -1,4 +1,4 @@
-# 2024-10-03 BW Column: AI Alignment Cannot Wait
+# 2024-10-31 BW Column: AI Alignment Cannot Wait
 
 ### Audrey Tang:
 

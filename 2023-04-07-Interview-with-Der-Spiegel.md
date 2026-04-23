@@ -453,7 +453,7 @@ Just honoring traditions, but without coercing.
 ### Interviewer:
 Do we still have time?
 
-### Assisitant:
+### Assistant:
 It's 4.52.
 
 ### Interviewer:

@@ -58,7 +58,7 @@ Effective altruism has been criticized for a narrow focus on existential risk—
 
 The utilitarian lens has limits, but it is right about *immediate* catastrophic risks to *epistemic security*.
 
-Polarization, manipulation and degraded shared reality are already her — often amplified by *misaligned recommender systems*, *synthetic media* and tailored persuasion. My reframing is: do not stop at *harm mitigation* (where “success” looks like nothing happening). Build *pro‑social sense‑making* that measurably *widens common ground* and *reduces polarization*. If we design AI for *civic care*, we get mitigation *and* generative benefits.
+Polarization, manipulation and degraded shared reality are already here — often amplified by *misaligned recommender systems*, *synthetic media* and tailored persuasion. My reframing is: do not stop at *harm mitigation* (where “success” looks like nothing happening). Build *pro‑social sense‑making* that measurably *widens common ground* and *reduces polarization*. If we design AI for *civic care*, we get mitigation *and* generative benefits.
 
 For reference, I am developing a microsite called the *“Six Pack of Care”* — practical components for deploying civic‑care systems at scale.
 

@@ -80,7 +80,7 @@ For this first one, we’re interested in general.
 One of the largest social media in Taiwan is the PTT, which is like Reddit, except it’s an interface inspired by BBS from dial-up era. The greatest thing about PTT is that it’s entirely open-source, with its own governance mechanism.
 
 ### Audrey Tang:
-Before Facebook, LINE, and Googled signed the counter-disinformation best practice, many approaches were already prototyped by PTT developers.
+Before Facebook, LINE, and Google signed the counter-disinformation best practice, many approaches were already prototyped by PTT developers.
 
 ### Audrey Tang:
 Because it’s open source, the governance is in the social sector, and people can trust that. They will not be bought by Tencent \[laughs\] because they’re in academia, hosted by the National Taiwan University.

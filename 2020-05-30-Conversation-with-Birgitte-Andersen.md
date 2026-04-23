@@ -174,10 +174,10 @@ Yeah.
 Yeah, sure. However, as I mentioned, even though we do help developing such apps from the social sector and from our research community, because in Taiwan, we have not used most of it, what we have done is instead hold a coronavirus hackathon, the Co-hack, with the American de facto embassy.
 
 ### Audrey Tang:
-To highlight the winners that can provide values, that are conforming to the social norms, that doesn’t sacrifice the personally information and so on. There i5s five winners recently announced. I’m going to do a write-up for a few of them, anyway.
+To highlight the winners that can provide values, that are conforming to the social norms, that doesn’t sacrifice the personally information and so on. There is five winners recently announced. I’m going to do a write-up for a few of them, anyway.
 
 ### Audrey Tang:
-I’m happy to contribute those write-ups. All my blogs are in Creative Commons, anyway, so it could freely reused. I think these entries are some of the ideas that we can contribute and just a begenning of good connections to our development community.
+I’m happy to contribute those write-ups. All my blogs are in Creative Commons, anyway, so it could freely reused. I think these entries are some of the ideas that we can contribute and just a beginning of good connections to our development community.
 
 ### Audrey Tang:
 Even though most of their ideas is probably only useful overseas, we’re still very much willing to support them and help the world.

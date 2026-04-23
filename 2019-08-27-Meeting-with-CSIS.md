@@ -459,7 +459,7 @@ What’s the CCSTA?
 The Cross-Strait Service and Trade Agreement that would enable PRC service providers to offer their services in Taiwan.
 
 ### Audrey Tang:
-he Occupy changed the discussion so that, from that Occupy onward, we disallowed any PRC components in our 4G infrastructures.
+The Occupy changed the discussion so that, from that Occupy onward, we disallowed any PRC components in our 4G infrastructures.
 
 ### Daniel F. Runde:
 I want to come back to 5G, 4G, and Huawei.

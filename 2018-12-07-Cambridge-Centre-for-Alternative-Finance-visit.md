@@ -131,7 +131,7 @@ How do you use then some of the enabling capacity sizing technology to actually 
 When I visited DCMS a couple months ago, they mentioned that they are going to extend the use of dormant accounts more. There’s a law to, of course, enable the use of debt, which is a tiny percentage compared to the economy devoted for startups or innovation in general. They are looking to expand it more.
 
 ### Audrey Tang:
-Then, I visited Edinburgh on the Social Enterprise Warfarm. There is a policy Warfarm. People talked about such financial instruments.
+Then, I visited Edinburgh on the Social Enterprise World Forum. There is a policy World Forum. People talked about such financial instruments.
 
 ### Robert Wardrop:
 Exactly.
@@ -662,7 +662,7 @@ All these are actually core values in the Internet governance that I learned as 
 I think these three really are the key. Because of radical transparency, people trust that I’m doing the work that I do, even though because of that I cannot know the military secrets.
 
 ### Audrey Tang:
-If they do a military drill, I just take a day off. I don’t where the bunkers are. This enables me to be still part of the civil society but with the government. A voluntary association means we get the best and brightest from each ministry, with no commanding relationship and all they agree to do is basically to work out loud, to let everybody else see what everybody else is working that’s it.
+If they do a military drill, I just take a day off. I don’t know where the bunkers are. This enables me to be still part of the civil society but with the government. A voluntary association means we get the best and brightest from each ministry, with no commanding relationship and all they agree to do is basically to work out loud, to let everybody else see what everybody else is working that’s it.
 
 ### Robert Wardrop:
 It’s interesting. Pretty interesting.

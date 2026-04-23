@@ -472,7 +472,7 @@ That's brilliant idea, but NICS will be its own unit?
 ### Audrey Tang:
 NICS will be its own unit. In a sense, NICS already exists in the form of the 技服 team, the National Center for Cyber Security Technology, NCCST.
 
-I think I did mention that this March, that if you search for CCoE, the Cybersecurity Center of Excellence, and the NCCST, you will see the the two units that will merge to become NICS.
+I think I did mention that this March, that if you search for CCoE, the Cybersecurity Center of Excellence, and the NCCST, you will see the two units that will merge to become NICS.
 
 ### Jason Hsu:
 OK.

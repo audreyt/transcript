@@ -175,9 +175,9 @@ These opportunies would be directly with the schools we work with. The children 
 
 We focus mainly on the East Coast, the West Coast, and then where I'm from in Ontario. Amy's from Nova Scotia, so we focus a lot on the East Coast as well. We have quite a few districts of public schools on the West Coast as well, but all our exclusive partnerships.
 
-In Ontario, there's a vast number of schools that the children can choose from and join a homestay program (grade 7-12). These programs and their education would give them a better chance to study at Canadian universtities or schools like NTU in Taiwan. 
+In Ontario, there's a vast number of schools that the children can choose from and join a homestay program (grade 7-12). These programs and their education would give them a better chance to study at Canadian universities or schools like NTU in Taiwan. 
 
-My thoughts are working with the local MOEs and the government to encourage them to offer grants for public school students who are exemplary. This way, it can help them get a Canadian education and be emersed in an English culture. With the government providing them with grants, they will inevidably return to Taiwan and to be a part of the road to bilingualism.
+My thoughts are working with the local MOEs and the government to encourage them to offer grants for public school students who are exemplary. This way, it can help them get a Canadian education and be immersed in an English culture. With the government providing them with grants, they will inevitably return to Taiwan and to be a part of the road to bilingualism.
 
 ### Audrey Tang:
 I see. In that sense then, I understand your explanation. You're purely, what we call by the Ministry of Interior, a Immigration Business Organization, IBO, rather than any other like Ministry of Education or other ministries, apparently.
@@ -209,7 +209,7 @@ OK. Stacy noticed that we would have to provide the accountant with the paperwor
 I think it's lowered now. You even just have one person with NT $100,000 or something like that. That would also work. It could also be a trivial amount of money.
 
 ### Cassandra Brennan:
-We will contact the minitery of interior to dicuss as how to proceed with our registration.
+We will contact the ministry of interior to dicuss as how to proceed with our registration.
 
 Stacy is actually one of the very first people I met when I landed on this island. We were teaching together back in Changhua in 2008. I've begged her to come on board with us, and I'm happy she's accepted it. She has some ideas as to how she can help us with that basic starting point.
 
@@ -223,7 +223,7 @@ The reason why I say this is that there's a lot of consulting resources for loca
 > (laughter)
 
 ### Cassandra Brennan:
-I'm so grateful you were lenient and agreed to meet with us. Once we register, we will be sure to complete your social innovation network regestration. I'm grateful I tried to set up this meeting with you.
+I'm so grateful you were lenient and agreed to meet with us. Once we register, we will be sure to complete your social innovation network registration. I'm grateful I tried to set up this meeting with you.
 
 ### Audrey Tang:
 The SMEA, the small and medium enterprise administration has a lot of resources to essentially coach the startups that has been registered in Taiwan for less than five years. From the moment you register, you'll get five years of consultation for essentially free service because you are then a Taiwanese startup.

@@ -167,7 +167,7 @@ Then we made the regulatory auditory structure based on people’s block consens
 The other innovation that Uber brings is this 5‑star system that let’s not just the passengers, but also the drivers, who can also have their reputation for the clients. I think these are some things that are very inspirational and that we do want to learn from.
 
 ### Audrey Tang:
-Just last month we passed what we call the e‑taxi regulation, or more formerly taxi driver certification regulation structure, so that any company who just want to introduce this non‑painted yellow, non‑medallion fleet can apply to the ministry of transportation, and also operate just exactly like Uber with this 5‑ star and with the app that shows the whole license plate number, the driver’s name, and so on, so that everybody has a transparency and the record of what exactly goes where.
+Just last month we passed what we call the e‑taxi regulation, or more formally taxi driver certification regulation structure, so that any company who just want to introduce this non‑painted yellow, non‑medallion fleet can apply to the ministry of transportation, and also operate just exactly like Uber with this 5‑ star and with the app that shows the whole license plate number, the driver’s name, and so on, so that everybody has a transparency and the record of what exactly goes where.
 
 ### Audrey Tang:
 I thank you for bringing the inspiration. I do agree that it is the consensus of, regardless of who they’re working from, that we do have a regulatory structure for this, and now we do have. Of course, if Uber Taiwan is willing to register as one of the fleets, that would be perfect. I don’t know.

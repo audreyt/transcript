@@ -136,15 +136,15 @@ Critical infrastructure. So that's kind of where the government's sort of focus 
 And basically, all the surgical appointments… but we don't have this sort of department of cyber as well. It's spread around. I think that's another area to take from this.
 
 ### Audrey Tang:
-Yeah, we started in 2017 with the Department of Cyber Security, again, looking after mostly governments and CI. But last year, it became quite apparent that the foreign information manipulation interference, the FEMI, and the cyber-attack from the foreign malicious actors are no longer isolated. They're very coordinated. 
+Yeah, we started in 2017 with the Department of Cyber Security, again, looking after mostly governments and CI. But last year, it became quite apparent that the foreign information manipulation interference, the FIMI, and the cyber-attack from the foreign malicious actors are no longer isolated. They're very coordinated. 
 
 Last August, when the US speaker at the time, Nancy Pelosi, visits, we have seen cyber-attack denying service of certain websites. And then the information manipulators amplify the message. For example, there's a, like 7-Eleven is a convenience store chain, and the advertisement billboards has been taken over to show hate messages to Nancy Pelosi. 
 
-And also, some advertisement billboard outside the Taiwan Rail Station as well. And then the FEMI, the information manipulators, would sue this court by saying, we have taken over the Ministry of Transportation, or taken over the Ministry of National Defense. And when the journalists go and check the websites, well, it's under DDoS. So, it's quite clear that the FEMI part and the cyber-attack part are very coordinated as of last year.
+And also, some advertisement billboard outside the Taiwan Rail Station as well. And then the FIMI, the information manipulators, would sue this court by saying, we have taken over the Ministry of Transportation, or taken over the Ministry of National Defense. And when the journalists go and check the websites, well, it's under DDoS. So, it's quite clear that the FIMI part and the cyber-attack part are very coordinated as of last year.
 
 And so, this year, we established a dedicated National Institute of Cyber Security, NICS.
 
-I am the chair. And the NICS has information like FEMI defense as part of cyber defense now. So, it's a coordinated defense because the attackers are coordinated.
+I am the chair. And the NICS has information like FIMI defense as part of cyber defense now. So, it's a coordinated defense because the attackers are coordinated.
 
 ### Graeme Muller:
 You're at a much pointier end of the cyber experience in New Zealand. We're small, we're quiet, we sit back over here. We're kind of getting collateral damage, but not actually in the front line.

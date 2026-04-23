@@ -171,7 +171,7 @@ The legislature may extend its scope or it may remove part of its scope. Because
 If the four major parties all feel that we need a really strong DPA, then they may give it the same kind of staff as, for example, the National Communication Commission. On the other hand, if not then maybe they will remove part of the mandates that the NDC sends. It is difficult to say at this point.
 
 ### Jeanette Hofmann:
-Speaking of commissions, as far as I know, there was a debate here whether digital affairs should have the form of a ministry or rather be a commision. What was your view in this debate?
+Speaking of commissions, as far as I know, there was a debate here whether digital affairs should have the form of a ministry or rather be a commission. What was your view in this debate?
 
 ### Audrey Tang:
 It depends on whether we hold that kind of licensing power that the NCC, the National Communication Commission has over, say TV stations.
@@ -483,7 +483,7 @@ Well, we've seen many international examples. One thought is to make it availabl
 
 We tried that quite successfully with the real-time inventory in the frozen food in the major farmers' market in Taiwan. Because if they release it on the same day, they lose a lot of money because they cannot arbitrage.
 
-If it's aleady done for the day, it's a post-trade. Then after a few days, once you release that it doesn't really matter anymore to the traders. Maybe, open data with a timeline is a compromise position between the demand side people and the supply side people.
+If it's already done for the day, it's a post-trade. Then after a few days, once you release that it doesn't really matter anymore to the traders. Maybe, open data with a timeline is a compromise position between the demand side people and the supply side people.
 
 ### Jeanette Hofmann:
 Is there also an issue of protection, say data protection, and how you balance the two?
@@ -893,4 +893,3 @@ Very interesting.
 
 ### Kuo-Wei Wu:
 Thank you.
-

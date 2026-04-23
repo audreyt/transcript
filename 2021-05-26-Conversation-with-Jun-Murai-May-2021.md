@@ -39,7 +39,7 @@ Now that Privacy Act has been amended, does that mean that the role of the PPC c
 I see, it mentions the digital agency, but the commission is still there.
 
 ### Audrey Tang:
-OK, because we're having the same converation here. We think that the design you just mentioned is very reasonable.
+OK, because we're having the same conversation here. We think that the design you just mentioned is very reasonable.
 
 Because the digital ministry needs to work on the development of new techniques, it's like pushing speed to a car. To put a brake on the car, we think a dedicated unit is still important for the data protection authority. We talked about it, and we decided not to make it part of the function of digital ministry here but rather have them collaborate.
 

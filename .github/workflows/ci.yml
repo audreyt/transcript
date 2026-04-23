@@ -1,0 +1,56 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [master]
+  push:
+    branches: [master]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Need enough history for `git diff origin/master...HEAD` on PRs.
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install actionlint
+        run: |
+          bash <(curl -fsSL https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash) 1.7.7 /usr/local/bin
+          actionlint -version
+
+      - name: Lint workflows
+        run: actionlint -color .github/workflows/*.yml
+
+      - name: Python syntax check
+        run: python -m py_compile scripts/*.py
+
+      - name: Install test deps
+        run: python -m pip install --quiet pytest
+
+      - name: Run unit tests
+        run: python -m pytest tests/unit/ -v
+
+      - name: Validate content (PR)
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          echo "Comparing against base SHA: $BASE_SHA"
+          python scripts/validate.py --changed --base "$BASE_SHA"
+
+      - name: Validate content (push)
+        if: github.event_name == 'push'
+        run: python scripts/validate.py --all

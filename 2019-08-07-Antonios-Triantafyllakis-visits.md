@@ -28,7 +28,7 @@ I’m here for a conference – the general assembly of one of the largest stude
 That’s great. I read on your CV that you’re location-independent. Does that mean that you fly over the world?
 
 ### Antonios Triantafyllakis:
-I try to keep it more sustainable, so I try to prefer buses, trains, or whatever, but in some caces flights are inevitable, so I fly a lot, yeah…
+I try to keep it more sustainable, so I try to prefer buses, trains, or whatever, but in some cases flights are inevitable, so I fly a lot, yeah…
 
 ### Audrey Tang:
 I usually use telepresence or hologram, things like…which is even more environmentally \[laughs\] sustainable.

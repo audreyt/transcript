@@ -146,7 +146,7 @@ And many more languages.
 And many more languages? Which language was it, even?
 
 ### Audrey Tang:
-It is actually very interesting, because it’s called “Bulai naniyam kalalumayan”, meaining beautiful grains of rice. It’s one of the more famous indigenous songs by the singer BaLiwakes. It is that language. It’s in Pinuyumayan language.
+It is actually very interesting, because it’s called “Bulai naniyam kalalumayan”, meaning beautiful grains of rice. It’s one of the more famous indigenous songs by the singer BaLiwakes. It is that language. It’s in Pinuyumayan language.
 
 ### Audrey Tang:
 Let’s see if I remember that line, because it’s important to get it right. Yes, it is in Pinuyumayan language in 1958.

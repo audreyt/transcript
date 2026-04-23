@@ -34,7 +34,7 @@ Yes, I think great. If you could do, imagine looking back, that you would end up
 I am always a digital minister, a lowercase minister, as in preaching, \[laughs\] preaching about digital transformation.
 
 ### Audrey Tang:
-When I was 15 years old, I participated already in the Internet governance communities, with contributions to W3C, at one time to IETF Working Group on a team, and also, of course, Pearl, and many other free software. At that time, there was no name open source yet.
+When I was 15 years old, I participated already in the Internet governance communities, with contributions to W3C, at one time to IETF Working Group on a team, and also, of course, Perl, and many other free software. At that time, there was no name open source yet.
 
 ### Audrey Tang:
 All these are politics really. What we’re doing is essentially ministerial work. It’s about making sure that people can have common values out of different positions. We don’t even have coercive power. The Internet community doesn’t have guns and ships.
@@ -775,7 +775,7 @@ How interesting. What are the biggest global challenges in digital government in
 One of the challenge is whether we can keep the core of the Internet a commons, basically making sure that whatever state actors want to further their state agenda, at least the materialized, the core Internet infrastructure, instead of Balkanizing the Internet, or making the Internet fragmented under various corporate governances, the core idea of permissionless innovation and end-to-end principle must be kept.
 
 ### Audrey Tang:
-This is why I’m a conservative when it comes to the Internet culture. I think people 50 years ago got it just right on this particular part. Of course, we can increase our trust on context, but we shouldn’t forget about why the Internet starts with an “inter” which means that it allows now works of different policies, different philosophies, different cultures to still interconnect.
+This is why I’m a conservative when it comes to the Internet culture. I think people 50 years ago got it just right on this particular part. Of course, we can increase our trust on context, but we shouldn’t forget about why the Internet starts with an “inter” which means that it allows networks of different policies, different philosophies, different cultures to still interconnect.
 
 ### Mia Hunt:
 Finally, what is your favorite book or book you’ve read recently that you’ve particularly enjoyed?

@@ -312,7 +312,7 @@ If you’re talking about system on chip and other devices more towards the edge
 What happens? Does Taiwan have to make a decision, eventually, to continue to be part of that? Is it even possible to make that decision the way sort of supply chains work?
 
 ### Audrey Tang:
-I think it’s really a matter of whether we see these components in each of this clearance levels, for lack of a better term. For things like if it’s obviously “dual use” then of course that decision is eassier to make.
+I think it’s really a matter of whether we see these components in each of this clearance levels, for lack of a better term. For things like if it’s obviously “dual use” then of course that decision is easier to make.
 
 ### Audrey Tang:
 For things that are not quite dual use, but contributes to let’s say a network effect of increasing returns, in WTO terms, and then of course it only helps if all the liberal democracies make a collective decision together.
@@ -407,7 +407,7 @@ A lot of issues, but during those three months, they prototype a solution and re
 The two ministers went and had a meeting, and the draft is swiftly passed the parliament. As of this year, it’s now legal for nurses to operate based on specialized doctors in the mainland, main island of Taiwan, and also very importantly, more than 100 clinics, not only in remote islands but also in indigenous nations, are deploying the same system.
 
 ### Audrey Tang:
-We have a lot more cases now, as compared to just one or two prototypes. I really think Presidential Hackathon is a great amplifier for those smaller scale social innovations to be skilled into country level, because the trophy is a promise from the President that whatever you did in the past three months, we will make it happen on national skill within the next 12 months.
+We have a lot more cases now, as compared to just one or two prototypes. I really think Presidential Hackathon is a great amplifier for those smaller scale social innovations to be skilled into country level, because the trophy is a promise from the President that whatever you did in the past three months, we will make it happen on national scale within the next 12 months.
 
 ### Kelsey Broderick:
 Are you optimistic that all these digital efforts will reduce this brain drain concept?

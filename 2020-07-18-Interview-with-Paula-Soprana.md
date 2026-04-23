@@ -103,7 +103,7 @@ Can you describe to me the system of masks and the map?
 Yes, of course. It’s already a given in Taiwan that people are using map-based technology and their own measurement stations to track, for example, air pollution, and also water pollution levels, and so on. We repurposed that civic sector technology for the distribution of masks in pharmacies.
 
 ### Audrey Tang:
-It’s not a government idea. It’s a civic technologist in Hainan inventing this way of people reporting where has masks and where does not. We ensure that we trust the citizens radically with an open API so that after a couple of days of Howard Wu, Wu Chang-Wei inventing this technology, we made sure that we supply him and everybody else, more than 100 teams developing the availability mask map, with the real-time data.
+It’s not a government idea. It’s a civic technologist in Tainan inventing this way of people reporting where has masks and where does not. We ensure that we trust the citizens radically with an open API so that after a couple of days of Howard Wu, Wu Chang-Wei inventing this technology, we made sure that we supply him and everybody else, more than 100 teams developing the availability mask map, with the real-time data.
 
 ### Audrey Tang:
 Every 30 seconds, we refresh the availability level of children’s masks, of adults’ masks of all the pharmacies in Taiwan, and so people can very easily, even if they have conditions like blindness, they can also use a voice assistant or they can use a chatbot and so on to get the remaining stock of the pharmacies that’s closest to them, and go there and swipe their NHI – the National Health Insurance – card.

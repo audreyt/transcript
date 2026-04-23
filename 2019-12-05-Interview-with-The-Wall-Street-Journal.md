@@ -174,10 +174,10 @@ In any case, through Presidential Hackathon, we work with the private and the ac
 This is one of the examples of the Presidential Hackathon. Once they piloted on this small area, they get a trophy from the president.
 
 ### Audrey Tang:
-This is a micro projector. When you turn it on, it summons the president and show a small film of the president giving the trophy to the team. It’s very useful in a public sector, because when you’re there, if your jounalist say, “There’s no budget,” you just summon the president.
+This is a micro projector. When you turn it on, it summons the president and show a small film of the president giving the trophy to the team. It’s very useful in a public sector, because when you’re there, if your journalist say, “There’s no budget,” you just summon the president.
 
 ### Audrey Tang:
-Then they say, “Oh, there is budget to scale Keelung through the entire country.” Because it signifiy the political promise from the president. Whatever they’ve done in the past quarter, we commit to make it national policy within the next 12 months.
+Then they say, “Oh, there is budget to scale Keelung through the entire country.” Because it signify the political promise from the president. Whatever they’ve done in the past quarter, we commit to make it national policy within the next 12 months.
 
 ### Audrey Tang:
 It’s a very quick amplification of social innovation. It may even extend to the Parliament. One of the five winning teams last year was working on telemedicine. They started from Green Island or Orchid Island. There’s many smaller islands around Taiwan.

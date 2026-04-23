@@ -179,7 +179,7 @@ Definitely, I call it a people-public-private partnership. The people think of t
 
 It's not a government project. Literally, people from the g0v community built dozens, if not hundreds, of such prototypes to ensure that people get masks as quickly as possible.
 
-Then, we amplify those norms with public service announcements with very cute doc saying, "The mask are here to protect your own face against your own unwashed hands." Who could disagree with that?
+Then, we amplify those norms with public service announcements with very cute dog saying, "The mask are here to protect your own face against your own unwashed hands." Who could disagree with that?
 
 We amplify the norms that a civic type people do by the force on the private sector, the pharmacies, the convenience store chains, the manufacturer of those mask to join the system prototype by the civic tech sector to ensure that we start it from, I guess, less than two masks on average, per person, per week, and growing up very quickly so that we can currently have unlimited mask.
 
@@ -247,7 +247,7 @@ It did provide a way to increase what they call the bit rate of democracy. Meani
 
 Nowadays, people learned that we can live stream all the time. Broadband is a human right in Taiwan, so we need to increase the bit rate of democracy by making sure that people can participate on the day to day basis. In addition, of course, to the plastic straw or the redesigning of the tax filing service, and so on, we also work on more serious matters.
 
-For example, how to adjust our referendum act. How to work with the constitutional rulings of marriage quality without offending the more traditional family to family kind of relationship, which is why we legalize the by-laws of individuals, but not the in-laws.
+For example, how to adjust our referendum act. How to work with the constitutional rulings of marriage equality without offending the more traditional family to family kind of relationship, which is why we legalize the by-laws of individuals, but not the in-laws.
 
 When two same sex people wed, their families don't and they don't form a kinship relation. That's a social innovation. That's direct result of the civic participation.
 

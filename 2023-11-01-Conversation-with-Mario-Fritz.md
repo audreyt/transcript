@@ -155,7 +155,7 @@ Okay. So, there's more pessimism…
 ### Audrey Tang:
 The thing, though, is that we have also recovered from the pandemic itself, actually, and also, the infodemic in conjunction with the pandemic. And the reason why we recovered is not that we eradicated the coronavirus. We did not. But rather, we invented vaccines and cure and so on. So, although the initial quarantine or initial lockdowns and so on are not sustainable, as everybody knows now, it, at least in Taiwan, did buy us time, until such a time where people are vaccinated and had a good cure.
 
-And so, I think a lot of research needs to go on what's the inoculation like to maintain information integrity. We call it pre-bunking, like just letting people know that there is this spring going on and so that people will become less suspectible for the swarm of misinformation.
+And so, I think a lot of research needs to go on what's the inoculation like to maintain information integrity. We call it pre-bunking, like just letting people know that there is this spring going on and so that people will become less susceptible for the swarm of misinformation.
 
 ### Mario Fritz:
 But when you say information collapse, would that imply that there's a point where society becomes alienated from technology and we just go back to smaller circles, personal communication? I'm not sure what that implies. It doesn't sound very…
@@ -267,7 +267,7 @@ Yeah, the citizen assemblies.
 Ah, yes. The citizen assemblies. So, that's kind of a virtual version of the citizen assemblies. It gives these representatives, you can...
 
 ### Audrey Tang:
-Yeah, instead of aggregating individual preferences, which is very suspectible to the persuasion attack you just mentioned, we instead operate on the units of statistically reasonable citizens. And that becomes a voter, not a single voter. This synthetic voter, which always goes to the source with citation and dignity and all that, then becomes a unit of deliberation in a higher level of conversation. So, maybe one such group can represent a river, and maybe one such group can represent a mountain.
+Yeah, instead of aggregating individual preferences, which is very susceptible to the persuasion attack you just mentioned, we instead operate on the units of statistically reasonable citizens. And that becomes a voter, not a single voter. This synthetic voter, which always goes to the source with citation and dignity and all that, then becomes a unit of deliberation in a higher level of conversation. So, maybe one such group can represent a river, and maybe one such group can represent a mountain.
 
 Wendy here just attended Meta's online event. They work with Stanford to basically turn such conversations into something deliberative, through Deliberative Polling®.
 
@@ -465,7 +465,7 @@ So, I think for specific risks and harms, once there is a societal evidence to i
 But can we quantify what is the cost of leaking my genome or the genome of a population? I mean, it's difficult to quantify these things. We could put a price tag on these things to really make it clear, but even also for other personal information, I think the amount of money that basically can be made from this either legitimately or illegitimately, I think is difficult. It would maybe help to quantify this, but for privacy, I'm not sure if there's much precedence.
 
 ### Audrey Tang:
-There are a collective negotiation of a people, specifically for medical research purposes. Tthe idea is that if somebody is willing to buy specific outlying properties from a people, there were some precedence on that, how much price they're willing to pay in an open, willing foreign market. It's a basis on top of which we can analyze the risks and harms.
+There are a collective negotiation of a people, specifically for medical research purposes. The idea is that if somebody is willing to buy specific outlying properties from a people, there were some precedence on that, how much price they're willing to pay in an open, willing foreign market. It's a basis on top of which we can analyze the risks and harms.
 
 So, I think the point we're making in our data altruism guidelines is we stop analyzing privacy solely on the individual level. Because exactly as you observe, it's almost meaningless for an individual level how much harm, right? Because if I donate or I give up my genomic data, so did all my close relatives in part, right? So, everybody is affected in a sense. Or if there's a confidential conversation like the Wikileaks diplomatic cables and so on, then it's definitely not just the CIA. It's also all the nations that was implicated in the cable.
 

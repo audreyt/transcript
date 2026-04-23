@@ -156,7 +156,7 @@ Your first question, I'm a little bit afraid I can't have the correct and the ri
 > (laughter)
 
 ### Ichiro Tsuge:
-We are doing a lot of business with NTD, or KDDI and the Softbank and other take on company. First of all, they have the license. We will have to do, by ourselves but at the same time we have a good realtionship to the local government, or the central government. We have many. Our employees work in there but nothing can beat the realtionship we have. I don't know why but the local 5G's not so...
+We are doing a lot of business with NTD, or KDDI and the Softbank and other take on company. First of all, they have the license. We will have to do, by ourselves but at the same time we have a good relationship to the local government, or the central government. We have many. Our employees work in there but nothing can beat the relationship we have. I don't know why but the local 5G's not so...
 
 ### Audrey Tang:
 Popular?
@@ -225,7 +225,7 @@ The technology can help them to do more efficiency to manufacturing. Also, maybe
 This new technology, also under my administration, we can help our industry to adapt them and to implement them to help them to do the digital transformation.
 
 ### Ichiro Tsuge:
-Also, you mentioned digital transformation. Yes. The DX is still a buzzword in Japan. It's amazing, but making some progress every year. This is my personal opinion, though. Maybe we have to have a good cloud system first. Then, maybe we should, how to say it? We should integrate the data? We have to do many things, many layersS.
+Also, you mentioned digital transformation. Yes. The DX is still a buzzword in Japan. It's amazing, but making some progress every year. This is my personal opinion, though. Maybe we have to have a good cloud system first. Then, maybe we should, how to say it? We should integrate the data? We have to do many things, many layers.
 
 Then lastly, maybe AI or something like that. Maybe the concept should be DX. Then, we can talk about DX. [laughs] We have to have a good system. Maybe we call it Cloud or whatever.
 

@@ -417,7 +417,7 @@ I have some comments on this issue. The first thing is in this issue is controve
 Sure. What we’re talking about is that, if they’re within legal areas of operation, and they’re not trans-shipping, we really shouldn’t ask them to publish anything, right? That’s the position that I just outlined.
 
 ### Ding-Rong Lin:
-Another one is, I think that the fishery agency have full control of fishing fleet’s operation, particularly for those fishing vessels operating in the high seas. Our situation is totally different from the situation of Indonesian. I’m not sure if they have full control over their fishing vessels operation. We think it is easy for Indonesia to rely on the external assitance, for the instance, the NGOs.
+Another one is, I think that the fishery agency have full control of fishing fleet’s operation, particularly for those fishing vessels operating in the high seas. Our situation is totally different from the situation of Indonesian. I’m not sure if they have full control over their fishing vessels operation. We think it is easy for Indonesia to rely on the external assistance, for the instance, the NGOs.
 
 ### Audrey Tang:
 They essentially crowd-source that capacity.

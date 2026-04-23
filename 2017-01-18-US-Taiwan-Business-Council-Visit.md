@@ -57,7 +57,7 @@ We are an equipment maker. We make the tools that are used to produce semi‑con
 Taiwan’s actually our single biggest market. We manufacture our display tools down Tainan. We both sell here. We source here. We work with hundreds of local suppliers. We work with local universities. This is very important market for us.
 
 ### William Morin:
-It’s a pleasure to be here. We wanted to speak with you about it, to get your sense on what some of the new government programs in Asia Silicone Valley and so forth. Maybe just get a little progress report on that. Then we could also touch on individual issues. We come from different parts of the tech sector. We do have that common, we’re all technology based.
+It’s a pleasure to be here. We wanted to speak with you about it, to get your sense on what some of the new government programs in Asia Silicon Valley and so forth. Maybe just get a little progress report on that. Then we could also touch on individual issues. We come from different parts of the tech sector. We do have that common, we’re all technology based.
 
 ### Pearl Chen:
 Hi. I’m Pearl, from Minister of Foreign Affairs.
@@ -83,7 +83,7 @@ Update you on the...
 Yeah. I think that’d be really interesting to hear about the Asia Silicon Valley. I know that’s been in the works for probably not quite a year, six months or so. It would be great to understand...
 
 ### Audrey Tang:
-Sure. It was part of the presidential campaign. Are you familiar with the redefinition story? Initially this used to be more of a regional development planning. As part of the president’s campaign, every large region in Taiwan has a distinct aspect to it, which is what we call the fthe original five, before the plus two. Now it’s five plus two plus two...
+Sure. It was part of the presidential campaign. Are you familiar with the redefinition story? Initially this used to be more of a regional development planning. As part of the president’s campaign, every large region in Taiwan has a distinct aspect to it, which is what we call the original five, before the plus two. Now it’s five plus two plus two...
 
 > (laughter)
 

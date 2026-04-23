@@ -92,7 +92,7 @@ They’re all very open. If you write, they’re bound to answer. They’re a op
 Do they have a website?
 
 ### Audrey Tang:
-If you search for HITCON, you’ll see. Of course, in your correspondence you can CC me, but even if you don’t CC me, I’m sure that they will be very...This is the hacker’s in telling conference. They have email, Facebook, Twitter, and everything. There’s also English, so you can see the people involved.
+If you search for HITCON, you’ll see. Of course, in your correspondence you can CC me, but even if you don’t CC me, I’m sure that they will be very...This is the Hacks in Taiwan Conference. They have email, Facebook, Twitter, and everything. There’s also English, so you can see the people involved.
 
 ### Andrew Silver:
 One other thing I was going to ask you about, I saw something in -- what was it? -- the &quot;Taipei Times,&quot; maybe. A couple of groups were starting a fake news collaboration center. I know you’d previously talked about the education thing in the schools. This sounded, to me, like it was going to be something separate.
@@ -679,4 +679,3 @@ Thank you.
 
 ### Audrey Tang:
 Have a good one.
-

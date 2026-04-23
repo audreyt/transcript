@@ -1,4 +1,4 @@
-# 2025-03-27 BW Column: Countering the AI bin Laden Threat
+# 2025-03-27 BW Column: Harnessing AI to Foster Social Unity
 
 ### Audrey Tang:
 

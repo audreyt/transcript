@@ -214,7 +214,7 @@ Right.
 If there are jurisdictions that take a not rule of law, by rule by a law approach, it’s like they drop the “inter-“ from the internet and go back to intranets, essentially. I still think the core internet will prevail and it’s our job to make sure that people understand the difference between a rule by law, instrumental use of the law and aphorisms, and the rule of law of the norm shaping that shapes the open internet.
 
 ### Azeem Azhar:
-I’m curious from another historical perspective, how the Taiwanese government hacker community of which you were part reflected or responded when we had the Edward Snowden revelations and the greater awareness of the American National Security Agency’s, tactical operations, which involved trying to weaken thetrustworthiness of hardware coming out of other parts of the world, including the US. Does the same norms that you talk about, trustworthiness with respect to PRC, apply to other states, operators, and other countries?
+I’m curious from another historical perspective, how the Taiwanese government hacker community of which you were part reflected or responded when we had the Edward Snowden revelations and the greater awareness of the American National Security Agency’s, tactical operations, which involved trying to weaken the trustworthiness of hardware coming out of other parts of the world, including the US. Does the same norms that you talk about, trustworthiness with respect to PRC, apply to other states, operators, and other countries?
 
 ### Audrey Tang:
 Definitely, and that’s why, the preferred instant message tool in Taiwan has always been end-to-end encrypted.
@@ -263,4 +263,3 @@ Thank you. Live long and prosper.
 
 ### Azeem Azhar:
 And you. Live long and prosper. Bye-bye.
-

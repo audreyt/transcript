@@ -312,7 +312,7 @@ Comparing now to your own experience of the education system, does it come from 
 I was a junior high school dropout. I don’t really know much about junior or senior high school education back then, having no lived an experience. My friends told me that yeah, it was pretty score oriented and pretty competitive in terms of individual competitiveness, which never made any sense to me anyway.
 
 ### Audrey Tang:
-I can see competitiveness across different groups that solves the same problem, but within the group, competitiveness is obviously wrong. In any case, I can’t see the point, so I quite the school and joined the World Wide Web.
+I can see competitiveness across different groups that solves the same problem, but within the group, competitiveness is obviously wrong. In any case, I can’t see the point, so I quit the school and joined the World Wide Web.
 
 ### Audrey Tang:
 Taiwan really has a good... g0v is not the first movement that was funded mainstream. The experimental education movement started far earlier. My brother, four years my junior, is the first generation that are allowed to be educated in alternative schools.

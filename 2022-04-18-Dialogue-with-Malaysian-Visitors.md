@@ -167,7 +167,7 @@ The second thing is that because the incentive will be misaligned because the pe
 
 At the end of the day, if we make a decision based on biased data, it negatively affects everyone. We put a lot of interest in the accountability. The ability to make an account.
 
-One example, last May, in 2021, we found out that the alpha and delta variants need a faster way of getting people's contact tracing to be known. Oherwise, the contact tracers cannot notify the people who may be at risk of infection by the alpha and delta variants.
+One example, last May, in 2021, we found out that the alpha and delta variants need a faster way of getting people's contact tracing to be known. Otherwise, the contact tracers cannot notify the people who may be at risk of infection by the alpha and delta variants.
 
 Previously, we used a paper based way or Google form or whatever to do registration. We found out that we need something that's semi automated.
 

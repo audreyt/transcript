@@ -226,7 +226,7 @@ Conservative means there is a tradition. The tradition has been going on for qui
 Once it’s part of the common, digital literacy is part of the common curriculum, part of the common sense really of a society, then naturally, people, when faced with new threats, as you put it, like disinformation, people will react in a way that adds to the Internet instead of taking from it. People will not, for example, react by saying, &quot;OK, we ban blocks of IP addresses,&quot; and so on.
 
 ### Audrey Tang:
-Back when the spam was really a problem, during that Bayesian spam filtering days, it was really tempting to ban entire countries from sending email, but the spam management community decided against that. When a supposedly more costly but ultimately more human right preserving way of detecting patterns and only blocking systems with those pattersn.
+Back when the spam was really a problem, during that Bayesian spam filtering days, it was really tempting to ban entire countries from sending email, but the spam management community decided against that. When a supposedly more costly but ultimately more human right preserving way of detecting patterns and only blocking systems with those patterns.
 
 ### Audrey Tang:
 Otherwise, we’re taking away the fundamental rights, the broadband as human right, and the rights to communication to entire blocks in the African continent of people, and that would be actually a shame. I’m very happy that the spam fighting community made the right choice; I’m making sure that that the counter-disinformation community in Taiwan and also abroad makes the right choice this time.

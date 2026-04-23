@@ -374,7 +374,7 @@ What is needed to prevent this from happening and what exactly should be done? I
 You mean the privacy versus the analysis of the data, is that correct?
 
 ### Miku Sano:
-Yes. Advancing of artificial intelligence, or you call assistive intelligence. Also, because the big data being collected and usedd.
+Yes. Advancing of artificial intelligence, or you call assistive intelligence. Also, because the big data being collected and used.
 
 ### Audrey Tang:
 OK, I see. That's a great question.

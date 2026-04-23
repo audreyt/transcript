@@ -4,6 +4,13 @@ on:
   push:
     paths:
       - "*.md"
+      - ".alternates"
+      - "scripts/sync_markdown.py"
+  workflow_dispatch:
+    inputs:
+      before_sha:
+        description: 'Before SHA for catch-up sync after a failed run'
+        required: true
 
 # 同一 commit 若重複觸發，只保留一次執行
 concurrency:
@@ -14,231 +21,45 @@ jobs:
   sync-markdown:
     runs-on: ubuntu-latest
     env:
-      API_ENDPOINT: https://sayit.archive.tw/api/upload_markdown
+      API_ENDPOINT: https://archive.tw/api/upload_markdown
       AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
       BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
     steps:
       - name: Checkout repository
+        # Push depth 50 (not 5) so squash-merges and long PR branches don't
+        # make `git show before_sha:.alternates` fail silently — that would
+        # return None and cause a cascade re-sync of the entire corpus.
         uses: actions/checkout@v4
         with:
-          fetch-depth: 5
+          fetch-depth: ${{ github.event_name != 'workflow_dispatch' && 50 || 0 }}
 
       - name: Resolve token
         id: token
         shell: bash
         run: |
-          if [ -n "${AUDREYT_TRANSCRIPT_TOKEN}" ]; then
-            echo "value=${AUDREYT_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
-          elif [ -n "${BESTIAN_TRANSCRIPT_TOKEN}" ]; then
-            echo "value=${BESTIAN_TRANSCRIPT_TOKEN}" >> "${GITHUB_OUTPUT}"
+          # Empty-string secrets (cleared or missing in some contexts) are
+          # treated the same as unset. Log which identity is in use so that a
+          # silent fallback to BESTIAN doesn't get lost in the run log.
+          audreyt="${AUDREYT_TRANSCRIPT_TOKEN:-}"
+          bestian="${BESTIAN_TRANSCRIPT_TOKEN:-}"
+          if [ -n "${audreyt}" ]; then
+            echo "Using AUDREYT_TRANSCRIPT_TOKEN" >&2
+            echo "value=${audreyt}" >> "${GITHUB_OUTPUT}"
+          elif [ -n "${bestian}" ]; then
+            echo "::warning::AUDREYT_TRANSCRIPT_TOKEN is empty or unset; falling back to BESTIAN_TRANSCRIPT_TOKEN" >&2
+            echo "value=${bestian}" >> "${GITHUB_OUTPUT}"
           else
-            echo "Neither AUDREYT_TRANSCRIPT_TOKEN nor BESTIAN_TRANSCRIPT_TOKEN is set." >&2
+            echo "Neither AUDREYT_TRANSCRIPT_TOKEN nor BESTIAN_TRANSCRIPT_TOKEN is set (or both are empty)." >&2
             exit 1
           fi
 
-      - name: Sync added and deleted markdown files
+      - name: Sync changed markdown and alternate mappings
         env:
           TOKEN: ${{ steps.token.outputs.value }}
-          BEFORE_SHA: ${{ github.event.before }}
+          BEFORE_SHA: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.before_sha || github.event.before }}
           AFTER_SHA: ${{ github.sha }}
         shell: bash
-        run: |
-          python3 - <<'PY'
-          import json
-          import os
-          import pathlib
-          import subprocess
-          import sys
-          import time
-          import urllib.error
-          import urllib.parse
-          import urllib.request
-
-          endpoint = os.environ["API_ENDPOINT"]
-          token = os.environ["TOKEN"]
-          workspace = pathlib.Path(os.environ["GITHUB_WORKSPACE"])
-          before_sha = os.environ.get("BEFORE_SHA", "")
-          after_sha = os.environ.get("AFTER_SHA", "")
-          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
-          ref_name = os.environ.get("GITHUB_REF_NAME", "")
-
-          MAX_RETRIES = 3
-          BASE_DELAY = 2  # seconds
-
-          def request_with_retry(req, label, max_retries=MAX_RETRIES):
-            """Send an HTTP request with exponential backoff retry on 5xx errors."""
-            for attempt in range(1, max_retries + 1):
-              try:
-                with urllib.request.urlopen(req) as resp:
-                  body = resp.read().decode("utf-8", errors="replace")
-                  print(f"{label} -> HTTP {resp.status}")
-                  print(body)
-                  return resp.status, body
-              except urllib.error.HTTPError as e:
-                body = e.read().decode("utf-8", errors="replace")
-                if e.code >= 500 and attempt < max_retries:
-                  delay = BASE_DELAY * (2 ** (attempt - 1))
-                  print(f"{label} failed -> HTTP {e.code} (attempt {attempt}/{max_retries}, retrying in {delay}s)")
-                  print(body)
-                  time.sleep(delay)
-                  # Re-create the request (the previous one's data stream is consumed)
-                  new_req = urllib.request.Request(
-                    req.full_url,
-                    data=req.data,
-                    method=req.get_method(),
-                  )
-                  for header, value in req.headers.items():
-                    new_req.add_header(header, value)
-                  req = new_req
-                  continue
-                print(f"{label} failed -> HTTP {e.code}")
-                print(body)
-                raise
-
-          print(f"[debug] event={event_name} ref={ref_name}")
-          print(f"[debug] before={before_sha}")
-          print(f"[debug] after={after_sha}")
-
-          if before_sha and before_sha != ("0" * 40):
-            cmd = ["git", "diff", "--name-status", "--no-renames", "-z", before_sha, after_sha]
-          else:
-            # Fallback for the first push where "before" can be all zeros.
-            cmd = ["git", "show", "--name-status", "--pretty=format:", "--no-renames", "-z", after_sha]
-
-          print(f"[debug] cmd={' '.join(cmd)}")
-          diff_output = subprocess.check_output(cmd, encoding="utf-8")
-          print("[debug] raw diff output:")
-          print(repr(diff_output) if diff_output else "(empty)")
-
-          added_files = []
-          modified_files = []
-          removed_files = []
-
-          # Parse NUL-delimited output: format is <status> NUL <path> NUL [ <status> NUL <path> NUL ... ]
-          tokens = [t.strip() for t in diff_output.split("\0") if t.strip()]
-          i = 0
-          while i + 1 < len(tokens):
-            status = tokens[i]
-            rel_path = tokens[i + 1]
-            i += 2
-            # Defensive: unquote if needed
-            if rel_path.startswith('"') and rel_path.endswith('"') and len(rel_path) >= 2:
-              rel_path = rel_path[1:-1]
-            p = pathlib.Path(rel_path)
-
-            # 只處理根目錄 markdown 檔
-            if p.suffix != ".md" or len(p.parts) != 1:
-              print(f"[debug] skip by path filter: status={status!r} path={rel_path!r}")
-              continue
-
-            if status.startswith("A"):
-              added_files.append(rel_path)
-              print(f"[debug] detect added: {rel_path!r}")
-            elif status.startswith("M"):
-              modified_files.append(rel_path)
-              print(f"[debug] detect modified: {rel_path!r}")
-            elif status.startswith("D"):
-              removed_files.append(rel_path)
-              print(f"[debug] detect removed: {rel_path!r}")
-
-          # Keep order while removing duplicates.
-          unique_added_files = list(dict.fromkeys(added_files))
-          unique_modified_files = list(dict.fromkeys(modified_files))
-          unique_removed_files = list(dict.fromkeys(removed_files))
-          print(f"[debug] added root md files={unique_added_files}")
-          print(f"[debug] modified root md files={unique_modified_files}")
-          print(f"[debug] removed root md files={unique_removed_files}")
-
-          if not unique_added_files and not unique_modified_files and not unique_removed_files:
-            print("No root-level added, modified, or removed markdown files detected.")
-            sys.exit(0)
-
-          for rel_path in unique_added_files:
-            abs_path = workspace / rel_path
-            if not abs_path.exists():
-              print(f"Skip missing file: {rel_path}")
-              continue
-
-            markdown = abs_path.read_text(encoding="utf-8")
-            payload = {
-              "filename": rel_path,
-              "markdown": markdown,
-            }
-            data = json.dumps(payload).encode("utf-8")
-            req = urllib.request.Request(
-              endpoint,
-              data=data,
-              method="POST",
-              headers={
-                "Authorization": f"Bearer {token}",
-                "Content-Type": "application/json; charset=utf-8",
-                "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript",
-              },
-            )
-
-            request_with_retry(req, f"POST {rel_path}")
-
-          for rel_path in unique_modified_files:
-            # Modified files: DELETE then re-POST
-            # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
-            delete_url = endpoint + "?filename=" + urllib.parse.quote(rel_path, safe="")
-            req = urllib.request.Request(
-              delete_url,
-              method="DELETE",
-              headers={
-                "Authorization": f"Bearer {token}",
-                "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript",
-              },
-            )
-
-            try:
-              request_with_retry(req, f"DELETE (modify) {rel_path}")
-            except urllib.error.HTTPError:
-              # Continue to POST even if DELETE fails (file may not exist yet)
-              pass
-
-            abs_path = workspace / rel_path
-            if not abs_path.exists():
-              print(f"Skip missing file: {rel_path}")
-              continue
-
-            markdown = abs_path.read_text(encoding="utf-8")
-            payload = {
-              "filename": rel_path,
-              "markdown": markdown,
-            }
-            data = json.dumps(payload).encode("utf-8")
-            req = urllib.request.Request(
-              endpoint,
-              data=data,
-              method="POST",
-              headers={
-                "Authorization": f"Bearer {token}",
-                "Content-Type": "application/json; charset=utf-8",
-                "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript",
-              },
-            )
-
-            request_with_retry(req, f"POST (modify) {rel_path}")
-
-          for rel_path in unique_removed_files:
-            # filename を query param で送る（CF が DELETE body を剥ぎ取るため）
-            delete_url = endpoint + "?filename=" + urllib.parse.quote(rel_path, safe="")
-            req = urllib.request.Request(
-              delete_url,
-              method="DELETE",
-              headers={
-                "Authorization": f"Bearer {token}",
-                "User-Agent": "github-actions/1.0",
-                "X-GitHub-Repository": "audreyt/transcript",
-              },
-            )
-
-            request_with_retry(req, f"DELETE {rel_path}")
-          PY
+        run: python3 scripts/sync_markdown.py
 
   rebuild-search-index:
     needs: sync-markdown
@@ -251,7 +72,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: audreyt/sayit-hono
-          token: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
           path: sayit-hono
 
       - name: Setup Node.js
@@ -267,9 +87,12 @@ jobs:
         working-directory: sayit-hono
         run: npm run build:views && npm run build:assets
 
-      - name: Build Pagefind search index
+      - name: Build search index
         working-directory: sayit-hono
         run: npm run build:search -- ${{ github.workspace }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       - name: Deploy to Cloudflare
         working-directory: sayit-hono
