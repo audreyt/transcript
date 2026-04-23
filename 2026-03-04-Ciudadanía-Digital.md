@@ -2,6 +2,8 @@
 
 ### Audrey Tang:
 
+<iframe src="https://embed.vhx.tv/videos/3949343?autoplay=1&color=002249&vimeo=1#t=12m33s" style="position:absolute;top:0;left:0;width:100%;height:100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 Thank you, Paulina. And thank you for 50 years.
 
 That number matters to me. Fifty years ago, the people who built this campus trusted that whoever came after would carry it forward. They could not have imagined our world today: brewing global conflict, extreme weather events, societal polarisation and AI — a technology sophisticated enough to forge fiction into fact.
