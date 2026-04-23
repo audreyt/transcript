@@ -98,7 +98,7 @@ We have a legal definition on disinformation and it’s coded into law now. It�
 It must be harmful to the public, it must be untrue and intentional for it to be considered outside of the protection of the usual freedom of speech as protected by our constitution.
 
 ### Audrey Tang:
-There’s various ways to tackle disinformation, many of which assumes more control in the public sector in concentrating more power to the administration. As the end of this month we will see, in Singapore, for example, an administer, that’s like me, can issue a general correction order to any media about anything that we feel is wrong.
+There’s various ways to tackle disinformation, many of which assumes more control in the public sector in concentrating more power to the administration. As the end of this month we will see, in Singapore, for example, a minister, that’s like me, can issue a general correction order to any media about anything that we feel is wrong.
 
 ### Audrey Tang:
 They must publish the correction. Also, must their fellow institutional media, and social media, as well. They say that this even extends to telegram. I don’t know how that even works.
@@ -487,7 +487,7 @@ Everybody learns, right, exactly.
 Awesome.
 
 ### Audience Member:
-Minster?
+Minister?
 
 ### Audrey Tang:
 Yes?
@@ -1050,7 +1050,7 @@ That’s an interesting question. First of all, I don’t believe in political p
 I think people find an affinity to the post-regional-election Dr. Tsai, because she took on a much more interactive role, a much closer distance to the young people, strategically, during her campaign for a second term.
 
 ### Audrey Tang:
-Also genuinely, because she’s very much interested in sharing, on KKBox, which is like Spotify, the music that she listened to when she was writing doctoral dissertation, awhichnd really builds emotional bond with people. One of them is “Imagine” from John Lennon. \[laughs\] In any case, this means that people are more attracted to Dr. Tsai, not all of which necessarily translate to the DPP.
+Also genuinely, because she’s very much interested in sharing, on KKBox, which is like Spotify, the music that she listened to when she was writing doctoral dissertation, and really builds emotional bond with people. One of them is “Imagine” from John Lennon. \[laughs\] In any case, this means that people are more attracted to Dr. Tsai, not all of which necessarily translate to the DPP.
 
 ### Audrey Tang:
 It’s like how maybe people are fans of Freddy Lim, but not necessarily of NPP – by the way, Freddy recently quit the NPP. Anyway, my point is that if the affinity is to a person and a style that they have on communication, they it may not carry over to their party affiliation.

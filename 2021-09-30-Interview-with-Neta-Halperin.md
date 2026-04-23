@@ -146,7 +146,7 @@ We understand that outrage can be channeled to humor. It's also a way to vent th
 When humor has the capacity to spread more dramatically than even outrage, that is when we know that we have developed a vaccine for the infodemic without censorship or takedowns.
 
 ### Neta Halperin:
-Wow. It's interesting to learn that the humor as a tool is deriven from, let's say, a national wound.
+Wow. It's interesting to learn that the humor as a tool is derived from, let's say, a national wound.
 
 ### Audrey Tang:
 Exactly, because otherwise people will say, "Well then, what's so different about our democratic regime to that dictator we still remember?"

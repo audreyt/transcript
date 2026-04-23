@@ -1,6 +1,6 @@
 # 2017-02-08 Rufus Pollock visit 會後討論
 
-> （電子白板： [https://ey.pdis.nat.gov.tw/shared/RB0Cywqou\WRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd](https://ey.pdis.nat.gov.tw/shared/RB0CywqouWRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd) ）
+> （電子白板： [https://ey.pdis.nat.gov.tw/shared/RB0CywqouWRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd](https://ey.pdis.nat.gov.tw/shared/RB0CywqouWRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd) ）
 
 ### 林書漾：
 （白板第1張）好，問答。

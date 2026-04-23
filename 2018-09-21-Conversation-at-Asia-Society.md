@@ -434,7 +434,7 @@ The local people, all they have to do is to walk to the town hall, or to join yo
 Whenever people make constructive criticisms, ideas, or whatever, I bring it back through a kind of channeling device back to where the mind map is growing in the people there. People perceive the people outside not as protestors, mobs, or whatever, but actually, active contributors to the mind map. They’re mapping.
 
 ### Audrey Tang:
-At the end of it, we agreed the common value is that people should trust their local clinicians more. We allocate a lot of fun to build a new hospital, where we can fly doctors in, instead of flying patients out.
+At the end of it, we agreed the common value is that people should trust their local clinicians more. We allocate a lot of funds to build a new hospital, where we can fly doctors in, instead of flying patients out.
 
 ### Daniel R. Russel:
 Interesting. What are some of the points of resistance that you are encountering to elements of this set of programs, whether it’s Join, vTaiwan, or open government? Who’s pushing back?

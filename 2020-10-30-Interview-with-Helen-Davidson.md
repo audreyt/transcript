@@ -87,7 +87,7 @@ They’ve used those traditional rice cookers, with emphasis on traditional beca
 If you use that sort of traditional rice cooker and put a mask in it, but crucially do not add water and measure the time to be very precise, then after eight minutes or so, it will actually go up to 110 Celsius and go down very quickly within the rice cooker.
 
 ### Audrey Tang:
-In which case the virus is killed, but the fabric is not damaged, or minimally damaged. Turns out you can ruse a single medical mask for three or five times using this method. Of course, additionally, the CECC doesn’t really believe it because it’s very counterintuitive.
+In which case the virus is killed, but the fabric is not damaged, or minimally damaged. Turns out you can reuse a single medical mask for three or five times using this method. Of course, additionally, the CECC doesn’t really believe it because it’s very counterintuitive.
 
 > (laughter)
 
@@ -143,7 +143,7 @@ That’s why we wrote out this idea of triple stimulus, where people can take th
 Rather, they have to physically go outside to the shop, use the credit card, look at a shopkeeper saying that singular, meaning that I understand you have suffered during the past few months, and then after swiping for 3,000 NT dollars they can, in the nearby friendly automated teller machine, withdraw two thirds of that in cash back program.
 
 ### Audrey Tang:
-Because it’s cash back, likely they’ll also spend it on fact-to-face settings. Because of that, we rebuilt the habit of spending outside of one’s own home. We rebuilt economy based on the transaction that more face to face like in night markets and things like that.
+Because it’s cash back, likely they’ll also spend it on face-to-face settings. Because of that, we rebuilt the habit of spending outside of one’s own home. We rebuilt economy based on the transaction that more face to face like in night markets and things like that.
 
 ### Audrey Tang:
 If you search for triple stimulus vouchers, you’ll see how exactly it works. It did work. This quarter, not only the GDP is recording a positive growth, but also all the face to face shopping actually some of them broke the quarterly records in this quarter of the year. It really works pretty well.

@@ -495,7 +495,7 @@ K-to-12 people can always start programming AI and machine-learning models to ma
 That configuration was the same technology as the one that caused social division is then repurposed to use to have solidarity and collaborative relationship across different sectors and academia.
 
 ### Audience Member:
-I I’m going to follow up on that.
+I’m going to follow up on that.
 
 ### Audrey Tang:
 Sure.

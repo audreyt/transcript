@@ -250,7 +250,7 @@ What is the Taiwan government’s position on this part? Also, I would like to k
 There’s a few things. First of all, as a participant in the Wikimedia community, the idea that people put announcements online gets backed up by the Wikipedia community. That is what I firmly believe in. I believe in radical transparency and also accountability. There is a document, the document around the health notice of the pandemic that is gone.
 
 ### Audrey Tang:
-I will just paste you the link, and you can decide for yourself whether that qualifies or not as a material in your work. If you translate through machine translation this, this clearly shows that, as of January the 11th, the Wuhan City is still telling the world that they have not discovered any knew cases in the past week or so.
+I will just paste you the link, and you can decide for yourself whether that qualifies or not as a material in your work. If you translate through machine translation this, this clearly shows that, as of January the 11th, the Wuhan City is still telling the world that they have not discovered any new cases in the past week or so.
 
 ### Audrey Tang:
 That there is no clear evidence that this is being a human-to-human transmission, and things like that. It is a real document that they published over the web at that time. This is also the document upon which that they penalized Dr. Li Wenliang for incorrectly whistleblowing, because that contracts with what they say on this document.

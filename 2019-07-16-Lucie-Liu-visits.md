@@ -82,7 +82,7 @@ Awesome.
 It has been shown in Berlin as well, and I don’t think it was a wide success, and in London as well so I would like to spread it as much as possible.
 
 ### Audrey Tang:
-Thank you. I something to give to you as well.
+Thank you. I have something to give to you as well.
 
 ### Lucie Liu:
 Oh, you’re welcome. \[laughs\]

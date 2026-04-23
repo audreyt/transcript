@@ -1,6 +1,6 @@
 # 2017-02-14 Open discussion with Rufus Pollock
 
-> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMV\WfUXKlPa](https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMVWfUXKlPa) )
+> ( Whiteboard: [https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMVWfUXKlPa](https://ey.pdis.nat.gov.tw/shared/mz-dL7DJofqEZLbuZ00CG8AsgK13jqlHMVWfUXKlPa) )
 
 ### Audrey Tang:
 2:00 PM today, we’re going to design one of the larger common API — not with the OpenAPI spec — but a common, standard‑based refactoring of our national disaster response systems.
@@ -9,7 +9,7 @@
 That is actually a good, concrete example to talk about, because that would involve merging two established governmental units, at least their front‑end websites, together, and establishing a common data exchange pipeline around disaster data.
 
 ### Audrey Tang:
-Also, we need to somehow demonstrate that it’s better if you open‑source the part of code which may suffer from performance problems, rather than keeping it tied to proprietary DBs and and throwing more hardware at it.
+Also, we need to somehow demonstrate that it’s better if you open‑source the part of code which may suffer from performance problems, rather than keeping it tied to proprietary DBs and throwing more hardware at it.
 
 ### Audrey Tang:
 There’s many dimensions of that operation, and the kick‑off meeting is at 2:00 PM.

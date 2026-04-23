@@ -270,7 +270,7 @@ We're between and above the vertical ministries. When they cannot, for example, 
 Before, we had independent DPA, GDPR style. I think the cabinet level is already stronger than before the pandemic where it's all the work of the individual vertical ministers.
 
 ### Frédéric Krumbein:
-That's a good point though. I'm personally from Germany, so from the European Union. Maybe when it comes to international cooperation, for Taiwan, it's difficult sometimes to get access to vaccines, get access to the WHO, unfortunately. What are the the expectations of Taiwan to the international community, to European countries when it comes to assistance to fight against the pandemic?
+That's a good point though. I'm personally from Germany, so from the European Union. Maybe when it comes to international cooperation, for Taiwan, it's difficult sometimes to get access to vaccines, get access to the WHO, unfortunately. What are the expectations of Taiwan to the international community, to European countries when it comes to assistance to fight against the pandemic?
 
 ### Audrey Tang:
 This time around, if Taiwan was part of WHO in 2019, December, [laughs] then everybody else will learn about this 10 days before. [laughs] That may have prevented a lot of life loss. I think it is quite sad that Taiwan did not have full ministerial access to the WHO system because certainly, we started house inspection the first day of 2020.

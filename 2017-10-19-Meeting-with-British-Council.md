@@ -213,7 +213,7 @@ From you?
 > (laughter)
 
 ### Audrey Tang:
-To be perfectly honest, the methodology, including the RealtimeBoard, the Idea Development, the toolkitall came from the UK.
+To be perfectly honest, the methodology, including the RealtimeBoard, the Idea Development, the toolkit all came from the UK.
 
 ### Audrey Tang:
 It actually began with the Policy Lab methodology, straight from The Cabinet office. The facilitator who introduced this to us actually served in the Policy Lab in the UK. She’s from Taiwan, she just studied service design there in the RCA.

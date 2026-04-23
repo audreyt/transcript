@@ -676,7 +676,7 @@ That actually solves the problem, unless you really want to go for the Jade Moun
 Also, the proximity to high speed rail station directly determines conference attendance, civil society power, and things like that. It is true.
 
 ### Lisa Lin:
-Every time when you were talking about the the AirBox Project. I was like, “OK, this is how our digital gap.” \[laughs\]
+Every time when you were talking about the AirBox Project. I was like, “OK, this is how our digital gap.” \[laughs\]
 
 ### Audrey Tang:
 That is our digital gap, exactly.

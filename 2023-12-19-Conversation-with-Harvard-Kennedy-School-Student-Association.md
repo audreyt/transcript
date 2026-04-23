@@ -96,7 +96,7 @@ I'm wondering if you can talk about how you balance the fight against disinforma
 ### Audrey Tang:
 This is like asking how do we counter the coronavirus while protecting the freedom of movement? In Taiwan, we managed to do both. During the three years of pandemic, there's not a single day where we restricted across city movements of people. We've never had a lockdown internally. I think the keyword here is internally because we do have quite strict quarantine rules on the border. 
 
-One of the most important things that ACS does is to distinguish from the domestic sources, from the foreign sources. You will notice that we don't say this information in the slides or really any public communication. We use the European word FEMI, Foreign Information, Manipulation, and interference, or just foreign interference. That is because Taiwan is an island or many islands, and we can easily distinguish domestic sources of attack or information versus foreign sources. 
+One of the most important things that ACS does is to distinguish from the domestic sources, from the foreign sources. You will notice that we don't say this information in the slides or really any public communication. We use the European word FIMI, Foreign Information, Manipulation, and interference, or just foreign interference. That is because Taiwan is an island or many islands, and we can easily distinguish domestic sources of attack or information versus foreign sources. 
 
 The foreign sources that want to manipulate, want to interfere, and so on, we need to clearly identify them as such. For example, the government communications, starting next week, actually, most of the communications will go through a single SMS number, 111. If you receive a SMS from a governmental source, chances are in a few weeks, everything will be from a very short identifiable number.
 
@@ -133,7 +133,7 @@ It's our wetware limitation, which is why the investment in the synthetic avatar
 We don't have a hallucination to the people. Scaling this quite, I would say, even intimate experience of deliberation is the main challenge that we're tackling now.
 
 ### Chetan Aggarwal:
-Thank you so much, Minister. I'm Chetan Aggarwal from India, I'm a second-year student at the Kennedy School. So I just wanted to speak about Femi and international cooperation regarding that. I think last week, Taiwan, India, and USA held a training conference in India. Would you like to speak a bit about that? 
+Thank you so much, Minister. I'm Chetan Aggarwal from India, I'm a second-year student at the Kennedy School. So I just wanted to speak about FIMI and international cooperation regarding that. I think last week, Taiwan, India, and USA held a training conference in India. Would you like to speak a bit about that? 
 
 ### Audrey Tang:
 I think it is quite interesting that the interactive, deep fake precision persuasion and also India's early actions against TikTok are all converging together on a shared common worry. I think this is quite good because previously, when the retweet and share buttons were invented, there was not such a collective waking up. 
@@ -142,7 +142,7 @@ People thought it's a good idea to flatten context, to reduce shared context int
 
 I think this time, after what we have learned from the anti-social social media a decade ago, the democratic jurisdictions are now waking up much quicker to the threats posed by synthetic media and also by interactive deep fakes and precision persuasion. I would encourage you to look up the Global Declaration on protecting information integrity online.
 
-I think that is one of the more forward-looking ways to, instead of just hammering on each individual, FEMI attacks, this is about building a new infrastructure of, as I mentioned, provenance, but not just provenance, but also cross country digital signature recognition and decentralized identities and things like that to ensure that we still keep some sort of international collaboration, even when each jurisdiction is highly motivated to distinguish domestic sources versus untrusted foreign sources. This rebuilding of the bridges across democratic jurisdictions I think is very important. I hope that answers your question. Thank you. 
+I think that is one of the more forward-looking ways to, instead of just hammering on each individual, FIMI attacks, this is about building a new infrastructure of, as I mentioned, provenance, but not just provenance, but also cross country digital signature recognition and decentralized identities and things like that to ensure that we still keep some sort of international collaboration, even when each jurisdiction is highly motivated to distinguish domestic sources versus untrusted foreign sources. This rebuilding of the bridges across democratic jurisdictions I think is very important. I hope that answers your question. Thank you. 
 
 ### Irving Hsu:
 Hey, Minister Tang, thanks so much for being with us today. My name is Irving. I'm a joint degree student between the Harvard Kennedy School and the business school at Stanford. My question is, what do you see the role of Taiwan playing in terms of promoting responsible uses of AI to simultaneously increase public trust in AI technologies while at the same time maximizing its impact for businesses? 

@@ -385,7 +385,7 @@ At the time, its carbon footprint was negligible because not many people use it.
 
 When Vitalik Buterin, co-founder of Ethereum, visited me in 2016, the main thing we talked about was actually the climate crisis and how the urgency of the climate situation promotes societal changes and how the blockchain community can make a good fork, instead of a bad fork that makes issues worse.
 
-Since then, we very happily saw that Vitalik and his teams successfully migrated Ethereum to proof-of-stake and thereby massively reducing their environmental issues. Then I publicly said that I'm not going to use any proo-of-work coins.
+Since then, we very happily saw that Vitalik and his teams successfully migrated Ethereum to proof-of-stake and thereby massively reducing their environmental issues. Then I publicly said that I'm not going to use any proof-of-work coins.
 
 Now I'm on Ethereum and Tezos, but I'm not on Bitcoin anymore, which was actually a difficult choice for me to make back then, because I was, as some of you know, a conservative anarchist and believed in the ability of code to reorganize society.
 

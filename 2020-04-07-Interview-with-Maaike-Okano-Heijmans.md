@@ -493,7 +493,7 @@ Assistive intelligence. I never say artificial intelligence. I just say assistiv
 In any case, what I’m trying to say is that inclusion and assistive intelligence – what used to be called appropriate technology but nobody use that word now – is very important. That is sometimes missing from the digital connectivity narratives or white papers. Sometimes because people take it for granted.
 
 ### Audrey Tang:
-If you’re in Canada, that’s for granted, you don’t have to mention it. In Europe, I’m not sure that’s uniformly the case. Maybe it is still important to emphasizing inlusion alongside innovation.
+If you’re in Canada, that’s for granted, you don’t have to mention it. In Europe, I’m not sure that’s uniformly the case. Maybe it is still important to emphasizing inclusion alongside innovation.
 
 ### Audrey Tang:
 Our digital development roadmap, we call it DIGI+, D-I-G-I. It stands for development, innovation, governance, and inclusion. They’re equally important. They’re the four pillars. We think with only the first three pillars, things fall very quickly.

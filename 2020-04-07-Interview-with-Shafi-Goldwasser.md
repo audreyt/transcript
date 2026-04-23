@@ -49,7 +49,7 @@ Even when you talk about this, saying that the law says that you are allowed to 
 What’s deemed to be necessary and what’s not deemed to be necessary.
 
 ### Audrey Tang:
-When we say outside of purpose, we mean that we don’t actually touch the data collection phase. It is mostly the data processing and application face that we’re touching. The telecoms are already collecting the signal strength.
+When we say outside of purpose, we mean that we don’t actually touch the data collection phase. It is mostly the data processing and application phase that we’re touching. The telecoms are already collecting the signal strength.
 
 ### Audrey Tang:
 The amount of data collected is minimal, for people under home quarantine for 14 days. We’re just sending them instant messages where they reply, with their temperature, whether they show symptoms, and any suggestions they have to the quarantine experience. That’s the only data that we collect. It’s minimal, and we can prove it’s necessary.
@@ -124,7 +124,7 @@ Well, I guess that’s like asking how do we enforce washing your hands with soa
 True. The assumption here is that people are going to report – in some sense, take care of themselves, or go and ask for masks.
 
 ### Audrey Tang:
-Because people don’t want to be sick, and we have a single-payer health system. They are not going to pay much for the treatment, and the surgical masks are plentily available.
+Because people don’t want to be sick, and we have a single-payer health system. They are not going to pay much for the treatment, and the surgical masks are plentifully available.
 
 ### Audrey Tang:
 Putting on a mask, protecting others, going to a clinic to get a check is the logical thing to do if you know that you’re going to be protected and you’re not going to cost a fortune.

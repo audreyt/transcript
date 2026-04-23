@@ -2183,7 +2183,7 @@ To turn a budget of that size into something that’s engaging and fun, that’s
 Yeah, that’s the beginning of the g0v movement. Then we start doing that for every other website as well.
 
 ### Joe Dolce:
-Really great. That’s a much more powerful example. I think in one of the sheets I send you, it says that the specific is always more memorable than the the abstract, OK? You don’t have too much abstraction. That was the only abstraction that I got really lost on.
+Really great. That’s a much more powerful example. I think in one of the sheets I send you, it says that the specific is always more memorable than the abstract, OK? You don’t have too much abstraction. That was the only abstraction that I got really lost on.
 
 ### Joe Dolce:
 I don’t think you need to exemplify everything. But I think that is a perfect way of going from words to pictures to clarity.

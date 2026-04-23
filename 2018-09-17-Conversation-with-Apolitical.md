@@ -118,7 +118,7 @@ To delivery, yeah.
 The delivery strategy.
 
 ### Anoush Darabi:
-That could be interesting, because the UK civil servants in particular are very focused on focused on delivery, I find. That’s making the strategy itself the delivery. I think that could be an interesting way they could contribute.
+That could be interesting, because the UK civil servants in particular are very focused on delivery, I find. That’s making the strategy itself the delivery. I think that could be an interesting way they could contribute.
 
 ### Audrey Tang:
 That’s right. We’re the Public Digital Innovation Space. We just went public digital.

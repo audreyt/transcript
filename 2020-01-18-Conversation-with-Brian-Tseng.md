@@ -669,7 +669,7 @@ Of course, a part of me did that to avoid the cilantro conflict, but the importa
 After the effect wears off, the cat actually becomes quite reasonable. Thus, we can keep on talking about the topic nicely.
 
 ### Brian Tseng:
-However, in order to use memes to reply to the disinformation, or as a the premise to make this work, the memes always have to…always have to be more hilarious.
+However, in order to use memes to reply to the disinformation, or as the premise to make this work, the memes always have to…always have to be more hilarious.
 
 ### Brian Tseng:
 Because…for instance, if disinformation is spread through more hilarious memes, then aren’t we kind of having a competition to be the funniest message to grab everyone’s attention?

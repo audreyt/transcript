@@ -22,7 +22,7 @@ Xīshān Xínglǚ Tú.
 Xīshān Xínglǚ Tú.
 
 ### Audrey Tang:
-The desiginer is Justin Chou, and the brand is called JUST IN XX.
+The designer is Justin Chou, and the brand is called JUST IN XX.
 
 ### Matthias Sander:
 Right.

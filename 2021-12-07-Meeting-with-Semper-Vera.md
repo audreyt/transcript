@@ -146,7 +146,7 @@ Yes. That was my question.
 By adding this... by creating a gas fee which is normal in any financial system, when you transfer money there's always a fee associated.
 
 ### Alex Liu:
-Let's just quantify the fee, Audrey. It's one basis point. It's on the low end. If you compare it to credit card discount rates, one percent and their FX spreads three to five percent. One basis coin is in the realm of reason.
+Let's just quantify the fee, Audrey. It's one basis point. It's on the low end. If you compare it to credit card discount rates, one percent and their FX spreads three to five percent. One basis point is in the realm of reason.
 
 ### Audrey Tang:
 Sure. I don't dispute that. I was saying that because it's not traditionally seen as an interbank clearing service. You're talking about clearing between two accounts. It's a new model.

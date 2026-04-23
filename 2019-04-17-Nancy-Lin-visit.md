@@ -46,7 +46,7 @@ They do run open-to-public events in that venue?
 I don’t know about public events at this particular company. I do know that there are a lot of other companies hosting events all the time. I think it’s just a precaution.
 
 ### Audrey Tang:
-It could be physically, only open to their company employees, but then you live stream it or make it available online and people can partciipate over the Internet. That’s also pretty common.
+It could be physically, only open to their company employees, but then you live stream it or make it available online and people can participate over the Internet. That’s also pretty common.
 
 ### Nancy Lin:
 I don’t think it’s a problem at all. It just takes a little bit time in doing more out-reach to other organizations, and finalizing exactly which groups are going to be involved. Maybe it will take another two weeks before we can finalize the date.

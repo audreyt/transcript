@@ -233,7 +233,7 @@ Thank you. We've heard about resilience for all and protecting democratic instit
 We've currently got a former prime minister who's had a phone locked in a cupboard, apparently, after being cyber attacked by a hostile government. How do you think we can learn the lessons from you? You're in the eye of the stall, what lessons can we learn from you in terms of protecting our politicians as well?
 
 ### Audrey Tang:
-That's a great question. For example, I sign my public official documents using my mobile devices, but we adopt what's called a zero trust configuration. It's a technical term, meaning that the there's no single root of trust, not the password, not my fingerprint, not the connection, not the SIM card, but a combination of these.
+That's a great question. For example, I sign my public official documents using my mobile devices, but we adopt what's called a zero trust configuration. It's a technical term, meaning that there's no single root of trust, not the password, not my fingerprint, not the connection, not the SIM card, but a combination of these.
 
 At any given time when I sign a public document, the FIDO, my fingerprint is checked on my device, it's not transmitted anywhere, it's just on my device. The connection itself, the SIM card, is checked for integrity. The phone's apps and so on is check for integrity. If any of these show any sign of being infiltrated, so one. The other factor still protect me, and then we can discover who's actually meddling with my phone.
 

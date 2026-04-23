@@ -970,7 +970,7 @@ That’s another aspect of sustainability and a wholesome view of how you can bu
 For sure, yeah. For sure, they also signed the SDGs. Especially around the 16th they also promised to have a fully accountable justice and constitutionally protected equality. The situation is a little bit like feudal...I don’t know, empires, where the empire rests on the fact that the emperor is never wrong.
 
 ### Audrey Tang:
-We still do know some jurisdictions that work that way. In the PRCs case — that’s the CCP — the CCP is never wrong. Actually, I still remember in Taiwan before the martial law was lifted, that the KMP was never wrong. It’s the same thing, right? \[laughs\]
+We still do know some jurisdictions that work that way. In the PRCs case — that’s the CCP — the CCP is never wrong. Actually, I still remember in Taiwan before the martial law was lifted, that the KMT was never wrong. It’s the same thing, right? \[laughs\]
 
 ### Audrey Tang:
 That’s why within KMT, there are people working on what we will nowadays call &quot;inclusion&quot; and also on accountability. It’s just they operate under the assumption that the party is never wrong. But individual factions within the party may be wrong. Individual party members may be wrong.
@@ -979,7 +979,7 @@ That’s why within KMT, there are people working on what we will nowadays call 
 We still have to honor this kind of an audit of external separation of powers, and so on, but all within the umbrella of a party that is never wrong.
 
 ### Audrey Tang:
-It’s basically the story of Chiang Ching kuo, really, at the end of the KMP’s martial rule. I wouldn’t say it’s entirely incompatible with a party that is never wrong. At the moment, yes. They are dabbling in state surveillance.
+It’s basically the story of Chiang Ching kuo, really, at the end of the KMT’s martial rule. I wouldn’t say it’s entirely incompatible with a party that is never wrong. At the moment, yes. They are dabbling in state surveillance.
 
 ### Miriam Meckel:
 My question goes more into the direction of whether it’s the basic ideas, getting rid of KPIs like GDP, open source government ideas, not in terms of data but in terms of...

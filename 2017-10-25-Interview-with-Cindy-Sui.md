@@ -67,7 +67,7 @@ If you could just quickly sum up what the main problems are in Taiwan.
 It used to be the three problems that we face, when I was an entrepreneur, are the unclear application and regulations. That is by far the largest one. In addition to regulation, the difficulty of retaining and getting the foreign talents to join, this is another very clear issue.
 
 ### Audrey Tang:
-The third issue I think would be the the risk-averse attitude of many people, instead of engage in this kind of risk-taking thinking. So three things: Regulation, talent, and culture.
+The third issue I think would be the risk-averse attitude of many people, instead of engage in this kind of risk-taking thinking. So three things: Regulation, talent, and culture.
 
 ### Cindy Sui:
 I’m sorry, you said a foreign talent, but I thought there’s also a lack of local talent in software engineering or in business startups that kind of thing. So why only foreign talent?

@@ -57,7 +57,7 @@ The second part is that it’s participatory, meaning that the Internet really e
 Because of this, every change has to be voluntary. People has to actually sign up on the new version of the Internet protocol before the protocol gets widely adopted. It’s because of this that the engagements of the stakeholder communities are put into the foremost prominence of the governance model. That’s the second part.
 
 ### Audrey Tang:
-The third part, I think and even more importantly, is that everything is accountable, meaning that you can go back and look at every chance in the RFC, and every implementation details, and found who exactly where proposed that.
+The third part, I think and even more importantly, is that everything is accountable, meaning that you can go back and look at every change in the RFC, and every implementation details, and found who exactly were proposed that.
 
 ### Audrey Tang:
 There is the audit trail, of sorts, of all the laws. When I’m talking about laws, this is laws of code. It’s more like physical laws. It regulates what’s possible and what’s not on the Internet. It’s not really legal code, but it carries even more force than legal code in some cases, like in Blockchain, and in other technological mechanisms.
@@ -141,7 +141,7 @@ What I did at the time was not taking any particular sides, but rather developin
 We have the green, ecologically‑minded people here. We have the labor‑minded people there, the left wing people, and also the separated independence people. Each street held their own deliberations. The occupied parliament also held their deliberations.
 
 ### Audrey Tang:
-As the ICT Geeks, we also built with Eight Mons before. We worked for Eight Mons to build one particular app that lets you enter your company’s name, or the trade that your company’s doing, and look at exactly the part in the cross‑trade service trade agreements that affects you. You don’t have to read through 500 pages of PDF files.
+As the ICT Geeks, we also built with Eight Months before. We worked for Eight Months to build one particular app that lets you enter your company’s name, or the trade that your company’s doing, and look at exactly the part in the cross‑trade service trade agreements that affects you. You don’t have to read through 500 pages of PDF files.
 
 ### Audrey Tang:
 There is these kind of factual, evidence‑based tools that lets you make informed decisions. Now we also, during the occupy, not only videotape all the deliberations that happened, but also worked with stenographic transcript people to type it down to those online documents, which are collaborative edited, and then translated to various other languages.
@@ -515,7 +515,7 @@ They go to Silicon Valley and pursue something that they would look, and amplify
 What Taiwan does previously is more of a &quot;do one thing and do it well&quot; kind of industry building, There’s less respect for this kind of integration between the diverse cultures and diverse background of hardware, and software, and kind of humanities, even, and so on, and try to make something that really amplifies and changes the world.
 
 ### Audrey Tang:
-Before we get there, we still need to get the cost of staring a startup and hiring some expert foreign workers much easier, before we can get to this inclusive culture. This is also why this is a multi‑year plan. We are not looking at a culture change overnight. We are doing what we can in the first one or two years.
+Before we get there, we still need to get the cost of starting a startup and hiring some expert foreign workers much easier, before we can get to this inclusive culture. This is also why this is a multi‑year plan. We are not looking at a culture change overnight. We are doing what we can in the first one or two years.
 
 ### Audrey Tang:
 This is what we call agile governance. We look at what happens, and then we change our governance structure to try to make things easier for the new startup that then sprouts because of our earlier work. We change our governance structures around the actual ecosystem, change is brought up by the previous stages of our program.

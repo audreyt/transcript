@@ -393,7 +393,7 @@ I run my meetings like this. I run my websites like this. I do radical transpare
 By showing people that it actually reduces costs, both in time and also in people involved, also, it’s fun, right, you make this much participatory. Also that is effective. It removes the fear of the public servants of the unknown.
 
 ### Audrey Tang:
-Soo we turn the unknown into something that you can see on a smaller scale. It’s up to each level of government, to each ministry to see whether they want to implement these procedures and introduce those digital tools. How much to introduce is all up to them.
+So we turn the unknown into something that you can see on a smaller scale. It’s up to each level of government, to each ministry to see whether they want to implement these procedures and introduce those digital tools. How much to introduce is all up to them.
 
 ### Audrey Tang:
 As a anarchist, of course, I don’t give commands, but I just show those examples and people take whatever they like. They seem to like it because by showing it works, it’s probably certainly they’re all smart people. They try to pick the things that they need, that they want, and improve their quality of life, which is great.

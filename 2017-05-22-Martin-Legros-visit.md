@@ -976,7 +976,7 @@ Would you say that it’s the positive part of all the phenomena we see with Ube
 I think Uber and Airbnb are two completely different thing. Uber, as far as we know, doesn’t allow, say ride-sharing in Taiwan. It used to allow ride-sharing in France. I don’t know about now, but it always has to dispatch through an intermediary.
 
 ### Audrey Tang:
-Airbnb is more like a listing where people can see what other landlords or people around them are are, so it’s more like a platform, while Uber is more like a middle person.
+Airbnb is more like a listing where people can see what other landlords or people around them are, so it’s more like a platform, while Uber is more like a middle person.
 
 ### Audrey Tang:
 Of course, these are two different models. The European Union calls this collaborative, and calls this platform. I wouldn’t say it’s a anarchistic foundation. I would say that they harness some of the needs, psychological and material needs toward this free exchange, but taking a cut from it.

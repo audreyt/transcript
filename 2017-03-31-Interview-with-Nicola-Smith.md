@@ -76,7 +76,7 @@ Because it costs almost nothing to manufacture, and if one out of 100 goes viral
 Is that limited to internal domestic controversies or issues, or is there also attempt from outside Taiwan to try to sway public opinion politically?
 
 ### Audrey Tang:
-Part of the the idea is that if a meme goes viral in any region, it can spread. Because social media really knows no boundary of nationality, it is likely to go viral in any other region as well. I wouldn’t say it’s purely domestic.
+Part of the idea is that if a meme goes viral in any region, it can spread. Because social media really knows no boundary of nationality, it is likely to go viral in any other region as well. I wouldn’t say it’s purely domestic.
 
 ### Audrey Tang:
 I would say that it just depends on how tuned the local population is to that particular meme. Maybe it goes viral or maybe it goes through some translation or adaptation before it goes viral. I wouldn’t call it anything that’s occurring &quot;around&quot; or &quot;across&quot; national boundaries.
@@ -600,7 +600,7 @@ Is there a generational gap? Do you think the Taiwanese youth are moving in a di
 You are asking the one wrong person here; as an anarchist, I don’t even have a national identification... When I make contributions, I think of not just human beings, but future species that may enjoy the fruit of the work. I don’t even think in terms of speciesism, let alone nationalism.
 
 ### Audrey Tang:
-It is true that many young people, they are much more comfortable of being eclectic in their identification. Nationality may be one identification, but not always the primary one, not just nationality. Whereas the older generation, because of the the martial law and everything, they tend to think that’s very important, maybe key, because it’s existential.
+It is true that many young people, they are much more comfortable of being eclectic in their identification. Nationality may be one identification, but not always the primary one, not just nationality. Whereas the older generation, because of the martial law and everything, they tend to think that’s very important, maybe key, because it’s existential.
 
 ### Audrey Tang:
 The younger generation may no longer think it’s existential, so maybe they identify more as, for example, a Jazz player. It’s more about overlapping communities nowadays, with better access to globalized cultures. That is becoming even more so in the case of 20-something people.

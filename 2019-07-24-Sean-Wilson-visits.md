@@ -387,7 +387,7 @@ Just recently, the co-facts both grew into a pretty large network and, of course
 If you want to pitch this as a civic tech project, then I’m sure that there will be many people in g0v that are interested.
 
 ### Sean Wilson:
-That’s great. I’ll go back AGOT and talk to them about those ideas. I think these are great. This one model could also be to review existing government websites, just in person at a hackathon, if different departments wanted ot have their site reviewd for English usability...
+That’s great. I’ll go back AGOT and talk to them about those ideas. I think these are great. This one model could also be to review existing government websites, just in person at a hackathon, if different departments wanted to have their site reviewed for English usability...
 
 ### Sean Wilson:
 If you’re a department employee of this department, this group will be here, and if you would like, before a real form of pilot starts, it might be a good idea to say, come in. It’s a closed room. There’s no shame. There’s no loss of face. We’ll just talk honestly behind closed doors about something that is important.

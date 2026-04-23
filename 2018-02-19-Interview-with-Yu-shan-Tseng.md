@@ -582,7 +582,7 @@ There are, of course, the MOPCON community, and there’s a bunch of people arou
 Academia Sinica, in the early 2000s, has this national plan to push open source, and it established a so-called OpenFoundry to build infrastructure.
 
 ### Audrey Tang:
-It’s just like GitHub before GitHub existed, to basically give the developers not just a online space, but also a legal space through the introduction of Creative Commons and l;icensing advisors, as well as offline space.
+It’s just like GitHub before GitHub existed, to basically give the developers not just a online space, but also a legal space through the introduction of Creative Commons and licensing advisors, as well as offline space.
 
 ### Audrey Tang:
 That is to say, the Academia Sinica building itself provides a lot of practically free venues for large-scale events.

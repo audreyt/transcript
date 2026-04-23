@@ -312,7 +312,7 @@ Really, to say what is extra-jurisdictional and what is not make very little sen
 I understand, but it’s an important issue isn’t it not? It does feel like it’s very different for democracy for people inside a country to be having a debate as opposed to a foreign power trying to influence, right?
 
 ### Audrey Tang:
-I understand, but you see, I just caught a cold today, and I can’t negotiate dircetly with the virus. We are not in the same category.
+I understand, but you see, I just caught a cold today, and I can’t negotiate directly with the virus. We are not in the same category.
 
 ### Audrey Tang:
 They speak a bit different language, I mean the virus. It’s the same for the virus of the mind. We, of course, can try to attribute the epidemic, but it only makes sense in a aggregate sense. We try to reduce the spread. We try to increase the distance.
@@ -408,7 +408,7 @@ Last week or something.
 Wow. There’s traditional elements. There’s cartoon elements. It’s very cool.
 
 ### Audrey Tang:
-Also, look at the the signatures.
+Also, look at the signatures.
 
 > (laughter)
 

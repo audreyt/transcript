@@ -221,7 +221,7 @@ Actually, we tried Rust.
 Oh, really?
 
 ### Lewis Freiberg:
-Yeah, so our lead engineer on the core, he tried to do it, and then was building it, but he just got to the point where the memory management was getting a little bit annoying for him, so he he’s like, &quot;No, fuck it.&quot; \[laughs\]
+Yeah, so our lead engineer on the core, he tried to do it, and then was building it, but he just got to the point where the memory management was getting a little bit annoying for him, so he’s like, &quot;No, fuck it.&quot; \[laughs\]
 
 ### Audrey Tang:
 Maybe try again in three years then.

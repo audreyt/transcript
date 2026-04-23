@@ -333,7 +333,7 @@ I said it’s good to know this now rather than spending another eight months on
 Yeah. It’s always better to attach to the impact rather than the tech, right?
 
 ### Jameel Somji:
-Yeah, exactly. It’s been quite a pleasure talking to you. Thanks so much for sharing your time. I now you’re very busy.
+Yeah, exactly. It’s been quite a pleasure talking to you. Thanks so much for sharing your time. I know you’re very busy.
 
 ### Audrey Tang:
 No, it’s fine. Everybody gets to have 40 minutes.

@@ -246,7 +246,7 @@ Not a problem for you.
 Whatever’s better for you. No worries.
 
 ### Audrey Tang:
-I will let me team know, and I will get back to you as soon as possible.
+I will let my team know, and I will get back to you as soon as possible.
 
 ### Marieme Jamme:
 Thank you so much.

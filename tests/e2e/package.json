@@ -1,0 +1,13 @@
+{
+  "name": "transcript-e2e",
+  "private": true,
+  "description": "Playwright visual E2E tests against https://archive.tw",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "install:browsers": "playwright install --with-deps chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}

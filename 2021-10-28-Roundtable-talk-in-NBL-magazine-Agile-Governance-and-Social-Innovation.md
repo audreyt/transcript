@@ -272,7 +272,7 @@ Thank you.
 
 ### Hiroki Habuka:
 
-Our l final question is global cooperation, namely how Japan and Taiwan or maybe other countries can cooperate on these kinds of agile governance or social innovations.
+Our final question is global cooperation, namely how Japan and Taiwan or maybe other countries can cooperate on these kinds of agile governance or social innovations.
 
 ### Audrey Tang:
 

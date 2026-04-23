@@ -552,7 +552,7 @@ Yeah. \[laughs\] Following up more also on the technical side of things, as a gr
 Intrusive, yes.
 
 ### Katharin Tai:
-Yeah, very intrusive. I saw a recent study, by Academia Seneca, that said that over 70 percent of respondents said that they would be OK with the government using telephone location to check people’s location as part of pandemic prevention, not just limited to quarantine. Do you think that there is…?
+Yeah, very intrusive. I saw a recent study, by Academia Sinica, that said that over 70 percent of respondents said that they would be OK with the government using telephone location to check people’s location as part of pandemic prevention, not just limited to quarantine. Do you think that there is…?
 
 ### Audrey Tang:
 Yeah, but that it’s just for quarantine though.
@@ -597,7 +597,7 @@ If someone breaks quarantine, that’s what happens, yes.
 The way I understand is that it sometimes happens in contact tracing, so if someone is tested positive that then it’s used retrospectively to find possible contacts.
 
 ### Audrey Tang:
-Maybe in the very early days. There was a business person from the bureaucy. When we didn’t have the system fully in place, it was maybe used for a while.
+Maybe in the very early days. There was a business person from the bureaucracy. When we didn’t have the system fully in place, it was maybe used for a while.
 
 ### Audrey Tang:
 After we declared that entire rest of the world pandemic affected \[laughs\] area, then the early measures, such as linking the immigration records with the healthcare data, so that the clinics can see whether you have been traveling to a high risk countries, and things like that, those early measures, they fall out of use now.

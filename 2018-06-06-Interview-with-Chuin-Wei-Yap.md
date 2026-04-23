@@ -13,7 +13,7 @@ What’s these?
 A chief technology officer or the chief information officer, that’s more common.
 
 ### Audrey Tang:
-I’m not a CTO or CIO. I’m more of someone who helps each ministry on the way of digital transformation, m more of a facilitative role than a commanding role.
+I’m not a CTO or CIO. I’m more of someone who helps each ministry on the way of digital transformation, more of a facilitative role than a commanding role.
 
 ### Audrey Tang:
 Additionally, I think there’s some north Europe countries that start to have this ambassador to multi-nationals, like to Google or Facebook or Microsoft. That’s a semi-diplomacy to \[laughs\] semi-sovereign entities. I’m also playing some of that role.
@@ -241,7 +241,7 @@ It is, of course, essential to have a hardened cybersecurity audit on that, whic
 This system is open-source, so it’s not reverse engineering; it’s line-by-line auditing. Also, to achieve defense-in-depth, they also worked on the auditing and notification system until we’re reasonably sure that it is safe for the public service to put data on it.
 
 ### Audrey Tang:
-We didn’t stop there. We continued to retain white hat hackers to do social engineering on the whole public service and to try to attack us. The idea is with with these contributions, we credit their findings so they can publicly file CVEs that helps their career and credit.
+We didn’t stop there. We continued to retain white hat hackers to do social engineering on the whole public service and to try to attack us. The idea is with these contributions, we credit their findings so they can publicly file CVEs that helps their career and credit.
 
 ### Audrey Tang:
 The whole point is that the cybersecurity is a active thing. It is not something that you can just delegate to insurance and assistants. Those helps, but what helps more is to engage the white-hat community and continuously ask them to audit, to do penetration testing and share with us their findings. That’s how we can step ahead of the people who want to do cybersecurity attacks on our systems.

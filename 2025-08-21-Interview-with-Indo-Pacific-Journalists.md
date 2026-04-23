@@ -30,7 +30,7 @@ The fix is to build bridging systems — pro‑social media that elevate uncommo
 
 It is not yet mainstream (main feeds remain largely anti‑social), so we are pushing to make bridging the default. We are working with Bluesky, the Fediverse and others. A key blocker is switching cost: if you move alone from TikTok to another network, you lose your social graph. Studies show an average U.S. undergrad might demand money to switch alone, but would pay to move together with their circle — first movers suffer most, so almost no one moves.
 
-That is why we support social portability in law. Utah’s “Digital Choice Act” (HB 418)—set to take effect July 1, 2026, — requires large platforms to provide data portability and interoperability so users can take their social graph and keep interacting across services. It is the social‑network analogue of number portability in telecom: competition shifts to quality of service, not lock‑in. Taiwan is exploring similar ideas in our Data Innovation and AI Basic frameworks, and the EU’s Digital Markets Act also pushes interoperability/portability. We do notcensor content; we change incentives so the race is to the top, not to the brainstem.
+That is why we support social portability in law. Utah’s “Digital Choice Act” (HB 418)—set to take effect July 1, 2026, — requires large platforms to provide data portability and interoperability so users can take their social graph and keep interacting across services. It is the social‑network analogue of number portability in telecom: competition shifts to quality of service, not lock‑in. Taiwan is exploring similar ideas in our Data Innovation and AI Basic frameworks, and the EU’s Digital Markets Act also pushes interoperability/portability. We do not censor content; we change incentives so the race is to the top, not to the brainstem.
 
 ### Interviewer:
 
@@ -48,7 +48,7 @@ Make platforms liable for harm from unsigned ads.
 
 If a platform lacks legal representation in Taiwan, require it or apply traffic‑shaping until it complies.
 
-Note: none target content; they target integrity and accountability. Over 85 percent across demographics agreed. The next month we met platforms; by Mayan electronic‑signature measure advanced and by July we passed an Anti‑Fraud Act with enforcement rules for deepfake/scam ads and penalties (including 24‑hour takedown on notice and fines up to NT$25 million for serious violations). Result: those deepfake ads markedly diminished in Taiwan. Bottom‑up deliberation produced rapid, cross‑party regulation.
+Note: none target content; they target integrity and accountability. Over 85 percent across demographics agreed. The next month we met platforms; by May an electronic‑signature measure advanced and by July we passed an Anti‑Fraud Act with enforcement rules for deepfake/scam ads and penalties (including 24‑hour takedown on notice and fines up to NT$25 million for serious violations). Result: those deepfake ads markedly diminished in Taiwan. Bottom‑up deliberation produced rapid, cross‑party regulation.
 
 ### Interviewer:
 
@@ -110,7 +110,7 @@ You grew up around journalism. What’s its role now?
 
 Journalism is not only a profession; it’s a civic muscle anyone can practice — establish shared facts, present the best arguments from multiple sides. In 2020, Taiwan shifted from media literacy (receiving) to media competency (co-production).
 
-Primary students build low‑cost airboxes to measure PM2.5; middle-schoolersfact‑check presidential debates and see their names in national news. Teens can start e‑petitions on join.gov.tw — at 5,000 signatures a ministry must respond, and some become reverse mentors to Cabinet ministers before 18.
+Primary students build low‑cost airboxes to measure PM2.5; middle-schoolers fact‑check presidential debates and see their names in national news. Teens can start e‑petitions on join.gov.tw — at 5,000 signatures a ministry must respond, and some become reverse mentors to Cabinet ministers before 18.
 
 ### Interviewer:
 
@@ -168,7 +168,7 @@ Attackers seem to have the advantage. How do we protect citizens’ data (e.g., 
 
 In the short term, offense dominates: AI finds vulnerabilities faster than defenders can re‑architect. So we assume breach and design zero trust: detect quickly, isolate laterally and deploy autonomous guardians that respond at machine speed. We share threat indicators with democratic partners.
 
-On data protection, collect less. If a forum needs proof you’re over 16, do not  ask for birthdate or name. We are rolling out selective disclosure with Taiwan’s Digital Identity Wallet, so people can prove attributes (age, residency) without leaking extra data — built on W3C Verifiable Credentials/SD‑JWT; cross‑border interoperability is planned. Privacy and convenience are not a trade‑off.
+On data protection, collect less. If a forum needs proof you’re over 16, do not ask for birthdate or name. We are rolling out selective disclosure with Taiwan’s Digital Identity Wallet, so people can prove attributes (age, residency) without leaking extra data — built on W3C Verifiable Credentials/SD‑JWT; cross‑border interoperability is planned. Privacy and convenience are not a trade‑off.
 
 ### Interviewer:
 

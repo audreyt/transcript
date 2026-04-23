@@ -399,7 +399,7 @@ I think people do feel empowered because they can start such a forum. There will
 Thank you for answering all these questions for us. He's hoping that maybe you'll be able to share pictures from your childhood or teenage years. I know that would...
 
 ### Audrey Tang:
-Yeah, there's plenty of documentaries from that era, but I don't think I hold a copyright. It's the individual televisions and so on. Whatever I had, I think I've uploaded to the national — what cultural memory   memory bank.
+Yeah, there's plenty of documentaries from that era, but I don't think I hold a copyright. It's the individual televisions and so on. Whatever I had, I think I've uploaded to the national — what cultural memory bank.
 
 I'll paste the link to you here, and then maybe you can just choose part of it. It's all a Creative Commons Zero, as in relinquishing all copyrights. You can freely use it without even attribution. I think that's easier if you're working to publish multiple media and so on.
 

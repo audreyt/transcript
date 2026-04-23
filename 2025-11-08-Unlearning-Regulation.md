@@ -150,7 +150,7 @@ Just one? A simple one: switch away from what I call “Max OS” (not macOS)—
 
 We don’t need that. We can train AI from an ethics of care that cares for a small community’s relational health. In our 45 rooms of 10 people each, a local agent with millions—not billions—of parameters can deeply understand the conversation and help bridge differences.
 
-This is a different vision from a “see everything, do everything” false idol. In East Asia we have local kami—steward spirits caring for a forest, river, or community. If we train AI and govern AI toward care, we avoid threats from maximizing any single metric—no “paperclips,” no GDP above all. The doom‑versus‑acceleration debate is like a car with only accelerator and brake. Let’s build thesteering wheel.
+This is a different vision from a “see everything, do everything” false idol. In East Asia we have local kami—steward spirits caring for a forest, river, or community. If we train AI and govern AI toward care, we avoid threats from maximizing any single metric—no “paperclips,” no GDP above all. The doom‑versus‑acceleration debate is like a car with only accelerator and brake. Let’s build the steering wheel.
 
 ### Julie Brill: 
 

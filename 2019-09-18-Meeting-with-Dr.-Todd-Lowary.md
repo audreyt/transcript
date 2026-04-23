@@ -160,7 +160,7 @@ One of it is co-creation of the important digital services that touches everybod
 We also work with the National Palace Museum – which is part of the cabinet because of an interesting history that goes back to the Qing Dynasty \[laughs\] – to co-design their ticketing systems. Their visitors may be 70 years old, may be 17 years old, and it’s a challenge to please those groups at the same time. We did a co-design workshop and there are still ongoing collaboration.
 
 ### Audrey Tang:
-We worked with AIT a digital dialogue that invited both sites to communicate. Currently, our topic is security collaboration. There’s a lot of innovations in this field. Their first dialogue was how to promote Taiwan in the world. We came up with like the Presidential Hackathon and AIT should someone to the Presidential Hackathon, which they did, things like that.
+We worked with AIT a digital dialogue that invited both sites to communicate. Currently, our topic is security collaboration. There’s a lot of innovations in this field. Their first dialogue was how to promote Taiwan in the world. We came up with like the Presidential Hackathon and AIT sent someone to the Presidential Hackathon, which they did, things like that.
 
 ### Audrey Tang:
 Trade was the previous one. The next one is people do people, to be followed by AmCham’s consultation on talent circulation, I think. All this becomes kind of the norm for diplomacy to be public for everybody to participate meaningfully.

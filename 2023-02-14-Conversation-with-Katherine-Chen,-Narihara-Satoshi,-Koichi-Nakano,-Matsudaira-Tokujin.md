@@ -250,7 +250,7 @@ The citizens can say, "Oh, we want even better quality. We want higher resolutio
 This radical transparency during the policy making drafting stage, this is also essential in order to make the open data relationship a reciprocal one, so to speak. OK? Yes.
 
 ### Satoshi Narihara:
-I think your points get right approaches basically. But, firstly, you require radical trnsparency especially at the stage of policy making. On the other hand, government may plan for example, countermeasures against foreign disinformation. These policy may depend on actual situation of disinformation.
+I think your points get right approaches basically. But, firstly, you require radical transparency especially at the stage of policy making. On the other hand, government may plan for example, countermeasures against foreign disinformation. These policy may depend on actual situation of disinformation.
 
 However, under some circumstances, it is difficult for the government to reveal data related to decision making of countermeasures against foreign disinformation and the cyber attacks. What do you think about the point?
 

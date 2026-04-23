@@ -66,7 +66,7 @@ The society had some concerns because we have a European Union style privacy law
 But it’s out of the picture.
 
 ### Audrey Tang:
-Well, it needs innovation to protect privacy and enable use for socila good.
+Well, it needs innovation to protect privacy and enable use for social good.
 
 ### Audrey Tang:
 One of the reasons why we’re doing this presidential social innovation hackathon -- you may have heard of it -- is to get the public servants out of your comfort zone and propose something wildly impossible. With the blessing of the president, we’ve seen 108 proposals so far, we can turn plenty of them into a free mass incubation period and to get the data situation figured out.
@@ -96,7 +96,7 @@ The reason why it wasn’t visualized was because, first, the government ditched
 Again, this presidential hackathon is a way for people to get the political will for them to upgrade their systems for digitization. I think there’s a lot of potential here. At the moment, the Ministry of Justice, I wouldn’t say it’s the most digitized or the most progressive one. Mostly because it has also to work with the Judicial Yuan and this cross-UN information system.
 
 ### Audrey Tang:
-We just turned the prosecution document itself into e-document for this year. We can’t expect many other evidence-based policymaking to flow from this thing. If it’s part of the presidential hackathon, I’m sure we can make it happen in another year or so for the neccessary data flow.
+We just turned the prosecution document itself into e-document for this year. We can’t expect many other evidence-based policymaking to flow from this thing. If it’s part of the presidential hackathon, I’m sure we can make it happen in another year or so for the necessary data flow.
 
 ### Audrey Tang:
 The general system around the drug rehab and things like that, I think that I very much agree it is within the purview of the Ministry of Justice as well as the Judicial Yuan. Traditionally the two have not been very good sharing relationship with each other for data sharing, but it’s improving now.

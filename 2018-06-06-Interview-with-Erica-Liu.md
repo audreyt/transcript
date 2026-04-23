@@ -205,7 +205,7 @@ Some 4,000 \[laughs\] years ago, the original Austronesian-speaking indigenous p
 We could include that.
 
 ### Audrey Tang:
-You could, right? The latest updates on out-of-Taiwan hypothesis, anthropologically, seems to point to a cultral dissemination, not necessarily by blood. It’s culture that originates from Taiwan and it gets spread throught the pacific. The last time it happened actually on a global basis, all the way to Madagascar. \[laughs\]
+You could, right? The latest updates on out-of-Taiwan hypothesis, anthropologically, seems to point to a cultural dissemination, not necessarily by blood. It’s culture that originates from Taiwan and it gets spread through the pacific. The last time it happened actually on a global basis, all the way to Madagascar. \[laughs\]
 
 ### Audrey Tang:
 Why I’m bringing this up is that when we’re signing, for example, a diplomatic or trade agreement with New Zealand, with the ANZTEC, there is a special chapter in it that establish a second track relationship between the indigenous people here and the indigenous people there.

@@ -770,7 +770,7 @@ They do. Yes. The idea is that the gold card, because it's renewable, if you ren
 I'm afraid I could never make a significant contribution. I don't think blogging is significant enough.
 
 ### Audrey Tang:
-No, I think it's very significant. There's a three-year period. Get your gold card, blog for three years and then it'll be sigifiant.
+No, I think it's very significant. There's a three-year period. Get your gold card, blog for three years and then it'll be significant.
 
 ### John Scott Marchant:
 Welcome to you too.

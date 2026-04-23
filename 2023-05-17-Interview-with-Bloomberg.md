@@ -1525,7 +1525,7 @@ That depends on the repairing vessel's schedule. Usually, it takes a couple of m
 And it was really slow, right? The microwave was super slow.
 
 ### Audrey Tang:
-The microwave was supers slow.
+The microwave was super slow.
 
 ### Jamie Tarabay:
 Was, was, when it was cut. So, these people had to get by on MEO and really slow, like crazy slow.

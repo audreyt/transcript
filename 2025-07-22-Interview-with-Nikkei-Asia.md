@@ -37,7 +37,7 @@ So the first community note might come from AI, and that might be connected to t
 Yes, and once this flywheel starts operating, then you can see more and more competition among AI systems that post better first drafts that pull people together.
 
 ### Interviewer:
-But we have seen many places of alleged AI quietly looking to Elon Mus for, essentially, a platform... How can we...
+But we have seen many places of alleged AI quietly looking to Elon Musk for, essentially, a platform... How can we...
 
 ### Audrey Tang:
 Which is why there needs to be a competition. So it's not just Grok writing those community notes. X.com must open its API so you can use Gemini or use ChatGPT or whatever to compete with Grok. And this is what they have done. X.com has opened up that API. So it's not just Grok anymore. So while Grok, of course, was trained with some specific ideas, let's call it that, you can balance it by making sure that other AI can also compete with Grok in producing those bridging ideas.

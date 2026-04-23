@@ -125,7 +125,7 @@ Also, Interior. Their main focus, the two winning teams that got a presidential 
 For cancer patients, I think 80 percent of people prefer to stay at home. At the moment in Taiwan, unfortunately, 80 percent of people end up spending time in hospital at the end. There’s a disconnect, and it’s mostly about community support. If they feel isolated, of course, hospital is the place to go.
 
 ### Audrey Tang:
-If their family feel that the community takes care of them with psychological 2and communal help, then it’s far more likely that they will be able to stay at home. The second one is not quite climate change, but it enables the same community resilience structure that you were just referring to. We’ll be happy to amplify those ideas.
+If their family feel that the community takes care of them with psychological and communal help, then it’s far more likely that they will be able to stay at home. The second one is not quite climate change, but it enables the same community resilience structure that you were just referring to. We’ll be happy to amplify those ideas.
 
 ### Fatima Ali:
 That’s fantastic. This whole project is really commendable. It’s a great way to encourage communities to think of other innovative ideas as well.

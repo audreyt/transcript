@@ -158,7 +158,7 @@ Finally, it’s fun. There’s nothing fun about COVID, but there’s everything
 All this put a stop to conspiracy theories and panic buying. That really, really worked. That’s called “humor over rumor.”
 
 ### Audrey Tang:
-I think all these individual elements are easy to adapt in other jurisdictions. Taiwan model is not a one-size-fits-all thing. It’s rather a very gentle idea that if government trusts their citizens more, citizens can innovate better than governments. Then we apply it in various ways – fast, fear, and fun.
+I think all these individual elements are easy to adapt in other jurisdictions. Taiwan model is not a one-size-fits-all thing. It’s rather a very gentle idea that if government trusts their citizens more, citizens can innovate better than governments. Then we apply it in various ways – fast, fair, and fun.
 
 ### Zsuzsa Anna Ferenczy:
 Speaking about Europe and Taiwan, you said you had a quick look at the piece that I wrote.
