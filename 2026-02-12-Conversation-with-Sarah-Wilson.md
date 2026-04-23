@@ -344,7 +344,7 @@ Wow. Is there science behind that? I imagine that it's about tapping into dopami
 
 ### Audrey Tang:
 
-Yes. I'd love to contribute to the show notes after this. But the point is that once you start doing this, you will feel a sense of calmness that makes doomscrolling almost impossible. So none of those AI-generated videos are going to mobilize you. And my eyes start going to the window -- the trees outside, the sun is shining outside now. In many other places instead of this small screen.
+Yes. I'd love to [contribute to the show notes](https://journals.sagepub.com/doi/10.1177/20501579231212062) after this. But the point is that once you start doing this, you will feel a sense of calmness that makes doomscrolling almost impossible. So none of those AI-generated videos are going to mobilize you. And my eyes start going to the window -- the trees outside, the sun is shining outside now. In many other places instead of this small screen.
 
 ### Sarah Wilson:
 
