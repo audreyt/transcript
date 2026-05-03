@@ -65,38 +65,40 @@ jobs:
     needs: sync-markdown
     runs-on: ubuntu-latest
     steps:
+      # Both repos go under sub-paths so sayit-hono's build:search can resolve
+      # ../transcript without an explicit path arg, which lets us run the full
+      # `bun run deploy` pipeline (preflight + cache-version + views + assets
+      # + search + wrangler deploy + verify-deploy) as a single step.
       - name: Checkout transcript (this repo)
         uses: actions/checkout@v4
+        with:
+          path: transcript
 
       - name: Checkout sayit-hono
         uses: actions/checkout@v4
         with:
-          repository: audreyt/sayit-hono
+          repository: bestian/sayit-hono
+          ref: main
           path: sayit-hono
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: '22'
+          bun-version: latest
 
       - name: Install sayit-hono dependencies
         working-directory: sayit-hono
-        run: npm ci
+        run: bun install --frozen-lockfile
 
-      - name: Build views and assets
-        working-directory: sayit-hono
-        run: npm run build:views && npm run build:assets
-
-      - name: Build search index
-        working-directory: sayit-hono
-        run: npm run build:search -- ${{ github.workspace }}
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-
+      # `bun run deploy` runs preflight:deploy first (refuses to ship a commit
+      # older than the live worker, see scripts/preflight-deploy.ts) and then
+      # verify:deploy after wrangler, so a silently-stale or silently-failed
+      # deploy can't roll archive.tw back. This replaces the old separate
+      # build/deploy steps that pointed at the now-defunct audreyt/sayit-hono
+      # fork and skipped both guards.
       - name: Deploy to Cloudflare
         working-directory: sayit-hono
-        run: npx wrangler deploy
+        run: bun run deploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
