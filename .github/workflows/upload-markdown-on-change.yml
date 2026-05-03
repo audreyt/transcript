@@ -80,6 +80,10 @@ jobs:
           repository: bestian/sayit-hono
           ref: main
           path: sayit-hono
+          # preflight:deploy reads /version, then runs `git cat-file -e <sha>`
+          # and `git merge-base --is-ancestor <sha> HEAD` against the live
+          # worker's commit. Default depth 1 wouldn't have the ancestor.
+          fetch-depth: 0
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
