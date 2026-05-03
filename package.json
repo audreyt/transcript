@@ -1,0 +1,15 @@
+{
+  "name": "transcript-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test tests/unit",
+    "test:coverage": "bun test tests/unit --coverage --coverage-reporter=text",
+    "validate:all": "bun scripts/validate.ts --all",
+    "validate:changed": "bun scripts/validate.ts --changed",
+    "sync:dry-run": "bun scripts/sync_markdown.ts --dry-run"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "^0.9.10"
+  }
+}

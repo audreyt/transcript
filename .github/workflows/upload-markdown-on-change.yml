@@ -5,7 +5,7 @@ on:
     paths:
       - "*.md"
       - ".alternates"
-      - "scripts/sync_markdown.py"
+      - "scripts/sync_markdown.ts"
   workflow_dispatch:
     inputs:
       before_sha:
@@ -53,13 +53,21 @@ jobs:
             exit 1
           fi
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
       - name: Sync changed markdown and alternate mappings
         env:
           TOKEN: ${{ steps.token.outputs.value }}
           BEFORE_SHA: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.before_sha || github.event.before }}
           AFTER_SHA: ${{ github.sha }}
         shell: bash
-        run: python3 scripts/sync_markdown.py
+        run: bun scripts/sync_markdown.ts
 
   rebuild-search-index:
     needs: sync-markdown
