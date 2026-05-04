@@ -48,7 +48,7 @@ I’m curious of any crazy things that have happened for you in the last few wee
 Surprising and interesting, or surprising and bad?
 
 ### Aviv Ovadya:
-Anything interesting, reckoning a role where you probably run into weird things happening. Let’s put it that way.
+Anything interesting, reckoning, in a role where you probably run into weird things happening. Let’s put it that way.
 
 ### Audrey Tang:
 A couple of days ago, I was in the 中山 University (National Sun Yat-sen University) in Kaohsiung. It surprised me that they have a new graduate level study dedicated for social innovations, a Master degree. They don’t have any traditional classes per se. This is all about using the SDGs to work across sectors, the research agenda.
@@ -314,7 +314,7 @@ Then, the result, even if it’s pure noise and no signal at all, it’s not a b
 The thing is choose your battles. Choose the things that the career public servants and the politicians have no idea what to do, where the stakeholders are dynamic and emergent. Thanks to the increasing global scale problems, these problems are now more of the norm.
 
 ### Audrey Tang:
-Of course, the kind of “conter pandemic with no lockdown, counter infodemic with no takedown” was our flagship examples. The same could be said on pretty much any emerging technology, like how to make AI assistive rather than authoritarian intelligence.
+Of course, the kind of “counter pandemic with no lockdown, counter infodemic with no takedown” was our flagship examples. The same could be said on pretty much any emerging technology, like how to make AI assistive rather than authoritarian intelligence.
 
 ### Audrey Tang:
 That’s another thing that the politicians would really like to think with the people because it’s impossible to get even the simple ideas across if people do not think about this from their own experience.
@@ -464,7 +464,7 @@ If there’s actually examples that you wanted to highlight of the use of join P
 I think the joint platform is at its best, as I mentioned when the ministries have no idea what to do. The two large Pol.is conversations we had last year, on the joint platform we’re opening up mountains and opening up the sea.
 
 ### Audrey Tang:
-In Taiwan, we’re just now doing a lot of regulatory adjustment work to make sure that there’s free access to the higher mountains and the ocean activities and so on. A lot of the issues were from our martial law days where people \[laughs\] go to the mountains to become gorillas or whatever, and the government really prohibited \[laughs\] access to those natural resources.
+In Taiwan, we’re just now doing a lot of regulatory adjustment work to make sure that there’s free access to the higher mountains and the ocean activities and so on. A lot of the issues were from our martial law days where people \[laughs\] go to the mountains to become guerrillas or whatever, and the government really prohibited \[laughs\] access to those natural resources.
 
 ### Audrey Tang:
 Nowadays, of course, people are able to do the hiking by themselves while making sure that the insurance or the training and so on are taken care of by the social sector. This is a massive deregulation.
@@ -575,7 +575,7 @@ Just to say, you’re saying you used a citizen assembly like mini public?
 Back in 2002, 2003 the Ministry of Health and Welfare run at once, and then the Ministry of Culture also did that to determine the direction to transition, the Chiang Kai-shek Memorial Hall, now. Something about ideology there. It’s one of the most hot \[laughs\] contested political topics here about the Chiang Kai-shek historical definition and mini public help there as well.
 
 ### Audrey Tang:
-Here and there, there’s mini publics, but it’s not as pervasiveness as this Join platform, mostly because this is much cheaper to go with Join and Pol.is is one percent of the cost it takes to run a mini public, but we do run mini publics.
+Here and there, there’s mini publics, but it’s not as pervasive as this Join platform, mostly because this is much cheaper to go with Join and Pol.is is one percent of the cost it takes to run a mini public, but we do run mini publics.
 
 ### Aviv Ovadya:
 For context here, mini public, so you can search for citizen assembly, you can search for sortition, they’ve been used all over the world to address all sorts of issues like how Ireland ended up with sorting through their political divides around abortion.
@@ -593,13 +593,13 @@ We’ve tried Remesh in conjunction with Join in 2015.
 It’s very inspirational. The main thing is that we try to apply pressure at that time for Pol.is to become Free Software and that worked but Remesh didn’t go there. \[laughs\]
 
 ### Audrey Tang:
-Pol.is become national infrastructure and Remesh did not, not because Remesh technically have any shortcomings, but mostly and this is also in answering Penelope’s other question, we care about upper case free software. \[laughs\]
+Pol.is became national infrastructure and Remesh did not, not because Remesh technically have any shortcomings, but mostly and this is also in answering Penelope’s other question, we care about upper case free software. \[laughs\]
 
 ### Audrey Tang:
 Especially in the recent news from Japan where Line Corporation have outsourced their hate speech screening or whatever, to some PRC teams, People’s Republic of China teams. That makes me feeling very fortunate that I’ve never used LINE \[laughs\] for public government work.
 
 ### Audrey Tang:
-We’ve said everything ourselves the entire stack run in the National Center of Hihg-performance Computing. There is also Sandstorm.io, which is a cybersecurity product masquerading as a work productivity software \[laughs\] systems like that.
+We’ve said everything ourselves the entire stack run in the National Center of High-performance Computing. There is also Sandstorm.io, which is a cybersecurity product masquerading as a work productivity software \[laughs\] systems like that.
 
 ### Aviv Ovadya:
 Highly recommended. Sandstorm is also great. You should check that out to. Kenton’s work I highly respect. Ben asked, “Have been there moments or test your optimism?”
@@ -626,10 +626,10 @@ During the lunch break, it sells everything. It’s not useful. It’s worse tha
 We had to apologize very quickly and say, “We’ll fix that next Thursday.” I had to walk into the pharmacy and ask this key question. If you’re a digital minister, what would you do? Because I don’t have any ideas now. Then they, of course, came up with this great innovation.
 
 ### Audrey Tang:
-A as soon as they run out of those numbers, like use up there in number queue for the day, they could just click a button and disappear from the map.
+As soon as they run out of those numbers, like use up there in number queue for the day, they could just click a button and disappear from the map.
 
 ### Audrey Tang:
-They simulated even before we introduce such a function by saying that they have received from the government negative 1,000 masks. That makes the stock go into the negative and our system can’t handle it. It under flows I guess, and it disappears from the map.
+They simulated even before we introduce such a function by saying that they have received from the government negative 1,000 masks. That makes the stock go into the negative and our system can’t handle it. It underflows I guess, and it disappears from the map.
 
 ### Audrey Tang:
 That’s another \[laughs\] social innovation is like white hat hacking. Instead of punishing, the pharmacist we just institutionalized and say, “If you click this button, you disappear from the map for the rest of the day.”
@@ -671,7 +671,7 @@ Multistakeholder realism only works if the stakeholders are included, but there 
 The radical transparency is a substitute for the generations down the line. I agree that if people feel the need to have a candid conversation well that’s why we endorse end to end encryption.
 
 ### Audrey Tang:
-As long as it’s not in the binding process where people actually get decisions made, feel free to use any end to end encryptions actually feel free to send end to end encrypted messages even during this conversation. If it’s a result in finding decision that will affect the future generation, I guess, restrain wouldn’t be a bad thing.
+As long as it’s not in the binding process where people actually get decisions made, feel free to use any end to end encryptions actually feel free to send end to end encrypted messages even during this conversation. If it’s a result in finding decision that will affect the future generation, I guess, restraint wouldn’t be a bad thing.
 
 ### Aviv Ovadya:
 I think there’s a much deeper conversation to sort of get into the weeds of those dynamics, because I can imagine some of some powerful counterarguments. We can type that in enviar.

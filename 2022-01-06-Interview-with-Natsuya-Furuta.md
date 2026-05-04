@@ -79,7 +79,7 @@ Even if they can look at the mask, they can't find the time to go to the pharmac
 Thank you. May I move to the question number three, about minister of you being called, "The genius digital minister." How do you think about this and about the intelligence quotient, 180? If you could please answer this question?
 
 ### Audrey Tang:
-That was my height, is centimeters. My height is 180 centimeters. I believe that IQ is not very useful nowadays for adults. When I took the IQ tests, there was three tests. It's testing things that your phone can answer very easily, even without a Internet connection. It's testing the most trivial of things that everyone can and do, nowadays, outsource to their mobile phones.
+That was my height, is centimeters. My height is 180 centimeters. I believe that IQ is not very useful nowadays for adults. When I took the IQ tests, there was three tests. It's testing things that your phone can answer very easily, even without an Internet connection. It's testing the most trivial of things that everyone can and do, nowadays, outsource to their mobile phones.
 
 I do not think it's a useful measure nowadays of our capacity to work together.
 
@@ -245,7 +245,7 @@ If you could be very frank and candid, please?
 ### Audrey Tang:
 Certainly. What I have learned in the past couple years is that there are many topics that we work together. By working together, I mean not just fighting the pandemic, which has been the common topic that we've been discussing, but also taking the lessons that we have learned from fighting the pandemic together in furthering our democracy together.
 
-For example, probably, if not for the pandemic, the two of us would not be talking about open data [laughs] and Open Street Map in this interview. It became such a important topic, because people understood it's only possible to solve global issues when we have the global contributions with global data and so on.
+For example, probably, if not for the pandemic, the two of us would not be talking about open data [laughs] and Open Street Map in this interview. It became such an important topic, because people understood it's only possible to solve global issues when we have the global contributions with global data and so on.
 
 On the digital realm, it's no longer about each jurisdiction, each city, solving its own problems, but about sharing the best practices or, at least, better practices so that those innovations may disseminate over time. If the collaborations are centered around those topics that are not zero-sum to the international community.
 

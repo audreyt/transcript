@@ -44,7 +44,7 @@ It's also secured through the privacy-enhancing technology of multi-party federa
 
 This way, both sides are oblivious to the personal whereabouts of all the users of the 1922 SMS contact tracing system.
 
-When the contact tracer detects infected people, they nevertheless can piece together the puzzles from six or more places, but enjoy a idea of reverse audit where all the actions that the contact tracers do can be reverse audited at SMS.1922.gov.tw where anyone can type their own SMS number and receive a one-time PIN.
+When the contact tracer detects infected people, they nevertheless can piece together the puzzles from six or more places, but enjoy an idea of reverse audit where all the actions that the contact tracers do can be reverse audited at SMS.1922.gov.tw where anyone can type their own SMS number and receive a one-time PIN.
 
 Then see for the past four weeks who exactly in which municipality, which contact tracer have accessed their record.
 

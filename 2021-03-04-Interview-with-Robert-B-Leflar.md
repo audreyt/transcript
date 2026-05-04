@@ -71,7 +71,7 @@ After the CECC got setup. I read that it’s because of a medical officer, Phili
 It’s a National Taiwan University student pet project that’s been running for 25 years. \[laughs\] It’s like social media but more pro social because it doesn’t have advertisers or shareholders to report to, just NTU pet project.
 
 ### Audrey Tang:
-On there, a young doctor with the nickname No More Pipe reposted Dr. Li Wenliang’s message from Wuhan that said, “Seven new SARS cases has been discovered in the Huanan Seafood Market.”
+On there, a young doctor with the nickname No More Pipe reposted Dr. Li Wenliang’s message from Wuhan that said, “Seven new SARS cases have been discovered in the Huanan Seafood Market.”
 
 ### Audrey Tang:
 While that message didn’t get to the citizens of Wuhan for obvious reasons, it did get upvoted a lot on PTT. People volunteered their expertise and time to triage, to fact check, that particular whistleblowing so that it get upvoted a lot within a few hours.

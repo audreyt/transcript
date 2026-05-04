@@ -153,7 +153,7 @@ That lecture to all the senior public service I deliver with the AP or publisher
 There’s a lot of more whimsical instead of ideological vibe in RxC Taipei in the meet ups and so on, is definitely less about the economy models. It’s more about having fun and sharing these ideas.
 
 ### Audrey Tang:
-Mostly, because Glenn’s main geologist models are what Dr. Sannyasin founded the state in Taiwan, officially, the Transcultural Republic of Citizens, my translation. \[laughs\]
+Mostly, because Glenn’s main geologist models are what Dr. Sun Yat-sen founded the state in Taiwan, officially, the Transcultural Republic of Citizens, my translation. \[laughs\]
 
 ### Audrey Tang:
 For the past 110 years or so, we’ve been running with this Georgia’s idea. We’re quite familiar with this idea. We don’t have to popularize it in Taiwan, but we do want to introduce the modern applications of these ideas to more people, not in politics or economy, but rather in art, in design, in pedagogy and so on.
@@ -367,7 +367,7 @@ The other thing, the other thing RadicalxChange could do is also to platform the
 We had an international audience. It was always about navigating those things. That became one of the real pleasures of the exercise. We had a magazine. We also did public and educational programs.
 
 ### Victoria Camblin:
-When I elected to cover, say, a digital art collective in Seoul, Korea, it was because whatever they were talking about was also something that art students at the Georgia State University we’re talking about. Even if they were doing it on a super look like.
+When I elected to cover, say, a digital art collective in Seoul, Korea, it was because whatever they were talking about was also something that art students at the Georgia State University were talking about. Even if they were doing it on a super look like.
 
 ### Victoria Camblin:
 What I would want to do with that media platform was to allow people to connect the dots. If there’s a housing rights group in Budapest and they’re doing something interesting that could apply to housing right groups in Minnesota, then there’s certain ways you can get them in touch. That’s by acting it up.
@@ -623,7 +623,7 @@ That’s not sustainable either for the decentralized community. You will then j
 When we have doubt, then the pro social part is more natural, but still there’s need to be some auditing \[laughs\] to make sure that the pro social memes are conflict free in itself. That’s what Glenn has been doing to his book. Daily, he’s been reinspecting the core ideas and rephrasing it in a pro social emergent space rather than a top down central design based sense.
 
 ### Audrey Tang:
-When two central designers hote similar ideas, they are actually rivals with one another. When two emergent, participatory hippies hote similar ideas, they’re natural allies. That’s what I see Glenn has been doing lately, especially with the rationalist community on Twitter.
+When two central designers hold similar ideas, they are actually rivals with one another. When two emergent, participatory hippies hold similar ideas, they’re natural allies. That’s what I see Glenn has been doing lately, especially with the rationalist community on Twitter.
 
 ### Victoria Camblin:
 \[laughs\] Yeah, I would agree. I’m curious, as you’re saying, not a top down method but how to engage outside the rationalists. We get the nihilists on board.

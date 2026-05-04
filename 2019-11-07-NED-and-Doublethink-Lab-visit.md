@@ -385,7 +385,7 @@ I see… I’m a celebrity?
 > (laughter)
 
 ### Ning Yeh:
-Not the same for for ordinary people. The second, as Audrey mentioned, a camera or a recording in the public space, basic case of law, is allowed because it’s a public domain. But if we use video picture to identify someone or to… First of all, it has to do something more than the original purpose such as traffic or, I don’t know, maybe safety, that is not there in that case.
+Not the same for ordinary people. The second, as Audrey mentioned, a camera or a recording in the public space, basic case of law, is allowed because it’s a public domain. But if we use video picture to identify someone or to… First of all, it has to do something more than the original purpose such as traffic or, I don’t know, maybe safety, that is not there in that case.
 
 ### Audrey Tang:
 So, statistical purpose.

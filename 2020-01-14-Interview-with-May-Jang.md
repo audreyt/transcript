@@ -321,7 +321,7 @@ The social innovation become public policy by a presidential mandate. We change 
 Many countries have hackathon, but nobody else in our understanding offer a presidential promise as the prize. I think this is a good social innovation to make sure that innovators can focus on experiment and research. The best idea that convince three sectors become public policy without waiting for anyone. It just happens within a year.
 
 ### May Jang:
-Trophy, you can see the, for example, video? Is that that simple, or does that really have the video that makes…
+Trophy, you can see the, for example, video? Is that simple, or does that really have the video that makes…
 
 ### Audrey Tang:
 You just turn on the projection.

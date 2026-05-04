@@ -81,7 +81,7 @@ To maximize the inclusiveness and make sure that the data storage is on the soci
 Do you think it's essential to have the identity card associated with the healthcare system to do what you're doing? In the UK there's a deep resistance to the idea of national identity cards. Could one nevertheless function and get a system like the one you're describing to work without those identity cards?
 
 ### Audrey Tang:
-It's possible to replace that with a SMS sending phone, I was just explaining it. A SIM card is actually also a IC card. If you have no national identity card, usually, the SIM card is used in lieu of it, and that's possible, it's certainly fine.
+It's possible to replace that with a SMS sending phone, I was just explaining it. A SIM card is actually also an IC card. If you have no national identity card, usually, the SIM card is used in lieu of it, and that's possible, it's certainly fine.
 
 ### Niall Ferguson:
 I wanted you to spell that out, because it's often misunderstood that in effect we already have these identifiers in our devices, and therefore, you may not need a...
@@ -109,7 +109,7 @@ One of the stories is about vaccination. That's the point that most foreign obse
 
 People share about, for example, the news that in July our domestic vaccines will be mass produced, and so let's wait for July, because it's domestic. It will be cheaper, less side effects, and so on.
 
-They're not actually wrong, but to me, of course, soon as I get AstraZeneca out, I got it on the first chance. I can't actually get a job, because I understand that at any given time there may be a outbreak.
+They're not actually wrong, but to me, of course, soon as I get AstraZeneca out, I got it on the first chance. I can't actually get a job, because I understand that at any given time there may be an outbreak.
 
 Even among the health staff at that time, which was early April, it was difficult to get this message through. That is if you describe it as "victim of our own success" applying to the lack of willingness to get early vaccination. That would be fair.
 

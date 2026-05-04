@@ -13,7 +13,7 @@ There’s a saying that says, “Anything that I am born with is human nature. A
 Because of that, I would say that part of the identity of being a Taiwanese is to make constant innovations about technology with the democratic mindset. That is to say, always yielding to the possibility of future novel innovations.
 
 ### Audrey Tang:
-The identity in this sense is a verb. We stay identical to our predecessors, who fought and struggled for the freedom of assembly, of the press, of speech, and so on, so that our descendants can enjoy an even more wider ways to create.
+The identity in this sense is a verb. We stay identical to our predecessors, who fought and struggled for the freedom of assembly, of the press, of speech, and so on, so that our descendants can enjoy even wider ways to create.
 
 ### Audrey Tang:
 To me, that identity thing is not pertaining to only individual, but rather individualistic, freedom as a collective value.
@@ -34,7 +34,7 @@ Yes, exactly. What I’m trying to say is that identity is often taken as someth
 Do you think that the citizens feel a real sense of Taiwanese identity, or do they feel like global citizens in this very open, democratic approach?
 
 ### Audrey Tang:
-Yeah, we just have the head of the Czech senate in our parliament today. He said, “I am Taiwanese.” This is, of course, an homage to the “ich bin ein Berliner” speech. In that sense, saying, “I am Taiwanese,” or, “I am also Taiwanese,” is synonym of, “I stand for liberal democracy. I stand for freedom in the face of adversity.” There is something global, something universal in this, of course.
+Yeah, we just have the head of the Czech senate in our parliament today. He said, “I am Taiwanese.” This is, of course, an homage to the “ich bin ein Berliner” speech. In that sense, saying, “I am Taiwanese,” or, “I am also Taiwanese,” is a synonym of, “I stand for liberal democracy. I stand for freedom in the face of adversity.” There is something global, something universal in this, of course.
 
 ### Tracey Follows:
 Are you surprised that other so-called open liberal democracies chose to lock down their citizens and go a completely different, more authoritarian route to coping with the virus than anything like you did in Taiwan?
@@ -73,7 +73,7 @@ There’s, of course, also the business sector contributing their time, research
 G0v, for all its decentralization, is polycenter, centered around specific projects. The mask map has its own channel called “mask”, and then later renamed “covid19”. That’s one center. When you have hundreds of centers, you begin to feel decentralized, but it’s not really decentralization.
 
 ### Audrey Tang:
-It’s just, when there’s over 150 centers over Dunbar’s number, our mind cannot grasp with so many centers. It feels decentralized, like atomized, to us, but it’s actually just a small world network.
+It’s just, when there’s over 150 centers over Dunbar’s number, our mind cannot grasp so many centers. It feels decentralized, like atomized, to us, but it’s actually just a small world network.
 
 ### Tracey Follows:
 Interesting. Do you think you’ll ever allow any of us outside of Taiwan to be part of this? I’m thinking systems like Estonia, with e-residency.
@@ -97,7 +97,7 @@ That’s right, exactly.
 What about, you’ve talked a lot about the crowdsourcing on policy, upvoting, and downvoting ideas. Can I just ask you, on which of the platforms does that happen? Is it on vTaiwan, or is it another?
 
 ### Audrey Tang:
-VTaiwan was the g0v-started deliberation platform, but after I become Digital Minister, the social sector runs it. Now, I am mostly working on the Join platform, or join.gov.tw. That has a petition part.
+VTaiwan was the g0v-started deliberation platform, but after I became Digital Minister, the social sector runs it. Now, I am mostly working on the Join platform, or join.gov.tw. That has a petition part.
 
 ### Audrey Tang:
 Also, for the consultation part, the petition part, the citizens set the agenda. The consultation part, the government ministries set the agenda. What’s common in those two interfaces is that there’s just upvote and downvote.
@@ -151,7 +151,7 @@ As you pointed out, if people work on the asynchronous mode – that is to say, 
 Even though I may identify as the same person across five hours, but my feeling is not the same. When you reply, I will be then summoned back to how I feel five hours ago, except I can’t quite feel that anymore.
 
 ### Audrey Tang:
-The affective states are out of sync. What I meant is that synchronized modes are necessarily to build the mutual trust that is necessary for asynchronous modes to work.
+The affective states are out of sync. What I meant is that synchronized modes are necessary to build the mutual trust that is necessary for asynchronous modes to work.
 
 ### Tracey Follows:
 I want to ask you quickly about education, if I might. You have really disrupted the education curriculum. Again, looking at that through the lens of identity, correct me if I’m wrong, but it feels like you’re trying to enable students’ own identity, expression, and interest to really come through. Can you talk a bit about what you’ve done?
@@ -163,7 +163,7 @@ Of course, sure. We made a new curriculum together, making sure that we focus on
 Notably lacking is any individual-to-individual competition. Notably lacking is any top-down, standardized answer that only the teacher holds. These were very popular East Asian doctrine-ish, rote learning ideas.
 
 ### Audrey Tang:
-Because I grew up in that environment, I drop out of junior high school, because I can’t see the benefit of that value when I’m already swapping research papers with people on the Internet. For me, creating knowledge is much more interesting than competing to see whether someone can memorize more of that already-created knowledge. It doesn’t make sense to me.
+Because I grew up in that environment, I dropped out of junior high school, because I can’t see the benefit of that value when I’m already swapping research papers with people on the Internet. For me, creating knowledge is much more interesting than competing to see whether someone can memorize more of that already-created knowledge. It doesn’t make sense to me.
 
 ### Audrey Tang:
 Because of that, I think in our new curriculum, we emphasize that the children – especially when they’re seven or eight years old – are natural curious beings, that can find the direction of their learning through just being curious and asking a lot of actually very hard questions about the structural issues concerning our environment, our society, and our economy.
@@ -190,7 +190,7 @@ I know I’ve got to let you go. You’ve generously given me your time. Just be
 I think two things will happen. First is that we will bring democratic participation to previously people who are disenfranchised. By people, I mean children who are 12 years old or 14 years old, who used to have no voting rights, but are every bit as a stakeholder – maybe more, when it comes to climate change – than adults.
 
 ### Audrey Tang:
-I mean trees, rivers, and the nature who are living stakeholders, but previously have no say in the democratic process. I mean the future generations that currently has no voting power, because we don’t know how to delegate that vote, but \[laughs\] they also have a stake in the repercussions that we make.
+I mean trees, rivers, and the nature who are living stakeholders, but previously have no say in the democratic process. I mean the future generations that currently have no voting power, because we don’t know how to delegate that vote, but [laughs] they also have a stake in the repercussions that we make.
 
 ### Audrey Tang:
 I think we’ll figure out how to essentially re-present the stakes and interest of the currently disenfranchised people – I use people in a very, very liberal sense – and bring them into our democratic process.
@@ -205,7 +205,7 @@ We would see that the market and the society bump into each other and grow into 
 Since I’m in charge of social enterprise and social entrepreneurship in Taiwan, we already saw that large publicly listed companies need to have environmental and social purpose. It’s not like they can opt out of it. Even for small and medium enterprises, they are learning to think more like how cooperatives think and how NPOs think.
 
 ### Audrey Tang:
-When you view things in the long term, their business return is aligned with the social and environment return. It’s only if you look only at the current quarter do these values — the profit and the purpose — seems to be at odds.
+When you view things in the long term, their business return is aligned with the social and environment return. It’s only if you look only at the current quarter do these values — the profit and the purpose — seem to be at odds.
 
 ### Audrey Tang:
 If you take a long enough view, as I imagine people will in 2050, \[laughs\] then you will see that their, actually the triple bottom lines are pointing to the same horizon.
@@ -217,7 +217,7 @@ What makes you such a brilliant communicator? You’ve got the engineering. You�
 I think I take all the sides. If I find that I cannot get my message across to someone, I make a point, just do an ethnographic, or just hanging out with people like that someone, until that I can make the point from their point of view, reflecting their feelings.
 
 ### Audrey Tang:
-I think just consistently take all the sides really is the key of becoming an effective communicator.
+I think just consistently take all the sides really is the key to becoming an effective communicator.
 
 ### Tracey Follows:
 You really are. Thank you. It’s been a privilege to speak to you.

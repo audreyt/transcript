@@ -189,7 +189,7 @@ I don’t.
 > (laughter)
 
 ### Kathrin Erdmann:
-You are perhaps an exception. Where should be the limits? It it important that we have rules and regulations all over the world about ethics of data?
+You are perhaps an exception. Where should be the limits? Is it important that we have rules and regulations all over the world about ethics of data?
 
 ### Audrey Tang:
 The rules help, like the GDPR. We’re happy to see that GDPR has been accepted and that one of the first largest cases by the CNIL on Google is being actively debated. It is a very good progression.

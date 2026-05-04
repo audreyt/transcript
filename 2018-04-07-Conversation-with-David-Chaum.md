@@ -1015,7 +1015,7 @@ It gives no clue about the others.
 No, that’s great. I think I got it. Thank you for the instructions.
 
 ### David Chaum:
-Thank you for for taking the time to understand.
+Thank you for taking the time to understand.
 
 ### Audrey Tang:
 That’s awesome.

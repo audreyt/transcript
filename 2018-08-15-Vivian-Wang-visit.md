@@ -721,7 +721,7 @@ David Katz started a non-profit called Plastic Bank in 2013 in Vancouver. He has
 It’s called Plastic Bank.
 
 ### Vivian Wang:
-Yes, David Katz, founder of of Plastic Bank.
+Yes, David Katz, founder of Plastic Bank.
 
 ### Audrey Tang:
 I was just going through the material. Very interesting.

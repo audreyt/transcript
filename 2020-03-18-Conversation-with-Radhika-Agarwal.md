@@ -211,7 +211,7 @@ BetaNYC and Liz Barry’s team, also the Polis team are our main New York friend
 There are also g0v community contributors in US East Coast, which is New York and DC, where they also run the hackathons themselves, and we help promote those ideas.
 
 ### Audrey Tang:
-While it’s not what we call first-track diplomacy like MOU between New York City and Taiwan or Taipei City, it is just people traveling around with experiences dipping in in both communities. We have quite a few of these people as well.
+While it’s not what we call first-track diplomacy like MOU between New York City and Taiwan or Taipei City, it is just people traveling around with experiences dipping into both communities. We have quite a few of these people as well.
 
 ### Radhika Agarwal:
 What are some of the other communities? I know you mentioned the Singapore GovTech and then BetaNYC. What are some of the other communities that would be interesting to look into?

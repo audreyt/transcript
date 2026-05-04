@@ -46,7 +46,7 @@ That’s great. The journalists that ask me questions, they seem to focus a lot 
 > (Jun speaks)
 
 ### Audrey Tang：
-My main idea is leadership by example. For example, I could not roll out this OpenAPI Procurement Policy without doing a API-first redesign of our own office’s website or services, and so on.
+My main idea is leadership by example. For example, I could not roll out this OpenAPI Procurement Policy without doing an API-first redesign of our own office’s website or services, and so on.
 
 ### Audrey Tang：
 Eventually, the scope will be larger, but I term it to different interior milestones saying that, “If we cannot solve even our \[laughs\] cabinet-level problem, how can we tell the ministry what to do?

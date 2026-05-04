@@ -30,7 +30,7 @@ I love it. So, I mean, your life is quite amazing and even extraordinary because
 
 ### Julien Devaureix:
 
-I would spoil a little bit, but then you can talk over that. But you left school as a teenager you learned code almost before you could read uh you became a hacker you know obviously and then a minister and somehow you managed to stay even a poet through all that yes i want to to start talking about you yeah let's about you and your your ideas before going into your work and then we spent a lot of time talking about what you did and what you're doing now but my usual question is about your lenses you know how you look at things so when you look at the world today, what are these lenses like, what do you use to make sense of it.
+I would spoil a little bit, but then you can talk over that. But you left school as a teenager you learned code almost before you could read uh you became a hacker you know obviously and then a minister and somehow you managed to stay even a poet through all that yes i want to start talking about you yeah let's about you and your ideas before going into your work and then we spent a lot of time talking about what you did and what you're doing now but my usual question is about your lenses you know how you look at things so when you look at the world today, what are these lenses like, what do you use to make sense of it.
 
 ### Audrey Tang:
 
@@ -110,7 +110,7 @@ This time, the AI system figured out how to keep us engaged to our screens. And 
 
 ### Julien Devaureix:
 
-So it's a mix between the attention economy that basically steals all the attention that people need to be able to listen, to reflect on things. And it's also a revolution related to the fact that the gatekeepers are no longer setting up the agenda. Right um well before going diving into this a big question is related to democracy itself what's what do you see being the purpose of democracy and what is what is it ultimately you know meant to achieve for for society you know is it what are we trying to do here in the end. It's not just about maintaining democracy, it's about maintaining something, making something work.
+So it's a mix between the attention economy that basically steals all the attention that people need to be able to listen, to reflect on things. And it's also a revolution related to the fact that the gatekeepers are no longer setting up the agenda. Right um well before going diving into this a big question is related to democracy itself what's what do you see being the purpose of democracy and what is it ultimately you know meant to achieve for society you know is it what are we trying to do here in the end. It's not just about maintaining democracy, it's about maintaining something, making something work.
 
 ### Audrey Tang:
 
@@ -218,7 +218,7 @@ By saying, oh, look at this cute Shiba Inu. She's putting her paw to her mouth, 
 
 ### Julien Devaureix:
 
-So just to understand, the Taiwanese society was polarized at some point. The politics were polarized like everywhere else. But you came in with a lot of people and we can go through that. You managed to work on the polarization through driving people to a platform, sharing information so i guess one of the key challenges was to drive people to a common place now to to to make people use your platform and to make politicians recognize that okay this works just to understand you know how you come from something polarized to something that bring people together concretely, you know, what are the tools, what are the platforms, the challenges?
+So just to understand, the Taiwanese society was polarized at some point. The politics were polarized like everywhere else. But you came in with a lot of people and we can go through that. You managed to work on the polarization through driving people to a platform, sharing information so i guess one of the key challenges was to drive people to a common place now to make people use your platform and to make politicians recognize that okay this works just to understand you know how you come from something polarized to something that bring people together concretely, you know, what are the tools, what are the platforms, the challenges?
 
 ### Audrey Tang:
 
@@ -302,7 +302,7 @@ Yes. What I describe is not a platform, but rather a protocol, right? A protocol
 
 ### Audrey Tang:
 
-Twitter when it was still called Twitter had this idea called community notes previously called birdwatch and what it does is is that for each viral post, you can flag as it is needing more context. And then anybody can contribute with context, saying that, oh, that's actually wrong, or that's not like that, or it's missing important fact, and so on. And then those posts with the notes attached, the poster cannot remove the notes that's attached to it. So it serves as a kind of balancing context. And then the notes are selected, not just by counting the votes, but rather by counting the agreement between the people who would otherwise not agree. So for each note, you see a left wing who support it, and the right wing, which doesn't support it, support their own notes, which the left wing also doesn't support. It's very polarized, but there's a few percent of the notes that both sides consider helpful, the upwing, and these nodes are then featured prominently on x.com. And now this algorithm is taken as a default now on X, but also in YouTube and on Facebook threads and so on. So our protocol, the POLIS protocol of the bridging system, is now the default.
+Twitter when it was still called Twitter had this idea called community notes previously called birdwatch and what it does is that for each viral post, you can flag as it is needing more context. And then anybody can contribute with context, saying that, oh, that's actually wrong, or that's not like that, or it's missing important fact, and so on. And then those posts with the notes attached, the poster cannot remove the notes that's attached to it. So it serves as a kind of balancing context. And then the notes are selected, not just by counting the votes, but rather by counting the agreement between the people who would otherwise not agree. So for each note, you see a left wing who support it, and the right wing, which doesn't support it, support their own notes, which the left wing also doesn't support. It's very polarized, but there's a few percent of the notes that both sides consider helpful, the upwing, and these nodes are then featured prominently on x.com. And now this algorithm is taken as a default now on X, but also in YouTube and on Facebook threads and so on. So our protocol, the POLIS protocol of the bridging system, is now the default.
 
 ### Audrey Tang:
 
@@ -398,7 +398,7 @@ And it turns out in Nepal, the people who started social movements online uses t
 
 ### Julien Devaureix:
 
-Super interesting. Well, I mean, Taiwan's democracy, as you said, has evolved under constant pressure from disinformation, cyber attacks, and attempts basically to influence public opinion, you know, in part from across the strait, I guess. The same is happening all across Europe, and especially in France. You know, we have a lot of Russian trolls, and uh and and i'm saying this to all the the trolls coming to see the video please comment you know you're helping me growing my algorithm it's fine yes.
+Super interesting. Well, I mean, Taiwan's democracy, as you said, has evolved under constant pressure from disinformation, cyber attacks, and attempts basically to influence public opinion, you know, in part from across the strait, I guess. The same is happening all across Europe, and especially in France. You know, we have a lot of Russian trolls, and uh and i'm saying this to all the trolls coming to see the video please comment you know you're helping me growing my algorithm it's fine yes.
 
 ### Audrey Tang:
 
@@ -406,7 +406,7 @@ We can hug
 
 ### Julien Devaureix:
 
-You we love you we hug you yes thanks for being here uh but i want to understand you know how did you navigate that tension between openness and security and security and and what did these uh experiences teach you about defending democracy without becoming defensive.
+You we love you we hug you yes thanks for being here uh but i want to understand you know how did you navigate that tension between openness and security and security and what did these uh experiences teach you about defending democracy without becoming defensive.
 
 ### Audrey Tang:
 
@@ -470,7 +470,7 @@ The Silicon Valley way of building a superintelligence that sees everything, doe
 
 ### Julien Devaureix:
 
-I mean let's um let's dwell a little bit on that and what's happening outside you know what is the new what are the new front lines kind of you know because we now see competing models you know control in china you know a little bit of chaos in the us and a few civic experiments you know in between i mean the chinese model shows how technology can also become an instrument of social control you know in some in some ways you've got you know the american model it's often turns into a kind of infrastructure of uh more manipulation and profit even though you know we can go back to that to see you know how it's progressing but for now this is mostly what what's happening what do these extremes reveal about the deeper relationship between technology and democracy overall you know i want to to see to understand how you look at at the big picture of that tension.
+I mean let's um let's dwell a little bit on that and what's happening outside you know what is the new what are the new front lines kind of you know because we now see competing models you know control in china you know a little bit of chaos in the us and a few civic experiments you know in between i mean the chinese model shows how technology can also become an instrument of social control you know in some ways you've got you know the american model it's often turns into a kind of infrastructure of uh more manipulation and profit even though you know we can go back to that to see you know how it's progressing but for now this is mostly what's happening what do these extremes reveal about the deeper relationship between technology and democracy overall you know i want to see to understand how you look at the big picture of that tension.
 
 ### Audrey Tang:
 
@@ -506,7 +506,7 @@ Well, I mean, if you have off-ramps, of course, people are going to drive on off
 
 ### Julien Devaureix:
 
-Yeah, I'll go back to that a little bit later, but I want to talk about AI a little bit to understand what are the challenges, because AI can be used to expand participation, but also to manipulate perception. And we can see that you know now i don't even know the the share of content that is now produced directly or indirectly by ai but it's basically invading you know internet and it's causing a lot of trouble it's.
+Yeah, I'll go back to that a little bit later, but I want to talk about AI a little bit to understand what are the challenges, because AI can be used to expand participation, but also to manipulate perception. And we can see that you know now i don't even know the share of content that is now produced directly or indirectly by ai but it's basically invading you know internet and it's causing a lot of trouble it's.
 
 ### Audrey Tang:
 
@@ -514,7 +514,7 @@ Now half of new content
 
 ### Julien Devaureix:
 
-Yeah so so it's basically you know killing the some of the i mean damaging some of the bases on which internet has been built for for years so how do you see this tension between kind of empowerment and you described some ways of using AI in a smart way empowerment and control how this is playing out in now and in the coming years.
+Yeah so it's basically you know killing some of the i mean damaging some of the bases on which internet has been built for years so how do you see this tension between kind of empowerment and you described some ways of using AI in a smart way empowerment and control how this is playing out in now and in the coming years.
 
 ### Audrey Tang:
 
@@ -630,7 +630,7 @@ Well, many people in France, like make.org, actually have that kind of platforms
 
 ### Julien Devaureix:
 
-Okay a few a few questions we get into the end i know it's late but um yeah if you if you were a minister of digital affairs in france or president of the eu you know for for a week i mean in a situation of uh implementing change quickly um what would be your first moves well.
+Okay a few questions we get into the end i know it's late but um yeah if you if you were a minister of digital affairs in france or president of the eu you know for a week i mean in a situation of uh implementing change quickly um what would be your first moves well.
 
 ### Audrey Tang:
 

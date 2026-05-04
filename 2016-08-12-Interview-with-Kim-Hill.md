@@ -42,7 +42,7 @@ That’s correct.
 And so the government is complicit and co-operative with your doing, right?
 
 ### Audrey Tang:
-Yes, that’s the part where we relinquish our copyright comes in, because then the government can just cherry pick the pieces that they find useful. For example, the original national budget visualization the g0v people did in late 2012, is now being adopted by six different cities as a way to visualise their budget and have a conversation was their citizens.
+Yes, that’s the part where we relinquish our copyright comes in, because then the government can just cherry pick the pieces that they find useful. For example, the original national budget visualization the g0v people did in late 2012, is now being adopted by six different cities as a way to visualise their budget and have a conversation with their citizens.
 
 ### Kim Hill:
 Have you any evidence — I mean, you know one of the concerns is &quot;clicktivism&quot; — Have you any evidence that this actually increased people’s engagement in the process?

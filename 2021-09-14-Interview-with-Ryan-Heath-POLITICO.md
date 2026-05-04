@@ -64,7 +64,7 @@ We need to expand democracy beyond single jurisdictions. People who identify wit
 That is a great jumping-off point into the philosophy of open source. I would love it if you could tell me what your dream Internet looks like? How does the spirit of open source inform that? How does that feed into the day job that you have?
 
 ### Audrey Tang:
-My dream Internet is a Internet that is universally accessible to anyone. Not just people in this generation, but people in future generations. Not just people who use the Internet to consume information, but also people who use Internet to make productions, include podcasts. [laughs]
+My dream Internet is an Internet that is universally accessible to anyone. Not just people in this generation, but people in future generations. Not just people who use the Internet to consume information, but also people who use Internet to make productions, include podcasts. [laughs]
 
 That is to say, Internet as a co-creative medium. A medium that does not make discriminations regardless of your economic capabilities and so on.
 
@@ -146,9 +146,9 @@ One of the things I struggle with is the certainty that those companies just pro
 I wonder, what's been your journey in dealing with the downsides of how technology is used. How much do you have to guard against that in your job?
 
 ### Audrey Tang:
-I would like to focus on this word "optimist." I'm also quite optimistic about the future of digital democracy. I wouldn't call optimist the same mentality as a optimizer. I think, the kind of almost naïve unawareness of the negative externalities are not optimism.
+I would like to focus on this word "optimist." I'm also quite optimistic about the future of digital democracy. I wouldn't call optimist the same mentality as an optimizer. I think, the kind of almost naïve unawareness of the negative externalities are not optimism.
 
-They're the result of a optimizing mindset. In the computer science world which I'm in, we have a saying, "Premature optimization is the root of all evil."
+They're the result of an optimizing mindset. In the computer science world which I'm in, we have a saying, "Premature optimization is the root of all evil."
 
 Meaning that, if earlier in the journey, people already choose some utility function, and work tirelessly to optimize that, maximize that, and discard everything else. That's what optimizing means in computer science. Then people, almost always, discard some very important other values worth consideration, which would be very important, even dominant, in the future.
 

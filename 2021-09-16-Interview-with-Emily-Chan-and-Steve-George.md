@@ -32,7 +32,7 @@ We're down to low single digits of local confirmed cases now. I remember when we
 
 Because of that, in Taiwan, our digitalization is incremental. For example, to use tele-education.
 
-Today, the students still go to school, but we make sure that in the places that require the broadband as a alternative to going to school, because individual schools may be quarantined and so on...from the individual confirmed local cases, they can switch seamlessly into online education and health delivery and so on.
+Today, the students still go to school, but we make sure that in the places that require the broadband as an alternative to going to school, because individual schools may be quarantined and so on...from the individual confirmed local cases, they can switch seamlessly into online education and health delivery and so on.
 
 When we last spoke, I think, less than one-tenth of Taiwanese people use the national health care via a mobile app. Now, up to one-third of Taiwanese citizens can use the national health insurance as a virtual health card, so that we can scan the health service over at the cameras like this. Indeed, it has been amplified a lot, but not forced.
 

@@ -12,7 +12,7 @@ Of course, we have an online website as well.
 Yes.
 
 ### Audrey Tang:
-Yes. The kiosk is like an ATM, but developed by the conveniece store chains. People would insert the health card. Because it's just a terminal. We only have to build four authentication lines for all four major convenience store chains. That has more than 12,000 kiosks.
+Yes. The kiosk is like an ATM, but developed by the convenience store chains. People would insert the health card. Because it's just a terminal. We only have to build four authentication lines for all four major convenience store chains. That has more than 12,000 kiosks.
 
 By inserting the card, they pick for the next week a nearby vaccination site, whether it's morning, afternoon, or evening, in the day that they prefer.
 

@@ -54,7 +54,7 @@ To be able to harness the powers of the tools around you, or to learn how to aug
 ### Audrey Tang:
 I think of it in a reverse manner. Instead of thinking these spaces are my extensions of myself and my ambitions, and so on, I think that we as individuals are just passers by to a larger pyramid in building.
 
-A larger project that has a life of it's own, but we help shape part of it. We being good enough ancestors, not perfect ancestors, always expect that descendants, the people come after us, actually have a better grasp of how to use these technologies and spaces.
+A larger project that has a life of its own, but we help shape part of it. We being good enough ancestors, not perfect ancestors, always expect that descendants, the people come after us, actually have a better grasp of how to use these technologies and spaces.
 
 Instead of trying to be perfect and define, it's perfectly so that we essentially foreclose possibilities of creation of people later on, instead of just called amusers, which is also used by some other addictive industry.
 
@@ -177,7 +177,7 @@ We can call them scrum masters or coaches or co-pilots. It's not a new idea.
 ### Chris Bauer:
 Building on this idea of transforming a generation of leaders, do you have any thoughts about that? We're quite interested in the legacy impact of this specific pandemic crisis on leadership. What did we learn? What's going to be retained? What will we likely not look to retain in our practices or in our experiences?
 
-Have you observed ways in which this generation of leaders who have had the responsibility of  leading organizations, countries, even every individual who's participating within the movements to promote change? Have you observed any fundamental changes that we could look at in that generation?
+Have you observed ways in which this generation of leaders who have had the responsibility of leading organizations, countries, even every individual who's participating within the movements to promote change? Have you observed any fundamental changes that we could look at in that generation?
 
 ### Audrey Tang:
 Sure. It's a generation of worldwide comma, urgency and therefore a worldwide community. We all become time zone travelers, if not time travelers. That means that the idea of who are close to you is not defined by physical distance, but by first Internet connection speed, and then also the pandemic urgency.

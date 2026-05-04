@@ -52,7 +52,7 @@ We wanted to create something that could bring people together, that could empow
 
 The thing, the TED type format, where people, ambassadors, thought leaders, and so forth, represents a topic, an idea, a concept that has the potential to change something in the world. The paradigm of an actionable brief.
 
-Something that people, whether developers, designers, architects, scientists, whatever their skill is, they could actually create, invent an idea and submit it as as a potential solution to counter that brief.
+Something that people, whether developers, designers, architects, scientists, whatever their skill is, they could actually create, invent an idea and submit it as a potential solution to counter that brief.
 
 The idea was to connect these thought leaders, these change makers, with young, passionate creators, inventors, developers, designers, to create this bottom-up change and enable the difference in the world. Last year, we had four briefs, we had four speakers. We ended up with about 70 to 80 submissions of ideas, all incredible.
 

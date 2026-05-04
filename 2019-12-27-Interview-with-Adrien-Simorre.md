@@ -37,7 +37,7 @@ Mm-hmm.
 My parents, for some background, my dad majored in politics and my mom in law. At that time, they’re very much worried about the human rights, about the environmental deterioration, about all the negative externalities that Taiwan’s economic boon have caused, both on the society and on the environment.
 
 ### Audrey Tang:
-We talked not as much about politics as just elections and so on, but rather what we will nowaday call community building. About how people in a different locality, and so on, which does not yet at that time have any way to say vote for the president, and so on, to nevertheless come to common understanding about their local issues in a kind of self-governing way many of the important issues concerning environment and the local society.
+We talked not as much about politics as just elections and so on, but rather what we will nowadays call community building. About how people in a different locality, and so on, which does not yet at that time have any way to say vote for the president, and so on, to nevertheless come to common understanding about their local issues in a kind of self-governing way many of the important issues concerning environment and the local society.
 
 ### Adrien Simorre:
 When you started coding and going into the Internet stuff, did you already know that you would go into politics? Was it a way of doing politics already at that time, or…?

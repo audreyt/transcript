@@ -197,7 +197,7 @@ For example, we dealt with whether to allow PRC, People's Republic of China, rea
 
 After three weeks of conversations online and in the street, while people understood the systemic risk assessments that's required.
 
-Whenever we upgrade anyone's equipment, we have to re-do a analysis to see whether it has been defect or taken over by the PRC. Whereas, if we went with, for example, Nokia or Qualcomm or whatever, [laughs] there's less of this state capture risk.
+Whenever we upgrade anyone's equipment, we have to re-do an analysis to see whether it has been defect or taken over by the PRC. Whereas, if we went with, for example, Nokia or Qualcomm or whatever, [laughs] there's less of this state capture risk.
 
 These complex topics actually are not that complex if you have a good pro-social digital public infrastructure to suss out the good enough consensus. In a sense, this is hacking politics. This is turning politics from a representational style to a re-presentational style.
 

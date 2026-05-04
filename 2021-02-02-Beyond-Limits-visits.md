@@ -30,16 +30,16 @@ The historian.
 That’s right.
 
 ### David Liu:
-That was pretty cool. Anyway, let me give you a little bit of background about myself and the company that I represent. Beyond Limits is a AI company, based its headquarters in Highclere, England. The original IP and the technology platform is from NASA, the JPL Caltech.
+That was pretty cool. Anyway, let me give you a little bit of background about myself and the company that I represent. Beyond Limits is an AI company, based its headquarters in Highclere, England. The original IP and the technology platform is from NASA, the JPL Caltech.
 
 ### David Liu:
 The team, mainly we’re from the JPL spinoff. What we did was the team was the same team that developed the AI platform that drive rover to Mars, the Curiosity Rover 2012, that was the AI prep was mainly developed by this team. AJ, our CEO used to be the head of commercialization of Caltech. He has done quite a lot of commercialization project for Caltech. It’s been out there, technology platform.
 
 ### David Liu:
-AJ persuaded the Caltech there’s a commercial usage for this particular platform that have already been deployed in rover and also using some other military applications as well. We know, cut beyond him, is purely a commercial company, basically get a license, exclusive license from Caltech for about 70 IP brands since 2014. From that point on, we develop another 100 something to IP brands.
+AJ persuaded the Caltech there’s a commercial usage for this particular platform that have already been deployed in rover and also using some other military applications as well. We, Beyond Limits, are purely a commercial company, basically get a license, exclusive license from Caltech for about 70 IP brands since 2014. From that point on, we develop another 100 something to IP brands.
 
 ### David Liu:
-Right now, we own about 210 IP brands. The first industry that we got into is energy. The BP was one of our first technology adopter and also later on became our investor on Series B. My involvement, I run an investment fund company for capital headquarters in Seattle. I came into in series C.
+Right now, we own about 210 IP brands. The first industry that we got into is energy. The BP was one of our first technology adopter and also later on became our investor on Series B. My involvement, I run an investment fund company for capital headquarters in Seattle. I came in in series C.
 
 ### David Liu:
 We just closed the series C last year for about 135 million. After we closed that, our plan is essentially to globalize the platform. Now, we have Bendel, which is our main R&#x26;D center and also providing services in development products in the US.
@@ -57,7 +57,7 @@ Within a relatively short period of time, we’ve done a fair amount of work try
 Basically, in the past 10 years, I’ve been trying to identify unique technology platform. Hopefully, either me as a venture investor, and then later on try to branch out to other parts of the world, primarily in Asia.
 
 ### David Liu:
-That’s the general background on Beyond Limits. We look at Taiwan from multiple angle. One is definitely the certain products that we already developed, especially on the energy sector. Chungyi has been very helpful connecting us with a lot of the energy players over here. We just came from \[Mandarin\] . We just arrived for about an hour ago. That’s just been pure business development.
+That’s the general background on Beyond Limits. We look at Taiwan from multiple angles. One is definitely the certain products that we already developed, especially on the energy sector. Chungyi has been very helpful connecting us with a lot of the energy players over here. We just came from \[Mandarin\] . We just arrived for about an hour ago. That’s just been pure business development.
 
 ### David Liu:
 The other part of it, we also want to look for strategic partner in Taiwan. When I was in Taiwan, I was pretty tied into the hardware design and manufacturing ecosystem. Then from our viewpoint, we would never be a chip company, for example. We would never be a device company. However, our AI algorithms, especially with the Nasa Rover AI Program, there’s a lot of edge AI technology in rover.
@@ -90,7 +90,7 @@ That one, we did it with Cleveland Clinic. We did that in about six weeks here.
 Oh, really? Wow.
 
 ### David Liu:
-We built that thing in six week. We gave it up for free to the States.
+We built that thing in six weeks. We gave it up for free to the States.
 
 ### Audrey Tang:
 It’s a pretty basic SIR model.
@@ -126,7 +126,7 @@ No, overseas in Taipei. This time our client is in Kaohsiung. Our product focus 
 OK, more like this is in the customer’s side.
 
 ### Chungyi Chang:
-For client, basically.
+For the client, basically.
 
 ### David Liu:
 In this day and age, you can be anywhere…
@@ -168,7 +168,7 @@ IP process.
 IP process, yeah.
 
 ### Chungyi Chang:
-Then, we combine all these technology into a cognitive AI. The good point is, we are just like a hub. We can embrace all different kinds of the AI talents, no matter it’s numeric or symbolic. Either is good. They can see the holistic picture and being able to work at global project. Through the process, of course, we can imagine the AI industry in Taiwan will have a boom.
+Then, we combine all these technology into a cognitive AI. The good point is, we are just like a hub. We can embrace all different kinds of the AI talents, no matter it’s numeric or symbolic. Either is good. They can see the holistic picture and be able to work on global projects. Through the process, of course, we can imagine the AI industry in Taiwan will have a boom.
 
 ### Chungyi Chang:
 On the other hand, we do want to look for a government who’ll support, whatever kind of support. This is our purpose to visit you.
@@ -180,7 +180,7 @@ Support is one. The other one is I, personally, have been impressed by what, Aud
 A lot of times, you need to find a right environment. Last year was not exactly the right environment, even in my own country \[laughs\] to do this kind of experiment. Taiwan is a good place for us to test out some new models, how to adopt our AI, especially our cognitive AI, which comes with a specific feature, which is explainability.
 
 ### David Liu:
-That’s something that a lot of AI, you don’t have that. That part, it is very core in our philosophy, in developing our AI platform. We think that if AI is going to be adopted in a society for this purpose, you has to develop that trusting relationship between a machine and a human. In order to do that, you have to have explainability.
+That’s something that a lot of AI, you don’t have that. That part, it is very core in our philosophy, in developing our AI platform. We think that if AI is going to be adopted in a society for this purpose, you have to develop that trusting relationship between a machine and a human. In order to do that, you have to have explainability.
 
 ### David Liu:
 That goes with the transparency idea. What you have done in Taiwan, a lot of time using technology to make it more transparent, make technology even more accountable, so to speak, to people. That’s something that I’m interested in exploring, what kind of projects that we can do together with the government. Definitely then, to that extent, it will be natural.
@@ -189,7 +189,7 @@ That goes with the transparency idea. What you have done in Taiwan, a lot of tim
 There might be some mutual support, in a sense, to try to do something together.
 
 ### Audrey Tang:
-One of your main points about explainable AI is, and I quote, “evidence-based queries in natural language.” That means, it’s not only comprehensibly natural in language, but also, people can query it using that in their phrases?
+One of your main points about explainable AI is, and I quote, “evidence-based queries in natural language.” That means, it’s not only comprehensible in natural language, but also, people can query it using that in their phrases?
 
 ### David Liu:
 I’m not exactly the best person to talk about that aspect.
@@ -198,7 +198,7 @@ I’m not exactly the best person to talk about that aspect.
 Sure, of course, but what’s the experience for nontechnical people with this system?
 
 ### David Liu:
-Basically, what we did was, we have a cognitive AI agent. That is the core. Essentially, we can take a lot of inputs from the numeric AI, so whether it’s coming from CNN, our end, different sets of data and all that. We take those input. We also have IP that can help us qualify heuristics, the industry practice, certain kind of past experience.
+Basically, what we did was, we have a cognitive AI agent. That is the core. Essentially, we can take a lot of inputs from the numeric AI, so whether it’s coming from CNN, our end, different sets of data and all that. We take those inputs. We also have IP that can help us qualify heuristics, the industry practice, certain kind of past experience.
 
 ### David Liu:
 There’s a lot of capturing of the institutional knowledge. Say, for example, this past two weeks or so, we have been talking to a lot of different industries and their problems. A lot of the problem has to do with 傳承, their experience. They’re not passed on.
@@ -231,16 +231,16 @@ Absolutely, yeah, you got it. Then, you click on it. The thing is, what we do is
 The operator will click on it, then you will see that the machine have gone through a couple recommendations. Each of them come with a certain logic and, finally, recommendation number one. You can override it. You can come in and say, “You know what? I look at all this, I probably prefer recommendation number three.”
 
 ### David Liu:
-There’s a little bit interaction there. Maybe it gives you some insight, you come up with different way of doing things. That feed back into the loop, so you continue to be self learning that way.
+There’s a little bit interaction there. Maybe it gives you some insight, you come up with different way of doing things. That feeds back into the loop, so you continue to be self learning that way.
 
 ### Audrey Tang:
 OK, that makes total sense. Thank you.
 
 ### Chungyi Chang:
-If we think about why Taiwan, and how we can help Taiwan, the strategy is very clear. Taiwan are seeing a world of treasure. We almost have all kinds of heavy industry, and all kinds of traditional maker industry.
+If we think about why Taiwan, and how we can help Taiwan, the strategy is very clear. Taiwan is seeing a world of treasure. We almost have all kinds of heavy industry, and all kinds of traditional maker industry.
 
 ### Chungyi Chang:
-When we look through what happening in China, for example, a fabric industry, or manufacturing, east China or southeast Asia, or whatever, you can certainly find certain source from Taiwan since 1980s. Luckily, we still keep the roots. The strategy in Taiwan is through the co development process. We keep those treasure in our system as a constraint.
+When we look through what's happening in China, for example, a fabric industry, or manufacturing, east China or southeast Asia, or whatever, you can certainly find certain source from Taiwan since 1980s. Luckily, we still keep the roots. The strategy in Taiwan is through the co development process. We keep those treasure in our system as a constraint.
 
 ### Chungyi Chang:
 If possible, we want to co sell with either local partnership to oversea. All kinds of partners we have in Taiwan, it’s more like our product development partner. It’s not purely a client or a consumer, they are partner. We utilize and keep the treasure from Taiwan and then sell to oversea. That is our strategy.
@@ -249,7 +249,7 @@ If possible, we want to co sell with either local partnership to oversea. All ki
 If we want to go through this process, each single domain knowledge, we need a local expert to translate those domain knowledge into comprehensive language our computer science can understand, and to co develop the product.
 
 ### Chungyi Chang:
-Originally, that is how we expect technology to help the society or to help the world. Unfortunately, in the majority of the case, this kind of synergy working pattern, never come true because people from different domains, they don’t speak the same language. It’s very hard for them to collaborate.
+Originally, that is how we expect technology to help the society or to help the world. Unfortunately, in the majority of the case, this kind of synergy working pattern never comes true because people from different domains, they don’t speak the same language. It’s very hard for them to collaborate.
 
 ### Chungyi Chang:
 Luckily, we made a successful case in US. We know how to make it happen. Given the fact, like Taiwan, we have the treasure of all different kinds of maker, and we want to make it happen in Taiwan.
@@ -288,7 +288,7 @@ That’s the thinking about it, putting some time in. That requires some infrast
 Instead of always looking for this seven figures project that we want to get, this is more scalable. This is something that you can sell to more popular…the public to use.
 
 ### Audrey Tang:
-OK. Just to check my understanding, the current operational efficiency schemes deployed in existing customers, deploying in beyond limit fields, is all centered around energy or is it also other centers?
+OK. Just to check my understanding, the current operational efficiency schemes deployed in existing customers, deploying in Beyond Limits fields, is all centered around energy or is it also other centers?
 
 ### David Liu:
 Mostly centered. We are mostly energy, and we are moving into healthcare, as I mentioned. We are going to move into different verticals. That’s part of the reason that we do the CVC. So, the CVC is about globalization and also moving to different vertical.
@@ -303,7 +303,7 @@ Healthcare is definitely one of them, power and utilities is another one, and I 
 Yeah. G42 is also into fintech.
 
 ### David Liu:
-Yeah. They are very, very much into fintech. In Taiwan, you definitely want to find some industrial 4.0 partners and as I mentioned, in industrial 4.0, the solution can be benefiting not only just the big guys, but also the small media design enterprises as well. It is our goal to actually branch out to other verticals.
+Yeah. They are very, very much into fintech. In Taiwan, you definitely want to find some industrial 4.0 partners and as I mentioned, in industrial 4.0, the solution can be benefiting not only just the big guys, but also the small medium design enterprises as well. It is our goal to actually branch out to other verticals.
 
 ### David Liu:
 We are probably not to the point of getting into the 2C market, like advertising and whatnot. We are not really touching that part yet. We are still focusing more on the industrial enterprise side.
@@ -318,7 +318,7 @@ We actually were talking to \[Mandarin\] because they have a chatbot that can pr
 I see. You are more like the Wolfram Alpha to their Alexa.
 
 ### David Liu:
-That’s right. We were having a little bit discussion with them. We were having a discussion with ASTRI in Hong Kong and also A _STAR, in Singapore. A_ STAR in Singapore, they want to play Malay and the other language and other dialect in there as well.
+That’s right. We were having a little bit discussion with them. We were having a discussion with ASTRI in Hong Kong and also A*STAR, in Singapore. A*STAR in Singapore, they want to play Malay and the other language and other dialect in there as well.
 
 ### Audrey Tang:
 OK. I think you are off to a great start because operation technology efficiency in the energy sector, it’s very evidence driven and there is a lot of \[Mandarin\] tested knowledge that is at the constant risk of being lost. It’s a great sector to begin with.
@@ -327,7 +327,7 @@ OK. I think you are off to a great start because operation technology efficiency
 I don’t quite understand the SME, the small medium enterprise angle because there is less of the tacit knowledge or experience to be captured but more of a day to day interaction patterns. It’s more on the 2C side rather than internally under operation technology side.
 
 ### Audrey Tang:
-There might be some part of your technology that I have yet to grasp down to what enabled small media enterprises customers, but on the operation sectors including energy but also, as I mentioned healthcare. This is a pretty good fit.
+There might be some part of your technology that I have yet to grasp down to what enabled small medium enterprises customers, but on the operation sectors including energy but also, as I mentioned healthcare. This is a pretty good fit.
 
 ### David Liu:
 Yeah, I know. The SME is not easy. Trying to find angle is not that easy.
@@ -417,7 +417,7 @@ Any preference in terms of whether there’s any particular preference for worki
 Well, I don’t think there is a clear heuristic whether to work with domestics startups or oversea startups. It all depends on how viable or scalable the solution is. If it’s catering to one particular county and has very little likelihood to scale out, then if I am a mayor, I would prefer to work with local startups and retain the talents here.
 
 ### Audrey Tang:
-On the other hand, this is just like a pilot run. The model depths generates has a high possibility to extend to the world, then some sort of connection to international community will have belonged.
+On the other hand, this is just like a pilot run. The model it generates has a high possibility to extend to the world, then some sort of connection to international community will have belonged.
 
 > (pause)
 
@@ -446,7 +446,7 @@ OK.
 If you already have some…I read about, for example, pinpointing drilling opportunities, inspecting pipes with self navigating robots, and things like that. I think the major energy companies, state owned or otherwise, in Taiwan already are quite versed in these scenarios.
 
 ### Audrey Tang:
-Your valuable proposition would be that, your technology make it more explainable or easier to tune or easier to launch. You will not be talking to people who have no idea what you’re talking about. They all have their own AI things working on precisely those technologies.
+Your value proposition would be that, your technology make it more explainable or easier to tune or easier to launch. You will not be talking to people who have no idea what you’re talking about. They all have their own AI things working on precisely those technologies.
 
 ### Chungyi Chang:
 Thank you so much.

@@ -119,7 +119,7 @@ You didn't have to do that much. To summarize, then, for the vaccine rollout and
 ### Audrey Tang:
 Currently, there's two concurrent systems running. There's the 1922 system, which is pre-registration only and is run by the national government. That's the system I helped design.
 
-As you said, because there's a abundance of vaccines now of all four different kinds, people are also free to simply walk in or register on their local hospital or local government in Taiwan. It wasn't the case back last July or something.
+As you said, because there's an abundance of vaccines now of all four different kinds, people are also free to simply walk in or register on their local hospital or local government in Taiwan. It wasn't the case back last July or something.
 
 There was simply no spare vaccines, but yes, this year, the 1922-centralized government system focus on the third booster dose, whereas the first and the second shots as well as boosters is for the local government to handle.
 

@@ -55,7 +55,7 @@ That doesn't seem to be work there.
 It's working.
 
 ### Chia Ying Lee:
-It work earlier.
+It worked earlier.
 
 ### Audrey Tang:
 It did work. Really?
@@ -66,7 +66,7 @@ It did work. Really?
 [laughs]
 
 ### Keng-Yen Huang:
-Right now I'm still like...(setting up the presentaiton equipment)
+Right now I'm still like...(setting up the presentation equipment)
 
 ### Audrey Tang:
 It's fine, if you retest, but I guess you...
@@ -84,7 +84,7 @@ It's easy. It's closer to me too.
 That's right. It's more.
 
 ### Keng-Yen Huang:
-This is my Chinese (point to the name on the slide). [laughs] I'm still doing global mental health work and a lot of the degital solutions are primary developed for Africa, because of the low resource. Some of the work, now, I'm testing in the US context, both in community and healthcare context.
+This is my Chinese (point to the name on the slide). [laughs] I'm still doing global mental health work and a lot of the digital solutions are primary developed for Africa, because of the low resource. Some of the work, now, I'm testing in the US context, both in community and healthcare context.
 
 The reason I'm here is to share a little bit about what I'm doing, but also to get your input on where I might be able to connect. The model that I'm doing is not to create a new structure, but to integrate into the existing structure. I am thinking about policy-academy-private partnership. It depends on the structure and considers partners' priority and develops ways to integrate.
 
@@ -157,8 +157,8 @@ Yes, you're not the norm. [laughs]
 No, I'm not. [laughs]
 
 ### Keng-Yen Huang:
-Even for parents to recognize kids' behavior issues, that could be a problem, and so, parents tend to overlook child mental health issue. It depends on the culture, we need to find a way to help parents recognize the issue. The approaches need to fit into the culture, and develop the engagment approaches to fit specific culture. 
-There's also communication barriers-- a lot of mental health information is not accessible in public domain.Communication through a web platform or outside of the healthcare system is very critical. This is an issue that we are trying to address (throught the digital tool). 
+Even for parents to recognize kids' behavior issues, that could be a problem, and so, parents tend to overlook child mental health issue. It depends on the culture, we need to find a way to help parents recognize the issue. The approaches need to fit into the culture, and develop the engagement approaches to fit specific culture. 
+There's also communication barriers-- a lot of mental health information is not accessible in public domain.Communication through a web platform or outside of the healthcare system is very critical. This is an issue that we are trying to address (through the digital tool). 
 
 There's also intervention design issues in the service area. A lot of mental health intervention resources have been put into treatment, but not in public health prevention. This pyramid (point to the WHO's service Pyramid model) with the wider bottom shows the need for a more self-care service model. The Pyramid model is a framework proposed by WHO. It suggests more health resources should be put into self-care approaches of health promotion, and less resources in treatment. 
 
@@ -182,7 +182,7 @@ Treatments are always more painful. [laughs]
 
 ### Keng-Yen Huang:
 That's right. That's right. It's better to have a good life habit. Also, lack of professional resource is another common issue (point to the slides for 3 common service issues). 
-What are the consequences of not setting up the service in the right way? We know,high prevalence of mental health problem will be one of the consequences.  It's pretty much the same globally. In many country: about 10 to 20 percent of children and young adults have a mental health issue.
+What are the consequences of not setting up the service in the right way? We know,high prevalence of mental health problem will be one of the consequences.  It's pretty much the same globally. In many countries: about 10 to 20 percent of children and young adults have a mental health issue.
 
 We know that in Taiwan, the suicide rate and depression in young people is pretty high.
 
@@ -190,11 +190,11 @@ We know that in Taiwan, the suicide rate and depression in young people is prett
 Definitely.
 
 ### Keng-Yen Huang:
-That's a little bit higher than the rate in the US, we know for Asians, we have higher rates of anxiety and depression. We also know that most of the mental health problems developed by the age of 14. [laughs] The majority of the problems are anxiety, depression and conduct problems, and these contributes to 75 percent of mental health problems in young people. If we can focus our energy targeting those issues, it would be super useful.
+That's a little bit higher than the rate in the US, we know for Asians, we have higher rates of anxiety and depression. We also know that most of the mental health problems developed by the age of 14. [laughs] The majority of the problems are anxiety, depression and conduct problems, and these contribute to 75 percent of mental health problems in young people. If we can focus our energy targeting those issues, it would be super useful.
 
 This Figure is to gives you a sense of the global health diseases burden. Mental health burden is in top three, it's an issue that hasn't been paid a lot of attention. We know parents constantly complain about kids' problems, and parents don't have a place to get effective parenting solutions. Same thing for health provider. They have challenges to give parents needed information.
 
-School, it's also a good system to target on children's mental health, but usually is not that well implemented. The approach that we developed is, we bring in the evidence-based interventions that we tested using face-to-face approaching, and modify it to a digital appraoch and see how it works in the digital platform. This just gives you...
+School, it's also a good system to target on children's mental health, but usually is not that well implemented. The approach that we developed is, we bring in the evidence-based interventions that we tested using face-to-face approaching, and modify it to a digital approach and see how it works in the digital platform. This just gives you...
 
 ### Audrey Tang:
 ...report. 
@@ -222,7 +222,7 @@ Oh, yeah, definitely. Even in this incubator, we have a couple of startups just 
 ### Keng-Yen Huang:
 That's great. The tool that we are focusing on in this digital tool combined with a lot of functions, and I'll explain a little bit more later. After people using the tool, we can help them decide what resources they need to use, and help them get access. The last solution is, we refer them to the healthcare resource.
 
-This figure shows a digital approach that is combined multiple functions and major service steps. Our approach is an integrated health behavior intervention model, including "ask, advice, access, assist, and arrange" to help people learn about information and chang behavior all at the same time. The first step is that we ask questions. The way we ask questions is different from the convention approach. We integrate health education and health literacy promotion while asking questions. I'll give an example...
+This figure shows a digital approach that is combined multiple functions and major service steps. Our approach is an integrated health behavior intervention model, including "ask, advice, access, assist, and arrange" to help people learn about information and change behavior all at the same time. The first step is that we ask questions. The way we ask questions is different from the convention approach. We integrate health education and health literacy promotion while asking questions. I'll give an example...
 
 ### Audrey Tang:
 Now there's simple survey or a simple assessment, like whatever scale.
@@ -244,7 +244,7 @@ That's right, and labeling. There's this whole taxonomy.
 ### Keng-Yen Huang:
 Taxonomy. Yes. The piece is very different. We think about the context and also personal characteristic. After we ask people question, we give them the results, advice. We share with them their strengths and weaknesses, and also give them the reason why they are making change. They could assess what their rating is and decide what they want to do next.
 
-Based on the consumers' decision, the digital tool also prioritizes what advices/information should be given. The decisions are based on not only our clinical experience, but also based on families' preference. We based on these to provid health literacy information. This is also the place that we adapt the material from evidence based interventions to the digital. Then we 'arrange', it depends on what they need and we connect them with the needed resources.
+Based on the consumers' decision, the digital tool also prioritizes what advice/information should be given. The decisions are based on not only our clinical experience, but also based on families' preference. We based on these to provide health literacy information. This is also the place that we adapt the material from evidence based interventions to the digital. Then we 'arrange', it depends on what they need and we connect them with the needed resources.
 
 ### Audrey Tang:
 The advice stage comes before the assessment?
@@ -281,7 +281,7 @@ You can see it, OK. The assessment will evaluate individual characteristic, it w
 The prompt says, and I quote, "We will look at the results together." This we, it's the whole family?
 
 ### Keng-Yen Huang:
-THe version I am showing here is a different version. This is more for low literacy. For low literacy parents, We work with volunteer to provide the mSELF. The prompt you saw is a volunteer guide. We  developed the prompt to help volunteers to know what to say.
+The version I am showing here is a different version. This is more for low literacy. For low literacy parents, We work with volunteer to provide the mSELF. The prompt you saw is a volunteer guide. We  developed the prompt to help volunteers to know what to say.
 
 ### Audrey Tang:
 That's right.
@@ -321,7 +321,7 @@ The changing talk, that's right.
 The changing talk. What's a rapped up? You actually write from hip hop lyrics? [laughs]
 
 ### Keng-Yen Huang:
-Once you review the results, we have a few follow up questions. We ask if this in line with what you think about your family? What would be the factors that may influence your family the most. WE also give a list of learning options, so they could pick, tick which one option they want to learn more and focuse on?
+Once you review the results, we have a few follow up questions. We ask if this in line with what you think about your family? What would be the factors that may influence your family the most. We also give a list of learning options, so they could pick, tick which one option they want to learn more and focuse on?
 
 ### Audrey Tang:
 It's more like a theory for change, not just personally, but for the family to share.
@@ -348,9 +348,9 @@ I can't just say I'll change 20 habits [laughs] tomorrow. It's just not possible
 
 ### Keng-Yen Huang:
 This is also where sometimes the support system is critical, it's important because behavior change is hard. That's why we need to think about the support system when helping people make changes. This is shown here (point to the support system in the figure) as the additional referral resource. Past year, because of COVID, digital health as the changes are skyrocketing. 
-Even in US context, telehealth space has changed and improved dramatially. It's the right time to do more on mHealth and telehealth.
+Even in US context, telehealth space has changed and improved dramatically. It's the right time to do more on mHealth and telehealth.
 
-The links hear are for two versions of mSELF that are much ready to be used. Right now, I'm going to also show you some other examples and give you some timelines for things/differnet mSLE versions that we're working on. This is another version. You can see, it's a similar assessment. We first introduce what we're doing, and then ask questions.
+The links hear are for two versions of mSELF that are much ready to be used. Right now, I'm going to also show you some other examples and give you some timelines for things/differnet mSELF versions that we're working on. This is another version. You can see, it's a similar assessment. We first introduce what we're doing, and then ask questions.
 
 The goal is to help them understand multiple areas of need. This is more like discussion. Then we show them their result on their mental health. In young-adult, because relationship issue is also a big issue. We assess their relationship health and give them some advice.
 
@@ -515,9 +515,9 @@ In the school, they collect children's data every semester, for sometimes now. T
 That's right. Quite late.
 
 ### Chia Ying Lee:
-Quite late, actually we have a lot of data and the school have very limited manpower. Although, they collect questionary, psychological test and everything, but they don't have a good setup to integrate all this information and also for prediction. This is a very good concept. We also have very good school system and healthcare system.
+Quite late, actually we have a lot of data and the school have very limited manpower. Although, they collect questionnaire, psychological test and everything, but they don't have a good setup to integrate all this information and also for prediction. This is a very good concept. We also have very good school system and healthcare system.
 
-It would be very nice to have a top-down process from the government because if we want this to be successful, you can see there are so many things for integration. As the scholar, [laughs] sometimes we have a good idea and we also have a grant from government, but when we do something like provide some idea, but it's very difficult for the real implement.
+It would be very nice to have a top-down process from the government because if we want this to be successful, you can see there are so many things for integration. As scholars, [laughs] sometimes we have a good idea and we also have a grant from government, but when we do something like provide some idea, but it's very difficult for the real implement.
 
 I'm thinking about having this model as a testing ground, [laughs] and also have your help. We know there are so many important issue, but one of them is that mental illness in children, and also how we can help the school and also the family to identify children at risk.
 
@@ -582,7 +582,7 @@ For the senior, because I'm like, "Wait, they're over-utilized."
 They don't lose on the finishing line here. [laughs]
 
 ### Keng-Yen Huang:
-A lot of mental house issues is a history. It's not just the parents, it's their kids, all related. [laughs]
+A lot of mental health issues is a history. It's not just the parents, it's their kids, all related. [laughs]
 
 ### Audrey Tang:
 When you say the wellness version is for the Ugandan school teachers, does that mean that the teacher go interfacing with the parents?
@@ -612,7 +612,7 @@ Coaching support to the teacher to the parents and continued support, that's ver
 ### Audrey Tang:
 I do see that. In Taiwan, basically everything after the first grade, that's the Ministry of Education. If it's early as, say, three years old, that's the Minister of Health and Welfare. Probably different worlds, actually, with very different terminology even and the different strategy for intervention.
 
-I do in view agree that maybe working with the existing structure in Taiwan about continuing education for teachers is the way to go. According to a new curriculum, the school teachers, via counselors or the teacher that does a leading of the head of a class, they all need to come up with their own curriculum to work with the competency-based new curriculum to make sure the students get individualized care.
+I do indeed agree that maybe working with the existing structure in Taiwan about continuing education for teachers is the way to go. According to a new curriculum, the school teachers, via counselors or the teacher that does a leading of the head of a class, they all need to come up with their own curriculum to work with the competency-based new curriculum to make sure the students get individualized care.
 
 The individualized education program is not what they have learned in new normal university. They were not brought up with [laughs] the system of IEPs. There's a lot of appetite for continuing education to empower themselves. I'm thinking about among the dream to the nth dimension, to the power of N.
 
@@ -637,7 +637,7 @@ I attended one of their national-wide symposium gatherings of the trainer to the
 Each rural or a local teacher choose the part that is beneficial for them without a previous top-down approach where the schools are just implementers of a national curriculum strategy. We're past that. Nowadays, the local school have a lot of say in developing their curriculum.
 
 ### Keng-Yen Huang:
-I see. Some say a lot of module approaches, not like the whole package. Is this government-supported?
+I see. Some say a lot of modular approaches, not like the whole package. Is this government-supported?
 
 ### Audrey Tang:
 Yeah, it's government-supported. The Ministry of Education do support the endeavors of such continued education. We don't control the program or the agenda. This is a community by the teachers with the teachers.

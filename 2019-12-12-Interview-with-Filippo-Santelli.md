@@ -908,7 +908,7 @@ The scale is massive any day of the week. It is not about election or non-electi
 Is that true for every country in the world right now because we live in the social media age and that’s how elections work? That’s a byproduct of our elections in the media age, in the social media age, or it’s there’s something specific about China and this part of the world?
 
 ### Audrey Tang:
-There’s something specific about Taiwan. According to the the CIVICUS Monitor, we’re the only jurisdiction in Asia that allows complete freedom in terms of freedom of journalism and assembly and expression.
+There’s something specific about Taiwan. According to the CIVICUS Monitor, we’re the only jurisdiction in Asia that allows complete freedom in terms of freedom of journalism and assembly and expression.
 
 ### Audrey Tang:
 You can imagine if the Internet access is not free, then you have less of this problem, of course. \[laughs\] There’s software that can automatically censor certain keywords. Again, I don’t have to explain this to you.

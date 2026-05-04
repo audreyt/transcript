@@ -363,7 +363,7 @@ We have all these things. It’s amazing. We also want to introduce too our dail
 What we found is that you need to impact the daily lives. How he’s going to make my life better today? Not everybody is visionary. We always see the future. I have been always seeing…
 
 ### Audrey Tang:
-That’s why you’re planting trees, even though they do nothing to today.
+That’s why you’re planting trees, even though they do nothing today.
 
 > (laughter)
 

@@ -25,7 +25,7 @@ Around the time that I was 14 years old – that was 1995 – I started particip
 Surprisingly, they all agreed with it and said, “Fine. We will cover for you.” That built me a lot of optimism in the innovation capacity in the bureaucracy. To me, the public servants are the most creative people. Because of that I started, co-founded quite a few of Web startups, notably Inforian, which got investment by Intel. That was all before year 2000.
 
 ### Audrey Tang:
-After serial entrepreneurship, I finally started working on what we will nowaday call the community around open culture, including but not limited to open source, open government, open data, and so on.
+After serial entrepreneurship, I finally started working on what we will nowadays call the community around open culture, including but not limited to open source, open government, open data, and so on.
 
 ### Audrey Tang:
 There is a movement in Taiwan called the g0v movement that register the g0v.tw website address and systematically look at all the public service which all ends in gov.tw and fork it by changing exactly the same website with a O changing to a zero.
@@ -139,7 +139,7 @@ If we allow that kind of surveillance statism, or surveillance capitalism, to th
 That importance is seen by, for example, the Civicus Human Right Monitor that, in the entire Asia, Taiwan is the only place where we have completely open civic space, the right to assemble, to have freedom of speech, and things like that.
 
 ### Audrey Tang:
-I think in physical space, we have long fighted for positive freedoms. In cyberspace, if we don’t get the defaults right, we will now actually have to look a lot about negative freedoms in the ASEA Berlin sense.
+I think in physical space, we have long fought for positive freedoms. In cyberspace, if we don’t get the defaults right, we will now actually have to look a lot about negative freedoms in the ASEA Berlin sense.
 
 ### Audrey Tang:
 Like freedom from surveillance, freedom from censorship, freedom from control of links that denies people connectivity to certain other parts of the world, and things like that. I think this core promise of human right is the same, whether it’s cyberspace or the analog space.
@@ -238,7 +238,7 @@ That is also because, for example, buses currently being in the sandbox, and wil
 These things, while it makes sense to have the sandbox in a large city, actually, has its most application in the most rural places. No bus route can pay for itself, going to those places. Like drone delivery is important there, too, for medical supplies and things like that.
 
 ### Audrey Tang:
-Because of that, we have worked, and already passed, the New Telecommunication Administration Act, which allows different 5G vendors to share the physical, the same base stations. Through the initial sub-6 GHC band, we will make sure that we have sufficient coverage in the low-resource places, before we develop millimeter waves.
+Because of that, we have worked, and already passed, the New Telecommunication Administration Act, which allows different 5G vendors to share the physical, the same base stations. Through the initial sub-6 GHz band, we will make sure that we have sufficient coverage in the low-resource places, before we develop millimeter waves.
 
 ### Audrey Tang:
 We also have, of course, a lot of experimental bands on millimeter wave. For example, within the Taipei fashion music hall, so that people can just use VR and jam together. You can have various different musicians in physically different places to jam together through millimeter wave 5G technology.

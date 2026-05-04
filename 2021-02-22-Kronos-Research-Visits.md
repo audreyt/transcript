@@ -157,7 +157,7 @@ If you connect it to like 100 different cities, then people feel that there’s 
 Right now we’re not. We’ve spent some time going to some of the schools here, doing more education, more outreach. That’s something that we do want to do more of. Sometimes we’re not really sure what is the right avenue aside from going to the schools. Happy to learn more if you have any suggestions.
 
 ### Audrey Tang:
-The more active communities in Taiwan, they share this hashtag called GZero or gov0, which is not a organization per se. It’s more a shared hashtag of people who see a government service usual additional service something.go.tw. They think that “Hey, I can do it better.” Then just register something that is gzero.tw.
+The more active communities in Taiwan, they share this hashtag called GZero or gov0, which is not an organization per se. It’s more a shared hashtag of people who see a government service usual additional service something.go.tw. They think that “Hey, I can do it better.” Then just register something that is gzero.tw.
 
 ### Audrey Tang:
 Changing an O into a zero gets you into the shadow government, I guess, and deliver the service in a more open source and better way that always was the open source and creative commons copyrights, civic ads.

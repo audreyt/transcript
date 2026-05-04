@@ -269,7 +269,7 @@ And the great thing about publishing all this into the commons is also it enable
 
 So, if you don't like how the compression is labeling this conversation's summary, you can always click back and it goes back to the specific time span of the video. And so, my expectation is that stakeholder groups, once they become familiar with such open-source tools, they will want to align the summarizer, the labeler, the facilitator through a lore of some kind.
 
-And I understand, of course, fine tuning GPT-4 is still expensive, difficult, and so on.But hopefully this kind of lore use will become a norm and people will have their tuned to community facilitator. This is especially important because we have more than 20 national languages, 16 indigenous nations, 42 language variations. GPT speaks none of these languages. And they really have to tune their own cultural adapters, so to speak, in order to make it happen. So, compression without losing nuance.
+And I understand, of course, fine tuning GPT-4 is still expensive, difficult, and so on. But hopefully this kind of lore use will become a norm and people will have their tuned to community facilitator. This is especially important because we have more than 20 national languages, 16 indigenous nations, 42 language variations. GPT speaks none of these languages. And they really have to tune their own cultural adapters, so to speak, in order to make it happen. So, compression without losing nuance.
 
 This is, I think, the main thing that we all learned from the great researchers in open AI, the ones that really actually figure out that in order to compress things really well, you have to invent general intelligence. And so really, thanks for making this research possible.
 

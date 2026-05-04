@@ -73,7 +73,7 @@ Our [Gold Card](https://goldcard.nat.gov.tw/en/) is available to anyone who has 
 Oh, OK, that would be great.
 
 ### Audrey Tang:
-That’s how many people who just discovered [TaiwanGoldCard.com](https://taiwangoldcard.com/) can get their Gold Card, specifically the Ministry of Science and Technology one. Because you’ve done a AI system, then you have the potential to contribute to science and technology in Taiwan.
+That’s how many people who just discovered [TaiwanGoldCard.com](https://taiwangoldcard.com/) can get their Gold Card, specifically the Ministry of Science and Technology one. Because you’ve done an AI system, then you have the potential to contribute to science and technology in Taiwan.
 
 ### Benjamin Finn:
 Yes, we do.
@@ -91,7 +91,7 @@ Sure. We need to see these are actually the people that work on the project and 
 Of course. What would you recommend I do for the next steps?
 
 ### Audrey Tang:
-Check out TaiwanGoldCard.com, which is not a government website. It’s done by the people who have get Gold Card themselves. There’s a active community here, and they can probably help you of getting the right messages across, because they can share how exactly they got a Gold Card.
+Check out TaiwanGoldCard.com, which is not a government website. It’s done by the people who have gotten Gold Card themselves. There’s an active community here, and they can probably help you get the right messages across, because they can share how exactly they got a Gold Card.
 
 ### Benjamin Finn:
 If we needed this to move fast, is that possible?

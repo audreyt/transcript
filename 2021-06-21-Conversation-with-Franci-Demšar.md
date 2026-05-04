@@ -12,7 +12,7 @@ Excellent.
 ### Franci Demšar:
 Yeah, good. OK. Thank you for this opportunity to have this meeting. I am glad that we have this meeting. May be few words about me, so that you will know I written something but I am physicist. I have my PhD from magnetic resonance imaging, spent two years in the United States as well. Then, I spent few years in Science like, 15 years and moved to administration.
 
-I was State Secretary for Science and Technology, then Minister of Defense for a while, Ambassador to Russia. Most like 10 years, I was Director of Slovenian Research Agency, the agency which is financing science. Now I'm in charge of Slovenian Accreditation Agency, which is accredited universities' faculties, evaluating them. That's like a few words.
+I was State Secretary for Science and Technology, then Minister of Defense for a while, Ambassador to Russia. Most likely 10 years, I was Director of Slovenian Research Agency, the agency which is financing science. Now I'm in charge of Slovenian Accreditation Agency, which is accredited universities' faculties, evaluating them. That's like a few words.
 
 In connection to transparency, I feel like when I moved to science, I was under the impression that it's very hard to get a project. You just don't know where to apply, what to do, too complicated, informations were not available. When I started this post, I made the system which was transparent. Even though I didn't know it's transparent, I tried it to be transparent.
 

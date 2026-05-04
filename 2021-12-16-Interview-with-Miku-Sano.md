@@ -26,7 +26,7 @@ Yes. I typed into the internal communication tool at one of the Silicon Valley c
 
 To answer your question, what I thought around that time is that communication, I understand, is the critical thing to preserve and rebuild trust between the activists in the parliament and the people on the street and many more online.
 
-I understood that if people gets confused by the disinformation or my people eliciting violent responses, then it will be a escalation very easily and very quickly. Then we will end up with a really bad outcome for the occupy movement.
+I understood that if people gets confused by the disinformation or my people eliciting violent responses, then it will be an escalation very easily and very quickly. Then we will end up with a really bad outcome for the occupy movement.
 
 I also understood that if we set up such a communication mechanisms, learning from the lessons from other occupy movements, then we can build trust and reach what I call good-enough consensus on the topic triggering the occupy.
 
@@ -60,7 +60,7 @@ I think the idea of a common value is necessary in order to respond to new emerg
 
 Or when disinformation problem begins in social media, there's many governments thinking, oh, we have to sacrifice a little bit of free speech in order to counter this mental health hazard, that is disinformation to protect democracy and so on.
 
-Once we have the common values formed by the entire society, often the innovation that comes from the people closest to the field, to the pain, solves the dilemma by innovating into something that doesn't sacrifice one value over another but is a innovation that takes care of both side while creating something new.
+Once we have the common values formed by the entire society, often the innovation that comes from the people closest to the field, to the pain, solves the dilemma by innovating into something that doesn't sacrifice one value over another but is an innovation that takes care of both side while creating something new.
 
 This is everyone's business with everyone's help. That's why we call it social innovation. My personal contribution are two. The first is to make more pro-social public spaces, both offline and online, for those good enough consensus common values to form. That's the first one.
 
@@ -96,7 +96,7 @@ By creating new spaces where the career public service can engage directly with 
 
 The second thing I have learned is that to give no trust is to get no trust. That is to say, if we don't trust the people to come up with the social innovations, if we want to, in a top-down way, rule over people, then it's a self-fulfilling prophecy. People become untrustworthy because we do not share the real-time context and policy information for them to co-create.
 
-If we trust the people, for example, by offering the real-time inventory of mask availability at pharmacies or by offering people a open standard of a QR code on top of which they can do their own QR code scanning applications in way of contact tracing and so on.
+If we trust the people, for example, by offering the real-time inventory of mask availability at pharmacies or by offering people an open standard of a QR code on top of which they can do their own QR code scanning applications in way of contact tracing and so on.
 
 If we trust the people with the same information that we have received ourself, the same data that we have access to ourselves, then people become trustworthy. They too would like to contribute to the public health.
 

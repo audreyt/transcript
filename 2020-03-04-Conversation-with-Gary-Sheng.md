@@ -109,7 +109,7 @@ It may not even start this way, but it’ll certainly cease being the organic ev
 Then there’s going to be community managers that know all the resources that are in the community and the gifts and then being able to matchmake. I would say if that sounds good to you, then it may not be a lot of work sometimes just to be a supporter in the community.
 
 ### Gary Sheng:
-You would only be pulled in in cases where we felt like you could provide a lot of value and the project called for it. Does that make sense?
+You would only be pulled in cases where we felt like you could provide a lot of value and the project called for it. Does that make sense?
 
 ### Audrey Tang:
 Of course. That’s my expectation anyway. My areas of work is very well-known, and so I don’t think there will be mismatches in expectations.

@@ -68,7 +68,7 @@ This has been the most important thing that we've seen in contact tracing, in va
 
 My second point is that, when people see the good idea, the good models and so on, they're going to ask, how are we going to fund those things? In Taiwan, we're basically using this idea that we call Pay for Success.
 
-I know it has at least seven different names like Retroactive Public Good Funding or whatever. There's somebody who says the debt, but it's not really a debt, is an investment, that is co-created, co-designed.
+I know it has at least seven different names like Retroactive Public Good Funding or whatever. There's somebody who says the debt, but it's not really a debt, it's an investment, that is co-created, co-designed.
 
 We ask the private sector to help fund these in the expectation of a contract, of a return by the government when these innovation create social values that could be at least monetized in such away. It's not monetized. It's dollarized, you can put a social return of investment on it.
 

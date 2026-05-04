@@ -57,7 +57,7 @@ G0v.
 …g0v and Hackathon?
 
 ### Audrey Tang:
-I joined the g0v Hackathons in early 2013. G0v itself started late 2012. By the time I joined the g0v, organizers already connected very well to the historically international, for example, the Creative Commons movement, the Open Source Initiative, and before that the Free Suffering movement and so on.
+I joined the g0v Hackathons in early 2013. G0v itself started late 2012. By the time I joined the g0v, organizers already connected very well to the historically international, for example, the Creative Commons movement, the Open Source Initiative, and before that the Free Software movement and so on.
 
 ### Audrey Tang:
 There’s a broad community and intellectual tradition that inform the g0v organizers. On the other hand, g0v started at a time where mobile social media became prevalent in Taiwan and there’s a lot of people – a lot more compared than before – that want to serve as what we call civic media people.

@@ -180,7 +180,7 @@ All these, I think, are universally applicable ideas and building upon that, the
 ### Audrey Tang:
 We're quite happy that people around the world are now having the same sort of conversation that we had on the street with half a million people during the Sunflower Movement in 2014, right? Our conversation around 4G eventually resulted in our National Communications Commission saying, "We do not allow any PRC so-called private sector components in our 4G infrastructure."
 
-Because every time there is a update we have to redo another system risk assessment to see they have been, de facto, taken over by the Beijing regime. I believe people around the world are now reaching very similar conclusions that we reached in 2014, so I guess we're happy and we're eager to have more dialogues around these topics with people around the world.
+Because every time there is an update we have to redo another system risk assessment to see they have been, de facto, taken over by the Beijing regime. I believe people around the world are now reaching very similar conclusions that we reached in 2014, so I guess we're happy and we're eager to have more dialogues around these topics with people around the world.
 
 > (Julian speaks)
 

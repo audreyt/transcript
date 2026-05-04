@@ -7,7 +7,7 @@ First, I’d like to hear your perspective from Taiwan. We here in the West, 15 
 Nowadays, social media aren’t viewed as much as a gain for democracy. We talk much more about the problems like hate speech or fake news. What’s your perspective from Taiwan between this cyber optimism and pessimism?
 
 ### Audrey Tang:
-I don’t think often in the frame of optimism and pessimism. I often think in the frame of a prosocial, civic infrastructure as opposed to a antisocial, more private sector infrastructure.
+I don’t think often in the frame of optimism and pessimism. I often think in the frame of a prosocial, civic infrastructure as opposed to an antisocial, more private sector infrastructure.
 
 ### Audrey Tang:
 For social media, could be antisocial or prosocial and remain social, just as we have the gathering places of people who talk about politics in a structured way in a town hall, in a public debate in a park, in an academic setting.
@@ -154,7 +154,7 @@ In Taiwan, when we say somebody has a lot of social credit, we mean something li
 The state government somehow assign them an arbitrary number for complying with whatever algorithmic ratings that state dictates. The word “social,” the word “credit” is repurposed to mean something entirely different within the PRC regime.
 
 ### Audrey Tang:
-The word “transparency,” we’ve being talking about making state and social media company transparent to citizens. If you go to the PRC and they talk about transparency, they mean making citizens transparent to the state.
+The word “transparency,” we’ve been talking about making state and social media company transparent to citizens. If you go to the PRC and they talk about transparency, they mean making citizens transparent to the state.
 
 ### Audrey Tang:
 I don’t think it’s possible at all to talk about social control in the Beijing case, in the Taiwan case without twisting the words “social” or “control” to mean essentially opposite things by the same word. I try to disambiguate.
@@ -216,13 +216,13 @@ My question to you is, many things in Taiwan, when it comes to offline politics 
 Do you feel that Taiwan has learned a lot of lessons in the recent years on this?
 
 ### Audrey Tang:
-Yeah, definitely. First of all, this national referenda tied with mayoral election really showed everyone, first of all, how the quality of life \[laughs\] for people counting the votes suffered, because of the long lines. Also, because you mentioned Lin Chia-lung, how interesting it is to have a election law that says you can’t campaign on the election day.
+Yeah, definitely. First of all, this national referenda tied with mayoral election really showed everyone, first of all, how the quality of life \[laughs\] for people counting the votes suffered, because of the long lines. Also, because you mentioned Lin Chia-lung, how interesting it is to have an election law that says you can’t campaign on the election day.
 
 ### Audrey Tang:
 On the other hand, having a referendum law that says some campaigning is possible, or referenda, and then have mayoral candidate starting referenda. \[laughs\] All the interesting interactions were explored in 2018. It’s a really interesting exercise. After that, of course, the legislature changed their referendum act, so that now we’re alternating years schedule.
 
 ### Audrey Tang:
-One year of voting for people, one year for voting for ideas. Then voting for people and then voting for ideas. That’s solves the temporal issue. Each referenda now has plenty of time for all of society conversation. Even if we are to introduce digital say signature collecting for example for the referenda it will not interfere with the election itself because it’s after all alternating yes.
+One year of voting for people, one year for voting for ideas. Then voting for people and then voting for ideas. That solves the temporal issue. Each referenda now has plenty of time for all of society conversation. Even if we are to introduce digital say signature collecting for example for the referenda it will not interfere with the election itself because it’s after all alternating yes.
 
 ### Audrey Tang:
 There is no exponential return or capture by people starting referenda but to capture the presidential or the mayoral seat. This is all very good in theory, but we have not put the theory to test. This August the theory would be put to test and add to that the twist that one of the referendum topic is to go back and tie the referendum and the election together.
@@ -252,7 +252,7 @@ The national health insurance app has more than 10 million people using it as a 
 On the other hand it is quite true that on the digital world it’s easy to explore many options at once. That is to say if you don’t like additional service maybe you make one on your own. You don’t have to wait for anyone’s permission compared to if you don’t like the local park, you can’t just build anywhere on the same ground. \[laughs\]
 
 ### Audrey Tang:
-There some fundamental difference between digital actions and physical actions. What a digital democracy platform excels at is to make sure that those alternate divisions are explored in a way that allows for simultaneous experiments.
+There are some fundamental difference between digital actions and physical actions. What a digital democracy platform excels at is to make sure that those alternate divisions are explored in a way that allows for simultaneous experiments.
 
 ### Audrey Tang:
 Maybe through sandbox application, we have different municipality trying out different configuration of say self-driving vehicle just that’s a really good example, or through the online mask availability map we have hundreds of people coding different visualizations, some as chatbots, some as voice assistance, or whatever of the PPE distribution.

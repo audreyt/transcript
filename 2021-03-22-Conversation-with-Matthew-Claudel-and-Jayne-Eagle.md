@@ -49,7 +49,7 @@ It’s interesting that the plan is so aligned with the agenda that you’ve bee
 In my previous talks, I talked about the Sunflower Movement. How after 2014 it became quite clear to all politicians that if they do not accord to the open government agenda, they don’t get elected as mayors, or any other candidates. That’s the main point. That’s one.
 
 ### Audrey Tang:
-The second reason that I would chalk it up to the support front of Korea Public Service. Right after Sunflower, around end of 2014, I gave a workshop with three batches, each 100 people, of the most senior level of Korea Public Service. They’re unanimously in support of better listening skill methodologies, because otherwise the parliament would get occupied again.
+The second reason that I would chalk it up to the support front of Korea Public Service. Right after Sunflower, around end of 2014, I gave a workshop with three batches, each 100 people, of the most senior level of career public service. They’re unanimously in support of better listening skill methodologies, because otherwise the parliament would get occupied again.
 
 ### Audrey Tang:
 The point is that with the outside game and with the demonstrators showing, as in demoing, the demonstration that it’s actually quite possible for the career public service to reduce the risks, save time, and build mutual trust. Many of them are on board.
@@ -109,7 +109,7 @@ We’re post pandemic for 10 months, give or take, but yes.
 Building on all of the work that you’ve done and the thesis that you’ve proven in the moment of the pandemic, what is now up for grabs in this open government, digital hackathon space? Are you actually saying healthcare delivery broadly, hack away, or is it…
 
 ### Audrey Tang:
-Yeah, there’s a lot of that. As I mentioned, we say installation base of more than five million, it really changed the game. Because, previously, people wasn’t in the habit of downloading their X ray or CT scans or measurements to mint a zero knowledge range proof that any host of a marathon can check out their entrants are healthy without having any access to their private health data.
+Yeah, there’s a lot of that. As I mentioned, we say installation base of more than five million, it really changed the game. Because, previously, people weren’t in the habit of downloading their X ray or CT scans or measurements to mint a zero knowledge range proof that any host of a marathon can check out their entrants are healthy without having any access to their private health data.
 
 ### Audrey Tang:
 That’s the VK part of the zero knowledge. Or that the SDK, the software development kit, of the NHI also enables people to build their own data coalitions. There’s a very popular one with people with diabetes. There’s also one with people who are outdoors who choose to receive notification when there’s a potential of heat damage because of extreme weather.
@@ -256,7 +256,7 @@ That is such a different condition than the United States, where we’re not eve
 What you had mentioned was the idea of building up metadata for any given project, so that you understand the conditions around it. That way it can be abstracted and transposed and re adapted in any context. For example, I’m not copying the mask initiative that you did and pasting it in the United States, but I’m learning from it and contributing to it and re adapting, based on the metadata on conditions in Taiwan and conditions in the US.
 
 ### Audrey Tang:
-So that instead of going to mask.peters.datataiwan you can go to instead datacolloborative.org or crowd.law and in that catalog find something similar to your jurisdiction. Most of the time, I would argue all the time, \[laughs\] starting small.
+So that instead of going to mask.peters.datataiwan you can go to instead datacollaborative.org or crowd.law and in that catalog find something similar to your jurisdiction. Most of the time, I would argue all the time, \[laughs\] starting small.
 
 ### Audrey Tang:
 In Taiwan for example, the Sunflower was really…Even with half a million people on the street…Taiwan is what? 23 million. It’s necessary, just a part of the people in the beginning and to open government plans. We’ve adopted our national ones just this year. The city wide, like the Tainan and Taipei City, they did that in 2015, a full six years before. Start small.
@@ -376,7 +376,7 @@ Long story short, this is about a civil society still have the ultimate say, but
 For example, we now have 42 percent of state legislators of women, and that’s measured. We have a pretty good Equal Pay Day, of course, through improving, but we have a pretty not so good story in graduates and STEM as currently just short of one quarter women.
 
 ### Audrey Tang:
-Then we make it a focus and yours truly make this clipped access, \[laughs\] computer has never asked about my gender in response to this question about, “Isn’t cybersecurity mostly for boys,” and so on. This is a intentional work by the Korea public service, but still, with stewardship and ultimately saved by the civil society.
+Then we make it a focus and yours truly make this clipped access, \[laughs\] computer has never asked about my gender in response to this question about, “Isn’t cybersecurity mostly for boys,” and so on. This is a intentional work by the career public service, but still, with stewardship and ultimately saved by the civil society.
 
 ### Matthew Claudel:
 Yeah, which speaks to the replication problem: enabling substantive change across different agencies and departments in government and across countries.
@@ -385,7 +385,7 @@ Yeah, which speaks to the replication problem: enabling substantive change acros
 I’m curious, in the case that you spin up something like the mask searching app (what has now turned into a broader healthcare app) – once it becomes .g0v, whose responsibility is it to maintain that codebase from a strictly software perspective?
 
 ### Audrey Tang:
-There is more than 100 different implementations, all connecting to the same open API. Though, this is like asking who is responsible for making Etherium or Bitcoin work? Of course, everyone is responsible. If they are not responsible, there’s 99 choices. \[laughs\] People would choose something else, I guess.
+There is more than 100 different implementations, all connecting to the same open API. Though, this is like asking who is responsible for making Ethereum or Bitcoin work? Of course, everyone is responsible. If they are not responsible, there’s 99 choices. \[laughs\] People would choose something else, I guess.
 
 ### Audrey Tang:
 There’s a friendly competition going on. Of course, there’s also a lot of open source infrastructure being built to make new applications easier. The thing we want to convey is that if your average primary school or who just know a little bit of JavaScript in a afternoon’s work, you can also tailor make your own distribution map.

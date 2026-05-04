@@ -73,7 +73,7 @@ My job description goes like this. "When we see the Internet of Things, let's ma
 
 "When we see user experience, let's make it about human experience. Whenever we hear that a singularity is near, let's always remember that plurality is here." My role as the Digital Minister is to connect the people to the people, which is to me what digital means, and not just IT, which is connecting machines to machines.
 
-Whenever there is a emerging situation in Taiwan, it could be the legalization of Uber and ride sharing. It could be countering the infodemic that disinformation causes, the pandemic, and so on.
+Whenever there is an emerging situation in Taiwan, it could be the legalization of Uber and ride sharing. It could be countering the infodemic that disinformation causes, the pandemic, and so on.
 
 I make sure that all the stakeholders who enjoy the freedom of speech and assembly, and so on, can bend together, meet together face-to-face, or across the Internet to discover the facts together, share their feelings together and then develop pro-social social media where those feelings instead of polarizing, converge together into workable ideas that we then regulate into a co-created agenda.
 
@@ -456,7 +456,7 @@ Of course, there's the usual party politics going on there. Having the executive
 
 Then, the legislator, of course, do the amendments and the changes, in their usual way. The structure, the formulation of the laws, 90 percent or so, are from the cabinet, which is non-partisan, by and large.
 
-This is something that we see in other jurisdictions, that's only possible if you have a citizens assembly, a citizens jury, or things like that. That are a attendant to the parliamentary politics, but by nature, then it becomes competitive in representative power.
+This is something that we see in other jurisdictions, that's only possible if you have a citizens assembly, a citizens jury, or things like that. That are an attendant to the parliamentary politics, but by nature, then it becomes competitive in representative power.
 
 In Taiwan, because that executive branch serves as the buffer zone between the civil society, on one hand, the movements, and the legislature's partisan politics, so we get a lot more room to maneuver. That's quite fortunate that we have this double appointee designed free from the party politics.
 
@@ -483,7 +483,7 @@ This is a very different, I would say, is a distinctly Taoist view on things. If
 
 As I often say, in Taiwan, we're hit by earthquakes all the time with Eurasian Plate on one side and Philippine Sea plate on the other. The Japanese people know what I'm talking about. [laughs]
 
-Then, whenever there's a earthquake, the tip of Taiwan, the Jade Mountain, also grew. Every year, we grow by about three centimeters.
+Then, whenever there's an earthquake, the tip of Taiwan, the Jade Mountain, also grew. Every year, we grow by about three centimeters.
 
 I see tension, conflict, and so on, as necessary for people to feel their co-presence and the in-fear togetherness. Without such shared urgency, people's energy will not be able to contribute to co-creation from a plurality. People just discuss, and do whatever they're doing.
 

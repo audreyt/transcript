@@ -118,7 +118,7 @@ Any other advice for me? You've been at this, you're changing the world in so ma
 ### Audrey Tang:
 Start small. The main lesson we've learned is to involve career public servers, as low-level as possible. The actual section chiefs that will be in charge of implementing the recommendations. The reason why is that if you involve them, they have a lot of ideas that they may previously have no budget to do.
 
-They may be a avid reformer that's previously limited by the political power of their superiors and things like that. In such environments, because it's pseudonymous or they can pester suggestions to their civil society friends and/or to different departments, some truly good idea that has been shelved forever do shine on these platforms.
+They may be an avid reformer that's previously limited by the political power of their superiors and things like that. In such environments, because it's pseudonymous or they can pester suggestions to their civil society friends and/or to different departments, some truly good idea that has been shelved forever do shine on these platforms.
 
 We have regularized this system called Participation Offices where we intently assign the facilitation role of the breakout groups to the people who have nothing to do with the implementation, the similar level of section chiefs but on the other way. For example, when we deliberate about tax reform, then maybe the facilitator would be a coastal guard.
 

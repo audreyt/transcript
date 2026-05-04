@@ -161,7 +161,7 @@ Well, we're not forcing it on anyone though, like the SMS based contact tracing.
 
 If you don't have a phone, you can always, I don't know, use a seal [laughs] to stamp on paper and check in. It's all about offering more pluralistic choices. It's not about transforming away from anything, but rather transforming toward shared goals.
 
-Because we've never had a lockdown in Taiwan, we've never had a emergency state in the past couple of years, so the freedom of movement is still there, and people still go to work if they choose to go to work. It's just that teleworking has gained popularity as a alternative. Maybe people do some meetings in augmented reality.
+Because we've never had a lockdown in Taiwan, we've never had a emergency state in the past couple of years, so the freedom of movement is still there, and people still go to work if they choose to go to work. It's just that teleworking has gained popularity as an alternative. Maybe people do some meetings in augmented reality.
 
 Maybe they travel to enjoy the social gatherings with their colleagues, but bring some work back home and use augmented reality to help on the machine repairs. Or for classes, maybe they do some of their studying using teller education tools, but meet together to solve problems and make projects and so on.
 
@@ -201,7 +201,7 @@ I believe that's previously my work, for example, in social text or in Apple wit
 So that type of social movement that you were involved in, I think you could have continued to have done that in the private sector. Why did you actually move to the public sector to work on these things?
 
 ### Audrey Tang:
-In a sense, I was a intern to the previous minister for cyberspace and law affairs, Minister Jaclyn Tsai in 2014 for a couple of years. When I worked with the Minister, I discovered that the public servants are actually much more innovative than I previous imagined. I thought that innovation primarily happen in the social sector, in the economic sectors, but actually, the career public service are full of innovations.
+In a sense, I was an intern to the previous minister for cyberspace and law affairs, Minister Jaclyn Tsai in 2014 for a couple of years. When I worked with the Minister, I discovered that the public servants are actually much more innovative than I previous imagined. I thought that innovation primarily happen in the social sector, in the economic sectors, but actually, the career public service are full of innovations.
 
 Just the people in the public has no idea about because they were restricted, in their freedom of speech. Usually only the ministers get to talk to the public. Getting the career public service a direct line of communication to their counterparts in the social and private sectors become my research interests.
 
@@ -243,7 +243,7 @@ The reason why I proposed optimizing for fun was because at that time, it was co
 
 If it will appeal to passion then passion runs out very easily because it's a work that spans a couple of decades. If you appeal to a sense of mission, people's alignments, their career change, and the mission doesn't stick around for a couple of decades, so I thought, maybe it's better if we just recruit more people at any given time.
 
-Anyone that complain about our work, we just send them a invitation, even the competitors like Python, Guido van Rossum, we sent the creator of Python a invitation. When our teammates give birth to a child, we also send a child a invitation [laughs] in the hope that they grow up to become a programmer.
+Anyone that complain about our work, we just send them an invitation, even the competitors like Python, Guido van Rossum, we sent the creator of Python an invitation. When our teammates give birth to a child, we also send a child an invitation [laughs] in the hope that they grow up to become a programmer.
 
 Basically, it is a culture that we foster, not any particular technology. I come to realize that optimizing for fun is a kind of technology like Open Space Technology, dynamic facilitation, nonviolent communication.
 

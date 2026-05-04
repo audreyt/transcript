@@ -52,7 +52,7 @@ Let me see how this is work. It’s bring you to me in a more digital journalist
 That’s fine. We can also send you our recording.
 
 ### Marjorie Paillon:
-That’s great. We’ll have a doublecheck recording. Let me see if it works. I can’t put...No, I’ll do this this way. We’re at the Social Lab which is the innovation place when it comes to Taiwanese ecosystem. I’m sitting with Audrey Tang. Hi, Audrey.
+That’s great. We’ll have a doublecheck recording. Let me see if it works. I can’t put...No, I’ll do this way. We’re at the Social Lab which is the innovation place when it comes to Taiwanese ecosystem. I’m sitting with Audrey Tang. Hi, Audrey.
 
 ### Audrey Tang:
 Hello. Welcome to the Taiwan Social Innovation Lab.

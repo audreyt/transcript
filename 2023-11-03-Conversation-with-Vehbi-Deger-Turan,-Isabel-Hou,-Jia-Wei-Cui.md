@@ -387,7 +387,7 @@ So, I would argue that in that scenario, the success is rather the amount of fur
 And there is another case where this is just in a synchronous meeting and there is a demo, right? People seeing the interactions with those clusters or even in silico transcripts that is acted out by performance on stage and so on. And that people voice their support or concern, or tuning based on how the speakers, robotic speakers, theater actors are representing them. So, one is async tuning and one is sync tuning, basically.
 
 ### Vehbi Deger Turan:
-I am interested in the Faraday example, let's start with this. Maybe this is is easier to do. You said how well calibrated... And that is a great sentence that has a lot of nuance. If I double click on that, what else is in there? How do we measure this calibration? I don’t think… Maybe… there is out of the box, you know already well explored metrics for bridging.
+I am interested in the Faraday example, let's start with this. Maybe this is easier to do. You said how well calibrated... And that is a great sentence that has a lot of nuance. If I double click on that, what else is in there? How do we measure this calibration? I don’t think… Maybe… there is out of the box, you know already well explored metrics for bridging.
 
 ### Audrey Tang:
 This is a good first start, right? Something is well calibrated if it is clear, if it is in the original context instead of taking the speeches, the cluster side of context, it retains the nuances, the specifics within the initial speech, that all the diverse compositions are there instead of one dominating and focuses on downstreaming impacts. And it is collaborative. Maybe the last one is impossible to measure but at least the first five are somewhat measurable.
@@ -532,7 +532,7 @@ So, after we taste our own champagne then we will know whether it's ready or not
 Anyway, but for internal uses, it's the AIEC, right? The evaluation center. But we cannot skip our evaluation and testing, so it's mostly just internal testing.
 
 ### Vehbi Deger Turan:
-I'd be very curious if you'd be able to share the the testing steps.
+I'd be very curious if you'd be able to share the testing steps.
 
 ### Audrey Tang:
 Yeah, of course. It's public, actually. There’s a PDF about that so I will airdrop it to you.

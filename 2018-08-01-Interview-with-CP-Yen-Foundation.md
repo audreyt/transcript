@@ -123,7 +123,7 @@ Starting next year, we will reorganize unused public spaces in local government 
 Another equally important area is digital space. In the past, communication for digital space was relatively simple using just short texts and images with low resolution. But short texts cannot accurately communicate the stories and experiences behind the words.
 
 ### Audrey Tang:
-So we now try to use images and clips with very high resolution. In the future 5G era, we hope to incorporate VR so participants can feel the nuances in voices and expressions even in different locations. We want to make the digital world truly boundary-free. This is an area we are still doing research in in our office.
+So we now try to use images and clips with very high resolution. In the future 5G era, we hope to incorporate VR so participants can feel the nuances in voices and expressions even in different locations. We want to make the digital world truly boundary-free. This is an area we are still doing research in our office.
 
 ### Question:
 That’s quite comforting to hear. What do you think human communication will be like in the AI era?

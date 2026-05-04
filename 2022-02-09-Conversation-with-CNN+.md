@@ -268,7 +268,7 @@ To me, it's more outbound, because identity, of course, is part of that. There's
 
 It's a story also of the Taiwanese diaspora, the talent circulation, and things like that. I wouldn't say it's just about identity. I think there's a meme of being "also Taiwanese", which is actually true because we offer dual citizenships. [laughs]
 
-You can all be a e-resident and also not just "e-" because it's a full resident card, by applying for Taiwan Gold Card without renouncing your passport. What I'm trying to say is that identity is quite plural here. [laughs] Feel free to be also Taiwanese.
+You can all be an e-resident and also not just "e-" because it's a full resident card, by applying for Taiwan Gold Card without renouncing your passport. What I'm trying to say is that identity is quite plural here. [laughs] Feel free to be also Taiwanese.
 
 > (interviewer part not recorded)
 

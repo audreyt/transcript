@@ -251,7 +251,7 @@ Oh, I feel like we've got a lot to learn. But yeah, it's a good point because we
 Yeah. Prateek?
 
 ### Prateek Buch:
-In the last few minutes, I was going to ask you about the future of this sort of space. I should preface this by saying every time I hear from you, Audrey, or from your colleagues, I feel like I'm seeing the future. Because for us, we are in this space in your 2014, 2015, we still have to persuade policymakers that using the computer, not just an artificially intelligent system, but frankly, not using paper.I'm just being very open.
+In the last few minutes, I was going to ask you about the future of this sort of space. I should preface this by saying every time I hear from you, Audrey, or from your colleagues, I feel like I'm seeing the future. Because for us, we are in this space in your 2014, 2015, we still have to persuade policymakers that using the computer, not just an artificially intelligent system, but frankly, not using paper. I'm just being very open.
 
 In some cases, we have to persuade people that a non-paper-based or non-in-person process or additionally, online process is valid to let alone then think about some of the more modern tools. However, that's a UK problem.
 

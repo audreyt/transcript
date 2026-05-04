@@ -15,7 +15,7 @@ The question was, was I surprised by the high level of compliance? Is that corre
 Yes.
 
 ### Audrey Tang:
-Well, it's not our first coronavirus. Taiwan had SARS back in 2003. At that time, the Pescadores Islands, who was the only smaller island in the Taiwan jurisdictions that had IC-based health cards.
+Well, it's not our first coronavirus. Taiwan had SARS back in 2003. At that time, the Pescadores Islands, which was the only smaller island in the Taiwan jurisdictions that had IC-based health cards.
 
 The main island of Taiwan was still using paper-based records for healthcare. We can see the difference back in 2003. What difference it makes when it comes to easy access to tests and also just to calm everyone down.
 

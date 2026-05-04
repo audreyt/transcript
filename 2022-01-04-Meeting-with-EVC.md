@@ -4,7 +4,7 @@
 Let's get started. Thank you for having us. I'm Jakub Janda, Director of European Values Center for Security Policy based in Prague, Czech Republic, and this is my spouse Adriana. She runs Communications and People in Need, which is one of the largest NGOs in Central Eastern Europe.
 
 ### Adriana Cerna:
-It's a biggest one and I'm digital strategist. It's such an honor to meet you. Thank you for having us.
+It's the biggest one and I'm a digital strategist. It's such an honor to meet you. Thank you for having us.
 
 ### Audrey Tang:
 It's a pleasure.
