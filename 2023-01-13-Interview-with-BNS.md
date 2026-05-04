@@ -428,7 +428,7 @@ This is a interesting question because there are chances that around the end of 
 Ministers -- your colleagues -- have specific plans to visit Lithuania?
 
 ### Audrey Tang:
-Let me phrase this this way, many current colleagues I have in the cabinet are all very pro-Lithuania. In fact, the same time as I visit, there's a delegate from Lithuania to our Prime Minister and to other ministers. What's important here is to continue this goodwill and broaden the aspects.
+Let me phrase this way, many current colleagues I have in the cabinet are all very pro-Lithuania. In fact, the same time as I visit, there's a delegate from Lithuania to our Prime Minister and to other ministers. What's important here is to continue this goodwill and broaden the aspects.
 
 For example, in the previous talks, electronic signature, e-residency was not in the previous rounds of MoUs and LoIs. Now that we have this, and cybersecurity and digital resilience, we would touch upon, for example, fintech, which has already brought Chief Secretary of FSC here.
 

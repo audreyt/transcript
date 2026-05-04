@@ -4,7 +4,7 @@
 I saw in the news that Taiwan is going to have a good news for a digital system for vaccines for going abroad. Were you involved in that? Can you tell me about it?
 
 ### Audrey Tang:
-Yes, we've finished implementing initially the European Union's DCC standard, which is a electronically signed QR code based system to track the COVID tests as well as the COVID vaccination records.
+Yes, we've finished implementing initially the European Union's DCC standard, which is an electronically signed QR code based system to track the COVID tests as well as the COVID vaccination records.
 
 The current situation is that the Ministry of Foreign Affairs is negotiating bilaterally with other jurisdiction that have implemented same standard, so we can facilitate international travel and the roll-out schedule is probably by the end of this year.
 
@@ -34,13 +34,13 @@ Well, it's out of digital inclusion reasons.
 
 Although everyone in Taiwan enjoys broadband as a human right -- most people, even the senior elderly people have smartphones -- around 20 percent of them do not have the capacity to download, install and maintain applications, so because of that, our most popular counter-COVID app, the National Health Insurance administration's NHI Express app, only has about one-third of the entire population downloading. That's already the most popular one.
 
-To take care of the other two-thirds of people who do not habitually use an app, or the 20 percent of people who do not have any experience downloading an app, a app redesign based on everyone's favorite QR code and SMS like a trusted format is very important.
+To take care of the other two-thirds of people who do not habitually use an app, or the 20 percent of people who do not have any experience downloading an app, an app redesign based on everyone's favorite QR code and SMS like a trusted format is very important.
 
 ### Erin Hale:
 OK, that's really interesting. I didn't consider that. Has COVID been your greatest challenge? Can you talk about your hardest project taking off?
 
 ### Audrey Tang:
-The virus of the body, of course, is very challenging, but most of the strategies are from the CECC, the Central Epidemic Command Center. The digital is just a assistive instrument in assisting the contact tracers and so on.
+The virus of the body, of course, is very challenging, but most of the strategies are from the CECC, the Central Epidemic Command Center. The digital is just an assistive instrument in assisting the contact tracers and so on.
 
 My greatest challenge a digital minister is actually the virus of the mind. That's to say this information, the infodemic, as people can share those polarized, like outrage-based messages on the more antisocial corner of social media. How to prevent that. It's natural progression into hatred, vengefulness, and discrimination. That has been the biggest challenge.
 

@@ -7,7 +7,7 @@ Thank you for taking time for us in early morning. It’s very much an honor…
 Really happy to be here virtually. Hello.
 
 ### Yuka Kanemoto:
-Hello. I’m Yuka Kanemoto, Chief Editor of Forbes Japan web editorial team. I am the organizer of this interview. Thank you very much. By the way, this our magazine. Can you see this? Your cover of Forbes Japan.
+Hello. I’m Yuka Kanemoto, Chief Editor of Forbes Japan web editorial team. I am the organizer of this interview. Thank you very much. By the way, this is our magazine. Can you see this? Your cover of Forbes Japan.
 
 ### Audrey Tang:
 Yes. I see this…
@@ -27,7 +27,7 @@ This is one of the most bestselling magazine of all times. Thank you. Thank you 
 Thank you.
 
 ### Yuka Kanemoto:
-\[laughs\] Today, as we emailed you earlier, Ui, right next to me, elementary school student. She’s the also bestseller author, is going to interview to you about transgender.
+\[laughs\] Today, as we emailed you earlier, Ui, right next to me, elementary school student. She’s the also bestseller author, is going to interview you about transgender.
 
 > (Japanese)
 
@@ -97,7 +97,7 @@ When did you realize that you are female?
 I realized that the expectations — how exclusively a man or a boy should interact with the world — does not describe me usually. This is like, for example, you have written a book, I have written some books too, but the fact that we are “authors”, simply means that we have some experiences. We can talk about those experiences, but we are not limited by this label of “author”.
 
 ### Audrey Tang:
-If people start saying to you, “Oh, because you’re a author, you have to behave in such and such way.” You may say, “But I’m not just an author, I have also other experiences.”
+If people start saying to you, “Oh, because you’re an author, you have to behave in such and such way.” You may say, “But I’m not just an author, I have also other experiences.”
 
 ### Audrey Tang:
 I realized that when I was around 12 years old when I discovered the Internet and the computer does not care about my gender, never asked about my gender. I realized that much more expressions are available to me than that is expected by the society of “boys”.
@@ -155,7 +155,7 @@ Do you think children should know about a transgender?
 I think transgender to me means transcending the gender stereotypes so if the children can learn that it is not OK to stereotype each other. You shouldn’t, for example, think that other people can say because you are a girl that you must do this and this, while as a boy I must not do this and this.
 
 ### Audrey Tang:
-Just like as I mentioned if your classmates say, “Oh, you are a author, I’m just a reader. I cannot write a book.” Maybe you should tell them, “Well, I can teach you how to write a book yourself, instead of me assuming all the book writing work.” This is transcending stereotypes.
+Just like as I mentioned if your classmates say, “Oh, you are an author, I’m just a reader. I cannot write a book.” Maybe you should tell them, “Well, I can teach you how to write a book yourself, instead of me assuming all the book writing work.” This is transcending stereotypes.
 
 > (Japanese)
 

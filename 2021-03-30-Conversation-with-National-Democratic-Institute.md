@@ -89,7 +89,7 @@ Advertising, right. The advertising were not overtly about any particular candid
 
 For example, we had a cooling down period in lobbying our campaign advertising on the street for the candidates, but we didn't have that for referenda. People could freely spread a small card that tells people to vote such in such a way in the referenda without mentioning mayor candidates by name, but people understand they're linked.
 
-One of the choices that we're making in this year's referendum is whether we continue on to have alternating years of referenda, election, referenda, election as to make sure that these two are not tangled up together, or there's a upcoming referendum proposal that says, "Let's go back to tie them together."
+One of the choices that we're making in this year's referendum is whether we continue on to have alternating years of referenda, election, referenda, election as to make sure that these two are not tangled up together, or there's an upcoming referendum proposal that says, "Let's go back to tie them together."
 
 > (laughter)
 
@@ -173,7 +173,7 @@ Feel free to share the finalized version because it's finalized.
 Maybe there's another press launch, then the plan...
 
 ### Audrey Tang:
-Currently we're not scheduling a press event, mostly because for the administration side, there's something we already public committed to do. I like the LY side, which is quite innovative because there's nothing in the OGP per say that says that the open parliament plan needs to be published in conjunction with the administration. Is a new thing.
+Currently we're not scheduling a press event, mostly because for the administration side, there's something we already public committed to do. I like the LY side, which is quite innovative because there's nothing in the OGP per say that says that the open parliament plan needs to be published in conjunction with the administration. It's a new thing.
 
 For the administration, everybody knows that we're doing this since at least a couple of years ago. There's less newsworthiness, but if you want to time a recent event with a conversation or some elaboration about some aspects within our administration's NAP, that would be great because the administration's NAP is all encompassing.
 

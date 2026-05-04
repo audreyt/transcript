@@ -380,7 +380,7 @@ It's much easier to take the plurality into account if you know as the fact that
 
 To replace the career public service or any other institution that also serves the social good if you see them as natural allies, the ledger community in particular, as natural allies instead of someone who will put through automation or the public service out of business, right?
 
-It's a good thing that we can show those concrete solutions, as I say, that saved people life because then people think, "Oh, if we can actually get the COVID and especially omicron to net zero, then maybe it's not hard to tackle the carbon dioxide thing to get it to net zero and so on." It instills a optimism into all the sectors.
+It's a good thing that we can show those concrete solutions, as I say, that saved people life because then people think, "Oh, if we can actually get the COVID and especially omicron to net zero, then maybe it's not hard to tackle the carbon dioxide thing to get it to net zero and so on." It instills optimism into all the sectors.
 
 ### Jeff Wilser:
 Amazing. Last few minutes we have here, and then I'll let you go. That extent it was...make sure I have this right. Was watching technology part of the COVID solution? Then, more generally, I'm curious, what most excites you? What do you think is most interesting of watching the current two worlds going forward?

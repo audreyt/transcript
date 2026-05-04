@@ -163,7 +163,7 @@ I'm sure in many ways, like on the issues that you were just outlining, it was e
 What were the frustrations of some of those, the transition from protester from civic tech community on the outside into being on the government side?
 
 ### Audrey Tang:
-To be personally, there's really no frustrations because I'm not working for the government. I'm working with the government. Whatever frustrations that people have on the outside, for example, we run a e petition website where 5,000 people signature can force a ministerial response.
+To be personally, there's really no frustrations because I'm not working for the government. I'm working with the government. Whatever frustrations that people have on the outside, for example, we run an e petition website where 5,000 people signature can force a ministerial response.
 
 If it's interagency, then we do collaboration meetings. We've done hundreds of this. All the frustration, for example, people are saying, "Oh, our tax filing system are explosively hostile." That's a real petition, then we invite the people who complain about it to redesign the tax filing system together.
 
@@ -197,7 +197,7 @@ Certainly. During this Sunflower Occupy, we discovered that as long as people ha
 
 Building the public squares are very important. Just as you would hold a town hall instead of a nightclub with smoke filled rooms, people have to shout to get heard, private bouncers, addictive drinks.
 
-With all due respect, the entertainment sector serves a important role in the society. It's just the role is not to hold town halls. To try to deliberate policy on Facebook would be akin to choosing a particular nightclub branded Facebook to held our policy discussion.
+With all due respect, the entertainment sector serves an important role in the society. It's just the role is not to hold town halls. To try to deliberate policy on Facebook would be akin to choosing a particular nightclub branded Facebook to held our policy discussion.
 
 Of course, that wouldn't work, and so it's not about constituents. It's not about the quality of people, but rather about the quality of this space.
 
@@ -283,7 +283,7 @@ In our basic education curriculum, which I helped to chart before I joined the C
 Middle schoolers?
 
 ### Audrey Tang:
-Middle schoolers. It's not just a exercise. Actually, their output is seen directly by the people watching the debate live. Well, not just middle schoolers, everyone in the society but middle schoolers see it as a civics class assignment.
+Middle schoolers. It's not just an exercise. Actually, their output is seen directly by the people watching the debate live. Well, not just middle schoolers, everyone in the society but middle schoolers see it as a civics class assignment.
 
 Just like the Banning the Plastic Straw petition was a civics class assignment from senior high. Anyway, the point I'm making is that when people participate in making the news and learning about the importance of rigor in journalism, then they have the vaccine of the mind against the more outrageous media messages that spread by the more anti-social corner of the social media.
 

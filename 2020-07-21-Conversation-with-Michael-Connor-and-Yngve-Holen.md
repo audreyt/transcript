@@ -37,7 +37,7 @@ How many of those interview topics have you done, or what were the interview top
 They take time. The first one was the aviation one. It’s called ETOPS, and it’s a certification for a twin jet, a two-motor airline plane, and how long it’s allowed to fly. It was a certification that started when…
 
 ### Yngve Holen:
-It means extended operations, and that was just the idea. How far can you go with the topic before it falls apart as a metaphor? That’s the pilot issue, which is more pictures. It has the Q&#x26;R with the pilot in the back, which I thought was really cool.
+It means extended operations, and that was just the idea. How far can you go with the topic before it falls apart as a metaphor? That’s the pilot issue, which is more pictures. It has the Q&#x26;A with the pilot in the back, which I thought was really cool.
 
 ### Yngve Holen:
 Then there was one on the LA porn industry, but also on the plastic surgery industry, unrelated. It’s like somehow a magazine about being young, trading your body for money, or being old, trading your money to become younger kind of trajectory.
@@ -154,7 +154,7 @@ I could be interested in being able to figure out how to make an online version,
 Also, I guess I should say, two things. First of all. When is that? Although the event is online, the project itself doesn’t have to live online. One of the things to know is that there’s a lot of uncertainty because of COVID, but we are planning to have an exhibition early next year.
 
 ### Michael Connor:
-There is some potential to create work for a gallery context and have video portion of seven-on-seven be a conversation about a project. That’s one way to approach. Even if the Consultavanger exhibition didn’t happen, that would still be a valid way to approach.
+There is some potential to create work for a gallery context and have video portion of seven-on-seven be a conversation about a project. That’s one way to approach. Even if the Stavanger exhibition didn’t happen, that would still be a valid way to approach.
 
 ### Michael Connor:
 I think that we should look at the web as a possibility but not as a limitation. I wanted to say that, when I bring pairs together, because I know this…Especially since we have limited time together, there’s a desire to find concrete ideas.

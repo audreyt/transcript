@@ -137,7 +137,7 @@ No.
 [laughs] There's this huge gap between things that are generally considered state jurisdiction, and things that are generally considered press freedom. By conflating these and saying, no, everything need to be pre approved, then the room for free speech and assembly is greatly diminished and was the state that we see.
 
 ### Lorenzo Lamperti:
-OK. Back into Taiwan, because I think that some companies like TSMC, for example, of Foxconn Hon Hai, sometimes they act as diplomatic actors, for example when in purchasing the...
+OK. Back into Taiwan, because I think that some companies like TSMC, for example, or Foxconn Hon Hai, sometimes they act as diplomatic actors, for example when in purchasing the...
 
 ### Audrey Tang:
 The Pfizer.

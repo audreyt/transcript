@@ -155,7 +155,7 @@ Certainly, this is it. As you said, no one announces when they're going to be at
 I think, definitely capacity building around that would be a good investment backed up for people. Last question for you, which is, we've talked about a number of different things. What is the one thing that we've not talked about? You've not told me that you believe startups and semi small businesses need to know and be considering in order to protect themselves to create future for best businesses.
 
 ### Audrey Tang:
-I believe that Free Software with a capital F [laughs] is still very important. The reason why we adopted Sandstorm or Police or other free software technologies in Taiwan's digital public infrastructure is not a ideological choice.
+I believe that Free Software with a capital F [laughs] is still very important. The reason why we adopted Sandstorm or Police or other free software technologies in Taiwan's digital public infrastructure is not an ideological choice.
 
 It is out of thought that says if we empower the people closest to the edge with the full view of the system instead of security through obscurity, we actually invite everyone in the public service to serve as white hats, [laughs] to report as soon as possible, which lies of cost potential resilience challenges and so on. To give no trust is to get no trust. We trust our public service this way and they trust back by alerting us to the White Hat related reports and so on.
 

@@ -112,7 +112,7 @@ Exactly. We have an actual audience there. We had a 360 camera in the middle. If
 > (laughter)
 
 ### Audrey Tang:
-It’s a psychological thing. It makes it possible for the person to talk with the anchor, but also with the whole audience, not with faceless people. The feeling that there is a gradual convergence in understanding. By middle of the show we also have online calls in in form of chat rooms.
+It’s a psychological thing. It makes it possible for the person to talk with the anchor, but also with the whole audience, not with faceless people. The feeling that there is a gradual convergence in understanding. By middle of the show we also have online calls in the form of chat rooms.
 
 ### Audrey Tang:
 We also have a curator who takes that and rephrases it into something that they can respond very timely, which is why it had to be a live show. Otherwise I would just watch a recording. Why would I watch a live show, if not for the possibility of influencing the production?

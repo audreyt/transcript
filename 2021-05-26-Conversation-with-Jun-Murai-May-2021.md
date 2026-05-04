@@ -73,7 +73,7 @@ When we designed that, we specifically said it requires each competent authority
 
 The two ministers are more likely to work with this position because well, service design is also design, and social technology is also technology. The Ministry of Science and Technology graciously relaxed its Gold Card criteria to foster startups and entrepreneurship.
 
-Even our Gold Card website was built by such a open source contributor turned into citizen, so it's not like any government website. I'll just pass it to you. It's very clean. The Taiwan Employment Gold Card office is now helped by the people who naturalize or got a Gold Card thanks to this relaxed criteria.
+Even our Gold Card website was built by such an open source contributor turned into citizen, so it's not like any government website. I'll just pass it to you. It's very clean. The Taiwan Employment Gold Card office is now helped by the people who naturalize or got a Gold Card thanks to this relaxed criteria.
 
 ### Audrey Tang:
 If you get a Gold Card, that's a residence permit. It's a work permit, residence permit, healthcare, all in one. It's a four in one. People can get a Gold Card overseas. You don't have to go to Taiwan to apply.

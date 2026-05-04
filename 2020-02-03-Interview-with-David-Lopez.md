@@ -107,7 +107,7 @@ In the 1990s Taiwan remained controlled by martial law, and yet today it sits am
 Definitely, I will say it is personal computers and then the Internet. Taiwan was one of the main manufacturing place for personal computers. When I was young, everybody have very early access to personal computers, because it’s all made in Taiwan.
 
 ### Audrey Tang:
-Because of that, we have a lot of early innovations into not only business, like spreadsheets and so on, but also into organizational possibilities. For example, my first foray into the World Web is actually campaigning for the first presidential election in Taiwan. That was in 1996. Basically, direct election for the president and the World Web’s mass adoption is in the same year.
+Because of that, we have a lot of early innovations into not only business, like spreadsheets and so on, but also into organizational possibilities. For example, my first foray into the World Wide Web is actually campaigning for the first presidential election in Taiwan. That was in 1996. Basically, direct election for the president and the World Wide Web’s mass adoption is in the same year.
 
 ### Audrey Tang:
 There is less legacy. We don’t have like 200 years of Republican tradition and paperwork – literally – to preserve. When we first get democracy, we already see it in a participatory form, in the deliberative form, in the representational form, in all its different forms, enabled by this very inexpensive way for people to peer-to-peer talk to one another.
@@ -358,7 +358,7 @@ We call them reverse mentors because in a sense, they’re mentoring the ministe
 For example, our reverse mentor for economy minister is Impact Hub Taipei’s co-founder. Our ministry of labor’s reverse mentor is someone who participates in the WorldSkills competition in Russia, where Taiwan got the third place last year.
 
 ### Audrey Tang:
-His idea is for the National Day parade to feature not only Olympic athletes, but also WorldSkills champions, so that people can understand that the new skills that’s needed by the society is something to look up with and not just a secondary choice if you cannot succeed in an academic career.
+His idea is for the National Day parade to feature not only Olympic athletes, but also WorldSkills champions, so that people can understand that the new skills that’s needed by the society is something to look up to and not just a secondary choice if you cannot succeed in an academic career.
 
 ### Audrey Tang:
 It may be your first choice, because then the skilled WorldSkills champions get distributed by their own volition into the K-12 schools to rebuild the school communities through hardware, through design, through gardening, and things like that, together with the students.

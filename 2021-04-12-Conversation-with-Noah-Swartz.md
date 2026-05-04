@@ -58,7 +58,7 @@ What activities do you think that people currently do on places like Reddit that
 ### Audrey Tang:
 By a civic infrastructure? A lot of it boils down to the governance rules for the governance rules that depends on the underlying code. Still, the people who can code the Reddit back end wields power over the ones that cannot touch its code base. Last I checked, it's not Ethereum.
 
-It's not like people can fork Reddit the way that people can work Wikipedia and has indeed forked Wikipedia before. This forkability is the main thing. Everything else follows from that.
+It's not like people can fork Reddit the way that people can fork Wikipedia and has indeed forked Wikipedia before. This forkability is the main thing. Everything else follows from that.
 
 ### Noah Swartz:
 For any specific purpose, someone could make their own version of it.
@@ -288,7 +288,7 @@ Maybe it makes sense to tally a little bit and see where there are pockets of is
 What else are you focusing on or working on?
 
 ### Audrey Tang:
-Nowadays, one of the main things is the upcoming digital ministry. By hopefully a year from now, there will be a dedicated competent authority for digital ministry, foreign digital minister, but there's currently no ministry for digital affairs. My office is literally six continents from 12, or seven ministries, and external staff as well.
+Nowadays, one of the main things is the upcoming digital ministry. By hopefully a year from now, there will be a dedicated competent authority for digital ministry, for a digital minister, but there's currently no ministry for digital affairs. My office is literally six continents from 12, or seven ministries, and external staff as well.
 
 It remains a very much not a implementing a ministry, but rather a coordinating and strategizing office, or as we call it, a space, the public visual innovation space depicts.
 
@@ -316,7 +316,7 @@ Reminds me a little bit of some of the projects from Code for America.
 ### Audrey Tang:
 That's right. Yeah, the civic tech and gov tech in Taiwan are in a very different configuration compared to the US, because our gov tech is essentially just civic tech with warranties, I guess [laughs] and cybersecurity and testing and so on.
 
-Essentially it's civic tech and mean governance is still done by the civic sector and more like Lagrange point between the gov tech and civic tech communities, but if you look at the code that's running into gov tech stack, it's also civic tech stuff.
+Essentially it's civic tech and main governance is still done by the civic sector and more like Lagrange point between the gov tech and civic tech communities, but if you look at the code that's running into gov tech stack, it's also civic tech stuff.
 
 It's probably not the case in the US. The US has its own procurement rules, its own system integrator, and so on. The USA DS, of course, writes its own Python code but they are not current civic tech infrastructure and neither the other way around.
 
@@ -326,7 +326,7 @@ Do you think that some of the civic tech goods made for Taiwan can be applicable
 ### Audrey Tang:
 Definitely. The Pol.is infrastructure is a great example, but it's maintained by Math & Democracy foundation, a US foundation.
 
-The main spelling examples in early experiments starting from Uber X, all the way to the US, and digital dialogues and co hack counter current various hackathon, are all things that are even diplomats in the IT or in tech crowd. They're all aware of how Pol.is can get shared values out of very different positions from different polities.
+The main specific examples in early experiments starting from Uber X, all the way to the US, and digital dialogues and co hack counter current various hackathon, are all things that are even diplomats in the IT or in tech crowd. They're all aware of how Pol.is can get shared values out of very different positions from different polities.
 
 The Canadian federal government also used it that way because they contributed the automated French English translation in the first place, as we did with the Mandarin and English translation.
 

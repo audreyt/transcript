@@ -138,7 +138,7 @@ I think the dashboard, even though it’s standard now, is a interesting story o
 People kept pushing for finer resolution, like to district level or to even smaller levels, like township. The CECC keeps saying no. I think this is a non-radical transparency issues. Like for each confirmed cases, there’s a number.
 
 ### Audrey Tang:
-Each confirmed cases has this case history that says how many people are checked and/or quarantined because of this particular case, so there’s a history. You always only see up to the county or city level.
+Each confirmed case has this case history that says how many people are checked and/or quarantined because of this particular case, so there’s a history. You always only see up to the county or city level.
 
 ### Audrey Tang:
 It never reveals any spatial resolution that is finer than county or city level. This is, I think, a good decision, a publishing only in the aggregate, so that reidentification is very difficult. Not entirely impossible, but I think for the vast majority of cases, the journalists worked with the CECC to not publish reidentifiable information.
@@ -264,7 +264,7 @@ How are you feeling about that stuff right now?
 I feel that, if we keep the physical distance, wash our hands, and bring us with a mask and put it on when it’s crowded, we are reasonably sure that these three measures together, if observed by more than three-quarters of population, decrease the r-value to be under one.
 
 ### Audrey Tang:
-Even if there’s and few locally-transmitted cases or something, it would not spread with a lower-than-one r-value. That’s the systemic response.
+Even if there’s a few locally-transmitted cases or something, it would not spread with a lower-than-one r-value. That’s the systemic response.
 
 ### Dan Xin Huang:
 OK, thanks for that. At a certain point, I know that part of the response was actually this really smooth and effective collaboration between you and the social sector. I think prominent within the social sector is g0v. Could we start from just how you first got involved?
@@ -399,7 +399,7 @@ I think that’s the cultural change, like people would expect that public servi
 It’s mutual as well. The public sector can ask the social sector to work on things that the social sector considers important, but it’s inappropriate for the public sector to work on these things. For example, fact-checking.
 
 ### Audrey Tang:
-That’s a very good example, because the public sector is one of the parties that’s reported by journalists. If we say that we’re fact-checkers, that will actually throw all the journalism standards. We’re just saying, “No, we provide timely responses to journalistics inquiries, but it’s people in the social sector that are fact-checkers. That’s what I mean by the social sector leading the innovation.
+That’s a very good example, because the public sector is one of the parties that’s reported by journalists. If we say that we’re fact-checkers, that will actually throw all the journalism standards. We’re just saying, “No, we provide timely responses to journalistic inquiries, but it’s people in the social sector that are fact-checkers. That’s what I mean by the social sector leading the innovation.
 
 ### Dan Xin Huang:
 In the scheme of escalating US-China tensions, we have an election coming up. The US is obviously dealing with a lot of its own democratic public trust issues.
@@ -450,7 +450,7 @@ That’s right, “Welcome aboard.” I think some people translate it about, �
 It’s punchier.
 
 ### Audrey Tang:
-OK. By amplifying all the constructive criticisms, it turns out that people are not polarized at all when we share the same objective fact. A lot of the political divisiveness is because people that people who hold very similar, even the same, values simply were living in different realities.
+OK. By amplifying all the constructive criticisms, it turns out that people are not polarized at all when we share the same objective fact. A lot of the political divisiveness is because people who hold very similar, even the same, values simply were living in different realities.
 
 ### Audrey Tang:
 This OpenAPI participatory accountability is just to make sure that people live in the same reality and can confirm with their own eyes, just like how we, in the voting ballot counting process, hold up each vote for each YouTuber to film the ballot.

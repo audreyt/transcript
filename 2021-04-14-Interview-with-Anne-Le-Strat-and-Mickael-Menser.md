@@ -122,7 +122,7 @@ Great. I read about the case of Uber and the taxis in Taiwan. I was just curious
 ### Audrey Tang:
 Definitely. Like our referendum, national ones are binding but only for two years. The interim results that's from the vTaiwan or the joint processes. I'm part of the public sector now, so I don't really run vTaiwan. I can only comment it up to 2016. vTaiwan has been working with the legislature directly now. They're responsible for part of the consultation on the Open Parliament plan as well.
 
-That's another approach, but I'm not in charge of that. If you read only-English material, they often give a impression that I'm still running vTaiwan after all these years...
+That's another approach, but I'm not in charge of that. If you read only-English material, they often give an impression that I'm still running vTaiwan after all these years...
 
 ### Anne Le Strat:
 Yes, I confirm.
@@ -162,7 +162,7 @@ The people who are core public service in charge of responding, engaging, but un
 
 When we come to co-create under ocean policy and publishing the Ocean Affairs public information to the citizens, which is run by the Ocean Affairs Council, then the people hosting that are not the Ocean Affair's participation officer.
 
-This is a intersectional design of facilitation, and every other week, we run such co-creation meetings with the initiators, the petitioners, people as young as 16, 17 years old, who petition saying, you must ban plastic straw found bubble tea, which was controversial, not because of plastic, but because of bubble tea.
+This is an intersectional design of facilitation, and every other week, we run such co-creation meetings with the initiators, the petitioners, people as young as 16, 17 years old, who petition saying, you must ban plastic straw found bubble tea, which was controversial, not because of plastic, but because of bubble tea.
 
 > (laughter)
 
@@ -193,7 +193,7 @@ No, currently, we're playing a playbook that's already pre-agreed on. During the
 
 We're not currently running a lot of consultations, at least not on the national level, but that's because we're playing the energy transition playbook that's co-created during 2016, '17. There is no a strictly speaking new situation not foreseen by the '16, '17 consultations.
 
-So far as I understand, there is no citizen initiative because the idea of the HR governance is that if there are citizen initiatives that says, "This emergent situation is outside of the playbooks," Then, of course, we talk about it, but I just checked the joint platform, and currently, there's no initiatives that's talks about the water dropped or water shortage.
+So far as I understand, there is no citizen initiative because the idea of the HR governance is that if there are citizen initiatives that says, "This emergent situation is outside of the playbooks," Then, of course, we talk about it, but I just checked the joint platform, and currently, there's no initiatives that talks about the water dropped or water shortage.
 
 ### Anne Le Strat:
 Do you think it could be relevant to have another consultation on that issue?
@@ -371,7 +371,7 @@ In that sense, they're not liable for the data bias or data errors, because the 
 
 We think that each person has the same distance when they go to secure their PPEs, but because we publish every 30 seconds, their real-time purchasing history, it soon turns out we're biased. It's not a company. It's called OpenStreetMap. It's a community.
 
-Communities find a member of the parliament, MP [Mandarin] , previously VP data analytics, Foxconn. She knows something about data. In her interpolation to the Minister of Health and Welfare, she said that the OpenStreetMap community notice if you zoom out a little bit, then the people who have good access to public transportation get it much, much more easily.
+Communities find a member of the parliament, MP [Mandarin] , previously VP data analytics, Foxconn. She knows something about data. In her interpellation to the Minister of Health and Welfare, she said that the OpenStreetMap community notice if you zoom out a little bit, then the people who have good access to public transportation get it much, much more easily.
 
 The people who don't don't, because by the time they get to the pharmacy, the pharmacy may have already closed for the business hours. What looks the same distance on the map is actually not equity.
 
@@ -385,7 +385,7 @@ Right. Minister Chen, instead of saying something defensive, because they though
 
 When this invitation is made, nobody thought that anyone need to resign or any public servant needs to be punished, because it's in the Commons. Everybody can write a better algorithm. OpenStreetMap people actually did.
 
-Within 24 hours, we not only changed the distribution mechanism, but we enlisted the private sector at the convenience stores to get into the preordering network. The points to collect must have tripled. MP Go was very happy and said that yesterday's interpolation turned into tomorrow's co-creation.
+Within 24 hours, we not only changed the distribution mechanism, but we enlisted the private sector at the convenience stores to get into the preordering network. The points to collect must have tripled. MP Go was very happy and said that yesterday's interpellation turned into tomorrow's co-creation.
 
 Literally within a week, their idea become the new distribution mechanism. That basically said that the private sector, if they know very clearly what are the good social sector norms, then they can show their not just social responsibility. It's a business development.
 

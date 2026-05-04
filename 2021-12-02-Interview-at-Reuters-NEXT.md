@@ -23,7 +23,7 @@ I believe the fact that we have countered the pandemic with no lockdown and the 
 
 Obviously, there's a lot of international attention on Taiwan at the moment, because of the increased pressure that China is putting on Taiwan, whether it's military or diplomatic or political.
 
-As you know, the Chinese government is very angry that that Taiwan has been invited to participate. What's your reaction to that?
+As you know, the Chinese government is very angry that Taiwan has been invited to participate. What's your reaction to that?
 
 I mean, you know there is constant pressure from China and especially the fact that they are so angry that you are going to be participating, that the Taiwan government has been invited to the democracy summit?
 

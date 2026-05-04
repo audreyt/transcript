@@ -45,7 +45,7 @@ Maybe we are honey pot or something. A good relationship with the white hat comm
 Just a question here, the white hat hackers, they're not government employees?
 
 ### Audrey Tang:
-Mm-hmm. They are not, but we're on very friendly terms. There is a grassroots community, the hackers in Taiwan, the Hitcom community that we regularly engage with. There is of course also a lot of startups by people in that community that are part of our course, cybersecurity industry.
+Mm-hmm. They are not, but we're on very friendly terms. There is a grassroots community, the hackers in Taiwan, the Hitcom community that we regularly engage with. There is of course also a lot of startups by people in that community that are part of, of course, cybersecurity industry.
 
 ### Carina Rother:
 It sounds like Taiwan is particularly strong when it comes to IT specialists and the knowledge and from what I understand the Taiwanese government also encourages these solutions or initiatives. One example of these encouragement is the Presidential Hackathon. What is the plan behind the Presidential Hackathon or why is it important in your opinion?

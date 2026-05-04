@@ -124,7 +124,7 @@ As we’ve grown, we just haven’t really increased any of the plenary-style se
 We do a diversity audit of every session. We look and say, “Whose perspectives are missing? How can we bring them to the community?” Those are some of the core priorities behind our summit.
 
 ### Nikki Gladstone:
-We’re here, and we we’re just in South Korea, because we’re looking for a venue for 2021.
+We’re here, and we were just in South Korea, because we’re looking for a venue for 2021.
 
 ### Audrey Tang:
 Awesome.
@@ -417,7 +417,7 @@ That’s really cool. We went to, in South Korea, the modern art museum, but als
 It’s been really cool to see the different ways, some of the contributions that have come in around the different artistic ways to think about some of these issues.
 
 ### Audrey Tang:
-Interactive non-fiction. \[laughs\] I also did one with the Architecture Biennale, with the German team. They did a interview called Project 2038. My interview’s already online. They asked everyone to talk in a sci-fi fashion, looking backward form the year 2038, how we averted the great climate crisis, the great other crises, and our part in it. \[laughs\]
+Interactive non-fiction. \[laughs\] I also did one with the Architecture Biennale, with the German team. They did a interview called Project 2038. My interview’s already online. They asked everyone to talk in a sci-fi fashion, looking backward from the year 2038, how we averted the great climate crisis, the great other crises, and our part in it. \[laughs\]
 
 ### Audrey Tang:
 It’s a very speculative design way to look into future history. We have to say, “Oh, in the ‘20s, Etherium community developed the Serenity Project,” and speak everything future tense in past tense.
@@ -563,7 +563,7 @@ Doing that without a lot of logistics, because they probably don’t have a lot 
 Exactly.
 
 ### Audrey Tang:
-The ecosystem is also important to consider. Our own Asia-Pacific Social Innovation Summit, which I’m support is a impact hub network thing, which is May, this year, is in Taoyuan for precisely this reason, with the help of the Taoyuan City.
+The ecosystem is also important to consider. Our own Asia-Pacific Social Innovation Summit, which I support is an impact hub network thing, which is May, this year, is in Taoyuan for precisely this reason, with the help of the Taoyuan City.
 
 ### Audrey Tang:
 If you want to talk to the organizers, so far I work with Taichung, Kaohsiung, and Taoyuan on three subsequent Asia-Pacific Social Enterprise summits. We know the city contact points for all those three cities. If you will like to contact them, Jill has the contact.
@@ -653,7 +653,7 @@ More so than arrogance, I think ignorance is truly the thing. Ignorance, it’s 
 For example, I think it’s long enough that I won’t offend anyone by saying this. Long ago, there was no concept of unions. It is in the capitalist’s best interest to keep the workers ignorant of the idea of worker’s assembly, strike, or cooperatives.
 
 ### Audrey Tang:
-The more the workers are ignorant about these ideas of rights, the more that they can extract a better bargaining position vis-à-vis individual workers. Because of this, I would say this current state of ignorance, whether in a ignorance of what we call negative liberties, like freedom from surveillance, in the Isaiah Berlin sense.
+The more the workers are ignorant about these ideas of rights, the more that they can extract a better bargaining position vis-à-vis individual workers. Because of this, I would say this current state of ignorance, whether in ignorance of what we call negative liberties, like freedom from surveillance, in the Isaiah Berlin sense.
 
 ### Audrey Tang:
 It is not because of lack of education. We teach that in our civics class. We have really good teachers. It’s because either surveillance status or surveillance capitalists try to create a counter norm, where even the word user…
@@ -701,7 +701,7 @@ Exactly. When I was in Chulalongkorn University in Bangkok, they look at our Cof
 When you flag something as spam, you’re essentially donating a sample of memetic virus to the center of research, smart house. For them in a non-human-right-infringing way to basically say at the same sender if they still send unsolicited email, then it goes to the junk mail box instead of inbox. Which is certainly not exactly like less of free expression, but it makes the free-righters less economically incentive.
 
 ### Audrey Tang:
-When the university people saw that, they just took that as a way from Cofacts. If you now go to cofact.org, you’ll see the Thailand version of the Taiwan you mentioned of the Cofacts. \[laughs\]
+When the university people saw that, they just took that as a way from Cofacts. If you now go to cofacts.org, you’ll see the Thailand version of the Taiwan you mentioned of the Cofacts. \[laughs\]
 
 ### Raman Jit Singh Chima:
 That’s exactly like the g0v thing.
@@ -794,7 +794,7 @@ Academia Sinica has a lot of interest in not only working with data protection p
 Co-creator of the EdDSA algorithm we all use, the elliptic curve expert Dr. Yang Bo-Yin is right there in Academia Sinica. He probably knows something about cryptography. \[laughs\] I think Academia Sinica would be one of the great partners if you do decide to have a host in Taiwan.
 
 ### Audrey Tang:
-They’re not even reporting to any minister, because they’re report only to the presidential office. They’re above the cabinet, so that gives them kind of extra civil society street credibility, because minister or agenda can affect their academic research.
+They’re not even reporting to any minister, because they’re reporting only to the presidential office. They’re above the cabinet, so that gives them kind of extra civil society street credibility, because minister or agenda can affect their academic research.
 
 ### Raman Jit Singh Chima:
 That is very helpful.

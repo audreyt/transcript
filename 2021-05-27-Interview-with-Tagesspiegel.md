@@ -29,7 +29,7 @@ Yeah, at the moment, we're still having this idea of not allowing installation o
 
 We've been talking with Zoom about this. We're glad, of course, that they introduced, for example, end to end encryption, although it's not by default. But at the moment, for example, in a web based Zoom conversation, it's still not supporting end to end encryption, meaning that we either have to use a device like iPad or a phone or something, or we have to trust its web interface on a non-end-to-end encrypted form.
 
-So at the moment we're in this stage, but there's a e petition on the join.gov.tw platform, that calls for relaxing Zoom, joining Zoom conversations not just on necessary international like APEC or whatever meetings, But also for things that are meant to be public like this interview.
+So at the moment we're in this stage, but there's an e petition on the join.gov.tw platform, that calls for relaxing Zoom, joining Zoom conversations not just on necessary international like APEC or whatever meetings, But also for things that are meant to be public like this interview.
 
 So we'll see how the petition goes. That's the long form answer to your very simple question.
 
@@ -65,7 +65,7 @@ All the QR code does, when you scan it with say your iPhone's built in camera, i
 
 The SMS, if you scan, a QR code comes with this informed text that says, "This SMS content will only be used for contact tracing and not other purposes. Then you don't have to type anything, scan and press send, and it goes to your telecom, not anywhere else and your telecom already knows your number anyway.
 
-That alleviates the need of contracting a cloud provider to process the data, rather the telecom just keeps it for 28 days, and then it deletes it and only contact tracers and only under a audit trail, can get the SMS stored in that place of the five major telecoms in order to do contact tracing.
+That alleviates the need of contracting a cloud provider to process the data, rather the telecom just keeps it for 28 days, and then it deletes it and only contact tracers and only under an audit trail, can get the SMS stored in that place of the five major telecoms in order to do contact tracing.
 
 The beauty of this design is that it's not done by government, it's by gov zero, g0v, chat channel where the leading contact tracing system designers with all their incompatible apps and QR codes huddle together and design something that conforms to the privacy by default norm.
 

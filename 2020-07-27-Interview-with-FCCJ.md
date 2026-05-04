@@ -69,7 +69,7 @@ That is to say, it doesn’t pay to send spam after a sufficient number have fla
 Similarly, when people flag things on the, for example, LINE, which is end-to-end encryption channel, as scam or spam, it get sent to the International Fact-Checking Network members.
 
 ### Audrey Tang:
-In Taiwan, there’s two, the MyGoPen and in the Taiwan FactChecking Center, and they make sure that they flag things as scam or as disinformation a soon as possible.
+In Taiwan, there’s two, the MyGoPen and in the Taiwan FactChecking Center, and they make sure that they flag things as scam or as disinformation as soon as possible.
 
 ### Audrey Tang:
 The role of the government is just to make sure that once we detect that there is such a trending disinformation, not only do we, with journalists, so that they can do a public attribution so that people understand it is actually not true when they see it online or on the Facebook Media and so on.
@@ -231,7 +231,7 @@ The first time I’ve seen PRC spelled PR China. Interesting spelling.
 I think there’s two things. The first is that we are already seeing companies that strive only free speech. For example, media companies, the journalism workers, they are already setting up their headquarters in Taiwan and either moving from Hong Kong or moving from PRC to Taiwan.
 
 ### Audrey Tang:
-The people who hold, for example, the Oslo Freedom Forum choose Taiwan as their base. Indeed, the Reporters Without Borders, Reporters sans frontièrs, choose Taiwan as their regional headquarter.
+The people who hold, for example, the Oslo Freedom Forum choose Taiwan as their base. Indeed, the Reporters Without Borders, Reporters sans frontières, choose Taiwan as their regional headquarter.
 
 ### Audrey Tang:
 All of this, of course, is recognizing the fact that in Taiwan a journalist’s word is worth at least the same, or if not more, compare to a minister’s words. You will not get “harmonized” or “disappear” if you say something that hurts the image of a minister. That’s just good journalism.
@@ -273,7 +273,7 @@ In particular Taiwan FactCheck Center, who traced the original post to the Weibo
 It’s not like traditional cybersecurity attack. It’s right there on their Weibo. Maybe they did not pay for the license from the Reuters photographer and simply just use a new caption to sow discord and spread disinformation.
 
 ### Audrey Tang:
-There’s and lot of that, and you can check Taiwan FactCheck Center, MyGoPen, and so on, for a list of things. There’s one about the invisible ink provided by the CIA. “If you vote for Han, your ink will disappear and replaced by the invisible ink that appears for Dr. Tsai Ing-wen.”
+There’s a lot of that, and you can check Taiwan FactCheck Center, MyGoPen, and so on, for a list of things. There’s one about the invisible ink provided by the CIA. “If you vote for Han, your ink will disappear and replaced by the invisible ink that appears for Dr. Tsai Ing-wen.”
 
 ### Audrey Tang:
 Of course, the way to debunk those is very simply encourage YouTubers to record – and live stream, even – the counting process, because we are using paper ballot. We use the counting process, inviting journalists to film from all the different sides.
@@ -396,7 +396,7 @@ Thank you. A couple of geopolitical questions have come in online here, too. I�
 Especially Mr. Trump making these claims, but we’ve not seen any proof presented. What would you say about this first, on the first question there?
 
 ### Audrey Tang:
-As I said in the very beginning, I am not making any comments about any specific companies. Indeed, when we talk about the 4G and the Sunflower rough consensus, the conversation on the street is not about specifically Huawei or ZT or any companies.
+As I said in the very beginning, I am not making any comments about any specific companies. Indeed, when we talk about the 4G and the Sunflower rough consensus, the conversation on the street is not about specifically Huawei or ZTE or any companies.
 
 ### Audrey Tang:
 It’s about a systemic risk assessment of the de facto control of the state from the PRC government to their so-called private sector companies. That is our main argument and my main message to people around the world. I do not, as a rule, comment on specific companies.

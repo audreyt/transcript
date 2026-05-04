@@ -49,7 +49,7 @@ Sure. I’m a poetician. The most of the things that I do is reciting poems.
 > (laughter)
 
 ### Audrey Tang:
-Here is my job description. Goes like this, “When we see the Internet of things, let’s make it a Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear that the singularity is near, there’s always remember the plurality is here.”
+Here is my job description. Goes like this, “When we see the Internet of things, let’s make it an Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear that the singularity is near, there’s always remember the plurality is here.”
 
 ### Mat Dryhurst:
 Beautiful.
@@ -67,7 +67,7 @@ Unexpectedly.
 Yeah. It’s really nice. For people who are completely unfamiliar with what you do, would you mind giving, maybe a little introduction to yourself and a loose introduction to your background?
 
 ### Audrey Tang:
-My background is very transparent. There’s no opacity whatsoever. \[laughs\] I’m born in 1981, so makes me almost 40 years old now. I’m currently Digital Minister of Taiwan in charge of social innovation, open government, and youth engagement.
+My background is very transparent. There’s no opacity whatsoever. \[laughs\] I’m born in 1981, so it makes me almost 40 years old now. I’m currently Digital Minister of Taiwan in charge of social innovation, open government, and youth engagement.
 
 ### Audrey Tang:
 Through the use of digital social innovation, the ideas of fast, fair, and fun response to the pandemic, Taiwan has had single digit of COVID related deaths this time, and we’ve never had a lockdown. Just as we countered the pandemic with no lockdown, we encountered the infodemic that this information crisis was no takedown either.
@@ -275,7 +275,7 @@ That it will be made public.
 …that stuff is being made public, which I think is such a wonderful experiment in having an open policy system. I’ve noticed before, as well, when you discuss government and you talk about open data policies, we’ll talk about the implications of that and some of the successes of that in relation to COVID afterwards.
 
 ### Mat Dryhurst:
-You often use language that is more common among the software development community. You discuss things like forking. It occurs to me that you’re talking about democracy, or the state generally, like an open GitHub roof.
+You often use language that is more common among the software development community. You discuss things like forking. It occurs to me that you’re talking about democracy, or the state generally, like an open GitHub repo.
 
 ### Audrey Tang:
 Democracy is a type of technology, social technology, increasing the bitrate of democracy.
@@ -319,7 +319,7 @@ Later on when there’s this information or conspiracy theories around mask effi
 That’s fascinating. You’re mentioning that PTT was already in wide public use for a while when that’s happened to you, already had those rails. How long has it been in use publicly?
 
 ### Audrey Tang:
-It’s rolled out as in 25 years ago, 1995. It’s been a while when we say infrastructure \[laughs\] we really mean infrastructure. \[laughs\] It’s been running in the Taiwan Academic Network, the TANet, which also has been around before the turn of the century like very veritable part of the Internet stats.
+It’s rolled out as in 25 years ago, 1995. It’s been a while when we say infrastructure \[laughs\] we really mean infrastructure. \[laughs\] It’s been running in the Taiwan Academic Network, the TANet, which also has been around before the turn of the century like a very veritable part of the Internet stats.
 
 ### Audrey Tang:
 People really associate a lot of the social contribution and the Samsara movement also was prompted by PTT posts calling people to counter surround the police, so there would be no violence.
@@ -586,7 +586,7 @@ That’s true. On that principle, we had a Glenville on the podcast quite early.
 Sure, it’s no longer a pilot. It’s a part of our public \[laughs\] infrastructure because in the past couple of years of Presidential Hackathon, we’ve used quadratic voting to really good effect. This is the third year this year that we’re continuing the use of QV. QV is a very simple idea that increase the bitrate of democracy.
 
 ### Audrey Tang:
-In our concrete case, the Presidential Hackathon, we have more than 200 different project ideas, each realizing one or more of the global goals of the sustainable goals. Any professional jury probably wouldn’t have the expertise to look through them all, let alone seen the synergies.
+In our concrete case, the Presidential Hackathon, we have more than 200 different project ideas, each realizing one or more of the global goals of the sustainable goals. Any professional jury probably wouldn’t have the expertise to look through them all, let alone see the synergies.
 
 ### Audrey Tang:
 We turn voting to our national preservation platform, The Joint Platform. In each person, there’s, I think, 10 million visitors to The Joint Platform. Each of them, if they want, can participate in the QV and get 99 tokens.
@@ -1137,7 +1137,7 @@ That’s wonderful. Because we’re coming at it from a music perspective, where
 Emphasizing the individual too much was actually the promotional strategy of the interdependent music industry. Those new kinds of cooperative organizations, the individual wouldn’t have thrived at all.
 
 ### Audrey Tang:
-Definitely. The term I used is from a UN report hat defines the interdependence in the Internet. Our inclusive respect, human centeredness, human flourishing, transparency collaboration, accessibility, sustainability, and harmony. That sounds something that will agree with your description. Value in the music.
+Definitely. The term I used is from a UN report that defines the interdependence in the Internet. Our inclusive respect, human centeredness, human flourishing, transparency collaboration, accessibility, sustainability, and harmony. That sounds something that will agree with your description. Value in the music.
 
 ### Mat Dryhurst:
 Absolutely. We’ll have to have the UN on next week. Thank you.

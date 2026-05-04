@@ -7,7 +7,7 @@
 I have tried it out.
 
 ### Gordon Crovitz:
-Good. Thank you so much. Perhaps I can tell you a little about NewsGuard, and, of course, one of the reasons I am glad to be in touch is that we are considering expanding beyond North America and Europe. We're considering whether Taiwan might be the most likely first country for us to operate in in Asia, and I wanted to get your guidance and thoughts.
+Good. Thank you so much. Perhaps I can tell you a little about NewsGuard, and, of course, one of the reasons I am glad to be in touch is that we are considering expanding beyond North America and Europe. We're considering whether Taiwan might be the most likely first country for us to operate in Asia, and I wanted to get your guidance and thoughts.
 
 We started NewsGuard about three years ago. The idea was to try to help people understand the difference between generally trustworthy sources of news and information and sources that are generally not trustworthy. I'd spent my career in journalism. I ran "The Wall Street Journal" and before that was based for almost a decade in Hong Kong running the "Far Eastern Economic Review" and other news operations for Dow Jones. 
 
@@ -21,7 +21,7 @@ So far, we operate in the US, the United Kingdom, Germany, France, and Italy. We
 
 Our core business model is to work with third parties interested in providing a safer internet. For example, Microsoft has licensed our ratings and labels for everyone that uses its Edge browser. Microsoft also uses our ratings to help to improve the quality of Bing search results and a number of their other products.
 
-In some countries like the United Kingdom, Internet service providers have licensed our ratings for their subscribers.  These internet providers tell their customer households, "We didn't create misinformation on the Internet, but we're bringing broadband into your homes, so here's a tool that you can use to protect your family from misinformation and hoaxes."
+In some countries like the United Kingdom, Internet service providers have licensed our ratings for their subscribers. These internet providers tell their customer households, "We didn't create misinformation on the Internet, but we're bringing broadband into your homes, so here's a tool that you can use to protect your family from misinformation and hoaxes."
 
 Almost one thousand public libraries have downloaded our browser extension onto the computers that library patrons use. We're used in many universities and schools as a news literacy tool. Likewise, hospital systems license us for their patients and staff.
 
@@ -111,7 +111,7 @@ They did it with even more, let's say, resilience than the previous copyright vi
 I don't want to appear cynical at all, but I think the advertisers were very firm. They never wanted their ad against sexual images.
 
 ### Audrey Tang:
-That's right. Against sexual abuse. That's exactly right. I think we need to raise this abuse against journalism, crime against journalism, to the same degree. More than copyrights abuse and approaching sexual abuse. I think that that's winning ticket.
+That's right. Against sexual abuse. That's exactly right. I think we need to raise this abuse against journalism, crime against journalism, to the same degree. More than copyrights abuse and approaching sexual abuse. I think that that's a winning ticket.
 
 ### Gordon Crovitz:
 Somewhere between would be a big advance.
@@ -126,7 +126,7 @@ Way below.
 That's right.
 
 ### Gordon Crovitz:
-We do have a product for advertisers to enable them to make sure their programmatic advertising appears only on  appropriate websites. We track very closely whose advertising is appearing on which websites. One of my favorite examples is the US Centers for Disease Control: The CDC has an advertised on "Global Times" and other mainland Beijing-controlled disinformation sites, alongside articles claiming that COVID 19 was developed at a US military lab.
+We do have a product for advertisers to enable them to make sure their programmatic advertising appears only on appropriate websites. We track very closely whose advertising is appearing on which websites. One of my favorite examples is the US Centers for Disease Control: The CDC has advertised on "Global Times" and other mainland Beijing-controlled disinformation sites, alongside articles claiming that COVID 19 was developed at a US military lab.
 
 The advertisers are beginning to see that they have a problem with the platforms and with programmatic advertising. That realization is putting pressure on the platforms and ad-tech companies, the same way pornography led the ad-tech companies to take new steps to ensure that programmatic ads didn't reun on pornography sites.
 

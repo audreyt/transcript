@@ -183,7 +183,7 @@ So we only really have to focus on the three or four things every day that is re
 ### Tristan Harris:
 Yeah. So, I guess I have a question about that. I mean, isn't it possible that AI will enable a much more diverse set of future deep fake categories and channels, so I could say what are the 10 memetic tribes are, like political tribes that I want to attack, use to generate 10 different kinds of deep fakes to 10 different kinds of tribes. And there's different little realities, like little micro-realities for each of them.
 
-And so we might have previously live in a world where, you know, most of the world's attention in your country is like on a handful of channels, and a handful of stories are going viral. But now, we can start to do a much bigger set of diverse things and takes. Let's expand the the horizontality of the defenses now.
+And so we might have previously live in a world where, you know, most of the world's attention in your country is like on a handful of channels, and a handful of stories are going viral. But now, we can start to do a much bigger set of diverse things and takes. Let's expand the horizontality of the defenses now.
 
 ### Audrey Tang:
 Yes, it does enable a new kind of precision persuasion attacks that does not rely on the "share" or "repost" buttons. Instead, it just relies on direct messaging, basically, and talks to very individualized people with a model of their preferences.
@@ -334,7 +334,7 @@ You're speaking to something that we're trying to get ahead of for other democra
 
 What you're providing here is an answer, or a proto-blueprint for the response that democracies could have, that left them off stronger rather than weaker to AI. And that's why we're doing this episode — that's why we wanted you on. This is just really great.
 
-Another place to go from here is, you know, in a conversation we've had previously, you talked about like what's required on the cybersecurity side, and I think you were talking about, you have to assume that your systems have already been hacked and so I just love for you to like, assume breach. So please talk through through that, and how democracy should think about cybersecurity.
+Another place to go from here is, you know, in a conversation we've had previously, you talked about like what's required on the cybersecurity side, and I think you were talking about, you have to assume that your systems have already been hacked and so I just love for you to like, assume breach. So please talk through that, and how democracy should think about cybersecurity.
 
 So this is so important I want to make sure listeners get this because what you're also saying here is just like you're pre-bunking, the kind of information threats that come in; I think you should explain Pentera, you're basically pre-calculating what are all the computer attacks that they can do in the cyber realm.
 
@@ -431,13 +431,13 @@ Yeah, I really have another hour to spare if you do, because I see now you're mo
 Okay, well, can we get into it but I just want to really emphasize that we need to talk about this, which is intelligible to a large group of people, and we're still kind of trying to upskill our audience in what open-source is. So anytime you mention open-source, I think we need to kind of Tristan and Aza just sort of really signpost, but hold people's hands through that conversation. And Audrey, I'm interested in you knowing if there are dangers with open-source. Where do you think the line is if we can touch on that?
 
 ### Tristan Harris:
-So before we do that, I just want to make sure if we do have more time, so are we all here for at least? Because I don't know if you were ready for that, but we can all do another. I can do half an hour to an hour. excellent. I was going to say I think there's more meat. Each of these areas is huge and we're kind of plowing through because we we need to get stuff. But if we can I think it's going to be really helpful if we can spend the time.
+So before we do that, I just want to make sure if we do have more time, so are we all here for at least? Because I don't know if you were ready for that, but we can all do another. I can do half an hour to an hour. excellent. I was going to say I think there's more meat. Each of these areas is huge and we're kind of plowing through because we need to get stuff. But if we can I think it's going to be really helpful if we can spend the time.
 
 So we might want to do the critique, though, question about you brought up one critique, Sasha, that how do you get a requisite variety of citizens? Isn't it just the digital ones? And we got an answer from Audrey on that.
 
 There is another critique. And I was wondering, Audrey, if you if you wanted to steel the critiques that have been made about vTaiwan. I know that there was a former Taiwanese legislator, Jason Hsu, who said the platform, you know, although I think there's many rewards of it and endorses, it said the platform hasn't been used for a major decision since 2018.
 
-Because he says since the government is not mandated to adopt recommendations coming from vTaiwan, legislators don't take it seriously. What is your response to to that critique?
+Because he says since the government is not mandated to adopt recommendations coming from vTaiwan, legislators don't take it seriously. What is your response to that critique?
 
 ### Audrey Tang:
 Yeah, vTaiwan inspired many things, one of which is the Join platform, the national participation platform. Along with the Join platform, we instilled an e-petitioning system, where 5,000 people joined in electronic countersignature can interpellate, basically demanding an answer out of a minister, or if it's cross ministry, then the team of participation officers arrange collaborative meetings and meet people where they are.
@@ -450,7 +450,7 @@ In fact, many of the core vTaiwan contributors were also the contact tracing, ma
 
 Now that we're after the pandemic, I'm happy to tell Jason Hsu that vTaiwan is back, and now proudly sponsored by OpenAI’s democratic input grant. And so vTaiwan now is moving to be a pioneering grant to use language models, not just to do fact-checking or pre-bunking as other g0v projects do, but also to build what they call recursive publics, communities that can use this kind of vTaiwan tools to put forth the terms they want with their surrounding communities in a kind of community self-determination.
 
-Instead of asking legislators to pass laws, they can set the community code of conduct, rules, and so on on, for example, what kind of materials to include in the AI models that respond to the Taiwanese culture. This is a very multifaceted question, and the answers differ depending on if you talk to the people who care about copyright or people who care more about creativity and so on.
+Instead of asking legislators to pass laws, they can set the community code of conduct, rules, and so on, for example, what kind of materials to include in the AI models that respond to the Taiwanese culture. This is a very multifaceted question, and the answers differ depending on if you talk to the people who care about copyright or people who care more about creativity and so on.
 
 Because there's no immediate national act to regulate that particular point, it gives the vTaiwan community much more room to explore. So I would say that vTaiwan is now moving into a much more lab-like, research-like role, while the participation officer, the Join platform, and the state-run deliberative polling and so on, is now well institutionalized.
 
@@ -472,15 +472,15 @@ And then there's also you were mentioning earlier that text message service wher
 They are the same institutional structure. There are the participation officers; they're the government side. They're done by career public service, whereas vTaiwan, like the Cofacts crowdsourcing project, remain in a civil society and funded by nonprofits and donations and so on.
 
 ### Tristan Harris:
-Yeah, I see. And so the critique that vTaiwan hasn't been used for that many major decisions since 2018, is referring to its previous like self selecting people opting into going there on their own, versus the new systems that are doing the mandatory polling, and the the five thousand people petitions.
+Yeah, I see. And so the critique that vTaiwan hasn't been used for that many major decisions since 2018, is referring to its previous like self selecting people opting into going there on their own, versus the new systems that are doing the mandatory polling, and the five thousand people petitions.
 
 ### Audrey Tang:
 The petition system is more traditional, for the career public service.
 
 ### Tristan Harris:
-Got it. Great. Cool. I just think it's it's helpful because when I was diving into your, Audrey, the nuance and how you create spaces in which conversation happens, I think is is actually critical and deeply thought through.
+Got it. Great. Cool. I just think it's helpful because when I was diving into your, Audrey, the nuance and how you create spaces in which conversation happens, I think it is actually critical and deeply thought through.
 
-For instance, there is no reply button in in your systems. And you're like, OK, how do you have a conversation without a reply button? And instead it's not that people are replying, it's that when you see something you disagree with instead of getting into a flame war by arguing with them, you have to come up with another positive statement of what your beliefs actually are.
+For instance, there is no reply button in your systems. And you're like, OK, how do you have a conversation without a reply button? And instead it's not that people are replying, it's that when you see something you disagree with instead of getting into a flame war by arguing with them, you have to come up with another positive statement of what your beliefs actually are.
 
 And then instead of people voting, which has all sorts of ways that can be attacked, you describe a system where every positive statement of value that you make sort of tells the system more and more about who you are and which set of tribes you belong to.
 
@@ -606,7 +606,7 @@ In 2020, Taiwan rationed out surgical masks. We have this communication meme tha
 
 But if there is a way to make N95 and medical-grade masks at scale, very quickly, with everyday materials in everybody's homes, that is the kind of technology we should open source. Everybody should set up a mask making plant at home.
 
-And this is because medical-grade masks are fundamentally a defensive technology. It protects not only against coronavirus, but also the common flu. It is quite general purpose. And there's no military use I can think of of that technology.
+And this is because medical-grade masks are fundamentally a defensive technology. It protects not only against coronavirus, but also the common flu. It is quite general purpose. And there's no military use I can think of that technology.
 
 So the more a technology looks like surgical-grade masks, the more we should make it open source. And the more a technology looks like something a P3 lab would produce and that have a very high lethality rate, the more we should insist on regulations and also drills, really, audits and so on before it's released. Or maybe it should never be released.
 
@@ -727,7 +727,7 @@ So simply investing in increasing that bit rate — so the citizen can speak the
 The existing institutions are already there on the internet, so just talk to your local open-source civic tech community.
 
 ### Sasha Fegan:
-I'm just being a skeptic, how does that work in the United States? Like, you know, I'm having trouble recognizing that with with America.
+I'm just being a skeptic, how does that work in the United States? Like, you know, I'm having trouble recognizing that with America.
 
 ### Audrey Tang:
 That's a great question. Just 10 years ago, in 2014, not only the administration was enjoying only 9.2 percent approval rate, but there was great polarization and discord in Taiwan. The way we overcame it is to treat polarization as a symptom, not a cause. The symptom is the lack of bridges, of credibly neutral institutions in the society.
@@ -753,11 +753,11 @@ And so Taiwan is sort of printing the oil, the core resource that you need that 
 Or the spice, you can call it that.
 
 ### Tristan Harris:
-You know, it has this metaphor that. Yeah, well, is is wonderful metaphor that you know what oil was like a barrel of oil to automating 25,000 human labor hours of physical labor, so you can take 25,000 humans and get them to do something physical labor for an hour, or you can have just a barrel of oil and you burn it and you get the same energy out of it, and you can use that energy to move things in the world. 
+You know, it has this metaphor that. Yeah, well, it is a wonderful metaphor that you know what oil was like a barrel of oil to automating 25,000 human labor hours of physical labor, so you can take 25,000 humans and get them to do something physical labor for an hour, or you can have just a barrel of oil and you burn it and you get the same energy out of it, and you can use that energy to move things in the world. 
 
 Well, AI is that for cognitive labor, sort of paying humans to think to draw, to do the market research, to trade on the stock market, to illustrate something, to make a video. I can just take an AI chip, and it'll do that instead.
 
-And, you know, this is interesting sort of moment where US-China tensions and the CHIPS Act and the US trying to prevent China from getting access to these chips. You can see from basically selling these most advanced chips to to China. And this is interesting parallel in history, which is that earlier, before World War 2, oil was the kind of thing that that drove the world industrial economy. And the US had actually. 
+And, you know, this is interesting sort of moment where US-China tensions and the CHIPS Act and the US trying to prevent China from getting access to these chips. You can see from basically selling these most advanced chips to China. And this is interesting parallel in history, which is that earlier, before World War 2, oil was the kind of thing that drove the world industrial economy. And the US had actually. 
 
 Let's see I'm trying to find here. When Japan occupied French Indochina 1941, the US actually retaliated by freezing all Japanese assets in the States, preventing Japan from purchasing oil. And it was actually this that many historians think had caused Japan to decide to attack Pearl Harbor, hoping that the US would negotiate peace, because it was sort of an embargo on their core ingredient, their ability to race.
 

@@ -26,7 +26,7 @@ Anyone entering Taiwan are subject to 14 days of quarantine. They could do it at
 
 That is to say, not an app, but rather a process on the telecom. Instead of sending to non telecom operators, it's reusing the earthquake and flood warning system that we already had, which is SMS.
 
-If people stray outside of their quarantine boundary, an SMS is send first to them, and then to local health officers. If they do not report back then to their local police officers, it's very strict.
+If people stray outside of their quarantine boundary, an SMS is sent first to them, and then to local health officers. If they do not report back then to their local police officers, it's very strict.
 
 I wouldn't say it's not intrusive. It's quite intrusive, but it's applied with equity. Everybody is subject to that for 14 days.
 

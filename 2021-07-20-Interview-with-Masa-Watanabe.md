@@ -6,7 +6,7 @@ Minister, my first question is about democracy. In the online conference of Harv
 Your parents survived that period as newspaper journalists, which is actually very interesting to me, by the way, and you implied that collective memories of the martial law have kept Taiwan's freedom.
 
 
-If I may mention a little something here, too, in Taiwan case, I am thinking that collective memories of the successful democratization may have enhanced a strong trust in government among citizens. Maybe if one experienced building a government by social movements, the concept of "We are the players, and we are controlling the government” must be stronger. 
+If I may mention a little something here, too, in Taiwan's case, I am thinking that collective memories of the successful democratization may have enhanced a strong trust in government among citizens. Maybe if one experienced building a government by social movements, the concept of "We are the players, and we are controlling the government” must be stronger. 
 
 
 Minister, I'd really appreciate sharing your views on the democratization experience in Taiwan's history to illustrate to Taiwanese people that are understanding politics and the government is something you can trust. Thank you so much.
@@ -30,7 +30,7 @@ Minister, it is said that social network is most likely composed of like-minded 
 Minister, what are your thoughts on Mr. Obama's, in a sense, pessimistic views in 2020, on politics and online communication in terms of political polarization? What do you think of the concept of filter bubble, in the context over divided politics in America, and maybe in Taiwan as well? Thank you.
 
 ### Audrey Tang:
-To me, social media could be pro social or anti social. It's largely the same people, the same citizens, participating in it. It is the configuration of the space that determines it's pro social or anti social nature.
+To me, social media could be pro social or anti social. It's largely the same people, the same citizens, participating in it. It is the configuration of the space that determines its pro social or anti social nature.
 
 One of the examples I usually use is that in Taiwan, for example, we have the public forums that is built and sponsored by academic networks, that serves no shareholder or advertiser interest.
 

@@ -10,7 +10,7 @@ Yes, of course.
 I was curious about this actually having completely transparent interactions like this? Does it impact what you say? Does it impact the types of conversations that you have?
 
 ### Audrey Tang:
-Yeah, it does. It gives a conversation a inter-generational quality, because whatever we say will also be read and analyzed by future generations. I find the nature of conversation to be more about the long term, about the common good and so on.
+Yeah, it does. It gives a conversation an inter-generational quality, because whatever we say will also be read and analyzed by future generations. I find the nature of conversation to be more about the long term, about the common good and so on.
 
 ### Audrey Tang:
 It’s less likely that we will end up discussing things that are only good for our generation at the expense of future, because it will look quite bad 50 years down the road.
@@ -25,7 +25,7 @@ It’s always in the back of my mind, like seven generations down the line, is t
 I love that. What about the immediate pushback or disgruntlement or frustration that what you say could cause this for you today? Do you ever worry about that?
 
 ### Audrey Tang:
-We’re not live streaming this. If we make some in-jokes, or if you tell a anecdote of one of your friends who have not cleared this for publication, there’s always 10 days to co-edit a transcript, and thoroughly de identified that part so that it’s retained the semantic but not the specifics.
+We’re not live streaming this. If we make some in-jokes, or if you tell an anecdote of one of your friends who have not cleared this for publication, there’s always 10 days to co-edit a transcript, and thoroughly de identified that part so that it’s retained the semantic but not the specifics.
 
 ### Rachael Harder:
 You’re communicating the spirit of the conversation or the basics of the conversation, but you give yourself permission, and other ministers would have permission to retract things that perhaps might be incriminating or unhelpful?
@@ -72,7 +72,7 @@ One is, what are the challenges of implementing a system like that? Two, could t
 The Pol.is conversation is usually text driven. Strictly speaking, any Internet connection would do, we don’t strictly require a broadband. With that said, any place in Taiwan, if anyone doesn’t have 10 megabits per second, for €16 a month, unlimited data, it’s my fault personally. We have broadband as a human right, so that’s less of a problem.
 
 ### Audrey Tang:
-On the other hand, for the elderly, and the people who are not as versed in text based policy conversations, that’s certainly an issue, which is why we always insist on having town hall style, face to face discussions that define the common values, that defines the rough consensus. We live stream that, of cause, and take Internet commentaries with a up voting mechanism.
+On the other hand, for the elderly, and the people who are not as versed in text based policy conversations, that’s certainly an issue, which is why we always insist on having town hall style, face to face discussions that define the common values, that defines the rough consensus. We live stream that, of course, and take Internet commentaries with an up voting mechanism.
 
 ### Audrey Tang:
 We do not use this text based conversation as a substitute to the face to face conversations, that is to say it only augments and never replaces. Finally, the challenges pertains to the fact that people would only invest time on the things that are not yet decided.
@@ -116,7 +116,7 @@ Minister, when you’re talking about consulting with the general public, inviti
 Now in Canada open by default, under this current government, I would say doesn’t look anything close to what you’re talking about in terms of inviting citizen engagement and communicating with them the conversations that you’re having as a minister, the decisions that are being made at the higher levels.
 
 ### Rachael Harder:
-I’m wondering, if you were to give an example, and you’ve already given some, but if you were to give some further examples in terms of what does it looks like in Taiwan to be open by default? What would you point to to show this as a capstone, I guess, in the way that you do government?
+I’m wondering, if you were to give an example, and you’ve already given some, but if you were to give some further examples in terms of what does it look like in Taiwan to be open by default? What would you point to show this as a capstone, I guess, in the way that you do government?
 
 ### Audrey Tang:
 Certainly. I will point to join.gov.tw, our national participation portal. We used to call it e participation, but we dropped the E when there’s 10 million, 8 million visitors. Taiwan is 23 million people, a vast majority of adults. There’s many people under 18 as well frequenting the site, so we dropped the E because everybody knows it’s the participating portal.
@@ -185,7 +185,7 @@ How are you finding the rollout of that? Canada, I don’t know if you know much
 How do you find your version, I think you call the DPA, how do you find it working with social media? How’s it going?
 
 ### Audrey Tang:
-Well, in Taiwan, we have domestic pro-social social media. That’s part of a digital public infrastructure. For example, when Dr. Li Wenliang, the whistleblower from Wuhan share on social media in 2019, December that year, and I quote, “Seven new SARS cases in the Huanan seafood market.” It got posted on Reddit and other forums as well.
+Well, in Taiwan, we have domestic pro-social social media. That’s part of a digital public infrastructure. For example, when Dr. Li Wenliang, the whistleblower from Wuhan shared on social media in 2019, December that year, and I quote, “Seven new SARS cases in the Huanan seafood market.” It got posted on Reddit and other forums as well.
 
 ### Audrey Tang:
 Only on PTT, the Taiwanese social media did it get serious triage and within 24 hours. It enabled us to start house inspections for all flight passengers coming in from Wuhan on the first day of 2020. The difference here is that the PTT doesn’t have any advertisements. It doesn’t have any shareholders.
@@ -268,7 +268,7 @@ We’re aware of the fact that throughout COVID, there’s been tons of informat
 I see take downs by the administration, very much like lock downs for pandemic from the administration. That is to say, there are things of a last resort that we try very hard not to do. Taiwan this time countered the pandemic with no lockdown whatsoever. We countered infodemic, indeed the same election conspiracy theories that we saw in the US, without any take down.
 
 ### Audrey Tang:
-I think lockdowns are take downs. It signifies that the preventative measures, quarantine and vaccination have failed. This is a action of last resort. We try not to get to that place. For example, when Dr. Tsai Ing-wen, our president gets reelected on the election day, there’s this rampant disinformation campaign that says the CIA made invisible inks, the counts were wrong.
+I think lockdowns are take downs. It signifies that the preventative measures, quarantine and vaccination have failed. This is an action of last resort. We try not to get to that place. For example, when Dr. Tsai Ing-wen, our president gets reelected on the election day, there’s this rampant disinformation campaign that says the CIA made invisible inks, the counts were wrong.
 
 ### Audrey Tang:
 No matter who you vote, Dr. Tsai is going to get a vote. The tallying machine has been rigged. It didn’t say random oversea software companies on military raids or something. That’s a US specialty, I believe. \[laughs\] Otherwise, something very isomorphic to what we saw later on in the US election was here, too.
@@ -397,7 +397,7 @@ Basically, they would ask us, so can we distribute this link to our members? We 
 I was going to ask just about infrastructure, the cost of it. What is the management look like? I know Google’s got a thousands of employees, and they’re almost a trillion dollar. I can’t really know what they are. What is the sort of the cost to the government per year for this? Again, how many people does it take to manage?
 
 ### Audrey Tang:
-As I mentioned, participation officer team are all career public servants. They take their salaries already, but with an additional training to engage the public. That’s an entirely HR budget that’s already paid. In terms of hosting requirements for Join and so on, it’s inexpensive because it’s just four virtual machines running on a already nationalized data center.
+As I mentioned, participation officer team are all career public servants. They take their salaries already, but with an additional training to engage the public. That’s an entirely HR budget that’s already paid. In terms of hosting requirements for Join and so on, it’s inexpensive because it’s just four virtual machines running on an already nationalized data center.
 
 ### Audrey Tang:
 It’s hundreds of Euros per year so like negligible. The software, there’s no licensing cost, because this is a free software. We pay people like four full time staff for the operation, the localization, customer support and some legal, but again, these are not negligible, but certainly very affordable.
@@ -430,7 +430,7 @@ I guess it was just also wondering, you’re talking a lot about open government
 I’m wondering, do you have a set of guiding principles or values that help you make the decisions that you make as a minister? How do you communicate those to the individuals who are working within your department to implement?
 
 ### Audrey Tang:
-I read those principles as poetry \[laughs\] on the meeting that you attended. I call myself a poetician because I just write some poetry to communicate that. The entire country knows my guiding principles are, for example, when we see Internet of Things, let’s make, Internet of beings. When we see virtual reality, always make it a shared reality.
+I read those principles as poetry \[laughs\] on the meeting that you attended. I call myself a poetician because I just write some poetry to communicate that. The entire country knows my guiding principles are, for example, when we see Internet of Things, let’s make an Internet of beings. When we see virtual reality, always make it a shared reality.
 
 ### Audrey Tang:
 When we see machine learning, always make a collaborative learning. When we see user experience, make it about the human experience. Whenever we hear singularity may be near, we always remember the plurality is here and so on. These are self-explanatory.
@@ -442,7 +442,7 @@ It basically says that digital here to connect people with people to conserve ex
 It’s nothing like that, it’s democracy as a form of technology.
 
 ### Rachael Harder:
-One of the phrases that you used in the session that I was a part of then, you said the government exists to serve the people, the people don’t exist to serve the government. We use digital platforms then to facilitate their use of being and their participation democracy rather than just to collect data from them.
+One of the phrases that you used in the session that I was a part of then, you said the government exists to serve the people, the people don’t exist to serve the government. We use digital platforms then to facilitate their use of being and their participatory democracy rather than just to collect data from them.
 
 ### Audrey Tang:
 That’s exactly right. Yeah, it’s empowering people to determine how they are doing things with their data, and empowering them in a sense of not literacy, because that assumes citizen are just consumers of data and media, but competence because it assumes they’re producers of their own narratives.

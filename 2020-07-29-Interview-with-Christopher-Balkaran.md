@@ -762,7 +762,7 @@ I would say that instead of replicating the Taiwan model, I would encourage peop
 People will feel much more empowered, because they would say, “Oh, every part of our life, actually, can be made better by this sort of deliberative and facilitative processes.”
 
 ### Christopher Balkaran:
-It’s incredible. I’m still trying to rub my head around the fact that politicians, mayors would actually sign on to this, because again, \[laughs\] I grew up in Toronto. Just the partisan nature of politics over here is very much “You have your issues and you fight for them.”
+It’s incredible. I’m still trying to wrap my head around the fact that politicians, mayors would actually sign on to this, because again, \[laughs\] I grew up in Toronto. Just the partisan nature of politics over here is very much “You have your issues and you fight for them.”
 
 ### Christopher Balkaran:
 It’s very, many times, black and white. In Taiwan, what I’m seeing is that people are OK saying that, “Hey, I have my opinions, but if it’s not aligning with what ideas are of the general population that I oversee as mayor, I’m OK with following that direction.” That is the most important point we’re taking.

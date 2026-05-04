@@ -61,7 +61,7 @@ There is a way to facilitate that communication. It's also about giving agency, 
 
 I do think that, in Taiwan, what we're looking at ever since the Sunflower is that no major political party, a dispute, the need to civic participation, open government, and so on and more.
 
-Precisely, because during the Sunflower Movement compared to other occupies, we've seen that citizen journalists contributed a lot to the dialogue so much so that after three weeks of occupy, we set on something that's good enough consensus that was then taken and ratified by the head of the department, which is a achievement that very few other occupy movements can claim.
+Precisely, because during the Sunflower Movement compared to other occupies, we've seen that citizen journalists contributed a lot to the dialogue so much so that after three weeks of occupy, we set on something that's good enough consensus that was then taken and ratified by the head of the department, which is an achievement that very few other occupy movements can claim.
 
 ### Neta Halperin:
 Wow. You come from hacking which is such an anti-establishment position.
@@ -87,7 +87,7 @@ I think of most of my work as bringing the insights that originally the interact
 
 Community building is the one. There's this long and proud tradition of community building in Taiwan even during the martial law, but of course, how to translate that pro-social movement and energy through nonviolent communication, dynamic facilitation of in-space technology to the digital space.
 
-That's a open-research problem. I see most of my contribution is to facilitate, that facilitating, not myself being a facilitator, but taking the facilitator's methodology and bringing it so that is scales deeply.
+That's an open-research problem. I see most of my contribution is to facilitate, that facilitating, not myself being a facilitator, but taking the facilitator's methodology and bringing it so that is scales deeply.
 
 ### Neta Halperin:
 Yes, the structure.
@@ -137,7 +137,7 @@ We are a pluralistic democracy. Anything that looks like a takedown or censorshi
 
 The underlying psychological theory is this most disinformation is driven by outrage, which is one of the most viral emotions online, but outrage lead usually to revenge, discrimination, beginning of hate speech.
 
-You must know what I'm talking about, rendering with capacity of empathy, null and void in a antisocial corner of social media. When people start sharing those stories with mindless abandon, we have the infodemic.
+You must know what I'm talking about, rendering with capacity of empathy, null and void in an antisocial corner of social media. When people start sharing those stories with mindless abandon, we have the infodemic.
 
 We think of this as a epidemic, and then the natural answer is, "Let's develop some vaccines." We need to vaccinate ourselves against the virus of the mind.
 

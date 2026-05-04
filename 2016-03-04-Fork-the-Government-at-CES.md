@@ -2888,5 +2888,5 @@ Exactly. If the ministry used one wrong word, they’d get occupied tomorrow.
 I remember in Milan, they follow the whole month the vice director of Uber Italy, after a conference, and they start hanging things outside the home of this person. \[laughs\] It was really getting a level of...This was the right bottom on your map. It’s just becomes illegal after that.
 
 ### Audrey Tang:
-After we did the Uber deliberation, of course, there is still the Supreme Court ruling and things like that, but we don’t see people on the street anymore. People now know what are left to be done. Before that’s done, the the Ministry of Transport keep fining, and then people generally think it’s a good idea. That’s it.
+After we did the Uber deliberation, of course, there is still the Supreme Court ruling and things like that, but we don’t see people on the street anymore. People now know what are left to be done. Before that’s done, the Ministry of Transport keep fining, and then people generally think it’s a good idea. That’s it.
 

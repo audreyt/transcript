@@ -6,7 +6,7 @@ When did you realize that you had this immense creative potential?
 ### Audrey Tang:
 I think that's when I encountered the personal computer. When I was 8 years old, our home didn't have a computer -- that was 1989 -- but I encountered some programming bugs.
 
-I took a A4 paper and drew a keyboard on it with a pen, and then, every morning, I would practice programming on that paper, by typing on the written keyboard and I used a pencil to write the output that the computer would print.
+I took an A4 paper and drew a keyboard on it with a pen, and then, every morning, I would practice programming on that paper, by typing on the written keyboard and I used a pencil to write the output that the computer would print.
 
 That's when I realized that I'm not only constrained by not having a personal computer, but rather, it's the way of thinking. Now they would call it computational thinking. Of course, after a while, my parents finally got me a personal computer, but to me from day one, the personal computer is a device to amplify mathematics inquiry and for me not having to do the math part, is automated by a computer.
 

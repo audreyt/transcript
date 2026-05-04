@@ -289,7 +289,7 @@ Certainly. Having went through to puberties personally, it means that I don’t 
 Everyone in the Homo sapiens community feel equally close to me. This is not just about gender. This is also about culture. It’s all too often that within a jurisdiction, people take on the us versus them attitude, where people feel connected to one half of population and feel like the other population isn’t even quite understandable of why they talk this way.
 
 ### Audrey Tang:
-This could lead to “by association.” The in group would be associated with something good, something positive, and a out group, with time, could be demonized. That leads to polarization, divisiveness, and things like that.
+This could lead to “by association.” The in group would be associated with something good, something positive, and an out group, with time, could be demonized. That leads to polarization, divisiveness, and things like that.
 
 ### Audrey Tang:
 Of course, party politics also plays \[laughs\] some role here. When I went into the Cabinet, I filed “not applicable” in the gender field, but also “not applicable” in the party affiliation field. This is basically a transcultural outlook that’s applied to both gender and political ideology and many other things as well. This is taking all the sides.

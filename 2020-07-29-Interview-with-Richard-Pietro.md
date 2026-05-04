@@ -7,7 +7,7 @@ Hello and welcome to “Stories from the OpenGov,” a podcast dedicated to tell
 She isn’t just a public servant. Audrey has a very rich international work history. Her influence ranges from coding to Silicon Valley startups to research, and even grassroots activism that helped to transform a government. She was able to do all of this before she was 40.
 
 ### Richard Pietro:
-To top it all up, even though she’s currently the digital minister for Taiwan, she officially retired about five years ago. Today, we’ll take an in-depth look at Audrey herself, and how she’s been able to accomplish so much in so little time. Hello, Audrey, and thanks for joining us.
+To top it all off, even though she’s currently the digital minister for Taiwan, she officially retired about five years ago. Today, we’ll take an in-depth look at Audrey herself, and how she’s been able to accomplish so much in so little time. Hello, Audrey, and thanks for joining us.
 
 ### Audrey Tang:
 Hello, and good local time, everyone.
@@ -24,7 +24,7 @@ First of all, the 180 — that is in centimeters only.
 > (laughter)
 
 ### Audrey Tang:
-For adults, really, IQ is meaningless. Anyone with a mobile phone and some apps can easily get more than 160 in the ways adult test, above which – by the way – there really is no numbers available.
+For adults, really, IQ is meaningless. Anyone with a mobile phone and some apps can easily get more than 160 in the ways adults test, above which – by the way – there really is no numbers available.
 
 ### Audrey Tang:
 My point of dropping out of junior high school is the full blessing of the head of the school. I remember going to her, Principal Du Hui-Ping, with an email printout of the conversations that I had with people posting their pre-print papers on the arxiv.org server, which was very new back then, and still is in a sense. It’s open access movement.
@@ -45,7 +45,7 @@ That’s actually a really unique story in and of itself. Is that something that
 Yeah. Nowadays, it’s very common. Up to 10 percent of students in Taiwan now can choose homeschooling or experimental education as institution or as a group. Back then, though, back in 1995, that was not legal. I would have been fined NT$100 a day or something for refusing to go to mandatory education.
 
 ### Audrey Tang:
-That’s why the head of principal support and my teacher support is so important, because they would have to essentially fake the record. Off course, it’s far past prosecution, so it’s safe disclosing that.
+That’s why the head of principal support and my teacher support is so important, because they would have to essentially fake the record. Of course, it’s far past prosecution, so it’s safe disclosing that.
 
 ### Richard Pietro:
 We have a timeline, 1995 here, you are given cover from your school to get out of school. How did your parents react to that whole thing? I’m assuming they were very supportive?
@@ -109,7 +109,7 @@ I’m still doing entrepreneurship, so my day job, maybe Digital Minister, but i
 > (laughter)
 
 ### Audrey Tang:
-…as a civic hacker, with the likes of Vitalik Buterin, Daniel Allen, Glen Wild, and so on, on radical exchange as a board member to try out new governance methods such as quadratic voting, quadratic funding, and so on, on the Ethereum community.
+…as a civic hacker, with the likes of Vitalik Buterin, Daniel Allen, Glen Weyl, and so on, on radical exchange as a board member to try out new governance methods such as quadratic voting, quadratic funding, and so on, on the Ethereum community.
 
 ### Audrey Tang:
 Taking the best or at least better practices from Ethereum and projecting it to our day-to-day institutional work as my day job. For example, the Presidential Hackathon use quadratic voting, which if you have played Civilization VI, Gathering Storm that was the voting method used there. We take it straight away into our Presidential Hackathon.
@@ -124,7 +124,7 @@ Same here.
 Same, there you go.
 
 ### Audrey Tang:
-That’s right. I also playing NetHack, but yes, Civilization is the best.
+That’s right. I also play NetHack, but yes, Civilization is the best.
 
 ### Richard Pietro:
 OK. Let’s go back to those early days again, you just left school, you are doing some research work, and you founded an IT company. Am I wrong?
@@ -180,7 +180,7 @@ That would come later. When I was CTO, I was 16 at that time. I think I’d beco
 Then Acer, of course being the personal computers. A very large company in Taiwan that very notable international brand even back then. Acer and the Acer group was interested in setting up a investment branch that would look at early startups in Silicon Valley and other places.
 
 ### Audrey Tang:
-I was consulting with the main investor principal in the Acer Peripheral later on on BenQ company, the Darlie Ventures. Then, later on after revealing so many pitches from so many entrepreneurs, I thought it may be a good idea to start one myself, and then I moved to San Jose for a little while.
+I was consulting with the main investor principal in the Acer Peripheral later on at BenQ company, the Darlie Ventures. Then, later on after revealing so many pitches from so many entrepreneurs, I thought it may be a good idea to start one myself, and then I moved to San Jose for a little while.
 
 ### Richard Pietro:
 What did you create?
@@ -257,7 +257,7 @@ I fly back to Taipei after I realized that I can bootstrap and drink our own cha
 …in order to work well with communities of all kinds. No, I didn’t stay in San Jose long for that matter. When I started the plugs project in 2004, I didn’t stay in any city. I hosted or co-created more than 20 hackathons in 20 cities all across the world. I just actively worked like Paul Erdős, I guess.
 
 ### Audrey Tang:
-People who have a free couch in their home and that are passionate about open source and free software communities and we can co-create something together until they get fed up with me and then send me a address at the next stop to go to. No, I was noting any city. I was couchsurfing.
+People who have a free couch in their home and that are passionate about open source and free software communities and we can co-create something together until they get fed up with me and then send me a address at the next stop to go to. No, I was not in any city. I was couchsurfing.
 
 ### Richard Pietro:
 You know what, based on your personal history of the accomplishments you’ve had, I wouldn’t be surprised if you help create couchsurfing.org.
@@ -327,7 +327,7 @@ That really attracted me, and so on early 2013, I joined to do crowd lexicograph
 Then, that gathered a lot of people over a lot of different projects, so that early 2014 we’re ready to support the activists, we as hacktivists, use the then new technology called live streaming to support on the street protest.
 
 ### Audrey Tang:
-Then, later on of course, when the protestors would step break into the parliament and start deliberating, of course, we continued to our support in their communication rights.
+Then, later on of course, when the protestors would break into the parliament and start deliberating, of course, we continued to our support in their communication rights.
 
 ### Richard Pietro:
 This is where our first episode is going to end. It’s when you guys sort of stone the best deal as it were. For the next five minutes, I want to talk about that that period of time between 2008, 2013, 2012, before you got involved with g0v. What were you doing specifically in terms of your own personal growth?

@@ -78,7 +78,7 @@ Yes, definitely. I totally agree because Taiwan is becoming an aging society, to
 
 ### Tatsuhiko Inatani:
 
-From your point of view, what is your idea in regards to this problem?? It is very challenging for us to make the elderly more concerned about the future.
+From your point of view, what is your idea in regards to this problem? It is very challenging for us to make the elderly more concerned about the future.
 
 ### Audrey Tang:
 
@@ -130,7 +130,7 @@ Actually, our next question was “How will the roles of governments, corporatio
 
 Certainly. I believe that if there is a strong norm or habit that is already co-created and agreed by such multi-stakeholder panels, then the social sector will already amplify this norm. For example, wearing a mask to express one’s feelings about the color rainbow or the color pink or something. It is well-established in Taiwan and that is something that the social sector produced – not rules and regulations, but rather the norms. Once the norm is produced, of course we have got a lot of people with commercial interests to produce the most fashionable, while still statement-making, rainbow mask and things like that. We have from the Tokyo Olympic badminton game, this court, “one in” picture that decisively settled the game. That has been symbolized in numerous mask designs and so on. So, what I am having in mind is that the commercial interests, if they are piggy-backing on top of a norm that is already established as “good enough” and pro-social, then it is just a normal function of the market to make good mechanisms that can scale out and scale up such norms, and it provides a kind of natural vehicle on top of which those ideas will spread.
 
-Our main problem previous to the HR governance model is that the company had no way to know where the norm is going, so they risk producing something that will face social sanctions just a month a later or they risk producing something that is only fruitful for the consumers but at negative externalities to other people which may go back and haunt them, even without social sanctions, that they may be subject to fines and penalties and so on once those externalities are discovered and so on. So, for the business to participate in this model, I believe this is mostly a risk-reducing move. The more they participate just like in international standard setting and so on – the more they participate in the standard-setting community, the less likely that they will produce something that is risky.
+Our main problem previous to the HR governance model is that the company had no way to know where the norm is going, so they risk producing something that will face social sanctions just a month later or they risk producing something that is only fruitful for the consumers but at negative externalities to other people which may go back and haunt them, even without social sanctions, that they may be subject to fines and penalties and so on once those externalities are discovered and so on. So, for the business to participate in this model, I believe this is mostly a risk-reducing move. The more they participate just like in international standard setting and so on – the more they participate in the standard-setting community, the less likely that they will produce something that is risky.
 
 ### Hiroki Habuka:
 

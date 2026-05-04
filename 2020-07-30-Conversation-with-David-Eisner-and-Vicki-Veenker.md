@@ -64,13 +64,13 @@ That also comes with a 5G chip. It’s called XRSpace Manova. I’m not saying t
 The idea, very simply put, is that because it comes in with a cam, you can use this VR device as a cam to scan your surrounding. Once you did, that’s 3D-modeled, and it becomes a virtual space that you can gather in.
 
 ### Audrey Tang:
-For example, if you have a shared office water cooler auditorium, something that people are already having a affect, that is to say people already feels comfortable in it. Even if they are at home, if you scan that place and make that your virtual meeting place, as well as their colleagues as avatars that looks not cartoonish, but rather resembling the actual persons.
+For example, if you have a shared office water cooler auditorium, something that people are already having a affect, that is to say people already feel comfortable in it. Even if they are at home, if you scan that place and make that your virtual meeting place, as well as their colleagues as avatars that looks not cartoonish, but rather resembling the actual persons.
 
 ### Audrey Tang:
 People can just wear this VR device and then use hand gestures, like the HoloLens gestures, to engage in clapping and shaking hands, hugging, and other social gestures. That really also helps the mood to make sure that people do not get isolated in their feelings.
 
 ### Audrey Tang:
-I mentioned this because, because previously, when people think about VR, people think about something that’s heavy, that could be worn maybe for professional creatives for half an hour at most, or an hour if you have a especially strong body and mind. \[laughs\]
+I mentioned this because, because previously, when people think about VR, people think about something that’s heavy, that could be worn maybe for professional creatives for half an hour at most, or an hour if you have an especially strong body and mind. \[laughs\]
 
 ### Audrey Tang:
 This one is really light, and it could be worn for hours and hours without the eyes or the head getting sore. These are the only two co-presence inspirations that I would like to share. Otherwise, please feel free to start asking questions.
@@ -79,7 +79,7 @@ This one is really light, and it could be worn for hours and hours without the e
 I’m so fascinated by that. Does it require each of the participants to have special software?
 
 ### Audrey Tang:
-No, not at all, because it’s like a all-in-one device. It comes with its own software. Also, it runs the GeckoView, I think, the Firefox browser in it, and so you can build your own experiences that are projected in that virtual space using regular web technology.
+No, not at all, because it’s like an all-in-one device. It comes with its own software. Also, it runs the GeckoView, I think, the Firefox browser in it, and so you can build your own experiences that are projected in that virtual space using regular web technology.
 
 ### David Eisner:
 One of the biggest challenges that we have is that we include in our dialogs a lot of people that are somewhere between Luddites and inexperienced.
@@ -168,7 +168,7 @@ He saw that instead of going the route of Oculus or the later headsets that try 
 It comes with the design decision to do away with that controller, to share your familiar surrounding and your own avatar, and so on. This is basically a social-first design that doesn’t come with any app ecosystem for makers or for CAD or whatever.
 
 ### Audrey Tang:
-It is a design so that people don’t have a very peak of the learning curve. You can just very slowly like a slow slope to explore more of the world.
+It is a design so that people don’t have a steep peak of the learning curve. You can just very slowly like a slow slope to explore more of the world.
 
 ### Vicki Veenker:
 Wow. If David and I were to each put this on, each we had our device, and we wanted to shake hands…

@@ -82,7 +82,7 @@ I think that's the major contribution... it is very, very essential, because I w
 With that kind of decision, what was the real motivation for that decision? As you just mentioned, you had a...
 
 ### Audrey Tang:
-...intellectual curiosity and a sense of contribution to the contribution to the society...
+...intellectual curiosity and a sense of contribution to the society...
 
 ### James Chater:
 ...especially, that was one of the main motivational factors...
@@ -182,7 +182,7 @@ Once the both lifelong education and the basic education centers around the idea
 
 For example, fact checking the three presidential candidates during their debates in real time, by the middle schoolers, or contributing to climate science by maintaining the air boxes which is PM 2.5 and other good quality sensor as part of the environmental education in primary schools and so on.
 
-Once you had a experience in doing so just as a journalist who once was working in a newsroom, and in the fact checking, then one takes a more holistic view on things. Therefore would not be captured by this simple reduction to one bit thing, which is called polarization...
+Once you had an experience in doing so just as a journalist who once was working in a newsroom, and in the fact checking, then one takes a more holistic view on things. Therefore would not be captured by this simple reduction to one bit thing, which is called polarization...
 
 > (laughter)
 
@@ -531,7 +531,7 @@ The US is already considering now digital as part of public infrastructure. That
 
 We definitely said at a time that even though it's not made out of concrete, not concrete. As long as in the commons, it means everybody can actually use it to improve it and make it better, therefore qualify as infrastructure status.
 
-It seems that US is — because of pandemic apparently   taking this idea and amplifying it so that universal profit is no longer a FCC only idea, but rather a idea about as I mentioned, media and digital competence and democratic participation and things like that.
+It seems that US is — because of pandemic apparently   taking this idea and amplifying it so that universal profit is no longer a FCC only idea, but rather an idea about as I mentioned, media and digital competence and democratic participation and things like that.
 
 I think the democratic policies are now definitely considering digital as infrastructure and with that the same sort of common space thinking that we're discussing.
 

@@ -132,7 +132,7 @@ My focus at the moment is on what we call the democracy networks, including the 
 
 It started from Mandarin, but now in a lot of Spanish  and non Spanish speaking platforms, radical exchange, reset, you name it. That's the wider civic tech network.
 
-I'm also interested in the flow reverse. Something that is a methodology to turn a successful web 2.0 way of doing business and so on, and do a exit to community, so to speak, and into something that is co governed with all the participants and so on. I try not to use the word crypto because crypto, for me, means something else.
+I'm also interested in the flow reverse. Something that is a methodology to turn a successful web 2.0 way of doing business and so on, and do an exit to community, so to speak, and into something that is co governed with all the participants and so on. I try not to use the word crypto because crypto, for me, means something else.
 
 Of course, netting zero is also a focus for democracy networks, especially because we shared a lot of contact tracing. That was the case study I presented at a summit for democracy.
 

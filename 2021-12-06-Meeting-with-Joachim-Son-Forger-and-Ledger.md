@@ -242,7 +242,7 @@ If we converge toward any singularities, I call it plurality, that's to say to m
 
 I think the new Taiwan dollar is one of, if not the strongest currency in Asia right now, so we're not at risk of being replaced by Bitcoin at any time soon. Not to mention that it needs to solve the sustainability test in order to be adopted on the massive scale.
 
-I think we're still open, we have the FinTech sandbox, and so on, so for each new idea that challenges the new Taiwan dollar. It could be legal for up to around 1000, 10,000 people, for half a year, a year, and so on to prove its merits. If it's proven, it's just like a autonomous vehicle in a testing drive on the elevator, which is autonomous, and MRT Metro, which is almost autonomous now.
+I think we're still open, we have the FinTech sandbox, and so on, so for each new idea that challenges the new Taiwan dollar. It could be legal for up to around 1000, 10,000 people, for half a year, a year, and so on to prove its merits. If it's proven, it's just like an autonomous vehicle in a testing drive on the elevator, which is autonomous, and MRT Metro, which is almost autonomous now.
 
 We need to establish the social norms around those challenges so that it becomes assistive technology rather than disruptive technology. It could be exactly the same technology but it is the societal response to those technology that makes it assistive or disruptive.
 

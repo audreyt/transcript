@@ -180,7 +180,7 @@ In Ontario, there's a vast number of schools that the children can choose from a
 My thoughts are working with the local MOEs and the government to encourage them to offer grants for public school students who are exemplary. This way, it can help them get a Canadian education and be immersed in an English culture. With the government providing them with grants, they will inevitably return to Taiwan and to be a part of the road to bilingualism.
 
 ### Audrey Tang:
-I see. In that sense then, I understand your explanation. You're purely, what we call by the Ministry of Interior, a Immigration Business Organization, IBO, rather than any other like Ministry of Education or other ministries, apparently.
+I see. In that sense then, I understand your explanation. You're purely, what we call by the Ministry of Interior, an Immigration Business Organization, IBO, rather than any other like Ministry of Education or other ministries, apparently.
 
 ### Cassandra Brennan:
 Yeah. That's what makes our NT $1.5 million buy-in a little bit more...
@@ -234,7 +234,7 @@ My suggestion is you can change your company name in the future if you can't set
 Wonderful. That's great. I've opened all the links, that way, Stacy can go through them as well. This is all great. Again, similar to what I was hoping to get from this conversation is some guidance as to how to approach starting this process, and then how and who to talk to when it comes to the MOI and the MOE.
 
 ### Audrey Tang:
-The other thing I know, I've been a entrepreneur for many, many years. It's hard for an entrepreneur to hear this, but I must say this: Have you considered working with some other institution that has already done the deposits and part of the immigration consortium or not.
+The other thing I know, I've been an entrepreneur for many, many years. It's hard for an entrepreneur to hear this, but I must say this: Have you considered working with some other institution that has already done the deposits and part of the immigration consortium or not.
 
 There's already a list of people who are working on these businesses, maybe without a Canadian portfolio. It could be conceivably that you will open a Canadian portfolio with them in a joint venture without having to pay the deposit yourself.
 

@@ -97,7 +97,7 @@ They usually have different day jobs. During the vTaiwan weekly meetup, we’re 
 In the current process of legislating in Taiwan, you have a combination of both these modern tools to consult and develop legislation plus the old-fashioned way of doing legislation, or is it completely gone and everything is done this fashion?
 
 ### Audrey Tang:
-It’s important to note we have a different constitutional design. Most of the bills that’s passed by the Parliament started as a administration draft. That is to say, the administration, the professional public service prepare a draft for their ministers. We pass them the draft in the administration Cabinet meeting.
+It’s important to note we have a different constitutional design. Most of the bills that’s passed by the Parliament started as an administration draft. That is to say, the administration, the professional public service prepare a draft for their ministers. We pass them the draft in the administration Cabinet meeting.
 
 ### Audrey Tang:
 Then, it’s sent to the Parliament for the partisan conversation. Before that, it’s largely non-partisan. That carves a space for this kind of consultation at an early stage. To answer your question, all legislations and all regulations actually, much like regulation.gov gets public commentary for 60 days, usually at join.gov.tw. That’s mandatory. It’s not opting in.
@@ -160,10 +160,10 @@ What I meant by law is, for example, in the context of the American Congress whe
 Those new rules have to be adopted. I was wondering if, in the case of Taiwan, you had to also adopt new ways of doing business.
 
 ### Audrey Tang:
-Fortunately, that’s the thing that vTaiwan started discussing. \[laughs\] Exactly the first cases of vTaiwan were teleworking, tele-education, and things like that. By the time of 2015, we already had pretty robust regulations and laws that defines traditional concepts within a online context.
+Fortunately, that’s the thing that vTaiwan started discussing. \[laughs\] Exactly the first cases of vTaiwan were teleworking, tele-education, and things like that. By the time of 2015, we already had pretty robust regulations and laws that defines traditional concepts within an online context.
 
 ### Audrey Tang:
-Add to that, starting 2016, I’m a openly teleworking minister. Any technical issues like cybersecurity at the edges, like the privacy implications of working at home and so on, all these I have been kind of figure out by necessity because otherwise I wouldn’t function. \[laughs\] By 2017 or so, we already had the infrastructure, both legally and technically, for the pandemic.
+Add to that, starting 2016, I’m an openly teleworking minister. Any technical issues like cybersecurity at the edges, like the privacy implications of working at home and so on, all these I have been kind of figure out by necessity because otherwise I wouldn’t function. \[laughs\] By 2017 or so, we already had the infrastructure, both legally and technically, for the pandemic.
 
 ### Gopal Ratnam:
 Speaking of security, couple of quick questions. How do you ensure the people who participate in the digital process are real Taiwanese people and not some fake actors pretending to be Taiwanese citizens?

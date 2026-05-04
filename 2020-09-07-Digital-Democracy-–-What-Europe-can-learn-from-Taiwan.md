@@ -7,7 +7,7 @@ Let’s get started. Hello and welcome to all of you, wherever you are, in Europ
 I will be moderating today’s event, Digital Democracy – What Europe Can Learn From Taiwan. For this topic, we’ve got someone with us who I could easily introduce for the next hour just by quoting from international newspapers and magazines, restating all her accomplishments, or I could just say, which I will do, welcome, Minister Audrey Tang. Great to have you with us.
 
 ### Audrey Tang：
-Hello, good localtime, everyone.
+Hello, good local time, everyone.
 
 ### Dominik Hierlemann：
 Hello. Audrey Tang is all in on transparency. That’s why we run this event as a open video call where you all can see and look at each other. This WebEx call is limited to 200 people, so we’re also live-streaming our event on YouTube. Welcome to all of you.

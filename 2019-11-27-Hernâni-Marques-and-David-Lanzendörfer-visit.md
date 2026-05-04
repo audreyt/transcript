@@ -498,7 +498,7 @@ I think that is…
 Including Microsoft nowadays, which runs GitHub.
 
 ### Hernâni Marques：
-Yeah, and SCO Linux who started to to sue other people, because they wanted to introduce communism, or whatever. \[laughs\]
+Yeah, and SCO Linux who started to sue other people, because they wanted to introduce communism, or whatever. \[laughs\]
 
 ### David Lanzendörfer：
 Yeah, I think the problem is however, with semiconductor manufacturing… really, is that these fixed costs you have with operating a factory. They cannot be fixed with some version control. It is just really that programming just costs so much for a little. The same goes for phosphorous, chlorine, and equipment.
@@ -1293,7 +1293,7 @@ Next year they want to introduce an electronic patient system…
 OK.
 
 ### Hernâni Marques：
-That is is really fun. And this stuff always happens a little bit like this. So they just create a project and also the electronic ID – also Renat Künzi mentioned it, I read it.. That is also done, in our opinion, in a wrong way which will lead to identity theft, trust issues, and stuff like that. So this… this is systematic there.
+That is really fun. And this stuff always happens a little bit like this. So they just create a project and also the electronic ID – also Renat Künzi mentioned it, I read it.. That is also done, in our opinion, in a wrong way which will lead to identity theft, trust issues, and stuff like that. So this… this is systematic there.
 
 ### Hernâni Marques：
 And we need like an approach where the government reaches out to people or where we even have a like position like yours – where like a connection is being made to like civil society.

@@ -513,7 +513,7 @@ And I've been thinking about that in civil society, about how there might be a c
 ### Audrey Tang:
 So that goes right back to the like, is this token empowerment tactical? Or what is the strategic missing map? So I think what it is really missing is for the people working on scaling out impact and people who work on deepening community understanding to realize that they are in the same direction. So it's sometimes phrased as something that is opposing each other, like a dilemma.
 
-So scaling out the impact, meaning that you simplify your narrative, you have something that people can easily attach to to spread a message and things like starting a movement, like reaching more people, advocacy, and then this other direction being to more deeply find common ground, to build and foster real human to human connections, to have a very strong solidarity and common identity in the community and so on.
+So scaling out the impact, meaning that you simplify your narrative, you have something that people can easily attach to spread a message and things like starting a movement, like reaching more people, advocacy, and then this other direction being to more deeply find common ground, to build and foster real human to human connections, to have a very strong solidarity and common identity in the community and so on.
 
 So, like, deeper connections between the actors in a space. These two, since we're in space for a long time, we know they're mutually reinforcing.
 

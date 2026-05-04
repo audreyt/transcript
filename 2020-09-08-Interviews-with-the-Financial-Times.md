@@ -88,7 +88,7 @@ There’s countless vendors that want to advertise for their bracelets, for thei
 Especially in rural areas where there’s no so many cell phone towers, but even if in municipal places, the resolution is just 50 meters in radius, so they say you couldn’t know which room the person is in, or which floor the person is in. You only know the generic whereabouts. To me, that’s a feature.
 
 ### Audrey Tang:
-That is not a book, meaning that if people understand the technology is not like the GPS, and is not going to read through its SMS communication or other apps running on their phone, then people will feel much more comfortable understanding that after the 14 days, there’s no constitutional basis for us to keep using the digital fence system on the people under quarantine, so it voids labeling in effect.
+That is not a bug, meaning that if people understand the technology is not like the GPS, and is not going to read through its SMS communication or other apps running on their phone, then people will feel much more comfortable understanding that after the 14 days, there’s no constitutional basis for us to keep using the digital fence system on the people under quarantine, so it voids labeling in effect.
 
 ### Kathrin Hille:
 When did you have that kind of discussion?

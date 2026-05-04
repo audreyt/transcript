@@ -34,10 +34,10 @@ I’m vaguely aware of something going on, but I was not part of the response te
 I only really got involved around end of January, when the civic technologist begin to code up the mask availability map. Then we very quickly enlisted the help of the National Health Insurance Administration and start rationing all the mask. That’s like the 6th of February.
 
 ### Audrey Tang:
-After that, of course, I’m participating in the weekly meeting around the mask distribution and so on. I become more involved then because of the technological measures that can help automate away a lot of the work from the pharmacists, from the local hospital managers, and so on.
+After that, of course, I’m participating in the weekly meeting around the mask distribution and so on. I became more involved then because of the technological measures that can help automate away a lot of the work from the pharmacists, from the local hospital managers, and so on.
 
 ### Audrey Tang:
-My story, I think it doesn’t quite contribute to the timeline that you describe. The part of the timeline that was last December and early January, I was more like a adviser to the general communication strategy, humor over rumor and so on, but not specifically on the pandemic.
+My story, I think it doesn’t quite contribute to the timeline that you describe. The part of the timeline that was last December and early January, I was more like an adviser to the general communication strategy, humor over rumor and so on, but not specifically on the pandemic.
 
 ### Gesbeen Mohammad:
 Was there a lot of rumors or misinformation…
@@ -82,10 +82,10 @@ That’s right.
 How are the ways that Taiwan’s response was very open from the get-go? How has that, in your view, impacted how things have played out here?
 
 ### Audrey Tang:
-We fought the pandemic with no lockdown and the infodemic with no takedown. The reason why is that, of course, we remember how bad it was in SARS in 2003, where we had to lock down the entire hospital. The constitutional court find it barely constitutional and charge the legislature to improve it so that we don’t have to go to lockdown again.
+We fought the pandemic with no lockdown and the infodemic with no takedown. The reason why is that, of course, we remember how bad it was in SARS in 2003, where we had to lock down the entire hospital. The constitutional court found it barely constitutional and charge the legislature to improve it so that we don’t have to go to lockdown again.
 
 ### Audrey Tang:
-Similarly, people who are over 40 years old remember the martial law and the administrative takedowns of censorship and so on. Nobody want to go back there, even if faced with the disinformation crisis.
+Similarly, people who are over 40 years old remember the martial law and the administrative takedowns of censorship and so on. Nobody wants to go back there, even if faced with the disinformation crisis.
 
 ### Audrey Tang:
 I think a lot of it is about seeing past this false dilemma of human right and democracy on one side and public health or public safety on the other. Too many liberal democracies are now faced with this false choice, like you have to sacrifice one or the other.
@@ -94,7 +94,7 @@ I think a lot of it is about seeing past this false dilemma of human right and d
 In Taiwan, we firmly believe that we can learn from the lessons from the martial and also from the SARS epidemic, that we can devise a set of measures that radically trust the citizens so that citizens understand the science behind it and can innovate, through social innovation, social scripts that people, for example, wear a mask to protect oneself from one’s own unwashed hands.
 
 ### Audrey Tang:
-That connects the mask use to the soap use and so on. That together, in a non-disruptive way, reduced R value to under one, in which case, the virus will not spread or the rumor will not spread. I think it is really a societal mobilization. It is hinging the idea of the government trusting the citizens.
+That connects the mask use to the soap use and so on. That together, in a non-disruptive way, reduced R value to under one, in which case, the virus will not spread or the rumor will not spread. I think it is really a societal mobilization. It is hinging on the idea of the government trusting the citizens.
 
 ### Gesbeen Mohammad:
 Versus that, then there’s dictatorships. Authoritarian systems are generally bad for public health because of the secrecy, like we saw in Wuhan with the initial human-to-human transmission.

@@ -124,7 +124,7 @@ The next question is how to adapt from that crisis response and the ending, buil
 ### Audrey Tang:
 Yeah. In Taiwan, we were blessed with regular earthquakes and typhoons and many other natural disasters.
 
-Because of that, there's any number of opportunities to run drills, so to speak, on disaster recovery and disaster communication so much so we have a entire website ci.taiwan.gov.twciviliot that combines the, for example, citizen led air quality measurement devices, with the state ones, earthquake, monitoring water resource and things like that.
+Because of that, there's any number of opportunities to run drills, so to speak, on disaster recovery and disaster communication so much so we have an entire website ci.taiwan.gov.twciviliot that combines the, for example, citizen led air quality measurement devices, with the state ones, earthquake, monitoring water resource and things like that.
 
 For example, if you see on international media that we built this mask availability map apps more than hundreds of this in three days. That's because it's piggybacking on existing air quality and water quality collaborations, which has changed the data APIs and then is there.
 

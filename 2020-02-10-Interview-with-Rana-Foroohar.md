@@ -13,7 +13,7 @@ Sure.
 Maybe we can back way up. I’d like to get some of your own history, and how you came to be interested in these technologies, how you got involved with the political side of things, with Occupy, etc. Just give me your background, and then we’ll go from there.
 
 ### Audrey Tang:
-My background’s pretty transparent by now. \[laughs\] I dropped out of junior high when I discovered the Wide Web during a science fair. That was in 1995.
+My background’s pretty transparent by now. \[laughs\] I dropped out of junior high when I discovered the World Wide Web during a science fair. That was in 1995.
 
 ### Audrey Tang:
 My principals, all the teachers blessed me and said, “You don’t have to go to school anymore since you’re co-creating on the arxiv.org pre-print website anyway.” They covered for me, which is why I believe the career bureaucrats are the most innovative people ever since.
@@ -45,7 +45,7 @@ That’s just one example. There’s many around campaign financing, transparenc
 I think it’s this more than 5,000 people strong, collectively working together to fork the government that really make Taiwan civil society much stronger than any of its particular NGOs or NPOs, because they were connected in a way through multistakeholderism.
 
 ### Audrey Tang:
-That’s my background. I studied social interaction design by prototyping it with the early Socialtext folks, so the wiki thinking. We’re basically taking micro-blogging, wiki, speadsheets, whatever, that’s running on the consumer Internet and making into productivity tools.
+That’s my background. I studied social interaction design by prototyping it with the early Socialtext folks, so the wiki thinking. We’re basically taking micro-blogging, wiki, spreadsheets, whatever, that’s running on the consumer Internet and making into productivity tools.
 
 ### Audrey Tang:
 I also worked with the Siri team for six years as a independent contractor on computational linguistics also. There’s a lot of it in communicating poetic meaning \[laughs\] through very limited communication modalities and so on. That’s a very short background.
@@ -90,7 +90,7 @@ Our audience is pretty non-technical. If I were going to try and explain to them
 It’s probably occupying the parliament for three weeks and demonstrating – in a demo sense, not in a protesting sense – that this is actually a viable way to listen to half a million people on the street and many more online.
 
 ### Audrey Tang:
-Eventually, settling on the four demand – not my list – for the head of the parliament and with zero casualty, with zero people missing, and that actually gets ratified by the head of the parliament. The Sunflower Movement is definitely the watershed moment.
+Eventually, settling on the four demands – not my list – for the head of the parliament and with zero casualty, with zero people missing, and that actually gets ratified by the head of the parliament. The Sunflower Movement is definitely the watershed moment.
 
 ### Audrey Tang:
 Before that, if you asked anyone on the street in Taiwan whether this kind of massive listening scale is possible, they would say it’s not possible. After the three weeks of occupy, everybody see it’s not only possible, it’s actually much more effective than traditional representative politics.
@@ -362,7 +362,7 @@ We’re saying, “Well, that’s very efficient, but you’re paying a lot of s
 Could I ask you just a couple more questions? Is there a good example that you could cite within Taiwan of a social issue, a political issue, in which there seemed to be polarization, but actually, when you used various techniques – ledgers, quadratic voting, whatever it was – that you actually found that there was more common ground than not?
 
 ### Audrey Tang:
-Yeah, there’s a lot of examples. We often cite the UberX example, because it’s the oldest one. It’s from 2015. Recently, there’s quite a few also. I would cite the digital dialogs, because it’s significant that even people of various different thoughts around the USA’s role in Taiwanese politics nevertheless agree on what we should do, vis-Ã -vis the AIT, which is the de facto embassy.
+Yeah, there’s a lot of examples. We often cite the UberX example, because it’s the oldest one. It’s from 2015. Recently, there’s quite a few also. I would cite the digital dialogs, because it’s significant that even people of various different thoughts around the USA’s role in Taiwanese politics nevertheless agree on what we should do, vis-à-vis the AIT, which is the de facto embassy.
 
 ### Audrey Tang:
 I would share with you the reports.

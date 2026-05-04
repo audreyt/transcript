@@ -941,7 +941,7 @@ A referendum goes straight to the decisional stage.
 Exactly. Like Brexit, it’s binary. Either you’re in or you’re out, but you don’t really know what does it mean until you…
 
 ### Audrey Tang:
-If you’re binding only for two years, another way to think about it is that this is a sandbox. You can try something out for two years and see what happens, which brings it more at the define stage if you’re looking at this this way.
+If you’re binding only for two years, another way to think about it is that this is a sandbox. You can try something out for two years and see what happens, which brings it more at the define stage if you’re looking at this way.
 
 ### Audrey Tang:
 Brexit would definitely be even after this stage because it forecloses other possibilities of development. \[laughs\] Our referendums doesn’t have this character because, after two years, people can decide to try something else instead. It depends.

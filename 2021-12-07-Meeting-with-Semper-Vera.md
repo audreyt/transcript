@@ -238,7 +238,7 @@ We may be thinking, I may be thinking of this a bit too simply, but I really do 
 We have an open-ended possibilities around NFTs decentralized finance, etc., that is very difficult to entertain with the current infrastructure. While at the same time on the macro-prudential concern that the central bank and the financial regulator has, we think we're paying very close attention and taking care of those concerns.
 
 ### Audrey Tang:
-Let me ask a clarifying question. Say if I have a Easy Wallet account. It's already assigned an interbank code in Taiwan, which is 390 or something.
+Let me ask a clarifying question. Say if I have an Easy Wallet account. It's already assigned an interbank code in Taiwan, which is 390 or something.
 
 Theoretically, in practice now, I can just wire money from my traditional bank accounts into the EasyWallets by simply doing a regular FISC transfer.
 

@@ -176,7 +176,7 @@ And so we brainstormed better ways. And we did come up with better ways. For exa
 
 ### Adrienne Fichter: 
 
-So in Switzerland we think that digital democracy equals internet voting. And equals e-collecting, the collection of signatures for initiatives and referendums. And we think that’s enough and it’s kind of perfect this way. But yeah, I mean… But the question is, we don’t have this digital, this infrastructure for deliberation or agenda setting to shape opinions. How would you convince Swiss people like: well maybe you can improve a bit on your democracy by having less polarized opinions in the parliament or or or maybe in the deliberation stage before.
+So in Switzerland we think that digital democracy equals internet voting. And equals e-collecting, the collection of signatures for initiatives and referendums. And we think that’s enough and it’s kind of perfect this way. But yeah, I mean… But the question is, we don’t have this digital, this infrastructure for deliberation or agenda setting to shape opinions. How would you convince Swiss people like: well maybe you can improve a bit on your democracy by having less polarized opinions in the parliament or maybe in the deliberation stage before.
 
 ### Audrey Tang: 
 

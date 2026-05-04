@@ -151,7 +151,7 @@ We call it here 超前部署: Advanced, pre-emptive deployment.
 2004 is important because that’s the year that our universal healthcare, the National Healthcare Service went to IC cards. It became entirely digitized. In 2003, when SARS hit Taiwan early, the very small island of Penghu, the Pescadores island, had IC card. Everybody else in the main Taiwan island was still using those paper cards with stamps on it.
 
 ### Audrey Tang:
-What a difference it makes. If you compare the SARS 1.0, as I refer to it, in the Taiwan main island and in the Penghu island, you can see how much a IC card in the national universal healthcare changes people’s behavior. People do not need to feel concerned that they will suffer financial or social damage by going to a clinic to check their symptoms.
+What a difference it makes. If you compare the SARS 1.0, as I refer to it, in the Taiwan main island and in the Penghu island, you can see how much an IC card in the national universal healthcare changes people’s behavior. People do not need to feel concerned that they will suffer financial or social damage by going to a clinic to check their symptoms.
 
 ### Audrey Tang:
 There’s less of a problem of people working with the medical offices, because they know that they will get all covered, even if it’s not COVID. It’s universal healthcare, you’re going to be covered one way or another anyway. The upshot is that in Taiwan, it’s cheaper to get this full diagnosis on a local clinic. That’s in addition to go to a local pharmacy to get a mask.

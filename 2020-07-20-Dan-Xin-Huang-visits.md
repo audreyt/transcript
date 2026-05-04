@@ -388,7 +388,7 @@ Because it makes it easier for people to propose ideas that they can reflect bac
 Polis allowed us to see both the group informed consensus, divisive statements, as well as consensus statements as usual. The most divisive statement was, “Taiwan should make English their primary language for work.” Even France has done this. We know it’s controversial if we reflect back.
 
 ### Audrey Tang:
-There was one more nuanced idea that says, “Taiwan need to quickly move towards becoming a bilingual nation,” like people speak their mother tongue and also English. Quickly move towards means maybe in 2030 or something. You will see that this most controversial statement and the most consensual statements are actually the same thin, just with a different timescale.
+There was one more nuanced idea that says, “Taiwan need to quickly move towards becoming a bilingual nation,” like people speak their mother tongue and also English. Quickly move towards means maybe in 2030 or something. You will see that this most controversial statement and the most consensual statements are actually the same thing, just with a different timescale.
 
 ### Audrey Tang:
 One says that we need to do this now. One says we need to quickly move toward this direction. Everybody agrees on this, but exactly half of the population disagree on this. This is not your traditional compromise. This is more like a step back, nuanced rereading of the original advocacy position.

@@ -188,7 +188,7 @@ It seems that the sortition is on the final stage. In some sense, there is one s
 And the process takes, as you said, something like two weeks. It requires also moderation. Let's say, bringing the most polarizing statements, paraphrasing them, and releasing energy. And then at the very end you have a report that tries to describe the situation, and then you have a sortition process through which you try to gain the essential use of sortition for voting. 
 
 ### Audrey Tang:
-Yes. One nuance to that is that they, first of all, we usually run three weeks, not two weeks because of the dynamic involved. But more importantly, there needs to be a point of meeting between, let me just show you this this screen because again, this is impossible to explain in words. Do you see the collaborative policy meetings like?   
+Yes. One nuance to that is that they, first of all, we usually run three weeks, not two weeks because of the dynamic involved. But more importantly, there needs to be a point of meeting between, let me just show you this screen because again, this is impossible to explain in words. Do you see the collaborative policy meetings like?   
 
 ### Wojciech Zaremba:
 Screen doesn't yet show up on my side. 

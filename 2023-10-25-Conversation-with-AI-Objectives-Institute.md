@@ -461,7 +461,7 @@ Exactly. He doesn't scale.
 Yeah.
 
 ### Audrey Tang:
-Actually, colin has an issue that lists how he thinks. I don't know whether you've seen it. I'll just paste it somewhere. And a lot of this, like 80% of this, is actually capturing the Michigan facilitation conversation. We really want to help fund developments to work that very specific vision.Because as a professionally trained facility, we want to work on the Michigan facilitation.
+Actually, colin has an issue that lists how he thinks. I don't know whether you've seen it. I'll just paste it somewhere. And a lot of this, like 80% of this, is actually capturing the Michigan facilitation conversation. We really want to help fund developments to work that very specific vision. Because as a professionally trained facility, we want to work on the Michigan facilitation.
 
 ### Vehbi Deger Turan:
 Yeah.
@@ -476,7 +476,7 @@ I will make a signal. I live on signal. I tell people that I will respond on sig
 Yeah. Or I can just type it in. Send me a speaker. We also have our own speaker set.
 
 ### Vehbi Deger Turan:
-This also helps with one of my main qualms about the way so much data collection that Polis uses, which is it's incredibly path dependent.Basically, my uptake is like after 20, there's very little data. Like the conclusions are already there.It's just about what you highlight.
+This also helps with one of my main qualms about the way so much data collection that Polis uses, which is it's incredibly path dependent. Basically, my uptake is like after 20, there's very little data. Like the conclusions are already there. It's just about what you highlight.
 
 ### Yen-Lin Huang:
 I just want to vote with the more controversial. Right. Yeah.
@@ -717,7 +717,7 @@ And I think in fact, being able to say I don't actually have a lot to contribute
 ### Audrey Tang:
 Yeah, I totally agree. And one way out of this illusion is just to make the tools that are super useful for people in groups of three or five. So if they start thinking of their plural public as a unit, then it actually makes everything that follows much easier. A lot of the tragedy of Facebook was about the decontextualization.
 
-So it's just five people talking about things, but then because of public conversation, a friend of a friend's family decontextualized the conversation by taking a snapshot or something, or by thunking at it, by retweeting. So we all now understand that contextual integrity is everything. And that's actually where also I see most of the ZK and Providence work as important.It's just that this community can then feel that we are meaningfully an agent.
+So it's just five people talking about things, but then because of public conversation, a friend of a friend's family decontextualized the conversation by taking a snapshot or something, or by thunking at it, by retweeting. So we all now understand that contextual integrity is everything. And that's actually where also I see most of the ZK and Providence work as important. It's just that this community can then feel that we are meaningfully an agent.
 
 ### Vehbi Deger Turan:
 Yeah, I think that meaningfulness is very important. And that can only happen with smaller scale contextualization. I'd love to share this with Colleen. You're still recording, right?

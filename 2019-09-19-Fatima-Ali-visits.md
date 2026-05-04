@@ -12,7 +12,7 @@ But then internationally as well. When we run the Asia-Pacific Social Enterprise
 I think that’s really interesting, and I think you say Savinda Ranathunga, also a regional youth coordinator UNDP in Asia-Pacific that coordinates the impact of work over this region. I think he also really liked this new design.
 
 ### Audrey Tang:
-I think the British Council is repeating this design in in SEWF in Addis Ababa, for the Social Enterprise World Forum. I’m very happy this has become the new norm.
+I think the British Council is repeating this design in SEWF in Addis Ababa, for the Social Enterprise World Forum. I’m very happy this has become the new norm.
 
 ### Fatima Ali:
 Yeah, it’s so great, and it really makes a difference. In order to have a youth member on all panels, you really need to change the organizational ethos as well, to make it more accessible to youth.

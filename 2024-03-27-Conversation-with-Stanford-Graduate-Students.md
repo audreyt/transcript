@@ -113,7 +113,7 @@ And also on authenticity, which I think we've thought a lot about as sort of the
 ### Audrey Tang:
 I think in pre-bunking, certainly. Right. So pre-bunking is, for example, two years ago, I deepfaked myself posting an advertisement to the nation saying that it's now possible for anyone with a MacBook with 12 hours of computation to deepfake me. Well, now, it's like 12 milliseconds. [laughter]
 
-But still, I mean, it's good to let people know that these things are coming, so that when they actually do see it, as we actually did leading up to the January election, by and large, it had no effect.The deepfake accounts, people see it as what it is, deepfakes. Nobody actually believed that they are in any way real.
+But still, I mean, it's good to let people know that these things are coming, so that when they actually do see it, as we actually did leading up to the January election, by and large, it had no effect. The deepfake accounts, people see it as what it is, deepfakes. Nobody actually believed that they are in any way real.
 
 Because if you debunk way after the fact, then that actually causes conspiracy theories, and people want to push back and things like that. But if we pre-bunk, that is to say either debunk even before the information manipulation or right after information manipulation, like within one hour or so, that actually reaches the most people before they even install the manipulation, then it has an inoculating effect.
 
@@ -443,7 +443,7 @@ This internet advertisement for all their drawbacks, once we become their compet
 We'll see about that. [laughs] Do you have any other questions?
 
 ### Nickson Quak:
-Yeah, I was going to ask, you talked a lot about, you know, the potential dangers of AI-generated content and the dangers it presents.I was wondering if there have been any avenues of collaborating with companies like OpenAI and Anthropic, and can you share a little bit more about...
+Yeah, I was going to ask, you talked a lot about, you know, the potential dangers of AI-generated content and the dangers it presents. I was wondering if there have been any avenues of collaborating with companies like OpenAI and Anthropic, and can you share a little bit more about...
 
 ### Audrey Tang:
 Oh yeah, yeah, we're in constant talks with the Frontier Labs. I think, and a lot of them are in public transcripts. So, I think the current frontier labs, because they all have signed on that anti-synthetic content thing, they at least provide a baseline norm on either C2PA or some sort of KYC for their API users, and if the API is used for abuse, then they have some way of sounding a red alarm and things like that. So, this is like part of a quite healthy norm.
@@ -452,7 +452,7 @@ Nowdays, there are inference-time alignment techniques for language models, that
 
 So, one video can look at like 10 different captions, or 10,000 or 10 million different captions, depending on how many people are viewing that video, and each generated caption would fit that person's reward model to maximize effect on any axis, really. So, this is the kind of interesting research that they publish publicly, because then it removes a kind of centralizing compute cap on how many people that they can meaningfully tune to effectively affect.
 
-Which is why I think this kind of amplification, we might see it more and more. And so, whether a platform is bona fide adhering to those transparency and accountability laws, or whether they sign on it, but like a reserved capability to do like this kind of strike, will be a large concern, especially leading up to election. Because a lot of these tuning can go undetected, even with the best monitoring.If they just do it in a chronic fashion, not in an acute fashion, then maybe it just flies under the radar. 
+Which is why I think this kind of amplification, we might see it more and more. And so, whether a platform is bona fide adhering to those transparency and accountability laws, or whether they sign on it, but like a reserved capability to do like this kind of strike, will be a large concern, especially leading up to election. Because a lot of these tuning can go undetected, even with the best monitoring. If they just do it in a chronic fashion, not in an acute fashion, then maybe it just flies under the radar. 
 
 So, these are the main things that worries me. But for OpenAI, Anthropic and so on, we're part of this Alignment Assemblies project, and so, including info integrity, Alignment Assemblies, which was run last Saturday, is just to draw boundaries, so that people can surface new harms, or new potential of harm, very quickly, and for us to, just as we quickly legislated the deepfake harms, around investment scams, around non-consensual intimate images, about impersonating candidates leading up to election, including voice phoning them, and so on. 
 
@@ -515,7 +515,7 @@ We work with Stanford on that. And I think around 500 actually did show up that 
 
 And so I'm reasonably sure that the measures that we have, because it's partly drawn from their consensus, meets this microcosm of people. On the other hand, I also fully understand there are people of stronger views, like, they may not be statistically representative of Taiwanese, but they see dangers well before other people do, and so they want to know that we have this last resort capability if we underestimate the threat. 
 
-They want to make sure that we can, for example, block entire domain names, block entire apps, and so on.And to these people, there's part of it that we are already doing, the DNS RPZ mechanism, which does allow us to block entire Internet domains if that entire domain is scamming in nature. What it doesn't allow us to do is to, of course, censor facebook.com slash this, slash that, slash that, a specific page, because it works on a domain name service level.
+They want to make sure that we can, for example, block entire domain names, block entire apps, and so on. And to these people, there's part of it that we are already doing, the DNS RPZ mechanism, which does allow us to block entire Internet domains if that entire domain is scamming in nature. What it doesn't allow us to do is to, of course, censor facebook.com slash this, slash that, slash that, a specific page, because it works on a domain name service level.
 
 But I think there's a limit of doing things this way. We had to complement the RPZ capability with radical transparency, with publishing as open data, where the request came from, with the appeal process. If you connect to the blocked website, you can see this email that you can begin an appeal process on. And at the end of the day, if you switch to the Google DNS or a Cloudflare DNS, you just bypass them. So it's not like a great firewall kind of thing.
 

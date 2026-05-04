@@ -120,7 +120,7 @@ That is not to say that people very seasoned and very respected, Nobel Prize win
 Sorry, I’m just taking a few notes - although I do know this conversation will be published. We’re also interested in potentially setting up some sort of branch office or representative office in Taiwan. I’ve done a bit of research looking into the Ministry of the Interior, and at this Foundation Act from the Ministry of Justice.
 
 ### Jenny Wang:
-Are there any other documents or acts that I should be referring to to share with my team as we continue this process?
+Are there any other documents or acts that I should be referring to share with my team as we continue this process?
 
 ### Audrey Tang:
 Many cities, especially non-Taipei cities, are trying to brand themselves as a place to go for international NGOs, like Taichung and Taoyuan being the two most active ones of branding themselves as an international NGO center. With Taoyuan actually having a human rights angle to it, and Taichung more of a democracy angle. OFF can fit both angles.
@@ -129,7 +129,7 @@ Many cities, especially non-Taipei cities, are trying to brand themselves as a p
 My suggestion would be, of course, consider Taipei City and New Taipei City, but frankly speaking, there you will be sharing resources with other already quite established international NGOs in terms of attention space, not physical space, like Reporters Without Borders and things like that.
 
 ### Audrey Tang:
-In Taoyuan and Taichung, which are traffic-wise quite easy to access from the rest of non-Taipei regions, in Taiwan, they are closer than Taipei to the middle and South Taiwan. I think they may devote more attention to you if you are helping them in establish this idea of international NGO hub for human rights in in Taoyuan or for direct democracy in Taichung.
+In Taoyuan and Taichung, which are traffic-wise quite easy to access from the rest of non-Taipei regions, in Taiwan, they are closer than Taipei to the middle and South Taiwan. I think they may devote more attention to you if you are helping them in establish this idea of international NGO hub for human rights in Taoyuan or for direct democracy in Taichung.
 
 ### Jenny Wang:
 Thank you. This is helpful. For Taichung and Taoyuan, would you suggest that I reach out to their local city government?

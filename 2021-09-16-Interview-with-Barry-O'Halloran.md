@@ -73,7 +73,7 @@ That all those came from the early practitioners of the experimental education c
 ### Barry O'Halloran:
 Interesting. Switching to the pandemic, Taiwan's had exceptional, if not unique, ability to control the pandemic.
 
-Now, there are two phases...phase of the first year and then the last phase. Obviously, things went a bit a awry. Could you summarize for me what you think are the key aspects of Taiwan's approach to the pandemic that made it so successful.
+Now, there are two phases...phase of the first year and then the last phase. Obviously, things went a bit awry. Could you summarize for me what you think are the key aspects of Taiwan's approach to the pandemic that made it so successful.
 
 ### Audrey Tang:
 We're now in the low single digits in local confirmed cases daily. Today was two, yesterday was one, the day before was two. I wouldn't say we're post-pandemic. I would say we postponed the pandemic rather successfully.

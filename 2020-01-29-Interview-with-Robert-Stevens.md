@@ -373,7 +373,7 @@ As Glen often points out, our constitution here in Taiwan from Dr. Sun Yat-Sen�
 All the cutting edge like 19th century to early 20th century technologies were part of this social innovator, Dr. Sun Yat-Sen’s vision, which then informed the norm in Taiwan. Without accepting all the constitutional narratives, we nevertheless see in our constitution an idea that mechanism design should be participative and constitutive to a country.
 
 ### Audrey Tang:
-I read that some Nordic countries take a very similar stance. In these cultures, it’s not about working through the bureaucracy or the existing administration system, because this idea of continued participators mechanism design is baked in in the constitution.
+I read that some Nordic countries take a very similar stance. In these cultures, it’s not about working through the bureaucracy or the existing administration system, because this idea of continued participators mechanism design is baked into the constitution.
 
 ### Robert Stevens:
 You don’t feel like you’re already extending the constitution.

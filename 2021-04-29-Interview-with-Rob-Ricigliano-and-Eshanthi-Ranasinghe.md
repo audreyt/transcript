@@ -438,7 +438,7 @@ It always starts from communication stands to bring people together. I joke abou
 
 Digitalization is just binary coding. It's coding things into digits, but digitalization is about inclusion. It's about making sure that people who previously didn't have a voice are empowered with the assistive intelligence or the technology that empowers them to have voice.
 
-These are the direction of development of our infrastructure technologies. We run procurement with a API open by default mandate, so that any technologies that develop for any particular generation of needs need to offer it, just like universal accessibility, offer it to people with blindness.
+These are the direction of development of our infrastructure technologies. We run procurement with an API open by default mandate, so that any technologies that develop for any particular generation of needs need to offer it, just like universal accessibility, offer it to people with blindness.
 
 They also need to offer OpenAPI, so that the next generation of technologists don't have to redo everything they just did, but rather reuse those APIs. This is how we repurpose the code-developed text file system in three days into the mask ordering system, and later on also the triple stimulus voucher ordering system, and many more.
 
@@ -534,7 +534,7 @@ Would you prefer that our conversation is released as a video to the commerce or
 It's fine. Is this how I look when I'm sitting?
 
 ### Audrey Tang:
-I'll just do the audio-only with just my video. I think that's more fair because I didn't say that upfront. I'll publish it first as a unlisted video. I'll send a link to you. You can review it a little bit. If you're OK with it I'll just flag it public.
+I'll just do the audio-only with just my video. I think that's more fair because I didn't say that upfront. I'll publish it first as an unlisted video. I'll send a link to you. You can review it a little bit. If you're OK with it I'll just flag it public.
 
 ### Rob Ricigliano:
 Wonderful. Thank you very much. Really helpful, really interesting.
