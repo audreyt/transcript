@@ -2,7 +2,7 @@
 
 > ( Slides: [https://www.slideshare.net/autang/fork-the-government](https://www.slideshare.net/autang/fork-the-government) )
 
-> ( Video: [https://www.youtube.com/watch?v=8tc\5bM0zSM](https://www.youtube.com/watch?v=8tc5bM0zSM) )
+> ( Video: [https://www.youtube.com/watch?v=8tc_5bM0zSM](https://www.youtube.com/watch?v=8tc_5bM0zSM) )
 
 ### Giovanni Allegretti:
 Good afternoon to everybody. My name is Giovanni Allegretti. I am the coordinator of the Centre for Social Studies of the Project EMPATIA, Enabling Multi-channel Participation Through ICT Adaptation.
