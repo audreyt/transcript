@@ -1,9 +1,11 @@
 #!/usr/bin/env bun
 /**
  * Sync changed markdown files and .alternates mappings to archive.tw.
+ * Also syncs the .redirects snapshot (speech_redirects table) on every run.
  *
  * Environment variables:
- *   API_ENDPOINT
+ *   API_ENDPOINT             — POST/PATCH/DELETE markdown
+ *   API_REDIRECTS_ENDPOINT   — PUT .redirects snapshot (optional; skipped if unset)
  *   TOKEN
  *   GITHUB_WORKSPACE
  *   BEFORE_SHA
@@ -23,6 +25,7 @@ export const BASE_DELAY_MS = 2_000;
 
 export interface SyncEnvironment {
   API_ENDPOINT: string;
+  API_REDIRECTS_ENDPOINT?: string;
   TOKEN: string;
   GITHUB_WORKSPACE: string;
   BEFORE_SHA?: string;
@@ -333,6 +336,18 @@ function buildDeleteSpec(endpoint: string, token: string, relativePath: string):
   };
 }
 
+function buildRedirectsSpec(endpoint: string, token: string, body: string): RequestSpec {
+  return {
+    url: endpoint,
+    method: "PUT",
+    headers: {
+      ...commonHeaders(token),
+      "Content-Type": "text/plain; charset=utf-8",
+    },
+    body,
+  };
+}
+
 export async function runSync(
   env: SyncEnvironment,
   argv: string[] = [],
@@ -504,6 +519,30 @@ export async function runSync(
     }
   }
 
+  // Sync .redirects snapshot to /api/redirects (speech_redirects SoT).
+  // Runs every time, independent of the markdown diff: even if no .md
+  // changed, the .redirects file may have been edited on its own.
+  const redirectsEndpoint = env.API_REDIRECTS_ENDPOINT;
+  const redirectsPath = path.join(workspace, ".redirects");
+  if (redirectsEndpoint && existsSync(redirectsPath)) {
+    try {
+      const redirectsBody = readWorkspaceFile(redirectsPath);
+      await requestWithRetry(
+        buildRedirectsSpec(redirectsEndpoint, token, redirectsBody),
+        "PUT .redirects",
+        { dryRun, fetchImpl, sleep, stdout },
+      );
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      stdout(`ERROR syncing .redirects: ${message}`);
+      failures.push(".redirects");
+    }
+  } else if (!redirectsEndpoint) {
+    debug(stdout, "API_REDIRECTS_ENDPOINT not set, skipping .redirects sync");
+  } else {
+    debug(stdout, ".redirects file absent, skipping redirects sync");
+  }
+
   if (failures.length > 0) {
     stdout(`\nFailed to sync ${failures.length} file(s): ${JSON.stringify(failures)}`);
     return 1;
@@ -519,6 +558,7 @@ export async function main(
   return runSync(
     {
       API_ENDPOINT: env.API_ENDPOINT ?? "",
+      API_REDIRECTS_ENDPOINT: env.API_REDIRECTS_ENDPOINT,
       TOKEN: env.TOKEN ?? "",
       GITHUB_WORKSPACE: env.GITHUB_WORKSPACE ?? process.cwd(),
       BEFORE_SHA: env.BEFORE_SHA,

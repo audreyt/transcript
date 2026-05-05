@@ -5,6 +5,7 @@ on:
     paths:
       - "*.md"
       - ".alternates"
+      - ".redirects"
       - "scripts/sync_markdown.ts"
   workflow_dispatch:
     inputs:
@@ -22,6 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       API_ENDPOINT: https://archive.tw/api/upload_markdown
+      API_REDIRECTS_ENDPOINT: https://archive.tw/api/redirects
       AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
       BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
     steps:
