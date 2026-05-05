@@ -1,4 +1,4 @@
-# 2017‑04‑12 AP &amp; KBS Interview at Seoul
+# 2017‑04‑12 AP & KBS Interview at Seoul
 
 ### AP：
 Can I just call you Audrey...?
