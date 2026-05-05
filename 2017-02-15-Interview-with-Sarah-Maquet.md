@@ -1,4 +1,4 @@
-# 2017‑02‑15 Interview with Sarah Maquet
+# 2017-02-15 Interview with Sarah Maquet
 
 ### Audrey Tang：
 What would you like me to talk about?
@@ -89,7 +89,7 @@ We called her the cyberspace minister, because that’s her mandate. On the othe
 By which we mean, it’s not just this government’s relationship with the people around the Internet, but also using Internet technologies to transform the government itself so that we can work in a way that uses less paper, that is more efficient, and also respond to more stakeholders at the same time than the previous model where we tried to fit people into these public hearing rooms.
 
 ### Audrey Tang：
-It’s about consultations. It’s also a more accountable arbitrator for all the policy‑making that we make. We’re digitally transforming not just the private sector and civil society as previously but also the government structure itself.
+It’s about consultations. It’s also a more accountable arbitrator for all the policy-making that we make. We’re digitally transforming not just the private sector and civil society as previously but also the government structure itself.
 
 ### Sarah Maquet：
 Did that work? There was a lot of people, for example, in the hackathon when you organized it with the g0v movement because there were a lot of people here.
@@ -101,10 +101,10 @@ In the g0v movement, we’re a loosely coupled anarchist movement, so nobody get
 Then they become all participants and contributors and try to find each other, like playing music concertos and things like that, and then start to do something productive within the limit of one day or two. That’s how it all works.
 
 ### Audrey Tang：
-In the government organization, that’s not usually how public servants work. Usually, they work from an agenda determined by the higher‑ups all the way to the premier and to the president. Now, after I joined the cabinet, I’ve tried to bring this kind of, &quot;Everybody set your own objective, and I’m just the physical figure,&quot; this way of &quot;leadership&quot; into this office.
+In the government organization, that’s not usually how public servants work. Usually, they work from an agenda determined by the higher-ups all the way to the premier and to the president. Now, after I joined the cabinet, I’ve tried to bring this kind of, &quot;Everybody set your own objective, and I’m just the physical figure,&quot; this way of &quot;leadership&quot; into this office.
 
 ### Audrey Tang：
-We’re a small office at the moment. We’re about 15 full‑time people and maybe 5 part‑time people. We’re still organizing, using a lot of online tools. We’re also trying to spread this culture to all the ministries. Every ministry has assigned one or two people to learn this kind of collaborative working with us so they can hold their own cross‑ministerial working groups.
+We’re a small office at the moment. We’re about 15 full-time people and maybe 5 part-time people. We’re still organizing, using a lot of online tools. We’re also trying to spread this culture to all the ministries. Every ministry has assigned one or two people to learn this kind of collaborative working with us so they can hold their own cross-ministerial working groups.
 
 ### Audrey Tang：
 The POs, the participation officers is now around 50 people.
@@ -119,10 +119,10 @@ It is really the case. You can feel the change after two year after the Sunflowe
 Of course. The Sunflower Movement was a attempt of agenda setting by the civil society because they were tired that the government keeps using just the same logic of economic development, basically, to shape all the public policy agenda.
 
 ### Audrey Tang：
-The civil society thinks that we should talk more about, perhaps, labor rights, human rights, education, LGBT rights, and that this right‑based narrative but also the traditionally more niche issues, such as freedom of Internet, then neutrality and so on.
+The civil society thinks that we should talk more about, perhaps, labor rights, human rights, education, LGBT rights, and that this right-based narrative but also the traditionally more niche issues, such as freedom of Internet, then neutrality and so on.
 
 ### Audrey Tang：
-These were considered trivial matters that didn’t show up on the higher‑up agenda, but the people who occupy the parliament consider this very important. They consider that the process itself, the transparency of the procedure, even more important than the result of the procedure.
+These were considered trivial matters that didn’t show up on the higher-up agenda, but the people who occupy the parliament consider this very important. They consider that the process itself, the transparency of the procedure, even more important than the result of the procedure.
 
 ### Audrey Tang：
 The result could be 100 percent workable, but it is just five people making the decision, the rest of the society doesn’t get to hold them accountable, and it doesn’t get to respond. I think they found problem not with one or two policies, but how policies are being made.
@@ -206,7 +206,7 @@ I see myself as really an anarchist who identifies with more of the process of c
 I understand this is a radical position, but I did make it very clear in writing before I joined the cabinet. The premier is OK with an anarchist minister, he’s OK with that. Note I’m not progressive — in the sense that I don’t try to inflict this idea on my fellow cabinet members or indeed to any individual that I meet.
 
 ### Audrey Tang：
-I’m a conservative anarchist, meaning that I just want to conserve this way of doing things, this consensus‑based way that Internet gets built, instead of trying to say the whole society should work like this. I’m not sure that society is ready to work like this, and nor is this model ready to be deployed to the whole society yet.
+I’m a conservative anarchist, meaning that I just want to conserve this way of doing things, this consensus-based way that Internet gets built, instead of trying to say the whole society should work like this. I’m not sure that society is ready to work like this, and nor is this model ready to be deployed to the whole society yet.
 
 ### Audrey Tang：
 I’m very much still in a phase of just listening, understanding and evolving this anarchist model in parallel, and also in collaboration with the world.
@@ -215,7 +215,7 @@ I’m very much still in a phase of just listening, understanding and evolving t
 And about the gay marriage? Is it gay marriage? Will we have a date when the Parliament should debate about this?
 
 ### Audrey Tang：
-Sure. I think what will happen first is the Supreme Court will make a decision. The Supreme Court will hear this March 21st. After the Supreme Court rule about its constitutionality, this is the pre‑requisite for the parliament to even debate this.
+Sure. I think what will happen first is the Supreme Court will make a decision. The Supreme Court will hear this March 21st. After the Supreme Court rule about its constitutionality, this is the pre-requisite for the parliament to even debate this.
 
 ### Audrey Tang：
 If they’ve ruled that marriage equality is unconstitutional, the parliament can’t do anything constitutionally without changing the constitution. That said, we pretty much are not expecting this worst case scenario. They will probably say it’s constitutional, with some provisions maybe.
@@ -230,7 +230,7 @@ They will be informed by the constitutionality provisions that the Supreme Court
 What is your position about it?
 
 ### Audrey Tang：
-Well I’m post‑gender, meaning that I don’t care about people’s gender... Of course, a lot of people care about the seriousness of marriage. Taiwan does have one of the highest divorce rates for a while in the world. I think it’s true that people want to care about that marriage still mean something.
+Well I’m post-gender, meaning that I don’t care about people’s gender... Of course, a lot of people care about the seriousness of marriage. Taiwan does have one of the highest divorce rates for a while in the world. I think it’s true that people want to care about that marriage still mean something.
 
 ### Audrey Tang：
 I think those people who are for marriage equality and people who are for more conservative family lives, they both want marriage to mean something. That’s their common point.
