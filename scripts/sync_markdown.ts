@@ -416,16 +416,45 @@ export async function runSync(
     summary = applyAlternatesImpact(summary, beforeAltPairs, currentAltPairs, workspace);
   }
 
+  const failures: string[] = [];
+
+  // .redirects sync runs BEFORE the markdown loops so that even pushes that
+  // only touch .redirects (no .md changed) still reconcile the snapshot.
+  // It also runs regardless of dispatch input — the file is the SoT, so
+  // every workflow run re-asserts it.
+  const redirectsEndpoint = env.API_REDIRECTS_ENDPOINT;
+  const redirectsPath = path.join(workspace, ".redirects");
+  if (redirectsEndpoint && existsSync(redirectsPath)) {
+    try {
+      const redirectsBody = readWorkspaceFile(redirectsPath);
+      await requestWithRetry(
+        buildRedirectsSpec(redirectsEndpoint, token, redirectsBody),
+        "PUT .redirects",
+        { dryRun, fetchImpl, sleep, stdout },
+      );
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      stdout(`ERROR syncing .redirects: ${message}`);
+      failures.push(".redirects");
+    }
+  } else if (!redirectsEndpoint) {
+    debug(stdout, "API_REDIRECTS_ENDPOINT not set, skipping .redirects sync");
+  } else {
+    debug(stdout, ".redirects file absent, skipping redirects sync");
+  }
+
   if (
     summary.addedFiles.length === 0 &&
     summary.modifiedFiles.length === 0 &&
     summary.removedFiles.length === 0
   ) {
     stdout("No root-level markdown or .alternates changes requiring sync.");
+    if (failures.length > 0) {
+      stdout(`\nFailed to sync ${failures.length} file(s): ${JSON.stringify(failures)}`);
+      return 1;
+    }
     return 0;
   }
-
-  const failures: string[] = [];
 
   for (const relativePath of summary.addedFiles) {
     const absolutePath = path.join(workspace, relativePath);
@@ -517,30 +546,6 @@ export async function runSync(
         failures.push(relativePath);
       }
     }
-  }
-
-  // Sync .redirects snapshot to /api/redirects (speech_redirects SoT).
-  // Runs every time, independent of the markdown diff: even if no .md
-  // changed, the .redirects file may have been edited on its own.
-  const redirectsEndpoint = env.API_REDIRECTS_ENDPOINT;
-  const redirectsPath = path.join(workspace, ".redirects");
-  if (redirectsEndpoint && existsSync(redirectsPath)) {
-    try {
-      const redirectsBody = readWorkspaceFile(redirectsPath);
-      await requestWithRetry(
-        buildRedirectsSpec(redirectsEndpoint, token, redirectsBody),
-        "PUT .redirects",
-        { dryRun, fetchImpl, sleep, stdout },
-      );
-    } catch (error) {
-      const message = error instanceof Error ? error.message : String(error);
-      stdout(`ERROR syncing .redirects: ${message}`);
-      failures.push(".redirects");
-    }
-  } else if (!redirectsEndpoint) {
-    debug(stdout, "API_REDIRECTS_ENDPOINT not set, skipping .redirects sync");
-  } else {
-    debug(stdout, ".redirects file absent, skipping redirects sync");
   }
 
   if (failures.length > 0) {
