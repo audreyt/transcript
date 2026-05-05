@@ -1,4 +1,4 @@
-# 2017‑04‑12 AP & KBS Interview at Seoul
+# 2017-04-12 AP & KBS Interview at Seoul
 
 ### AP：
 Can I just call you Audrey...?
@@ -127,7 +127,7 @@ So about your program, your software. It has been developed in order to gather p
 Yes, of course. There are these very important principle, in the idea that we use the Internet to deliberate people’s feelings, not their suggestions, not their decisions. Because if you jump into suggestions, people will not reveal the feeling they have behind the suggestion.
 
 ### Audrey Tang：
-Even though five people say at least the same thing or they vote the same way, maybe they do it out of different subjective feelings. What we have outsourced before was people’s feelings, for example, around one concrete issue like you own a private car and you don’t have a professional driver’s license. Then you use this app, and then you get a stranger on your backseat and you drive them somewhere, and you charge them for it ‑‑ without mentioning any company name.
+Even though five people say at least the same thing or they vote the same way, maybe they do it out of different subjective feelings. What we have outsourced before was people’s feelings, for example, around one concrete issue like you own a private car and you don’t have a professional driver’s license. Then you use this app, and then you get a stranger on your backseat and you drive them somewhere, and you charge them for it -- without mentioning any company name.
 
 ### Audrey Tang：
 \[laughs\] Yeah, exactly. Then, our software is an open source software. Basically, ask people one yes or no question, and based on their yes or no question, they get clustered. After you answer a question, whether you think insurance is important, whether you think it’s public safety, your avatar moves on the screen so you can cluster with people.
@@ -151,13 +151,13 @@ After you answer a few yes or no questions, you can also type in your own feelin
 May I interrupt, Minister. How do you gather peoples’ own opinion? Like you said, you didn’t listen to their suggestions, you didn’t listen to their rational opinions. You just captured their feelings or their innate tendency to a specific policy, so how do you gather information?
 
 ### Audrey Tang：
-No. We just ask people to start the sentence here with 我覺得, which is, &quot;I feel that...&quot; and then that’s it. We’re not passively monitoring. We’re actively asking people to write their authentic feelings, and then, this is an open‑ended survey, so people can feel anything.
+No. We just ask people to start the sentence here with 我覺得, which is, &quot;I feel that...&quot; and then that’s it. We’re not passively monitoring. We’re actively asking people to write their authentic feelings, and then, this is an open-ended survey, so people can feel anything.
 
 ### MK：
 Within that process, people might really disguise or didn’t want to show their real feelings, so you might have to ask them twice or more times.
 
 ### Audrey Tang：
-That’s right. You can change your positions anytime here, and then you can state a more nuanced feeling, because we only take as finding things that you managed to convince everybody. If it’s a disguised or if it’s a non‑authentic feeling, if people don’t share it, it doesn’t have any effect.
+That’s right. You can change your positions anytime here, and then you can state a more nuanced feeling, because we only take as finding things that you managed to convince everybody. If it’s a disguised or if it’s a non-authentic feeling, if people don’t share it, it doesn’t have any effect.
 
 ### Audrey Tang：
 People are basically competing to first convince people who think like them, and gradually to convince people who doesn’t think like them, and we only take the supermajority as the agenda.
@@ -166,7 +166,7 @@ People are basically competing to first convince people who think like them, and
 How do you call that system?
 
 ### Audrey Tang：
-This system has a name called Pol.is, P‑O‑L‑.‑I‑S.
+This system has a name called Pol.is, P-O-L-.-I-S.
 
 ### MK：
 You worked hard to develop. You say it really taken a lot of resources to develop...
@@ -196,7 +196,7 @@ That’s exactly right.
 Can you give me just one example of the latest issue that you’ve got the idea from this from?
 
 ### Audrey Tang：
-Mm‑hmm. The most high profile of course was the Uber case, but we also use the same for the Airbnb case, for Internet sales of alcoholic beverages, and so on. Just today, Uber announced that they will bind themselves to the consensus that’s made here, and they will change their business model starting tomorrow to play by the rules that were set in the deliberative fashion.
+Mm-hmm. The most high profile of course was the Uber case, but we also use the same for the Airbnb case, for Internet sales of alcoholic beverages, and so on. Just today, Uber announced that they will bind themselves to the consensus that’s made here, and they will change their business model starting tomorrow to play by the rules that were set in the deliberative fashion.
 
 ### AP：
 How many people participated in the Uber survey?
@@ -217,13 +217,13 @@ My favorite argument in this conversation is that I think Go (圍棋), the board
 As for the alternative military service, it is true that it’s already the case for Go, for 圍棋 players in Taiwan. They can have alternative military service if they win some international or national competition awards. The same applies for any other sport as well as like symphony conductors and other cultural performers.
 
 ### Audrey Tang：
-An e‑Sport athlete being a cultural performer, and which has international competition and so on, shouldn’t really be discriminated against. That was just the basic idea, so we’re not actively promoting in. We’re just saying this is like other sport.
+An e-Sport athlete being a cultural performer, and which has international competition and so on, shouldn’t really be discriminated against. That was just the basic idea, so we’re not actively promoting in. We’re just saying this is like other sport.
 
 ### Audrey Tang：
-The other thing that we used during the e‑Sport thing is that we have on our previous website a accountability trail where you can have this QR code that lists the entire decision making process for how exactly this policy was formed.
+The other thing that we used during the e-Sport thing is that we have on our previous website a accountability trail where you can have this QR code that lists the entire decision making process for how exactly this policy was formed.
 
 ### Audrey Tang：
-Starting from the public hearing, down to the classes, down to the military service, down the national tax breaks, and so on, we have all the ministries and all the decision makers in our internal meetings taken as a transcript ‑‑ was real time transcript ‑‑ and everybody, after editing it for 10 working days, agreed to publish it to the general public even before we have set our direction.
+Starting from the public hearing, down to the classes, down to the military service, down the national tax breaks, and so on, we have all the ministries and all the decision makers in our internal meetings taken as a transcript -- was real time transcript -- and everybody, after editing it for 10 working days, agreed to publish it to the general public even before we have set our direction.
 
 ### Audrey Tang：
 This is very important, because then everybody, that use for athletes or the stakeholders, look at our conversation and deliberation records and let us know over the Internet where we have missed, where there’s legal precedent for that, and so on, and so they were contributed, and I quote them on the next meeting and so on.
@@ -232,7 +232,7 @@ This is very important, because then everybody, that use for athletes or the sta
 Everybody knows that’s when all the three lights here goes from yellow, which means it’s in progress, to green, which means it’s resolved. We have resolved this policy case, and it’s one piece of the puzzle, it’s the military service, but there is also the educational aspect and also the industrial aspect. These are a complete picture, this is not just one isolated policy making.
 
 ### AP：
-What are the two most popular e‑Sports game in Taiwan, and how far you have to perform in order to be replaced the mainstream military service?
+What are the two most popular e-Sports game in Taiwan, and how far you have to perform in order to be replaced the mainstream military service?
 
 ### Audrey Tang：
 There are 10 spots with a firm criteria. Of course, if you win an Olympic level competition, that automatically qualifies, but even from a sport like LoL, there is actually no frequent Olympic level competitions.
@@ -241,10 +241,10 @@ There are 10 spots with a firm criteria. Of course, if you win an Olympic level 
 The next thing of course is the alliances between the different countries. We’ve set a basic criteria that says it has to be regular, and it has to have at least this many people in its regional and this many people in its national level, and so on.
 
 ### Audrey Tang：
-If you qualify for that ‑‑ there’s a few competitions for LoL that qualifies for that ‑‑ if you win the first three places or so, that also qualifies. Then, after that, it was about a national level competitions which still has to have some kind of structure.
+If you qualify for that -- there’s a few competitions for LoL that qualifies for that -- if you win the first three places or so, that also qualifies. Then, after that, it was about a national level competitions which still has to have some kind of structure.
 
 ### Audrey Tang：
-This is a three‑tier system, but still, only the professional players get to continue their work during this kind of alternate service, so we’re not rewarding video game players. We’re rewarding professional athletes.
+This is a three-tier system, but still, only the professional players get to continue their work during this kind of alternate service, so we’re not rewarding video game players. We’re rewarding professional athletes.
 
 ### AP：
 Another topic we are interested to know is that your country is starting to educate children about how to identify fake news at school starting next year. Can you tell us why you think it’s important to educate that?
@@ -265,7 +265,7 @@ The other thing of critical thinking is being able to listen and change one’s 
 Starting, what age would Taiwanese students...?
 
 ### Audrey Tang：
-The entire K‑12 system, that is to say starting from the first grade all the way through senior high school, because this is not a class. This is one of the literacy that need to be merged into all the classes.
+The entire K-12 system, that is to say starting from the first grade all the way through senior high school, because this is not a class. This is one of the literacy that need to be merged into all the classes.
 
 ### Audrey Tang：
 All the classes, the teachers and the textbook makers and schools need to find some way to find media literacy and critical thinking into the way they are teaching, and not just taking it as a class, as a examination.
@@ -321,7 +321,7 @@ Otherwise, all would be just voodoo and hearsay, which is pretty much the worst 
 What about the growing intergovernmental or allegedly intergovernmental cyber attacks? There is allegations of North Korea attacked South Korea, for example. There are allegation of cyber terrorism between China and the United States. Does that make this more important to have more hackers in the government?
 
 ### Audrey Tang：
-Yeah, I think just like with any other terrorism, the impact itself is actually low. The thing that they hope for is to provoke some mysterious fear, and then have people overreact. The overreaction, actually, causes more damage than the initial attempt, that cyber terrorists are a real‑world terrorism.
+Yeah, I think just like with any other terrorism, the impact itself is actually low. The thing that they hope for is to provoke some mysterious fear, and then have people overreact. The overreaction, actually, causes more damage than the initial attempt, that cyber terrorists are a real-world terrorism.
 
 ### Audrey Tang：
 It’s like a mosquito trying to get onto a bull, and then to break things into a store. The whole idea is to have a calm and clear understanding, and have cyber security experts explaining in a very clear, accessible manner what exactly is happening.
@@ -336,19 +336,19 @@ That connects with your education about the media literacy. Just one more about.
 Do you think that’s one reason that Taiwan should increase its education in media literacy? Because of China...
 
 ### Audrey Tang：
-In Taiwan, there are many ideological camps. There’s pro‑unification. There’s pro‑independence. There are everything in between, and I think these camps are more than sufficient to generate credible rumors without being remote controlled by any other places or any other groups.
+In Taiwan, there are many ideological camps. There’s pro-unification. There’s pro-independence. There are everything in between, and I think these camps are more than sufficient to generate credible rumors without being remote controlled by any other places or any other groups.
 
 ### Audrey Tang：
-That said, I think it is important for people to get inoculated against this kind of virus of mind and deliberation, as you already mentioned, I think is the key for the inoculation, because any effect, fact‑checking, or whatever, after a rumor has already spread only has a containment effect.
+That said, I think it is important for people to get inoculated against this kind of virus of mind and deliberation, as you already mentioned, I think is the key for the inoculation, because any effect, fact-checking, or whatever, after a rumor has already spread only has a containment effect.
 
 ### Audrey Tang：
-If people have already considered carefully even the position of people they don’t agree with, they already have some kind of inoculation in their mind, so that they will not fall victim to rumors. I think really, this kind of early‑stage prevention is the key here.
+If people have already considered carefully even the position of people they don’t agree with, they already have some kind of inoculation in their mind, so that they will not fall victim to rumors. I think really, this kind of early-stage prevention is the key here.
 
 ### Audrey Tang：
 Just by getting people to listen to the ideas that they don’t like, basically, develops your immunology system.
 
 ### AP：
-I think your view on this fake news ‑‑ I only use this term because that’s what my readers are familiar with ‑‑ it’s very refreshing. Could you comment on the US, US President Donald Trump, about how the way he communicates with the public?
+I think your view on this fake news -- I only use this term because that’s what my readers are familiar with -- it’s very refreshing. Could you comment on the US, US President Donald Trump, about how the way he communicates with the public?
 
 ### AP：
 Do you think the way he names some of the news media as a fake news outlet? What do you think about them?
@@ -360,7 +360,7 @@ When Twitter first got invented, people used Twitter in the way that’s very di
 I think there’s a distinct style difference in the ways that we Twitter versus a English speaker use of Twitter. They had to be very brief, and basically just say even just one idea or half of an idea.
 
 ### Audrey Tang：
-As things developed, because I was in developing social media networks, we see a lot of very creative uses in Twitter, like multi‑part tweets, like the tweets that are complementing each other using hashtags and conversation communities, and so on. They built a community structure out of those very short forms of communication.
+As things developed, because I was in developing social media networks, we see a lot of very creative uses in Twitter, like multi-part tweets, like the tweets that are complementing each other using hashtags and conversation communities, and so on. They built a community structure out of those very short forms of communication.
 
 ### Audrey Tang：
 @realDonaldTrump used Twitter the way when it was first invented, \[laughs\] used it as it meant to be, so it’s also very refreshing to me. I learned a lot.
@@ -369,10 +369,10 @@ As things developed, because I was in developing social media networks, we see a
 What do you learn from his way of using Twitter?
 
 ### Audrey Tang：
-Basically, he had self‑contained messages.
+Basically, he had self-contained messages.
 
 ### AP：
-Self‑contained...?
+Self-contained...?
 
 ### Audrey Tang：
 Contained messages that doesn’t rely on context.
@@ -387,16 +387,16 @@ Can I elaborate?
 Yeah.
 
 ### Audrey Tang：
-I think that was pretty self‑contained. The idea is that if I have make a very long speech, where each sentence depend on the context of the sentence before and after, then when any one of those sentence gets taken out of context, it will be turned into something that I don’t already mean.
+I think that was pretty self-contained. The idea is that if I have make a very long speech, where each sentence depend on the context of the sentence before and after, then when any one of those sentence gets taken out of context, it will be turned into something that I don’t already mean.
 
 ### Audrey Tang：
-If I make all my messages self‑contained and short, then there’s no danger of being taken out of context. This is the basic thing that I learned, not necessarily from @realDonaldTrump, but it is the idea of Twitter at its beginning.
+If I make all my messages self-contained and short, then there’s no danger of being taken out of context. This is the basic thing that I learned, not necessarily from @realDonaldTrump, but it is the idea of Twitter at its beginning.
 
 ### AP：
 I don’t want to take all your time, Minister.
 
 ### KBS：
-Some things in your career path is quite very impressive and somewhat special. I heard that you learned programming by yourself after dropping out of mid‑school. What would be the reason?
+Some things in your career path is quite very impressive and somewhat special. I heard that you learned programming by yourself after dropping out of mid-school. What would be the reason?
 
 ### Audrey Tang：
 I learned programming when I was eight years old. That was seven years before I drop out of middle school.
@@ -411,7 +411,7 @@ Would you like to translate? Is English OK?
 No, you just speak in English, and I’m going to record it.
 
 ### Audrey Tang：
-That’s great. Yeah, I started very early on to take an interest in mathematics, and I started reading programming language books when I was eight. They described a way for people to very quickly get results with mathematics without having to do all the calculations by hand, and it’s much less error‑prone.
+That’s great. Yeah, I started very early on to take an interest in mathematics, and I started reading programming language books when I was eight. They described a way for people to very quickly get results with mathematics without having to do all the calculations by hand, and it’s much less error-prone.
 
 ### Audrey Tang：
 I got very interested. I didn’t have a computer, so I basically just took pencil and paper and drew keyboard and typed on paper, and then wrote what the computer would say and so one. Basically, I drew a paper computer.
@@ -456,43 +456,43 @@ Thank you. The last question would be why do think cyber security matters the mo
 The security matters a lot, because if people are still using Internet for freedom of speech and of assembly, people must know for sure, not just blindly trusting that the speech they make on the Internet will not be used against them.
 
 ### Audrey Tang：
-If the Internet becomes a technology that oppresses people, then when people are going to have assemblies or have to express their freedom, they will go back to pen and paper or to face‑to‑face meeting, and the Internet will lose its original liberating promise of getting people who feel that they are alone and they don’t have people who think like them into communities.
+If the Internet becomes a technology that oppresses people, then when people are going to have assemblies or have to express their freedom, they will go back to pen and paper or to face-to-face meeting, and the Internet will lose its original liberating promise of getting people who feel that they are alone and they don’t have people who think like them into communities.
 
 ### Audrey Tang：
 Basically, if we don’t do our job right on security on the Internet, the Internet becomes a fragmenting force instead of a community force. If it becomes a fragmenting force, people will have a lot of small Intranets, like a balkanization of Internet, and each Intranet will have an exclusionary policy that excludes people who don’t think like them.
 
 ### Audrey Tang：
-You will not foster a cross‑community dialog and else will become a much more fragmented space where people live essentially in their own realities, and that is as undemocratic and as non‑humane as we can imagine if we extrapolate these trends further.
+You will not foster a cross-community dialog and else will become a much more fragmented space where people live essentially in their own realities, and that is as undemocratic and as non-humane as we can imagine if we extrapolate these trends further.
 
 ### Audrey Tang：
 I think the utmost importance is to get people to still see Internet as a secure place by having the literacy of telling insecure communication with secure communication, and keep to the secure communication methods so that people can still form communities where it still becomes possible to talk with strangers, to learn from strangers.
 
 ### KBS：
-This is another question about security, because we have now self‑driving cars and AI‑level at so many things, and he would like to say to us some words why is it specifically more important security in AI and self‑driving cars.
+This is another question about security, because we have now self-driving cars and AI-level at so many things, and he would like to say to us some words why is it specifically more important security in AI and self-driving cars.
 
 ### Audrey Tang：
 Security, this word in English is very interesting, because it describes both a property of a system and also a state of mind. I feel secure versus a secured system.
 
 ### Audrey Tang：
-In Mandarin Chinese, in the language that we use, we say 資安, the 安 meaning &quot;at ease,&quot; a calmness with information. This is important when I’m sitting in a self‑driving car, for example, because if the system is mathematically proven, it satisfies a lot of properties, all the engineers, everybody, vouch for it.
+In Mandarin Chinese, in the language that we use, we say 資安, the 安 meaning &quot;at ease,&quot; a calmness with information. This is important when I’m sitting in a self-driving car, for example, because if the system is mathematically proven, it satisfies a lot of properties, all the engineers, everybody, vouch for it.
 
 ### Audrey Tang：
-If their proof‑carrying code and all those advanced verification mechanisms cannot translate it to the language that everybody, common people, understands, they may achieve the mathematical definition of security, but there is no psychological or sociological definition of security, of feeling secure.
+If their proof-carrying code and all those advanced verification mechanisms cannot translate it to the language that everybody, common people, understands, they may achieve the mathematical definition of security, but there is no psychological or sociological definition of security, of feeling secure.
 
 ### Audrey Tang：
 For me feeling secure is the goal, and this is just the mechanism, the instrumentation for it. On the other hand, there is a lot of what we call security theater, which means that not going through the rigorous mathematical proof, but just to enact on theater and trick people into believing, into feeling secure about something that’s actually not very secure.
 
 ### Audrey Tang：
-If you go to those security theaters for...this a lot like rumors. If you go to a lot of security theaters, people lose the ability to tell a rigorous system versus a non‑rigorous system. I think this is of utmost importance.
+If you go to those security theaters for...this a lot like rumors. If you go to a lot of security theaters, people lose the ability to tell a rigorous system versus a non-rigorous system. I think this is of utmost importance.
 
 ### Audrey Tang：
-Because if people cannot tell a rigorous system versus some non‑rigorous system, people will not ask technology what they want to feel secure. People will just blindly accept whatever the vendors push to them.
+Because if people cannot tell a rigorous system versus some non-rigorous system, people will not ask technology what they want to feel secure. People will just blindly accept whatever the vendors push to them.
 
 ### Audrey Tang：
 This creates a false sense of security, but then, when cyber terrorism or other attacks happen, people will panic because they did not know that their system, which they rely on, doesn’t have the property that they imagine that it have.
 
 ### Audrey Tang：
-Again, as the AI and IoT technologies becomes part of not only our life but become part of ourselves, it is very important. Just like the medical knowledge enables us to know what is happening with my own body, my extended body also needs the same kind of self‑introspection and knowledge so that I can feel at ease with an extended part of my body. For many people, their phone or their smartwatch is already part of their body.
+Again, as the AI and IoT technologies becomes part of not only our life but become part of ourselves, it is very important. Just like the medical knowledge enables us to know what is happening with my own body, my extended body also needs the same kind of self-introspection and knowledge so that I can feel at ease with an extended part of my body. For many people, their phone or their smartwatch is already part of their body.
 
 ### AP：
 Do we have time to ask one more question?
@@ -525,13 +525,13 @@ Human testers describe the situation to human drivers, when they’re taking the
 Basically, as the spirit of Turing Test, if AI can handle all the situations the human can imagine, and through at it, at a simulation, then we can judge it based on how it thinks and explains itself and their stimulation scenarios.
 
 ### Audrey Tang：
-At the moment, there’s still always somebody behind the wheel to take over when the machine fears that they don’t have the confidence to handle the situation. Another very important thing is the human machine hand‑off.
+At the moment, there’s still always somebody behind the wheel to take over when the machine fears that they don’t have the confidence to handle the situation. Another very important thing is the human machine hand-off.
 
 ### Audrey Tang：
-We need to have augmented reality system projected on the window of the car to have the driver know what the AI are thinking about the situation, and not just very low bandwidth SMS‑like messages, because then it will be too late.
+We need to have augmented reality system projected on the window of the car to have the driver know what the AI are thinking about the situation, and not just very low bandwidth SMS-like messages, because then it will be too late.
 
 ### Audrey Tang：
-It’s very important to have this co‑piloting mechanism between the AI pilot and the human driver for the foreseeable future before we can even think about going to fully autonomous driving.
+It’s very important to have this co-piloting mechanism between the AI pilot and the human driver for the foreseeable future before we can even think about going to fully autonomous driving.
 
 ### AP：
 Do you mind talking about some personal life?
@@ -543,7 +543,7 @@ Go ahead.
 What was your family’s response to your decision to go through the transition from man to woman, could you tell us about your plans for your family, whether you have a plan to start a family?
 
 ### Audrey Tang：
-My family is really non‑rigid as far as gender stereotype goes. My mom was very expressive and was raised in a very androgynous manner, and so they don’t tell me what a man or a woman should or shouldn’t do.
+My family is really non-rigid as far as gender stereotype goes. My mom was very expressive and was raised in a very androgynous manner, and so they don’t tell me what a man or a woman should or shouldn’t do.
 
 ### Audrey Tang：
 Instead of transition, I would say that I’m just post-gender or post-genre, meaning that I don’t think there should be things that only one gender should do. I think anything that is declared is discrimination. I’m more against discrimination than against any kind of particular gender identity. That’s the first.
