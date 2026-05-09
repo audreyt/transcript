@@ -58,7 +58,7 @@ But we did have Taiwan Day as part of Day 0.
 
 ### Channing Lee:
 
-And you joined us at the Day-0 Taiwan Day. What did you like this year? Was there something cool you want to talk about?
+And you joined us at the 0-Day Taiwan Day. What did you like this year? Was there something cool you want to talk about?
 
 ### Audrey Tang:
 
