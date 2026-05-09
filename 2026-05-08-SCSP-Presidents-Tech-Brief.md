@@ -14,9 +14,13 @@ Audrey, you have been at the AI+ Expo every year.
 
 Every single year.
 
+### Channing Lee:
+
+Just like us.
+
 ### Joe Wang:
 
-Just like us. We do it just for you.
+We do it just for you.
 
 ### Audrey Tang:
 
