@@ -1,10 +1,12 @@
 # 2026-05-08 SCSP Presidents Tech Brief
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mooIwVwcf_Q?si=ATr00tHxaoW_0BiH&t=3h48m51s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mooIwVwcf_Q?si=vEMpLvoozgZAfrkj&amp;start=13732" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Joe Wang:
 
-Welcome back to the live stage. I am Joe Wang, and Audrey Tang is joining us. Channing Lee is here with me as well.
+Welcome back to the live stage. I am Joe Wang, you just saw me a while ago.
+
+Audrey Tang, thank you for joining us. Channing Lee is here with me as well.
 
 Audrey, you have been at the AI+ Expo every year.
 
@@ -14,11 +16,7 @@ Every single year.
 
 ### Joe Wang:
 
-Just like us.
-
-### Channing Lee:
-
-We do it for you.
+Just like us. We do it just for you.
 
 ### Audrey Tang:
 
@@ -28,37 +26,39 @@ You also come to Taiwan every year.
 
 That is true, at least once a year.
 
-You have been in the middle of both the AI conversation and the expo from the beginning. I would like to hear your reflections on the last few years. What has changed? What feels new, especially with AI developing so quickly?
+You have been in the middle of both the AI conversation and the expo from the beginning. I would like to hear your reflections on the last few years. What has changed? What have you seen that's new, especially with AI developing so quickly?
 
 ### Audrey Tang:
 
-This is a strong convening place. I was just telling Channing that it is so fruitful to bring together people who approach AI from very different starting points.
+This is a strong convening place. I was just telling Channing how good it is to bring together people who approach AI from very different starting points.
 
-Some people think about AI in almost purely mathematical terms. For them, alignment sounds like a formula that can be solved, after which the system becomes fully reliable. Other people are much closer to practice: policy, competition, institutional design and deployment.
+Some people think about AI in almost purely mathematical terms. For them, alignment sounds like a formula that can be solved, after which the system becomes fully reliable. Other people are much closer to practice: policy, competition, institutions.
 
-Three years ago those groups often did not speak the same language. Now, because of SCSP and gatherings like this, more people understand that real AI alignment also depends on the social infrastructure around the system and on public awareness. That awareness is much higher today.
+Three years ago those groups often did not speak the same language. Now, because of SCSP and gatherings like this, more people understand that real AI alignment also depends on the social infrastructure around the system and on public awareness. That awareness is at a very high level today.
 
 ### Joe Wang:
 
-Before we go further, I should introduce you properly. You were Taiwan's first digital minister and now serve as Taiwan's cyber ambassador. It is always valuable to have your perspective here.
+Before we go further, I should introduce you properly. In my excitement to have you here, I skipped the setup. People know Audrey as a badass, but for anyone who does not: you were Taiwan's first digital minister and now serve as Taiwan's cyber ambassador. It is always incredible to have you here and to get your perspective.
 
 ### Channing Lee:
 
-You have been here three years in a row, just like us. Was there anything new this year that surprised you?
+Audrey, I think you are a wonderful voice for Taiwan around the world. People speak with you and come away in awe: here is this genius going around showing what Taiwan can be. I always love seeing you, whether around the world or here at the expo.
+
+Because you have been here three years in a row, just like us, was there anything new this year that surprised you?
 
 Last year, when we recorded a podcast, you said you wanted a boba station. We failed on that, so I apologize.
 
 ### Audrey Tang:
 
-But we did have a Taiwan Day as part of “Day 0.”
+But we did have Taiwan Day as part of Day 0.
 
 ### Channing Lee:
 
-Yes, and you joined us there. What did you like this year? Was there something cool you want to talk about?
+And you joined us there. What did you like this year? Was there something cool you want to talk about?
 
 ### Audrey Tang:
 
-On Day 0, I especially enjoyed the conversation with Anka Lee about the civic layer around AI adoption, or the civic muscle that has to be built around it. In the U.K. , some people are calling this "muscular adoption."
+On Day 0, I especially enjoyed the conversation with Anka, I believe, about the civic layer around AI adoption, or the civic muscle that has to be built around it. In the U.K., some people are calling this "muscular adoption."
 
 The idea is straightforward. Instead of assuming there will be one giant AI system in the cloud that everyone subscribes to, people are realizing that this is not always the right direction. A single huge opaque model that folds proteins, folds laundry and claims to fold everything else into one box is not necessarily what communities need.
 
@@ -70,11 +70,11 @@ The important part is that this is small and explainable. It can point to the re
 
 ### Joe Wang:
 
-Another major trend is agentic AI. You are known as a hacker and coder. How is this shift affecting how you do the things you used to do? Have you built AI agents? Are there agents you can share, maybe for travel or jet lag, given how much we all move around the world?
+Another major trend is agentic AI. You are a world-famous hacker and coder. How is this shift affecting how you do the things you used to do? Have you built AI agents? Are there agents you can share, maybe for travel or jet lag, given how much we all move around the world?
 
 ### Audrey Tang:
 
-I have been to 28 countries over the last couple of years and I have not had jet lag, only jet boost; it is because of the Timeshifter app that helps me change sleep patterns with light exposure, coffee and similar cues.
+I have been to 28 countries over the last couple of years and I have not had jet lag, only jet boost. But that is not because of agentic AI; it is because of the Timeshifter app, which helps me change sleep patterns with light exposure, coffee and similar cues.
 
 That connects to the earlier point: the useful system is a specific, scoped tool that takes care of a specific relationship.
 
@@ -94,7 +94,7 @@ You had raised this idea at the Ministry of Digital Affairs: can some rules and 
 
 ### Audrey Tang:
 
-The law was made in 2024\. In 2025, deepfake impersonation scams in Taiwan fell by more than 94 percent, so that problem is now close to solved.
+The law was made in 2024. In 2025, deepfake impersonation scams in Taiwan fell by more than 94 percent, so that problem is now close to solved.
 
 Because of that, we started exporting the idea. In Japan, not only the LDP but also a new party, Team Mirai, uses broad listening as part of its platform. They are also training edge AI systems for fraud detection without censorship.
 
@@ -111,6 +111,8 @@ I appreciate how much work you do with California, and I always like giving my s
 I would love to.
 
 ### Joe Wang:
+
+Stop schlepping for California.
 
 One of the other trends SCSP watches is AI adoption: how people think about AI as a tool, and whether they see it positively or negatively. A Gallup poll last year suggested that Americans were almost evenly split, with roughly half fearing AI.
 
@@ -169,4 +171,3 @@ That is a strong note to end on. Audrey, it is always good to see you. Thank you
 ### Audrey Tang:
 
 See you next year.
-
