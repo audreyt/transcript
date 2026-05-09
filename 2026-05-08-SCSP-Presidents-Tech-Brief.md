@@ -58,19 +58,19 @@ But we did have Taiwan Day as part of Day 0.
 
 ### Channing Lee:
 
-And you joined us there. What did you like this year? Was there something cool you want to talk about?
+And you joined us at the Day-0 Taiwan Day. What did you like this year? Was there something cool you want to talk about?
 
 ### Audrey Tang:
 
-On Day 0, I especially enjoyed the conversation with Anka, I believe, about the civic layer around AI adoption, or the civic muscle that has to be built around it. In the U.K., some people are calling this "muscular adoption."
+On Day 0, I especially enjoyed the conversation with Anka Lee (former Deputy Assistant Secretary of Defense) about the civic layer around AI adoption, or the civic muscle that has to be built around it. In the U.K., some people are calling this "muscular adoption."
 
 The idea is straightforward. Instead of assuming there will be one giant AI system in the cloud that everyone subscribes to, people are realizing that this is not always the right direction. A single huge opaque model that folds proteins, folds laundry and claims to fold everything else into one box is not necessarily what communities need.
 
 What we are seeing now is more narrow AI, edge AI and domain-specific AI. These systems let people tune the tool to their own needs.
 
-A good recent example is OpenAI and ROOST's [safeguard-model](https://roost.tools/blog/a-new-milestone-for-open-source-safety-infrastructure-and-transparency/) work. The model can compare an AI decision with a pre-approved rule set and ask whether the autonomous action stays inside or goes outside the boundary.
+A good recent example is OpenAI and ROOST's [safeguard-model](https://roost.tools/blog/a-new-milestone-for-open-source-safety-infrastructure-and-transparency/) work. The model can compare an AI decision at supersonic speed with a pre-approved rule set and ask whether the autonomous action stays inside or goes outside the boundary.
 
-The important part is that this is small and explainable. It can point to the relevant part of the pre-approved agreement, whether with a defense user or any other user, and indicate why the action is inside or outside the boundary. It can do that quickly enough, at supersonic speed, to support uses that were mostly speculative a few years ago.
+The important part is that this is small and explainable. It can point to the relevant part of the pre-approved agreement, whether with the Department of War or any other user, and indicate why the action is inside or outside the boundary. It can do that quickly enough to support uses that were mostly speculative a few years ago.
 
 ### Joe Wang:
 
@@ -82,7 +82,7 @@ I have been to 28 countries over the last couple of years and I have not had jet
 
 That connects to the earlier point: the useful system is a specific, scoped tool that takes care of a specific relationship.
 
-Taiwan had a large surge in online deepfake scams a couple of years ago. We did not respond by saying that censorship should be imposed top down by the government. Instead, we used what we call [Civic AI](https://civic.ai): focused agents that listen to small groups of people and identify the uncommon ground between them.
+Taiwan had a large surge in online deepfake scams a couple of years ago. We did not respond by saying that censorship should be imposed top down by the government. Instead, we used what we call [Civic AI](https://civic.ai): focused agents that listen to groups of about 10 people at a time and identify the uncommon ground between them.
 
 For example, Taiwan now has joint liability for social-media companies. If they carry an unsolicited ad that is not digitally signed, and that ad is a deepfake that causes people to lose large sums of money, the platform can be held responsible.
 
@@ -100,7 +100,7 @@ You had raised this idea at the Ministry of Digital Affairs: can some rules and 
 
 The law was made in 2024. In 2025, deepfake impersonation scams in Taiwan fell by more than 94 percent, so that problem is now close to solved.
 
-Because of that, we started exporting the idea. In Japan, not only the LDP but also a new party, [Team Mirai](https://team-mir.ai/), uses broad listening as part of its platform. [They](https://antifraud.dd2030.org/) are also training edge AI systems for fraud detection without censorship.
+Because of that, we started exporting the idea. In Japan, not only the LDP but also a new party, [Team Mirai](https://team-mir.ai/), uses broad listening as part of its platform. The people at [DD2030](https://antifraud.dd2030.org/) are also training edge AI systems for fraud detection without censorship.
 
 The same broad-listening approach is now in California. Just yesterday, the state [launched](https://engaged.ca.gov/ai-impact/) Engaged California as a listening practice. If you are a California resident, you can take part and share your concerns about how AI automation affects your work.
 
@@ -108,7 +108,7 @@ And the question is not only about jobs. It is also about apprenticeship, belong
 
 ### Channing Lee:
 
-I appreciate how much work you do with California, and I always like giving my state a shout-out. We should also get you to Southern California. People in Northern California may already understand these ideas because of the tech community, but Los Angeles and Orange County should hear them too.
+I appreciate how much work you do with California, and I always like giving my state a shout-out. We should also get you to Southern California. People in Northern California may already get it because of the tech bros, but Los Angeles and Orange County should hear these ideas too.
 
 ### Audrey Tang:
 
