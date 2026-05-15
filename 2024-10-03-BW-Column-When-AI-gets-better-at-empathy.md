@@ -1,8 +1,6 @@
-# 2024-10-03 BW Column: Leave It to the Experts
+# 2024-10-03 BW Column: When AI gets better at empathy
 
 ### Audrey Tang:
-
-
 
 AI systems are becoming more human-like than ever. Recently, in the domain of audio processing, they have sometimes surpassed humans in mastering emotional expressions, non-verbal cues and vocal intonations.
 
