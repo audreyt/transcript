@@ -31,7 +31,7 @@ jobs:
         # Push depth 50 (not 5) so squash-merges and long PR branches don't
         # make `git show before_sha:.alternates` fail silently — that would
         # return None and cause a cascade re-sync of the entire corpus.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: ${{ github.event_name != 'workflow_dispatch' && 50 || 0 }}
 
@@ -80,12 +80,12 @@ jobs:
       # `bun run deploy` pipeline (preflight + cache-version + views + assets
       # + search + wrangler deploy + verify-deploy) as a single step.
       - name: Checkout transcript (this repo)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: transcript
 
       - name: Checkout sayit-hono
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: bestian/sayit-hono
           ref: main
