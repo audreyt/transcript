@@ -1,5 +1,7 @@
 # 2025-11-14 Interview with Visegrád 24
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">To give no trust is to get no trust, so all governments around the world should trust people,<br><br>argues Taiwan’s Cyber Ambassador <a href="https://twitter.com/audreyt?ref_src=twsrc%5Etfw">@audreyt</a> in a V24 conversation about Taiwan, information manipulation, democracy, the threats from the CCP and the state of thealex media. 🇹🇼 <a href="https://t.co/BLeMn9lNgA">pic.twitter.com/BLeMn9lNgA</a></p>&mdash; Visegrád 24 (@visegrad24) <a href="https://twitter.com/visegrad24/status/2001081279442251982?ref_src=twsrc%5Etfw">December 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Stefan Thompson:
 My name is Stefan Thompson. I'm the founder of Visegrád 24, and today, I'm sitting in Taipei in Taiwan. I'm with the former Minister of Digitization and the current cyber ambassador of Taiwan, Audrey. Hello.
 
