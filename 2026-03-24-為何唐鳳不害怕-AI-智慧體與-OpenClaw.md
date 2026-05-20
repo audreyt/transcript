@@ -1,5 +1,7 @@
 # 2026-03-24 為何唐鳳不害怕 AI 智慧體與 OpenClaw
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GIWlfh4gO5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### 劉光瑩：
 
 歡迎回到《Taiwanology Podcast》的另一集。我是《天下雜誌》的劉光瑩。今天我非常榮幸邀請唐鳳來到我們的錄音室。
