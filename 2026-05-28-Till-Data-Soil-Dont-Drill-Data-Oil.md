@@ -30,6 +30,6 @@ The people who actually make AI work in real settings are rarely the tech giants
 
 For AI to truly take root in every industry and profession, what matters most is not just real-time interaction, but whether its introduction earns genuine trust. This is our opportunity: we can become pioneers of Civic AI.
 
-The real challenge in the Age of AI is not about racing to refine the largest model, but working to best till the data soil — so that every hand can sow, steer and share in the harvest of inclusion and prosperity.
+The real challenge in the Age of AI is not about racing to refine the largest model, but working to best till the data soil — so that every hand can sow, steer and share in the harvest of inclusivity and prosperity.
 
 > (Interview and Compilation by Yu-Tang You. License: <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>)
