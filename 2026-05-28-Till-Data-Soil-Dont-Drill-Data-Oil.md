@@ -8,7 +8,7 @@ Tibetan merchants, who had long found the doors of formal financial services clo
 
 Around the world, a growing number of displaced people are kept outside formal financial systems; they have little choice but to eke out a living in the grey economy. In India, the state lowered the barriers to participation, allowing people to build on the trust and community ties they already held.
 
-This is the reminder the AI era needs most: Meet people where they are, not where a platform wants them.
+This is the reminder the AI era needs most: Meet people where they are, not where a platform wants them to be.
 
 Many worry that AI is assuming the shape of a "digital coloniser." A handful of tech giants control compute, models and platform rules, while the rest of us simply rent intelligence. Once a platform pushes an update or adjusts its pricing, even a business may find that its own workflow has been quietly "extracted."
 
