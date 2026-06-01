@@ -255,7 +255,7 @@ So, a state's job is not to run a national champion, but to ensure that the info
 
 ### Audience question:
 
-Thank you for a big talk. Building on Rachel's question: I understand why, with the overwhelming presence of your friendly neighbours, Taiwan was able to develop deliberative policymaking in this particular place. But what you describe seems to require an intelligent design working behind the scenes. What advice do you have for those of us in systems where the enemy is not an external friendly neighbour but an internal one — as, for example, in the United States? What advice would you give to people seeking to challenge the system and make it work for people?
+Thank you for a big talk. Building on that question: I understand why, with the overwhelming presence of your friendly neighbours, Taiwan was able to develop deliberative policymaking in this particular place. But what you describe seems to require an intelligent design working behind the scenes. What advice do you have for those of us in systems where the enemy is not an external friendly neighbour but an internal one — as, for example, in the United States? What advice would you give to people seeking to challenge the system and make it work for people?
 
 ### Audrey Tang:
 
