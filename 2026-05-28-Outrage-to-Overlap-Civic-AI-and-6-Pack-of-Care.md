@@ -6,11 +6,11 @@ Thank you, Roger. Thank you, Bo-Jiun. Thank you all for joining us — and thank
 
 Today I would like to share one very simple argument, in three movements. First: free software teaches us repair. Second: AI currently threatens repair when it closes the loop of repair. And third: Civic AI should be judged by whether it increases a community's capacity to care for itself and for others — the civic muscle.
 
-> (50%)
+> (50/50)
 
 But I want to start not with mathematics, but with something very personal. I was born with a heart defect. When I was five, the doctor told my parents that this child had only a 50/50 chance of surviving until corrective surgery, which I had at twelve. My parents were advised that I should take it easy. This _memento mori_ moment is the reason I adopted the mantra of publishing before perishing. That is probably not the low-stress lifestyle the doctors ordered, but I took on the habit of recording everything I learned during the day — first on cassette tapes (some of you may still remember cassette tapes), then on floppy disks, first larger ones and then smaller ones and finally the internet, which I am sure you are all familiar with. So, before I went to sleep each night, feeling like it was a coin toss, I thought: I do not have time to perfect my work, so I have to publish whatever work-in-progress I have.
 
-> (Light gets in)
+> (Light Gets In)
 
 That is how I encountered the light of the free-software community. If you post something perfect there, people just say "okay, it's good," and move on. But if you are wrong on the internet, you make a lot of friends — the light gets in. Everyone jumps in: this is wrong in this particular way, that is wrong in that particular way, and together they shed new light into whatever project I am working on.
 
@@ -27,23 +27,23 @@ With that ethos, by thirty-five I joined Taiwan's cabinet, with radical transpar
 
 So, I come here as someone who designed something inside Taiwan and is trying to learn whether this design — this crack that finds light — holds globally. And here in Oxford I am honoured to work alongside colleagues inside a several-hundred-, even thousand-year-old experiment.
 
-> (1602)
+> (Next-Gen Artefacts)
 
 The Bodleian Library is itself a 400-year-old experiment, because the books are inspectable. They are not enclosed. The traces of readers, where preserved, become part of the next generation's encounter. This library network encloses nothing; the artefacts stay open for the next reader, always.
 
-In my own domain, software engineering, we have what are called the software freedoms — the Four Freedoms — a very similar promise, written in code. So, the question I want to put to this room is: What happens to the promise of ongoing repair and freedom when AI systems, particularly generative AI systems, join the substrate?
+In my own domain, software engineering, we have what are called the software freedoms — the 4 Freedoms — a very similar promise, written in code. So, the question I want to put to this room is: What happens to the promise of ongoing repair and freedom when AI systems, particularly generative AI systems, join the substrate?
 
-> (Four Freedoms)
+> (4 Freedoms)
 
-The Four Freedoms were defined back in the 1980s, then as software-licence terms, but I want to reread them today as civic muscles.
+The 4 Freedoms were defined back in the 1980s, then as software-licence terms, but I want to reread them today as civic muscles.
 
-**Freedom Zero** means that once you have a program, you should be able to run it for any purpose; the designer should not restrict what it is used for. To me, that is the muscle of **attentiveness** — you can pick up the tool for this particular classroom, this clinic, this church, this temple, this mosque, without the designer's permission and be attentive to the particular needs around you.
+**Freedom 0** means that once you have a program, you should be able to run it for any purpose; the designer should not restrict what it is used for. To me, that is the muscle of **attentiveness** — you can pick up the tool for this particular classroom, this clinic, this church, this temple, this mosque, without the designer's permission and be attentive to the particular needs around you.
 
-**Freedom One** — we count from zero, so this is really the second — is to study and change each program, and that is the muscle of **competence**: to know what the system is actually doing in your hands, so you can read it and fix it.
+**Freedom 1** — we count from zero, so this is really the second — is to study and change each program, and that is the muscle of **competence**: to know what the system is actually doing in your hands, so you can read it and fix it.
 
-**Freedom Two**, to freely share copies, is the muscle of **solidarity** — you can hand it to your neighbour, put it on a USB stick and bring it to a country where the cloud is censored.
+**Freedom 2**, to freely share copies, is the muscle of **solidarity** — you can hand it to your neighbour, put it on a USB stick and bring it to a country where the cloud is censored.
 
-**Freedom Three**, to share modified copies — to fork, to take it down a different route — is **responsiveness**. Your fix becomes someone else's starting point, and the next maintainer inherits less debt than the last. We become good-enough ancestors, leaving the next generation a wider canvas than the one we were born into.
+**Freedom 3**, to share modified copies — to fork, to take it down a different route — is **responsiveness**. Your fix becomes someone else's starting point, and the next maintainer inherits less debt than the last. We become good-enough ancestors, leaving the next generation a wider canvas than the one we were born into.
 
 So, software freedom, to me, is not about licences, but about whether the person who comes after us can still find the bug and fix it. The beneficiary is not the current generation; it is the next.
 
@@ -53,9 +53,9 @@ David Krakauer at the Santa Fe Institute makes a useful distinction about this g
 
 Another example is the feed recommender in many social-media systems, which hijacks our attention with outrage until it competes with relational health itself, because it is more vivid than the reality around us. Stay in that loop too long and the civic muscle atrophies, too.
 
-The Four Freedoms keep the substrate complementary across generations. Close the path to repair, and the capacity to repair atrophies. It is also a discipline of care, and when AI enters the picture, the civic muscles force us to add two more packs of care: **responsibility** and **symbiosis**. Together I call this the **6-Pack of Care** — as in portable muscles, as in beer and as in abs.
+The 4 Freedoms keep the substrate complementary across generations. Close the path to repair, and the capacity to repair atrophies. It is also a discipline of care, and when AI enters the picture, the civic muscles force us to add two more packs of care: **responsibility** and **symbiosis**. Together I call this the **6-Pack of Care** — as in portable muscles, as in beer and as in abs.
 
-> (The lonely maintainer)
+> (Lonely Maintainer)
 
 The AI conversation today has only just caught up to what the substrate has been doing to the free-software caretakers. One example: In March 2024, a researcher in Germany, Andres Freund, noticed that logging into the Linux system he was using was taking half a second longer than usual. Because it is free software, he could trace the entire audit trail back to exactly where and when the project changed. What he found was a contributor calling themselves **Jia Tan**, who had spent two years patiently grooming the lonely maintainer of a tiny compression library — coordinated through pressure campaigns, possibly helped by language models. We do not know which language Jia Tan actually speaks, but they write very crisp English. Having finally won the maintainer's trust, they inserted a backdoor. Had it reached the stable distribution, it could have given attackers access to a very large fraction of the internet, bringing a significant part of it down. It did not, because one curious person noticed half a second.
 
@@ -63,11 +63,11 @@ This reminds us of what we now call **synthetic intimacy**. It is not someone wh
 
 > (Closed Stack)
 
-Before public service, and after working on free-software languages, I also spent time inside a proprietary, closed AI stack built to address this kind of issue — at Apple, on Siri. I worked with the Siri team for six years, first on Mandarin and then on Wu, the language spoken around Shanghai. The engineers I worked with cared very deeply, but that turns out not to be the same as giving people the Four Freedoms inside a closed stack. The attack surface is closed, you cannot get synthetic intimacy from random strangers on the internet, but it also means that the people whose particular language is involved (for example Taiwanese Hoklo — Min Nan, or Taigi, depending) have no repair loop. Siri might say _"Wa be hiao gong taigi,"_ but there is no way for someone maintaining a Taigi repository to patch their way back to Siri. That path is closed. There is no one inside the system you can write to — you can write to Tim Cook, I am sure, but there is no separate copy you can ask someone to improve with your Taigi material.
+Before public service, and after working on free-software languages, I also spent time inside a proprietary, closed AI stack built to address this kind of issue — at Apple, on Siri. I worked with the Siri team for six years, first on Mandarin and then on Wu, the language spoken around Shanghai. The engineers I worked with cared very deeply, but that turns out not to be the same as giving people the 4 Freedoms inside a closed stack. The attack surface is closed, you cannot get synthetic intimacy from random strangers on the internet, but it also means that the people whose particular language is involved (for example Taiwanese Hoklo — Min Nan, or Taigi, depending) have no repair loop. Siri might say _"Wa be hiao gong taigi,"_ but there is no way for someone maintaining a Taigi repository to patch their way back to Siri. That path is closed. There is no one inside the system you can write to — you can write to Tim Cook, I am sure, but there is no separate copy you can ask someone to improve with your Taigi material.
 
 So, proprietary AI is not necessarily careless within its defined scope — the people care deeply — but the structure places the user outside the repair loop, and care without a repair path does not scale. The free-software contribution is not just better intentions; it is a path back. And now we have to defend that path.
 
-> (Kami)
+> (Knowledge Artefact Management Intelligence)
 
 Now, the particular idea I used both to repair the open stack and to defend against malicious AI swarms — I will call it by its acronym, **Kami**: **k**nowledge **a**rtefact **m**anagement **i**ntelligence.
 
@@ -89,7 +89,7 @@ Just as the state builds public water systems so citizens do not have to dig the
 
 In Taiwan, that infrastructure was prototyped a couple of years ago as what we call **Alignment Assemblies**. It is a mechanism that takes the discipline of repair — not just in living rooms, not just in individual families — and scales it to the entire population.
 
-> (Deepfake)
+> (Deepfake Dilemma)
 
 Two years ago, we saw a surge in malicious AI swarms posting deepfake scam advertisements. Around that time, scrolling Facebook or YouTube in Taiwan, you would likely see trusted figures in advertisements — like Nvidia CEO Jensen Huang, who seemed to be selling cryptocurrency or offering free investment advice. The deepfake was good enough that if you clicked, "Jensen" sometimes spoke to you. Of course, it was not Jensen; it was a deepfake running on an Nvidia GPU. But it was convincing enough that retired engineers, schoolteachers and shopkeepers lost small fortunes. The platforms collected revenue on every impression. In fact, because the scam ads paid more per click than the normal ads from small and medium enterprises, the Facebook algorithm, according to news reports, prioritised the scam advertisements.
 
@@ -107,7 +107,7 @@ Another table said: if social media shows something unsigned and unsolicited —
 
 Another table asked: what if foreign platforms in jurisdictions that do not respect our laws or our joint liability simply keep showing scam ads and ignore us? Their answer: for every day they ignore us, we slow their video down by 1%. We restore full speed once they are willing to implement KYC, or know your customer, rules. So, the chatbots did not vote; the people did.
 
-> (85% & 94%)
+> (Result Method)
 
 Of those ideas, all three survived the final vote. More than 85% of this mini-public said they were happy with this bundle of policies, and the other 15% said they could live with them. So, it became law. The advertisements were regulated by law only two months after the Alignment Assembly, and throughout 2025 — according to official sources — the deepfake investment scams were down by more than 94%. That problem is all but solved in Taiwan.
 
@@ -129,7 +129,7 @@ In Taiwan we deploy a third way, which we call alignment **by process**. The peo
 
 > (6-Pack of Care)
 
-So, the Four Freedoms preserve repair capacity, and an AI system that also adopts the two further muscles maintaining this culture has been working out — but it is not yet the default, not yet the standard.
+So, the 4 Freedoms preserve repair capacity, and an AI system that also adopts the two further muscles maintaining this culture has been working out — but it is not yet the default, not yet the standard.
 
 The fifth is **responsibility**. In healthy free-software practice, there is someone whose name is on the change, who is reachable — and the synthetic-intimacy attack reminds us of this fragility. In Civic AI, this is not a single person, not a CEO or a president, but an accountable community for a particular economy — through a particular process, on a predefined timeline. With our Alignment Assembly, this was 60 days. Someone is on the hook to convene the community, but does not decide for the community.
 
@@ -181,7 +181,7 @@ So, the most important amendment in Taiwan is that whatever new AI risk emerges 
 
 Thank you. Please — yes.
 
-### Audience question:
+### Audience Question:
 
 Thank you so much for being here. I was wondering about the extent to which you think AI-assisted deliberation platforms like this should be seen and framed as *reforms* to existing structures, as opposed to *replacements* for them.
 
@@ -193,7 +193,7 @@ When we selected 447 people, we worked with academics who study Polis to ensure 
 
 So, you can think of it as a deliberative poll occupying the same place as polls. My hope is that, at some point, we will simply say it is people emailing one another — so we can run polling and assume that is itself a bit of a poll.
 
-### Audience question:
+### Audience Question:
 
 This is fascinating, and it touches on a lot of issues — the political-theory side, the normative ways you evaluate participation, and the practical issues. Let me ask about the practical ones.
 
@@ -203,7 +203,7 @@ I come at this as someone who sees — in the colleges, we try to have an ethos 
 
 And we pay for their time.
 
-### Audience question:
+### Audience Question:
 
 I was going to say — it is a time investment, and you will have those who have the time and ability to do it. The other concern would be how susceptible this is. One issue would be manipulation through external information, but the other is this: It is nice when one has people one likes in power, but less so when one has people one doesn't. The framing of the questions, and the use of demographic categories — you can say you are getting a representative sample, but representativeness depends on the categories you decide to define a representative, and that itself can be political. How do you deal with those issues?
 
@@ -217,7 +217,7 @@ That brings me to the second question. If there is no credibly neutral convener,
 
 Of course, it is also a great spin machine — it can be used for ill； I am not denying that. But the point is that, in the absence of a credibly neutral pollster or academic community, you can also do it this way. Elon can simply say, "I cannot override the algorithm. If my friends call and want me to take something down, I say I cannot" — because it is inspectable.
 
-### Audience question:
+### Audience Question:
 
 You are a very engaging thinker. I was encouraged by your call to return to free software — it recalls the era of the network society and open source, a long way from the platforms, apps and AI we seem to have now.
 
@@ -225,7 +225,7 @@ My concern is the extent to which that focus might blind us to the *material* as
 
 ### Audrey Tang:
 
-Yes — very good question.
+Yes. Very good question.
 
 It is related to one aspect I did not fully answer. The informational material in the Alignment Assemblies is written not by those in power. As moda minister, I did not write the briefing for the Assembly； an almost adversarially trained panel does. We ensure equal numbers of segments for each viewpoint, and people are paid for the time it takes to understand the issues.
 
@@ -235,7 +235,7 @@ Now, of course, we can train an AI system that understands all of this — a bit
 
 The beauty of Civic AI and of alignment is precisely to draw the social licence for how AI enters society — and then, along exactly those lines, to train narrow models for these particular uses. They suffer far less from hallucination, and durability is much easier when you are not pulling both the proteins and the laundry into the same conversation. It also fixes the deployment problem: you no longer need constant broadband to the cloud； you can deploy on edge hardware. So it is both more auditable and more steerable.
 
-### Audience question:
+### Audience Question:
 
 Thank you for a really fascinating talk — it will take a while to process. In so many debates, care and profit are seen as very different； they operate by different logics. You talk a great deal about care — social repair, civic care. But ultimately people want to make money； big tech wants to make money. You have discussed some really interesting ways deliberative democracy has been used around aspects of AI deployment. But fundamentally — is it possible to systemically reconcile a care imperative, a care logic, with what is at the heart of capitalism, namely the profit logic? You have offered some tantalising thinking, and perhaps we need to step outside our ideological parameters — but is AI's capacity to operate differently ultimately constrained by the fact that the profit motive is so powerful, so that it will, in the end, be about reducing the costs of production and generating more profit?
 
@@ -253,9 +253,9 @@ A study a couple of years ago showed that the average U.S. undergraduate using T
 
 So, a state's job is not to run a national champion, but to ensure that the information superhighway, as they call it there, always has an off-ramp. I think that is entirely compatible with the profit motive — it just is not about creating social externalities.
 
-### Audience question:
+### Audience Question:
 
-Thank you for a big talk. Building on that question: I understand why, with the overwhelming presence of your friendly neighbours, Taiwan was able to develop deliberative policymaking in this particular place. But what you describe seems to require an intelligent design working behind the scenes. What advice do you have for those of us in systems where the enemy is not an external friendly neighbour but an internal one — as, for example, in the United States? What advice would you give to people seeking to challenge the system and make it work for people?
+Building on that question. I understand why, with the overwhelming presence of your friendly neighbours, Taiwan was able to develop deliberative policymaking in this particular place. But what you describe seems to require an intelligent design working behind the scenes. What advice do you have for those of us in systems where the enemy is not an external friendly neighbour but an internal one — as, for example, in the United States? What advice would you give to people seeking to challenge the system and make it work for people?
 
 ### Audrey Tang:
 
@@ -267,9 +267,9 @@ So, the counter-proposal is not to find allies who would never betray us — and
 
 Now, with agentic engineering, a local team can take its agentic engineer and simply say: "With this open protocol, build a complementary implementation," and then swap it out like Lego. But if it is locked in, not inspectable, with no visibility into assets, the local team cannot do that — what we call *adversarial interoperability*. So that is paramount.
 
-### Audience question:
+### Audience Question:
 
-Final question. Something that particularly bothers me about AI is that it seems to break the reciprocity of online spaces — the digital commons — especially with software and games, where the idea is that you can take and modify something and give it back to the original developers. Many language models are trained on popular code, so anyone can take from that knowledge base and incorporate it into proprietary applications without giving back. The same dynamic seems to be happening in many places — a writer keeps a blog that becomes meaningful for a model's training, but the author is not visible in the data. So, I am wondering — especially in the context of working software, but more broadly — is there a way to repair this broken reciprocity?
+Something that particularly bothers me about AI is that it seems to break the reciprocity of online spaces — the digital commons — especially with software and games, where the idea is that you can take and modify something and give it back to the original developers. Many language models are trained on popular code, so anyone can take from that knowledge base and incorporate it into proprietary applications without giving back. The same dynamic seems to be happening in many places — a writer keeps a blog that becomes meaningful for a model's training, but the author is not visible in the data. So, I am wondering — especially in the context of working software, but more broadly — is there a way to repair this broken reciprocity?
 
 ### Audrey Tang:
 
