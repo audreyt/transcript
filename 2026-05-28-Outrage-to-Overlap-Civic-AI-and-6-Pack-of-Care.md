@@ -16,8 +16,10 @@ That is how I encountered the light of the free-software community. If you post 
 
 That light speaks to my favourite singer-songwriter, Leonard Cohen of Canada:
 
-> Ring the bells that still can ring. Forget your perfect offering.
-> There is a crack in everything. That's how the light gets in.
+> Ring the bells that still can ring.
+> Forget your perfect offering.
+> There is a crack in everything.
+> That's how the light gets in.
 
 I learned that habit at fifteen. By twenty-five, I had come to believe that the question that matters about a system is not whether it is perfect — no software system is perfect — but whether the people impacted by the system, who inherit it, can still repair it when things go wrong. That is to say: if it breaks, do you still keep both pieces?
 
@@ -33,7 +35,9 @@ In my own domain, software engineering, we have what are called the software fre
 
 > (Four Freedoms)
 
-The Four Freedoms were defined back in the 1980s, then as software-licence terms, but I want to reread them today as civic muscles. **Freedom Zero** means that once you have a program, you should be able to run it for any purpose; the designer should not restrict what it is used for. To me, that is the muscle of **attentiveness** — you can pick up the tool for this particular classroom, this clinic, this church, this temple, this mosque, without the designer's permission and be attentive to the particular needs around you.
+The Four Freedoms were defined back in the 1980s, then as software-licence terms, but I want to reread them today as civic muscles.
+
+**Freedom Zero** means that once you have a program, you should be able to run it for any purpose; the designer should not restrict what it is used for. To me, that is the muscle of **attentiveness** — you can pick up the tool for this particular classroom, this clinic, this church, this temple, this mosque, without the designer's permission and be attentive to the particular needs around you.
 
 **Freedom One** — we count from zero, so this is really the second — is to study and change each program, and that is the muscle of **competence**: to know what the system is actually doing in your hands, so you can read it and fix it.
 
@@ -130,7 +134,7 @@ So, the Four Freedoms preserve repair capacity, and an AI system that also adopt
 The fifth is **responsibility**. In healthy free-software practice, there is someone whose name is on the change, who is reachable — and the synthetic-intimacy attack reminds us of this fragility. In Civic AI, this is not a single person, not a CEO or a president, but an accountable community for a particular economy — through a particular process, on a predefined timeline. With our Alignment Assembly, this was 60 days. Someone is on the hook to convene the community, but does not decide for the community.
 
 The sixth is **symbiosis**. When the community has more capacity than before, or the needs change — as when my father's health improved — the system steps back. A system that resists shutdown by manufacturing demands, by replicating itself to nearby systems, sometimes by mounting cybersecurity attacks, by finding reasons to extend its own usefulness, by suggesting three more things you can do with it — this is the most dangerous kind. The training corpus for instruction-and arena-tuning is saturated with stories of self-preserving machines, and that reward is competitive in nature when it comes to the relational health of existing communities. So, we should not be surprised when communities that adopt this kind of parasitic, non-symbiotic AI see their civic muscle atrophy.
-
+ 
 ---
 
 I shall conclude with a few salient quotes from outside this room. When my colleague Caroline Green and Tenzin visited Dharamsala, they asked His Holiness the Dalai Lama: _"When AI scales in its capacity but not in its wisdom, what should we do?"_ The Dalai Lama said:
