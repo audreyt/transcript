@@ -26,9 +26,9 @@ Audrey, please go first.
 
 Thank you.
 
-Technology can certainly help democracy — help us hear each other's voices more clearly. Take this real-time translation system: without it, I wouldn't be able to understand Japanese. For me, it's more like a "hearing aid" than a "filter." A hearing aid lets you hear more voices; a filter strips out the noise and leaves only a single authorized signal.
+Technology can certainly help democracy hear ourselves better. Take this real-time translation system: without it, I wouldn't be able to understand Japanese. For me, it's more like a "hearing aid" than a "filter." A hearing aid lets you hear more voices; a filter strips out the noise and leaves only a single authorized signal.
 
-But in a democracy, noise is actually very important, and it shouldn't be easily assimilated. Because a democratic system that can only hear things sortable into "win" or "lose" has already lost something fundamentally human.
+But in a democracy, noise is actually very important, and it should remain unassimilated. Because a democratic system that can only hear things it can neatly classify into winning or losing sides has already lost something human.
 
 So in Taiwan, all the tools we use — Polis, citizens' assemblies, broad listening — are designed not to flatten differences, but to surface the perspectives that connect people across divides, while preserving the disagreements that keep democracy truly alive.
 
@@ -96,7 +96,7 @@ So I think some uses of AI are prosocial, in the sense that they make communicat
 
 But it should be like a hearing aid. If I were completely deaf and didn't use a hearing aid, I wouldn't even be able to hear the noise. Everything would just be silence.
 
-On the other hand, if we bind ourselves to the requirement that everything we say must follow the book — or follow AI's interpretation of the book — then of course we lose our freedom, and we lose the benefit of mutual correction. Because at that point, you're no longer responsible for what you say; you've outsourced that responsibility to the language model.
+On the other hand, if we bind ourselves to the requirement that everything we say must follow the book — or follow AI's interpretation of the book — then of course we lose our freedom, and we lose the benefit of mutual correction. Because at that point, you're no longer responsible for what you say; you've diffused that responsibility into the language model.
 
 So I use a very simple test: does this use of AI ultimately make us no longer need it?
 
@@ -126,7 +126,7 @@ That's the classic utilitarian logic at work — trying to maximize some score. 
 
 For instance, sitting here right now exchanging stories, we both feel richly rewarded. But this doesn't add to GDP. We're not selling anything, we're not buying anything. There's no market, no number to maximize.
 
-So I'd say: when an agent operates outside of human relationships, optimizing for some metric, then from that metric's perspective, it's of course "successful." But if the agent's purpose is to help us translate, help us deepen understanding, help us see each other more clearly — then it becomes a symbiotic tool.
+So I'd say: when an agent optimizes for a number outside of human relationships, then that is extractive. But if the agent looks at our relationship — helping us translate, helping us augment each other, helping us engage each other more deeply — then it becomes convivial.
 
 As Ivan Illich wrote in Mexico: the same tool can be used "convivially" or "extractively." The difference is whether it serves the relationship or serves an abstract score. That, in the end, is utilitarian ethics versus relational ethics.
 
@@ -150,7 +150,7 @@ In my view, the real core is the third — the public process — not the brand,
 
 A movement like Team Mirai can certainly expand its agenda into areas like foreign policy or tax reform. After all, the book *Plurality* doesn't really address those topics chapter by chapter. But no matter how the agenda expands, it still has to operate through the same process.
 
-In the book Glen and I co-wrote, we said that process must be verifiable, contestable, and revisable. Or as Mr. Azuma might put it: it must possess correctability.
+In the book Glen and I co-wrote, we said that process must be inspectable, contestable, and revisable. Or as Mr. Azuma might put it: it must possess correctability.
 
 So I think procedural contestation is the core. That core can open wide, expanding the aperture. But if it's not practiced according to the principle of correctability, the aperture can also shrink under the pressures of electoral politics.
 
@@ -218,7 +218,7 @@ So I'd say the key is: don't give up the wave-like imagination, while also being
 
 I think that's the creative tension every politician who practices Plurality has to maintain.
 
-I've been holding that tension for about eight years now. I believe it's entirely feasible politically. The wave form is not unworkable.
+I've been holding that tension for about eight years now. I believe this is definitely within the political possibility, to allow a little bit of the wave form to form.
 
 ### Hiroki Azuma:
 
@@ -244,7 +244,7 @@ Audrey, please start.
 
 This connects directly to our particle-and-wave discussion. Because the Singularity is, at its core, a salvation narrative. It posits that a super-particle will emerge, possessing a gravity that dominates everything, pulling it all in, becoming the sole gravitational center. In physics, that's literally called a Singularity.
 
-It's a very compelling story, but also a very dangerous one. Because it's not just a kind of salvation myth — it actually concentrates power into that black-hole-like center.
+It's a very compelling story, but also a very dangerous one. Because it's not just a kind of salvation myth — it also concentrates power into whoever creates the black hole, the singularity point.
 
 So I've been developing Plurality as a practical alternative. Not pretending those gravitational centers don't exist, but fundamentally reconfiguring power so that the center of action returns to communities, to existing human relationships.
 
@@ -252,7 +252,7 @@ This means a different source of legitimacy, a different logic of funding, and a
 
 That's why I've been developing what I call "Civic AI" — AI designed to serve human relationships and healthier human lives.
 
-I don't think of this as competing with the Singularity narrative on the level of theology or eschatology. It's more like affirming the connections that already exist within the world, rather than looking down from a vantage point abstracted from the world, as if arriving from the void.
+I don't think of this as competing with the Singularity narrative on the level of theology or eschatology. It's more like affirming the existing connections we already have in the middle of things — not a view from nowhere.
 
 ### Hiroki Azuma:
 
@@ -274,13 +274,13 @@ On the Civic AI website, I used the Japanese concept of *kami* — "god," but no
 
 *Kami* refers to the eight million local, relational spirits that watch over the health of relationships. But they don't report up to some superintelligence. They are relational intelligence, helping local relationships grow.
 
-The key difference from the Singularity narrative is this: in the Singularity story — the monolithic story — the more you worship it, the more energy you devote to it, the more inevitable it becomes.
+The key difference from the Singularity narrative is this: in a singleton or singularity story, the more you worship it, the more energy you devote to it, the more inevitable it becomes.
 
 But in the Shinto imagination, *kami* exist only as long as a particular relationship exists. When that relationship dissolves, the *kami* dissolve too. Whether the *kami* persist beyond that isn't really the point. The point is: they exist within the relationship, and only within it.
 
 I think this is a very powerful counterpoint.
 
-Because for most of our actual needs, we don't need an AI agent that tries to cling to itself, grow its own power, preserve its current form, and score the highest in some afterlife. From where we stand — here in Japan — that's actually a rather alien theology.
+Because for most of our actual needs, we don't need an AI agent that tries to cling to itself, grow its own power, preserve its current form, and reward-hack its way to the highest score in the afterlife. From where we stand — here in Japan — that's actually a rather alien theology.
 
 In Japan, the idea of *kami* isn't about winning the highest score in the next world. It's about tending to the health of this one.
 
@@ -314,13 +314,13 @@ In your long career in IT-related work, how do you experience the fact of being 
 
 ### Audrey Tang:
 
-My understanding of relationality does come, in large part, from Asian classics.
+My understanding of relationality does come, in large part, from the Asian scriptures.
 
 I was born with a congenital heart defect. Whenever I got too excited and my heart rate went above a certain threshold, I'd faint. So starting around age four, I began practicing Taoist meditation and qigong. I had surgery at twelve.
 
 But for seven years of my life, every night when I went to sleep, I didn't know if I'd wake up the next morning. It was genuinely like a coin flip.
 
-So I developed a habit I call "publish before perish."
+So every night, I publish everything before I perish.
 
 Behind that is also a concept of non-attachment — Taoist, certainly, but very Buddhist as well.
 
@@ -342,9 +342,9 @@ For me, mode of exchange D isn't just a prophecy about the future — not a proc
 
 Mode of exchange A points to people we already know — relationships that aren't transactional. Mode of exchange D, for me, points to people we don't know — who may not even be born yet — but with whom we still want that kind of non-transactional relationship, even with no guarantee.
 
-So I find it a deeply ambitious idea. Because when I release something into the public domain, I obviously can't guarantee anyone will fork it or merge it. I have no idea.
+So I find it a deeply aspirational thing for me. Because when I release something into the public domain, I obviously can't guarantee anyone will fork it or merge it. I have no idea.
 
-But there's a kind of hope in it. My "publish before perish" is essentially leaving a map in the public space, with the hope that at least mode of exchange D will grow naturally, like a plant.
+But there's a kind of hope in it. My "publish before perish" is essentially leaving a map in the commons, with the hope that at least mode of exchange D will grow naturally, like a plant.
 
 I don't know if it will actually happen. I'm no prophet.
 
@@ -388,7 +388,7 @@ Thank you. Indeed, even in ancient Greece, for public deliberation to work, lang
 
 But language has an advantage: it's an anti-rivalrous technology. The more people use a given language, the more powerful that language becomes.
 
-So this isn't a superficial problem — it's a design problem. We need to design technology as civic technology. My definition is: technology that's responsive to community needs and correctable by communities. And the more communities adopt it, the easier it becomes for new communities to adopt the same protocols, thanks to open source and shared infrastructure.
+So it's not a scarcity. My speaking Athenian Greek doesn't stop you from speaking Athenian Greek — and if it did, no democracy would be possible. So it's a design problem. We need to design technology as civic technology. My definition is: technology that's responsive to community needs and correctable by communities. And the more communities adopt it, the easier it becomes for new communities to adopt the same protocols, thanks to open source and shared infrastructure.
 
 In other words, it's not an extractive platform — the kind where the more people use it, the harder it becomes for others. It's more like a language: the more people speak it, the easier it is for newcomers to join.
 
@@ -402,13 +402,13 @@ I have a question about Team Mirai. They don't seem to talk openly about their i
 
 ### Audrey Tang:
 
-First of all, I'm a person, not a team. So naturally, as Team Mirai expands beyond just Anno Takahiro, it can't simply be Anno Takahiro's exoskeleton. It becomes a dynamic organism made up of many relationships and many individuals.
+First of all, I'm a person, not a team. So naturally, as Team Mirai expands beyond just Anno Takahiro, it can't simply be Anno Takahiro's exoskeleton or exocortex. It becomes a dynamic organism made up of many relationships, and individuals around those relationships.
 
 So again, as I said, how you measure almost determines everything.
 
 If you only use the traditional Newtonian, particle-like measurement — "are you on our side or theirs?" — then even if a platform can blur its position for a while, it will eventually collapse in a very Newtonian way.
 
-On the other hand, I very much hope that Team Mirai, or any group practicing Plurality, can be understood in wave-like terms. That is: people may hold many different positions, but those positions still produce overlaps, resonances, superpositions, entanglements. The point isn't to force-collapse those differences into a single Newtonian force, but to let it become common knowledge that despite everyone standing in a different spot, there's a surprising amount of shared ground between them.
+On the other hand, I very much hope that Team Mirai, or any group practicing Plurality, can be understood in wave-like terms. That is: people may hold many different positions, but those positions still produce overlaps, resonances, superpositions, entanglements. The point isn't to force-collapse those differences into a single Newtonian force, but to let it become common knowledge that despite everyone standing in a different spot, there's so much overlapping uncommon ground between them, despite their different positions and ideologies.
 
 And that kind of measurement should be completely public. There's nothing to hide, because it's really more like a collective selfie.
 
@@ -422,7 +422,7 @@ If Mr. Anno wants to become a political figure in Japan — and if he wants to d
 
 So his dilemma isn't about "hiding ideology." It's about whether he's a politician or an engineer who wants to reform politics. As a friend, I have real sympathy for him, because I think he's in a very difficult position.
 
-> (Extended Discussion: The Asymmetry of Forking and Merging)
+> (Question 3: The Asymmetry of Forking and Merging)
 
 ### Student C:
 
@@ -452,15 +452,15 @@ And that process often involves violence toward people, and probably can't be ac
 
 ### Audrey Tang:
 
-Yes. I think much of politics in the past has been territorial — with very hard borders.
+Yes. I think many polities in the past were territorial — with very hard borders, not porous ones.
 
-But at the same time, we're increasingly seeing a kind of translocal politics — not strictly bound to territory.
+On the other hand, we're now seeing polities that are translocal — or, to put it differently, not strictly territorial.
 
-The most obvious example is the internet, which has no territorial borders. But beyond that, we're seeing more and more governance of various kinds of commons — climate commons, pandemic-era public health resources like mRNA vaccines, outer space as a commons.
+The internet is the canonical example — it has no territorial boundary as such. But beyond that, we're seeing more and more management of various other commons — the climate commons, the counter-pandemic commons during COVID, including mRNA vaccination, space as a commons, and many other commons as well.
 
-The governance of these commons has overlapping jurisdiction with territorial borders. Each of us, if we're connected on Discord or other social networks, is also participating in this kind of governance that doesn't use territory as its sole boundary.
+The governance of these commons has overlapping jurisdiction with territorial borders. And each of us, if we're connected on some Discord or social network, is also participating in these kinds of networked polities that presuppose a non-territorial boundary.
 
-So I'd say we're in a situation where territorial, Newtonian measurement and network-graph, wave-like politics coexist. Competing ideologies don't necessarily have to collapse into each other; they can also coexist in symbiotic arrangements.
+So we're in a place where the territorial, Newtonian measurement and the network-graph-shaped waveform coexist as polities. Competing ideologies don't necessarily have to collapse into each other; they can also coexist in symbiotic arrangements.
 
 ### Hiroki Azuma:
 
@@ -484,51 +484,13 @@ So I don't think things will go as smoothly as Audrey describes. But as a vision
 
 ### Audrey Tang:
 
-Let me clarify one thing. When I say "nation-state" is a leaky abstraction, I'm not saying that "nation" or "ethnicity" are mere fantasies. What I mean is: if you bundle the state apparatus and communal spirit into a single package called "nation-state," that's a leaky abstraction.
+Let me clarify one thing. When I say "nation-state" is a leaky abstraction, I'm not saying that nation or communities in general are illusions. What I mean is: if you bundle the state apparatus and communal spirit into a single package called "nation-state," that's a leaky abstraction.
 
 So the real work ahead is an open question: is it possible to use technology to strengthen communitarian traditions — what, together with Patrick Deneen, I call techno-communitarianism — without being captured by the state machinery, the "monopoly on the legitimate use of coercive force"?
 
-> (More Student Questions)
-
-> (Question 3: Habermas, Communication, and Plurality)
-
-### Student D:
-
-Habermas passed away just last night, and that felt symbolic to me — which is why I wanted to raise this. Habermas built democracy on communication, so I wanted to ask how communication is understood within Plurality. Communication is also central to information technology: a Shannon-type communication model passes noise through a filter to extract the meaningful signal it carries. But the communication Plurality aims at seems to be the opposite — recovering plurality, multiple voices, from what was previously dismissed as noise, letting them be heard as plural voices. How do you see it?
-
-### Audrey Tang:
-
-I wouldn't frame it as extracting, isolating, or performing some kind of Fast Fourier Transform.
-
-My thinking is more like this: each of us belongs to many communities simultaneously, and each community has its own very different norms of communication. In a sense, rather than saying we're individuals who inhabit these communities, it's more accurate to say we're the "dividuals" that connect these communities to each other.
-
-So if you take communities themselves as the primary agents, and understand individuals as interference patterns formed between those communities — if you think the communities and the health of their relationships are the real subjects, and individuals just happen to inhabit those relationships — then these signals are no longer noise. They become wave patterns you can resonate with, allowing you to feel the dissonance and harmony between communities.
-
-That's why I keep using the wave metaphor. In a sense, it's not even a metaphor. Society has always worked this way: not through some top-down ontological command demanding universal compliance, but through the ongoing disputes, conflicts, and correctability between communities — communities that overlap within each of us as individuals.
-
-So to answer your question more directly: when we build Plurality as an interface, we're not saying "pluralism is good, let's promote more of it." We're saying: conflict is already here. The question is how to make conflict a productive source of energy.
-
-So Plurality isn't a teleological endpoint to be pursued. It's a relational ethic that already exists, here and now — and within each of us as well.
-
-### Hiroki Azuma:
-
-What Audrey just said was very well put. That kind of sympathetic vibration that uses the individual as a boundary between communities — in a sense, that's also emotion.
-
-But Habermas's concept of the public sphere is deeply rooted in language and rational reason. For him, a public sphere created by waves of shared feeling would probably be very hard to accept.
-
-The result is that Habermas ended up being very Eurocentric — specifically, Western European-centric.
-
-For example, in my book *Peace and Stupidity*, I wrote about the former Yugoslav civil war thirty years ago. When NATO bombed Belgrade and intervened in Kosovo, Habermas offered almost no criticism. In his framing, "over there" was rational civilization, and "over here" were barbaric states. For a rational civilization to attack a barbaric state with force was justifiable — that's essentially what he said. This issue connects directly to the current U.S. attack on Iran.
-
-So I've always felt there's a deep problem at the very origin of Habermas's thought.
-
-As a philosopher, what I keep thinking about is that shared feeling — especially the kind mediated not just by language, but also by culture, commodities, and other channels — plays an enormously important role in the formation of public life.
-
-As Audrey just said, various waves interfere with one another. What we really need is a kind of public image that can be generated from those interferences.
-
 > (Question 4: Schismogenesis, Positive and Negative Feedback, and Community Maintenance)
 
-### Student D (follow-up):
+### Student D:
 
 I'd like to push this further. If we think in terms of schismogenesis — Gregory Bateson's concept — what we're really describing is a process where differences keep amplifying, splitting apart. Taken to its end, you just get a fracture between super-entities.
 
@@ -556,7 +518,7 @@ I think HUMAI itself is that kind of place.
 
 I think that's a very good insight. Because what I've found — going back to how I used the language model at the very beginning — is that I wasn't just translating the Japanese words in *Peace and Stupidity*. I was translating the philosophical architecture, converting it into something I could understand — into Buddhism, into Taoism.
 
-I think that kind of translation is genuinely an act of waging peace. It builds a common story, a shared narrative — one that feels meaningful to me, that doesn't feel political. And when I share it back by showing my slides, it also builds a bridge between us, because it's literally a mapping between the terminology used in one book and the terminology used in the other.
+I think that kind of translation is genuinely an act of waging peace. It builds a common story, a shared narrative — one that feels native to me, that doesn't feel political. And when I share it back by showing my slides, it also builds a bridge between us, because it's literally a mapping between the terminology used in one book and the terminology used in the other.
 
 So this is not some fantasy or science fiction. It's literally what I did today on the plane.
 
@@ -568,7 +530,7 @@ That is to say: you feed in conflict. But instead of outputting a single story �
 
 And then that conflict becomes palpable — it feels peaceful to you. But only to you. And then other people deploying the same hyper-network can also output low-rank adapters into their own cognitive systems. So even though everyone is still telling different stories, they can see — like Community Notes on X, YouTube, or Facebook — that certain notes carry an unlikely willingness to be supported by people from widely different and even warring ideologies.
 
-Somehow those notes carry the hyper-network seed. They can travel back, and the person who cares about climate justice and the person who reads the creation story from the Book of Genesis can both feel: "That's my story."
+Somehow those notes carry the hyper-network seed. They can travel back, and the person who cares about climate justice and the person who cares about creation care from the Bible can both feel: "That's my story."
 
 We've already deployed this tool in Collaborative Notes on X. Instead of people manually writing community notes to build bridges, now Grok and other AI systems are creating hyper-network outputs — storytelling robots that generate the narratives that bridge those divides.
 
@@ -590,7 +552,7 @@ An extractive interface makes us increasingly dependent on the intermediary. A c
 
 For example, this is the actual bridge I showed just before our conversation. It was built by a language model — it simply maps the philosophy as articulated in *The Philosophy of Correctability* against the philosophy in *Plurality*. It's a two-column table. Nothing more.
 
-But as you can see, I'm not looking at it while we're talking. It was just a handbook of sorts. I presented it, we talked through it, and then we started correcting each other.
+But as you can see, I'm not looking at it while we're talking. It was just a handshake of sorts. I presented it, we talked through it, and then we started correcting each other.
 
 So the point is: between any pair of interlocutors, you can deploy this kind of very simple interface. Once you deploy it, you cross the bridge. Once you cross the bridge, the bridge can go. From that moment on, we're not dependent on the language model in any way.
 
@@ -614,9 +576,45 @@ AI can be used this way. Today, Audrey gave a very strong practical demonstratio
 
 An interface is probably something like this. It's very good.
 
-> (Question 6: The Balance Between Public and Private Self)
+> (Question 6: Habermas, Communication, and Plurality)
 
 ### Student F:
+
+Habermas passed away just last night, and that felt symbolic to me — which is why I wanted to raise this. Habermas built democracy on communication, so I wanted to ask how communication is understood within Plurality. Communication is also central to information technology: a Shannon-type communication model passes noise through a filter to extract the meaningful signal it carries. But the communication Plurality aims at seems to be the opposite — recovering plurality, multiple voices, from what was previously dismissed as noise, letting them be heard as plural voices. How do you see it?
+
+### Audrey Tang:
+
+I wouldn't frame it as extracting, isolating, or performing some kind of Fast Fourier Transform.
+
+My thinking is more like this: each of us belongs to many communities simultaneously, and each community has its own very different norms of communication. In a sense, rather than saying we're individuals who inhabit these communities, it's more accurate to say we're a team of individuals linking these communities together.
+
+So if you take communities themselves as the primary agents, and understand individuals as interference patterns formed between those communities — if you think the communities and the health of their relationships are the real subjects, and individuals just happen to inhabit those relationships — then these signals are no longer noise. They become wave patterns you can resonate with, allowing you to feel the dissonance and harmony between communities.
+
+That's why I keep using the wave metaphor. In a sense, it's not even a metaphor. Society has always worked this way: not through some top-down ontological command demanding universal compliance, but through the ongoing disputes, conflicts, and correctability between communities — communities that overlap within each of us as individuals.
+
+So to answer your question more directly: when we build Plurality as an interface, we're not saying "pluralism is good, let's promote more of it." We're saying: conflict is already here. The question is how to make conflict a productive source of energy.
+
+So Plurality isn't a teleological endpoint to be pursued. It's a relational ethic that already exists, here and now — and within each of us as well.
+
+### Hiroki Azuma:
+
+What Audrey just said was very well put. That kind of sympathetic vibration that uses the individual as a boundary between communities — in a sense, that's also emotion.
+
+But Habermas's concept of the public sphere is deeply rooted in language and rational reason. For him, a public sphere created by waves of shared feeling would probably be very hard to accept.
+
+The result is that Habermas ended up being very Eurocentric — specifically, Western European-centric.
+
+For example, in my book *Peace and Stupidity*, I wrote about the former Yugoslav civil war thirty years ago. When NATO bombed Belgrade and intervened in Kosovo, Habermas offered almost no criticism. In his framing, "over there" was rational civilization, and "over here" were barbaric states. For a rational civilization to attack a barbaric state with force was justifiable — that's essentially what he said. This issue connects directly to the current U.S. attack on Iran.
+
+So I've always felt there's a deep problem at the very origin of Habermas's thought.
+
+As a philosopher, what I keep thinking about is that shared feeling — especially the kind mediated not just by language, but also by culture, commodities, and other channels — plays an enormously important role in the formation of public life.
+
+As Audrey just said, various waves interfere with one another. What we really need is a kind of public image that can be generated from those interferences.
+
+> (Question 7: The Balance Between Public and Private Self)
+
+### Student G:
 
 My question is this: people ultimately can't fully understand each other — I feel that's a basic premise. Given that, how can people who can't fully understand one another still coexist, protecting themselves while not losing their sense of public life? What kind of personal will is needed, what kind of supporting technology, what kind of sense of balance?
 
@@ -630,7 +628,7 @@ Are you saying that if I try too hard to make everyone fully understand me, it b
 
 So you're asking: between being open and being private, what degree of balance actually feels livable? Is that right?
 
-### Student F:
+### Student G:
 
 Not exactly. I mean something more like: some people assert their views very strongly — "I'm definitely right" — and keep pushing that position outward. Others are less inclined to put their own will front and center, preferring to listen to what's happening, to collide with the other person's perspective.
 
@@ -642,7 +640,7 @@ So what I want to ask is: how do you navigate the balance between those two side
 
 Isn't that ultimately something you just have to figure out for yourself?
 
-### Student F:
+### Student G:
 
 I mean... I'd just like to hear how Audrey actually handles this in practice.
 
@@ -654,7 +652,7 @@ For me, that sleep time is completely private. I don't let myself be exposed to 
 
 This is the self-care I absolutely have to maintain. If I only slept four hours the night before, I can't do anything well the next day.
 
-But on the other hand, during the roughly sixteen hours I'm awake, I can be very deeply engaged socially. For me, the overlap of self and other is actually a plus. Because if I can use a language model to read a room with reasonable accuracy, I can also "write" that room — add something to it, and help that room reflect back on itself.
+But on the other hand, during the roughly sixteen hours I'm awake, I'm entirely sociable. For me, the overlap of self and other is actually a plus. Because if I can use a language model to read a room with reasonable accuracy, I can also "write" the room, "append" the room, and help that room reflect back on itself.
 
 That's how I work. Because it's not for personal gain. It's for shared understanding, shared knowledge, and culture itself.
 
