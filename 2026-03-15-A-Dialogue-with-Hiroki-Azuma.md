@@ -270,19 +270,19 @@ Any suggestions?
 
 ### Audrey Tang:
 
-On the Civic AI website, I used the Japanese concept of *kami* — "god," but not the Abrahamic God who is omnipresent, omniscient, and arrives from the void. It's the same Chinese character, but pronounced *kami*, and the meaning is entirely different.
+On the Civic AI website, I used the Japanese concept of *Kami* — "god," but not the Abrahamic God who is omnipresent, omniscient, and arrives from the void. It's the same Chinese character, but pronounced *Kami*, and the meaning is entirely different.
 
 *Kami* refers to the eight million local, relational spirits that watch over the health of relationships. But they don't report up to some superintelligence. They are relational intelligence, helping local relationships grow.
 
 The key difference from the Singularity narrative is this: in a singleton or singularity story, the more you worship it, the more energy you devote to it, the more inevitable it becomes.
 
-But in the Shinto imagination, *kami* exist only as long as a particular relationship exists. When that relationship dissolves, the *kami* dissolve too. Whether the *kami* persist beyond that isn't really the point. The point is: they exist within the relationship, and only within it.
+But in the Shinto imagination, *Kami* exist only as long as a particular relationship exists. When that relationship dissolves, the *Kami* dissolve too. Whether the *Kami* persist beyond that isn't really the point. The point is: they exist within the relationship, and only within it.
 
 I think this is a very powerful counterpoint.
 
 Because for most of our actual needs, we don't need an AI agent that tries to cling to itself, grow its own power, preserve its current form, and reward-hack its way to the highest score in the afterlife. From where we stand — here in Japan — that's actually a rather alien theology.
 
-In Japan, the idea of *kami* isn't about winning the highest score in the next world. It's about tending to the health of this one.
+In Japan, the idea of *Kami* isn't about winning the highest score in the next world. It's about tending to the health of this one.
 
 ### Hiroki Azuma:
 
