@@ -28,12 +28,12 @@ a commons no single hand can uproot.
 They say bureaucracy moves slowly.
 So do tectonic plates.
 Patient pressure
-raised our island
+raised our islands
 from the sea.
 
 Now the ledger counts voices.
 Four hundred and forty-seven citizens —
-our island in miniature —
+our islands in miniature —
 deliberated on deepfakes, face to face.
 
 Civil servants carried
