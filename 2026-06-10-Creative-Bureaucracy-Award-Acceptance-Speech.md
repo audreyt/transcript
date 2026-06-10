@@ -38,7 +38,7 @@ deliberated on deepfakes, face to face.
 
 Civil servants carried
 what the citizens chose
-into law, and kept the law enforced.
+into law, and made the law hold.
 
 In one year,
 impersonation scam ads fell
