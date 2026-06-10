@@ -39,6 +39,7 @@ deliberated on deepfakes, face to face.
 Civil servants carried
 what the citizens chose
 into law, and kept the law enforced.
+
 In one year,
 impersonation scam ads fell
 by ninety-four per cent.
@@ -61,4 +62,5 @@ keeping the winter out.
 
 The granary holds,
 because of you.
+
 Thank you.
