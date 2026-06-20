@@ -394,11 +394,11 @@ If you change the reward function to satisfying people's relational preferences,
 
 ### Hala Hanna:
 
-I just realised that ChatGPT, at the end of every query, asks: would you like me to...
+I just realised that ChatGPT, at the end of every query, asks: "Would you like me to..."
 
 ### Audrey Tang:
 
-Would you like to keep your subscription? Exactly.
+"Would you like to keep your subscription?" Exactly.
 
 ### Hala Hanna:
 
@@ -480,5 +480,3 @@ Now, everyone, remember:
 I'm Hala Hanna. Thank you for listening to The Solve Effect.
 
 If you haven't yet, please subscribe to The Solve Effect wherever you get your podcasts.
-
-> Conversation transcript. License: CC BY 4.0.
