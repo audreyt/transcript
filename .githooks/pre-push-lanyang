@@ -1,0 +1,16 @@
+#!/bin/sh
+# Record upstream..HEAD when pushing root *.md (read by bake_lanyang_after_push after `bun run push`).
+set -e
+cd "$(git rev-parse --show-toplevel)"
+
+upstream=$(git rev-parse --abbrev-ref --symbolic-full-name '@{u}' 2>/dev/null) || exit 0
+before=$(git rev-parse '@{u}' 2>/dev/null) || exit 0
+after=$(git rev-parse HEAD)
+
+if ! git diff --name-only "$before" "$after" -- '*.md' | grep -q '[.]md$'; then
+	rm -f .git/og-lanyang-push.json
+	exit 0
+fi
+
+printf '{"before":"%s","after":"%s"}\n' "$before" "$after" > .git/og-lanyang-push.json
+exit 0
