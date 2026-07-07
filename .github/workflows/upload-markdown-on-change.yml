@@ -116,3 +116,41 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+  bake-og-lanyang:
+    needs: rebuild-search-index
+    # Licensed jf fonts live on this Mac only — not ubuntu-latest.
+    runs-on: self-hosted
+    steps:
+      - name: Checkout transcript
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 50
+
+      - name: Checkout sayit-hono
+        uses: actions/checkout@v6
+        with:
+          repository: bestian/sayit-hono
+          ref: main
+          path: sayit-hono
+          fetch-depth: 0
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install sayit-hono dependencies
+        working-directory: sayit-hono
+        run: bun install --frozen-lockfile
+
+      - name: Bake Lanyang OG PNGs to R2
+        working-directory: sayit-hono
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          BEFORE_SHA: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.before_sha || github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        run: |
+          # CACHE_KEY_VERSION: bake-og-lanyang.ts fetches live https://archive.tw/version (no jq)
+          bun run scripts/bake-og-lanyang.ts --git "$BEFORE_SHA" "$AFTER_SHA" --transcript-root "${GITHUB_WORKSPACE}"

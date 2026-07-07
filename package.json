@@ -7,7 +7,10 @@
     "test:coverage": "bun test tests/unit --coverage --coverage-reporter=text",
     "validate:all": "bun scripts/validate.ts --all",
     "validate:changed": "bun scripts/validate.ts --changed",
-    "sync:dry-run": "bun scripts/sync_markdown.ts --dry-run"
+    "sync:dry-run": "bun scripts/sync_markdown.ts --dry-run",
+    "setup-hooks": "bun scripts/setup-git-hooks.ts",
+    "bake-og": "bun scripts/bake_lanyang_after_push.ts",
+    "push": "bun scripts/push-with-lanyang.ts"
   },
   "dependencies": {
     "@xmldom/xmldom": "^0.9.10"
