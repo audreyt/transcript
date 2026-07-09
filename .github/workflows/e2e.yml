@@ -1,11 +1,11 @@
 name: Post-deploy E2E
 
 on:
-  # Triggered after the sync+deploy workflow finishes on master.
+  # Triggered after the sync+deploy workflow finishes on main.
   workflow_run:
     workflows: ["Sync markdown on push"]
     types: [completed]
-    branches: [master]
+    branches: [main]
   # Daily canary — catches archive.tw drift when no commits land for a day.
   schedule:
     - cron: '0 12 * * *'

@@ -2,9 +2,9 @@ name: CI
 
 on:
   pull_request:
-    branches: [master]
+    branches: [main]
   push:
-    branches: [master]
+    branches: [main]
 
 concurrency:
   group: ci-${{ github.ref }}
@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          # Need enough history for `git diff origin/master...HEAD` on PRs.
+          # Need enough history for `git diff origin/main...HEAD` on PRs.
           fetch-depth: 0
 
       - name: Setup Bun
