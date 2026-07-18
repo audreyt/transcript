@@ -2,8 +2,11 @@ import { describe, expect, test } from "bun:test";
 import path from "node:path";
 import {
   applyAlternatesImpact,
+  BASE_DELAY_MS,
   diffCommand,
   main,
+  MAX_DELAY_MS,
+  MAX_RETRIES,
   parseAlternatesText,
   parseNameStatusDiff,
   readFileAtRef,
@@ -146,6 +149,63 @@ describe("requestWithRetry", () => {
     expect(response).toEqual({ status: 200, body: "ok" });
     expect(attempts).toBe(3);
     expect(output.join("\n")).toContain("retrying in 2s");
+  });
+
+  test("rides out a prolonged 503 lock across the full retry budget", async () => {
+    // Regression: a concurrent D1 "long-running import" made archive.tw return
+    // 503 for ~90s. With MAX_RETRIES=3 the sync gave up; the wider budget must
+    // keep retrying until the lock clears.
+    const output: string[] = [];
+    let attempts = 0;
+    const response = await requestWithRetry(
+      { url: "https://example.com", method: "POST" },
+      "POST test.md",
+      {
+        fetchImpl: async () => {
+          attempts += 1;
+          // Fail every attempt but the last one the budget allows.
+          if (attempts < MAX_RETRIES) {
+            return new Response(
+              JSON.stringify({ error: "Service temporarily unavailable" }),
+              { status: 503 },
+            );
+          }
+          return new Response("ok", { status: 200 });
+        },
+        sleep: async () => {},
+        stdout: (line) => output.push(line),
+      },
+    );
+
+    expect(response).toEqual({ status: 200, body: "ok" });
+    expect(attempts).toBe(MAX_RETRIES);
+    expect(MAX_RETRIES).toBeGreaterThan(3);
+  });
+
+  test("caps exponential backoff at MAX_DELAY_MS", async () => {
+    const delays: number[] = [];
+    await expect(
+      requestWithRetry(
+        { url: "https://example.com", method: "POST" },
+        "POST test.md",
+        {
+          fetchImpl: async () => new Response("busy", { status: 503 }),
+          sleep: async (ms) => {
+            delays.push(ms);
+          },
+          stdout: () => {},
+        },
+      ),
+    ).rejects.toThrow("HTTP 503");
+
+    // One sleep per failed attempt except the last (which throws).
+    expect(delays.length).toBe(MAX_RETRIES - 1);
+    // Growth is exponential from BASE_DELAY_MS, never exceeding the cap.
+    expect(delays[0]).toBe(BASE_DELAY_MS);
+    for (const delay of delays) {
+      expect(delay).toBeLessThanOrEqual(MAX_DELAY_MS);
+    }
+    expect(delays[delays.length - 1]).toBe(MAX_DELAY_MS);
   });
 
   test("throws on non-retriable errors", async () => {

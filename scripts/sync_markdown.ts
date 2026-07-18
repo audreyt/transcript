@@ -20,8 +20,15 @@ import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 
-export const MAX_RETRIES = 3;
+// archive.tw writes go through Cloudflare D1. A concurrent long-running D1
+// import locks the DB and makes upload_markdown/redirects return HTTP 503
+// ("Currently processing a long-running import.") intermittently, sometimes
+// for ~90s. Give retries a wide enough window (capped exponential backoff:
+// 2+4+8+16+30+30+30 = 120s of sleep across 8 attempts) to ride the lock out
+// instead of failing the whole sync on a transient 503.
+export const MAX_RETRIES = 8;
 export const BASE_DELAY_MS = 2_000;
+export const MAX_DELAY_MS = 30_000;
 
 export interface SyncEnvironment {
   API_ENDPOINT: string;
@@ -264,7 +271,7 @@ export async function requestWithRetry(
     const body = await response.text();
 
     if (response.status >= 500 && attempt < maxRetries) {
-      const delay = BASE_DELAY_MS * 2 ** (attempt - 1);
+      const delay = Math.min(BASE_DELAY_MS * 2 ** (attempt - 1), MAX_DELAY_MS);
       stdout(
         `${label} failed -> HTTP ${response.status} (attempt ${attempt}/${maxRetries}, retrying in ${delay / 1000}s)`,
       );
