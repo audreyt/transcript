@@ -1,0 +1,80 @@
+name: Repair panel section permalink
+
+on:
+  workflow_dispatch:
+
+jobs:
+  restore-section-id:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sayit-hono
+        uses: actions/checkout@v6
+        with:
+          repository: bestian/sayit-hono
+          ref: main
+          path: sayit-hono
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Restore panel section permalinks
+        working-directory: sayit-hono
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set -euo pipefail
+          english_filename='2026-07-24-state-of-wikimedia-and-ai-panel'
+          chinese_filename='2026-07-24-「維基媒體與-ai-現況」座談'
+          english_current_start=63868115
+          english_current_end=63868272
+          english_offset=1422
+          chinese_current_start=63868273
+          chinese_current_end=63868430
+          chinese_offset=316
+          old_bookend_id=63866711
+
+          preflight_sql="
+            SELECT
+              (SELECT COUNT(*) FROM speech_content WHERE section_id BETWEEN 63866693 AND 63866850) AS english_old_rows,
+              (SELECT COUNT(*) FROM speech_content WHERE section_id BETWEEN 63867957 AND 63868114) AS chinese_old_rows,
+              (SELECT COUNT(*) FROM speech_content WHERE filename = '${english_filename}' AND section_id BETWEEN ${english_current_start} AND ${english_current_end}) AS english_current_rows,
+              (SELECT COUNT(*) FROM speech_content WHERE filename = '${chinese_filename}' AND section_id BETWEEN ${chinese_current_start} AND ${chinese_current_end}) AS chinese_current_rows,
+              (SELECT COUNT(*) FROM speech_content WHERE filename = '${english_filename}' AND section_id = 63868133 AND section_speaker IS NULL AND section_content LIKE '<h2>Bookend II — Audrey Tang: mission, not race</h2>%') AS heading_rows;
+          "
+          preflight="$(bunx wrangler d1 execute sayit-database --remote --yes --command "${preflight_sql}" --json)"
+          echo "${preflight}"
+          printf '%s' "${preflight}" | jq -e '.[0] | (.success and (.results[0].english_old_rows == 0) and (.results[0].chinese_old_rows == 0) and (.results[0].english_current_rows == 158) and (.results[0].chinese_current_rows == 158) and (.results[0].heading_rows == 1))' >/dev/null
+
+          restore_sql="
+            UPDATE speech_content
+            SET
+              section_id = CASE
+                WHEN filename = '${english_filename}' THEN section_id - ${english_offset}
+                ELSE section_id - ${chinese_offset}
+              END,
+              previous_section_id = CASE
+                WHEN previous_section_id BETWEEN ${english_current_start} AND ${english_current_end} THEN previous_section_id - ${english_offset}
+                WHEN previous_section_id BETWEEN ${chinese_current_start} AND ${chinese_current_end} THEN previous_section_id - ${chinese_offset}
+                ELSE previous_section_id
+              END,
+              next_section_id = CASE
+                WHEN next_section_id BETWEEN ${english_current_start} AND ${english_current_end} THEN next_section_id - ${english_offset}
+                WHEN next_section_id BETWEEN ${chinese_current_start} AND ${chinese_current_end} THEN next_section_id - ${chinese_offset}
+                ELSE next_section_id
+              END
+            WHERE filename IN ('${english_filename}', '${chinese_filename}')
+              AND section_id BETWEEN ${english_current_start} AND ${chinese_current_end};
+            SELECT filename, COUNT(*) AS section_count, MIN(section_id) AS min_id, MAX(section_id) AS max_id
+            FROM speech_content
+            WHERE filename IN ('${english_filename}', '${chinese_filename}')
+            GROUP BY filename;
+            SELECT section_id, section_speaker, section_content
+            FROM speech_content
+            WHERE section_id = ${old_bookend_id};
+          "
+          result="$(bunx wrangler d1 execute sayit-database --remote --yes --command "${restore_sql}" --json)"
+          echo "${result}"
+          printf '%s' "${result}" | jq -e '.[0].success and .[1].success and .[2].success and (.[1].results | any(.[]; .filename == "2026-07-24-state-of-wikimedia-and-ai-panel" and .section_count == 158 and .min_id == 63866693 and .max_id == 63866850)) and (.[1].results | any(.[]; .filename == "2026-07-24-「維基媒體與-ai-現況」座談" and .section_count == 158 and .min_id == 63867957 and .max_id == 63868114)) and (.[2].results | length == 1) and (.[2].results[0].section_id == 63866711) and (.[2].results[0].section_speaker == null) and (.[2].results[0].section_content | startswith("<h2>Bookend II — Audrey Tang: mission, not race</h2>"))' >/dev/null
