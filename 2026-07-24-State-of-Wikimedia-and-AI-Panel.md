@@ -10,7 +10,11 @@ Hello, everyone. I’m really excited to see such a full room for our panel abou
 
 For this amazing panel we have great guests. We have **Netha Hussain**, a physician and a Wikimedian. **Jimmy Wales**, the founder of Wikipedia — I don’t think I should introduce him any more. We have **Lane Becker** of Wikimedia LLC / Wikimedia Enterprise. **Chris Albon**, Senior Director of Machine Learning and Data Engineering at the Wikimedia Foundation. **Ilario Valdelli**, Innovation Programme Manager for Wikimedia Switzerland. And we also have, remote, **Audrey Tang**, a digital pioneer — Taiwan’s former Digital Minister, and someone leading advocacy for open-source governance with initiatives such as Civic AI. Thank you all for being here.
 
-Shani — and Solenne, for moderating this panel. Do you want to introduce yourself?
+### Shani Evenstein Sigalov:
+
+And Solenne, for moderating this panel. Do you want to introduce yourself?
+
+### Solenne Lazare:
 
 Yes. I’m Solenne Lazare. I’m the Head of Product Strategy for Linked Open Data products — products such as Wikidata, Wikibase Suite, and Wikibase Cloud at Wikimedia Deutschland. And we have Shani Evenstein Sigalov with us, whom I will leave to introduce herself.
 
