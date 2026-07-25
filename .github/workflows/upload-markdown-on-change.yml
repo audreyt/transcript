@@ -154,6 +154,7 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          ALLOW_PROD_R2: 1
           BEFORE_SHA: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.before_sha || github.event.before }}
           AFTER_SHA: ${{ github.sha }}
         run: |
