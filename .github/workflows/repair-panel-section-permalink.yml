@@ -48,9 +48,8 @@ jobs:
               (SELECT COUNT(*) FROM speech_content WHERE filename = '${chinese_filename}' AND section_id BETWEEN ${chinese_current_start} AND ${chinese_current_end}) AS chinese_current_rows,
               (SELECT COUNT(*) FROM speech_content WHERE filename = '${english_filename}' AND section_id = 63868133 AND section_speaker IS NULL AND section_content LIKE '<h2>Bookend II — Audrey Tang: mission, not race</h2>%') AS heading_rows;
           "
-          preflight="$(bunx wrangler d1 execute sayit-database --remote --yes --command "${preflight_sql}" --json)"
-          echo "${preflight}"
-          printf '%s' "${preflight}" | jq -e '.[0] | (.success and (.results[0].english_old_rows == 0) and (.results[0].chinese_old_rows == 0) and (.results[0].english_current_rows == 158) and (.results[0].chinese_current_rows == 158) and (.results[0].heading_rows == 1))' >/dev/null
+          bunx wrangler d1 execute sayit-database --remote --yes --command "${preflight_sql}" --json | tee /tmp/panel-permalink-preflight.json
+          jq -e '.[0] | (.success and (.results[0].english_old_rows == 0) and (.results[0].chinese_old_rows == 0) and (.results[0].english_current_rows == 158) and (.results[0].chinese_current_rows == 158) and (.results[0].heading_rows == 1))' /tmp/panel-permalink-preflight.json >/dev/null
 
           restore_sql="
             UPDATE speech_content
@@ -79,6 +78,5 @@ jobs:
             FROM speech_content
             WHERE section_id = ${old_bookend_id};
           "
-          result="$(bunx wrangler d1 execute sayit-database --remote --yes --command "${restore_sql}" --json)"
-          echo "${result}"
-          printf '%s' "${result}" | jq -e '.[0].success and .[1].success and .[2].success and (.[1].results | any(.[]; .filename == "2026-07-24-state-of-wikimedia-and-ai-panel" and .section_count == 158 and .min_id == 63866693 and .max_id == 63866850)) and (.[1].results | any(.[]; .filename == "2026-07-24-「維基媒體與-ai-現況」座談" and .section_count == 158 and .min_id == 63867957 and .max_id == 63868114)) and (.[2].results | length == 1) and (.[2].results[0].section_id == 63866711) and (.[2].results[0].section_speaker == null) and (.[2].results[0].section_content | startswith("<h2>Bookend II — Audrey Tang: mission, not race</h2>"))' >/dev/null
+          bunx wrangler d1 execute sayit-database --remote --yes --command "${restore_sql}" --json | tee /tmp/panel-permalink-result.json
+          jq -e '.[0].success and .[1].success and .[2].success and (.[1].results | any(.[]; .filename == "2026-07-24-state-of-wikimedia-and-ai-panel" and .section_count == 158 and .min_id == 63866693 and .max_id == 63866850)) and (.[1].results | any(.[]; .filename == "2026-07-24-「維基媒體與-ai-現況」座談" and .section_count == 158 and .min_id == 63867957 and .max_id == 63868114)) and (.[2].results | length == 1) and (.[2].results[0].section_id == 63866711) and (.[2].results[0].section_speaker == null) and (.[2].results[0].section_content | startswith("<h2>Bookend II — Audrey Tang: mission, not race</h2>"))' /tmp/panel-permalink-result.json >/dev/null
