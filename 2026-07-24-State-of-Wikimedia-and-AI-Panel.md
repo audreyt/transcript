@@ -64,7 +64,7 @@ Thank you, Shani, and thank you, Jimmy, for laying out the challenge so precisel
 
 I see us misjudging in thinking in terms of a **race**. From the inside, this year can feel like a scoreboard — like losing some race: readers arriving somewhere else; answers delivered by systems that never show your name.
 
-But as I advise leaders in jurisdictions — and spiritual leadership — I think a race with AI, or an AI race, is really the wrong frame. And not just for us. I say this to everyone. Because a race implies a finishing line, and the AI race has a finishing line called the **singularity**, which is defined precisely as something literally beyond human comprehension. So, nobody can win a race whose end we cannot even reason. The labs sprinting hardest cannot win the race either.
+But as I advise leaders in jurisdictions — and spiritual leadership — I think a race with AI, or an AI race, is really the wrong frame. And not just for us. I say this to everyone. Because a race implies a finishing line, and the AI race has a finishing line called the **singularity**, which is defined precisely as something literally beyond human comprehension. So, nobody can win a race whose end we cannot even reason about. The labs sprinting hardest cannot win the race either.
 
 But, we like to talk about a **mission**, because we’re a movement. Right? And a mission is different, because the mission has milestones. And also, missions are what people align with.
 
@@ -90,7 +90,7 @@ Yeah. So all of you: you have **one sentence only** to answer this question. Com
 
 ### Netha Hussain:
 
-The single biggest shift for me as a community member would be our **reader visibility**. People don’t see the edit button. They don’t engage with us on our talk pages. They don’t see our citations — which is the biggest problem I face as a volunteer editor as of now.
+The single biggest shift for me as a community member would be our **reduced visibility**. People don’t see the edit button. They don’t engage with us on our talk pages. They don’t see our citations — which is the biggest problem I face as a volunteer editor as of now.
 
 ### Ilario Valdelli:
 
@@ -120,7 +120,7 @@ Sure. One where it’s genuinely useful is around things like **auto moderation*
 
 I think the hype that I see in general is the idea that when you have these AIs, you won’t need people to do stuff, or there isn’t value in humans doing stuff. Because what I see when I talk to folks in AI is: “AI can write text. Wikipedia is a bunch of text. Why doesn’t the AI just write Wikipedia?” But in fact, what I explain to them is: what the volunteers do — what you all do — the very last step is the text. You interface as text, but it’s about looking at sources, making judgments, thinking about things, discussing things, and the sentences of the article are at the very, very end of that. All that other work is not just writing text. And so if you have an LLM who’s just writing a bunch of text, you don’t actually get there.
 
-And we see things like **Grokipedia** has actually really struggled from the fact that by replacing humans with just AI, they’ve had lots of problems. One of the articles cited — a volunteer would have got that immediately: wait a minute, this is an article on Russia, you’re citing the Kremlin — that’s obviously a biased source. And the AI just didn’t get that part. And there is something that through discussion and through consensus-building — that is a magical model that’s worked for a really long time. And the LLMs are just not there yet.
+And we see things like **Grokipedia** has actually really struggled from the fact that by replacing humans with just AI, they’ve had lots of problems. One of the articles cited the Kremlin, right? And a volunteer would have got that immediately: wait a minute, this is an article on Russia, you’re citing the Kremlin — that’s obviously a biased source. And the AI just didn’t get that part. And there is something that through discussion and through consensus-building — that is a magical model that’s worked for a really long time. And the LLMs are just not there yet.
 
 ### Solenne Lazare:
 
@@ -140,7 +140,7 @@ Thank you so much. Really interesting hearing both of you talk, as you are both 
 
 ### Ilario Valdelli:
 
-I can give only my perspective. In my role, I like experimentation. I must experiment. I think the best is to understand when finished experimentation, when the start of the product and the service. So don’t consider that everything must be transformed into product and service — and understand what a lifecycle means. Something that does not produce an impact must be stopped. Very simple. I want to say that this is not my rule. But I can bring only this perspective from my side.
+I can give only my perspective. In my role, I like experimentation. I must experiment. I think the best is to understand when finished experimentation, when the start of the product and the service. So don’t consider that everything must be transformed into product and service — and understand what a lifecycle means. Something that does not produce an impact must be stopped. Very simple. I don’t want to say that — that is not my role. But I can bring only this perspective from my side.
 
 ### Chris Albon:
 
@@ -192,7 +192,7 @@ On the other hand, gen AI would also magnify my content. So whatever I write on 
 
 ### Solenne Lazare:
 
-Yeah. What would you tell a 19-year-old starting to edit in 2026? And I think that’s the perfect bridge with what you were saying. One sentence — in one sentence, of course. I’m even harder on the clock than I am.
+Yeah. What would you tell a 19-year-old starting to edit in 2026? And I think that’s the perfect bridge with what you were saying. One sentence — in one sentence, of course. Shani is even harder on the clock than I am.
 
 Lane, do you want to start?
 
@@ -246,9 +246,9 @@ Certainly. I call it a **Kami (knowledge artefact management intelligence)**. It
 
 Why did I build this? Jimmy described the reader whose machines will visit 50 pages while the human sees zero. And that is actually coming to every laptop now. So, the only question is: Who does it answer to? And I want Kami to answer to the relationship that it actually serves — not to whoever is renting it out.
 
-Honestly, I don’t trust my own epistemic discipline. I also hallucinate. Or anyone to steer something unbounded. So, the failure mode I fear is not the machine that refused to care for us. It is one that cares for us so well that we forget to care for each other. To imagine this relational care: it’s like sending our robots to the gym to lift weights for us, and then we lose muscle, and then we lose friends as well. So, a Kami is my hedge against that possibility. It’s small enough to inspect, local enough to own, and mortal enough to let go of. It’s just scaffolding. This is a property I trust most: this bounded relational care.
+Honestly, I don’t trust my own epistemic discipline. I also hallucinate. Or anyone to steer something unbounded. So, the failure mode I fear is not the machine that refused to care for us. It is one that cares for us so well that we forget how to care for each other — how to imagine this relational care. It’s like sending our robots to the gym to lift weights for us, and then we lose muscle, and then we lose friends as well. So, a Kami is my hedge against that possibility. It’s small enough to inspect, local enough to own, and mortal enough to let go of. It’s just scaffolding. This is a property I trust most: this bounded relational care.
 
-Do I have some house rules. Right? Every claim must be traced to a ledger or it’s rejected — and that answers Netha’s fear of citations vanishing. Every reading session ends with a write-back, so it returns something to the commons, to the sources it reads from. So the 50 invisible visits are not 50 extractions. It’s not data oil. It is **data soil**.
+And I do have some house rules, right? Every claim must be traced to a ledger or it’s rejected — and that answers Netha’s fear of citations vanishing. Every reading session ends with a write-back, so it returns something to the commons, to the sources it reads from. So the 50 invisible visits are not 50 extractions. It’s not data oil. It is **data soil**.
 
 So, I think the **talk-page protocol** is what we really need to work on: When two sources disagree, how to surface that conflict to a human, instead of silently resolving it — and to make the talk-page protocols also work inter-Kami. The text is the last step. The real work is just judgment, discussion, consensus and how to make that work. We have some ideas. We experiment on **Habermolt** — basically asking a Kami to enter into a Habermasian discussion. But that’s just one of the very early pilots. So, I also invite you to keep a Kami, and to engage in talk-page protocols.
 
@@ -328,7 +328,7 @@ Thank you for that. I appreciate it. Ilario.
 
 ### Ilario Valdelli:
 
-I agree on this point that everything we give is a gift. So Commons is gift — but there is also a limit. So when this gift starts to be extraction — so really used not in favor of society. I want to say: imagine a source of water, and people can bring to this source of water. After, someone takes this water to cool down the data center — an example. So basically I’m not using very well the commons. This is the point: the knowledge commons. I consider myself not only gift. What I do in Wikimedia projects is really an example — showing to other people: I like to donate to other people my knowledge; you should do the same. Okay? If you don’t give back, it’s not mandatory — but follow my example.
+I agree on this point that everything we give is a gift. So Commons is gift — but there is also a limit. So when this gift starts to be extraction — so really used not in favor of society. I want to say: imagine a source of water, and people can drink to this source of water. After, someone takes this water to cool down the data center — an example. So basically I’m not using very well the commons. This is the point: the knowledge commons. I consider myself not only gift. What I do in Wikimedia projects is really an example — showing to other people: I like to donate to other people my knowledge; you should do the same. Okay? If you don’t give back, it’s not mandatory — but follow my example.
 
 ### Shani Evenstein Sigalov:
 
@@ -412,9 +412,9 @@ And so I think it’s much less at stake. It’s like: finally we’re seeing X.
 
 In the interest of time, I’ll briefly stop here — but I can talk for three hours.
 
-### Audience (Patrick Gildeslee, University of Exeter):
+### Audience (Patrick Gildersleve, University of Exeter):
 
-Patrick Gildeslee from the University of Exeter. Thank you very much for the panel. I’ve seen lots of stuff this week about very cool applications of AI tools and thinking about practical implications of AI and Wikipedia. AI is also a political project. And a lot of these hypercapitalist companies, as Lane was mentioning, have political alliances with authoritarian governments and military surveillance and such. And some of them are very explicitly against the commons — digital — or even using up other commons resources. How can we reconcile this, or think about resisting this AI as a political project? Should the community be doing this, and how? Thank you.
+Patrick Gildersleve from the University of Exeter. Thank you very much for the panel. I’ve seen lots of stuff this week about very cool applications of AI tools and thinking about practical implications of AI and Wikipedia. AI is also a political project. And a lot of these hypercapitalist companies, as Lane was mentioning, have political alliances with authoritarian governments and military surveillance and such. And some of them are very explicitly against the commons — digital — or even using up other commons resources. How can we reconcile this, or think about resisting this AI as a political project? Should the community be doing this, and how? Thank you.
 
 ### Shani Evenstein Sigalov:
 
@@ -432,7 +432,7 @@ Thank you, Lane. Chris is the person who is building the tools. Do you want to c
 
 ### Chris Albon:
 
-Yeah. So one of the things that actually I’ve spent a lot of time on long walks thinking about is: why isn’t there a for-profit Wikipedia that is a super competitor? Why isn’t there one of these big AI companies that makes their own Wikipedia, and it’s successful, and everyone has to pay ten a month to go to it, or some notion like that?
+Yeah. So one of the things that actually I’ve spent a lot of time on long walks thinking about is: why isn’t there a for-profit Wikipedia that is a super competitor? Why isn’t there one of these big AI companies that makes their own Wikipedia, and it’s successful, and everyone has to pay ten bucks a month to go to it, or some notion like that?
 
 And the actual reason — I think the true reason — is that Wikipedia exists. Simply the fact that Wikipedia exists, and all the work that you do, carves out a space that any commercial entity has to compete with Wikipedia in order for it to be financially viable. But Wikipedia is free. So now they have to compete with free, and it’s highly reliable, and it’s super social, and all that kind of stuff. So every single time you make an edit, you are carving out the space that in this particular medium — of an encyclopedia that’s online and free and gifted to everybody, and easily accessible, and multilingual — you are creating that space that is very, very difficult for a corporate entity to come into for it to be financially viable.
 
@@ -446,13 +446,13 @@ Netha, do you want to close this round on this? Because Chris, in essence, put i
 
 I think our volunteers should harness all possible potential that AI offers us to be able to help them to do meaningful work. For different volunteers, meaningful work would mean different things. And AI should be there to support the volunteers in all possible ways we can, so that our editors, our volunteer editors, can do what they enjoy doing the most.
 
-### Solenne Lazare:
+### Shani Evenstein Sigalov:
 
 Thank you. Solenne, do you want to—
 
 ### Audience (Gabriel, Geneva):
 
-So, I’m Gabriel from Geneva, Switzerland. Just to frame my question: I’m a school teacher. Back in the 1990s — like starting ’95 — I was teaching my students about the web and websites by creating websites. So they would create websites. Ten years later or so, like 2006, I was teaching them about Wikipedia and how to use an encyclopedia, how to edit or add information to the encyclopedia. Then we moved on… And so my question is: how could I do similar work with my students to teach them about using AI?
+So, I’m Gabriel from Geneva, Switzerland. Just to frame my question: I’m a school teacher. Back in the 1990s — like starting ’95 — I was teaching my students about the web and websites by creating websites. So they would create websites. Ten years later or so, like 2006, I was teaching them about Wikipedia and how to use an encyclopedia, how to edit or add information to the encyclopedia. Then we moved on to Vikidia. And so my question is: how could I do similar work with my students to teach them about using AI?
 
 ### Solenne Lazare:
 
@@ -466,7 +466,7 @@ And that’s where — for example with websites — we were apparently making w
 
 ### Shani Evenstein Sigalov:
 
-Thank you, Chris. And I’ll just maybe wrap your question by mentioning — because I’m an educator, and I actually specialize in technology and learning; that’s what I do — and interested in the epistemology of knowledge systems and how literacies happen and how we consume knowledge and produce knowledge: I think the question of literacy and how we teach AI literacy is what our generation will have to address by far. And my personal claim is that Wikimedians are best placed to teach that, because we are already doing all of the work of what critical thinking is, and understanding resources and referencing and how knowledge is constructed. I think we’re really well suited to do the type of experiments through our platforms with students as we have been for the past fifteen years — experimenting in the classroom with Wikipedia, and Wikidata, I would say, some other platforms as well. But that needs to continue, and in a more maybe elaborate phase — but that’s a different discussion.
+Thank you, Chris. And I’ll just maybe wrap your question by mentioning — because I’m an educator, and I actually specialize in technology and learning; that’s what I do — and interested in the epistemology of knowledge systems and how literacies happen and how we consume knowledge and produce knowledge: I think the question of literacy and how we teach AI literacy is what our generation will have to address by far. And my personal claim is that Wikimedians are best placed to teach that, because we are already doing all of the work of what critical thinking is, and understanding sources and referencing and how knowledge is constructed. I think we’re really well suited to do the type of experiments through our platforms with students as we have been for the past fifteen years — experimenting in the classroom with Wikipedia, and Wikidata, I would say, some other platforms as well. But that needs to continue, and in a more maybe elaborate phase — but that’s a different discussion.
 
 ## Closing — Audrey’s 2030 hope; Jimmy’s last word; wrap
 
@@ -486,7 +486,7 @@ But today, for every dollar making AI more capable, only a fraction goes to the 
 
 So, I think that we can resist by doing what the movement does best: by demonstrating the alternative norm. In Taiwan, we call it **forking the government**. We build a free version. We prove it works. We force the government to merge it back. History shows that institutions, when forked this way — in a way that can absorb a technology — can be rebuilt in the image of something that holds the technology best.
 
-And the Wikipedia movement is already that — in the image of the commons. If we can extend that to the Age of AI, so that extracted versions are outcompeted by the demo of provenance and verification and contestability, that’s my hope for 2030: Because every answer shows its sources. That is something that’s the mission, not the race. And the singularity — the race — can only ask who wins. But Plurality, the movement, can ask who is missing. And the movement has only ever asked that question: Who is still missing in the room? Don’t ever stop.
+And the Wikipedia movement is already that — in the image of the commons. If we can extend that to the Age of AI, so that extractive versions are outcompeted by the demo of provenance and verification and contestability, that’s my hope for 2030: Because every answer shows its sources. That is something that’s the mission, not the race. And the singularity — the race — can only ask who wins. But Plurality, the movement, can ask who is missing. And the movement has only ever asked that question: Who is still missing in the room? Don’t ever stop.
 
 ### Shani Evenstein Sigalov:
 
