@@ -5,7 +5,9 @@
  *
  * Usage: bun run push -- [git push args…]   e.g. bun run push -- origin main
  *
- * Plain `git push` does NOT run bake — Git has no post-push hook.
+ * Plain `git push` also bakes — the pre-push hook detaches it to a background
+ * process logging to .git/og-lanyang-bake.log. This wrapper bakes in the
+ * foreground instead, so use it when you want to watch the bake.
  * Skip bake: TRANSCRIPT_SKIP_LANYANG_OG=1 bun run push -- …
  */
 import { spawnSync } from 'node:child_process';
@@ -17,6 +19,9 @@ const gitArgs = process.argv.slice(2);
 const push = spawnSync('git', ['push', ...gitArgs], {
 	cwd: REPO_ROOT,
 	stdio: 'inherit',
+	// Tells the pre-push hook not to detach its own bake — this script bakes
+	// below, in the foreground, where the operator can see the output.
+	env: { ...process.env, TRANSCRIPT_LANYANG_PUSH_WRAPPER: '1' },
 });
 if (push.status !== 0) {
 	process.exit(push.status ?? 1);

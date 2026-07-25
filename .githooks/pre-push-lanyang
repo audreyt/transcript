@@ -1,5 +1,6 @@
 #!/bin/sh
-# Record upstream..HEAD when pushing root *.md (read by bake_lanyang_after_push after `bun run push`).
+# Record upstream..HEAD when pushing root *.md, then detach the Lanyang OG bake
+# (Git has no post-push hook, so the bake polls origin before doing any work).
 set -e
 cd "$(git rev-parse --show-toplevel)"
 
@@ -7,10 +8,33 @@ upstream=$(git rev-parse --abbrev-ref --symbolic-full-name '@{u}' 2>/dev/null) |
 before=$(git rev-parse '@{u}' 2>/dev/null) || exit 0
 after=$(git rev-parse HEAD)
 
-if ! git diff --name-only "$before" "$after" -- '*.md' | grep -q '[.]md$'; then
+# core.quotePath=false: Git otherwise quotes non-ASCII paths, so a CJK-titled
+# transcript ends in `"` not `.md` and every Chinese push would skip the bake.
+if ! git -c core.quotePath=false diff --name-only "$before" "$after" -- '*.md' | grep -q '[.]md$'; then
 	rm -f .git/og-lanyang-push.json
 	exit 0
 fi
 
 printf '{"before":"%s","after":"%s"}\n' "$before" "$after" > .git/og-lanyang-push.json
+
+# `bun run push` bakes in the foreground with visible output — don't double-bake.
+if [ "${TRANSCRIPT_LANYANG_PUSH_WRAPPER:-}" = "1" ]; then
+	exit 0
+fi
+
+# Git has no post-push hook, so plain `git push` would otherwise leave the marker
+# unconsumed and the OG stuck on the Noto fallback. Detach the bake; it polls
+# origin first and does nothing if this push fails.
+bun=$(command -v bun 2>/dev/null || echo "$HOME/.bun/bin/bun")
+if [ -x "$bun" ]; then
+	log=.git/og-lanyang-bake.log
+	: > "$log"
+	# Subshell double-fork, not nohup: BSD nohup fails with "can't detach from
+	# console" here, and the redirections already free Git's stdio pipes.
+	( "$bun" scripts/bake_lanyang_after_push.ts >>"$log" 2>&1 </dev/null & )
+	echo "[lanyang-og] bake detached — tail -f $(git rev-parse --show-toplevel)/$log"
+else
+	echo "[lanyang-og] bun not found — OG bake skipped; run 'bun run bake-og' after the push"
+fi
+
 exit 0

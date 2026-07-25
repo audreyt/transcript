@@ -77,6 +77,6 @@ stripPostPushFromPrePush();
 pruneDeadPostPushHook();
 chainPrePush();
 
-console.log('Done. Use: bun run push -- [remote] [branch]  (git push + Lanyang bake)');
-console.log('Plain git push: CI/sync only unless you run bun run bake-og');
-console.log('Skip bake: TRANSCRIPT_SKIP_LANYANG_OG=1 bun run push -- …');
+console.log('Done. Plain git push now bakes too - detached, log at .git/og-lanyang-bake.log');
+console.log('Watch the bake: bun run push -- [remote] [branch]  (bakes in the foreground)');
+console.log('Skip bake: TRANSCRIPT_SKIP_LANYANG_OG=1');
