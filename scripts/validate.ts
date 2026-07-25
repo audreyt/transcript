@@ -244,12 +244,14 @@ export function gitChangedPaths(
   gitRunner: GitRunner = defaultGitRunner,
 ): { mdChanged: string[]; mdDeleted: string[]; alternatesChanged: boolean } {
   const diff = (filter: string): string[] => {
+    // -z: without it Git quotes non-ASCII paths, so a CJK-titled transcript
+    // parses as ext `.md"` and silently escapes validation.
     const output = gitRunner(
-      ["diff", "--name-only", `--diff-filter=${filter}`, `${baseRef}...HEAD`],
+      ["diff", "--name-only", "-z", `--diff-filter=${filter}`, `${baseRef}...HEAD`],
       { cwd: repoRoot },
     );
     return output
-      .split(/\r?\n/)
+      .split(/[\0\r\n]/)
       .map((line) => line.trim())
       .filter(Boolean);
   };
