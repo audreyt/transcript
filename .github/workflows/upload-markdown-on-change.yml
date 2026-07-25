@@ -121,6 +121,9 @@ jobs:
 
   bake-og-lanyang:
     needs: rebuild-search-index
+    # A no-op manual dispatch has no Markdown images to bake; do not queue a
+    # licensed self-hosted runner merely to reach the script's "nothing to bake" exit.
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.before_sha != github.sha }}
     # Licensed jf fonts live on this Mac only — not ubuntu-latest.
     runs-on: self-hosted
     steps:
