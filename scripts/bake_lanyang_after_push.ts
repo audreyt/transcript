@@ -37,13 +37,15 @@ function readMarker(): Marker | null {
 }
 
 function mdChanged(before: string, after: string): boolean {
+	// -z: without it Git quotes non-ASCII paths ("2026-…-\343\200\214….md"), so
+	// every CJK-titled transcript would fail the .md suffix test and skip the bake.
 	const out = execFileSync(
 		'git',
-		['diff', '--name-only', before, after, '--', '*.md'],
+		['diff', '--name-only', '-z', before, after, '--', '*.md'],
 		{ cwd: REPO_ROOT, encoding: 'utf-8' }
 	);
 	return out
-		.split('\n')
+		.split('\0')
 		.map((line) => line.trim())
 		.some((file) => file.endsWith('.md') && !Object.hasOwn(NON_TRANSCRIPT_MARKDOWN, file));
 }
@@ -74,8 +76,52 @@ function runBake(hono: string, bakeScript: string, marker: Marker): string {
 	return execFileSync(
 		'bun',
 		['run', bakeScript, '--git', marker.before, marker.after, '--transcript-root', REPO_ROOT],
-		{ cwd: hono, encoding: 'utf-8', env: process.env }
+		{
+			cwd: hono,
+			encoding: 'utf-8',
+			// The licensed bake intentionally writes the production bucket (CI passes
+			// the same opt-in); REQUIRE_LANYANG_FONTS makes a font miss fail loudly
+			// instead of exiting 0 and silently leaving the Noto fallback live.
+			env: { ...process.env, ALLOW_PROD_R2: '1', REQUIRE_LANYANG_FONTS: '1' },
+		}
 	);
+}
+
+/**
+ * True once `after` is reachable from the tracked remote branch. Ancestry, not
+ * `ls-remote`: that lists only ref tips, so a follow-up push would strand the
+ * previous bake even though its commits did land.
+ */
+function remoteHasCommit(after: string): boolean {
+	try {
+		// A push from this repo already moved the tracking ref; fetching also
+		// covers the case where the branch advanced from somewhere else.
+		execFileSync('git', ['fetch', '--quiet', 'origin'], { cwd: REPO_ROOT, stdio: 'pipe' });
+	} catch {
+		// Offline — fall through and judge on whatever the tracking ref knows.
+	}
+	try {
+		const upstream = execFileSync('git', ['rev-parse', '--abbrev-ref', '--symbolic-full-name', '@{u}'], {
+			cwd: REPO_ROOT,
+			encoding: 'utf-8',
+		}).trim();
+		execFileSync('git', ['merge-base', '--is-ancestor', after, upstream], { cwd: REPO_ROOT, stdio: 'pipe' });
+		return true;
+	} catch {
+		return false;
+	}
+}
+
+/** pre-push detaches this bake before the push is known to succeed. */
+async function waitForPushLanded(after: string, maxMs: number): Promise<boolean> {
+	const step = 5_000;
+	let waited = 0;
+	while (waited <= maxMs) {
+		if (remoteHasCommit(after)) return true;
+		await sleep(step);
+		waited += step;
+	}
+	return false;
 }
 
 async function main(): Promise<void> {
@@ -99,6 +145,11 @@ async function main(): Promise<void> {
 	const bakeScript = join(hono, 'scripts', 'bake-og-lanyang.ts');
 	if (!existsSync(bakeScript)) {
 		console.warn(`[lanyang-og] sayit-hono not found at ${hono} — skip (set SAYIT_HONO_ROOT)`);
+		return;
+	}
+
+	if (!(await waitForPushLanded(marker.after, 120_000))) {
+		console.warn('[lanyang-og] push never landed on origin — skip bake');
 		return;
 	}
 
