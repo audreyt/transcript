@@ -3,6 +3,9 @@
  * After a transcript push: bake Lanyang OG for changed root *.md (licensed Mac only).
  * Reads range from .git/og-lanyang-push.json (written by pre-push hook).
  *
+ * One-off repair of an already-published speech (no marker needed):
+ *   bun run bake-og -- --filename '2026-07-24-「維基媒體與-ai-現況」座談'
+ *
  * Env:
  *   TRANSCRIPT_SKIP_LANYANG_OG=1  — skip (hook still clears marker)
  *   SAYIT_HONO_ROOT               — default ../sayit-hono from repo root
@@ -72,10 +75,10 @@ function lanyangFontsOk(hono: string): boolean {
 	}
 }
 
-function runBake(hono: string, bakeScript: string, marker: Marker): string {
+function runBake(hono: string, bakeScript: string, bakeArgs: string[]): string {
 	return execFileSync(
 		'bun',
-		['run', bakeScript, '--git', marker.before, marker.after, '--transcript-root', REPO_ROOT],
+		['run', bakeScript, ...bakeArgs],
 		{
 			cwd: hono,
 			encoding: 'utf-8',
@@ -124,7 +127,41 @@ async function waitForPushLanded(after: string, maxMs: number): Promise<boolean>
 	return false;
 }
 
+/**
+ * One-off rebake of an already-published speech:
+ *   bun run bake-og -- --filename '2026-07-24-「維基媒體與-ai-現況」座談'
+ * The push path is marker-driven, so it can never reach a file that already
+ * landed on origin. This is the escape hatch for repairing a stale OG.
+ */
+function filenameOverride(): string | null {
+	const at = process.argv.indexOf('--filename');
+	const name = at >= 0 ? process.argv[at + 1] : undefined;
+	return name && !name.startsWith('--') ? name : null;
+}
+
 async function main(): Promise<void> {
+	// A deliberate one-off outranks TRANSCRIPT_SKIP_LANYANG_OG, which exists to
+	// mute automatic push bakes.
+	const only = filenameOverride();
+	if (only) {
+		const hono = sayitHonoRoot();
+		const bakeScript = join(hono, 'scripts', 'bake-og-lanyang.ts');
+		if (!existsSync(bakeScript)) {
+			console.error(`[lanyang-og] sayit-hono not found at ${hono} (set SAYIT_HONO_ROOT)`);
+			process.exitCode = 1;
+			return;
+		}
+		try {
+			process.stdout.write(runBake(hono, bakeScript, ['--filename', only]));
+		} catch (err) {
+			const failed = err as { stdout?: string; stderr?: string };
+			process.stdout.write(failed.stdout ?? '');
+			process.stderr.write(failed.stderr ?? `${String(err)}\n`);
+			process.exitCode = 1;
+		}
+		return;
+	}
+
 	if (process.env.TRANSCRIPT_SKIP_LANYANG_OG === '1') {
 		console.log('[lanyang-og] TRANSCRIPT_SKIP_LANYANG_OG=1 — skip');
 		return;
@@ -164,7 +201,7 @@ async function main(): Promise<void> {
 	console.log('[lanyang-og] waiting for archive.tw speech_index (CI sync)…');
 
 	while (waited <= waitMs) {
-		const out = runBake(hono, bakeScript, marker);
+		const out = runBake(hono, bakeScript, ['--git', marker.before, marker.after, '--transcript-root', REPO_ROOT]);
 		process.stdout.write(out);
 		if (!out.includes('nothing to bake') && !/→ 0 speech slug/.test(out)) {
 			return;
@@ -180,6 +217,8 @@ async function main(): Promise<void> {
 
 main()
 	.finally(() => {
+		// A --filename bake must not consume a pending push marker.
+		if (filenameOverride()) return;
 		try {
 			rmSync(MARKER, { force: true });
 		} catch {
