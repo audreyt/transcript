@@ -1,0 +1,43 @@
+name: Bake Lanyang OG
+
+on:
+  workflow_dispatch:
+    inputs:
+      filename:
+        description: D1 speech filename, without .md or .png
+        required: true
+        type: string
+
+jobs:
+  bake:
+    # Licensed jf Lanyang fonts are installed only on the dedicated Mac runner.
+    runs-on: self-hosted
+    steps:
+      - name: Checkout sayit-hono
+        uses: actions/checkout@v6
+        with:
+          repository: bestian/sayit-hono
+          ref: main
+          path: sayit-hono
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install sayit-hono dependencies
+        working-directory: sayit-hono
+        run: bun install --frozen-lockfile
+
+      - name: Bake licensed Lanyang OG PNG
+        working-directory: sayit-hono
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          ALLOW_PROD_R2: 1
+          REQUIRE_LANYANG_FONTS: 1
+          FILENAME: ${{ inputs.filename }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          bun run scripts/bake-og-lanyang.ts --filename "${FILENAME}"
