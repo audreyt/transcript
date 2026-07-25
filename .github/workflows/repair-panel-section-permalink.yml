@@ -3,80 +3,70 @@ name: Repair panel section permalink
 on:
   workflow_dispatch:
 
+concurrency:
+  group: repair-panel-section-permalink
+  cancel-in-progress: false
+
 jobs:
   restore-section-id:
     runs-on: ubuntu-latest
+    env:
+      API_ENDPOINT: https://archive.tw/api/upload_markdown
+      AUDREYT_TRANSCRIPT_TOKEN: ${{ secrets.AUDREYT_TRANSCRIPT_TOKEN }}
+      BESTIAN_TRANSCRIPT_TOKEN: ${{ secrets.BESTIAN_TRANSCRIPT_TOKEN }}
     steps:
-      - name: Checkout sayit-hono
+      - name: Checkout transcript
         uses: actions/checkout@v6
-        with:
-          repository: bestian/sayit-hono
-          ref: main
-          path: sayit-hono
+
+      - name: Resolve token
+        id: token
+        shell: bash
+        run: |
+          audreyt="${AUDREYT_TRANSCRIPT_TOKEN:-}"
+          bestian="${BESTIAN_TRANSCRIPT_TOKEN:-}"
+          if [ -n "${audreyt}" ]; then
+            echo "Using AUDREYT_TRANSCRIPT_TOKEN" >&2
+            echo "value=${audreyt}" >> "${GITHUB_OUTPUT}"
+          elif [ -n "${bestian}" ]; then
+            echo "::warning::AUDREYT_TRANSCRIPT_TOKEN is empty or unset; falling back to BESTIAN_TRANSCRIPT_TOKEN" >&2
+            echo "value=${bestian}" >> "${GITHUB_OUTPUT}"
+          else
+            echo "Neither AUDREYT_TRANSCRIPT_TOKEN nor BESTIAN_TRANSCRIPT_TOKEN is set (or both are empty)." >&2
+            exit 1
+          fi
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
 
-      - name: Install sayit-hono dependencies
-        working-directory: sayit-hono
+      - name: Install dependencies
         run: bun install --frozen-lockfile
 
       - name: Restore panel section permalinks
-        working-directory: sayit-hono
         env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          TOKEN: ${{ steps.token.outputs.value }}
+        shell: bash
         run: |
           set -euo pipefail
-          english_filename='2026-07-24-state-of-wikimedia-and-ai-panel'
-          chinese_filename='2026-07-24-「維基媒體與-ai-現況」座談'
-          english_current_start=63868115
-          english_current_end=63868272
-          english_offset=1422
-          chinese_current_start=63868273
-          chinese_current_end=63868430
-          chinese_offset=316
-          old_bookend_id=63866711
+          response="$(curl --fail-with-body --retry 8 --retry-all-errors --retry-delay 2 --retry-max-time 180 --silent --show-error --request POST https://archive.tw/api/repair_panel_section_ids --header "Authorization: Bearer ${TOKEN}")"
+          printf '%s\n' "${response}"
+          printf '%s' "${response}" | jq -e '.success == true and (.repaired | type == "boolean")' >/dev/null
 
-          preflight_sql="
-            SELECT
-              (SELECT COUNT(*) FROM speech_content WHERE section_id BETWEEN 63866693 AND 63866850) AS english_old_rows,
-              (SELECT COUNT(*) FROM speech_content WHERE section_id BETWEEN 63867957 AND 63868114) AS chinese_old_rows,
-              (SELECT COUNT(*) FROM speech_content WHERE filename = '${english_filename}' AND section_id BETWEEN ${english_current_start} AND ${english_current_end}) AS english_current_rows,
-              (SELECT COUNT(*) FROM speech_content WHERE filename = '${chinese_filename}' AND section_id BETWEEN ${chinese_current_start} AND ${chinese_current_end}) AS chinese_current_rows,
-              (SELECT COUNT(*) FROM speech_content WHERE filename = '${english_filename}' AND section_id = 63868133 AND section_speaker IS NULL AND section_content LIKE '<h2>Bookend II — Audrey Tang: mission, not race</h2>%') AS heading_rows;
-          "
-          bunx wrangler d1 execute sayit-database --remote --yes --command "${preflight_sql}" --json | tee /tmp/panel-permalink-preflight.json
-          jq -e '.[0] | (.success and (.results[0].english_old_rows == 0) and (.results[0].chinese_old_rows == 0) and (.results[0].english_current_rows == 158) and (.results[0].chinese_current_rows == 158) and (.results[0].heading_rows == 1))' /tmp/panel-permalink-preflight.json >/dev/null
+      - name: Refresh the two repaired panel documents
+        env:
+          TOKEN: ${{ steps.token.outputs.value }}
+          API_REDIRECTS_ENDPOINT: ""
+        shell: bash
+        run: |
+          bun -e '
+            import { runSync } from "./scripts/sync_markdown.ts";
 
-          restore_sql="
-            UPDATE speech_content
-            SET
-              section_id = CASE
-                WHEN filename = '${english_filename}' THEN section_id - ${english_offset}
-                ELSE section_id - ${chinese_offset}
-              END,
-              previous_section_id = CASE
-                WHEN previous_section_id BETWEEN ${english_current_start} AND ${english_current_end} THEN previous_section_id - ${english_offset}
-                WHEN previous_section_id BETWEEN ${chinese_current_start} AND ${chinese_current_end} THEN previous_section_id - ${chinese_offset}
-                ELSE previous_section_id
-              END,
-              next_section_id = CASE
-                WHEN next_section_id BETWEEN ${english_current_start} AND ${english_current_end} THEN next_section_id - ${english_offset}
-                WHEN next_section_id BETWEEN ${chinese_current_start} AND ${chinese_current_end} THEN next_section_id - ${chinese_offset}
-                ELSE next_section_id
-              END
-            WHERE filename IN ('${english_filename}', '${chinese_filename}')
-              AND section_id BETWEEN ${english_current_start} AND ${chinese_current_end};
-            SELECT filename, COUNT(*) AS section_count, MIN(section_id) AS min_id, MAX(section_id) AS max_id
-            FROM speech_content
-            WHERE filename IN ('${english_filename}', '${chinese_filename}')
-            GROUP BY filename;
-            SELECT section_id, section_speaker, section_content
-            FROM speech_content
-            WHERE section_id = ${old_bookend_id};
-          "
-          bunx wrangler d1 execute sayit-database --remote --yes --command "${restore_sql}" --json | tee /tmp/panel-permalink-result.json
-          jq -e '.[0].success and .[1].success and .[2].success and (.[1].results | any(.[]; .filename == "2026-07-24-state-of-wikimedia-and-ai-panel" and .section_count == 158 and .min_id == 63866693 and .max_id == 63866850)) and (.[1].results | any(.[]; .filename == "2026-07-24-「維基媒體與-ai-現況」座談" and .section_count == 158 and .min_id == 63867957 and .max_id == 63868114)) and (.[2].results | length == 1) and (.[2].results[0].section_id == 63866711) and (.[2].results[0].section_speaker == null) and (.[2].results[0].section_content | startswith("<h2>Bookend II — Audrey Tang: mission, not race</h2>"))' /tmp/panel-permalink-result.json >/dev/null
+            const changedFiles = [
+              "2026-07-24-State-of-Wikimedia-and-AI-Panel.md",
+              "2026-07-24-「維基媒體與-AI-現況」座談.md",
+            ];
+            const diff = changedFiles.map((filename) => `M\0${filename}\0`).join("");
+            const status = await runSync(process.env, [], { git: () => diff });
+            process.exit(status);
+          '
