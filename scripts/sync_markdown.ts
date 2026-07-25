@@ -133,8 +133,18 @@ function uniq(values: string[]): string[] {
   return [...new Set(values)];
 }
 
+const NON_TRANSCRIPT_MARKDOWN: Record<string, true> = {
+  "AGENTS.md": true,
+  "README.md": true,
+};
+
 function isRootMarkdown(relativePath: string): boolean {
-  return relativePath.endsWith(".md") && !relativePath.includes("/") && !relativePath.includes(path.sep);
+  return (
+    relativePath.endsWith(".md") &&
+    !relativePath.includes("/") &&
+    !relativePath.includes(path.sep) &&
+    !Object.hasOwn(NON_TRANSCRIPT_MARKDOWN, relativePath)
+  );
 }
 
 export function parseNameStatusDiff(diffOutput: string): DiffSummary {

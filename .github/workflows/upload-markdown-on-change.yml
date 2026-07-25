@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - "*.md"
+      - "!AGENTS.md"
+      - "!README.md"
       - ".alternates"
       - ".redirects"
       - "scripts/sync_markdown.ts"

@@ -59,13 +59,15 @@ describe("validateFilename", () => {
     expect(result[0]?.message).toContain("NFC");
   });
 
-  test("allows grandfathered names", () => {
+  test("allows maintainer Markdown filenames", () => {
     const root = createTempDir();
-    const filePath = path.join(root, "README.md");
-    writeFileSync(filePath, "", "utf-8");
-    const result = failures();
-    validateFilename(filePath, result);
-    expect(result).toEqual([]);
+    for (const fileName of ["README.md", "AGENTS.md"]) {
+      const filePath = path.join(root, fileName);
+      writeFileSync(filePath, "", "utf-8");
+      const result = failures();
+      validateFilename(filePath, result);
+      expect(result).toEqual([]);
+    }
   });
 });
 
@@ -222,12 +224,12 @@ describe("validateAlternates", () => {
 });
 
 describe("gitChangedPaths", () => {
-  test("filters to root markdown and alternates", () => {
+  test("filters to published root markdown and alternates", () => {
     const calls: string[][] = [];
     const gitRunner = (args: string[]) => {
       calls.push(args);
       if (args.includes("--diff-filter=ACMR")) {
-        return "a.md\nnested/b.md\n.alternates\n";
+        return "a.md\nAGENTS.md\nREADME.md\nnested/b.md\n.alternates\n";
       }
       return "gone.md\nnested/c.md\n";
     };
