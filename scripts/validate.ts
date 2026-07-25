@@ -14,12 +14,16 @@ import { execFileSync } from "node:child_process";
 
 export const FILENAME_RE = /^(\d{4})-(\d{2})-(\d{2})-.+\.md$/;
 
-export const GRANDFATHERED_FILENAME = new Set([
-  "README.md",
-  "1999年全國司法改革會議.md",
-  "2019\u201112\u201124-Interview-with-Leen-Vervaeke.md",
-  "2024-03-29「2024 總統盃黑客松」第一次工作小組會議逐字稿.md",
-]);
+const MAINTAINER_MARKDOWN_FILENAMES: Record<string, true> = {
+  "AGENTS.md": true,
+  "README.md": true,
+};
+
+export const GRANDFATHERED_FILENAME: Record<string, true> = {
+  "1999年全國司法改革會議.md": true,
+  "2019\u201112\u201124-Interview-with-Leen-Vervaeke.md": true,
+  "2024-03-29「2024 總統盃黑客松」第一次工作小組會議逐字稿.md": true,
+};
 
 export const GRANDFATHERED_NFC_DRIFT = new Set([
   "2016-01-26-tout-numérique.md",
@@ -89,7 +93,10 @@ function isValidIsoDate(yearText: string, monthText: string, dayText: string): b
 export function validateFilename(filePath: string, failures: Failure[]): void {
   const name = path.basename(filePath);
   const nfc = name.normalize("NFC");
-  if (GRANDFATHERED_FILENAME.has(nfc)) {
+  if (
+    Object.hasOwn(MAINTAINER_MARKDOWN_FILENAMES, nfc) ||
+    Object.hasOwn(GRANDFATHERED_FILENAME, nfc)
+  ) {
     return;
   }
 
@@ -249,7 +256,12 @@ export function gitChangedPaths(
 
   const isRootMarkdown = (relativePath: string): boolean => {
     const parsed = path.parse(relativePath);
-    return parsed.ext === ".md" && !relativePath.includes(path.sep) && !relativePath.includes("/");
+    return (
+      parsed.ext === ".md" &&
+      !relativePath.includes(path.sep) &&
+      !relativePath.includes("/") &&
+      !Object.hasOwn(MAINTAINER_MARKDOWN_FILENAMES, relativePath)
+    );
   };
 
   const addedModified = diff("ACMR");

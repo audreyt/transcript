@@ -14,6 +14,10 @@ import { join, resolve } from 'node:path';
 
 const REPO_ROOT = resolve(import.meta.dirname, '..');
 const MARKER = join(REPO_ROOT, '.git', 'og-lanyang-push.json');
+const NON_TRANSCRIPT_MARKDOWN: Record<string, true> = {
+	'AGENTS.md': true,
+	'README.md': true,
+};
 
 type Marker = { before: string; after: string };
 
@@ -38,7 +42,10 @@ function mdChanged(before: string, after: string): boolean {
 		['diff', '--name-only', before, after, '--', '*.md'],
 		{ cwd: REPO_ROOT, encoding: 'utf-8' }
 	);
-	return out.split('\n').some((l) => l.trim().endsWith('.md'));
+	return out
+		.split('\n')
+		.map((line) => line.trim())
+		.some((file) => file.endsWith('.md') && !Object.hasOwn(NON_TRANSCRIPT_MARKDOWN, file));
 }
 
 async function sleep(ms: number): Promise<void> {
