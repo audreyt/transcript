@@ -19,6 +19,10 @@ jobs:
         with:
           bun-version: latest
 
+      - name: Install sayit-hono dependencies
+        working-directory: sayit-hono
+        run: bun install --frozen-lockfile
+
       - name: Restore panel section permalinks
         working-directory: sayit-hono
         env:
