@@ -1,4 +1,5 @@
 # 2026-07-24 “State of Wikimedia & AI” Panel
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EQ4dNEOlAlY?si=WVoWczvBw0_fyMov&amp;start=7020" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Shani Evenstein Sigalov:
 
