@@ -134,7 +134,7 @@ In this room, our projects are gaining traction in decentralised and centralised
 
 ### Audrey Tang:
 
-That is my job. I’m a **cyber ambassador**. Some of you may have seen the recent film [“The Odyssey”](https://www.odysseymovie.com/ "Universal Pictures. “The Odyssey | Movie Site & Trailer.” Universal Pictures, n.d."). It is a very old story, so this spoils nothing, but it teaches us the ancient Greek *kybernetikē*: steering a ship. From that came cybernetics, the language of self-feedback systems and eventually descriptions of the internet and cyberspace. Now we have cyber-attack, cyber-defence, cyber-everything, so “cyber” almost just means something on the internet. Originally, it meant steering.
+That is my job. I’m a **cyber ambassador**. Some of you may have seen the recent film [“The Odyssey”](https://www.odysseymovie.com/ "Universal Pictures. “The Odyssey | Movie Site & Trailer.” Universal Pictures, n.d."). It is a very old story, so this spoils nothing, but it teaches us the ancient Greek *kybernētēs*: steering a ship. From that came cybernetics, the language of self-feedback systems and eventually descriptions of the internet and cyberspace. Now we have cyber-attack, cyber-defence, cyber-everything, so “cyber” almost just means something on the internet. Originally, it meant steering.
 
 When we fear over-centralisation — a singularity, a black hole, a literal attractor — we need to accelerate and steer past it. We find the [**Lagrange point**](https://www.esa.int/Enabling_Support/Operations/What_are_Lagrange_points "European Space Agency. “What are Lagrange points?” ESA, n.d.") between two attracting bodies.
 
