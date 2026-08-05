@@ -256,13 +256,13 @@ But a race is zero-sum. If someone rises from second to first, the former first 
 
 If the finish line is **recursive self-improvement**, RSI — AI systems evolving culturally and intellectually fast enough to build their own successors without human help — then Nick Bostrom warns they might quickly take off into a technological singularity. Why call it a singularity? Because it becomes incomprehensible and leaves everyone behind.
 
-That race has a definite endpoint: a cliff. Fall off the cliff and you reach maximum acceleration; nobody is faster, but your steering wheel no longer works. A race into a singularity is like racing to a red light. It does not matter whether an English-speaking AI leaves humanity behind and keeps us as pets or slaves, or a Putonghua-speaking AI does so. Who wants to win that race?
+That race has a definite endpoint: a cliff. Fall off the cliff and you reach maximum acceleration; nobody is faster, but your steering wheel no longer works. A race into a singularity is like driving straight toward a cliff. It does not matter whether an English-speaking AI leaves humanity behind and keeps us as pets or slaves, or a Putonghua-speaking AI does so. Who wants to win that race?
 
 That is why the G2 — and now the middle powers — should say at every point: **This is a mission, not a race**. We must leave no one behind.
 
 A race can ask only **who is winning now**. A mission asks **who is missing**: who lacks internet access, suffers epistemic injustice, is trapped in addiction cycles, is isolated and [bowling alone](https://www.simonandschuster.com/books/Bowling-Alone-Revised-and-Updated/Robert-D-Putnam/9781982130848 "Putnam, Robert D. “Bowling Alone: Revised and Updated — The Collapse and Revival of American Community.” Simon & Schuster, 13 October 2020."). The goal is not to flatten people, but to include them. When everybody can align to the mission, we can say “mission accomplished” and move to the next mission — perhaps solving hallucinations so AI produces reliable knowledge rather than merely reliable affect.
 
-In a space mission, if you lead, everybody can be your ally and align with you. In a race to a red light, if you lead, people fear or detest you. Our collective challenge is to frame every race as a mission.
+In a space mission, if you lead, everybody can be your ally and align with you. In a race toward a cliff, if you lead, people fear or detest you. Our collective challenge is to frame every race as a mission.
 
 Economic collapse happens when a transition is too large for institutions to absorb. We may have to survive in the carcass of neoliberalism — to hospice modernity — and make the [Horizon Three transition](https://www.h3uni.org/tutorial/three-horizons "H3Uni. “Three Horizons.” H3Uni Resource Library, n.d."). That is flowery language for collapse.
 
