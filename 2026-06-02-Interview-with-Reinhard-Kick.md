@@ -65,7 +65,7 @@ And of course, the people in Taiwan, regardless of their party, felt that we rea
 So, I think that is now expanding beyond just 5G or telecommunication and becoming what's called the Global Trusted Tech initiative. So, I chair the Global Trusted Tech (xGTT) Standard initiative. And so I think, to your question, this is not about person-to-person trust but about a trustworthy infrastructure, so that anybody can verify that they come from trusted suppliers.
 
 ### Reinhard Keck:
-You mentioned the Sunflower protest — that was really, in a way, the event that made you quite prominent all across the world and also sort of a political awakening for you — you were 32 at the time. What are the lessons you take from that? How relevant are they still today for you?
+You mentioned the Sunflower protest — that was really, in a way, the event that made you quite prominent all across the world and also sort of a political awakening for you — you were 33 at the time. What are the lessons you take from that? How relevant are they still today for you?
 
 ### Audrey Tang:
 Yes, I think the main lesson I learned is that to give no trust is to get no trust. So, when the government at the time in Taiwan was enjoying only 9.2% approval, it's largely not because they did any particular policy wrong, but because they did not trust the people enough. Basically, they said "trust us because we know best." But there was very little room for real participation, especially by young people, but across generations as well. So, the message to me is that if we do trust the people on the street in tables of 10, each deliberating about one particular aspect of the trade deal — for example, about labour, about environment, about communication, about information integrity, and so on —
