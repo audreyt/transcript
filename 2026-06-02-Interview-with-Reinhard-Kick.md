@@ -218,19 +218,15 @@ Well, there are now bridges, like Bridgy Fed. So, I have a lot of followers on T
 You know, I was always thinking about moving to Proton Mail, but I'm using the Google tools quite a lot. I use Google Docs a lot, Google Drive and so on. When I interview entrepreneurs, especially in Germany, many of them are now saying they actively move away from American products.
 
 ### Audrey Tang:
-That's right.
+That's right. And also, I think there's a large language model which was recently released by ETH Zurich and EPFL — Apertus.
 
 ### Reinhard Keck:
-And also, I think there's a large language model which was recently released by ETH Zurich and EPFL — Apertus. Yeah, Apertus. But I found it not as good as the American models, not yet, but maybe at one point it will be different. So I think there are lots of initiatives and things that, if you talk about strategic autonomy, there are many things you could do, right? But I think it's not in the public conscience yet.
+Yeah, Apertus. But I found it not as good as the American models, not yet, but maybe at one point it will be different. So I think there are lots of initiatives and things that, if you talk about strategic autonomy, there are many things you could do, right? But I think it's not in the public conscience yet.
 
 ### Audrey Tang:
-Not many people know about it yet. That's right. I'm using a new model by—
+Not many people know about it yet. That's right.
 
-### Reinhard Keck:
-It's okay, it's okay. Sorry — it'll be interesting in an interview here.
-
-### Audrey Tang:
-We are recording a conversation as well. If you don't mind being recorded, that is. Okay. So, I'm currently just trying out a new model by Nvidia — Jensen Huang, its CEO, is Taiwan-born. They just rolled out Nemotron. So, Nemotron I think is by far the best U.S. model that is open. So, the entire recipe of making the model is available. So, I think what we have seen many people do in Asia is that they take something open like Nemotron.
+I'm currently just trying out a new model by Nvidia — Jensen Huang, its CEO, is Taiwan-born. They just rolled out Nemotron. So, Nemotron I think is by far the best U.S. model that is open. So, the entire recipe of making the model is available. So, I think what we have seen many people do in Asia is that they take something open like Nemotron.
 
 And then in Japan they have something called Swallow, which is a Japanese-specific layer. So, they take the open model and retrain it to fit even Japanese culture. Taiwan has TAIDE too, and Singapore also has SEA-LION. So, I think it's not zero-sum. The top American companies run by someone from Taiwan can still train those American open models, but they don't require data extraction, like data as oil. We don't have to send our data to the Nvidia headquarters, which is about to be in Taipei too. It doesn't need to go anywhere. We just download their model and run it locally on our own desktop. And then it becomes what Jensen Huang calls personal supercomputing.
 
@@ -295,7 +291,7 @@ So this disincentivises cheating, because cheating is no use, right? It doesn't 
 Exactly. It makes you less curious.
 
 ### Reinhard Keck:
-Very interesting. Can I get you some water?
+Very interesting.
 
 Do you think primary school is a place where AI should be used or should play a role?
 
@@ -360,7 +356,7 @@ I think most people would much prefer if we put technology into service — AI i
 So you prefer speaking about autocracy in more general terms and not sort of speaking about one specific autocracy, because you don't want to engage in that sort of — what you mentioned — that race where one side mentions something and the other side mentions back, and then you're already part of that game.
 
 ### Audrey Tang:
-Like, we need to be following a strong leader in order to counter the threats. And then maybe it's okay to give up some liberty because the virus is very scary. If you start on that path, then you're already thinking like an autocrat.
+Like, "we need to be following a strong leader in order to counter the threats." And then, "maybe it's okay to give up some liberty because the virus is very scary." If you start on that path, then you're already thinking like an autocrat.
 
 ### Reinhard Keck:
 What do your parents think? As journalists, do they feel especially exposed? When you look at what has happened in Hong Kong with independent media there, what do they make of that situation? Are they probably even more concerned than other people?
@@ -376,7 +372,7 @@ But then came personal computing. And people could compute in private — their 
 So are we in Europe a bit complacent when it comes to our democratic traditions? Because, as you say, I think many people, they see their job as basically voting every four or five years, and that's top-down — but it needs much more than that.
 
 ### Audrey Tang:
-Yes, exactly. And that's why the work with SPRIND is so important. Because they literally just ask people "What sucks?" And it's very easy actually to complain. It's the most democratic question. Yes, and the trick here is using civic AI. You can make people feel truly heard, like closing the loop. If the federal government or your state changes some policy because of your input, then for the first time you can have not just broadcasting, as what we did, but broad listening. It is because of these things you said that we did this. And it's thanks to you that now we are asking you another follow-up question. That's truly massive multi-scale listening. It's finally possible and easy.
+Yes, exactly. And that's why the work with SPRIND is so important. Because they literally just ask people "What sucks?" And it's very easy actually to complain. It's the most democratic question. Yes, and the trick here is using Civic AI. You can make people feel truly heard, like closing the loop. If the federal government or your state changes some policy because of your input, then for the first time you can have not just broadcasting, as what we did, but broad listening. It is because of these things you said that we did this. And it's thanks to you that now we are asking you another follow-up question. That's truly massive multi-scale listening. It's finally possible and easy.
 
 And so we need to upgrade how the civic muscle works in the age of AI. Otherwise, it's just people broadcasting messages — just, like, slop. People would not even pay attention, because there's no relational nutrition. But if you're truly heard and the loop goes back to you, then people are much more willing to share problems and ideas on how to make things better.
 
