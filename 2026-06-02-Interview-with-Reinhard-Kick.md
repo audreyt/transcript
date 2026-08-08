@@ -22,7 +22,7 @@ There's that. And also, I think more importantly, because we — I want to empow
 No, you're right, because usually when you do research, you always get sort of like what the AI tells you — sources that might not be exactly as good, it's not grounded, right? And if it's directly in an archive, yeah, you have it and it's all there.
 
 ### Audrey Tang:
-Yes, when I went to Sweden last year to receive the Right Livelihood Award — the alternative Nobel — it was the first time it was given to someone from Taiwan, because usually they give it to peacemakers. And so this is the first time, I think, the jury recognised the information space, cyberspace, as a conflict zone. And so it's not just on the beaches where there's a contest, politically, geopolitically — there's also, cyber-politically, this kind of information manipulation. And so peace requires integrity of information. And I really think journalism is —
+Yes, when I went to Sweden last year to receive the Right Livelihood Award — the alternative Nobel — it was the first time it was given to someone from Taiwan, because usually they give it to peacemakers. And so this is the first time, I think, the jury recognised the information space, cyberspace, as a conflict zone. And so it's not just on the breaches where there's a contest, politically, geopolitically — there's also, cyber-politically, this kind of information manipulation. And so peace requires integrity of information. And I really think journalism is —
 
 ### Reinhard Keck:
 Yeah, I mean, I'm glad to hear that, because I think journalism as a whole is quite under pressure these days, right? Especially when it comes to how AI is being used in journalism. I think it's all quite new and fresh. And I think it will be very interesting to see what's going to happen in the next one, two years. I mean, things happen so quickly now, right? Who knows what the media landscape is going to look like in five years' time.
@@ -140,7 +140,7 @@ Okay, so nice. And how are they feeling now?
 I think for them it's not so important for them personally because they were very young, obviously. They don't really remember, you know? They remember that they had to go to certain youth organisations, communist youth organisations. But I think when they turned eight or nine years old, the Wall came down and there was a new time. So I don't think it really shaped their personality in a big way. Whereas for the parents' generation, it's a different thing.
 
 ### Audrey Tang:
-Yes, I was born into martial law. Taiwan had almost 40 years of martial law at the time. There was no room to form new political parties, new newspapers and so on. But then when I was six, it started lifting, and when I was 14, we finally voted for our president for the first time. So, I still remember that transition, but my brother, four years younger, was just born literally into democracy. So, even just four years make a big difference.
+Yes, I was born into martial law. Taiwan had almost 40 years of martial law at the time. There was no room to form new political parties, new newspapers and so on. But then when I was six, it started lifting, and when I was 15, we finally voted for our president for the first time. So, I still remember that transition, but my brother, four years younger, was just born literally into democracy. So, even just four years make a big difference.
 
 ### Reinhard Keck:
 What is your earliest memory from that time?
@@ -158,15 +158,15 @@ Yes, so I'm good now. But during my formative years, my heart was beating, but i
 There are a lot of parallels with East Germany — how did you do that? There were mass protests but it was like a peaceful revolution.
 
 ### Audrey Tang:
-Exactly, and it's also very rare. In East Asia that's very rare, almost unique. And so I think that really left an impression on me. And then, when I was five or so, finally the Democratic Progressive Party was formed. I remember at the dinner table in the living room we were talking about whether the Kuomintang, or Nationalist Party, is better or whether the Democratic Progressive Party is better, and they asked me — it was very interesting.
+Exactly, and it's also very rare. In East Asia that's very rare, almost unique. And so I think that really left an impression on me. And then, when I was seven or so, finally the Democratic Progressive Party was formed. I remember at the dinner table in the living room we were talking about whether the Kuomintang, or Nationalist Party, is better or whether the Democratic Progressive Party is better, and they asked me — it was very interesting.
 
 ### Reinhard Keck:
-When you were five you were part of that discussion. Do you feel like in today's situation it's a bit as fragile as you felt back as a child, with so many developments and the eyes of the world on Taiwan? Do you feel there's a new fragility in that situation?
+When you were seven, you were part of that discussion. Do you feel like in today's situation it's a bit as fragile as you felt back as a child, with so many developments and the eyes of the world on Taiwan? Do you feel there's a new fragility in that situation?
 
 ### Audrey Tang:
 Yes, I think internally Taiwan is much more resilient. Of course, we still have ideological polarisation. As was the case when I was a child, there's still a sizable chunk in Taiwan that feels we must be free from China. And there's another sizable chunk that feels we are the free China. So, these two are very different. But throughout the previous decade, we figured out how to find an uncommon ground so that both sides feel now that it's about countering authoritarianism without falling into authoritarianism ourselves. So, that becomes the common ground that both sides can go toward together.
 
-A year ago, there was even a rally in which the flags from both sides flew together for the first time — the Taiwan independence flag and the ROC flag. This never happened before in my childhood. So, internally, I would say that Taiwan is in a much better place compared to the 1980s or the 1990s in democratic resilience. Worldwide though, we have seen many democracies kind of falling back due to polarisation, like very high PPM. If you go to social media, sometimes you see polarisation per minute going sky high. So, I worry a little bit about other democracies, because no democracy is an island, not even Taiwan. Right, so even if we depolarise or arrest the backslide, then we need a new wave, a civic wave, not just the previous wave of democracy.
+A year ago, there was even a rally in which the flags from both sides flew together for the first time — the Taiwan independence flag and the ROC flag. This never happened before in my childhood. So, internally, I would say that Taiwan is in a much better place compared to the 1980s or the 1990s in democratic resilience. Worldwide though, we have seen many democracies kind of falling back due to polarisation, like very high PPM. If you go to social media, sometimes you see polarisation per minute going sky high. So, I worry a little bit about other democracies, because no democracy is an island, not even Taiwan. Right, so even if we depolarise at last the backslide, then we need a new wave, a civic wave, not just the previous wave of democracy.
 
 ### Reinhard Keck:
 Yeah, of course. I found very interesting what you said in another interview — I might not remember it correctly, but in simple words you basically created a tool that allows people to curate the algorithm in a way that it doesn't give them polarising content, but more like moderating. So they are basically at the steering wheel, and I think it's like a label where users can tag certain content saying it's building bridges rather than being polarising.
@@ -331,7 +331,7 @@ Well, I think for many people in democracies, we hear this refrain: democracy on
 But actually, Taiwan only lost seven people to COVID-19 in 2020. And throughout the three years, we never locked down any city. And then we reported historically high GDP growth during that period, because we never locked down any city, so TSMC kept running. So, my point being, democracy actually coordinates better than autocracies. But autocracies want people in democracies to believe that only autocracies can control the virus — cyber virus, bio virus, or whatever. And in fact, because …
 
 ### Reinhard Keck:
-You're not getting anything done.
+"You're not getting anything done."
 
 ### Audrey Tang:
 Right, exactly. And because the virus actually mutates very quickly, the steering wheel needs to follow how the virus is mutating. So, actually, when Omicron came, Taiwan steered very quickly to counter that. Whereas, like in Shanghai, where they still had lockdown, they had a very terrible situation vis-à-vis the virus. So, although top-down, shutdown, takedown is very quick, it also steers less flexibly. And I think that's the counter-message we have. That is to say, democracy is a social technology for coordination. And the more people invest their time and energy in it, the better it gets, like any other social technology.
@@ -427,7 +427,7 @@ There's also a loss of control.
 Right, exactly. So, like with PTT and other civic spaces, public squares, the more you participate, the more steering power you have. And you grow the civic muscle. Whereas in the extractive social media, the more you get sucked in, the less control you have over where it's going.
 
 ### Reinhard Keck:
-Can we still turn things around? I'm talking here about Europe and Germany more specifically. Do you think there's still a point where we do not just accept that there's a big concentration and that we basically don't let that feeling of loss of control dominate everything? Do you think we can get back control? Even though that's a bit of a loaded slogan because of the getting-back-control idea, but I think that there is a big sense of loss of control. Do you think there's still a way to wrestle back some control for the consumer?
+Can we still turn things around? I'm talking here about Europe and Germany more specifically. Do you think there's still a point where we do not just accept that there's a big concentration and that we basically don't let that feeling of loss of control dominate everything? Do you think we can get back control? Even though that's a bit of a deadpan slogan because of the getting-back-control idea, but I think that there is a big sense of loss of control. Do you think there's still a way to wrestle back some control for the consumer?
 
 ### Audrey Tang:
 It's actually very easy, because the cloud companies did all the interface design. So, if you switch to Proton Meet, Proton Mail, Proton Drive, Proton Pass, it works exactly the way you imagined it would work.
