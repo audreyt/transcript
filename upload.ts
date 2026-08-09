@@ -165,7 +165,7 @@ export async function runUpload(
 }
 
 export async function main(
-  argv: string[] = Bun.argv.slice(2),
+  argv: string[] = process.argv.slice(2),
   env: UploadEnvironment = process.env,
   deps: UploadDeps = {},
 ): Promise<number> {

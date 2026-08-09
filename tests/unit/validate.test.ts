@@ -14,7 +14,7 @@ import {
 } from "../../scripts/validate";
 import { commitAll, createTempDir, initGitRepo, runBun, writeFile } from "./test-helpers";
 
-const REPO_ROOT = path.resolve(import.meta.dir, "../..");
+const REPO_ROOT = path.resolve(import.meta.dirname, "../..");
 const VALIDATE_SCRIPT = path.join(REPO_ROOT, "scripts/validate.ts");
 
 function failures(): Failure[] {

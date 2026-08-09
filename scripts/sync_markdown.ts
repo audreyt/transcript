@@ -574,7 +574,7 @@ export async function runSync(
 }
 
 export async function main(
-  argv: string[] = Bun.argv.slice(2),
+  argv: string[] = process.argv.slice(2),
   env: NodeJS.ProcessEnv = process.env,
 ): Promise<number> {
   return runSync(

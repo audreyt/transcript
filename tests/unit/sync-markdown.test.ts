@@ -15,7 +15,7 @@ import {
 } from "../../scripts/sync_markdown";
 import { commitAll, createTempDir, initGitRepo, runBun, writeFile } from "./test-helpers";
 
-const REPO_ROOT = path.resolve(import.meta.dir, "../..");
+const REPO_ROOT = path.resolve(import.meta.dirname, "../..");
 const SYNC_SCRIPT = path.join(REPO_ROOT, "scripts/sync_markdown.ts");
 
 describe("parseAlternatesText", () => {

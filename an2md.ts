@@ -139,9 +139,9 @@ export function aknToMarkdown(xmlText: string): string {
   return output;
 }
 
-export function main(argv: string[] = Bun.argv.slice(2)): number {
+export function main(argv: string[] = process.argv.slice(2)): number {
   if (argv.length < 2) {
-    console.error(`用法：${Bun.argv[1] ?? "an2md.ts"} input.xml output.md`);
+    console.error(`用法：${process.argv[1] ?? "an2md.ts"} input.xml output.md`);
     return 1;
   }
 
