@@ -244,7 +244,7 @@ It means not just that it runs on national infrastructure but rather that each p
 Yeah, we'll talk about it in a little while — I don't want to bring it up now because I have a few questions related to that. Sure, yeah, definitely. I think that it will be very interesting to see how that race — and it is pretty much a race, right? — how it plays out and what kind of other models will become more relevant, maybe more widely adopted.
 
 ### Audrey Tang:
-Well, I think the real race, to me, is not about building a bigger gas pedal or a bigger brake. It's rather a better steering wheel. When I run, on my personal laptop, a local model called DwarfStar, every time I enter the same prompt, I am guaranteed to get the same answer. Unlike ChatGPT, which feels like roulette. Every time you put something in, it gives you a different thing. It's not steerable, right? It's like every time you turn the wheel this way, sometimes it turns right, sometimes it turns left. And so, because it's auditable and predictable locally, I can also say to DwarfStar that these are the right answers in my context, and this is not what I mean by this word. And it just remembers it in a minute.
+Well, I think the real race, to me, is not about building a bigger gas pedal or a bigger brake. It's rather a better steering wheel. When I run, on my personal laptop, a local model inference engine called DwarfStar, every time I enter the same prompt, I am guaranteed to get the same answer. Unlike ChatGPT, which feels like roulette. Every time you put something in, it gives you a different thing. It's not steerable, right? It's like every time you turn the wheel this way, sometimes it turns right, sometimes it turns left. And so, because it's auditable and predictable locally, I can also say to DwarfStar that these are the right answers in my context, and this is not what I mean by this word. And it just remembers it in a minute.
 
 And then, after this directional steering, it just remembers that, so it becomes something that's very attuned to our particular relationship. So, I think this direction of steering is even more important than just raw compute power to most people.
 
@@ -252,7 +252,7 @@ And then, after this directional steering, it just remembers that, so it becomes
 Which model are you using on a day-to-day basis?
 
 ### Audrey Tang:
-Right, so on a day-to-day basis I use mostly local models — things that run locally, so DwarfStar and Gemma and Nemotron, as I mentioned. Yes, so of course it's not always trained in Taiwan — I do use TAIDE, but it's a fine-tuning layer on top of Gemma, which is trained by Google.
+Right, so on a day-to-day basis I use mostly local models — engines that run locally like DwarfStar, as well as Gemma and Nemotron, as I mentioned. Yes, so of course it's not always trained in Taiwan — I do use TAIDE, but it's a fine-tuning layer on top of Gemma, which is trained by Google.
 
 ### Reinhard Keck:
 ChatGPT or Claude?
