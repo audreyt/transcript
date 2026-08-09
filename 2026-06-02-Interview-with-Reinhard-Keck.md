@@ -158,7 +158,7 @@ Yes, so I'm good now. But during my formative years, my heart was beating, but i
 There are a lot of parallels with East Germany — how did you do that? There were mass protests but it was like a peaceful revolution.
 
 ### Audrey Tang:
-Exactly, and it's also very rare. In East Asia that's very rare, almost unique. And so I think that really left an impression on me. And then, when I was seven or so, finally the Democratic Progressive Party was formed. I remember at the dinner table in the living room we were talking about whether the Kuomintang, or Nationalist Party, is better or whether the Democratic Progressive Party is better, and they asked me — it was very interesting.
+Exactly, and it's also very rare. In East Asia that's very rare, almost unique. And so I think that really left an impression on me. And then, when I was seven or so, finally the Democratic Progressive Party becomes legal. I remember at the dinner table in the living room we were talking about whether the Kuomintang, or Nationalist Party, is better or whether the Democratic Progressive Party is better, and they asked me — it was very interesting.
 
 ### Reinhard Keck:
 When you were seven, you were part of that discussion. Do you feel like in today's situation it's a bit as fragile as you felt back as a child, with so many developments and the eyes of the world on Taiwan? Do you feel there's a new fragility in that situation?
