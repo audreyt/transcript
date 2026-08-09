@@ -381,7 +381,7 @@ export function usage(): string {
   ].join("\n");
 }
 
-export function main(argv: string[] = Bun.argv.slice(2)): number {
+export function main(argv: string[] = process.argv.slice(2)): number {
   try {
     const parsed = parseArgs(argv);
     return runValidate(path.resolve(parsed.repoRoot), parsed.mode, parsed.baseRef);

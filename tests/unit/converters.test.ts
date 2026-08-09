@@ -6,7 +6,7 @@ import { aknToMarkdown, checkEn as anCheckEn, elementChildren, main as anMain, n
 import { checkEn as bwCheckEn, escapeXml, main as bwMain, markdownToAkn } from "../../bw2an";
 import { createTempDir, runBun, writeFile } from "./test-helpers";
 
-const REPO_ROOT = path.resolve(import.meta.dir, "../..");
+const REPO_ROOT = path.resolve(import.meta.dirname, "../..");
 const AN2MD_SCRIPT = path.join(REPO_ROOT, "an2md.ts");
 const BW2AN_SCRIPT = path.join(REPO_ROOT, "bw2an.ts");
 
