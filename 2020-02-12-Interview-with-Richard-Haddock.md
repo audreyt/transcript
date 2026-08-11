@@ -16,7 +16,7 @@ In the private sector minister Tang worked as a consultant with Apple on computa
 And hello world, I’m really happy to be on this podcast.
 
 ### Richard Haddock:
-Great, thanks. So let’s dive into the questions here. So Minister Tang, you’ve been an important contributor to the incredible work on digital democracy and civic tech fronts in Taiwan from g0v to  
+Great, thanks. So let’s dive into the questions here. So Minister Tang, you’ve been an important contributor to the incredible work on digital democracy and civic tech fronts in Taiwan from g0v to
 hosting hackathons to creating new and innovative platforms such as vTaiwan that allows citizens to be a part of the governmental decision making process. You have also been an advocate for implementing an open government model using these kinds of tools. What is open government and how is it part of Taiwan’s contemporary national narrative?
 
 ### Audrey Tang:

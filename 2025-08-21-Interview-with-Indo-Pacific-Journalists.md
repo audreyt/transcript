@@ -42,9 +42,9 @@ Law helps, and here is a fast case. In early 2024, YouTube and Facebook feeds in
 
 We texted 100,000 randomly selected residents asking a simple question: How should we protect information integrity together? Thousands volunteered; 450 (random, stratified) joined an AI‑facilitated citizens’ assembly (45 rooms of ~10). Proposals included:
 
-Label every ad “probably a scam” by default unless digitally signed by the endorser. 
+Label every ad “probably a scam” by default unless digitally signed by the endorser.
 
-Make platforms liable for harm from unsigned ads. 
+Make platforms liable for harm from unsigned ads.
 
 If a platform lacks legal representation in Taiwan, require it or apply traffic‑shaping until it complies.
 
@@ -150,7 +150,7 @@ Literacy alone cannot withstand superhumanly persuasive AI swarms. We must equip
 
 Also, do not assume universal passivity: on join.gov.tw, the most active groups are ~17‑year‑olds and ~70‑year‑olds — they have time and think long‑term.
 
-We are reinventing polling to be generative. In Bowling Green, Kentucky (with Google), an open‑ended process — What Could BG Be? — let people up‑vote/down‑vote ideas (no retweet button). Over 80 percent of ideas converged on uncommon ground that made most people happier and few unhappy. This is expanding via the Napolitan Institute toward 400+ U.S. Congressional districts — turning NIMBY/YIMBY into “MIMBY” (“maybe in my backyard, if…”). 
+We are reinventing polling to be generative. In Bowling Green, Kentucky (with Google), an open‑ended process — What Could BG Be? — let people up‑vote/down‑vote ideas (no retweet button). Over 80 percent of ideas converged on uncommon ground that made most people happier and few unhappy. This is expanding via the Napolitan Institute toward 400+ U.S. Congressional districts — turning NIMBY/YIMBY into “MIMBY” (“maybe in my backyard, if…”).
 
 ### Interviewer:
 
@@ -194,7 +194,7 @@ Back to pro‑social media: how are such platforms actually developed and funded
 
 ### Audrey Tang:
 
-Treat them like public parks — public squares without ad dependence. Taiwan’s PTT (our Reddit) has run as a National Taiwan University student club for decades: open source, stakeholder‑governed, no ads. 
+Treat them like public parks — public squares without ad dependence. Taiwan’s PTT (our Reddit) has run as a National Taiwan University student club for decades: open source, stakeholder‑governed, no ads.
 
 The g0v ecosystem (including Cofacts) is incubated by the National Academy, which is politically neutral. When we created the moda, we joined the Transportation Committee in parliament — because we see ourselves as infrastructure builders enabling civil‑society media to flourish.
 

@@ -699,5 +699,5 @@ Thanks to the physical vaccines, that's masks.
 > (laughter)
 
 ### Maeve Whelan-Wuest:
-It's incredible. 
+It's incredible.
 

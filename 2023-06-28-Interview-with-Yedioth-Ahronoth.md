@@ -113,7 +113,7 @@ Yes. And we never blame the journalism, right? So, when we say FIMI, it means sp
 So, it depends on which side you look at the scope. If we take the journalist, and I say something in the media, and then you read it and you say, wait a minute, it's not like this. You will not say fake news?
 
 ### Audrey Tang:
-No, I will never say that. 
+No, I will never say that.
 
 ### Interviewer:
 You will say FIMI…
@@ -128,7 +128,7 @@ Okay, so how do you...
 We will just provide clarifications. And the clarification will come, as you said, within two hours, 200 words, two pictures. But it's a clarification. It's only when there's a foreign cyber-attack, a foreign information manipulation, we would say that's FIMI.
 
 ### Interviewer:
-But in this period, in this reality, that every minute we can see this in government, in the United States, with the story with Trump, with Bibi, it's a lot of examples I can give you. You have to take big department to take care about the... 
+But in this period, in this reality, that every minute we can see this in government, in the United States, with the story with Trump, with Bibi, it's a lot of examples I can give you. You have to take big department to take care about the...
 
 Tell me, you write in your journal for 40 years. When you write 10 years before, we believe you. Now, we don't know what is fake news and what is not. What to believe and what...
 
@@ -197,7 +197,7 @@ Ask Bibi. He's a champion.
 > (laughter)
 
 ### Audrey Tang:
-Yes. So once every four years in Taiwan. And every time you vote, even after we have referendum, it's once every two years, right? So, referendum, election, referendum, election. But even if it's once a year, let's be generous, still for every citizen, it's until one year later can they deliver meaningful input. But within one year, Uber will have changed many times its business models and so on. 
+Yes. So once every four years in Taiwan. And every time you vote, even after we have referendum, it's once every two years, right? So, referendum, election, referendum, election. But even if it's once a year, let's be generous, still for every citizen, it's until one year later can they deliver meaningful input. But within one year, Uber will have changed many times its business models and so on.
 
 So, the idea is that the bandwidth of democracy, how much you can express, and the latency of democracy, how long to wait until you can next voice your opinion, need to improve as the emerging technologies. So, like in the Uber case, we ask all the taxi drivers, all the Uber drivers, their passengers and so on, to voice their opinion, but not just typing their statement. They also press like or unlike for other people's statements. But there is no reply button. So, there's no way for people to make personal attacks. Just their ideas, feelings and reflection.
 
@@ -224,14 +224,14 @@ This is democracy.
 Yes, this is democracy. And we invite Uber and taxi union on the table and say, look, the people want you to work together like this, do you want to commit to it? And they say yes. So, Uber has been for years now a legal Taiwanese taxi fleet, because we changed our taxi law to allow for surge pricing.
 
 ### Interviewer:
-So, according to the reality in Israel, probably you know the political issue, about the left and the right attitude of the people, every Saturday in this area it's closed because there is a lot of people in the street that say no to what happened. 
+So, according to the reality in Israel, probably you know the political issue, about the left and the right attitude of the people, every Saturday in this area it's closed because there is a lot of people in the street that say no to what happened.
 
 If we take this instrument to our democracy in Israel, do you think this is going to be much more polite for people to listen to each other, to respect each other when someone thinks like this, and others think like this, but not all the shouting and all the mess that we know for the last couple of months. Do you think this is going to be good in Israel?
 
 ### Audrey Tang:
 In our experience, if we talk about abstract things, like sharing economy, gig economy, then this tool does not work. This tool only works when you talk about the specific case, for example, somebody with a driver's license but not professional driver's license, picking up strangers, they meet on an app, on the way to work, charging them to it… like you need to have a specific story that people can relate to. And then ask people how do you feel about it.
 
-We have since the vTaiwan project, brought vTaiwan into the cabinet, and run similar processes in the joint platform. The difference is vTaiwan is g0v, is civil society led, and Join is government led. And on the Join platform, we talk about even more things than emerging technologies. For example, we talk about the right for unmarried women, to the benefits for her child, and that was before we legalized marriage equality. So, it also carries to lesbian couples, for example. 
+We have since the vTaiwan project, brought vTaiwan into the cabinet, and run similar processes in the joint platform. The difference is vTaiwan is g0v, is civil society led, and Join is government led. And on the Join platform, we talk about even more things than emerging technologies. For example, we talk about the right for unmarried women, to the benefits for her child, and that was before we legalized marriage equality. So, it also carries to lesbian couples, for example.
 
 ### Interviewer:
 So, this is interesting, the family of the couples, when it's a marriage of gays or lesbians, they are not involved of the marriage, it's separate.
@@ -313,7 +313,7 @@ So, I'm really somewhere in between.
 So, the test blood gives the evidence that what you feel is correct?
 
 ### Audrey Tang:
-Yes. So, I don't have in my mind this idea that half of population is similar to me and half is different. To me, everybody is of equal distance. 
+Yes. So, I don't have in my mind this idea that half of population is similar to me and half is different. To me, everybody is of equal distance.
 
 ### Interviewer:
 It's very important what you said because most of the… now I made another article with a young, different story, with the young guys, 18, 17, that wants to be transgender…
@@ -333,7 +333,7 @@ My grandma supported me throughout.
 That's perfect.
 
 ### Audrey Tang:
-My dad's parents, my paternal grandma and grandpa, are both Catholic. They are very devout Catholic people. And my grandparents helped raise me because my parents are journalists, very busy journalists. So, my grandparents raised me. 
+My dad's parents, my paternal grandma and grandpa, are both Catholic. They are very devout Catholic people. And my grandparents helped raise me because my parents are journalists, very busy journalists. So, my grandparents raised me.
 
 ### Interviewer:
 Both of the parents, also the mother?
@@ -366,7 +366,7 @@ I will make a mistake if I look it up. You are spelling it out, also the mother.
 I see.
 
 ### Interviewer:
-In Israel and also in Europe. Noah Klieger is his name. He's not with us anymore. He died four years ago; he was 93. He's very, very nice. I spoke with Abby about the story about the Holocaust and that's one of the questions that I want to ask on this article that we made with you. 
+In Israel and also in Europe. Noah Klieger is his name. He's not with us anymore. He died four years ago; he was 93. He's very, very nice. I spoke with Abby about the story about the Holocaust and that's one of the questions that I want to ask on this article that we made with you.
 
 Holocaust for Jewish, for Israel, it's one of the most important historic sites. It's one of our, you know, during our life, we together made stories with the survivors every year on Holocaust Day. It's going to be, you know, it's finished. They are old, they are going to disappear. And the witnesses, the witnesses that went through the Holocaust, they are going to, how can I say it, they have died almost.
 
@@ -405,9 +405,9 @@ Exactly.
 But then you fix me and it has nothing to do with me. I'm a good student. I learned a new thing.
 
 ### Audrey Tang:
-Yeah, but we are the government officials. Once we start saying this news is fake or not fake, it becomes interference from the public sector against journalism. This is something we never do in Taiwan because it's a slippery slope. 
+Yeah, but we are the government officials. Once we start saying this news is fake or not fake, it becomes interference from the public sector against journalism. This is something we never do in Taiwan because it's a slippery slope.
 
-The next thing would be the ministers wanting to force journalists to change headlines and we don't want to go there. 
+The next thing would be the ministers wanting to force journalists to change headlines and we don't want to go there.
 
 ### Photographer:
 It's very important. They are asking us to hear this because in Israel, it's the opposite, the other way around. They are blaming and they are chatting journalists and blaming journalists with fake news.
@@ -445,7 +445,7 @@ Yes. That was established, I think, around 2018-2019. When I was at the time min
 Now, of course, I'm a cabinet minister now with my portfolio at the ministry. But all the ministries, including ours, still follow the same protocol that we established in 2018-2019.
 
 ### Interviewer:
-Thank you. Interesting. Can you explain? It's very good. When she asks, this is the readers. If she doesn't understand something, it's very good that she asks. 
+Thank you. Interesting. Can you explain? It's very good. When she asks, this is the readers. If she doesn't understand something, it's very good that she asks.
 
 Your job, for all the head, the head that you control, it's to avoid this example… Or maybe you explain what is your...
 
@@ -464,7 +464,7 @@ Before the corona.
 ### Audrey Tang:
 Before the corona, yes. And there were, at the time, people, academic people, politicians, that advocate for a notice and take down but we did not choose that option. We chose instead notice and public notice. So, we never take down journalist work but we always add context. So, for example, for you, it's maybe WhatsApp, right? Or Signal. For us, it's usually Line. But it's the same thing. It's the instant messenger.
 
-Many people, as you said, because their phone has a very small screen, so they just look at one picture and two lines of text. The frame is done. So, even though those two lines of text are not untrue, they're misleading. 
+Many people, as you said, because their phone has a very small screen, so they just look at one picture and two lines of text. The frame is done. So, even though those two lines of text are not untrue, they're misleading.
 
 ### Interviewer:
 This has a lot of influence.
@@ -515,7 +515,7 @@ Probably this is the secret, like you explained now. It’s amazing…
 Yes, I think the infodemic, according to WHO…
 
 ### Interviewer:
-It’s friendly It's much more friendly than to get the vaccination without asking nothing and without checking the facts. You know, you speak, and my mind says, but Israel, we know that our country is famous with the technology, the high tech, the cyber. 
+It’s friendly It's much more friendly than to get the vaccination without asking nothing and without checking the facts. You know, you speak, and my mind says, but Israel, we know that our country is famous with the technology, the high tech, the cyber.
 
 ### Audrey Tang:
 Yes, with the best startups.
@@ -602,7 +602,7 @@ So, according to this method, are you believing that it's important, like we saw
 Do you believe that when you… with your people in your country, it's needed to use these tools to follow people, because it's against the privacy? So, from one side, you keep the private information, but on the other side, you can use it for following, so what is the limit?
 
 ### Audrey Tang:
-So, during the pandemic, that is a life and death question for the Taiwanese people, because on one hand, we want to receive exposure notification, if we enter a venue that has infected people. On the other hand, nobody wants the government, or even the venue owner to know my telephone number. So, this is the dilemma everybody was struggling with. And again, the GovZero community, g0v, created this zero-knowledge way of contact tracing. 
+So, during the pandemic, that is a life and death question for the Taiwanese people, because on one hand, we want to receive exposure notification, if we enter a venue that has infected people. On the other hand, nobody wants the government, or even the venue owner to know my telephone number. So, this is the dilemma everybody was struggling with. And again, the GovZero community, g0v, created this zero-knowledge way of contact tracing.
 
 The idea I can explain very simply in one minute. You go to a venue, you see a QR code, and the QR code is a random number. You scan the QR code or you type the random number, and you text an SMS, just regular message. My grandma can use it to 1922, which is your telecom. So, the telecom, yes, it's just it.
 
@@ -610,7 +610,7 @@ The idea I can explain very simply in one minute. You go to a venue, you see a Q
 So easy and simple?
 
 ### Audrey Tang:
-Yeah. So, you just scan, hit send, and it's done. And the venue owner never learns about your telephone number. If the venue owner is very careful, they will insist that you show that you have sent a message, but because your screen has nothing about you, just a random number they already know anyway, so they learn nothing about you, zero knowledge. 
+Yeah. So, you just scan, hit send, and it's done. And the venue owner never learns about your telephone number. If the venue owner is very careful, they will insist that you show that you have sent a message, but because your screen has nothing about you, just a random number they already know anyway, so they learn nothing about you, zero knowledge.
 
 And your telecom already has your phone number anyway, right? So, they don't learn anything new, and they don't know which venue it is because it's a random number.
 
@@ -758,7 +758,7 @@ To respect your...
 ### Audrey Tang:
 Yeah, so we went back and forth many times. And I think they eventually understood that both the people who were fighting for the rights, and the church friends of her, they both care deeply about family, about a stable relationship. So, actually they have more in common than the other people who don't care about family.
 
-> (laughter) 
+> (laughter)
 
 So, they are actually neighbors, in the ideas place. So, I think the point is that we need to keep building bridges, keep communicating. And this is what Be Taiwan and POTUS is about. It's about giving a voice to the bridge builders. This is like the contact tracing, right?
 
@@ -778,7 +778,7 @@ Thank you.
 So interesting. I think about what happened now with the treatment that we have from Iran. Not just Israel, all the world, I think. What is your attitude when we have the cyber-attacks, also the digital, the banks… not just in newspaper, the banks, the security office, the academic, the institute of hospitals? What are the tools that you think in the digital…
 
 ### Audrey Tang:
-Yes. If we collect too much personal data in the same place, imagine if instead of the SMS contact tracing, imagine if all the venues are required to report to the same state database, every visit, every phone number. Then that becomes very attractive to cyber criminals. You just hack into that computer and you know everybody everywhere at once. 
+Yes. If we collect too much personal data in the same place, imagine if instead of the SMS contact tracing, imagine if all the venues are required to report to the same state database, every visit, every phone number. Then that becomes very attractive to cyber criminals. You just hack into that computer and you know everybody everywhere at once.
 
 ### Interviewer:
 It's like in a movies…
@@ -875,7 +875,7 @@ It just helps me to see you better. It's not pushing advertisement to my retina.
 It doesn't have a political...
 
 ### Audrey Tang:
-Yeah, it doesn't have a political agenda. 
+Yeah, it doesn't have a political agenda.
 
 > (laughter)
 
@@ -885,7 +885,7 @@ Yes, and if it has bias, meaning that if it's skewered or somehow broken, I can 
 Or send it to a fixer.
 
 ### Audrey Tang:
-Yeah, I'll send it to a fixer down the road, and they don't have to sign an NDA, they don't have to pay fines for reverse engineering. 
+Yeah, I'll send it to a fixer down the road, and they don't have to sign an NDA, they don't have to pay fines for reverse engineering.
 
 ### Interviewer:
 This is a very good example, to use it like a tool for what it needs to be. Very simple.

@@ -1,4 +1,4 @@
-# 2021-04-14 Interview with Anne Le Strat and Mickael Menser 
+# 2021-04-14 Interview with Anne Le Strat and Mickael Menser
 
 ### Anne Le Strat:
 Hi Audrey, nice to meet you again! Maybe as you remember, the first time we met I was Deputy-Mayor of Paris in charge of water and sanitation policy and Chair of Eau De Paris, the publicly-owned water company in Paris. I led the re-municipalization of the water service and carry out many reforms to improve its social and environmental sustainability and also to increase its democratization in particular by chairing a multi-stakeholders board and creating a Parisian Water Observatory. I'm now based in NYC, Research fellow at NYU and consultant. I am still working on public services, common goods and environmental issues, and public policies.
@@ -353,7 +353,7 @@ That's right.
 This stuff becomes very much an issue around social reproduction and gender. Go ahead, Anne.
 
 ### Anne Le Strat:
-Just to jump in this private-public issue; In one of your interview, you said, - it was very interesting for me -, that in Taiwan there is a collective priority of rebuilding strong mutual trust between the government and the civil society.This is something that a European nation, especially people who worry of the private sector having too much control of the government, could perhaps look into. 
+Just to jump in this private-public issue; In one of your interview, you said, - it was very interesting for me -, that in Taiwan there is a collective priority of rebuilding strong mutual trust between the government and the civil society.This is something that a European nation, especially people who worry of the private sector having too much control of the government, could perhaps look into.
 I would like to ask you how post-pandemic democracy could limit the influence of large private coporations in decision-making?
 
 What is your point of view regarding common goods and public service management, and how it's possible to implement a public management model with a genuine public participation?

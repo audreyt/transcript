@@ -64,7 +64,7 @@ Okay, let me give you where I'm trying to go with that.
 Biology. [laughter]
 
 ### Madeleine Daepp:
-Well, it's important when you use metaphors, the deeper you understand the metaphor, the more you can play with it. What I'm thinking about is if you work in a social movement space or you work in organizing, right? 
+Well, it's important when you use metaphors, the deeper you understand the metaphor, the more you can play with it. What I'm thinking about is if you work in a social movement space or you work in organizing, right?
 
 Community organizing, often you're trying to get what you see as positive messages to spread. And so sometimes when I look at the bridging algorithm space, or when I look at some of these efforts to make our digital conversation spaces more robust to the spread of problematic messages, I really worry about the ability of community organizers and social movements to do that work.
 
@@ -178,7 +178,7 @@ Yeah. So during the three years of the pandemic, you could always freely move fr
 
 So it's not "no freedom without borders." That doesn't work. The very fact that we can maintain freedom of movement, freedom to play baseball, or whatever during the three years of the pandemic is because we have a very strong border quarantine policy.
 
-In the infodemic, it is equally important to distinguish foreign sources from domestic sources. We usually don't do attributions beyond saying it's foreign, mostly because, well, physically we can see something transmitted through the subsea cables to Taiwan. So we know it's foreign, but how many hops they jump through, we don't know. So it's hard to attribute to a particular regime or jurisdiction. 
+In the infodemic, it is equally important to distinguish foreign sources from domestic sources. We usually don't do attributions beyond saying it's foreign, mostly because, well, physically we can see something transmitted through the subsea cables to Taiwan. So we know it's foreign, but how many hops they jump through, we don't know. So it's hard to attribute to a particular regime or jurisdiction.
 
 On the other hand, having this distinction is important because then the freedom of movement or speech or assembly and so on is extended only to residents and citizens, like people who have a claim or have a stake in our polity. We're not blindly saying that everybody else needs to have a vote. This is suicidal to say that. And this is very Ostrom, right? A clear community boundary that is safeguarded recursively across many levels. This is the precondition to this: without lockdown, without takedown, always with a big caveat of except at a border.
 
@@ -417,7 +417,7 @@ I wonder if, kind of going back a few steps to your focusing on infodemic as opp
 That's a worm, right?
 
 ### Robert Ness:
-It's not malicious. I guess you can argue, like, it adapts its techniques based on evolution, but it's not consciously seeking to... 
+It's not malicious. I guess you can argue, like, it adapts its techniques based on evolution, but it's not consciously seeking to...
 
 ### Audrey Tang:
 To do things other than survive?
@@ -516,7 +516,7 @@ Yeah.
 ### Audrey Tang:
 So if it becomes difficult to be authentic, one needs to empower each individual to choose whatever way they're most comfortable with to stay authentic.
 
-That's almost like a trick question. Because this is like asking a central arbiter where power needs to concentrate now that we have shapeshifters, but that itself assumes a dial, how much trust you implicitly trust that arbiter. 
+That's almost like a trick question. Because this is like asking a central arbiter where power needs to concentrate now that we have shapeshifters, but that itself assumes a dial, how much trust you implicitly trust that arbiter.
 
 But from the contact tracing SMS case that we just brought up, it's evenly split between the telecoms, the venues, the individuals, the people who make those SMS scanning apps, including LINE and so on. And when it's everybody's job, there's real check and balance, so that when somebody wants to abuse that, everybody else can make a feasible alternative to bypass that and render that attempt at capturing obsolete.
 
@@ -910,7 +910,7 @@ We're planning to talk to Gogolook. I wasn't planning to talk to Trend Micro, bu
 ### Audrey Tang:
 Yeah, I would encourage you to do that because Trend Micro is a good example of a company with a strict cybersecurity mindset and then moved to counter spam and scam and then moved to tackle information integrity. They carry this continuum from safety to participation.
 
-The way that it gets encouraged toward this movement around 2018 is in itself a very good story. It's a good showcase of the State Department actually doing a lot of good because the bootstrapping for that was funded by the Global Engagement Center, part of the US diplomatic service. This is a general pattern of people not going out of the way to build a social enterprise but finding a particular product or service within a for-profit company to be aligned with the social sector. 
+The way that it gets encouraged toward this movement around 2018 is in itself a very good story. It's a good showcase of the State Department actually doing a lot of good because the bootstrapping for that was funded by the Global Engagement Center, part of the US diplomatic service. This is a general pattern of people not going out of the way to build a social enterprise but finding a particular product or service within a for-profit company to be aligned with the social sector.
 
 Because we use an umbrella approach for the social sector, we're not excluding them just because they're a public-listed company. One division or one department within that company now becomes almost like a charity. But they started as being a division within a for-profit company.
 

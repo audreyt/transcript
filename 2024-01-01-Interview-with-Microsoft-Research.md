@@ -391,7 +391,7 @@ One is that you're asking, when we say help the helpers, do we focus on actually
 Exactly.
 
 ### Audrey Tang:
-By essentially giving them a token voice that doesn't actually meaningfully increase the mind share, the legitimacy? That's to say, are we only operating on the tactical layer instead of the power calibration layer? 
+By essentially giving them a token voice that doesn't actually meaningfully increase the mind share, the legitimacy? That's to say, are we only operating on the tactical layer instead of the power calibration layer?
 
 So this is your first question. Your second kind of implicit question is that the existing privileged actors, they will not just sit there and say, well, of course, we're another polis conversation constituent, and let's find the bridges so that we can work with people of disadvantage and build true intersectionality. You're basically saying that that's not their incentive. They're incentivized to not do that, and in fact, to obstruct that.
 
@@ -668,7 +668,7 @@ But I mean, like earlier on during SARS, even though it's very toxic, very letha
 So the infectiousness is.
 
 ### Audrey Tang:
-Right, exactly. So people do not intentionally transmit false narratives to their friends and families. And fact checking, if it's done at scale and participatory, does work because people would go out of their way to say to their friends and family that actually I was wrong, that that was not the case. They don't usually go out to scam their friends and family. That was wrong with the intention to con your friends and family. Right? 
+Right, exactly. So people do not intentionally transmit false narratives to their friends and families. And fact checking, if it's done at scale and participatory, does work because people would go out of their way to say to their friends and family that actually I was wrong, that that was not the case. They don't usually go out to scam their friends and family. That was wrong with the intention to con your friends and family. Right?
 
 So socially, as long as there's general societal trust, fact checking does work against information that is blatantly false or can be shown to miss important context, but to meddle in the election or to get people to buy something or whatever, to do persuasion. One does not need this kind of factually untrue messages. One can just trade on factually true messages, but just with the highlighted importance of things that increase the effect and the mobility, like going viral.
 
@@ -796,7 +796,7 @@ On confidence. So I would say that first, it makes the scam easier to target. Li
 
 It's much easier politically if you first focus on financial scamming, especially across border alliances, whereas especially leading up the election, telling foreign interference versus domestic campaigning becomes harder by the day until you reach the day of the vote. But every day, regardless of how close we're to the voting, financial scans look exactly the same, which makes it harder for the legislators to confuse these two, because the more close you are to the election, the more different the financial scam and political propaganda looks, because this is very intense close to the election day, but this remains the same level. So to pass a law that addresses both looks more and more untenable the closer you are to the election.
 
-So we managed to pass very specific laws that I think are very helpful, even close to election time against scams, specifically deep fake investing advice posted on facebook. So there was a flurry of celebrities, but I was never featured — which is very weird — on facebook. That purpose is to teach you to invest in something, always by a celebrity, sometimes holding a book on investment and things like that. And it's quite interactive. If you ask that celebrity a question, it will actually give you investment advice and so on. 
+So we managed to pass very specific laws that I think are very helpful, even close to election time against scams, specifically deep fake investing advice posted on facebook. So there was a flurry of celebrities, but I was never featured — which is very weird — on facebook. That purpose is to teach you to invest in something, always by a celebrity, sometimes holding a book on investment and things like that. And it's quite interactive. If you ask that celebrity a question, it will actually give you investment advice and so on.
 
 And that is mostly gone because we passed a new law that says if facebook, after people flag that, do not take it down, people get conned. Facebook doesn't get a fine from the government, but facebook becomes liable to that damage. So you get conned, 1 million nt dollars through a defect investment con, facebook must pay you $1 million, and then their civic integrity team kicks into action. And we don't see much of that anymore.
 

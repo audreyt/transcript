@@ -86,7 +86,7 @@ This Monday, 18th, we are going to have a group meeting with all the ministry se
 
 This is what I can say from my side. Based on our organizational background and what we've worked with them in the past, we can ensure those government officials' participation. It's not based on an official agreement, but we can bring them together.
 
-We're networking and connecting institutions together, and meanwhile trying to keep our role neutral way and open up the space for others. 
+We're networking and connecting institutions together, and meanwhile trying to keep our role neutral way and open up the space for others.
 
 ### 唐鳳：
 We understand. I think Director-General Wang's question really is that you talk about information officers in each and every ministry. When we run, let's say, a workshop to get all those CIOs or their director generals or section chiefs or the people that helped them, like their frontline staff, each level has its merits, but we didn't know which level you have in mind.
@@ -318,7 +318,7 @@ Because before I came here to discuss, I had a meeting with senior officials in 
 Good. Did you tell them?
 
 ### Ravindra De Silva:
-I think the government is also not going to, in this situation, Sri Lankan government, they don't want to create any conflict between China and Sri Lanka, but they're not going to challenge any other countries coming to support Sri Lanka, in the situation of zero foreign reserves. 
+I think the government is also not going to, in this situation, Sri Lankan government, they don't want to create any conflict between China and Sri Lanka, but they're not going to challenge any other countries coming to support Sri Lanka, in the situation of zero foreign reserves.
 
 Also, it's not about finance. Government officials want to come out of this struggle. Because of that they are mostly welcome. That's a very good environment to start this initiative.
 
@@ -326,7 +326,7 @@ Also, it's not about finance. Government officials want to come out of this stru
 On our side, we will not politicize this conversation. Which is why I will not be the speaker, because that's automatically politicized. With the understanding that it's a working level, senior public servant to senior public servant relationship, we're happy with that.
 
 ### Ravindra De Silva:
-As an organization, we take this as a very serious responsibility. 
+As an organization, we take this as a very serious responsibility.
 
 ### 唐鳳：
 We need to start with the beginning. Thank you.

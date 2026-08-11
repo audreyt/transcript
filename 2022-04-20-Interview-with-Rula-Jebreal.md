@@ -464,38 +464,38 @@ I would love also because I'm writing this book about women and human who are tr
 
 You're my third interview in that. The first was President Ellen Johnson of Liberia, who ended the Civil War, and used sex strike, she and Leymah Gbowee, basically, to create a movement where they mobilized, galvanized, organized, ended the Civil War and elected the first woman African president. I love her story. I think it's incredible.
 
-Obviously, you're one of those amazing rebels who are changing our world. It will be included in this book that will come out in a couple of months. 
+Obviously, you're one of those amazing rebels who are changing our world. It will be included in this book that will come out in a couple of months.
 
 ### Audrey Tang:
 
-That's excellent. Permission is hereby given. [laughs] I'll paste you the YouTube link. I'll put Creative Commons on it. Just do whatever. Yes. 
+That's excellent. Permission is hereby given. [laughs] I'll paste you the YouTube link. I'll put Creative Commons on it. Just do whatever. Yes.
 
 ### Rula Jebreal:
 
 Absolutely. With great pleasure. I thank you so much. Please know that you have allies in the United States.
 
-You have people in the media that whenever you ever need to promote anything in the media, you have real allies who believe in your mission and would love to import some of the tools to the rest of the world, especially for the people who have no voice. The people who are crushed under dictatorship. Thank you. 
+You have people in the media that whenever you ever need to promote anything in the media, you have real allies who believe in your mission and would love to import some of the tools to the rest of the world, especially for the people who have no voice. The people who are crushed under dictatorship. Thank you.
 
 ### Audrey Tang:
 
-Thank you. Let's work on this together. Live long and prosper. 
+Thank you. Let's work on this together. Live long and prosper.
 
 ### Rula Jebreal:
 
-Yes. Absolutely. If you don't mind, I will send you my movie. I made a movie. I wrote it. It was released. It's about women in war zones, but how they can thrive regardless. One of them raised me, built an orphanage for children, built a school and a university, and raised thousands of girls. I'll send you the movie. 
+Yes. Absolutely. If you don't mind, I will send you my movie. I made a movie. I wrote it. It was released. It's about women in war zones, but how they can thrive regardless. One of them raised me, built an orphanage for children, built a school and a university, and raised thousands of girls. I'll send you the movie.
 
 ### Audrey Tang:
 
-Will be my honor to watch it. 
+Will be my honor to watch it.
 
 ### Rula Jebreal:
 
-Thank you. Have a wonderful evening. Thank you. Please thank your assistant. She was so grateful and graceful. 
+Thank you. Have a wonderful evening. Thank you. Please thank your assistant. She was so grateful and graceful.
 
 ### Audrey Tang:
 
-Thank you. Bye. 
+Thank you. Bye.
 
 ### Rula Jebreal:
 
-Thank you. Bye. 
+Thank you. Bye.

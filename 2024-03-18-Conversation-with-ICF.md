@@ -50,7 +50,7 @@ Yes, please.
 ### Betty Hu:
 Okay, I'm Betty Hu. I'm the Deputy Director General of Administration for Digital Industries. We support all industries to do their digital transformation.
 
-So, sometimes when they make some problem, maybe the cyberattack, or they are not familiar with the new technology, they will come and we’ll help them to do the transformation. And we have some project to support AI teams or the software teams. 
+So, sometimes when they make some problem, maybe the cyberattack, or they are not familiar with the new technology, they will come and we’ll help them to do the transformation. And we have some project to support AI teams or the software teams.
 
 And also, we support lots of SME through the SaaS solution. Then they can easily purchase online and then help them to reduce the cost and improve their business.
 
@@ -69,7 +69,7 @@ Thank you.
 I'm Astor Chuang. I'm the Assistant Director of Emerging and Cross-Domain Division. Not "emergency", it’s "emerging". Responsible for cybersecurity and smart city and science project of the data altruism. Thank you.
 
 ### Luo-Ning Huang:
-Good afternoon, everyone. My name is Luo-Ning. Rolling, like rolling stones. 
+Good afternoon, everyone. My name is Luo-Ning. Rolling, like rolling stones.
 
 > (laughter)
 
@@ -81,9 +81,9 @@ Good afternoon, everyone. My name is Jason. Jason sounds like my Chinese name.
 And I work at the same division together and I am responsible for the Taiwan smart city project.
 
 ### Audrey Tang:
-Okay, great. Yeah, the smart city budget was part of the science and technology budget, but starting this year, we've changed our, like, public digital infrastructure as a new pocket, right? And so, just like building bridges and highways and so on, building the digital twins of the cities and counties or building the data fabric for data altruism organizations and so on. It used to belong in the science and technology budget, which is both, you know, more competitive and also less public code, less reusable. 
+Okay, great. Yeah, the smart city budget was part of the science and technology budget, but starting this year, we've changed our, like, public digital infrastructure as a new pocket, right? And so, just like building bridges and highways and so on, building the digital twins of the cities and counties or building the data fabric for data altruism organizations and so on. It used to belong in the science and technology budget, which is both, you know, more competitive and also less public code, less reusable.
 
-But starting this year, we've been adopting the public code infrastructure which actually comes from the Netherlands and now we are working with the National Development Council, so that all the common requirements from the local municipalities - they don't need to do this competitive bidding anymore. We will just gather the requirements and then we will do a public infrastructure project for them and subject to the same thing as highways and airports and so on which is much more internationally interoperable. 
+But starting this year, we've been adopting the public code infrastructure which actually comes from the Netherlands and now we are working with the National Development Council, so that all the common requirements from the local municipalities - they don't need to do this competitive bidding anymore. We will just gather the requirements and then we will do a public infrastructure project for them and subject to the same thing as highways and airports and so on which is much more internationally interoperable.
 
 This is the main development since the previous year.
 
@@ -105,9 +105,9 @@ Yeah. So, we are constantly traveling and learning about what countries are doin
 What's your vision for how you're going to communicate and make lives better at the local level?
 
 ### Audrey Tang:
-Yeah, that’s a great question. As the cabinet CIO, it's not just our ministry, but all the ministries that have a component of digital transformation that we consider as infrastructure worthy and therefore, provided to municipalities. 
+Yeah, that’s a great question. As the cabinet CIO, it's not just our ministry, but all the ministries that have a component of digital transformation that we consider as infrastructure worthy and therefore, provided to municipalities.
 
-I'll use one quick example. Previously, when each municipality want to issue like stimulus coupons or cash handouts or reimbursements and so on to people, they usually do it their own way, which means the richer cities like Taipei do it in a way that's accessible and inclusive and so on, but the counties less so. But because they were using this competitive budget, there is zero incentive for the system integrators to share that infrastructure with other people. 
+I'll use one quick example. Previously, when each municipality want to issue like stimulus coupons or cash handouts or reimbursements and so on to people, they usually do it their own way, which means the richer cities like Taipei do it in a way that's accessible and inclusive and so on, but the counties less so. But because they were using this competitive budget, there is zero incentive for the system integrators to share that infrastructure with other people.
 
 Now, last year, because TSMC and friends paid too much tax, right, than we expected the legislature passed an act that says, you know, now there's a free cash handout. Each and every individual of Taiwan, 23 million people is going to receive around 200 US dollars just because they're Taiwanese. And for the first time, we repurposed the infrastructure we used during the pandemic for this kind of economic boosting infrastructure and therefore, all the different components, including getting cash from ATM or getting your wire transfer automatically wired in or post office face-to-face verification, the related personal verification and nowadays FidO compliance verification and so on - we're all part of this component.
 
@@ -133,7 +133,7 @@ Definitely. We were just at the all hands meeting of the cabinet level privacy m
 
 And key to today's meeting actually is this idea of privacy enhancing technologies or PETs. The idea is to... Because we already have a new Personal Data Protection Act in effect now that massively increase the penalty for privacy, personal data breaches and things like that. So, the ecosystem is now looking to invest in privacy enhancing technologies, so they don't even have private data stored in them. They can use either in a way that is like multi-party encryption or homomorphic encryption, so that they can do the data processing without touching the raw data. Or they can use one-shot tokenization so that by the time the transaction is over, they don't even have any meaningful personal data with them anymore as with e-merchants and so on.
 
-So, there's this whole division within not just ADI but within moda that works on these Privacy Enhancing Technologies guidelines. And the main work that ADI has been doing is just to let the industry know it's not actually as expensive as you think to invest in such technologies and to drive the cost down, because our work is to establish the bottom basic line of compliance. And once the entire industry knows, okay, now the social and market expectation is for e-merchants to no longer leak your mobile phone number to your delivery, downstream Then, everyone who doesn't do that will be socially boycotted. There will be a social sanction 
+So, there's this whole division within not just ADI but within moda that works on these Privacy Enhancing Technologies guidelines. And the main work that ADI has been doing is just to let the industry know it's not actually as expensive as you think to invest in such technologies and to drive the cost down, because our work is to establish the bottom basic line of compliance. And once the entire industry knows, okay, now the social and market expectation is for e-merchants to no longer leak your mobile phone number to your delivery, downstream Then, everyone who doesn't do that will be socially boycotted. There will be a social sanction
 
 So, that is the main work that ADI is doing. And moda proper is doing the technical and the guidelines on the PETs.
 
@@ -143,7 +143,7 @@ Wow, that sounds very interesting. And what about cyber security? How are you de
 ### Audrey Tang:
 Yeah. I have another hat as the chair of the National Cyber Security Institute. Yeah. We have two administrations under moda So, one is the digital industries, but the other is cyber security.
 
-And the main work that we've been doing on cyber security is to adopt this zero-trust network infrastructure. The idea is to go shifting from passwords into something that is just biometrics and device authentication and behavioral detection in a way that doesn't compromise privacy. So, for example, when I sign on official documents, it's my phone verifying my fingerprint, not a state system. 
+And the main work that we've been doing on cyber security is to adopt this zero-trust network infrastructure. The idea is to go shifting from passwords into something that is just biometrics and device authentication and behavioral detection in a way that doesn't compromise privacy. So, for example, when I sign on official documents, it's my phone verifying my fingerprint, not a state system.
 
 But there is another system, CrowdStrike, verifying the integrity of my device. And yet another system, Cloudflare, that verifies the integrity of the CrowdStrike connection. And we never go to a system integrator for all three layers or rather to any two adjacent layers, because that will – the next thing we know, it will be a vendor lock-in. It will be proprietary protocols and so on. So, we insist on open and interoperable protocols on each, like, juncture between the two system parameters.
 
@@ -169,7 +169,7 @@ I’ll just let you take my stuff…
 > (laughter)
 
 ### Audrey Tang:
-Exactly, exactly. Yeah, so, for example, the zero-trust FidO implementation, of course, there are vendors in the market. But for Taiwan, our Ministry of Interior provides this TW FidO, the national implementation that includes digital signature and verification. So basically, it's the same as what other countries use plastic eID cards do, in the form of an app, but this app is free of charge and it's a public key infrastructure. Those reference implementations are public code, that's to say, open source so people can modify it as they want. 
+Exactly, exactly. Yeah, so, for example, the zero-trust FidO implementation, of course, there are vendors in the market. But for Taiwan, our Ministry of Interior provides this TW FidO, the national implementation that includes digital signature and verification. So basically, it's the same as what other countries use plastic eID cards do, in the form of an app, but this app is free of charge and it's a public key infrastructure. Those reference implementations are public code, that's to say, open source so people can modify it as they want.
 
 So, the idea is that when we have this public infrastructure provided at no cost, the SMEs don't have to pay an initial investment. Of course, if they want to get better and better, they will have to like invest but the baseline would cost nothing.
 
@@ -185,9 +185,9 @@ I always saw my role as an enabler the government role is to make the environmen
 
 So, of course, every country is different and it would be interesting to hear in Finland, we have a big social and health reform going on and we have a minister who is responsible for legislation and somehow tutoring or controlling the local regions. But still, the regions have the responsibility and now we are… first of all, the interoperability. What you were mentioning between the regions that's a big challenge. Because it used to be that the regions had their independence and they could decide what kind of system and whatever so there were no interoperability. And nowadays, there is a low but still it costs a lot of money because they have to redo a lot of things.
 
-But the bigger issue is that we have just launched a couple years ago the so-called National Health Record where when I go to a doctor, whether I go in my hometown or in Helsinki or wherever, my data has to be there. And then, of course, the doctors can see wherever, but also that I can see. Because it used to be when I went to doctor, and the doctor made the diagnosis and the patient didn't have the right kind of idea of that you didn't get any documents out of that. 
+But the bigger issue is that we have just launched a couple years ago the so-called National Health Record where when I go to a doctor, whether I go in my hometown or in Helsinki or wherever, my data has to be there. And then, of course, the doctors can see wherever, but also that I can see. Because it used to be when I went to doctor, and the doctor made the diagnosis and the patient didn't have the right kind of idea of that you didn't get any documents out of that.
 
-But now, everything is on the same file or database and it makes more secure healthcare, because the previous what you have had the appointments with the doctors and the doctors see and especially those who go off and have a lot of medication. Then, this way, you can prevent doing wrong things. 
+But now, everything is on the same file or database and it makes more secure healthcare, because the previous what you have had the appointments with the doctors and the doctors see and especially those who go off and have a lot of medication. Then, this way, you can prevent doing wrong things.
 
 So, do you have this kind of national… And how do you actually… For the people, how do they access it? Do you have their identifications so they can have access to their data?
 
@@ -210,9 +210,9 @@ And so, it was a hassle because the ministries felt that they are losing money a
 But how do you have this kind of cross border cooperation? And do you have open data administration and is the data available for businesses? Like if I get an idea that for my new kind of innovation business idea, I can somehow reach out for the data that’s needed when it’s not personal or private…
 
 ### Audrey Tang:
-Yeah, we have a comprehensive open data platform since 2014 and we shifted this idea of real time open data by demand. So, open API to respond to anyone's inquiry starting 2016. 
+Yeah, we have a comprehensive open data platform since 2014 and we shifted this idea of real time open data by demand. So, open API to respond to anyone's inquiry starting 2016.
 
-And starting 2018, we have this presidential hackathon, a hackathon annually on the president's level, so that anyone who require government data in order to do something that advance the SDGs, because that's also the year that SDGs went popular, the award to five champion teams every year is not money. There's no money, but rather a trophy that contains a projector. When you turn on the projector it projects the president herself handing the trophy to the team. So, it's a very meta trophy. 
+And starting 2018, we have this presidential hackathon, a hackathon annually on the president's level, so that anyone who require government data in order to do something that advance the SDGs, because that's also the year that SDGs went popular, the award to five champion teams every year is not money. There's no money, but rather a trophy that contains a projector. When you turn on the projector it projects the president herself handing the trophy to the team. So, it's a very meta trophy.
 
 And with it, the presidential promise that whatever they demonstrated to work in their city or municipality will be made into national level infrastructure the next fiscal year. Because this is the true reward for the open data innovators in that their demand will be sustained by societal level infrastructure, the community will keep using and reusing these data in the downstream, and anything that is only a municipality depends on the will of the mayor, of course.
 
@@ -229,7 +229,7 @@ But this requires a ministry to actually do this calculation. So, a lot of the w
 ### Suvi Linden:
 It’s amazing what you’re doing. Just one more thing before I… You were already discussing about cybersecurity and we know that in the business level and administrative level, it’s a big threat and challenge. But in Finland, we have had already over 10 years this kind of awareness day, because we got a study showing that actually, end users are the biggest threat. Because when I buy a computer, if I don't have any protection, I'm a big threat if I have a virus, and I put it on an open network…
 
-And so, for example, we have had some kind of… it's not a regulation, it's just agreement that all those who import computers that they install security program and it's free for the consumer for six months or something like that. And once a year, every year at the same time, we have an awareness day when we are talking about the cybersecurity issues from the consumer's point of view, and not the businesses. 
+And so, for example, we have had some kind of… it's not a regulation, it's just agreement that all those who import computers that they install security program and it's free for the consumer for six months or something like that. And once a year, every year at the same time, we have an awareness day when we are talking about the cybersecurity issues from the consumer's point of view, and not the businesses.
 
 Because in a way, I think that's something that you cannot regulate people to do. Of course, you can but then it's a challenge but to create awareness that how important it is for me when I’m part of the digital society that the devices I used are protected. And quite often people don’t think about it, but now we have the issue that there are these importers, they have agreed that they will install the antivirus, so then you have to pay after six months. But then, you’re already kind of… You are used to have this kind of protection and it's easier to get the people to pay.
 
@@ -262,7 +262,7 @@ And I mean that in ways of people who might be older populations who might be le
 ### Audrey Tang:
 Remote areas, not a problem, because we have universal access. And part of it is that we have a lot of people who are still able to use it, and we're able to get them to use that. So, I think the number of people who are already using it is really good. And I think that's a good thing.
 
-And also, in terms of our spectrum allocation plan, actually already includes universal service. So even for 5G now, in terms of population covered, I think it's well over 95% now. So, some of the more niche vendors serve the municipalities. So, for them, I think the 5G is at 70% or something. But at Chunghwa Telecom, I think it’s more than 95% now, so like only the most remote are waiting for the end of the year where we will have OneWeb, you know non-geostationary satellite but most of the places are already covered. 
+And also, in terms of our spectrum allocation plan, actually already includes universal service. So even for 5G now, in terms of population covered, I think it's well over 95% now. So, some of the more niche vendors serve the municipalities. So, for them, I think the 5G is at 70% or something. But at Chunghwa Telecom, I think it’s more than 95% now, so like only the most remote are waiting for the end of the year where we will have OneWeb, you know non-geostationary satellite but most of the places are already covered.
 
 And with that, we've seen that internet usage doesn't differ significantly rural to urban. I think the significant cutoff is around 75 years old or something. So, after that, it's a drop because of eyesight or other issues, cognition and so on. But I think up until like 70 years old, there's no significant drop in internet usage. Actually, they use it more because they use video conference all day long. They don't have to go to work or things like that. So, they're extremely active and bandwidth using.
 
@@ -290,7 +290,7 @@ Okay. That’s a very interesting story. It is true that, like for ransomware at
 Yeah, and the moral…
 
 ### Audrey Tang:
-And the moral aspect. 
+And the moral aspect.
 
 ### Michael Jung:
 You know, you think about a hacker as someone who has no morals. Here they are. They hacked. They could have withheld this data. They were actually trying to get the money together to pay these guys. And then they sent a message saying, “We're sorry. Here's your data back.”
@@ -313,7 +313,7 @@ Well, I wish I share that optimism.
 ### John Jung:
 One of the things that I think is important for us to impart with you, and of course, Matt will join me in this, is that we tell stories around the world about municipalities. But it's really about the people. So, whether it's a municipality or it's a country, it's really about the people who we are telling the story about and what they are doing with the technology, good or bad or so forth.
 
-What we'd like to do, and we've been here since 2004. 16 cities have made it. 4 of them were recognized as the top cities in the world. Taichung and New Taipei City, Taipei and Taoyuan. And of course, we're taking their stories and telling the world about it. One of the benefits, of course, is the reputation, the brand of Taiwan, Taiwanese companies, but also, opportunities for business. And more direct investment, partnerships, all those things. And so, when we travel the world, often a Taiwanese story becomes part of that. 
+What we'd like to do, and we've been here since 2004. 16 cities have made it. 4 of them were recognized as the top cities in the world. Taichung and New Taipei City, Taipei and Taoyuan. And of course, we're taking their stories and telling the world about it. One of the benefits, of course, is the reputation, the brand of Taiwan, Taiwanese companies, but also, opportunities for business. And more direct investment, partnerships, all those things. And so, when we travel the world, often a Taiwanese story becomes part of that.
 
 And so, what we would like to do is engage even more. Now, we haven't done that at the central government level or the federal government level here in Taiwan. And this is really our first opportunity to have this conversation. It would be great to do more. Not just about the awards and so forth, we have so many other things that we could be doing, not just with each municipality, but explore different ways in which we can cooperate on a global basis.
 
@@ -322,7 +322,7 @@ For instance, one of the things that we've recently accomplished is to create in
 So, these are the kinds of ideas we'd like to explore more of and happy to work with you and your representatives in making those things happen.
 
 ### Audrey Tang:
-Yeah, definitely. As I mentioned, prior to this year, there's no idea of national public infrastructure around data or around software or around public code. Like this whole thing just sprung into existence. 
+Yeah, definitely. As I mentioned, prior to this year, there's no idea of national public infrastructure around data or around software or around public code. Like this whole thing just sprung into existence.
 
 So, we will continue to have very interesting story to tell on how central government actually play a service leadership role to the municipalities, which is unlike most other jurisdictions, right? So, this new model, I think, is very much worth talking about.
 
@@ -334,9 +334,9 @@ Definitely, definitely. And there's also, like attracting foreign talent, there 
 
 One example is the digital field for Gold Card. Gold Card is this three-year residency card with universal healthcare for you and your family. And for, especially for digital nomads, if you stay here for less than half a year each year, there's no tax requirements and so on. So, it's proven to be quite popular to especially open-source developers, because we say you don't need eight years of work records, you don't need a diploma, and you don't need salary proof. You could look back at your contributions on GitHub, Ethereum, Wikipedia, or similar platforms, and as long as one can prove they've been contributing to the internet commons for eight or more years, they're eligible for our residency.
 
-And so, this is quite good for like people in Argentina who have worked on Ethereum and other blockchain, not to make a lot of money but just to keep their money, right? And so on, and for these innovators, they often don't have other proof of credentials, but their contributions are on the blockchain, and to date, we've approved hundreds of Gold Card holders this way, so that they can become also-Taiwanese. They can actually choose to naturalize after a few years without giving up their own passport, so this story is also something that ADI is now telling with the talent office of Taiwan to the world. 
+And so, this is quite good for like people in Argentina who have worked on Ethereum and other blockchain, not to make a lot of money but just to keep their money, right? And so on, and for these innovators, they often don't have other proof of credentials, but their contributions are on the blockchain, and to date, we've approved hundreds of Gold Card holders this way, so that they can become also-Taiwanese. They can actually choose to naturalize after a few years without giving up their own passport, so this story is also something that ADI is now telling with the talent office of Taiwan to the world.
 
-So, I think there's already plenty of documentaries or materials or things like that that you can also help to look at and maybe translate, so that it speaks more to your target audience. 
+So, I think there's already plenty of documentaries or materials or things like that that you can also help to look at and maybe translate, so that it speaks more to your target audience.
 
 ### John Jung:
 Yeah, we have already worked with your team on some podcasts and some other kinds of promotional activities. And, of course, we do videos and promote through conferences and what not, but there are many other areas to explore. You know, promoting the work that you do on a n international level by underwriting possibly books that can be put through high-level channels like Cambridge Scholars and those kind of… done by a third party, because I think you need that separation…
@@ -358,18 +358,18 @@ Betty here used to be in charge for the International Presidential Hackathon, bu
 We’d love to do that.
 
 ### Suvi Linden:
-Can I use this opportunity to invite you to Finland? Greetings from our minister, Mrs. Lulu Ranne, who is now in the government taking care of the digital issues. 
+Can I use this opportunity to invite you to Finland? Greetings from our minister, Mrs. Lulu Ranne, who is now in the government taking care of the digital issues.
 
 And in Finland, we have the biggest startup event in Europe called Slush, which is in November. And it's super big nowadays. It started by the University of Technology in Espoo. There are students started, but now it's already that over a thousand investors are coming all over the world and there are like 10,000. Altogether, the event is very big, but they say the Slush is the name because it's in November and then the snow is wet and it's slushy, it’s dark.
 
 But I was in Armenia a year ago and they had a hackathon event there and they were giving us a first prize, a ticket to come to see the startup event. I know that minister is very busy, but it would be great if you had a possibility to visit Finland and especially look into how they have created this startup event, which has grown the biggest in Europe.
 
-And actually, they have been able to get our investors from... When they, these students, when they started it, they took like a private plane and brought from Silicon Valley investors to Helsinki and now it's really established and big and those young kids who have been running it, actually they have been part of the unicorns and everything. So, it has been a great, great learning environment for this because it's run by the students and voluntary people. So, it's a great event and that might be something to look into. 
+And actually, they have been able to get our investors from... When they, these students, when they started it, they took like a private plane and brought from Silicon Valley investors to Helsinki and now it's really established and big and those young kids who have been running it, actually they have been part of the unicorns and everything. So, it has been a great, great learning environment for this because it's run by the students and voluntary people. So, it's a great event and that might be something to look into.
 
 But anyway, welcome to Finland. It's in November.
 
 ### Audrey Tang:
-I think last time I was in Helsinki was also around that time. It was almost 20 years ago. I was in Tallinn and then to Helsinki. 
+I think last time I was in Helsinki was also around that time. It was almost 20 years ago. I was in Tallinn and then to Helsinki.
 
 ### Suvi Linden:
 But they say that it's the vibes. You can check online what they are offering, but it's a great experience. And, of course, to see, Finland is a front runner in technology in many ways, but I think that we have a lot to learn from you. But maybe there are some things that you can look into.

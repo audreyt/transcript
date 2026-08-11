@@ -24,7 +24,7 @@ I know that you're also someone who has thought a lot about philosophical framew
 
 ### Audrey Tang:
 
-I would say that both folk Taoism and Shinto have a very animist idea. We are very comfortable with spirits—ancestral spirits, steward spirits, or spirits of some nature feature that has a contained moral scope. A steward of that commons cares only about that commons and the relational health around it, which is very different from the Abrahamic tradition. In Abrahamic traditions, there are intercessional patron saints that kind of work the same way, but it's much more diffused. 
+I would say that both folk Taoism and Shinto have a very animist idea. We are very comfortable with spirits—ancestral spirits, steward spirits, or spirits of some nature feature that has a contained moral scope. A steward of that commons cares only about that commons and the relational health around it, which is very different from the Abrahamic tradition. In Abrahamic traditions, there are intercessional patron saints that kind of work the same way, but it's much more diffused.
 
 For Shinto kami or Taoist spirits, it's not intercessional—there's nothing above them; they're in a community of spirits. That always shaped my imagination of how machine intelligence can work towards human society. Instead of thinking of it as a purely loyal servant to a principal, which is very vertical—like scalable oversight leading to AI designing the next loyal AI, a take-off or singularity—it sounded strange to me. Why make an Abrahamic god and worship it? What's in it for humans?
 

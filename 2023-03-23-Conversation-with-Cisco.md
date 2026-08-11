@@ -44,7 +44,7 @@ So, we have been actively investing in Taiwan since 2018, and by investing, I me
 Mm-hmm.
 
 ### Guy Diedrich:
-The nice thing about Cisco is that we’re a good networking company and a great security company. 
+The nice thing about Cisco is that we’re a good networking company and a great security company.
 
 Now, we have over 1500 individual digitization projects that we have funded and completed, some more successful than others, but most of them have been truly impactful. Closing the digital divide, inclusion, connecting the unconnected, securing the unsecured… I mean that… we’ve done energy, transportation, smart connective cities. If you can digitize it, I think we’d probably funded a project.
 
@@ -132,14 +132,14 @@ Well, I think I met Cisco Taiwan many times, so…
 So, on this 2.0, so to speak, what are your priorities or areas that you’re interested in?
 
 ### Guy Diedrich:
-Well, so, we align to yours, but what we’ve heard thus far from various ministries and engaged officials in TDA 1.0… are around definitely security. 
+Well, so, we align to yours, but what we’ve heard thus far from various ministries and engaged officials in TDA 1.0… are around definitely security.
 
 
 ### Audrey Tang:
 Yeah.
 
 ### Guy Diedrich:
-So yes, that’s how you get your Cisco certifications. It’s also how you get your cybersecurity certifications now. It’s also how you can learn Python and probably the other programming languages, penetration testing and a number of other things. 
+So yes, that’s how you get your Cisco certifications. It’s also how you get your cybersecurity certifications now. It’s also how you can learn Python and probably the other programming languages, penetration testing and a number of other things.
 
 ### Audrey Tang:
 Oh yeah, definitely.
@@ -163,7 +163,7 @@ Of course, it stems and translates into Hakka and other languages, and we’ve c
 > (laughter)
 
 ### Audrey Tang:
-Yeah, I’ve written more code in the past three months compared to the past six years. 
+Yeah, I’ve written more code in the past three months compared to the past six years.
 
 Also, I’ve got this local model, LLaMa 65B, running on this MacBook Pro with 96GB RAM, instructed with the source code, and just locally can replicate quite a bit of results.
 
@@ -185,7 +185,7 @@ Oh, very good.
 ### Audrey Tang:
 Right, and the same for the CDA (Country Digital Acceleration) / TDA (Taiwan Digital Acceleration) thing, right? So basically, when we talk about cultural translation, we don’t just mean an AI that takes a bunch of text that works in a certain jurisdiction and make it work in the other jurisdiction. But also, the guardrails, the value guardrails as well, what we’re essentially looking at is a set of system prompts, right?
 
-In OpenAI GPT4, you can give it a system prompt, like its personality. In Anthropic Claude, they instructed them to be, I think it’s… harmless, honest, and helpful. That order is important, I guess. 
+In OpenAI GPT4, you can give it a system prompt, like its personality. In Anthropic Claude, they instructed them to be, I think it’s… harmless, honest, and helpful. That order is important, I guess.
 
 > (laughter)
 
@@ -250,7 +250,7 @@ So this kind of ZTA is actually, we planned it for the four-year, but we acceler
 > (laughter)
 
 ### Guy Diedrich:
-Well, I’m sure that there are ways that we can interact and that we can contribute to that. That’s just a matter of getting, I know you guys talk, so you’re going to probably talk after this and figure out something. But I also want to make sure that, you know, this is a journey and we want to be alongside you for that journey. 
+Well, I’m sure that there are ways that we can interact and that we can contribute to that. That’s just a matter of getting, I know you guys talk, so you’re going to probably talk after this and figure out something. But I also want to make sure that, you know, this is a journey and we want to be alongside you for that journey.
 
 ### Audrey Tang:
 Well, that question has been asked since the invention of fire, right? And there are civilizations that are really destroyed by fire. And fire is democratic in the sense that really anyone can see that it perfectly aligning with civilization is not easy, which is why we have dedicated firefighters, which is why we teach fire safety at a very tender age. It’s called cooking classes, and so on. And we need to adapt to this general-purpose AI exactly as the civilizations adapted to fire, and the civilizations that didn’t will get destroyed by fire. That’s exactly what will probably happen.
@@ -288,7 +288,7 @@ Back then, the PRC regime responded essentially with zero tolerance, zero hate, 
 What we did instead was digital competence in education, so that all of our children and also elders become participating journalists in fact-checking. And that’s how we survived that particular AI disruption to the fabric of trust. But now with targeted spearphishing and interactive deepfakes, we need to do something like that, upskilling for the civic journalists, again, and on a coordinated scale.
 
 ### Guy Diedrich:
-Right? And you can almost feel like you’re on the precipice. But it’s moving so fast. 
+Right? And you can almost feel like you’re on the precipice. But it’s moving so fast.
 
 ### Audrey Tang:
 Yeah, definitely. I’m [raising this issue](https://cip.org/s4d) at the upcoming Summit for Democracy. And hopefully we can all work to align things better this time. This is like working on counter-pandemic before it gets to communities.
@@ -333,10 +333,10 @@ And some public servants are still using LINE for work. Can we get them off of i
 ### Audrey Tang:
 Wei-Jan had the idea that maybe it’s not the particular applications, it’s about the protocol. Because we know the EU already, through the Digital Market Act, have interoperability requirements. So at some point, it wouldn’t matter what software the host uses. It would  become like email. So you run Exchange, that person runs Gmail. That doesn’t matter. You can still send emails. So this kind of end-to-end secure interoperability is something that we will also talk to Signal.
 
-Because currently, if all the submarine cables are cut, we don’t get to send Signal, because it’s not located here. But if it can be interoperable and federated in some way, like with the Matrix protocol, it will be much easier. 
+Because currently, if all the submarine cables are cut, we don’t get to send Signal, because it’s not located here. But if it can be interoperable and federated in some way, like with the Matrix protocol, it will be much easier.
 
 ### Ming Wong:
-I’m not sure if you’re aware, we actually demonstrate our WebEx talking to the Space Shuttle. Not Space Shuttle now, it’s basically the Space Center, the International Space Center. Over, we have a special kind of encryption and compression algorithm to get the standard WebEx kind of communication over the satellite network up to the Space Center, which is very interesting, actually. 
+I’m not sure if you’re aware, we actually demonstrate our WebEx talking to the Space Shuttle. Not Space Shuttle now, it’s basically the Space Center, the International Space Center. Over, we have a special kind of encryption and compression algorithm to get the standard WebEx kind of communication over the satellite network up to the Space Center, which is very interesting, actually.
 
 ### Audrey Tang:
 Definitely. Thank you.
@@ -351,7 +351,7 @@ Thank you, You’ve been very generous with your time, ladies and gentlemen. Tha
 Yes. Let’s rebuild the fabric of trust.
 
 ### Guy Diedrich:
-Thank you, indeed. 
+Thank you, indeed.
 
 ### Audrey Tang:
 Thank you

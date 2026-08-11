@@ -259,7 +259,7 @@ To them, I work in a purely voluntary association basis. Meaning, they can send 
 
 My office has secondments from the people facing ones such as Ministries of Education, Culture, Interior Communication, you name it.
 
-For example, the Ministry of Defense never sent anyone to my office, so not all ministries are on board, of course. Certainly, not going to tell the Ministry of Defense, "From tomorrow, let's just crowdsource our entire national defense strategy." 
+For example, the Ministry of Defense never sent anyone to my office, so not all ministries are on board, of course. Certainly, not going to tell the Ministry of Defense, "From tomorrow, let's just crowdsource our entire national defense strategy."
 
 That probably doesn't work but Foreign Service did join one year or two after I become Digital Minister because they discovered Twitter was very good international examples of state leaders using Twitter very effectively, so they also want to learn from the public diplomacy, which is one part of the social sector.
 
@@ -287,7 +287,7 @@ Middle schoolers. It's not just an exercise. Actually, their output is seen dire
 
 Just like the Banning the Plastic Straw petition was a civics class assignment from senior high. Anyway, the point I'm making is that when people participate in making the news and learning about the importance of rigor in journalism, then they have the vaccine of the mind against the more outrageous media messages that spread by the more anti-social corner of the social media.
 
-If they can only receive consumed information, sometimes very difficult to tell one source of information against the other without learning the fact checking skills oneself. Also, we help to communicate to dispel the trending rumors by what we call "Humor Over Rumor." 
+If they can only receive consumed information, sometimes very difficult to tell one source of information against the other without learning the fact checking skills oneself. Also, we help to communicate to dispel the trending rumors by what we call "Humor Over Rumor."
 
 Basically, we identify by people flagging, voluntarily, spam in their communication media, like if you receive a email, it doesn't go to your junk mail folder but you think it should. You can flag it as junk mail and that signal gets reported to Spamhaus, an international network.
 

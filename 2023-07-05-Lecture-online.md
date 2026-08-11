@@ -431,7 +431,7 @@ I think we can actually take the governance issue by putting what we call the ov
 
 Once we have that, then it's much easier for us to talk about societal issues in a way that respects people's preferences instead of just a single authoritarian AI training things. So this is my position.
 
-Now the next question, "I was really interested in what you said about Facebook and potential impact on democracy. For example, Cambridge Analytica. Don't you think it can be used to jeopardize democracy?" 
+Now the next question, "I was really interested in what you said about Facebook and potential impact on democracy. For example, Cambridge Analytica. Don't you think it can be used to jeopardize democracy?"
 
 Yes. It not only can be used, it has been used to jeopardize democracies. It's very well documented.
 

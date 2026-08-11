@@ -40,6 +40,6 @@ Thank you.
 公民之國，萬華之中。
 
 Swirling ocean. Beautiful islands.
-A transcultural republic of citizens. 
+A transcultural republic of citizens.
 
 Let’s free the future — together.

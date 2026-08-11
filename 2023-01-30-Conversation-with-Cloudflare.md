@@ -421,7 +421,7 @@ It's about trusting one's own agency of competence, of critical thinking and so 
 Tell me more about moda and the people of moda. There's a whole bunch of people who are always thinking about this, always thinking about the current problems, always thinking about the future, always thinking of how to democratize what you're doing. Who are these people? Let's celebrate them.
 
 ### Audrey Tang:
-Yeah, let's celebrate them. Do you want to talk about yourself? 
+Yeah, let's celebrate them. Do you want to talk about yourself?
 
 ### Wjke:
 English is fine.

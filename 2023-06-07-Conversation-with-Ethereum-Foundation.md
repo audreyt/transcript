@@ -42,7 +42,7 @@ Yeah.
 Ah, I see, I see.
 
 ### Aya Miyaguchi:
-When Joy was organizing this... 
+When Joy was organizing this...
 
 ### Audrey Tang:
 Plurality Tokyo, yeah. And as part of that, we're running alignment assemblies to use plural mechanisms to have entire communities help the AI self-align. Language models in particular, without relying on OpenAI or Anthropic.
@@ -50,18 +50,18 @@ Plurality Tokyo, yeah. And as part of that, we're running alignment assemblies t
 And Wendy Hsueh here is in charge of the alignment assemblies in [Ideathon](https://ideathon.tw/), the Taiwan arm of Alignment Assemblies.
 
 ### Aya Miyaguchi:
-Great. Speaking of plurality, one of my personal, but also the interest from the Ethereum Foundation is that Ethereum started mainly in European communities, like in Berlin. 
+Great. Speaking of plurality, one of my personal, but also the interest from the Ethereum Foundation is that Ethereum started mainly in European communities, like in Berlin.
 
-And then I don't know, you've been working with Vitalik and others. But also, between Vitalik and myself too, like we've been talking about how to make the community a little bit more diverse. 
+And then I don't know, you've been working with Vitalik and others. But also, between Vitalik and myself too, like we've been talking about how to make the community a little bit more diverse.
 
-And we did a lot of support in Latin America, for example, the last couple of years. And I think like we’re interested in supporting more things also in Asia next. And that's one of the reasons why I came over here. 
+And we did a lot of support in Latin America, for example, the last couple of years. And I think like we’re interested in supporting more things also in Asia next. And that's one of the reasons why I came over here.
 
-And also, we have some great talent. She (Hsiao-Wei) is, by the way, the top star. We don't have a lot of diversity in the core researchers and developers yet. So, having her has been very inspiring to other people. So that's one of... but also things in the US, like laboratory situations are, you know, not always positive. 
+And also, we have some great talent. She (Hsiao-Wei) is, by the way, the top star. We don't have a lot of diversity in the core researchers and developers yet. So, having her has been very inspiring to other people. So that's one of... but also things in the US, like laboratory situations are, you know, not always positive.
 
 There's... we're trying to have a deeper understanding about how this can benefit the public. So, looking for more examples to support. It's always better to be built by local teams and local people, so that is just high level. Yeah.
 
 ### Audrey Tang:
-Yeah. So, I understand that Vitalik is coming here mid-August and we're trying to make him also Taiwanese by getting him a gold card in the digital field finally. 
+Yeah. So, I understand that Vitalik is coming here mid-August and we're trying to make him also Taiwanese by getting him a gold card in the digital field finally.
 
 And we changed the rules of the gold card so that eligible individuals can get three years of Taiwanese residency, universal health care, and all that, as long as there's some public proof that they've been working in digital fields for eight years, regardless of diploma or employment or whatever.
 
@@ -89,9 +89,9 @@ With the presidential hackathon participants.
 Right, exactly.
 
 ### Audrey Tang:
-And that's really helped legitimizing the use of quadratic funding because we've been using quadratic voting for a very long time now. But quadratic funding is relatively new. 
+And that's really helped legitimizing the use of quadratic funding because we've been using quadratic voting for a very long time now. But quadratic funding is relatively new.
 
-And so, thanks to that experiment, we've been scaling up -- and out, and deep -- the quadratic funding in terms of, for example, the public innovation is entirely structured with the three leading crowdfunding sites in Taiwan to participate in quadratic funding. 
+And so, thanks to that experiment, we've been scaling up -- and out, and deep -- the quadratic funding in terms of, for example, the public innovation is entirely structured with the three leading crowdfunding sites in Taiwan to participate in quadratic funding.
 
 So, as part of that plan, we work with the three leading crowdfunding sites. And there are others. So that they can form their API to prevent civil attacks and so on. The basic infrastructure needed to get quadratic funding to work and eventually morph into plural funding, which takes care of intersectionality.
 
@@ -101,7 +101,7 @@ So, I think we've got the infrastructure here. So, if you're interested in build
 Yeah. Do you think there is any other popular thing we can do similar to this one? Especially probably for the government or for the local community, not necessarily tied to Web3. But we can use this type of funding or voting for that.
 
 ### Audrey Tang:
-Yeah. There are a lot of social entrepreneurs here doing similar things, but in different names. So, instead of talking about impact certificates, they will talk about social impact bonds. Instead of retroactive funding and so on, they would call it pay for success. But although the terms differ, ultimately, it's the same thing. So, my main suggestion would be just to start partnering with local impact investment communities. 
+Yeah. There are a lot of social entrepreneurs here doing similar things, but in different names. So, instead of talking about impact certificates, they will talk about social impact bonds. Instead of retroactive funding and so on, they would call it pay for success. But although the terms differ, ultimately, it's the same thing. So, my main suggestion would be just to start partnering with local impact investment communities.
 
 The [SERT](https://serttw.wordpress.com/), for example, has been working to restructure the Taiwanese company laws and the application of such laws, so as to enable a capped profit or a non-profit owning a subsidiary for-profit, turn it into a with-profit. This makes the company governance align with the kind of governance required for retro funding to work.
 
@@ -113,11 +113,11 @@ What's your interest and view on things like decentralized ID? What level do you
 ### Audrey Tang:
 Yeah. In terms of decentralized ID, we have two very specific use cases.
 
-One is that of gold card holders or people who want to start, I wouldn't say identifying as Taiwanese, but to stand with Taiwan, to express some sort of, not just symbolic, but identity-wise, right? 
+One is that of gold card holders or people who want to start, I wouldn't say identifying as Taiwanese, but to stand with Taiwan, to express some sort of, not just symbolic, but identity-wise, right?
 
 Understanding of the Taiwanese context. So, instead of traveling to Taiwan and staying here all the time, we would like to extend the Taiwanese residency as something not entirely geographically bound. And I think the IDs are an important part of this, especially if that person is already part of a federated identity, like the European wallet ecosystem or whatever other ecosystem. It's important for Taiwan to bridge that ecosystem. So, this is one use case.
 
-Another use case is we would like also for what we call overseas compatriots, people who are Taiwanese by some sort of accounts, but not entirely connected to the household registration system or passports or any other formal system. But for those people to still work with Taiwan. So, instead of not having been in Taiwan or not having existing connection to Taiwan, and suddenly identifying they already have a social network, a community that connects them to Taiwan. 
+Another use case is we would like also for what we call overseas compatriots, people who are Taiwanese by some sort of accounts, but not entirely connected to the household registration system or passports or any other formal system. But for those people to still work with Taiwan. So, instead of not having been in Taiwan or not having existing connection to Taiwan, and suddenly identifying they already have a social network, a community that connects them to Taiwan.
 
 It was just that it's entirely contextual to that person, like family and so on, but there was no way to formalize and recognize this connection. So, we have an overseas compatriot, again, part of the cabinet, a minister dedicated for that. And we're interested in expanding that use case as well.
 
@@ -127,14 +127,14 @@ How about the privacy side of ID? Because all the different governments are havi
 ### Audrey Tang:
 Yeah. So, we've been investing in privacy enhancing technologies.
 
-So, for example, we invested in the translation of what used to be called IRMA, but it's now called [Yivi](https://www.yivi.app/). It's a Netherlands zero-knowledge proof system, with support for range proofs too. 
+So, for example, we invested in the translation of what used to be called IRMA, but it's now called [Yivi](https://www.yivi.app/). It's a Netherlands zero-knowledge proof system, with support for range proofs too.
 
 So, it's an identity wallet with not just personal data portability, but also proof properties about yourself in a zero-knowledge way, including age range and things like that in the form of attestations.
 
 So, we've translated that into Traditional Mandarin. We're thinking about the situations in which it makes more sense to use this kind of identity. A classic example, of course, was during the COVID, right? It's important to prove that I'm vaccinated without revealing anything else. But we're looking for new situations that are isomorphic, similar to that configuration. And that's part of why we want to get 100 ideas from public innovators through a quadratic funding round, because our imagination is limited, but the community is limitless.
 
 ### Aya Miyaguchi:
-Yeah. Well, I think, first of all, it's very amazing that I've talked to many different governments, and then they're all thinking about DIDs, but I think no one has started thinking about that level of refugees, issues, and also privacy. 
+Yeah. Well, I think, first of all, it's very amazing that I've talked to many different governments, and then they're all thinking about DIDs, but I think no one has started thinking about that level of refugees, issues, and also privacy.
 
 They don't like the censorship resistance and stuff like that. So, that's where I think that research level of thing, we can also... I guess, Barry is leading a lot of research into this. Do you have more questions about that?
 
@@ -191,9 +191,9 @@ When you saw that quote from Dao De Jing, that came from me.
 > (laughter)
 
 ### Audrey Tang:
-So that's... So just this early morning, Pooja, one of the co-authors, actually the main author of the paper, was talking about decentralizing AI, alignment, and so on, based on this kind of technologies. 
+So that's... So just this early morning, Pooja, one of the co-authors, actually the main author of the paper, was talking about decentralizing AI, alignment, and so on, based on this kind of technologies.
 
-So of course, I think AI makes this quite urgent and apparent that it's important that we don't wait for all the governments in the world to settle on one single authentication system, which people mutually recognize. 
+So of course, I think AI makes this quite urgent and apparent that it's important that we don't wait for all the governments in the world to settle on one single authentication system, which people mutually recognize.
 
 Something like that's outlined in this Zuzalu token paper, in that there's a multitude, a plurality of people's affiliations experimenting with their own ways of issuing such credentials, and for them to interoperate in a way that is zero-knowledge, that is to say, doesn't compromise the privacy to fit the race into the bottom.
 
@@ -211,33 +211,33 @@ Yeah, I heard about that, I haven't read it.
 It's really cool, it's like, with just a whole bunch of peer-to-peer connections, you're able to calculate people's global trust score. And this seems like really... like this is very researchy at the moment, but it seems like a very exciting idea to be able to, once we have this data set, it's really nice to be able to... you can have all these different ways of thinking about the data inside the set.
 
 ### Audrey Tang:
-Yeah, and we're at a point where we can actually start operationalizing such experiments. For example, I'm a Lithuanian e-resident, so I can already sign contracts and things like that as a European wallet-compatible person. 
+Yeah, and we're at a point where we can actually start operationalizing such experiments. For example, I'm a Lithuanian e-resident, so I can already sign contracts and things like that as a European wallet-compatible person.
 
 So even just between me and myself, I can get different trust systems, assign different social connection recognitions and so on. And for these two, the Lithuanian e-resident, Audrey, and the Taiwanese citizen, Audrey, to count as one vote. These are kind of the minimally viable examples.
 
 And we actually are pushing for the digital gold card and so on, precisely because we want to create a condition in which it’s normal for someone to be like three or four different citizens or residents in the world, in which case this kind of algorithm which I just described is not just for specific circumstances, but become an absolute necessity.
 
 ### Barry Whitehat:
-There are some ways that we can actually bootstrap these networks without having to have the issuer agree. So, the way the internet works is based on TLS, transport layer security, and this is inherently non-attributable. 
+There are some ways that we can actually bootstrap these networks without having to have the issuer agree. So, the way the internet works is based on TLS, transport layer security, and this is inherently non-attributable.
 
-It was designed to be the case that when I request a website, I can't make a proof that a website serves me certain data. So, we have this project called TLS Notary that turns this into an attributable thing. 
+It was designed to be the case that when I request a website, I can't make a proof that a website serves me certain data. So, we have this project called TLS Notary that turns this into an attributable thing.
 
 So, I can make a proof that I logged into Google or logged into a bank, and you can use this to export all these different interesting credentials. And this seems like another interesting way to achieve the same thing that you're talking about.
 
 ### Audrey Tang:
-Yeah, exactly. It's what the Taiwanese community calls Web 2.5. It's like the Kukai Wallet, reusing the Google authentication to serve as the entry point to the first wallet. 
+Yeah, exactly. It's what the Taiwanese community calls Web 2.5. It's like the Kukai Wallet, reusing the Google authentication to serve as the entry point to the first wallet.
 
-And you just described that as piggybacking on top of StartTLS or whatever. And I'm sure that it can also use not just a website connection, but also the TLS for SMTP or whatever, the mail connections, which is also opportunistically TLS-able. 
+And you just described that as piggybacking on top of StartTLS or whatever. And I'm sure that it can also use not just a website connection, but also the TLS for SMTP or whatever, the mail connections, which is also opportunistically TLS-able.
 
 ### Barry Whitehat:
 So, every email actually has an RSA signature from Google, and it's part of this anti-spam mechanism. So, you can also make a proof that you received the email.
 
 ### Audrey Tang:
-Right, exactly. And so DKIM and so on, these are, of course, just between the mail user agent, the mail transport agent, and the two senders and recipients. But if we want to make, for example, like I signed a legal contract that should be notarized, currently the easiest way is to upload a copy to Adobe, which Mashbean actually just did when we signed a Lithuanian Memorandum of Understanding. 
+Right, exactly. And so DKIM and so on, these are, of course, just between the mail user agent, the mail transport agent, and the two senders and recipients. But if we want to make, for example, like I signed a legal contract that should be notarized, currently the easiest way is to upload a copy to Adobe, which Mashbean actually just did when we signed a Lithuanian Memorandum of Understanding.
 
-We signed with our local certificates, but we had to use Adobe’s solutions to notarize that. But we would much prefer if Adobe doesn't become a choke point of all Memoranda of Understanding transported over email. 
+We signed with our local certificates, but we had to use Adobe’s solutions to notarize that. But we would much prefer if Adobe doesn't become a choke point of all Memoranda of Understanding transported over email.
 
-It would be much nicer if everyone agreed that they can choose a notarizing system in a permissionless way so that everyone can actually play the part of an EchoSign server. Because at the end of the day, what they do is not different from what you just described. 
+It would be much nicer if everyone agreed that they can choose a notarizing system in a permissionless way so that everyone can actually play the part of an EchoSign server. Because at the end of the day, what they do is not different from what you just described.
 
 ### Barry Whitehat:
 So, I see this as a really nice way to have interoperability between Web 2 and Web 3. If you're able to explore emails, specifically the proof of provenance of an email, because an email by itself doesn't really make much sense, but the provenance is what's important. This is the thing that we've been thinking of. On the research side, we've been thinking about that. This is a little bit like future plans.
@@ -253,11 +253,11 @@ I think that this is really nice.
 ### Audrey Tang:
 Yes. And I think this is important as a kind of narrative layer change.
 
-I'll use one example. Because it used to be that I was developing this computer language called Perl 6. But because it's called 6, everybody thought that it's replacing 5. 
+I'll use one example. Because it used to be that I was developing this computer language called Perl 6. But because it's called 6, everybody thought that it's replacing 5.
 
-But what we're actually doing is we're adding a meta object layer, a language translation layer, a lot of adapters, a shared virtual machine, and things like that on top of the Perl 5 semantics. But because we call it Perl 6, it creates a schism of sorts in the community. 
+But what we're actually doing is we're adding a meta object layer, a language translation layer, a lot of adapters, a shared virtual machine, and things like that on top of the Perl 5 semantics. But because we call it Perl 6, it creates a schism of sorts in the community.
 
-A very similar thing used to happen to Ethereum. So, what used to be called 1 versus 2 gets re-branded as the consensus layer on top of the existing execution... if I'm not misquoting the official websites. So instead of positioning Web 3 as a Web 2 upgrade, which is frankly speaking not possible, right, what we're basically describing now is that it's a layer, we can call it a lowercase Web 3 layer or a whatever layer on top of not just Web 2 actually, but also email, which is not Web 1. 
+A very similar thing used to happen to Ethereum. So, what used to be called 1 versus 2 gets re-branded as the consensus layer on top of the existing execution... if I'm not misquoting the official websites. So instead of positioning Web 3 as a Web 2 upgrade, which is frankly speaking not possible, right, what we're basically describing now is that it's a layer, we can call it a lowercase Web 3 layer or a whatever layer on top of not just Web 2 actually, but also email, which is not Web 1.
 
 It's not even web, it's Web 0. So, whether it's Web 0 like email or Web 1 or Web 2, they can benefit similarly with the research that you've just described by adding this, we can call it a provenance layer or whatever layer on top of it.
 
@@ -289,15 +289,15 @@ So, one of my questions is, I don’t really have experience working with the go
 So, I guess my question would be, I wanted to know, your point of view, like how would you recommend people work with or help the government use tools or infrastructure like blockchain? What do you think?
 
 ### Audrey Tang:
-So, from the government's point of view, you're a not-for-profit. For all the not-for-profits, we would ask, what are the public goods that you serve? And usually, the kind of public good that you serve determines the kind of primary ministerial contact that you have. 
+So, from the government's point of view, you're a not-for-profit. For all the not-for-profits, we would ask, what are the public goods that you serve? And usually, the kind of public good that you serve determines the kind of primary ministerial contact that you have.
 
 For example, the Ministry of Health and Welfare connects with many for-purpose organizations, and they become even like a natural extension of the ministry because they would have, for example, the Women's Rights Foundation and so on, that are actually partly governed or even governed in majority by the people in the ministry.
 
-So, there is a spectrum in which the ministry is entirely public sector, and there are the non-departmental public bodies, like the National Institute of Cybersecurity, that are almost like public servants, except of course, they have a better salary and so on, like labor law applies. And then, like the Institute for Information Industry, the III, which is owned not in a majority, but still significantly by the government and with participations from the information industry sectors and so on. 
+So, there is a spectrum in which the ministry is entirely public sector, and there are the non-departmental public bodies, like the National Institute of Cybersecurity, that are almost like public servants, except of course, they have a better salary and so on, like labor law applies. And then, like the Institute for Information Industry, the III, which is owned not in a majority, but still significantly by the government and with participations from the information industry sectors and so on.
 
 And then, extending a little bit more, foundations that work regularly with governments and even like government officials, which participate in many of activities, but without being board members, and then just grassroots organizations that advocate and so on.
 
-So, this is the spectrum. And then there's the other spectrum, where in addition to advocacy and working on your own grants and so on, some for-purpose organizations start making products or services, like the Children Are Us Foundation. It's actually very large and makes tasty cookies and so on. 
+So, this is the spectrum. And then there's the other spectrum, where in addition to advocacy and working on your own grants and so on, some for-purpose organizations start making products or services, like the Children Are Us Foundation. It's actually very large and makes tasty cookies and so on.
 
 And then the more services and products it provides, the more connected it's to the market ecosystem. So, the Ministry of Economic Affairs and so on, on this end. So, you can imagine like health and welfare on this end, and economic affairs on this end. And as more products and services you contribute to the market, the more interested that MOEA is in popularizing the idea that for every product and service purchase, there's now also some way to affect social good in a provable way.
 
@@ -340,7 +340,7 @@ Yeah. AI and privacy.
 ### Barry Whitehat:
 These are super interesting ideas here. So, we're doing a bunch of work with ZK machine learning. And basically, we're able to, I think we're almost able to make a proof that you did a single inference of ChatGPT 2, which with reasonable improvement time or whatever.
 
-And so, okay, let me give you the vision for this. Okay, so one of the visions is that you can make a machine learning model that checks if you have a picture of a valid passport. And basically, you would give the model to people and people would make a zero-knowledge proof that like, oh, for this model, I gave this input and I got this output that says I have a passport. 
+And so, okay, let me give you the vision for this. Okay, so one of the visions is that you can make a machine learning model that checks if you have a picture of a valid passport. And basically, you would give the model to people and people would make a zero-knowledge proof that like, oh, for this model, I gave this input and I got this output that says I have a passport.
 
 And then you can go one step further and say that the picture in the passport matches this other picture of me. And you're able to build these more attestations about different ways that, yeah, you can have machine learning models that people are able to execute privately. And this is layer zero.
 
@@ -375,11 +375,11 @@ Yeah, initially it was CPU only, but now it's GPU accelerated. So, as you can se
 Okay, nice.
 
 ### Audrey Tang:
-Yes. So, like entirely locally, on par with ChatGPT, and can be tuned overnight. Let me just output this transcript to here, and it has a training mode. So, if you run this overnight, what you're saying basically is that people would like to infer in a private setting, but also share the model. 
+Yes. So, like entirely locally, on par with ChatGPT, and can be tuned overnight. Let me just output this transcript to here, and it has a training mode. So, if you run this overnight, what you're saying basically is that people would like to infer in a private setting, but also share the model.
 
-And currently, the plan, as I understand, is for people to train such models as incremental LoRAs, low-rank adapters, so that, for example, reusing a foundation model will be able to have this kind of passport recognition layers and so on, as a LoRA on top of a shared, it's like stable diffusion or whatever, model. 
+And currently, the plan, as I understand, is for people to train such models as incremental LoRAs, low-rank adapters, so that, for example, reusing a foundation model will be able to have this kind of passport recognition layers and so on, as a LoRA on top of a shared, it's like stable diffusion or whatever, model.
 
-So, for language, for image, or for multi-modality, and for things like that, I think we need to make state-of-the-art, like reaching ChatGPT level models in open source that can be run in a reasonable speed on networks. 
+So, for language, for image, or for multi-modality, and for things like that, I think we need to make state-of-the-art, like reaching ChatGPT level models in open source that can be run in a reasonable speed on networks.
 
 And so, I think the layer one prerequisites have already been made. So now, we need to talk about the ways to share such models in an interoperable way, because currently, the open-source community around huggingface and so on, like zero-knowledge or privacy-preserving sharing is not one of the priorities.
 
@@ -392,9 +392,9 @@ So, I think that we're going to live in a world where there's lots of different 
 Exactly.
 
 ### Barry Whitehat:
-And the AI is going to make a plan for me to be happier. But that plan is going to involve me working with other people. Like the AI is going to maybe figure out that, oh, Barry's going to be happy if he's involved in an open-source project with people in the local community. 
+And the AI is going to make a plan for me to be happier. But that plan is going to involve me working with other people. Like the AI is going to maybe figure out that, oh, Barry's going to be happy if he's involved in an open-source project with people in the local community.
 
-And then the AI is going to reach out to other people and find other people who have similar models or similar situations. But the AIs are going to be mutually distrusting, right? Because they don't trust each other, and they don't even trust the humans who are running them. 
+And then the AI is going to reach out to other people and find other people who have similar models or similar situations. But the AIs are going to be mutually distrusting, right? Because they don't trust each other, and they don't even trust the humans who are running them.
 
 So, they're going to have all these ZK proofs. That's like, oh, Barry went to university for a couple of years, here's a proof. And he did this, and he's going to be a good contributor, I swear. And there's going to be all of these really interesting interactions to build trust between these models. And I think that's another place where we can have a lot of fun.
 
@@ -402,11 +402,11 @@ So, they're going to have all these ZK proofs. That's like, oh, Barry went to un
 Yes. So, a social, interoperable provenance layer, not just for documents, but for contribution histories and everything.
 
 ### Barry Whitehat:
-Right. For that, but also for community relationships and things. I expect ZKPs to become this way of interacting, that they become this language that AIs speak. 
+Right. For that, but also for community relationships and things. I expect ZKPs to become this way of interacting, that they become this language that AIs speak.
 
-The other thing or ways that I think AIs can communicate very effectively is that AIs think as probabilities. They're very good at saying, oh, this is probably going to happen. And I would really like to see some experiments with AIs and prediction markets. 
+The other thing or ways that I think AIs can communicate very effectively is that AIs think as probabilities. They're very good at saying, oh, this is probably going to happen. And I would really like to see some experiments with AIs and prediction markets.
 
-I think that there's a lot of space here for training and improving AIs, and also for just competition between different people to be like, my AI is the best. You know this concept of a centaur? 
+I think that there's a lot of space here for training and improving AIs, and also for just competition between different people to be like, my AI is the best. You know this concept of a centaur?
 
 With a lot of things, a centaur is a human working with an AI. They become super effective. I think that prediction markets and things are a natural way to develop these new centaurs.
 
@@ -425,7 +425,7 @@ There's some other programmable cryptography that's going to be really interesti
 So, we can use multiparty computation to train a model on both of our private data. So, I can contribute some of my data, and you can contribute some of yours. I don't get to see your data, but we end up with a model that's trained on both of those data. This is really cool, and it's interactive. The next step is to use fully homomorphic encryption. There are non-interactive ways of training and inferring them.
 
 ### Audrey Tang:
-Yes, we've been working on federated learning for quite a while now. So, if you have a bounded, many clinics and hospitals agree on the same data formats, then federated learning, including split learning of sci-fi tuning and so on, is not research. 
+Yes, we've been working on federated learning for quite a while now. So, if you have a bounded, many clinics and hospitals agree on the same data formats, then federated learning, including split learning of sci-fi tuning and so on, is not research.
 
 It's been implemented in Taiwan. But as you said, it requires pre-commitment and constant interaction between the parties to make it a reality. There's no way to join asynchronously or in a permissionless fashion. But fully homomorphic encryption might just be the ticket.
 
@@ -437,7 +437,7 @@ And so, like general purpose FHE for everyone is one of those holy grails, right
 
 ### Audrey Tang:
 
-It has some interesting moral repercussions. But anyway... the point I'm making is that I think the only bottleneck now is really just the degree of hardware investments that people have to do to get FHE working. 
+It has some interesting moral repercussions. But anyway... the point I'm making is that I think the only bottleneck now is really just the degree of hardware investments that people have to do to get FHE working.
 
 I don't think there are any remaining software or ecosystem bottlenecks. It's currently just really slow. And so, when it becomes fast, maybe in one year or two years down the road, I think we need to plan for that future now. Just assume that it will happen — FHE will become the norm. And then, what can we invest now to prepare the social layers and the public spaces for that future?
 
@@ -448,7 +448,7 @@ Like standardization of databases.
 Exactly.
 
 ### Barry Whitehat:
-I think I was thinking about doing a lot of ZK bio problems. Basically, the problem is that researchers don't have access to data. Because it's all private and it should be private. It's like health data. But it turns out that standardizing databases is really hard. 
+I think I was thinking about doing a lot of ZK bio problems. Basically, the problem is that researchers don't have access to data. Because it's all private and it should be private. It's like health data. But it turns out that standardizing databases is really hard.
 
 But we could do something with your ZKPs. We could have ZK stats or whatever. And you send, like, I'm a researcher and you're a hospital. You have a lot of data and I have an algorithm I want. I send you the algorithm, you run it with a zero-knowledge proof and you return the proof to me and I have one.
 
@@ -471,13 +471,13 @@ Because that's important for, for example, signal data, right?
 Yeah.
 
 ### Audrey Tang:
-With signal data, we've actually used signal data during the pandemic to warn people of the areas where you cannot physically keep physical distance without going three-dimensional. So, the signal data would tell us which areas of tourism or things like that are our danger zones and so on. 
+With signal data, we've actually used signal data during the pandemic to warn people of the areas where you cannot physically keep physical distance without going three-dimensional. So, the signal data would tell us which areas of tourism or things like that are our danger zones and so on.
 
 And we will send, as part of national apps and alerts and so on, to people. But that needs to be done in an entirely privacy-resilient way because signal data, if it's fine-grained enough, is like surveillance, right? So of course, for research purposes, the telecoms already publish as open data, like way outdated, aggregated to not even villages, like districts, municipalities level. So, there's no way to re-identify anyone.
 
-But this is, as you said, just to familiarize the researchers with the data formats. It's not actually useful for any real-time stuff, unless you're a historian, which is still very useful, right? 
+But this is, as you said, just to familiarize the researchers with the data formats. It's not actually useful for any real-time stuff, unless you're a historian, which is still very useful, right?
 
-But what we would like, the world would like to see is for the telecoms to feel at ease that they're not giving away any private data of their customers, that they're not giving away their trade secrets, but can still attest so that in real-time, this tourism place is overcrowded, but without revealing anything about that tourism place and so on. 
+But what we would like, the world would like to see is for the telecoms to feel at ease that they're not giving away any private data of their customers, that they're not giving away their trade secrets, but can still attest so that in real-time, this tourism place is overcrowded, but without revealing anything about that tourism place and so on.
 
 So, this is one of those pandemic-resilient things that I've been constantly thinking, like when the next Greek letter comes, right? Where we need to have a much better privacy-preserving layer to do whatever we did during the pandemic, but in a zero-knowledge way. So, I think that's also one of the interesting cases, it is just telecom signal data.
 
@@ -485,7 +485,7 @@ So, this is one of those pandemic-resilient things that I've been constantly thi
 So, the algorithm you want to run is basically like how many people are inside, like one kilometer or whatever.
 
 ### Audrey Tang:
-Exactly, exactly. And that can be actually very privacy-infringing, right? And we want it to be like, even with quantum computers, you cannot re-identify anyone. 
+Exactly, exactly. And that can be actually very privacy-infringing, right? And we want it to be like, even with quantum computers, you cannot re-identify anyone.
 
 And I think ZK is one of the main routes going there. Like I'm heading in this direction, I want to see, if I keep going in this direction, would I hit a point where I cannot physically keep physical distance?
 
@@ -565,9 +565,9 @@ Yeah. So, but just to check my understanding, you're saying that if I'm somewhat
 ### Barry Whitehat:
 Yes. So basically, what you do... the way that it works is that you're able to do two things. You're able to vote, or you're able to do two things. You're able to vote, you're able to update your vote, and you're able to update your public key. Right?
 
-And the state, whether you did any of these actions, is a given. Right? 
+And the state, whether you did any of these actions, is a given. Right?
 
-So, if I take the briber's program and I run it, the briber will never know if I actually updated my public key before that. And if I sell my key to someone, it's like, oh, here's my public key, here's my private key, give me some money, they don't know if I've updated it or not. 
+So, if I take the briber's program and I run it, the briber will never know if I actually updated my public key before that. And if I sell my key to someone, it's like, oh, here's my public key, here's my private key, give me some money, they don't know if I've updated it or not.
 
 ### Audrey Tang:
 But if there's a voting period, certainly the briber can specify that with a trusted timestamp service, you can only run over the last couple milliseconds of the voting period.
@@ -620,7 +620,7 @@ Okay, so it's not like... because when I participate in the Zuzalu online pods, 
 Oh yeah, that's a different tool.
 
 ### Audrey Tang:
-Okay. So, well then, this challenge becomes just to get everybody updatable public key pairs. 
+Okay. So, well then, this challenge becomes just to get everybody updatable public key pairs.
 
 ### Barry Whitehat:
 Like, you have to have updatable public key pairs, but it has to be like, you can't prove to someone that you updated or didn't update your public key. Actually, you can't prove that you didn't update your public key. Like, this is the thing we have to hide.
@@ -682,31 +682,31 @@ So how do we actually migrate a currently ongoing quadratic voting into the syst
 Yeah, six days. Too short to make things happen.
 
 ### Audrey Tang:
-I know, I know. But as I said, we use quadratic funding and voting semi-regularly now. Voting quite regularly and funding experimentally. And so, I'm quite interested actually in improving the legitimacy of the QV portion. Currently, we only allocate something like 12% of weight to the QV portion in the presidential hackathon, because everybody expects collusions to happen, right? 
+I know, I know. But as I said, we use quadratic funding and voting semi-regularly now. Voting quite regularly and funding experimentally. And so, I'm quite interested actually in improving the legitimacy of the QV portion. Currently, we only allocate something like 12% of weight to the QV portion in the presidential hackathon, because everybody expects collusions to happen, right?
 
-But ideally, we would like to increase the percentage of the weight vis-a-vis the board, the jury, right? The professional evaluators. I think it's just like a participatory budget. 
+But ideally, we would like to increase the percentage of the weight vis-a-vis the board, the jury, right? The professional evaluators. I think it's just like a participatory budget.
 
 When it first got invented in Brazil, in Porto Alegre, the city council and so on allocated I think something like 5% or so of the city's budget to this participation mechanism, because they did not fully trust that it would produce useful outcomes.
 
-But as it produced more and more useful outcomes and proved to be quite resistant to bribery, although not resistant to grassroots organization, but this is something we want to have anyway, right? Then it increased gradually, the percentage, until it reaches almost half. 
+But as it produced more and more useful outcomes and proved to be quite resistant to bribery, although not resistant to grassroots organization, but this is something we want to have anyway, right? Then it increased gradually, the percentage, until it reaches almost half.
 
 So, I think something needs to happen also on quadratic voting with this kind of technology to improve resistance to cyber-attacks and collusions and so on. And then we can see year after year, the percentage become from 12% or 15%, 16% and so on, until it reaches something like 50%, in which case we're at a point where we can popularize this and say, just use it, right?
 
 To account for half of the score in the public procurement and so on. So, I'm happy to experiment more with this technology.
 
 ### Phini Yang:
-Yeah, I think before the quadratic voting, I think the identity, digital identity or decentralized identity is a big issue as well, because before you can make your voting publicly or whatever, so there is another challenge we have to solve as well. 
+Yeah, I think before the quadratic voting, I think the identity, digital identity or decentralized identity is a big issue as well, because before you can make your voting publicly or whatever, so there is another challenge we have to solve as well.
 
 But as DID is sort of an ongoing topic right now, so I wouldn't think that would be a problem, but we're happy to sort of...
 
 ### Audrey Tang:
-But it's not a blocking thing, because we just talked about all sorts of Web 2.5 ways to kind of grandparent in your existing, like as my main email identities, client certificates, Google auth or Facebook auth identities or whatever identities for them to produce attestations that are compatible with a full... 
+But it's not a blocking thing, because we just talked about all sorts of Web 2.5 ways to kind of grandparent in your existing, like as my main email identities, client certificates, Google auth or Facebook auth identities or whatever identities for them to produce attestations that are compatible with a full...
 
 So, it's kind of a bootstrapping process. But for the citizen, for the resident, it really doesn't matter. For them, this is exactly like social signing. It's the same workflow. It’s just like signing on my Kukai wallet. It looks like a Google sign window, because it's reusing the Google sign window.
 
-So, I think these are important to understand that we're not saying that everyone needs to migrate to anything. If people already have TW FidO, or if they already have a citizen digital certificate, or even if they have a Lithuanian e-residency card that happens to be European, blockchain compatible, all these are good, because they can produce interoperable attestations. 
+So, I think these are important to understand that we're not saying that everyone needs to migrate to anything. If people already have TW FidO, or if they already have a citizen digital certificate, or even if they have a Lithuanian e-residency card that happens to be European, blockchain compatible, all these are good, because they can produce interoperable attestations.
 
-I think that's the route we're going. So, maybe we will forever be in phase zero... Like there will be no global DID interoperable layer. It would just be a patchwork of compatible layers, and that's still fine. 
+I think that's the route we're going. So, maybe we will forever be in phase zero... Like there will be no global DID interoperable layer. It would just be a patchwork of compatible layers, and that's still fine.
 
 ### Phini Yang:
 That's good. Exciting as well.
@@ -768,11 +768,11 @@ Or if you collect personal data, but you never send it to anyone else for proces
 
 But when people want to make statistics or analysis or whatever on top of it, then do it the reverse way, the open algorithm way, sending algorithms and the models to the data storage, to the aggregator, and run the results, either sending back results or even just an attestation of such results. So, I think this is the basic configuration.
 
-And we are at a point where the ministries, like the Ministry of Interior, is now taking this stance on household data. So, I think we're at an opportunity window. Because later this year, there will be a body in charge of setting up the personal data protection unit in Taiwan. 
+And we are at a point where the ministries, like the Ministry of Interior, is now taking this stance on household data. So, I think we're at an opportunity window. Because later this year, there will be a body in charge of setting up the personal data protection unit in Taiwan.
 
-It will be a full commission, an independent commission, just like Europe. And then that unit will re-evaluate all the data flows between the ministries and so on, and then come up with a revised personal data protection act for the legislation to consider. Well, for the next legislation to consider next January. 
+It will be a full commission, an independent commission, just like Europe. And then that unit will re-evaluate all the data flows between the ministries and so on, and then come up with a revised personal data protection act for the legislation to consider. Well, for the next legislation to consider next January.
 
-It's unlikely they'll do that this year but at least we'll have a bootstrapped unit. And for that unit to fully understand zero-knowledge is very important, because otherwise, a dilemma will be posed. Like, are we sacrificing ease of access, usability, public good, scientific research, history, crime prevention, contact tracing? 
+It's unlikely they'll do that this year but at least we'll have a bootstrapped unit. And for that unit to fully understand zero-knowledge is very important, because otherwise, a dilemma will be posed. Like, are we sacrificing ease of access, usability, public good, scientific research, history, crime prevention, contact tracing?
 
 Are we sacrificing all that just to satisfy the new commissioners? Of course not. But if we don't have to sacrifice that, but still satisfy the new commissioners, that will be the best world. So, I think this year in particular is the opportunity window to make public advocacy demos and so on.
 
@@ -792,13 +792,13 @@ I'm just an engineer here. I guess I do applied research too.
 But yeah, I wonder what level of education is already being done?
 
 ### Audrey Tang:
-Yeah, I talk about zero-knowledge in the cabinet meeting, so at least the ministers have heard of this new innovation. So, zero-knowledge, zero trust, privacy-preserving computation. I think all these are cabinet meeting level topics. 
+Yeah, I talk about zero-knowledge in the cabinet meeting, so at least the ministers have heard of this new innovation. So, zero-knowledge, zero trust, privacy-preserving computation. I think all these are cabinet meeting level topics.
 
-And that is why the ministers now, as I mentioned, including the Ministry of Interior, understand that there are other options, which is why they can afford to take the stance that we're not sharing those aggregated data anymore, personal data anymore. 
+And that is why the ministers now, as I mentioned, including the Ministry of Interior, understand that there are other options, which is why they can afford to take the stance that we're not sharing those aggregated data anymore, personal data anymore.
 
 I think one push that we're making this year is to make a clear delineation between what we call 無個資數據, like non-personal data. It's hard to translate back to English. Really not non-personal data. Personal data without a trace of personal data, like truly non-personal data, let's call it this 數據, versus data in general.
 
-So basically, it's taking a different stance. Like data in general, we assume they would be re-identifiable in some way, but only through privacy-enhancing technology like ZK can we produce truly non-personal data that is then free for everybody to use. So instead of confusing these two, personal data and non-personal data, because in the EU, as well as many places, there's this reasonable threshold, right? 
+So basically, it's taking a different stance. Like data in general, we assume they would be re-identifiable in some way, but only through privacy-enhancing technology like ZK can we produce truly non-personal data that is then free for everybody to use. So instead of confusing these two, personal data and non-personal data, because in the EU, as well as many places, there's this reasonable threshold, right?
 
 If you cross this threshold, it's somewhat non-personal, somewhat pseudonymized, somewhat anonymized, but we want truly anonymized in the sense that no matter how much computation you throw at it, no matter how much context you have about that person, still you will not be able to derive anything from it. So, it's more than the differential privacy epsilon stuff. It's zero as epsilon, basically.
 
@@ -850,9 +850,9 @@ Oh, so one last question...
 Sure, sure, that's fine.
 
 ### Barry Whitehat:
-What is a good proof of concept for this? Because it seems like this year is the year, let's prepare some proof of concept that we can share and show people. Is it like the idea that we have so far is to do statistics and just like given this, what's the probability of this? 
+What is a good proof of concept for this? Because it seems like this year is the year, let's prepare some proof of concept that we can share and show people. Is it like the idea that we have so far is to do statistics and just like given this, what's the probability of this?
 
-And the thought of this is for health data. Given this genetic mutation, what is the probability that I have this disease? Is that enough or is there something more specific that we should do? 
+And the thought of this is for health data. Given this genetic mutation, what is the probability that I have this disease? Is that enough or is there something more specific that we should do?
 
 ### Audrey Tang:
 What was your target audience?
@@ -867,17 +867,17 @@ Oh, our privacy commissioners.
 Yeah, yeah, yeah.
 
 ### Audrey Tang:
-Okay. Well, my two main suggestions. One is to go back to Constitutional Court ruling number 13 and to look at the specific case which was in an enclave, a physical enclave. The researchers doing research, I think it was on medical interventions for some chronic disease. 
+Okay. Well, my two main suggestions. One is to go back to Constitutional Court ruling number 13 and to look at the specific case which was in an enclave, a physical enclave. The researchers doing research, I think it was on medical interventions for some chronic disease.
 
-I forgot the details, but basically, they aggregated all sorts of personal data in an enclave. They cannot bring their USB in and did the research and published papers and so on. And the people who sued them were basically saying, I want to opt out of that research. 
+I forgot the details, but basically, they aggregated all sorts of personal data in an enclave. They cannot bring their USB in and did the research and published papers and so on. And the people who sued them were basically saying, I want to opt out of that research.
 
 But the problem, of course, is that if a lot of people opt out, it affects the research. And then the main contest was that how much exactly would it affect? Basically, people who made the case basically said that it will only do so negligibly, but the researchers said that it may go viral. And if this opt-out goes viral, there's a point beyond which that research is no longer possible.
 
-So, I think it makes sense instead of just doing the gene therapy prediction, the 23andMe case, which is personal, also make a case to the universal healthcare use case because it's very aggregated already. And people already derive a lot of value by this being aggregated. But people trust the National Health Insurance people. 
+So, I think it makes sense instead of just doing the gene therapy prediction, the 23andMe case, which is personal, also make a case to the universal healthcare use case because it's very aggregated already. And people already derive a lot of value by this being aggregated. But people trust the National Health Insurance people.
 
 The NHI may trust those researchers, but it's not transitive and it's not transferable. I mean, if I don't trust those researchers, I'm not asking to opt out of NHI itself, but I'm asking to opt out of the research. Right?
 
-But when this happens, is there a way for zero-knowledge technologies to ensure that even if I opt out of revealing my personal data to the researchers, I reveal instead synthetic data or whatever, truly non-personal data, so that their research continues to carry on even if 51% of citizens opt out of sharing? 
+But when this happens, is there a way for zero-knowledge technologies to ensure that even if I opt out of revealing my personal data to the researchers, I reveal instead synthetic data or whatever, truly non-personal data, so that their research continues to carry on even if 51% of citizens opt out of sharing?
 
 ### Barry Whitehat:
 What we would try and do is make it so that the NHI doesn't share the data with the researchers, but instead the researchers send requests and get back zero-knowledge proofs.
@@ -897,7 +897,7 @@ Yes. And this is the end result. But you were talking about the MVP, the minimal
 Yeah, that's a challenge.
 
 ### Audrey Tang:
-Yes, not the same level of abstraction, right? So, to zoom out a little bit, you need something that is isomorphic to NHI data, but that someone wants to work with you. Because the NHI currently doesn't want to work with any solution providers anymore, right? They closed off that enclave research venue. 
+Yes, not the same level of abstraction, right? So, to zoom out a little bit, you need something that is isomorphic to NHI data, but that someone wants to work with you. Because the NHI currently doesn't want to work with any solution providers anymore, right? They closed off that enclave research venue.
 
 With the constitutional court ruling, they're at a point where they don't want to make any new movements until the new privacy commissioners, as mandated by the constitutional court ruling, tell them that, oh, you can do this thing.
 
@@ -907,9 +907,9 @@ They don’t want to take risks?
 ### Audrey Tang:
 Right. Of course, that’s a direct result of constitutional court ruling. So, it's not an incentive thing. It's that if they keep doing that, they will be breaking the law, it would be illegal.
 
-So, the isomorphic case, which is my second point, we already prepared, is the sports data. So, it's also health data, but it's not as sensitive as the medical records and so on. And the III, as I mentioned, the Institute for Information Industry, already have aggregated the data from the sports centers and people in gyms, people running marathons and things like that. 
+So, the isomorphic case, which is my second point, we already prepared, is the sports data. So, it's also health data, but it's not as sensitive as the medical records and so on. And the III, as I mentioned, the Institute for Information Industry, already have aggregated the data from the sports centers and people in gyms, people running marathons and things like that.
 
-And they're isomorphic to medical data. And there are obviously public goods. For example, people with seeing difficulties, if they want to run, somebody else has to accompany them. And their performance will be affected by the elevation in a way that is not the same versus people who can see, right? And so, with this data, you can improve the elevation, the configuration, or whatever at the road to make it more friendly for people with seeing difficulties to run. 
+And they're isomorphic to medical data. And there are obviously public goods. For example, people with seeing difficulties, if they want to run, somebody else has to accompany them. And their performance will be affected by the elevation in a way that is not the same versus people who can see, right? And so, with this data, you can improve the elevation, the configuration, or whatever at the road to make it more friendly for people with seeing difficulties to run.
 
 And this is not hypothetical because we've already done that, right? So, there are already ways for privacy-preserving computation to affect the public good with researchers willing to work with this new regime, which does take some adjustments, right? You have to accept a low-quality synthetic data. You have to submit your algorithm and things like that. So, it's not entirely intuitive. But there's already API for that now in the III.
 
@@ -923,11 +923,11 @@ Yeah, of course.
 Oh, okay.
 
 ### Audrey Tang:
-If you look for [運動數據公益平台](https://www.data-sports.tw/), they are the flagship of 無個資數據. It's called a sports data altruism service. 
+If you look for [運動數據公益平台](https://www.data-sports.tw/), they are the flagship of 無個資數據. It's called a sports data altruism service.
 
-So, data altruism is also, I think, a good branding for this kind of arrangement, right? We're donating not my personal data, but synthetic personal data for the public good. So, I encourage you to look into this sports data altruism service. And there's a lot of available data already here, standardized API, like everything. 
+So, data altruism is also, I think, a good branding for this kind of arrangement, right? We're donating not my personal data, but synthetic personal data for the public good. So, I encourage you to look into this sports data altruism service. And there's a lot of available data already here, standardized API, like everything.
 
-And if you can say that, oh, your technology makes the data quality even better or to make the researchers' life easier or their research more legitimate because there's attestation, notary or whatever, or for people who want to join in this kind of data collaborative, spend less time setting up their environment or whatever, there are many touch points in which that zero-knowledge technologists can help. 
+And if you can say that, oh, your technology makes the data quality even better or to make the researchers' life easier or their research more legitimate because there's attestation, notary or whatever, or for people who want to join in this kind of data collaborative, spend less time setting up their environment or whatever, there are many touch points in which that zero-knowledge technologists can help.
 
 And people who participate in this already are volunteering anyway, unlike the NHI, which is a universal service. And so, this is like the testing ground. If you can prove here that this really results in less risk for everybody involved in the risky move, then chances are, privacy commissioners would take note of that and then take whatever we learned this year to the NHI case.
 
@@ -938,9 +938,9 @@ Okay, thank you.
 Well, she's mainly... because she's part of this team and representing this project. But also, our interest is also supporting education about it, like promoting, supporting these projects that we let people understand the problems of the existing systems, which the general public don't really understand yet. So, not just promoting new technologies, but why do we have to care about privacy?
 
 ### Audrey Tang:
-Yeah, definitely. In the cybersecurity front, I think even just one year ago, almost no MPs know Zero Trust. But now everybody knows Zero Trust. You see the MPs regularly post about Zero Trust architecture. And so, this is the kind of work we can help. It's just to normalize to mainstream technologies. 
+Yeah, definitely. In the cybersecurity front, I think even just one year ago, almost no MPs know Zero Trust. But now everybody knows Zero Trust. You see the MPs regularly post about Zero Trust architecture. And so, this is the kind of work we can help. It's just to normalize to mainstream technologies.
 
-So, if we do the same to zero-knowledge, what we did for Zero Trust in the service of data altruism, truly non-personal data and things like that, then chances are a year from now, just like Zero Trust, zero-knowledge will roll the tongue of MPs in their interpolations. 
+So, if we do the same to zero-knowledge, what we did for Zero Trust in the service of data altruism, truly non-personal data and things like that, then chances are a year from now, just like Zero Trust, zero-knowledge will roll the tongue of MPs in their interpolations.
 
 And that becomes the kind of environment with the new privacy commission that these technologies can just become daily life, and they’ll be like ‘Of course, it's normal to expect that.’
 
@@ -955,20 +955,20 @@ Our priority is to survive for the next five years.
 ### Audrey Tang:
 Earlier this year, a fishing vessel flying the PRC flag "accidentally" destroyed the subsea cable between Matsu and Taiwan. A week later, another cargo vessel flying the PRC flag also "accidentally" dropped anchor and kept moving and destroyed the other line. And then, Matsu was without internet. So, we set up new routing. We increased bandwidth for the microwave transmitter.
 
-The Telecom Technology Center did set up non-geostationary satellites in one of the Matsu islands to receive internet from the sky. Of course, eventually the subsea cable is repaired, but it's kind of a dry run of what would happen when another earthquake accidentally destroyed the subsea cables around Taiwan. 
+The Telecom Technology Center did set up non-geostationary satellites in one of the Matsu islands to receive internet from the sky. Of course, eventually the subsea cable is repaired, but it's kind of a dry run of what would happen when another earthquake accidentally destroyed the subsea cables around Taiwan.
 
 It may not be a physical earthquake... It could be a logical earthquake. So, something like that, we expect to be the most likely scenario for any sort of foreign information manipulation and interference.
 
 Because if we continue to have high bandwidth internet connection to the world, currently the FIMI, the Foreign Information Manipulation and Interference, could not reach the critical virality that is required for a crumbling down of democratic societies, even though it's now very easy to generate interactive deepfakes. Apple just made a product based on interactive deepfakes, the Apple Vision Pro, which asks me to synthesize my face, right? Although in a privacy-preserving way.
 
-> (laughter) 
+> (laughter)
 
 ### Audrey Tang:
-So, these technologies, although they are now in production, they do not have the critical virality to mutate into a lethal pandemic. But if our internet connection to the world is reduced to some point, at that point, the FIMIs will become endemic to the Taiwanese population. 
+So, these technologies, although they are now in production, they do not have the critical virality to mutate into a lethal pandemic. But if our internet connection to the world is reduced to some point, at that point, the FIMIs will become endemic to the Taiwanese population.
 
 So, our main work now, in addition to increasing communication resilience, working with satellites and so on, is just to have drill runs of simulated red team attacks and so on for that sort of situation.
 
-So, safety and security for that situation require people becoming aware that everything can be synthesized, interactively deepfaked and so on. And that requires normalizing provenance technology, which we didn't quite talk about this time. 
+So, safety and security for that situation require people becoming aware that everything can be synthesized, interactively deepfaked and so on. And that requires normalizing provenance technology, which we didn't quite talk about this time.
 
 So, in addition to the privacy-preserving arm, which we've talked about in this conversation, there's also this provenance arm; such technologies can be adopted by the people. And if we make the provenance arm strong enough, we can be resilient even when the main connections start to break down.
 
@@ -976,9 +976,9 @@ So, in addition to the privacy-preserving arm, which we've talked about in this 
 We also frequently ask ourselves: "Can the Ethereum P2P network survive after World War III?" (when designing the Proof-of-Stake protocol).
 
 ### Audrey Tang:
-Exactly. The internet was designed for that scenario, right? We're just continuing the work of the internet pioneers. So that simulation itself is important. And the Taiwan open-source communities, like in the COSCUP this year, they actually have a workshop to simulate exactly that situation, called "The Design We Open - 網路中斷黑客松". 
+Exactly. The internet was designed for that scenario, right? We're just continuing the work of the internet pioneers. So that simulation itself is important. And the Taiwan open-source communities, like in the COSCUP this year, they actually have a workshop to simulate exactly that situation, called "The Design We Open - 網路中斷黑客松".
 
-So, to participate more in these resilience-minded open-source communities, I think it's also important just to get people on the same page. And national defense and surviving for another five years are the kind of public good that doesn’t need convincing. 
+So, to participate more in these resilience-minded open-source communities, I think it's also important just to get people on the same page. And national defense and surviving for another five years are the kind of public good that doesn’t need convincing.
 
 Every other public good that we talk about, including better healthcare and everything, needs some convincing for people to accept it as a public good, to be able to retroactively fund it, to recognize it as an impact certificate, and so on.
 

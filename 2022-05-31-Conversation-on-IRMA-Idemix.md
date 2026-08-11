@@ -618,7 +618,7 @@ This is definitely outside of the basic IRMA use case. It's something I would ha
 ### Tanja Lange:
 You asked about use cases. Of course, as foreigners, Jonathan and I only see a limited set of things. Our interactions that we have with government sites are probably, not disjoined, but quite different. For instance, I had to go and apply for ARCs quite frequently.
 
-I would have loved to have at least the application process be online and if I had a form of identifying myself to a website to say, "Hey, that's me. It expires again. It's almost December 4th." Those things would be good use cases, where [harrumphs] there's enough private information. At the same time, there's a use case of having something online. There's some things they need to know, some things they don't need to know. Like login procedures. 
+I would have loved to have at least the application process be online and if I had a form of identifying myself to a website to say, "Hey, that's me. It expires again. It's almost December 4th." Those things would be good use cases, where [harrumphs] there's enough private information. At the same time, there's a use case of having something online. There's some things they need to know, some things they don't need to know. Like login procedures.
 
 You could also have this as a way to prove your identity that you exist. That you're a valid citizen or a valid resident. General registration front ends. Everything which needs some form of authentication.
 

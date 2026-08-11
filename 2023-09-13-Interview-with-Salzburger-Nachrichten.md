@@ -58,7 +58,7 @@ As I mentioned, we believe in inclusive co-creation. Co-creation means that ever
 
 Now, what we are essentially saying is that it needs to be closest to where the people are. The people need to have ways to not just run their own AI, like the way that I, on my MacBook, as we speak, run the local AI, that not just transcribe what we have said, but also. it can actually draft my responses based on my previous emails and things like that. But it's entirely running on my laptop and not on the cloud. And it's not using any of those cloud services, so it works on the edge in a non-connected way. So, this is individual.
 
-But for the community, we also do what we call alignment assemblies, which we gather in a city. We've done this in Taipei and Tainan. We ask people for a month online to see what they feel about generative AI. And we invite the people who raise very good points to come face-to-face for a whole day and consolidate what they expect of a norm, right, what's normal for AI to respond. And once we do that, you can check out the website. It's called Talk to the City. You can actually have a conversation with those people's avatar, so to speak, and then have a deliberation with the record of such online and also offline conversations. And then with that, we can train new AI models based on the norms that are gathered in this way. 
+But for the community, we also do what we call alignment assemblies, which we gather in a city. We've done this in Taipei and Tainan. We ask people for a month online to see what they feel about generative AI. And we invite the people who raise very good points to come face-to-face for a whole day and consolidate what they expect of a norm, right, what's normal for AI to respond. And once we do that, you can check out the website. It's called Talk to the City. You can actually have a conversation with those people's avatar, so to speak, and then have a deliberation with the record of such online and also offline conversations. And then with that, we can train new AI models based on the norms that are gathered in this way.
 
 And so, I think the main point I'm making is that first, it needs to belong to the people at the edge, closest to where people are. And second, it needs to be democratically aligned, meaning that people should be able to train it themselves and in a scalable way. So, I recently published a blog talking about this, which I pasted here.
 
@@ -82,7 +82,7 @@ Yeah, it's not specifically leading up to any big day or something. According to
 
 We already adopted what we call a zero-trust posture, meaning that we're shifting away from passwords. Passwords are very easily phished or scammed or things like that. And after they gain the username and password, they can escalate its privilege and then post hate messages or some other stuff on the website and so on. So, phishing passwords is often the first stage in having a cyber-attack that leads to manipulation, right?
 
-But, like, this year, all our ministry, our underlying administrations are completely password-free. So nowadays, when I want to use official systems, I use this phone that checks my fingerprint, but my fingerprint stays on the phone. And another software checks the phone so that it's not changed or replaced, and yet another software checks the behavior of the phone. 
+But, like, this year, all our ministry, our underlying administrations are completely password-free. So nowadays, when I want to use official systems, I use this phone that checks my fingerprint, but my fingerprint stays on the phone. And another software checks the phone so that it's not changed or replaced, and yet another software checks the behavior of the phone.
 
 And so, these three doors, they don't belong to the same company. So, because of that, even if the cyber-attack compromises one of the three doors, it still gets stopped by the other two doors, and they've wasted an attack, because then we will share the threat indicator with the Democratic Alliance.
 
@@ -114,7 +114,7 @@ And this year, although we saw comparable DDoS attacks and other assaults, it di
 Okay. And we've seen this also in the Ukraine. Since years before the attack on the whole country, Russia launched a lot of cyber-attacks, especially on the infrastructure. There were some blackouts in 2014. And what is your way to shield Taiwan against such an attack from Mainland?
 
 ### Audrey Tang:
-Yeah, we learned a lot from the Ukrainian experience. As you know, Ukraine also has more than one telecom provider, and they enabled what we call disaster roaming, right? So that even when your SIM card is registered to a telecom and that telecom's infrastructure is gone, you can still connect to other telecoms that usually don't provide service, but in terms of disasters, they do provide service to people needing network. 
+Yeah, we learned a lot from the Ukrainian experience. As you know, Ukraine also has more than one telecom provider, and they enabled what we call disaster roaming, right? So that even when your SIM card is registered to a telecom and that telecom's infrastructure is gone, you can still connect to other telecoms that usually don't provide service, but in terms of disasters, they do provide service to people needing network.
 
 And we also learned from Ukraine in working with non-terrestrial networks, specifically non-geostationary satellites. And so, before end of next year, we will have more than 700, some fixed, some mobile, satellite receivers in Taiwan to provide emergency communication, especially to journalists and disaster response teams if our subsea cables are cut. So, I think both in the satellite sense and also disaster roaming sense, we did learn a lot from Ukraine.
 
@@ -122,7 +122,7 @@ And we also learned from Ukraine in working with non-terrestrial networks, speci
 There's also the Kuma Academy in Taiwan. I visited last year, and November, and yeah, the people learn how to be prepared for such an attack. How are they going to be prepared for such an attack in the digital way? Is there something they can learn for this moment if it would happen?
 
 ### Audrey Tang:
-Yeah, I think one of the main strengths in Taiwan is that we have a very, very strong civil society. So, when the civil society people, like the ones you mentioned, finds, for example, Ukraine has this new way of doing things, they immediately get into people-to-people contact and exchanges with the DIA team, the team in Ukraine doing that super app, or people in Estonia who have been also preparing this for decades now. 
+Yeah, I think one of the main strengths in Taiwan is that we have a very, very strong civil society. So, when the civil society people, like the ones you mentioned, finds, for example, Ukraine has this new way of doing things, they immediately get into people-to-people contact and exchanges with the DIA team, the team in Ukraine doing that super app, or people in Estonia who have been also preparing this for decades now.
 
 And because many of these are what we call public code, meaning that the software and the policy that enable the software are out there, like, transparently. Estonia very famously shared the X-road system with Iceland and Finland together. So, this is a democratic alliance maintaining the same software public infrastructure to defend against this kind of attack.
 
@@ -138,7 +138,7 @@ So, the DIA team, before they repurposed DIA for this purpose, they actually alr
 Mm-hmm. There was, just last week, I think, yeah, it was Elon Musk who said that he prevented a Ukrainian attack on the Russian fleet. He said he did not agree the request because SpaceX would be explicitly complicit in a major act of war. And how do you see this, that, yeah, the provider interferes in a war, and do you think that this could be a problem for Taiwan, too?
 
 ### Audrey Tang:
-One way we learned from the Ukrainian experience was that there's a strength in plurality. So, right now, as we speak, the more than 700 satellite receiver project, the emergency resilience project, the 700 spots are specified to have more than one satellite provider as backup. 
+One way we learned from the Ukrainian experience was that there's a strength in plurality. So, right now, as we speak, the more than 700 satellite receiver project, the emergency resilience project, the 700 spots are specified to have more than one satellite provider as backup.
 
 So, not just the existing geosynchronous satellite, but also middle-Earth orbit like SES, or low-Earth orbit like OneWeb, but we also say, you know, the more, the merrier, right? If one spot has three, four, five different satellites, and if the data and the system that we need running are backed up in three or more public cloud providers, then an adversary will be extremely resourceful, required to destroy all those satellites and all those public cloud providers. But if we just use one provider with one satellite provider, yes, it is possible, actually, to be disrupted.
 
@@ -208,13 +208,13 @@ And so why people quickly trust each other and distrust each other, that becomes
 And it also is connected to democracy, I guess, so this trust. And you said because of social media, do you use social media yourself for personal purpose or are you more afraid of using it because of the harm it could take?
 
 ### Audrey Tang:
-Yeah, so I use social media in two conditions. One is that I never touch the screen because when I touch the screen, very quickly, it becomes the screen controlling my finger, not my finger controlling the screen because they were designed by a persuasion technologist that are designed to make addiction easy across touch screens. 
+Yeah, so I use social media in two conditions. One is that I never touch the screen because when I touch the screen, very quickly, it becomes the screen controlling my finger, not my finger controlling the screen because they were designed by a persuasion technologist that are designed to make addiction easy across touch screens.
 
 So, ever since the days of Palm Pilot, which is long ago, I've always used the stylus on the screen, right? So, this screen is actually also a tablet and I always interact with it through a stylus or a mouse or a keyboard, but never a touch screen. And I find that this is really the only way that enable me to just say, okay, I'll just put down my phone. I don't bring my phone outdoors, right? I am not addicted to it because I don't touch the touch screen, first thing.
 
 And the second thing is that on, say, Facebook and so on, I don't have a newsfeed. I use a software called Newsfeed Eradicator that removes the newsfeed. So, I use Facebook like a blog. I post something, a video or some thoughts. I go search, look for hashtags and visit people and have interactions, send messages, but no AI controls what I see. So, I remove the newsfeed. And once the newsfeed is removed and I don't touch the touch screen, I find it to be a very pleasant place.
 
-> (laughter) 
+> (laughter)
 
 ### Dorina Pascher:
 Okay. And, yeah, a question because I'm also German and we are now here in the middle of Europe. You spent some years in Saarbrücken. And can you talk a bit, when was it? And did it like… yeah, what is your impression of it now all these years after?
@@ -258,7 +258,7 @@ We now have not just three but potentially four presidential candidates. So, it 
 And after your, I don't know if it's after your political career, do you have some other plans? I think you have a lot of prospects.
 
 ### Audrey Tang:
-Yeah, as I mentioned, I am working with Taiwan, of course, but I'm not working exclusively for Taiwan. I am, after all, an e-resident of Lithuania and also a digital resident of Palau, among other things. And so, I think we, in the democratic alliance, work in a way that transcends simple jurisdictional boundaries. 
+Yeah, as I mentioned, I am working with Taiwan, of course, but I'm not working exclusively for Taiwan. I am, after all, an e-resident of Lithuania and also a digital resident of Palau, among other things. And so, I think we, in the democratic alliance, work in a way that transcends simple jurisdictional boundaries.
 
 I think the previous president of Estonia, Ilves, said it best. He said that on the internet, there's no geopolitical neighbors. It's not determined by geology or geographics. He said that it is the shared values that binds us together. So, people who share democratic values are neighbors because everything travels on the speed of light anyway, right? And people who are autocracies that are attacking the democratic polities, well, they also share their playbooks together between them. So, it's not a geographic neighborhood. This is the value, a shared value neighborhood.
 

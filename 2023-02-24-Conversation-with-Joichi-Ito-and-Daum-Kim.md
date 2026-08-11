@@ -25,7 +25,7 @@ So they created sort of three different clusters of discussion in the government
 Obviously, there's a political reason to do that. And the third one was they felt they needed to help startups. So they had all these committees. And last year, as NFTs were growing and web3 was growing, I started to talk to people about it. And I think that the Japanese government realized that.
 
 ### Joichi Ito:
-And there's a small group of politicians working on this, that web3 was a good way to connect all these things together. We can do DAOs and local governments, it's a new kind of capitalism and it can help startups. So the team and I helped them put together a report that Kishida-san actually embraced and he started saying that web3 is kind of the pillar of the new Japanese reform. 
+And there's a small group of politicians working on this, that web3 was a good way to connect all these things together. We can do DAOs and local governments, it's a new kind of capitalism and it can help startups. So the team and I helped them put together a report that Kishida-san actually embraced and he started saying that web3 is kind of the pillar of the new Japanese reform.
 
 ### Joichi Ito:
 And interestingly, last year, towards the end of the year, we were all talking about web3, even the opposition party campaigned in support of web3. So Japan became very pro web3 and then Japan, just to give a little bit of history, so like 2013-14 when Mt. Gox was hacked, it put Bitcoin on the map.
@@ -40,7 +40,7 @@ The mainstreaming effort.
 That's right. which then unlocked the ability for people to make exchanges. So it took off in Japan, but then in 2018 we had the Coincheck hack and I was a senior independent advisor to the JFSA helping them at the time. They tightened it so much that you couldn't do anything. So Japan has been basically crypto offline from 2018 until now.
 
 ### Joichi Ito:
-So after FTX and Terra Luna happened, very few Japanese were exposed to that risk. So the way I've been describing it is that Japan was sitting in a penalty box while everybody else was skating around and now they're all on the floor and they were just opening the penalty box and Japan's coming skating out. And also because Japan is quite secluded, you know, I wrote a book and others have been talking and we've been able to change the narrative for web3 in Japan to be more about, you know, a lot of things you talked about. 
+So after FTX and Terra Luna happened, very few Japanese were exposed to that risk. So the way I've been describing it is that Japan was sitting in a penalty box while everybody else was skating around and now they're all on the floor and they were just opening the penalty box and Japan's coming skating out. And also because Japan is quite secluded, you know, I wrote a book and others have been talking and we've been able to change the narrative for web3 in Japan to be more about, you know, a lot of things you talked about.
 
 ### Joichi Ito:
 So as a new way to coordinate non-profit efforts, research, local governments and trying to shift away from the crypto trader to the normal people. One of the challenges is that the regulations were created before we had smart contracts. So it treats digital currency as assets.
@@ -70,10 +70,10 @@ So at my university, Chiba Institute of Technology, we made an NFT-based, what's
 Decentralized Identifiers and Verifiable Credentials.
 
 ### Joichi Ito:
-Yeah, it's using the DIDs and it's doing the verifiable credentials and then Hal wanted to do certificates at the digital agency so we just gave him the code and we've made it all open source and now we went to Nepal and the education minister of Nepal signed a thing saying he's going to do it and Vietnam's going to do it. 
+Yeah, it's using the DIDs and it's doing the verifiable credentials and then Hal wanted to do certificates at the digital agency so we just gave him the code and we've made it all open source and now we went to Nepal and the education minister of Nepal signed a thing saying he's going to do it and Vietnam's going to do it.
 
 ### Joichi Ito:
-And so what we're trying to do is to build this and I'm trying very hard to keep it unofficial. So one of the things is we're trying not to force standardization around the idea or anything just to try to create interoperability. And one of the things that I'm saying and I want to get your opinion on this, but I'm saying that the problem with a lot of the standards process in Japan is that it's centralized. 
+And so what we're trying to do is to build this and I'm trying very hard to keep it unofficial. So one of the things is we're trying not to force standardization around the idea or anything just to try to create interoperability. And one of the things that I'm saying and I want to get your opinion on this, but I'm saying that the problem with a lot of the standards process in Japan is that it's centralized.
 
 ### Joichi Ito:
 You have to have, you end up with a committee and a chairman and a blah blah blah...
@@ -94,7 +94,7 @@ We're trying to make that an example because I think what will be neat because i
 We're trying to get individuals from the different ministries to join but we're trying to make it a very DAO-like association that's going to have opinions about digital policy and we're trying to connect it out internationally as well.
 
 ### Joichi Ito:
-So anyway, that's the experiment and Hal is very central to this. And we're trying to figure out who else to bring in and who else we can learn from. So it's a multi-pronged thing. So we're trying to make an example for DAOs. We're trying to create a new way of doing coordination without over-standardization. And we're trying to make a kind of a global network there. So I'm curious if this plugs into anything you're doing here. 
+So anyway, that's the experiment and Hal is very central to this. And we're trying to figure out who else to bring in and who else we can learn from. So it's a multi-pronged thing. So we're trying to make an example for DAOs. We're trying to create a new way of doing coordination without over-standardization. And we're trying to make a kind of a global network there. So I'm curious if this plugs into anything you're doing here.
 
 ### Audrey Tang:
 Indeed, there's a dedicated DAO/web3 section within our ministry in the Department of Democracy Network. We don't have a Department of International Cooperation. It's called Democracy Network instead.
@@ -118,10 +118,10 @@ As for Taiwan and other jurisdictions that are still trying to figure out how cl
 In Taiwan, we have this da0 (DAO-Zero), like g0v (Gov-Zero), but for DAO. It is a g0v project, with lots of DN people, and myself is involved in the da0. However, we frame it so that it's international at the beginning. So it's not something that we want to build as replacing our local association structure with local government and so on. Because for domestic registered associations, I mean, they already have a pretty good co-op or association infrastructure. However, for the international DAOs joining, it's difficult.
 
 ### Audrey Tang:
-So our main strategy is just to say, "Okay, if you have an international DAO, we don't force you to set up a local association. That's not practical. However, we will hand that DAO a legal personhood e-residency. So it's like e-residency for DAOs. And so if your DAO, for example, is interested in having members that are Taiwanese, then we're happy to just give your DAO a kind of legal personhood certificate, an XCA, which we issue from Taiwan. So that establishes a mutually recognizable digital signature link, but it doesn't necessarily confer company status, for example for tax purposes. 
+So our main strategy is just to say, "Okay, if you have an international DAO, we don't force you to set up a local association. That's not practical. However, we will hand that DAO a legal personhood e-residency. So it's like e-residency for DAOs. And so if your DAO, for example, is interested in having members that are Taiwanese, then we're happy to just give your DAO a kind of legal personhood certificate, an XCA, which we issue from Taiwan. So that establishes a mutually recognizable digital signature link, but it doesn't necessarily confer company status, for example for tax purposes.
 
 ### Audrey Tang:
-And so by defining this as an international association legal personhood, we avoid this whole company tax, whatever you just talked about, of over sorting it into the bin of for-profit company sense. So I think there's a lot of synergies. 
+And so by defining this as an international association legal personhood, we avoid this whole company tax, whatever you just talked about, of over sorting it into the bin of for-profit company sense. So I think there's a lot of synergies.
 
 ### Joichi Ito:
 That's really interesting. And maybe we should look at doing something similar in Japan, and maybe we should try to put that in the upcoming DAO law. Because what we're trying to do, they, the liberal democratic party team that's going to do a politicians' law of proposal. They're trying to find ways to carve out applications of DAOs that shouldn't be overly regulated. So it sounds similar. So I'm sure this is all online?
@@ -130,16 +130,16 @@ That's really interesting. And maybe we should look at doing something similar i
 Yeah, it's all online, and I can connect you to the DN people in charge of this, because it would be interesting to see if we can do a similar thing and cooperate there.
 
 ### Joichi Ito:
-That would be great. In terms of local governments, are you doing any DAO-like support for co-ops and things like that? 
+That would be great. In terms of local governments, are you doing any DAO-like support for co-ops and things like that?
 
 ### Audrey Tang:
 Definitely. A lot of the local government, municipality and so on, have worked with people who joined our, it's called quadratic funding, a web3 thing. I would say, a QF venture, right? There's a QF incubator that we launched at 100.adi.gov.tw, ADI for Administration for Digital Industries. So, the 100.adi.gov.tw basically asks the people who work locally to reimagine their services if the communication technology has advanced to a point where co-presence is a reality.
 
 ### Audrey Tang:
-So a projection from what they used to deliver locally to what could work actually across distance. And they submit those ideas and the top 100, we coach them to — because in Taiwan, crowdfunding platforms are very popular — to do a not for-profit but for-good crowdfunding round. However, the crowdfunding sites all agree in a privacy-enhancing way to share the kind of unique individuals that joined. 
+So a projection from what they used to deliver locally to what could work actually across distance. And they submit those ideas and the top 100, we coach them to — because in Taiwan, crowdfunding platforms are very popular — to do a not for-profit but for-good crowdfunding round. However, the crowdfunding sites all agree in a privacy-enhancing way to share the kind of unique individuals that joined.
 
 ### Audrey Tang:
-So if you join on this crowdfunding platform, that crowdfunding platform, but you're the same individual, then you only count as one vote for quadratic funding. And then we calculate the score as the sum of all the square roots of each individual contribution, meaning that to get a lot of people joining is as important, if not more important as one wealthy donor. Because the traditional problem with matching funds is that you can just get a loan with a very large donor and then you win everything. 
+So if you join on this crowdfunding platform, that crowdfunding platform, but you're the same individual, then you only count as one vote for quadratic funding. And then we calculate the score as the sum of all the square roots of each individual contribution, meaning that to get a lot of people joining is as important, if not more important as one wealthy donor. Because the traditional problem with matching funds is that you can just get a loan with a very large donor and then you win everything.
 
 ### Audrey Tang:
 With quadratic funding, we are surfacing the top 20 or so and elevate them from the local DAO or local association into a national or even international presence. And for those within it that we can see a necessity, then maybe we use the Universal Service Fund or many other funding sources at our disposal to say that this is now as essential as broadband-as-a-human-right and so on.
@@ -160,7 +160,7 @@ Yeah.
 However, of the many cases that joined us in this 100 proposed to connect, for example, is so-called overseas compatriots. Right? So the second and third generation Taiwanese. And for them, we don't have a good PKI anymore. So we have to either cross-recognize with whatever their country's PKI is, or we'll have to invent something based on the DIDs.
 
 ### Audrey Tang:
-So it's on the elevation of those ideas to the international level part, later this year, that we will have to adopt DIDs. So we joined W3C and FIDO with this particular use case. 
+So it's on the elevation of those ideas to the international level part, later this year, that we will have to adopt DIDs. So we joined W3C and FIDO with this particular use case.
 
 ### Joichi Ito:
 Interesting. That's really interesting.
@@ -176,9 +176,9 @@ There you go.
 
 ### Audrey Tang:
 So the boundary here is actually very blurry... We have da0 people who are also full-time staff, and one is at DN working on web3, Mashbean is the name, and he had to declare a non-conflict-of-interest, and then all the DAO members that he co-founded, the VolDAO, have signed saying that they are truly a non-profit, non-organization. And of course, they signed not very digitally, so maybe we have to fix that...
- 
+
 ### Audrey Tang:
-But anyway, so the point I'm making is that we want to encourage overlaps. We think a lot of the governance hiccups is because the people who work on safety, security, innovation, progress, and undemocratic participation, they don't talk to each other's groups. But if someone can belong to all three groups together, and if we have that much of those someones as part of the DN, then we stand ready to engage in a way that doesn't feel bureaucratic and top-down. 
+But anyway, so the point I'm making is that we want to encourage overlaps. We think a lot of the governance hiccups is because the people who work on safety, security, innovation, progress, and undemocratic participation, they don't talk to each other's groups. But if someone can belong to all three groups together, and if we have that much of those someones as part of the DN, then we stand ready to engage in a way that doesn't feel bureaucratic and top-down.
 
 ### Joichi Ito:
 I see. That's interesting. Yeah, we should get Hal to become the head of digital agency, then he can have a mirror organization.
@@ -199,13 +199,13 @@ And this becomes an important area.
 Are you giving them e-residency so that they can experience the feeling of being Japanese before actually joining?
 
 ### Joichi Ito:
-Yeah. I think that we are actually starting to talk about helping with visa application using this credentialing. Do you have an e-credentialing system? I'm sure you do. And what's, where does that live and what's the protocol? 
+Yeah. I think that we are actually starting to talk about helping with visa application using this credentialing. Do you have an e-credentialing system? I'm sure you do. And what's, where does that live and what's the protocol?
 
 ### Audrey Tang:
 Sure. So, a couple of things. So our digital signature act, which was done around the turn of the century, already allows for recognizing overseas CAs. So all it takes for us, which we did last year, is to simply say that anything that the NIST or the ISO or whatever international organization ratifies as a credentialing signature system, we strongly suggest automatically recognize it to count as legal in Taiwan.
 
 ### Audrey Tang:
-So this is a kind of one-way notarization recognition. The other way can be done quite easily by making sure that we use the standardized FIDO, PKCS, and so on, those infrastructures, and then just publish it to a place like IPFS, where everybody else automatically has access. So this is like the time when I sent a pull request to the Tokyo Metropolitan COVID dashboard, right? 
+So this is a kind of one-way notarization recognition. The other way can be done quite easily by making sure that we use the standardized FIDO, PKCS, and so on, those infrastructures, and then just publish it to a place like IPFS, where everybody else automatically has access. So this is like the time when I sent a pull request to the Tokyo Metropolitan COVID dashboard, right?
 
 ### Audrey Tang:
 Instead of doing a Track 1, like "my ambassador talks to your ambassador," it's the public place that's GitHub that I just sent a pull request. So that's our strategy.
@@ -220,13 +220,13 @@ Exactly. Yes.
 You know, I don't know if they still do it, but there were these hacker clubs and I think it was called hackerspaces.org and the heads of these hackerspaces would meet. They're all like pirates, they're all independent. But what they did was they had meetings and they shared patterns.
 
 ### Joichi Ito:
-So there's like some of the ones that I like, there was one called the bike shed pattern and the bike shed pattern was complicated things like let's build a nuclear reactor. Most people don't understand, so they don't have an opinion. But when they're arguing about the color of the bike shed, everybody has an opinion. 
+So there's like some of the ones that I like, there was one called the bike shed pattern and the bike shed pattern was complicated things like let's build a nuclear reactor. Most people don't understand, so they don't have an opinion. But when they're arguing about the color of the bike shed, everybody has an opinion.
 
 ### Audrey Tang:
 There we are all experts.
 
 ### Joichi Ito:
-Well, and it takes the whole meeting. And so what they do is they say, okay, if we start spending too much time on stupid point, they call it bike shed pattern, and everybody knows what it means. So what they did was they write it out, and then they share these patterns with everybody, each other. Do you know this stuff? And so that I think is a really good way of governance where everyone's sharing but not forcing and the best practices win. 
+Well, and it takes the whole meeting. And so what they do is they say, okay, if we start spending too much time on stupid point, they call it bike shed pattern, and everybody knows what it means. So what they did was they write it out, and then they share these patterns with everybody, each other. Do you know this stuff? And so that I think is a really good way of governance where everyone's sharing but not forcing and the best practices win.
 
 ### Audrey Tang:
 Stigmergy.
@@ -238,10 +238,10 @@ Yes, exactly. So it would be interesting. So let me, I'll look this up as well b
 Our entire website, moda.gov.tw is on IPFS. So ipns://moda.gov.tw/. And during the cyber attack last August, a lot of people just volunteered to keep us afloat.
 
 ### Joichi Ito:
-Oh, interesting. 
+Oh, interesting.
 
 ### Audrey Tang:
-And so this is a very strong participation-for-safety case. Because web3 technologies grow up in an adverse environment. So it's value only shine when there's actual adversity. 
+And so this is a very strong participation-for-safety case. Because web3 technologies grow up in an adverse environment. So it's value only shine when there's actual adversity.
 
 ### Joichi Ito:
 Very interesting. Daum, do you want to...
@@ -259,7 +259,7 @@ It's okay. We're at a good point anyway.
 So because of my background as a Korean, Chinese and Japanese, being a transcultural person myself, finding a community for me was always very important because I don't have one clear identity where I could call home but at the same time that means that anywhere can be home. So I've always used like online communities, I had a Facebook page when I was 15 years old to find like like-minded people who's like me and then to build my own identity using online platforms.
 
 ### Daum Kim:
-It's my first time in Taipei, and I noticed that young people in my generation seem to be more engaged with the government community. Also because of your work in raising awareness about citizen involvement in government activities, I think it really strengthened the relationship between my generation and the government. 
+It's my first time in Taipei, and I noticed that young people in my generation seem to be more engaged with the government community. Also because of your work in raising awareness about citizen involvement in government activities, I think it really strengthened the relationship between my generation and the government.
 
 ### Daum Kim:
 So I was wondering what has been the challenges that you went through during this phase, and what do you think are the opportunities, especially in the context of web3, to strengthen this relationship with the citizen, and especially with people my age?
@@ -274,13 +274,13 @@ The core challenge is, as I mentioned, the innovation-safety dilemma.
 And of course young people want to participate, but some want to participate to enhance safety, and some want to participate to enhance innovation, the speed of innovation. And in many jurisdictions, those two groups of people don't necessarily talk to each other. They develop different norms, different cultures around safety and innovation, respectively.
 
 ### Audrey Tang:
-And then the social media came, and then it amplified what used to be simple disagreements into tribal fights, polarization, and so on. So it's not that the young people are susceptible to tribal fights or vain social status comparisons or whatever, but rather the space in which they interact in is sometimes antisocial by default, by elevating the takes, the dunks, the retweets, and so on, so this is like a virus. 
+And then the social media came, and then it amplified what used to be simple disagreements into tribal fights, polarization, and so on. So it's not that the young people are susceptible to tribal fights or vain social status comparisons or whatever, but rather the space in which they interact in is sometimes antisocial by default, by elevating the takes, the dunks, the retweets, and so on, so this is like a virus.
 
 ### Audrey Tang:
 So the main challenge is that there's a generation of people whose identities are found on the overlapping intersectionality of the groups that we belong. So we're all multi-homed people and our identity is on those intersections. Yet we engage in platforms that amplify only the conflicting part of those overlaps instead of the pro-social part of the overlaps. So that's the main challenge.
 
 ### Audrey Tang:
-So the main work that we do is just to find new patterns. Sometimes as simple as saying there's no reply button that creates a thread, but rather elevating like the community notes on Twitter, only the voices that speaks broadly to the people of dividing ideologies. So nonviolent communication actualized as code. 
+So the main work that we do is just to find new patterns. Sometimes as simple as saying there's no reply button that creates a thread, but rather elevating like the community notes on Twitter, only the voices that speaks broadly to the people of dividing ideologies. So nonviolent communication actualized as code.
 
 ### Audrey Tang:
 By creating those spaces, we magically then see that the young people who care about environmental sustainability and so on, can see that the people who care about, say, innovation in material sciences, in community organization, or very diverse fields, they now see a common goal to band together instead of fighting over the trivialities, the back-shedding.
@@ -294,7 +294,7 @@ It's kind of like you had a forum, right, three years ago, and you didn't have a
 Exactly. It's still to this day, like the join.gov.tw platform. We didn't invent this — Pol.is came from Seattle, and on Join there's two columns, pro and con, but no reply between those two columns — that came from Iceland, from Better Reykjavík.
 
 ### Daum Kim:
-Yes. I like the fact that you can still dislike, you can still disagree, but you just can't reply. 
+Yes. I like the fact that you can still dislike, you can still disagree, but you just can't reply.
 
 ### Audrey Tang:
 Exactly.
@@ -309,7 +309,7 @@ Join.gov.tw is still going on. It's inspired by vTaiwan. So vTaiwan started in 2
 That's very interesting. And what do you think is the 20s and 30s perception towards the digital industry here and how much are they involved right now? Because I feel like in Japan, I'm saying this as a non-Japanese, I feel like just young generation, they don't really vote in general. They don't think that their voices are heard to the government's act. But I feel like the case is slightly opposite here.
 
 ### Audrey Tang:
-Well, would they "like" and "unlike"? Surely that's voting, right? 
+Well, would they "like" and "unlike"? Surely that's voting, right?
 
 ### Daum Kim:
 Yes. But they don't have that, I don't think. And I don't think they see the need of having to raise their voice even though they have a different opinion. But I think it's opposite here.
@@ -327,7 +327,7 @@ Yeah, as I mentioned, it's all about whether you share agenda-setting power. Bec
 But before that happens, the younger people in many jurisdictions feel that all they get to work on were trivial issues like bike shedding. "So the nuclear plant is going to be built, but let's talk about the painting on the wall or whatever..."
 
 ### Audrey Tang:
-And of course that leads to a sense of learned helplessness. Like if I spend time on this and I don't have agenda-setting power, somebody else set an agenda with the context I don't understand, and then I get to suggest the color of the wall. So that's the kind of number one reason for learned helplessness for many of the younger generation. 
+And of course that leads to a sense of learned helplessness. Like if I spend time on this and I don't have agenda-setting power, somebody else set an agenda with the context I don't understand, and then I get to suggest the color of the wall. So that's the kind of number one reason for learned helplessness for many of the younger generation.
 
 ### Audrey Tang:
 We don't see the younger generation as simply voices, but rather we call them digital transformation ambassadors. In Moda, the T Ambassadors program, ask people who freshly graduated or even not yet graduated to be ambassadors from the digital world to the analog world. Five of them in a team would work with a local social entrepreneur, night market, whatever, to help them digitally transform.
@@ -342,7 +342,7 @@ And do you reward these ambassadors?
 Yeah, of course. I have a year of pay subsidized by the government. And also NFTs, soulbound NFTs that show their contributions, their impact certificates, and so on. So I think for these young people, having the impact certificates to their name is even more tangible than this coin. Because it's hard to show this coin across a video conference with the same gravitas. But if there's a digital signature from the digital ministry, that's easily verified. So I'm on Ethereum and Tezos and so on. I have those soulbound NFTs too.
 
 ### Joichi Ito:
-That's fascinating. Thank you very much. That's a good name, Impact Certificates. We should do that. 
+That's fascinating. Thank you very much. That's a good name, Impact Certificates. We should do that.
 
 ### Daum Kim:
 インパクト サーティフィケート.

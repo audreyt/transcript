@@ -36,7 +36,7 @@ What do you think AI is going to do to the way we live our lives? How big an imp
 
 I think first and foremost, it enables what I call assistive intelligence, the personalized assistants akin to personal computing, but for all the different activities we do around language.
 
-For example, on Twitter, I posted a picture as I was traveling here, in airplane mode on this MacBook, running a language model — without an internet connection — that is trained on my public speeches and my emails. It can draft emails entirely in my style. 
+For example, on Twitter, I posted a picture as I was traveling here, in airplane mode on this MacBook, running a language model — without an internet connection — that is trained on my public speeches and my emails. It can draft emails entirely in my style.
 
 So this kind of hyper personalized assistants, trained and used by not just individuals, but also communities, I think that's going to make it very effective for people to empower the people closest to the pain and convey their viewpoints, to effect more effective communication.
 

@@ -4,7 +4,7 @@
 Let's get started. Maybe a short round of introductions.
 
 ### Niffer Nan:
-My name is Niffer, short for Jennifer, Niffer Nan. My background is in tech. Right now, I advise startups and angel invest. Previously, I was at Asana as the second PM there. 
+My name is Niffer, short for Jennifer, Niffer Nan. My background is in tech. Right now, I advise startups and angel invest. Previously, I was at Asana as the second PM there.
 
 ### Jie Tang:
 That's how you know Dave and Rose, right?
@@ -23,7 +23,7 @@ Part of that I was actually in a PhD program at Berkeley working on robotics and
 Really excited to come talk to you a little bit about what's been happening recently in that space, and hear from you about how you think about it as Digital Minister in Taiwan.
 
 ### Niffer Nan:
-I should also mention, because my grandma would be thrilled, that we're here in Taiwan because my family's Taiwanese and we're celebrating Grandma's 88th birthday. Mom's side is from Taipei and dad's is from Lukang. 
+I should also mention, because my grandma would be thrilled, that we're here in Taiwan because my family's Taiwanese and we're celebrating Grandma's 88th birthday. Mom's side is from Taipei and dad's is from Lukang.
 
 ### Audrey Tang:
 About the same age as my grandma, who's also from Lukang.
@@ -486,9 +486,9 @@ Yeah, I did.
 ### Niffer Nan:
 It's pretty clear in the US many legislators really aren't tech savvy. We were actually recently talking to a state legislator who we really respect and ask them why this is. At least in the US many legislators don't have a math and science background, so understanding tech can be harder.
 
-On top of that, the rate of change for tech is so fast compared to other sectors, that it can be hard to keep up. I think that in order to make good legislation, or the right amount of minimal legislation, or no legislation, it requires a level of comfort and expertise in the area to be able to do so. 
+On top of that, the rate of change for tech is so fast compared to other sectors, that it can be hard to keep up. I think that in order to make good legislation, or the right amount of minimal legislation, or no legislation, it requires a level of comfort and expertise in the area to be able to do so.
 
-I think in Taiwan there is a lot more math and science background in legislators. Your president, has a background in physics and chemistry, right? It's incredible. 
+I think in Taiwan there is a lot more math and science background in legislators. Your president, has a background in physics and chemistry, right? It's incredible.
 
 I'm curious, have you seen examples of how this can work well?
 

@@ -5,7 +5,7 @@ This interview's subject primarily is the concept of leadership, where we're loo
 
 We're quite interested in your experience of leadership through the crisis and what might be retained, what we might learn from that, and how we can use that moving forward to guide practices of leadership in organizations of any scale or size in the public or the private sector.
 
-Can you please start with your own leadership journey today, how you understand the concept of leadership, and how have you experienced it so far in a summarized style? 
+Can you please start with your own leadership journey today, how you understand the concept of leadership, and how have you experienced it so far in a summarized style?
 
 ### Audrey Tang:
 OK. I have to first say that this meeting, the voice is being recorded, but we're not publishing the voice record. We're going to co edit the transcript for at least 10 days before publishing. When we publish it would be free of copyright on both sides. I believe my assistant have communicated this to you.
@@ -169,7 +169,7 @@ So, don't. Don't lead it. Follow the people. Find a community like g0v, g zero i
 In every country or jurisdiction with press freedom and communication freedom, there exists such communities of open innovation practitioners. Engage them and yield the prototyping power of moving fast safely to these people. The leader becomes a follower in the initial prototyping stage.
 
 ### Chris Bauer:
-Essentially, looking at them as those drivers on those German roads, for all intents and purposes, they do have the experience operating in that type of environment. They also have the experience and the comfort with the prototyping process and the idea of experimentation and continuous learning in these faster techniques. Are you able to quickly adapt to harness the power of resources you have within your network and community? 
+Essentially, looking at them as those drivers on those German roads, for all intents and purposes, they do have the experience operating in that type of environment. They also have the experience and the comfort with the prototyping process and the idea of experimentation and continuous learning in these faster techniques. Are you able to quickly adapt to harness the power of resources you have within your network and community?
 
 ### Audrey Tang:
 We can call them scrum masters or coaches or co-pilots. It's not a new idea.
@@ -237,7 +237,7 @@ Brilliant. Well, thank you so much. I agree that that was a fascinating conversa
 
 I look forward to inviting you to come and join my students in the fall if we could find another window of opportunity for that to share some of these thoughts and others that you maybe can with us.
 
-Thank you again for your time. 
+Thank you again for your time.
 
 ### Audrey Tang:
 Thank you. Until then, live long and prosper.

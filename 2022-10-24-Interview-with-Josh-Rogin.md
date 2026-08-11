@@ -158,7 +158,7 @@ Yeah. Since late August.
 How has that gone so far?
 
 ### Audrey Tang:
-Very well. People generally like the fact that for example, this non-geostationary satellite thing that connects to 5G mobile deployments. Previously that would have required three ministers and two ministers without the portfolio, five cabinet level people in total, to all say yes in order for that to happen. 
+Very well. People generally like the fact that for example, this non-geostationary satellite thing that connects to 5G mobile deployments. Previously that would have required three ministers and two ministers without the portfolio, five cabinet level people in total, to all say yes in order for that to happen.
 
 It's a lot of work internally to coordinate. We work quite well together, it's just scheduling takes a lot of time. Nowadays, because as I mentioned, the part of NCC, that the spectrum allocation is in moda, the part of MOEA, Ministry of Economic Affairs that does 5G development is in moda. The part of the Department of Cyber Security that oversees the cyberdefence of critical infrastructures is in moda. The part of the NDC that plans data governance, is in moda.
 

@@ -308,7 +308,7 @@ If you look into these plans for Europe, digitalization in Europe also means tur
 
 I'm interested if you have a dystopic view of the world to see, on the one hand, a dis enablement of public governance through private companies lodged in America, which is sold as a smart city concept, and you see in other states a very authoritarian, state driven idea of surveillance city.
 
-Again, maybe you can put that in a nutshell. What is Taiwan's third way between an idea of a society that is depicted in a smart city run by private companies and, on the other side, by a state driven surveillance system? How would ...Taiwan's position in that? 
+Again, maybe you can put that in a nutshell. What is Taiwan's third way between an idea of a society that is depicted in a smart city run by private companies and, on the other side, by a state driven surveillance system? How would ...Taiwan's position in that?
 
 ### Audrey Tang:
 A lot of it is in the language, in the words, as you put it, like smart cities and human resource. To me, this is a perversion of categories. [laughs] If you say city resources or smart humans, that makes sense to me, but a smart city, human resource doesn't really work.

@@ -4,9 +4,9 @@
 You work intensively with Ukraine on digital resilience and education. Can you please tell us more about this cooperation?
 
 ### Audrey Tang:
-So we believe schools will become centers of digital resilience, especially following the revitalization after war. So we think that equipping teachers and students with the know-how of how to thrive in the digital era is sowing the seeds of inclusive prosperity. 
+So we believe schools will become centers of digital resilience, especially following the revitalization after war. So we think that equipping teachers and students with the know-how of how to thrive in the digital era is sowing the seeds of inclusive prosperity.
 
-And so because my own education starts on the Internet and then I dropped out of middle school, so the Internet enabled me to work with the entire world of fellow colleagues. And I think politics should not stand in the way of real cooperation. And so I think it's very logical because we understand from our own experience that digital education is the basis for this digital democracy resilience. 
+And so because my own education starts on the Internet and then I dropped out of middle school, so the Internet enabled me to work with the entire world of fellow colleagues. And I think politics should not stand in the way of real cooperation. And so I think it's very logical because we understand from our own experience that digital education is the basis for this digital democracy resilience.
 
 And so in January we sent a delegation to the Lviv. And so it's not just us, it's also our MOFA, Ministry of Foreign Affairs, also Acer, which is a very famous Taiwanese computer brand, and also the Ukrainian Catholic University. And so together we sent electricity, like this small portable device and digital equipment. So generators, laptops, tablets, robot components, and so on, first to the local Grono High School. But that sends a message that we are willing to help them because we are also at the forefront at a struggle against authoritarian expansionism. So we learn also from Ukraine a lot.
 
@@ -18,7 +18,7 @@ Unfortunately, I was just here for three months. Too short.
 ### Audrey Tang:
 I see. Okay. Right. So basically at the time there was a single day in which there's 23 times more attacks in the DDoS compared to the previous peak. So the likes have never been seen before in Taiwan. And so we learned from the Ukrainian experience.
 
-In fact, I was visiting Italy last June with around a dozen digital leaders, including Ukrainian one, so that we planned together how to counter such an asymmetric attack, where the attacker has tens or even hundreds of times more resource in a single campaign than we have in defense. 
+In fact, I was visiting Italy last June with around a dozen digital leaders, including Ukrainian one, so that we planned together how to counter such an asymmetric attack, where the attacker has tens or even hundreds of times more resource in a single campaign than we have in defense.
 
 So we worked out a few strategies. And one strategy is just to join this global backbone. So, for example, our own website online at the same hour as the military drill did not even go down for a second. And I publicly say so to the press, after which we got even more free testing. But we didn't go down because we joined the international peer-to-peer network, Anycast network, also Web3 network, like interplanetary file system. So that everybody helps us defend more than 200,000 computers together.
 
@@ -104,17 +104,17 @@ Yeah, during the pandemic, we found many cases like Puma said. Around the world 
 We had them all.
 
 ### Audrey Tang:
-You had them all? 
+You had them all?
 
 ### Interviewer:
 They were so strong in Germany.
 
 ### Audrey Tang:
-I know, Yeah, and Taiwan has one of the highest vaccination rates because we didn't really have an anti-vax political faction. No political faction actually bought into anti-vax. And the reason why is that we tapped into collective intelligence. We announced publicly that how many people of what age bracket are preferring AstraZeneca or Moderna or Pfizer BNT or Medigen and later on Novavax.So there's this squabble. 
+I know, Yeah, and Taiwan has one of the highest vaccination rates because we didn't really have an anti-vax political faction. No political faction actually bought into anti-vax. And the reason why is that we tapped into collective intelligence. We announced publicly that how many people of what age bracket are preferring AstraZeneca or Moderna or Pfizer BNT or Medigen and later on Novavax.So there's this squabble.
 
 So we turned this zero-sum, Vax anti-vax sentiment into a my-vax-seem-better-than-yours competition. And so even so, when back then, when the elderly people did not want AstraZeneca because of the side-effect reports from Europe, they still see that the younger people, 50 years old, 40 years old, 30 years old, got AstraZeneca and they seem fine.
 
-And then, of course, some of them still feel very strongly. There are people who think Medigen is like water. And there are people who only want Medigen. And just to make a point, I got five shots of four different brands. Just to make a point. 
+And then, of course, some of them still feel very strongly. There are people who think Medigen is like water. And there are people who only want Medigen. And just to make a point, I got five shots of four different brands. Just to make a point.
 
 ### Interviewer:
 A super guinea pig. (laughter)
@@ -128,7 +128,7 @@ So collective intelligence, again, I think is the most important because we refl
 So it means you're just kind of creating a different narrative. So you're using the collective intelligence.
 
 ### Audrey Tang:
-Yes. 
+Yes.
 
 ### Interviewer:
 Like on a practical, could you explain on a practical level how that works? So people have the information.
@@ -142,7 +142,7 @@ So that is already collective intelligence because when people are worried about
 So it’s not a government official who answers the phone, but somebody from civil society.
 
 ### Audrey Tang:
-So I think it's both from the Chunghwa Telecom and also from Tzu Chi our leading charity. So they learn from each other.So by picking up a phone, real time feedbacks, for example, in March 2020, we started rationing our masks. 
+So I think it's both from the Chunghwa Telecom and also from Tzu Chi our leading charity. So they learn from each other.So by picking up a phone, real time feedbacks, for example, in March 2020, we started rationing our masks.
 
 And there was a young boy who called 1922 who said, you're rationing pink mask to me. I don't want to wear pink to school. My classmates will laugh at me. So do something. Right. Ration blue mask to me, which is difficult because we don't have sufficient supply at that point.
 
@@ -150,7 +150,7 @@ But the very next day at a 2 p.m. press conference, all the medical officers wor
 
 And because of that, there was a suggestion from the participation officer of his ministry. We have such people in each ministry in charge of connecting to collective intelligence. And so after that, the boy became the most hit boy in the class because all the ministry social media turned pink and all the leading brands.And the boy become like the only boy in his class that has the color of the heroes and the hero of the hero, the Pink Panther. So this is already collective intelligence.
 
-Now, as I mentioned, if you call 1922 and say, how do I get a vaccine? And so on, they would direct you to the 1922 website, which allows you to tick like out of the four or so vaccines, which one are you are acceptable to you?By default, it's all ticked. 
+Now, as I mentioned, if you call 1922 and say, how do I get a vaccine? And so on, they would direct you to the 1922 website, which allows you to tick like out of the four or so vaccines, which one are you are acceptable to you?By default, it's all ticked.
 
 But you can take something out and leave only the ones you want.And then when that supply comes, you will receive a SMS telling you that it's your turn. And please feel free to start registering. And then you go back to the same website and it lists nearby clinics and so on. And then so you can get a vaccine in time.So this is very efficient in the sense that even when the vaccine are just undergoing inspection for a week after landing in Taiwan, we already know each and everyone's destination. We already know who will get them.
 
@@ -213,7 +213,7 @@ So because there are many polarized views, you can see some people think AI deve
 Now the great thing about POLIS is that it shows you really people are only divided on one thing. But they agree with pretty much everything else. But if you're on anti-social media, everybody spends time on this one thing.
 
 ### Interviewer:
-Exactly, yeah 
+Exactly, yeah
 
 ### Audrey Tang:
 And what is this thing? This thing says, and I quote, this thought says, “People worried about AI safety and talking about how AI is going to, for example, kill everyone.” But talking this way just contributes to the AI hype and it's damaging. But some people believe it's, we're actually doomed soon. So we should say now.
@@ -246,7 +246,7 @@ Maybe what really is needed is, as we did starting 2015, when UberX first came t
 
 What do we do, right? And then overwhelmingly, the consensus was that actually, you probably need to get a professional driver's license for that, and the insurance registration, and so on. But Uber also had a point in saying surge pricing helps the drivers. But then the people said, but you cannot undercut existing meters, right?
 
-So it's a very nuanced consensus. And once the people has this consensus, what the public sector does, what the private sector does, it's obvious. And so we resolved that issue of emerging technology. We've used Polis for many things, Airbnb, privacy preserving, contact tracing, many things. 
+So it's a very nuanced consensus. And once the people has this consensus, what the public sector does, what the private sector does, it's obvious. And so we resolved that issue of emerging technology. We've used Polis for many things, Airbnb, privacy preserving, contact tracing, many things.
 
 And so I think, like Finland recently decided that they want to also invest in Polis following Taiwan and Canada and New Zealand and so on, to be part of the democratic infrastructure. Because the free software is open source, that means that each country's investment is of benefit to the next country that uses this.
 
@@ -285,7 +285,7 @@ Oh, yeah, yeah. That is very much the case. So they just want to, they're not pa
 My personal wish is that they see the light and join the democratization.
 
 ### Interviewer:
-That would be nice. 
+That would be nice.
 
 ### Audrey Tang:
 It would be really nice.
@@ -327,7 +327,7 @@ But when did you, because I think what is quite interesting about your CV is als
 Well, of course, my parents are very liberal folks. That really helped. And also that I encountered the internet really early when I was 12. I went back to Taiwan, got my heart surgery for a year and just connected with this world of researchers and people who don't mind that I was just 12 or 13 or 14. Because of course the internet, you can't really see my age. So I started doing research.
 
 ### Interviewer:
-About your condition. About your heart 
+About your condition. About your heart
 
 ### Audrey Tang:
 Right. About everything.
@@ -349,7 +349,7 @@ Wow. And this one year when you had your heart disease, it meant that you had to
 Well, yeah. So yes and no. I mean, I still attended school, but not in a high energy way. Certainly not sports classes. And so my heart condition was diagnosed when I was just 40 days old. And when I was four, I overheard doctors telling my family that I only had a 50% chance of living to such an age that they can get a surgery.
 
 ### Interviewer:
-Oh wow. 
+Oh wow.
 
 ### Audrey Tang:
 Right. So I always lived in an existential risk until I got my surgery in 12. So it's the entire eight years, which is quite sufficient to form my core personality, where I always try to write down what I learned in a day, publish it to the internet when there's internet, and so that I can sleep easier knowing that even if I don't wake up, it's fine because I've already published.
@@ -358,7 +358,7 @@ Right. So I always lived in an existential risk until I got my surgery in 12. So
 Oh wow. So you knew about your condition as a child?
 
 ### Audrey Tang:
-Right. When I was four. 
+Right. When I was four.
 
 ### Interviewer:
 Oh, your parents told you?
@@ -384,7 +384,7 @@ Exactly. Wow. Okay. How is it for you now having a ministry because you've been 
 ### Audrey Tang:
 Well, I'm still flying around. (laughter) Yeah. I think back in 2016, when I first got, I guess, promoted from a reverse mentor, really an intern in a cabinet position for two years to the full minister still in the same office, I said quite publicly that I work with the government, not for the government.
 
-So meaning that I work through voluntary association with all the ministries and departments and agency that want to work with me, but I'm not giving orders to them because as I said, I was a minister at large with a portfolio. I don't have my own ministry. 
+So meaning that I work through voluntary association with all the ministries and departments and agency that want to work with me, but I'm not giving orders to them because as I said, I was a minister at large with a portfolio. I don't have my own ministry.
 
 But during the pandemic, the three years, I worked very closely with many, many agencies. For the vaccination, for example, we had to work closely with the part of the National Development Council that does e-services and data. We had to work closely with the part of the Ministry of Economic Affairs that does digital transformation and platform economy, part of the National Communication Commission when it comes to counter-infodemic, and also the part of the Department of Cybersecurity when it comes to ensure the safety of the information transmitted.
 
@@ -394,7 +394,7 @@ So all these different units that worked very closely with me for a couple of ye
 I see. And how is this? Is this somehow affecting also your time? Because I knew that before you always had this, I think Tuesday where you met with the...
 
 ### Audrey Tang:
-Wednesday. 
+Wednesday.
 
 ### Interviewer:
 Wednesday, sorry, where you met with citizens. Can you still do that?
@@ -420,7 +420,7 @@ And so I still meet them to make a full report. It's just not on the 空總 prev
 I see. And there was one thing that surprised me because a lot of my friends, Jonas, has been talking to you and they said it's all very free and stuff. And when I asked for this interview, I sent in my question and twice they were actually half of them were raised.
 
 ### Audrey Tang:
-Oh, really? Yeah. I didn't know. 
+Oh, really? Yeah. I didn't know.
 
 ### Interviewer:
 Yeah. And then I was kind of surprised to ask myself, does this come with high administration?
@@ -473,7 +473,7 @@ Sweet.
 Right, and they're fine with each other, actually in close proximity.
 
 ### Interviewer:
-That's very sweet. 
+That's very sweet.
 
 ### Audrey Tang:
 That's very sweet for both sides, actually, of them. So that is to say, even in the traditional polarized topics in Western jurisdictions, in Taiwan, we still manage to collaborate across differences.

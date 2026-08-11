@@ -47,7 +47,7 @@ Oh, yeah, sure. Maybe as you see the threat landscape for how are democracies vu
 ### Audrey Tang:
 In Taiwan, we just saw a very successful result of the January 13 election, the first in a year where around 70% of the democratic world will have national elections. For the U.S., it's November.
 
-And we have seen that the authoritarians who wants to hijack, to hack or attack our democracy have many ways to do so. They range from the cybersecurity exploits, denial of service attacks that Tristan just alluded to, all the way to deepfakes, to sowing discord through the fake videos — of accused election fraud or polarization — by analyzing what kind of topics, what kind of keywords will drive people apart from each other, and just capitalize on that. 
+And we have seen that the authoritarians who wants to hijack, to hack or attack our democracy have many ways to do so. They range from the cybersecurity exploits, denial of service attacks that Tristan just alluded to, all the way to deepfakes, to sowing discord through the fake videos — of accused election fraud or polarization — by analyzing what kind of topics, what kind of keywords will drive people apart from each other, and just capitalize on that.
 
 So there are many, many ways our liberal democracies are designed to allow a free flow of information, a market of ideas and so on. But without an upgrade toward collaborative diversity, just diversity alone does not counter this kind of hyper focused attacks of persuasion.
 
@@ -206,9 +206,9 @@ I feel like this is a good opportunity for you to jump in, I feel like we should
 There's just a lot in it, and I think we should just explain it a little bit about maybe. And, Aza, I feel like you have the best expertise to try to do this one, if you want to try.
 
 ### Aza Raskin:
-Yeah. And the reason I'm sitting back is I'm just trying to think about the overall roadmap, because we just sort of, just to name it, we sort of skimmed over the synthetic relationships point, which is that there's going to be a flood of essentially counterfeit human beings. 
+Yeah. And the reason I'm sitting back is I'm just trying to think about the overall roadmap, because we just sort of, just to name it, we sort of skimmed over the synthetic relationships point, which is that there's going to be a flood of essentially counterfeit human beings.
 
-It's not just mis-information; it's like mis-people and dis-people; mis-relationship and dis-relationship. 
+It's not just mis-information; it's like mis-people and dis-people; mis-relationship and dis-relationship.
 
 ### Audrey Tang:
 Shapeshifters.
@@ -238,7 +238,7 @@ It's the other way around. It is showing each and every individual the thing tha
 So when people enjoy that kind of community relationships, including actually participating in fact-checking communities, it is much, much more meaningful than an individual-to-individual companion that may cater to your need, but does not connect you to more human beings.
 
 ### Tristan Harris:
-So just to make sure I think for listeners to get this, so it's like, okay, so people are vulnerable to a one-on-one attack of one person, creating a fake relationship to influence another. 
+So just to make sure I think for listeners to get this, so it's like, okay, so people are vulnerable to a one-on-one attack of one person, creating a fake relationship to influence another.
 
 But then, what you're saying is, well, what if we group people together into communities where they feel this deep care and this deep reflection of their values, which is what your vTaiwan and deliberate polling type systems and structures do, is they invite people into seeing the people who agree with them, not just agree with them on some, like, hyper-polarized outrage thing for example.
 
@@ -290,7 +290,7 @@ I'd like to go quickly to question three, to some of these are about just more s
 Sure.
 
 ### Tristan Harris:
-Yeah, that was the premise is that what large language models do to democracies, and then we enumerated this. 
+Yeah, that was the premise is that what large language models do to democracies, and then we enumerated this.
 
 Talking about, and then her first answer was about how do you use large language models to strengthen the immune system, so it's not that large language models are the virus. It's the immune system can use larger models to strengthen itself.
 
@@ -317,7 +317,7 @@ Well, they found that the central news agency, the websites of ministries and so
 
 So the upshot is that, each and every of those attack vectors contribute to the amplification of other attack vectors. The goal, the strategic goal of the attackers, of course, is to make the Taiwan stock market crash and to show the Taiwanese people, right? It's not a good idea to deepen relationship with the US.
 
-First, it didn't work. We very quickly responded to the cyber attacks. I came out and say, “You know, our website of our new ministry just went online the same hour as the missiles flew over. It's not down for even one second. Come in, attack us, because it's using IPFS, the Bored Ape Yacht Club NFT storage.” 
+First, it didn't work. We very quickly responded to the cyber attacks. I came out and say, “You know, our website of our new ministry just went online the same hour as the missiles flew over. It's not down for even one second. Come in, attack us, because it's using IPFS, the Bored Ape Yacht Club NFT storage.”
 
 Anyway, so it's somewhat humorous. And it also educated the public about the difference between dialing to keep a line busy, versus actually taking over the Taiwan rail station. It's not the same thing. And so that really worked. People did not panic. The stock market actually rised that day.
 
@@ -328,7 +328,7 @@ And so, we've been mostly working on bridging those polarizations. And I'm reall
 So we overcame not just the threat of polarization or precision persuasion of turning our people against each other, but also we used this experience to build tighter connections, like a shared peak experience that brought us together.
 
 ### Tristan Harris:
-That's an amazing example, I think that's an incredible example. First, it's incredible work that you've done, Audrey, that you have crafted these responses to what could have been a real panic-inducing attack. 
+That's an amazing example, I think that's an incredible example. First, it's incredible work that you've done, Audrey, that you have crafted these responses to what could have been a real panic-inducing attack.
 
 You're speaking to something that we're trying to get ahead of for other democracies, because here we are in the United States, what's to stop China or Russia from doing the simultaneous denial of service attack, hit the colonial pipelines, hit gas stations, ATMs, banks, overwhelmingly combined deep faking information attack? And that's kind of the fear — the fear with AI — is these democracies are now super vulnerable to these combined attacks that AI also accelerates and enables.
 
@@ -340,7 +340,7 @@ So this is so important I want to make sure listeners get this because what you'
 
 And then, how do I defend against all of them, so it's like, what are all the viruses people could make and then let me pre engineer all the vaccines for all those potential viruses, so that I've basically defended against them.
 
-And the second thing I heard you say is redundancy, that if one system fails you're designing of two other backup systems that will automatically switch over to. So, resilience, it's a principle of variety and diversity, so that your best defense that creates that resilience is having multiple backup systems. 
+And the second thing I heard you say is redundancy, that if one system fails you're designing of two other backup systems that will automatically switch over to. So, resilience, it's a principle of variety and diversity, so that your best defense that creates that resilience is having multiple backup systems.
 
 And that's a theme throughout your work that I want people to see, is that these are general strategies for how do you make sure the immune system is stronger than these supercharged viruses, and you're presenting some principles for that.
 
@@ -589,7 +589,7 @@ And so I guess there's a threading of the needle that this question is about for
 ### Tristan Harris:
 And maybe, as you answer this Audrey, if you can introduce the idea of an AI, releasing AI that is offense dominant, and its effects versus defense dominant, because I think if people have that tool like what is an example of an offense dominant AI. And what makes, what is why is that scary or bad.
 
-And then if we open source offense dominant things were open sourcing things that have more ability to take down and erode and destroy, then we have, we're open sourcing things that have the ability to strengthen continue to maintain to grow to, etc. 
+And then if we open source offense dominant things were open sourcing things that have more ability to take down and erode and destroy, then we have, we're open sourcing things that have the ability to strengthen continue to maintain to grow to, etc.
 
 I don't know if you agree with that distinction but I think I'm trying to figure out a way. I think that honestly if I'm really honest, I think listeners can't follow this, I think this is like so over the tops of most people's heads, because it's unfortunately just hard to get, but I'd like to do the best shot we can.
 
@@ -634,12 +634,12 @@ Or not even watermarks, they just keep a record of all their output it has gener
 
 But we do not live in such a world.
 
-What Tristan just alluded to, is that you can always take a watermarked output from DALL-E 3 or whatever, and then use a small open source model to rephrase it. And once it's rephrased, remixed, the watermark is gone and the original maker, OpenAI, doesn't recognize the remixed picture anymore. But the remixed picture, it’s is as persuasive or even more persuasive than the one that's generated by the larger model. 
+What Tristan just alluded to, is that you can always take a watermarked output from DALL-E 3 or whatever, and then use a small open source model to rephrase it. And once it's rephrased, remixed, the watermark is gone and the original maker, OpenAI, doesn't recognize the remixed picture anymore. But the remixed picture, it’s is as persuasive or even more persuasive than the one that's generated by the larger model.
 
 So we now live in a world where we really have to decentralize the defensive capabilities just because the existing rephrasers, remixers, are already there in forms of open source, and it's almost impossible to ban them now, which is why we're shifting left to the actor layer, which is why we're saying to our people, no matter how convincing Audrey Tang's video or SMS or website looks like, if it doesn't come from 111, then it's not Audrey.
 
 ### Tristan Harris:
-So I just want to make sure to clarify for listeners that when you said “shift left,” you don't mean shift left politically, you're talking about the ABC model, the actor/behavior/content, and where we used to say how do we defend on the content level — “this is a deep fake” — we can't do that because we've open sourced too many fake image creation, fake text creation tools. 
+So I just want to make sure to clarify for listeners that when you said “shift left,” you don't mean shift left politically, you're talking about the ABC model, the actor/behavior/content, and where we used to say how do we defend on the content level — “this is a deep fake” — we can't do that because we've open sourced too many fake image creation, fake text creation tools.
 
 So that watermarking won't be a way to deal with it at the content level; we have to move to the actor or behavior level. That's what you meant by shift left.
 
@@ -661,7 +661,7 @@ What's the takeaway? Right.
 I'm going to say something quite controversial to a US audience.
 
 ### Sasha Fegan:
-Okay, do it. 
+Okay, do it.
 
 ### Audrey Tang:
 The one take away that we would like to share, and this is controversial, from our January election, is to only use paper ballot.
@@ -732,7 +732,7 @@ I'm just being a skeptic, how does that work in the United States? Like, you kno
 ### Audrey Tang:
 That's a great question. Just 10 years ago, in 2014, not only the administration was enjoying only 9.2 percent approval rate, but there was great polarization and discord in Taiwan. The way we overcame it is to treat polarization as a symptom, not a cause. The symptom is the lack of bridges, of credibly neutral institutions in the society.
 
-So we — in the g0v movement — intentionally sought support from primary school teachers, from educators of all levels, from the national academy, which is beyond the control of parties or indeed the cabinet, the open-source bulletin board system built by Taiwan University students, so on and so forth. 
+So we — in the g0v movement — intentionally sought support from primary school teachers, from educators of all levels, from the national academy, which is beyond the control of parties or indeed the cabinet, the open-source bulletin board system built by Taiwan University students, so on and so forth.
 
 So there must be some venues in your society that enjoys this non-partisan, all-partisan, credible neutrality. So build from there. And starting there, it could be very small, very local level, you then get the kind of space that promotes the bridging experience.
 
@@ -753,11 +753,11 @@ And so Taiwan is sort of printing the oil, the core resource that you need that 
 Or the spice, you can call it that.
 
 ### Tristan Harris:
-You know, it has this metaphor that. Yeah, well, it is a wonderful metaphor that you know what oil was like a barrel of oil to automating 25,000 human labor hours of physical labor, so you can take 25,000 humans and get them to do something physical labor for an hour, or you can have just a barrel of oil and you burn it and you get the same energy out of it, and you can use that energy to move things in the world. 
+You know, it has this metaphor that. Yeah, well, it is a wonderful metaphor that you know what oil was like a barrel of oil to automating 25,000 human labor hours of physical labor, so you can take 25,000 humans and get them to do something physical labor for an hour, or you can have just a barrel of oil and you burn it and you get the same energy out of it, and you can use that energy to move things in the world.
 
 Well, AI is that for cognitive labor, sort of paying humans to think to draw, to do the market research, to trade on the stock market, to illustrate something, to make a video. I can just take an AI chip, and it'll do that instead.
 
-And, you know, this is interesting sort of moment where US-China tensions and the CHIPS Act and the US trying to prevent China from getting access to these chips. You can see from basically selling these most advanced chips to China. And this is interesting parallel in history, which is that earlier, before World War 2, oil was the kind of thing that drove the world industrial economy. And the US had actually. 
+And, you know, this is interesting sort of moment where US-China tensions and the CHIPS Act and the US trying to prevent China from getting access to these chips. You can see from basically selling these most advanced chips to China. And this is interesting parallel in history, which is that earlier, before World War 2, oil was the kind of thing that drove the world industrial economy. And the US had actually.
 
 Let's see I'm trying to find here. When Japan occupied French Indochina 1941, the US actually retaliated by freezing all Japanese assets in the States, preventing Japan from purchasing oil. And it was actually this that many historians think had caused Japan to decide to attack Pearl Harbor, hoping that the US would negotiate peace, because it was sort of an embargo on their core ingredient, their ability to race.
 
@@ -782,7 +782,7 @@ After all, as we last talked, I pointed out to Tristan, at that time there's 30 
 So we've really got it clear, because a lot of people don't believe that there is artificial general intelligence. Is Taiwan and are you working towards the assumption that there is, and that Taiwan therefore has a responsibility in how that develops?
 
 ### Audrey Tang:
-Well, I mean there are general intelligences. We're talking to a few ones at this very moment and they're humans. And there are the kind of assistive or augmented intelligence that really helps us humans to become collective intelligence. 
+Well, I mean there are general intelligences. We're talking to a few ones at this very moment and they're humans. And there are the kind of assistive or augmented intelligence that really helps us humans to become collective intelligence.
 
 I talk not just about the noise cancellation and real-time captioned AIs that are currently helping us to communicate, but also the bridge-making, the sense-making AIs that are just going to be the assistance to not individuals, but rather groups of people, communities of people to find the common sense, the common purpose, the common meaning across communities.
 

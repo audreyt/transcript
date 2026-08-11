@@ -1,6 +1,6 @@
 # 2025-11-08 Unlearning Regulation
 
-### Anil Dash: 
+### Anil Dash:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NHPGvZJxpfs?si=zlgV6-aGCK197Ekq&amp;start=594" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
@@ -10,7 +10,7 @@ The good news: we’re bringing to the stage two legends at the intersection of 
 
 They’ll be moderated by Julie Brill, whose work spans government, Microsoft, and more. This conversation will get your minds turning. To start our discussion about unlearning regulation, please welcome three of our most amazing guests. Welcome!
 
-### Julie Brill: 
+### Julie Brill:
 
 Hello, everybody. It’s so great to see you all, and I cannot tell you how honored I am to be on the same stage with these incredible people. We’re going to jump right in, if that works for everyone.
 
@@ -18,19 +18,19 @@ Audrey Tang probably needs little introduction for many of you, but Audrey is so
 
 Audrey helped shape g0v (gov-zero), one of the most prominent civic-tech movements worldwide. In 2014, Audrey helped broadcast the demands of Sunflower Movement activists and worked to resolve conflicts during a three‑week occupation of Taiwan’s legislature.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Nonviolently.
 
-### Julie Brill: 
+### Julie Brill:
 
 He did…she…whatever…did it nonviolently.— No?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Go ahead. Like, you can say “they.” And my pronouns are literally “whatever.”
 
-### Julie Brill: 
+### Julie Brill:
 
 Okay—forgive me. We’ll continue. Audrey helped develop participatory‑democracy platforms such as vTaiwan and Join, bringing civic innovation into the public sector through initiatives like the Presidential Hackathon and Ideathon.
 
@@ -40,15 +40,15 @@ The question for this evening: Do traditional regulatory frameworks—built for 
 
 Ready to jump in?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Anytime.
 
-### Julie Brill: 
+### Julie Brill:
 
 Let’s start with what “unlearning regulation” means to you both. What are the biggest challenges in the current regulatory environment? Francesca, would you like to go first?
 
-### Francesca Bria: 
+### Francesca Bria:
 
 Hi, everyone. First, I want to say how happy I am that MozFest is happening in Barcelona in partnership with the City—one of the most important participatory‑democracy experiments in the world. That’s not by chance. You didn’t mention that I used to be CTO of the City of Barcelona, so I always feel at home here.
 
@@ -64,7 +64,7 @@ So what should we do? Good regulation that empowers citizens and democratic tech
 
 We must change that. Regulation has never been enough. Beyond DSA/DMA, we must tax these companies to fund housing, education, redistribution. Not only antitrust—we need industrial policy to build alternatives. My focus—especially in a moment of techno‑authoritarianism and big‑tech alignment with authoritarian states—is on building the alternatives society needs. Regulation should create the space for those alternatives to exist. Less talk about regulation per se; more work, with people like Audrey, on building what society needs.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Amazing—I agree with every point. So, no debate! I’ll add a Taiwan‑specific nuance.
 
@@ -86,11 +86,11 @@ These ideas win applause because they’re surprising uncommon ground. The 400+ 
 
 That was March. In April we held multi‑stakeholder consultations with big tech—“Does this violate the laws of physics?” No. “Is it implementable?” Yes—just expensive. In May we amended the electronic signature act; in July, an anti-fraud act. This year, if you scroll Facebook or YouTube in Taiwan, you don’t see deepfake ads anymore. We fined Facebook nearly NT$20 million for violations. From broad listening to law in two months. You can do it too. Even if you didn’t get an SMS, your friends and family may have—so their ideas flowed into the uncommon ground.
 
-### Julie Brill: 
+### Julie Brill:
 
 Awesome. Francesca, you have a suite of ideas—similar to Audrey’s but in the European context—around EuroStack, digital commons, and data commons. Tell us about the solution set you’re driving in Europe.
 
-### Francesca Bria: 
+### Francesca Bria:
 
 It’s lovely here because Audrey is very positive about what can be built on top of big tech. I’m less so.
 
@@ -104,11 +104,11 @@ We need a better industrial plan for the world: less concentration, less extract
 
 When I argue for EuroStack—green compute; data as a common good; open source; interoperability; data sovereignty—the question remains: who are our allies? We don’t want a protectionist wall around Europe. Sovereignty shouldn’t mean state isolation. Technological sovereignty must mean popular democratic sovereignty, built through global alliances with other democracies and non‑aligned countries that reject new digital empires. Are we still in time to do this—or are we giving in to a project that destroys democracy?
 
-### Julie Brill: 
+### Julie Brill:
 
 Audrey, what systems would you like to see to empower individuals over corporate and governmental power? Is EuroStack part of the answer? Are vTaiwan and Join part of it? How would you weave these together?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 When we brainstormed EuroStack in Brussels, I loved the idea of building it through interoperability, as Francesca said.
 
@@ -120,17 +120,17 @@ That changes incentives. Platforms will have to compete on quality of care. Toda
 
 If we put tech in the loop of society, society can demand smaller, pro‑social alternatives. Then small alternatives can actually compete—because people can move, one by one. Big tech will have to innovate—build on open‑source recommendation engines that respect explicit preferences instead of subverting them. They’ll have to adopt pro‑social systems, or people will freely move away. A decentralized, interoperable EuroStack is stronger than building a vertical “European champion” stack.
 
-### Julie Brill: 
+### Julie Brill:
 
 Audrey, your book Plurality promotes interoperable, community‑driven systems—co‑authored openly with many contributors, including Glen, whom I know well. Francesca, you focus on European technological sovereignty. Are plurality and sovereignty aligned, complementary, or in tension? Audrey?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 To me, Plurality is like a geothermal engine that turns the volcanic heat of conflict—the high‑PPM polarization—into co‑creative energy. We don’t shy from conflict; we bridge it into shared outcomes. Communities across divides—say, climate‑justice activists and people of faith practicing creation care—can see they’re talking about the same thing and agree on concrete policies.
 
 Plurality is the precondition for the popular sovereignty Francesca describes. Popular sovereignty isn’t polling individuals in isolation; it’s connecting communities without destroying them—helping the parts within ourselves, pulled by multiple communities, cohere through cooperation across differences.
 
-### Francesca Bria: 
+### Francesca Bria:
 
 No contradiction—but let’s clarify sovereignty. As Audrey said—and as we’ve practiced in Barcelona—this is about popular, democratic sovereignty, not just state sovereignty. State sovereignty alone can veer into nationalism—the far‑right populism eroding democracy. Democratic sovereignty means people decide.
 
@@ -140,11 +140,11 @@ Privatization extends to core democratic functions: money (stablecoins and priva
 
 We refuse the false choice between “state champions” and authoritarianism. We’re reclaiming democracy—together with plurality, community, diversity, and freedom. That’s what sovereignty should mean.
 
-### Julie Brill: 
+### Julie Brill:
 
 A quick lightning round: one bold idea. If you could implement one radical change to the regulatory landscape tomorrow, what would it be? Audrey?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Just one? A simple one: switch away from what I call “Max OS” (not macOS)—the maximizing operating system of utilitarianism. Much AI policy and training aims to maximize a metric—engagement, attention, GDP. Systems trained to maximize will find ways to hit the number while causing massive harm.
 
@@ -152,35 +152,35 @@ We don’t need that. We can train AI from an ethics of care that cares for a sm
 
 This is a different vision from a “see everything, do everything” false idol. In East Asia we have local kami—steward spirits caring for a forest, river, or community. If we train AI and govern AI toward care, we avoid threats from maximizing any single metric—no “paperclips,” no GDP above all. The doom‑versus‑acceleration debate is like a car with only accelerator and brake. Let’s build the steering wheel.
 
-### Julie Brill: 
+### Julie Brill:
 
 Great—thank you.
 
-### Francesca Bria: 
+### Francesca Bria:
 
 I’ll be brief: tax the billionaires, regain democratic control over our data, and use the revenue to fund affordable housing, healthcare, and improvements that make life better for everyone.
 
-### Julie Brill: 
+### Julie Brill:
 
 Awesome. We have time for questions. Please go ahead.
 
-### Anil Dash: 
+### Anil Dash:
 
 Before Q&A, I want to acknowledge a distressing moment at the start that I know was upsetting for many. For context, before coming on stage, we discussed pronouns, and Audrey shared that one acceptable pronoun was literally “what/ever.”
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Just, whatever.
 
-### Anil Dash: 
+### Anil Dash:
 
 Right. That was repeated without context, and without context it doesn’t communicate the same thing. On behalf of the festival, I want to acknowledge that it caused harm and apologize. We understand that was upsetting.
 
-### Julie Brill: 
+### Julie Brill:
 
 I would also like to apologize. I certainly did not intend to upset or harm anyone. We did have a conversation about it, and without context it was wrong. My deep apologies to anyone who felt hurt.
 
-### Audience Member: 
+### Audience Member:
 
 Thank you for the explanation; that adds context. It’s also incredible that late on day two, this room is full of people eager to discuss democracy and regulation—a testament to this festival and to all of you.
 
@@ -188,7 +188,7 @@ Francesca, you mentioned empowering people directly. One benefit of the internet
 
 Audrey, when you instrumentalize these radical, uncommon ideas, how do you think about downstream effects and balancing public and private power?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Great question. In Taiwan, I believe the state should work with the people, not merely for the people—and certainly not for the government alone (I’m an anarchist!). The state is an instrument that channels people power toward widely supported goals—nothing more, nothing less.
 
@@ -198,7 +198,7 @@ If, say, a contact‑tracing system during COVID wasn’t privacy‑preserving e
 
 The people closest to the pain—activists, human‑rights lawyers—often know the answer. They shift from protest (against) to demonstration (for). When we build that loop, career civil servants love it: they’re nonpartisan, in it for the long run, and eager to rebuild trust by trusting the people.
 
-### Audience Member: 
+### Audience Member:
 
 First, Julie, thank you for the apology. I want to share that that exact misgendering has happened to me in public—being called “whatever.” It activated me physically; I’m not the only one who felt that way.
 
@@ -206,7 +206,7 @@ We’re critiquing an information system shaped by a “bro‑oligarchy” of ci
 
 I do have a question: We haven’t talked about AI systems deployed for war and genocide in Gaza. What legal mechanisms—based on your experience as technologists and regulators—can we activate to push, fight, block, and demand that tech firms stop selling AI systems used for target selection (e.g., “Where’s Daddy”) and mass killing? These systems run on Google, Amazon, Microsoft infrastructure; these companies take the contracts. Workers are pushing back. Can the EU, Taiwan, or others leverage international law so that, once genocide is recognized, companies cannot keep operating or receiving state contracts? How do we treat them as war criminals?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 This is a question about red lines. I’m a signatory of the AI Red Lines petition, which my friend Maria Ressa read at the UN General Assembly. Red lines include target selection, AI swarms, autonomous lethal weapons, and mass‑murdering systems.
 
@@ -214,7 +214,7 @@ Right now, public awareness of these red lines isn’t even at Montreal Protocol
 
 If we cross these red lines, the pedal/brake debate becomes meaningless; we’ll be off a cliff and the steering wheel won’t work. So we must raise global awareness—in our jurisdictions, towns, and classrooms—about what counts as a red line. Don’t “read the air” (guess norms); write the air together so it becomes common knowledge policymakers can’t ignore.
 
-### Francesca Bria: 
+### Francesca Bria:
 
 We need to strengthen the multilateral international system—the UN and humanitarian law—though it’s under attack. It’s obvious that defense technologies and automated weapons are accelerating. I’ve just worked on a map of the “authoritarian stack,” showing rising defense spending, AI weapons, and how specific Silicon Valley companies—aligned with reactionary ideologies—are assuming the role of a new military‑tech complex.
 
@@ -222,15 +222,15 @@ Gaza is a clear example we know about thanks to worker whistleblowers. Similar s
 
 We must mobilize the scientific community (more than industry). Think of nuclear history: scientists organized and warned. We need that for AI. It’s also difficult because the same pipelines power commercial uses and military uses. How do we separate? How do we keep beneficial AI while preventing weaponization we can’t foresee? We must empower the UN and international law to draw and enforce those lines—and build public awareness to support them.
 
-### Julie Brill: 
+### Julie Brill:
 
 Thank you. Last question—we’re short on time.
 
-### Audience Member: 
+### Audience Member:
 
 You mentioned transition funds—using revenue to build housing or address harms after tech disruption. If Waymo and AVs displace millions of drivers, we’d need funds to fix what tech broke. I love the idea, but how do we practically structure those funds now, proactively, to meet job losses and other impacts before they hit?
 
-### Francesca Bria: 
+### Francesca Bria:
 
 Even more exciting for a Saturday night—finance and taxation!
 
@@ -244,11 +244,11 @@ On jobs: We’re not discussing this enough. New jobs will be created, but we mu
 
 Finally, beware the macro picture: of the $3T AI build‑out, 60–70% appears to be private credit. That’s where a bubble can form. The rest is big‑tech balance‑sheet funding. This mix is not sustainable.
 
-### Julie Brill: 
+### Julie Brill:
 
 Thank you. Please join me in thanking Audrey Tang and Francesca Bria. Thank you so much.
 
-### Anil Dash: 
+### Anil Dash:
 
 Our speakers have done the impossible—making us optimistic about regulation! That’s rare. Let’s give them a round of applause. MozFest is a two‑way dialogue—we welcome being called in. Share feedback; tell us what you think. This is a special community.
 

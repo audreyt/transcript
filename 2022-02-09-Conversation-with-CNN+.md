@@ -168,7 +168,7 @@ It's done in a way that doesn't actually alienate the family-to-family relations
 
 They just register after the fact like birth certificate. The idea here is the family-to-family relationship see the young people wedding as young as 16, not an adult, as representatives of the family.
 
-They don't want that lineage family kinship thinking to be broken by allowing marriage equality. I think one of the key contributions of the strategies that they were doing at the time was that they're -- what's the English word? -- eclectic. 
+They don't want that lineage family kinship thinking to be broken by allowing marriage equality. I think one of the key contributions of the strategies that they were doing at the time was that they're -- what's the English word? -- eclectic.
 
 In the US, as I understand that a key argument point is that it's love is love, and marriage is marriage.
 

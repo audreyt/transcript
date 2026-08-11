@@ -93,7 +93,7 @@ These are all required for people to spend some time to edit. Radical transparen
 
 It's not really annoying, because I only get the requirements for people who are not afraid to face the future. For the future to watch as we talk. Because it's a... by voluntary association, my office has 12 different ministries secondments, but Taiwan has 32 ministries.
 
-There are easily 20 or so ministries that do not engage in day to day level, but rather on an ad hoc level when the situation comes and they find, for example public diplomacy, they're happy to talk about these particular thing. 
+There are easily 20 or so ministries that do not engage in day to day level, but rather on an ad hoc level when the situation comes and they find, for example public diplomacy, they're happy to talk about these particular thing.
 
 But on the non public part of diplomacy where they simply don't bring it to me, there are eight other ministries at large for trade agreements and diplomacy and things like that.
 
@@ -279,7 +279,7 @@ Fact check -- when Cheng, Li-Chiun (鄭麗君) became the youth head counselor, 
 
 Of course, she's 10 years or so my senior, but she also joined the cabinet really, really young. I was fortunate enough to work with her.
 
-When I just entered the cabinet, she was the Minister of Culture and we worked together to redefine the word infrastructure to also apply to digital ones and so on. 
+When I just entered the cabinet, she was the Minister of Culture and we worked together to redefine the word infrastructure to also apply to digital ones and so on.
 
 Anyway, so, fact checking aside, I think that the point here is that I always call myself a Taoist. Taoist in the sense of 為無為, doing by not forcing, right.
 
@@ -299,9 +299,9 @@ What did you initially think when the premier offered you the job of Digital Min
 ### Audrey Tang:
 Yeah, I was initially agreeing to ask my friends to, if anyone would like to, become such a minister, and all of them have work to do, I guess. So, I'm like, "Yeah, let's try it myself." I did negotiate three working conditions.
 
-The teleworking condition, anywhere I'm working, I'm working. 
+The teleworking condition, anywhere I'm working, I'm working.
 
-A voluntary Association condition like I don't issue or take orders. 
+A voluntary Association condition like I don't issue or take orders.
 
 Finally, the radical transparency condition. Anything that is interagency collaboration, or facing the other sectors, like journalists or lobbyists, we must publish either as a transcript or video.
 
@@ -343,7 +343,7 @@ We've switched to telecommunication but hopefully we'll resume soon.
 What impulses from citizens have impressed or surprised you the most? Is there anything that had real impact...
 
 ### Audrey Tang:
-A lot. It's all on the record, right, but I'll just highlight a few. For example, there was a visitor to the Social Innovation Lab that said: When we're handing out the stimulus vouchers, it's only done to people who are citizens, but not to residents. 
+A lot. It's all on the record, right, but I'll just highlight a few. For example, there was a visitor to the Social Innovation Lab that said: When we're handing out the stimulus vouchers, it's only done to people who are citizens, but not to residents.
 
 Even though we would later on extend it to people with permanent residence certificate, still, that excludes pretty much all immigrant workers, and this is unlike the mass rationing, which includes the immigrant workers. Well, for very practical public health purposes.
 
@@ -363,7 +363,7 @@ I can go on. These things build upon one another, but it's a continuous conversa
 We would love to speak a little bit about your personal background and how that blended into your political background. As far as we know, as an eight year old child, you started to teach yourself how to code using pen and paper. Was there the moment of epiphany that you remember where you went, "OK, this is it. This is my thing."
 
 ### Audrey Tang:
-Certainly, but it happened not when I was eight, but rather when I was 14, though. I was explaining to the head of my school why my research program, as I call it, of understanding swift trust – why people trust each other so quickly online, and also lose trust very quickly online, much more than face to face in person settings – and I was explaining to her how I wrote people on Archive – arXiv – which is this open access thing from Cornell, which is still around. 
+Certainly, but it happened not when I was eight, but rather when I was 14, though. I was explaining to the head of my school why my research program, as I call it, of understanding swift trust – why people trust each other so quickly online, and also lose trust very quickly online, much more than face to face in person settings – and I was explaining to her how I wrote people on Archive – arXiv – which is this open access thing from Cornell, which is still around.
 
 I wrote them, and they didn't know I was just 14, my English is bad and so on. They just treated me as a co researcher, and shared their research with me, and we started doing research together. They swiftly trusted me, that is to say.
 
@@ -453,7 +453,7 @@ When you say you definitely felt at home first on the Internet. So growing up on
 ### Audrey Tang:
 Well, when it's hard to translate, we just project it to real life. In a sense, you're my Internet friends now. We are communicating over a screen.
 
-The point I want to make is that on the Internet, the importance of a safe space, where people around the world who may have very different social norms, nevertheless can cocreate a norm of good enough consensus, or as we call it, rough consensus is really special in the sense that we get to construct the interaction space that the social norm schedule develop. 
+The point I want to make is that on the Internet, the importance of a safe space, where people around the world who may have very different social norms, nevertheless can cocreate a norm of good enough consensus, or as we call it, rough consensus is really special in the sense that we get to construct the interaction space that the social norm schedule develop.
 
 Of course, with the same tools, people can create more antisocial social media, but it also allows us to create more prosocial forms of social media, and that has been my research interest since I was 14 years old. Because of that, I would say, when it's hard to translate, we just made sure that the people in the society enjoy universal access to these things as a human rights.
 
@@ -553,7 +553,7 @@ I remember when I... I must be five or six years old when the "Democratic Progre
 
 We were having a conversation about the name of the political party, and I would learn through this deliberation with my parents that progress mean very different things to many different people. My mother was working on the establishment of a act for "National Parks." What progress used to mean in Taiwan, at a time very economic development heavy, is actually the lack of progress when seen from an environmentalist point of view.
 
-The same would go, for example, on advocating for one particular linguistic group's right, when viewed from, say, the indigenous linguistic point of view and so on. 
+The same would go, for example, on advocating for one particular linguistic group's right, when viewed from, say, the indigenous linguistic point of view and so on.
 
 What they did is basically imbued in me the sense of taking all the sides. When we talk about democratic progress, we don't just mean progress in one culture. We must make sure that it's not leaving anyone behind. I guess that's the main thing that they showed if not taught me.
 
@@ -615,7 +615,7 @@ But I would also say the leaderless, "Be Water" countermovement is still going o
 
 It's still going on quite strongly, enabled by modern cryptography. I'm not yet lost hope on a more civil society oriented possible link between the democratic minded people in Hong Kong and democratic minded people elsewhere. Because we're on the record. I'll just say that.
 
-Then, as for Taiwan itself, it's not that we're oblivious to campaigns and interference from the PRC. Quite a contrary, in 2014, many people went to the street because they understand already through cyber securities, through disinformation, through propaganda, through various other nowadays called hybrid operations - they already are looking at Beijing regime's influence in Taiwan that's very tangible. 
+Then, as for Taiwan itself, it's not that we're oblivious to campaigns and interference from the PRC. Quite a contrary, in 2014, many people went to the street because they understand already through cyber securities, through disinformation, through propaganda, through various other nowadays called hybrid operations - they already are looking at Beijing regime's influence in Taiwan that's very tangible.
 
 That's what motivated the Sunflower Movement in the 20 NGOs that liberated on the specific cases. For example, the 4G infrastructure where now market forces can take over. If we do risk assessment, every time there's an upgrade, it's much more costly to do so. So, there's an economic argument as well during the Sunflower Movement.
 
@@ -734,7 +734,7 @@ There's many silly things that we did get around at the time and it's all in the
 I'll definitely check that out. Please no diplomatic answers: If you could hack into any system in the world and have the guarantee that no one would ever find out, what would that be?
 
 ### Audrey Tang:
-Any system? 
+Any system?
 
 ### Cornelius Dieckmann:
 Any system.
@@ -761,7 +761,7 @@ Meaning, only domestic people get to contribute. Meaning, just like our national
 
 I believe Facebook first tried out in Taiwan. Taiwan is the first jurisdiction where they rolled out this new norm. There was a whistleblower a couple months ago from Facebook, civic integrity group that said only because in Taiwan, they will face a large PR backlash if they don't do that.
 
-But in other jurisdictions where there's no social sanction implicitly threatened, they sometimes let it go. That was the whistle blowing. The social sector really set the norm in 2019 so that we don't have to pass something like the NetzDG. 
+But in other jurisdictions where there's no social sanction implicitly threatened, they sometimes let it go. That was the whistle blowing. The social sector really set the norm in 2019 so that we don't have to pass something like the NetzDG.
 
 To date, we've not passed any law like that. So, Facebook complied because of social sector, not because of public sector pressure.
 

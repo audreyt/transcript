@@ -67,7 +67,7 @@ Sometimes.
 Sometimes. Yeah, that's John. So, he's going to be our flagship model for our "also Taiwanese" idea.
 
 ### Tim Van Name:
-Okay. Yeah, that's really interesting. So, that was another topic I was interested in. The emphasis behind open-source software has been mesmerizing. I spent almost two and a half years at our Department of Defense getting an open-source policy that allowed us to give software paid for by the American people back to the American people and to the rest of the world. 
+Okay. Yeah, that's really interesting. So, that was another topic I was interested in. The emphasis behind open-source software has been mesmerizing. I spent almost two and a half years at our Department of Defense getting an open-source policy that allowed us to give software paid for by the American people back to the American people and to the rest of the world.
 
 And you've seemed to make that change happen overnight. Do you feel like it's been adopted sort of across the government? And are there any places where it's been more challenging?
 
@@ -103,7 +103,7 @@ And so, we had to provide alternatives at the time. Eventually working with Slac
 And the customers always take a viable alternative like RocketChat or Mattermost to convince Slack. Right. So, the same, right? We need to have, I think by the end of next month, we're going to switch to Google Spaces. That is our first real alternative to LINE and I think that will pressure LINE to implement local resilience or enterprise edition. But we will see because that entirely depends on whether our migration internally is successful.
 
 ### Tim Van Name:
-Yeah. I think that makes sense. The other interesting conversation around open-source is security You talked about being confident that open-source software is secure, and I agree. One of the programs I got to be involved with when I was at the Pentagon, we called Hack the Pentagon, but it was crowdsourced. Yeah, crowdsource bug bounties. 
+Yeah. I think that makes sense. The other interesting conversation around open-source is security You talked about being confident that open-source software is secure, and I agree. One of the programs I got to be involved with when I was at the Pentagon, we called Hack the Pentagon, but it was crowdsourced. Yeah, crowdsource bug bounties.
 
 And initially we put a small amount of the Department of Defense's IPs in range. Eventually we expanded that over time. And in some instances, we actually asked small groups of international hackers to come in and apply their skills to very sensitive assets. But what I found to be particularly interesting through all of that was one, how many times they found vulnerabilities that, and then helped us to fix them. It's an incredible group of people. And we were paying them very small amounts of money, right? $500 here, $1,000 here, $2,000.
 
@@ -177,7 +177,7 @@ So, I think the infrastructure to enable this, of course, is all public code, op
 And so, the whole process became much more legitimate, because people know the why and how of the policymaking. So, we've seen it adopted in many multistakeholder forums. And now with machine learning and speech recognition and so on, it's becoming even more economic to do so at scale.
 
 ### Tim Van Name:
-Yeah, that's great. That's a great… I love the "why". That's a fantastic reason! 
+Yeah, that's great. That's a great… I love the "why". That's a fantastic reason!
 
 One of the things that I understood to be under your remit, but please correct me if this is wrong, is sort of creating an incredible digital economy here in Taiwan. And in particular, I think about the small businesses or individuals who are just getting started, where cybersecurity may be an incredible challenge or burden.
 
@@ -203,7 +203,7 @@ Yeah, it is a voluntary program, but we pay for the entire stipend for their lea
 So, what did happen is that it did attract… I think 87% of T-ambassadors were from majors not associated with cybersecurity or information management or any digital fields. So, they may come from major in philosophy or communication or whatever, but they did find that this six-month program successfully brought their digital native perspective to the local night market. So, they're not feeling as interns, but rather as ambassadors that help the elderly to digitally transform their work.
 
 ### Tim Van Name:
-Wow, that's great. 
+Wow, that's great.
 
 ### Audrey Tang:
 It's quite meaningful. Yeah.
@@ -222,7 +222,7 @@ The other topic… It's sort of a broad topic, but sort of thinking about disinf
 ### Audrey Tang:
 Yeah, so FIMI, foreign information manipulation and interference, which is a term we prefer to use, is an EU term. So, FIMI has two parts. One is the more like broadcasting part, the ones that you see the disinformation going viral and things like that. And so, for such broadcasting-related regulation and supervision, we do have an independent body, the National Communications Commission, the NCC, in charge of that.
 
-But for things that are more point-to-point, that is not broadcasting, and that may actually coordinate with cyber-attacks, phishing, scams, and things like that, we have a lot of purviews on this particular part. And this is not about takedowns or shutdowns or things like that, but rather about preventative measures, making sure, for example, that we're working on a shared SMS sending number so that all the government SMS communications come from a single three-digit SMS number. 
+But for things that are more point-to-point, that is not broadcasting, and that may actually coordinate with cyber-attacks, phishing, scams, and things like that, we have a lot of purviews on this particular part. And this is not about takedowns or shutdowns or things like that, but rather about preventative measures, making sure, for example, that we're working on a shared SMS sending number so that all the government SMS communications come from a single three-digit SMS number.
 
 And then, of course, each ministry may bring their own four-digit, like one nine something or one eight something, to the mix. But what's important is that just looking at a sender alone, you can't tell a governmental communication, which is always three or four digits, versus a registered commercial vendor, which is five digits, versus all the scammers, which is like ten digits. So, what we're doing, essentially, is to make sure that in the actor-behavior-content model, instead of looking at the content, which is going to be impossible with generative AI anyway, we go back to the accurate model and make sure that trustworthy actors are easily identified as such.
 
@@ -261,7 +261,7 @@ Yeah, definitely. I think the EU, especially with their Digital Markets Act and 
 And at that point, maybe also interoperability with the eIDAS and other European blockchain and becoming a spiritual European in Taiwan. And there are precedents because Ukraine is not part of the EU yet, but they are working on fast tracks in such integrations. And so whatever Ukraine is going through, probably Taiwan will start something like that next year.
 
 ### Tim Van Name:
-Oh, that's great. 
+Oh, that's great.
 
 ### Audrey Tang:
 To be more closely integrated.
@@ -278,7 +278,7 @@ And the second is this societal resilience to counter FIMI. And I mentioned a li
 
 So, there are many legislators that are very interested in any model that works overseas that empower the senior people, because they also want to contribute to be proper cyber hygiene practitioners and advocates. So, if you do have anything toward that general direction, whether it's basic education, textbook curriculum, I think the American CISA also have comic books. They're great. So, anything in that more software domain, that is also something that NICS, the National Institute of Cyber Security, is specifically looking for. So, this is the societal resilience part.
 
-And finally, the industrial resilience part. We didn't cover the semiconductor supply chain, but they do have their own zero-trust architecture standard, the SEMI E187. That is a direct result of the WannaCry incident at TSMC. And so, they learned from that and produced a really top-notch cybersecurity awareness, toolkits, certification, and everything. And because that is broadly compatible with CMMC and the latest NIST recommendations for zero-trust, so some cross-certification would be really nice. Like if the Taiwanese people can, in a Taiwanese lab, pass something that is cross-certified with CMMC or with NIST and so on, and that is more with your DOD experience, something you can probably help us to lay out a feasible plan. 
+And finally, the industrial resilience part. We didn't cover the semiconductor supply chain, but they do have their own zero-trust architecture standard, the SEMI E187. That is a direct result of the WannaCry incident at TSMC. And so, they learned from that and produced a really top-notch cybersecurity awareness, toolkits, certification, and everything. And because that is broadly compatible with CMMC and the latest NIST recommendations for zero-trust, so some cross-certification would be really nice. Like if the Taiwanese people can, in a Taiwanese lab, pass something that is cross-certified with CMMC or with NIST and so on, and that is more with your DOD experience, something you can probably help us to lay out a feasible plan.
 
 The end goal is that, whereas we see anything CMMC compatible or NIST-approved as fit for integrating to the Taiwanese zero-trust posture, we want the reverse as well. And we do have our own certification capability. And I think that will massively increase the investment from the private sector, especially the semiconductor tool chain, to cybersecurity. And it will also make the de facto standard established by US and US DOD something that's more international as well.
 
@@ -321,7 +321,7 @@ Right. So basically, we want to work with a plurality of vendors, so we prefer a
 So, if there are similar small, mobile, and interoperable solutions, we're always willing to add to our existing configurations of either satellite providers, public cloud providers, backup providers, and such.
 
 ### Tim Van Name:
-Yeah, no, I think that's a space when I was working in our Department of Defense, I was incredibly passionate about. So, we have a program that's called Commercial Solutions for Classified, right? But the idea was taking a number of commercial technologies and layer them together, and that provides you sufficient security to protect classified or otherwise sensitive information. 
+Yeah, no, I think that's a space when I was working in our Department of Defense, I was incredibly passionate about. So, we have a program that's called Commercial Solutions for Classified, right? But the idea was taking a number of commercial technologies and layer them together, and that provides you sufficient security to protect classified or otherwise sensitive information.
 
 But what we used it for as well was a bit of a bureaucracy mechanism to get various vendors to play together and their technology to work seamlessly. So, the idea of the program was intentional redundancy of every point of security. So, if you have one layer of encryption, let's say it's AES-256, you need to have a second layer of encryption that uses a different implementation or a different standard. Encryption is one that's relatively easy. They all seem to layer quite nicely, but when you start talking about identity federation or firewall rules, getting multiple firewall vendors to work together seamlessly was a bit of an effort.
 

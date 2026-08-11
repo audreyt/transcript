@@ -19,7 +19,7 @@ My name is Josh Lund. I’m the Senior Director of Policy and Communications at 
 Jun Harada. Chief of Staff at Signal.
 
 ### Howard Jyan:
-Howard Jyan. From Taiwan. 
+Howard Jyan. From Taiwan.
 
 > (laughter)
 
@@ -56,7 +56,7 @@ And it’s now even more so, now that we’ve got billions of people using AI ev
 Right. And contributing data back to the training of AI that then further entrenches surveillance as a core engine of the tech industry.
 
 ### Audrey Tang:
-There is zero democratic governance. 
+There is zero democratic governance.
 
 ### Meredith Whittaker:
 Zero. Yes!
@@ -101,7 +101,7 @@ And the rationale for that is that calling, media uploads and downloads are very
 
 And message queueing is, from a bandwidth perspective, negligible. Right now we use DynamoDB on AWS in North America and all message queuing happens there.
 
-I think it’s good for us to understand that that is an urgent and pressing request. 
+I think it’s good for us to understand that that is an urgent and pressing request.
 
 ### Audrey Tang:
 It really is.
@@ -110,7 +110,7 @@ It really is.
 So, that is something we’ve taken back to our server team and we’re going to be discussing with them.
 
 ### Audrey Tang:
-Yeah. We have our own AWS outpost servers, so if needed, we can run DynamoDB or whatever on our outposts. So, before you arrived, we were just doing our own element matrix deployments based on such principles so that when our signal, you know, gets cut by earthquakes, we can at least fall back to a matrix element, so we’ve translated elements to traditional Mandarin for this very purpose. 
+Yeah. We have our own AWS outpost servers, so if needed, we can run DynamoDB or whatever on our outposts. So, before you arrived, we were just doing our own element matrix deployments based on such principles so that when our signal, you know, gets cut by earthquakes, we can at least fall back to a matrix element, so we’ve translated elements to traditional Mandarin for this very purpose.
 
 On the other hand, we do have Amazon outposts lying around, so if you’re willing to have a technical proof of concept in which that the queuing system is either as a fallback or as a after-effective federation on our outpost, then we do not have to wait for Amazon to have DynamoDB in Taiwan.
 
@@ -127,7 +127,7 @@ Okay, wonderful. Yeah, I think um…
 Is that provided by AWS?
 
 ### Audrey Tang:
-Yes, so basically in Taiwan, the local zone includes compute, EC2 and so on already, right? 
+Yes, so basically in Taiwan, the local zone includes compute, EC2 and so on already, right?
 
 ### Josh Lund:
 Oh, the local zone. Ok.
@@ -164,7 +164,7 @@ Yeah. That’s great to know. And I think Josh will probably be our point of con
 OK. Excellent. So, we’ll have our NICS colleagues to please exchange name cards and so on.
 
 ### Meredith Whittaker:
-Fabulous. Yeah. 
+Fabulous. Yeah.
 
 ### Audrey Tang:
 Anything else you would like to explain?
@@ -212,7 +212,7 @@ Exactly.
 And we do have a server team we can talk to around that. Our spam detection is done without the kind of surveillance that most messengers do. It's primarily reliant on detecting rough patterns and API use, so it’s something we could talk to you about but we want to coordinate with them and talk to some other folks who built bots. It hasn’t been officially supported so at this point we’re talking about hacker creativity at work.
 
 ### Audrey Tang:
-Do you have a concept of an organizational account within which data bot messages are not counted toward spam? Because it’s an internal communication, so there will be 1 bot and we have like 600 staff, right? So, this bot will maybe keep sending messages to these 600 staff but not anyone else, and so it’s not unsolicited. 
+Do you have a concept of an organizational account within which data bot messages are not counted toward spam? Because it’s an internal communication, so there will be 1 bot and we have like 600 staff, right? So, this bot will maybe keep sending messages to these 600 staff but not anyone else, and so it’s not unsolicited.
 
 On the other hand, we do not have a way to communicate to Signal that is not unsolicited.
 
@@ -220,7 +220,7 @@ On the other hand, we do not have a way to communicate to Signal that is not uns
 We don’t. We’ve had many requests for organizational accounts and it’s something that is not on our roadmap but it’s on our mental map as something that is important to people. So, we don’t but it’s good to hear that that would be useful to you as well.
 
 ### Audrey Tang:
-One way to kind of hack around it is just for the 600 people to kind of manually scan a QR code and add a bot like as a frame into the contact. And if that signal can be used as an indicator to basically whitelist that from your spam detection, then we do not need an abstraction of organization. 
+One way to kind of hack around it is just for the 600 people to kind of manually scan a QR code and add a bot like as a frame into the contact. And if that signal can be used as an indicator to basically whitelist that from your spam detection, then we do not need an abstraction of organization.
 
 But from what we gathered from the Internet communities, that is not the case today. So, if you just keep sending the notifications, it will still be construed as spamming.
 
@@ -238,7 +238,7 @@ Yeah. ChatGPT dot Taiwan.
 > (laughter)
 
 ### Audrey Tang:
-Our National Science and Technology Council said that before end of the year, we’ll have a Taiwan dialogue engine, a uniquely Taiwanese dialogue… [laughter] Because at the moment, there is a lot of linguistic injustice in the largest language models. It doesn’t speak not even traditional Mandarin very well, let alone Taigi or Hakka or any of the other 19 national languages. 
+Our National Science and Technology Council said that before end of the year, we’ll have a Taiwan dialogue engine, a uniquely Taiwanese dialogue… [laughter] Because at the moment, there is a lot of linguistic injustice in the largest language models. It doesn’t speak not even traditional Mandarin very well, let alone Taigi or Hakka or any of the other 19 national languages.
 
 So, when you’re ask it to answer in Taigi, it just hallucinates in a bad way, actually. And that is not easily corrected because it has everything to do with the source material and not the fine-tuning part, so we probably do have to train our own open-source model.
 
@@ -306,7 +306,7 @@ Yeah. Um, so… yes.
 Minister Tang just mentioned that although certain other messaging systems are popular in Taiwan, Signal is more popular at the top level. You know, people will select Signal as their primary, priority-one to deliver secure messages. So, people trust Signal because they trust that Signal can provide security, privacy, etc. My question is, what is the point of view of Signal about quantum computing? The age is coming.
 
 ### Meredith Whittaker:
-There are many different estimates for when we'll achieve quantum capabilities and I am not expert enough to predict with any accuracy whether we’re looking at five years, ten years or is it now and the NSA just hasn't told us. However, I think it would be irresponsible of us not to be paranoid and so we are currently working on a post-quantum model for our key exchange and we are dedicating research and development resources to post-quantum hardening across our cryptographic stack because that's how we take care of the millions of people who rely on Signal and that's why we exist. 
+There are many different estimates for when we'll achieve quantum capabilities and I am not expert enough to predict with any accuracy whether we’re looking at five years, ten years or is it now and the NSA just hasn't told us. However, I think it would be irresponsible of us not to be paranoid and so we are currently working on a post-quantum model for our key exchange and we are dedicating research and development resources to post-quantum hardening across our cryptographic stack because that's how we take care of the millions of people who rely on Signal and that's why we exist.
 
 ### Chuan-Te Ho:
 Smart people will select the smart communication channel.
@@ -323,9 +323,9 @@ That’s fair.
 The keyword is trustworthy.
 
 ### Meredith Whittaker:
-Yeah, trust. And we also don't want people to have to trust us because of who we are. We want them to be able to look at all the code and not take our word for it. Which is why the open-source component of how Signal operates is so important. It lets people scrutinize what we do. Even if they don't trust me as a person, they can look at it and see for themselves. 
+Yeah, trust. And we also don't want people to have to trust us because of who we are. We want them to be able to look at all the code and not take our word for it. Which is why the open-source component of how Signal operates is so important. It lets people scrutinize what we do. Even if they don't trust me as a person, they can look at it and see for themselves.
 
-And we have hundreds of people who, every time we push a new build to our GitHub repo, are scrutinizing every line and posting on Reddit, speculating on its use and critiquing, and generally just engaging. It's actually a real gift to have such a vigilant community who anytime they find a small issue they immediately tell us. This lets us quickly prioritize fixing it and ultimately helps keep the quality high. It's not just us. It's hundreds of people beyond us who are in the spirit of open source helping us. 
+And we have hundreds of people who, every time we push a new build to our GitHub repo, are scrutinizing every line and posting on Reddit, speculating on its use and critiquing, and generally just engaging. It's actually a real gift to have such a vigilant community who anytime they find a small issue they immediately tell us. This lets us quickly prioritize fixing it and ultimately helps keep the quality high. It's not just us. It's hundreds of people beyond us who are in the spirit of open source helping us.
 
 ### Chuan-Te Ho:
 So, you are promoting the so-called concept of zero trust?
@@ -346,7 +346,7 @@ Of course we agree.
 
 NICS is set up with the principle of public code, so our new code… in addition to the CVEs of course, our new code are by default Creative Commons Zero which is in the public domain, free of copyrights. Firstly, because I told my staff that with language models, copyright doesn't mean anything anyway, right?
 
-If you say this is licensed restrictively. Well, the language models just look at it and write something that has the equivalent function but with no overlapping expressions and it's gone, right? 
+If you say this is licensed restrictively. Well, the language models just look at it and write something that has the equivalent function but with no overlapping expressions and it's gone, right?
 
 ### Meredith Whittaker:
 Co-pilot.
@@ -418,14 +418,14 @@ Yeah. In NICS, we already pegged our average salary to the median of cyber secur
 
 > (laughter)
 
-So, I think we'll continue to work this way and have your illustrative example as motivation when the MPs ask me tomorrow. Actually, I think the mission orientedness of Signal is what attracts people. In Taiwan, prior to doing this cyber security thing, I was in charge of social innovation and social entrepreneurship and we have this recommitted structure where a non-profit holds this veto right or special stock to a for-profit in which case this for-profit is not for-profit but rather just with-profit that for-purpose with-profit. 
+So, I think we'll continue to work this way and have your illustrative example as motivation when the MPs ask me tomorrow. Actually, I think the mission orientedness of Signal is what attracts people. In Taiwan, prior to doing this cyber security thing, I was in charge of social innovation and social entrepreneurship and we have this recommitted structure where a non-profit holds this veto right or special stock to a for-profit in which case this for-profit is not for-profit but rather just with-profit that for-purpose with-profit.
 
 I think, at that time a few years ago, this structure was very new in Taiwan and we had to change the company act for that, but more and more people are seeing that this with-profit scenario really actually does a better job at recruiting people because people can see that whatever they do is aligned on the mission level on a non-profit. And I understand you have a very similar structure.
 
 ### Meredith Whittaker:
-Yes, exactly. So, the Signal Foundation is a non-profit 501c3 and Signal Messenger is an LLC but with the Signal Foundation dedicated to supporting Signal Messenger. So, in practice, it's the same people and the same organization. I'm president of both but that structure allows us more flexibility. 
+Yes, exactly. So, the Signal Foundation is a non-profit 501c3 and Signal Messenger is an LLC but with the Signal Foundation dedicated to supporting Signal Messenger. So, in practice, it's the same people and the same organization. I'm president of both but that structure allows us more flexibility.
 
-And you know, we are not with-profit. We don't do profit but we do have an LLC and a 501c3 as a combined entity which is the structure that works for us. 
+And you know, we are not with-profit. We don't do profit but we do have an LLC and a 501c3 as a combined entity which is the structure that works for us.
 
 ### Audrey Tang:
 Right. Exactly.
@@ -446,7 +446,7 @@ Well, I think it is imperative. And I also think that's the floor. We need to le
 
 I think there needs to be an understanding of that and then there needs to be alternatives. Which is why we create Signal Messenger as an alternative. And it's also why we invest in core technologies like the Signal Protocol and some of the zero-knowledge techniques that we use to protect our metadata, alongside the techniques we use to protect group information. We make those available beyond Signal. The protocol is at the heart of WhatsApp's messaging encryption, and many others.
 
-But I think education is imperative. And after education, making sure once you know, you have the ability to actually do something about it. Whether it's an organization like your ministry saying we use Signal, we use Matrix. and that's how we're going to do business. You make that the social norm, the workplace norm. 
+But I think education is imperative. And after education, making sure once you know, you have the ability to actually do something about it. Whether it's an organization like your ministry saying we use Signal, we use Matrix. and that's how we're going to do business. You make that the social norm, the workplace norm.
 
 I think education is difficult however, because we are up against narratives that are expertly created by the marketing departments of very interested corporations. And in many cases it’s not a matter of individual choice. Being surveilled by cameras, or by employers, or the reality that we need to use certain digital technologies to participate in civic and economic life means that the issues are bigger than education. We need leaders like you, as you have been doing, to make structural changes that invite privacy in.
 
@@ -457,7 +457,7 @@ What is your point of view about cross-border data protection? For example, the 
 I think…
 
 ### Chuan-Te Ho:
-As a Cloud user, do you think that Cloud is trustworthy? 
+As a Cloud user, do you think that Cloud is trustworthy?
 
 ### Audrey Tang:
 Like Amazon.
@@ -509,9 +509,9 @@ So, what I expect is for this to continue moving forward, and that we'll get a f
 
 Now on the Signal side, what is our position on this?
 
-We won't do any interoperating if it doesn't uphold our rigorous privacy bar and that means message contents are encrypted with the protocol and metadata is encrypted using the techniques that we use to keep it private. Now, how do you interoperate without sharing metadata? This is a very difficult question. And then how do we trust that once we're interoperating that our privacy promises are being adhered to on the backend of the other side? These are not questions with clear answers at the moment. 
+We won't do any interoperating if it doesn't uphold our rigorous privacy bar and that means message contents are encrypted with the protocol and metadata is encrypted using the techniques that we use to keep it private. Now, how do you interoperate without sharing metadata? This is a very difficult question. And then how do we trust that once we're interoperating that our privacy promises are being adhered to on the backend of the other side? These are not questions with clear answers at the moment.
 
-So, I don't see a near future where we are participating in interoperability and to be frank, based on my experience, I think this is going to take a lot longer than the deadline that has been set by the politicians. 
+So, I don't see a near future where we are participating in interoperability and to be frank, based on my experience, I think this is going to take a lot longer than the deadline that has been set by the politicians.
 
 ### Audrey Tang:
 Well… unless all the gatekeepers just switch to Signal with custom skin?
@@ -597,7 +597,7 @@ Local zone.
 Yeah. So for like, CloudFront for example, they have endpoints for the CDN network, but at least on the AWS website, they’re not positioning Taiwan as providing the full suite of AWS services. So, do you have preview access?
 
 ### Audrey Tang:
-It’s Taiwan local zone. It’s not preview. You just add a Japan region, but within the Japan region you can add a Taipei local zone. And within the local zone, you can spin up EC2 instances. 
+It’s Taiwan local zone. It’s not preview. You just add a Japan region, but within the Japan region you can add a Taipei local zone. And within the local zone, you can spin up EC2 instances.
 
 ### Josh Lund:
 Right. Right. OK.
@@ -644,7 +644,7 @@ Exactly. Yeah.
 Yeah, that's really helpful to know. I guess in one other point too that is… have you looked at maybe spinning virtual numbers? I know in the States on our side we use a variety of services to kind of create virtual phone numbers but we can quickly register on Signal and get an SMS code but not have to buy a SIM card and not have to have a phone. I don't know if services like Twilio etc.…
 
 ### Audrey Tang:
-Yeah, it is it is possible but we're talking about public sector rollout though, so unless that virtual service is… 
+Yeah, it is it is possible but we're talking about public sector rollout though, so unless that virtual service is…
 
 ### Jun Harada:
 Massive…
@@ -692,7 +692,7 @@ Oh. Okay. Signal everywhere!
 > (laughter)
 
 ### Jun Harada:
-That’s it for me. Thank you. 
+That’s it for me. Thank you.
 
 ### Audrey Tang:
 Anything from Howard?
