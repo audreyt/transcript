@@ -225,7 +225,7 @@ Great question. Internationally, we've deployed the Polis tool twice. Once is in
 
 It's inspired by vTaiwan, in the sense that after each polis conversation, we held a multistakeholder panel for people from AIT and from our cabinet and also civil society experts and so on, look at the people's consensus together and find ways, pathways to realize the training to do it quickly. For example, one of the consensuses was the US should co-host international hackathons, the presidential hackathon with Taiwan. That was very quickly realized and they also sent their teams and so on.
 
-I think this is about focusing on lower hanging fruits, focusing on things that doesn't cost too much,  but builds a lot of confidence across all the different parties that participated. In cold war parlance,  I think it's called confidence-building measure or CBM.
+I think this is about focusing on lower hanging fruits, focusing on things that doesn't cost too much, but builds a lot of confidence across all the different parties that participated. In cold war parlance,  I think it's called confidence-building measure or CBM.
 
 Polis is very good in finding those CBMs across mutually not very trusting parties, for example, Uber drivers and taxi drivers. Then the CBMs, for example, not undercutting existing meters, are realized first before we can even implement any laws to mandate top-down enforcement because each party do actually want to extend kind of an olive branch to each other. The other time that we've run this internationally is the co-hack hackathon.
 

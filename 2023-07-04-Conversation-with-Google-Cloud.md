@@ -385,7 +385,7 @@ Do you want to speak in Mandarin? We can translate.
 Okay. 因為我們有 responsible AI，所以花了更多時間去 evaluate 模型產出看是否適合。
 
 ### Audrey Tang:
-因為我在和 Bard 聊的時候，我有試著下這樣的 prompt: "I’m going to speak with you in  Mando-English, and Mando-English is spelled with pinyin characters."
+因為我在和 Bard 聊的時候，我有試著下這樣的 prompt: "I’m going to speak with you in Mando-English, and Mando-English is spelled with pinyin characters."
 
 Then it starts writing in pinyin characters. And then I typed, “would you like to convey your ideas in Mando-English?”, and then it just starts speaking very fluent Mandarin to me.
 

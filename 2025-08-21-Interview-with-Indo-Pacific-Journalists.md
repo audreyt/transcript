@@ -270,7 +270,7 @@ Politicians fear pre‑commitment—it may reduce maneuvering room.
 
 ### Audrey Tang:
 
-Urgency helps. A decade ago former President Ma Ying-jeou’s approval was 9 percent; any process that delivered more trust was worth trying. If you are already at 70 percent , you maintain systems but hesitate to renovate. I am  discussing these methods this month at the Victoria Forum with Canadian practitioners; Canada is less polarized, but the need for innovation remains.
+Urgency helps. A decade ago former President Ma Ying-jeou’s approval was 9 percent; any process that delivered more trust was worth trying. If you are already at 70 percent , you maintain systems but hesitate to renovate. I am discussing these methods this month at the Victoria Forum with Canadian practitioners; Canada is less polarized, but the need for innovation remains.
 
 ### Interviewer:
 

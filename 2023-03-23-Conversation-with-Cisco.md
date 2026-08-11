@@ -63,7 +63,7 @@ Great, thank you, and this is my card.
 Thank you.
 
 ### Steven Lin:
-Hi, my name is Steven. Nice to meet you again. So this is our team, Taiwanese company bring more resources like we have Guy, and my boss Ming, support to bring more  resources to Taiwan. It’s our commitment to follow up action of previous meeting.
+Hi, my name is Steven. Nice to meet you again. So this is our team, Taiwanese company bring more resources like we have Guy, and my boss Ming, support to bring more resources to Taiwan. It’s our commitment to follow up action of previous meeting.
 
 ### Audrey Tang:
 Excellent.
@@ -190,7 +190,7 @@ In OpenAI GPT4, you can give it a system prompt, like its personality. In Anthro
 > (laughter)
 
 ### Audrey Tang:
-For those basic rules,  they instructed them with a series of cultural sensitive trainings, but just as the example you pointed out, with the face masks, these are the cultural choices of certain designers in the Silicon Valley, somewhere in San Francisco, and it may or may not match perfectly with the local community’s expectations, and then our expectations in the legislation may not actually meet with, for example, the indigenous nation, which has its own identity and want to be referred to as a nation within Taiwan, I mean, which is very fractal, I guess.
+For those basic rules, they instructed them with a series of cultural sensitive trainings, but just as the example you pointed out, with the face masks, these are the cultural choices of certain designers in the Silicon Valley, somewhere in San Francisco, and it may or may not match perfectly with the local community’s expectations, and then our expectations in the legislation may not actually meet with, for example, the indigenous nation, which has its own identity and want to be referred to as a nation within Taiwan, I mean, which is very fractal, I guess.
 
 > (laughter)
 
@@ -275,7 +275,7 @@ And this is happening before our eyes... Ozone was healed, I guess, now, thanks 
 
 So I was talking to Herming the other day. Maybe we should revamp our digital signature act. Maybe we should establish a trust system anchored on PKIs and DIDs to ensure — for example, unless online investment advertisements carry a proof that it's from a financial institution, through signatures or verifiable credentials, everything else is considered scam.
 
-We just passed today in our cabinet meeting an increased penalty, even criminal penalty, for deepfake scams and robocalls and so on. Previously, that was reserved to broadcast media. But now we see that micro-targeting on a mass scale is not  broadcast, it might just be worse than broadcast.
+We just passed today in our cabinet meeting an increased penalty, even criminal penalty, for deepfake scams and robocalls and so on. Previously, that was reserved to broadcast media. But now we see that micro-targeting on a mass scale is not broadcast, it might just be worse than broadcast.
 
 ### Guy Diedrich:
 Yeah.
@@ -331,7 +331,7 @@ And some public servants are still using LINE for work. Can we get them off of i
 > (laughter)
 
 ### Audrey Tang:
-Wei-Jan had the idea that maybe it’s not the particular applications, it’s about the protocol. Because we know the EU already, through the Digital Market Act, have interoperability requirements. So at some point, it wouldn’t matter what software the host uses. It would  become like email. So you run Exchange, that person runs Gmail. That doesn’t matter. You can still send emails. So this kind of end-to-end secure interoperability is something that we will also talk to Signal.
+Wei-Jan had the idea that maybe it’s not the particular applications, it’s about the protocol. Because we know the EU already, through the Digital Market Act, have interoperability requirements. So at some point, it wouldn’t matter what software the host uses. It would become like email. So you run Exchange, that person runs Gmail. That doesn’t matter. You can still send emails. So this kind of end-to-end secure interoperability is something that we will also talk to Signal.
 
 Because currently, if all the submarine cables are cut, we don’t get to send Signal, because it’s not located here. But if it can be interoperable and federated in some way, like with the Matrix protocol, it will be much easier.
 

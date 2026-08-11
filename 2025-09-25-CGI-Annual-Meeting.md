@@ -166,7 +166,7 @@ And if you click it, Jensen actually talks to you, of course, as a deepfake runn
 
 But also, if you poll people individually, they say, oh, we don't want government overreach. We want freedom of expression. We're the most free in Asia in terms of internet freedom. So it looked like a stalemate.
 
-However, we sent 200,000 text messages from the trusted government number 111 asking people just one very simple question:What should we do about information integrity online?
+However, we sent 200,000 text messages from the trusted government number 111 asking people just one very simple question: What should we do about information integrity online?
 
 People gave us their ideas. And then thousands volunteered to participate in online alignment assemblies that we coordinated with CIP, the Collective Intelligence Project, here in the US.
 
@@ -222,7 +222,7 @@ When we see machine learning, let's make it collaborative learning.
 
 When we see user experience, let's make it about human experience.
 
-And whenever we hear that a singularity is near, let's always remember:the plurality is here.
+And whenever we hear that a singularity is near, let's always remember: the plurality is here.
 
 Thank you.
 

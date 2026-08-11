@@ -2034,7 +2034,7 @@ But you give like visibility to...
 Yes.
 
 ### Audience Member:
-Even if you want to see, the disclaimer posted..
+Even if you want to see, the disclaimer posted.
 
 ### Audrey Tang:
 Yeah, it says edited, and it says version three. You can go back to version two and version one, if you have too much time. \[laughs\] Yeah, exactly.

@@ -179,7 +179,7 @@ Are you planning to go back to China or Singapore for a comparison study, or you
 No. For my PhD, I will only focus on Taiwan, because, as far as I know, there’s no Taiwanese, French, English books or researchers that exclusively focus on Taiwan open government movements. I’m trying now to elaborate a history of open government movements in Taiwan.
 
 ### Fiorella Bourgeois:
-To do so,I have to focus on the institutional level (policies, laws, and so on), but also on the civil society movements. It’s really a lot of work. If I want to complete my PhD, I have no time for a comparison with other countries, but I would like, later, for a postdoc and in my future career.
+To do so, I have to focus on the institutional level (policies, laws, and so on), but also on the civil society movements. It’s really a lot of work. If I want to complete my PhD, I have no time for a comparison with other countries, but I would like, later, for a postdoc and in my future career.
 
 ### Audrey Tang:
 Why national level instead of, say, Taipei city or Tainan city, which are, frankly speaking, much earlier -- like two or three years earlier -- in development?

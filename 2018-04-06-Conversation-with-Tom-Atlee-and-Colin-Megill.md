@@ -168,7 +168,7 @@ Here are the staff.
 \[laughs\]
 
 ### Audrey Tang:
-They’re excellent people,and you can see that we have a dress code.
+They’re excellent people, and you can see that we have a dress code.
 
 ### Tom Atlee:
 Yeah.

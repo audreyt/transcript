@@ -10,7 +10,7 @@ Hello Audrey Tang. Good morning.
 
 You are the Minister for Digital Affairs in Taiwan since 2016, and you advocate for full transparency and open data in your country.
 
-Audrey Tang, you record all the interviews that you give.  Are you recording this?
+Audrey Tang, you record all the interviews that you give. Are you recording this?
 
 ### Audrey Tang:
 

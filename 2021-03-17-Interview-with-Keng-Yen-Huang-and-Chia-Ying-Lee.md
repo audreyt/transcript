@@ -118,7 +118,7 @@ It's fine.
 I'm sorry. I got too excited.
 
 ### Chia Ying Lee:
-I'm Chia Ying Lee. I curate work at 中央研究院語言所/at the Institute of Linguistics. I do ERP MI for brain &  language (大腦與語言實驗室). We were classmates in the Kaohsiung medical college. We talked about this issue very frequently. This is why I'm also here.
+I'm Chia Ying Lee. I curate work at 中央研究院語言所/at the Institute of Linguistics. I do ERP MI for brain & language (大腦與語言實驗室). We were classmates in the Kaohsiung medical college. We talked about this issue very frequently. This is why I'm also here.
 
 I also care about children's education and develop app for children in need for special aid. Today, we just want to propose one of the approach for adolescents & young adults. This peripheral can be the applied to young children and also for elders.
 
@@ -158,7 +158,7 @@ No, I'm not. [laughs]
 
 ### Keng-Yen Huang:
 Even for parents to recognize kids' behavior issues, that could be a problem, and so, parents tend to overlook child mental health issue. It depends on the culture, we need to find a way to help parents recognize the issue. The approaches need to fit into the culture, and develop the engagement approaches to fit specific culture.
-There's also communication barriers-- a lot of mental health information is not accessible in public domain.Communication through a web platform or outside of the healthcare system is very critical. This is an issue that we are trying to address (through the digital tool).
+There's also communication barriers-- a lot of mental health information is not accessible in public domain. Communication through a web platform or outside of the healthcare system is very critical. This is an issue that we are trying to address (through the digital tool).
 
 There's also intervention design issues in the service area. A lot of mental health intervention resources have been put into treatment, but not in public health prevention. This pyramid (point to the WHO's service Pyramid model) with the wider bottom shows the need for a more self-care service model. The Pyramid model is a framework proposed by WHO. It suggests more health resources should be put into self-care approaches of health promotion, and less resources in treatment.
 
@@ -182,7 +182,7 @@ Treatments are always more painful. [laughs]
 
 ### Keng-Yen Huang:
 That's right. That's right. It's better to have a good life habit. Also, lack of professional resource is another common issue (point to the slides for 3 common service issues).
-What are the consequences of not setting up the service in the right way? We know,high prevalence of mental health problem will be one of the consequences.  It's pretty much the same globally. In many countries: about 10 to 20 percent of children and young adults have a mental health issue.
+What are the consequences of not setting up the service in the right way? We know, high prevalence of mental health problem will be one of the consequences.  It's pretty much the same globally. In many countries: about 10 to 20 percent of children and young adults have a mental health issue.
 
 We know that in Taiwan, the suicide rate and depression in young people is pretty high.
 
@@ -269,7 +269,7 @@ If you speak in Mandarin, I have to translate.
 > (laughter)
 
 ### Keng-Yen Huang:
-This is also the concept. We're using the opportunity to educate parents as well. The figure also gives you a sense in terms of.., I don't know if you can see it.
+This is also the concept. We're using the opportunity to educate parents as well. The figure also gives you a sense in terms of..., I don't know if you can see it.
 
 ### Audrey Tang:
 Yeah, I can see it.
@@ -281,7 +281,7 @@ You can see it, OK. The assessment will evaluate individual characteristic, it w
 The prompt says, and I quote, "We will look at the results together." This we, it's the whole family?
 
 ### Keng-Yen Huang:
-The version I am showing here is a different version. This is more for low literacy. For low literacy parents, We work with volunteer to provide the mSELF. The prompt you saw is a volunteer guide. We  developed the prompt to help volunteers to know what to say.
+The version I am showing here is a different version. This is more for low literacy. For low literacy parents, We work with volunteer to provide the mSELF. The prompt you saw is a volunteer guide. We developed the prompt to help volunteers to know what to say.
 
 ### Audrey Tang:
 That's right.

@@ -242,7 +242,7 @@ There's some alliance like that forming, that's jointly funded open access resea
 Yeah. What about in things that don't have a direct business application?
 
 ### Audrey Tang:
-That's up to the academic norms, right? People think it's normal to publish in open access without effects. If people who don't do so don't get tenure over them, [laughs] that will be a good mindset..
+That's up to the academic norms, right? People think it's normal to publish in open access without effects. If people who don't do so don't get tenure over them, [laughs] that will be a good mindset...
 
 ### Noah Swartz:
 It has always been the academics want people to read their research. They're proud of it, and they do that to be cited and read by people...

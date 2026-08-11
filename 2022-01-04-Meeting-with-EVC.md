@@ -482,7 +482,7 @@ Minister Wu is the architect of the counter disinformation while I'm just the te
 > (laughter)
 
 ### Audrey Tang:
-Basically, a lot of it boils down to the sheer urgency. The sheer sense of urgency and infodemic management because I think I'm on the front line of that. I can speak with some confidence. For example, foreign interference in non  infodemic, non pandemic related. Minister Wu knows a lot more about that than I do. Wu's office is I think a natural ally of yours.
+Basically, a lot of it boils down to the sheer urgency. The sheer sense of urgency and infodemic management because I think I'm on the front line of that. I can speak with some confidence. For example, foreign interference in non infodemic, non pandemic related. Minister Wu knows a lot more about that than I do. Wu's office is I think a natural ally of yours.
 
 ### Jakub Janda:
 Thank you. I'm asking is that when we talk and plan those visiting policies for, let's say government experts from some European countries, we'll basically be putting together a plan for them. Where can they learn what? With some of the things, it is quite clear with you. It's very clear what it is.

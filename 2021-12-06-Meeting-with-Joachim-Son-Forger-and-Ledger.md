@@ -299,7 +299,7 @@ That's good. Maybe, I let Ian, I thought Ian had a question. I'll post a few thi
 ### Joachim Son Forget:
 Prior to Ian. Speaking of this conversation to Audrey, that I didn't bring my friends to make advertisement for Ledger. They're fillers of these very important...We share views on the next step for the world and what we've discussed with us too.
 
-That's the point for me if that's all right.They gave me some very good influence for what I could see for my future political life from here. We were very sorry. That's why I wanted to bring all of us here.
+That's the point for me if that's all right. They gave me some very good influence for what I could see for my future political life from here. We were very sorry. That's why I wanted to bring all of us here.
 
 ### Audrey Tang:
 Definitely. I'm not here to sell, "Taiwan can help." All the other links that I provided are...I'm working again with Taiwan, but not necessarily just for Taiwan. At one time I was digital minister, but also a board member of around seven — none of which are based in Taiwan — international social innovation organizations.

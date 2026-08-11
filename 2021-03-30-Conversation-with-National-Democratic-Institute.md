@@ -486,7 +486,7 @@ This year. Yeah, of course.
 Using the same healthcare cards, using the same map to track the shots where it's delivered the same usability way that's already tested when reporting flu symptoms to the post vaccination symptoms and so on. The less people need to learn new systems, the more likely they would just treat it as a flu shot.
 
 ### Maeve Whelan-Wuest:
-In terms of dis  or misinformation, you'll just utilize the strategies, yeah.
+In terms of dis or misinformation, you'll just utilize the strategies, yeah.
 
 ### Audrey Tang:
 The same cute dog.

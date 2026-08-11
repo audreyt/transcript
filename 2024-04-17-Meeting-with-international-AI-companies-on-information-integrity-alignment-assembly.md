@@ -210,7 +210,7 @@ Because we have 14 days to provide written addendum. If you have timelines and s
 So legislators who pay strong attention to these consensus are expected to take some of them into their platforms and we also have a upcoming anti-Fraud Act that will incorporate some of these measures. So while this one is just to gauge people's general understanding, and make sure we're all on the same page, there will be follow up conversations around the kind of more regulatory parts of these measures. So if there's no further questions. There is a question.
 
 ### ADI_Timmy Lin:
-I have a question with meta and I heard the lead meta will start labeling AI generated content from May. And the government that concerns about the risk of deepfake,  is this automatically detected by the AI system or some other operation system?
+I have a question with meta and I heard the lead meta will start labeling AI generated content from May. And the government that concerns about the risk of deepfake, is this automatically detected by the AI system or some other operation system?
 
 ### Audrey Tang:
 so that whether the system you mentioned that maybe Ross and so we learn is May entirely developed in house or it is somehow in partnership with some other third party system or things like that.

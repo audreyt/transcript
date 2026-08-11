@@ -440,7 +440,7 @@ It turns out HIRD and Cloudflare natively support this, without even knowing our
 This is a very good story to tell, the approach to the CISOs and say, "You can run this on a negative budget. You can save money." It's a good start for all senses.
 
 ### Andrew Shikiar:
-Yeah, absolutely. That's fantastic. There's probably a case study here,  a good take away as well.
+Yeah, absolutely. That's fantastic. There's probably a case study here, a good take away as well.
 
 ### Audrey Tang:
 Yeah, how we approach the Zero Trust authentication, safeguarding the endpoints, and so on, starting from moda, but before the end of the year to all the different ministries deploying T-Road. The only reason why we can scale so quickly is because, again, it is an interoperable ecosystem. Happy to share.

@@ -1293,7 +1293,7 @@ Next year they want to introduce an electronic patient system…
 OK.
 
 ### Hernâni Marques：
-That is really fun. And this stuff always happens a little bit like this. So they just create a project and also the electronic ID – also Renat Künzi mentioned it, I read it.. That is also done, in our opinion, in a wrong way which will lead to identity theft, trust issues, and stuff like that. So this… this is systematic there.
+That is really fun. And this stuff always happens a little bit like this. So they just create a project and also the electronic ID – also Renat Künzi mentioned it, I read it. That is also done, in our opinion, in a wrong way which will lead to identity theft, trust issues, and stuff like that. So this… this is systematic there.
 
 ### Hernâni Marques：
 And we need like an approach where the government reaches out to people or where we even have a like position like yours – where like a connection is being made to like civil society.

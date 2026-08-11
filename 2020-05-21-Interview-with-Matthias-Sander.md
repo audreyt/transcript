@@ -528,7 +528,7 @@ Not me, a designer who sign started a e-petition saying tax-filing is explosivel
 Cho Chih-Yuan did most of the work along with our designer, Fang-Jui Chang. I didn’t do anything really. I just made a space.
 
 ### Matthias Sander:
-You’re saying 21 staff in total? Is that your staff? Because I’ve talked to some people..
+You’re saying 21 staff in total? Is that your staff? Because I’ve talked to some people…
 
 ### Audrey Tang:
 No, they do what they want.

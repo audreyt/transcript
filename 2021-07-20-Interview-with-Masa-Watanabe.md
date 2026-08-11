@@ -84,7 +84,7 @@ Finally, really quick, if you could share your views on America and American pol
 ### Audrey Tang:
 To me, the Internet itself remains very much informed by the counter culture in the America jurisdiction. That is to say, the idea of end to end principle, meaning any innovator as long as they can convince another person [laughs] to try out an innovation. Then, nobody on the Internet can put a stop to them.
 
-That enabled what we call permissionless open innovation on the Internet. That is, frankly speaking, very American. To me, the American experiment is not limited to its constitution. Of course, it's a great experiment, but in many other fields, including the formation of the Internet, the same spirit of trying out various different innovations failing sometimes publically, correcting itself publically for all to learn. To me, that is the spirit of the American democracy.
+That enabled what we call permissionless open innovation on the Internet. That is, frankly speaking, very American. To me, the American experiment is not limited to its constitution. Of course, it's a great experiment, but in many other fields, including the formation of the Internet, the same spirit of trying out various different innovations failing sometimes publicly, correcting itself publicly for all to learn. To me, that is the spirit of the American democracy.
 
 ### Masa Watanabe:
 Interesting. Thank you so much, Minister.

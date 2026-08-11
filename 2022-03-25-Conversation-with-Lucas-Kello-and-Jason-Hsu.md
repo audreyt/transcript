@@ -699,7 +699,7 @@ Nowadays, we're saying that if I work closely with the NDC, the National Develop
 
 We noted that these groups of people tend to work together on projects, but previously they have to work through their own ministries in order to get anything done. They did get a lot of things done, but it increase organizational friction.
 
-To increase the bandwidth, reduce the latency, improve the connections, maybe we should restructure a little bit. Which is why I'm in charge of the re-structuring, but it does not neccessarily mean that I will keep the digitalminister.tw domain after September.
+To increase the bandwidth, reduce the latency, improve the connections, maybe we should restructure a little bit. Which is why I'm in charge of the re-structuring, but it does not necessarily mean that I will keep the digitalminister.tw domain after September.
 
 ### Lucas Kello:
 Does that mean that a lot of those individuals will transfer to the new ministry?

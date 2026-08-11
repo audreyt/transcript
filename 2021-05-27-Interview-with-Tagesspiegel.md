@@ -501,7 +501,7 @@ OK. So is it you chatting with maybe one friend online or...
 ### Audrey Tang:
 No, it's a bulletin board system, harkens back to the initial dial up days where people use a modem to send silver mails to one another or whatever. It's actually harkens back to that system, it's just adapted now, that also talk through SSH and HTTPS and so on, but it's still the same system.
 
-To me, it's a continuity of experience all the way since I was 12 years old and listening to the modem, the "dadah dadah"..for the first time.
+To me, it's a continuity of experience all the way since I was 12 years old and listening to the modem, the "dadah dadah"...for the first time.
 
 That interface is still with the PTT. It's quite rare that we do have a civic infrastructure in the social sector that is now intergenerationally experienced for 25 years, meaning at least two or three generations of people had common experiences in that particular chat board. That's not something like Reddit or Facebook, can simply say.
 
@@ -588,7 +588,7 @@ I contributed to the places I can, and at least, for example, in Siri technologi
 I wouldn't say that it's any particular technological projects I did, but rather the ethos that we helped to co create. Of course, the marketing department in Apple would later sell that as the main selling point of Apple, at the time I'm already out of Apple.
 
 ### Jan Oberländer:
-You left your part spontaneously at age 33. You quit your job at Apple to join the Sunflower Movement, saying, "I have to leave. Democracy needs me." That quote..
+You left your part spontaneously at age 33. You quit your job at Apple to join the Sunflower Movement, saying, "I have to leave. Democracy needs me." That quote...
 
 ### Audrey Tang:
 That's not entirely right, I took a absence. I'm like "Yeah, I can't," because I was teleworking anyway. It's not like I boarded a plane. I actually wrote... I think it was Wired that said that I boarded a plane, and I fact checked them and they did go back to edit that part.
@@ -685,7 +685,7 @@ Where are your books? Your background is very bare.
 I know, I know. I use digital books. I don't really read paper books for quite a while now. If something is paper based, only sometimes I just scan it.
 
 ### Jan Oberländer:
-You're surrounded by improving technology all day and every day. Is there something - maybe an old school videogame or  an old console or something - that you're emotionally attached to?
+You're surrounded by improving technology all day and every day. Is there something - maybe an old school videogame or an old console or something - that you're emotionally attached to?
 
 ### Audrey Tang:
 No, I don't have anything like that. I think that the point here is I'm not attached to hardware devices. I'm attached to concepts. That is to say, for example, I'm quite attached to the idea of conflict free replicable data types, or CRDTs.
@@ -778,7 +778,7 @@ Our neighbor, .tv in Tuvalu, certainly... – literally the neighbor, one alphab
 
 That means in the Internet governance stage, .tw — if not Taiwan — is recognized. I'm really taking this, for example, to the Internet governance forum in 2017 when I appeared as a telepresence robot. It was a UN meeting. Because it was a UN meeting, if I physically was there, I have to show my passport.
 
-But if I appear as a 16*9*, then no passport is needed and I just talk as digitalminister.tw and the PRC people there also spoke, and  we're both on the record. And there was no problem. Nowadays, the UN meetings are all 16*9 anyway. [laughs] It's all telecommunications as of last year. What was pioneering is now the norm is what I'm saying.
+But if I appear as a 16*9*, then no passport is needed and I just talk as digitalminister.tw and the PRC people there also spoke, and we're both on the record. And there was no problem. Nowadays, the UN meetings are all 16*9 anyway. [laughs] It's all telecommunications as of last year. What was pioneering is now the norm is what I'm saying.
 
 ### Jan Oberländer:
 In a way, you did hack the UN...

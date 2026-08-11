@@ -369,7 +369,7 @@ This year we had a change in the formulation of the National Human Right Council
 We would say that if the Human Right Council forms in the Control Yuan, and if our Personal Data Protection Unit becomes a independent organ, as GDPR requires us to do – that’s the only thing between Taiwan and the GDPR adequacy – it will have a much more agreeable legitimacy platform.
 
 ### Audrey Tang:
-This is a matter of public debate. People are publically debating it. We’re not resting on our laurels, saying 91 percent of people supporting the CECC. That means, still, there’s nine percent of people who do not support the CECC and its measures.
+This is a matter of public debate. People are publicly debating it. We’re not resting on our laurels, saying 91 percent of people supporting the CECC. That means, still, there’s nine percent of people who do not support the CECC and its measures.
 
 ### Audrey Tang:
 The second response, also from Rasmus , is that has any actor attempted rent seeking? I’m also looking at the comments. It’s a fair question.

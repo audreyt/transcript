@@ -5,7 +5,7 @@
 How are you?
 
 ### Audrey Tang:
-Pretty good. So, before we begin — we will make a transcript of  this interview, including your words, but we will embargo it until you publish and you get to co-edit, if that's okay with you.
+Pretty good. So, before we begin — we will make a transcript of this interview, including your words, but we will embargo it until you publish and you get to co-edit, if that's okay with you.
 
 ### Yasmeen Serhan:
 Wonderful. That's fantastic. Yeah, I know this is part of your radical transparency.
@@ -91,7 +91,7 @@ But at the same time, Taiwan decided to democratize the ways for each and every 
 
 So that when people go through fact-checking by themselves, and also with the community, they might become inoculated against the polarization, the hate, and so on. So, this illustration of us being the democratized response, and the PRC being a more top-down authoritarian response, points to two very different ways to think about emerging technologies.
 
-But of course, you would ask,  why don't the social media companies work on civic integrity and counter-polarization and so on? Well, I think that partly is because such harms are not easily observable when it's just a few university alum networks connecting to each other. Some of the harms only start to appear when there's a large-scale deployment, and at that time, there's no systemic way for those harms to be pointed out and redressed.
+But of course, you would ask, why don't the social media companies work on civic integrity and counter-polarization and so on? Well, I think that partly is because such harms are not easily observable when it's just a few university alum networks connecting to each other. Some of the harms only start to appear when there's a large-scale deployment, and at that time, there's no systemic way for those harms to be pointed out and redressed.
 
 And now, learning from the Social Dilemma, we need to work with AI this time, setting up such reporting, forecasting, democratic alignment and guardrails before our economy becomes overly dependent on it. Because in the social media case, many other jurisdictions say, but our agency's webpage is now our Facebook page, we cannot meaningfully reform because we're too dependent on it. We don't want that to happen again.
 

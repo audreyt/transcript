@@ -391,7 +391,7 @@ That’s right, exactly, \[laughs\] in the real TECRO.
 I think it’s remarkable that we’ve got through a whole interview, we’re both trans, and it hasn’t been the first order of conversation. I think that’s really refreshing to be able to have a wide-ranging conversation about the work that we do. But I will ask: How has your identity informed you as a digital citizen?
 
 ### Audrey Tang：
-I think it enabled me to empathize more, and to have a larger tolerance for when people just don’t see other people’s viewpoint. It enables us to be a much more effective intermediary that helps people understand that they, although seem very different, they do have common values.I think it makes me a better facilitator.
+I think it enabled me to empathize more, and to have a larger tolerance for when people just don’t see other people’s viewpoint. It enables us to be a much more effective intermediary that helps people understand that they, although seem very different, they do have common values. I think it makes me a better facilitator.
 
 ### Jefcoate O’Donnell：
 I can definitely relate to that idea of learning how to break through polarization and be a facilitator through the kinds of experiences that being gender non-conforming brings.

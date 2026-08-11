@@ -531,7 +531,7 @@ The US is already considering now digital as part of public infrastructure. That
 
 We definitely said at a time that even though it's not made out of concrete, not concrete. As long as in the commons, it means everybody can actually use it to improve it and make it better, therefore qualify as infrastructure status.
 
-It seems that US is — because of pandemic apparently   taking this idea and amplifying it so that universal profit is no longer a FCC only idea, but rather an idea about as I mentioned, media and digital competence and democratic participation and things like that.
+It seems that US is — because of pandemic apparently taking this idea and amplifying it so that universal profit is no longer a FCC only idea, but rather an idea about as I mentioned, media and digital competence and democratic participation and things like that.
 
 I think the democratic policies are now definitely considering digital as infrastructure and with that the same sort of common space thinking that we're discussing.
 

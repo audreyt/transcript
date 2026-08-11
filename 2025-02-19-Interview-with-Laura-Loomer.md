@@ -2,7 +2,7 @@
 
 ### Laura Loomer：
 
-I want to welcome our first guest of the evening to**Loomer Unleashed**, Audrey Tang, who I believe is joining us from Taiwan or perhaps still Europe, but I know it’s somewhere overseas. So, Audrey, thank you so much for joining me on my program tonight. How are you doing?
+I want to welcome our first guest of the evening to **Loomer Unleashed**, Audrey Tang, who I believe is joining us from Taiwan or perhaps still Europe, but I know it’s somewhere overseas. So, Audrey, thank you so much for joining me on my program tonight. How are you doing?
 
 ### Audrey Tang：
 

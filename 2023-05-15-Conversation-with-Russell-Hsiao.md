@@ -60,7 +60,7 @@ And again, this is learning from the Ukrainian experience in that if you put all
 ### Russell Hsiao:
 Thank you so much for that very good overview in terms of transformation of the responsibility of this organization. Given the broad mandate of the organization, many observers were curious to see how this organization would evolve and respond to the unprovoked and illegal invasion of Ukraine by Russia.
 
-I think what you referenced in your second point was an emphasis on standard setting. What models are you applying as the standards that you are advising or requiring  stakeholders adopt as part of your ecosystem? What models are you applying to as standards for the security and safety protocols that are now part of your organization's purpose?
+I think what you referenced in your second point was an emphasis on standard setting. What models are you applying as the standards that you are advising or requiring stakeholders adopt as part of your ecosystem? What models are you applying to as standards for the security and safety protocols that are now part of your organization's purpose?
 
 ### Audrey Tang:
 We have very specific scenarios. So, the cyber-attack following Nancy Pelosi's visit was our constant reference, right? And, the other reference was recently when the island of Matsu got accidentally, you know, the submarine cables destroyed by one of the fishing vessels flying PRC flag. And then just a week or so after, accidentally another cargo vessel flying PRC flag caught the other submarine cable and left the Matsu Island without internet.
@@ -138,7 +138,7 @@ So, whether you're TSMC or whether you're the administration, you're subject to 
 ### Russell Hsiao:
 How much are your exercises, your planning, your strategy aimed or geared towards also enhancing civil resilience and civil defense efforts?
 
-It seems like this is quite a top-down process as far as we have discussed so far. So, are you integrating  civil society organizations to be better integrated into your trainings? And are there things that you can share in terms of examples that you are building right now as one part of this broader effort. Ukraine has been very effective in doing is getting their message out – and a part of that is having the capacity to be able to utilize the information channels and getting information out there, but having those communication channels already in place, not just the pipes, but then the people… the habits…
+It seems like this is quite a top-down process as far as we have discussed so far. So, are you integrating civil society organizations to be better integrated into your trainings? And are there things that you can share in terms of examples that you are building right now as one part of this broader effort. Ukraine has been very effective in doing is getting their message out – and a part of that is having the capacity to be able to utilize the information channels and getting information out there, but having those communication channels already in place, not just the pipes, but then the people… the habits…
 
 ### Audrey Tang:
 The norms.

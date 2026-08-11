@@ -76,7 +76,7 @@ I also heard that for the apps that have been used that the data needs to be del
 Were there any other measures for data protection besides this?
 
 ### Audrey Tang:
-Yes, for example, in our SMS based contact tracing system, even though it is true that a QR code you scan, the 15 random digits will be stored in your telecom for 28 days before it's deleted, the telecom doesn't know what those 15  digits mean. It's entirely random. Only the venue knows what it means, but a venue knows nothing about your phone number or where you've been.
+Yes, for example, in our SMS based contact tracing system, even though it is true that a QR code you scan, the 15 random digits will be stored in your telecom for 28 days before it's deleted, the telecom doesn't know what those 15 digits mean. It's entirely random. Only the venue knows what it means, but a venue knows nothing about your phone number or where you've been.
 
 This is called federation or multiparty security. Only authorized contact tracers can piece together the puzzles. All the players in this ecosystem do not have any personal data that they can use to re identify you. Even if some of them suffer cybersecurity threats, no incidents access those data.
 

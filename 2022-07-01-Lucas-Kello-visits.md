@@ -751,7 +751,7 @@ Or you could give me the number I can call them together.
 ### Audrey Tang:
 I don't have the number here though. I think it's a bit too early, mostly because there's no Moda yet.
 
-As I explained in March, currently, they interface with the Department of Cybersecurity within the cabinet office. I am not the minister with a portfolio directing cybersecurity affairs, so the DOC is not  within my purview.
+As I explained in March, currently, they interface with the Department of Cybersecurity within the cabinet office. I am not the minister with a portfolio directing cybersecurity affairs, so the DOC is not within my purview.
 
 I'm technically just setting up the ACS, which will include people from the DOC, but as of this moment, I don't command the DOC, and hence, I don't know their relationship with the NSC.
 

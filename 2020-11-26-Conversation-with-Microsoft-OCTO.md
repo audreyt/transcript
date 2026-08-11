@@ -144,7 +144,7 @@ The point is that as long as the feedback cycle is open, as long as people have 
 Yeah, my position statement on this, I just posted on the chatroom. I think the idea of cross-sectoral collaboration, which I would sometimes even put the social sector first, so it becomes the social sector first, then the business, and then the governance sector, means that the longer-lasting sectors have higher legitimacy.
 
 ### Audrey Tang:
-The shorter-lived sectors – I don’t mean the government is neccessarily short-lived, but four-year terms and all that – should have less legitimacy by configuration, because otherwise, we risk these lower-on-legitimacy parties concentrating power to manufacture legitimacy out of thin air, kind of QE on legitimacy, citing for example the infodemic crisis.
+The shorter-lived sectors – I don’t mean the government is necessarily short-lived, but four-year terms and all that – should have less legitimacy by configuration, because otherwise, we risk these lower-on-legitimacy parties concentrating power to manufacture legitimacy out of thin air, kind of QE on legitimacy, citing for example the infodemic crisis.
 
 ### Audrey Tang:
 As for your question, whether there’s challenges to this kind of work, I think it’s partly because we all – by we, I mean Taiwanese people above my age – remember martial law, and nobody want to go back to the censorship days or to the places where the media freedom and so on are challenged.

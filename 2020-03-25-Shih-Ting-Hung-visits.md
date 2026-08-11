@@ -61,7 +61,7 @@ Chatbot would then say, “ I hear you. Challenging time indeed. Do you think th
 I find this pretty amazing, with the technology, chatbot like this may not be rocket science now, and yet by simply reminding us to look from another perspective, my mood is uplifted right away. It helps to go into the day with a more positive mood.
 
 ### Shih-Ting Hung:
-What this TREE DIAGRAM is showing here - Under the corona virus period, we may have the following needs – 01. physical health protocols(what to do) 02. Scientific Knowledge (of what COVID-19 is), 03. Emotional Needs(Art/this app), 04. Resources for Financial Aids, 05. Public Information(goverment infirmed policy we need to know), which you contribute beautifully…
+What this TREE DIAGRAM is showing here - Under the corona virus period, we may have the following needs – 01. physical health protocols(what to do) 02. Scientific Knowledge (of what COVID-19 is), 03. Emotional Needs(Art/this app), 04. Resources for Financial Aids, 05. Public Information(government infirmed policy we need to know), which you contribute beautifully…
 
 ### Audrey Tang:
 Thank you.
@@ -186,7 +186,7 @@ This is very odd. White bread is bad for our health. Is this a randomly-controll
 > (laughter)
 
 ### Shih-Ting Hung:
-The wolf seems to have OCD..it’s actually kind of cute,
+The wolf seems to have OCD… it’s actually kind of cute,
 
 > (laughter)
 

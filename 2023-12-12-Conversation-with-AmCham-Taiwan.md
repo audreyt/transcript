@@ -70,7 +70,7 @@ Awesome.
 Hello, I’m Wendy. I'm currently working in the minister's office of Ministry of Digital Affairs. Thank you.
 
 ### Lin Shan-ju:
-我服務於數位策略司，負責本部施政策略規劃、政策分析、追蹤管考及提升施政績效等，性質如同各部會的綜合規劃單位，但本司是升級版，與各單位協作、溝通、彈性調整是我們工作的日常。
+我服務於數位策略司，負責本部施政策略規劃、政策分析、追蹤管考及提升施政績效等，性質如同各部會的綜合規劃單位，但本司是升級版，與各單位協作、溝通、彈性調整是我們工作的日常。
 
 (I’m working in the Department of Digital Strategy, my department responsible for planning the moda’s policy strategies, analyzing policies, implementing strategies, and improving administrative performance. It is similar in nature to the overall planning unit of various ministries, but my department is an upgraded version. Collaboration, communication, and flexible adjustment with the other departments are our daily work.)
 
@@ -295,7 +295,7 @@ And I wanted to share that with you. The program is a day-long program. In the m
 
 So, as a result of that, each company has their topics selected and it would produce speakers from the region. So, we want to make sure this is the first year and we want to make sure that we involve business efforts from the region.
 
-So, we want to make sure this is the first year and we want to make sure that we involve business efforts from the region. And we put into the pledging part. And I will have..,. Are you working with Turing Certs?
+So, we want to make sure this is the first year and we want to make sure that we involve business efforts from the region. And we put into the pledging part. And I will have... Are you working with Turing Certs?
 
 ### Audrey Tang:
 Yes.

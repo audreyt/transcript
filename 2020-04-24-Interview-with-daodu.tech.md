@@ -25,7 +25,7 @@ I am still a poetician. And a hacktivist.
 We people in Taiwan are quite familiar with your background. But for our audience today, could you briefly explain how did you come to this job?
 
 ### Audrey Tang:
-Sure. Back when I was 33, there was a protest outside of the legislation, the legislative yuan（立法院）. That’s called the Sunflower Movement.And the night before the Sunflower Movement, I was there supporting the students demonstrate against the CSSTA, or the Cross-Straits Service and Trade Agreement. The Agreement was fast tracked into parliament without deliberation. Because of that, a bunch of students just went in and occupied the parliament for 22 days.
+Sure. Back when I was 33, there was a protest outside of the legislation, the legislative yuan（立法院）. That’s called the Sunflower Movement. And the night before the Sunflower Movement, I was there supporting the students demonstrate against the CSSTA, or the Cross-Straits Service and Trade Agreement. The Agreement was fast tracked into parliament without deliberation. Because of that, a bunch of students just went in and occupied the parliament for 22 days.
 
 ### Audrey Tang:
 But the demonstration turned out to be a demo, not just a protest, but rather showing how half a million people on the street and many more online can come to consensus. And they reached four demands, not one less, and got accepted by the head of the parliament at the time. It was a successful occupy.
@@ -172,7 +172,7 @@ I understand completely. I have two young kids and it has been a struggle to fin
 That’s right.
 
 ### Michael Chou:
-So I think lots of people are concerned about privacy. And this distribution system which we all benefit from it and we are very grateful for it; but at the same time, we recognize that the NIH card is very powerful and it goes with us wherever we go.. So what do you say about what is the benefit worth its tradeoff here that we should make?
+So I think lots of people are concerned about privacy. And this distribution system which we all benefit from it and we are very grateful for it; but at the same time, we recognize that the NIH card is very powerful and it goes with us wherever we go… So what do you say about what is the benefit worth its tradeoff here that we should make?
 
 ### Audrey Tang:
 There’s no tradeoff.

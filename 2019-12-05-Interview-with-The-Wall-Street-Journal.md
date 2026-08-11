@@ -497,7 +497,7 @@ Like standup comedians.
 Right, in two hours, you got to come up with this.
 
 ### Audrey Tang:
-Many of those professionals, not neccessarily comedians, just formed a new party called the Can’t Stop This Party. That was the name. Literally, an unstoppable, happy party.
+Many of those professionals, not necessarily comedians, just formed a new party called the Can’t Stop This Party. That was the name. Literally, an unstoppable, happy party.
 
 > (laughter)
 
