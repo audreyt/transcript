@@ -2,7 +2,7 @@
 
 ### Rory Truex:
 
-Audrey, what was the most important measure you put in for Taiwan’s digital democracy during your service? 
+Audrey, what was the most important measure you put in for Taiwan’s digital democracy during your service?
 
 ### Audrey Tang:
 
@@ -216,7 +216,7 @@ The density of civil society here is striking—more temples than 7‑Elevens (a
 
 Two reasons.
 
-1. Civil society legitimacy even during martial law: disaster relief for earthquakes, typhoons. On an island with daily tremors, you cannot afford to splinter; you exercise civic muscle in a constant civic gym.  
+1. Civil society legitimacy even during martial law: disaster relief for earthquakes, typhoons. On an island with daily tremors, you cannot afford to splinter; you exercise civic muscle in a constant civic gym.
 2. The existential threat from an authoritarian, atheist CCP regime. Many fled to Taiwan during the civil war — bringing incredible religious and intellectual diversity (and cuisine). That lineage is everywhere: cooperatives, consumer unions, credit unions. The ROC  tolerated and showcased vibrant civil society — “Free China” — especially against the Cultural Revolution.
 
 Both civil society and the state had reasons to promote plurality. And yes — *taking out the trash together every night* helps build everyday civic habits.
@@ -327,7 +327,7 @@ So, the most useful thing Americans can do for Taiwan is to foster civic care an
 
 ### Rory Truex:
 
-How does the U.S. stand up to China? By making our democracy work—health care, roads, trains—the lived quality of democracy. 
+How does the U.S. stand up to China? By making our democracy work—health care, roads, trains—the lived quality of democracy.
 
 ### Audrey Tang:
 

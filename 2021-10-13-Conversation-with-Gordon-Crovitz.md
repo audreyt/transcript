@@ -9,7 +9,7 @@ I have tried it out.
 ### Gordon Crovitz:
 Good. Thank you so much. Perhaps I can tell you a little about NewsGuard, and, of course, one of the reasons I am glad to be in touch is that we are considering expanding beyond North America and Europe. We're considering whether Taiwan might be the most likely first country for us to operate in Asia, and I wanted to get your guidance and thoughts.
 
-We started NewsGuard about three years ago. The idea was to try to help people understand the difference between generally trustworthy sources of news and information and sources that are generally not trustworthy. I'd spent my career in journalism. I ran "The Wall Street Journal" and before that was based for almost a decade in Hong Kong running the "Far Eastern Economic Review" and other news operations for Dow Jones. 
+We started NewsGuard about three years ago. The idea was to try to help people understand the difference between generally trustworthy sources of news and information and sources that are generally not trustworthy. I'd spent my career in journalism. I ran "The Wall Street Journal" and before that was based for almost a decade in Hong Kong running the "Far Eastern Economic Review" and other news operations for Dow Jones.
 
 It had become clear to us a few years ago when we founded NewsGuard that it had become difficult for normal people to be able, as they're reading news on their phone through Facebook, or through Twitter, or through search, to know the difference between a generally reliable source and one that is not reliable.
 
@@ -17,7 +17,7 @@ We did a very simple thing, which was to identify nine basic, apolitical criteri
 
 Each website gets a point score from zero to one hundred and a rating through red or green icon, plus a Nutrition Label explaining in detail the nature of the site.
 
-So far, we operate in the US, the United Kingdom, Germany, France, and Italy. We'll launch later this year in Canada, Australia, and New Zealand. We're looking to now to other potential launches. 
+So far, we operate in the US, the United Kingdom, Germany, France, and Italy. We'll launch later this year in Canada, Australia, and New Zealand. We're looking to now to other potential launches.
 
 Our core business model is to work with third parties interested in providing a safer internet. For example, Microsoft has licensed our ratings and labels for everyone that uses its Edge browser. Microsoft also uses our ratings to help to improve the quality of Bing search results and a number of their other products.
 
@@ -95,7 +95,7 @@ Yes, you're absolutely correct. There are different design choices that platform
 
 So far, Facebook, Twitter, YouTube have been reluctant — maybe that's the best word — reluctant to open their platforms to middleware integrations.
 
-I hope that will change. As you're probably aware, in the United Kingdom, the Online Safety legislation is designed to create a new duty of care by the largest digital platforms. The British Government has published a list of about 80 middleware solutions in different areas — bullying, harassment, sexual abuse, and misinformation — and they expect the digital platforms to make these middleware solutions available to their users to show that they have taken reasonable steps to protect their users from the harms they currently cause. 
+I hope that will change. As you're probably aware, in the United Kingdom, the Online Safety legislation is designed to create a new duty of care by the largest digital platforms. The British Government has published a list of about 80 middleware solutions in different areas — bullying, harassment, sexual abuse, and misinformation — and they expect the digital platforms to make these middleware solutions available to their users to show that they have taken reasonable steps to protect their users from the harms they currently cause.
 
 We hope that the pressure from the UK government will encourage the platforms to be more open. You've put your finger on the main issue, which the biggest platforms, at least so far, have been reluctant to open up to safety tools like ours.
 
@@ -178,7 +178,7 @@ Trend Micro rolls out its own QR code scanner and integrates with, as I mentione
 In that sense, they're like the Puffin browser. They're one step between any customer and the website, they're a semi browser.
 
 ### Gordon Crovitz:
-It's quite a change for me to have a conversation with a digital minister, giving me technology tips. 
+It's quite a change for me to have a conversation with a digital minister, giving me technology tips.
 
 > (laughter)
 
@@ -200,7 +200,7 @@ They use a very popular LINE Bot for that, and also is a website, it's the part 
 CoFacts is at an upstream of the identifying, trending disinformation. On the downstream there's the town fact checking center, the Trend Micro, Whoscall, and other folks. CoFacts is the main community that works on the upstream level.
 
 ### Gordon Crovitz:
-Got it. That's fascinating. I think we would add to reasons to have a presence in Taiwan that we would be better able to work with the development community there. 
+Got it. That's fascinating. I think we would add to reasons to have a presence in Taiwan that we would be better able to work with the development community there.
 
 ### Audrey Tang:
 You can also serve as a platform of which, these newer innovations out of Taiwan that has reasonable success in our jurisdiction and maybe you can introduce it to libraries in UK or something.
@@ -245,7 +245,7 @@ Mostly, our integrity of the counting process itself, which is counting paper ba
 I'm mostly worried about that. We'll see if in our December referendum, which has four national referendum topics, whether these dynamics enter into play and whether the capacity of the social sector organizations, including CoFacts and everything we just mentioned, is up to the task of handling the incoming torrents. If you ask me what's on my mind, this is on my mind.
 
 ### Gordon Crovitz:
-Even before the Internet, politicians would spread disinformation, it's always been part of the trade. We did some reports on the German elections recently. It wasn't as bad as the US election, but it surprised the Germans. 
+Even before the Internet, politicians would spread disinformation, it's always been part of the trade. We did some reports on the German elections recently. It wasn't as bad as the US election, but it surprised the Germans.
 
 ### Audrey Tang:
 That's right. We need to leverage the election times to highlight the public health harm of hurting the...Call it public mental image. If the mental image of the public is filled with scam and spam, then people do not have a good democratic experience.

@@ -35,7 +35,7 @@ Yeah, so first of all, just like you said, we're very interested about... We all
 Digital resilience for all.
 
 ### Cindy Wang:
-Yeah. So, we are very curious. Can Audrey, Minister Tang, can you please first tell us about Taiwan's plans to deal with the emergency, especially like wartime scenario? What is Taiwan's plan to increase the digital resilience? 
+Yeah. So, we are very curious. Can Audrey, Minister Tang, can you please first tell us about Taiwan's plans to deal with the emergency, especially like wartime scenario? What is Taiwan's plan to increase the digital resilience?
 
 What are our concrete plans so far? And also, given the lesson from the Ukraine war that we see that in Ukraine, they have Starlink so that they can continue their communication with the outside world. Will Taiwan have Starlink or things like that?
 
@@ -44,15 +44,15 @@ Sure. So, I would say that we're already in constant need for resilience. A deca
 
 So, in "accidents" like this, we see the need for communication resilience. In the Matsu example, we expanded microwave transmission. The TTC, Telecom Tech Center, made sure that they tested the non-geostationary satellite receiver in Matsu as well and the test was successful in terms of videos and so on. A week or so after the test was successful, the submarine cable was repaired. But we're more prepared, I guess, now for the next time of accidents.
 
-And then even more important than that is a plurality of providers. We did see that in Ukraine, for example, when you rely only on one non-terrestrial network provider, then that provider essentially sets the boundary… like the bandwidth, the geographic boundary, and so on, of the service that it can use. 
+And then even more important than that is a plurality of providers. We did see that in Ukraine, for example, when you rely only on one non-terrestrial network provider, then that provider essentially sets the boundary… like the bandwidth, the geographic boundary, and so on, of the service that it can use.
 
 So, this year and next, we're going to work with as many as possible non-geostationary satellite providers to ensure that when there's adversity, multiple constellations will have to be destroyed or disrupted to deny us communication with the outside.
 
-Equally important is this idea of local resilience, meaning that even when all the submarine cables are cut and satellite communication is of limited bandwidth, for video conferencing with two people who are both domestic, they should actually still video conference normally because they would not need an extra round trip. 
+Equally important is this idea of local resilience, meaning that even when all the submarine cables are cut and satellite communication is of limited bandwidth, for video conferencing with two people who are both domestic, they should actually still video conference normally because they would not need an extra round trip.
 
-If you use some of the commercial video conferencing options at the moment, their metadata or their routing is in some other jurisdiction other than Taiwan. And so, in such a scenario, while we now work very well in video conferencing, when submarine cables are cut we cannot even initiate a call to each other. 
+If you use some of the commercial video conferencing options at the moment, their metadata or their routing is in some other jurisdiction other than Taiwan. And so, in such a scenario, while we now work very well in video conferencing, when submarine cables are cut we cannot even initiate a call to each other.
 
-So, it's paramount that especially for disaster relief, for secure communication within the public sector and so on, we choose only the vendors that agree on two things. First, that they set up their data center domestically and their routing does not need to go somewhere else and back. 
+So, it's paramount that especially for disaster relief, for secure communication within the public sector and so on, we choose only the vendors that agree on two things. First, that they set up their data center domestically and their routing does not need to go somewhere else and back.
 
 And second, that the local physical operation operators are citizens of our country. This is to ensure that when adversity presents itself, we can maintain both internal communication and a reasonable bandwidth for research, for example, for the international correspondents to work with the external world.
 
@@ -66,7 +66,7 @@ Yes.
 So, what's wrong with just relying on one provider, for example, Starlink?
 
 ### Audrey Tang:
-That would have a single point of failure issue. So, if that constellation is disrupted, jammed somehow, then we would have no other recourse, no other options. On the other hand, there are actually many providers in not just low Earth orbit, but also middle Earth orbit. The TTC Matsu test was with SES Global, a French Luxembourg middle Earth orbit company. 
+That would have a single point of failure issue. So, if that constellation is disrupted, jammed somehow, then we would have no other recourse, no other options. On the other hand, there are actually many providers in not just low Earth orbit, but also middle Earth orbit. The TTC Matsu test was with SES Global, a French Luxembourg middle Earth orbit company.
 
 So, we already have some bandwidth in terms of FT2, that's a geosynchronous satellite. So, it makes sense to have… Because the higher the altitude, the less likely for it to be jammed or destroyed. But of course, it means the latency is also slightly higher, so it pays to have multiple providers, ideally in each of the low, mid, and geosynchronous orbits.
 
@@ -130,7 +130,7 @@ Yes, Kuiper. That’s K-u-i-p-e-r.
 Is that Amazon?
 
 ### Audrey Tang:
-That's Amazon. And I already mentioned SES. 
+That's Amazon. And I already mentioned SES.
 
 ### Cindy Wang:
 So, these are the possible... So, we're in talk with OneWeb and Kuiper.
@@ -246,7 +246,7 @@ Most of the emergency communication needs with the outside, yes.
 Can you give an example, maybe?
 
 ### Audrey Tang:
-Sure. So, for example, video conferencing. The difference between a MEO and a LEO is that with MEO, maybe I finish speaking a sentence, you wait for half a second or so, and then you see that sentence and you nod. And so, after a round trip, I see you nodding to the words I said around a second ago, right? 
+Sure. So, for example, video conferencing. The difference between a MEO and a LEO is that with MEO, maybe I finish speaking a sentence, you wait for half a second or so, and then you see that sentence and you nod. And so, after a round trip, I see you nodding to the words I said around a second ago, right?
 
 So, that is okay for most of the video conferencing needs, including real-time interviews and so on. Waiting for a second is not a big deal. But for LEO, then you can expect very low latency, meaning there's almost no perceptible delay between us saying something and you nodding. But as I mentioned for the international correspondence, the MEO situation isn't that bad either.
 
@@ -254,7 +254,7 @@ So, that is okay for most of the video conferencing needs, including real-time i
 Have you calculated how many satellites that Taiwan needs for a LEO constellation or for a MEO constellation? Have we had a number like that or estimates like that?
 
 ### Audrey Tang:
-Well, that depends on how much use do you expect. As I mentioned, if more of our video conferencing needs, even domestically, goes through data centers outside of Taiwan, then we're going to need a lot of bandwidth. 
+Well, that depends on how much use do you expect. As I mentioned, if more of our video conferencing needs, even domestically, goes through data centers outside of Taiwan, then we're going to need a lot of bandwidth.
 
 Because even for internal communication, we're going to need satellite uplink and downlink for the round trip to work. But as we shift more internal communication needs to locally resilient providers, then that reduces the bandwidth need. So, this is a dynamic thing.
 
@@ -267,14 +267,14 @@ As I mentioned, if the emergency disaster relief people communicate with each ot
 So, our main work now is to adopt local resilience and switch the critical communication channels and so on entirely to domestic network. And that will reduce a lot, by a huge factor, the burden on external communication. So, I cannot give you the number because we're still working on reducing the need for external communication.
 
 ### Cindy Wang:
-I don't understand why… 
+I don't understand why…
 
 ### Audrey Tang:
-So, without naming names, there are certain popular video conferencing platforms that are not part of our joint tender, meaning that we're not buying it as part of public service. But nevertheless, they're ubiquitous. And pretty much all international correspondents use one of those video conferencing platforms when communicating with their correspondents, if you cannot meet face to face. 
+So, without naming names, there are certain popular video conferencing platforms that are not part of our joint tender, meaning that we're not buying it as part of public service. But nevertheless, they're ubiquitous. And pretty much all international correspondents use one of those video conferencing platforms when communicating with their correspondents, if you cannot meet face to face.
 
 But both of these very popular platforms have the metadata set up not in Taiwan. So, when you initiate a call through video conference to your correspondent, to your source, even if both of you are in Taiwan, they're going to route you through some other jurisdiction and then back.
 
-We normally don't have a problem with that because the submarine cables are pretty good in bandwidth and low latency. But when the submarine cables are cut, you're going to find that in all those video conferencing tools that you usually use, you cannot initiate a call anymore. 
+We normally don't have a problem with that because the submarine cables are pretty good in bandwidth and low latency. But when the submarine cables are cut, you're going to find that in all those video conferencing tools that you usually use, you cannot initiate a call anymore.
 
 And if we do provide you with MEO or LEO bandwidth, you're going to find that you're going to share that very limited bandwidth with pretty much everybody using video conferencing at the same time. Which means that, well, if you've been to Matsu, you know the situation. So, you're going to experience the Matsu experience.
 
@@ -292,7 +292,7 @@ But, can you still have an estimate about how many satellites will be needed?
 ### Audrey Tang:
 Well, currently far more than what we're going to get because of the non-locally resilient video communication tools people use. So, to procure sufficient bandwidth is, of course, our goal but it's not realistic if the correspondents all use those video conferencing tools that require external links, even for domestic communication.
 
-Because when an earthquake or disaster happens, there's going to be a lot of need for domestic communication and coordination. So, only when we shift most or all of these needs to locally resilient communication infrastructure can we sensibly talk about whether we have sufficient satellite bandwidth because at that point, the satellite bandwidth is going to be all used for actual international correspondents. 
+Because when an earthquake or disaster happens, there's going to be a lot of need for domestic communication and coordination. So, only when we shift most or all of these needs to locally resilient communication infrastructure can we sensibly talk about whether we have sufficient satellite bandwidth because at that point, the satellite bandwidth is going to be all used for actual international correspondents.
 
 But at the moment, that's going to be dwarfed by the domestic needs, and there's no amount of satellite that can satisfy the communication needs if the domestic ones still use those external jurisdictional routes.
 
@@ -356,7 +356,7 @@ Because we don't have typhoons anymore.
 So, I guess the question that I have then, I have a couple of questions. Across the board with these providers, will they all have access to the same radio frequency band? Or is it the one that they're all going to have or are they going to have several? And are you going to have control over that or are they going to have control over that?
 
 ### Audrey Tang:
-Hm, I don't understand the question. Because we have spectrum allocation purview. That's our ministry's purview. And we say that during the proof concept, which is testing and verification, they're very relaxed, meaning that they get to use whichever band they want as long as, of course, it doesn't cause major interference with other providers or other domestic users. 
+Hm, I don't understand the question. Because we have spectrum allocation purview. That's our ministry's purview. And we say that during the proof concept, which is testing and verification, they're very relaxed, meaning that they get to use whichever band they want as long as, of course, it doesn't cause major interference with other providers or other domestic users.
 
 On the other hand, the commercial operation, of course, is much more like license process. But because we're not talking about the commercial application, so we, of course, still have purview over the band they use. But part of the testing and verification is to try out all sorts of configurations, so we're not going to arbitrarily limit the band they can use.
 
@@ -382,7 +382,7 @@ There's no percentage requirement at all.
 So, what does that look like?
 
 ### Audrey Tang:
-Our main requirement is just that they cannot be, I think, PRC invested and PRC controlled. So, we're not working with the PRC constellations. But as long as that is not a problem, then the kind of investment relations like where they get their funding from and so on, that does not matter. 
+Our main requirement is just that they cannot be, I think, PRC invested and PRC controlled. So, we're not working with the PRC constellations. But as long as that is not a problem, then the kind of investment relations like where they get their funding from and so on, that does not matter.
 
 We just want to ensure that when we do the testing and verification, the technical specifications fit our purpose. But at that point, we're not saying that the PRC will graduate into commercial. It's not like that. They're completely separate.
 
@@ -390,7 +390,7 @@ We just want to ensure that when we do the testing and verification, the technic
 Wait. But I was curious about the timeline. You said you have a timeline. Why do you have a timeline? Like what's your expectation of things happening within this timeline?
 
 ### Audrey Tang:
-That's a great question. So, yes, based on our estimates, I think by the end of next year, most of our governmental agencies, especially ones that deal with national level, like personal data hosted in national level instruments, are going to switch to a much more secure way of communicating and backing up and so on. 
+That's a great question. So, yes, based on our estimates, I think by the end of next year, most of our governmental agencies, especially ones that deal with national level, like personal data hosted in national level instruments, are going to switch to a much more secure way of communicating and backing up and so on.
 
 So, we have this internal timeline of adopting the lessons we learned from the Kiev experience, Russia's illegal and provoked attack to Kiev. And we saw that because they have the capability to switch to public cloud for backup and high availability for secure communication, even when the known locations of the local infrastructure are disrupted and so on.
 
@@ -412,7 +412,7 @@ As I mentioned, this is not some imagined scenario in the future.
 Right.
 
 ### Audrey Tang:
-Right. So, this year we have the Matsu accident. And last year, last August, the month when our ministry, the MODA, was founded, there was an actual missile, military drill stuff, and denial of service attack, the like of which has never been seen before. 
+Right. So, this year we have the Matsu accident. And last year, last August, the month when our ministry, the MODA, was founded, there was an actual missile, military drill stuff, and denial of service attack, the like of which has never been seen before.
 
 23 times more in a single day's peak compared to the previous peak, like 23 times. So, obviously we're going to prepare ourselves for this scenario. Like if every day is like 23 times more than the previous peak, how would we still be resilient against that sort of scenario? Because that was peacetime, right? So, we need to prepare for that sort of adverse situation.
 
@@ -423,20 +423,20 @@ Have you been talking to Anduril?
 Who?
 
 ### Jamie Tarabay:
-Anduril is a defense tech contractor. And I met with the CEO in Sydney a few weeks ago, and he was talking about building comms, like machines that were autonomous and would talk to each other through a mesh in case all of those other comms were taken out. 
+Anduril is a defense tech contractor. And I met with the CEO in Sydney a few weeks ago, and he was talking about building comms, like machines that were autonomous and would talk to each other through a mesh in case all of those other comms were taken out.
 
 ### Audrey Tang:
 It's not ringing a bell, the name, but the idea of a kind of self-healing network is, of course, what we're working on.
 
 ### Jamie Tarabay:
-That's so interesting. Can I ask about… So, I want to talk to you about Starlink because I want to verify what I've heard, and I want to sort of take you back to essentially like when did your conversations with Starlink begin? 
+That's so interesting. Can I ask about… So, I want to talk to you about Starlink because I want to verify what I've heard, and I want to sort of take you back to essentially like when did your conversations with Starlink begin?
 
 Were they initiated on the Taiwanese side or were they initiated on the Starlink side? And if you can take me back to when that first happened, and what that was like, and what happened then?
 
 ### Audrey Tang:
 Okay, but personally, I have not yet talked to the people directly from Starlink.
 
-There were domestic people that are providing Starlink with their services or products; because many of the Starlink receivers are made in Taiwan or components of which are made in Taiwan. 
+There were domestic people that are providing Starlink with their services or products; because many of the Starlink receivers are made in Taiwan or components of which are made in Taiwan.
 
 And some of them did meet with me, even before the Ministry of Digital Affairs was founded. So, our press correspondents can find a public transcript of what we did talk about back then.
 
@@ -494,7 +494,7 @@ They say that this is an idea worthy of an exclusive report...
 It's a scoop.
 
 ### Audrey Tang:
-It's a scoop. [laughter] Well, the takeaway is that we need to massively expand our gold card program where foreign talents, professionals can get an open work permit and healthcare and everything without going to Taiwan. 
+It's a scoop. [laughter] Well, the takeaway is that we need to massively expand our gold card program where foreign talents, professionals can get an open work permit and healthcare and everything without going to Taiwan.
 
 They can obtain that remotely. That was a very popular choice during the pandemic. And as MODA now offers the [digital gold card](https://goldcard.nat.gov.tw/en/qualification/field-of-digital/), people who have been programming for eight years without any other qualifications, like the current salary or things like that, they can get such open permits for three years. And we're going to invite a lot more people to Taiwan for that.
 
@@ -540,7 +540,7 @@ For Japan?
 Yeah.
 
 ### Audrey Tang:
-Okay. Yeah. And for the disaster relief, as I mentioned, we're not bound by whatever 51% domestic. 
+Okay. Yeah. And for the disaster relief, as I mentioned, we're not bound by whatever 51% domestic.
 
 ### Jamie Tarabay:
 So, Starlink can have 100% if you like, so that's fine?
@@ -558,7 +558,7 @@ As I mentioned, they're potential partners.
 Okay. When you say testing and verification, can you explain what that means?
 
 ### Audrey Tang:
-Yeah, sure. We're going to set up satellite receivers as each constellation joins the program. We're going to adjust the antenna and so on to receive from their satellites. We're going to test in various scenarios, including the fixed ones over Taiwan on the bandwidth and latency. 
+Yeah, sure. We're going to set up satellite receivers as each constellation joins the program. We're going to adjust the antenna and so on to receive from their satellites. We're going to test in various scenarios, including the fixed ones over Taiwan on the bandwidth and latency.
 
 And how it responds to weather, for example. And then we're also going to test mobile vehicles and see how their satellites are receiving bandwidth and latency functions on a quickly moving vehicle and so on. So, there are all sorts of needs that we basically learned from our previous disaster prevention and relief work. And we want to put them to such scenarios to test.
 
@@ -578,7 +578,7 @@ I've not heard of that.
 Okay. So, one side of them is all in on the disaster relief and they're ready to do the testing and verification. For how many receivers, do you know?
 
 ### Audrey Tang:
-So, for this year, we have not yet received a committed number of receivers testing from any of the LEOs at this point, because we literally have not yet started the testing and verification. 
+So, for this year, we have not yet received a committed number of receivers testing from any of the LEOs at this point, because we literally have not yet started the testing and verification.
 
 The bid for the POC and for testing and verification was just closed, I think, for application a couple of weeks ago this week, so it's too soon to tell.
 
@@ -592,7 +592,7 @@ There's no place for them to apply yet.
 Oh.
 
 ### Audrey Tang:
-We're currently… So, we just closed the bid for the local partner, domestic partner for testing and verification. We're working with research institutes and so on, like not for-profit telecom providers, because that creates a competition dynamic but rather with trusted labs and so on. 
+We're currently… So, we just closed the bid for the local partner, domestic partner for testing and verification. We're working with research institutes and so on, like not for-profit telecom providers, because that creates a competition dynamic but rather with trusted labs and so on.
 
 So, currently we must first choose the lab which to do the testing, and that lab will open up an application process for all the constellations to apply, to be tested. But that has not yet started. So, all of this is preliminary thought.
 
@@ -627,7 +627,7 @@ So far, just 550 million?
 Yes.
 
 ### Jamie Tarabay:
-I want to ask something different. I cover cyber in Asia and you were just mentioning the DDoS attack. I understand from some of the researchers who I met last week at Black Hat, some of your Taiwanese colleagues, they were saying that there's been an uptick in Chinese APT ransomware attacks. But weirdly, they're not asking for money. Is that something that you have seen? 
+I want to ask something different. I cover cyber in Asia and you were just mentioning the DDoS attack. I understand from some of the researchers who I met last week at Black Hat, some of your Taiwanese colleagues, they were saying that there's been an uptick in Chinese APT ransomware attacks. But weirdly, they're not asking for money. Is that something that you have seen?
 
 ### Audrey Tang:
 What they're asking for?
@@ -640,7 +640,7 @@ Not so apparently on the Chinese APT side. And so apparently, the healthcare sec
 ### Audrey Tang:
 We did see disruption of service being one of the main end goals for such operations. I mentioned last August the DDoS. The DDoS at the time was not DDoS for DDoS sake, but it's a very coordinated DDoS that times its attempts with the hate message you see on the advertisement billboard outside of the Taiwan Rail Station, for example, or convenience stores. Maybe you remember that.
 
-And so, the idea was they do a kind of posting a hate speech or visuals somewhere, and then the information manipulators will spread the scare message. For example, like Taiwan Rail Station has been taken over or the president's office has been taken over or whatever. And then the correspondents like you try to check the official website and find you cannot connect to it or it's very, very slow to respond. And so, the clarifications, the fact check and so on are delayed, whereas the information manipulation gets viral. 
+And so, the idea was they do a kind of posting a hate speech or visuals somewhere, and then the information manipulators will spread the scare message. For example, like Taiwan Rail Station has been taken over or the president's office has been taken over or whatever. And then the correspondents like you try to check the official website and find you cannot connect to it or it's very, very slow to respond. And so, the clarifications, the fact check and so on are delayed, whereas the information manipulation gets viral.
 
 So, the foreign information manipulation and interference part, the FIMI part and APT part, the cyber-attack part, used to be uncoordinated. Like this part, as you said, maybe for a financial incentive or some other incentive, and this part more like, I don't know, election meddling or whatever.
 
@@ -664,13 +664,13 @@ Battle-tested.
 Yeah, exactly. When you sort of look at it, though, I mean, I guess this is more a question for the cyber authority or something. But like the preponderance of attacks and things that you have to encounter. How would you sort of rate the cyber resiliency of Taiwanese institutions and sort of corporations?
 
 ### Audrey Tang:
-So, I think in terms of digital resilience for all, which is our ministry's mission, you can objectively see that even at the height of FIMI and cyber-attack last August, the stock market does not crash, and people generally see through the FIMI, right, the disinformation. 
+So, I think in terms of digital resilience for all, which is our ministry's mission, you can objectively see that even at the height of FIMI and cyber-attack last August, the stock market does not crash, and people generally see through the FIMI, right, the disinformation.
 
-And I even publicly said to the press at the time that because we use Web3 technology, our ministry's website, which went online the same hour as the missile started firing, never suffered even one second of downtime. And when I said that, it serves a pedagogical purpose, basically telling people that keeping a line busy is not the same as taking over an office. And after that went to the press, we got a lot of free testing. 
+And I even publicly said to the press at the time that because we use Web3 technology, our ministry's website, which went online the same hour as the missile started firing, never suffered even one second of downtime. And when I said that, it serves a pedagogical purpose, basically telling people that keeping a line busy is not the same as taking over an office. And after that went to the press, we got a lot of free testing.
 
 > (laughter)
 
-So, okay. But then we didn't suffer a second of downtime. And this year, there were also cyber-attacks on the core infrastructure and so on during the president's visit to the US. 
+So, okay. But then we didn't suffer a second of downtime. And this year, there were also cyber-attacks on the core infrastructure and so on during the president's visit to the US.
 
 However, again, the stock market did not crash. And most of the playbooks, the adversaries I used last August fizzled because we've had pretty good defense for all of them now. Right. So, I would say that...
 
@@ -678,7 +678,7 @@ However, again, the stock market did not crash. And most of the playbooks, the a
 Did we see 23 times the tech as well.
 
 ### Audrey Tang:
-So, I can neither confirm or deny that. 
+So, I can neither confirm or deny that.
 
 > (laughter)
 
@@ -718,18 +718,18 @@ Conversation.
 ### Audrey Tang:
 Yes. Well, Gollum did suffer from an earthquake in the movie and in the books. A volcano actually. Anyways, so, my point being, we know the capability is there, but this year is different in two ways.
 
-First, any good enough laptop can run what used to take a server render farm to run. So, this laptop, I can run entirely offline a language model that's as good, even better, than GPT 3.5. And so, I don't need an open AI internet connection to fully simulate interaction with me. 
+First, any good enough laptop can run what used to take a server render farm to run. So, this laptop, I can run entirely offline a language model that's as good, even better, than GPT 3.5. And so, I don't need an open AI internet connection to fully simulate interaction with me.
 
-And it also can run voice cloning and face cloning in real time with non-perceptible latency. That's to say less than half a second. So, if you video conference with my digital devil, it could be entirely automated. And you will not be able to tell the difference. And that was already possible for the most powerful actors. 
+And it also can run voice cloning and face cloning in real time with non-perceptible latency. That's to say less than half a second. So, if you video conference with my digital devil, it could be entirely automated. And you will not be able to tell the difference. And that was already possible for the most powerful actors.
 
 But this year, the algorithm is powerful enough so that any laptop that's good enough can run it. So, interactive deepfakes is going to be a thing.
 
-What's used to take creativity and what is cybersecurity, we will go social engineering, phishing attacks, spare phishing attacks, and so on, cannot be done on a mass scale, yet completely individualized. 
+What's used to take creativity and what is cybersecurity, we will go social engineering, phishing attacks, spare phishing attacks, and so on, cannot be done on a mass scale, yet completely individualized.
 
 Previously, FIMI relies on viral spread but it's also self-limiting in a sense because it's the same message, just slightly mutated, and people develop antibody to it. But this time around, it's the same scale, however, completely individualized, and that's going to be a very different attack vector.
 
 ### Jamie Tarabay:
-What do you make of it? In the US, they're having a completely different conversation. They want to slow AI down. They want people to be very careful about it. And when I was in the States recently, and I said, I promise you, Beijing is not having this conversation about slowing down AI. 
+What do you make of it? In the US, they're having a completely different conversation. They want to slow AI down. They want people to be very careful about it. And when I was in the States recently, and I said, I promise you, Beijing is not having this conversation about slowing down AI.
 
 What's you’re feeling on like… I don't want to use this, but I've heard it so much recently, the AI arms race. The idea that the voice capability is there, the video capability is there. One side of the world is like, we should slow down and be careful. And the other side of the world is like, we have an election coming up.
 
@@ -746,25 +746,25 @@ Yeah, that's a great question. It's in fact a question of the century.
 Wow. Guys, did you hear I asked the question of the century? Okay, you got that on video? Excellent! I’m so happy.
 
 ### Audrey Tang:
-The answers to that collectively is going to determine a lot of the courses of the century. But just to set the ground, the current generation of language models, they basically create plausible sounding continuations of text, so it's not great if you want to use it for fact checking. 
+The answers to that collectively is going to determine a lot of the courses of the century. But just to set the ground, the current generation of language models, they basically create plausible sounding continuations of text, so it's not great if you want to use it for fact checking.
 
 It's not great for that. However, if you're going to use it for scamming, for the con art, and so on, it's perfect because it creates fake intimacy, fake trustworthiness, and so on. So, by the very nature of the newer generation of language models, it's going to empower the people who are in it for criminal purposes more than the journalists who want to use it for fact checking, just because of the nature of the technology. So, it's already asymmetrical from the get go.
 
-And I think Dr. Hinton made a point in that there's a lot of investment in even increasing the capability of synthesizing human speech and human interaction. But an investment toward the safety part of the equation of how to steer it so that it fits the societal norms and can tell between norm-breaking and non-norm-breaking behavior. 
+And I think Dr. Hinton made a point in that there's a lot of investment in even increasing the capability of synthesizing human speech and human interaction. But an investment toward the safety part of the equation of how to steer it so that it fits the societal norms and can tell between norm-breaking and non-norm-breaking behavior.
 
 It's dwarfed by comparison, by the capacity investment. Ideally, in new technology, you want these two to be balanced for transformative technology at least. But at the moment, because there is an arms race competitively in the capitalist dynamic, this part receives a huge amount of investment, whereas the safety and alignment part receive a very low amount of investment. And that is not the best course for history.
 
-So, I noticed in the hearing just yesterday, many people pointed out this fact. And so, the question now is whether we empower each and every one with this kind of laptop to participate in safety research, to collaboratively develop the way to align such language models. Or do we basically increase the safety research capability by democratizing it? Or do we slow things down by six months or something? Like slow the capability arm down. 
+So, I noticed in the hearing just yesterday, many people pointed out this fact. And so, the question now is whether we empower each and every one with this kind of laptop to participate in safety research, to collaboratively develop the way to align such language models. Or do we basically increase the safety research capability by democratizing it? Or do we slow things down by six months or something? Like slow the capability arm down.
 
-So, in my opinion, it's high time to democratize the safety research. And the nature of this model does have one thing to work in our favor, which is if you want to run an internet-scale search engine that rivals Google at home, it's not possible. It requires a lot of hard disk and CPU and things like that. 
+So, in my opinion, it's high time to democratize the safety research. And the nature of this model does have one thing to work in our favor, which is if you want to run an internet-scale search engine that rivals Google at home, it's not possible. It requires a lot of hard disk and CPU and things like that.
 
-But the even most advanced language models fit on a USB stick, so anyone with just a couple dozen gigabytes of hard disk can run a full-size language model. The whole internet is compressed is very, very small. So, that means that anyone with a personal computer with some GPU cards and so on can participate in alignment and safety research. 
+But the even most advanced language models fit on a USB stick, so anyone with just a couple dozen gigabytes of hard disk can run a full-size language model. The whole internet is compressed is very, very small. So, that means that anyone with a personal computer with some GPU cards and so on can participate in alignment and safety research.
 
-What we need is a way for the society to agree on how those language models should behave, and for those agreements to be directly applied to the language models so that they behave in such a way. 
+What we need is a way for the society to agree on how those language models should behave, and for those agreements to be directly applied to the language models so that they behave in such a way.
 
 There's a lot of research in this regard, like reinforcement learning by human feedback.
 
-Except the human for open AI used to be people from Kenya and so on, that helps aligning it. But now there are new techniques like constitutional AI that if you have a clear set of constitutional principles, it automatically aligns the AI to that principle. 
+Except the human for open AI used to be people from Kenya and so on, that helps aligning it. But now there are new techniques like constitutional AI that if you have a clear set of constitutional principles, it automatically aligns the AI to that principle.
 
 So, I think if the society can improve coordination, to produce very quickly this kind of principles and apply it to AI, then we have a real possibility of doing the defense in a democratic way. And I think that's the way forward.
 
@@ -777,7 +777,7 @@ Sorry, I just want to go back very quickly. What's the two things that you think
 ### Audrey Tang:
 So, the language model is going to empower two things. One is interactive deepfakes. So, voice and video cloning that are very convincing and that can interact with you instead of being canned or pre-cooked. That's one.
 
-And the second, shift in behavior from a broadcast-oriented viral FIMI attack to highly individualized messages. So, these may not be interactive deepfakes, these may just be emails and so on. But the point is that it's going to be very inexpensive to operate an individualized email campaign to tens of thousands of people and each one catering to just that person. 
+And the second, shift in behavior from a broadcast-oriented viral FIMI attack to highly individualized messages. So, these may not be interactive deepfakes, these may just be emails and so on. But the point is that it's going to be very inexpensive to operate an individualized email campaign to tens of thousands of people and each one catering to just that person.
 
 But these two, of course, may be working together, right? So, the email invites you on a video call with me and the synthetic me started to convince them to do some other things.
 
@@ -797,15 +797,15 @@ We already see in the terms of scams; the voice cloning scams are very rampant. 
 Are there any effective ways to counteract those?
 
 ### Audrey Tang:
-In terms of ABC, Actor Behavior Content, it means that it's no longer feasible to tell a fake from real by content alone, because the content is even more real than real. That's what virtual means, actually. 
+In terms of ABC, Actor Behavior Content, it means that it's no longer feasible to tell a fake from real by content alone, because the content is even more real than real. That's what virtual means, actually.
 
 And then, the behavior part may have some clues. For example, Twitter recently basically says that if you pay up and then use the financial institutions to do KYC, then this behavior is going to be more trustworthy than people who are not going to pay to get a blue tick. So that's maybe possible.
 
-But I think we can learn from the actor model from the Web3 community because even before we had all this generative AI stuff, the Web3 community is already saturated in scams. It's a maximally scamming place. If you lose your wallet, some money, you're not going to get it back often. 
+But I think we can learn from the actor model from the Web3 community because even before we had all this generative AI stuff, the Web3 community is already saturated in scams. It's a maximally scamming place. If you lose your wallet, some money, you're not going to get it back often.
 
-So, they evolved a set of norms of a strong reliance on digital signatures, on mutually verifiable credentials. Essentially the norm is if you don't see the entire message, behavior and content digitally signed and notarized in a public way, then you assume it's fake. So, it flips the default. 
+So, they evolved a set of norms of a strong reliance on digital signatures, on mutually verifiable credentials. Essentially the norm is if you don't see the entire message, behavior and content digitally signed and notarized in a public way, then you assume it's fake. So, it flips the default.
 
-Whereas previously in online forums, we assumed the people we interact with are human until they exhibit bot-like behavior or content. Now, we probably have to shift to a different norm in that it's assumed to be a bot unless it's signed in a convincing way. 
+Whereas previously in online forums, we assumed the people we interact with are human until they exhibit bot-like behavior or content. Now, we probably have to shift to a different norm in that it's assumed to be a bot unless it's signed in a convincing way.
 
 But then that, if implemented incorrectly, will take away pseudonymity on the Internet and that will create a lot of repercussions on civil liberty. So, we're working on a set of research called Zero Knowledge, meaning that you're going to be able to prove you're a citizen or you're 18 years old and so on without disclosing any information about you. That's probably what's going to be needed in the new norm going forward.
 
@@ -825,11 +825,11 @@ That's just the beginning.
 So, tell us the worst-case scenario that you're preparing.
 
 ### Audrey Tang:
-The worst-case scenario is that any physical points of communication that's fixed in space and known will be destroyed. That's actually the assumption we're working with. So, not just the landing sites of the cables, but also the core network of the three major telecommunication providers, also the power supply to such and so on. 
+The worst-case scenario is that any physical points of communication that's fixed in space and known will be destroyed. That's actually the assumption we're working with. So, not just the landing sites of the cables, but also the core network of the three major telecommunication providers, also the power supply to such and so on.
 
-Because all these locations are not secret and we can safely assume Shannon's maxim: "the enemy knows the system." Basically, all of these is public information, so we can assume that they're going to be disrupted, jammed or destroyed in a huge earthquake. 
+Because all these locations are not secret and we can safely assume Shannon's maxim: "the enemy knows the system." Basically, all of these is public information, so we can assume that they're going to be disrupted, jammed or destroyed in a huge earthquake.
 
-And so, for the communication internally to nevertheless still work and for the international correspondence to nevertheless still have the way to reach to the global audience. Because otherwise, the deepfaked FIMI are going to win the day. 
+And so, for the communication internally to nevertheless still work and for the international correspondence to nevertheless still have the way to reach to the global audience. Because otherwise, the deepfaked FIMI are going to win the day.
 
 We are going to see a lot of live reports from Taiwan that are completely synthetic. So, for the international correspondence to still communicate to the world and for the domestic coordination to still function, even when all the physical known places are destroyed. That is what we're preparing ourselves for by the end of next year.
 
@@ -857,7 +857,7 @@ By working with the public cloud providers that are domestic in Taiwan and physi
 So, like Google.
 
 ### Audrey Tang:
-Like Google, but also Microsoft, Amazon and so on, right? Cloudflare and so on. So, this is the local part. This is the international communication part. This is the local communication part. And also, our software systems, services, and platforms need to also work, regardless of which data centers they are in. 
+Like Google, but also Microsoft, Amazon and so on, right? Cloudflare and so on. So, this is the local part. This is the international communication part. This is the local communication part. And also, our software systems, services, and platforms need to also work, regardless of which data centers they are in.
 
 They need to be portable, because if they're tied to one specific data center, one specific set of computers, and the location is known, then we can safely assume it's going to be destroyed.
 
@@ -886,7 +886,7 @@ So many more questions.
 How much have we completed that already or how much are we going to do that for the data backup system?
 
 ### Audrey Tang:
-Yeah, so we've done quite a lot, at least for our ministry and the two administrations. We're pretty ready for such a scenario. On the other hand, to coordinate is not just our ministry. 
+Yeah, so we've done quite a lot, at least for our ministry and the two administrations. We're pretty ready for such a scenario. On the other hand, to coordinate is not just our ministry.
 
 So, we need to work, as I mentioned, with all the ministries and agencies that hold similar-sized services that has the personal data of everyone, 23 million people.
 
@@ -914,7 +914,7 @@ Well, it's not going to be perfect. We're going to add even more providers as ti
 Even satellite providers?
 
 ### Audrey Tang:
-Yes. And local cloud providers and service providers online. All of these are going to increase in number, especially LEO is going to increase in number over the next few years. So, I think many of our plans are actually multi-year, so like three years, four years, and so on. 
+Yes. And local cloud providers and service providers online. All of these are going to increase in number, especially LEO is going to increase in number over the next few years. So, I think many of our plans are actually multi-year, so like three years, four years, and so on.
 
 By the end of next year, that's like the minimally viable configuration, but we're not going to be satisfied on that. And we're going to do, for example, expand on disaster roaming, making sure that people who work on disaster relief can receive communication from any telecom provider, regardless of the SIM card they're in, and so on.
 
@@ -1064,7 +1064,7 @@ But…
 But for LEO?
 
 ### Jamie Tarabay:
-Yeah, for LEO. 
+Yeah, for LEO.
 
 ### Audrey Tang:
 But possibly all our minimally viable needs are going to be met by MEO…
@@ -1115,11 +1115,11 @@ Yeah, well in 2014 was also pretty historic, but it was during the Ma Ying-jeou 
 Okay. What was your position at that time?
 
 ### Audrey Tang:
-I was a reverse mentor, a young mentor to the cabinet. So, I run at that time, the vTaiwan project, working closely with Minister Jaclyn Tsai, the minister was a portfolio in charge of cyber law. And we went into the cabinet because earlier that year was the Sunflower movement and we physically occupied the parliament. And it was a Matsu-like situation actually. 
+I was a reverse mentor, a young mentor to the cabinet. So, I run at that time, the vTaiwan project, working closely with Minister Jaclyn Tsai, the minister was a portfolio in charge of cyber law. And we went into the cabinet because earlier that year was the Sunflower movement and we physically occupied the parliament. And it was a Matsu-like situation actually.
 
 Me and the g0v friends helped with providing broadband communication to a place that was denying external communication, so that they can do video conferencing and live streaming so people know what's actually going on in the occupied parliament and that this information does not run rampant.
 
-In a sense, it's a microcosm of many things. And after the successful occupy, we, the civic tech people, were invited by the then-new, as of end of 2014, Premier Mao Chi-kuo, because he said that open government is going to be the new approach. 
+In a sense, it's a microcosm of many things. And after the successful occupy, we, the civic tech people, were invited by the then-new, as of end of 2014, Premier Mao Chi-kuo, because he said that open government is going to be the new approach.
 
 They understand that the trust in governmental institutions that year was below 10%. So, like anything the core public service says, the people don't believe. And to win back the trust, they need radical transparency, they need open government and so on. So, we were in the cabinet, but to work as a bridge to rebuild the trust, so to speak.
 
@@ -1139,7 +1139,7 @@ With an approval rating of 9%, that meant 90% of the people simply did not belie
 Wow.
 
 ### Audrey Tang:
-So, there was, of course, adversity and polarization and so on. And a lot of our work is to ensure a social media that is pro-social rather than anti-social, rather than amplifying just the extremes. 
+So, there was, of course, adversity and polarization and so on. And a lot of our work is to ensure a social media that is pro-social rather than anti-social, rather than amplifying just the extremes.
 
 We want to amplify the bipartisanship, amplify the bridge-making narratives, so I've never campaigned with or for any political parties. I still remain non-partisan or all-partisan in the sense that I work with all the political parties to build such bridging narratives.
 
@@ -1153,13 +1153,13 @@ Yes.
 Since then, you have really sort of... Tell me a little bit about what... Describe that journey to me a little.
 
 ### Audrey Tang:
-Okay. So, 2014-15, I was a reverse mentor, almost an intern, right, in terms of how government works. A trusted advisor but not of an office, right, not running an office. 
+Okay. So, 2014-15, I was a reverse mentor, almost an intern, right, in terms of how government works. A trusted advisor but not of an office, right, not running an office.
 
-And in 2016, after Dr. Tsai Ing-wen won the election, there was this checkpoint handoff where a non-partisan... Well, he has a party now, but back then he had no party. Simon Zhang, Chang San-cheng, handed off to an equally non-partisan Lin Chuan in a public way. 
+And in 2016, after Dr. Tsai Ing-wen won the election, there was this checkpoint handoff where a non-partisan... Well, he has a party now, but back then he had no party. Simon Zhang, Chang San-cheng, handed off to an equally non-partisan Lin Chuan in a public way.
 
-So, the outgoing government published checkpoint documents to the Internet. So, I didn't know I would be part of the next cabinet, but I read them anyway. And then Lin Chuan asked me to find essentially a successor to Jaclyn Tsai in the same physical office, also running cyber regulation stuff. And I asked my friends, and none of them want to work in the government. I don't know why. So, I'm like, okay, maybe I'll give it a try. 
+So, the outgoing government published checkpoint documents to the Internet. So, I didn't know I would be part of the next cabinet, but I read them anyway. And then Lin Chuan asked me to find essentially a successor to Jaclyn Tsai in the same physical office, also running cyber regulation stuff. And I asked my friends, and none of them want to work in the government. I don't know why. So, I'm like, okay, maybe I'll give it a try.
 
-And so, at that time I chose three principles. Radical transparency, meaning that lobbyists' and journalists' visits are going to be published. The voluntary association, meaning that I work with all the ministries, but only if they want to work with me. I'm not coercing them to do anything. So, it's an alliance with the core public service, essentially. 
+And so, at that time I chose three principles. Radical transparency, meaning that lobbyists' and journalists' visits are going to be published. The voluntary association, meaning that I work with all the ministries, but only if they want to work with me. I'm not coercing them to do anything. So, it's an alliance with the core public service, essentially.
 
 And then location independence, meaning that I get to tour around Taiwan. And that was before the pandemic, tour around the world as well, but still count as working. So, I have a completely cloud-based workspace. And Lin Chuan agreed on those three principles. And so, I become essentially an intern promoted to full-time on the same office I used to work in, in Jaclyn Tsai's office.
 
@@ -1191,15 +1191,15 @@ It was just me because of the second clause, voluntary association. I'm not goin
 So, you basically said, if you come and talk to me, I'm going to tell everyone about it.
 
 ### Audrey Tang:
-Exactly, yes. And also, equally important, the people talking to me, usually, they always actually make pro-social, pro-future arguments. Because if it's not radically transparent, many lobbyists make proposals that are good for them and maybe for me, but not for anyone else, right? 
+Exactly, yes. And also, equally important, the people talking to me, usually, they always actually make pro-social, pro-future arguments. Because if it's not radically transparent, many lobbyists make proposals that are good for them and maybe for me, but not for anyone else, right?
 
 But with radical transparency, I've never had a single such instance. And I don't “ying chou”, right? I don't attend dinner parties. So, there's literally no way other than this pro-social radical transparency.
 
 ### Jamie Tarabay:
-Did you have a lot of visitors from lobbyists in the beginning? 
+Did you have a lot of visitors from lobbyists in the beginning?
 
 ### Audrey Tang:
-Yeah. 
+Yeah.
 
 ### Jamie Tarabay:
 They still came to see you even if they were going to be videotaped and recorded.
@@ -1211,7 +1211,7 @@ Videotaped, yes definitely. And I used to, when I was in the previous position, 
 Right.
 
 ### Cindy Wang:
-Yeah. 
+Yeah.
 
 > (laughter)
 
@@ -1252,9 +1252,9 @@ Yes.
 Are you happy with the progress that you feel that institutions have made?
 
 ### Audrey Tang:
-Yes, the progress, the participation and the safety that is a result of it. Before the pandemic, honestly speaking, only a small fraction of people in the world knows the kind of work we're doing here in Taiwan. 
+Yes, the progress, the participation and the safety that is a result of it. Before the pandemic, honestly speaking, only a small fraction of people in the world knows the kind of work we're doing here in Taiwan.
 
-But because of the pandemic and the so-called Taiwan model of democratized pandemic response, the same kind of democratized AI response I just described, right, that empowers the agency of each and every citizen without a need for top-down lockdowns, then we counter not just the pandemic but also the infodemic. 
+But because of the pandemic and the so-called Taiwan model of democratized pandemic response, the same kind of democratized AI response I just described, right, that empowers the agency of each and every citizen without a need for top-down lockdowns, then we counter not just the pandemic but also the infodemic.
 
 And that is quite rare. Like we don't have an anti-vax political faction. Like everyone wear their mask and wash their hands without feeling that they're forced to. I think that propelled this model of co-creation to international stage.
 
@@ -1284,15 +1284,15 @@ No, in the HR form when I entered the cabinet full-time in 2016, I wrote none on
 But what was that like for you, that journey, the personal journey through?
 
 ### Audrey Tang:
-I think a lot of this when in 2016 we saw the previous wave of AI, the social media recommendation feed algorithm, that was like the most difficult challenge that I personally tackled when I first entered the cabinet. 
+I think a lot of this when in 2016 we saw the previous wave of AI, the social media recommendation feed algorithm, that was like the most difficult challenge that I personally tackled when I first entered the cabinet.
 
-There was a lot of push on one side for the state control on the large social media so that they don't do extremism, polarization, addiction, surveillance capitalism, what have you. On the other hand, there's a lot of push to say that Taiwan's identity is civil liberty. 
+There was a lot of push on one side for the state control on the large social media so that they don't do extremism, polarization, addiction, surveillance capitalism, what have you. On the other hand, there's a lot of push to say that Taiwan's identity is civil liberty.
 
-So, if we start taking down random things, we go the way of the PRC because PRC at the same time publicly said that they're not tolerating civil society, even the worst civil society, on social media. So, they ended up spending more than their military budget on harmonizing the social media. 
+So, if we start taking down random things, we go the way of the PRC because PRC at the same time publicly said that they're not tolerating civil society, even the worst civil society, on social media. So, they ended up spending more than their military budget on harmonizing the social media.
 
 And so, it's like they adopted a zero COVID approach when it comes to the retweet and share buttons. And so, because Xi Jinping at the time was so clear about it, which is markedly different from the PRC in 2013 or before, right, so people in Taiwan said that even inching toward that direction is not accessible, is not acceptable. But on the other hand, the polarization, the addiction, the extremism is very real.
 
-So that I think is the defining struggle for my work starting late 2016 until say 2020 when the pandemic started. 
+So that I think is the defining struggle for my work starting late 2016 until say 2020 when the pandemic started.
 
 ### Jamie Tarabay:
 But you didn't have like, I'm asking because a lot of the challenges that you're dealing with here, they're so… I don't want to say toxic, but they're so visceral in the US right now with the gender politics. Like there's a Montana lawmaker who's transgender who isn’t allowed into the legislative council to speak.
@@ -1312,9 +1312,9 @@ Because you lived in the States.
 ### Audrey Tang:
 I did. I think there's two things going on, right? First, in Taiwan, I've never been discriminated against since 2016 because of gender. Some age or partisanship, actually more than gender. And I think that's, the first thing is because this is not a partisan issue in Taiwan, unlike in the US.
 
-It used to be that marriage equality was somewhat a partisan issue, but because it's resolved in a constitutional court way, right? So, it's not… And after the two referenda, we settled on a bridging narrative that says two individuals of the same biological sex who want to formally get married, to wed, but not to not form an extended family. 
+It used to be that marriage equality was somewhat a partisan issue, but because it's resolved in a constitutional court way, right? So, it's not… And after the two referenda, we settled on a bridging narrative that says two individuals of the same biological sex who want to formally get married, to wed, but not to not form an extended family.
 
-And so, this is very nuanced. It has Taiwanese characteristics, which is learning from the 20 or so national languages and the different… because we have a matriarchy in Amis, the Taiwan nation doesn't care about gender when choosing successors, and Dr. Tsai Ing-wen is at least partly Pai Wan, I heard, and so on. 
+And so, this is very nuanced. It has Taiwanese characteristics, which is learning from the 20 or so national languages and the different… because we have a matriarchy in Amis, the Taiwan nation doesn't care about gender when choosing successors, and Dr. Tsai Ing-wen is at least partly Pai Wan, I heard, and so on.
 
 So, we have many traditions, and when you work to collaborate across the diversity, then you always find those very nuanced, eclectic solutions that says, get married but not form an extended family, and people are generally happy with that.
 
@@ -1324,13 +1324,13 @@ So, I think this democratic process of seeing democracy not as a showdown betwee
 What advice would you give for this Montana lawmaker?
 
 ### Audrey Tang:
-So, I am actually writing a blog at plurality.net, on cooperating across diversity. And I think the plurality is not just a communication resilience, but rather an ideological resilience thing. If one can reliably take all the sides and see people's actual fears, uncertainty, and doubts, then you are going to land on truly creative solutions. 
+So, I am actually writing a blog at plurality.net, on cooperating across diversity. And I think the plurality is not just a communication resilience, but rather an ideological resilience thing. If one can reliably take all the sides and see people's actual fears, uncertainty, and doubts, then you are going to land on truly creative solutions.
 
-Like when I first got the social innovation job and set up the Office Hours every Wednesday at the previous Air Force Headquarters, now it is the Contemporary Culture Lab. There was a redesign because it was an Air Force quarter, and everything needs redesigning. 
+Like when I first got the social innovation job and set up the Office Hours every Wednesday at the previous Air Force Headquarters, now it is the Contemporary Culture Lab. There was a redesign because it was an Air Force quarter, and everything needs redesigning.
 
 And we intentionally designed the underground floor very accessible, the bathrooms for people who identify as women, as men, as gender-non-specific, including all genders, and accessible, like with wheelchairs, and very prominent with equal sizes, so that everyone can be comfortable with whichever choices they need. And if we need to repair when there is always a big mess somewhere, it is also very resilient.
 
-Anyway, but then that is not like saying that there is only binary, and the binary choice needs to be done at a personal agency level, at a state level, at a federal level, and so on. This is more like let's settle on something that we can all live with, just like the wed but not extended family, or marriage but not kinship situation that we agreed on. 
+Anyway, but then that is not like saying that there is only binary, and the binary choice needs to be done at a personal agency level, at a state level, at a federal level, and so on. This is more like let's settle on something that we can all live with, just like the wed but not extended family, or marriage but not kinship situation that we agreed on.
 
 So, yeah, I am not saying that the solution is the right solution for the U.S. or for Montana, but this process that involves everyone settling on something, we can all live with, is very important.
 
@@ -1416,7 +1416,7 @@ I was working with GIS systems a few years back and we used a US earthquake risk
 It is a nightmare, right? It is crazy.
 
 ### Audrey Tang:
-So that system is not useful because it doesn't tell us the degree of which this place is riskier than the other. Because from US perspective, every place is maximum. 
+So that system is not useful because it doesn't tell us the degree of which this place is riskier than the other. Because from US perspective, every place is maximum.
 
 ### Cindy Wang:
 It is crazy.
@@ -1430,9 +1430,9 @@ I mean it is really hard to lay them out anywhere. Are you...
 So, you really think that earthquakes are just like the cyber-attack from China?
 
 ### Audrey Tang:
-It is a very apt analogy because earthquake is not going to give you a lot of warnings either. They are not like typhoons, but if you work on zero trust architecture, just like in earthquake, we deploy the detection machines as close to the actual centers as possible, then you do get actually a few seconds’ notice. 
+It is a very apt analogy because earthquake is not going to give you a lot of warnings either. They are not like typhoons, but if you work on zero trust architecture, just like in earthquake, we deploy the detection machines as close to the actual centers as possible, then you do get actually a few seconds’ notice.
 
-And after that, maybe half a minute's notice at most. For cyber-attack, that is exactly the same. But during those few precious seconds, for earthquake, if you can stop the elevator, then that prevents a lot of damage. 
+And after that, maybe half a minute's notice at most. For cyber-attack, that is exactly the same. But during those few precious seconds, for earthquake, if you can stop the elevator, then that prevents a lot of damage.
 
 And for cyber-attacks, if you can switch to a different defense posture, then the attacker doesn't gain anything and you learn a new zero-day exploit. And then you... This is called defense in depth. So, advanced warnings, threat intelligence to cyber-attack is like those seismic detectors for earthquakes.
 

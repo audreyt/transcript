@@ -44,8 +44,8 @@ Now for the second part of my questions: Who are the main actors shaping today�
 
 I see *three live traditions*:
 
-1. *Utilitarian / existential risk and benefit.* Strong in Silicon Valley and Oxford‑adjacent work — *Nick Bostrom*, *Toby Ord*, *Anders Sandberg*, and others — framing *x‑risk* and *long‑term benefits* (e.g., *Superintelligence*, *The Precipice*).  
-2. *Rights and justice (deontic).* Emphasizing rights, fairness and non‑discrimination — such as Oxford AFP fellows *Joy Buolamwini* (Algorithmic Justice League), *Alondra Nelson* (White House *AI Bill of Rights* effort), *Yuval Shany*, *Cass Sunstein* and others — arguing AI shouldn’t be exempt from rights‑based obligations.  
+1. *Utilitarian / existential risk and benefit.* Strong in Silicon Valley and Oxford‑adjacent work — *Nick Bostrom*, *Toby Ord*, *Anders Sandberg*, and others — framing *x‑risk* and *long‑term benefits* (e.g., *Superintelligence*, *The Precipice*).
+2. *Rights and justice (deontic).* Emphasizing rights, fairness and non‑discrimination — such as Oxford AFP fellows *Joy Buolamwini* (Algorithmic Justice League), *Alondra Nelson* (White House *AI Bill of Rights* effort), *Yuval Shany*, *Cass Sunstein* and others — arguing AI shouldn’t be exempt from rights‑based obligations.
 3. *Open innovation.* Smaller but important: *decentralization* and *power‑diffusion* as virtues in themselves. This tradition resists over‑concentration even when it is justified by safety or speed, in order to preserve *democratic steering capacity*.
 
 I am presently working in Oxford’s *Ethics in AI Institute* (distinct from the *Future of Humanity Institute*) as an AFP fellow and continue conversations across these communities.
@@ -184,7 +184,7 @@ Some argue for stopping AI entirely—risks can’t be handled. What do you thin
 
 ### Audrey Tang:
 
-Even the strongest critics — e.g., *Eliezer Yudkowsky* and colleagues at *MIRI* — call for *more* work in *mechanistic interpretability*, *corrigibility* and *explainability*. The issue is the *gap*: *an order of magnitude* more resources go to capabilities than to safety. 
+Even the strongest critics — e.g., *Eliezer Yudkowsky* and colleagues at *MIRI* — call for *more* work in *mechanistic interpretability*, *corrigibility* and *explainability*. The issue is the *gap*: *an order of magnitude* more resources go to capabilities than to safety.
 
 To remedy this, I support *Public AI*: a *ICANN‑like* network producing *permanent public safety goods*, *publicly accessible and accountable* (not necessarily state‑owned). Regulators can require frontier labs to *co‑invest* and *interoperate* — similar to how telecoms co‑invested in shared *5G* infrastructure. It is not “stop everything”; it is *match safety to capability growth* and *build the commons*.
 

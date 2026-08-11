@@ -1,7 +1,7 @@
 # 2023-05-22 Meeting with Paul Wilson, George Kuo, Kenny Huang
 
 ### Paul Wilson:
-So, this bag came from one of the APNIC conferences, from APRICOT, and we have two of those conferences every year. We've got the next one coming up in Kyoto in September. 
+So, this bag came from one of the APNIC conferences, from APRICOT, and we have two of those conferences every year. We've got the next one coming up in Kyoto in September.
 
 I don't know if you can join us, but it's actually our 30th birthday for APNIC, celebrating in Japan, which is quite appropriate because APNIC started in Japan. Of course, Professor Jun Murai is one of the founders, you know him well, I think. So, as one of the founders, he'll be there and we'll have all sorts of ceremonial celebrations for 30 years.
 
@@ -103,7 +103,7 @@ I think our colleagues have briefed me well, so if there's some new developments
 ### Paul Wilson:
 There are some, yeah. So, it all goes back to APNIC's original reason for being, which was not just to be the RIR for the region, but to do that for the sake of internet development in Asia Pacific.
 
-So, we've always had that internet development mission as part of what we do, and you may be aware that it was about five years ago now that we established something called the APNIC Foundation, which is actually for fundraising, essentially, because all of the work that we did in training and conferences and technical assistance was previously all funded by members. 
+So, we've always had that internet development mission as part of what we do, and you may be aware that it was about five years ago now that we established something called the APNIC Foundation, which is actually for fundraising, essentially, because all of the work that we did in training and conferences and technical assistance was previously all funded by members.
 
 So, APNIC is fully member-funded, and the members generously provided support for those activities. But then, you know, the demand didn't get less, so we decided that in order to keep expanding, we'd form this foundation.
 
@@ -160,7 +160,7 @@ So, your ability to—I mean, I'm sure DNS is okay, but—
 ### Audrey Tang:
 And the other thing is— Yeah, the external facing submarine cables, currently, we suffer a lot of DNS, DNS service attacks. And we can easily imagine that any place that has a known location, a known physical location, will probably be jammed or disrupted by earthquakes when tensions escalate, either through cyber or physical means.
 
-So, we've been partnering with Cloudflare to make sure that the route of our DNS in the government services, GOV.TW, has redundancy in any case, both within and outside the jurisdiction. But we're still wondering if there's some new advances in research and development, specifically for this kind of situation where the only outgoing link is a few low-Earth and mid-Earth orbit satellites. 
+So, we've been partnering with Cloudflare to make sure that the route of our DNS in the government services, GOV.TW, has redundancy in any case, both within and outside the jurisdiction. But we're still wondering if there's some new advances in research and development, specifically for this kind of situation where the only outgoing link is a few low-Earth and mid-Earth orbit satellites.
 
 ### Paul Wilson:
 Much less than what you have…
@@ -205,9 +205,9 @@ Okay.
 So yeah, that's not the sort of soft end of the development spectrum. It's really very critical technical support for security.
 
 ### Audrey Tang:
-Yeah, and I think this is essential. The chief prosecutor in Taiwan this week is investigating a case where there were repeated email bomb threats, from someone in the PRC jurisdiction. Last year I did receive his threat too. 
+Yeah, and I think this is essential. The chief prosecutor in Taiwan this week is investigating a case where there were repeated email bomb threats, from someone in the PRC jurisdiction. Last year I did receive his threat too.
 
-Doubtless with language models, it will become more AI-powered in the future — That is to say the content, in terms of Actor-Behavior-Content, the content is going to be more convincing. 
+Doubtless with language models, it will become more AI-powered in the future — That is to say the content, in terms of Actor-Behavior-Content, the content is going to be more convincing.
 
 We've seen many jurisdictions facing this kind of DDoS of the mind, to resort to clamp down their internet, right? Geofencing, for example.
 
@@ -227,15 +227,15 @@ There would be no "inter" in internet if you go that route. It's like going back
 So, I'm very interested to learn more about MODA, actually. What's your scope and your role, particularly with respect to the internet and internet governance? Because I think it's an interesting model, and I'd like to understand if it is, to what extent it's similar to Japan and Singapore, and whether there are other governments in the region that are taking this kind of integrated, converged approach.
 
 ### Audrey Tang:
-Yeah, I think neither Japan nor Singapore have exactly the same mandate as MODA, because I was involved in mostly a discussion with Professor Jun Murai leading up to the digital agency. 
+Yeah, I think neither Japan nor Singapore have exactly the same mandate as MODA, because I was involved in mostly a discussion with Professor Jun Murai leading up to the digital agency.
 
 I think we're quite unique in that, so in the Ministry of Digital Affairs, there's of course the resource management, the spectrum allocation, the e-services, you know, the traditional digital stuff. But under the MODA, there are two administrations. One for digital industries, that's platform economy, like digitalization of the entire business sector and so on.
 
-So that in Japan, would be in METI, right? It would be in the economy affairs. But nowadays, anything related to digital transformation has been moved from our economy ministry to the administration for digital industries. 
+So that in Japan, would be in METI, right? It would be in the economy affairs. But nowadays, anything related to digital transformation has been moved from our economy ministry to the administration for digital industries.
 
 And we have another administration, the Administration for Cyber Security, that looks after the critical infrastructures and so on. And so, this is like a triangle with participation, progress and safety as the three different values. And these are fundamentally in tension, which is why in most other jurisdictions, there's no single minister that looks after all three values.
 
-We usually see three ministers, actually. And even in some of the newer designs, sometimes you have participation and safety, or participation and progress, but very rarely progress and safety in the same ministry. So, we're playing this very interesting role in making sure that all the industrial developments also double as cyber security awareness. We call it digital resilience for all. 
+We usually see three ministers, actually. And even in some of the newer designs, sometimes you have participation and safety, or participation and progress, but very rarely progress and safety in the same ministry. So, we're playing this very interesting role in making sure that all the industrial developments also double as cyber security awareness. We call it digital resilience for all.
 
 And we are also doing our safety work through public-private partnerships so that the state doesn't overstep its bounds. Because as you just mentioned, it's kind of easy to regress against the original internet ideals. So, the safety folks also need to understand that in the private sector, there are already pretty good multi-stakeholder solutions to most of the safety challenges. So, most of our work has been just to strike this balance.
 
@@ -251,9 +251,9 @@ When I visited, say, Lithuania and so on, they also pride themselves in not sacr
 OK I'm interested to read more, actually, about this. Are there some good reference points in English?
 
 ### Audrey Tang:
-Sure, sure, sure. We have a pretty functioning English website. And if you're interested in particular design choices they were making and so on, including this interview, right, we have many on our website. It's all published as a transcript. 
+Sure, sure, sure. We have a pretty functioning English website. And if you're interested in particular design choices they were making and so on, including this interview, right, we have many on our website. It's all published as a transcript.
 
-The most recent one being the co-founder of OpenAI talking with me about how to use a democratically designed deliberation online and offline to create robust rules to steer the AI. Because unlike pandemic or nuclear proliferation, language models are unique in that it actually obeys the collective intelligence if you can just present to it the right way. 
+The most recent one being the co-founder of OpenAI talking with me about how to use a democratically designed deliberation online and offline to create robust rules to steer the AI. Because unlike pandemic or nuclear proliferation, language models are unique in that it actually obeys the collective intelligence if you can just present to it the right way.
 
 And it also has the potential to help democracy instead of just creating bomb scares or disinformation at scale. So, there's such pro-social uses OpenAI is very interested in, so we're partnering with them on that.
 
@@ -298,10 +298,10 @@ The current APNIC office.
 ### Kenny Huang:
 Yeah.
 
-> (laughter) 
+> (laughter)
 
 ### Audrey Tang:
-Exactly. 
+Exactly.
 
 ### Kenny Huang:
 And we can also arrange to the new site to have a site visit.
@@ -315,7 +315,7 @@ The new site is just… nothing's happened yet.
 ### Audrey Tang:
 Oh. Nothing's happened yet.
 
-> (laughter) 
+> (laughter)
 
 ### Paul Wilson:
 Probably we don't need to take you there. We can show you on the map where…
@@ -324,7 +324,7 @@ Probably we don't need to take you there. We can show you on the map where…
 Ah, okay. I see. Anything from our vice minister? Any of our colleagues?
 
 ### Paul Wilson:
-I heard there's possibly a bid for APrIGF in Taiwan next year. 
+I heard there's possibly a bid for APrIGF in Taiwan next year.
 
 ### Audrey Tang:
 Yes. We've allocated sufficient budget for that.
@@ -336,7 +336,7 @@ Okay. Yeah. We'd like to, very much like to have an APNIC conference back in Tai
 2001 or 2002 or something.
 
 ### Paul Wilson:
-A long time ago we had a conference there which was much smaller, but these days we might have 800 people or so that come along to a conference like APRICOT. So, that's a big training and professional development and policy development activity. 
+A long time ago we had a conference there which was much smaller, but these days we might have 800 people or so that come along to a conference like APRICOT. So, that's a big training and professional development and policy development activity.
 
 It's really where internet governance happens in the APNIC community in a multi-stakeholder mode, so I'd very much like to come back in future.
 
@@ -363,7 +363,7 @@ There's a couple of interesting initiatives in India and Japan, which are linkin
 Yeah.
 
 ### Paul Wilson:
-If you'd ever like to support any fellows to come along to APNIC meetings, we also have a fellowship program where we might have 400 or 500 applications for people to receive some travel support for APNIC conferences. 
+If you'd ever like to support any fellows to come along to APNIC meetings, we also have a fellowship program where we might have 400 or 500 applications for people to receive some travel support for APNIC conferences.
 
 So, if you ever have any spare capacity that you'd like to allocate, it could be for Taiwanese fellows or it could be for fellows from other parts that you'd like to support, we could also accommodate that.
 
@@ -399,7 +399,7 @@ But unlike Singaporean one, we do not require approved salary or anything like t
 Interesting.
 
 ### Audrey Tang:
-But anything that can be found on internet that cannot be, you know, tampered with after the fact, we accept as proof of participation. So, and I think the old gold card criteria, it really only works if you are a kind of US-based person with that salary level. 
+But anything that can be found on internet that cannot be, you know, tampered with after the fact, we accept as proof of participation. So, and I think the old gold card criteria, it really only works if you are a kind of US-based person with that salary level.
 
 But in more developing nations, even though you're maybe equally capable and have the same years of professional experience, it's very difficult to match the salary threshold, which is why we dropped the hard requirements for the digital part of the gold card.
 
@@ -419,16 +419,16 @@ Yeah. So, yeah, it's one of the very few open-source residence visas.
 
 So, feel free to jointly promote.
 
-> (laughter) 
+> (laughter)
 
 ### Paul Wilson:
-I'd be happy to. Sure. Sure thing. Is there anything else? 
+I'd be happy to. Sure. Sure thing. Is there anything else?
 
 ### Kenny Huang:
 Anything going to update in terms of completion or in terms of…
 
 ### Paul Wilson:
-Well, I think we've been over that. But I suppose on the infrastructure side, I suppose that the Taiwan's participation in the academic networks is pretty clear. And I'm not sure if there might be an opportunity to have a connection into that network. 
+Well, I think we've been over that. But I suppose on the infrastructure side, I suppose that the Taiwan's participation in the academic networks is pretty clear. And I'm not sure if there might be an opportunity to have a connection into that network.
 
 ### Kenny Huang:
 As a participant on submarine cables?
@@ -452,18 +452,18 @@ Tomorrow lunchtime.
 Tomorrow lunchtime. Yeah. To discuss more in the details on how we can collaborate on Internet governance issues or participation.
 
 ### Audrey Tang:
-That’s awesome. Yeah. I, before joining the cabinet, was in one of the APrIGFs in Taiwan and where Kenny presented the work around communication resilience around the Legislative Yuan around March to April 2014. 
+That’s awesome. Yeah. I, before joining the cabinet, was in one of the APrIGFs in Taiwan and where Kenny presented the work around communication resilience around the Legislative Yuan around March to April 2014.
 
-And I must say that just like my early involvement in the IETF process and the W3C process really shaped my politics. We can continue to point to this vibrant policy development process and tell our legislators and our other ministers to basically not resort to violent means when it comes to Internet related issues. 
+And I must say that just like my early involvement in the IETF process and the W3C process really shaped my politics. We can continue to point to this vibrant policy development process and tell our legislators and our other ministers to basically not resort to violent means when it comes to Internet related issues.
 
-Right after this I'm going to the parliament and they're again going to ask me about those questions. Because the MODA, if there's one thing that MODA doesn't do, it's this top down, shut down thing. 
+Right after this I'm going to the parliament and they're again going to ask me about those questions. Because the MODA, if there's one thing that MODA doesn't do, it's this top down, shut down thing.
 
 This kind of power, when we designed the MODA, still relies on the independent body, the NCC, which is why it's not our purview. We must do all our efforts to make sure that the society, the Overton window, still squarely is in the Internet's original value side, the end-to-end principle side. Because of the very real threats of earthquakes, it's easy for people to slide into the more draconian side.
 
 But so far, I think NCC's been working well with us; we at MODA are working on ways to solve this on upstream, so to speak, instead of the downstream.
 
 ### Paul Wilson:
-Yeah. I'm really glad to hear it. I often say that this term Internet governance, the term, was a discovery back in the early WSIS days. But of course, the discovery was that Internet governance has existed and has been in place and in evolution since the beginning, and it's the reason for the success of the Internet. But after 20 years, maybe people are starting to think, well, Internet governance is an old topic and we can move on to AI and blockchain and God knows what. 
+Yeah. I'm really glad to hear it. I often say that this term Internet governance, the term, was a discovery back in the early WSIS days. But of course, the discovery was that Internet governance has existed and has been in place and in evolution since the beginning, and it's the reason for the success of the Internet. But after 20 years, maybe people are starting to think, well, Internet governance is an old topic and we can move on to AI and blockchain and God knows what.
 
 ### Audrey Tang:
 NFTs.
@@ -472,7 +472,7 @@ NFTs.
 It sounds to me like you're fully aware of and fully supportive of an ongoing Internet governance model and process in Taiwan that is needed to keep the Internet running.
 
 ### Audrey Tang:
-Yeah. Our slogan for our ministry is hashtag free the future. And I think that is what I take from the Internet's core principles is not to foreclose future innovations in the name of serving the current multistakeholder interests. 
+Yeah. Our slogan for our ministry is hashtag free the future. And I think that is what I take from the Internet's core principles is not to foreclose future innovations in the name of serving the current multistakeholder interests.
 
 And I think this is really the foundation of the Internet ethos as I understand it, because the end-to-end principle is after all means that if both ends have innovations, people in the middle probably shouldn't curb it until it matures and so on. So, I think that is where we're very aligned in this particular matter.
 
@@ -492,13 +492,13 @@ This is a very favorable arrangement to us because before the new configuration,
 Okay. Well, that's great news. I didn't realize that you were first in. I'm not surprised really.
 
 ### Audrey Tang:
-Yeah, this is again one of those window of opportunities. And within this window, I think pretty much all of the relevant working groups within W3C like decentralized identifier, verifiable credentials, and accessibility, of course, and e-payment and so on, we have corresponding departments joining. 
+Yeah, this is again one of those window of opportunities. And within this window, I think pretty much all of the relevant working groups within W3C like decentralized identifier, verifiable credentials, and accessibility, of course, and e-payment and so on, we have corresponding departments joining.
 
-In particular, I think decentralized identifiers and verifiable credentials is going to be fast-tracked because the AI-powered interactive deepfakes can convincingly clone someone's voice or someone's video and so on. 
+In particular, I think decentralized identifiers and verifiable credentials is going to be fast-tracked because the AI-powered interactive deepfakes can convincingly clone someone's voice or someone's video and so on.
 
 So, the behavior and content layer are going to be basically indistinguishable. and we have to go back to the actor layer, which is digital signature. But implemented incorrectly, it will become like real name whenever you post an email, which is useless. It basically decimates the agency of the journalism sector and civil society.
 
-So, some sort of what I call ZKML, zero knowledge with machine learning, meaning that they can prove they're a legal entity of some jurisdiction without revealing exactly who they are. And so that's going to be very important. 
+So, some sort of what I call ZKML, zero knowledge with machine learning, meaning that they can prove they're a legal entity of some jurisdiction without revealing exactly who they are. And so that's going to be very important.
 
 In fact, maybe that is the only legible formal speech afterwards and everything else will be a bot. Everything else will be relegated to a bot. It's a kind of different expectation, a zero-trust expectation. But I think leading up to our presidential election next January, we have to make such preparations. And next year, like many jurisdictions, have their elections.
 

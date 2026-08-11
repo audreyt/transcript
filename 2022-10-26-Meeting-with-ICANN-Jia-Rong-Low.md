@@ -125,7 +125,7 @@ With TWNIC, they've been a strong partner and they were the first country code t
 
 I think you also know Nicole Chan, who is formerly the NCC chair. She sits on the Address Supporting Organization, which is also an organization of ICANN. So, we have existing, a lot of strong participation, and I think there are a lot of avenues that we can partner to work together.
 
-Now, of course, last but not least, not forgetting very strong participation from the GAC. Prior to the establishment of the Ministry of Digital Affairs, we have received very strong support all the way back for as long as ICANN has been established. 
+Now, of course, last but not least, not forgetting very strong participation from the GAC. Prior to the establishment of the Ministry of Digital Affairs, we have received very strong support all the way back for as long as ICANN has been established.
 
 As far as I can remember, the NCC has been participating. Then after that, under the Ministry of Transportation and Communication, Morris Lin has been participating actively. And we hope to secure your continued support for the GAC members to participate.
 
@@ -171,7 +171,7 @@ Great. Would Kuo-Wei like to enlighten us on how to proceed?
 > (laughter)
 
 ### Kuo-Wei Wu:
-I think it's OK, but I think the people in Taiwan have to understand what is the scope the ICANN to start talking about. 
+I think it's OK, but I think the people in Taiwan have to understand what is the scope the ICANN to start talking about.
 
 If you are talking about ICANN institution, then ICANN institution have a very clear mission, what they are going to do. If you're want to talking about forum - for example, like DNS -- I think you can involve many, many different things. If you want to talking about DNS, I think the key problem is we have to find out who is the right participant from Taiwan.
 
@@ -193,7 +193,7 @@ There's a lot of things that runs on the TXT records nowadays, not just the DNS 
 ### Jia-Rong Low:
 In fact, I was just chatting with Kenny this morning, and one of the current trends that we are seeing -- and Kenny has this on a very nice PowerPoint slide. In the last few decades, with the advent of the Internet, a lot of focus is on infrastructure development.
 
-The last decade is more innovation. We're looking at innovation sitting atop Internet technology. 
+The last decade is more innovation. We're looking at innovation sitting atop Internet technology.
 
 Where are we sitting right now, is perhaps a crossroads of head-to-head of innovation with the need for some regulation.
 
@@ -362,7 +362,7 @@ Blockchain is one of them, but remember, blockchain DNS, within the ICANN forum 
 
 If you want to talk about more like security, and then you might be interested, find some of the peoples, the really good, really important for Taiwan. For example, the security guy. The ICANN have a very good security committee.
 
-They are very good. It's world-class level. 
+They are very good. It's world-class level.
 
 How we can maintain the connectivity's resilience? From my point of view is first of how you can guarantee your root services in operations. The root server right now we only have Anycast. We only have A, M, and I don't remember.
 

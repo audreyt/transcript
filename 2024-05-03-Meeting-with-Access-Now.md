@@ -1,7 +1,7 @@
 # 2024-05-03 Meeting with Access Now
 
 ### Audrey Tang:
-So, I trust that we've all seen the agenda before. I think the main topic is the E-Code visa. And we're very happy to help. 
+So, I trust that we've all seen the agenda before. I think the main topic is the E-Code visa. And we're very happy to help.
 
 I mean, it's quite apparent that in addition to the already visa-free countries, you're going to invite people from non-visa-free countries. And so, I think as soon as you have a preliminary list, and even if some of them don't manage to come at the end, it doesn't hurt to start the process early.
 
@@ -27,9 +27,9 @@ And I think, and I let Vakau and Reetz come to this as well. We hope even, there
 That's good for us, and I let like, Reetz and Vakau speak to this. But in the sense, we want to just feel that degree of clear comfort, and then we will start publicly going out there. We can deeply also, we spoke to the Ministry of Foreign Affairs earlier today. We had a good meeting with them. They had some suggestions and ideas as well, overall. But I think the main thing they also said was, yes, you know, moda's definitely the most important to you if you're feeling comfortable.
 
 ### Audrey Tang:
-Yeah, they have an INGO office. I think that's going to be the true cross-minister. While we can provide PR support and so on, it is the moda INGO office that coordinates with, for example, the municipality holding the venue, or the other INGOs doing similar things around the same timeframe and so on. 
+Yeah, they have an INGO office. I think that's going to be the true cross-minister. While we can provide PR support and so on, it is the moda INGO office that coordinates with, for example, the municipality holding the venue, or the other INGOs doing similar things around the same timeframe and so on.
 
-And I trust that they already gave you the contact window. So, I think the INGO window from the moda is going to be like your one of the most friendly windows. And on our side, the Department of Democracy Network is still around. So, the DN will be your contact window for the rest of the ministry. 
+And I trust that they already gave you the contact window. So, I think the INGO window from the moda is going to be like your one of the most friendly windows. And on our side, the Department of Democracy Network is still around. So, the DN will be your contact window for the rest of the ministry.
 
 So, for example, if some of your sessions pertains to the administration of digital industries or administration for cybersecurity and so on, you will route through DN and DN will find you the points of contact.
 
@@ -69,7 +69,7 @@ So, people are submitting proposals without knowing what they're going…
 ### Raman Jit Singh Chima:
 What I can share is we told a lot of people, I can notice they already changed their communication a bit to generally let people know it's in East Asia. We already reached out to many of the key governments and companies taking part in RightsCon to already advise them privately and we've been noting that we're executing this change and we believe that Taiwan is the best place to organize RightsCon to identify any concerns, feedback.
 
-We have spoken to the government, so you know, to the U.S., the U.K. U.K. is in progress, sorry, Germany, the Netherlands, Canada, and a bunch of other folks as well. We also reached out to some of the intergovernmental institutions, different U.N. agencies, OHCHR. We've spoken to industry. A bunch of folks, I think Google Meta, Amazon Briefly, a bunch of other people as well, and got done that there. And that's one idea that if you do this public communication in between the call for proposals, you update people already. 
+We have spoken to the government, so you know, to the U.S., the U.K. U.K. is in progress, sorry, Germany, the Netherlands, Canada, and a bunch of other folks as well. We also reached out to some of the intergovernmental institutions, different U.N. agencies, OHCHR. We've spoken to industry. A bunch of folks, I think Google Meta, Amazon Briefly, a bunch of other people as well, and got done that there. And that's one idea that if you do this public communication in between the call for proposals, you update people already.
 
 And privately, our regional teams are also talking to people who are applying for the call for proposals. If any of them had a particularly location sensitive issue, like they were deeply planning to do something specific in Korea, or they have any other concerns about Taiwan that they can privately engage or modify their proposals, we can extend the call for proposals deadline, that is June 5th, I'm sorry, I keep missing it.
 
@@ -102,7 +102,7 @@ And also, my Signal handle is now digitalminister.01. Right. So, but for the @mo
 
 Because, well, many of these people, I mean, we use public servants for all the director generals, so all of them are still around. And so, they will run it through the directors and director generals and they will run it by the next minister's team. And once they have the OK, then we can quote retweet on May 16th. So, that's that part.
 
-And as for endorsement testimonial and things like that, I mean, I'm happy to be quoted as the Taiwan's 1st Digital Minister, spelled as "1st" so that is not misconstrued as the first minister, like prime minister. 
+And as for endorsement testimonial and things like that, I mean, I'm happy to be quoted as the Taiwan's 1st Digital Minister, spelled as "1st" so that is not misconstrued as the first minister, like prime minister.
 
 > (laughter)
 
@@ -145,7 +145,7 @@ Anything else?
 ### Raman Jit Singh Chima:
 I think just naming a few things. I know we had some questions on visa support. But before that, just noting, in many other ways also for the ministry, we will be here for each specific idea. We're also using that as a bridge to RightsCon events, so they're already trying to put in some content programming. Very open to ideas around the bridges.
 
-So, you know, relevant to the ministry, we are planning a day zero discussion around. We've done this at RightsCon in Costa Rica. We had a meeting of cyber ambassadors. Like organized a society for the first time, 30 cyber ambassadors and cyber policy leads. 
+So, you know, relevant to the ministry, we are planning a day zero discussion around. We've done this at RightsCon in Costa Rica. We had a meeting of cyber ambassadors. Like organized a society for the first time, 30 cyber ambassadors and cyber policy leads.
 
 We're thinking of doing a mini version, or not a mini version, like a trial version of that in Taipei on day zero, APrIGF. So, very open to support, or even advice and ideas. We'll start doing invitations shortly. Two people, we were waiting on this visit and the .Asia team to confirm some of the details. That's done.
 
@@ -159,7 +159,7 @@ So, how close are your connections with the TWNIC people who runs the APrIGF?
 Yeah, we are in a single chat with them and .Asia as well. So, we are co-organizing events on day zero and .Asia.
 
 ### Audrey Tang:
-So, Kenny and JoFan, right? 
+So, Kenny and JoFan, right?
 
 ### Vakau:
 Yeah.
@@ -178,16 +178,16 @@ And this came to mind just now. I think we are interested for RightsCon on condu
 Yeah, we are actually right now trying to map live from different ministry or different government agencies in Taiwan - what kind of programmatic cooperation we can have within the week of response because that's how we do with different governments with previous RightsCon, so it'll be great just to hear your plan for next year.
 
 ### Audrey Tang:
-Yeah, so as I mentioned, anything that's related to the IGF or Internet Governance in general is a focal point for TWNIC. And we channel most of our relevant budgets into TWNIC to these sort of things, and TWNIC is also independently rich by selling the TW domains. And so, yeah, I would encourage you to talk more with TWNIC. That's one very obvious, your natural ally. 
+Yeah, so as I mentioned, anything that's related to the IGF or Internet Governance in general is a focal point for TWNIC. And we channel most of our relevant budgets into TWNIC to these sort of things, and TWNIC is also independently rich by selling the TW domains. And so, yeah, I would encourage you to talk more with TWNIC. That's one very obvious, your natural ally.
 
-The other natural ally I believe is the human rights academic community. I mean g0v summits runs in the National Academy for a reason and the reason is that the National Academy has traditionally been the main convener for not just the g0V hackathons but anything related to online right, digital right and things like that. 
+The other natural ally I believe is the human rights academic community. I mean g0v summits runs in the National Academy for a reason and the reason is that the National Academy has traditionally been the main convener for not just the g0V hackathons but anything related to online right, digital right and things like that.
 
-So, getting in touch with the National Academy and the Information Institute as well as the Information Innovation Unit… I mean the head of the unit is our next Digital Minister, so I think that makes a lot of sense. While the National Academy may not, by itself, have a lot of conference related budgets, the network is everywhere, and so they can then connect you with your natural partners and you will be there physically tomorrow anyway. So that's another obvious community. 
+So, getting in touch with the National Academy and the Information Institute as well as the Information Innovation Unit… I mean the head of the unit is our next Digital Minister, so I think that makes a lot of sense. While the National Academy may not, by itself, have a lot of conference related budgets, the network is everywhere, and so they can then connect you with your natural partners and you will be there physically tomorrow anyway. So that's another obvious community.
 
 Aside from these two I don't know whether anyone from the end would suggest more like natural allies to connect. But if anything occurs to your mind you have each other's email.
 
 ### Raman Jit Singh Chima:
-And just so you know, the call for proposals period is also open for RightsCon just in the consideration of, not necessarily for funding, although some of it might have funding or like budgetary integration, but if the moda team including the Democracy Network and others are thinking of specific sessions and ideas even if it's very early stage, you know we work with you to make it. 
+And just so you know, the call for proposals period is also open for RightsCon just in the consideration of, not necessarily for funding, although some of it might have funding or like budgetary integration, but if the moda team including the Democracy Network and others are thinking of specific sessions and ideas even if it's very early stage, you know we work with you to make it.
 
 And I know Audrey you're very familiar with this, like RightsCon works on the call for proposals. People have to submit something in order to get into the program. We can work with moda on this particularly part for the remaining of the month and so to like think of initial proposals or ideas to put in. But both directly for moda and also the...
 
@@ -212,7 +212,7 @@ But yeah, we assume that the in-person component will be around 3,500. Just so y
 Yes, the venue said the cap is at 3,000.
 
 ### Audrey Tang:
-Oh, okay. Yeah, still not trivial. Okay. Yeah, the TAITRA which runs the TICC, we also work with them quite a bit. They are obviously more like external trade focused, but I am sure that if you are already in touch with INGO and Foreign Service, they also work very closely with TAITRA. So, that is another natural ally. And if you already announced that you will be in Taipei City, then it means that Taipei City government becomes your host city. And so, some like municipal visits, that will also work in your favor. 
+Oh, okay. Yeah, still not trivial. Okay. Yeah, the TAITRA which runs the TICC, we also work with them quite a bit. They are obviously more like external trade focused, but I am sure that if you are already in touch with INGO and Foreign Service, they also work very closely with TAITRA. So, that is another natural ally. And if you already announced that you will be in Taipei City, then it means that Taipei City government becomes your host city. And so, some like municipal visits, that will also work in your favor.
 
 Yeah, when we announced the public code platform code at gov.tw, I think, well, all of the six municipalities participated but Taipei City was the first to just donate source code to the platform. So, the current Department of Information Technology’s Head, Chang Shi-mo, an entrepreneur and very enthusiastic about public code and open source in general. So, I think we will be very, not just sympathetic, very enthusiastic to your cause. And so, the DOIT and Taipei City government in general, I think securing a quota on them, that will be also something very good.
 
@@ -235,9 +235,9 @@ I know this is the top one, but I wanted to make sure that from our end, is ther
 I think we have shared the partnership proposal with moda before, where we listed all the previous partnership experience with other governments. And just curious to hear your thoughts, what kind of partnership you are thinking for the next RightsCon...
 
 ### Audrey Tang:
-Yeah. I think the only point that we're probably not the competent authority is briefing our overseas missions. The reason is that while the ministries usually have a dispatch within the oversea embassies, for example, usually the Science and Technology Council have a S&T team, or the Ministry of Economy always have an economic division as well. 
+Yeah. I think the only point that we're probably not the competent authority is briefing our overseas missions. The reason is that while the ministries usually have a dispatch within the oversea embassies, for example, usually the Science and Technology Council have a S&T team, or the Ministry of Economy always have an economic division as well.
 
-We don't. So, we usually piggyback on top of the Science and Technology Division and or the Economy Division. And so, we don't really have oversea dispatch that can brief the missions. So, you will have to go through MOFA or the Economy Ministry, or Science and Technology to get them briefed. So that, I wish I can help, but we don't have overseas missions. 
+We don't. So, we usually piggyback on top of the Science and Technology Division and or the Economy Division. And so, we don't really have oversea dispatch that can brief the missions. So, you will have to go through MOFA or the Economy Ministry, or Science and Technology to get them briefed. So that, I wish I can help, but we don't have overseas missions.
 
 Everything else, I think we already covered some of these. I don't know whether in the RightsCon do we have our own agenda in addition to the ones you already know, you know, public code and decentralized identity. I think these are the two main ones. But if the next minister has new public infrastructures to push, I'm sure that's a good thing.
 
@@ -270,7 +270,7 @@ And we want to make sure we get as many details as possible. And thank you for t
 Yeah. As movement builders, what's most important is just getting the details right, so that it can bootstrap more trust. It engenders more trust. So really, thank you for being detail-oriented because I am too. And looking forward to continuing our partnership.
 
 ### Raman Jit Singh Chima:
-And the last thing I leave you with this because as you know, we're definitely bringing East Asian focus. One thing to you, but also to the democracy network overall is where you see role specific ideas for your East Asian counterparts from Japan and others, please don't hesitate to tell us. We got a lot of interesting support from the programmatic ministries. 
+And the last thing I leave you with this because as you know, we're definitely bringing East Asian focus. One thing to you, but also to the democracy network overall is where you see role specific ideas for your East Asian counterparts from Japan and others, please don't hesitate to tell us. We got a lot of interesting support from the programmatic ministries.
 
 The foreign ministry has been looking at this and it's a little bit more tricky and difficult and I would get interested, but just to point out a bit challenged with their current political structure they're operating within. But we know the district government department's interested in working with us, others are. But if there's any East Asia focused tech leadership or meetings or sessions you want to organize, we encourage you to think about that because we will be talking to them.
 
@@ -287,7 +287,7 @@ And just so you know, like we're talking to them, there's one, I won't say clash
 ### Audrey Tang:
 Yeah, yeah. It's not too bad.
 
-I mean, we have the Internet. We can do it virtually — through IPv6, preferably. 
+I mean, we have the Internet. We can do it virtually — through IPv6, preferably.
 
 > (laughter)
 

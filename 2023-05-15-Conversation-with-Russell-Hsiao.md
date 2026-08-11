@@ -1,7 +1,7 @@
 # 2023-05-15 Conversation with Russell Hsiao
 
 ### Russell Hsiao:
-Thank you for going on Taiwan Salon and announcing the Digital Ministry on the program. My purpose here is to be able to do some fact-finding with regards to what is happening in Taiwan, and as part of my work visit here at this time, I would really like to learn more about the work that you're doing here with this new ministry. 
+Thank you for going on Taiwan Salon and announcing the Digital Ministry on the program. My purpose here is to be able to do some fact-finding with regards to what is happening in Taiwan, and as part of my work visit here at this time, I would really like to learn more about the work that you're doing here with this new ministry.
 
 ### Audrey Tang:
 Sure.
@@ -12,7 +12,7 @@ In particular your vision for the future of this organization and how that fits 
 And furthermore, more specifically, with regards to what you, your ministry, and the government writ large is learning from the experience of Ukraine with regards to enhancing information resiliency, both from a defensive as well as from an offensive perspective on how to contend with the potential challenges and threats emanating from the…PRC regime.
 
 ### Audrey Tang:
-PRC regime. 
+PRC regime.
 
 ### Russell Hsiao:
 Indeed, yes, with the PRC regime. And as such, how you see this organization that you lead, this government agency that you now lead, is responding to those various types of scenarios.
@@ -65,7 +65,7 @@ I think what you referenced in your second point was an emphasis on standard set
 ### Audrey Tang:
 We have very specific scenarios. So, the cyber-attack following Nancy Pelosi's visit was our constant reference, right? And, the other reference was recently when the island of Matsu got accidentally, you know, the submarine cables destroyed by one of the fishing vessels flying PRC flag. And then just a week or so after, accidentally another cargo vessel flying PRC flag caught the other submarine cable and left the Matsu Island without internet.
 
-And so, of course, we very quickly worked with NCC and restored some of the bandwidth using microwave. The TTC, one of the institutes, deployed the mid-earth orbit satellite receiver, also in Matsu. And, of course, one of the submarine cables got repaired pretty quickly, so we have some resilience. But it showed everyone that, you know, the outbound and inbound links, if the adversary knows where they are, they can accidentally destroy them with a large earthquake at any given time. 
+And so, of course, we very quickly worked with NCC and restored some of the bandwidth using microwave. The TTC, one of the institutes, deployed the mid-earth orbit satellite receiver, also in Matsu. And, of course, one of the submarine cables got repaired pretty quickly, so we have some resilience. But it showed everyone that, you know, the outbound and inbound links, if the adversary knows where they are, they can accidentally destroy them with a large earthquake at any given time.
 
 So, we need to plan our defense and taking nothing for granted, right? We need to work with roaming between all the telecom providers as you did. We need to work with multiple satellite providers. We need to work with the cloud providers so that they provide local resilience, meaning that even when all the submarine cables are cut, the video conferencing between two people in the Taiwan's jurisdiction can still happen without going through metadata to some other place in other countries.
 
@@ -91,7 +91,7 @@ That's wonderful to hear that it seems like it's all being streamlined. You ment
 ### Audrey Tang:
 Yeah, as I mentioned, what's different was not just the scale, although the scale was quite different, but the coordination.
 
-Once they successfully blocked temporarily the access to the major ministries, then they launched disinformation attacks, like the hate speech on the billboards outside the Taiwan Railway Station. It's coupled with disinformation. 
+Once they successfully blocked temporarily the access to the major ministries, then they launched disinformation attacks, like the hate speech on the billboards outside the Taiwan Railway Station. It's coupled with disinformation.
 
 So, we need to also respond in a similarly coordinated way, because it doesn't pay now to say, oh, this is disinformation, that is cyber, that is whatever propaganda, because they are all part of the same attack.
 
@@ -99,13 +99,13 @@ So, we need to also respond in a similarly coordinated way, because it doesn't p
 Right. I think you're mentioning that there needs to be a coordinated response. To the extent that you are able to disclose, how is it? How are you coordinating? Are you training? Are you exercising potential crisis scenarios?
 
 ### Audrey Tang:
-Right. Yeah, and running drills also. And the CODE defense exercise is public. We run once every two years, and we invite people around the world to be red teams, essentially, to simulate as close as possible to the actual scenario of a coordinated hybrid attack. 
+Right. Yeah, and running drills also. And the CODE defense exercise is public. We run once every two years, and we invite people around the world to be red teams, essentially, to simulate as close as possible to the actual scenario of a coordinated hybrid attack.
 
 ### Russell Hsiao:
 And this is every two years. This is held in Taiwan and you're getting international partners to be able to participate. Are you getting substantive US participation in these exercises?
 
 ### Audrey Tang:
-Yes. 
+Yes.
 
 ### Russell Hsiao:
 Great. And those scenarios also involve potential mega disasters and not just potential…
@@ -136,7 +136,7 @@ Yeah of course, and also a shared posture. The posture is zero trust architectur
 So, whether you're TSMC or whether you're the administration, you're subject to the same coordinated attack. And that means that the industrial standards, such as the SEMI E187, by the semiconductor supply chain, they suffer actually from the same degree of attack or even more because of industrial espionage and other needs of those state-sponsored attackers. So again, they adopt the same posture as the CMMC requirement of zero trust architecture. So, we're converging to zero trust architecture as a shared way for the defense-oriented certifications and the civilian certifications and the private sector certifications so that the same techniques, the same tools, the same talent training and so on can interoperate and flow more easily between the different systems.
 
 ### Russell Hsiao:
-How much are your exercises, your planning, your strategy aimed or geared towards also enhancing civil resilience and civil defense efforts? 
+How much are your exercises, your planning, your strategy aimed or geared towards also enhancing civil resilience and civil defense efforts?
 
 It seems like this is quite a top-down process as far as we have discussed so far. So, are you integrating  civil society organizations to be better integrated into your trainings? And are there things that you can share in terms of examples that you are building right now as one part of this broader effort. Ukraine has been very effective in doing is getting their message out – and a part of that is having the capacity to be able to utilize the information channels and getting information out there, but having those communication channels already in place, not just the pipes, but then the people… the habits…
 
@@ -151,19 +151,19 @@ So, in the IT army of Ukraine, what we have found is that there were already pri
 
 And so, to this end, the National Institute of Cybersecurity is working very closely with all these threat intelligence-gathering stakeholders to establish the norm. So that the private sector computer emergency response team, which is entirely private sector, can interoperate with more defense or administration or critical infrastructure oriented, so they share not just the threat intelligence, which they already share, but also the personnel and some of the flows.
 
-And of course, there are boundaries to this because some of the private sector doesn't want the state to know the kind of ransomware-attack they're undergoing. But there are ways to basically use privacy enhancing technologies to ensure that the metadata is still shared meaningfully and people still know the situation and have awareness of what's going on. 
+And of course, there are boundaries to this because some of the private sector doesn't want the state to know the kind of ransomware-attack they're undergoing. But there are ways to basically use privacy enhancing technologies to ensure that the metadata is still shared meaningfully and people still know the situation and have awareness of what's going on.
 
 ### Russell Hsiao:
 Taiwan has an election next year, you know, coming up in January. Are you seeing any sort of noticeable uptick in the types of online activities that was apparent in previous elections? What are your major concerns with regards to the types of threats vector that you're watching here? And are there particular types that you are most concerned about that, that, you know, warrants closer attention?
 
 ### Audrey Tang:
-Right. So, in terms of FIMI, Foreign Information Manipulation and Interference, which is an EU term that is easier to say than mis/dis/mal-information, which is impossible to pronounce. 
+Right. So, in terms of FIMI, Foreign Information Manipulation and Interference, which is an EU term that is easier to say than mis/dis/mal-information, which is impossible to pronounce.
 
 > (laughter)
 
-So, in terms of FIMI, we have seen a lot in the scam front of the new use of voice cloning and also behavior cloning. So, for example, people would receive a phone call and they will answer it. And with just a few seconds of voice print, now AI can very meaningfully synthesize the acoustic model so that over the phone you never know who's actually speaking there without a code word or zero trust fingerprinting digital signature or some kind. And this is a large threat vector. It means social engineering will probably always succeed if people are not aware of the voice cloning, and even video cloning now, capabilities is caught off guard and aware. 
+So, in terms of FIMI, we have seen a lot in the scam front of the new use of voice cloning and also behavior cloning. So, for example, people would receive a phone call and they will answer it. And with just a few seconds of voice print, now AI can very meaningfully synthesize the acoustic model so that over the phone you never know who's actually speaking there without a code word or zero trust fingerprinting digital signature or some kind. And this is a large threat vector. It means social engineering will probably always succeed if people are not aware of the voice cloning, and even video cloning now, capabilities is caught off guard and aware.
 
-So, a lot of our work now in addition to resilience of all, is just the cyber awareness of everyone that basically picture and it doesn't happen video and it doesn't happen. Everything can be synthetic now. And we have pretty good reason to believe in my book here actually runs a fully simulated model of me that it will become interactive. Meaning that even if you ask hard questions that only Audrey is supposed to answer with language models that's running entirely offline, so it’s impossible to detect. One can actually synthesize a very convincing script. 
+So, a lot of our work now in addition to resilience of all, is just the cyber awareness of everyone that basically picture and it doesn't happen video and it doesn't happen. Everything can be synthetic now. And we have pretty good reason to believe in my book here actually runs a fully simulated model of me that it will become interactive. Meaning that even if you ask hard questions that only Audrey is supposed to answer with language models that's running entirely offline, so it’s impossible to detect. One can actually synthesize a very convincing script.
 
 So, the main difference is that what used to be broadcast-level disinformation that requires going viral and therefore detectable can be now done like spearphishing in a precision level. So, individualized interactive persuasion at a scale of viral videos. That is an emerging threat vector enabled by language models.
 
@@ -201,7 +201,7 @@ All parties are supportive.
 All parties are supportive. That's really important.
 
 ### Audrey Tang:
-Yeah. We made it quite clear because we founded last August which is close to another election, Mayoral election. So, we made a point of… for example all the directors, generals and administrators can theoretically be appointed by me from someone outside of public service. But I made a point of appointing each and every one of them from the career public service and not from outside. 
+Yeah. We made it quite clear because we founded last August which is close to another election, Mayoral election. So, we made a point of… for example all the directors, generals and administrators can theoretically be appointed by me from someone outside of public service. But I made a point of appointing each and every one of them from the career public service and not from outside.
 
 > (laughter)
 
@@ -212,13 +212,13 @@ So, this time around I think because we're in the transportation committee in th
 Last year, every time they interpellated NCC they invited me in because they think somehow I'm part of that. But this session not anymore, so we're not confused with the NCC.
 
 ### Russell Hsiao:
-Right. It was sort of a matter of understanding whether or not there's legislative authorities for the particular agency that you are in charge of, you know, and whether or not those authorities are competitive authorities. 
+Right. It was sort of a matter of understanding whether or not there's legislative authorities for the particular agency that you are in charge of, you know, and whether or not those authorities are competitive authorities.
 
 ### Audrey Tang:
 Like the recent ruling on CTiTV?
 
 ### Russell Hsiao:
-Right. 
+Right.
 
 ### Audrey Tang:
 It's in the news. Yeah.
@@ -263,7 +263,7 @@ The incubator will start later this year, and hopefully by next year we'll have 
 So, that's pretty much it. The infrastructure level, the communication level, and the standard setting level.
 
 ### Russell Hsiao:
-Are you having challenges and difficulties to be able to participate in these standardizing mechanisms? 
+Are you having challenges and difficulties to be able to participate in these standardizing mechanisms?
 
 ### Audrey Tang:
 It's pretty easy now.
@@ -306,7 +306,7 @@ Yes. Plurality, or collaborative diversity is a wordplay because “數位” in
 Right.
 
 ### Audrey Tang:
-So, to me, the space that is digital embodies the promise that people who are very far away in terms of ideology, culture, ethnicity or whatever can be bridged by the space. And that's the original promise of internet. It's called the end-to-end principle, 
+So, to me, the space that is digital embodies the promise that people who are very far away in terms of ideology, culture, ethnicity or whatever can be bridged by the space. And that's the original promise of internet. It's called the end-to-end principle,
 
 and with the contributions of the participatory policymaking community, including the Twitter community notes, actually, and the language models fostering transcultural dialogues.
 
@@ -339,7 +339,7 @@ Got it. Wonderful. Thank you so much for sharing all your insights.
 
 This session has been very, very productive in terms of what you've been able to share with me, in just I think a relatively short time, but you've been very generous with your views.
 
-Are there sort of anything on the horizon that you think are really important for the international observers to understand about what your agency is doing and the challenges that Taiwan faces with regards to within the digital space? And what are sort of like, you know, if there are sort of the most important takeaway? 
+Are there sort of anything on the horizon that you think are really important for the international observers to understand about what your agency is doing and the challenges that Taiwan faces with regards to within the digital space? And what are sort of like, you know, if there are sort of the most important takeaway?
 
 ### Audrey Tang:
 The one takeaway?
@@ -348,7 +348,7 @@ The one takeaway?
 Yeah.
 
 ### Audrey Tang:
-Well, if you're someone with eight years of contributions to the digital world, like if you have a GitHub project that is more than eight years old, well, you can get a Taiwanese gold card. So, even if you're just 20 something, if you already in high school, like I did, contributed a lot to the community, that means that you get universal health care for your dental issues and also residency permits and open work permits for three years. 
+Well, if you're someone with eight years of contributions to the digital world, like if you have a GitHub project that is more than eight years old, well, you can get a Taiwanese gold card. So, even if you're just 20 something, if you already in high school, like I did, contributed a lot to the community, that means that you get universal health care for your dental issues and also residency permits and open work permits for three years.
 
 And this is quite different from the previous wave of gold card, which is aimed at professionals in their 40s and 50s. This is the first time that we're issuing gold cards targeting people at their 20s. And those foreign talent can work anywhere anyway, right? They're digital nomads. So, we don't expect them to stay full time in Taiwan. But even if you just drop by and to understand what's actually happening here on the ground, you stay for less than six months. You don't have to pay tax.
 

@@ -6,7 +6,7 @@ Minister, my first question is about democracy. In the online conference of Harv
 Your parents survived that period as newspaper journalists, which is actually very interesting to me, by the way, and you implied that collective memories of the martial law have kept Taiwan's freedom.
 
 
-If I may mention a little something here, too, in Taiwan's case, I am thinking that collective memories of the successful democratization may have enhanced a strong trust in government among citizens. Maybe if one experienced building a government by social movements, the concept of "We are the players, and we are controlling the government” must be stronger. 
+If I may mention a little something here, too, in Taiwan's case, I am thinking that collective memories of the successful democratization may have enhanced a strong trust in government among citizens. Maybe if one experienced building a government by social movements, the concept of "We are the players, and we are controlling the government” must be stronger.
 
 
 Minister, I'd really appreciate sharing your views on the democratization experience in Taiwan's history to illustrate to Taiwanese people that are understanding politics and the government is something you can trust. Thank you so much.

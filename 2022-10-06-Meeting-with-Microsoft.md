@@ -72,7 +72,7 @@ Yes, we have studied the works of the Дія team.
 ### Audrey Tang：
 The moda, our ministry, is something of a ministry-sized sandbox, so we try new things here first. For example, we asked specifically for Entra's decentralized-identifier capability, and Microsoft Taiwan said nobody ever asked for that capability before.
 
-We're quite interested at that use case. Our CIO Dr. Chiueh helped us to transition to a passwordless, always-verify, assume-breach architecture, which means on all levels of services configuration, I can use Linux 100% of the time collaborating with other colleagues. I think all of this is part of our demonstration of a public code approach, so that all ministries who may be considering zero trust architecture can see the value in that. 
+We're quite interested at that use case. Our CIO Dr. Chiueh helped us to transition to a passwordless, always-verify, assume-breach architecture, which means on all levels of services configuration, I can use Linux 100% of the time collaborating with other colleagues. I think all of this is part of our demonstration of a public code approach, so that all ministries who may be considering zero trust architecture can see the value in that.
 
 This is also true for example this kind of non geostationary orbit satellites. The POCs don't require commercial licenses to run because they are well bound as a pilot project. I think trustworthy, confidential computing will be key.
 

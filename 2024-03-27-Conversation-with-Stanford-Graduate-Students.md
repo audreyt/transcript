@@ -10,7 +10,7 @@ Pleasure.
 Hi, I’m Elliot, nice to meet you.
 
 ### Audrey Tang:
-Thank you. 
+Thank you.
 
 ### Nickson Quak:
 Hi, I’m Nickson, pleasure to meet you.
@@ -27,7 +27,7 @@ Please take a seat. We don't often use this meeting room because we're quite far
 But this is very good room for photo opportunities.
 
 ### Elliot Stewart:
-Yeah, for balance, yeah. 
+Yeah, for balance, yeah.
 
 ### Sarah Shah:
 Trying to figure out where to sit.
@@ -81,7 +81,7 @@ So, in terms of the actor behavior content separation, we're at the upstream. We
 
 So our version is three years variously. The parties want one year or two years, and so on, so like, race to digital signature. This is because we have seen, in terms of information manipulation, either a person impersonating a celebrity via deepfake or whatever interactive AI generative forms, or one person purporting to be like 10,000 different people. That’s so terrifying, right? Posting so-called organic advertisements that looks like they’re from a thousand different people. But actually, they’re all from a single person, right?
 
-So within the Digital Signature Act, we now stipulate that we will have a stronger form of e-signature. We call it digital signature. The difference is that the digital signature is issued by a certificate authority that's either the government itself, like our citizens’ digital certificate, or like recognized, approved by the government. So while anyone can sign an e-signature, a digital signature means that it is actually the real person. 
+So within the Digital Signature Act, we now stipulate that we will have a stronger form of e-signature. We call it digital signature. The difference is that the digital signature is issued by a certificate authority that's either the government itself, like our citizens’ digital certificate, or like recognized, approved by the government. So while anyone can sign an e-signature, a digital signature means that it is actually the real person.
 
 So, soon, we will become also the competent authority of online advertisement platforms, which includes Facebook, Google, TikTok, the usual suspects. And so we are going to require all advertisers to use digital signature as a KYC process, meaning that it will no longer be possible for someone whose name isn't Xie Jinhe to impersonate Xie Jinhe in posting advertisements.
 
@@ -89,11 +89,11 @@ And also, it will become very difficult for one person to impersonate 10 differe
 
 In the upcoming draft, we define “harmful product” as a product, either software, hardware or service, that is under de facto control of an entity whose de facto control is in the hands of a foreign adversary.
 
-So basically, the foreign adversary can have indirect control on a product, which makes it a harmful product, which I understand is very similar to the current US House bill about TikTok. And so using that definition, we’ve already banned TikTok as a harmful product in public service, as well as in high school and primary school networks. 
+So basically, the foreign adversary can have indirect control on a product, which makes it a harmful product, which I understand is very similar to the current US House bill about TikTok. And so using that definition, we’ve already banned TikTok as a harmful product in public service, as well as in high school and primary school networks.
 
 But soon, with the new amendments currently in the cabinet, the Cyber Security Management Act, we're going to extend that to also, like, government devices issued to government employees, or even in specific non-governmental institutions if they’re deemed to be part of the either critical infrastructure or state-owned enterprises, institutions that are deemed to be of cyber security significance.
 
-We will also extend the measures on countering harmful products, because that clause was done in reaction to when Pelosi, the former US House Speaker, visited Taiwan. The signboards outside of Taiwan rail stations were displaying paid messages, and although we know it’s not part of the government service network, it's not a cyber security threat, nevertheless, it's an information manipulation threat. And so that is one example of a public display operating in a government facility, right? 
+We will also extend the measures on countering harmful products, because that clause was done in reaction to when Pelosi, the former US House Speaker, visited Taiwan. The signboards outside of Taiwan rail stations were displaying paid messages, and although we know it’s not part of the government service network, it's not a cyber security threat, nevertheless, it's an information manipulation threat. And so that is one example of a public display operating in a government facility, right?
 
 So for things like this, the traditional parameter of cybersecurity management has been extended. We care about the integrity of information systems, but now information integrity outside of information systems is also something that we are concerned about, and we recently just had an online deliberative assembly about this very topic.
 
@@ -324,7 +324,7 @@ And this is just something you're programming in your free time?
 ### Audrey Tang:
 Yeah, in my spare time with the help of a new Taiwanese resident named Vitalik Buterin. No, he's really a Taiwanese resident now. Right, so, yeah, like the C2PA stuff, at some point, I think this whole chain of generating, editing, and curation, and things like that, is going to be the norm, and everything else will be assumed a bot.
 
-And whether we can get a zero-knowledge, right, for this particular scenario, determine whether we just lose anonymity and pseudonymity completely, or whether we can recover some of it, and maybe in a stronger form. 
+And whether we can get a zero-knowledge, right, for this particular scenario, determine whether we just lose anonymity and pseudonymity completely, or whether we can recover some of it, and maybe in a stronger form.
 
 ### Nickson Quak:
 And how do you make that secure? Because I assume that when you put all of these on this technology, does that make the system vulnerable to cyber-attacks, cyber breaches?
@@ -435,7 +435,7 @@ Yeah, and then it matters a lot whether the platform they operate on is itself a
 
 So, if you have a kind of adversarial to transparency platform, that itself is, according to us, a harmful product, none of the monitoring transparency measures we just talked about would work, because the platform would just camouflage it, right?
 
-On the other hand, I have reasons to believe that when we go to YouTube or when we go to Instagram and say that, you know, independent research shows that this is actually 10,000 accounts by one single person and so on, they usually behave quite reasonably. And so, I think these two classes need to be separated. 
+On the other hand, I have reasons to believe that when we go to YouTube or when we go to Instagram and say that, you know, independent research shows that this is actually 10,000 accounts by one single person and so on, they usually behave quite reasonably. And so, I think these two classes need to be separated.
 
 This internet advertisement for all their drawbacks, once we become their competent authority and wield the new Personal Data Protection Act and the Consumer Protection Act authorities, I fully expect they will comply to the extent that is written in the law. I'm less sure about TikTok, which is why it now falls on them, if the anti-fraud law is passed, to set up local presence and then prove that they're not under indirect control for an adversary, which they're probably also going to prove to the US this year. So, we will see. Yeah.
 
@@ -452,9 +452,9 @@ Nowdays, there are inference-time alignment techniques for language models, that
 
 So, one video can look at like 10 different captions, or 10,000 or 10 million different captions, depending on how many people are viewing that video, and each generated caption would fit that person's reward model to maximize effect on any axis, really. So, this is the kind of interesting research that they publish publicly, because then it removes a kind of centralizing compute cap on how many people that they can meaningfully tune to effectively affect.
 
-Which is why I think this kind of amplification, we might see it more and more. And so, whether a platform is bona fide adhering to those transparency and accountability laws, or whether they sign on it, but like a reserved capability to do like this kind of strike, will be a large concern, especially leading up to election. Because a lot of these tuning can go undetected, even with the best monitoring. If they just do it in a chronic fashion, not in an acute fashion, then maybe it just flies under the radar. 
+Which is why I think this kind of amplification, we might see it more and more. And so, whether a platform is bona fide adhering to those transparency and accountability laws, or whether they sign on it, but like a reserved capability to do like this kind of strike, will be a large concern, especially leading up to election. Because a lot of these tuning can go undetected, even with the best monitoring. If they just do it in a chronic fashion, not in an acute fashion, then maybe it just flies under the radar.
 
-So, these are the main things that worries me. But for OpenAI, Anthropic and so on, we're part of this Alignment Assemblies project, and so, including info integrity, Alignment Assemblies, which was run last Saturday, is just to draw boundaries, so that people can surface new harms, or new potential of harm, very quickly, and for us to, just as we quickly legislated the deepfake harms, around investment scams, around non-consensual intimate images, about impersonating candidates leading up to election, including voice phoning them, and so on. 
+So, these are the main things that worries me. But for OpenAI, Anthropic and so on, we're part of this Alignment Assemblies project, and so, including info integrity, Alignment Assemblies, which was run last Saturday, is just to draw boundaries, so that people can surface new harms, or new potential of harm, very quickly, and for us to, just as we quickly legislated the deepfake harms, around investment scams, around non-consensual intimate images, about impersonating candidates leading up to election, including voice phoning them, and so on.
 
 And now, with the online fraud also defrauding people, as soon as new harm is surfaced or speculated, we will move very quickly to amend that part of the law, instead of waiting on a comprehensive AI act to anticipate all harms, which is probably not going to be possible.
 
@@ -513,7 +513,7 @@ This is the deliberative, the deliberative polling.
 ### Audrey Tang:
 We work with Stanford on that. And I think around 500 actually did show up that day. 450 stayed for the entire session, which is amazing in terms of engagement rates anywhere in the world.
 
-And so I'm reasonably sure that the measures that we have, because it's partly drawn from their consensus, meets this microcosm of people. On the other hand, I also fully understand there are people of stronger views, like, they may not be statistically representative of Taiwanese, but they see dangers well before other people do, and so they want to know that we have this last resort capability if we underestimate the threat. 
+And so I'm reasonably sure that the measures that we have, because it's partly drawn from their consensus, meets this microcosm of people. On the other hand, I also fully understand there are people of stronger views, like, they may not be statistically representative of Taiwanese, but they see dangers well before other people do, and so they want to know that we have this last resort capability if we underestimate the threat.
 
 They want to make sure that we can, for example, block entire domain names, block entire apps, and so on. And to these people, there's part of it that we are already doing, the DNS RPZ mechanism, which does allow us to block entire Internet domains if that entire domain is scamming in nature. What it doesn't allow us to do is to, of course, censor facebook.com slash this, slash that, slash that, a specific page, because it works on a domain name service level.
 
@@ -533,7 +533,7 @@ Okay. Yeah, the blocking capability. Fascinating.
 Anything else? I think that's all we have for you.
 
 ### Sarah Shah:
-Thank you. 
+Thank you.
 
 ### Elliot Stewart:
 We really appreciate your time.
@@ -548,4 +548,4 @@ Incredibly informative.
 Great.
 
 ### Elliot Stewart:
-Thank you. 
+Thank you.

@@ -385,7 +385,7 @@ Yes. In addition to the people-to-people ties, more formally, we are very intere
 
 When we build our cybersecurity testing labs here in Taiwan, especially around semiconductor, which has to be originated in Taiwan because TSMC and friends are here, but we want cross certification. When the E187 certificate is obtained here, it would also be recognized in other parts of the world.
 
-We're working to look at the parts in which that Taiwan can provide a good certification, or basic R&D to make certification easier, things like that, around the supply chain items that we are excelling in. 
+We're working to look at the parts in which that Taiwan can provide a good certification, or basic R&D to make certification easier, things like that, around the supply chain items that we are excelling in.
 
 ### Liz Schrayer:
 How interested are the American companies in what you're doing?

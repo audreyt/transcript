@@ -133,7 +133,7 @@ Sorry for that, let's redo this part. Okay, all right.
 
 ### Audrey Tang:
 
-Yeah, that's a great question. In my line of work -- which is open government, social innovation, and youth engagement -- when working with international journalists and correspondents, I don't think there's a lot of confusions here. 
+Yeah, that's a great question. In my line of work -- which is open government, social innovation, and youth engagement -- when working with international journalists and correspondents, I don't think there's a lot of confusions here.
 
 The story was almost never about the Taiwan/Beijing relationships but rather, as I mentioned, about Iceland, Spain, Japan, the U.S. and so on, how those democracies are learning from each other.
 

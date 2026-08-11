@@ -172,7 +172,7 @@ When it initially looks cheaper, it's actually not cheap at all when you're look
 I think that's a conversation that needs to happen in a general population level, and we had a long discussion around that in 2014. I think the rough consensus is non partisan. All the different parties in Taiwan all agree broadly that we should not allow PRC components in our 4G infrastructure.
 
 ### Lorenzo Lamperti:
-Is there still a need of another conversation about this, for example about semi conductors? 
+Is there still a need of another conversation about this, for example about semi conductors?
 
 ### Audrey Tang:
 I think every jurisdiction need to have their own conversation about that. There is no universal method to set the boundaries, and the boundaries also shift based on the actual state taken over, activities that we see.
@@ -204,7 +204,7 @@ There's something in our way of participating in the counter pandemic that's not
 More symbolic level people can and they do cite Taiwan to pressure their democratic governments to be even more democratic instead of declining back to authoritarianism. That, of course, elevated talent status along with New Zealand and friends.
 
 ### Lorenzo Lamperti:
-My last question: can Taiwan's model be applied also somewhere else and be an example for somewhere else? 
+My last question: can Taiwan's model be applied also somewhere else and be an example for somewhere else?
 
 ### Audrey Tang:
 Yes, definitely. As I mentioned, for example, when Japan cleanses digital agency which is set up this year, and I mean constant monthly talk with the professors there.

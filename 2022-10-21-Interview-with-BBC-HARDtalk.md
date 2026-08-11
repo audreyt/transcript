@@ -190,7 +190,7 @@ And in the declaration, we're all referred to as partners or as democracies and 
 But can you say you are a country when, as I just said, major countries, the United States, all of the European Union don't recognize Taiwan as a nation state? You don't have a seat at the United Nations.
 
 ### Audrey Tang:
-Yeah, but we do have a top-level Internet domain. So my point here is... [laughs] 
+Yeah, but we do have a top-level Internet domain. So my point here is... [laughs]
 
 ### Zeinab Badawi:
 So you exist as a country only in the digital space. Is that what you're saying?

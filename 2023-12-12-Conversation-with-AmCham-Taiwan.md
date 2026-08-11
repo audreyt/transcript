@@ -16,21 +16,21 @@ Well, I know I met yourself in the new ministry and a few, maybe not your full t
 
 So, I joined AmCham as president about five months ago. I can't believe it's five months, right? It feels like two years. But it's been a really fast-moving journey. I've never worked for a nonprofit before. I worked for a government before, but learning a lot and really finding really empowering that I can do something for Taiwan. So, nothing compared to what you guys do, but I think we do our part in trying to help Taiwan in our own way.
 
-So, I took this job really because I feel this is the most important time for Taiwan-US, Taiwan-world relations in the last 40-50 years. Right? We've never gotten this much global attention and I really think it's our time to shine. 
+So, I took this job really because I feel this is the most important time for Taiwan-US, Taiwan-world relations in the last 40-50 years. Right? We've never gotten this much global attention and I really think it's our time to shine.
 
 So, my team has heard this many times so I'll be brief. But I think the best way as AmCham president I can help Taiwan is to attract as much foreign investment into Taiwan as possible. And I think we have a window to do that because, yes, we have the attention of the world right now, but we don't know how long it will last, right? We're already seeing Ukraine fatigue in places. We're seeing a lot of shifts in attention from the Middle East. Taiwan is still top of mind for people in the world, but I think now we have to try to do as much as we can to attract people to not only say I care about Taiwan, but put their money where their mouth is and create jobs here, invest here, develop talent here, right?
 
 And I think the more people we get to live in Taiwan, coming from around the world, the more they become our ambassadors. Very few times do I meet foreigners that come to Taiwan and say, oh I didn't like it. They all love Taiwan, right? They just… They need to come here because a lot of times they're like, “oh I never thought about going to Taiwan,” “Oh, I was going to go to Japan,” “I was going to Korea,” “I was going to other places,” right? And I want to attract them to come to Taiwan, stay here, bring their talents here, and develop, right?
 
-And so, I think our job now is also to make it easy for them to come and invest into Taiwan. And so, I think you guys are doing one of the hardest jobs in government. You guys are modernizing. You guys are… 
+And so, I think our job now is also to make it easy for them to come and invest into Taiwan. And so, I think you guys are doing one of the hardest jobs in government. You guys are modernizing. You guys are…
 
 I want to first of all, congratulations on moda, on the foundation of moda. And also, that I want to thank you that you guys are fighting one of the hardest fights. And so, in some ways I'm glad you are here, because I think you guys are all very capable. But I understand that everything from like fighting for budget, fighting to change the whole way of doing things into a digital way of doing things, it's just hard. I mean, I fight with my staff all the time about this. Just among our little organization and now you're going for a whole country, thank you. So, that's just my little 謝謝 to everybody here.
 
-But yes, I think you guys saw some of the things we wanted to talk about. So, a little bit about AmCham. AmCham Taiwan is the second oldest AmCham in Asia. Formed in 1951. Only Japan is older by two years. And so, we are the largest international business organization in Taiwan. And so, our members really care about developing Taiwan in a way that meets global standards. 
+But yes, I think you guys saw some of the things we wanted to talk about. So, a little bit about AmCham. AmCham Taiwan is the second oldest AmCham in Asia. Formed in 1951. Only Japan is older by two years. And so, we are the largest international business organization in Taiwan. And so, our members really care about developing Taiwan in a way that meets global standards.
 
 And in this new era… I think this is an area where your leadership can not only propel Taiwan to global standards, but lead to global standards, right? And so, I think everyone's just very… what’s the right word… excited but anticipating what is the thinking process. And how can we help? I know you have great connections and can talk to almost anybody.
 
-But if we can be a resource to you, if you want to talk to our member companies and say, “hey, how does XYZ operate in Japan?” “How do they operate in the US?” “Or Europe?” Our member companies operate almost everywhere and across different domains. So, a lot of our players not only operate in cybersecurity, but also healthcare and also banking in other areas. So, they are cross-cutting. So, if there's any way that when you're looking at harmonization of policies and we could be of service, please let us know. 
+But if we can be a resource to you, if you want to talk to our member companies and say, “hey, how does XYZ operate in Japan?” “How do they operate in the US?” “Or Europe?” Our member companies operate almost everywhere and across different domains. So, a lot of our players not only operate in cybersecurity, but also healthcare and also banking in other areas. So, they are cross-cutting. So, if there's any way that when you're looking at harmonization of policies and we could be of service, please let us know.
 
 But sorry, maybe I talk too much.
 
@@ -124,9 +124,9 @@ Okay. Wow. My information wasn’t updated. Okay. So, I think this area, our mem
 So, as well as other areas, any area that you're thinking about in digital reform, especially harmonizing across different agencies. Because I believe right now, I'm not an expert in this, but different agencies are looking at it in different ways. And so, I know this is very hard. And so really looking forward to learning more and seeing how we can work together. And how can we really be of service to you and be a resource for you as well?
 
 ### Audrey Tang:
-Yeah. So, Deputy Minister Lee worked with the Public Construction Commission recently. So, we now have a procurement template. So, all agencies, they can simply tick the boxes, like whether this is sensitive but not top secret, top secret or whatever. And then it automatically derives the cybersecurity requirements in government procurement. This solves a very longstanding problem where, as you mentioned, the standards are unequal and very byzantine, really, for American vendors to compete fairly in government procurement processes. Now it's all standardized. And part of the standardization is only used at public cloud companies. 
+Yeah. So, Deputy Minister Lee worked with the Public Construction Commission recently. So, we now have a procurement template. So, all agencies, they can simply tick the boxes, like whether this is sensitive but not top secret, top secret or whatever. And then it automatically derives the cybersecurity requirements in government procurement. This solves a very longstanding problem where, as you mentioned, the standards are unequal and very byzantine, really, for American vendors to compete fairly in government procurement processes. Now it's all standardized. And part of the standardization is only used at public cloud companies.
 
-So, the infrastructure level companies… Of course, Google has been in Taiwan for a long time. Microsoft is now in Taiwan, Amazon puts some of the compute, but not all of the storage services in Taiwan. So at least for the big three, it's now much more possible for government agencies to simply run public services on such premises as long as they are locally resilient, meaning that the routing does not go to the US and back. The routing should naturally, like when I video-conference you and we're both in Taiwan, they should just be in Taiwan. 
+So, the infrastructure level companies… Of course, Google has been in Taiwan for a long time. Microsoft is now in Taiwan, Amazon puts some of the compute, but not all of the storage services in Taiwan. So at least for the big three, it's now much more possible for government agencies to simply run public services on such premises as long as they are locally resilient, meaning that the routing does not go to the US and back. The routing should naturally, like when I video-conference you and we're both in Taiwan, they should just be in Taiwan.
 
 This is not because of data localization or anything like that, but rather it is to safeguard us against disruption to our subsea cables. So, if the subsea cables are cut and so on, we can still use those public services, even though it's posted on the cloud, but those cloud has an edge in Taiwan. So, as long as they fit into this general shape, we can procure it very easily now in an online SaaS market for not just the governmental agencies, but for small and medium enterprises that’s called the T-cloud.
 
@@ -138,7 +138,7 @@ Yeah, so we have two Acts and we have amended both during the first year of moda
 
 So, I'll begin with the ABI. The Electronic Signature Act is 20 years old now. And it suffers from two drawbacks. One is that any agency in Taiwan can, unilaterally, just post on their website that our service doesn't accept electronic documents, period. And the law was powerless to force them, to compel them to do anything. And many ministries, after they post such a notice 20 years ago or 10 years ago, they forgot about it. And then, that means that many of the parts of the Taiwanese bureaucracy are face-to-face only, paper only, and so on, but they forgot why, right?
 
-So, the new E-Signature Act essentially says within three years from the passing of the law, everything you need to accept electronic documents and signatures. And if other ministries don't like that, they have to pass a law to exclude themselves from the process. But we've got a lot of support across ministries on that. So, this doesn't extend to judicial proceedings, which follow its own rules. But the other four branches of the government are all subject to our new Electronic Signature Act. And because of this, we are looking for support from the E-Signature companies, the endorsements, and so on, to do essentially a cross-certification with Taiwan. 
+So, the new E-Signature Act essentially says within three years from the passing of the law, everything you need to accept electronic documents and signatures. And if other ministries don't like that, they have to pass a law to exclude themselves from the process. But we've got a lot of support across ministries on that. So, this doesn't extend to judicial proceedings, which follow its own rules. But the other four branches of the government are all subject to our new Electronic Signature Act. And because of this, we are looking for support from the E-Signature companies, the endorsements, and so on, to do essentially a cross-certification with Taiwan.
 
 Previously, 20 years ago, the E-Signature Act at the time requires a bilateral agreement in order to cross-recognize each other's certificate authorities. As you know, for Taiwan to enter a bilateral trade agreement isn't the easiest thing in the world. And so, in the new version, we simply said, OK, so there are standard organizations, like ISO, FidO, or W3C, and so on which we're happily members of. And as long as a participating country and us are both members of that standard organization, or we both adhere to the same standards, then we can cross-recognize without a need for a bilateral agreement.
 
@@ -162,7 +162,7 @@ Okay. That’s fantastic. How do we make sure others know what you’re doing?
 > (laughter)
 
 ### Audrey Tang:
-Yeah, it really is a challenge. So, for example, in our website, the press releases in the English version, they have a very small disclaimer in italics that says, this is like machine translated. A human will review it later. But we ensure timely delivery for our bilingual services on press release. 
+Yeah, it really is a challenge. So, for example, in our website, the press releases in the English version, they have a very small disclaimer in italics that says, this is like machine translated. A human will review it later. But we ensure timely delivery for our bilingual services on press release.
 
 And I think this is very important, because otherwise, it's even worse than not having an English website. If you have an English website that's always half a year out of date, then our friends around the world would think that we're half a year out of date, but we're not. So, it's either to just offer machine translation throughout, or to keep those articles updated, of course, after careful, humanely review, but machine translation is really good nowadays.
 
@@ -210,7 +210,7 @@ Oh, that's fantastic. Thank you. And one of the areas that I think our members a
 We'd love to hear your thoughts about what are the certain challenges, if any, that you face in creating this equal playground right now.
 
 ### Audrey Tang:
-Yeah. As I mentioned, I think one of the key things is to let the talent circulation flow very smoothly. For example, I worked on the Gold Card policy when I first became the... the administrator at large with a portfolio in charge of social innovation. And during the pandemic, we saw that program blossom. 
+Yeah. As I mentioned, I think one of the key things is to let the talent circulation flow very smoothly. For example, I worked on the Gold Card policy when I first became the... the administrator at large with a portfolio in charge of social innovation. And during the pandemic, we saw that program blossom.
 
 A lot of my Silicon Valley friends are in Taiwan due to the pandemic, granted. But most of them stayed, actually. At least they renewed their Gold Card. Whereas now they're maybe physically in other places of the world. Each one can then introduce more Gold Card holders into Taiwan.
 
@@ -243,7 +243,7 @@ It is better than the Estonia model. And Estonia doesn't offer health care. So, 
 So, anyone who deeply cares about Taiwan can look forward in their fifth year to get their ID card. And I think like if we have tens of thousands of people doing that, that fundamentally levels the playing field.
 
 ### Patrick Lin:
-Okay. How can we help publicize this? Can we interview you? Can we meet other people? 
+Okay. How can we help publicize this? Can we interview you? Can we meet other people?
 
 ### Audrey Tang:
 Yeah.
@@ -275,7 +275,7 @@ Please.
 ### Amy Chang:
 Thank you. Now, Minister, I can't help reminiscing your yellow stickers. Because the first time we met, that was many years ago, with our insurance co-chairs talking about electronic signatures. And I'm really thankful. for the fact that you are a man of the arts and definitely commit to what you try to do and you do it. We just have to make sure that as many people know about it as possible. So, I'm really touched to come by the fact that you have done so many things, so innovative, and so easy for others to understand what Taiwan is about. Our DEIA program really is the foundation based on that. It's to let Taiwan shine like we're talking about. And it's natural... It should be. That's the basic reason why we want to do DEIA.
 
-From a technical standpoint, we listen to our members from our business climate survey this early release early this year. Our members told us that they really want to have a lot more social responsibilities, enhanced and promoted from a chamber viewpoint. Because each individual company has done quite a lot in ESG, but collectively, we haven't. As a result of that, that's the reason why we want to emphasize how chamber-wide. 
+From a technical standpoint, we listen to our members from our business climate survey this early release early this year. Our members told us that they really want to have a lot more social responsibilities, enhanced and promoted from a chamber viewpoint. Because each individual company has done quite a lot in ESG, but collectively, we haven't. As a result of that, that's the reason why we want to emphasize how chamber-wide.
 
 DEIA – diversity, inclusion, equity and accessibility. This theme is under the S part and also in certain aspects it's under the G part. It is a collective hope that from AmCham and from AIT, more precisely Director Oudkirk, that we want to use this mechanism, DEIA, as a way to let the world know how beautiful Taiwan is. And that's the reason why we're having this forum that will take place. We have already selected the date. Depending on the President Tsai’s schedule, It's either the 18th of April or the 19th, depending on whether the President is available.
 
@@ -307,7 +307,7 @@ They are the one that help us with the instant pledges.
 Awesome.
 
 ### Amy Chang:
-And that will include the morning session. There is one variable right now because we would like to have the regional ranking officer or getting a regional from the headquarters from the city to come and talk about accessibility. Because I think federal government, even though Patrick and I, we both kind of in federal government at one time, there are, there are, do have some good merits of how they remove the barriers for DEIA, for all kinds of talents to come into work within government. 
+And that will include the morning session. There is one variable right now because we would like to have the regional ranking officer or getting a regional from the headquarters from the city to come and talk about accessibility. Because I think federal government, even though Patrick and I, we both kind of in federal government at one time, there are, there are, do have some good merits of how they remove the barriers for DEIA, for all kinds of talents to come into work within government.
 
 So, that's the morning session and thank you, Minister. for accepting my invitation to be the luncheon speaker. I take the liberty of assigning you the most difficult topic, the unconscious bias, but I don't think that that would be too difficult for you. Because I think what you are doing right now, you are breaking all sorts of barriers.
 
@@ -349,7 +349,7 @@ Whatever you like. The reason why we have such a short program is because we are
 
 So, if you want afternoon, actually, AIT has indicated to us since they are a co-sponsor of the event, that they would like to see more events in the afternoon. But because of our strength of our very small staff, that we were… This is the part that we think that we can do very comfortable with. But if you want more, add more, I think that there definitely will be appetite. It just matters how we go to the event.
 
-So, forget about how to enforce, tell me what you'd like to see happen in the luncheon part. And go in the afternoon discussion. 
+So, forget about how to enforce, tell me what you'd like to see happen in the luncheon part. And go in the afternoon discussion.
 
 ### Audrey Tang:
 It will also affect who you actually invite for the USG, right?
@@ -383,7 +383,7 @@ Sure, yeah. What do you think? What if we make gold card the main thing?
 I think the gold card is maybe the main issue. And the second part maybe Minister can talk about the AI and the influence on job opportunities.
 
 ### Patrick Lin:
-AI bias, you mean? 
+AI bias, you mean?
 
 ### Amy Chang:
 Oh, that’s one of them.
@@ -431,7 +431,7 @@ Or a different session. Maybe in the afternoon, we can learn something.
 ### Audrey Tang:
 Right.
 
-### Lee Huai-jen: 
+### Lee Huai-jen:
 Otherwise, we'll have two different standpoints, from two authorities...
 
 ### Amy Chang:
@@ -548,7 +548,7 @@ So, I think our main KPI, if you call it that, is how quickly can we come up wit
 So, the more that our policies can make these three bunch of people inch closer to each other, the more we succeed. The more we say that there doesn't have to be a tradeoff, the more do we have things to share with other democratic policies who are also facing democratic during the pandemic, during the infodemic, during the cyber cognitive warfare, and so on, because of their bureaucratic thinking that there has to be some tradeoffs. But the more innovations we do across those three values, the more we can say you don't have to make the tradeoff.
 
 ### Patrick Lin:
-Oh, I love this. I think I might… not steal this word, I might learn from this and apply this to our own organization. Thank you, thank you for sharing. I really enjoyed that. 
+Oh, I love this. I think I might… not steal this word, I might learn from this and apply this to our own organization. Thank you, thank you for sharing. I really enjoyed that.
 
 ### Audrey Tang:
 Thank you.

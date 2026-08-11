@@ -157,10 +157,10 @@ Yes, you're not the norm. [laughs]
 No, I'm not. [laughs]
 
 ### Keng-Yen Huang:
-Even for parents to recognize kids' behavior issues, that could be a problem, and so, parents tend to overlook child mental health issue. It depends on the culture, we need to find a way to help parents recognize the issue. The approaches need to fit into the culture, and develop the engagement approaches to fit specific culture. 
-There's also communication barriers-- a lot of mental health information is not accessible in public domain.Communication through a web platform or outside of the healthcare system is very critical. This is an issue that we are trying to address (through the digital tool). 
+Even for parents to recognize kids' behavior issues, that could be a problem, and so, parents tend to overlook child mental health issue. It depends on the culture, we need to find a way to help parents recognize the issue. The approaches need to fit into the culture, and develop the engagement approaches to fit specific culture.
+There's also communication barriers-- a lot of mental health information is not accessible in public domain.Communication through a web platform or outside of the healthcare system is very critical. This is an issue that we are trying to address (through the digital tool).
 
-There's also intervention design issues in the service area. A lot of mental health intervention resources have been put into treatment, but not in public health prevention. This pyramid (point to the WHO's service Pyramid model) with the wider bottom shows the need for a more self-care service model. The Pyramid model is a framework proposed by WHO. It suggests more health resources should be put into self-care approaches of health promotion, and less resources in treatment. 
+There's also intervention design issues in the service area. A lot of mental health intervention resources have been put into treatment, but not in public health prevention. This pyramid (point to the WHO's service Pyramid model) with the wider bottom shows the need for a more self-care service model. The Pyramid model is a framework proposed by WHO. It suggests more health resources should be put into self-care approaches of health promotion, and less resources in treatment.
 
 When you have a larger population that needs wellness promotion or mental health problem prevention, you need to put more resource into the prevention.
 
@@ -181,7 +181,7 @@ I had a root canal. I wasn't really happy about the process.
 Treatments are always more painful. [laughs]
 
 ### Keng-Yen Huang:
-That's right. That's right. It's better to have a good life habit. Also, lack of professional resource is another common issue (point to the slides for 3 common service issues). 
+That's right. That's right. It's better to have a good life habit. Also, lack of professional resource is another common issue (point to the slides for 3 common service issues).
 What are the consequences of not setting up the service in the right way? We know,high prevalence of mental health problem will be one of the consequences.  It's pretty much the same globally. In many countries: about 10 to 20 percent of children and young adults have a mental health issue.
 
 We know that in Taiwan, the suicide rate and depression in young people is pretty high.
@@ -197,7 +197,7 @@ This Figure is to gives you a sense of the global health diseases burden. Mental
 School, it's also a good system to target on children's mental health, but usually is not that well implemented. The approach that we developed is, we bring in the evidence-based interventions that we tested using face-to-face approaching, and modify it to a digital approach and see how it works in the digital platform. This just gives you...
 
 ### Audrey Tang:
-...report. 
+...report.
 
 ### Keng-Yen Huang:
 Scale of problems for the three issues that we just discussed are pretty high in taiwan. We know the same workforce challenge in Taiwan: low pay, not enough professionals and accessible services. It has exactly the same problems as many other countries.
@@ -210,7 +210,7 @@ It need a lot of personalized care, which it's beyond the capacity of schools. I
 ### Keng-Yen Huang:
 That's right. That's the exactly the same problem. [laughs] The digital solution that we're thinking, it uses an integrated approach. We focus on not just getting the data, but also use the data to help families to make decision before problems developed. This is the process that we have tested in African contexts. We starting by sharing with community. Depending on the resources in the setting we're targeting, we develop different implementation strategies to support.
 
-One example that we have targeted is in faith-based organizations. I will illustrate this here (point to slide), just to give you a sense of how that [mSELF] is implemented, but similar approach can be applied to healthcare settings. 
+One example that we have targeted is in faith-based organizations. I will illustrate this here (point to slide), just to give you a sense of how that [mSELF] is implemented, but similar approach can be applied to healthcare settings.
 
 In faith-based setting, we work with the leader to announce that the digital tool exists for people to use, and then depends on the literacy level of the targeted population, we give them needed support.
 
@@ -256,7 +256,7 @@ Yeah. Assistance, once you make decision...
 Like committing to it, like acceptance and commitments, right? Acceptance first and then commitment.
 
 ### Keng-Yen Huang:
-Here is an example for the mSELF contents (shows "what does a toolkit session look like" slide), this is all in English. 
+Here is an example for the mSELF contents (shows "what does a toolkit session look like" slide), this is all in English.
 
 ### Audrey Tang:
 It's fine. I think in English anyway.
@@ -304,7 +304,7 @@ It's like the social media know yourself better tests.
 Except more scientific.
 
 ### Keng-Yen Huang:
-That's right. There's also self-management version of mSELF which is for high literacy parents, they could just do it themselves in the system. 
+That's right. There's also self-management version of mSELF which is for high literacy parents, they could just do it themselves in the system.
 The second step (of the mSELF tool) is that we give them the report card. This is giving you an idea (point to the example in the slide), you can see there's many different domains will be assessed.
 
 This is me showing you, but there's a lot of other thing that we're still developing. Our second phase is to use AI approach, which will need to wait till we get a lot of data, otherwise, we cannot do that. The goal is using this step, to share information (in multiple domains), and also to help people make decisions on what to focus.
@@ -347,14 +347,14 @@ That's right.
 I can't just say I'll change 20 habits [laughs] tomorrow. It's just not possible. [laughs]
 
 ### Keng-Yen Huang:
-This is also where sometimes the support system is critical, it's important because behavior change is hard. That's why we need to think about the support system when helping people make changes. This is shown here (point to the support system in the figure) as the additional referral resource. Past year, because of COVID, digital health as the changes are skyrocketing. 
+This is also where sometimes the support system is critical, it's important because behavior change is hard. That's why we need to think about the support system when helping people make changes. This is shown here (point to the support system in the figure) as the additional referral resource. Past year, because of COVID, digital health as the changes are skyrocketing.
 Even in US context, telehealth space has changed and improved dramatically. It's the right time to do more on mHealth and telehealth.
 
 The links hear are for two versions of mSELF that are much ready to be used. Right now, I'm going to also show you some other examples and give you some timelines for things/differnet mSELF versions that we're working on. This is another version. You can see, it's a similar assessment. We first introduce what we're doing, and then ask questions.
 
 The goal is to help them understand multiple areas of need. This is more like discussion. Then we show them their result on their mental health. In young-adult, because relationship issue is also a big issue. We assess their relationship health and give them some advice.
 
-Then we look at some of the interrelated factors, that's based on the epidemiology research that we know, it's important. 
+Then we look at some of the interrelated factors, that's based on the epidemiology research that we know, it's important.
 There is a self-appraisal piece (after reviewing results). We ask what they think about the result, and then pick the areas where they would like to learn more. Then select the factor that they think might contribute to their wellness issue.
 
 This is a slide that just gives you a sense of how we developed and when we started (point to the timeline slide).  I started this project in 2018, like I say, I started in Uganda, and we tested in faith-based organization. This is also in partnership with the Minister of Health and Education.

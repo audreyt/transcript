@@ -7,7 +7,7 @@ We're leaving to go back to Korea to go to the Summit for Democracy.
 Great! I did a [pre-recording](https://www.youtube.com/watch?v=ZIwebiobCD4&feature=youtu.be) for the summit.
 
 ### Nikki Gladstone:
-Okay, great. Yeah, we're looking forward to it. We're not really sure what it'll look like, but we're looking forward to it. 
+Okay, great. Yeah, we're looking forward to it. We're not really sure what it'll look like, but we're looking forward to it.
 
 And, yeah, we're using this site visit as a way to really think of, you know, we've been planning RightsCon for East Asia since 2019. And so, really trying to use this site visit to really confirm what that RightsCon is going to look like for 2025. We're taking a break for RightsCon in 2024.
 

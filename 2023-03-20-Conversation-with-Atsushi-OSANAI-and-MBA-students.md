@@ -16,9 +16,9 @@ We'd like to discuss in just a moment. Thank you so much.
 ### Audrey Tang：
 Of course, sure.
 
-So, as I understand, it's all being documented, right? 
+So, as I understand, it's all being documented, right?
 
-> (laughter) 
+> (laughter)
 
 ### Audrey Tang：
 There's going to be a video... The video is probably going to be parsed by a multimodal AI into a transcript. And so please feel free to just ask away, in any language. I believe we have translators here too? Yes, okay.
@@ -43,7 +43,7 @@ And if both sides are good at recontextualization, meaning treating all the mist
 You also think that the kind of skill for the online communication has been changed this 20 years. In your childhood, we didn't have any Zoom or Teams, but in this era, we have Zoom to make online communication. But in the future, it could be done in other ways, like with AI or mixed AI, or with future communication styles. Do you think, what's the next skill do we need for future?
 
 ### Audrey Tang：
-Yeah, online is moving more and more to what we call co-presence. Like feeling each other's attention just as we are feeling now in a face to face way. There are many AR advancements. For example, Nvidia just posted a machine learning model that lets you look at a screen but then you're not looking at the camera anymore, but then it deepfakes your eyes so it looks like you're still looking at a camera. The two sides maintain eye contact but you don't have to actually look at a camera. [laughter] 
+Yeah, online is moving more and more to what we call co-presence. Like feeling each other's attention just as we are feeling now in a face to face way. There are many AR advancements. For example, Nvidia just posted a machine learning model that lets you look at a screen but then you're not looking at the camera anymore, but then it deepfakes your eyes so it looks like you're still looking at a camera. The two sides maintain eye contact but you don't have to actually look at a camera. [laughter]
 
 And so there's more and more small advancements in augmented reality or like Skype or Microsoft teams has a together mode so that it's like we are all looking into a large mirror of us sitting side by side and so on. So there are many online designs that are trying to anticipate the need for copresence and approximate copresence. And once the approximation is I guess good enough, then it will lead to the same synchronous attention that we talk about in the face to face setting. Thank you.
 
@@ -108,10 +108,10 @@ Okay, utilizing IT or AI technology into the manufacturing world, hardware, busi
 ### Audrey Tang：
 Yeah manufacturing is a very large field, so I cannot say with certainty that it will affect all the different sort of things that manufacturing does. But it seems to me that a lot of manufacturing is moving towards a more like subscription or use based instead of possession based so, for example, the newer generation's relationship with cars and shoes or whatever is different from the strictly possession relationship. So there are a lot more emphasis on not just personalization of style and fashion, but also personalization in terms of how it fits into the lifestyle of the person. So in a sense, the manufacturer is just the beginning of the design. It's a more humble approach, whereas the people, the community, the people who actually use it get to participate more in the design process. So it used to take a lot of customer polling or things like that in order to get into your next cycle of manufacturing, because mass manufacturing means that you have to settle on one or two of different product lines. But more and more we're looking at people who feedback their actual interactions with the products, so that what they actually want is the service, and the product is just in service of the service.
 
-So I think AI will accelerate this trend more accurately to reflect the actual desire and actual demand of your users of the service, so that the products can shape more quickly to respond in the service of the service, instead of just selling the same as product. And then service just means maintenance. So I think the order of service and product will more easily be reversed once the customers have a reliable way to collect their preferences and feedback to the manufacturer. 
+So I think AI will accelerate this trend more accurately to reflect the actual desire and actual demand of your users of the service, so that the products can shape more quickly to respond in the service of the service, instead of just selling the same as product. And then service just means maintenance. So I think the order of service and product will more easily be reversed once the customers have a reliable way to collect their preferences and feedback to the manufacturer.
 
 ### Atsushi OSANAI：
-Thank you so much. 
+Thank you so much.
 
 Do you have any other questions?
 
@@ -151,7 +151,7 @@ Actually, that is a kind of one risk in the digital AI. I think, for instance, f
 ### Audrey Tang：
 Yeah, in Taiwan, I think people have a healthy amount of critical thinking. Like all major news outlets are assumed to be, I'm sorry to say that, but colored in one way or another, so that you will have to look at some other journalistic work in order to balance it. And so it's like, I don't know, being exposed in a diverse environment for a long time. And people have antibody already in their mind. So unlike in Japan, which I understand, more legitimate journalistic news outlets is automatically assumed to be authoritative because they do their fact checking very carefully, very seriously. So if it's printed on paper on the largest newspapers, it's assumed to be real.
 
-In Taiwan, I would say there's a healthy amount of skepticism, no matter which large newspaper print in large papers fonts. So I think that's the main difference. So I guess there's good and bad, right? In this model, the good is that it's more adaptive, people exercise more critical thinking. The bad is that it could progress to such a way where there's no easy way for actual fact to spread to all corner of the society. And people are believing in their own context, their own angle of the society. 
+In Taiwan, I would say there's a healthy amount of skepticism, no matter which large newspaper print in large papers fonts. So I think that's the main difference. So I guess there's good and bad, right? In this model, the good is that it's more adaptive, people exercise more critical thinking. The bad is that it could progress to such a way where there's no easy way for actual fact to spread to all corner of the society. And people are believing in their own context, their own angle of the society.
 
 So I'm not saying the Taiwanese situation is somehow better. I'm just describing a difference.
 
@@ -192,7 +192,7 @@ Thank you very much. Thank you.
 
 ### Rinshin YOSHIDA：
 你剛剛提到以後更重要的能力是要解決沒有答案的問題，我想問的是，現在基本上高中的教育跟大學的教育都是教有答案的內容。
- 
+
 ### Audrey Tang：
 還好我沒有上過高中，沒有感覺過。（笑）
 
@@ -214,7 +214,7 @@ Have common sense [laughter] to make common sense.
 In Japan the government is trying. We are a democratic country, right? Yes, we are democratic country and we try hard to keep that. But sometimes the Japanese border is old people because Japan is a very old country, not like our ages. Main age is like 50 or 60. So sometimes the government, the choice is for the elderly people so that’s our. Sorry it’s politics but that’s the difficulty when I live in Japan.
 
 ### Audrey Tang：
-Yeah, there is an inherent problem with modern democracy is that if the voting age is 18 years old, then by default all the policies take care of the interest of people who are above 18 years old. It's by design, right? And that's why many democratic countries nevertheless pass laws that, for example pollute the environment, but not in a very quick way, in a way that will be felt only by the next generation. But the next generation is too young to vote or haven't been born yet and so they cannot veto these bad decisions that make sense for the next ten years but makes no sense for the next 100 years. This is an inherent problem with democracy. This is true, right? So I think there are many ways to go around this issue. One way is to represent this long term interests with for example, there's an idea called natural personhood in which a river like the Ganges River in India or the Whanganui River in New Zealand who are very long lived have a vote as a natural person. So that is one design. Another design is to make sure that people younger than 18 have significant agenda set in power when it comes to democracy. 
+Yeah, there is an inherent problem with modern democracy is that if the voting age is 18 years old, then by default all the policies take care of the interest of people who are above 18 years old. It's by design, right? And that's why many democratic countries nevertheless pass laws that, for example pollute the environment, but not in a very quick way, in a way that will be felt only by the next generation. But the next generation is too young to vote or haven't been born yet and so they cannot veto these bad decisions that make sense for the next ten years but makes no sense for the next 100 years. This is an inherent problem with democracy. This is true, right? So I think there are many ways to go around this issue. One way is to represent this long term interests with for example, there's an idea called natural personhood in which a river like the Ganges River in India or the Whanganui River in New Zealand who are very long lived have a vote as a natural person. So that is one design. Another design is to make sure that people younger than 18 have significant agenda set in power when it comes to democracy.
 
 So although they are too young to vote on people, maybe they're not too young to vote on petitions or participatory budgeting or anything like that. So in our ministry, we run many hackathons and we don't put an age restriction on who can participate. As long as you can participate online or have an email or have an SMS number and so on, it could be that your parents gave you this SMS number, that is fine, but you can still participate fully in this online form of democracy. And so it makes the younger people, when they are 18 already ready for democracy instead of spending like ten years of their life from eight to 18 feeling helpless. And it's always the old people doing old people things, giving all the benefits to the older people and if you spend ten years in that state you become disillusioned with the democratic system very easily. So empowering people who are younger than 18 as well as people in the future through some sort of representation is both important.
 
@@ -243,7 +243,7 @@ It is just a simple question to seeking my thesis such a study way is good or if
 ### Audrey Tang：
 Yeah our administration for digital industries, the administrator, the director general 呂正華 used to be the head of the Industrial Development Bureau so he is very well versed and well connected in the manufacturing businesses. So while I'm not directly connected to the manufacturing industries, I can ask the ADI, the administration for some recommendations after this meeting. Okay, and then, to your first question. Yeah I'm the last generation that remembers the martial law because it was lifted around 1987 when I was six years old. I was old enough to remember the martial law but people younger than me don't remember the martial law anymore. I agree with your main point. During the martial law, there is a strong sense that everything is a struggle. You need to struggle to get freedom of association, freedom of press, freedom of voting and things like that. On the other hand, though, because our democratization was not violent, it is gradual. So there was a ten years or so in which the martial law is lifted, 87, but there's not yet a direct presidential election which is 96. So within that decade, it's also the IBM PC, personal computer, everything also appear in that decade.
 
-So during that decade, many people started organizing politically but they cannot run for president, right. They cannot run for meaningful national elections. So they tried local associations or they focused on environmental work or labor right movement or consumer right movement and so on. So the NGOs and NPOs that defined that decade later on would of course become very important sources for political change once we actually get to vote for our president. But the main legitimacy is in the civil society. So the Taiwanese entrepreneurs around that time put a strong emphasis on cultivating relations. Nowadays we'll say CSR or ESG or things like that. But back then maybe it's just community relationships become very important for Taiwanese people because that's when people start to politically organize and there was no meaningful opposition party anyway during that time until later DPP became more powerful, right? So during that decade, when we say a company tries to be good to the community, it's also that the company is trying to organize some lobbying power politically, which is very different from the martial law way, which works very differently. It's a kind of privileged system. Right? [laughter] So to your point, I think Taiwanese still nowadays judge a company in more like how much good it does to the community even more than whether it's profit. 
+So during that decade, many people started organizing politically but they cannot run for president, right. They cannot run for meaningful national elections. So they tried local associations or they focused on environmental work or labor right movement or consumer right movement and so on. So the NGOs and NPOs that defined that decade later on would of course become very important sources for political change once we actually get to vote for our president. But the main legitimacy is in the civil society. So the Taiwanese entrepreneurs around that time put a strong emphasis on cultivating relations. Nowadays we'll say CSR or ESG or things like that. But back then maybe it's just community relationships become very important for Taiwanese people because that's when people start to politically organize and there was no meaningful opposition party anyway during that time until later DPP became more powerful, right? So during that decade, when we say a company tries to be good to the community, it's also that the company is trying to organize some lobbying power politically, which is very different from the martial law way, which works very differently. It's a kind of privileged system. Right? [laughter] So to your point, I think Taiwanese still nowadays judge a company in more like how much good it does to the community even more than whether it's profit.
 
 So we still have very rich, wealthy people who capture a lot of economic value from the ecosystem, but because they are not loud about it or they are loud, but only about the charities that they do. So there's less of a social division. So if you look at our income division, compare that to the jurisdictions with similar income divisions, you don't see as much opposition, tension between different income groups. And I think that is mostly because the social capital, the relational capital, the community capital that the companies put even and sometimes even especially manufacturing community enterprises to the community. So that is, I think, what bridges together the older martial law generation and the younger freedom generation together. It's this common good and in many other jurisdictions it would be a violent revolution between the two generations and would be very harmful, I guess, for everyone's memory traumatic right to think about that. But because we're thoroughly nonviolent, we're bound together by that decade of communal work.
 
@@ -255,7 +255,7 @@ Very very good questions. Thank you.
 
 ### Atsushi OSANAI：
 
-Would you like to take a photo? 
+Would you like to take a photo?
 
 ### Audrey Tang：
 Yeah, of course.
@@ -274,7 +274,7 @@ Excellent. What's the name of the YouTube channel?
 ### Audrey Tang：
 You are welcome.
 
-So where are we taking a picture? Here or outside? In the lobby. Okay. Yeah, you don't have to bring your things. You can just take a picture first. 
+So where are we taking a picture? Here or outside? In the lobby. Okay. Yeah, you don't have to bring your things. You can just take a picture first.
 
 ### Atsushi OSANAI：
 Thank you so much.

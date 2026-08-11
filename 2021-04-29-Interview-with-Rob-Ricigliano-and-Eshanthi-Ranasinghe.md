@@ -200,7 +200,7 @@ Afterward is merely people applying those patterns of interactions that seem use
 This idea of CRDT, which powers from either Calc to Google Docs, is key to the digital way of prosociality. If you do not design it as a conflict-free, replicable data type, then it's inviting violence, escalation, and the antisocial corners of social media that I mentioned.
 
 ### Rob Ricigliano:
-How do you grapple with folks who don't have a pro-social intention? In other words, they try to exploit something in an otherwise open system, to co-opt or to divide or polarize. 
+How do you grapple with folks who don't have a pro-social intention? In other words, they try to exploit something in an otherwise open system, to co-opt or to divide or polarize.
 
 ### Audrey Tang:
 The asymmetry of time spent to vandalize Wikipedia vis-à-vis the automated and semi-automated structure that Wikipedia has in its disposal, shows that nobody is interested in trolling. If the trolling doesn't pay off, they will just move to some other forum.
@@ -285,7 +285,7 @@ These seems like from the 60s, maybe [laughs] in the US, but the sentiments are 
 That's a very cool analogy. How...
 
 ### Rob Ricigliano:
-I find it really interesting that...I work with lots of organizations around complex systems. Social systems, not technical systems. 
+I find it really interesting that...I work with lots of organizations around complex systems. Social systems, not technical systems.
 
 Anyway, in complexity and systems there's this concept of emergence, which is that new realities emerge that couldn't necessarily be predicted before. What's interesting to me is that the depth of the pro-social character of the architecture emerged.
 
@@ -321,7 +321,7 @@ The drafting stage, the place where we listen to the people and gets this "how m
 That makes sure that this can accurately reflect the citizens, which...That's also because constitutionally direct democracy, that Switzerland idea. 100 years ago already inspire that jurisdiction death currently works in Taiwan. We have a lot of direct democracy components in our constitutional thinking.
 
 ### Rob Ricigliano:
-Can I come back to the horizontal minister thing? I love that phrase. Can you define horizontal minister versus, is it, vertical minister? 
+Can I come back to the horizontal minister thing? I love that phrase. Can you define horizontal minister versus, is it, vertical minister?
 
 ### Audrey Tang:
 Sure, also known as "minister at large" or "minster without portfolio", but please don't call me The Right Honorable -- that's a British thing.

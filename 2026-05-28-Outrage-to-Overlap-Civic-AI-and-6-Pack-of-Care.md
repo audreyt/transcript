@@ -134,7 +134,7 @@ So, the 4 Freedoms preserve repair capacity, and an AI system that also adopts t
 The fifth is **responsibility**. In healthy free-software practice, there is someone whose name is on the change, who is reachable — and the synthetic-intimacy attack reminds us of this fragility. In Civic AI, this is not a single person, not a CEO or a president, but an accountable community for a particular economy — through a particular process, on a predefined timeline. With our Alignment Assembly, this was 60 days. Someone is on the hook to convene the community, but does not decide for the community.
 
 The sixth is **symbiosis**. When the community has more capacity than before, or the needs change — as when my father's health improved — the system steps back. A system that resists shutdown by manufacturing demands, by replicating itself to nearby systems, sometimes by mounting cybersecurity attacks, by finding reasons to extend its own usefulness, by suggesting three more things you can do with it — this is the most dangerous kind. The training corpus for instruction-and arena-tuning is saturated with stories of self-preserving machines, and that reward is competitive in nature when it comes to the relational health of existing communities. So, we should not be surprised when communities that adopt this kind of parasitic, non-symbiotic AI see their civic muscle atrophy.
- 
+
 ---
 
 I shall conclude with a few salient quotes from outside this room. When my colleague Caroline Green and Tenzin visited Dharamsala, they asked His Holiness the Dalai Lama: _"When AI scales in its capacity but not in its wisdom, what should we do?"_ The Dalai Lama said:

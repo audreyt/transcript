@@ -78,7 +78,7 @@ And so this idea is very familiar to Asian people. I mean, I use a Shinto word, 
 Do we have also challenges, especially in here?
 
 ### Audrey Tang:
-Yeah, so conversely, I think because of this emphasis on relational health, we become more resilient to the polarization virus. So in a sense, we did not succumb to the first wave of polarization. But it also means that we may not be yet over peak polarization. Right? So whereas in the US and other Western polities, maybe they have already peaked, they have entered, you know, community spread to use the COVID metaphor. But maybe here we're not as advanced as they are. 
+Yeah, so conversely, I think because of this emphasis on relational health, we become more resilient to the polarization virus. So in a sense, we did not succumb to the first wave of polarization. But it also means that we may not be yet over peak polarization. Right? So whereas in the US and other Western polities, maybe they have already peaked, they have entered, you know, community spread to use the COVID metaphor. But maybe here we're not as advanced as they are.
 
 Which means both opportunities—it means that if we vaccinate ourselves, we don't have to suffer as much. But also maybe it means we don't have a strong enough immune system. So if a truly powerful variant emerges, maybe we're not as wary as the Western democracies. So I think it means that it's doubly important that we make ourselves aware of what's going on in Western democracies and then develop inoculations.
 
@@ -208,7 +208,7 @@ So it is not for me to say when it comes to immigration, what is that creative b
 And, you know, a reporter is asking like hundreds of thousands of people their opinion... it's like... so we should also use AI.
 
 ### Audrey Tang:
-Right, so you can, as I mentioned, we literally sent text messages to 200,000 people, right? So they all have very good ideas. And then in online deliberation, you can work through those ideas. And what modern-day language models can do is that they can accurately reflect back the group picture to the people so that people do not get polarized needlessly. They can fairly see what are the best arguments pro, best arguments con, and then just work on what is the one innovative idea that can let both of the strongest arguments be somewhat satisfied. 
+Right, so you can, as I mentioned, we literally sent text messages to 200,000 people, right? So they all have very good ideas. And then in online deliberation, you can work through those ideas. And what modern-day language models can do is that they can accurately reflect back the group picture to the people so that people do not get polarized needlessly. They can fairly see what are the best arguments pro, best arguments con, and then just work on what is the one innovative idea that can let both of the strongest arguments be somewhat satisfied.
 
 So that is fundamentally a different way to aggregate opinions than polls. Because when you poll people individually, they're going to be quite extreme in their positions. But in a conversation, people read the air, and they negotiate with each other. So I think this is polling plus reading the air. It's like a focus group of millions of people.
 
@@ -216,7 +216,7 @@ So that is fundamentally a different way to aggregate opinions than polls. Becau
 My last question. You have left the cabinet for quite some time, and have advocated for this plurality, this importance, and you already said there are examples of these ideas going into the government, going into the law, but do you see... It appears... that the pace of the transformation is not as fast as we would hope? Did you see any challenges or unexpected setbacks when you try to implement those ideas to other countries or nations?
 
 ### Audrey Tang:
-I switched from the cabinet position last year to the diplomatic position, and I felt that "pressure makes diamonds" in Taiwan. So in other polities which had yet to feel the pressure, people would not have an urgent motivation to change the status quo, and it was harder to obtain air cover, the pre-commitment for systemic change. 
+I switched from the cabinet position last year to the diplomatic position, and I felt that "pressure makes diamonds" in Taiwan. So in other polities which had yet to feel the pressure, people would not have an urgent motivation to change the status quo, and it was harder to obtain air cover, the pre-commitment for systemic change.
 
 On the other hand, I think in the past couple of years, everywhere, all the democracies feel the pressure of polarization. There's not a single democracy last year where the leading ruling party did not lose seats. There's not a single democracy where they can keep their seats. So suddenly, everybody is feeling the pressure.
 

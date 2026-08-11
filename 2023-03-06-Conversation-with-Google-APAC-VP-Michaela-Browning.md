@@ -77,13 +77,13 @@ It's to reflect on why Google is thinking so much about the responsible aspects 
 
 There is some extraordinary possibility for scientific discovery, innovation to inspire, empower, inform, but we do have to think about how to do it responsibly. We're very committed to working with stakeholders and partners and thinking about how to do that.
 
-To have somebody like you with your expertise and background thinking about this, we’re excited about the possibility of working with you, and hearing from the Taiwan government, and thinking about what are the opportunities here to look at this because we think about the possibility for AI and in helping us do better for example on accelerating progress on the sustainable development goals. That’s a very real and significant possibility we should be exploring. 
+To have somebody like you with your expertise and background thinking about this, we’re excited about the possibility of working with you, and hearing from the Taiwan government, and thinking about what are the opportunities here to look at this because we think about the possibility for AI and in helping us do better for example on accelerating progress on the sustainable development goals. That’s a very real and significant possibility we should be exploring.
 
 I'm here, one, to underscore our commitment to Taiwan, hugely important for Google as you know, and we're so grateful to have the partnership and support of the Taiwan government.
 
 Deputy Minister Lee has been terrific for helping us think about how to develop and tailor this news funding announcement which will be announced this Wednesday and that year and a half of deep consultation with all the stakeholders to think about what is a responsible idea here that is tailored to Taiwan circumstances, so we're excited about that.
 
-You're also responsible for critical infrastructure, cybersecurity, all of these areas that are so important to us. Taiwan is so important for our operations here. 
+You're also responsible for critical infrastructure, cybersecurity, all of these areas that are so important to us. Taiwan is so important for our operations here.
 
 We are also invested here in terms of subsea cables and data centers with more on the way and that is important not just for Taiwan, not just for Google, but because it also is important for connection, interoperability and for the Internet for this region, so very important more broadly.
 
@@ -124,7 +124,7 @@ Right. Nowadays, we're also thinking about the emergency backup and restore situ
 We will want to run the drills that if the Google data center, something happens to it, we can actually restore our operations from maybe Australian or Japanese data center.
 
 ### Michaela Browning:
-Thank you for sharing your insights and thinking on these things and we are keen to continue to explore them with you. We, of course, not only believe, but know cloud first principles are important for governments and we are advocating on this in APEC this year for example, and continuing to do elsewhere.  We also consider our secure cloud offerings to be the best, and our commitment to infrastructure resilience to be very much about how can we provide the kinds of assurances that people need. 
+Thank you for sharing your insights and thinking on these things and we are keen to continue to explore them with you. We, of course, not only believe, but know cloud first principles are important for governments and we are advocating on this in APEC this year for example, and continuing to do elsewhere.  We also consider our secure cloud offerings to be the best, and our commitment to infrastructure resilience to be very much about how can we provide the kinds of assurances that people need.
 
 Certainly, that governments and others need it when they are looking after the interests of many millions of people.
 
@@ -141,11 +141,11 @@ That’s right, the zero trust architecture from 2009. Secure by Design is a fou
 
 We’ve seen examples of that around the world. We’re very keen to talk to you about how we can actually deliver on some of those objectives with you through our products and services. Our secure cloud, for example, we think is world leading.  You will have seen in the last week that,we’ve made an additional quantum milestone announcement.
 
-The investment that we are making in quantum, thinking about post quantum encryption, and these things, is part of our enduring commitment to making sure we are at the forefront of cybersecurity enablement in order to continue to provide the assurances that people need, and that certainly, the governments need when they’re thinking about critical infrastructure. 
+The investment that we are making in quantum, thinking about post quantum encryption, and these things, is part of our enduring commitment to making sure we are at the forefront of cybersecurity enablement in order to continue to provide the assurances that people need, and that certainly, the governments need when they’re thinking about critical infrastructure.
 
 We’re very happy to talk in detail about some of these things to demonstrate why, of course, we have a world class suite of offerings in that regard, but also, we understand it’s an ecosystem wide challenge. It’s all from the best emerging technology and being at the frontier of that technology, all the way down to that digital literacy, including for aging populations or vulnerable populations that might have less current digital capacity, for example.
 
-That’s a continuous exercise throughout that whole ecosystem, and what can we do to contribute? This is one of the things I’m hoping to hear a bit more about in the next few days. Where do you want us to lean in and do more that’s useful to Taiwan? Including, because we’re so invested here, it’s an investment in ourselves to be thinking about that as well. 
+That’s a continuous exercise throughout that whole ecosystem, and what can we do to contribute? This is one of the things I’m hoping to hear a bit more about in the next few days. Where do you want us to lean in and do more that’s useful to Taiwan? Including, because we’re so invested here, it’s an investment in ourselves to be thinking about that as well.
 
 We’re interested in all of the people who use Google in Taiwan, of course, but it’s also, you can be reassured by the fact that it’s also an investment in ourselves because we’ve got such big commitments here. We need to protect those as well.
 
@@ -365,8 +365,8 @@ We’re very happy to continue to speak to your teams and to share different mod
 We have had to think about two-factor authentication and secure by design. If I go through the three different parts, in terms of the rules of the road first. Let me give you and example on cross border data flows, how can you do those securely? How can you do enable data flows that are privacy compliant, consistent ways to have trusted data flows?
 
 We've been certified under CBPR, Global CBPR. We are also doing things to help others, small businesses certify under CBPR in the US. There might be some opportunities there for example to consider whether the pilot we are doing in the US is applicable here. Then on the products and services, one example is how does our secure cloud work, how does our subsea infrastructure work and contribute, how do these help mean that you don’t have to worry so much about vulnerabilities of users, people, but you can have scalable secure by design products and services where the security is built in and gives the users confidence.
- 
-Then the skilling and talent there are many layers.  One example is the digital skilling and cloud certification, both in government, or business that we do.  Or the digital literacy training for schools, or for citizens.  We already do Grow with Google programs here.  We’re happy to do more in areas you would like us to but good to discuss where the priorities are and what makes sense. 
+
+Then the skilling and talent there are many layers.  One example is the digital skilling and cloud certification, both in government, or business that we do.  Or the digital literacy training for schools, or for citizens.  We already do Grow with Google programs here.  We’re happy to do more in areas you would like us to but good to discuss where the priorities are and what makes sense.
 
 ### Audrey Tang:
 As a party to the CBPR, our designated contact for CBPR compliance, the III is also within the Administration's purview. So not just fixing Google Translate, but also...

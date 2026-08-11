@@ -47,7 +47,7 @@ Yeah, yeah.
 Right, so, how shall we start? We did receive a kind of planning document. I don’t know…
 
 ### Shuyang Lin:
-Yeah, maybe I can start just to see kind of hing ow the… 
+Yeah, maybe I can start just to see kind of hing ow the…
 
 I’ll just say something I said yesterday in the g0v summit. I think from vTaiwan’s perspective… So vTaiwan is a community-based project out of the g0v community and it has been host digital regulatory reform conversations from 2014 to 2019. It was more active back in those years when there were more governmental engagements in the process.
 
@@ -57,7 +57,7 @@ And no pandemic.
 ### Shuyang Lin:
 Yeah, and then pandemic happened. But nevertheless, I think there's still some people in the community trying to keep the operation just at bare minimum level. So, keep it running somehow. Although during pandemic it's quite difficult.
 
-And then, recently, we started to realize the energy of the community started to come back. And we do have more energy to continue doing something for vTaiwan. And we realize it's really important to get a diverse range of opinions, including from industries, from societies, also from the governments of Taiwan specifically. 
+And then, recently, we started to realize the energy of the community started to come back. And we do have more energy to continue doing something for vTaiwan. And we realize it's really important to get a diverse range of opinions, including from industries, from societies, also from the governments of Taiwan specifically.
 
 So, that's also why we're thinking from the past year, we kind of start… we revitalize the community a bit. And it's been kind of running more stably. We have a small meeting every week, meeting every week to basically think about how to host another conversation again. A multi-stakeholder conversation that we can probably bring in new concerns from society and host hybrid workshops to deliberate potential policy recommendations, or regulatory change together with Taiwanese government.
 
@@ -70,7 +70,7 @@ So, I guess, we then start to think about, propose this idea of forming a three-
 So, yeah, I guess that's kind of, at least my intention, like, from the vTaiwan community. And, yeah, I guess, if you want to add to it.
 
 ### Colleen McKenzie:
-Yeah, I can speak a little to AOI's intentions too. So, we have this tool, Talk to the City, that we've built that is in use. It is a discourse analysis tool. So, it can summarize large volumes of conversation, which makes it great for soliciting input from large constituencies, large groups of people. But we haven't yet built it into something that has the recursive loop, as the recursive public team put it, in the work that you guys did last year, that helps an ongoing conversation evolve and document that conversation. 
+Yeah, I can speak a little to AOI's intentions too. So, we have this tool, Talk to the City, that we've built that is in use. It is a discourse analysis tool. So, it can summarize large volumes of conversation, which makes it great for soliciting input from large constituencies, large groups of people. But we haven't yet built it into something that has the recursive loop, as the recursive public team put it, in the work that you guys did last year, that helps an ongoing conversation evolve and document that conversation.
 
 So, we think that building that in the context of an application to a particular group of people or a set of discourse topics, is the best way to iterate and figure out what the best tools are going to look like. And this is, like, maybe the most exciting application of Talk to the City so far. We're working with a number of different partners, but the degree to which the government of Taiwan has been interested in the results of our work is really exciting.
 
@@ -80,7 +80,7 @@ And so, I think this is a perfect place to do that experimentation and develop t
 Great. So, the other community that you work with, I've read the Michigan case study, that looks like it also has a chance to grow into a recursive public if you do iterated conversations. But is there an appetite for that in Michigan or in similar communities?
 
 ### Brittney Gallagher:
-I can speak to that specifically. Yes, there's actually an appetite to expand it more broadly, because the group that we worked with, Silent Cry, isn't just based in Michigan. 
+I can speak to that specifically. Yes, there's actually an appetite to expand it more broadly, because the group that we worked with, Silent Cry, isn't just based in Michigan.
 
 ### Audrey Tang:
 Exactly.
@@ -105,7 +105,7 @@ But yes, to the point, they want to do it in different cities, to be able to tak
 ### Değer Turan:
 So, there's a third case that I want to mention briefly. We don't have a public output for this, which is with labor unions. Labor unions only have in the U.S. a 20-day window to negotiate with the government on changing their salary and benefits, which is crazy. Like the system is rigged so that there is no room for deliberation.
 
-So, we worked with the president of the California Chapter 4 VA, which is the Veterans Association. He sent out a survey. We collected the results, consolidated it. He sent out the report to everyone and asked for feedback. And just with what exists, we were able to do a loop this way where like no one is expecting a 24-hour turnaround on a report like this. And most people just don't even submit anything because they are quite checked out from the union work. But when he was able to get back to them with like, here is the report round two for feedback, the engagement I think went from 200 to like 4,000… I don't remember the numbers, but because when you see other people start saying things, that's when you say more. 
+So, we worked with the president of the California Chapter 4 VA, which is the Veterans Association. He sent out a survey. We collected the results, consolidated it. He sent out the report to everyone and asked for feedback. And just with what exists, we were able to do a loop this way where like no one is expecting a 24-hour turnaround on a report like this. And most people just don't even submit anything because they are quite checked out from the union work. But when he was able to get back to them with like, here is the report round two for feedback, the engagement I think went from 200 to like 4,000… I don't remember the numbers, but because when you see other people start saying things, that's when you say more.
 
 So, I think the appetite would be quite, quite powerful, especially if you have a short one.
 
@@ -135,7 +135,7 @@ And so… But if you look at kind of previous years, for example, on net zero, m
 
 And this is, I think, something that they… Like, this is what we call a cheap and cheerful win, right? Because you don't have to do anything extra. All of these are strictly a subset of what you did already do with us, with Michigan, and with the labor union people. And so, that's one obvious entry.
 
-So, the Youth Development Agency is formally in charge of spreading deliberative democracy in Taiwan. And the person who established this whole program will soon be our Deputy Premier, Cheng Li-chun, previously Minister of Culture, previously Minister of Youth Engagement. And so, I think this is like the obvious natural ally. 
+So, the Youth Development Agency is formally in charge of spreading deliberative democracy in Taiwan. And the person who established this whole program will soon be our Deputy Premier, Cheng Li-chun, previously Minister of Culture, previously Minister of Youth Engagement. And so, I think this is like the obvious natural ally.
 
 And I think vTaiwan has plenty of people who feel strongly about housing justice as well in adjacent communities. There's this Rentea group, there's many projects within g0v that also has housing justice as their main concern. And they were just, I think, drawing this impossibility event diagram. Like they can't both advance social cause and mobilize in an open way and being government funded. That doesn't work, right?
 
@@ -170,7 +170,7 @@ Seems like a very great avenue on like already something past exists up until no
 Right. Exactly. Yeah, there is more like 100 past deliberative workshops worth of data.
 
 ### Değer Turan:
-It's worth asking questions, and this is kind of maybe more in the weeds, but how should the opinions depreciate through time? There needs to be some sense of calibration like if you go on and if the minute of your scroll is everything about 10 years ago that also doesn't seem right? 
+It's worth asking questions, and this is kind of maybe more in the weeds, but how should the opinions depreciate through time? There needs to be some sense of calibration like if you go on and if the minute of your scroll is everything about 10 years ago that also doesn't seem right?
 
 ### Audrey Tang:
 Unless you're a historian. Or investigative journalist.
@@ -216,7 +216,7 @@ So that's the topic we’ve chosen?
 Well, the YDA chose that for this year's Let's Talk already. So, they are like with or without us, they're going to run 34 workshops. It was just the main value proposition is that so that they can aggregate better, right? So, it's not like vTaiwan will run two additional workshops, not like that. More like vTaiwan will support those 34 workshops.
 
 ### Shuyang Lin:
-I probably just want to use this chance to also like bring this default topic we proposed in the document. And just have a kind of slight comment on them. Because at least initially from the vTaiwan community. 
+I probably just want to use this chance to also like bring this default topic we proposed in the document. And just have a kind of slight comment on them. Because at least initially from the vTaiwan community.
 
 Like, one of my concerns is actually, maybe you can help me out with the process design, because vTaiwan has been very tech heavy, so we always discussed about the topic we choose will be more ideally if we choose topics relate to digital issues.
 
@@ -243,7 +243,7 @@ Yeah, 10 years ago. So yeah, I mean, I welcome this change. I just wanna share m
 ### Audrey Tang:
 Yeah, I mean, 10 years ago, the vTaiwan scope was limited precisely because the… Like, of course, Uber was controversial. Marriage equality was more controversial, right? So, if we have the tools, why not to solve it like the actually the most controversial topic?
 
-And the reason why is that not many of them are online, right? The people who are highly religious and was not so pro marriage equality. They don't feel very comfortable if we say, you know, come to this Taiwan platform or that we're going to, you know, just interview you, but then check out POLIS for your ideas. 
+And the reason why is that not many of them are online, right? The people who are highly religious and was not so pro marriage equality. They don't feel very comfortable if we say, you know, come to this Taiwan platform or that we're going to, you know, just interview you, but then check out POLIS for your ideas.
 
 > (laughter)
 
@@ -267,14 +267,14 @@ And so, it's like a poll, but it's also deliberative. It's facilitated using the
 
 And so, we have a lot of raw data, actually, as a result of that, which may also be AI analyzed, actually, now that I think of it. But the thing is, though, that it is as rigorous as a regular poll, but far more agency to the public, because in addition to the existing measures that we want to gauge the social acceptance with, for example, requiring digital signatures on advertisements now because you cannot tell a celebrity from the deep fake and so on, they also set a lot of agenda, like how their ideal PKI system should function in a way that's decentralized, that's not state controlled, and so on, which you won't get from a regular poll, right? It only gets interesting when there's high bandwidth input from the citizen in the local city, either polis or synchronous like this one.
 
-So, the upshot is that I think we can now safely assume that this mini public has all used something like Facebook and YouTube now, which is not the case 10 years ago, right? So again, this whole of population sampling was something that Vita did not do because self-selection and rolling wave surveys were assumed to reach the people who are actually relevant in public. 
+So, the upshot is that I think we can now safely assume that this mini public has all used something like Facebook and YouTube now, which is not the case 10 years ago, right? So again, this whole of population sampling was something that Vita did not do because self-selection and rolling wave surveys were assumed to reach the people who are actually relevant in public.
 
 But now, the relevant public is like literally everyone because everyone is online now, right? So, then we can afford to do randomized stratified sampling and not get caught in this informed gap of like a lot of people, half of them don't know what this means. So, now what you do, but now this gap is being closed very quickly.
 
 Did I answer your question?
 
 ### Shuyang Lin:
-Yes, totally. I also just answered myself another question I had, but I can just figure this out. Because in the beginning, like within the community, we thought that, you know, we're going to do this. Within the community, we thought the value of Vita would be doing something that government hasn't done already. 
+Yes, totally. I also just answered myself another question I had, but I can just figure this out. Because in the beginning, like within the community, we thought that, you know, we're going to do this. Within the community, we thought the value of Vita would be doing something that government hasn't done already.
 
 But just listening to this potential topic for housing justice, I think it's really, it's also quite fair to say that if the government is actually hosting some kind of public listening, we can also support from the community side. And support with the kind of creative process and creative digital tools. And see if we can better the process together. So, it's not like really just kind of, you know… I think that it's a softer approach and I think it's great.
 
@@ -310,7 +310,7 @@ Which means I can amplify your voice.
 I think the main thing is just making things mainstream. Yeah, cause I would love for this to be a no-brainer that if this is not happening, that's when someone is suspicious. Then the other way around…
 
 ### Audrey Tang:
-I think what we in the vTaiwan community 10 years ago was doing was a lot of taking the best from Consul, Decidim, Better Reykjavik, from the occupy movement, from Loomio and so on, and try to see whether a combination of these in a toolkit approach, instead of a solution-turnkey approach works locally in Taiwan.  And I think that experiment worked very well. We did conclusively prove that a toolkit approach works better than a solutionism approach. 
+I think what we in the vTaiwan community 10 years ago was doing was a lot of taking the best from Consul, Decidim, Better Reykjavik, from the occupy movement, from Loomio and so on, and try to see whether a combination of these in a toolkit approach, instead of a solution-turnkey approach works locally in Taiwan.  And I think that experiment worked very well. We did conclusively prove that a toolkit approach works better than a solutionism approach.
 
 The kind of paradoxical challenge now is that everybody now thinks there's something about Taiwanese exceptionalism like…
 
@@ -345,7 +345,7 @@ Yeah, radical trust. I love that.
 ### Audrey Tang:
 But yeah, the some of them, I would say it's not just a precondition, it was also the result of the decades work. Yeah, because ten years ago, we were at the cusp of very polarized society. And I mean even before the Sunflower movement, there were a lot of distrust of the government and the state apparatus. And there was a real danger of being polarized the way the US is right now with the administration enjoying 9% of trust from the citizenry.
 
-And if we did get polarized along party lines back then, I don't think there will be much radical trust as you observe now. And the fact that we didn't polarize along the party lines back then, and the fact that for the past ten years, a more… I would say, depolarizing norm of democracy has been adopted. 
+And if we did get polarized along party lines back then, I don't think there will be much radical trust as you observe now. And the fact that we didn't polarize along the party lines back then, and the fact that for the past ten years, a more… I would say, depolarizing norm of democracy has been adopted.
 
 Of course, it's partly thanks to the trust environment that Taiwan already enjoys but I would say that over the decade, it also contributed to the radical trust that you are observing now.
 
@@ -357,7 +357,7 @@ We prioritize much more that than say like a single like UI that solves issues. 
 And yeah, just curious to ideate on that a little bit because I think that's kind of the interface work that's going to set up whether or not this is bringing people more together.
 
 ### Audrey Tang:
-Yeah, and I think there are like new helps from the ecosystem as well, right? The jigsaw perspectives API was just updated to include bridging attributes, right? So, in a sense, you don't have to rely on GPT-4 Turbo alone you can also consult the perspectives API I think it's affinity, compassion, curiosity, nuance, personal story, reasoning and respect. And it used only to do toxicity, hate, whatever, like the negative stuff. 
+Yeah, and I think there are like new helps from the ecosystem as well, right? The jigsaw perspectives API was just updated to include bridging attributes, right? So, in a sense, you don't have to rely on GPT-4 Turbo alone you can also consult the perspectives API I think it's affinity, compassion, curiosity, nuance, personal story, reasoning and respect. And it used only to do toxicity, hate, whatever, like the negative stuff.
 
 But now, I think jigsaw has been pivoting to actively surface the bridging stuff. And the great thing about having language models that actually parse these attributes is that if you deploy it in a kind of synchronous fashion, it can actually actively steer or nudge conversations.
 
@@ -369,7 +369,7 @@ The APIs make it super easy and also being able to almost like cherry pick into 
 ### Shuyang Lin:
 Yeah, I mean this scope of making things recursive even though I'm still learning what it means to be recursive. Because like in the beginning, initially I thought it would be great to consult for a group of people, maybe they had conversation 10 years ago and just consult for them what they would think and simulate how future population would think about the current issue we're discussing.
 
-But then, when I study more it will be beyond just consulting different 10 snapshots of conversations. We'll be making I guess the outcome of each conversation recursive as well. We're not stagnate to a certain result of a conversation as a snapshot, but actually, the outcome will be evolving and you have the potential to track how people change their minds as well. 
+But then, when I study more it will be beyond just consulting different 10 snapshots of conversations. We'll be making I guess the outcome of each conversation recursive as well. We're not stagnate to a certain result of a conversation as a snapshot, but actually, the outcome will be evolving and you have the potential to track how people change their minds as well.
 
 And all that layers of potential is very, very exciting. Like when you said the difference between… Yeah so, just saying I think it's part of making things more synchronous. It's also very interesting because when we thought about asynchronous conversation and having… So, we thought about say for example using POLIS and using Talk to the City,  if assuming they're asynchronous way of engaging people, you instantly open this whole new world of… you can consult for previous conversations because it's asynchronous, anyway.
 
@@ -400,7 +400,7 @@ Right. Yeah, that’s right.
 If you have any ideas on flows or interfaces…
 
 ### Shuyang Lin:
-Yeah, please guide us. I want to formally invite you to… mentor us. 
+Yeah, please guide us. I want to formally invite you to… mentor us.
 
 ### Audrey Tang:
 We can continue this conversations after May 20th.
@@ -423,7 +423,7 @@ Yeah. Also, in the US I believe people who are religious are also a bit more DEI
 In contrast, in Taiwan the more educated or scientific trained you are, the more likely you're religious, so this is like opposite to the US conversation. And mostly because our religions are really soft…
 
 ### Brittney Gallagher:
-They’re pretty chill. 
+They’re pretty chill.
 
 > (laughter)
 

@@ -410,22 +410,22 @@ Code is the true thing. How do you mix those two things together? You’re both 
 ### Audrey Tang:
 Since we’re in Tao Te Ching territory, let’s quote the scripture. Chapter 11, “The Uses of Not.”
 
-> Thirty spokes  
-meet in the hub.  
-Where the wheel isn’t  
-is where it’s useful.  
-  
-Hollowed out,  
-clay makes a pot.  
-Where the pot’s not  
-is where it’s useful.  
-  
-Cut doors and windows  
-to make a room.  
-Where the room isn’t,  
-there’s room for you.  
-  
-So the profit in what is  
+> Thirty spokes
+meet in the hub.
+Where the wheel isn’t
+is where it’s useful.
+
+Hollowed out,
+clay makes a pot.
+Where the pot’s not
+is where it’s useful.
+
+Cut doors and windows
+to make a room.
+Where the room isn’t,
+there’s room for you.
+
+So the profit in what is
 is in the use of what isn’t.
 
 ### Audrey Tang:
@@ -829,30 +829,30 @@ That’s how the Internet governance really shines, because once people can take
 ### Audrey Tang:
 My main suggestion is to start small and do not prescribe anything. Don’t make long speeches. Instead, just start designing for spaces for people to participate. To quote the scripture again and to conclude this conversation, from the 23rd chapter:
 
-> Nature doesn’t make long speeches.  
-A whirlwind doesn’t last all morning.  
-A cloudburst doesn’t last all day.  
-Who makes the wind and rain?  
-Heaven and earth do.  
-If heaven and earth don’t go on and on,  
-certainly people don’t need to.  
-  
-The people who work with Tao  
-are Tao people,  
-they belong to the Way.  
-People who work with power  
-belong to power.  
-People who work with loss  
-belong to what’s lost.  
-  
-Give yourself to the Way  
-and you’ll be at home on the Way.  
-Give yourself to power  
-and you’ll be at home in power.  
-Give yourself to loss  
-and when you’re lost you’ll be at home.  
-  
-To give no trust  
+> Nature doesn’t make long speeches.
+A whirlwind doesn’t last all morning.
+A cloudburst doesn’t last all day.
+Who makes the wind and rain?
+Heaven and earth do.
+If heaven and earth don’t go on and on,
+certainly people don’t need to.
+
+The people who work with Tao
+are Tao people,
+they belong to the Way.
+People who work with power
+belong to power.
+People who work with loss
+belong to what’s lost.
+
+Give yourself to the Way
+and you’ll be at home on the Way.
+Give yourself to power
+and you’ll be at home in power.
+Give yourself to loss
+and when you’re lost you’ll be at home.
+
+To give no trust
 is to get no trust.
 
 ### Andrew Leonard:

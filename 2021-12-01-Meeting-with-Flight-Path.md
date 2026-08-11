@@ -104,7 +104,7 @@ In the case that you will still need the deposit, is there a natural next step f
 ### Cassandra Brennan:
 We just recently came second in the Taipei Meet Dragons' Chamber Event on the 20th of November, a couple of weekends ago, I guess, now, we were hoping to find any sort of investment out of that, but the Dragons have yet to collect enough in an angel fund to do so. We're still waiting.
 
-We are pursuing some investment in Canada. It is very hard for Taiwanese investors to understand how their money can be used with regards to that much would be going into just allowing us to operate. It's been one of the more difficult roadblocks we found because they don't think that money would be used to its full extent if we were just putting it into a bank account as bond. 
+We are pursuing some investment in Canada. It is very hard for Taiwanese investors to understand how their money can be used with regards to that much would be going into just allowing us to operate. It's been one of the more difficult roadblocks we found because they don't think that money would be used to its full extent if we were just putting it into a bank account as bond.
 
 ### Audrey Tang:
 I see. Of course, the investment scale also makes a difference. If it's a part of a larger investment for many different services, then that could be treated as a smaller portion of operation fee, essentially. If the service is concentrated on getting this license, then it seems like a much larger ratio. I see your point.
@@ -145,7 +145,7 @@ She's one of the Dragons Amy and I were lucky enough to have her in the office o
 
 Here in Taichung we're very lucky, but in order to have something similar to that we would need to spend thousands and thousands of dollars to have an office with a door, in order to be qualified for some of those grants available in Taipei.
 
-We were wondering if there was any that you are able to help us look into or certain grants available in Taichung city. At this point, there aren't that many from what I've found. Also, for women in business, the first place winner is also a woman from Taichung. 
+We were wondering if there was any that you are able to help us look into or certain grants available in Taichung city. At this point, there aren't that many from what I've found. Also, for women in business, the first place winner is also a woman from Taichung.
 
 So, two women took the top two spots which is cool, both have ideas for children in education. If we were able to find maybe some of these grants, this money would help with the license registration wouldn't use any angel investor money to do what we need.
 
@@ -171,11 +171,11 @@ The students will also have a chance to maybe study music, photography, or somet
 I see.
 
 ### Cassandra Brennan:
-These opportunies would be directly with the schools we work with. The children work with education advisors who help them find universities and we would process visa applications. We would connect younger students (grade 7-12) or one of our private school partners who also offer homestay programs. 
+These opportunies would be directly with the schools we work with. The children work with education advisors who help them find universities and we would process visa applications. We would connect younger students (grade 7-12) or one of our private school partners who also offer homestay programs.
 
 We focus mainly on the East Coast, the West Coast, and then where I'm from in Ontario. Amy's from Nova Scotia, so we focus a lot on the East Coast as well. We have quite a few districts of public schools on the West Coast as well, but all our exclusive partnerships.
 
-In Ontario, there's a vast number of schools that the children can choose from and join a homestay program (grade 7-12). These programs and their education would give them a better chance to study at Canadian universities or schools like NTU in Taiwan. 
+In Ontario, there's a vast number of schools that the children can choose from and join a homestay program (grade 7-12). These programs and their education would give them a better chance to study at Canadian universities or schools like NTU in Taiwan.
 
 My thoughts are working with the local MOEs and the government to encourage them to offer grants for public school students who are exemplary. This way, it can help them get a Canadian education and be immersed in an English culture. With the government providing them with grants, they will inevitably return to Taiwan and to be a part of the road to bilingualism.
 
@@ -249,7 +249,7 @@ Just ask the MOI. That may be easy. You can write an email to the MOI saying, "I
 ### Cassandra Brennan:
 That's a great plan. Then we have the ability to help one or some of these companies ensure they are working with a licensed RCIC. It would be nice to be able to help one of those companies that exist and offer them services and face-to-face consultations.
 
-Since there are only three registered consultant in Taiwan, we would be able to offer them any unique opportunity that would definitely benefit both their clients and their businesses. 
+Since there are only three registered consultant in Taiwan, we would be able to offer them any unique opportunity that would definitely benefit both their clients and their businesses.
 
 Thank you for providing us with the list. We will do some research and approach some companies that we might be able to help.
 
@@ -261,7 +261,7 @@ If you use the same keyword search on the GCIS, the company list, if you'll type
 ### Cassandra Brennan:
 That's great. That helps a lot. When you went to America after quitting school and opening up your first, did you find it was as difficult for? What we've notice, and Elias says this about it in his book of "How to Start a Business in Taiwan," is that the banks are unfriendly to foreigners.
 
-We wouldn't want to put Stacy in a position where is the Taiwanese face of our company in order to be able to qualify for something that maybe a foreigner with an APRC, and this experience should be eligible for but struggle to communicate and obtain business or personal loans even if we may be eligible. 
+We wouldn't want to put Stacy in a position where is the Taiwanese face of our company in order to be able to qualify for something that maybe a foreigner with an APRC, and this experience should be eligible for but struggle to communicate and obtain business or personal loans even if we may be eligible.
 
 ### Audrey Tang:
 It's is eligible, but for many people in Taiwan, offering the same service in English could be scary.
@@ -298,10 +298,10 @@ My Chinese is usually enough for me to communicate what I would like to say, but
 OK, excellent. Did you have any other topics on the agenda?
 
 ### Cassandra Brennan:
-I think Stacy still has a few more notes? 
+I think Stacy still has a few more notes?
 
 ### Stacy Wu:
-Now after speaking with you, I think I know how to approach our business registration which will help us get our exclusive license to allow us to provide our services and make people's dreams come true. With an exclusive license and the right to help kids through the MOE and MOI study in Canada. 
+Now after speaking with you, I think I know how to approach our business registration which will help us get our exclusive license to allow us to provide our services and make people's dreams come true. With an exclusive license and the right to help kids through the MOE and MOI study in Canada.
 
 Canada is a very safe place, carrying a gun is not allowed.
 
@@ -310,7 +310,7 @@ It's a much more similar environment for them as a Taiwanese kid, and it's also 
 ### Cassandra Brennan:
 Yes, especially because the price for an education, as an international student, it's around 56,000 for let's say, an engineering degree and that's the price for the entire four years. The price of a semester for a local American citizen at university is around 50,000 dollars so I can only imagine for an interantional student, meaning cmopared to America, where you get only a semester, there's far more affordable investment for parents. Canada is high recognized for its quality of education.
 
-What we are trying to do, is also offer the government our idea and use the grants that are available for children grade 7-12, giving them a chance to study in some of the top destinations for education in Canada. Taiwan also has a tax treaty for businesses that operate in both Canada and Taiwan. 
+What we are trying to do, is also offer the government our idea and use the grants that are available for children grade 7-12, giving them a chance to study in some of the top destinations for education in Canada. Taiwan also has a tax treaty for businesses that operate in both Canada and Taiwan.
 
 I promised Francis Feng that I was going to put that flag in the Ministry of Foreign Affairs, if I had to bring it myself.
 
@@ -330,7 +330,7 @@ OK. Thank you for the efficient, effective, and candid conversations. I look for
 ### Cassandra Brennan:
 Thank you very much, and so much, for your time. I am so grateful that Amy, Stacy and I are able to spend this time speaking with you, even though we are all in different places. All three of us were so excited to meet you.
 
-> (laughter) 
+> (laughter)
 
 ### Cassandra Brennan:
 All three of us were having a Michael Jackson moment.

@@ -149,7 +149,7 @@ Exactly, because you could say it's not defense, right? It's much easier to do t
 > (laughter)
 
 ### Jakub Janda:
-Or education. Yes. That's the tactics. 
+Or education. Yes. That's the tactics.
 
 I think it's a good time to start moving, let's say, from doing only the conferences, which we do as well. You attend many of them and it's important politically, but let's say more on the sharing level between government experts or NGO experts. I think it's very good to start doing it in this practical manner. That's our hope.
 
@@ -364,7 +364,7 @@ The hope is that, that you see here participating countries can actually establi
 Have you been in touch with the community?
 
 ### Jakub Janda:
-Yes, and I've been talking at a GCTF and TFD did it two months ago. I was one of the speakers as well. 
+Yes, and I've been talking at a GCTF and TFD did it two months ago. I was one of the speakers as well.
 
 ### Audrey Tang:
 But it's not, it's over videos. [laughs]

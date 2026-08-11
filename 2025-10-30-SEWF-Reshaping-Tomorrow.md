@@ -26,7 +26,7 @@ And your work, the entire social enterprise movement, has been building the coun
 
 > (Parasitic Engine: Fueling Division)
 
-I'll use one example: the digital realm, where the maximizing instruction is applied to human relationships and leading to catastrophic results. Ten years ago, many social media companies switched from a simple thing where we follow the same micro-bloggers, the same bloggers, and we see the same content. They switched to what I call a parasitic engine, parasitic AI, their recommendation system. 
+I'll use one example: the digital realm, where the maximizing instruction is applied to human relationships and leading to catastrophic results. Ten years ago, many social media companies switched from a simple thing where we follow the same micro-bloggers, the same bloggers, and we see the same content. They switched to what I call a parasitic engine, parasitic AI, their recommendation system.
 
 Instead of people following one another, unsolicited content gets pushed to keep us engaged, we're told, to the screen. But then the maximizing OS, when you use it to train an AI, it learns to maximize attention at any cost. And so it learned the best way to do engagement is through enragement. Because if there's something that is building relationships, you see very good content, then you think about it a little bit, maybe you go offline, maybe you start meeting people, and then you don't get addicted to your screen that much. But if there are social divisions that can fuel attacks, if they amplify the extremes, then it sparks outrage, and people get addicted to the screen all the time.
 
@@ -103,7 +103,7 @@ And so this brings me to the vision of the AI future that we are co-creating. So
 
 I was just in Japan. In Japan, they have this tradition called Shinto. And the Shinto gods are not like the super-intelligent god. They call them *kami*, which is a local spirit of a forest or a river, and just cares about the relationship around that place. In Taiwan, we say Tǔ Dì Gōng or Tǔ Dì Pó, which means more or less the same idea: a spiritual local steward. And so if we train an AI system not to optimize one single number, but rather to be attentive to the relational health of this community, this river, this forest, then it is bounded by the place, the culture, and care.
 
-And now in Oxford, through the Institute for Ethics in AI, we're now training AI agents as stewards of such relational health. They're localized, they're symbiotic intelligences that are not parasitic. And the reality is that many of the leading frontier corporations are on board with this vision. 
+And now in Oxford, through the Institute for Ethics in AI, we're now training AI agents as stewards of such relational health. They're localized, they're symbiotic intelligences that are not parasitic. And the reality is that many of the leading frontier corporations are on board with this vision.
 
 Just yesterday, a major step was taken toward this future. With our team at ROOST, the Robust Open Online Safety Tools Foundation, OpenAI made a groundbreaking move of open-sourcing its Safeguard, the core safety model. The engine that currently protects hundreds of millions of people every day is an active, beating heart of OpenAI. But what makes it revolutionary is that OpenAI is giving up control. By making it an open model that runs on your phone—it's a very small model—it can act as a local steward. The core feature allows any organization, any social enterprise, any community to bring your own policy, BYOP.
 
@@ -124,11 +124,11 @@ And I think we as social entrepreneurs have known this for more than a decade. W
 
 In Japan, they have this notion of "reading the air," which is quite resonant in a lot of Asia. It's about understanding the unspoken social context and adapting to that context. But I think we're past the point of simply just reading the air and figuring out our theory of change. The air, as I mentioned, is polluted by high polarization per minute. The fog is very thick.
 
-I think it is time for us to collectively "write the air." 
+I think it is time for us to collectively "write the air."
 
 We must shape the norms of the new economy and tech landscape by demanding AI agents that prioritize bridges over divisions.
 
-We must demonstrate through our actions that collaboration outperforms extractive logic, and we need to infuse the values of interoperability, sustainability, deep democracy into the very code—not just the software code, but also the regulatory code, the cultural code—of our shared future. 
+We must demonstrate through our actions that collaboration outperforms extractive logic, and we need to infuse the values of interoperability, sustainability, deep democracy into the very code—not just the software code, but also the regulatory code, the cultural code—of our shared future.
 
 Because we're at a turning point. The old system, the Max OS, is already crackling under tremendous pressure, and people are looking for a new operating system.
 

@@ -56,7 +56,7 @@ Shall we start or what is your feeling?
 
 ### Audrey Tang:
 
-I don't mind. We're just testing video and audio. But this is a rehearsal that lasts for five seconds. 
+I don't mind. We're just testing video and audio. But this is a rehearsal that lasts for five seconds.
 
 ### Rory Pilgrim:
 
@@ -80,7 +80,7 @@ Okay, good. See you in a couple of minutes.
 
 ### Louwrien Wijers:
 
-Yes. Okay. 
+Yes. Okay.
 
 ### Rory Pilgrim:
 
@@ -90,7 +90,7 @@ So, when we think about our technology, why are we using it? What does it aid us
 
 ### Egon Hanfstingl:
 
-Oh, there's Audrey again.                  
+Oh, there's Audrey again.
 
 ### Rory Pilgrim:
 
@@ -102,7 +102,7 @@ We can listen maybe together.
 
 ### Louwrien Wijers:
 
-Yes, it's ten seconds. Okay, everyone ready? 
+Yes, it's ten seconds. Okay, everyone ready?
 
 ### Charlotte van Winden:
 
@@ -260,7 +260,7 @@ So, the mechanisms are decided. But the way the crowdfunding works and so on, th
 
 ### Michiel Zonneveld:
 
-In Leeuwarden there is no broadband access whenever you need it. 
+In Leeuwarden there is no broadband access whenever you need it.
 
 ### Louwrien Wijers:
 
@@ -478,7 +478,7 @@ So, we learned that in Japan there is mymizu, mizu means water, which does the s
 
 ### Hilde Latour:
 
-Data altruism. Great. Great term. 
+Data altruism. Great. Great term.
 
 ### Louwrien Wijers:
 
@@ -746,7 +746,7 @@ So, you say, you should improve your indigenous, or your national language inste
 
 ### Audrey Tang:
 
-Yes, exactly. 
+Yes, exactly.
 
 ### Oeds Westerhof:
 
@@ -824,7 +824,7 @@ Yukiko said: "Democracy is based on each nation and is from humans for humans. B
 
 Of course I agree. Which is why we have built a chat bot representing a river. A river is a kind of spirit that lives longer than humans, and it is more than humans. One of the most human more than humans that we know. And Yukiko asks, "Can you explain my thoughts and how to realize it?" Yes, certainly, I think, first of all it's important to realize how important digital technology is to the awareness of the climate extinction, the climate crisis. We now have satellite technology that can count the number of trees that were being cut almost in real time, like five times a day. And so only with that kind of technology can we visualize the Earth and its ecosystem for climate as a single social object. Previously it was blocked by the clouds. People cannot imagine that this is like the first time.
 
-I put on the virtual reality glass in 2016. I immediately opened the star chart and held the Earth like between my hands, and I had this overview effect happening to me. It looks like a very brittle, small thing and suddenly borders no longer matter, because you cannot see borders from space. And so, I think digital technology is essential. Without digital technology, it's impossible to have an accurate whole of planet social object that people can interact with in real time. So, that’s the first thing and second, we need to make sure there is meaningful impact. Otherwise, it's just like watching a movie. Whatever you do from the audience, see the movie doesn't change, right? And so, there's no democracy. We are all just watching the Google Earth movie, right? So there needs to be some impact. 
+I put on the virtual reality glass in 2016. I immediately opened the star chart and held the Earth like between my hands, and I had this overview effect happening to me. It looks like a very brittle, small thing and suddenly borders no longer matter, because you cannot see borders from space. And so, I think digital technology is essential. Without digital technology, it's impossible to have an accurate whole of planet social object that people can interact with in real time. So, that’s the first thing and second, we need to make sure there is meaningful impact. Otherwise, it's just like watching a movie. Whatever you do from the audience, see the movie doesn't change, right? And so, there's no democracy. We are all just watching the Google Earth movie, right? So there needs to be some impact.
 
 And as simple as, you know, not using a plastic bottle, but simply refilling from your local environmental action’s office, that simple action on the Fong Cha phone app shows you how much you're contributing and how much it's being appreciated by people all over the world who are on the same mission. So, this is another thing digital technology that can help. It can build associations that transcend borders. So armed with the social object that is global and the interconnected local assembly and associations I think that is how we can begin to realize people's actions to act beyond borders. But it still feels like acting in a small community. It's just that it's now a community of value, not of neighborhood, of physical space.
 
@@ -880,6 +880,6 @@ Thank you so much. Thank you. Thank you.
 
 ### Audrey Tang:
 
-Thank you. Thank you. 
+Thank you. Thank you.
 
 > (applause)

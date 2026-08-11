@@ -18,7 +18,7 @@ Do you think that today that sense is intensifying amongst Taiwanese people? Do 
 ### Audrey Tang:
 I think there's a lot more diversity now in Taiwan compared to when I was a young person. We were just lifting the martial law when I was a kid, and the diversity of Taiwan has increased tremendously, but so has our capability for turning conflicts into co-creation.
 
-So to your question, I think it's both that there's more conflicts — because we're more diverse — but also we're much more transcultural and co-creative. 
+So to your question, I think it's both that there's more conflicts — because we're more diverse — but also we're much more transcultural and co-creative.
 
 ### Kerry Brown:
 Great, thank you. When you look at, for instance, the online usage and social media in Taiwan today, this is obviously an area that you cover very intensively. What are the particular characteristics of online usage and social media in Taiwan today, and are there differences between age groups in terms of their use of social media and how they engage and learn from it?
@@ -52,7 +52,7 @@ Facing such gray zone operations, we immediately responded along with the NCC, t
 
 It also pertains to, for example, cyber attacks when our websites were DDoS'ed last August, by adversary forces around the time of Pelosi's visit. We switched immediately to distributed layers of content, so that instead of hosting the website content on one cluster of computers, we spread it out so that anyone with some spare bandwidth and hard disk can help to keep us afloat by joining the interplanetary file system, the IPFS.
 
-And again, this is resilience, that is to say overcoming adversity and upgrading our infrastructure so that next time the same adversity cannot harm us anymore. And just finally on this issue, you mentioned the threats to other democracies. 
+And again, this is resilience, that is to say overcoming adversity and upgrading our infrastructure so that next time the same adversity cannot harm us anymore. And just finally on this issue, you mentioned the threats to other democracies.
 
 ### Kerry Brown:
 Do you feel sometimes that the internet, it's bought great benefits, obviously, the World Wide Web, but it's also bought massive problems, obviously, that had a bidding impact, a huge impact in American and European politics and your politics too.
@@ -94,7 +94,7 @@ Do you think that there are misconceptions about what Taiwan's chief threat is? 
 ### Audrey Tang:
 Yeah, so when I was a child, there's this branding called MIT, Made in Taiwan. And we are now spreading the message of when you think about T is not just for Taiwan, it's also trustworthiness. So "Taiwan is Trustworthy."
 
-I think that is the main idea we want to spread. We're the home of trusted technologies. 
+I think that is the main idea we want to spread. We're the home of trusted technologies.
 
 This applies, of course, to semiconductors. If you're doing any advanced AI or indeed any advanced computation, you probably already trust TSMC and its supply chain. Its cybersecurity is safeguarded by the SEMI E187 standard that we worked with the semiconductor supply chain people to introduce zero trust architecture to their supply chain so that the entire supply chain is more trustworthy.
 
@@ -187,7 +187,7 @@ So long story short, I think the point we're making is that this collaborative d
 ### Kerry Brown:
 Great, thank you. Just a couple of final things. One is, you've used the word resilience a lot, you've used the term zero trust. That seems to indicate a very defensive mindset.
 
-Obviously I'm not saying offensive, you know, how does Taiwan operate? So I can understand how Taiwan operates defensively. What is the alternative to that, where Taiwan is more, not offensive, but more promoting of a sort of positive, outward-looking vision? 
+Obviously I'm not saying offensive, you know, how does Taiwan operate? So I can understand how Taiwan operates defensively. What is the alternative to that, where Taiwan is more, not offensive, but more promoting of a sort of positive, outward-looking vision?
 
 ### Audrey Tang:
 I see what you mean. Yeah, the corresponding hashtag is #TaiwanCanHelp, which is the official hashtag of our foreign service. And our ministry's hashtag is #FreeTheFuture. So #TaiwanCanHelp #FreeTheFuture is the more outreach-y public diplomacy way that says, because of our defensive, resilient investments, we happen to have a lot of ready-made, battle-tested components.
@@ -210,7 +210,7 @@ That is to say, instead of like when I was young, that the overarching message s
 
 I would also emphasize the idea of Plurality. Instead of forcing the society to make trade-offs, we need to overcome those trade-offs, for example, between privacy and public health during the pandemic or between the freedom of speech and public safety when it comes to infodemic and so on. So overcoming those seeming trade-offs, turning conflict into co-creation, that's another thing that I would like to highlight.
 
-Because for Taiwan, it really is a culture now here that everybody just instinctively turns into this co-creative solution. We see very little polarization, the kind that plagued other liberal democracies, especially close to the election. We're not seeing the same degree of polarization in Taiwan. So I think all of this is worth highlighting. 
+Because for Taiwan, it really is a culture now here that everybody just instinctively turns into this co-creative solution. We see very little polarization, the kind that plagued other liberal democracies, especially close to the election. We're not seeing the same degree of polarization in Taiwan. So I think all of this is worth highlighting.
 
 ### Kerry Brown:
 Well, thank you very much. It's really great to talk to you. Your final comment about how you see little polarization and contention in society that you see in others.

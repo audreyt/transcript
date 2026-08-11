@@ -378,7 +378,7 @@ Make care **outward**—not just about individuals’ emotions but **society’s
 
 ### Cristina Fominaya:
 
-In the U.S. the narrative elevates **cruelty** as a value and denigrates **empathy** as feminine. 
+In the U.S. the narrative elevates **cruelty** as a value and denigrates **empathy** as feminine.
 
 ### Audrey Tang:
 

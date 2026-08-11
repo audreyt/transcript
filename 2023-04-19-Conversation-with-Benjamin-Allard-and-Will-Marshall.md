@@ -1,7 +1,7 @@
 # 2023-04-19 Conversation with Benjamin Allard and Will Marshall
 
 ### Benjamin Allard:
-So, we’re just waiting for Will to join. Hopefully he should be on in a few minutes. 
+So, we’re just waiting for Will to join. Hopefully he should be on in a few minutes.
 
 ### Audrey Tang:
 Sure, so the sound is working good for you?
@@ -9,7 +9,7 @@ Sure, so the sound is working good for you?
 ### Benjamin Allard:
 Yup. I can hear just fine.
 
-So, Audrey, maybe just quick introductions before Will joins. I know you’ve met and interacted with Will previously. 
+So, Audrey, maybe just quick introductions before Will joins. I know you’ve met and interacted with Will previously.
 
 So, my name is Ben Allard. I head up the Planet’s business for Asia Pacific in Japan, and so Taiwan is obviously part of my geo responsibilities. I’m looking forward to the conversation today and obviously future conversations as well.
 
@@ -17,7 +17,7 @@ So, my name is Ben Allard. I head up the Planet’s business for Asia Pacific in
 Excellent. Well, maybe we’ll do the round of introduction after Will joins. This is my deputy minister of digital affairs, Dr. Herming Chiueh.
 
 ### Will Marshall:
-Hello, nice to meet you. 
+Hello, nice to meet you.
 
 ### Herming Chiueh:
 Nice to meet you! Sorry I didn’t have the voice working in my previous connection.
@@ -49,7 +49,7 @@ Fantastic. My name is Will Marshall. I’m the co-founder and CEO of Planet.
 Yeah, the audio is still not fantastic, Will.
 
 ### Will Marshall:
-I gotta change location but… 
+I gotta change location but…
 
 ### Benjamin Allard:
 Sure. Will, I’ll let you kick off that conversation.
@@ -70,12 +70,12 @@ Okay, does the chair have any questions? Because I understand you have a meeting
 I'm just wondering, so when you were talking about those information from satellites… How quick, when you have a new order… I mean how many satellites do you have and how quick can you move the orbit to get the image?
 
 ### Will Marshall:
-That’s a great question. We have about 200 satellites, it's the largest Earth imaging fleet by about a factor of 10. We produce almost 100 times more imagery than any other Earth imaging company. We get the data back within a few hours typically: the lowest is about 2 or 3, the highest is about 24 depending on your requirements and needs. So, it's a little bit more expensive for us to do the high time ones. 
+That’s a great question. We have about 200 satellites, it's the largest Earth imaging fleet by about a factor of 10. We produce almost 100 times more imagery than any other Earth imaging company. We get the data back within a few hours typically: the lowest is about 2 or 3, the highest is about 24 depending on your requirements and needs. So, it's a little bit more expensive for us to do the high time ones.
 
 We are also working to improve that substantively. Our next fleet that is launching, the first demo satellite that is going up later this year will have 30-minute latency. So, from when you say I want a picture of this location… I want a picture of Hong Kong. It will go get that picture and get it back to you within 30 minutes. And that's using satellite-to-satellite communications that we're putting on our next generation of satellites
 
 ### Benjamin Allard:
-And Dr Chiueh, just on that piece… It's the combination of satellite technology that provides an advantage from a Planet perspective, so when Will talked about the monitoring or our Dove satellites that basically provide imaging of the earth every day, it will identify locations that you're potentially not looking at. And then you can basically use one of our high-resolution satellites, so either SkySat or when Will was talking about our Pelican constellation, to then go and task and get a more granular, accurate view of what's happening on the ground. 
+And Dr Chiueh, just on that piece… It's the combination of satellite technology that provides an advantage from a Planet perspective, so when Will talked about the monitoring or our Dove satellites that basically provide imaging of the earth every day, it will identify locations that you're potentially not looking at. And then you can basically use one of our high-resolution satellites, so either SkySat or when Will was talking about our Pelican constellation, to then go and task and get a more granular, accurate view of what's happening on the ground.
 
 So, if you think about like sort of operational, situational awareness capabilities, it's the combination between what we do on the monitoring side and what we do in terms of on the tasking side that provides a bit of an advantage from a Planet perspective.
 
@@ -86,7 +86,7 @@ Okay, thank you.
 Great. Sorry, you go ahead, Will.
 
 ### Will Marshall:
-No, no. 
+No, no.
 
 But what were you going to ask, Audrey?
 
@@ -195,7 +195,7 @@ So, there's already a NASA imagery-friendly student and professor’s community 
 ### Will Marshall:
 Well, that is very, very cool. I mean, that's something that we can certainly support. We do support the NASA international apps challenge, Space Apps Challenge every year, but we could do some dedicated things. We can also look at what they've been doing and see if there are applications that we want to build out.
 
-NASA actually provides our data to all the university researchers across the United States which has led to tremendous innovation. And something else we could also consider is whether or not there's a way we can… 
+NASA actually provides our data to all the university researchers across the United States which has led to tremendous innovation. And something else we could also consider is whether or not there's a way we can…
 
 I don't know if we already work with any universities in the country. Ben, do you happen to know?
 
@@ -271,13 +271,13 @@ So, we really balance this by being a public benefit corporation, this new form 
 
 One final thing, one final idea on the sustainability side, we very briefly touched on it when you came to San Francisco. There is a fantastic potential now I think to enable carbon markets. I think we're on the verge of enabling carbon markets at scale to offset, if you like, the big carbon impact of especially the developed world by helping to protect the forests of the developing world. Primarily it's like that, but it's not just about that.
 
-Because we have, if you can imagine Microsoft or you know, Sweden wants to offset their carbon, but right now the only way to measure the carbon in the trees is through tape measures around tree trunks which is very accurate but not scalable. And the satellite data from Landsat was too coarse to do it accurately, but it was scalable. And so, you end up with green washing systems there. 
+Because we have, if you can imagine Microsoft or you know, Sweden wants to offset their carbon, but right now the only way to measure the carbon in the trees is through tape measures around tree trunks which is very accurate but not scalable. And the satellite data from Landsat was too coarse to do it accurately, but it was scalable. And so, you end up with green washing systems there.
 
 With our data we can actually get an individual tree carbon without going locally, and because of the canopy structure information that we get in our data. And so together with that and blockchain or smart contracts, we should be able to go straight from that Microsoft or Sweden to offset carbon by buying directly from indigenous peoples and stewards of land in developing countries around the world. Give them money in exchange for them protecting those forests and then those donor entities get the carbon credits to offset their carbon.
 
 I think we're on the very edge of being able to do that and we just launched in Washington, D.C, where we had our annual user conference where we announced that we're doing a planetary carbon, what we call planetary variable which is literally a data feed, no imagery involved. You just tell us the location; we'll tell you how much forest carbon a function of time and to underpin the forest carbon system.
 
-If Taiwan is interested in being involved with doing that at any scale, that is another area where we'd be delighted to have conversations. I know a lot of countries are thinking about this in advance of COP28 in UAE. 
+If Taiwan is interested in being involved with doing that at any scale, that is another area where we'd be delighted to have conversations. I know a lot of countries are thinking about this in advance of COP28 in UAE.
 
 ### Audrey Tang:
 So just to ask a clarifying question. You said there is a real-time feed. Is it a public feed that people can verify like an Oracle function on the blockchain? Or is it a private subscription?
@@ -294,7 +294,7 @@ Okay, great. So, as I mentioned when we met in San Francisco, in my ministry the
 
 So, while I'm not very tuned in on the details of their work with the environmental ministries around the world including our own, I am aware that they are working on a public digital infrastructure for the kind of carbon counting that you just mentioned.
 
-So, maybe that can be an element in it but of course it will require inter-ministry coordination. I expect, because this transcript will be co-edited for 10 days and opened. And I assume that this part will be less read-active than the first half of our conversation. What I will do is just ask my colleagues here to circulate this transcript to the Department of Democracy Network and see how this can fit this into our existing planning. 
+So, maybe that can be an element in it but of course it will require inter-ministry coordination. I expect, because this transcript will be co-edited for 10 days and opened. And I assume that this part will be less read-active than the first half of our conversation. What I will do is just ask my colleagues here to circulate this transcript to the Department of Democracy Network and see how this can fit this into our existing planning.
 
 And I think it is really possible as part of either the TASA, as part of NASA Space Apps Challenge, or more easily with our upcoming  Presidential Hackathon to work as kind of a demonstration, because the top champions, like the two champions of International Track of our Presidential Hackathon is invited to the presidential office to give a speech to all the ambassadors and so on to Taiwan, and also to work with all ministries to find actual use cases and also to make those domestic champions, the five champions that are guaranteed to get fiscal, regulatory and personnel to amplify their local ideas into country-wide ideas.
 
@@ -331,7 +331,7 @@ Okay, excellent. The previous years of presidential hackathons, many of the idea
 Okay, perfect.
 
 ### Will Marshall:
-Fantastic. Audrey, you've been so generous with your time. Thank you. And it was so really, really lovely for me to hear. I really think that your help in navigating this and the sustainability forward-leaning attitude that you have, presents an opportunity to collaborate that I've rarely seen in countries. 
+Fantastic. Audrey, you've been so generous with your time. Thank you. And it was so really, really lovely for me to hear. I really think that your help in navigating this and the sustainability forward-leaning attitude that you have, presents an opportunity to collaborate that I've rarely seen in countries.
 
 So, we'd be delighted, obviously we have to look at the specific use cases of where we can help, but it's actually really going to bring real value to you. I don't want to pre-empt that but it strikes me that there's going to be several areas and we want to be collaborative and long-term partners if it makes sense to do so.
 

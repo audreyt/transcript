@@ -39,13 +39,13 @@ Yeah, I know. So, when you look, you know… For the outsiders, as you would thi
 So, what advantages do you think you have? And that's an example where you've been able to use your unique skills. But what else can we learn from you?
 
 ### Audrey Tang:
-There are many. 
+There are many.
 
 > (laughter)
 
 There are many. One example that I often share is how quickly we have reconfigured our cyber defense following last August Pelosi visit. That was a couple of weeks before our ministry actually started and the hour that our website went online, missiles flew over our head. That was the same hour. And then, we faced the largest to date coordinated attack to not just deny our website of services, but also hate messages against Pelosi, outside of Taiwan’s high-speed rail stations, sign boards, and so on. So, the attack was unprecedentedly coordinated.
 
-And so, our defense could not be playing attrition with such attacks. We need to switch to a different mindset. We call it, of course, zero-trust network configuration. That makes a different assumption. We would assume that the equipment, the systems, and so on, are probably already breached. And then, we need to live with that assumption and then just to contain its lateral movement. 
+And so, our defense could not be playing attrition with such attacks. We need to switch to a different mindset. We call it, of course, zero-trust network configuration. That makes a different assumption. We would assume that the equipment, the systems, and so on, are probably already breached. And then, we need to live with that assumption and then just to contain its lateral movement.
 
 So, we switched very quickly, for example, to a publishing method that doesn't need a server to publish our websites. Rather, anyone around the world can donate their hard disks, their bandwidth, and so on, on the so-called InterPlanetary File System, the same system that hosts the BAYC NFT profile pictures. So, anyone in the web3 community can donate a little bit of their storage to help keep us afloat. And with like 200,000 nodes around the world, it's impossible for the attacker to go after all the NFT profile pictures. And if they succeed in taking data out, well, the collateral damage is very large, right?
 
@@ -67,7 +67,7 @@ So, I think one of the newer attack vectors that we see now is… of course, gen
 
 Prior to generative AI, it was costly to spearfish, to scam someone in an individual-to-individual fashion. You have to note that target person's culture, language, habits, and so on, in order to mount social engineering attacks. But now, even if you don't speak Mandarin at all, you can mount very convincing spearfishing attacks thanks to language models, right?
 
-So, one thing they do very well is they model persuasive language. And the drawbacks that prevents its industrial deployment, namely hallucinations, is a feature when you're spearfishing someone, right? So, it is asymmetric in the attacker's favor when it's used for fraud and spearfishing and so on. And once the spearfishing is succeeded, they can synthesize a malware that lives off the land, meaning that it doesn't carry any malicious payload; It just carries an AI that can write malicious attacks on the fly in the target computer, which is almost impossible to detect because previously, it had to be remote controlled. 
+So, one thing they do very well is they model persuasive language. And the drawbacks that prevents its industrial deployment, namely hallucinations, is a feature when you're spearfishing someone, right? So, it is asymmetric in the attacker's favor when it's used for fraud and spearfishing and so on. And once the spearfishing is succeeded, they can synthesize a malware that lives off the land, meaning that it doesn't carry any malicious payload; It just carries an AI that can write malicious attacks on the fly in the target computer, which is almost impossible to detect because previously, it had to be remote controlled.
 
 But now it's an automated attacker living off the land in the defender's network. And again, that was a new capability. Nothing like that existed a couple of years before, right? So, the combined two malicious uses of generated AI is the new kind of path that we're facing now, in addition to deepfakes and things like that.
 
@@ -98,14 +98,14 @@ They can do the same thing. So, I think most of the myths evaporates if the make
 So, I don't think data competence can be taught. It can only be learned. And the learning begins as early as possible. So, we're very big on so-called edge AI or open-source AI. In fact, for public sector use, we advised against the processing of personal data with cloud-hosted AI services. If you want to process personal data like in an email, I fine-tune the model on my own laptop. And the inference, everything is done in airplane mode. And so that security-wise, it doesn't go anywhere, of course. But also, competence-wise, it means that people don't see fine-tuning and alignment as random jargons. That's something that they just do every day. And I think this is important. People are going to have AI competence in next-generation workplace.
 
 ### Stephanie Flanders:
-Do you think when you look at how… I mean, are you able to see how those policies are progressing in Europe, like how the EU has thought about digital safety? 
+Do you think when you look at how… I mean, are you able to see how those policies are progressing in Europe, like how the EU has thought about digital safety?
 
 The perception is although there was a feeling that it was too heavy-handed, there's now a sort of respect for where the EU ended up on some of the sort of data privacy and other issues. Do you think that the… What if they got wrong?
 
 ### Audrey Tang:
 Yeah, the Brussels Effect. So, I think take the recent AI Act as an example. I think the carve-out they made for open-source foundation models are exactly the sort of signals we want to see through the industry. Basically, if it's closed, if it's proprietary, if you're profiting from it, then, well, you have to assume the negative externalities. It's a liability/risk strategy.
 
-On the other hand, if you're very transparent, if you allow downstream makers to inspect and to align and to fine-tune it to such a way that you don't actually have control, then you're exempt from those liabilities. 
+On the other hand, if you're very transparent, if you allow downstream makers to inspect and to align and to fine-tune it to such a way that you don't actually have control, then you're exempt from those liabilities.
 
 So basically, the signal to the market is that alignment is collective. It is an entire society. And if you don't involve the society in aligning your technology, then you should be liable to all the downstream effects. I think it's a really good blockchain.
 
@@ -172,7 +172,7 @@ I wouldn't trust X. I'm not sure X is even going to be here.
 So, we already signed a deal with OneWeb. That's the UK company. And actually, in a few days, we're going to start the first public demo of the SES - that's another European satellite company from mid-Earth orbit communication, which we deployed when our subsea cables were cut.
 
 And I think Starlink is nice to have, an addendum to this plurality of configurations we already have. It is not a must-have. And we want to work with as many vendors as possible because it increases the difficulty for the adversary to take them all down. But we're not relying on any single one of them.
- 
+
 ### Samson Ellis:
 And how are Taiwan's efforts… I don’t know… at a domestic solution?
 
@@ -247,7 +247,7 @@ We were at peak polarization back in 2018 and it just went all the way down, whi
 When you say we, you mean we globally or we here?
 
 ### Audrey Tang:
-No, no. Taiwan. When the referendum/mayoral election took place, that was peak polarization. And ever after that, we've been very conscious to work on really collaborative diversity. Instead of the administrative forcing journalists to change titles or reports or whatever other countries are doing, we decisively actually left more room for incredibly neutral social sector academic and journalistic outlets to cross-check, for example, on fact-checking and so on, and develop advanced algorithms for collective input into fact-checking and making it a digital competence, media competence class in basic education and lifelong education. 
+No, no. Taiwan. When the referendum/mayoral election took place, that was peak polarization. And ever after that, we've been very conscious to work on really collaborative diversity. Instead of the administrative forcing journalists to change titles or reports or whatever other countries are doing, we decisively actually left more room for incredibly neutral social sector academic and journalistic outlets to cross-check, for example, on fact-checking and so on, and develop advanced algorithms for collective input into fact-checking and making it a digital competence, media competence class in basic education and lifelong education.
 
 And all this is about increasing the inoculation level in the population instead of taking down anything. So, one can actually compare it to like countering an epidemic. Some jurisdictions in 2020 said that really only a lockdown works, right? And you have to shut down, lockdown, lockdown, an infodemic and the pandemic in order to do anything.
 
@@ -263,7 +263,7 @@ That’s an interesting question. Well, I think really it's just switching away 
 
 So, when we say foreign manipulation, foreign is the actor and manipulation is the behavior, and it does't even talk about the content anymore. So, I think the focus should be just consistent use of provenance, attribution, source tracking, really just journalism. And when people have the basic competence of a journalist, that's where the antibody level is highest.
 
-So, I think X.com, for all its drama, I think community notes really shines as an open-source solution. Because I sign up on community notes jury duty for Mandarin, Traditional Mandarin X.com. And already I have seen that this fosters a pro-social, a more collaborative communication because lopsided or polarized messages simply don't go on community notes. That algorithm selects the ones that are written, that are bipartisan, that speaks to across diversity. And so, I think more, we call it plural, more plural algorithm and design like that can fundamentally change the nature of online discourse. 
+So, I think X.com, for all its drama, I think community notes really shines as an open-source solution. Because I sign up on community notes jury duty for Mandarin, Traditional Mandarin X.com. And already I have seen that this fosters a pro-social, a more collaborative communication because lopsided or polarized messages simply don't go on community notes. That algorithm selects the ones that are written, that are bipartisan, that speaks to across diversity. And so, I think more, we call it plural, more plural algorithm and design like that can fundamentally change the nature of online discourse.
 
 The other way to inoculate is simply not to touch your touchscreens. And therefore, no addiction, and therefore, no repercussions of addiction. But I think that that ship has sailed. So, I am for this kind of open innovation on pluralistic mechanisms to promote bridge making narratives other than those polarizing ones. I think community notes should be on every platform basically.
 
@@ -281,7 +281,7 @@ But if the bit rate can be increased instead of just a ballot, you can have whol
 
 And then, they use a multi-modal AI to turn that into a kind of synthetic mind. Many clusters that talk about actual policy suggestions and so on. And for each of its suggestions, you can trace back to specific time code in the video, where this person said that and so on. And these people can then watch the synthesis and also calibrate, like “I said that, but I didn't mean like this” and so on.
 
-And after a while, this is an executive summary that can talk back to you, that you can invite to be a member of the board, to participate in real conversations. So, instead of doing a survey or Delphi method or whatever for this group, it is those 1,000 people continuously shaping a virtual editor that can participate in board meetings. 
+And after a while, this is an executive summary that can talk back to you, that you can invite to be a member of the board, to participate in real conversations. So, instead of doing a survey or Delphi method or whatever for this group, it is those 1,000 people continuously shaping a virtual editor that can participate in board meetings.
 
 And so, this is higher than this. So, when people have such experiences, interacting with AI as a solo conversation, but as part of the democratic process, we have found that they become much more empowered and believe in the democratic process as well. And therefore, less likely to be captured by the polarizing democracy.
 
@@ -339,7 +339,7 @@ I thought you were about to say, if we have produced artificial superintelligenc
 
 > (laughter)
 
-Yeah, wants to run for president. So, I think one of the key metrics that we're measuring is whether the society feel that the democratic institutions is strengthened after each election. Because as you know, Taiwan didn't have a sudden transition of the state's composition, let's call it that, but rather it's reinforced in each and every presidential election ever since 96, right? 
+Yeah, wants to run for president. So, I think one of the key metrics that we're measuring is whether the society feel that the democratic institutions is strengthened after each election. Because as you know, Taiwan didn't have a sudden transition of the state's composition, let's call it that, but rather it's reinforced in each and every presidential election ever since 96, right?
 
 So, there were some presidential elections that just tear apart the society, that people just deny the results flatly and many of the wounds are not even scarred, even it's many, many years after those elections. But there were also elections that I would say that made the society more trusting of each other across party divisions and so on. The previous presidential election is a good example.
 
@@ -359,7 +359,7 @@ So, how are you measuring, you say, you know, increased trust in elections, and 
 ### Audrey Tang:
 Yeah, there are many ongoing investigations, like ongoing surveys. There's one from our national academy, there's one from NCCU, so on and so forth. I think the Taiwan Foundation for Democracy maintains a tally of those measurements.
 
-And you can also see partial reflection on this, on how much our students, which belongs to families of different political parties and affiliations, participate in civic matters. And so, recently, I think the OECD just published the competence of not just mathematics or reading or whatever, which I think Taiwanese students are in the top three or top five, but also on civics, on how much they participate in their local level politics, in community, in even doing e-petitions and so on. 
+And you can also see partial reflection on this, on how much our students, which belongs to families of different political parties and affiliations, participate in civic matters. And so, recently, I think the OECD just published the competence of not just mathematics or reading or whatever, which I think Taiwanese students are in the top three or top five, but also on civics, on how much they participate in their local level politics, in community, in even doing e-petitions and so on.
 
 And on that, our students rank the top of the world. Like they want to actively participate in politics. And this is, I think, to me, a direct measurement, because if they or their family feel a certain apathy against the democratic institution, we would not be top of the world in terms of this.
 
@@ -373,7 +373,7 @@ It was ICCS (International Civic and Citizenship Education Study), published alo
 
 And really, we're quite proud of the work of the teachers because this is really, to me, it feels very assuring because before entering the cabinet, I worked on the basic education curriculum, the so-called 2019 basic education curriculum. And that reform is a comprehensive switch from rote memorization, so-called literacy curriculum, to a maker-doer competence - no standardized answers. You work with your fellow students and help them compete against them. So, almost Nordic way of reimagining education.
 
-And there were a lot of fear I certainly had. And after, what, four years now of rolling out the new curriculum, not only, of course, it increased civic participation to the degree we anticipated, but it actually also resulted in better PISA scores. So, again, no trade-offs needed. 
+And there were a lot of fear I certainly had. And after, what, four years now of rolling out the new curriculum, not only, of course, it increased civic participation to the degree we anticipated, but it actually also resulted in better PISA scores. So, again, no trade-offs needed.
 
 ### Cindy Wang:
 I understand that we hold this biannual code simulation to see the resilience of Taiwan's key infrastructure against cyber-attack. And this year, the target is the Taiwan Water Company. So, after the simulation for the past few years, how is Taiwan's key infrastructure resilient? Are we able to defend ourselves?
@@ -386,7 +386,7 @@ Because unlike in the kinetic world, where something impacts Taiwan and earthqua
 So, to set up ultimate threat indicator sharing such that within a minute or so that once we figure out what's going on and we have set along an emergency way to resolve this or to mitigate a threat, how quickly can all the allies deploy it? And at the same time? That is the main metric we're measuring. And I think having the code exercise taking place physically where people can meet face-to-face, that is very important to increase the trust.
 
 ### Jasmine Ng:
-When you talk about allies, I assume like US has a commitment. So, what kind of mechanism did Taiwan and US build up in terms of... 
+When you talk about allies, I assume like US has a commitment. So, what kind of mechanism did Taiwan and US build up in terms of...
 
 ### Audrey Tang:
 As I mentioned, ultimate threat indicator sharing. There's now a common format, a common understanding, a common ontology, the sticks format and mutual attack respectively. And we're now also working to extend the mutual attack, like internationally agreed on metrics, to also include coordinated information manipulation attacks, which is also... I think it's integral, right? Because the attackers are now coordinated in terms of attacking on information integrity and information system integrity. So, our threat indicator sharing and so on need to be similar to coordinated.
@@ -440,12 +440,12 @@ Just as someone who is so… understands the industry so well, this is more of a
 
 But I think more interesting is the way they think about slowing China's technological development and the kind of measures they've announced, you know, the export controls and advanced technologies, the growth of the semiconductor.
 
-When you see, just knowing what you know, do you think that makes sense? That just way of thinking about China's development and how you would go about slowing it, independent of whether it's the right thing to try and do? 
+When you see, just knowing what you know, do you think that makes sense? That just way of thinking about China's development and how you would go about slowing it, independent of whether it's the right thing to try and do?
 
 ### Audrey Tang:
 Well in terms of AI, which is just data, and code, and compete, code is almost impossible to set up export control, right? I mean, there are jurisdictions that try to restrict export of cryptography and look at how well it went, right? So, it's when you restrict export of cryptography only the bad people have access to this cryptography. This really is true.
 
-So nowadays, the national security concerns mostly focus on the hardware part because it's tangible and also the most advanced form of cryptography and AI and whatever code relies on specific hardware capabilities. And so, even if the code is all published on GitHub, it does someone no good if they have no access to the corresponding chips to run such code. It may still run, but it may take like 1,000 years, which doesn't matter at that point, right? So, of course, in terms of chips versus code, of course, restriction exists. Hardware is the only feasible option if you're going to restrict that. 
+So nowadays, the national security concerns mostly focus on the hardware part because it's tangible and also the most advanced form of cryptography and AI and whatever code relies on specific hardware capabilities. And so, even if the code is all published on GitHub, it does someone no good if they have no access to the corresponding chips to run such code. It may still run, but it may take like 1,000 years, which doesn't matter at that point, right? So, of course, in terms of chips versus code, of course, restriction exists. Hardware is the only feasible option if you're going to restrict that.
 
 I am also quite optimistic about now the new executive order that says that the agency need to invest in privacy-enhancing technologies in a way to collect data, but use it in a way that doesn't compromise privacy or confidentiality because that really is the only way that we are going to contribute high quality data to train AI model together.
 
@@ -476,7 +476,7 @@ Yeah, he keeps saying, you say it applies to all the cases. What about this? You
 ### Stephanie Flanders:
 Well, Samson said that we were quite fascinating. But it's been a pleasure. And unfortunately, we have to go. You have a clear schedule. But unfortunately, we have other things to go. But no, it was fascinating.
 
-And I hope, yeah, we were talking about whether we'd be able to get you involved in other things that Bloomberg does. 
+And I hope, yeah, we were talking about whether we'd be able to get you involved in other things that Bloomberg does.
 
 ### Samson Ellis:
 I would be a big advocate.

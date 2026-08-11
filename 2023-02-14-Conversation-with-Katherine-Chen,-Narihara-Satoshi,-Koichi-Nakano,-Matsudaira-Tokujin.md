@@ -55,7 +55,7 @@ OK, great.
 ### Tokujin Matsudaira:
 It's an honor to meet you. My name is Tokujin Matsudaira, a law professor at Kanagawa University, Japan. I specialize in constitutional law theory. In that sense I think that among the three of us, I'm the most old-fashoned scholar hanging out with the 19th-20th century things and know very little about the digital issues.
 
-Today's meeting reminds me one of my close colleague and my classmate, Prof. George Shishido, University of Tokyo, had joined an on-line talk with you, I guess it was held by a Japanese institution. He is known as an expert of new media and big data. I am excited to learn from you on something you may have discussed with your Japanese counterparts. 
+Today's meeting reminds me one of my close colleague and my classmate, Prof. George Shishido, University of Tokyo, had joined an on-line talk with you, I guess it was held by a Japanese institution. He is known as an expert of new media and big data. I am excited to learn from you on something you may have discussed with your Japanese counterparts.
 
 ### Katherine Chen:
 Professor Matsudaira speaks very good Mandarin, better than mine.

@@ -1,6 +1,6 @@
 # 2025-12-04 Right Livelihood Lecture
 
-### Katharina Michaelowa: 
+### Katharina Michaelowa:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iZWtNLFaC-U?si=Jq9UdqlnCAei7RcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" style="position:absolute; top:0; left:0; width:100%; height:100%;"></iframe>
 
@@ -14,13 +14,13 @@ Now Audrey Tang works at the Faculty of Philosophy at Oxford—how fitting, I am
 
 I think here at the university, we also have a number of people, researchers and students alike, who are struggling to find new solutions, making technology work in favor of rather than against democracy, and more broadly in favor of rather than against humankind. And we hope that some of this engagement and some of the aspiration to improve the world—be it but by little steps—will not just remain at the level of researchers and professors but also trickle down through the studies to our students. For them, as well as for our research community, Audrey Tang can be a great inspiration. Seeing how she succeeded raises hopes that such things can also work elsewhere and in the future. Audrey Tang, we thank you very much for honoring us today with your lecture. And thank you also to the Right Livelihood Center at our university for making this possible. And of course, as well for the ongoing activities such as the lecture series                                                     Sustainability Now                                                 that help us not to overlook the broader social perspectives, if not to say the broader purpose, of all our work and studies.
 
-### Gesine Krüger: 
+### Gesine Krüger:
 
 Vielen Dank, Katharina, für die schönen Worte. Wir werden jetzt einen kurzen Film über Audrey Tang bzw. fünf Preisträgerinnen sehen und dann die Lecture von Audrey Tang hören. Nach dem Vortrag folgt ein Gespräch mit Adrienne Fichter, mehrfach ausgezeichnete Tech-Journalistin der Republik, die ich Ihnen noch vorstellen werde. Und nach dem Gespräch wird Ole von Uexküll den Abend hier in der Aula beenden und Sie alle zum Apéro im Lichthof einladen.
 
 Before I hand over to the screening and the lecture, I would like to say a few words about Audrey Tang as well. I’m delighted that you are here with us this evening because not only is your work extremely important, but you are also a very positive and humorous person. “Humor over rumor” is one of your mottos. In an interview you said, “Think of something that is funny, spreads quickly and takes the oxygen out of polarization.” And I think in a world characterized by general fear, doomsday scenarios, and dystopias, humor has taken on enormous political significance. This also applies to the field of new technologies, which are often perceived only as threatening. I am now very much looking forward to your presentation and will give you the floor after the film without further ado. Thank you.
 
-### Video Clip: 
+### Video Clip:
 
 Courage is choosing to fight even when all the odds are against you.
 
@@ -40,7 +40,7 @@ We look toward a future where technology leaves no one behind and is shaped by e
 
 A world where solidarity is always at the forefront.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Good local time, Zurich. It is a great honor to be speaking with you as the 2025 Right Livelihood Laureate. First, let me reflect on what brings us together today: Right Livelihood. It’s not a list of permitted professions or some spouted moral rule. It is a dynamic practice, a way of engaging with the world, as we have seen in the short clip, that makes us, working in the field, bound by curiosity, by collaboration, and civic care.
 
@@ -130,11 +130,11 @@ Thank you so much. Thank you.
 
 > (Standing ovation)
 
-### Gesine Krüger: 
+### Gesine Krüger:
 
 After a fantastic speech by Audrey, we are all now looking forward to learning more about Audrey’s mind-changing work. I would like now to give the floor to Adrienne Fichter from the Republik. Even so, I don’t need to introduce Adrienne to most of you. I would like to emphasize that the political scientist was honored as Swiss investigative journalist of the year 2020, 2021, and 2024. She is also the co-founder and community manager of the web startup Politnetz, which also won several awards. In 2020 she published the book                                                     Das Netz ist politisch                                                 (The Internet is Political), Part One. We cannot imagine anyone better suited to conduct the interview with Audrey. Welcome Adrienne and thank you so much for being here tonight.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Now? Yes. Thank you so much for this introduction. For standing here in the front, not as a student here in the row. Also as a student from Professor Krüger… Well. Yeah, there are so many aspects you said in your… admirable speech. I will discuss, like, AI regulation, polarization attacks, cyber attacks. And actually, if I would ask them all, we probably need 60 minutes, which would end up in a long-read piece for                                                     Republik                                                , one of the companies, but we will focus and let’s say, let’s see where we get.
 
@@ -142,31 +142,31 @@ But let’s just start with also a personal note about the first time I heard ab
 
 But then I heard about Taiwan and about Pol.is. And I got a video call with someone who developed Pol.is…
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Colin Megill.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Colin Megill. He told me about that. And I also wrote then in my first book I called “Smartphone Democracy” about this case. And he showed me this live demo. And it was really astonishing, as you said. There he showed me this example: Do we want to have Uber in Taiwan or not? As you said, the example of ridesharing. And it was really stunning. He… then I saw this plurality of opinions clustering. And how these clusters are connected and where the bridges are. So it really shows this plurality of opinions. And also as you said, there was no reply field to avoid the troll comments. So my conclusion was then: It’s really all about the design of technology at the end. The political design. Do you agree with that? Or is it too easy to say that?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yes. It is… In fact, we’ve discovered again and again that it requires two essential ingredients. One, you need a pro-social designed space where people add to each other instead of detract from each other. And second, you also need air cover. The pre-commitment from the committed listeners that if our people really                                                     do                                                 agree on everything, or at least roughly agree on everything, then we commit to implement that particular everything. And the two feed onto each other. Because to give no trust is to get no trust. So it’s always easier to start in the gym, to try a local issue first, a hyper-local issue first, and then to start building trust by offering more pre-commitment in larger pro-social spaces that invites more pre-commitments and air cover, so on and so forth.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 And you said… once you brought up another example in an interview about… one of the topics was: Should Taiwan change its time zone?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yes.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Did you also discuss that with Pol.is at the end of the day?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 It was on the Join platform which was built after the vTaiwan platform as an institutionalized national participation platform that reaches I think 10 million people… or half our 24 million people country. So it’s a pretty wide platform. And anybody with 5,000 signatures—e-petition—can force a conversation, a response from a minister. But this particular case is different because it was actually two petitions. One, more than 8,000 people strong, says let’s change Taiwan’s time zone to that of +9, the same as Japan. And another 8,000 people strong, saying let’s remain in UTC+8. So it’s actually much more, 16,000 people or more.
 
@@ -174,21 +174,21 @@ And we invited the people who comment on Join—which uses the same design: no r
 
 And so we brainstormed better ways. And we did come up with better ways. For example, hosting human rights conferences like RightsCon. Giving Gold Card residency to people who contribute to open source, open science, and open access. We did that too. We advertised the way that we built our marriage equality by using Uncommon Ground so that the individual wed as individuals but their family don’t form kinship, and we made sure the world learns about that, first in Asia, and so on. So we ended up saving taxpayer money but achieving that “let Taiwan to be seen”—which is a more common, Uncommon Ground for both sides.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 So in Switzerland we think that digital democracy equals internet voting. And equals e-collecting, the collection of signatures for initiatives and referendums. And we think that’s enough and it’s kind of perfect this way. But yeah, I mean… But the question is, we don’t have this digital, this infrastructure for deliberation or agenda setting to shape opinions. How would you convince Swiss people like: well maybe you can improve a bit on your democracy by having less polarized opinions in the parliament or maybe in the deliberation stage before.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Well, I’m sure you already have surveys, that’s to say polls, and institutional media that runs such poll results. So in a sense, our way, the Alignment Assembly, from one side looks like a regular citizen assembly. But on the other side, it looks like a poll. So you can actually think of it not as deliberation but rather as a survey that surveys not individuals but groups of ten. It’s as simple as that.
 
 Because if you individually survey people, they tend to be extreme. They’re like “YIMBY! Yes, in my backyard!“ “NIMBY! Never in my backyard!“ But if you say to a group of ten: Only the idea that resonate in the room has a chance to pass out of the room, to go out cross-pollinate other rooms, everybody become MIMBY—“Maybe In My Backyard”—if you do this, if you do that. Right? So again there’s a function of the space, not the function of the people. But if you publish the result of such a deliberative poll, it looks exactly like a regular poll. And so all the existing ways you integrate polls into your democracy still functions. So the point here is not to reinvent some wild new form of digital democracy. It is to ensure that we can come to see each other on overlap, not on outrage, using pro-social design.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 But still, I mean, our main digital communication infrastructure is provided here in Europe and possibly everywhere mostly provided by some American big tech companies. Since already 20 years or 15 years or whatever. How can Europe be motivated or what could be the incentives to design their own market for such technologies promoting trust and also promoting consensus on also showing plurality of opinion as a chance, as something good? Um, how can we get there to create a market in Europe? How… where should we start?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Well first of all, I use Proton, which last I checked is based here, not some digital colonialism. And there are many platforms like this. Proton is also Taiwanese-founded so I have a special affinity.
 
@@ -198,21 +198,21 @@ However, if there is a magic button you can press and everybody they know also m
 
 Starting next July, if you’re a Utah citizen and you migrate from TikTok to say Bluesky or Truth Social—both are open source—the old network is required to forward new likes, new reactions, new followers to the new network, just like network portability of telecom numbers. And so you can think of this as the individual moving on the off-ramp but still keeping their community with it. And it forces them to then compete on the quality of care. And I have every belief that it is then the open source, open participation platform that will win this race to the top, not to the bottom of the brainstem.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 But I think Europe is trying too, no? Like with the Digital Markets Act, having interoperability…
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Well, I mean, there are two differences. One, the EU is doing another round of consultation to expand from instant messaging and group messaging to social networks. So that’s the main difference. The other is that the Utah law applies to all social media, not just the very large social media. So it gives everybody a real incentive to build on the infrastructural layer, on the protocol layer, instead of on the platform layer, and just hoping that you don’t reach the very large operator status.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 So you’re a cyber ambassador promoting this model of digital democracy for the rest of the world. But I was wondering when I’m reading your interviews and also looking at the global reality… doesn’t this require something specific? Is there a strong cultural component in the Taiwan digital democracy model?
 
 Like, does it require specific skills from citizens, tech sophistication, tech fairness, a strong sense for the community? And also quite an incredible amount of—as I said—some young people and some older people having free time to participate online? So I feel like… is there something where you think it would work somewhere else too?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yes. And we also have Japan joining the ranks. It used to be in the Tokyo Metropolitan Area. I’ve worked for many years now with Governor Koike-san to run the Governor’s Cup Hackathon, which is modeled after the Taiwanese Presidential Hackathon. And one of the very young people reading the                                                     Plurality                                                 book, Takahiro Anno-san, 33-year-old at the time, last year, a Sci-Fi writer, AI engineer, decided after reading the book to run for Governor, to put this platform into work.
 
@@ -224,11 +224,11 @@ I also worked for the past couple of years with Governor Gavin Newsom of Califor
 
 So Japan and California, last I checked, are both much larger than Taiwan. So we are no longer the largest polity with digital participation infrastructure.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 So, I still have some doubts about this willingness of being permanently involved, like discussing this deep level online on a permanent level, like from the young people for example. So I mean, it’s hard to imagine that the AI Assemblies you mentioned… That would be something very interesting also here because we have, we start to do the AI regulation process, policy process as well. The AI Act is being implemented on the EU level as well. So are young people really willing to discuss how Artificial Intelligence should be regulated?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yeah, definitely. And Finland just ran one this September: “What do youth think, Finland?” when it comes to AI. Again using the Pol.is technology for sensemaking.
 
@@ -236,11 +236,11 @@ I think young people by and large feel that the AI systems are out of their cont
 
 And so I think the key here again is air cover, is commitment. When people know that whatever they                                                     do                                                 agree on will be treated as                                                     real                                                 red lines by the Minister of Digital Affairs at the time, yours truly, then people really pour in with the most nuanced, most considerate ideas. So again, pro-social design is the first step, and then you have to offer the air cover.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 So now speaking of AI regulation again. How does it look in Taiwan? Is it about you defining now also design principles about how this technology or large language models should be designed? Is it in the law? Is it like you define, it’s not a technological neutral way as we say in Switzerland, you also you                                                     do                                                 define the design?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yeah. Our AI Basic Act is on its way to the final reading. So fingers crossed. I think it’s down to the last clause. And I think the negotiation throughout the AI Act conversation in Taiwan put an emphasis on interoperability, data innovation, data reuse, and things like that. I think because Taiwanese people really                                                     do                                                 like this vision of Personal Computing.
 
@@ -248,37 +248,37 @@ Because we made many of those PC compatibles back in the 80s. And it was a very 
 
 And we want Personal Computing, which means you can install your own spreadsheets, your own desktop publishing. You can share your fixes, your patches to the software called Apache and then form this movement together of Free and Open Source Software. And so without Personal Computing, there is probably no FOSS movement. These two work hand in hand. And so nowadays we’re already looking at energy-efficient small language model, such as the ones that Taiwan National Development Fund invests in. We invest in more than 100 such models. Some of them are so energy-efficient that they are not using the transformer architecture. They use Retention Network, Power Retention and so on. So that it can run on your Swiss watch. It uses constant memory. But it is still top of the world when it comes to performance on inference. But this is not a tech seminar so I will stop here. But this is a topic that I am deeply compassionate and passionate about.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Sorry. Moving on. Catch up. You told me in a preparatory talk like when I thought about what you do in Switzerland, you told me like: Okay you have direct democracy. But you also have sometimes on public votes slight majorities of 51% or like 49% no. That would not be enough in Taiwan. You really aim for having 80%, like also for the AI regulation law you want to pass these days, should be at the end a minimum of 80%.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yeah, people can                                                     live                                                 with it. Which is much easier to achieve than complete consensus. Which only ensures that the people with the most time wins because it’s endless negotiation. But if you only ask: Can you live with it? You can very quickly get a snapshot. Like a group selfie. And then you pass it. And of course there’s some unintended consequences. But that’s fine. Just take another group selfie. And then if you take a group selfie quick enough, it becomes a selfie movie. And so that is how the people see themselves reflected. Because there’s nothing that’s more powerful than your few words written on Pol.is, on Join platform, and then next week become policy. It is actually very much empowering for people younger than 18 to see their names on the credit list for national level debates and policymaking and so on. And then they put much more time into the steering wheel, not the hamster wheel.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Very good. Let’s talk about some challenges you’re facing with your friendly neighbor.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 You don’t get that anywhere else.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 You don’t like the word “disinformation campaigns.” You prefer “polarization attacks.” Which is something Switzerland and Europe and every country else is facing too, being constantly this hybrid war all the time. How can we achieve this digital resilience towards deepfake and disinformation—I call it now—and polarization as well because we also have some neighbors maybe not that close but somewhere?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Okay. They are widening their free service now. And it’s because of language models. It used to be that you had to speak the target language to successfully mount an attack. But now malicious AIs not only speak all languages so well, even the memes, that’s to say pictures, can be translated perfectly into any target culture. So it does widen the aperture for polarization and disinformation attacks.
 
 In Taiwan, we basically invite these as topics for conversation. Social objects. We pre-bunk instead of debunk messages. Debunking is after the fact. And it’s bound to polarize some people if you debunk.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 And you create a deepfake first of yourself to show?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yes, I deepfake myself. Yes. So around three years ago, an actor played me in a deepfake. And it was kind of a fake deepfake because it took a lot of computation actually to calculate that. But we say that in the future, this will take not 12 hours, but 12 seconds to deepfake me completely. And maybe 12 milliseconds in which case you cannot tell whether somebody having a video conference with you is human or not.
 
@@ -288,61 +288,61 @@ We embrace the idea of “meronymity” or partial anonymity. So not everybody s
 
 And so all this meronymity, all this selective disclosure so you can prove that                                                     Ich bin ein Berliner                                                 without revealing your street address in Berlin, for example. All these are fundamental infrastructures that taken together offer a very strong pre-bunking infrastructure instead of debunking.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 And how fast should be this pre-bunking or debunking when you see there is something coming up. I saw something within two hours. That’s Taiwan reaction time.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 No, we upgrade that to one hour. So yeah, we have this 2-2-2 principle. Whenever the citizens through the collaborative fact-checking grassroots network Cofacts detect that there is a viral polarization or disinformation attack, then within two hours, we need to roll out two minutes of video or two pictures of 200 characters or less each that is funnier than the disinformation. It’s called “Humor over Rumor.”
 
 Because if it’s funny, it travels faster than outrage. And if you roll it out within the two hours, you can do a Tenet move and pretend you’re doing pre-bunking. Because for most people, this pincer attack means that they see the polarization                                                     after                                                 they see the humor. Right? So for them it’s pre-bunking, subjectively speaking. But if you act after two hours, it’s too late.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 And you force those platforms like Facebook and YouTube to collaborate on this selected service disclosure and identify scam and fraud and everything. And if they don’t, the sanction is slowing down their connection?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 To slowly slow down their connections.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 And they cooperate.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Of course.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Have you ever once said that to the EU Commission for example?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Well I listen. I mean radical interoperability and throttling is not stifling innovation, last I checked. It is not censorship of content, last I checked. Last I checked the state of Utah is conservative, last I checked. And so this is not something that is progressive versus conservative. Not something liberal versus the right. This is something about our fundamental freedom to move across services. So the best service gets our business. I think this is a very strong argument and I have not heard from any MP here in MEPs to say that oh I’m pro-fraud so I don’t want this kind of measure. Right? So I think the anti-fraud angle is definitely the uncommon ground, the surprising common ground that can unite the left-wing and the right-wing into that form.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Okay. So a way to enforce a legal framework. Speaking of frameworks, in the EU there’s this shift in the public discourse on the narrative about regulation. Like regulation is hampering innovation. So we need to get back our digital sovereignty. We need to build up our tech companies. We need to invest in our tech companies. We need to have fewer rules. Do you think, like when I hear what you’re saying, it’s actually not this way because it’s all about protocols?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yeah, I think I pre-bunked that question.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 You pre-bunked?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yeah.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Do you think so? So frameworks like GDPR, Digital Services Act, Digital Market Act… They’re not really, are they obstacles to our digital sovereignty?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 I think the difference between a guardrail that stifles innovation and a protocol that fosters healthy competition and innovation is that the protocol must always come with not just a guardrail against something, but a                                                     guide                                                 rail, an alternative.
 
@@ -350,27 +350,27 @@ As we are the Nobel for alternatives, I heard, the Right Livelihood Award—the 
 
 It’s called “Green Earth” because Bluesky, Green Earth. And Green Earth uses language models so you can tell it, you know, I prefer biblical creation care or I prefer climate justice framework and so on. And then it figures out the connective tissue for the ranking system to be maximally bridging. And once we have that good alternative running on Bluesky, actually it pressures X and other social media companies because if they don’t adapt, and the policymaker understands there                                                     are                                                 viable alternatives, then they can set the floor at those alternatives. Making it impossible for the big tech                                                     not                                                 to adopt such open source initiatives. So it’s like forking the platforms into protocols and then forcing them to merge back.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 And you have this conversation with Bluesky now to enforce this interoperability?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Well, Bluesky was designed around interoperability. It’s the AT Protocol. Right? So the AT Protocol can federate with the Fediverse, with Nostr, Farcaster, Lens—I’m missing a few. But it’s all the big interoperable web. And the lesson here is                                                     not                                                 that we need a Euro champion to replace those colonizers. But rather we need the Euro stack that is decentralized and democratic. And so that we can defend democracy by saying once you’re in Europe, you need to be like utilities, at least offering off-ramp and on-ramp.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Okay. So if the pressure from the EU Commission is not working, then at least you contributed then to this openness and plurality again.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Exactly.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 So the very last question. In the book                                                     Plurality                                                 you criticize how Western democracies have failed in the past to provide digital services. And I was immediately thinking of the pandemic, how European countries or Switzerland or the UK or other countries have managed the COVID-19 monitoring by sometimes using the fax machine. What would you think when you heard that? And what should be the core infrastructure from the government to be prepared for the next pandemic?
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Well for Taiwan, COVID-19 was the second pandemic. We were hit by SARS the most, and suffered the most of all countries when SARS happened. And when SARS happened, our health card was literally a piece of paper with six box on it. So you can stamp the date you enter a clinic. So it’s worse than the fax machine, speaking from personal experience.
 
@@ -380,32 +380,32 @@ And so I believe that in Taiwan we’ve had years of citizen assemblies and also
 
 So I think it is in these non-crucial times, in these more chronic times, that you have this national conversation, maybe with some alignment assemblies, around these very important boundaries, the red lines to draw. And once the pandemic or some other disaster happens, then the red lines become also the bright arrows to point out the kind of solution using technology of that day and age that we                                                     already                                                 know the pre-commitment of the people, the legitimacy of the people.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Yeah, we should have had this famous mask app where you can see the availability of masks in all the pharmacies.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Open API. Make it permissionless.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Yeah. I think we make a point here. I’m sure we could continue so much conversation for ages.
 
 Um, you promised to tell me an advertising slogan at the end. Do you remember? It was not “Humor over Rumor,” it was something about: Let’s make…
 
-### Audrey Tang: 
+### Audrey Tang:
 
 …something great again?
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Yes. Let’s make                                                     digital democracy                                                 great again.
 
-### Audrey Tang: 
+### Audrey Tang:
 
 Yes. Let’s make digital democracy great again. Thank you.
 
-### Adrienne Fichter: 
+### Adrienne Fichter:
 
 Thank you.

@@ -258,7 +258,7 @@ I think to us, it's not sometime in the future. You spoke like something in the 
 
 So to us, this has been always going on for a while, and it's like earthquakes, I guess, because large attacks do not give you a lot of warning. But with devotion and innovation, we're able to give a lot of warnings from threat indicator sharing from across the world, from the liberal democracies alliances.
 
-We look forward to work with people both in the web3 community, as well as people in the different liberal democracies to enhance our detection possibilities so that we can mitigate even more timely and more effectively. 
+We look forward to work with people both in the web3 community, as well as people in the different liberal democracies to enhance our detection possibilities so that we can mitigate even more timely and more effectively.
 
 ### Interviewer:
 
