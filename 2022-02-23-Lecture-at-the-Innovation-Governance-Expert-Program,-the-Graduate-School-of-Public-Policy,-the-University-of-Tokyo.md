@@ -12,10 +12,10 @@ Certainly. Very honored to be here to talk with you all, and I will now recite a
 
 And in lieu of any remark, I believe this describes my imagination of digital democracy, which will inform our subsequent conversations and my job description goes like this:
 
-When we see the Internet of Things, let's make it an Internet of Beings.
-When we see virtual reality, let's make it a shared reality.
-When we see machine learning, let's make it collaborative learning.
-When we see user experience let's make it about human experience.
+When we see the Internet of Things, let's make it an Internet of Beings.<br>
+When we see virtual reality, let's make it a shared reality.<br>
+When we see machine learning, let's make it collaborative learning.<br>
+When we see user experience let's make it about human experience.<br>
 Whenever we hear that Singularity is near, let us always remember the Plurality is here.
 
 So while singularity connects machines, plurality connects people. Thank you.

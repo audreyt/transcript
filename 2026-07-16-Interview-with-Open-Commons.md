@@ -26,9 +26,9 @@ The first few lines of that job description have conclusively been realized. Let
 
 That's the agentic web.
 
-> When we see virtual reality, let's make it a shared reality.
-> When we see machine learning, let's make it collaborative learning.
-> When we see user experience, let's make it human experience.
+> When we see virtual reality, let's make it a shared reality.<br>
+> When we see machine learning, let's make it collaborative learning.<br>
+> When we see user experience, let's make it human experience.<br>
 > And when we hear the singularity is near, let's remember the Plurality is here.
 
 I would say we are done with four out of five. On the fifth line, I would now add: **we the people are truly the superintelligence.**
@@ -417,69 +417,69 @@ It is called **“Holding Pattern.”**
 
 The runway is falling away.
 
-> At a lab in May,
-> more than four lines in five
-> of the codebase
-> were written by a model.
-> About every four months,
-> the work a system finishes solo
+> At a lab in May,<br>
+> more than four lines in five<br>
+> of the codebase<br>
+> were written by a model.<br>
+> About every four months,<br>
+> the work a system finishes solo<br>
 > reaches twice as far.
 
-> No flight yet flies itself alone.
-> Still, the horizon keeps moving,
+> No flight yet flies itself alone.<br>
+> Still, the horizon keeps moving,<br>
 > and the instruments are speaking.
 
-> For all it writes, the model
-> holds no seat, knows no home,
-> feels no weather in the towns it touches.
+> For all it writes, the model<br>
+> holds no seat, knows no home,<br>
+> feels no weather in the towns it touches.<br>
 > The question cannot end with it.
 
-> Every takeoff borrows
-> from a landing not yet made.
-> A runway kept clear,
-> an alternate kept open,
+> Every takeoff borrows<br>
+> from a landing not yet made.<br>
+> A runway kept clear,<br>
+> an alternate kept open,<br>
 > someone awake on the ground.
 
-> A holding pattern is an interval
-> flown on purpose. The map held in common,
-> each turn entered in the record,
-> the right to leave without losing home.
+> A holding pattern is an interval<br>
+> flown on purpose. The map held in common,<br>
+> each turn entered in the record,<br>
+> the right to leave without losing home.<br>
 > We hold the option, not the line.
 
-> Landing starts early,
-> long before wheels touch ground.
-> It starts wherever the weight will come down:
-> who, in this place,
-> is owed an answer when this system acts,
-> and who is authorised to give that answer?
-> Those who will carry the consequences
+> Landing starts early,<br>
+> long before wheels touch ground.<br>
+> It starts wherever the weight will come down:<br>
+> who, in this place,<br>
+> is owed an answer when this system acts,<br>
+> and who is authorised to give that answer?<br>
+> Those who will carry the consequences<br>
 > should help author the test.
 
-> A lab can read the engine
-> but not every town along the route.
-> A town can feel the weight
-> but cannot open the casing alone.
-> So, we need each other.
-> Instruments fine enough to verify,
-> neighbours with standing to decide.
-> One tells us whether the brakes will hold.
+> A lab can read the engine<br>
+> but not every town along the route.<br>
+> A town can feel the weight<br>
+> but cannot open the casing alone.<br>
+> So, we need each other.<br>
+> Instruments fine enough to verify,<br>
+> neighbours with standing to decide.<br>
+> One tells us whether the brakes will hold.<br>
 > The other, who may pull them.
 
-> Takeoff is now.
-> So is the holding.
-> So is the landing.
+> Takeoff is now.<br>
+> So is the holding.<br>
+> So is the landing.<br>
 > Three duties of the same hour.
 
-> The faster the climb,
-> the more the flight owes the ground:
-> communities, each with a voice,
-> each with a way home,
+> The faster the climb,<br>
+> the more the flight owes the ground:<br>
+> communities, each with a voice,<br>
+> each with a way home,<br>
 > each able to alter course.
 
-> Arrival, when it comes, will be plural.
-> A world still wild enough
-> to choose what lands,
-> what leaves,
+> Arrival, when it comes, will be plural.<br>
+> A world still wild enough<br>
+> to choose what lands,<br>
+> what leaves,<br>
 > what grows.
 
 > We arrive together, answerable,

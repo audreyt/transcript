@@ -118,10 +118,10 @@ Sure.
 
 When I first became Digital Minister in 2016, there had been no Digital Minister before in Taiwan. So the people in the Executive Yuan—our Cabinet—asked me to write my own job description. I wrote one when I was in Wellington, New Zealand. It’s very short and goes like this:
 
-When we see the Internet of Things, let’s make it an Internet of Beings.
-When we see Virtual Reality, let’s make it Shared Reality.
-When we see Machine Learning, let’s make it Collaborative Learning.
-When we see User Experience, let’s make it about Human Experience.
+When we see the Internet of Things, let’s make it an Internet of Beings.<br>
+When we see Virtual Reality, let’s make it Shared Reality.<br>
+When we see Machine Learning, let’s make it Collaborative Learning.<br>
+When we see User Experience, let’s make it about Human Experience.<br>
 And whenever we hear “the Singularity is near,” let us always remember: the Plurality is here.
 
 That’s my job description. The idea is not to solve everything for the next generation—to be a “perfect” ancestor. Because no matter what “optimal” means, if we try to converge on a single vision, we take possibilities away from future generations. We’d be designing their lives for them.
