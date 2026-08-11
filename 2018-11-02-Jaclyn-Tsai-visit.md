@@ -417,7 +417,7 @@ Yeah.
 In last year, many items just come up with the idea, and say, &quot;I want money.&quot; They got nothing. We want people to really arise that they need to think more about this issue. We communicated with many investors and the communities, and they’re really concerned about all this issues.
 
 ### Kevin:
-Jaime, can you hijack,the document?
+Jaime, can you hijack, the document?
 
 ### Jaime:
 I am opening our systems.

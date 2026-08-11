@@ -141,7 +141,7 @@ The campaign donation and finance got spent on sponsored social and political ad
 I believe a strong enough social sector and strong enough alternatives can motivate both domestic private sector companies like Dcard or international ones like Facebook to conform to the norm that's already set by the social sector because there is the real threat of social sanction if they did not do so.
 
 ### Erin Hale:
-OK.We're running out of time. Could you tell me, how has your portfolio changed a lot since you started? You talked about how your responsibilities have evolved.
+OK. We're running out of time. Could you tell me, how has your portfolio changed a lot since you started? You talked about how your responsibilities have evolved.
 
 ### Audrey Tang:
 Sure. As the digital minister in charge of open government, social innovation, and youth engagement, my main portfolio have not changed much.

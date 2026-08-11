@@ -1080,7 +1080,7 @@ It’s not a brain drain if it’s two-way, and then we just call it talent circ
 It’s a way to bring, if you are a citizen of Taiwan and you go to study at Stanford, for example, and you’ve got an idea for a startup company, it’s a way to attract…
 
 ### Audrey Tang:
-Right, and then you realize the great AI algorithm that you did with your friends, that unlike in the good old days of pure software, would require a robotic body for embodiment, and Taiwan is the best place for that, literally, so they just set up their centers here..
+Right, and then you realize the great AI algorithm that you did with your friends, that unlike in the good old days of pure software, would require a robotic body for embodiment, and Taiwan is the best place for that, literally, so they just set up their centers here.
 
 ### Audrey Tang:
 That’s how we get our unicorns, like Gogoro, and so on. Not because that it’s necessarily sells to Taiwanese market, but because of the supply chain and the research, it’s the best integrated in Taiwan.

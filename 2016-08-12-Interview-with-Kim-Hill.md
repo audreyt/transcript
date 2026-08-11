@@ -114,7 +114,7 @@ Over the four weeks, as they try to convince each other, they gradually fuse in 
 So what’s the outcome?
 
 ### Audrey Tang:
-There’s quite a few outcomes. The government pledged to ratify our consensus in a new regulation, slated maybe a week or two weeks from now. It’s basically saying, as long as they register locally as a fleet,as long as it pay taxes, we’re willing to have a different kind of taxi that is not hailed on the street, but through an App.
+There’s quite a few outcomes. The government pledged to ratify our consensus in a new regulation, slated maybe a week or two weeks from now. It’s basically saying, as long as they register locally as a fleet, as long as it pay taxes, we’re willing to have a different kind of taxi that is not hailed on the street, but through an App.
 
 ### Audrey Tang:
 But the taxi drivers for this new kind of taxi must be protected in the same way the normal employees are. And we also encourage local co-ops to form this kind of App-dispatched taxi fleets to serve under-served areas.

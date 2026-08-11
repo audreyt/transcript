@@ -22,7 +22,7 @@ I've also spent the last seven years working on climate change adaptation polici
 
 I was excited to be able to meet Anne when she came to New York. This project is really trying to develop a framework for how do we think about, not just municipalization or making the services public, but redefining that public, given the digital innovation, given the desire to create a different model that has democratic participation, but also addresses the reality of the complexity of these issues, the technical nature of these issues.
 
-Also, the new technologies what they offer us. For sure, we're very excited to learn more and hear how  the vTaiwan process has evolved in the last several years.
+Also, the new technologies what they offer us. For sure, we're very excited to learn more and hear how the vTaiwan process has evolved in the last several years.
 
 ### Audrey Tang:
 I'd like to start off by thanking New York for starting this voluntary local review movement because over a half now, about pretty much all the municipality in Taiwan is on board, and on the most recent tweets in my Twitter channel is the mayor of New Taipei City is saying that he was the first to join the VLR movement, from Taiwan.
@@ -38,7 +38,7 @@ That's right.
 ### Anne Le Strat:
 Great. We have a lot of questions, but, of course, feel free to add any comments, any idea, and any insight. My first question is about democratization experience in Taiwan. In my point of view, it's a very fascinating case because Taiwanese people have lived under the longest martial law in the world, and nowadays Taiwan is one of the most progressive and innovative democracies in many ways.
 
-Several social movements have marked the history of your young democracy. With g0v movement, and vTaiwan platform,Taïwan has created different innovative tools for improving democracy in Taiwan.
+Several social movements have marked the history of your young democracy. With g0v movement, and vTaiwan platform, Taïwan has created different innovative tools for improving democracy in Taiwan.
 
 In your point of view, what are the main outcomes drawn from these experiences in terms of better consideration of the needs of citizens and the population, and in terms of the legitimacy of decisions taken by government institutions and their social acceptance?
 
@@ -94,7 +94,7 @@ The participation officers engage hashtags before they take to the street [laugh
 This is again, because it's seen as inevitable because it's cheap and cheerful, in the best sense, inexpensive, and always produces something positive, but not because there's a strong mandate.
 
 ### Anne Le Strat:
-It's very interesting. Does it mean that there is no reluctance from civil servants,and from the administration to use these democratic processes?
+It's very interesting. Does it mean that there is no reluctance from civil servants, and from the administration to use these democratic processes?
 
 ### Audrey Tang:
 Yeah, because it's done by default, it's part of their work. They did not have to learn a new system. They do not have to change their workflow.
@@ -353,8 +353,8 @@ That's right.
 This stuff becomes very much an issue around social reproduction and gender. Go ahead, Anne.
 
 ### Anne Le Strat:
-Just to jump in this private-public issue; In one of your interview, you said, - it was very interesting for me -, that in Taiwan there is a collective priority of rebuilding strong mutual trust between the government and the civil society.This is something that a European nation, especially people who worry of the private sector having too much control of the government, could perhaps look into.
-I would like to ask you how post-pandemic democracy could limit the influence of large private coporations in decision-making?
+Just to jump in this private-public issue; In one of your interview, you said, - it was very interesting for me -, that in Taiwan there is a collective priority of rebuilding strong mutual trust between the government and the civil society. This is something that a European nation, especially people who worry of the private sector having too much control of the government, could perhaps look into.
+I would like to ask you how post-pandemic democracy could limit the influence of large private corporations in decision-making?
 
 What is your point of view regarding common goods and public service management, and how it's possible to implement a public management model with a genuine public participation?
 

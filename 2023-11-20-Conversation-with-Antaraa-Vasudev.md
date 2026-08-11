@@ -338,7 +338,7 @@ So, because consultation is sometimes about hitting the brakes, right, like stop
 Right.
 
 ### Audrey Tang:
-So, it’s like training for this. And beyond JOIN, we also have a referendum system, which requires collecting close to  300K signatures on a national issue.
+So, it’s like training for this. And beyond JOIN, we also have a referendum system, which requires collecting close to 300K signatures on a national issue.
 
 Again, for most of the referendum topics, you see them first taking place in consultation and in e-petition just as a training wheel to get a referendum movement going.
 

@@ -775,7 +775,7 @@ Awesome. Also, anything, any time you’re back in the United States, let me kno
 Cool. The foreign collaboration arm, the ICDF -- the International Cooperation and Development Fund.
 
 ### Dar Vanderbeck:
-We just met them..
+We just met them.
 
 ### Audrey Tang:
 You just did. Did they mention that they are also looking to work with oversea impact investment?

@@ -178,7 +178,7 @@ Cofacts.
 …Cofacts, yeah. How effective do you think both Cofacts and Taiwan Fact-Check Center have been at countering disinformation? Based on their successes, where do you see remaining gaps that maybe your office or you’ve been trying to engage?
 
 ### Audrey Tang:
-In the mLearn website, the media competency, education framework, mlearn.moe,gov.tw, as you can see, the main focus items based on what they have done is first to translate it into K to 12, embed it into the curriculum so that the young people…
+In the mLearn website, the media competency, education framework, mlearn.moe.gov.tw, as you can see, the main focus items based on what they have done is first to translate it into K to 12, embed it into the curriculum so that the young people…
 
 ### Audrey Tang:
 …can get media competency before they are of legal age to vote, obviously. Also, they focus on life-long learning. You see that the prominent journalists across various generations, they all contribute because they are trusted figures by various generations.

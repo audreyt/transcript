@@ -312,7 +312,7 @@ In 1977, William F. Buckley Jr., who hosted this program for 33 years, traveled 
 
 Here is Chiang speaking through a translator about Taiwan's responsibility to the people of China, mainland China.
 
-### **Chiang Ching-kuo (translator):**
+### Chiang Ching-kuo (translator):
 
 We have the responsibility to give back to the Chinese people of the mainland their freedom. And in order to accomplish this mission, we do not have to rely on military forces. Rather, we should rely on political means.
 

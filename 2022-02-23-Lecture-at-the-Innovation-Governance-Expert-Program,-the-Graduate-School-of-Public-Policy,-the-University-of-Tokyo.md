@@ -18,7 +18,7 @@ When we see machine learning, let's make it collaborative learning.
 When we see user experience let's make it about human experience.
 Whenever we hear that Singularity is near, let us always remember the Plurality is here.
 
-So while singularity connects machines, plurality connects people.  Thank you.
+So while singularity connects machines, plurality connects people. Thank you.
 
 ### Audience Member:
 

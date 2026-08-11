@@ -56,7 +56,7 @@ For the particularly controversial topics, we enlist the help of the Pol.is, it'
 
 In that sense, Pol.is is a kind of a machine learning moderator. How it works is that for issues like Uber, when Uber first came to Taiwan in 2015, it work with people without professional driver license calling a UberX. We enlisted the help of police asking all the Uber drivers, taxi drivers, passengers and so on to go to this platform, which is like a survey.
 
-The survey is created by people sharing how they feel. Instead of the government doing the survey, the people wikisourced  crowdsourced the agenda. There's people saying, "Oh, I feel much more safe if the passenger liability insurance is allowed on the UberX cars, and there's people who say, "Oh, I want them to not undercut existing meters," and things like that.
+The survey is created by people sharing how they feel. Instead of the government doing the survey, the people wikisourced crowdsourced the agenda. There's people saying, "Oh, I feel much more safe if the passenger liability insurance is allowed on the UberX cars, and there's people who say, "Oh, I want them to not undercut existing meters," and things like that.
 
 After three weeks of reflection, we get this very beautiful picture of people agreeing to disagree on just a few ideological issues, whether it's sharing economy or gig economy. Most of people agree with most of their neighbors and most of the time on the more practical issues. We simply took that and made a multipurpose taxi law. Uber is a legal taxi now that the few taxis in Taiwan.
 

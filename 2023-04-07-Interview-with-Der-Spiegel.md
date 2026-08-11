@@ -34,17 +34,17 @@ No, no, we do that permanently. So ever since last August, moda.gov.tw, which is
 And would that be possible to connect the whole Taiwanese system to this system?
 
 ### Audrey Tang:
-Yes. So basically, interplanetary file system works for any content that is not interactive. Basically, if it's about broadcasting, like every visitor sees the same thing, then it's good to... it's like a bit torrent, you know.Like if I download a copy on my browser, the Brave browser, then I can serve the same content to people near me.
+Yes. So basically, interplanetary file system works for any content that is not interactive. Basically, if it's about broadcasting, like every visitor sees the same thing, then it's good to... it's like a bit torrent, you know. Like if I download a copy on my browser, the Brave browser, then I can serve the same content to people near me.
 
-So the attacker would have to take down all the 200,000 computers at once around the world, which is not easy, right? Right.But it's not as suitable if this is about personalized service, like filing tags and so on.But because all our website is non-interactive content, it's broadcasting. So our entire website is on IPNS.
+So the attacker would have to take down all the 200,000 computers at once around the world, which is not easy, right? Right. But it's not as suitable if this is about personalized service, like filing tags and so on. But because all our website is non-interactive content, it's broadcasting. So our entire website is on IPNS.
 
 ### Interviewer:
 There is one... I've just been to INDSR, and you spoke as well about the satellite, about Starlink 2.0, and the question how to actually prevent that the underground cables will be cut, even if it's highly improbable that all of them will be cut because they're international also.
 
-But what are your plans so far? Like they also told me that they might even... because right now I think Taiwan is using some channels on a Singaporean satellite.So if the Chinese attack it, they will actually attack a Singaporean one and a Taiwanese one?
+But what are your plans so far? Like they also told me that they might even... because right now I think Taiwan is using some channels on a Singaporean satellite. So if the Chinese attack it, they will actually attack a Singaporean one and a Taiwanese one?
 
 ### Audrey Tang:
-A few things, right? One is that, for example, when we video conference with one another between domestic actors in Taiwan, like in MODA in our ministry, we use several things, including say Google Meet.And we ensure with Google Meet that the compute center is in Zhanghua as domestic. And also the infrastructure itself is maintained by Google's partners in Taiwan that has a Taiwanese nationality.
+A few things, right? One is that, for example, when we video conference with one another between domestic actors in Taiwan, like in MODA in our ministry, we use several things, including say Google Meet. And we ensure with Google Meet that the compute center is in Zhanghua as domestic. And also the infrastructure itself is maintained by Google's partners in Taiwan that has a Taiwanese nationality.
 
 And so because of that, we are reasonably sure even when all the submarine cables are cut, the international ones, the domestic communication, video conferencing, will still work. Compare that to if we use a foreign compute center for a video conference, which would be basically I call you, but the call is routed to other countries and then back. Then if the submarine cables are cut, then we cannot contact each other anymore, right? So we are working with all the three cloud providers, Google, Amazon, and Microsoft, to ensure that they have similar arrangements of local resilience so that we can keep the communications open.
 
@@ -86,14 +86,14 @@ So in Taiwan, we have several organizations, part of the International Fact-Chec
 
 But how do we know it is viral? Especially, as you said, instead of on the public platform, maybe it's on the LINE platform, which is the most popular in Taiwan, and LINE is encrypted end-to-end. So we do not have visibility of what people are sending. So we work with several organizations, and they're all in a civil society, so it's not us, it's not state surveillance.
 
-But we ensure, for example, that if you long tap a message on LINE that you received, you can flag it as a scam or a spam.So it's like email, right? Email is private to you, but if you receive spam, you can flag that as junk mail and share the signal of that email or the incoming message to this clearinghouse that let us know, and everybody knows really, what are the trending disinformation?
+But we ensure, for example, that if you long tap a message on LINE that you received, you can flag it as a scam or a spam. So it's like email, right? Email is private to you, but if you receive spam, you can flag that as junk mail and share the signal of that email or the incoming message to this clearinghouse that let us know, and everybody knows really, what are the trending disinformation?
 
 So there are many organizations. There's a grassroots one called Cofacts for collaborative fact-checking. There's the antivirus company Trend Micro. There's another startup, no longer a startup, but a unicorn now, called WhosCall from GoGoLook, which is already finding a market in Japan for blocking and soliciting scams and so on.
 
 So basically antivirus, counter-scam and counter-disinformation are the same ecosystem, and they work very closely together to surface the most viral disinformation of the day so that professional fact-checkers can focus their energy on the ones that are actually trending.
 
 ### Interviewer:
-How is it..because we also talked to Puma Shen, and he said he's not really troubled about fake news, because that's easy, but he's really troubled about conspiracy theories, because there's not really something you can do about it.
+How is it... because we also talked to Puma Shen, and he said he's not really troubled about fake news, because that's easy, but he's really troubled about conspiracy theories, because there's not really something you can do about it.
 
 Often they are so wild that you can't, I mean, it doesn't really, even if you say this is not true, people will think you say it's not true because you're part of the circle, blah, blah, blah. So how can you actually counter these?
 
@@ -148,13 +148,13 @@ And there was a young boy who called 1922 who said, you're rationing pink mask t
 
 But the very next day at a 2 p.m. press conference, all the medical officers wore pink masks. And Minister Chen even said that the Pink Panther is his childhood hero. And so it's very funny. He said in a very funny way, like serious and funny way.
 
-And because of that, there was a suggestion from the participation officer of his ministry. We have such people in each ministry in charge of connecting to collective intelligence. And so after that, the boy became the most hit boy in the class because all the ministry social media turned pink and all the leading brands.And the boy become like the only boy in his class that has the color of the heroes and the hero of the hero, the Pink Panther. So this is already collective intelligence.
+And because of that, there was a suggestion from the participation officer of his ministry. We have such people in each ministry in charge of connecting to collective intelligence. And so after that, the boy became the most hit boy in the class because all the ministry social media turned pink and all the leading brands. And the boy become like the only boy in his class that has the color of the heroes and the hero of the hero, the Pink Panther. So this is already collective intelligence.
 
 Now, as I mentioned, if you call 1922 and say, how do I get a vaccine? And so on, they would direct you to the 1922 website, which allows you to tick like out of the four or so vaccines, which one are you are acceptable to you?By default, it's all ticked.
 
-But you can take something out and leave only the ones you want.And then when that supply comes, you will receive a SMS telling you that it's your turn. And please feel free to start registering. And then you go back to the same website and it lists nearby clinics and so on. And then so you can get a vaccine in time.So this is very efficient in the sense that even when the vaccine are just undergoing inspection for a week after landing in Taiwan, we already know each and everyone's destination. We already know who will get them.
+But you can take something out and leave only the ones you want. And then when that supply comes, you will receive a SMS telling you that it's your turn. And please feel free to start registering. And then you go back to the same website and it lists nearby clinics and so on. And then so you can get a vaccine in time. So this is very efficient in the sense that even when the vaccine are just undergoing inspection for a week after landing in Taiwan, we already know each and everyone's destination. We already know who will get them.
 
-And the second thing is that like a week or more in advance, we already publish like this batch of like half a million or a million AstraZeneca, you know, the 40 years old want them, the 30 years old want them and so on.And so because the conspiracy theory was always counting on like people refusing to get vaccines.
+And the second thing is that like a week or more in advance, we already publish like this batch of like half a million or a million AstraZeneca, you know, the 40 years old want them, the 30 years old want them and so on. And so because the conspiracy theory was always counting on like people refusing to get vaccines.
 
 But now that we have real numbers, so the elderly people who skip AstraZeneca can just ask their children or grandchildren what it feels like to get AstraZeneca and maybe revise their decision. Maybe they still stick to Moderna. Some people only want BNT Pfizer. But that is fine as long as they are vaccinated.
 
@@ -168,7 +168,7 @@ No, not at all. As I mentioned, we successfully turned anti-vax conspiracy into 
 But do you generally have a problem with fatigue in democracy or is this nothing that troubles Taiwan?
 
 ### Audrey Tang:
-Well, yes and no. Right? Back in 2014, before the sunflower movement, there was a real fatigue. Like people did not believe they can effect a real change.And right after the sunflower movement, the trust in institutions was really low, like 9% or something of the administration from the people.
+Well, yes and no. Right? Back in 2014, before the sunflower movement, there was a real fatigue. Like people did not believe they can effect a real change. And right after the sunflower movement, the trust in institutions was really low, like 9% or something of the administration from the people.
 
 And so we were at that point where the career public service really wanted to engage the public in a new way, digitally, so that they don't do a controversial thing and people go on and occupy the parliament. I mean, although it was nonviolent, it is not a way for the democracy to just go on and on with just nonviolent communications that involves occupiers.
 
@@ -226,7 +226,7 @@ Exactly.
 ### Audrey Tang:
 That's right.
 
-Exactly.But actually, you know the POLIS, pro-social media has this idea of group informed consensus. So we can see everybody agree that actually generative AI will already change many industries. So we need civil society led initiative to tackle, for example, the believable misinformation and skill issue.
+Exactly. But actually, you know the POLIS, pro-social media has this idea of group informed consensus. So we can see everybody agree that actually generative AI will already change many industries. So we need civil society led initiative to tackle, for example, the believable misinformation and skill issue.
 
 And maybe we should build on our experience solving those issues to become stronger as democracies before going into this long term existential risk. Maybe we should focus on solving a few things at the moment.
 
@@ -270,7 +270,7 @@ So I think this new type of conversation in which we participate as a full democ
 And what do you think, why hasn't China chased you there so far? I mean, whenever Taiwan has too much leverage in international relations, they would always find a way to get you out. Why haven't they done so, so far?
 
 ### Audrey Tang:
-Well, first of all, I think to democratize, that is to say to give people a say, requires a different kind of thinking. A request, for example, trusting journalists in bringing up both the good news and the bad news so everybody can learn and so on.But at the moment, I don't see PRC fully committing to this course of action. You probably had first-hand experience?
+Well, first of all, I think to democratize, that is to say to give people a say, requires a different kind of thinking. A request, for example, trusting journalists in bringing up both the good news and the bad news so everybody can learn and so on. But at the moment, I don't see PRC fully committing to this course of action. You probably had first-hand experience?
 
 ### Interviewer:
 Yeah. (laughter)

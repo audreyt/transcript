@@ -118,7 +118,7 @@ Of course. Like I said, we work with human rights defenders all over the world.
 I understand.
 
 ### Benjamin Finn:
-The company itself will..
+The company itself will…
 
 ### Audrey Tang:
 I presume that, since you’ve worked with Twitter and Facebook, they’ll be willing to attest to these people’s mission?

@@ -814,7 +814,7 @@ I told them you cannot compare to Taiwan, because Taiwan is a different kind of 
 That sounds reasonable. Let’s just compare with ourselves. If we maximized the elements that are not there in the year 2000, for example the year 2000 doesn’t have live streaming, there’s no mobile app or mobile interaction to speak of, and there’s no virtual reality or anything that can enhance the immersive experience of people, either here or watching from afar.
 
 ### Audrey Tang:
-So we maximize the highlights based on the technology that’s not there in the 2000s. Then everybody will remember it is different. If we compare ourselves to 2000 using exactly the same methods, we’d probably fall short, because of the lack of relative political and the other buy-ins. So let’s do that..
+So we maximize the highlights based on the technology that’s not there in the 2000s. Then everybody will remember it is different. If we compare ourselves to 2000 using exactly the same methods, we’d probably fall short, because of the lack of relative political and the other buy-ins. So let’s do that.
 
 ### Jim Poisant:
 OK.

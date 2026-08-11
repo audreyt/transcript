@@ -753,7 +753,7 @@ Consensus is something that makes everybody happy. Consensus is something you ca
 That’s impossible for if you have five million people. \[laughs\] Instead of saying consensus, meaning fine consensus, we’re just reaching rough consensus, meaning we can more or less live with it. That’s much easier to achieve.
 
 ### Audrey Tang:
-共識 is, I think, one of the key terms in Taiwanese politics. It means something that I can live with. I will not kill myself seeing this happen, but I am not neccessarily happy with it. I am just OK with it. This is very important.
+共識 is, I think, one of the key terms in Taiwanese politics. It means something that I can live with. I will not kill myself seeing this happen, but I am not necessarily happy with it. I am just OK with it. This is very important.
 
 ### Audrey Tang:
 Politically speaking, how to make a common understanding? We must make the commonalities seen by people. This is a platform called join.g0v.tw, join-government-Taiwan. It has the National Auditing Office, most of the municipalities and some cities, and also, our central administration, each operating a different part of this platform.

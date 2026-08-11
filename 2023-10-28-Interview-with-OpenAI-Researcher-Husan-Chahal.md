@@ -286,7 +286,7 @@ Mm-hmm. Yeah, so I think that this is such an important question and also there 
 
 So yeah, the idea is just to gauge where do these perspectives stand on a spectrum across these different communities? And of course, there's so many differences across these countries as well. And any future efforts at governing AI would require this cross-country collaboration. But if everyone's speaking a different language about AI risks in general, it doesn't help.
 
-I'm curious to understand how are policy officials across these countries thinking about it? Getting answers to this can really in the future help in potential efforts at global coordination in governing AI and any such efforts. And it could make  some conversations easier as well. But yeah, basically, that's the motivation.
+I'm curious to understand how are policy officials across these countries thinking about it? Getting answers to this can really in the future help in potential efforts at global coordination in governing AI and any such efforts. And it could make some conversations easier as well. But yeah, basically, that's the motivation.
 
 ### Audrey Tang:
 Yeah, no, I think this is very helpful. Because there are two ways to think about this. One is more about what's the word? Reconciliation or confidence building, right? You have huge tension and you want to eventually convert to a Montreal protocol of sorts, right? Our nonproliferation protocol of sorts that brings those creative energy into something that people can live with institutionally.
@@ -312,7 +312,7 @@ So, we're now working to build a super intelligent, collective intelligence inst
 So, am I imagining things or is this a general direction?
 
 ### Husan Chahal:
-I guess  there is a lot of thinking going on still and it's work in progress. But generally speaking, the risks that are coming from AI are so wide and even for this study, when we were contextualizing the seven risks, we were not sure what is a good way to contextualize it and what would make sense, because the more you start looking at policy documents, the more you start looking at conversations within the community, you see there is a spectrum.
+I guess there is a lot of thinking going on still and it's work in progress. But generally speaking, the risks that are coming from AI are so wide and even for this study, when we were contextualizing the seven risks, we were not sure what is a good way to contextualize it and what would make sense, because the more you start looking at policy documents, the more you start looking at conversations within the community, you see there is a spectrum.
 
 So, in that sense, I think that AI safety, is still the broader bucket. And I think we probably should still continue seeing it in that lens. And of course, misalignment is definitely a big component to it as well, considering the potential for catastrophic risks that it entails. But yeah, I would say that I personally feel more comfortable in having that broader, AI safety umbrella as something we should move towards and see various risks contextualized.
 

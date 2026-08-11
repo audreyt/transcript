@@ -291,7 +291,7 @@ Many of these are actually campaign promises of Dr. Tsai Ing-wen.
 What would you say are the lessons that social movements and social activists have learned? So far, we’ve talked about the government side, about administration. What has changed -- has anything changed -- on the side of organizing activists against power, for example, or to promote particular kinds of issues?
 
 ### Audrey Tang:
-I have a colleague, En-en Hsu, who used network theory and quantitative analysis to basically establish the co-occurence of NGOs across the years. One interesting connection that I may make is just to introduce you to her work.
+I have a colleague, En-en Hsu, who used network theory and quantitative analysis to basically establish the co-occurrence of NGOs across the years. One interesting connection that I may make is just to introduce you to her work.
 
 ### Audrey Tang:
 She was actually one of the main facilitators in the occupied parliament. I was on the periphery, making sure the communication works. She was actually there and making sure that the people who occupied the parliament can get into a rough consensus in a facilitated way.

@@ -153,7 +153,7 @@ It’s not just a trusted intermediary, right? It is literally a video that’s 
 
 ### Audrey Tang:
 
-But now because on the internet everybody has the same screen size, it is very difficult actually to make a seat arrangement that somehow highlights multilateral as the core and multi- stakeholder as the periphery, Everybody’s just speaking for themselves quite literally there. And  I think this is for the best, we have held the Virtual Islands Summit in conjunction with the East Caribbean islands and at each Island send someone to talk through this entirely virtual conference. We also have the agenda, we have the MC, we have the panel discussions, we have everything except that we don’t have a venue, right. The venue is entirely online.
+But now because on the internet everybody has the same screen size, it is very difficult actually to make a seat arrangement that somehow highlights multilateral as the core and multi- stakeholder as the periphery, Everybody’s just speaking for themselves quite literally there. And I think this is for the best, we have held the Virtual Islands Summit in conjunction with the East Caribbean islands and at each Island send someone to talk through this entirely virtual conference. We also have the agenda, we have the MC, we have the panel discussions, we have everything except that we don’t have a venue, right. The venue is entirely online.
 
 ### Audrey Tang:
 

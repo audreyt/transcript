@@ -371,7 +371,7 @@ Yeah, I mean this scope of making things recursive even though I'm still learnin
 
 But then, when I study more it will be beyond just consulting different 10 snapshots of conversations. We'll be making I guess the outcome of each conversation recursive as well. We're not stagnate to a certain result of a conversation as a snapshot, but actually, the outcome will be evolving and you have the potential to track how people change their minds as well.
 
-And all that layers of potential is very, very exciting. Like when you said the difference between… Yeah so, just saying I think it's part of making things more synchronous. It's also very interesting because when we thought about asynchronous conversation and having… So, we thought about say for example using POLIS and using Talk to the City,  if assuming they're asynchronous way of engaging people, you instantly open this whole new world of… you can consult for previous conversations because it's asynchronous, anyway.
+And all that layers of potential is very, very exciting. Like when you said the difference between… Yeah so, just saying I think it's part of making things more synchronous. It's also very interesting because when we thought about asynchronous conversation and having… So, we thought about say for example using POLIS and using Talk to the City, if assuming they're asynchronous way of engaging people, you instantly open this whole new world of… you can consult for previous conversations because it's asynchronous, anyway.
 
 But then, if thinking synchronously like Audrey said, you're empowering the kind of drive of conversation. I guess, like you're driving conversation in a way that's actually making that result iterating faster and more abundant, that’s really amazing.
 

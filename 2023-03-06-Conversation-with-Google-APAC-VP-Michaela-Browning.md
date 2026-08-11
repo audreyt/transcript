@@ -124,7 +124,7 @@ Right. Nowadays, we're also thinking about the emergency backup and restore situ
 We will want to run the drills that if the Google data center, something happens to it, we can actually restore our operations from maybe Australian or Japanese data center.
 
 ### Michaela Browning:
-Thank you for sharing your insights and thinking on these things and we are keen to continue to explore them with you. We, of course, not only believe, but know cloud first principles are important for governments and we are advocating on this in APEC this year for example, and continuing to do elsewhere.  We also consider our secure cloud offerings to be the best, and our commitment to infrastructure resilience to be very much about how can we provide the kinds of assurances that people need.
+Thank you for sharing your insights and thinking on these things and we are keen to continue to explore them with you. We, of course, not only believe, but know cloud first principles are important for governments and we are advocating on this in APEC this year for example, and continuing to do elsewhere. We also consider our secure cloud offerings to be the best, and our commitment to infrastructure resilience to be very much about how can we provide the kinds of assurances that people need.
 
 Certainly, that governments and others need it when they are looking after the interests of many millions of people.
 
@@ -139,7 +139,7 @@ We will start from the 47 or so of these places, switch to very strong FIDO auth
 ### Michaela Browning:
 That’s right, the zero trust architecture from 2009. Secure by Design is a foundational and driving principle for all our products and services. We do think very much about the importance of distributed cloud, and the fact that data localization, for example, can actually be inconsistent with a lot of the security or governance objectives where sharing data in real time can be important, for example on detecting, sharing information and responding to international financial crimes.
 
-We’ve seen examples of that around the world. We’re very keen to talk to you about how we can actually deliver on some of those objectives with you through our products and services. Our secure cloud, for example, we think is world leading.  You will have seen in the last week that,we’ve made an additional quantum milestone announcement.
+We’ve seen examples of that around the world. We’re very keen to talk to you about how we can actually deliver on some of those objectives with you through our products and services. Our secure cloud, for example, we think is world leading. You will have seen in the last week that,we’ve made an additional quantum milestone announcement.
 
 The investment that we are making in quantum, thinking about post quantum encryption, and these things, is part of our enduring commitment to making sure we are at the forefront of cybersecurity enablement in order to continue to provide the assurances that people need, and that certainly, the governments need when they’re thinking about critical infrastructure.
 
@@ -225,7 +225,7 @@ We’re happy to come back to you, and share what are the different models globa
 
 It’s a slightly different model, and the Treasury Department ultimately decides whether an entity is designated under the code. The idea is that the encouragement to engage in partnerships discussions with certain publishers.
 
-In Taiwan we are already engaged across the industry.  What is unique about this is that together with news publishers here, community stakeholders, the government, and us, we’ve embarked on a year and a half long of consultations to say, “What do you actually think you need in the news industry?”
+In Taiwan we are already engaged across the industry. What is unique about this is that together with news publishers here, community stakeholders, the government, and us, we’ve embarked on a year and a half long of consultations to say, “What do you actually think you need in the news industry?”
 
 You want to think about how can local news providers in Taiwan digitize, deal with digital transformation, develop the quality news that resonates and lands well. What are the kinds of capabilities that you need? How can we create a sustainable news industry equipped with the skills and capabilities for the digital era.
 
@@ -235,7 +235,7 @@ How effective are those various initiatives? As we learn which of the initiative
 
 I think it’s actually very different, uniquely tailored to trying to solve the capability gaps or opportunities for Taiwan publishers, and able to evolve. I think it’s quite a different model and quite a thoughtful model. It’s a unique one, and very much tailored to Taiwan’s unique circumstances.
 
-Australia’s got a different news publishing industry than Taiwan. You look at media industry regulation in Australia, that’s been about concentration, well before the digital age, and also subscriptions are significant and digital enablement has been different spread across Australia.  In Taiwan government and publisher’s case they are telling us though the last year there is a strong need for local digital enablement and digital audience engagement and reach.
+Australia’s got a different news publishing industry than Taiwan. You look at media industry regulation in Australia, that’s been about concentration, well before the digital age, and also subscriptions are significant and digital enablement has been different spread across Australia. In Taiwan government and publisher’s case they are telling us though the last year there is a strong need for local digital enablement and digital audience engagement and reach.
 
 
 > (laughter)
@@ -339,7 +339,7 @@ Yes, it’s important that the initiative is one that they endorse, and they thi
 ### Stella Lai:
 I want to thank the Minister for recognizing Google as a pioneer for zero trust architecture. Regarding your three major focuses this year, we are very honored that we worked with MoDA. From the Cloud team, I want to thank you for being our customers and users of Google Meet, and also our Google Workspace.
 
-For the resilience project, we work closely with MoDA on POC, and we will be more than glad to lean in to see whatever  you need, and like Michaela said, we are also very keen to know the status of  the Cybersecurity Management Act amendment. If it is what you are planning to do this year, we will be more than glad to join the discussions.
+For the resilience project, we work closely with MoDA on POC, and we will be more than glad to lean in to see whatever you need, and like Michaela said, we are also very keen to know the status of the Cybersecurity Management Act amendment. If it is what you are planning to do this year, we will be more than glad to join the discussions.
 
 ### Audrey Tang:
 As I mentioned, the Cybersecurity Management Act is being planned to take care better of the zero trust architecture, which was not the norm before. Some considered ZTA expensive when the Management Act was first introduced, and I kept telling them Google has been doing this for years.
@@ -366,7 +366,7 @@ We have had to think about two-factor authentication and secure by design. If I 
 
 We've been certified under CBPR, Global CBPR. We are also doing things to help others, small businesses certify under CBPR in the US. There might be some opportunities there for example to consider whether the pilot we are doing in the US is applicable here. Then on the products and services, one example is how does our secure cloud work, how does our subsea infrastructure work and contribute, how do these help mean that you don’t have to worry so much about vulnerabilities of users, people, but you can have scalable secure by design products and services where the security is built in and gives the users confidence.
 
-Then the skilling and talent there are many layers.  One example is the digital skilling and cloud certification, both in government, or business that we do.  Or the digital literacy training for schools, or for citizens.  We already do Grow with Google programs here.  We’re happy to do more in areas you would like us to but good to discuss where the priorities are and what makes sense.
+Then the skilling and talent there are many layers. One example is the digital skilling and cloud certification, both in government, or business that we do. Or the digital literacy training for schools, or for citizens. We already do Grow with Google programs here. We’re happy to do more in areas you would like us to but good to discuss where the priorities are and what makes sense.
 
 ### Audrey Tang:
 As a party to the CBPR, our designated contact for CBPR compliance, the III is also within the Administration's purview. So not just fixing Google Translate, but also...
@@ -377,7 +377,7 @@ As a party to the CBPR, our designated contact for CBPR compliance, the III is a
 ...the CBPR data privacy and dp.mark and so on. It's the same team. I think it's important for you, too.
 
 ### Michaela Browning:
-We are interested in how we can be supportive around CBPR and these other things because, in APEC for example.  There is a Digital Policy alert which shows some 1,700 regulations or amendments to regulations on data across the region since January, 2020. That’s hard enough for Google to navigate, let alone a SME.
+We are interested in how we can be supportive around CBPR and these other things because, in APEC for example. There is a Digital Policy alert which shows some 1,700 regulations or amendments to regulations on data across the region since January, 2020. That’s hard enough for Google to navigate, let alone a SME.
 
 If you are a small business in Taiwan, and this is a trading place, entrepreneurship is in the bloodstream here. How can you navigate that? The compliance costs and administrative complexity are huge, so you need to think about ways to resolve that. Cross border data flows are also crucial for both security and trade.
 

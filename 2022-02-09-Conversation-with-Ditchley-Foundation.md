@@ -130,7 +130,7 @@ That's good.
 ### Audrey Tang:
 My focus at the moment is on what we call the democracy networks, including the multilateral minilateral — What is that? — arrangement that you alluded to, but also widely, speaking with the civic technology communities and on the board of, say, consul project.
 
-It started from Mandarin, but now in a lot of Spanish  and non Spanish speaking platforms, radical exchange, reset, you name it. That's the wider civic tech network.
+It started from Mandarin, but now in a lot of Spanish and non Spanish speaking platforms, radical exchange, reset, you name it. That's the wider civic tech network.
 
 I'm also interested in the flow reverse. Something that is a methodology to turn a successful web 2.0 way of doing business and so on, and do an exit to community, so to speak, and into something that is co governed with all the participants and so on. I try not to use the word crypto because crypto, for me, means something else.
 
@@ -138,7 +138,7 @@ Of course, netting zero is also a focus for democracy networks, especially becau
 
 It turns out that the same data coalition, data collaborative, can also be used to measure anything from the carbon footprint reduced by refilling ones bottle instead of plastics, buying new plastics, or measuring air quality changes and get climate action together or cleaning up the environment together.
 
-That has wide behavior change benefits around the world. Anything that can get people to wear a mask can also be repurposed for that purpose. That's also my interest  these five. Four really, but if you count the traditional Internet governance, foreign, and things like that, five is my focus. I'm also in charge of social innovation.
+That has wide behavior change benefits around the world. Anything that can get people to wear a mask can also be repurposed for that purpose. That's also my interest these five. Four really, but if you count the traditional Internet governance, foreign, and things like that, five is my focus. I'm also in charge of social innovation.
 
 We're also very interested in the kind of innovations that blurs the boundaries between the traditional coops and the nonprofit sector and the business. Anything from impact businesses, purpose oriented businesses, and so on, and the legal support and the budgetary support, for that, I'm also interested in. It's variously called an inclusive innovation or parallel innovation.
 

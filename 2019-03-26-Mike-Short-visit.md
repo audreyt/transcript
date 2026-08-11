@@ -1056,7 +1056,7 @@ Right. Responding more quickly, you’re killing fake news in some ways.
 Right. Before it even reaches the news media when it’s still disinformation, we just respond when it’s still this disinformation. There’s also a lot of g0v projects around that. There’s a co fact. It’s not gender biased because if you refresh, it’s a different person every time. \[laughs\]
 
 ### Audrey Tang:
-Basically, it’s like WhatsApp. It’s a bot on the Alliance system. If you add it as your friend and you see misinformation or disinformation, you can just forward it to the bot, and the bot gets back to you whether it’s fake or not. As part of the reporting, just like flagging spam, it basically gets all the information on a publically trending database so we can see the most trending misinformation or disinformation campaigns even before they reach public media.
+Basically, it’s like WhatsApp. It’s a bot on the Alliance system. If you add it as your friend and you see misinformation or disinformation, you can just forward it to the bot, and the bot gets back to you whether it’s fake or not. As part of the reporting, just like flagging spam, it basically gets all the information on a publicly trending database so we can see the most trending misinformation or disinformation campaigns even before they reach public media.
 
 ### Audrey Tang:
 That really is good because otherwise, people will see it when it gets mutated into a really viral form. Now, we get to see it whenever they’re in a not so viral, just misinformation form. When this happens, then we can basically work with Taiwan fact checking TFCC, which is, again, another independent really not government sponsored center.

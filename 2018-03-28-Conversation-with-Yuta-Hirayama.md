@@ -28,7 +28,7 @@ Please, take a seat.
 I am a CEO of IDEAPOST and we are working as a consultant, and our client is Fukuoka D.C. which is very close to Fukuoka City. Before, I supported to have MOU on Innovation and Entrepreneurship between Taipei City and Fukuoka City. MOU details: [https://bit.ly/2JrzsTh](https://bit.ly/2JrzsTh)
 
 ### Yuta Hirayama:
-Then I found that startup companies want to expand their business to Japan, but they don’t have inforamtion about expand their buisness to Japan,itis quite difficult to understand the Japan business culture, custom and so on. So, we provides those information like marketing research, report and actual support when they start their business in Japan.
+Then I found that startup companies want to expand their business to Japan, but they don’t have information about expand their business to Japan, itis quite difficult to understand the Japan business culture, custom and so on. So, we provides those information like marketing research, report and actual support when they start their business in Japan.
 
 ### Audrey Tang:
 The points of presence of strategies?

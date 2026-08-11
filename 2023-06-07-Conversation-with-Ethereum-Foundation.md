@@ -1008,7 +1008,7 @@ Then I will visit with Vitalik.
 Excellent.
 
 ### Aya Miyaguchi:
-But no, no, no. Like this is my sincere personal... like especially very...  because I'm as one of the Asian people and it's very inspiring to see this happening here. And yeah, and I hope that if there's anything we can support, let us know.
+But no, no, no. Like this is my sincere personal... like especially very... because I'm as one of the Asian people and it's very inspiring to see this happening here. And yeah, and I hope that if there's anything we can support, let us know.
 
 And like for me, it's my interest to see more great examples like how you're working, like educating about open source and privacy. We like to see that more. I mean, I don't have to categorize this as public sector or private sector, but it's still like it's for the public interest.
 

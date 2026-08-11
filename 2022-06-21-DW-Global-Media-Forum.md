@@ -11,7 +11,7 @@ We've all heard of restrictions on tech. We've all heard of firewalls limiting t
 So much for limitless. The world wide web -- it can be closed off, monitored, and filtered. Is freedom of information a utopian idea? Let's face it, access denied, a new digital iron curtain shaping tomorrow now.
 
 ### Janelle Dumalaon:
-Can the digital iron curtain be swept aside? Personally, I don't know the answer to this question.But we have four panelists who might be able to help us with that today, starting with Maria Makeeva, editor-in-chief of OstWest TV in Berlin, the only Russian-language TV channel in Germany specializing in independent European news in Russian. A hand for Maria, please.
+Can the digital iron curtain be swept aside? Personally, I don't know the answer to this question. But we have four panelists who might be able to help us with that today, starting with Maria Makeeva, editor-in-chief of OstWest TV in Berlin, the only Russian-language TV channel in Germany specializing in independent European news in Russian. A hand for Maria, please.
 
 > (applause)
 

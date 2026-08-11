@@ -67,7 +67,7 @@ I see. Even if you're dual citizens, the law will apply exactly the same. APRC v
 The other question I would like to ask is that have you contacted the Canadian office in Taiwan, i.e., their de facto embassy?
 
 ### Cassandra Brennan:
-Yes. We have quite a few contacts at Canadian trade office. That's how we met you the first time, was at the Women in Business Asia Conference in March where you were a panelist.  They have transferred and changed places now.
+Yes. We have quite a few contacts at Canadian trade office. That's how we met you the first time, was at the Women in Business Asia Conference in March where you were a panelist. They have transferred and changed places now.
 
 We have meetings with them coming up at the end of the year, and we've also been in contact with Francis Fung and Joseph Hsu at the Ministry of Foreign Affairs. So, we have been in contact. Actually, she was in your office when we set up the meeting for today. [laughs]
 
@@ -171,7 +171,7 @@ The students will also have a chance to maybe study music, photography, or somet
 I see.
 
 ### Cassandra Brennan:
-These opportunies would be directly with the schools we work with. The children work with education advisors who help them find universities and we would process visa applications. We would connect younger students (grade 7-12) or one of our private school partners who also offer homestay programs.
+These opportunities would be directly with the schools we work with. The children work with education advisors who help them find universities and we would process visa applications. We would connect younger students (grade 7-12) or one of our private school partners who also offer homestay programs.
 
 We focus mainly on the East Coast, the West Coast, and then where I'm from in Ontario. Amy's from Nova Scotia, so we focus a lot on the East Coast as well. We have quite a few districts of public schools on the West Coast as well, but all our exclusive partnerships.
 

@@ -1830,7 +1830,7 @@ Then we speak about technology. In this case, because we are in a auditorium, I 
 Yes.
 
 ### Shu Lea Cheang:
-I wonder if we should add..
+I wonder if we should add.
 
 ### Audrey Tang:
 A slide projector?

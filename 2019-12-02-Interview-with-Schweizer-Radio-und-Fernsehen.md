@@ -565,7 +565,7 @@ It’s good that we’re on the second section, the clarifications. I sometimes 
 Yes. I can show you a short video.
 
 ### Interviewer:
-One in which you have like really outdone yourself..
+One in which you have like really outdone yourself.
 
 ### Audrey Tang:
 All right. I’ll show you a short video that I did. Like, if you just look at virality, this video went somewhat viral. It has more than, well, 140k views. But it’s also syndicated by various different fan pages that all together bring it to more than one million views. It’s just a very simple thing.

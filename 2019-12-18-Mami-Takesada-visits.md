@@ -47,7 +47,7 @@ Oh, really.
 Yes.
 
 ### Mami Takesada:
-LITALICO provide the services for the children with autism,ADHD,LD from 2011. They have some difficulties when they want to communicate with others and when they attend classes in school. We also have the program for children to learn programming, and it start from 2014. I also was the teacher for the special needs and some of the autism children who are not good at talking with others by using the language in Japanese or English, but they’re very good at programming, because the programming language have the…How can I say it? \[non-English speech\]
+LITALICO provide the services for the children with autism, ADHD, LD from 2011. They have some difficulties when they want to communicate with others and when they attend classes in school. We also have the program for children to learn programming, and it start from 2014. I also was the teacher for the special needs and some of the autism children who are not good at talking with others by using the language in Japanese or English, but they’re very good at programming, because the programming language have the…How can I say it? \[non-English speech\]
 
 ### Ky:
 \[non-English speech\] .

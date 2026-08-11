@@ -217,7 +217,7 @@ The density of civil society here is striking—more temples than 7‑Elevens (a
 Two reasons.
 
 1. Civil society legitimacy even during martial law: disaster relief for earthquakes, typhoons. On an island with daily tremors, you cannot afford to splinter; you exercise civic muscle in a constant civic gym.
-2. The existential threat from an authoritarian, atheist CCP regime. Many fled to Taiwan during the civil war — bringing incredible religious and intellectual diversity (and cuisine). That lineage is everywhere: cooperatives, consumer unions, credit unions. The ROC  tolerated and showcased vibrant civil society — “Free China” — especially against the Cultural Revolution.
+2. The existential threat from an authoritarian, atheist CCP regime. Many fled to Taiwan during the civil war — bringing incredible religious and intellectual diversity (and cuisine). That lineage is everywhere: cooperatives, consumer unions, credit unions. The ROC tolerated and showcased vibrant civil society — “Free China” — especially against the Cultural Revolution.
 
 Both civil society and the state had reasons to promote plurality. And yes — *taking out the trash together every night* helps build everyday civic habits.
 

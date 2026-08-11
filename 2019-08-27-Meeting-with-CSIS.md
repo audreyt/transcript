@@ -821,7 +821,7 @@ Is that coming any time soon?
 No.
 
 ### Daniel F. Runde:
-Let me try this out on you. I think there’s a lot of fear, this feels like the fear the United States had about Japan in the mid-‘80s,that we were going to be surpassed by Japan. I would posit that because of their censorship, and their lack of privacy, and their restrictions.
+Let me try this out on you. I think there’s a lot of fear, this feels like the fear the United States had about Japan in the mid-‘80s, that we were going to be surpassed by Japan. I would posit that because of their censorship, and their lack of privacy, and their restrictions.
 
 ### Daniel F. Runde:
 On personal freedom, their one-child policy, their sex-selective abortions, their lack of a creative economy, and we’ll come back to that, that ultimately, that they’re going to grow old before they grow rich, and the best outcome is that we have a Japan-style sort of a larger version of Japan where they kind of demographically run out of gas, 20 years from now. Is that a real possibility?
