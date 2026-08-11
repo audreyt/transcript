@@ -4,6 +4,8 @@
 
 ### Sachi Kamiya:
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qsaDEo1W__Q" title="You Are Already The AGI | Audrey Tang | Open Commons Ep. 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 今天的來賓是唐鳳。唐鳳在 2016 至 2024 年間擔任臺灣首任數位政委，現在是臺灣無任所數位治理大使。去年，唐鳳以運用數位科技重振民主的工作，獲頒有「另類諾貝爾獎」之稱的正命獎（Right Livelihood Award）。唐鳳，歡迎來到 Open Commons。
 
 ### 唐鳳：
