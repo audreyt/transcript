@@ -138,15 +138,15 @@ So we can remember the lesson of the geothermal engine: that pressure can be tra
 
 To close, I offer this poem, this prayer, a vision of our work together. Ten years ago, when I became Taiwan's Digital Minister—*shùwèi* means both digital but also plural, so this is my job description—it goes like this:
 
-> When we see internet of things,
-> let's make it an internet of beings.
-> When we see virtual reality,
-> let's make it a shared reality.
-> When we see machine learning,
-> let's make it collaborative learning.
-> When we see user experience,
-> let's make it about human experience.
-> When we hear the singularity is near —
+> When we see internet of things,<br>
+> let's make it an internet of beings.<br>
+> When we see virtual reality,<br>
+> let's make it a shared reality.<br>
+> When we see machine learning,<br>
+> let's make it collaborative learning.<br>
+> When we see user experience,<br>
+> let's make it about human experience.<br>
+> When we hear the singularity is near —<br>
 > let’s remember: The Plurality is here.
 
 Thank you so much.

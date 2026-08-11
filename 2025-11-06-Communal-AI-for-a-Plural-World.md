@@ -117,11 +117,11 @@ Our capacity for attentiveness, deliberation, and care is the real target. Relat
 
 Finally, I will end with a prayer. It served as my job description when I became the digital minister in 2016. "Shu-Wei" (數位) in Taiwan means both digital and plural, so my prayer goes like this:
 
-When we see the **Internet of Things**, let's make it the **Internet of Beings**.
-When we see **virtual reality**, let's make it a **shared reality**.
-When we see **machine learning**, let's make it **collaborative learning**.
-When we see **user experience**, let's make it about **human experience**.
-And whenever we hear that the **singularity** is near,
+When we see the **Internet of Things**, let's make it the **Internet of Beings**.<br>
+When we see **virtual reality**, let's make it a **shared reality**.<br>
+When we see **machine learning**, let's make it **collaborative learning**.<br>
+When we see **user experience**, let's make it about **human experience**.<br>
+And whenever we hear that the **singularity** is near,<br>
 let us always remember the **plurality** is here.
 
 Thank you.

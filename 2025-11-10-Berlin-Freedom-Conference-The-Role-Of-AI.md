@@ -90,10 +90,10 @@ The superintelligence we need is not a machine. It is our capacity to coordinate
 
 We the people are the superintelligence.
 
-And when we see "Internet of Things," let's make it an Internet of Beings.
-When we see "machine learning," let's make it collaborative learning.
-When we see "virtual reality," let's make it shared reality.
-When we see "user experience," let's make it about human experience.
+And when we see "Internet of Things," let's make it an Internet of Beings.<br>
+When we see "machine learning," let's make it collaborative learning.<br>
+When we see "virtual reality," let's make it shared reality.<br>
+When we see "user experience," let's make it about human experience.<br>
 And whenever we hear that “singularity is near," let's always remember: The Plurality is here.
 
 Thank you.

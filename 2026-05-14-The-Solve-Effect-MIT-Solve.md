@@ -202,10 +202,10 @@ Of course. In Mandarin, in Taiwan, the word shuwei means both digital and plural
 
 This was 10 years ago. It goes like this:
 
-> *When we see internet of things, let's make it an internet of beings.*
-> *When we see virtual reality, let's make it a shared reality.*
-> *When we see machine learning, let's make it collaborative learning.*
-> *When we see user experience, let's make it about human experience.*
+> *When we see internet of things, let's make it an internet of beings.*<br>
+> *When we see virtual reality, let's make it a shared reality.*<br>
+> *When we see machine learning, let's make it collaborative learning.*<br>
+> *When we see user experience, let's make it about human experience.*<br>
 > *And whenever we hear that a singularity is near, let's always remember the plurality is here.*
 
 That was the poem, and I think it worked out very well for many people, especially in policy. Policy leaders need proofs of concept, demos, demonstrations. We cannot just say, "This is bad, let's ban it." That whack-a-mole is very taxing. We need to show: here is where we are going, here is how I am going there, and here is how all of you can help me. That is leadership. Without a positive vision, there is no positive action.

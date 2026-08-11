@@ -16,9 +16,9 @@ That is how I encountered the light of the free-software community. If you post 
 
 That light speaks to my favourite singer-songwriter, Leonard Cohen of Canada:
 
-> Ring the bells that still can ring.
-> Forget your perfect offering.
-> There is a crack in everything.
+> Ring the bells that still can ring.<br>
+> Forget your perfect offering.<br>
+> There is a crack in everything.<br>
 > That's how the light gets in.
 
 I learned that habit at fifteen. By twenty-five, I had come to believe that the question that matters about a system is not whether it is perfect — no software system is perfect — but whether the people impacted by the system, who inherit it, can still repair it when things go wrong. That is to say: if it breaks, do you still keep both pieces?
