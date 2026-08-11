@@ -20,7 +20,7 @@ I would say that the singularity is definitely nearer. Pretty much all of us rea
 
 The first few lines of that job description have conclusively been realized. Let me quickly recite them:
 
-When we see the Internet of Things, let's make it an Internet of Beings.
+> When we see the Internet of Things, let's make it an Internet of Beings.
 
 That's the agentic web.
 
