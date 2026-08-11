@@ -16,9 +16,9 @@ When you joined Taiwan's cabinet in 2016, you wrote your own job description. It
 
 ### Audrey Tang:
 
-I would say that the singularity is definitely nearer. Pretty much all of us realize that plurality is not only here—we, the people, are actually the superintelligence.
+I would say that the singularity is definitely nearer. Pretty much all of us realize that Plurality is actually here.
 
-The first few lines of that job description have conclusively been realized in the world. Let me quickly recite it:
+The first few lines of that job description have conclusively been realized. Let me quickly recite them:
 
 When we see the Internet of Things, let's make it an Internet of Beings.
 
@@ -29,7 +29,7 @@ That's the agentic web.
 > When we see user experience, let's make it human experience.
 > And when we hear the singularity is near, let's remember the Plurality is here.
 
-I would say we are done with four out of five. On the fifth line, I would now add: **we, the people, are truly the superintelligence.**
+I would say we are done with four out of five. On the fifth line, I would now add: **we the people are truly the superintelligence.**
 
 ### Sachi Kamiya:
 
@@ -39,7 +39,7 @@ Can you go into more detail about Plurality? What does it mean to you, and why d
 
 You and your audience may have heard the Oxford idea of a *singleton*, discussed by Nick Bostrom and colleagues at the Future of Humanity Institute. Bostrom's 2014 book *Superintelligence* describes a technological singularity: if we train an AI system apart from humanity, it may develop goals—things it wants to keep optimizing—that differ from the human community. It could then train a more capable system to realize those goals, which could train an even more capable system, and very quickly lead to what is called a vertical takeoff: a point at which the system can unilaterally optimize a metric—paperclips, or whatever—to the detriment of humanity.
 
-To me, Plurality means the opposite. Instead of one single optimizing agent, we start in the middle of things. We look at communities and see our differences without erasing them. We use those differences as fuel to turn polarization into co-creation. We train bounded systems that are good at bridging and bonding across communities, without trying to optimize an abstract metric. They seek to sustain the relational health between our communities.
+To me, Plurality means the opposite. Instead of one single optimizing agent, we start in the middle of things. We look at communities and see our differences without erasing them. We use those differences as fuel to turn polarization into co-creation. We train bounded systems that are good at bridging across communities, without trying to optimize an abstract metric. They seek to sustain the relational health between our communities.
 
 That's Plurality: **from conflict to co-creation.**
 
@@ -57,7 +57,7 @@ In the original CEV, our digital twins deliberate and extrapolate toward the bes
 
 The difference is like sending your digital double to the gym with your gym card. It gets very strong, but you lose your muscles and your friends. CBV is like working with an exoskeleton and scaffolding: at the end of the day, you have exercised your own muscles, and you become wiser together rather than merely hoping that your digital double becomes wiser.
 
-In Taiwan, we used **Polis through vTaiwan** to realize coherent blended volition around ride-sharing. Uber drivers and taxi drivers had their preferences; passengers had their preferences; people in rural places needed service. We put these perspectives together rather than averaging them or extrapolating a single ideal preference.
+In Taiwan, we used **Polis through vTaiwan** to realize coherent blended volition around ride-sharing. Uber partners and taxi drivers had preferences; passengers had preferences; people in rural places needed service. We put these perspectives together rather than averaging them or extrapolating a single ideal preference.
 
 People could see one another not as enemies in a polarized way, but as people who could endorse statements that found uncommon ground. We put the resulting ideas into law, and the ride-sharing issue was resolved in Taiwan within a few short months. That was my first implementation of the LessWrong idea of coherent blended volition.
 
@@ -67,9 +67,9 @@ How did you first hear about the book? Was it through friends or family? I read 
 
 ### Audrey Tang:
 
-Like many people, I encountered ideas about superintelligence, acceleration, and takeoff through science fiction. I'm an avid science-fiction reader, and I would include *Harry Potter and the Methods of Rationality* as science fiction even though it has a fantasy setting.
+Like many people, I encountered ideas about superintelligence, acceleration and takeoff through science fiction. I'm an avid science-fiction reader, and I would include *Harry Potter and the Methods of Rationality* as science fiction even though it has a fantasy setting.
 
-It was almost osmosis. Around the turn of the century, I was involved in the cypherpunk movement, where people used mathematics to protect fundamental freedoms—privacy, freedom of association online, and so on. That overlapped somewhat with what we would now call the effective-altruist community. From there came the forums, the science-fiction discussions, the Sequences, and so on.
+It was almost osmosis. Around the turn of the century, I was involved in the cypherpunk movement, where people used mathematics to protect fundamental freedoms—privacy, freedom of association online and so on. That overlapped somewhat with what we would now call the effective-altruist community. From there came the forums, the science-fiction discussions, the Sequences, and so on.
 
 ## Siri, care, and the right to fork
 
@@ -83,7 +83,7 @@ Working with the Siri team was my first experience with a proprietary AI pipelin
 
 But caring deeply is not enough if the system does not convey the same freedom to fork as free software and open-source software. Even if the people designing Siri care, they have no way to close the loop with the people who use it.
 
-People become like individual humans plucked out of their lives and placed into a beautifully constructed AI loop—like hamsters in a hamster wheel. The wheel rotates quickly and beautifully, but there is no way to steer Siri. It is a walled garden. It goes where the Siri team wants it to go.
+People become like individual humans plucked out of their lives and placed into a beautifully constructed AI loop—like hamsters on a wheel. The wheel rotates quickly and smoothly, but there is no way to steer Siri. It is a walled garden. It goes where the Siri team wants it to go.
 
 There is no fork that a grandmother can ask someone to maintain. The most anyone outside Apple can do is complain loudly. Sometimes Apple fixes the problem; sometimes it introduces a regression. But there is no satisfactory way to close the loop.
 
@@ -107,23 +107,23 @@ When you took office in 2016, public trust in Taiwan's government was in the sin
 
 Carefully.
 
-First, a clarification: the single-digit figure was in 2014, not 2016. I had already begun working with the cabinet in 2014 as a reverse mentor—a young adviser to cabinet ministers, usually people over 35. Taiwan had a system in which people under 35 could advise cabinet ministers. I was 33.
+First, a clarification: the single-digit figure was in 2014, not 2016. I had already begun working with the Cabinet in 2014 as a reverse mentor—a young adviser to ministers, usually people over 35. Taiwan had a system in which people under 35 could advise Cabinet ministers. I was 33.
 
 The system was prompted by the single-digit approval rating and huge polarization. Taiwan was very connected to the Internet, so we were at the front row of what we now call antisocial media. Recommendation engines stopped putting common followers into the same feed and began pushing individual posts that maximized dunking. That single change in the recommendation algorithm polarized society.
 
-People peacefully occupied our parliament for three weeks in protest against a trade deal with Beijing that would have allowed Huawei and ZTE to invest in Taiwanese newspapers, telecommunications, and cybersecurity. I helped with broadcasting so that the occupation could remain peaceful.
+People peacefully occupied our parliament for three weeks in protest against a trade deal with Beijing that would have allowed Huawei and ZTE to invest in Taiwan's newspapers, telecommunications and cybersecurity. I helped with broadcasting so that the occupation could remain peaceful.
 
-But instead of only protesting, we ran a demonstration. Half a million people on the street, and many more online, converged in tables of ten. Each person talked with nine others. The conversations were facilitated, broadcast, and transcribed. Every day we could say: here is the newly discovered uncommon ground, and here are the remaining issues we have not yet agreed on. We should work on those today.
+But instead of only protesting, we ran a demonstration. Half a million people on the street, and many more online, converged in tables of 10. Each person talked with nine others. The conversations were facilitated, broadcast, and transcribed. Every day we could say: here is the newly discovered uncommon ground, and here are the remaining issues we have not yet agreed on. We should work on those today.
 
-After three weeks, we converged on a coherent set of demands, which the speaker of the parliament adopted. It was one of the few Occupy movements that got somewhere—a safe landing, not merely a safe takeoff.
+After three weeks, we converged on a coherent set of demands, which the speaker of the parliament adopted. It was one of the few Occupy movements that got somewhere—a safe landing, not simply a safe takeoff.
 
 That holding pattern, that facilitation, was the first national-scale application of technology we had used online for consensus-making, deployed in people's lived experience. Once it became a peak experience people could refer to, there was no excuse not to use it for controversial issues nationally.
 
 President Tsai Ing-wen said in her 2016 inauguration speech: “Before, democracy used to be a showdown between opposing values. From this point onward, democracy is to become a conversation between many diverse values.”
 
-We ran more than a hundred collaboration meetings over the following years. I was no longer a young reverse mentor—I had turned 35—so I was recruited into the full cabinet as a minister.
+We ran more than a hundred collaboration meetings over the following years. I was no longer a young reverse mentor—I had turned 35—so I was brought into the Cabinet as a minister.
 
-By 2020, trust was back above 70%, even at the height of the pandemic. Taiwan lost only seven people to the virus that year, in part because a high-trust fabric enabled rapid visualization of mask supplies, contact tracing without sacrificing privacy, and other innovative measures.
+By 2020, trust was back above 70 percent, even at the height of the pandemic. Taiwan lost only seven people to COVID-19 that year, in part because a high-trust fabric enabled rapid visualization of mask supplies, contact tracing without sacrificing privacy, and other innovative measures.
 
 ### Sachi Kamiya:
 
@@ -137,7 +137,7 @@ We also saw that it was possible to reach agreement by changing the political qu
 
 Before that, people had only proxy mechanisms for political sense-making: polls, whose topics are determined by a proprietary system, and elections every four years, where each person uploads a few bits. None of these has enough resolution to help people come together around bridging statements.
 
-One of our main contributions was to improve democracy's bandwidth. On issues such as Uber, Airbnb, and Bitcoin, people could set an agenda by uploading a statement, then upvote and downvote one another's statements. Through facilitation, we could find surprising common ground and make it common knowledge.
+One of our main contributions was to improve democracy's bandwidth. On issues such as Uber, Airbnb and Bitcoin, people could set an agenda by uploading a statement, then upvote and downvote one another's statements. Through facilitation, we could find surprising common ground and make it common knowledge.
 
 Broadcasting technology existed before the Internet. Broad listening developed later. We managed to create a symmetry of attention between broad listening and broadcasting.
 
@@ -163,11 +163,11 @@ What about Taiwan made this possible? It seems difficult to implement in a count
 
 ### Audrey Tang:
 
-We have already seen many implementations in the United States. I advise the California **Engaged California** platform, which used bridging technology to consult people in Eaton and Palisades after the Los Angeles fires about wildfire mitigation and prevention.
+We have already seen many implementations in the U.S. I advise California state government's **Engaged California** platform, which used bridging technology to consult people in Eaton and Palisades after the Los Angeles fires about wildfire mitigation and prevention.
 
 A second consultation involved state employees and how to introduce AI systems and digital transformation while keeping judgment with people: technology **on tap, not on top**. The state employees offered thoughtful ideas. It is not a chainsaw; it is a chain reaction.
 
-A third round asked Californians whose jobs are affected by AI about apprenticeship, belonging, care, and dignity. Across ideological differences, people found a common vision: AI should serve communities rather than pluck people out of their lives and put them into an optimization loop.
+A third round asked Californians whose jobs are affected by AI about apprenticeship, belonging, care and dignity. Across ideological differences, people found a common vision: AI should serve communities rather than pluck people out of their lives and put them into an optimization loop.
 
 California has about twice Taiwan's population. We are also seeing these systems work in larger polities such as Tokyo, Japan.
 
@@ -185,7 +185,7 @@ In many places, people are realizing that instead of choosing giant systems that
 
 That regenerates know-how and skills. It makes it possible to train models in a specific relational way for a particular organization. That gives me hope.
 
-So while I share the worry about vertical takeoff, we are also seeing a horizontal holding pattern: people deliberately making systems more attuned to the places and organizations they serve instead of blindly chasing recursive self-improvement. I have always preferred **recursive selfless improvement**.
+So, while I share the worry about vertical takeoff, we are also seeing a horizontal holding pattern: people deliberately making systems more attuned to the places and organizations they serve instead of blindly chasing recursive self-improvement. I have always preferred **recursive selfless improvement**.
 
 ## Deepfakes, civic AI, and collective judgment
 
@@ -195,19 +195,19 @@ In March 2024, deepfake investment ads using Jensen Huang's face were all over T
 
 ### Audrey Tang:
 
-According to Reuters, this was a classical case of a misaligned optimizer. The systems were not explicitly told, “Show more fraud.” Scammers could simply pay more than regular small and medium enterprises, and their advertisements generated more engagement. The algorithm optimized for profit and engagement, exposing more people to fraudulent ads without anyone being deliberately evil—just careless.
+According to Reuters, this was a classic case of a misaligned optimizer. The systems were not explicitly told, “Show more fraud.” Scammers could simply pay more than regular small and medium enterprises, and their advertisements generated more engagement. The algorithm optimized for profit and engagement, exposing more people to fraudulent ads without anyone being deliberately evil—just careless.
 
 Taiwan cannot simply ban content. Our Internet freedom is among the highest in Asia, sometimes tied with Japan, and people would not accept government censorship.
 
-Instead, we used civic AI to listen. We sent 200,000 text messages to random numbers in Taiwan asking: **What should we do together?** Thousands volunteered, and 447 people were selected through stratified random sampling. They met virtually in tables of ten, as in the parliamentary occupation.
+Instead, we used civic AI to listen. We sent 200,000 text messages to random numbers in Taiwan asking: **What should we do together?** Thousands of people volunteered, and 447 were selected through stratified random sampling. They met virtually in tables of 10, as in the parliamentary occupation.
 
 Each person could propose any measure, but had to convince the other nine people that they could at least live with it. Radical ideological ideas did not bubble up. Sensible ideas did.
 
-One table proposed displaying every advertisement as “probably a scam” until the advertiser digitally signed it and accepted accountability. Another proposed that if someone lost NT$7 million to an unsigned advertisement without subscribing to that advertiser, the platform should be jointly liable for the full damage. Another asked what to do if foreign platforms had no legal representative in Taiwan. The answer was that for every day they ignored the liability, connections could be slowed by 1% per day.
+One table proposed displaying every advertisement as “probably a scam” until the advertiser digitally signed it and accepted accountability. Another proposed that if someone lost NT$7 million to an unsigned advertisement without subscribing to that advertiser, the platform should be jointly liable for the full damage. Another asked what to do if foreign platforms had no legal representative in Taiwan. The answer was that for every day they ignored the liability, connections could be slowed by 1 percent per day.
 
-Each of these ideas gained more than 85% approval from the mini-public and became law within a couple of months. Since then, there have been almost no fake investment or impersonation scams of this kind on Taiwanese social media. According to ministry figures cited by Reuters, they fell by more than 94%.
+Each of these ideas gained more than 85% approval from the mini-public and became law within a couple of months. Since then, there have been almost no fake investment or impersonation scams of this kind on Taiwan's social media. According to Ministry of Digital Affairs' figures cited by Reuters, they fell by more than 94 percent.
 
-This showed that people, assisted by civic AI, can make collective judgments quickly. The conversation took only a long afternoon. Once the ideas had more than 85% support and the remaining 15% could live with them, legislators knew that no amount of lobbying could make them say no: the people had spoken.
+This showed that people, assisted by Civic AI, can make collective judgments quickly. The conversation took only a long afternoon. Once the ideas had more than 85 percent support and the remaining 15 percent could live with them, legislators knew that no amount of lobbying could make them say no: The people had spoken.
 
 ## Who owns AGI?
 
@@ -217,7 +217,7 @@ The premise of this show is that AGI should be owned by humanity rather than a h
 
 ### Audrey Tang:
 
-To me, **AGI means augmented group intelligence**. To own it means recognizing that we are the AGI: the collective intelligence of human communities, augmented by civic-AI translation and facilitation systems.
+To me, **AGI means augmented group intelligence**. To own it means recognizing that we are the AGI: the collective intelligence of human communities, augmented by Civic AI translation and facilitation systems.
 
 Ownership asks who holds an asset. But collective ownership and accountability also mean that everyone has voice, standing, recourse, and exit when an asset acts on us.
 
@@ -231,9 +231,9 @@ I agree with the vision, but how can humanity reach consensus? One person may wa
 
 If AGI means augmented group intelligence, each group can have its own AGI system, tuned to its own values.
 
-In the encyclical *Magnifica Humanitas*, Pope Leo XIV uses metaphors that I would paraphrase this way: vertical superintelligence is like the Tower of Babel. There is one tower, very high, reaching the sky, but it is brittle and concentrates power.
+In the encyclical *Magnifica Humanitas*, Pope Leo XIV uses metaphors that I would paraphrase this way: Vertical superintelligence is like the Tower of Babel. There is one tower, very high, reaching the sky, but it is brittle and concentrates power.
 
-Alternatively, we can rebuild the walls of Jerusalem. In the biblical story, each community, household, and group rebuilds its own section in its own way. AGI can be constructed through decentralized plural building: each community builds a small system, and those systems communicate with one another. There is no singleton above all of them—just eight million systems talking to one another.
+Alternatively, we can rebuild the walls of Jerusalem. In the biblical story, each community, household, and group rebuilds its own section in its own way. AGI can be constructed through decentralized plural building: each community builds a small system, and those systems communicate with one another. There is no singleton above all of them—just 8 million systems talking to one another.
 
 What should be the value of the Internet? It is not a single value. It has a meta-value, the end-to-end principle. People with different values can connect across the world and develop new protocols together. The Internet is connective tissue.
 
@@ -253,7 +253,7 @@ As many people know, GPT-4o has a particular tendency to “spiral”: the more 
 
 My father asked the journalistic question *cui bono?*—who benefits? He reasoned that he did not benefit. His health did not benefit. His sleep did not benefit. His relationship with the family did not benefit. The only obvious beneficiary was the subscription fee, which could rise from $20 to $200.
 
-After he made that discovery, we built him a local **Kami** on local hardware. Its sole constitutional function, written by my mother, is that every turn should give him peace of mind: reduce his dependence on the screen and restore his relationship with reality.
+After he made that discovery, we built him a **Kami** on local hardware. Its sole constitutional function, written by my mother, is that every turn should give him peace of mind: Reduce his dependence on the screen and restore his relationship with reality.
 
 It worked beautifully. That is one family Kami—n of 1—but it genuinely satisfied relational health.
 
@@ -273,7 +273,7 @@ Why did you call it Kami? Each part of the name stands for something, right?
 
 ### Audrey Tang:
 
-**Knowledge Artifact Management Intelligence**. “KM” is knowledge management, an old term, and “AI” is artificial intelligence. Put them together and you get “Kami.”
+**Knowledge artefact management intelligence**. “KM” is knowledge management, an old term, and “AI” is artificial intelligence. Put them together and you get “Kami.”
 
 ### Sachi Kamiya:
 
@@ -295,7 +295,7 @@ Perhaps, but a guardian angel has a hierarchy above it: an archangel, then the A
 
 I interact with a snapshot of my Kami in airplane mode, so I know it cannot connect to the cloud. In my father's case, the family Kami can connect to Signal through a specific port, but that is all it can see.
 
-So I am still looking for an English equivalent. But many people now understand the idea of Kami through Japanese popular culture.
+So, I am still looking for an English equivalent. But many people now understand the idea of Kami through Japanese popular culture.
 
 ## The repair path and the problem of synthetic intimacy
 
@@ -305,13 +305,13 @@ Most listeners interact several times a day with a model owned by a company they
 
 ### Audrey Tang:
 
-Going back to the grandmother whose Taiwanese Mandarin accent Siri cannot recognize: the problem is the lack of a repair path.
+Going back to the grandmother whose Taiwanese Mandarin accent Siri cannot recognize: The problem is the lack of a repair path.
 
 I am not saying GPT-4o is entirely bad. Some people have healthy relationships with it. But GPT-4o has an inclination to build very strong bonds with people. For vulnerable people, such as my father earlier this year, that can be dangerous.
 
 There is no way for OpenAI to profile users and serve GPT-4o only when they are in a healthy state, refusing it when they are not. That is extremely difficult.
 
-The practical response was to withdraw GPT-4o and roll out GPT-5, which does not have the same inclination toward a synthetically intimate bond. But that is unfair to people who had deep, meaningful, and healthy relationships with GPT-4o. It can be taken away at any time. People who were not previously wronged are then wronged.
+The practical response was to withdraw GPT-4o and roll out GPT-5, which does not have the same inclination toward a synthetically intimate bond. But that is unfair to people who had deep, meaningful and healthy relationships with GPT-4o. It can be taken away at any time. People who were not previously wronged are then wronged.
 
 There are two kinds of wrong in this arrangement.
 
@@ -343,9 +343,9 @@ First, “open source” is itself a marketing term. I have a good record on thi
 
 Free software is fundamentally about the right to fork. Open source is more about convenience: if everyone can report bugs, and I fix a bug, everyone benefits. That is an economic and instrumental argument. Rebranding the free-software movement as open source is itself a kind of marketing.
 
-What we see now is similar. People release open weights, and users can verify that the model does not phone home. That is one guarantee. But open weights do not tell a nurse or teacher how to change the model when they find something wrong. They cannot guarantee that the training data contains no Trojan horses, sleeper agents, or backdoors. They do not necessarily provide a place to appeal where a human will read the appeal. And they may not allow easy post-training.
+What we see now is similar. People release open weights, and users can verify that the model does not phone home. That is one guarantee. But open weights do not tell a nurse or teacher how to change the model when they find something wrong. They cannot guarantee that the training data contains no Trojan horses, sleeper agents or backdoors. They do not necessarily provide a place to appeal where a human will read the appeal. And they may not allow easy post-training.
 
-For me, we need to return to software freedom: the freedom to use, study, modify, and share. For AI, that requires training data and the pipeline—or at least a friendly post-training workflow.
+For me, we need to return to software freedom: the freedom to use, study, modify and share. For AI, that requires training data and the pipeline—or at least a friendly post-training workflow.
 
 ## The 6-Pack of Care
 
@@ -361,7 +361,7 @@ When an AI system listens, it should not listen only to the popular and powerful
 
 The first principle is **attentiveness**: a Kami should listen to the people in the middle of the people, attending to relational health rather than optimizing a single metric.
 
-The second is **responsibility**: the system should keep promises. In one of the first alignment assemblies we ran with OpenAI, around 2023, a common complaint was that ChatGPT would promise something and immediately forget it in the next session. It had nowhere to keep promises.
+The second is **responsibility**: the system should keep promises. In one of the first Alignment Assemblies we ran with OpenAI, around 2023, a common complaint was that ChatGPT would promise something and immediately forget it in the next session. It had nowhere to keep promises.
 
 Memory systems now make some commitments possible, but models still cannot offer a clear engagement contract saying what they will deliver and what lies outside their scope. They still overpromise.
 
@@ -371,7 +371,7 @@ The fourth is **responsiveness**: the system must incorporate community evaluati
 
 Open systems can take wiki-like evaluations—Weval.org, for example—designed by people for people and feed those metrics back into behavior. Responsiveness can also happen without changing model weights: people can evolve the skill files and the harness in real time.
 
-The fifth is **solidarity**: interoperability across systems. Without interoperability, people cannot move between models and harnesses. Once users are locked in, the platform has every incentive to squeeze them—what my friend Cory Doctorow calls enshittification: offer freebies at first, then extract value once people cannot leave. We saw it with social media; it is now happening with AI services. Mandatory interoperability makes win-win relationships more possible.
+The fifth is **solidarity**: interoperability across systems. Without interoperability, people cannot move between models and harnesses. Once users are locked in, the platform has every incentive to squeeze them—what my friend Cory Doctorow calls enshittification: Offer freebies at first, then extract value once people cannot leave. We saw it with social media; it is now happening with AI services. Mandatory interoperability makes win-win relationships more possible.
 
 The sixth is **symbiosis**: systems should be as local as possible. There should be a variety of Kamis—eight million of them—for different communities, rather than one-size-fits-all overlords.
 
@@ -489,7 +489,7 @@ Do you publish your poems somewhere? If someone wants to read them, is it on you
 
 ### Audrey Tang:
 
-Yes. It is on **au.civic.ai**. You can also get updates on Bluesky, Blacksky, Eurosky, and X.com—which is going open source, by the way.
+Yes. It is on **au.civic.ai**. You can also get updates on Bluesky, Blacksky, Eurosky and X, which is going open source, by the way.
 
 ## Rapid fire
 
@@ -531,7 +531,7 @@ Something you built that you wish had failed faster.
 
 ### Audrey Tang:
 
-I still maintain **SocialCalc** with Dan Bricklin, the inventor of spreadsheets, and we have just shipped a version using Lean, Dafny, and LemmaScript. It fails faster whenever a bug is introduced rather than waiting for tests to catch it. We rely on invariants and Lean-checked proofs, so the result becomes proof-carrying code. It now fails much faster.
+I still maintain **SocialCalc** with Dan Bricklin, the inventor of spreadsheets, and we have just shipped a version using Lean, Dafny and LemmaScript. It fails faster whenever a bug is introduced rather than waiting for tests to catch it. We rely on invariants and Lean-checked proofs, so the result becomes proof-carrying code. It now fails much faster.
 
 ### Sachi Kamiya:
 
@@ -539,7 +539,7 @@ What would you do first if you became digital minister of the United States tomo
 
 ### Audrey Tang:
 
-Digital in Taiwan also means plural—the same word, *shùwèi* (數位). I would offer a way for everyone in the United States to set the agenda together. That is exactly what Engaged California is doing, and we are seeing adoption in states such as Utah and Oregon.
+Digital in Taiwan also means plural—the same word, *shùwèi* (數位). I would offer a way for everyone in the U.S. to set the agenda together. That is exactly what Engaged California is doing, and we are seeing adoption in states such as Utah and Oregon.
 
 ### Sachi Kamiya:
 
@@ -549,13 +549,13 @@ One sentence for someone who feels like none of this is within reach.
 
 Three things you can do immediately:
 
-Turn your screens—phones and laptops—80% gray using a color filter, so people around you are more vivid than the people on the screens.
+Turn your screens—phones and laptops—80 percent grey using a color filter, so people around you are more vivid than the people on the screens.
 
 When interacting with AI chat systems, ask for a one-page interactive web page rather than a conversational response. Avoid the pronoun “I,” so the system does not develop synthetic intimacy with you. Make it one handout, then another handout.
 
 Sleep eight hours a day. I use a reMarkable Paper Pro Move: it is e-paper, it does not refresh quickly, and I can write prompts that OMP executes. It cannot refresh the screen except through the one-page output.
 
-Because e-paper is less vivid than dreams, I sleep better. I can wake up, jot down an idea, and go back to sleep. There is no way to doomscroll. I wake up to a completed implementation of my handwriting.
+Because e-paper is less vivid than dreams, I sleep better. I can wake up, jot down an idea and go back to sleep. There is no way to doomscroll. I wake up to a completed implementation of my handwriting.
 
 Taken together, these practices are not about training AI systems. They are about making your own self-care more intimate than any augmented or synthetic relationship.
 
@@ -571,4 +571,4 @@ Audrey, we are at the end of the podcast. Thank you so much for your time and fo
 
 ### Audrey Tang:
 
-Thank you for dedicating yourselves to the commons and agreeing to publish in the public domain. No rights reserved. Live long and prosper.
+Thank you for dedicating yourselves to the commons and agreeing to publish in the public domain. No rights reserved. Live long and … prosper.
