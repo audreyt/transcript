@@ -26,7 +26,7 @@ Oh, did I get it wrong?
 
 ### Amy Tong:
 
-Four decades! Oh my goodness. I would have really good skincare if I’m four decades into this. *(laughter)*
+Four decades! Oh my goodness. I would have really good skincare if I’m four decades into this. [laughs]
 
 ### Adam Goodman:
 
@@ -34,11 +34,11 @@ Well, we just — Audrey, we just had a show with Amy, we taped yesterday, and w
 
 ### Amy Tong:
 
-That is true. That I will go with. *(laughter)*
+That is true. That I will go with. [laughs]
 
 ### Audrey Tang:
 
-Yeah, I also have three decades of contributions to civic tech and free software. And I did start when I was 14, so… *(laughter)*
+Yeah, I also have three decades of contributions to civic tech and free software. And I did start when I was 14, so… [laughs]
 
 ### Adam Goodman:
 
@@ -212,7 +212,7 @@ And we got it all planned out. But on the day of launch, we did not launch, beca
 
 I think we can learn a lot. This nation can learn a lot from your experience in Taiwan: how 23 million people, over a decade ago, were not liking anything about—
 
-*(laughter)*
+[laughs]
 
 —public government, and people that were seeking to represent them. And then ten years later, they’re united. But they’re not united in a specious way. They’re united legitimately, because they did something that we don’t do enough of in this country, which is to talk to each other.
 
