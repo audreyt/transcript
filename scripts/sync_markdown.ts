@@ -240,6 +240,48 @@ export function applyAlternatesImpact(
   };
 }
 
+/**
+ * archive.tw answers HTTP 503 in two very different situations, and only one
+ * of them is worth retrying.
+ *
+ * The backend (sayit-hono `upload_markdown`) ends every mutating branch with
+ * `cachePurge && searchFresh ? 200 : 503`. So a 503 can mean the D1 write
+ * COMMITTED and merely the post-write Cloudflare cache purge / search sync
+ * did not finish — in which case the body still carries `success: true` and
+ * the real row counts.
+ *
+ * Retrying that is worse than useless. The retry re-runs the whole write and
+ * hits the very same Cloudflare purge rate limit, so it can never clear the
+ * condition; it only multiplies the work, burns the retry budget, and fails
+ * the job — which then skips the `rebuild-search-index` step that is the one
+ * thing capable of repairing a stale search index.
+ *
+ * Returns the invalidation flags when the body reports a committed write, and
+ * null for every other body (including the genuine outage shape
+ * `{ error: "Service temporarily unavailable" }`, which must keep retrying).
+ */
+export function readCommittedWrite(
+  body: string,
+): { cachePurge: boolean; searchSync: boolean } | null {
+  let parsed: unknown;
+  try {
+    parsed = JSON.parse(body);
+  } catch {
+    return null;
+  }
+  if (typeof parsed !== "object" || parsed === null) {
+    return null;
+  }
+  const record = parsed as Record<string, unknown>;
+  if (record.success !== true) {
+    return null;
+  }
+  return {
+    cachePurge: record.cachePurge === true,
+    searchSync: record.searchSync === true,
+  };
+}
+
 export async function requestWithRetry(
   spec: RequestSpec,
   label: string,
@@ -279,6 +321,26 @@ export async function requestWithRetry(
       body: spec.body,
     });
     const body = await response.text();
+
+    // A failing status whose body reports a committed write is accepted as
+    // written: the record is in D1 and only invalidation lagged. Warn loudly
+    // so the incomplete purge is visible in the run log, but do not retry and
+    // do not fail the sync — see readCommittedWrite.
+    if (!response.ok) {
+      const committed = readCommittedWrite(body);
+      if (committed) {
+        stdout(
+          `${label} -> HTTP ${response.status} (write committed; invalidation incomplete: ` +
+            `cachePurge=${committed.cachePurge}, searchSync=${committed.searchSync})`,
+        );
+        stdout(
+          `::warning::${label}: archive.tw stored the record but post-write invalidation ` +
+            `was incomplete (cachePurge=${committed.cachePurge}, searchSync=${committed.searchSync}); ` +
+            `the search index rebuild that follows this job repairs it.`,
+        );
+        return { status: response.status, body };
+      }
+    }
 
     if (response.status >= 500 && attempt < maxRetries) {
       const delay = Math.min(BASE_DELAY_MS * 2 ** (attempt - 1), MAX_DELAY_MS);
