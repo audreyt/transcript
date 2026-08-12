@@ -9,6 +9,7 @@ import {
   MAX_RETRIES,
   parseAlternatesText,
   parseNameStatusDiff,
+  readCommittedWrite,
   readFileAtRef,
   requestWithRetry,
   runSync,
@@ -224,6 +225,90 @@ describe("requestWithRetry", () => {
       ),
     ).rejects.toThrow("HTTP 404");
   });
+
+  test("accepts a 503 whose body reports the write committed", async () => {
+    // archive.tw returns 503 when D1 committed but the Cloudflare purge was
+    // rate-limited. Retrying re-runs the write into the same limit, so the
+    // request must be accepted on the first attempt.
+    const output: string[] = [];
+    let attempts = 0;
+    const committedBody = JSON.stringify({
+      success: true,
+      filename: "changed",
+      updatedCount: 190,
+      insertedCount: 0,
+      cachePurge: false,
+      searchSync: false,
+    });
+
+    const response = await requestWithRetry(
+      { url: "https://example.com", method: "PATCH" },
+      "PATCH changed.md",
+      {
+        fetchImpl: async () => {
+          attempts += 1;
+          return new Response(committedBody, { status: 503 });
+        },
+        sleep: async () => {
+          throw new Error("must not back off on a committed write");
+        },
+        stdout: (line) => output.push(line),
+      },
+    );
+
+    expect(attempts).toBe(1);
+    expect(response.status).toBe(503);
+    expect(output.join("\n")).toContain("write committed; invalidation incomplete");
+    expect(output.join("\n")).toContain("::warning::");
+  });
+
+  test("still retries a 503 that does not report a committed write", async () => {
+    // The genuine outage shape has no `success`, so the retry budget must
+    // still apply — this is the D1 long-running-import case.
+    const output: string[] = [];
+    let attempts = 0;
+    const response = await requestWithRetry(
+      { url: "https://example.com", method: "POST" },
+      "POST test.md",
+      {
+        fetchImpl: async () => {
+          attempts += 1;
+          if (attempts < 3) {
+            return new Response(
+              JSON.stringify({ error: "Service temporarily unavailable" }),
+              { status: 503 },
+            );
+          }
+          return new Response("ok", { status: 200 });
+        },
+        sleep: async () => {},
+        stdout: (line) => output.push(line),
+      },
+    );
+
+    expect(attempts).toBe(3);
+    expect(response).toEqual({ status: 200, body: "ok" });
+  });
+});
+
+describe("readCommittedWrite", () => {
+  test("reports the invalidation flags for a committed write", () => {
+    expect(
+      readCommittedWrite(JSON.stringify({ success: true, cachePurge: false, searchSync: false })),
+    ).toEqual({ cachePurge: false, searchSync: false });
+    expect(
+      readCommittedWrite(JSON.stringify({ success: true, cachePurge: true, searchSync: true })),
+    ).toEqual({ cachePurge: true, searchSync: true });
+  });
+
+  test("returns null for bodies that do not report a committed write", () => {
+    expect(readCommittedWrite("missing")).toBeNull();
+    expect(readCommittedWrite("null")).toBeNull();
+    expect(readCommittedWrite('"a string"')).toBeNull();
+    expect(readCommittedWrite(JSON.stringify({ error: "Service temporarily unavailable" }))).toBeNull();
+    expect(readCommittedWrite(JSON.stringify({ success: false }))).toBeNull();
+    expect(readCommittedWrite(JSON.stringify({ success: "true" }))).toBeNull();
+  });
 });
 
 describe("diffCommand", () => {
@@ -347,6 +432,53 @@ describe("runSync", () => {
     expect(code).toBe(0);
     expect(output.join("\n")).toContain("PATCH changed.md got 404, falling back to POST");
     expect(output.join("\n")).toContain("DELETE gone.md: already absent (HTTP 404), skipping");
+  });
+
+  test("succeeds when archive.tw commits the write but reports incomplete invalidation", async () => {
+    // The whole point of the fix: a rate-limited cache purge must not fail the
+    // job, because a failed sync job skips rebuild-search-index — the only
+    // step that repairs the stale search index the 503 is complaining about.
+    const root = createTempDir();
+    writeFile(root, "changed.md", "# changed\n");
+    const diffOutput = ["M", "changed.md", ""].join("\0");
+    const output: string[] = [];
+    let attempts = 0;
+
+    const code = await runSync(
+      {
+        API_ENDPOINT: "https://archive.tw/api/upload_markdown",
+        TOKEN: "secret",
+        GITHUB_WORKSPACE: root,
+        BEFORE_SHA: "abc",
+        AFTER_SHA: "def",
+      },
+      [],
+      {
+        git: (args) => (args[0] === "diff" ? diffOutput : ""),
+        fetchImpl: async () => {
+          attempts += 1;
+          return new Response(
+            JSON.stringify({
+              success: true,
+              filename: "changed",
+              updatedCount: 190,
+              cachePurge: false,
+              searchSync: false,
+            }),
+            { status: 503 },
+          );
+        },
+        sleep: async () => {
+          throw new Error("must not back off on a committed write");
+        },
+        stdout: (line) => output.push(line),
+      },
+    );
+
+    expect(code).toBe(0);
+    expect(attempts).toBe(1);
+    expect(output.join("\n")).not.toContain("Failed to sync");
+    expect(output.join("\n")).toContain("::warning::");
   });
 
   test("reports failed syncs", async () => {
