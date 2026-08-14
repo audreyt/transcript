@@ -13,6 +13,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 
 export const FILENAME_RE = /^(\d{4})-(\d{2})-(\d{2})-.+\.md$/;
+const CJK_RE = /[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]/;
 
 const MAINTAINER_MARKDOWN_FILENAMES: Record<string, true> = {
   "AGENTS.md": true,
@@ -186,6 +187,14 @@ export function validateAlternates(
     if (a.includes("/") || b.includes("/")) {
       failures.push(new Failure(location, "paths must be root-level (no /)"));
       continue;
+    }
+    if (CJK_RE.test(a) && !CJK_RE.test(b)) {
+      failures.push(
+        new Failure(
+          location,
+          "column 1 must be the English filename (no CJK); column 2 is Traditional Chinese",
+        ),
+      );
     }
 
     for (const side of [a, b]) {
