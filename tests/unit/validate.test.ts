@@ -137,6 +137,47 @@ describe("validateAlternates", () => {
     expect(result).toEqual([]);
   });
 
+  test("accepts English then Traditional Chinese", () => {
+    const root = createTempDir();
+    writeFile(root, "2025-01-29-Interview-with-BBC-Newsday.md", "");
+    writeFile(root, "2025-01-29-BBC-Newsday-訪談.md", "");
+    const result = failures();
+    validateAlternates(
+      writeAlt(
+        root,
+        "2025-01-29-Interview-with-BBC-Newsday.md\t2025-01-29-BBC-Newsday-訪談.md\n",
+      ),
+      root,
+      result,
+    );
+    expect(result).toEqual([]);
+  });
+
+  test("rejects CJK in the English column", () => {
+    const root = createTempDir();
+    writeFile(root, "2025-01-29-Interview-with-BBC-Newsday.md", "");
+    writeFile(root, "2025-01-29-BBC-Newsday-訪談.md", "");
+    const result = failures();
+    validateAlternates(
+      writeAlt(
+        root,
+        "2025-01-29-BBC-Newsday-訪談.md\t2025-01-29-Interview-with-BBC-Newsday.md\n",
+      ),
+      root,
+      result,
+    );
+    expect(result[0]?.message).toContain("column 1 must be the English filename");
+  });
+
+  test("does not reject CJK on both sides", () => {
+    const root = createTempDir();
+    writeFile(root, "2025-01-29-訪談.md", "");
+    writeFile(root, "2025-01-29-來訪.md", "");
+    const result = failures();
+    validateAlternates(writeAlt(root, "2025-01-29-訪談.md\t2025-01-29-來訪.md\n"), root, result);
+    expect(result).toEqual([]);
+  });
+
   test("skips comments and blank lines", () => {
     const root = createTempDir();
     writeFile(root, "a.md", "");
