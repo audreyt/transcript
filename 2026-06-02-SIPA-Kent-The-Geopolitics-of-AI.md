@@ -160,7 +160,7 @@ But the evaluation metric was done with my mom, who said that every time the bot
 
 And the bot, every time it gives a slightly isolating answer, we can just use what's called directional steering, which is a very small amount of data, just 10 sentences. And within one minute, we can train the network to behave in the direction we're tuning. And because it's running entirely locally, it's not sending the data anywhere to the cloud, not to Beijing, not to Silicon Valley.
 
-So my point here is really a governance point, which is, are we thinking about AI on top or AI on tap? If it's AI on tap, then the people touched by AI can't steer it in real time. But if it's AI on top, then the extractive relationship, whether in Beijing or Silicon Valley, we are like planktons, our human data being extracted into this huge oil rig.
+So my point here is really a governance point, which is, are we thinking about AI on top or AI on tap? If it's AI on tap, then the people touched by AI can steer it in real time. But if it's AI on top, then the extractive relationship, whether in Beijing or Silicon Valley, we are like planktons, our human data being extracted into this huge oil rig.
 
 But if it's within the local community, then people can hand it together. This is why I call data soil, not the data oil. It's purely regenerative.
 
