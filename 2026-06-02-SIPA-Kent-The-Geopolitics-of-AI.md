@@ -138,7 +138,7 @@ And there was one announcement, I mean, almost every month there is such an anno
 
 ### Jean-Marie Guéhenno:
 
-I want to turn to Audrey Tang. When you've been the first digital minister in Taiwan, you are the Taiwan cyber ambassador, and you've been working a lot on the positive views of AI. And as Emmanuel reminded us, I mean, AI, large language model are just one compartment of AI.
+I want to turn to Audrey Tang. You were the first digital minister in Taiwan, you are the Taiwan cyber ambassador, and you've been working a lot on the positive views of AI. And as Emmanuel reminded us, I mean, AI, large language model are just one compartment of AI.
 
 There are many uses of AI. And so if one looks beyond the US-China competition and looking at AI and not focusing just on the security side of things, what do you see as the upside opportunities created by AI in connecting citizens, in increasing capacity to solve societal problems? What is the potential?
 
@@ -146,25 +146,25 @@ And I think it's important for this group of diplomats. I mean, they come from r
 
 ### Audrey Tang:
 
-Certainly. So I want to continue the thoughts that we heard about evaluation, actually, because I'm now also academically in Oxford, working on AI alignment, but not aligning our outcome utility, but rather aligning with a participatory process. So I want to tell a story about how we aligned AI systems with the participatory process.
+Certainly. So, I want to continue the thoughts that we heard about evaluation, actually, because I'm now also academically in Oxford, working on AI alignment, but not aligning our outcome utility, but rather aligning with a participatory process. I want to tell a story about how we aligned AI systems with the participatory process.
 
-And it happens in my home, actually. So my dad is a political scientist, journalist, who was in Tiananmen, actually, until 1st of June in 1989, so covered the whole thing. And a few months ago, he has a health issue.
+And it happens in my home, actually. My dad is a political scientist, journalist, who was in Tiananmen, actually, until 1st of June in 1989, so covered the whole thing. And a few months ago, he had a health issue.
 
-And so he found that no matter which chatbot he talks to, the chatbot keeps suggesting fantastic ideas, yours, brainstorming, and so on. And he gets lured into this kind of spiral of anxiety situation. But because he's a journalist, he immediately diagnosed that it is just trying to earn the subscription and not loyal to the family relationship.
+My dad found that no matter which chatbot he talks to, the chatbot keeps suggesting fantastic ideas, yours, brainstorming, and so on. And he gets lured into this kind of spiral of anxiety situation. But because he's a journalist, he immediately diagnosed that it is just trying to earn the subscription and not loyal to the family relationship.
 
-So my point here is that we very quickly found a solution to his dilemma. So with my parents' explicit consent, we built a local model that's entirely running on a Mac. And so it doesn't need a data center.
+So, my point here is that we very quickly found a solution to his dilemma. So with my parents' explicit consent, we built a local model that's entirely running on a Mac. And so it doesn't need a data center.
 
 And it is a language model plus a few other narrow models, but everything fits into one Mac computer. And it only joins our family Signal group. And of course, he can directly message the bot.
 
-But the evaluation metric was done with my mom, who said that every time the bot speaks, it should be reducing my dad's dependency on the screen and should restore his peace of mind to the reality around them. So it's a little bit like how in Taiwan, we make sure that the kids in classrooms use only large screens, one laptop or a tablet per pair of children. So it's always pro-social, not anti-social.
+But the evaluation metric was done with my mom, who said that every time the bot speaks, it should be reducing my dad's dependency on the screen and should restore his peace of mind to the reality around them. So, it's a little bit like how in Taiwan, we make sure that the kids in classrooms use only large screens, one laptop or a tablet per pair of children. It's always pro-social, not anti-social.
 
-And the bot, every time it gives a slightly isolating answer, we can just use what's called directional steering, which is a very small amount of data, just 10 sentences. And within one minute, we can train the network to behave in the direction we're tuning. And because it's running entirely locally, it's not sending the data anywhere to the cloud, not to Beijing, not to Silicon Valley.
+And the bot, every time it gives a slightly isolating answer, we can just use what's called directional steering, which is a very small amount of data, just 10 sentences. And within a minute, we can train the network to behave in the direction we're tuning. And because it's running entirely locally, it's not sending the data anywhere to the cloud, not to Beijing, not to Silicon Valley.
 
-So my point here is really a governance point, which is, are we thinking about AI on top or AI on tap? If it's AI on tap, then the people touched by AI can steer it in real time. But if it's AI on top, then the extractive relationship, whether in Beijing or Silicon Valley, we are like planktons, our human data being extracted into this huge oil rig.
+So, my point here is really a governance point, which is, are we thinking about AI on top or AI on tap? If it's AI on tap, then the people touched by AI can steer it in real time. But if it's AI on top, then the extractive relationship, whether in Beijing or Silicon Valley, we are like plankton, our human data is extracted into this huge oil rig.
 
-But if it's within the local community, then people can hand it together. This is why I call data soil, not the data oil. It's purely regenerative.
+But if it's within the local community, then people can handle it together. This is why I call data oil, data soil, it's purely regenerative.
 
-And by the way, it's faster than the cloud models and higher quality. So I really don't see the reason why not to use this kind of local models.
+And by the way, it's faster than the cloud models and higher quality. So, I really don't see the reason why not to use this kind of local models.
 
 ### Jean-Marie Guéhenno:
 
@@ -230,25 +230,25 @@ But Europe is sitting on a trove of quality data, which for a number of users of
 
 May I come in with this point about a social license? I think what we have just heard is that AI gives people situational awareness, common knowledge. But what does not take away is the ability to make judgment together.
 
-So in Taiwan, we have been using AI systems for more than a decade now for civic decision making. So one quick example. A couple of years ago, in social media in Taiwan, if you scroll, you always see celebrity like Jensen Huang trying to give you cryptocurrency or investment advice.
+So, in Taiwan, we have been using AI systems for more than a decade now for civic decision making. One quick example. A couple of years ago, in social media in Taiwan, if you scroll, you always see a celebrity like Nvidia CEO Jensen Huang trying to give you cryptocurrency or investment advice.
 
-And it happens in Beijing-controlled and US-controlled social media platforms, all of them. And so instead of doing censorship, because we have the freest internet in Asia, we cannot do that. As minister, I sent 200,000 text messages to random people around Taiwan, asking for a lottocracy / sortition to decide the social license to operate for social media ad companies.
+And it happens in Beijing-controlled and U.S.-controlled social media platforms, all of them. Instead of doing censorship, because we have the freest internet in Asia, we cannot do that. As minister, I sent 200,000 text messages to random numbers around Taiwan, a form of lottocracy or sortition, to determine the social license to operate for social media ad companies.
 
-And thousands volunteered, and we chose 447 people randomly to mirror the entire population. So in a table of 10, they're assisted by civic AI. And I should say, because we know what we're doing, it's just for making transcriptions, summarizations, social translation, chess clock with manners, basically encouraging quiet people to speak up.
+Thousands of people volunteered, and we chose 447 randomly to mirror the entire population. So, in a table of 10, they're assisted by civic AI. And I should say, because we know what we're doing, it's just for making transcriptions, summarizations, social translation, chess clock with manners, basically encouraging quiet people to speak up.
 
-It's better than frontier model at doing such things. So the small model that we built for my dad, if we know what we're doing, it's performed better than frontier models. And so with the help of such civic AI systems, each table of 10 virtually came up with their own idea that leaves everybody slightly happier and nobody very unhappy.
+It's better than frontier models at doing such things. So, the small model that we built for my dad, if we know what we're doing, performed better than frontier models. With the help of such civic AI systems, each table of 10 virtually came up with their own idea that leaves everybody slightly happier and nobody very unhappy.
 
-One table said, let's just label all ads on social media as probably scam, like a cigarette label. If Jensen Huang or somebody signed it to own it, of course you take it down, but otherwise it's labeled. Another table say an unlabeled ad, if you push to people who didn't subscribe and they lost 7 million, well, the social media company should be liable for the full 7 million damage, joint liability, another good idea.
+One table said, let's just label all ads on social media as probably scam, like a cigarette label. If Jensen or somebody signed it to own it, of course you take it down, but otherwise it's labeled. Another table said an unlabeled ad, if it’s promoted to people who didn't subscribe and they lost 7 million, well, the social media company should be liable for the full 7 million damage, joint liability, another good idea.
 
-Another say foreign companies ignore our liability rules. Every day they ignore us, slow down connection to their short video by 1%, another very good idea. And so by the end of the day, we put it to vote.
+Another said foreign companies ignore our liability rules. Every day they ignore us, slow down connection to their short video by 1 percent, another very good idea. And so by the end of the day, we put it to vote.
 
-And had it been 44 human facilitators, they will need a few days to come to this uncommon ground. But again, using small language models, we will fit immediately and people voted and more than 85% agree the other 15 can live with it. So that was two years ago and it became law in just a couple of months.
+And had it been 44 human facilitators, they would need a few days to come to this uncommon ground. But again, using small language models, we fit immediately, people voted and more than 85 percent agreed the other 15 can live with it. So, that was two years ago and it became law in just a couple of months.
 
-So throughout last year, there's just almost no deepfake ads anymore. Impersonation, according to Reuters, is down by more than 94%. So it's all but solved in Taiwan.
+Throughout last year, there's almost no deepfake ads anymore. Impersonation, according to Reuters based on statistics from the Ministry of Digital Affairs, is down by more than 94 percent. So, it's all but solved in Taiwan.
 
-So my point being, instead of requiring each person to kind of earn a driver license to use social media, or to, I don't know, abandon or whatever, we instead have the entire nation come together and draw the social license to operate. So that no matter which AI recommendation system come from, we apply this communal rule to them. So again, it's tamed, not as a extractive oil rig, but rather regenerated as soil.
+My point being, instead of requiring each person to kind of earn a driver’s license to use social media, or to, I don't know, abandon or whatever, we instead have the entire nation come together and draw the social license to operate. No matter which AI recommendation system comes from, we apply this communal rule to them. So, again, it's tamed, not as an extractive oil rig, but rather regenerated as soil.
 
-So I think that's a very clear use of AI for good. And again, it also helps us to train our so-called trustworthy AI dialogue engine, which is a sovereign model of Taiwan. Again, it's just a layer that you can apply on existing open models like Gemma or Nemotron, which by the way, is now both faster than DeepSeek for Flash and also better.
+I think that's a very clear use of AI for good. And again, it also helps us to train our so-called trustworthy AI dialogue engine, which is a sovereign model of Taiwan. Again, it's just a layer that you can apply on existing open models like Gemma or Nemotron, which by the way, is now both faster than DeepSeek for Flash and also better.
 
 ### Jean-Marie Guéhenno:
 
@@ -398,23 +398,23 @@ So I would focus on that. Thank you.
 
 ### Audrey Tang:
 
-Maybe I can come in a little bit. Thank you for the great questions. I would like to tackle also the inequality.
+Maybe I can come in a little bit. Thank you for the great questions. I would like to also tackle inequality.
 
-As Emmanuel said, it's mostly about the direction of value. If data flow out of communities, then value accrue to whoever owns the model. And what comes back is just rented so-called intelligence that you cannot correct.
+As Emmanuel said, it's mostly about the direction of value. If data flows out of communities, then value accrues to whoever owns the model. And what comes back is just rented so-called intelligence that you cannot correct.
 
-So again, the data as oil direction, just make people closest to the harm, make it having less standing. People would not have any way to fix it when it goes wrong. And so I think this circular economy model, this data as soil model, is not just good to have.
+So, again, the data as oil direction, just make people closest to the harm, make it having less standing. People would not have any way to fix it when it goes wrong. I think this circular economy model, this data as soil model, is not just good to have.
 
-It is actually a must if you are in such a community suffering from epistemic inequality. Like my grandma speaks Tâi-gí (Taiwanese Holo), and not Mandarin as her first language. And if she uses a cutting-edge frontier LLM, that's not specifically tuned for her Tâi-gí,
+It is actually a must if you are in such a community suffering from epistemic inequality. Like my grandma speaks Tâi-gí, or Taiwanese Holo, and not Mandarin as her first language. And if she uses a cutting-edge frontier LLM, that's not specifically tuned for her Tâi-gí,
 
-she is, of course, at a disadvantage. So in Taiwan, when we train so-called sovereign AI models, because we have 20 national languages, 16 indigenous nations, 42 language variations, the sovereignty is actually communal. So each community may be working with Mozilla, Common Voice, Data Collective, and so on, do their own curation.
+She is, of course, at a disadvantage. So, in Taiwan, when we train so-called sovereign AI models, because we have 20 national languages, 16 indigenous nations, 42 language variations, the sovereignty is actually communal. Each community may be working with Mozilla, Common Voice, Data Collective and so on to do their own curation.
 
-And it is actually about co-authorship because each language carries a way to dissolve disagreements, also to understand the outside world. And they own that data. And again, using local knowledge, artifact management, intelligence, which I call Kami, they can negotiate and even do social translation across different epistemic standings.
+It is actually about co-authorship because each language carries a way to dissolve disagreements, also to understand the outside world. And they own that data. And again, using knowledge artefact management intelligence, which I call Kami, they can negotiate and even do social translation across different epistemic standings.
 
-And we're already seeing other countries adopting this social translation because polarization is a big problem everywhere. And social translation to convey, for example, climate justice views and biblical creation care views can de-escalate their conflict and then agree on the uncommon ground. So I'm very happy to also report that this kind of waging peace work, which is a core part of UN, is now taking place in many places.
+We're already seeing other countries adopting this social translation because polarization is a big problem everywhere. And social translation to convey, for example, climate justice views and biblical creation care views can de-escalate their conflict and then agree on the uncommon ground. So, I'm very happy to also report that this kind of waging peace, which is a core part of the U.N., is now taking place in many places.
 
-You can look up Democracy R&D for such a network. So that is what I will recommend UN to look into. And it can also resolve the issue about statewide or national regulations about the social license to operate of AI, including transparency rules.
+You can look up Democracy R&D for such a network. That is what I recommend the U.N. look into. And it can also resolve the issue about statewide or national regulations about the social license to operate of AI, including transparency rules.
 
-In fact, if you are a California citizen, you have three more days to go to engaged.ca.gov, Engage California, where we're using this Taiwan-inspired model to ask every Californian about their work, how it's impacted by AI. So it could be apprenticeship, belonging, community, dignity, ethics, privacy, anything of those ABCDE issues. And again, using such social translation, the hope is that we can find this uncommon ground that is cross-partisan, cross-cultural, and then the state of California can simply say, as we did to the deepfakes social media, to the Frontier Labs, this is not the governor's idea or the MP's idea.
+In fact, if you are a California resident, you have three more days to go to engaged.ca.gov, Engage California, where we're using a Taiwan-inspired model to ask every Californian about their work, how it's impacted by AI. So, it could be apprenticeship, belonging, community, dignity, ethics, privacy, anything of those ABCDE issues. And again, using such social translation, the hope is that we can find this uncommon ground that is cross-partisan, cross-cultural, and then the state of California can simply say, as we did to the deepfakes social media, to the Frontier Labs, this is not the governor's idea or a lawmaker’s idea.
 
 This is not partisan. Everyone in California thinks you should do at least this.
 
