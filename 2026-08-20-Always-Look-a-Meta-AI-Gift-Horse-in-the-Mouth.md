@@ -2,7 +2,7 @@
 
 ### Audrey Tang:
 
-On Aug. 10, Meta’s CEO Mark Zuckerberg unveiled Muse Glimmer — a new AI model released under an open-source licence — and announced that the weights of its flagship model, Muse Spark, would follow.
+On Aug. 10, Meta’s CEO Mark Zuckerberg unveiled Muse Glimmer — a new AI model released under an open source licence — and announced that the weights of its flagship model, Muse Spark, would follow.
 
 Set “Meta” beside “open” and many will sense a mismatch: How does a company opaque about account reach and feed rankings start flying the flag for open source?
 
