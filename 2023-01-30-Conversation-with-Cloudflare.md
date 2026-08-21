@@ -820,7 +820,7 @@ So much so that our main service, 1922, who didn't want to use waiting room beca
 
 We co-created a different kind of response pipeline and so on for that. I recount all these details because it's important to show publicly the mistakes are corrected, even faster than our existing weekly iteration during the pandemic. Always, it's fixed in a matter of hours.
 
-Then that's what ultimately won the heart and minds of the major system integrators that are in charge of some of the largest public infrastructure. So much so that in the 6,000 anti dollar service we don't even have to tell them to use contract. It's just assumed now.
+Then that's what ultimately won the heart and minds of the major system integrators that are in charge of some of the largest public infrastructure. So much so that in the 6,000 NT dollar service we don't even have to tell them to use contract. It's just assumed now.
 
 I think those mistakes are very pedagogical, so to speak. It's a public textbook, so to speak, for many people in the public service.
 
