@@ -88,7 +88,7 @@ And what was this model to begin with? A [Qwen](https://huggingface.co/Qwen) mod
 
 > (Laughter.)
 
-The original sin is this: while it was growing up, it read a great deal of great, glorious, and correct data. So when you ask it about universal human-rights values, the answers come back with distinctly “socialism with Chinese characteristics.” How, then, is that original sin washed away?
+The original sin is this: while it was growing up, it read a great deal of “great, glorious, and correct” data. So when you ask it about universal human-rights values, the answers come back with distinctly “socialism with Chinese characteristics.” How, then, is that original sin washed away?
 
 > (Laughter.)
 
