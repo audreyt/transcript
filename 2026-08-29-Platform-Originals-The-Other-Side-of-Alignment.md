@@ -232,7 +232,7 @@ Very quickly, this can become a relationship in which everyone learns from one a
 
 Yes, I find that very interesting. Hearing you describe it this way, although what we are doing may look very—although we are in fact doing something highly technical, at every stage what you truly care about is whether the technology can help people connect with one another more effectively.
 
-Take the idea of “digital,” for example. You use that concept often in your descriptions; in Taiwan, it also carries the sense of plurality: many, several people. And at this stage, I think one very clear expression of that is the book *Plurality*, which is entirely grounded in collaboration. Globally, even I alone worked with more than 70 contributors. And with the Civic AI you just mentioned, we likewise make relationships a crucial criterion. Today, rather than treating the development of such agents as the design of a service, we ask: How can I exercise better judgment, provide accountability, and repair relationships between groups?
+Take the idea of “digital,” for example. You use that concept often in your descriptions; in Taiwan, it also carries the sense of plurality: many, several people. And at this stage, I think one very clear expression of that is the book *Plurality*, which is entirely grounded in collaboration. Globally, even I alone worked with more than 70 contributors. And with the [Civic AI](https://civic.ai/) you just mentioned, we likewise make relationships a crucial criterion. Today, rather than treating the development of such agents as the design of a service, we ask: How can I exercise better judgment, provide accountability, and repair relationships between groups?
 
 ## Align Relationships Between Groups, Not a Single Leaderboard
 
