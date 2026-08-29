@@ -446,7 +446,7 @@ Engaged California。對。或者在日本，其實你會聽到一些，不管�
 
 ### 唐鳳：
 
-那個達賴喇嘛辦公室。
+達賴喇嘛辦公室。
 
 ### Tenzin Yangtso：
 
