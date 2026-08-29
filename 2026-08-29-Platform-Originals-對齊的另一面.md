@@ -566,7 +566,7 @@ Engaged California。對。或者在日本，其實你會聽到一些，不管�
 
 ### 唐鳳：
 
-嗯，對，Superhuman 現在有一個開源的叫 Macro，功能幾乎是完全一樣，然後也可以自架地端的。那另外一個就是常用的 [Soniox](https://soniox.com/)，就是直接做翻譯的。那這個就是 Easy2Say，好說，Easy2Say.ai，就等於復刻了 Soniox 的功能。另外一個就是 Granola，就是一面開會、一面做筆記的這一個。現在也有一個完全開源、地端的叫做 [Steno](https://github.com/stenolabs/stenoai)。所以現在就是非常有系統地，我們現在用什麼東西，好比說 livecaption.ing，我們就一面用、一面把畫面截圖，然後一面在地端說：「我要做一個跟它一樣的。」等我們講完之後，我們就有一個一樣的東西。
+嗯，對，Superhuman 現在有一個開源的叫 [Macro](https://macro.com/)，功能幾乎是完全一樣，然後也可以自架地端的。那另外一個就是常用的 [Soniox](https://soniox.com/)，就是直接做翻譯的。那這個就是 [Easy2Say](https://easy2say.ai/)，「好說」，Easy2Say.ai，就等於復刻了 Soniox 的功能。另外一個就是 Granola，就是一面開會、一面做筆記的這一個。現在也有一個完全開源、地端的叫做 [Steno](https://github.com/stenolabs/stenoai)。所以現在就是非常有系統地，我們現在用什麼東西，好比說 livecaption.ing，我們就一面用、一面把畫面截圖，然後一面在地端說：「我要做一個跟它一樣的。」等我們講完之後，我們就有一個一樣的東西。
 
 ### 主持人：
 
