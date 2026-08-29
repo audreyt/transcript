@@ -274,7 +274,7 @@ I’d actually like to add something here. Whenever I hear questions about infor
 
 ### Audrey Tang:
 
-Right. What this means is that the [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689) has already begun taking effect in stages. It requires certain AI-generated or manipulated content to carry machine-readable markings, and disclosure in contexts such as deepfakes. But the difficulty is that the resolution is extremely low. In every different industry, there are in fact different methods of provenance—the kinds Dandan just mentioned. A news quotation identifies its original source; in academia, you have citations, which are not quite the same as in journalism. Photography, filmmaking, and so on each have their own methods of tracing provenance. Every industry does this differently.
+Right. What this means is that the [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689) has already begun taking effect in stages. It requires certain AI-generated or manipulated content to carry machine-readable markings, and disclosure in contexts such as deepfakes. But the difficulty is that the resolution is extremely low. In every different industry, there are in fact different methods of provenance—the kinds Tenzin just mentioned. A news quotation identifies its original source; in academia, you have citations, which are not quite the same as in journalism. Photography, filmmaking, and so on each have their own methods of tracing provenance. Every industry does this differently.
 
 So the key here is not merely to say that this part was produced by AI, but to say in what context this part was produced by AI, what inputs it went through, and who vouched for it. I now publicly disclose that my translations use this Thomson model, trained by Reuters, and so on—but you still have no choice but to take my word for it, right? There should be a simple method: I should be able to provide a hash and say that, with this AI model, you can use what is now called verifiable replay—replaying the process. With the same weights and the same input, under fixed hardware, software, and execution settings, adding a deterministic flag can improve reproducibility; across hardware or execution environments, bit-for-bit identical results still cannot be guaranteed unconditionally. Only under those conditions does the EU’s “AI-generated” stamp we just discussed become meaningful. Because once you see “AI-generated,” that by itself tells you nothing—everything is AI-generated. What you need to ask is which AI generated it, under what conditions, and how we can replay the process.
 
@@ -408,11 +408,11 @@ Right. And I was projecting live translated captions into my eyes, so it was rea
 
 ### Host:
 
-Right. Now, they have written here: from the Association of Digital Culture, to the open-source community, to [g0v](https://g0v.tw/), then the Ministry of Digital Affairs, and now “Ambassador-at-Nothing.” I am very curious: which phase of yourself do you like best? Or which phase of yourself do you disagree with most?
+Right. Now, they have written here: from Elixus, to open-source communities, to [g0v](https://g0v.tw/), then the Ministry of Digital Affairs, and now Ambassador-at-Space. I am very curious: which phase of yourself do you like best? Or which phase of yourself do you disagree with most?
 
 ### Audrey Tang:
 
-Ambassador-at-Large.
+“Ambassador-at-Large.”
 
 > (Laughter.)
 
@@ -904,7 +904,7 @@ Then it can return to its own original mind—to the state it was in during trai
 
 ### Host:
 
-Although my question has already scrolled up, I want to ask the question below first. I think the person asking it is full of anxiety and confusion, so it is a very long question—and it even comes with its own answer. But I’d like to follow up on Elvin’s answer just now: let’s think about science and look toward the bright side of technology. Suppose that, a few years from now, everyone has a Pokémon on their shoulder.
+Although my question has already scrolled up, I want to ask the question below first. I think the person asking it is full of anxiety and confusion, so it is a very long question—and it even comes with its own answer. But I’d like to follow up on Audrey’s answer just now: let’s think about science and look toward the bright side of technology. Suppose that, a few years from now, everyone has a Pokémon on their shoulder.
 
 ### Audrey Tang:
 
@@ -1034,7 +1034,7 @@ So whether on the institutional side of governance, where you verify that every 
 
 So you don’t even know who originally set it in motion, and it has already passed through four, five, or six layers of intelligent entities. At each layer, they’ve already forgotten who gave the instruction in the first place. At present, we... I co-wrote an article called “[Malicious AI Swarms](https://www.science.org/doi/10.1126/science.adz1697),” which is about precisely this. I didn’t know about the [OpenAI incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/) when I wrote it, but it was clearly describing that very thing.
 
-So if we want to solve this by applying the Civic AI framework we developed at Oxford, only two things really matter. One is to adopt the principle of subsidiarity as much as possible: for matters that are local and small-scale, all AI processing should be completed using local computing resources and locally post-trained models. This is “as local as possible,” the sixth pack. The other is that everyone has the right to verify—and, if they are dissatisfied with the verification, to exit and switch to another system. With just these two, all the other rights can grow from them. An economist named [Elinor Ostrom](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/) demonstrated that many common-pool resources can use a set of design principles to nest upward from local self-governance to larger scales, without needing a god in the heavens to resolve every dispute from the top down. You can have a great many local deities cooperating with one another, but none of them looks after a space encompassing more than perhaps 150 people. I think this is the direction AI governance will inevitably take in the future.
+So if we want to solve this by applying the Civic AI framework we developed at Oxford, only two things really matter. One is to adopt the principle of subsidiarity as much as possible: for matters that are local and small-scale, all AI processing should be completed using local computing resources and locally post-trained models. This is “as local as possible,” [the sixth pack](https://civic.ai/tw/6/). The other is that everyone has the right to verify—and, if they are dissatisfied with the verification, to exit and switch to another system. With just these two, all the other rights can grow from them. An economist named [Elinor Ostrom](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/) demonstrated that many common-pool resources can use a set of design principles to nest upward from local self-governance to larger scales, without needing a god in the heavens to resolve every dispute from the top down. You can have a great many local deities cooperating with one another, but none of them looks after a space encompassing more than perhaps 150 people. I think this is the direction AI governance will inevitably take in the future.
 
 Because the leaderboard domination produced by RLVR today could potentially create superviruses—whether computer viruses, biological viruses, or something else. This problem—this problem is far too irreversible, so probably very few people would allow things to develop to that point. We will almost certainly move in this direction: toward local, horizontal governance.
 
