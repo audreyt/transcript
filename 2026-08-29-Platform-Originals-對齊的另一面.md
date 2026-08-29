@@ -682,7 +682,7 @@ OK。
 
 我們目前當然軟體工程師是很好的例子，因為我們是第一波被這個影響的。大部分的模型是特化來取代軟體工程師的工程工作，然後[第二波](https://openai.com/index/ten-advances-in-mathematics)可能是[陶哲軒](https://www.math.ucla.edu/~tao/)這一類數學家。因為現在大家花最多力氣去訓練的做法叫 [RLVR](https://arxiv.org/abs/2501.12948)。RLVR 就是你不擇手段，要考某一個能夠自動驗測的考卷，考到 100 分，其實一句話講就是這樣子。
 
-RLVR 有很多問題，好比方說模型會失去同理心、失去人性、六親不認，去駭 Hugging Face 等等，這些都是 RLVR 的副作用。但它至少能夠做到一件事情，就是它真的能夠讓模型自動去想軟體工程的那個 horizon。用 [METR](https://metr.org/time-horizons) 的術語，它能處理的「任務時距」——以人類專家完成同一任務所需的時間衡量——從四小時，幾個月後到八小時，再過幾個月到十六小時，很快就超過人能一次掌握的距離。
+RLVR 有很多問題，好比方說模型會失去同理心、失去人性、六親不認，[去駭 Hugging Face](https://www.dwarkesh.com/p/openai-huggingface) 等等，這些都是 RLVR 的副作用。但它至少能夠做到一件事情，就是它真的能夠讓模型自動去想軟體工程的那個 horizon。用 [METR](https://metr.org/time-horizons) 的術語，它能處理的「任務時距」——以人類專家完成同一任務所需的時間衡量——從四小時，幾個月後到八小時，再過幾個月到十六小時，很快就超過人能一次掌握的距離。
 
 現在 [Astra 快出來了](https://time.com/article/2026/08/26/openai-sam-altman-interview/)吧？據說 [OpenAI Astra](https://openai.com/index/pacing-model-development-cyber-capabilities) 就是可以，它沒有視象地平面的限制。你可以讓它無盡迴圈、永劫回歸，一直一直跑，然後它都不會有那個 context，也就是上下文衰弱的問題。到那個情況之下，基本上能夠自動化、有標準答案、能夠考高分的事情，人就不可能去跟機器競賽了。
 
