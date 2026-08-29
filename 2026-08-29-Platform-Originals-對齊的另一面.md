@@ -82,7 +82,7 @@ OK，好，謝謝唐鳳，也謝謝月台的主持人[布丁](https://hlb.im/)�
 
 ### 唐鳳：
 
-對，這是一個很好的問題。舉例來說，像我現在做翻譯的這個軟體，它後面用的模型叫做 [Thomson-1.0-Small](https://huggingface.co/thomsonreuters/Thomson-1.0-Small)。這裡的 Thomson 指的是創辦 Thomson Corporation 的 [Roy Thomson](https://www.thomsonreuters.com/en/about-us/company-history)。Thomson-1.0-Small 是用一個英國的後訓練模型，叫做 [Snowdon-1.1-Small](https://huggingface.co/thomsonreuters/Snowdon1.1-Small)。那 [Snowdon](https://zh.wikipedia.org/wiki/%E6%96%AF%E8%AB%BE%E7%99%BB%E5%B1%B1) 也算是某種新聞工作者嗎？不太確定。好，總之就是這個模型。
+對，這是一個很好的問題。舉例來說，像我現在做翻譯的這個軟體，它後面用的模型叫做 [Thomson-1.0-Small](https://huggingface.co/thomsonreuters/Thomson-1.0-Small)。這裡的 Thomson 指的是創辦 Thomson Corporation 的 [Roy Thomson](https://www.thomsonreuters.com/en/about-us/company-history)。Thomson-1.0-Small 是用一個英國的後訓練模型，叫做 [Snowdon1.1-Small](https://huggingface.co/tri-fair-lab/Snowdon1.1-Small)。那 [Snowdon](https://zh.wikipedia.org/wiki/%E6%96%AF%E8%AB%BE%E7%99%BB%E5%B1%B1) 也算是某種新聞工作者嗎？不太確定。好，總之就是這個模型。
 
 但這個模型本來是什麼？是[千問模型](https://huggingface.co/Qwen)嘛。千問模型大家都知道是一個開放權重的模型，但是它具有原罪。
 
@@ -92,7 +92,7 @@ OK，好，謝謝唐鳳，也謝謝月台的主持人[布丁](https://hlb.im/)�
 
 > （笑聲。）
 
-你就需要我們剛剛講到的對齊機制。所以 Snowdon-1.1-Small 的方式是，他們寫了一個 [public constitution](https://huggingface.co/spaces/tri-fair-lab/publications/blob/main/Public_AI_Constitution.pdf)，用聯合國的人權宣言，去把這個模型的憲章直接對齊聯合國在寫人權宣言時候的那個情況。當然離現在有點遠了，但那個理想應該還不錯吧。
+你就需要我們剛剛講到的對齊機制。所以 Snowdon1.1-Small 的方式是，他們寫了一個 [public constitution](https://huggingface.co/spaces/tri-fair-lab/publications/blob/main/Public_AI_Constitution.pdf)，用聯合國的人權宣言，去把這個模型的憲章直接對齊聯合國在寫人權宣言時候的那個情況。當然離現在有點遠了，但那個理想應該還不錯吧。
 
 然後它可以去證明，千問已經成功地被重新腦控，而且還不是比喻的說法——真正的腦控。
 
@@ -102,7 +102,7 @@ OK，好，謝謝唐鳳，也謝謝月台的主持人[布丁](https://hlb.im/)�
 
 然後 [Thomson Reuters](https://www.thomsonreuters.com/en/about-us/company-history) 會用內部資料做財經、法律與調查報導。像我去問它我國的憲政制度、六法全書、判例法、大陸法系，它完全不用網路就能倒背如流，因為這些都是 Thomson Reuters 的內部資料。所以它採用我們所說的「不可修改授權」釋出。
 
-所以我自己跑的時候，我是不會再去後訓練它，因為它不希望我後訓練它。但如果我想要把它後訓練成我自己的語系，好比說，如果 Thomson 那邊並沒有多少派駐寫藏語的記者，那你只要有相關的語言資料，一樣可以拿 Snowdon-1.1-Small，把它改成一個專門寫藏語報導的模型。
+所以我自己跑的時候，我是不會再去後訓練它，因為它不希望我後訓練它。但如果我想要把它後訓練成我自己的語系，好比說，如果 Thomson 那邊並沒有多少派駐寫藏語的記者，那你只要有相關的語言資料，一樣可以拿 Snowdon1.1-Small，把它改成一個專門寫藏語報導的模型。
 
 所以這個原罪雖然不能說已經完全贖罪，但至少可以看到，你不需要像前訓練一整個千問模型那麼大的算力，那個現在很少人有。你只需要相對比較小的算力去做後訓練，就可以做到像剛剛講的這種認識上面的不正義，可以透過後訓練來把它矯正。
 
@@ -260,7 +260,7 @@ Engaged California。對。或者在日本，其實你會聽到一些，不管�
 
 > （笑聲。）
 
-這個限制性的模型來生成，而且它們都加浮水印，每一家都可以驗彼此的浮水印，都可以百分之百驗測。這樣子當然理論上可以解決這個問題。但是 2023 年在 [Bletchley Park](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)，就是英國舉辦首屆 [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-2-november/chairs-summary-of-the-ai-safety-summit-2023-bletchley-park) 的時候，[Mozilla](https://www.mozilla.org/) 很多人，包含我，我們一起寫了一個宣言，說這造成的問題比它解決的問題還要大很多。
+這個限制性的模型來生成，而且它們都加浮水印，每一家都可以驗彼此的浮水印，都可以百分之百驗測。這樣子當然理論上可以解決這個問題。但是 2023 年在 [Bletchley Park](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)，就是英國舉辦首屆 [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-2-november/chairs-summary-of-the-ai-safety-summit-2023-bletchley-park) 的時候，[Mozilla](https://www.mozilla.org/) 很多人，包含我，我們一起[寫了一個宣言](https://open.mozilla.org/ai-safety/)，說這造成的問題比它解決的問題還要大很多。
 
 因為它確實也許解決了資訊氾濫、假資訊氾濫的問題，但是它造成權力集中的問題。假資訊氾濫的問題是可逆的，權力集中是不可逆的。你一旦變成整個社會到底什麼是真的、什麼是假的，就是三家私人公司說了算，那整個民主制度都出問題了，這是絕對不可以走到這裡。後來我們的想法慢慢被人接受，現在過了三年，終於變成主流想法了。
 
@@ -314,13 +314,13 @@ Engaged California。對。或者在日本，其實你會聽到一些，不管�
 
 所以資料土壤某一種程度上面的想法，其實就像我們在看語言這個題目。對，語言是一代一代傳下來，它其實累積了更早的、你的上一代、上一代的這些智慧。但是當我們在學習它，像一個小孩剛接觸到它的時候，其實會覺得理所當然。其實這個東西是我們現在在做這些科技設計時，必須很清楚地拉回到：它到底有沒有辦法 benefit 到我們自己的社群，或它有沒有辦法很直接地讓我的生活變得更便利。
 
-對，所以我覺得這個部分想請唐鳳講一下。因為我知道關懷六力，很直接地來說，其實就是我們怎麼樣更好地彼此關懷。它是基於 [Joan Tronto](https://cla.umn.edu/polisci/news-events/news/professor-emerita-joan-tronto-receives-benjamin-e-lippincott-award-apsa) 的一個社會學的關懷理論概念。所以在這樣的智慧體、在關懷六力裡面，它可以效忠於不同社群關懷存在的關係，而不是忠於某些實驗室的 KPI 或者指數。
+對，所以我覺得這個部分想請唐鳳講一下。因為我知道關懷六力，很直接地來說，其實就是我們怎麼樣更好地彼此關懷。它是基於 [Joan Tronto](https://cla.umn.edu/polisci/news-events/news/professor-emerita-joan-tronto-receives-benjamin-e-lippincott-award-apsa) 的一個社會上的關懷理論概念。所以在這樣的智慧體、在關懷六力裡面，它可以效忠於不同社群關懷存在的關係，而不是忠於某些實驗室的 KPI 或者指數。
 
 ### 唐鳳：
 
 對，因為我們大家可以看到，現在 AI 裡面有一個類似劣幣驅逐良幣的情況。任何一個實驗室要釋出模型，一定要跑榜。以前的榜各種不同的都有，每個不同的社群會 curate 自己的榜。可是現在可能因為——我沒有特別針對誰的意思——但是像 [Artificial Analysis](https://artificialanalysis.ai/) 這樣的榜，因為它花了很多時間在矽谷、在其他地方，好像就是說武林高手都必須要在這個榜上，當然還有一些別的榜。但是這些榜的特色，都是在沒有人的參與之下，一定可以從頭到尾自己跑完。所以這些東西跑出來的速度，在每一個模型發布之後，可能有時候 day zero，就是模型一發布，它就發布榜單了。
 
-其他需要在地社群去看，這件事情對於我們實際上，好比說在 X 上面，會不會讓人吵得更不可開交，還是變得更好等等。你看 X 團隊花了這麼多人、這麼多時間，現在才剛剛更新到 [Grok 4.6](https://x.ai/news/grok-4-6)，就表示它這個 eval 需要驗證，需要跑一段比較長的時間，兩、三個禮拜以上。
+其他需要在地社群去看，這件事情對於我們實際上，好比說在 X 上面，會不會讓人吵得更不可開交，還是變得更好等等。你看 X 團隊花了這麼多人、這麼多時間，現在才剛剛把 X 更新到 [Grok 4.6](https://x.ai/news/grok-4-6)，就表示它這個 eval 需要驗證，需要跑一段比較長的時間，兩、三個禮拜以上。
 
 所以因為這樣的關係，它產生一個困難：如果你的實驗室內部跑這種很簡單，但是就像剛剛講到，只是為達高分不擇手段的排行榜，能夠排到一個程度，那你成功被釋出的機率就變得比較高。你如果在這些榜單上往下掉，但是事實上在剛剛講到的人際關懷、照顧等等上面跑分比較高，說不定你一開始在實驗室裡面連被釋出的機會都沒有。
 
@@ -636,7 +636,7 @@ Tomas，你有沒有想要多問什麼？
 
 以前大家就是完全……我們在跟這些大公司——那時候我們成立臺灣的 [AI 產品與系統評測中心](https://cbi.nstc.gov.tw/Page/578832E57B51B856/04a3ba8f-777f-49e8-a1df-3a58d0d3a338)，AIEC 的時候，我們也有跟大公司，這個逐字稿都還在網路上——他們就說：「可是如果驗測的時候，我們要把我們的權重交到你們臺灣的電腦裡面，難道我們的商業機密不會怎麼怎麼樣嗎？」那當然，那時候我們就說，其實有一些密碼學方法，對不對？我們可以放到雙方都無法控制的可信運算中心裡面。我把我的驗測丟進去，你把你的這個考生丟進去，這個考場把它關好，不要讓它去害 human beings，然後在裡面作答。作答完之後，我們只看到它的結果；我們雙方，我也看不到你的模型，你也看不到我的考題，這樣不就解決了嗎？
 
-現在好像只有 Gemini 的舊版，是真的可以用這樣的方法驗；其他幾家模型商都在抗拒。但是只要有一家做得到，就像那時候廣告實名制，我們就說：「Google 做得到啊，為什麼 Meta 做不到呢？」那就[罰了 2,000 萬](https://moda.gov.tw/en/press/press-releases/17728)，看看做不做得到呢。所以到最後，我覺得還是會往這個方向收斂。
+現在好像只有 Gemini 的舊版，是真的可以用這樣的方法驗；其他幾家模型商都在抗拒。但是只要有一家做得到，就像那時候廣告實名制，我們就說：「Google 做得到啊，為什麼 Meta 做不到呢？」那就[罰個 2,000 萬](https://moda.gov.tw/en/press/press-releases/17728)，看看做不做得到呢。所以到最後，我覺得還是會往這個方向收斂。
 
 ### 主持人：
 
@@ -684,7 +684,7 @@ OK。
 
 RLVR 有很多問題，好比方說模型會失去同理心、失去人性、六親不認，去害 human beings 等等，這些都是 RLVR 的副作用。但它至少能夠做到一件事情，就是它真的能夠讓模型自動去想軟體工程的那個 horizon。用 [METR](https://metr.org/notes/2026-01-22-time-horizon-limitations) 的術語，它能處理的「任務時距」——以人類專家完成同一任務所需的時間衡量——從四小時，幾個月後到八小時，再過幾個月到十六小時，很快就超過人能一次掌握的距離。
 
-現在 Astra 快出來了吧？據說 [OpenAI Astra](https://openai.com/index/pacing-model-development-cyber-capabilities) 就是可以，它沒有視向地平面的限制。你可以讓它無盡迴圈、永劫回歸，一直一直跑，然後它都不會有那個 context，也就是上下文衰弱的問題。到那個情況之下，基本上能夠自動化、有標準答案、能夠考高分的事情，人就不可能去跟機器競賽了。
+現在 Astra 快出來了吧？據說 [OpenAI Astra](https://openai.com/index/pacing-model-development-cyber-capabilities) 就是可以，它沒有視象地平面的限制。你可以讓它無盡迴圈、永劫回歸，一直一直跑，然後它都不會有那個 context，也就是上下文衰弱的問題。到那個情況之下，基本上能夠自動化、有標準答案、能夠考高分的事情，人就不可能去跟機器競賽了。
 
 在這個情況下，藏傳佛教在藏地有另外一個寓言說，有一個人拉著一匹馬，馬跑得很快，他跟著它跑，跑得氣喘吁吁。就有人說：「很奇怪，你為什麼不騎馬就好？為什麼一定要跟馬賽跑呢？」對，所以同樣的道理，就是說，如果這種超級長程的任務型 AI，先在軟體工程，然後在數學，然後在很多地方開始慢慢出現。
 
