@@ -1,10 +1,36 @@
-# 2026-08-29 Platform Originals: The Other Side of Alignment
+# 2026-08-29 Platform Originals：對齊的另一面
 
-> (How does “[Reverse Alignment](https://reversealignment.ai/)” reset institutions, processes, and AI infrastructure so that people and communities retain the ability to understand, question, modify, repair, and exit?)
+> （「[反向對齊](https://reversealignment.tw/)」如何重設制度、流程與 AI 基礎設施，使人與社群保有理解、質疑、修改、修復與離開的能力？）
+
+### Host:
+
+Welcome, everyone, to our first Platform Originals event. We’re truly honored to have Audrey Tang and Tenzin Yangtso with us for this session. I was just talking with Audrey, and she’s flying back tomorrow.
+
+Besides hosting events here, we’ve also started Platform Originals: I invite people I think are really worth a deep conversation, the kind you hear speak and still feel you haven’t heard enough from, so you want to ask more, like Audrey and her collaborators today. And then there is the “Station Stop” series. The basic idea is that AI is very new, and everything is accelerating. Compared with sitting in the audience while someone onstage tells you how to do a thing, if you’ve already been playing with a lot of this, you think: that looks like something I saw three months ago—and only then can it be prepared as a release. But more of it is probably still in progress. People may not know what is right and what is wrong; the question is how to exchange better. So this is work I very much hope we do together.
+
+This first session, we’ve invited Audrey Tang and Tenzin Yangtso to share their new project, Reverse Alignment—the other side of alignment. I saw Audrey post about it on Facebook and thought, another one of these cheerful new things. I opened it and thought, this looks complicated. Right, so I went back to the source: I read their book, [Plurality](https://plurality.net/). Then I felt I had still more to read, and when I finished I thought, would you come and talk about it?
+
+AI is fast. For example, chatting with Audrey, I said: some friends here today are not native speakers of Chinese, so what do we do? We need a live transcript. I had seen a friend write a live-transcript tool, so I said, let’s use this tomorrow. And she said, I wrote one too. I said, then I’ll use yours. And it is fully on-premises, no network at all. Fancy, right—and open source. Is it open source?
+
+### Audrey Tang:
+
+It is open source.
+
+### Host:
+
+Right, and it’s already in review. So we’ll use that in a moment. Right, but AI is fast, and I thought: let’s talk about some things that cannot be fast, so for example a bridge that takes ten years. That’s a very interesting story. And when you actually go and look at the [Tamkang Bridge](https://djbridge.thb.gov.tw/), you find that every lamp is at a different angle. How obsessive do you have to be to do something like that. Right, and to put those lamps up there took all kinds of inventions in the power supply.
+
+Today’s subject, of course, is Reverse Alignment. I find it very interesting: how to align AI with humans—and not only AI with humans, but how humans align with AI.
+
+The two speakers are of course right here. The first is Audrey. We’ve actually known each other for more than twenty years. The first time I met her was at Elixus, which was a marvelous cult. Right, and when you went you came away full of energy, feeling that when you got back you could do a bit more of every kind of open source thing. Audrey and we have collaborated in all sorts of ways in [g0v](https://g0v.tw/), and in the Sunflower Movement. In 2016 she became Digital Minister, then later Minister of Digital Affairs, and now she is Ambassador-at-Large. Right, someone asked: what is Audrey’s main mission now? So perhaps we can talk about that in a moment.
+
+And the other is Tenzin Yangtso, Audrey’s principal discussant and collaborator today. It feels as though all the work of putting things on the ground has been handed to you, including the book everyone wrote together. What’s very interesting here is Tenzin Yangtso on data soil and so on; we very much want to understand that.
 
 ## As the Boundaries Between Five Roles Dissolve
 
 ### Audrey Tang:
+
+Good afternoon, everyone. I’m delighted to see you all here in person at Platform rather than as projections. The resolution is much higher than it was on that screen.
 
 At the very beginning, you saw a 2-by-2 grid projected on the screen, headed “[You Are Here](https://reversealignment.ai/events/you-are-here/).” That is because when you registered on the [Luma](https://luma.com/pzkyaeuz) page, it asked, “What are you most concerned about right now? What question do you most want to ask?” We sorted the answers roughly into four quadrants. Some of you build things—the [Tamkang Bridge](https://djbridge.thb.gov.tw/) is one—for great numbers of people you will never meet. Others design institutions for great numbers of people they will never meet. But about a quarter of you build things only for the people you do know, the people beside you. And some of you walk alongside family and others close to you, designing institutions for the people you actually know.
 
