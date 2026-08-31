@@ -1,6 +1,7 @@
-# 2026-08-29 Platform Originals：對齊的另一面
+# 2026-08-29 Platform Originals: The Other Side of Alignment
 
-> （「[反向對齊](https://reversealignment.tw/)」如何重設制度、流程與 AI 基礎設施，使人與社群保有理解、質疑、修改、修復與離開的能力？）
+> (How does “[Reverse Alignment](https://reversealignment.ai/)” reset institutions, processes, and AI infrastructure so tha
+t people and communities retain the ability to understand, question, modify, repair, and exit?)
 
 ### Host:
 
