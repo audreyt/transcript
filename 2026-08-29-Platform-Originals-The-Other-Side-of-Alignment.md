@@ -1,5 +1,7 @@
 # 2026-08-29 Platform Originals: The Other Side of Alignment
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w19xgnQNZYU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
 > (How does “[Reverse Alignment](https://reversealignment.ai/)” reset institutions, processes, and AI infrastructure so tha
 t people and communities retain the ability to understand, question, modify, repair, and exit?)
 
