@@ -1,5 +1,7 @@
 # 2026-08-29 Platform Originals：對齊的另一面
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w19xgnQNZYU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
 > （「[反向對齊](https://reversealignment.tw/)」如何重設制度、流程與 AI 基礎設施，使人與社群保有理解、質疑、修改、修復與離開的能力？）
 
 ### 主持人：
