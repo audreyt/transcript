@@ -571,9 +571,15 @@ export async function runSync(
       continue;
     }
 
+    const beforeMarkdown = readFileAtRef(beforeSha, relativePath, workspace, git);
+    const previousTitle = beforeMarkdown
+      ? beforeMarkdown.split("\n")[0].replace(/^#\s*/, "").trim()
+      : null;
+
     const payload: Record<string, string | null> = {
       filename: relativePath,
       markdown: readWorkspaceFile(absolutePath),
+      previous_title: previousTitle,
       alternate_filename: alternates[relativePath] ?? null,
     };
     if (payload.alternate_filename) {
