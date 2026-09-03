@@ -533,8 +533,48 @@ describe("runSync", () => {
       ),
     ).rejects.toThrow("TOKEN is required");
   });
-});
 
+  test("captures previous_title from before_sha on modified files and sends it in PATCH", async () => {
+    const root = createTempDir();
+    writeFile(root, "2026-03-05-Long-Title.md", "# 2026-03-05 New Title\n\nBody content\n");
+    const diffOutput = ["M", "2026-03-05-Long-Title.md", ""].join("\0");
+    const capturedPayloads: Array<Record<string, unknown>> = [];
+
+    const code = await runSync(
+      {
+        API_ENDPOINT: "https://archive.tw/api/upload_markdown",
+        TOKEN: "secret",
+        GITHUB_WORKSPACE: root,
+        BEFORE_SHA: "before123",
+        AFTER_SHA: "after123",
+      },
+      [],
+      {
+        git: (args) => {
+          if (args[0] === "diff") return diffOutput;
+          if (args[0] === "show" && args[1] === "before123:2026-03-05-Long-Title.md") {
+            return "# 2026-03-04 Old Title\n\nOld body\n";
+          }
+          return "";
+        },
+        fetchImpl: async (req, init) => {
+          if (init?.body) {
+            capturedPayloads.push(JSON.parse(String(init.body)));
+          }
+          return new Response(JSON.stringify({ success: true }), { status: 200 });
+        },
+        sleep: async () => {},
+        stdout: () => {},
+      },
+    );
+
+    expect(code).toBe(0);
+    expect(capturedPayloads).toHaveLength(1);
+    expect(capturedPayloads[0].filename).toBe("2026-03-05-Long-Title.md");
+    expect(capturedPayloads[0].previous_title).toBe("2026-03-04 Old Title");
+    expect(capturedPayloads[0].markdown).toContain("# 2026-03-05 New Title");
+  });
+});
 describe("main and cli", () => {
   test("main reads process-like env", async () => {
     const root = createTempDir();
