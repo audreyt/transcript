@@ -614,7 +614,7 @@ That’s right.
 Are there any other means of your ministerial, or ministry, or any way to offer something as an alternative to mainland China?
 
 ### Audrey Tang:
-Right, many things, actually. I just came back from a workshop in Thailand and also in Addis Ababa, and we are systemically, I wouldn’t say export, introducing this idea of a open governance mechanism.
+Right, many things, actually. I just came back from a workshop in Thailand and also in Addis Ababa, and we are systemically, I wouldn’t say export, introducing this idea of an open governance mechanism.
 
 ### Audrey Tang:
 This, I think is relevant, because that is something that can only…This is not about any particular jurisdiction, but this is a CIVICUS monitor map, about the principle of ensuring freedom of assembly, of speech, and just of agenda-setting from the civil society. This measures what the civil society’s freedom relative to, for example, the administration.

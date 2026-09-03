@@ -206,7 +206,7 @@ There’s three components to this. One component has to do with the ability to,
 Here, this is the most banal example I can use. This is training someone how to replace a Frymaster at McDonald’s. I couldn’t find a more simple example.
 
 ### Dan Lejerskar:
-There’s 36,00 restaurant. You have two people in two different locations. A more simple example is this. This is a company called Aranco. They’re a pretty big company.
+There’s 36,000 restaurant. You have two people in two different locations. A more simple example is this. This is a company called Aranco. They’re a pretty big company.
 
 ### Dan Lejerskar:
 This used to be, at one point, $1.8 million simulator. We’ll start it. This is for your benefit. The volume is on. It’ll come on in a second. It’s gaze controlled.
@@ -326,7 +326,7 @@ That’s the expert. If you look at that device, of course you can switch betwee
 This is your phone.
 
 ### Dan Lejerskar:
-Thank you. You can switch for that. What you see there is the interaction environment. I know that one of your colleagues in Denmark has been dong interaction design.
+Thank you. You can switch for that. What you see there is the interaction environment. I know that one of your colleagues in Denmark has been doing interaction design.
 
 ### Dan Lejerskar:
 We look at templates. What is it normally you do? You dissect. You identify. You can build all these environments, and then publish them seamlessly from a phone, all the way to high-end headsets, so 32 different publishing formats.

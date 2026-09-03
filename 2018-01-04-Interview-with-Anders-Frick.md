@@ -43,7 +43,7 @@ OK, so I’ll just translate everything. That cam is recording this screen, so y
 Which camera is that?
 
 ### Audrey Tang:
-That’s the camera, the one that’s shining green. Transparency for me is a instrument, it is not an end in itself. The end all of transparency, or radical transparency as you put it, is to rebuild trust between the civil society and the government, as well as between different stakeholders in a civil society.
+That’s the camera, the one that’s shining green. Transparency for me is an instrument, it is not an end in itself. The end all of transparency, or radical transparency as you put it, is to rebuild trust between the civil society and the government, as well as between different stakeholders in a civil society.
 
 ### Audrey Tang:
 That is our driving value. Everything that we do is centered around this rebuilding trust. On the civil society side of course, I’m the minister with a portfolio in charge of social innovation and use the empowerment. In that, we try to build a civil society that can look at new issues facing the society.
@@ -61,7 +61,7 @@ In Taiwan, it’s not like that. When we’re saying open data policy or transpa
 The g0v movement takes the idea that any government website that should exist, but doesn’t yet, the civil society make a g0v.tw counterpart. Instead of the .gov government website, you go into the shadow government.
 
 ### Audrey Tang:
-For example, this is what a civil society thinks the government should do, but doesn’t yet. This is the air pollution map of Pinyin, 2.5 as well as other substances in the air. At the moment, there’s only very limited measurement stations set up by the government, and so the resolution, the granularity of data is not so good.
+For example, this is what a civil society thinks the government should do, but doesn’t yet. This is the air pollution map of PM2.5 as well as other substances in the air. At the moment, there’s only very limited measurement stations set up by the government, and so the resolution, the granularity of data is not so good.
 
 ### Audrey Tang:
 This is basically citizen science, people donating their houses, their roofs, the kindergartens, or schools, or whatever, to set up a citizen measurement devices, and sharing the data under a radically transparent way. I think the distinction that we make here is that we see the trust is mutual.
@@ -76,7 +76,7 @@ Nevertheless, it’s based on the same factual data as the government policy mak
 That’s the left side of my work, which is social innovation and used empowerment.
 
 ### Anders Frick:
-May I just stop about with this air population thing?
+May I just stop about with this air pollution thing?
 
 ### Audrey Tang:
 Yes.
@@ -91,7 +91,7 @@ How can that be taken into part in what we just saw here? How can you help build
 No, it’s not by default that just because it’s produced by the citizens that it’s automatically lower quality.
 
 ### Anders Frick:
-No, of course not. I’m talking about the technical device created. I made this myself, a device for â¬30.
+No, of course not. I’m talking about the technical device created. I made this myself, a device for €30.
 
 ### Audrey Tang:
 The air box, something like that?
@@ -226,7 +226,7 @@ My own office, the PDIS office, about 20-something people here, every day we sta
 As we can see, for example, this is one of our websites. As part of this website we can see exactly who is responsible for which we redesign action, how complete it is, and things like that.
 
 ### Audrey Tang:
-Basically, this enables a culture, what we call working out loud, meaning that people who don’t have a direct reporting relationship nevertheless has this ambient feeling of what everybody is up to. When there’s a ad hoc group that needs to be formed, we can very easily form on a chat room, or on a shared mind map, or whatever here.
+Basically, this enables a culture, what we call working out loud, meaning that people who don’t have a direct reporting relationship nevertheless has this ambient feeling of what everybody is up to. When there’s an ad hoc group that needs to be formed, we can very easily form on a chat room, or on a shared mind map, or whatever here.
 
 ### Anders Frick:
 To what extent is this used by other departments as well? Or, is it just your department or others?
@@ -262,7 +262,7 @@ That’s one of the things that they asked. When we built the social innovation 
 The software was co-designed by more than a hundred social entrepreneurs, social innovators. They asked for a kitchen. We got a kitchen. They asked for a room with whiteboards and with no tables. We got this ideation room. They ask for a green screen and livestreaming equipment. We have that.
 
 ### Audrey Tang:
-Software-wise, they ask for two things. First that they ask that it opens until midnight. Now, it’s open from 7 to 11 in the midnight. Then, they asked that for me and responsible ministries to send their window to social enterprise policy-making into the service office. They ask for office hours, because it’s also a accelerator or incubator for social innovators. It’s natural that mentors have office hours.
+Software-wise, they ask for two things. First that they ask that it opens until midnight. Now, it’s open from 7 to 11 in the midnight. Then, they asked that for me and responsible ministries to send their window to social enterprise policy-making into the service office. They ask for office hours, because it’s also an accelerator or incubator for social innovators. It’s natural that mentors have office hours.
 
 ### Audrey Tang:
 That’s what they asked, and so that’s what I deliver. Every Wednesday technically, if you look at the se.pdis.tw, which is our social enterprise portal, you can see that the social innovation lab actually has a Audrey is always here timetable which shows exactly when I’m here.
@@ -286,7 +286,7 @@ Due to the way the current generation of social media is designed, it’s easier
 It means that counter-power is easier to manufacture on social media than power, because for power, you have to actually understand what’s at stake for the stakeholders. For counter-power to assemble, all you have to do is point at one example and incite outrage among that photo or among that idea.
 
 ### Audrey Tang:
-We have a e-petition system. For example, there is a petition saying we have a explosively user hostile tax reporting system. That’s perhaps not an exaggeration. Maybe, it really does take four hours or whatever for a Mac or a Linux user to finish their tax reporting online as compared to a Windows user which only takes maybe 20 minutes. Mac and Linux users are used to better user experiences. It’s doubly insulting for them.
+We have an e-petition system. For example, there is a petition saying we have an explosively user hostile tax reporting system. That’s perhaps not an exaggeration. Maybe, it really does take four hours or whatever for a Mac or a Linux user to finish their tax reporting online as compared to a Windows user which only takes maybe 20 minutes. Mac and Linux users are used to better user experiences. It’s doubly insulting for them.
 
 ### Audrey Tang:
 It’s very easy for this kind of messages to go viral, because people all have the experience of filing taxes. Also filing taxes are not usually associated with a pleasant feeling. It’s very easy for people to feel for this petitioner, and for the social media to fill with counter-power messages that blames the vendor, for example.
@@ -322,7 +322,7 @@ This is what we call radically trusting the civil society. We trust the people w
 If we shift a little bit to open data, what is the most important do in order to publish more and relevant open data? What would you say?
 
 ### Audrey Tang:
-I think I did answer that. First, by making the data flow part of the administrative workflow, and then by changing the procurement rules, so that it doesn’t take a extra step of processing, but actually it produces structured data just as part of the procurement.
+I think I did answer that. First, by making the data flow part of the administrative workflow, and then by changing the procurement rules, so that it doesn’t take an extra step of processing, but actually it produces structured data just as part of the procurement.
 
 ### Anders Frick:
 Also I would like to add how can...Because sometimes when you publish open data, it’s not used. You publish something, but it’s not used, or it’s not used very much. How do you find which data that could be most relevant to publish as open data?
@@ -457,7 +457,7 @@ Yeah.
 As experiments or as smaller scale test fields or as referendum subjects, we see more and more of that popping up. If you ask this question in the idea of within a century, or within 500 years, or in one of the planets in the galaxy, I’m pretty sure that it will happen in one way or the other. I don’t really know where it will happen first.
 
 ### Audrey Tang:
-I do know that we need to separate the idea of work and tasks in order for this to happen. If people identify with particular task and the skills associated with that task and take too much pride into it. Then, universal basic income will be seen as a attack on this proudness of working by really task-performing person.
+I do know that we need to separate the idea of work and tasks in order for this to happen. If people identify with particular task and the skills associated with that task and take too much pride into it. Then, universal basic income will be seen as an attack on this proudness of working by really task-performing person.
 
 ### Audrey Tang:
 If people used to work as completing life’s work, or doing something that has a positive social impact, then any automation is just fuel to this life’s work. Then, people will be much more accepting of universal basic income. There’s a cultural change that needs to happen before the economic change could happen.
@@ -551,7 +551,7 @@ We don’t see ourselves as a Shan chai or a copy of Silicon Valley in Asia. Tha
 How can the digital revolution affect the global and local economy?
 
 ### Audrey Tang:
-First, there’s not just one digital revolution. There’s many digital revolutions, one riding on the wave of another. You just look at the life cycle, there’s a bunch of revelations coming up.
+First, there’s not just one digital revolution. There’s many digital revolutions, one riding on the wave of another. You just look at the life cycle, there’s a bunch of revolutions coming up.
 
 ### Audrey Tang:
 I think by far, the most important thing is that it enables people to think about equality, in a way that is currently imaginable, but a hundred years ago was unimaginable. When we talk about, for example, regional balance or equality of education, for example, people wait on high-speed rails or waiting on roads, going to their homes and so on.

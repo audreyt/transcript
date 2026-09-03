@@ -213,7 +213,7 @@ You can see this particular one still have 58 adult masks and 196 children’s m
 Unlike pretty much any jurisdiction which publishes only every day or every week, we publish every 30 seconds. Once we do that, it become like a distributed ledger in which people can just go to a nearby pharmacy, swipe their NHI card, expect this number after a couple of minutes to become 49, because there’s 9 masks if you’re adult or 10 if you’re a child.
 
 ### Audrey Tang:
-If it doesn’t decrease but rather increase, they will call 1923 right there and say something is wrong with the rationing system. It keeps everybody honest. On the day of launch, we have two maps and one chat bot. Just a week after, we have more than 100 tools taking care of, for example, people with blindness and so on.
+If it doesn’t decrease but rather increase, they will call 1922 right there and say something is wrong with the rationing system. It keeps everybody honest. On the day of launch, we have two maps and one chat bot. Just a week after, we have more than 100 tools taking care of, for example, people with blindness and so on.
 
 ### Ann Chen:
 These were all created just by people in the public?
@@ -535,7 +535,7 @@ The exact number.
 Cool. That’s helpful. Can you describe to me a bit your ministry’s role and your team’s role in this whole ecosystem?
 
 ### Audrey Tang:
-We’re a office with secondments from 12 or so ministries. There’s no single ministry. Every ministry may send up to one secondment to my office. They’re still working for their ministries’ work, but they agree to work out loud. Meaning that not afraid of letting other ministries know what they’re working on. It’s more like a horizontal leadership thing.
+We’re an office with secondments from 12 or so ministries. There’s no single ministry. Every ministry may send up to one secondment to my office. They’re still working for their ministries’ work, but they agree to work out loud. Meaning that not afraid of letting other ministries know what they’re working on. It’s more like a horizontal leadership thing.
 
 ### Audrey Tang:
 The main point here is that when people discover that there’s a better practice in some other ministry, they can learn very easily on this network. That’s the core of our office. In each ministry, there’s also a team of participation officers. Some of them live with a dog and take picture of their dog.
@@ -577,10 +577,10 @@ Digital fence basically says, “OK, it’s your phone, or if you don’t have a
 The three nearby cell phone towers, if you draw the distance in three circles, it’s called triangulation, then those three circles will meet at one point. That’s where the phone is. Because of the nature of cell phone transmission, it’s not very precise, even in the urban areas. It only knows in 50-meter radius or so. A very rough estimation.
 
 ### Audrey Tang:
-It’s more privacy-preserving in two accounts. First, it’s not GPS. We’re not asking you to install a app that reports GPS, because the GPS would know in which room you’re in in your household. We don’t need to know that information. That’s the first thing. The second thing is that the cell phone operators aren’t collecting this anyway. This is not new information being collected.
+It’s more privacy-preserving in two accounts. First, it’s not GPS. We’re not asking you to install an app that reports GPS, because the GPS would know in which room you’re in in your household. We don’t need to know that information. That’s the first thing. The second thing is that the cell phone operators aren’t collecting this anyway. This is not new information being collected.
 
 ### Audrey Tang:
-Even the SMS that’s sent when your phone moves out of the digital fence to the local household managers or local police. These are already a well-understood system called cell broadcasting. Like after an earthquake, if you’re in a area that’s dangerous because of landslide potential, you get such a SMS, or, if there’s a typhoon and you’re in a flood area, and so on.
+Even the SMS that’s sent when your phone moves out of the digital fence to the local household managers or local police. These are already a well-understood system called cell broadcasting. Like after an earthquake, if you’re in an area that’s dangerous because of landslide potential, you get such a SMS, or, if there’s a typhoon and you’re in a flood area, and so on.
 
 ### Audrey Tang:
 People understand intuitively how that works. Instead of collecting new data or requiring you to install a new app, we repurpose exists existing data collected and existing notification mechanisms to create something that people are more comfortable with.

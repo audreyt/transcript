@@ -352,7 +352,7 @@ That’s the idea. Then after three months of intensive collaboration, maybe fiv
 We have now the justification saying, &quot;We should hire more people with these skill sets.&quot; The president herself gave out trophy awards. That is a hack, really, to try to circumvent the existing bureaucratic structure of reporting, and then really promote social innovation at the core front line staff level.
 
 ### Audrey Tang:
-The judge panel includes the CIO of local city governments, including digital minister, including the director MIS and National Human Council, including people from Academy Seneca, from the social impact people.
+The judge panel includes the CIO of local city governments, including digital minister, including the director MIS and National Development Council, including people from Academia Sinica, from the social impact people.
 
 ### Audrey Tang:
 Basically, we have people of all the different sectors, related to all the different stagings. If some issue or some proposal is flagged by anybody in a judge panel as infeasible, not innovative, or whatever, we will actually have a face-to-face discussion right here in the social innovation lab, actually, about the feasibility.
@@ -394,7 +394,7 @@ A lot. For example, we pioneered the idea of the teleworking intern, which was a
 What’s that?
 
 ### Audrey Tang:
-An intern is someone who works in the office of a public service agency, such as your or somebody else’s linking profile. A teleworking intern is someone who can work at home. We have a teleworking rule. That’s part of one vTaiwan’s deliverables back in 2015.
+An intern is someone who works in the office of a public service agency, such as your or somebody else’s LinkedIn profile. A teleworking intern is someone who can work at home. We have a teleworking rule. That’s part of one vTaiwan’s deliverables back in 2015.
 
 ### Audrey Tang:
 Applying that rule, anyone can work at any place, satisfying some requirements. The internship program of the government agencies, funded by the Youth Development Agency, the YDA, has never connected with the teleworking initiative.

@@ -302,7 +302,7 @@ Most importantly, instead of protesting, they can demonstrate better versions by
 
 That there is a real data bias going on, because we thought pharmacies overlap directly with population distribution so just by distributing into the pharmacies will be fair. Each person on the map is on average, the same distance from next available mask, which is what we optimized for.
 
-OpenStreetMap analyzed the transportation because they have the transportation records of the public transportation, and concluded along with a MP, concluded that is not the same because not everyone own a helicopter.
+OpenStreetMap analyzed the transportation because they have the transportation records of the public transportation, and concluded along with an MP, concluded that is not the same because not everyone own a helicopter.
 
 If you have to take public transportation, especially in more rural places by the time you get to the pharmacy, it's already closed so, there's a gaping hole in the state's algorithm for distribution.
 

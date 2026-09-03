@@ -16,7 +16,7 @@ I was wondering, just starting from when you guys tapped in to the effort, if yo
 Sure. One of the most important ideas is about this OpenAPI, which is making available, for example, the amount of mask in each pharmacy every 30 seconds. We call it OpenAPI because it’s refreshing almost real-time. If we had published it once a day, that’s just open data. There’s a real difference, even though that it is, of course, still open data that we’re pushing out.
 
 ### Audrey Tang:
-According to most of the other counties for the Information Acts, usually, those data will pass a human review, which necessitates a longer publishing schedule, like once per week or, at most, once per day. This person has to review it every day before it tallies at the end of the day.
+According to most of the other countries for the Information Acts, usually, those data will pass a human review, which necessitates a longer publishing schedule, like once per week or, at most, once per day. This person has to review it every day before it tallies at the end of the day.
 
 ### Audrey Tang:
 By publishing every 30 seconds, we’re essentially saying that this is machine to machine. It doesn’t go through a human review. It says that we can’t even hide any glitches from the general public.
@@ -408,7 +408,7 @@ In the scheme of escalating US-China tensions, we have an election coming up. Th
 I wonder if you could say a little more about where Taiwan’s place is in all of this.
 
 ### Audrey Tang:
-I’ll use a example, because I didn’t talk about the parliament in all our interviews. I feel that there is something missing there. I remember a time when we – I think it was also during late February-ish – when there’s a mask map from a team called Geobingan, G-E-O-B-I-N-G-A-N.
+I’ll use an example, because I didn’t talk about the parliament in all our interviews. I feel that there is something missing there. I remember a time when we – I think it was also during late February-ish – when there’s a mask map from a team called Geobingan, G-E-O-B-I-N-G-A-N.
 
 ### Audrey Tang:
 They are the first mask availability map that shows not only each individual pharmacies, but also the trend. You can zoom out and see whether the north side have more supply left than the south side of Taiwan.

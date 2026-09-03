@@ -821,7 +821,7 @@ Of arts, yeah.
 Why did they invite you?
 
 ### Audrey Tang:
-Invited me? Because I was considered a expert in that particular field I guess, and I spoke Mandarin, which was a plus. Then I introduced all these open‑source tools that they can run inside intranet, which is an extra plus. I wasn’t personally there in the flesh. I was a robot, a virtual avatar and everything.
+Invited me? Because I was considered an expert in that particular field I guess, and I spoke Mandarin, which was a plus. Then I introduced all these open‑source tools that they can run inside intranet, which is an extra plus. I wasn’t personally there in the flesh. I was a robot, a virtual avatar and everything.
 
 ### Audrey Tang:
 There’s a lot of ideas and thoughts. It’s not just to Hangzhou students. It’s also linked to a Kaohsiung classroom. It’s a three place connection kind of thing.
@@ -1025,7 +1025,7 @@ On the registration document. As a minister I have to register my personal detai
 They have this field, like &quot;no,&quot; &quot;none’?
 
 ### Audrey Tang:
-It’s a input field. I can write anything, and it’s next to the party field.
+It’s an input field. I can write anything, and it’s next to the party field.
 
 ### Max Kalkhof:
 Nobody said something? It was accepted? Everybody was fine?

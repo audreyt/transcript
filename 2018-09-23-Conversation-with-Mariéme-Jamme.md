@@ -850,7 +850,7 @@ g0v. You can go to g0v.tw, but there’s many other chapters, g0v.asia...Yeah, g
 We should have this .africa. We should have this for Africa.
 
 ### Audrey Tang：
-Yes. Whenever we travel, like when I go to Italy there’s now g0v Italy, \[laughs\] because as you can see, you don’t need a license from us. The logo is not trademarked. This is just a idea, and you can basically join however you want.
+Yes. Whenever we travel, like when I go to Italy there’s now g0v Italy, \[laughs\] because as you can see, you don’t need a license from us. The logo is not trademarked. This is just an idea, and you can basically join however you want.
 
 ### Audrey Tang：
 This summit has 23 countries coming, and they all share in the same way of -- what we call -- forking the government, taking a government service, making it better, relinquish the copyright, be the government.

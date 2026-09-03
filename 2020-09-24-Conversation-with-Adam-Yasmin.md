@@ -132,7 +132,7 @@ Usually, I use the Ursula Le Guin translation because I think it’s more poetic
 The idea is, to quote Tao Te Ching, the 39th chapter, “Heaven through its wholeness is pure; earth through its wholeness is steady; spirit through its wholeness is potent. The valley through its wholeness flows with rivers; the ten thousand things through their wholeness live. Rulers through their wholeness have authority; their wholeness makes them what they are.”
 
 ### Audrey Tang:
-A very interesting thing is, to me, the quotation, the line in it that says, “The valley through its wholeness flows with rivers.” Not for the rivers, not by the rivers, \[laughs\] not of the rivers, but with the rivers. This is the very Taoist notion of making a space, not a object. The space contains objects, but does not belong to any particular object.
+A very interesting thing is, to me, the quotation, the line in it that says, “The valley through its wholeness flows with rivers.” Not for the rivers, not by the rivers, \[laughs\] not of the rivers, but with the rivers. This is the very Taoist notion of making a space, not an object. The space contains objects, but does not belong to any particular object.
 
 ### Audrey Tang:
 The potentials can realize themselves, actualize themselves without being foreclosed by whichever object was in the valley, so to speak. It could be, of course, a real valley in a face-to-face setting for carbon-based life forms, or it could be a silicon valley for digital forms of expressions.
@@ -413,7 +413,7 @@ At this time, they were saying we’re a mere country, we don’t need things li
 Also, in Taiwan campaign donation can only be donated by citizens and certainly not by foreign citizens or foreign governments for that matter. There’s a strong backlash against Facebook in particular, but also other global social media platforms.
 
 ### Audrey Tang:
-I basically did a trade negotiation with them. It was very interesting because I see them as semi-soverign -- well they were at a time considering printing their own money, so semi-soverign is just right -- entities, or at least governors.
+I basically did a trade negotiation with them. It was very interesting because I see them as semi-sovereign -- well they were at a time considering printing their own money, so semi-sovereign is just right -- entities, or at least governors.
 
 ### Audrey Tang:
 When I understand that we present the societal norm and not represent my own interest, it does puts me in a very strong negotiation position because my BATNA or my best alternative to a failure of negotiation is just social sanction. In Taiwan social sanction works much more powerfully than any legal action that could be done by the government.

@@ -28,13 +28,13 @@ Please, take a seat.
 I am a CEO of IDEAPOST and we are working as a consultant, and our client is Fukuoka D.C. which is very close to Fukuoka City. Before, I supported to have MOU on Innovation and Entrepreneurship between Taipei City and Fukuoka City. MOU details: [https://bit.ly/2JrzsTh](https://bit.ly/2JrzsTh)
 
 ### Yuta Hirayama:
-Then I found that startup companies want to expand their business to Japan, but they don’t have information about expand their business to Japan, itis quite difficult to understand the Japan business culture, custom and so on. So, we provides those information like marketing research, report and actual support when they start their business in Japan.
+Then I found that startup companies want to expand their business to Japan, but they don’t have information about expand their business to Japan, it is quite difficult to understand the Japan business culture, custom and so on. So, we provides those information like marketing research, report and actual support when they start their business in Japan.
 
 ### Audrey Tang:
 The points of presence of strategies?
 
 ### Yuta Hirayama:
-...list some approachable customers, and then approach. After that, they will need to establish a company in Japan. So, my point is like, if they hire the person in Japan, or send the person to Japan, it leads to continuous expenditure and costs a lot. I t is also difficult to manage it. On the other hand, If they use our service, it’s more reasonable. We provide first six months program include marketing, lists potential customers, approach with them. This is my point, and then we are about to start this business in Taiwan now.
+...list some approachable customers, and then approach. After that, they will need to establish a company in Japan. So, my point is like, if they hire the person in Japan, or send the person to Japan, it leads to continuous expenditure and costs a lot. It is also difficult to manage it. On the other hand, If they use our service, it’s more reasonable. We provide first six months program include marketing, lists potential customers, approach with them. This is my point, and then we are about to start this business in Taiwan now.
 
 ### Audrey Tang:
 That sounds great. How many people in a cohort over six months do you support?
@@ -63,7 +63,7 @@ Several hats?
 > (laughter)
 
 ### Yuta Hirayama:
-In addition, from April, I’ll be a visiting associate professor at Nagoya Univerisity.
+In addition, from April, I’ll be a visiting associate professor at Nagoya University.
 
 ### Audrey Tang:
 Congrats!
@@ -99,7 +99,7 @@ Wow.
 People who cannot join me through the high-speed rails, they are here, and we do video conference. Just yesterday, I was in Hualien in a video conference with 12 ministries here in Taipei. It is a virtual team that spans 12 different ministries. We also incubate a cohort of maybe 20 companies or teams every six months this way.
 
 ### Yuta Hirayama:
-This is good. Actually, the Fukuoka City is a special economic zone in Japan for startups, so this is the point. New technology service like Uber or Airbnb, or Unmanned car or Drone or whatever, always face regulation problem, however, we can try to deregulate those rules or regulation. Because we have a special economic zone for startups. That is the point. Actually, I’m working as a consultant to support them. How to deregulate those rules..This is my main job, the high-end main work \[laughs\] is that. I’m in charge of that in the organization. I think my job and this lab&quot;s purpose is very close, I think.
+This is good. Actually, the Fukuoka City is a special economic zone in Japan for startups, so this is the point. New technology service like Uber or Airbnb, or Unmanned car or Drone or whatever, always face regulation problem, however, we can try to deregulate those rules or regulation. Because we have a special economic zone for startups. That is the point. Actually, I’m working as a consultant to support them. How to deregulate those rules..This is my main job, the high-end main work \[laughs\] is that. I’m in charge of that in the organization. I think my job and this lab's purpose is very close, I think.
 
 ### Audrey Tang:
 Yeah, where we’re connectors and catalysts. I think Japan used to have one of the most difficult to enter immigration...
@@ -151,7 +151,7 @@ Can you share some experience of how you build the Fukuoka Special Zone, I mean 
 Yeah, Fukuoka. How to build. This is difficult to answer. But Fukuoka City and Fukuoka D.C. had submitted the application for special economic zone for startups in 2013. Then the national government approved Fukuoka City as a special economic zone in 2014.
 
 ### Yuta Hirayama:
-Before, Japan is one of the most difficult country to get a working VISA, however, thanks to special economic zone for startups, Fukuoka city started tp provide startup VISA for foreign Entrepreneurs. This is very good outcome of Special economic zone for Fukuoka city.
+Before, Japan is one of the most difficult country to get a working VISA, however, thanks to special economic zone for startups, Fukuoka city started to provide startup VISA for foreign Entrepreneurs. This is very good outcome of Special economic zone for Fukuoka city.
 
 ### Yuta Hirayama:
 You know, we argued that always new technology face regulation problems right?, and it is very difficult to test in Tokyo because it is too big to test, however, Fukuoka city is the best place to those test it. This is also the important point.

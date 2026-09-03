@@ -818,7 +818,7 @@ To promote the charities?
 Yes. To promote the charities, to spread awareness for causes like autism, for example, on kids.
 
 ### Audrey Tang:
-Personally, I’m on Medium now. I have my own blog in my office, blog.pdis.tw. What I’m seeing is that people is very much willing to write on forum but a old way of segregators and so on doesn’t scale that well and it doesn’t solve the discovery problem which is why people converge to a more centralized Medium.
+Personally, I’m on Medium now. I have my own blog in my office, blog.pdis.tw. What I’m seeing is that people is very much willing to write on forum but an old way of segregators and so on doesn’t scale that well and it doesn’t solve the discovery problem which is why people converge to a more centralized Medium.
 
 ### Ryan Chang:
 What do you think about Medium as a platform? I think they’re recently going changes where they’re pushing a paid version.
@@ -983,7 +983,7 @@ It will be the guideline for recognizing social innovative organizations.
 It’s like a type of company that...
 
 ### Audrey Tang:
-It could be company. It could be co-op. It could be a NGO. In the US, actually charities are a form of company that have to fit a certain 501 code of tax. What we’re saying is that if you declare your public purpose, you deliver your public reports, you do your, what is it called...?
+It could be company. It could be co-op. It could be an NGO. In the US, actually charities are a form of company that have to fit a certain 501 code of tax. What we’re saying is that if you declare your public purpose, you deliver your public reports, you do your, what is it called...?
 
 ### Audrey Tang:
 ...benefit reports. Then whether you’re a company or NGO, or whatever, we recognize you as a social innovation organization.

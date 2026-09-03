@@ -142,7 +142,7 @@ The main idea, the focus, is fairness. For example, when we ramped up the facial
 In most government bureaucracies, we publish at the end of the day because you want somebody looking at the numbers to make sure that it hasn’t gone horribly wrong, or wrong by orders of magnitude, or things like that. We connect directly to NHI, the National Health Insurance system to open data.
 
 ### Audrey Tang:
-Everybody in the world has access to all the stock level almost like a distributor ledger every three minutes. That’s why g0v and many community contributors builds more than 130 tools that enable people who prefer view maps to view where are the nearest pharmacy that still have this medical mask in stock.
+Everybody in the world has access to all the stock level almost like a distributed ledger every three minutes. That’s why g0v and many community contributors builds more than 130 tools that enable people who prefer view maps to view where are the nearest pharmacy that still have this medical mask in stock.
 
 ### Audrey Tang:
 People with blindness can look at a table or hear from the voice assistance, or people who are using will need to enter into an encrypted system called Line. It’s like WhatsApp. There’s also a bot that is very popular, often can get the same inclusive access to the information about which pharmacist near them still do have the mask.
@@ -334,7 +334,7 @@ There’s a lot of creativity and innovation across the board in the US, Taiwan,
 That’s interesting. What has been the role of citizen hackers in this? I feel like you’ve mentioned that a lot. Hackers is not the right word, but citizen developers.
 
 ### Audrey Tang:
-Civic hackers. We used to call the technologies that the civic hackers make civic tech, meaning that everybody can participate. This is the first time that they think that they’re actually civil engineers, as in like the pharmacy mask map that they produced is used by over half of the population, making it as much a infrastructure as roads and bridges.
+Civic hackers. We used to call the technologies that the civic hackers make civic tech, meaning that everybody can participate. This is the first time that they think that they’re actually civil engineers, as in like the pharmacy mask map that they produced is used by over half of the population, making it as much an infrastructure as roads and bridges.
 
 ### Audrey Tang:
 They’re both civic tech technologists in the sense that everybody can participate in an open fashion, but also civil engineers in the sense that everybody is making full use of the code that they produced. I think it’s important not only as a data publishing tool, but also analysis as well.

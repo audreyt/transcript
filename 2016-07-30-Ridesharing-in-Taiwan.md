@@ -4,7 +4,7 @@
 Tell me a bit about yourself — how do you get into this community of civic tech and open data?
 
 ### Audrey Tang:
-I started working with internet tech since 1993, initially with Gopher and then with World Wide Web invited in 1994–95 switched to it. I started a few internet startups and worked as a web tech entrepreneur &amp; also with free software movement for 20 years, retired in 2013, and now works full-time on civic tech as a hobby.
+I started working with internet tech since 1993, initially with Gopher and then with World Wide Web invented in 1994–95 switched to it. I started a few internet startups and worked as a web tech entrepreneur &amp; also with free software movement for 20 years, retired in 2013, and now works full-time on civic tech as a hobby.
 
 ### Leila Collins:
 Does most of your work focus in Taiwan?

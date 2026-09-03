@@ -335,7 +335,7 @@ And so, one, it allowed us to work a little bit with one vendor and then move ov
 There's a hobbyist group here in Taiwan.
 
 ### Tim Van Name:
-Oh, is there really? Okay yeah, so the Snowmobilers in Canada is one of the most active groups on our open-source page when we pushed it out there. But what I really love about the TAK product family is that that software has about eight vendors who regularly contribute to it, paid for by the US government. And it’s incredibly robust, it sounds like even here in Taiwan, there is a open-source community. And that to me represents sort of the pinnacle of how software development should happen into the future.
+Oh, is there really? Okay yeah, so the Snowmobilers in Canada is one of the most active groups on our open-source page when we pushed it out there. But what I really love about the TAK product family is that that software has about eight vendors who regularly contribute to it, paid for by the US government. And it’s incredibly robust, it sounds like even here in Taiwan, there is an open-source community. And that to me represents sort of the pinnacle of how software development should happen into the future.
 
 ### Audrey Tang:
 Yeah, definitely. And I totally agree that this almost forced interoperability between firewall vendors or whatever vendors, that creates the space for open-source community. Because if it's so tightly integrated that it has to be reverse engineered, no community members will even take a look at it. So, I think this convening factor also is an interoperating factor. And I think we can learn a lot from your previous experiences in actually enabling this, not just for the core communication needs, but also just as part of our procurement process. That would be ideal.

@@ -98,7 +98,7 @@ There’s a little this thing that looks like a filmmaker’s apparatus, that’
 ### Aviv Ovadya:
 No, my video is on. You can see me from what I understand.
 
-### Pen-wen Lin :
+### Pen-wen Lin:
 You see yourself in a very tiny box on the upper right.
 
 ### Aviv Ovadya:

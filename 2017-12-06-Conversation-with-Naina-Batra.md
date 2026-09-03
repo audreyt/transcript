@@ -49,7 +49,7 @@ We’ve actually signed an MOU with GSG. GSG is actually one of our members. As 
 You know how it is. You have been very familiar with the Social Enterprise World Forum. It is important for social enterprises to have access to different types of capitals. At AVPN we try and connect them to these different pools of capital. We see impact investing as being one more type of capital.
 
 ### Audrey Tang:
-That’s great. In Taiwan impact investing is what people very much care for, but because of regulatory and legislative lagging behind it’s not growing as fast as other Asian countries. Now we’re just cleared the most important, the Company Act. It’s not blocking the impact investing anymore, then we’re adding to it a impact investing friendly SME related law, as well as other laws in that ballpark.
+That’s great. In Taiwan impact investing is what people very much care for, but because of regulatory and legislative lagging behind it’s not growing as fast as other Asian countries. Now we’re just cleared the most important, the Company Act. It’s not blocking the impact investing anymore, then we’re adding to it an impact investing friendly SME related law, as well as other laws in that ballpark.
 
 ### Audrey Tang:
 Now we have the regulatory vehicles. Now what we need is the know how of how to operate those vehicles from our international counterparts. We’re naturally very much interested. We’re also having an Asia Pacific forum about social enterprises, including investment, next May. In May 5th and May the 6th.

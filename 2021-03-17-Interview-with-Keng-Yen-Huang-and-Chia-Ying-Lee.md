@@ -761,7 +761,7 @@ We have the official diplomatic relation with one plus half country there. [laug
 The work speed is so much faster here. The partnership, learning from my US colleague and do it locally, that would be an ideal partnership. It could be a much faster way of scaling.
 
 ### Audrey Tang:
-We have a representative office in the Somaliland, but the official embassy, the only one, is in Eswatini. There are some pretty good continuous education, life-long education job training and so on going on in Eswatini. That's through the ICDF it's a NGO by itself, and it also does crowdfunding in Zeczec.
+We have a representative office in the Somaliland, but the official embassy, the only one, is in Eswatini. There are some pretty good continuous education, life-long education job training and so on going on in Eswatini. That's through the ICDF it's an NGO by itself, and it also does crowdfunding in Zeczec.
 
 The ICDF is probably the community to talk to, to do work there. The access to Africa, as opposed to say the Caribbean or the Pacific Islands, are more limited from what I've gathered.
 

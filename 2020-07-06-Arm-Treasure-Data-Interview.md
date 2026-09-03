@@ -55,7 +55,7 @@ In a sense, my position here is just continuing the work that I worked as a reve
 I’ve distill it down to three factors – the fast, fair, and fun. On the first factor, for example, every Wednesday, anyone can come to my office and talk about anything. They don’t even need to book my time. If they have an idea, within the next week, that become new policy, and I will let them know.
 
 ### Audrey Tang:
-For example, our recent stimulus package did not have a option where you can get cash from ATM, but because someone visited me and said, “Why don’t you just give people money through the ATM,” that’s become now a option. People understand when they have a good idea, it’d just take a week or even just a few days before it become policy.
+For example, our recent stimulus package did not have an option where you can get cash from ATM, but because someone visited me and said, “Why don’t you just give people money through the ATM,” that’s become now an option. People understand when they have a good idea, it’d just take a week or even just a few days before it become policy.
 
 ### Audrey Tang:
 To be precise, starting next Wednesday, if you go outdoor instead of on the ecommerce, if you go outdoor and spend ¥10,000, you can go to the nearby ATM in another week to get back the cash, about two-thirds of that back. That’s how we deliver the stimulus package.
@@ -118,7 +118,7 @@ Before we talk about data, let’s talk about labor. Before the invention of uni
 Each employee at that point, there were no ideas about knowledge management or knowledge worker. Each employee is treated more or less interchangeable with any other employee.
 
 ### Audrey Tang:
-That is to say people become reified, become like a object, because they were traded only by the dollar value of their labor without thinking about how social innovation, that is to say innovation organization can enable people to work better together as a organization instead of as atomized individuals.
+That is to say people become reified, become like an object, because they were traded only by the dollar value of their labor without thinking about how social innovation, that is to say innovation organization can enable people to work better together as an organization instead of as atomized individuals.
 
 ### Audrey Tang:
 As you can see, when people intentionally provide opinion, that’s your graphic on the right, people understand they’re participating in the democracy. On the other hand, if people are just being monitored or surveilled, they’re not in a democracy. They could be in a totalitarian regime.
@@ -178,7 +178,7 @@ The question we want to ask is this. Who should own data? The completeness of da
 In order for government or anyone who collects data to avoid authoritarianism or to avoid abuse of use of data, what would be needed? We imagine that one of your response would be that the social sector should be in an important role. We also expect probably from what you said, accountability is a key point for this. Audrey, what do you think should happen in terms of centralizing and fairness of data?
 
 ### Audrey Tang:
-I will, again, use labor as a example. Of course, before we have all these telecommunication technology, everybody working in the same place is more effective. Nobody will dispute it. However, there is a limit.
+I will, again, use labor as an example. Of course, before we have all these telecommunication technology, everybody working in the same place is more effective. Nobody will dispute it. However, there is a limit.
 
 ### Audrey Tang:
 It’s not just, say, you put thousands of people in the same room, they will magically work better. Or, if everybody worked very long hours, 20 hours a day or 23 hours a day, they will work better. It’s not like that. In fact, if you only have volume and velocity, but if you don’t have veracity or quality, then it’s as good as, I don’t know, karoshi or something when it comes to labor.
@@ -313,7 +313,7 @@ Just by remixing this culture is easier than if you have to start learning a new
 Each of those communities that I referred to before served as hubs that connect people together in a small world network. Of course, there is already a established theory about network robustness. I will not quote the textbooks.
 
 ### Audrey Tang:
-Please feel free to introduce the audience about network robustness and design. This applies to human network, as well as to computer networks. For a old but useful exposition on this, you can read Clay Shirky, “Here Comes Everybody.”
+Please feel free to introduce the audience about network robustness and design. This applies to human network, as well as to computer networks. For an old but useful exposition on this, you can read Clay Shirky, “Here Comes Everybody.”
 
 ### Tsuyoshi Wakahara:
 This was a response to what you mentioned around the situation of today, meaning the COVID-19 situation at the current moment is a great opportunity for governments to try out an experiment new technologies or methodologies.

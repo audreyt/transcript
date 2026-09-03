@@ -67,7 +67,7 @@ Of course.
 We’re trying to grow that further as well. We also with other NGOs, also provide emergency funds. For example, if an activist is under physical threat or attack in the digital space in their country, along with many other NGOs, we’ve got a small fund where they allow them to be able to fly out immediately, get free assistance.
 
 ### Raman Jit Singh Chima:
-We support that sort of thing as well and do much more. The more nimble quick micro-grants and stuff in the tech space. Imagine if a NGO has been attacked or targeted, they need quickly to buy new cell phones, or new server space online, or they need to buy encrypted devices, we can quickly help and assist with that. That’s the sort of things we do.
+We support that sort of thing as well and do much more. The more nimble quick micro-grants and stuff in the tech space. Imagine if an NGO has been attacked or targeted, they need quickly to buy new cell phones, or new server space online, or they need to buy encrypted devices, we can quickly help and assist with that. That’s the sort of things we do.
 
 ### Audrey Tang:
 Very valuable work.
@@ -417,7 +417,7 @@ That’s really cool. We went to, in South Korea, the modern art museum, but als
 It’s been really cool to see the different ways, some of the contributions that have come in around the different artistic ways to think about some of these issues.
 
 ### Audrey Tang:
-Interactive non-fiction. \[laughs\] I also did one with the Architecture Biennale, with the German team. They did a interview called Project 2038. My interview’s already online. They asked everyone to talk in a sci-fi fashion, looking backward from the year 2038, how we averted the great climate crisis, the great other crises, and our part in it. \[laughs\]
+Interactive non-fiction. \[laughs\] I also did one with the Architecture Biennale, with the German team. They did an interview called Project 2038. My interview’s already online. They asked everyone to talk in a sci-fi fashion, looking backward from the year 2038, how we averted the great climate crisis, the great other crises, and our part in it. \[laughs\]
 
 ### Audrey Tang:
 It’s a very speculative design way to look into future history. We have to say, “Oh, in the ‘20s, Etherium community developed the Serenity Project,” and speak everything future tense in past tense.

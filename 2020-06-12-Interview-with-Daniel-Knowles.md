@@ -37,7 +37,7 @@ You’ve been quite radical in how you publish data and making it all available 
 Many countries do that under the purview of the Freedom of Information Act but when they are published, it’s already like seven days later or a month later, which is actually considered fast by FOIA norms.
 
 ### Audrey Tang:
-We publish, for example, when it comes to the pharmacist’s mask availability, every 30 seconds at that time, which actually makes it open API, not just open data because it’s almost real-time like a distribute ledger.
+We publish, for example, when it comes to the pharmacist’s mask availability, every 30 seconds at that time, which actually makes it open API, not just open data because it’s almost real-time like a distributed ledger.
 
 ### Daniel Knowles:
 That’s fascinating. How ready were your systems when this hit to implement those sorts of things?

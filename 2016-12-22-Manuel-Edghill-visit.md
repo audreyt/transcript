@@ -1043,7 +1043,7 @@ Yeah, I speak Spanish.
 Oh, that’s great. There’s also Catalan, which is different.
 
 ### Manuel Edghill:
-\]Reads spanish text of PDIS site\] That’s not bad. Is this Google just translating?
+\[Reads spanish text of PDIS site\] That’s not bad. Is this Google just translating?
 
 ### Audrey Tang:
 This is Google, yes. So we also have the Spanish website.

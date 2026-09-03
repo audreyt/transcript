@@ -58,7 +58,7 @@ What we want to do is really to be predictive and prescriptive, meaning that we 
 Recently I’ve heard a speech from CMO of MasterCard, and he was talking about being creative. \[laughs\] He was talking about media, but that’s something...he was telling about the end of the age of storytelling, we’re now about story making. That could be a good objective for our work of data scientists.
 
 ### Jean-Baptiste Bouzige:
-It’s something interesting to tell the story of the past, what we have seen etc. It’s even better to have tools and models to help people make better decisions. We have to be humble. An algorithm of model will never take the decision by itself. That’s something we need to inform and reinforce people with true business expertise.
+It’s something interesting to tell the story of the past, what we have seen etc. It’s even better to have tools and models to help people make better decisions. We have to be humble. An algorithm or model will never take the decision by itself. That’s something we need to inform and reinforce people with true business expertise.
 
 ### Jean-Baptiste Bouzige:
 That’s it for the picture and the philosophy of the company. As for your challenges and with the first contacts we had at the conference, it was really interesting.
@@ -369,7 +369,7 @@ Yes.
 For sure that you will see Asia is a market for your company, in what kind of way that you are trying to go in this market? Can you share something that...?
 
 ### Olivier Kuziner:
-Sure. Currently, we opened the office in Hong Kong two years or two years and a half ago, because we believed that there was a lots of potential in Asia. At least one third of the business of our clients, which are global companies, was in Asia.
+Sure. Currently, we opened the office in Hong Kong two years or two years and a half ago, because we believed that there was a lot of potential in Asia. At least one third of the business of our clients, which are global companies, was in Asia.
 
 ### Olivier Kuziner:
 That was obvious that we should go there. That was the rationale to close, and to leave in the region where there was lots of potential.

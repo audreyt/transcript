@@ -136,7 +136,7 @@ Mm‑hmm. I was going to.
 What kind of startup was it?
 
 ### Audrey Tang:
-It was a publishing house, and I wasn’t involved at the beginning. I was the author. They were curating this, nowaday, we would call it a blog. It’s basically people writing about their journey towards cyberspace.
+It was a publishing house, and I wasn’t involved at the beginning. I was the author. They were curating this, nowadays, we would call it a blog. It’s basically people writing about their journey towards cyberspace.
 
 ### Audrey Tang:
 The book is called &quot;Roads to Cyberspace&quot;. It was on the bulletin board system, which is an online forum. People just pseudonymously submitted their journeys. The curational team at the publishing house, Informationist was the name, curates that into a book.
@@ -292,7 +292,7 @@ Yes, and once it’s understandable, also create a venue for participation under
 This creates a bidirectional mechanism. It’s around specific budget items. People don’t talk vaguely about international budgeting, talk about one thing. It’s also a way for participation to happen.
 
 ### Julie Zaugg:
-Has it had some affects? Has the government taken into account some...?
+Has it had some effects? Has the government taken into account some...?
 
 ### Audrey Tang:
 Of course. By 2014, end of 2014, after the occupy, a lot of mayors won by appealing to this kind of bidirectional Internet‑mediated conversation.

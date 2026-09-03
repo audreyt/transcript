@@ -828,7 +828,7 @@ What are we doing with the US? They are hollowing out their democracy, and 6th o
 ### Audrey Tang:
 Yeah. All my civic tech friends, people who work on democracy affirming technology, see that urgency as a wake-up call. They're now much more energized. Frankly speaking, receive more funding, because of that event.
 
-I'm still very optimistic in the US being a open experiment, admitting to its mistakes and correcting them in the open, at least it does that. In the more authoritarian or closed countries, they do not admit mistakes. Even after they do, they try to stop the people who bring those news instead of the problem itself.
+I'm still very optimistic in the US being an open experiment, admitting to its mistakes and correcting them in the open, at least it does that. In the more authoritarian or closed countries, they do not admit mistakes. Even after they do, they try to stop the people who bring those news instead of the problem itself.
 
 I do think there is every opportunity for the people who work on democracy enhancing technologies and privacy-enhancing technologies, to thrive in the US. Not because US leads the world in terms of democracy and liberty, but because it has a self-correcting, in the open culture that we are seeing unfolding right now. I'm still pretty optimistic. Let's work with them together.
 

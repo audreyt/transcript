@@ -300,7 +300,7 @@ Sure. I would like to ask a clarifying question. Do you mean that these people w
 [Japanese]
 
 ### Mijikta:
-Yes. These are people in the private sector by having a open government that is improving, increasing transparency. They believe that their positions may be negatively honed.
+Yes. These are people in the private sector by having an open government that is improving, increasing transparency. They believe that their positions may be negatively honed.
 
 ### Audrey Tang:
 If they are in the private sector, that means that they see an open government, that's to say, more transparency and more participation as potentially leveling the playing field and therefore harm their privileges, their established connections vis à vis other parts of the citizenry.

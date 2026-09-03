@@ -869,7 +869,7 @@ It would be engineering people.
 They would accept the lower salary that you have in the ministry?
 
 ### Audrey Tang:
-Wwe're working on the compensation plan for that. It goes into a lot of detail. In Taiwan, a new ministry can choose between getting most of its personnel as technical personnel, operation or administration personnel.
+We're working on the compensation plan for that. It goes into a lot of detail. In Taiwan, a new ministry can choose between getting most of its personnel as technical personnel, operation or administration personnel.
 
 In Taiwan, there is a special profession in public sector called economic development, 經建職系, which is somewhat like the administration, in that it does planning and strategy. It is also somewhat technical, in the sense that you have to be an architect of mechanism design.
 

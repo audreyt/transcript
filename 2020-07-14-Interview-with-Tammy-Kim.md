@@ -451,7 +451,7 @@ Can you give me an example of those meetings you’ve had recently where there w
 Sure. For example, the indigenous, many of them prefer to have labor co-ops. Labor co-ops are a curious bunch, because there’s no employer or employee.
 
 ### Audrey Tang:
-In many government programs which, for example, if you say that they need to have a majority shareholder, or that it does say “investment,” or if you put the language in a traditional company language, then it automatically doesn’t apply to co-op, because it doesn’t have a idea of a shareholding class versus a working class.
+In many government programs which, for example, if you say that they need to have a majority shareholder, or that it does say “investment,” or if you put the language in a traditional company language, then it automatically doesn’t apply to co-op, because it doesn’t have an idea of a shareholding class versus a working class.
 
 ### Audrey Tang:
 Everybody, in a sense, are shareholders, and it’s not one vote per share. It’s one vote per person. It also doesn’t make sense to say that once you control the majority of shares, you control the majority of both, because that’s not how it works in a labor co-op. There’s an innovation from an indigenous young leader of labor co-ops of actually information technology.

@@ -150,7 +150,7 @@ We had no idea whether they are actual civic hackers or engineers, or whether th
 We started with some really bad ideas like depositing one’s passport or an electronic ID. Nobody mentioned blockchain... At that point it wasn’t that popular, in 2014. We settled with something really, really simple, which is asking anyone who shows up who looks new what’s two to the power of six and two to the power of nine. If they can answer it, then they’re likely a civic or a Internet engineer. Things like that.
 
 ### Audrey Tang：
-Literally, every day is a completely different topography and completely different configuration that we need to work with. I remember a day where the Supreme Court did this interpretation of the law saying that flash mobs are constitutional. They don’t have to get a approval beforehand if there’s no coordinator and there is no organized, premeditated will to gather.
+Literally, every day is a completely different topography and completely different configuration that we need to work with. I remember a day where the Supreme Court did this interpretation of the law saying that flash mobs are constitutional. They don’t have to get an approval beforehand if there’s no coordinator and there is no organized, premeditated will to gather.
 
 ### Audrey Tang：
 Suddenly, we have random people showing up and holding iPads or wearing GoPros and saying they want to be volunteer civic journalists because now flash mobs are legal. We had to coordinate those people. We made a website where you get to upload your photo and type your name. They print out this civic journalist badge for you with a QR code.
@@ -257,7 +257,7 @@ I have no idea. Friday.
 > (laughter)
 
 ### Audrey Tang：
-My typical Friday \[laughs\] is having a multi-stakeholder forum or discussion with the participant officers in the ministries. In every ministry, and it is part of a national regulation we instated is that every ministry must assign at least one person, but more often than not, a team of people who work as POs, or participating officers.
+My typical Friday \[laughs\] is having a multi-stakeholder forum or discussion with the participant officers in the ministries. In every ministry, and it is part of a national regulation we instated is that every ministry must assign at least one person, but more often than not, a team of people who work as POs, or participation officers.
 
 ### Audrey Tang：
 Just like officers who talk with the Parliament or officers who talk with the media, these people are there to talk with everybody, with state organs. The PO network is one of our ways of trying to imbue into the government this coordination without control or leaderless framework that we’ve been quite dependent on for the past 20 years or so outside of the government in a national setting.
@@ -266,7 +266,7 @@ Just like officers who talk with the Parliament or officers who talk with the me
 The way it works is, of course, we use this free software system called Sandstorm that provides collaborative documents and spreadsheets and Kanban Boards, you name it, chat rooms, and get the people from every ministry to form this network on it. What we do is that we look at the e-petition cases, whereas before we had this national petition system as a result of the Sunflower Movement.
 
 ### Audrey Tang：
-By the end of 2014, it is a demand of the national forum of citizens, which was held because of the Sunflower Movement, that the government must not repeat this mistake, which was to open the cross-trade service trade agreement to public consultation very late in the process, where people are left with the agenda-setting power of, I don’t know, just bikeshedding.
+By the end of 2014, it is a demand of the national forum of citizens, which was held because of the Sunflower Movement, that the government must not repeat this mistake, which was to open the cross-strait service trade agreement to public consultation very late in the process, where people are left with the agenda-setting power of, I don’t know, just bikeshedding.
 
 ### Audrey Tang：
 The idea is that for all the regulations and all the laws, there must be an ongoing system for people to have meaningful conversations. When the agenda set in power was monopolized by the government, people really want a We the People like addition system where 5,000 citizens together can demand a response from the administration.
@@ -290,7 +290,7 @@ As a concrete example, people petitioned that there is now random scams on Faceb
 The sender is anonymous or a non-existing entity. When they came to the ever-so-helpful instant-message assistant of that Facebook page to discover it is actually a robot. \[laughs\] It is actually a legitimate concern. There was widespread scams on Facebook last year. More than 5,000 people petitioned, so that the government can look into it and do something.
 
 ### Audrey Tang：
-Just like the problem of email spam, the solution doesn’t really lie in any single ministry, nor does it lie in any sector for that matter. We need to all do a little bit in every point possible and solve the issues collaboratively to increase the close of scammers essentially.
+Just like the problem of email spam, the solution doesn’t really lie in any single ministry, nor does it lie in any sector for that matter. We need to all do a little bit in every point possible and solve the issues collaboratively to increase the cost of scammers essentially.
 
 ### Audrey Tang：
 What we did is we meet in this social innovation lab with not just the petitioners. We invite up to five co-petitioners to Taipei face-to-face. We also live stream it if they want, and also invite the stakeholders such as the e-commerce association, the delivery companies, and so on, and try to figure out where exactly in this problem map are we.
@@ -311,7 +311,7 @@ It’s coming through.
 Yes, I can.
 
 ### Audrey Tang：
-That’s great. As we can see, the primary responsible ministries are the Consumer Protection Agency, the Ministry of Transport and Communication, and the Ministry of Finance. Then, in assisting capacities, the Ministry of Economy Affairs, the Fair Trade Commission, and our Ministry of Interior, because they are the police people and also the central bank because they’re interested.
+That’s great. As we can see, the primary responsible ministries are the Consumer Protection Agency, the Ministry of Transport and Communication, and the Ministry of Finance. Then, in assisting capacities, the Ministry of Economic Affairs, the Fair Trade Commission, and our Ministry of Interior, because they are the police people and also the central bank because they’re interested.
 
 ### Audrey Tang：
 The e-commerce associations, the delivery guys, the petitioners and co-countersign people. What we did is we used this design thinking method to ask people to write in post-it notes colored as problems or challenges. The blue ones are the facts. Then, the red ones are the feelings -- they’re negative mostly, the restrictions -- and the ideas are colored in green.
@@ -329,7 +329,7 @@ We can also assign some cards to external stakeholders, such as how to educate u
 When I visited Facebook, I just brought out this context, saying all the other stakeholders are already committed to be part of the solution, so why don’t you show some corporate responsibility to society? To their credit, they after just a couple weeks joined locally the Taiwan e-commerce association, and started a face-to-face dialog and forum with the people impacted and tried to co-create a solution together.
 
 ### Audrey Tang：
-I think this kind of structured conversation, if it’s just once every year or so, it will be seen as a experiment. Now, because we do it literally like 20 or 30 times a year, it becomes a part of the norm. The ministries think that, &quot;OK, it’s just a way you deal with petitioners.&quot; Actually, this methodology can also be scaled to deal with pretty much everything that needs to work across silos.
+I think this kind of structured conversation, if it’s just once every year or so, it will be seen as an experiment. Now, because we do it literally like 20 or 30 times a year, it becomes a part of the norm. The ministries think that, &quot;OK, it’s just a way you deal with petitioners.&quot; Actually, this methodology can also be scaled to deal with pretty much everything that needs to work across silos.
 
 ### Audrey Tang：
 We use the public pressure from the petitioners and a known weak point, that is just an inability to handle cross-ministry issues, and organize or coordinate the ministries so that they can still organize and meet the stakeholders. Turn those noises, those statements that people post on the petition platform, and group them into signals, that is to say the aspects that are constructed on this mind map.
@@ -347,19 +347,19 @@ I think participation is such a wide word. We deal with local issues as well. Th
 The people there were petitioning for the police helicopters, the Black Hawks to be stationed in their local, little-used airport because they’re too far away from the close-by large hospital, who is able to treat cardiac arrests, and it’s a popular diving place.
 
 ### Audrey Tang：
-They want helicopters to essentially serve as ambulance cops, because the closest large hospital is like 90 minutes away. They employ many tactics, and it’s definitely not just young people.
+They want helicopters to essentially serve as ambulance copters, because the closest large hospital is like 90 minutes away. They employ many tactics, and it’s definitely not just young people.
 
 ### Audrey Tang：
 The Hengchun Township doesn’t have even the population for the petition, but is a very popular touristy attraction, so they organized booth, and there’s a bed and breakfast that scares their customers, saying if you get heart attack here, you better go online and sign this petition before checking in.
 
 ### Audrey Tang：
-There’s all sort of community organization methods that it did to push the conversation on a national agenda. I’m very grateful that the Minister of Healthcare and Welfare, as well as the Interior and the Transportation, we explored, literally, all the possible solutions to this problem.
+There’s all sort of community organization methods that it did to push the conversation on a national agenda. I’m very grateful that the Minister of Health and Welfare, as well as the Interior and the Transportation, we explored, literally, all the possible solutions to this problem.
 
 ### Audrey Tang：
 We finally settled on assigning a huge sum to build a large medical center in that place, which is really the solution that solves the root cause, because otherwise the doctors will just leave this place even more because the real hard cases are helicoptered away.
 
 ### Audrey Tang：
-Anyway, the idea is that we all went there, all the different the ministries and participation officers, the PDIS team, and so on. We all went to the south most part of Taiwan to have a face-to-face town hall style discussion.
+Anyway, the idea is that we all went there, all the different ministries and participation officers, the PDIS team, and so on. We all went to the south most part of Taiwan to have a face-to-face town hall style discussion.
 
 ### Audrey Tang：
 The idea is that we still have this co-creation workshop of around 30 people in one room, but also in the same building, in the town hall, we broadcast this entire conversation in real-time. I personally served as the anchor, like the ESPN anchor, \[laughs\] to explain to the townspeople why this expert is saying this, why is this PowerPoint slide important.
@@ -479,7 +479,7 @@ It just mostly means automation now.
 > (laughter)
 
 ### Audrey Tang：
-In that sense, it’s a AI-powered conversation for sure. It’s like the ELIZA of scalable conversation. It’s very easy to explain. Just like ELIZA, if you have seen the script of ELIZA, you know immediately how it’s like. You match some keyword and it’s just a chatbot.
+In that sense, it’s an AI-powered conversation for sure. It’s like the ELIZA of scalable conversation. It’s very easy to explain. Just like ELIZA, if you have seen the script of ELIZA, you know immediately how it’s like. You match some keyword and it’s just a chatbot.
 
 ### Audrey Tang：
 Just like Pol.is, if you see how they use the K-means clustering to cluster the votes, and the principal component analysis to determine the most controversial dimensions. That’s pretty much it. There’s no deep learning, or anything AI, traditional machine learning involved.
@@ -626,7 +626,7 @@ To our knowledge at that time, at the end of 2014, there’s no project that add
 It is to g0v community’s credit, that nobody feel that we need to do it right. People just started to do it every single which way, and because we think forks are good, so we forked ourselves, even. The community at that point forked into many different approaches to try to tackle this impossible problem. Only very recently do we see a little bit of merging back.
 
 ### Audrey Tang：
-It would be a problem if it started as a organization. We would say, &quot;The organization has fragmented to seven different factions,&quot; but because it’s leaderless to begin with, so for us, it’s just seven projects that all work in the open on GitHub, on Trello, and on Slack.
+It would be a problem if it started as an organization. We would say, &quot;The organization has fragmented to seven different factions,&quot; but because it’s leaderless to begin with, so for us, it’s just seven projects that all work in the open on GitHub, on Trello, and on Slack.
 
 ### Audrey Tang：
 Some people has a philosophical stance against Slack, so some faction worked exclusively on IRC, and some on Telegram. We had to build those robot bridges to bring those channels together, so people can use the vehicles in channels they identify with, and so on.

@@ -34,7 +34,7 @@ We’re working on solving blockchain scalability. We think our approach may hav
 We’re in Taipei. We love Taiwan. Jon’s been, for a while, doing Taiwanese. I’ve been here now three months, and I’m otherwise living in San Francisco. I think we’re going to have an R&amp;D department in Taipei for a very long time.
 
 ### Audrey Tang:
-Awesome. Where are you based at the moment? Do you have a office here? Oh, do?
+Awesome. Where are you based at the moment? Do you have an office here? Oh, do?
 
 ### Juin Chiu:
 A small one.

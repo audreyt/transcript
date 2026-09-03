@@ -890,7 +890,7 @@ Do you think some of your initiatives are more vulnerable than others, that you�
 No. That’s the way we create our programs. In my office, I don’t give orders to my colleagues. They’re literally one person from each ministry, not all ministries, but from each ministry. What I mean is that, because I don’t score or rank or give evaluations to my colleagues, they have to come up with the programs, convince the other ministries’ dispatches to this office.
 
 ### Audrey Tang:
-Just by doing so in a open, collaborative way, it means that, by default, it’s Pareto improvement. It’s not a sacrifice of other ministries. Because of this co creative environment, our programs are sometimes criticized as slow. Unless we have buy in from each relevant ministries, we don’t roll out anything. Once we roll out something, it’s to the benefit, not detriment, to other related ministries.
+Just by doing so in an open, collaborative way, it means that, by default, it’s Pareto improvement. It’s not a sacrifice of other ministries. Because of this co creative environment, our programs are sometimes criticized as slow. Unless we have buy in from each relevant ministries, we don’t roll out anything. Once we roll out something, it’s to the benefit, not detriment, to other related ministries.
 
 ### Mike Short:
 I think SDGs, because they’re UN run as well, will continue irrespective of who’s in power.

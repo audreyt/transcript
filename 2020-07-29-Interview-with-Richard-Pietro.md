@@ -177,7 +177,7 @@ Oh wow. Again, during your teenage years here, and you’re already a CTO, is th
 That would come later. When I was CTO, I was 16 at that time. I think I’d become a consultant by 17, and consulting for the company that would later be named BenQ, but at that time, it was still called Acer Peripheral.
 
 ### Audrey Tang:
-Then Acer, of course being the personal computers. A very large company in Taiwan that very notable international brand even back then. Acer and the Acer group was interested in setting up a investment branch that would look at early startups in Silicon Valley and other places.
+Then Acer, of course being the personal computers. A very large company in Taiwan that very notable international brand even back then. Acer and the Acer group was interested in setting up an investment branch that would look at early startups in Silicon Valley and other places.
 
 ### Audrey Tang:
 I was consulting with the main investor principal in the Acer Peripheral later on at BenQ company, the Darlie Ventures. Then, later on after revealing so many pitches from so many entrepreneurs, I thought it may be a good idea to start one myself, and then I moved to San Jose for a little while.

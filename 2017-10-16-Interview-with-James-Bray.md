@@ -108,7 +108,7 @@ In Taiwan, people’s expectation is that this e-petition will be put to a vote 
 After voting, if the petition is nominated for collaboration, if it’s a regional petition -- for example, in one of the rural areas in Taiwan, the south most part of Taiwan or one of the south-of-PengHu islands and so on -- they may petition for, they already did petition for a station of the helicopters as ambulance, because their closest large hospital is 90 minutes away.
 
 ### Audrey Tang:
-For cases like that, where we’re flying, where we take high-speed rails, everybody here, all the relevant ministries, the local county people, and everything to their region, and have a regional forum, in which we use a lot of AI, or mission learning, or alternative technology. Together, the 8,000 people’s sentiments into a rough consensus.
+For cases like that, where we’re flying, where we take high-speed rails, everybody here, all the relevant ministries, the local county people, and everything to their region, and have a regional forum, in which we use a lot of AI, or machine learning, or alternative technology. Together, the 8,000 people’s sentiments into a rough consensus.
 
 ### Audrey Tang:
 This is a collective fact-finding process, where we try to get the sense as data going, so that people can see a shared whiteboard what all the different ministries and all the different city-level counties have on this particular case, and collectively find a decision. All this is not only published as a transcript, but it’s also live-streamed and there’s also an online whiteboard of the mind map.
@@ -300,7 +300,7 @@ Can you talk through...the example I’ve read most about is your approach to Ub
 Yes, of course, I think the Uber case is really interesting, because it’s not about the consensus that we eventually reached. Any academics that researched this TNC stuff can write more or less the same recommendations.
 
 ### Audrey Tang:
-The main difference is that the Ministry of Transport acting on this consensus now knows that it has a better PR angle than Uber, itself. It’s a remarkable success exactly because in many other jurisdictions, Uber is decidefully on the upper hand when it comes to PR.
+The main difference is that the Ministry of Transport acting on this consensus now knows that it has a better PR angle than Uber, itself. It’s a remarkable success exactly because in many other jurisdictions, Uber is decidedly on the upper hand when it comes to PR.
 
 ### Audrey Tang:
 Through this process, we were able to show that we’re more transparent, more accountable, and respond faster than a Silicon Valley company, which is why it’s made a flagship case. But if Uber only upgrades in Taiwan, and not in other jurisdictions, there’s no comparison, then I don’t think there will be this much international interest.
@@ -315,7 +315,7 @@ Certainly. Just a second. You can see this, right? This starts at the end of 201
 Starting from the national policy, the new prime minister enlisted the help of his deputy minister, a director of engineering at Google, Simon Chang. Also Jaclyn Tsai, previously at IBM Asia. These people speak the language of civic tech people. We’re the same kind of people.
 
 ### Audrey Tang:
-They were able to reach out to the civic tech community that was very active during, not just the occupier, but actually the mayoral election staff was insane. We have a issue here in Uber and we would like to crowdsource a solution.
+They were able to reach out to the civic tech community that was very active during, not just the occupier, but actually the mayoral election staff was insane. We have an issue here in Uber and we would like to crowdsource a solution.
 
 ### Audrey Tang:
 It really takes a political will at the national level that want to make this a prime example of effective crowdsourcing in order for this to happen. They also said in a hackathon, the Minister at the time said, &quot;We have no idea how to run this, so you’re going to come up with the process. We agreed to bring all the ministers onboard, if you can come up with the process.&quot; That’s the political will.
@@ -384,7 +384,7 @@ They can’t really take back their words. Then it was ratified knowing that eve
 All the stakeholders get to see every other stakeholder’s points, even if they come to visit me personally. This increases trust over time instead of decreases trust over time. By the end of it, Uber agree to play by the new rules.
 
 ### Audrey Tang:
-They only apply to professional driver licenses, and also the existing texting company get to make their Uber alternatives. They are now competing on the same legal framework and so on. It’s a happy ending, I guess. That’s the story.
+They only apply to professional driver licenses, and also the existing taxi company get to make their Uber alternatives. They are now competing on the same legal framework and so on. It’s a happy ending, I guess. That’s the story.
 
 ### James Bray:
 It’s extraordinary. That ratification process, how does that take place?
@@ -393,7 +393,7 @@ It’s extraordinary. That ratification process, how does that take place?
 The point here is that for each of the commitments, the ministry now, knowing that it’s their business...Because one of the core issues in the Uber case was that administrative transport of economy, of finance actually have very different idea at the beginning on how to approach Uber.
 
 ### Audrey Tang:
-There is actually internal dissent as well, but after this process, they were like, &quot;OK, so this is what people want.&quot; Now, the texting, the insurance, the professional driver license, they all have something to do.
+There is actually internal dissent as well, but after this process, they were like, &quot;OK, so this is what people want.&quot; Now, the taxi, the insurance, the professional driver license, they all have something to do.
 
 ### Audrey Tang:
 Instead of working against each other, after the deliberation, they now work with each other in order to bring their relevant parts into the regulatory wording. Now, the wording is, of course, sent to the parliament for ratification.

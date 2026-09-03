@@ -19,7 +19,7 @@ I think recent numbers, figures, are about under 500 cases of infection and arou
 You’re also one of the few countries that didn’t impose a lock-down. My question to you is what was your government’s approach and what measures do you think played that key role in containing the pandemic? How did you do it?
 
 ### Audrey Tang:
-It boils down to the fast response, the collective intelligence, the vibrant civil a society. That’s the number one reason. In addition to the fast, the speed of the social mobilization, I would also say that an inclusiveness in the National Health Insurance system that covers the vast majority of people.
+It boils down to the fast response, the collective intelligence, the vibrant civil society. That’s the number one reason. In addition to the fast, the speed of the social mobilization, I would also say that an inclusiveness in the National Health Insurance system that covers the vast majority of people.
 
 ### Audrey Tang:
 People who show any symptom know that if they put on a mask and they show up at a clinic, they don’t have any financial burden, so an inclusive and fair distribution including of mask and other supplies is the number two reason.
@@ -34,7 +34,7 @@ Fast, fair, fun are the three pillars of the social mobilization that Taiwan’s
 Did culture therefore play a part in the sense that, I’ve read that in certain Asian countries there’s a sort of stigma attached to having COVID in the sense that it’s almost like a sign of a lack of personal responsibility. Does that…?
 
 ### Audrey Tang:
-We’ don’t have that here, no. We take all the residents and citizens equally seriously. We, unlike other jurisdictions, we preserve their privacy and anonymity. Even though there’s other jurisdictions that publishes the whereabouts to such a fine-grain detail so that people can re-identify the confirmed cases with ease, in Taiwan as a normal, we do not do that.
+We don’t have that here, no. We take all the residents and citizens equally seriously. We, unlike other jurisdictions, we preserve their privacy and anonymity. Even though there’s other jurisdictions that publishes the whereabouts to such a fine-grain detail so that people can re-identify the confirmed cases with ease, in Taiwan as a normal, we do not do that.
 
 ### Audrey Tang:
 When the CECC has done traditional contact tracing interviews and they’re reasonably sure of the contact tracing and putting all the close contacts in home isolation or home quarantine, we do not, as a rule, publish the re-identifiable materials. Because of that, we avoid this kind of labeling effect on confirmed cases.
@@ -186,7 +186,7 @@ Distributed ledgers, OK. You use open-source platforms, and there’s quadratic 
 Your access to broadband is a human right. I think you’ve said that. Have these kind of measures led to greater popular engagement and a better government?
 
 ### Audrey Tang:
-Definitely. Just to take the pharmacy mask availability map as a example, it is a kind of distributed ledger, although it is not block chain. \[laughs\] It is kept on GitHub. Git and GitHub is a kind of ledger, even though it’s not powered by blockchain technology, which is why I usually say ledger.
+Definitely. Just to take the pharmacy mask availability map as an example, it is a kind of distributed ledger, although it is not block chain. \[laughs\] It is kept on GitHub. Git and GitHub is a kind of ledger, even though it’s not powered by blockchain technology, which is why I usually say ledger.
 
 ### Audrey Tang:
 What we have done is that each pharmacy that carries the medical masks in stock publishes their stock of masks every 30 seconds, at the beginning, and now every three minutes, because there is no much queueing anymore.
@@ -666,7 +666,7 @@ By demanding accountability and building accountability mechanisms, we end up pu
 The core of the Internet, if we protected that thus far, we need to continue protecting it. That’s my answer to your question.
 
 ### Trisha de Borchgrave:
-I get your answer. Any hope for positive outcomes for a post-COID reset?
+I get your answer. Any hope for positive outcomes for a post-COVID reset?
 
 ### Audrey Tang:
 Yeah, sure. There is a crack in everything, and that’s how the light gets in as Leonard Cohen says. Back when we were working toward climate-change mitigation, every different island had different priorities because they get impact on different time scales. Nowadays with COVID, everybody’s either two months before or two months after everyone’s epicenters.

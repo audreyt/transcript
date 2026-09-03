@@ -28,7 +28,7 @@ That’s a great motivation. The other?
 The other one is, Liam really wanted to ask you this one because it’s a bit unusual, which is how they want...With Geoff, the head of Nesta, I don’t know if you met him.
 
 ### Ninon Godefroy:
-They’re interested in mindfulness, so how to make a town more mindful, which is how to change a place to make people think more about the present ?&quot; He has written a question to basically break this down.
+They’re interested in mindfulness, so how to make a town more mindful, which is how to change a place to make people think more about the present? He has written a question to basically break this down.
 
 ### Audrey Tang:
 Meta-cognitive skills?
@@ -127,7 +127,7 @@ There is no traditional article representative structure among the stakeholders.
 We need to come up with a process that lets us discover the stakeholders. Does the stakeholders have a say in the agenda? Also, let the expertise that’s outside the government to contribute because the career public servants do not usually have the experience of teleworking, setting up a company overseas or crowdfunding for that matter.
 
 ### Audrey Tang:
-We’re talking about things that are beyond the senior executive’s expertise or comfort zone. We’re talking about problems that has a none zero-sum solution. There could be potentially work against for everyone involved and a structure that doesn’t really work across the traditional article representative structure. That was the design condition of the vTaiwan process.
+We’re talking about things that are beyond the senior executive’s expertise or comfort zone. We’re talking about problems that has a non-zero-sum solution. There could be potentially work against for everyone involved and a structure that doesn’t really work across the traditional article representative structure. That was the design condition of the vTaiwan process.
 
 ### Ninon Godefroy:
 It’s very specific here. It’s very specific policy. Has there been other people who have tried to take your process and implemented it in their own country? Is it also a cultural thing, I am wondering?
@@ -142,7 +142,7 @@ On a smaller scale level like in New York City, in Toronto, in Madrid and Barcel
 Even in Taiwan itself also at the national levels, which has implication platform that let people petition anything. It doesn’t have to be pitched on issues. We also took part of the vTaiwan process and adapted it to handle new petitions in an internal, what we call, participation officers that work inside the Taiwan national ministries.
 
 ### Audrey Tang:
-The vTaiwan process starts as an experiment, but the experiment has been adopted bot by civil society in Taiwan and the central government in Taiwan, as well as other non-national cities and townships.
+The vTaiwan process starts as an experiment, but the experiment has been adopted both by civil society in Taiwan and the central government in Taiwan, as well as other non-national cities and townships.
 
 ### Ninon Godefroy:
 It was always for that type of question that you mentioned.
@@ -151,13 +151,13 @@ It was always for that type of question that you mentioned.
 Like for e-petition, we have very local issues like the south in Taiwan, the HengChun people petition their ministry of interior to station their helicopters as ambulances in their local airports because it’s too long a drive from HengChun to the largest nearest hospital. It takes 90 minutes.
 
 ### Audrey Tang:
-Whether to deploy the helicopters there as ambulances that becomes a petition subject. There’s nothing digital about it. We handle 27 e-petitions so far using a veto online approach. This process is being adapted far beyond the original problem scope.
+Whether to deploy the helicopters there as ambulances that becomes a petition subject. There’s nothing digital about it. We handle 27 e-petitions so far using a video online approach. This process is being adapted far beyond the original problem scope.
 
 ### Sylvie Barbier:
 What do you think culture in Taiwan allows...so there’s a design of the tool, but also there is the user of the tool. Sometimes the user of the tool, depending on their culture, will adopt the tool more easily or interact with it differently. What do you think is Taiwan and its culture that created this level of interaction or appropriation?
 
 ### Audrey Tang:
-Taiwan is very new to this democracy thing. Representative democracy in Taiwan, like we are representative democracy, can only start after the martial law was lifted, which was just about 30 years ago. It’s just one generation of people, but around the same time Internet and world web came along so people also has some access to direct democracy through online games, chat rooms, boards.
+Taiwan is very new to this democracy thing. Representative democracy in Taiwan, like we are representative democracy, can only start after the martial law was lifted, which was just about 30 years ago. It’s just one generation of people, but around the same time Internet and World Wide Web came along so people also has some access to direct democracy through online games, chat rooms, boards.
 
 ### Audrey Tang:
 The largest Taiwan forum, the PTT forum has its own court system, its own administrative system. There’s people who have experience in this kind of online democracy about the same time as we have representative, traditional forms of democracy. Very quickly after that, the direct election of presidents. Now we have referendums and so on.
@@ -221,7 +221,7 @@ We have this feeling of there are like young people in Taiwan who are very activ
 We focus on this believe of creating an exciting future for themselves, and to believe in the possibility of being engaged in society through whatever means or aspirations they have. I guess it’s very personal, because I think for us this is also an aspiration.
 
 ### Ninon Godefroy:
-In the education policy, I wanted to ask you something, too, because education is something everyone will always be...Education policy, everyone will be unsatisfied. In France, when there was the election of, Macron, before he ran for president, they did this movement.
+In the education policy, I wanted to ask you something, too, because education is something everyone will always be...Education policy, everyone will be unsatisfied. In France, when there was the election of Macron, before he ran for president, they did this movement.
 
 ### Ninon Godefroy:
 They went to ask on everyone’s door like, &quot;Are you dissatisfied with the education system?&quot; and everyone answered, &quot;Yes.&quot; &quot;Are you dissatisfied with the school?&quot; and everyone answered, &quot;No, I love my school.&quot; \[laughs\]
@@ -248,7 +248,7 @@ Thinking the words like, &quot;Oh, nobody should care about how I raise my child
 What about all of the other kids who their parents can’t homeschool, or can’t even have the means and time to do that? I think there’s maybe some right...Also, people who are very liberal, open, and maybe also they’re kind of like, &quot;Oh, you don’t tell me if I get a gun or not.&quot;
 
 ### Sylvie Barbier:
-They end up being a horse shoes, like these two extremes is about the government or other people not interacting. In a sense, I think the society is thinking of the collective that actually if your child is not well, my child is not well because then they bully each other.
+They end up being a horseshoe, like these two extremes is about the government or other people not interacting. In a sense, I think the society is thinking of the collective that actually if your child is not well, my child is not well because then they bully each other.
 
 ### Sylvie Barbier:
 If a grandmother feel really isolated and sick, we are ultimately connected, and it’s only by raising this awareness of our connection. I don’t think there is a shortcut to collective action, and there’s a shortcut to collective consensus of politics, or human-to-human.
@@ -478,7 +478,7 @@ I am just interested in, have you noticed paths that enabled a larger group? So 
 Quite a few, actually. I am frequently invited to give talks to maybe 300 people, 500 people, 1,000 people. At that point, it’s impossible in our small wetware brain to track where every person is looking at, which emotional state they are.
 
 ### Audrey Tang:
-The best facilitators can maybe do 50 people. Beyond that, it’s possible to keep track individually where everybody is at, and what everybody’s views about everybody is. It’s just combinational explosion.
+The best facilitators can maybe do 50 people. Beyond that, it’s possible to keep track individually where everybody is at, and what everybody’s views about everybody is. It’s just combinatorial explosion.
 
 ### Audrey Tang:
 I use a set of what we call ambient computing, or COM technology -- there is many words for this -- that basically says, &quot;We’re using technology not to distract, but to do the real converse, to let us focus more.&quot;

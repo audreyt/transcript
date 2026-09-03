@@ -118,7 +118,7 @@ This is actually from Paul and Green, but each consultation we run has this same
 Would you say this sort of methods or display -- it’s not a method, it’s a display of what’s out there -- can help to bridge the gaps that have emerged in democracies?
 
 ### Audrey Tang：
-Right. It’s not just a open space. It’s a reflective space, and a reflexive space let people become aware of the common good because if you quantify things like with money, with utility, and things like that as most policy planners tend to do, it is very abstract and doesn’t fit with each other’s intuitions.
+Right. It’s not just an open space. It’s a reflective space, and a reflexive space let people become aware of the common good because if you quantify things like with money, with utility, and things like that as most policy planners tend to do, it is very abstract and doesn’t fit with each other’s intuitions.
 
 ### Audrey Tang：
 Everybody can relate to a fellow citizen sharing their feelings, and so this creates, I think, the missing link between the data which is objective and always out there, versus the ideas which, as you said, that everybody can have different ideas, but only a few gets presented.

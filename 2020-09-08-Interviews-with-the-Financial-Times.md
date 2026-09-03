@@ -118,7 +118,7 @@ No, that was the work of the Department of Cyber Security, or Howard Jyan, and t
 I think we’re going to talk about that.
 
 ### Audrey Tang:
-I wasn’t involved back then, because I think they worked on that system before my involvement. If I had been involved, I’d be listed as a co-authors.
+I wasn’t involved back then, because I think they worked on that system before my involvement. If I had been involved, I’d be listed as a co-author.
 
 > (laughter)
 
@@ -255,7 +255,7 @@ For some agencies, it’s already a given, and for some agencies – like we nev
 That would be a challenge in any country probably. \[laughs\] For example, the Presidential Hackathon, how was that developed or how did that start?
 
 ### Audrey Tang:
-It started with a very simple idea called g0v Grant. It initially prototyped in the social in the social, where the people who have a good idea gets into a peer-reviewed process.
+It started with a very simple idea called g0v Grant. It initially prototyped in the social, where the people who have a good idea gets into a peer-reviewed process.
 
 ### Audrey Tang:
 Instead of just reviewing and giving scores and so on, there’s some matchmaking to make sure that each team have what we have trilingual expertise, that is to say, experts from both the public sector and the private sector, of course initiated by the social sector.
@@ -527,7 +527,7 @@ I will say that we are just this projection, almost like an ambassador from this
 In Taiwan, you said it’s a projection. Do you think it’s more present or it’s more dominant in policy making because of your role?
 
 ### Audrey Tang:
-I think of a Buckminster Fuller quote. This is a paraphrase. If you don’t like a old system, don’t fight with it, instead, invent a new system that will render the old system obsolete. I wouldn’t say that everybody in Taiwan thinks digital democracy has made traditional politics obsolete, as was the local level council dynamic that we just talked about.
+I think of a Buckminster Fuller quote. This is a paraphrase. If you don’t like an old system, don’t fight with it, instead, invent a new system that will render the old system obsolete. I wouldn’t say that everybody in Taiwan thinks digital democracy has made traditional politics obsolete, as was the local level council dynamic that we just talked about.
 
 ### Audrey Tang:
 It doesn’t have to be everybody. If the municipal participate offices, if the reverse mentors are still very active as the Youth Advisory Group and so on, belief in this system, really see the old system’s weaknesses, but instead of just fighting against the old system, enrich the new system as we see during the pandemic everywhere where the CECC is.

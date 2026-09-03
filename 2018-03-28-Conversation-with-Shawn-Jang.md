@@ -116,13 +116,13 @@ People who caring for the environment can argue as representative of the environ
 We encourage any innovation that can absorb all these different forces together. There’s been a lot of organizations as co-ops, as NPOs, and as companies, who has been working on this in Taiwan for 20 years.
 
 ### Audrey Tang:
-What we are doing is to bridge a new generation of designers, architects, and computer programmers to work with this older generation of co-ops, charities, or MPOs, to make sure that the values still carries on to the next generation.
+What we are doing is to bridge a new generation of designers, architects, and computer programmers to work with this older generation of co-ops, charities, or NPOs, to make sure that the values still carries on to the next generation.
 
 ### Audrey Tang:
 The next generation can have something to feed back by bringing service design, design thinking, this ecosystem play, digital platforms, and so on, and to flip around to traditional disadvantaged people, so they become service providers in this digital age.
 
 ### Audrey Tang:
-A lot of people like this way that things are going. This is my main mission from the social innovation side instead of a open government side.
+A lot of people like this way that things are going. This is my main mission from the social innovation side instead of an open government side.
 
 ### Shawn Jang:
 That’s really amazing.
@@ -305,7 +305,7 @@ If you have some ideas, they’re not interested.
 Exactly. The reason why we get the judges of this hackathon...We have the National Development Council. We have Academia Sinica people.
 
 ### Audrey Tang:
-We have also, of course, the CIO Hsiao from the Taochung city government. It’s to establish a panel, a cross-sectoral, collaborative relationship, so that we, as judges, to these proposals can have some rapport. Any one of us can flag a proposal as untenable, infeasible, not really innovative, because each of us has domain knowledge that’s previously siloed.
+We have also, of course, the CIO Hsiao from the Taichung city government. It’s to establish a panel, a cross-sectoral, collaborative relationship, so that we, as judges, to these proposals can have some rapport. Any one of us can flag a proposal as untenable, infeasible, not really innovative, because each of us has domain knowledge that’s previously siloed.
 
 ### Audrey Tang:
 It’s through this cross-sectoral referee process that we establish these working relations between the Academia Sinica people, as well as the III and other people. This is a social problem that we’re now trying to solve, and really did take a presidential letter to start to be solved.

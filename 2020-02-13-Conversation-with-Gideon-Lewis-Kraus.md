@@ -422,7 +422,7 @@ If you will only look at the top consensus, these all make sense. These are lite
 I think that is the narrative Pol.is tries to build, is that for an editor, it’s crowdsourcing the curational light of an editor. Your reader should really want to know about this, and things like that.
 
 ### Audrey Tang:
-That will be the angle if I’m you and I’m going to talk to WIRED, is that to show this digital dialogue between the American and Taiwanese people and say, “Look, if the Foreign Service on both sides can hold themselves into account by sitting down and discussing those 40 topics, surely, a editor can do maybe 10.”
+That will be the angle if I’m you and I’m going to talk to WIRED, is that to show this digital dialogue between the American and Taiwanese people and say, “Look, if the Foreign Service on both sides can hold themselves into account by sitting down and discussing those 40 topics, surely, an editor can do maybe 10.”
 
 ### Gideon Lewis-Kraus:
 It’s a very interesting idea.

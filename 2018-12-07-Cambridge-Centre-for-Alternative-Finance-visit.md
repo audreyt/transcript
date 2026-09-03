@@ -344,7 +344,7 @@ The environment for example, by just changing the government website from O to a
 How many are out there now?
 
 ### Audrey Tang:
-The nodes, I think it’s a old picture, so definitely more than 2,000 now. It’s completely citizen-funded, and it creates, as you said, a legitimacy challenge.
+The nodes, I think it’s an old picture, so definitely more than 2,000 now. It’s completely citizen-funded, and it creates, as you said, a legitimacy challenge.
 
 ### Robert Wardrop:
 Exactly.

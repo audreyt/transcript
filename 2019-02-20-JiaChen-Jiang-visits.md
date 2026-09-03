@@ -79,7 +79,7 @@ We are quite connected to the indigenous language community here in the Social I
 The Mozilla Foundation started a project called the Common Voice. They are also working with us so that the toolkit will be available to the indigenous language’s community so they can read aloud their various different takes.
 
 ### Audrey Tang:
-Because previously Siri, Cortana, or so on, they devote very little to those &quot;under-resourced&quot; languages, but that creates a effect where people are completed to learn Mandarin because they want to drive their personal assistants. Common Voice project says, no, if we get people reading in their local, regional languages we eventually will build up a large enough corpus.
+Because previously Siri, Cortana, or so on, they devote very little to those &quot;under-resourced&quot; languages, but that creates an effect where people are compelled to learn Mandarin because they want to drive their personal assistants. Common Voice project says, no, if we get people reading in their local, regional languages we eventually will build up a large enough corpus.
 
 ### Audrey Tang:
 It’s all free of copyright, anyway, and so people can all use it freely. If it’s free, I’m sure that the Google and Microsoft of the world, and Amazon, will take it.
@@ -211,7 +211,7 @@ It’s as important as having the raw broadband, because we all know that even i
 The DOCs are ways to connect the relevance of digital resources with the local vision of the sustainable development. We’ve been running DOCs for decades now, and so there’s a literature of how the DOCs change, especially indigenous and more rural communities.
 
 ### Audrey Tang:
-Now there’s a line of design called the Regional Revitalization, or \[non-English speech\] . Regional Revitalization explicitly says for the places where the road doesn’t quite go into them we are going to use the broadband as human right to the advantage of, for example, autonomous vehicles for delivery, both aerial, on the ground, and on the sea.
+Now there’s a line of design called the Regional Revitalization, or \[non-English speech\]. Regional Revitalization explicitly says for the places where the road doesn’t quite go into them we are going to use the broadband as human right to the advantage of, for example, autonomous vehicles for delivery, both aerial, on the ground, and on the sea.
 
 ### Audrey Tang:
 Also, as I often mention, that I tour around Taiwan and use teleconference to bring the central government’s ministries’ likeness, avatars, to the local people so that they don’t need to go to a website and write in the language that they don’t quite understand. They can gather around, town hall style, and automatically have 12 different ministries’ people’s avatar join their conversations.
@@ -226,10 +226,10 @@ There’s quite a few key words that I can give you and you can google and find 
 Definitely. That’s interesting because in the US when people talk about Internet accessibility it’s all the big profile -- Facebook, Google, whatever -- projects about making hot air balloons that provide Internet access and all of that. I’ve always gotten the sense that it’s not entirely thought out.
 
 ### JiaChen Jiang:
-The idea is that access is given an everything follows from that, when what you’re talking about has been implemented in Taiwan is these centers that...
+The idea is that access is given and everything follows from that, when what you’re talking about has been implemented in Taiwan is these centers that...
 
 ### Audrey Tang:
-The central paradigm we’re running with is human geography, which is like cultural anthropology but puts the place or the space as the main spot. The Social Innovation Lab is a place where it’s co-designed and every week through office hours people can change the setting of this place. It coevolves to whatever people feel like is more conductive to the sustainable goals and things like that.
+The central paradigm we’re running with is human geography, which is like cultural anthropology but puts the place or the space as the main spot. The Social Innovation Lab is a place where it’s co-designed and every week through office hours people can change the setting of this place. It coevolves to whatever people feel like is more conducive to the sustainable goals and things like that.
 
 ### Audrey Tang:
 This kind of human geography puts a lot of emphasis on how welcome a first-comer feels, how more likely people are going to use this as a gathering place, how likely people can talk to strangers, and things like that. That kind of accessibility, I think it’s much more important. It builds on broadband as human right for sure.
@@ -277,7 +277,7 @@ He and the person, a young girl, co-designed a solar-powered hearing system call
 This kind of thing, they also translated into other languages, so they bring those people as teachers to Brazil to co-design their own hearing aid and so on. This kind of social entrepreneurship, I think there’s a large network.
 
 ### Audrey Tang:
-In Taiwan, we’re now inviting, as of this May, all the various network like the AVP, the Asia Mentor Philanthropy network, and the Social Enterprise World Forum to Kaohsiung as a annual summit. Then we will give out partnership awards to people who have successfully bridged different sectors in doing this kind of social entrepreneurship.
+In Taiwan, we’re now inviting, as of this May, all the various network like the AVP, the Asia Mentor Philanthropy network, and the Social Enterprise World Forum to Kaohsiung as an annual summit. Then we will give out partnership awards to people who have successfully bridged different sectors in doing this kind of social entrepreneurship.
 
 ### Audrey Tang:
 It’s a long-form answer to your question. It’s just there’s existing networks. If you start with a core curiosity, there’s almost guaranteed that you’ll find a good kind of people. If you can join and be humble and respond to whomever you meet’s needs without a preset agenda, I think that is actually a better state of mind to begin with.
@@ -289,7 +289,7 @@ That’s true. Would you say most of these communities exist mainly virtually ov
 For example, before I came to g0v, I was on the Slack. I was more or less hearing about what people had to say and what it was like to work here. Coming here and participating in the community was an entirely different kind of sphere.
 
 ### Audrey Tang:
-This is the summit that I mentioned. If you look at the sponsors and speakers, you get a pretty good idea of who the intermediary organizations are. I think most of the communities start face-to-face, start local. Maybe they have a regular monthly-by-monthly, weekly eating together. In g0v, food is everything, which does quite transmit over the Internet. \[laughs\]
+This is the summit that I mentioned. If you look at the sponsors and speakers, you get a pretty good idea of who the intermediary organizations are. I think most of the communities start face-to-face, start local. Maybe they have a regular monthly-by-monthly, weekly eating together. In g0v, food is everything, which doesn't quite transmit over the Internet. \[laughs\]
 
 ### Audrey Tang:
 They started that way, but then the international network is also important. The Code for All network starts with Code for America, but then connects g0v and various other -- Code for Japan, and so on -- community to make sure that there is a healthy bi-directional flow between all the different sub-chapters.
@@ -442,7 +442,7 @@ You don’t see as much from Microsoft, or if you do see from Microsoft, like th
 Oh, yeah.
 
 ### Audrey Tang:
-They don’t quite get the same embrace \[laughs\] from the civic tech community as the Mozilla people do, fear or not.
+They don’t quite get the same embrace \[laughs\] from the civic tech community as the Mozilla people do, fair or not.
 
 ### Audrey Tang:
 On the other hand, Microsoft has a much stronger connection to special and municipal governments. When it comes to &quot;smart city,&quot; then you can find a lot of arguably gov tech, not civic tech anymore project that Microsoft does in conjunction with a municipality.
@@ -463,7 +463,7 @@ You mean cyber security?
 Cyber security, information security, I want to say. The connection I had with Mozilla was we were working with data security when it comes to Firefox. I was wondering if any of that has connected to civic tech, or if there isn’t enough with civic tech or going broader tech for social benefit in your experience.
 
 ### Audrey Tang:
-A open, transparent, accountable apparatus, of course, depends on that. The underlying substrate is secure, right?
+An open, transparent, accountable apparatus, of course, depends on that. The underlying substrate is secure, right?
 
 ### JiaChen Jiang:
 Mm-hmm.
@@ -511,7 +511,7 @@ Or something like that, yeah. It is actually called Civic Technology Engagement 
 I’ll look into it. I have a more direct connection with them, and I want to be able to track people down, physically. Meanwhile, for Mozilla, it’s more emailing people and hoping they will reply.
 
 ### Audrey Tang:
-There’s no good or bad. It all depends on kind of the culture. If you join Microsoft and find out the cause your working is worthwhile, then I think it’s good because it also helps to solidify Microsoft’s new mission, post development mission. Like Microsoft changed my GitHub, not the other way around mission. \[laughs\] It’s also worthwhile.
+There’s no good or bad. It all depends on kind of the culture. If you join Microsoft and find out the cause you're working is worthwhile, then I think it’s good because it also helps to solidify Microsoft’s new mission, post development mission. Like Microsoft changed my GitHub, not the other way around mission. \[laughs\] It’s also worthwhile.
 
 ### JiaChen Jiang:
 The reason I ask is because I am going to be there this summer, but Mozilla is more of in the future kind of thing. I’m trying to figure out how to get the most I can out of something I’m certain I’m going to be there for, and then as well as exploring.
@@ -559,7 +559,7 @@ It’s almost like, I don’t know, chess, computer club, or MIT railroad club, 
 Yeah.
 
 ### Audrey Tang:
-Again, they’re not mutually exclusive. We do see, for example, the Netscape Company starts as really a undergrad hacker group thing. Then there’s the dot.com boom, and then they become this huge company, part of this corporate world, doing enterprise-y stuff, and so on.
+Again, they’re not mutually exclusive. We do see, for example, the Netscape Company starts as really an undergrad hacker group thing. Then there’s the dot.com boom, and then they become this huge company, part of this corporate world, doing enterprise-y stuff, and so on.
 
 ### Audrey Tang:
 Then there’s the dot.com crash and at the right time with open-source people, who used to be free software people, but we rebranded ourselves to be more acceptable to the capitalistic thinking, \[laughs\] managed to convince Netscape to become Mozilla again, and to kind of the best of both worlds, right? It became a social enterprise that keeps the grassroots mission, but still earns a lot of money every year.
@@ -595,7 +595,7 @@ There’s a whole lot of companies out there talking about doing social impact, 
 Kickstarter is a pretty good example by its own. Not many people know that they’re a B Corp, and they’re doing a very long term, kind of patience funding in a way. GitHub used to be a star case, but it’s now Microsoft. \[laughs\]
 
 ### Audrey Tang:
-There are really many, but the thing is how mission-locked they are. If they are not sufficiently mission-locked in the start, like through their configuration of their board, or things like that, then at some point the lure of NIPO or the lure of a new round of investor may actually just to change their mission so that they are no longer locked to their original social mission.
+There are really many, but the thing is how mission-locked they are. If they are not sufficiently mission-locked in the start, like through their configuration of their board, or things like that, then at some point the lure of IPO or the lure of a new round of investor may actually just to change their mission so that they are no longer locked to their original social mission.
 
 ### Audrey Tang:
 There’s actually a movement in the US called the Benefit Corporation Movement that designs such a thing directly into the company law so that you can lock into your mission and signify to your investors that if you invest, you have to play by these rules. That is also something worth looking toward.
@@ -622,13 +622,13 @@ That’s right, yes.
 Microsoft does this new 2015 civic kind of thing, and Facebook with Internet For All, and all of that. Of all of these corporate organizations, would you say if there is one or any that is doing some kind of research that is actually significant or is actually helpful towards this separate civic community...?
 
 ### Audrey Tang:
-I visited the OpenAI Foundation, and I think they are doing worthwhile work. They are nonprofit, but very well-funded. They don’t have to ask for donations. \[laughs\] It does have its benefit in the sense that it’s kind of a think tank for the global AI community of how to balance the ethical concerns, and indeed shape the narrative that there is a ethical concern in the first place.
+I visited the OpenAI Foundation, and I think they are doing worthwhile work. They are nonprofit, but very well-funded. They don’t have to ask for donations. \[laughs\] It does have its benefit in the sense that it’s kind of a think tank for the global AI community of how to balance the ethical concerns, and indeed shape the narrative that there is an ethical concern in the first place.
 
 ### Audrey Tang:
 If you’re interested, purely for social good, instead of Benefit Corporations, nonprofits like OpenAI is a more guaranteed thing, because they have a manifesto.
 
 ### Audrey Tang:
-You can read it on their web page that they’re not there to compete. They are going to work with any organization that are solving artificial generated intelligence, but in a way that is ethical, and participatory, and co-curated with the society, rather than dictating the norms, and so on.
+You can read it on their web page that they’re not there to compete. They are going to work with any organization that are solving artificial general intelligence, but in a way that is ethical, and participatory, and co-curated with the society, rather than dictating the norms, and so on.
 
 ### Audrey Tang:
 I would say then look at the nonprofit part. Even the Mozilla has two parts.

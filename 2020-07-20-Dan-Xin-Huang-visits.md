@@ -451,7 +451,7 @@ Suddenly, it’s a lot of repressed innovation energy that suddenly just erupted
 That’s the first feeling. Just as with the World Wide Web, it seems instead of having to code alone for years in order to invent something like Ethereum, or rather a metasearch engine like Google. FusionSearch, which I wrote, was also a metasearch engine. It doesn’t seem like that it’s a solo work. It’s a large amount of work. Certainly, because of the World Wide Web, we have access and often not trademark patent or copyright restricted to a lot of other people’s work, who are all swarming together to solve the same problem.
 
 ### Audrey Tang:
-The second thing is it’s a open innovation, not just innovation. Innovation could mean that people compete against each other addressing those social issues and inventing noble social organizations.
+The second thing is it’s an open innovation, not just innovation. Innovation could mean that people compete against each other addressing those social issues and inventing noble social organizations.
 
 ### Audrey Tang:
 An open innovation landscape means that people are willing to share both their working and failed experiments, and the source code, the blueprints of these to allow for second, third, fourth wave of innovation. That continue until today. The latest innovations in AI or in the whole GitHub thing was actually what we were advocating for.

@@ -34,7 +34,7 @@ The second question is once a national government, for example, creates this bes
 Our third question, which is more of a desired outcome than a question, is &quot;What can we learn from that? Are there any best practices creating bespoke licenses, or using standard licenses? What can we learn to help governments making better use of a harmonized set of licenses, if you want, that is also compatible internationally?&quot;
 
 ### Danny Lämmerhirt：
-This is the background. Now I would like to talk with you about about Taiwan’s Open Government Data License, and the process you went through in order to create the license. Also I’d like to know how you implemented it. Maybe you can talk a bit about what was the situation before you created your own license.
+This is the background. Now I would like to talk with you about Taiwan’s Open Government Data License, and the process you went through in order to create the license. Also I’d like to know how you implemented it. Maybe you can talk a bit about what was the situation before you created your own license.
 
 ### Audrey Tang：
 Sure, certainly. In the application, there is a link to a Hackpad, which is a shared document, which is all in Chinese. It provides some key dates, if you are interested.
@@ -78,7 +78,7 @@ The third goal is for the government, at the time, to easily adopt it. Their dra
 One of the g0v movement strategies is that most of our products that are intending to be official at some day, are CC0. The government doesn’t really need to ask our copyright if they somehow make it the official version. That’s pretty much it.
 
 ### Audrey Tang：
-It took about eight months to arrive at a national version, which is mostly the same as the initial community draft. It has a disclaimer, I think, but I don’t think there’s any substantial differences. Once that happens, now we have something that we can refer to when saying that all the government agencies must publish data under a open definition conforming license.
+It took about eight months to arrive at a national version, which is mostly the same as the initial community draft. It has a disclaimer, I think, but I don’t think there’s any substantial differences. Once that happens, now we have something that we can refer to when saying that all the government agencies must publish data under an open definition conforming license.
 
 ### Audrey Tang：
 When they need to choose one, they are now faced to either invent their own bespoke license and then submitting to meet the open definition, or they can just take the one that, by definition, fits the open definition. Most choose the latter.
@@ -226,7 +226,7 @@ Again, because the community wants it. I’m just the sounding board for the com
 It’s important because we are moving toward defining open data as fitting the open definition, and perhaps -- I’m guessing, here -- that he wants not just the one-way transition clause part, which automatically fits the open definition, but the design itself to be verified by the open knowledge community.
 
 ### Danny Lämmerhirt：
-This resonates with our experience that the open definition really lives from the community pull. Unfortunately, there’s not a strong pull at the moment to make governments apply for the official approval, for example. It is definitely an important point to strengthen the community in this field, which doesn’t seem to happen in every county at the moment. The link you provided -- the API link -- is there documentation? Let me quickly check. Do you have any schema or something for the M2M communication, how the data is uploaded on your portal?
+This resonates with our experience that the open definition really lives from the community pull. Unfortunately, there’s not a strong pull at the moment to make governments apply for the official approval, for example. It is definitely an important point to strengthen the community in this field, which doesn’t seem to happen in every country at the moment. The link you provided -- the API link -- is there documentation? Let me quickly check. Do you have any schema or something for the M2M communication, how the data is uploaded on your portal?
 
 ### Audrey Tang：
 Yeah. That’s documented in the OAS standard. It’s a updated version of Swagger. We actually also adopted that as a national standard. We’re the first, at the moment, the only one to do so.

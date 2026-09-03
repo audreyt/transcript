@@ -798,7 +798,7 @@ Oh yeah. Sure. I was a petal...
 > (laughter)
 
 ### Audrey Tang:
-...in the Sunflower Movement, mostly working on the communication infrastructure. After Sunflower, there was a mayoral election at the end of that year. There was also a national forum on economic development where people asked for a open government platform. join.g0v.tw was the end result of that particular national forum.
+...in the Sunflower Movement, mostly working on the communication infrastructure. After Sunflower, there was a mayoral election at the end of that year. There was also a national forum on economic development where people asked for an open government platform. join.g0v.tw was the end result of that particular national forum.
 
 ### Audrey Tang:
 Those two combined into the end-of-the-year election result in 2014, where all the candidates that supported the Occupy gets elected as mayors, sometimes without preparing any inauguration speech.
@@ -822,7 +822,7 @@ We worked together for two years. They made sure that I trained more than 1,000 
 I think this continuity is also very important because Simon Chang, when independent non-partisan, told each ministry to checkpoint their working progress to the public Internet for Dr. Lin Chuan, also independent non-partisan, to download as the transition plan.
 
 ### Audrey Tang:
-This benefits me enormously because I joined the cabinet five months after its forming of Dr. Lin Chuan, but I still get access to the transition documents. I really hit the ground running. Without such a open non-partisan hand-off, that would be very difficult to me to do the continuity thing.
+This benefits me enormously because I joined the cabinet five months after its forming of Dr. Lin Chuan, but I still get access to the transition documents. I really hit the ground running. Without such an open non-partisan hand-off, that would be very difficult to me to do the continuity thing.
 
 ### Edward McBride:
 I know you say you don’t get involved in state secrets, but clearly you have a giant neighbor that is presumably reading all of this. Is there...

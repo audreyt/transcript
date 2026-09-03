@@ -205,7 +205,7 @@ He’s local, so you don’t have to meet him today.
 It’s so great. I definitely have a lot of perspectives I saw abroad, Boston’s one example, or even in my travels that I don’t know where to share it or what to do with that.
 
 ### Audrey Tang:
-The easiest way is to have Aaron do a interview with you.
+The easiest way is to have Aaron do an interview with you.
 
 ### Yun-Chen Chien:
 It doesn’t have to be Aaron. You can write an article.
@@ -307,7 +307,7 @@ We make sure that there’s many concurrent events happening at the same time so
 Because the space opens until 11:00 PM every night, after events people mingle. There’s a resident chef. There’s good food. People can enjoy this atmosphere, very much like what you describe in Boston.
 
 ### Audrey Tang:
-I also have a office hour. Wednesday from 10:00 AM to 10:00 PM everybody can talk to me, provided they agree to this radical transparency arrangement.
+I also have an office hour. Wednesday from 10:00 AM to 10:00 PM everybody can talk to me, provided they agree to this radical transparency arrangement.
 
 ### Audrey Tang:
 It’s really going well, mostly because the space, itself, is co-created by social innovators. They’re not government designed. The soccer field you see is designed by a large charity that works with people with Down syndrome. Charity are brilliant artists, so they turned their art into public installations, and so on.

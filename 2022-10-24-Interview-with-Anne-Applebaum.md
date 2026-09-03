@@ -325,7 +325,7 @@ Yes, in detail, how the app works.
 What do you think of it?
 
 ### Audrey Tang:
-I think it's really good that they were able to do that before the war. I knew the Ukrainian people from the ProZorro days. That must be '14, '15. They built a open-procurement platform where all the procurement is made into transparency.
+I think it's really good that they were able to do that before the war. I knew the Ukrainian people from the ProZorro days. That must be '14, '15. They built an open-procurement platform where all the procurement is made into transparency.
 
 It's like a blockchain, but not using blockchain technology, a ledger, the Open Contracting Partnership, and so on, around the world can read to be anti-corruption on their existing procurement platform. I was in Paris for OGP. That's how I learned about ProZorro.
 

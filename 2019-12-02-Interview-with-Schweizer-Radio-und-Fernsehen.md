@@ -102,7 +102,7 @@ Ah yeah.
 Yes. Yes. There used to be, I would say, capturing of agenda of the deliberative part of democracy by the representative part of democracy, but now, because there will be on alternating years, there will be one year of presidential election and then one year of national referenda, and then one year of mayoral election, and one year of national referenda.
 
 ### Audrey Tang:
-It allows a entire year of deliberative action outside of party politics and outside of representative politics. It’s a new design that allows for more direct participation in agenda-setting by the citizens, without a political setting that captures them by the political parties – That’s what I meant by republic of citizens.
+It allows an entire year of deliberative action outside of party politics and outside of representative politics. It’s a new design that allows for more direct participation in agenda-setting by the citizens, without a political setting that captures them by the political parties – That’s what I meant by republic of citizens.
 
 ### Interviewer:
 A lot of meaning in those few lines.
@@ -137,7 +137,7 @@ In Taiwan, because we have broadband as a human right, no matter where you are i
 A lot of it is image- and video-based. People very easily start their own broadcast stations sharing their views, their livestreaming. There’s a lot more livestreaming going on compared to other jurisdictions, mostly because it’s unlimited data for everyone.
 
 ### Audrey Tang:
-I would also say that the use of end-to-end encryption is maybe more in Taiwan through a app called LINE. A lot of people is using LINE for end-to-end encryption, not only among individuals but also among groups of people.
+I would also say that the use of end-to-end encryption is maybe more in Taiwan through an app called LINE. A lot of people is using LINE for end-to-end encryption, not only among individuals but also among groups of people.
 
 ### Interviewer:
 What does this mean if you have more streaming and not only text?
@@ -145,7 +145,7 @@ What does this mean if you have more streaming and not only text?
 > (background noise)
 
 ### Interviewer:
-On social media, does this have a impact then, for example, on all those topics like fake news? Do you have less fake news because everybody’s more streaming versus the other thing? Less possible because it is live streamed?
+On social media, does this have an impact then, for example, on all those topics like fake news? Do you have less fake news because everybody’s more streaming versus the other thing? Less possible because it is live streamed?
 
 ### Audrey Tang:
 Nowadays, it’s also easy to synthesize video, so it’s not being fake. \[laughs\]
@@ -160,7 +160,7 @@ I forgot about deepfakes.
 So the problem with the video?
 
 ### Audrey Tang:
-The problem actually become bigger because people would believe it more if they have seen a picture or a video as compared to text. Text is open for interpretation. A image is usually very final in its presentation. I would say that it actually amplify especially the feeling of anger and helplessness if people show you a image.
+The problem actually become bigger because people would believe it more if they have seen a picture or a video as compared to text. Text is open for interpretation. A image is usually very final in its presentation. I would say that it actually amplify especially the feeling of anger and helplessness if people show you an image.
 
 ### Audrey Tang:
 For example, there was this image that says “during the Hong Kong protest, the payment for the rioters is such that, at most, they pay up to $20 million for murdering a police” – which is a piece of disinformation.

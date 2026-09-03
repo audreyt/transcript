@@ -219,7 +219,7 @@ We also do, I’ve mentioned the policy convening. We help them with any press o
 We have 50 in the cohort, but actually, all the alumni still want to come to the events. Even these companies that have really scaled, are making so much money, they still want to come to our events.
 
 ### Audrey Tang:
-Is there an online community? Y Combinator is famous for their Bookface community. Is there a online part of this?
+Is there an online community? Y Combinator is famous for their Bookface community. Is there an online part of this?
 
 ### Parveen Dhanda:
 Yes, there is online. We use Slack channels and so forth. I think where they really see the value-add is when they come together.
@@ -408,7 +408,7 @@ The important thing of using these numbers is that it provides a very simple to 
 We just use the 169 or so SDG numbering for our social innovators, which why I ask about CRC, because in Taiwan we don’t have CRC. All we have is just regular companies. We are asking them now if they have specific products or services that is also mission-oriented, &quot;Please give us some numbering so that we can register you and find you international opportunities.&quot;
 
 ### Audrey Tang:
-For example, there’s a AI mission learning team working with the Taiwan Water Corporation, which manages the longest pipe in anywhere in the world. They have a problem with the detecting water leaks, and they used to have people going around and listen.
+For example, there’s an AI mission learning team working with the Taiwan Water Corporation, which manages the longest pipe in anywhere in the world. They have a problem with the detecting water leaks, and they used to have people going around and listen.
 
 ### Audrey Tang:
 It takes a year and a half to tour around Taiwan, but then they use machine learning with SCADA and things like that, and then it shortened the time needed to detect a leakage by tenfold, which is a pretty good...
@@ -584,7 +584,7 @@ People agree to disagree on a few things, which defines the groups, but they don
 We say we are bound by these consensus. Then we always hold ourself to account to have a multi-stakeholder conversation based on the consensus and asking essentially how people react to it. That’s how we regulated Uber, autonomous vehicles, and things like that.
 
 ### Audrey Tang:
-It is called the vTaiwan system. I think it’s one of the key things that people feel AI is something that is neutral, that can facilitate human discussion. If you use Q method or whatever other method, you can do the same thing, but it’s very labor intensive, and people will question the moderators’ neutrality. If we use a open-source AI system, people can audit it. They can set it up on their own laptop and confirm.
+It is called the vTaiwan system. I think it’s one of the key things that people feel AI is something that is neutral, that can facilitate human discussion. If you use Q method or whatever other method, you can do the same thing, but it’s very labor intensive, and people will question the moderators’ neutrality. If we use an open-source AI system, people can audit it. They can set it up on their own laptop and confirm.
 
 ### Parveen Dhanda:
 Wow. That is genius.

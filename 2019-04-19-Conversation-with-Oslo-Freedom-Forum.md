@@ -286,7 +286,7 @@ The way that the people who want to influence elections is very interesting, bec
 Because of this, then people use a lot of other ways, like placing a lot of targeted advertisement or misinformation campaigns, and so on, through paid advertisement on social and traditional media. That’s a new development, partly connected to why because of our campaign donation laws are so transparent, people consider other ways, especially if they’re foreign capital.
 
 ### Audrey Tang:
-We’re now working with the Parliament. They’re now deliberating a honest advertisement amendment to the election laws to make sure that the campaign donations and political advertisement are held on the same standard of disclosure as well as limiting them only to domestic people, and so on.
+We’re now working with the Parliament. They’re now deliberating an honest advertisement amendment to the election laws to make sure that the campaign donations and political advertisement are held on the same standard of disclosure as well as limiting them only to domestic people, and so on.
 
 ### Audrey Tang:
 These are pretty new developments, and I’m happy to share more if you’re interested about that on your planning trip.

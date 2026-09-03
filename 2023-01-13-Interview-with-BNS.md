@@ -236,7 +236,7 @@ Very much so. Technologically, they're almost exactly the same. This enables me 
 
 As I understand, in Lithuania also, during the three years of the pandemic, people's habits changed when it comes to digital government services.
 
-By obtaining this card, I'm able to test myself the interoperability of our software, with the end-goal of raising the awareness to the Taiwanese community, that there is a office of Lithuania in Taipei. You don't have to fly to Vilnius to collect this card. Then, with this card you can do what our CDC -- Citizen Digital Certificate -- does, not just for Lithuania public services, but through Lithuania to the EU single market.
+By obtaining this card, I'm able to test myself the interoperability of our software, with the end-goal of raising the awareness to the Taiwanese community, that there is an office of Lithuania in Taipei. You don't have to fly to Vilnius to collect this card. Then, with this card you can do what our CDC -- Citizen Digital Certificate -- does, not just for Lithuania public services, but through Lithuania to the EU single market.
 
 ### Giedrius Gaidamavičius:
 On Tuesday, moda reported -- I read the report -- that one of the area in which Taiwan will seek to engage with Lithuania is cybersecurity. You also mentioned about it. Could you specify how Lithuania and Taiwan are going to cooperate in cybersecurity?

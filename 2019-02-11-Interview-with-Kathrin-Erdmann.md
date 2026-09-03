@@ -103,7 +103,7 @@ Of course, that is not the actual system that we deploy. Nevertheless, they spen
 Since you became digital minister, was there a higher rate of cyber attacks against Taiwan or not?
 
 ### Audrey Tang:
-I would say it’s about the same. We’re in the frontline. It’s very saturated, meaning that we are used to if we don’t do our penetration testing of, if we don’t recruit some efficient white hackers, once we roll a online system, it will be attacked. That has been true for decades now.
+I would say it’s about the same. We’re in the frontline. It’s very saturated, meaning that we are used to if we don’t do our penetration testing of, if we don’t recruit some efficient white hackers, once we roll an online system, it will be attacked. That has been true for decades now.
 
 ### Audrey Tang:
 It has not changed particularly in the past couple years. We are always on the frontline.

@@ -651,7 +651,7 @@ It’s hard to see what’s real and what’s not real. What would you say to pe
 So far, maybe the basic application of this technology haven’t seen. I don’t know. We’re talking about mixing digital and real. What comes to my mind is something very basic, but it’s the Pokémon GO app, where people can see all the things and mix it digital and the real. I don’t see it as an amazing use.
 
 ### Audrey Tang:
-It’s not amazing at all… and that’s because the cyber part is almost just like stickers. It’s still mostly physical. It’s just barely cyber. That’s not the kind of imagination. I recently had a conversation called 7x7, so 7x7.no. We had conversations with curators at New York and a artist who’s the name Yngve Holen. I invited the curator and artist to the Matterhorn Mountain.
+It’s not amazing at all… and that’s because the cyber part is almost just like stickers. It’s still mostly physical. It’s just barely cyber. That’s not the kind of imagination. I recently had a conversation called 7x7, so 7x7.no. We had conversations with curators at New York and an artist who’s the name Yngve Holen. I invited the curator and artist to the Matterhorn Mountain.
 
 ### Audrey Tang:
 It sounds fair. \[laughs\] We are in Switzerland. The Matterhorn is a really high mountain, very dangerous to climb, even for seasoned climbers. What we did is that we all put on XRSpace glasses, which are very lightweight. It doesn’t have a controller. We just control using our hand gestures. It has its own built-in 5G chip and can scan the environment.
@@ -863,10 +863,10 @@ We already run two pilots around open contracting because procurement is somethi
 Wow. How do you see these initiatives expanding in the future? What do you imagine and what do you wish for?
 
 ### Audrey Tang:
-In a couple ways. First, internationally, people will realize it’s easier and less risk if you consult people what’s the social norm before you implement any top-down policy. That’s why we’re running cybersecurity audits and all that to our pol.is instance, which is a open-source tool developed initially in Seattle. \[laughs\]
+In a couple ways. First, internationally, people will realize it’s easier and less risk if you consult people what’s the social norm before you implement any top-down policy. That’s why we’re running cybersecurity audits and all that to our pol.is instance, which is an open-source tool developed initially in Seattle. \[laughs\]
 
 ### Audrey Tang:
-The website is still at pol.is, which is a open-source home, but we have our own instance. Responding to your domestic social media, this is our domestic pro-social media of pol.is, like input crowd, output meaning is a collaborative meaning creation tool at polis.gov.tw. Really, it’s like a ministry, something.gov.tw, but it’s entirely open source.
+The website is still at pol.is, which is an open-source home, but we have our own instance. Responding to your domestic social media, this is our domestic pro-social media of pol.is, like input crowd, output meaning is a collaborative meaning creation tool at polis.gov.tw. Really, it’s like a ministry, something.gov.tw, but it’s entirely open source.
 
 ### Audrey Tang:
 Once we run the cybersecurity audit, we can extend it to the international relationship. We already had conversations with the American in Taiwan Institute, the de facto embassy, on the coronavirus norms, on the digital dialogs when it comes to people-to-people ties, trade relationships, security cooperations, and making Taiwan more uniquely seen in the world.

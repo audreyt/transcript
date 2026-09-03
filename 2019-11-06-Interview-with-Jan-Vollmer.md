@@ -124,7 +124,7 @@ In a federated polity, this will have to be designed differently. In a single po
 Let’s say if you take any bigger state that is very divided at the moment, for example, UK. You have the one part of the people who feels like they really want to leave the European Union. Then the other part really believes that should not happen, for example. Would that work there or is it too difficult?
 
 ### Audrey Tang:
-Right. The point here is to look at large ideological binary decisions and separate through mechanism design into five or more, what we call, opportunity of overlapping consensus. I’ll use a example. We had a referendum here. One side is arguing about the equal rights and duties of people regardless of their sexual orientation to marry.
+Right. The point here is to look at large ideological binary decisions and separate through mechanism design into five or more, what we call, opportunity of overlapping consensus. I’ll use an example. We had a referendum here. One side is arguing about the equal rights and duties of people regardless of their sexual orientation to marry.
 
 ### Audrey Tang:
 The other side is arguing that the kinship family relation is what marriage is about and it builds connection between two families. They think that different sexual orientations results in different kinship orientations as well. They don’t accept this as a civil code wedding of the families. These two sides are polar opposites.

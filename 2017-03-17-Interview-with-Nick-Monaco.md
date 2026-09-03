@@ -22,7 +22,7 @@ This is a very tricky political question.
 Yeah, I guess particularly in your situation.
 
 ### Audrey Tang:
-I’ll refrain to answer.
+I’ll refrain from answering.
 
 ### Nick Monaco:
 Awesome. That’s OK. What is your ethnicity? You can also refrain from answering if you want.
@@ -167,7 +167,7 @@ For an automated program that lets me find out, for example, like Google Alert, 
 Yeah, I think that’s a little more tangential, but I’m interested to hear anything that intersects that you think would be of interest. That could be one.
 
 ### Audrey Tang:
-Right. Because it’s pretty easy at this moment to tell a bot’s behavior, versus a human behavior, given a sufficient long observation time. That is to state your intentions not being conclusively asked. Maybe in a few years’ time that will change.
+Right. Because it’s pretty easy at this moment to tell a bot’s behavior, versus a human behavior, given a sufficiently long observation time. That is to state your intentions not being conclusively asked. Maybe in a few years’ time that will change.
 
 ### Audrey Tang:
 For me once we pass the Turing test in a convincing way most of the time, then there is much more use for people-masquerading bots to appear. Whereas at this moment, if you want to be really effective, I think putting a lot of effort in making bots appear like humans may be actually counterproductive, and augmenting tools like batch automation of querying, of replying, maintaining FAQ, or anything like that.
@@ -230,7 +230,7 @@ In that same vein, could you characterize political discussion on PTT as exactly
 Yeah. There’s forums dedicated to political discussion, like the ironically named HatePolitics board, which comprises of people who hate politics, but that’s all they talk about. I guess it’s an identity too.
 
 ### Audrey Tang:
-There’s also much more uplifting public issue boards. There’s the PublicServan board, who are career public servants, actually. Then there’s of course always the gossiping board, which is gossiping.
+There’s also much more uplifting public issue boards. There’s the PublicServant board, who are career public servants, actually. Then there’s of course always the gossiping board, which is gossiping.
 
 ### Audrey Tang:
 A lot of those propagandas start as so-called 爆卦, which means original discovery, original gossip. I would say, by far, the original gossips are the sources as much of the political discussions.
@@ -266,7 +266,7 @@ That became their main aim after a lot of back and forth. Because half a million
 Thank you. That’s fascinating. Thank you for bringing that up. One thing that related that I would like to dive a bit deeper on, the idea of 網軍 in Taiwan. I did read a paper by a professor at Táidà. His name is Chen Shishi. He wrote a paper about PTT and the 2014 mayoral election in Taipei, which I’m sure you know quite a bit about.
 
 ### Nick Monaco:
-Essentially, they found 19 accounts that the suspected were 網軍, and they were posting messages, posting articles that either displayed the Sean Lien in good light, or talked bad about Ko Wen-je. There was this propagandistic thing going on with that election.
+Essentially, they found 19 accounts that the suspected were 網軍, and they were posting messages, posting articles that either displayed Sean Lien in a good light, or talked bad about Ko Wen-je. There was this propagandistic thing going on with that election.
 
 ### Audrey Tang:
 I’m familiar with that research.
@@ -308,7 +308,7 @@ This term currently doesn’t have any definite meaning.
 That’s very helpful. In the research, it seems like it might not entirely mean what it means in English, so it’s good to hear...
 
 ### Audrey Tang:
-The idea of one, if look at Wikipedia’s 網軍 term, they actually redirects to 網路特工. That means government hired. There is also 婉君, which I don’t even know how state this in English.
+The idea of one, if look at Wikipedia’s 網軍 term, they actually redirects to 網路特工. That means government hired. There is also 婉君, which I don’t even know how to state this in English.
 
 ### Audrey Tang:
 It sounds like 網軍, but it also sounds like a person’s name. 婉君 is used sometime mockingly, and Wikipedia list astroturf as the first use of 婉君, but they’re clearly not politically motivated. They’re marketing people.
@@ -374,7 +374,7 @@ Do you see any specific use for bots or messaging within the public that might b
 If you limit to chat bots on social media, for example, there is a civil society idea of a Line bot that tells fake news or rumors. Whenever you share a rumor article with that bot, it can respond and let you know whether it’s counterfeit or not.
 
 ### Audrey Tang:
-Even if it’s counterfeit, it doesn’t mean that it’s censored or anything. It just shows a disputed content and a clarification from the other side. It’s possible for two piece of news to be each other’s clarification, but at least it shows you both sides of the discussion.
+Even if it’s counterfeit, it doesn’t mean that it’s censored or anything. It just shows a disputed content and a clarification from the other side. It’s possible for two pieces of news to be each other’s clarification, but at least it shows you both sides of the discussion.
 
 ### Audrey Tang:
 That’s pretty useful for all the rumors around food, around public health, around all sorts of weird things going on. It serves as a last-mile delivery to your Line account. That’s one of their concrete cases.
@@ -392,7 +392,7 @@ Well g0v is a space, so there is no mission. Everybody brings their own mission.
 It’s a private typing service for the public service. The idea is that you can fork, meaning that you take any government website existing service and make it better, and publish it under the g0v domain.
 
 ### Audrey Tang:
-If g0v people release their ideas, their source code, and their creations under Creative Commons, then on the next procurement cycle, the government can tell it’s vendor is to incorporate these additions in. Then it becomes the official governmental website.
+If g0v people release their ideas, their source code, and their creations under Creative Commons, then on the next procurement cycle, the government can tell its vendor to incorporate these additions in. Then it becomes the official governmental website.
 
 ### Audrey Tang:
 It’s the idea of forking, merging, and sending patches to the public sector. That’s the main vision. But how exactly to effect that concrete mission, it differs from project to project.
@@ -404,10 +404,10 @@ I think it’s a really creative, new-age, and progressive idea. I’ve been rea
 Another thing I wanted to ask you about is your mission with transparency within the government. I saw that Simon Cheng brought Taiwan up to number one on the open data index, what you see as good about that, what the role of transparency is within government, and what their mission is.
 
 ### Audrey Tang:
-The main idea of transparency now is that we want data to have its social value. Taiwan passed our FOIA law around 2005, which means it’s a relatively modern FOIA law. It doesn’t say much about whether the information must be released in a way that’s mission-readable or licensed under a free culture, open-source license.
+The main idea of transparency now is that we want data to have its social value. Taiwan passed our FOIA law around 2005, which means it’s a relatively modern FOIA law. It doesn’t say much about whether the information must be released in a way that’s machine-readable or licensed under a free culture, open-source license.
 
 ### Audrey Tang:
-That’s the additions that Simon Cheng brought to the table by essentially introducing regulations. Not revising the FOIA law, but interpreting FOIA law as saying it must be published in a way that’s not just human-readable, but mission-readable.
+That’s the additions that Simon Cheng brought to the table by essentially introducing regulations. Not revising the FOIA law, but interpreting FOIA law as saying it must be published in a way that’s not just human-readable, but machine-readable.
 
 ### Audrey Tang:
 Not just readable, but also remixable, and there’s a threshold of any ICT system that builds below this amount of budget, like NT$50 million in the past three years must open data by default, except for of course privacy, national security, trial secret.

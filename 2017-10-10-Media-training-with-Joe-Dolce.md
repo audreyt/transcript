@@ -1022,7 +1022,7 @@ That’s staccato. Let me hear you.
 \*We\* \*must\* \*do\* \*this\* \*now\*.
 
 ### Joe Dolce:
-Exactly. I like the way you did it first much more by the way. It was much more you. The point of this is just to get natural. This is not going to happen in a minute. It’s not going to happen in a week. It may not happen by MazFest. It’s something you can think about when you’re presenting, all the time. OK?
+Exactly. I like the way you did it first much more by the way. It was much more you. The point of this is just to get natural. This is not going to happen in a minute. It’s not going to happen in a week. It may not happen by MozFest. It’s something you can think about when you’re presenting, all the time. OK?
 
 ### Audrey Tang:
 Mm-hmm.
@@ -1145,7 +1145,7 @@ Give me a quick, use some vocal modulation, convey some tone, and tell me a sent
 Before when people send in those e-petitions, they get this very bland, like nothing really matters response from the bureaucrats. Now, with participation offices all collaborating across ministries, they become alive. All their responses are not just text. They’re personal.
 
 ### Audrey Tang:
-They were invited to Taipei, or we fly to those river islands and meet with those 5,000 peoples face-to-face on live stream.
+They were invited to Taipei, or we fly to those river islands and meet with those 5,000 people face-to-face on live stream.
 
 ### Joe Dolce:
 How unnatural did that feel to you?
@@ -1228,7 +1228,7 @@ I’d like to do it a couple of times. I’d like to start it off with in 1995 o
 All right.
 
 ### Joe Dolce:
-I sort of think the optimist is your theme. That’s a good them by the way. It’s something you can come back to 100 times, but it’s certainly a way to rap, also gives you a good conclusion. I believe from what I’ve seen and heard from you in one hour only, that it really is the underlying story here. Am I correct?
+I sort of think the optimist is your theme. That’s a good theme by the way. It’s something you can come back to 100 times, but it’s certainly a way to rap, also gives you a good conclusion. I believe from what I’ve seen and heard from you in one hour only, that it really is the underlying story here. Am I correct?
 
 ### Audrey Tang:
 That’s correct.
@@ -1949,7 +1949,7 @@ Now, with this completely accountable record, if things go right, they get the c
 One of the ideas is adopting this thoroughly free software platform called Sandstorm, as our public service internal platform. We use the same tools, like Etherpad, like Trello, like Slack, how the free software community is organizing ourselves these days, we also use it in the public service.
 
 ### Audrey Tang:
-Previously, the roadblock was the cyber security issue, but we were able to find this community platform called Sandstorm, that solves the cyber security problem. It gets audited by our cyber security department, so that all the free software than runs on top of it doesn’t suffer from cyber security attacks and issues.
+Previously, the roadblock was the cyber security issue, but we were able to find this community platform called Sandstorm, that solves the cyber security problem. It gets audited by our cyber security department, so that all the free software that runs on top of it doesn’t suffer from cyber security attacks and issues.
 
 ### Audrey Tang:
 We were able to adopt a lot of free software working methods, just by adopting this Sandstorm free software platform.

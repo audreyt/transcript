@@ -4,7 +4,7 @@
 2 Books we are in the process for.
 
 ### Hillary Liu:
-AI Book for Traditional Chinese if we can work with the China Publish as they have Simplied Chinese now.
+AI Book for Traditional Chinese if we can work with the China Publish as they have Simplified Chinese now.
 
 ### Hillary Liu:
 SE Dream Books from Chinese to English version.

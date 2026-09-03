@@ -205,7 +205,7 @@ I think that is the most interesting thing, and it’s what the Taiwan recovery 
 Yeah. Every early morning, almost now, I have video conferences with people from Canada, the US, or South America, in that time zone. Every evening, like now, I have conversation with people in UK, in Europe, and in Africa.
 
 ### Audrey Tang:
-The hours in the middle is my usual working day. \[laughs\] A few days before the World Health Assembly, Taiwan hosted a milnilateral with 14 economies and countries, and with their health officials and so on, on a mini-pre-WHA meeting.
+The hours in the middle is my usual working day. \[laughs\] A few days before the World Health Assembly, Taiwan hosted a minilateral with 14 economies and countries, and with their health officials and so on, on a mini-pre-WHA meeting.
 
 ### Audrey Tang:
 It’s very interesting, because now, with the US dropping support to their commitment to the WHO, it’s likely that people who are liberal democratic government officials can just focus on a minilateral based on open government principles, and to develop ideas and measures that do not encroach the constitutional freedom.

@@ -902,7 +902,7 @@ It says there are 256 such tables. Do you see those indices? Yes. It’s actuall
 We would come in here at night, and write these on the wall with a marker, and then we’d cover each column with a piece of black tape. You and I, we did that all by flipping our own coins, or whatever. We’d just make this stuff up.
 
 ### David Chaum:
-Then for the consistencies, the algorithm for creating that is describing there basically all the stable are the same except they’re subject to random row permutations. The rows are reordered, but they’re kept together.
+Then for the consistencies, the algorithm for creating that is describing there basically all the tables are the same except they’re subject to random row permutations. The rows are reordered, but they’re kept together.
 
 ### David Chaum:
 There’s another thing which is done which is those pairs, the columns at the end, the yellow and the blue pairs, the sum of adjacent entries in the yellow pair is the same for all the rows before the permutation.

@@ -33,7 +33,7 @@ I remember when I was five years old, my parents were asking me, because there w
 I remember being asked by the adults do I support the Nationalist Party or the DPP. Because I was just six years old, I know what a nationalist means. It means somebody who identify as a citizen of a nation, but I don’t know what progress means.
 
 ### Audrey Tang：
-My parents tried to explain to me, as well as my uncles and so on, that progress is a lot of different directions. Whenever people feel that there is a social injustice, there’s environment sustainability issues, anything that people can identify that needs improvement, people go ahead and improve it. Inherently, there’s a idea of a pluralism in it. That was maybe my first understanding of politics.
+My parents tried to explain to me, as well as my uncles and so on, that progress is a lot of different directions. Whenever people feel that there is a social injustice, there’s environment sustainability issues, anything that people can identify that needs improvement, people go ahead and improve it. Inherently, there’s an idea of a pluralism in it. That was maybe my first understanding of politics.
 
 ### Audrey Tang：
 A few years later, in 1989, my dad would travel accidentally, because he was just there to attend a conference, in the state, in Beijing, when the students went to protest. He covered the Tiananmen activities until the first of June before returning to Taiwan, which is very fortunate for our family.

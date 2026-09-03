@@ -519,7 +519,7 @@ The paradox of this is that leading an effort may actually backfire. You don’t
 It took a swarm-like approach for 1,000 approaches to appear, 900 approaches to fail, the other 100 to converge, before we arrived to a blend that actually made emails work better. I expect very much the same thing here.
 
 ### Audrey Tang:
-Because we are still in the early days, I think just mandating one particular way would be like over-investing in particular technologies. They way we’re working now is just to get all practitioners on the same page, know what every other practitioner is doing, and then get people more room to think about this issue, and then we will see thousands of different approaches emerge.
+Because we are still in the early days, I think just mandating one particular way would be like over-investing in particular technologies. The way we’re working now is just to get all practitioners on the same page, know what every other practitioner is doing, and then get people more room to think about this issue, and then we will see thousands of different approaches emerge.
 
 ### Nicola Smith:
 You’ve describe yourself as a civic hacker before, how do you define that?

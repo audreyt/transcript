@@ -235,7 +235,7 @@ You mentioned talking about social issues. One thing that we’re curious to hea
 There’s harassment meaning a personal attack, and there’s arguments, which is like, &quot;I just don’t agree with your opinion.&quot; Having a more clear-cut designation of the nature of the debate really helps. In the system that I participate in designing, all the public-binding discussion forums are without reply button.
 
 ### Audrey Tang:
-I think reply button is the affordance that makes people confuse personal versus opinion arguments. If I am replying to your argument, I’m both replying to your personally and also your statement, verbally. For all the system that I use for public discourse -- for example, there’s a open-source system called pol.is -- you can also see statements from your fellow citizen.
+I think reply button is the affordance that makes people confuse personal versus opinion arguments. If I am replying to your argument, I’m both replying to your personally and also your statement, verbally. For all the system that I use for public discourse -- for example, there’s an open-source system called pol.is -- you can also see statements from your fellow citizen.
 
 ### Audrey Tang:
 You can also comment, but you can only upvote or downvote, that is to say, agree or disagree with their statements. Once you agree or disagree, it just flashes another statement from a fellow citizen. There’s a principal component analysis that outlines the most divisive and the most cohere parts of the argument.
@@ -342,7 +342,7 @@ For referendums, of course, we insist on a PKI card with proper e-signature capa
 Our main goal starting next year is to get the roll-out of such NFC enabled PKI cards to as much people as possible so that people can even join referendum signatures by using their phone and do a NFC authentication and entering passphrase on their mobile PKI card.
 
 ### Audrey Tang:
-That is a infrastructure that is responsibility of the state to provide for legally-binding referendums. That’s the identity thing. For the amplification, it’s very simple. If you vote but not review the result of voting or if you use visualization but, as showed in Polis, it measures the diversity of statements not the number of people.
+That is an infrastructure that is responsibility of the state to provide for legally-binding referendums. That’s the identity thing. For the amplification, it’s very simple. If you vote but not review the result of voting or if you use visualization but, as showed in Polis, it measures the diversity of statements not the number of people.
 
 ### Audrey Tang:
 You can see that even with, not even 200 people, this faction has more area than this one. If you have 5,000 people all voting the same way, the numbers may change but area will not. It doesn’t have any effect on the perceived sound or amplification. I guess it’s part of interface design.
@@ -378,7 +378,7 @@ You can get a spreadsheet of individual records of donation. Every media can ind
 What we’re asking during election is that Facebook review both the precision targeting criteria, as well as who is ultimately the provider of the funding, and that we can use the same laws as anti-money-laundering to then ask those operators who their funding came from. Then recursively until we know who ultimately is paying for that.
 
 ### Audrey Tang:
-If they are all citizens, then it’s reveal campaign donation. If they are non-citizens, then we find the closest hop, I don’t know, NT$50 million or something like that because they are meddling in a election.
+If they are all citizens, then it’s reveal campaign donation. If they are non-citizens, then we find the closest hop, I don’t know, NT$50 million or something like that because they are meddling in an election.
 
 ### Audrey Tang:
 Honest advertisement is consensus across jurisdictions. I’m very happy that Facebook is willing to try in the next election for this kind of transparency. In election, it will help a lot.

@@ -1,7 +1,7 @@
 # 2019-03-09 Interview with Hal Seki
 
 ### 関治之:
-I am very honored to welcome you here because I am also a computer engineer, I have been. I’ve heard your name as a open source contributor for Perl. As a engineer, you are my hero. \[laughs\]
+I am very honored to welcome you here because I am also a computer engineer, I have been. I’ve heard your name as an open source contributor for Perl. As an engineer, you are my hero. \[laughs\]
 
 ### 関治之:
 Before Code for Japan, I didn’t think that computer engineer can help the government by using our computer skills.
@@ -75,7 +75,7 @@ It was the time of the first color camera, digital camera, fax machine, and so o
 In addition to the collective action in my early days that I experienced when I was five or seven years old, now with technology, suddenly, a large amount of people can very easily connect to one another, know what’s happening and care about what’s happening even if it’s very long distance away. That is very different from the old model, where you only get collective action with people living nearby.
 
 ### Audrey Tang:
-Now you can have collective action with many, many cities connected in a connected fashion. That’s my second exposure to the social movement. When I was 12, I get into the Internet. That was 1993. In ’94, there was a introduction of the graphic browser. Then I told my teachers, everything I’m interested I can develop online and learn from the people. I quit high school in ’95. All my teachers actually agreed with it.
+Now you can have collective action with many, many cities connected in a connected fashion. That’s my second exposure to the social movement. When I was 12, I get into the Internet. That was 1993. In ’94, there was an introduction of the graphic browser. Then I told my teachers, everything I’m interested I can develop online and learn from the people. I quit high school in ’95. All my teachers actually agreed with it.
 
 ### 関治之:
 Wow. \[laughs\]
@@ -93,7 +93,7 @@ Blue Ribbon.
 I learned that the World Wide Web is not just a tool for collective learning and action, but it can also be a tool for mobilization to make it very quickly known that something is wrong and something need to be corrected. This is a connected way of social movement that I experienced when I quit high school and started my startups.
 
 ### 関治之:
-インターネットの存在が大きかったのですね。それを通じて一人一人の意見を集めることができるようになり、それがその後のきっかけになったと。最初に立ち上げた会社はどのような会社だたのですか？
+インターネットの存在が大きかったのですね。それを通じて一人一人の意見を集めることができるようになり、それがその後のきっかけになったと。最初に立ち上げた会社はどのような会社だったのですか？
 
 ### 蔡偉淦:
 透過網際網路蒐集到很多人的資訊，這做起頭，你後來自己也創業，是這樣的發展過程。剛開始的公司是怎麼樣的一家公司呢？
@@ -148,7 +148,7 @@ It is the first time that I saw the possibility. It’s no longer that people mu
 Actually, that organization is still around. It’s the Mozilla Foundation. They control the Mozilla Corporation, which is still very profitable. Everything they earn goes back to the Mozilla Foundation. This is what we call a social enterprise. I really learned a lot by participating in Silicon Valley the very early beginnings of the open-source movement.
 
 ### Audrey Tang:
-When I went back to Taiwan, I dedicated 100 percent of my time to open-source advocacy. When I work on projects, I would ask my clients to allow me to publish under a open-source license. If they allowed, then I charge them a certain fee. If they don’t, I charge them up to six times because I have to rewrite everything again.
+When I went back to Taiwan, I dedicated 100 percent of my time to open-source advocacy. When I work on projects, I would ask my clients to allow me to publish under an open-source license. If they allowed, then I charge them a certain fee. If they don’t, I charge them up to six times because I have to rewrite everything again.
 
 > (laughter)
 
@@ -232,7 +232,7 @@ Cofacts については私も実際に拝見しました。素晴らしい取り
 雖然cofacts是很簡單的構造，但是真正困難的是讓人使用它，如何讓人去使用？
 
 ### Audrey Tang:
-Before Cofact, there’s many similar projects already. Just in the g0v project alone, there was a news helper project that does the same thing as Cofact, but is a browser plugin that targets Facebook posts. People just...中文叫做「新聞小幫手」。
+Before Cofacts, there’s many similar projects already. Just in the g0v project alone, there was a news helper project that does the same thing as Cofact, but is a browser plugin that targets Facebook posts. People just...中文叫做「新聞小幫手」。
 
 ### Audrey Tang:
 Yes. I think mostly because in Taiwan, people really saw that there is not just misinformation, which is honest mistake. A journalist might be filling in something that the news source did not state. They’re not malicious, they’re just extending their projections into the reporting.
@@ -468,7 +468,7 @@ To be very intentional in translation.
 Yes. It’s very important.
 
 ### 関治之:
-Actually, sometimes I feel that Code for Japan is translating the technology world to the local people world, that also we have to translate from the local people in Japan situation to internatinal people.
+Actually, sometimes I feel that Code for Japan is translating the technology world to the local people world, that also we have to translate from the local people in Japan situation to international people.
 
 ### Audrey Tang:
 Exactly. I think that part is even more important.

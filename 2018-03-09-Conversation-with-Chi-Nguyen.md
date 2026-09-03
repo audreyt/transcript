@@ -21,7 +21,7 @@ I was an understudy for the previous Cyberspace Minister; I’ve been engaged in
 We did that because we occupied the parliament for 22 days. That’s called the Sunflower Revolution. We did that because the parliament at the time refuses to deliberate a trade-service agreement. We occupied the parliament to demonstrate in a demo-scene kind of way, to demo how to deliberate on all aspects of this agreement.
 
 ### Audrey Tang:
-We are aligned with half a million people on the street and many more online. It’s a demonstration of what we call scalable listening technologies. People can see that technology’s not just for broadcasting but actually to listen and to come to rough consensus and come up with things that we can live with .
+We are aligned with half a million people on the street and many more online. It’s a demonstration of what we call scalable listening technologies. People can see that technology’s not just for broadcasting but actually to listen and to come to rough consensus and come up with things that we can live with.
 
 ### Audrey Tang:
 The magical thing is that after 22 days, the head of the parliament actually saw the consensus reached, including calling up a national convention, and agreed on that. It is a triumph of direct democracy.
@@ -150,7 +150,7 @@ The UK has been pioneer with the fintech sandbox where anyone can file an idea t
 If the regulation need to change, so it will change. If it’s a bad idea, at least it doesn’t really affect the whole country. It’s like a sandbox in the software sense.
 
 ### Audrey Tang:
-Now we’re doing this in the general-purpose way, not just for fintech which has just passed but also for self-driving vehicles like drones and automated Bose and things like that which really need to develop with the local community before scaling to the whole nation. We’re doing the same handholding, co-creation, thing also. Next will be AI and the other technologies.
+Now we’re doing this in the general-purpose way, not just for fintech which has just passed but also for self-driving vehicles like drones and automated boats and things like that which really need to develop with the local community before scaling to the whole nation. We’re doing the same handholding, co-creation, thing also. Next will be AI and the other technologies.
 
 ### Audrey Tang:
 The idea is that for anyone who has the idea that could potentially combine those different social, environmental, and governance forces, we give them a sandbox to try. If it works pretty well, then we help them to...This is...
@@ -216,7 +216,7 @@ No, our team is quite small. We have 11 people full time. Then we have about 30 
 I oversee basically the entire league, all the 200 member events that we work with, but also try to think about how to expand the league to the rest of the world. Because we have a lot of knowledge and we have a lot of people with knowledge that we just want to make sure everybody on the continent has access to technology.
 
 ### Chi Nguyen:
-We haven’t figured that out quite well yet, but we know that we have a lot of open source resources that we could at least share and connections that we share because our network right now is about 65,000 in-person hackathons but a whole lot more digitally.
+We haven’t figured that out quite well yet, but we know that we have a lot of open source resources that we could at least share and connections that we share because our network right now is about 65,000 in-person hackers but a whole lot more digitally.
 
 ### Audrey Tang:
 Wow.

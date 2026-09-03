@@ -530,7 +530,7 @@ I totally agree.
 If the food is excellent, then you remember the food and is willing to come back again next month for the same meeting. It’s just human nature.
 
 ### Audrey Tang:
-Resident chef was the number one wish when we did the co-creation workshops. We hold five co-creation workshops for this space. The number one ask is a open kitchen, cafe, and a resident chef, so we do have a resident chef. He calls himself 地縛靈... How do we translate this? Space-bound spirit.
+Resident chef was the number one wish when we did the co-creation workshops. We hold five co-creation workshops for this space. The number one ask is an open kitchen, cafe, and a resident chef, so we do have a resident chef. He calls himself 地縛靈... How do we translate this? Space-bound spirit.
 
 ### Shuyang Lin:
 He’s always there.

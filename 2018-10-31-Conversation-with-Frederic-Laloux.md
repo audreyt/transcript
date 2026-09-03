@@ -269,7 +269,7 @@ I’m curious about that. Can you say more about it?
 Of course, the pre-meetings are there so that people can look at the transcripts and the records of the weekly meetings. People care about the process. There’s many people who care about how the questionnaires are set, how we reach the number of stakeholders, and so on.
 
 ### Audrey Tang:
-Because it’s a open community, anyone can just type on Hackpad, on Slack, or whatever, and basically amend the process. There’s nothing to subtract from and everything to add to. Because of that, we don’t hear that much about total neutrality.
+Because it’s an open community, anyone can just type on Hackpad, on Slack, or whatever, and basically amend the process. There’s nothing to subtract from and everything to add to. Because of that, we don’t hear that much about total neutrality.
 
 ### Audrey Tang:
 We believe more in a plurality in the sense that people who care or people who think that they can find other people who care can always intervene in the process. Nothing here is at referendum-style power binding level. Everything here is on collecting collective feelings and collective facts. In this level, everybody has something to add.

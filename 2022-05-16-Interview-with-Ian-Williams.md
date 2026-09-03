@@ -165,7 +165,7 @@ It's piggybacking on in earlier meme 我們只有一個地球 or we only have on
 
 The parody goes, we only have a pair of bottoms. We don't have other pairs of bottoms, which means that the actual usage is limited. [laughs] You don't have to stockpile basically. It's a wordplay because stockpile is a homonym to bottoms.
 
-All this is the Premier's team pre cleared the use of this humor with the Premier because if it takes a entire day to get the approval, then it will lose its efficacy. At the time, then the conspiracy theory will win.
+All this is the Premier's team pre cleared the use of this humor with the Premier because if it takes an entire day to get the approval, then it will lose its efficacy. At the time, then the conspiracy theory will win.
 
 ### Ian Williams:
 It has to be quick.

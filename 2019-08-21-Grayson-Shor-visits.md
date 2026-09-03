@@ -276,7 +276,7 @@ It looks so different. It’s a whole new setup.
 Yes.
 
 ### Grayson Shor:
-I like it, though. I like this setup more. It’s more of a open concept.
+I like it, though. I like this setup more. It’s more of an open concept.
 
 ### Audrey Tang:
 Yes. The basement is also totally redone using the same concept.
@@ -515,7 +515,7 @@ A few things. There’s GCTF topics that has been run since forever, women’s e
 The challenge always is because women’s empowerment and anti-corruption is literally never-ending. It may broader in its concerns for intersectionality and for beneficial ownership, not just anti-corruption, into something more proactive. There’s new themes every year, but the shared concern never goes away. It will essentially outlive the SDGs and \[laughs\] it will just continue on.
 
 ### Audrey Tang:
-The main challenge when we talk about media literacy or the more recently GCTF on other sustainable goals is to pick themes that would make sense beyond 2030 as a umbrella term, first to ensure that the people who are invited gets invited at the end.
+The main challenge when we talk about media literacy or the more recently GCTF on other sustainable goals is to pick themes that would make sense beyond 2030 as an umbrella term, first to ensure that the people who are invited gets invited at the end.
 
 ### Audrey Tang:
 People who participated, when they think about a decade-long horizon, they will also think about how to, for example, have the younger generation participate more meaningfully. In 10 years, that will be their turn in this community as well. Just have a longer planning horizon is the key.
@@ -687,7 +687,7 @@ What role would you see them playing? With the GCTF, there’s the multiple trai
 As a trainer. I’m sure that they can serve as a trainer as well as providing commitment post-GCTF. They are not GEC, but \[laughs\] you can imagine them in a GEC-like role.
 
 ### Grayson Shor:
-Would you see them also as something more on the technology side or more about a infrastructure, physical infrastructure?
+Would you see them also as something more on the technology side or more about an infrastructure, physical infrastructure?
 
 ### Audrey Tang:
 They can do both, and they have very good organizing capability internationally, especially in this region. Even if you want to do something at the scope of GEC hackathon, but in the Pacific, I’m sure that Tzu Chi can handle a lot of local infrastructure and logistics, not just exporting technology. They, as I said, have their own diplomatic arm.

@@ -120,7 +120,7 @@ But if we just design policies this way, using proxies of ourselves, it would be
 And I think we as social entrepreneurs have known this for more than a decade. We're the global civic muscle. And we have done a lot of the difficult, relational work for change. And it is time that we set this as the norm for AI conversations.
 
 > (Writing the Air )
-# — Together
+## — Together
 
 In Japan, they have this notion of "reading the air," which is quite resonant in a lot of Asia. It's about understanding the unspoken social context and adapting to that context. But I think we're past the point of simply just reading the air and figuring out our theory of change. The air, as I mentioned, is polluted by high polarization per minute. The fog is very thick.
 

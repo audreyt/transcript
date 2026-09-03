@@ -37,7 +37,7 @@ If you come, and you invest, and you create 10 jobs, you have five percent less 
 These free zones support the third of the global trade. It is also very important. This is one of the objective of my visit. There is a need to facilitate this trade. To make platform, to create digital platform to facilitate this trade.
 
 ### Samir Hamrouni:
-These zones also employ 70 million persons, which is three percent of the work global force. There is a need also to create good places for work, these people. In 2014, we launch this organization as per the Swiss law. We are based in Dubai, United Arab Emirates.
+These zones also employ 70 million persons, which is three percent of the global work force. There is a need also to create good places for work, these people. In 2014, we launch this organization as per the Swiss law. We are based in Dubai, United Arab Emirates.
 
 ### Samir Hamrouni:
 This is the introduction of our organization. This means that we are an association, and as all the association, we have the typical objective, capacity building, training, business, platform, exchange of network, whatever. Business network, business‑to‑business platform. This is another also engagement I would like your help to do.

@@ -155,7 +155,7 @@ One example, during the pandemic in 2020, we started rationing out masks very ea
 
 But the OpenStreetMap community showed Ann Kao, using a visualization, that we only counted in kilometers, but not in travel time. So it actually biases a lot for people closer to metro or very convenient transportation. And people who have to wait for hours to get a bus doesn't get masks because it was unevenly distributed according to opportunity cost of time.
 
-Now if we had not been publishing as real-time open data, this distribution evidence, it will feel like the opposition making a critique of the ruling party. But because we have been making all these numbers available for independent analysis, Minister of Health and Welfare simply said, legislator, you are a expert in big data, so teach us how to do it, and we will change next week to your algorithm.
+Now if we had not been publishing as real-time open data, this distribution evidence, it will feel like the opposition making a critique of the ruling party. But because we have been making all these numbers available for independent analysis, Minister of Health and Welfare simply said, legislator, you are an expert in big data, so teach us how to do it, and we will change next week to your algorithm.
 
 So sharing the evidence with opposition parties, indeed with everyone, enables a co-creating dynamic among all the parties, making it a pan-partisan thing. This is the best for the career public service because it removes the risk of discontinuity when different parties come to administer a seat and so on.
 

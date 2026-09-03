@@ -10,7 +10,7 @@ I will be moderating today’s event, Digital Democracy – What Europe Can Lear
 Hello, good local time, everyone.
 
 ### Dominik Hierlemann：
-Hello. Audrey Tang is all in on transparency. That’s why we run this event as a open video call where you all can see and look at each other. This WebEx call is limited to 200 people, so we’re also live-streaming our event on YouTube. Welcome to all of you.
+Hello. Audrey Tang is all in on transparency. That’s why we run this event as an open video call where you all can see and look at each other. This WebEx call is limited to 200 people, so we’re also live-streaming our event on YouTube. Welcome to all of you.
 
 ### Dominik Hierlemann：
 Our discussion will be divided into three parts. First, we have a one-to-one conversation with Audrey Tang. We’ll then bring in four more panelists. Eva Maydell, Member of the European Parliament and President of the European Movement International. Eva, are you with us?
@@ -112,7 +112,7 @@ Can you tell us a little bit more about the platform vTaiwan, about Join, about 
 Yeah, certainly. But before I talk about vTaiwan and Join, I need to talk about Presidential Hackathon, which is really where the social sector teams meet their counterparts in the ministerial teams and build this common, what we call data collaboratives, which in GDPR terms would be joint controllership.
 
 ### Audrey Tang：
-People in different sectors co-producing and co-using the data so that people, for example, can detect earthquakes, floods, predict air quality, and things like that, in a very collaborative environment, so that anyone really, in their primary school and so on, can set up air boxes, very inexpensive – less than US$100 each or â¬100 each – stations that contributes to our environmental understanding.
+People in different sectors co-producing and co-using the data so that people, for example, can detect earthquakes, floods, predict air quality, and things like that, in a very collaborative environment, so that anyone really, in their primary school and so on, can set up air boxes, very inexpensive – less than US$100 each or €100 each – stations that contributes to our environmental understanding.
 
 ### Audrey Tang：
 The Presidential Hackathon is a enabling annual thing where the president, Dr. Tsai Ing-wen, gives an award to five of the winning teams out of 200 or so. Each need to correspond to one of the sustainable goals. The five teams, the trophy is a micro-projector.
@@ -145,7 +145,7 @@ Of course.
 It is a small thing, but why is there no reply button? From a participation perspective, I would be thinking there’s no real deliberation taking place. People are not talking to each other. You just press the button and you respond. Then at the end of the day, you see if you agree with other people or not. Is that, in your perspective, real deliberation?
 
 ### Dominik Hierlemann：
-Can you explain us why you’re so happy that there is no replay button on the screen?
+Can you explain us why you’re so happy that there is no reply button on the screen?
 
 ### Audrey Tang：
 I’m also very happy that it participate pseudonymously. This is definitely not your ordinary habemus conversation deliberation. \[laughs\] There’s a very simple example here in the Uber case, is that for people who are driving for Uber at the time, they are actually doing very questionably legal things.
@@ -256,7 +256,7 @@ In a way, yes, it is about political courage to answer your question. It is also
 This is why I have two questions for the Minister that could help us a little bit more in finding those ways of how to implement some of the strategies that we have put in place. I like to say often that we need more digital leaders, or tech leaders. What I mean is we don’t necessarily need every politician in Europe to be able to code or know how to code.
 
 ### Eva Maydell：
-We need them to have that vision and be ready to implement it despite sometimes, perhaps, there being certain and certainties whether that should be the way forward. My two questions, Minster, the first one is you might have heard, but here within the European institutions, we would like to, so to say, increase the commitment to reconnect with the European citizens.
+We need them to have that vision and be ready to implement it despite sometimes, perhaps, there being certain and certainties whether that should be the way forward. My two questions, Minister, the first one is you might have heard, but here within the European institutions, we would like to, so to say, increase the commitment to reconnect with the European citizens.
 
 ### Eva Maydell：
 In the next couple of months ahead of us and years, we would like to set up the so-called conference of the Future of Europe where the people will debate about what Europe they want to see. I believe all organizations that have set up this event today, but particularly we at the European Movement International, which I preside, we saw a big challenge ahead of this project.
@@ -502,13 +502,13 @@ This is important, because there is no perfect offering. In Taiwan, all these me
 Just today, we changed our rules so that we take at least one petition and one bureaucrat-proposed ideas each month so that each side would not feel neglected by the voting that is done by our participation officers. Last month, all the cases that we handled was initiated by the premier and the ministries.
 
 ### Audrey Tang：
-We feel that the petitioners, actually, petitioners tell us they were being sidelined and so on. The Taiwan model is not a model that you simply copy. It is rather a idea, a Buckminster Fuller-ian idea that instead of fighting a old system, make new system that will make the old system feel obsolete. You don’t have to convince everybody that it is, the old system is obsolete, just a few people.
+We feel that the petitioners, actually, petitioners tell us they were being sidelined and so on. The Taiwan model is not a model that you simply copy. It is rather an idea, a Buckminster Fuller-ian idea that instead of fighting an old system, make new system that will make the old system feel obsolete. You don’t have to convince everybody that it is, the old system is obsolete, just a few people.
 
 ### Audrey Tang：
 Increase the R-value. Make it viral. Make it ideas that’s worth spreading. This is in any sortition, any citizen assembly. The final question is that can they bring back to their community the rough consensus they have reached in a deliberative space. If there’s sufficient amount of cute cats, dogs and memes to do that, then yes they can. The ideas worth spreading will spread.
 
 ### Audrey Tang：
-If the R-value is rather under one, then even if they achieve perfect harmony, kumbaya, and all that during the deliberative space, that will not have a impact to the society. Think about fun and optimize for fun. There is no perfect offering.
+If the R-value is rather under one, then even if they achieve perfect harmony, kumbaya, and all that during the deliberative space, that will not have an impact to the society. Think about fun and optimize for fun. There is no perfect offering.
 
 ### Dominik Hierlemann：
 Thank you. That was pretty perfect. Some applause to you, Audrey Tang. Many thanks for sharing your insights, your experience, your wisdom so we can all learn a lot. Thank you to our four panelists, Yves, Graham, Anna, and Eva, for sharing their questions and also their experience.

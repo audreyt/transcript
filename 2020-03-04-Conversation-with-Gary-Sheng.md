@@ -238,7 +238,7 @@ Yeah, of course.
 Have other countries used this?
 
 ### Audrey Tang:
-As I said, SayIt started from mySociety, which is UK. It spread to a large number of users. If you google for SayIt, you can see that it’s being used in Africa, in many Parliament’s, and things like that.
+As I said, SayIt started from mySociety, which is UK. It spread to a large number of users. If you google for SayIt, you can see that it’s being used in Africa, in many Parliaments, and things like that.
 
 ### Audrey Tang:
 It’s actually a very integrated component in many existing civic hacking groups, where people really want to take a unfriendly format, for example, PDF files or things like that, that are published by their local city council or parliament. They write simple programs that publish them then as transcript that you can easily quote.
@@ -289,7 +289,7 @@ Maybe a trophy from the president, promising to implement whatever they have don
 If I’m hearing that you are changing the culture subsets, it’s more changing like helping people value the sort of making these participatory processes more accessible to the Gen Z types that \[inaudible 25:07\] interactions and then other people who are the more synchronous \[inaudible 25:13\] .
 
 ### Audrey Tang:
-It’s transculturalism, which means the freedom to move across coaches and inspect your own upbringing with the lens of a different culture – asynchronous, synchronous, remote, face-to-face. These are all different kinds of cultural primitives, \[laughs\] the different cultural components.
+It’s transculturalism, which means the freedom to move across cultures and inspect your own upbringing with the lens of a different culture – asynchronous, synchronous, remote, face-to-face. These are all different kinds of cultural primitives, \[laughs\] the different cultural components.
 
 ### Audrey Tang:
 Having existing mechanisms such as SayIt that bridges this very spontaneous, real-time conversations that we’re having now into a knowledge article that people can cite, annotate, and things like that is by itself a bridge across the synchronous and asynchronous cultures.

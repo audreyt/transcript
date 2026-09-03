@@ -54,7 +54,7 @@ Sorry to interrupt.
 Not at all. We’re just starting this interview about the technology for social good, as well as a innovation ecosystem, and how Taiwan’s civic tech and social innovation ecosystem plays together.
 
 ### Audrey Tang:
-This is a effort, a joint research program, that will be published openly about how to solve the most wicked parts of the Sustainable Development Goals, and is jointly funded by some French and some American sources.
+This is an effort, a joint research program, that will be published openly about how to solve the most wicked parts of the Sustainable Development Goals, and is jointly funded by some French and some American sources.
 
 > (laughter)
 
@@ -395,10 +395,10 @@ This is the spirit of entrepreneurship, as well as the massive participation of 
 How do you then get the balance between one entrepreneur making a whole bunch of money, and still trying not to use the massive corporation, for instance the data of citizens? If you take Cambridge Analytica thing that just happened, how do you make sure the entrepreneurship is actually serving the rest of the population?
 
 ### Audrey Tang:
-By promoting a open model of innovation. For example, I am here every Wednesday, 10:00 AM to 10:00 PM usually. Everybody gets to talk with me and use government resources, but they have to agree to publish their transcript publicly.
+By promoting an open model of innovation. For example, I am here every Wednesday, 10:00 AM to 10:00 PM usually. Everybody gets to talk with me and use government resources, but they have to agree to publish their transcript publicly.
 
 ### Audrey Tang:
-If the innovation happens in the open, if the innovation is CC licensed, or otherwise licensed under a open way. Like the g0v, most of our work is under CC0, which is totally in the commons, even the attribution. We don’t want attribution.
+If the innovation happens in the open, if the innovation is CC licensed, or otherwise licensed under an open way. Like the g0v, most of our work is under CC0, which is totally in the commons, even the attribution. We don’t want attribution.
 
 ### Audrey Tang:
 What this means is that the innovations in the commons is pooled, and it’s pooled in a way that enables further innovation to happen without the first mover having a de facto monopoly power. For example, I don’t have a monopoly power of how g0v moves. Neither does anyone, really, in the g0v movement.

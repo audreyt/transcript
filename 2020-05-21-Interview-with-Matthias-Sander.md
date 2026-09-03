@@ -40,7 +40,7 @@ Functional programming doesn’t do that. It doesn’t command the computer to d
 I attended previous ICFPs. I was on a program committee of its sub-conference, the commercial use of functional programming, a few years ago, so I have some ties to that academic community.
 
 ### Audrey Tang:
-The program chair of this year wrote me saying that they realize, in the program committee, that I’m one of very few people, if not the only person, who both is a expert on functional programming and also on COVID response. These two has never been joined before in a talk.
+The program chair of this year wrote me saying that they realize, in the program committee, that I’m one of very few people, if not the only person, who both is an expert on functional programming and also on COVID response. These two has never been joined before in a talk.
 
 ### Audrey Tang:
 They will like me to somehow figure out a way to connect those two threads together, which is not trivial, because they are almost incommensurable areas.
@@ -959,7 +959,7 @@ Or former collaborator. You’re not a boss. You don’t have bosses, I guess.
 She never gave me orders.
 
 ### Audrey Tang:
-Three very different things. First, Jaclyn Tsai was the horizontal minister for law. She actually takes part of all the bills that requires a legal interpretation or legal counsel from each ministry. I don’t do that because I’m not a expert in law. Well, Jaclyn is an expert in law, but I am not.
+Three very different things. First, Jaclyn Tsai was the horizontal minister for law. She actually takes part of all the bills that requires a legal interpretation or legal counsel from each ministry. I don’t do that because I’m not an expert in law. Well, Jaclyn is an expert in law, but I am not.
 
 ### Audrey Tang:
 I’m more like a counsel on algorithms, instead. People come to me and seek advice, not because they need a novel interpretation of our legal system. We have a Minister Lo for that.
@@ -1529,7 +1529,7 @@ Of course, I’ve been working on that for three-and-a-half years.
 Where is it at right now in Taiwan?
 
 ### Audrey Tang:
-At the moment it’s a office within the NDC, the National Development Council, but because it doesn’t have independent budget and independent personnel it is not quite up to GDPR standards. There needs to be a proposal bill to our Personal Data Protection Act, as well as a formative act to enable this kind of independent entity.
+At the moment it’s an office within the NDC, the National Development Council, but because it doesn’t have independent budget and independent personnel it is not quite up to GDPR standards. There needs to be a proposal bill to our Personal Data Protection Act, as well as a formative act to enable this kind of independent entity.
 
 ### Audrey Tang:
 There’s already a draft. It’s not public yet. The hope is that we can get all of this mechanism going before actually issuing e-ID. Certainly, before issuing it mandatorily to people, because otherwise there’s no way we can get GDPR adequacy.

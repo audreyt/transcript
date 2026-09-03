@@ -94,7 +94,7 @@ It’s fortunate that in Taiwan, for information services, there is the Institut
 It was designed with a very similar motivation as 18F, except it’s maybe 30 years ago. It’s a very long lift, 18F. We worry less about sustainability. The two pillars, the III, for information, industry, and the ITRI for technology research, actual industrial technology, these two are the two pillars that the Executive Yuan, the cabinet, works very reliably with.
 
 ### Audrey Tang:
-They do a lot of spin offs. If one team does it exceedingly well for a ministerial project, they can get spun off to do this service for many ministries and even the business community. That solves a issue that has been going on for over 30 years, is that is it unfair competition with outside vendors when the III staff are literally co-works with the ministerial staff? Are they in a privileged bidding position?
+They do a lot of spin offs. If one team does it exceedingly well for a ministerial project, they can get spun off to do this service for many ministries and even the business community. That solves an issue that has been going on for over 30 years, is that is it unfair competition with outside vendors when the III staff are literally co-works with the ministerial staff? Are they in a privileged bidding position?
 
 ### Audrey Tang:
 Past couple of years, there is a new doctrine that says the III can do scoping work, research work, and so on, but for maintenance work, it must never join that kind of bid and spin this off. It’s OK for that team to be spun off into a maybe social enterprise, and that carries the maintenance, but then they must bid fairly with everybody else for the ongoing work.

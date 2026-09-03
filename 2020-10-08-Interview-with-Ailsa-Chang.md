@@ -32,7 +32,7 @@ Hello, and good local time, everyone.
 Yeah, the most important technology is definitely soap, followed by alcohol hand sprays, and then medical masks, and so we very early on had this meme that called on all citizens to wear a mask to protect oneself from one’s own unwashed hands, and that meme I think helped a lot.
 
 ### Audrey Tang:
-Also, I think digital technologies also help. There was a app made by civic hackers that showed the availability of medical mask in nearby pharmacies, so people don’t have to queue in vain.
+Also, I think digital technologies also help. There was an app made by civic hackers that showed the availability of medical mask in nearby pharmacies, so people don’t have to queue in vain.
 
 ### Audrey Tang:
 There’s also the quarantine measures on the border. When people return to Taiwan, they can choose to go to the hotel for 14 days of physical quarantine, or they can stay at their own home if they have their own bathroom, and put their phones into the digital quarantine for 14 days.

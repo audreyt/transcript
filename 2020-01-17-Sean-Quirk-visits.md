@@ -40,7 +40,7 @@ The biggest threat, of course, are in the digital domain. That is the potential 
 The sowers of discord use this kind of echo-chamber effect of social media. For every social controversial issue, there are, of course, five statement that could be easily identified that can divide a society neatly in half to radicalize the conversation.
 
 ### Audrey Tang:
-Actually, there’s a lot more consensus. People understand that these are the basic things that we can not only live with, but really want something to happen. This is a real conversation in Bowling Green, USA about how to change STEM into STEAM. That is what the Democrat and Republicans all agree on using a online wiki survey tool called pol.is.
+Actually, there’s a lot more consensus. People understand that these are the basic things that we can not only live with, but really want something to happen. This is a real conversation in Bowling Green, USA about how to change STEM into STEAM. That is what the Democrat and Republicans all agree on using an online wiki survey tool called pol.is.
 
 ### Audrey Tang:
 I think democracy, the main risk is if we over-focus on these issues and lose our sight on these issues, which could be pushed forward in a cross-partisan manner. If people lose sight on these and think people as essentially not humans, then it propagates the idea of what we call exclusionary populism. That is the main threat of democracy.
@@ -364,7 +364,7 @@ We see worldwide that if the politicians can make joke about themselves…
 With the work you’ve seen, again, across borders on Cofacts, for example, or Code for All, are you confident when you look at US civil society and fact-checking relative to Taiwan, or do you see the United States has a long way to go before we have the same protections Taiwan does?
 
 ### Audrey Tang:
-My office is essentially in charge of working with the civil society on civic participation and social innovation. There was a office of that name in the US.
+My office is essentially in charge of working with the civil society on civic participation and social innovation. There was an office of that name in the US.
 
 > (laughter)
 

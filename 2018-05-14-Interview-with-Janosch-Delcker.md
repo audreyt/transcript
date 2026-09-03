@@ -73,7 +73,7 @@ There’s talk here in Europe about the GDPR potentially becoming a model for th
 There’s parts of the GDPR that, I think, are very advanced and that we should definitely learn about. In particular, the requirement for the data operator to explain in understandable terms instead of just a request to explain at all in any technical terms, that is a real innovation and that’s the one that I personally feel very important. I could call that a model of the world. \[laughs\]
 
 ### Audrey Tang:
-There’s other parts that we will have to adjust based on the social norms here. For example in Taiwan, the special, sensitive personal data, we have actually more strict protection than the GDPR one. For example, the medical records, health records, genetic information, also criminal records, and things like that we are actually putting into a much more stricter provision.
+There’s other parts that we will have to adjust based on the social norms here. For example in Taiwan, the special, sensitive personal data, we have actually more strict protection than the GDPR one. For example, the medical records, health records, genetic information, also criminal records, and things like that we are actually putting into a much stricter provision.
 
 ### Audrey Tang:
 We’re not looking at GDPR to say &quot;so we can relax those.&quot; \[laughs\] There are parts of it that we need to harmonize within our practice. Generally, I would say it’s on the right direction.
@@ -91,10 +91,10 @@ Any public discussion is a good thing, because the scenario that we don’t want
 We want to encourage our researchers to work in the open and to work out AI safety and ethic norms with the whole society, with all the stakeholders. In fact, just this week, we’re proposing a new legislation to our parliament. It’s called the AI Mobility Sandbox.
 
 ### Audrey Tang:
-I see that Germany is setting a kind of AI ethic for autonomous vehicles that puts human first, animal second, \[laughs\] and some very interesting ideas about nondiscrimination of any race, ethnicity, and things like that when they consider human’s life and so on, which are very good guidelines.
+I see that Germany is setting a kind of AI ethics for autonomous vehicles that puts human first, animal second, \[laughs\] and some very interesting ideas about nondiscrimination of any race, ethnicity, and things like that when they consider human’s life and so on, which are very good guidelines.
 
 ### Audrey Tang:
-In reality, what people care about is not only such top down philosophical guidelines, but very practical thing like when a AI driven vehicle runs into something, not necessarily people, when it runs into a building, for example, how do we interrogate that vehicle and see the world from its perspective so that it can communicate with people?
+In reality, what people care about is not only such top down philosophical guidelines, but very practical thing like when an AI driven vehicle runs into something, not necessarily people, when it runs into a building, for example, how do we interrogate that vehicle and see the world from its perspective so that it can communicate with people?
 
 ### Audrey Tang:
 This process, we already have a word for that, it’s called domestication. Just like the wolves and earlier hominids co-domesticated each other to become modern dogs and modern human, \[laughs\] we also need a way for the early AI vehicles to not just be subject to some top down ethic standard, which is important, I’m sure, but also interrogate its integration into the society.
@@ -112,10 +112,10 @@ We were able to have the local university college students tweak it so that we c
 In the AI Mobility Sandbox, what we’re doing is that we’ll have the local, regional governments declare their social need that could be fulfilled by element of testing of AI vehicles. It’s not just driving, but it could be ships, it could be drones, but slowly maybe under a speed limit or something to experiment with the business model.
 
 ### Audrey Tang:
-The important thing is not some top down rules, but for the society, through this experimentation, gain a firsthand understanding of how to commit co domesticate with AIs, and then write up such multi stakeholder opinions and reflections into something that could in turn inform the interaction design of the vehicles so that they can explain themselves and integrate better.
+The important thing is not some top down rules, but for the society, through this experimentation, gain a firsthand understanding of how to co-domesticate with AIs, and then write up such multi stakeholder opinions and reflections into something that could in turn inform the interaction design of the vehicles so that they can explain themselves and integrate better.
 
 ### Audrey Tang:
-What I’m trying to say is that with the AI Mobility Sandbox, we’re taking a grassroot approach instead of a few legislators, and a few theoritians, and a few computer science ministers, that’s me, \[laughs\] declaring that such and such thing is good and ethical from AI standpoint. We’re going to use a slow speed limited area sandbox, and for the society to work out with the individual vendors.
+What I’m trying to say is that with the AI Mobility Sandbox, we’re taking a grassroot approach instead of a few legislators, and a few theoreticians, and a few computer science ministers, that’s me, \[laughs\] declaring that such and such thing is good and ethical from AI standpoint. We’re going to use a slow speed limited area sandbox, and for the society to work out with the individual vendors.
 
 ### Audrey Tang:
 At the end of experiment, if it’s declared good for society, we’ll just incorporate part of it into the regulation. If it’s not a good idea, at least it doesn’t really hurt anyone. We can demand extra restrictions of the future experimentation. We already have some success with Fintech Sandbox, with AI banking. Now, we think AI Mobility should be the next sandbox after the AI banking one.
@@ -235,7 +235,7 @@ For example, just take another non-AI example. Just recently, the Ministry of Tr
 If you start charging people for those two trips, you’re still carpooling. If you’re doing it’s more than two times a day, then from the third time onward, you’re essentially doing Uber like rental car service, and you start being eligible for taxation and whatever above the third trip.
 
 ### Audrey Tang:
-I can easily imagine that in other jurisdictions in Europe using the European platform economy loss. It’s not two trips, four trips, or whatever.
+I can easily imagine that in other jurisdictions in Europe using the European platform economy laws. It’s not two trips, four trips, or whatever.
 
 ### Audrey Tang:
 I think the structure of the argument will be the same. We will be able to co create on the code based norms. Data society can opt in or opt out, and tune the parameters like two trips or four trips. We’re going to see very much the same thing about AI banking, AI Mobility, and other applications.

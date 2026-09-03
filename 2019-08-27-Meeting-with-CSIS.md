@@ -19,7 +19,7 @@ Sure. We occupied the Parliament in April 2014 for 22 days. After 22 days of Occ
 Instead of treating things like the cross-strait service and trade agreement as something that’s perfectly administration-led and the Parliament has no substantial discussions. The theory was – legitimacy theory of the Occupy – was that the MPs were on strike, because they refused a substantial deliberation of the Beijing trade agreement, so people occupied the place for public deliberation – that’s the Parliament – to debate this by ourselves.
 
 ### Audrey Tang:
-I was helping with the communication both for everybody, like tens of millions of people, online and half a million on the street to nevertheless get a idea of what’s being discussed that day.
+I was helping with the communication both for everybody, like tens of millions of people, online and half a million on the street to nevertheless get an idea of what’s being discussed that day.
 
 ### Audrey Tang:
 Which aspect did they care about the trade agreement? Maybe they own a company. Maybe they work at a co-op or whatever, and they just enter the trade or the serial number of their company, and they can see immediately how the CSSDA affects them.
@@ -247,7 +247,7 @@ I’ll read to you my job description, which answers this in its first stanza. \
 The idea very simply is to replace those industrial words with the human-centric words that ensures that when we’re talking about the Internet of things, we’re not saying that a particular sector, be it private or public, should dominate the society. I’ll use one example, which is really quick.
 
 ### Audrey Tang:
-When we talk about IoT – in Taiwan we say AIoT, Assistive Internet of Things or AI – these environmental IoT devices, they’re built by the social sector, maintained by the social sector, in a open-source way that reports to a distributed ledger that’s a blockchain, enabling everybody worrying about air pollution anywhere to participate in the data collaborative. This is called the AirBox project.
+When we talk about IoT – in Taiwan we say AIoT, Assistive Internet of Things or AI – these environmental IoT devices, they’re built by the social sector, maintained by the social sector, in an open-source way that reports to a distributed ledger that’s a blockchain, enabling everybody worrying about air pollution anywhere to participate in the data collaborative. This is called the AirBox project.
 
 ### Audrey Tang:
 For the public sector, when we think about issues like this, we always say we can’t beat the social sector. We must join the social sector. Our role is to first ensure that they can set up the AirBoxes in the places such as industrial parks that they don’t have access to because they’re private lands.
@@ -369,7 +369,7 @@ How are we going to deal with the world of deep fakes?
 Be proactive. First of all, what’s important is that whenever deep fakes or other disinformation campaign happen, within one hour, in all our ministries, they are not equipped to push out a meme, meaning something that goes viral on the Internet, that clarifies this, is genuinely funny, and reaches more people than the original disinformation campaign.
 
 ### Audrey Tang:
-This is a example. There was a fake picture, not really a deep fake, \[laughs\] that says perming your hair will be subject to a $1 million fine. This sowed discord.
+This is an example. There was a fake picture, not really a deep fake, \[laughs\] that says perming your hair will be subject to a $1 million fine. This sowed discord.
 
 ### Daniel F. Runde:
 Did a government probably put that together? Could a government, state-sponsored actor do that?
@@ -444,7 +444,7 @@ Imagine there’s no countries? It isn’t hard to do.
 In your lifetime, will there be democracy in Mainland China? I think it’s possible.
 
 ### Audrey Tang:
-If Hong Kong concludes well, it sets a example.
+If Hong Kong concludes well, it sets an example.
 
 ### Daniel F. Runde:
 What does conclude well in your mind? I hope it concludes well, too. In my mind, what I think it means is that Xi Jinping backs off of this law and returns to status quo ante. Isn’t that basically what the best outcome is at this point?

@@ -13,7 +13,7 @@ In Taiwan, we’re translating this hashtag, #TaiwanCanHelp, into 暖實力, whi
 At the moment the PRC is developing something that’s not hot power. That’s sharp power, which is different from hot power in that they use it in a very strategic fashion. We also think that our soft power need to upgrade. We upgraded to warm power, or 暖實力, and symbolized by the hashtag #TaiwanCanHelp.
 
 ### Audrey Tang:
-I’m happy if people see me as one of the ambassadors of this new massage. TaiwanCanHelp is not just soft power. It’s not just about credibility and trust, although these are, of course, of utmost importance, but rather credibility and trust on solving the issues you care about. That’s the essence of #TaiwanCanHelp.
+I’m happy if people see me as one of the ambassadors of this new message. TaiwanCanHelp is not just soft power. It’s not just about credibility and trust, although these are, of course, of utmost importance, but rather credibility and trust on solving the issues you care about. That’s the essence of #TaiwanCanHelp.
 
 ### Andrew Leonard:
 That’s a big part of what I want to try and get out in this story. I want to start very early on and figure out how you joined the open source tribe.
@@ -587,7 +587,7 @@ Court decisions, obviously, the judicial branch takes care of that.
 I’m fascinated by the collaboration between the platforms, civil tech groups, and the government when combating disinformation, especially in the case of Facebook, which was huge at that time. Correct me if I’m wrong, but it seems like in Taiwan Facebook acted like a good citizen.
 
 ### Audrey Tang:
-They conform to the social norm. Maybe they know that Taiwan people is very good at social section.
+They conform to the social norm. Maybe they know that Taiwan people is very good at social sector.
 
 ### Audrey Tang:
 If they do not conform to the social norm, such as revealing the role they have, each political advertisement in real time, so that people can call out people who use dark operations, if they don’t do that, then we will say, “Oh, our control yuan does that for regular campaign expenses and campaign donations.”

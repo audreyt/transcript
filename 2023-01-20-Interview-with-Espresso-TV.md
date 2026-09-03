@@ -1,14 +1,14 @@
 # 2023-01-20 Interview with Espresso TV
 
 ### Vitaly Portnikov:
-Greetings here. We really appreciates your time and writing this to be with us in this interview.
+Greetings here. We really appreciate your time and writing this to be with us in this interview.
 
 Our first question will be about the help of the time into Ukraine. It's not only about the help about the damaged areas, but also the investment of the future our country.
 
 Yeah, we know the Lyceum Grono, they received pretty big support by your partners by Acer and with your ministry and your foreign ministry. How important is it to invest in the future education? What will be the education of the future?
 
 ### Audrey Tang:
-Thank you for the question. In Taiwan, we have the saying, wherever there is school, there is hope. Indeed, schools are centers of resilience and national revitalization. By equating teachers and students with not just equipment, but the know-how, there's drive in an additional era we are sowing the seeds for inclusive prosperity.
+Thank you for the question. In Taiwan, we have the saying, wherever there is school, there is hope. Indeed, schools are centers of resilience and national revitalization. By equipping teachers and students with not just equipment, but the know-how, there's drive in an additional era we are sowing the seeds for inclusive prosperity.
 
 I, myself, a junior high school dropout, but I worked with all schools together to learn a lot to build a better tomorrow, not just for myself, but also for my community of free software and open-source developers.
 
@@ -98,7 +98,7 @@ While the operation cost is subsidized by the university and therefore by the st
 
 It is our PTT, for example, that we, before anyone really in the world, detected early 2020, indeed, a day before January 1st, 2020, that there is something going on in Wuhan from Dr. Li Wenliang. Therefore, led to our early pandemic response.
 
-A digital public space that is treated as a infrastructure subsidized but not controlled by the state is also important, in addition to broadband as a human right.
+A digital public space that is treated as an infrastructure subsidized but not controlled by the state is also important, in addition to broadband as a human right.
 
 ### Vitaly Portnikov:
 Taiwan and Ukraine have certain points of contact. They have managed to evolve from one monopoly party regime to the democratic regime. Of course, I'm not going to compare the regimes that were present at Taiwan and with the Soviet Communist regime now, but still I think that both Ukrainians and Taiwanese people they didn't understand what the competition was and what was the power of choice.

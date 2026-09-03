@@ -56,7 +56,7 @@ Sound is actually a better AR medium. Of course, maybe, you’ve had experience 
 It’s not so much as prediction as observation. First, people are spending more time on the more immersive, more envious part of themselves as to you see, like sharing the soundscapes of where they are essentially.
 
 ### Audrey Tang:
-Also, the popularization of 5G technology brings us out from the offices. Before, if we are looking to communicate in a low latency way, pretty much both sides need to be in a office or in a room with fiber optic connections.
+Also, the popularization of 5G technology brings us out from the offices. Before, if we are looking to communicate in a low latency way, pretty much both sides need to be in an office or in a room with fiber optic connections.
 
 ### Audrey Tang:
 Nowadays, these two VR headsets, if you put it on, I mean, this is 5G built in and it doesn’t even need a controller so you can scan the surrounding and drove us into the Matterhorn mountain in Switzerland or whatever and enjoy cool presence. That’s mostly motivated by the need of sharing sound and gestures, not so much as the kind of video footage, and so on. That’s outdoor experience sharing.
@@ -131,7 +131,7 @@ We started to see some significant increase in traffic when social impact relate
 I was wondering what is your feedback or thought about platforms like this UGC focused platform or for instance 爆料公社, it’s so popular in Taiwan.
 
 ### Audrey Tang:
-It makes a impact, it has a symbiotic relationship with the mainstream news. Right? People who share there basically are looking to prevent something wrong from happening again.
+It makes an impact, it has a symbiotic relationship with the mainstream news. Right? People who share there basically are looking to prevent something wrong from happening again.
 
 ### Audrey Tang:
 That’s a very powerful channel for outreach to collect collaborative perspectives about a particular social issue and the joy of delivering some new mechanism that could be, I don’t know, locking down the cars of people who drunk drive. \[laughs\] Right? They have to brace into their car in order to drive. Now, that’s a actual result of this kind of social movements.
@@ -316,7 +316,7 @@ You probably have heard of this before. It helps, especially conversations aroun
 OK, individual censorship. In what ways, by the way?
 
 ### Audrey Tang:
-For example, the people who want to write about the experience after the newest security laws in Hong Kong, they need a entire ecosystem, including the payment platform.
+For example, the people who want to write about the experience after the newest security laws in Hong Kong, they need an entire ecosystem, including the payment platform.
 
 ### Audrey Tang:
 For example, they care a lot about Patreon, not revealing, to any of its payment suppliers, the actual address, and not working with anyone in the PRC who could, theoretically, discover their whereabouts or their real identity when they write under a pseudonym. This is just one example. The personal security of people still physically in Hong Kong is very important to the Matters community.
@@ -624,7 +624,7 @@ Exactly, for instance, for me personally, I’m so used to working in an environ
 Sometimes, they can be too shy, they think this might be offensive, or this can be not a polite way to work with colleagues. I’m pretty much shameless, \[laughs\] but I love to work with people and talking with people. I’m so much used to it. A few years ago, when I wrote music for a film called 樓下的房客 , by 九把刀, I wrote the music for them.
 
 ### Ivan Linn:
-That was first time that we brought the production over from Hollywood. We were particulary working with Thomas Newman’s team. Thomas Newman is the composer who wrote a music for “Finding Nemo,” “WALL E” and all those classic motion picture titles. For that project in particular, the tenants downstairs, it was very much like a bridge serving for Taiwanese community and Hollywood.
+That was first time that we brought the production over from Hollywood. We were particularly working with Thomas Newman’s team. Thomas Newman is the composer who wrote a music for “Finding Nemo,” “WALL E” and all those classic motion picture titles. For that project in particular, the tenants downstairs, it was very much like a bridge serving for Taiwanese community and Hollywood.
 
 ### Ivan Linn:
 Surprisingly, as much as we know that there are so many people who wanted to work with Hollywood people, they don’t know how to reach out to them first. When I talked to the team of Thomas Newman, they also think that, “Hey, we’re in Hollywood. Yes, we’re in Hollywood. But we also wanted to work on projects outside Hollywood. We don’t always wanted to work in this closed environment. The thing is that we don’t know the way to go out.” You see that there is a conflict.

@@ -97,7 +97,7 @@ You have private groups. You’re pulling the data together. This is based on al
 I had a number of questions for you. First I would start, what do you think of this direction?
 
 ### Audrey Tang:
-It’s pretty useful, but why would it require a app to do so? Why not a, say, web app?
+It’s pretty useful, but why would it require an app to do so? Why not a, say, web app?
 
 ### Sean Moss-Pultz:
 It came back to the data model that we have where the keys are secured in a secure enclave, so in some very safe area. The personal data that gets pulled off of the device can be kept private, can be kept encrypted, and then the open data gets combined with it.
@@ -112,7 +112,7 @@ It looks like there’s two different apps in one that you just demoed. One that
 The self-assessing tool doesn’t really need anything from the secure store. The general recommendations that it’s giving, one can do so in a general purpose, web based form and give very similar recommendations. It’s not like your exact geolocation within Taiwan changes the recommendation levels, so it doesn’t even need the exact location of where you are.
 
 ### Audrey Tang:
-What I’m trying to say is that usually when you’re using a app-specific data source, be it the geolocation data or their personal health data, it’s because you’re going to personalize their experience. The same applies for Bluetooth beacons or things like that.
+What I’m trying to say is that usually when you’re using an app-specific data source, be it the geolocation data or their personal health data, it’s because you’re going to personalize their experience. The same applies for Bluetooth beacons or things like that.
 
 ### Audrey Tang:
 In the case of Taiwan and the recommendations they’re giving, that’s going to be uniform in any place in Taiwan. The only differentiating factor would mostly be their age, and everything else is self-assessed.

@@ -88,7 +88,7 @@ People who want this kind of social atmosphere prefers Taiwan because in Silicon
 With that horizon, the business concerns start to align very well with social environmental concerns. Ethan Tu came back to Taiwan, and with him, a lot of his friends from Microsoft. They set up the Taiwan AI Labs.
 
 ### Audrey Tang:
-They set up open AI, a open innovation research team that attempts to introduce assistive intelligence in the norm co-creation, not as imposing new norms on the society way. I think it’s this vision that drew these people who are having really good career and positions in Silicon Valley back to Taiwan to try out whatever they’re working on in a way that is more pro-social and not kind of a neutral or antisocial directions.
+They set up open AI, an open innovation research team that attempts to introduce assistive intelligence in the norm co-creation, not as imposing new norms on the society way. I think it’s this vision that drew these people who are having really good career and positions in Silicon Valley back to Taiwan to try out whatever they’re working on in a way that is more pro-social and not kind of a neutral or antisocial directions.
 
 ### Kelsey Broderick:
 How much regulatory change had to be introduced to change the environment here?

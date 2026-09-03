@@ -322,7 +322,7 @@ Trust is something that can’t be commanded. The government need to trust the c
 Once the citizens get used to the idea and the practice of the government actually trusting their input, maybe some of the citizens will trust back, but this takes time.
 
 ### Audrey Tang:
-Taiwan was a authoritarian system during the martial law for the longest period in the world. It’s literally generations of authoritarian rule.
+Taiwan was an authoritarian system during the martial law for the longest period in the world. It’s literally generations of authoritarian rule.
 
 ### Audrey Tang:
 To undo those psychological issues requires not only the de‑authoritarian mind process of everybody in the Cabinet and President, but also by demonstration, once they’re in, that we’re willing to engage in dialogue, even with people who don’t trust us, can we earn the trust back. That takes time.
@@ -397,7 +397,7 @@ There’s a huge archive project that’s gone on for some years now, primarily 
 All sorts of, not just National Palace Museum things, but also oral history, performance, memories of tribal, or whatever, that the heritage is.
 
 ### Audrey Tang:
-I do think, due to the limitation of the previous technology, we tend to capture some narratives and some photos, like tiny slices of these kind of things. I do think the modern technology with VR, with 360 reconstruction we can capture the immersive experience, not just as a outsider’s view, but as a insider’s view of all these kind of things.
+I do think, due to the limitation of the previous technology, we tend to capture some narratives and some photos, like tiny slices of these kind of things. I do think the modern technology with VR, with 360 reconstruction we can capture the immersive experience, not just as an outsider’s view, but as an insider’s view of all these kind of things.
 
 ### Audrey Tang:
 I’m very interested in that, and also think that it’s one of the many ways to build empathy for people to debate meaningfully on a public construction, for example, by being its inhabitants. Being, maybe, children in this new space, being cast in this new space, and seeing the new space in all triangles.
@@ -555,7 +555,7 @@ That’s how Twitter is used when it was first invented. All those long form pac
 I really relearned a lot of the early microblogging techniques, reading how Trump is tweeting.
 
 ### Kevin Peraino:
-You think he’ s a good communicator. What about policy? What about policymaker?
+You think he’s a good communicator. What about policy? What about policymaker?
 
 ### Audrey Tang:
 I don’t quite know what exactly is the policy that’s being enacted. I see a lot of white papers and a lot of calls to enact this and that, but as of what’s actually transpired, I admit that I haven’t studied at length that way what’s being discussed.
@@ -678,7 +678,7 @@ I read you got paid a Bitcoin an hour. Is that true?
 Yeah, but it’s converted to USD at the time of signing. The same happened with Oxford University Press and Socialtext, because none of the three organizations has a ledger that can do Bitcoin.
 
 ### Audrey Tang:
-I wouldn’t say any of these are particularly lucrative, because I’m always paid by the hour. Socialtext did give me some stocks, but I didn’t ask for them. There’s no particularly lucrative job that I participated. I said a arbitrary hourly rate of one Bitcoin per hour for years.
+I wouldn’t say any of these are particularly lucrative, because I’m always paid by the hour. Socialtext did give me some stocks, but I didn’t ask for them. There’s no particularly lucrative job that I participated. I said an arbitrary hourly rate of one Bitcoin per hour for years.
 
 ### Kevin Peraino:
 In one of the interviews somebody said something about you being a millionaire. You said, &quot;Well, not if you calculate it in Europe. If you calculate it in dollars.&quot;
@@ -707,7 +707,7 @@ What was the name of it?
 It was called Informationist, \[non‑English speech\] . It was then renamed to Inforist. It was renamed to Inforian, and then renamed to P‑Asia. It’s a company that likes renaming a lot.
 
 ### Audrey Tang:
-Each of those four iterations it was a social media, like the Chinese version of ICQ. It was the Messenger kind of thing. It was a auction site, and it was also a search engine. It was also an online community. It was also a lot of other things.
+Each of those four iterations it was a social media, like the Chinese version of ICQ. It was the Messenger kind of thing. It was an auction site, and it was also a search engine. It was also an online community. It was also a lot of other things.
 
 ### Kevin Peraino:
 You said you wrote some pieces of software for them for...
@@ -809,7 +809,7 @@ For people who believe in that.
 You’re talking about as a tool of nationalism?
 
 ### Audrey Tang:
-Or whatever. Anyone who wants to be a example of somebody else, of course, is holding themselves to a integrity standard. It’s a good thing, psychologically speaking.
+Or whatever. Anyone who wants to be an example of somebody else, of course, is holding themselves to an integrity standard. It’s a good thing, psychologically speaking.
 
 ### Kevin Peraino:
 It’s a good thing for Americans?
@@ -1196,7 +1196,7 @@ The thing is that even after being the Digital Minister, I still taught classes 
 I have to file any amount of papers to get anywhere outside Taiwan, which I also find intriguing. \[laughs\] But I have ways around that. I send my digital double. I send my avatars. I send robots.
 
 ### Audrey Tang:
-I’m made a virtual reality space and connected a classroom in Hangzhou with a classroom in Kaohsiung, and sent digital doubles to the students, who put out those VIVE devices to have seen my lecturing. There are ways around that, and I see those as inconveniences.
+I made a virtual reality space and connected a classroom in Hangzhou with a classroom in Kaohsiung, and sent digital doubles to the students, who put out those VIVE devices to have seen my lecturing. There are ways around that, and I see those as inconveniences.
 
 ### Audrey Tang:
 The whole thing is that my work is for the enjoyment of anyone who happens to run across it and understand it. I don’t see a paradox between my work and closer tie to anyone, any person. It’s a very individual‑to‑individual world view. In this kind of sharing, state is a harmful illusion.

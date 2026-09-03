@@ -492,7 +492,7 @@ Do we have some information how much start-ups is created each year and how much
 I think the one-year mortality \[laughs\] ...Most of the start-ups didn’t really linger. The idea is that, as in Silicon Valley, we pivot. We don’t fail. \[laughs\] The idea is that for many, I would say a majority -- I think that the number is like 85 or 90 percent of startups -- they just start building a business model. They find out it’s not a market fit. Yet it’s born out of a social mission, so they try a different business strategy to further the same social mission.
 
 ### Audrey Tang:
-The social entrepreneurs that I work with, many of them try four or five different iterations, maybe one as a NGO, one as a coop, and the other one as a company, whatever angle they can get donations, investments, or whatever. Then finally finding a way that has learned sufficiently from the stakeholders and fit into the market.
+The social entrepreneurs that I work with, many of them try four or five different iterations, maybe one as an NGO, one as a coop, and the other one as a company, whatever angle they can get donations, investments, or whatever. Then finally finding a way that has learned sufficiently from the stakeholders and fit into the market.
 
 ### Audrey Tang:
 I think that is natural. I’m not arbitrarily thinking that we should improve the success rate of startups, as long as it’s to the benefit of the ecosystem, that they pivot and write postmortems and let the ecosystem know where they failed, when they pivot.

@@ -37,7 +37,7 @@ This is just like a Trello track, you see here that the 20 colleagues of mine ar
 Basically, each one of us take turns reporting the occurrence that has been going on the previous week. We create a new column in the Kanban for the week. Then we move the things that are done into the Kanban. In the typical Scrum or Agile manner, if things are blocked or if a certain column has atrophied and so on, we do some gardening and lunch, and that’s Monday.
 
 ### Audrey Tang:
-In the afternoon, the visitors from other governments or regional partners, and so on, usually visit me in the administration. Then we make a full recording of the what everybody has said and ask them to co edit. Usually, Monday is also when I send out the pre recorded opening speeches, keynotes and things like that for the week.
+In the afternoon, the visitors from other governments or regional partners, and so on, usually visit me in the administration. Then we make a full recording of what everybody has said and ask them to co edit. Usually, Monday is also when I send out the pre recorded opening speeches, keynotes and things like that for the week.
 
 ### Audrey Tang:
 If people ask me to, for example, chair at a opening or something without interaction, I usually just pre record whatever message they want me to say. That’s a typical Monday. As you can see, a lot of those conversations are interviews and so on, takes place on Monday. Here is also where we publish everything, like 10 working days after each meeting.
@@ -64,19 +64,19 @@ I think while online is great for brainstorming, offline or rather face to face 
 I guess technically, we can order the same pizza now and share some experience over Skype. It actually takes a lot of preparation to do so, and it doesn’t really scale. Believe me, I’ve tried it. \[laughs\]
 
 ### Audrey Tang:
-It’s scales to like three cities, but not much more. I think this sharing of community spirit enables the online collaboration to be much more efficient because then we don’t run the risk of misinterpreting each other’s words, or projects, or angles, and so on.
+It scales to like three cities, but not much more. I think this sharing of community spirit enables the online collaboration to be much more efficient because then we don’t run the risk of misinterpreting each other’s words, or projects, or angles, and so on.
 
 ### Audrey Tang:
 Such kind of way to welcome especially first timers into this very inclusive space is very important, because it’s very easy to look at online dialogues and see that it’s too professional, it requires too much commitment and so on. Enjoying food is something everybody can do, and so we very consciously run the hackathons, centered on high quality food.
 
 ### Audrey Tang:
-It’s also a kind of psychological hack because when someone hears the new idea, like quadratic voting or whatever, for the first time, if it’s an abstract concept, then people usually feel distanced about it. If you enjoy really good food, and we have a dedicated kitchen and chef here in the Social Innovation Lab, you usually associate a much better feeling, a hopeful feeling, a enjoyable feeling with the new idea.
+It’s also a kind of psychological hack because when someone hears the new idea, like quadratic voting or whatever, for the first time, if it’s an abstract concept, then people usually feel distanced about it. If you enjoy really good food, and we have a dedicated kitchen and chef here in the Social Innovation Lab, you usually associate a much better feeling, a hopeful feeling, an enjoyable feeling with the new idea.
 
 ### Audrey Tang:
 It makes people’s mind much more open. The same applies to the geometry of the design of the space.
 
 ### Amelia Tait:
-That’s absolutely fascinating. This is a big question, but over the your last few years as digital minister, and using vTaiwan and these hackathons, what’s the change that you’re most proud of or the thing that’s happened as a result of those that you think is the most important?
+That’s absolutely fascinating. This is a big question, but over your last few years as digital minister, and using vTaiwan and these hackathons, what’s the change that you’re most proud of or the thing that’s happened as a result of those that you think is the most important?
 
 ### Audrey Tang:
 vTaiwan is a project that is recursive. By that, I mean it is both a collaborative space, but it also generates laws and acts that enables more collaborative spaces. It’s a generator, is what I’m saying, and so I think I’m pretty proud of the sandbox system, which is all a result of the vTaiwan processes.
@@ -94,7 +94,7 @@ Basically, any law, any regulation can be challenged, aside from money launderin
 We have the Taiwan CAR Lab that tests various builds. You can have a flying car or whatever. After testing such builds in public sandboxes, you can then work with the regional revitalization communities to enable particular use cases, like drone delivery, and autonomous ships for remote islands, and things like that, and challenge or rather run with a forked version of the existing laws.
 
 ### Audrey Tang:
-No matter which laws or regulations are being challenged, the MPs of course can always say, &quot;Oh, but this needs a full parliamentarian deliberation,&quot; but they can take up to three or four years of doings so. While they’re doing that, the experiment continues to run and continues to generate open evidences for everybody to see, and including a business model.
+No matter which laws or regulations are being challenged, the MPs of course can always say, &quot;Oh, but this needs a full parliamentarian deliberation,&quot; but they can take up to three or four years of doing so. While they’re doing that, the experiment continues to run and continues to generate open evidences for everybody to see, and including a business model.
 
 ### Audrey Tang:
 Essentially a local monopoly for a while, but after the MPs are done with it, then of course this becomes the new regulation and law, and everybody has new competition entering the market and so on. This is basically the regulator saying we stop trying to regulate the norm. We first observe the norm, a manifesting, and then we base the regulation on it. It is what we call regulatory co creation.
@@ -133,7 +133,7 @@ That leaves a decade where the civil society enjoy the freedom of assembly, spee
 That means that for many issues such as disinformation, disaster relief, or things of public service nature, people tend to trust the social sector more than the public sector. If the largest charity like Tzu Chi publish a number about a disaster relief and then the government publish a number, chances are that the people mostly believe the social sector’s number.
 
 ### Audrey Tang:
-That has been the case since I was a child. I don’t see it changing now. That means that the civil society really feels a obligation in tackling issues like the disinformation thing.
+That has been the case since I was a child. I don’t see it changing now. That means that the civil society really feels an obligation in tackling issues like the disinformation thing.
 
 ### Audrey Tang:
 The g0v initiative, for example, basically takes everything that people think is of public value, but the public service isn’t doing — or shouldn’t be doing, or isn’t doing enough — and they just change the gov.tw into g0v.tw to introduce the shadow government service.
@@ -157,7 +157,7 @@ This is a pretty resilient civil society alert, not at all managed by the govern
 The database is open as well, and so third party projects like the Meiyu bot gets built. Meiyu is another bot that people can add to their chat rooms or chat groups of their family channel for example. This bot basically listens to each and every message in every group that they have been invited in, but they don’t keep the log.
 
 ### Audrey Tang:
-It compares it to the Cofact database, so whenever it’s similar, it just says, &quot;Oh this is a rumor. It has been disputed, or it has been clarified before.&quot; People, instead of waiting for five hours or waiting for a day to get a fact check, they actually get a fact check as soon as they post it in their family channel.
+It compares it to the Cofacts database, so whenever it’s similar, it just says, &quot;Oh this is a rumor. It has been disputed, or it has been clarified before.&quot; People, instead of waiting for five hours or waiting for a day to get a fact check, they actually get a fact check as soon as they post it in their family channel.
 
 ### Audrey Tang:
 This really changed the behavior of people. It saves the intergenerational conflict because people don’t have to correct their family members. Now a robot can do it for them. \[laughs\] Those are the systems that we’ve been seeing as very active, and also being widely approved. Certainly, they get more legitimacy than compared to if the government does the same thing.
@@ -184,7 +184,7 @@ That’s fascinating. Going back to what you said earlier about a lot of the too
 Certainly, it’s good for sustainability of service. In Taiwan, we have a Government Digital Service Guideline that says open by default. While open source is important and it is in the guideline, we also say that the open API, especially import/export API, as well as the data, the government data that is produced is equally important if not more important than open source.
 
 ### Audrey Tang:
-The reason is that if you have a open API, meaning that if you design your government services to be accessible not just to people, or to people with disabilities like blindness in a way that are friendly to them. If you treat machine intelligence as a kind of people with disability or alternate ability, then you can design your services to be also friendly to other machines, through structural data, skimmers, and so on.
+The reason is that if you have an open API, meaning that if you design your government services to be accessible not just to people, or to people with disabilities like blindness in a way that are friendly to them. If you treat machine intelligence as a kind of people with disability or alternate ability, then you can design your services to be also friendly to other machines, through structural data, skimmers, and so on.
 
 ### Audrey Tang:
 Once you design things this way, even if it’s not yet open source, it enables people who want to deliver the same service, but in a better way, to mix and match the system and adapt it to the latest devices and the latest user flows, without you having to redo the back end or the database, and the core business logic or government layer.
@@ -205,7 +205,7 @@ That’s the argument for open data. Finally, for open source, it enables what w
 Through open API, open data, the community can be built around public service. Once the community really trusts the government to deliver on its open by default promises, then the open source will find a large number of people who want to co create and maintain with you.
 
 ### Audrey Tang:
-If you don’t have that community relationship and just open source and post it on GitHub, you will find that nobody will want to start or fork project because the community always takes place before the code. The source code is just a excuse really for people to get to know each other. \[laughs\]
+If you don’t have that community relationship and just open source and post it on GitHub, you will find that nobody will want to start or fork project because the community always takes place before the code. The source code is just an excuse really for people to get to know each other. \[laughs\]
 
 ### Amelia Tait:
 That’s very interesting. As a conservative anarchist, what’s your long term vision about the Internet and our networked world? Is it something that can actually replace systems of governance, like traditional governments? You say you work with, not for the government. Is it alongside? In the long term future, what would you envision?
@@ -229,7 +229,7 @@ Once it’s part of the common, digital literacy is part of the common curriculu
 Back when the spam was really a problem, during that Bayesian spam filtering days, it was really tempting to ban entire countries from sending email, but the spam management community decided against that. When a supposedly more costly but ultimately more human right preserving way of detecting patterns and only blocking systems with those patterns.
 
 ### Audrey Tang:
-Otherwise, we’re taking away the fundamental rights, the broadband as human right, and the rights to communication to entire blocks in the African continent of people, and that would be actually a shame. I’m very happy that the spam fighting community made the right choice; I’m making sure that that the counter-disinformation community in Taiwan and also abroad makes the right choice this time.
+Otherwise, we’re taking away the fundamental rights, the broadband as human right, and the rights to communication to entire blocks in the African continent of people, and that would be actually a shame. I’m very happy that the spam fighting community made the right choice; I’m making sure that the counter-disinformation community in Taiwan and also abroad makes the right choice this time.
 
 ### Amelia Tait:
 Would you say then that you are optimistic about the future of the Internet?

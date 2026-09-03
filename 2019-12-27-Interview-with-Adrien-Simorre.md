@@ -103,7 +103,7 @@ I would say if people think that open source is somehow going away, that is a dr
 Still, people would rather use Microsoft or Apple rather than Linux, for example.
 
 ### Audrey Tang:
-It is a branding issue. Microsoft ships its own Linux operating system as part of Windows 10. Microsoft ships its own Chromium, which is a open-source browser started by Google Chrome, but label it branded as the Edge browser.
+It is a branding issue. Microsoft ships its own Linux operating system as part of Windows 10. Microsoft ships its own Chromium, which is an open-source browser started by Google Chrome, but label it branded as the Edge browser.
 
 ### Audrey Tang:
 To many people, the taking of the open-source community project and branding it, showing a different flavor, a different commitment to support, a different direction, this is technically called a fork. For many people, especially people who are not yet versed in programming, the environment that is somehow branded and somehow supported by a large company still offers some psychological safety.

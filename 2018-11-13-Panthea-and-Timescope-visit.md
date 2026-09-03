@@ -145,7 +145,7 @@ The second hurdle is the financing of it. We are talking to public institutions 
 What about the other end, like social enterprise and charities for deaf people?
 
 ### Carl de Poncins:
-We are talking to them. In the UK, it’s the first example that there is. It’s not happening with us, but we are in close discussion with them, and there is a sponsor, I think standard sponsor. Accenture is the company who sponsored the content, the programing, and then there is a body for art and cultural accessibility that has financed the National Theater for a certain number of shows per year.
+We are talking to them. In the UK, it’s the first example that there is. It’s not happening with us, but we are in close discussion with them, and there is a sponsor, I think standard sponsor. Accenture is the company who sponsored the content, the programming, and then there is a body for art and cultural accessibility that has financed the National Theater for a certain number of shows per year.
 
 ### Carl de Poncins:
 For the moment, I did not see a theater or an opera that was motivated enough on their own to decide to finance it. We do some tests. We did one at the Opera Garnier this year, the French National Opera, and they are interested, but they want to find financial resources for that.
@@ -267,7 +267,7 @@ Exactly.
 It would be great if we could technically use...
 
 ### Audrey Tang:
-Because there’s a AI lab in Taiwan that takes very old or bad resolution, like 2040p, 240p. It use AI to hallucinogen 4K or 8K...
+Because there’s an AI lab in Taiwan that takes very old or bad resolution, like 2040p, 240p. It use AI to hallucinogen 4K or 8K...
 
 ### Adrien Sadoka:
 Whoa, that’s great.
@@ -453,7 +453,7 @@ I full voted for it, because I don’t have to be a citizen. I only have to prov
 Then I become Digital Minister. I can do whatever I want. Now we have a collaboration between the Ministry of Culture. I don’t know whether you’ve talked to their people, but they’re now very all-in in VR. They now use point cloud and videogrammetry, photogrammetry to scan all the historical buildings.
 
 ### Audrey Tang:
-They open source the content, using Creative Commons. Anyone can not just walk into a old temple, but actually do a lot of investive experiences. Using old photos, they can very easily do alternate texturing...
+They open source the content, using Creative Commons. Anyone can not just walk into an old temple, but actually do a lot of immersive experiences. Using old photos, they can very easily do alternate texturing...
 
 ### Carl de Poncins:
 That’s cool.
@@ -692,7 +692,7 @@ Another possibility is to start a small project, but enlist the help of one of o
 The other way is to think outside of Taipei, because I’m sure you are connected with the Taipei theme anyway. There is another city called Kaohsiung. It’s in the south part of Taiwan. They are actually in charge of most of the 3D modeling and the other industries, even though they’re not very loud about it, but they’re actually very active in terms of AVR.
 
 ### Audrey Tang:
-The Kaohsiung city government has a space dedicated to immersive experiences. It showcases a place they call the Kosmos, K-O-S-M-O-S, and they just started. I think they’re also be very willing to look into showcases similar to the natural theater one.
+The Kaohsiung city government has a space dedicated to immersive experiences. It showcases a place they call the Kosmos, K-O-S-M-O-S, and they just started. I think they’re also very willing to look into showcases similar to the natural theater one.
 
 ### Adrien Sadoka:
 Do you know if there is something in Taichung?
@@ -704,7 +704,7 @@ In Taichung, there is of course the Taichung Opera House.
 That’s why I’m asking. I’m wondering if there is also a hub for innovation and tech.
 
 ### Audrey Tang:
-That is kind of independently operated, the Taichung Opera. If you do it in an accessibility angle, I can connect you with people from Taichung City that cares about the elders. We had our social enterprise submit in Taichung.
+That is kind of independently operated, the Taichung Opera. If you do it in an accessibility angle, I can connect you with people from Taichung City that cares about the elders. We had our social enterprise summit in Taichung.
 
 ### Audrey Tang:
 I know it is a priority for them to increase participation of the elderly and the otherwise disabled people so that they reintegrate into the society instead of being alone at home. From that angle, I know the person, but from the tech angle, I don’t really know.

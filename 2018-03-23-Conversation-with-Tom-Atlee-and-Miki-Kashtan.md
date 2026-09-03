@@ -123,7 +123,7 @@ That’s all done in the space and time of, maybe, three hours over the previous
 There’s some norms, such as making a transparent note of what happened, so the next week it could be a completely different bunch of people, but they could carry on the work.
 
 ### Audrey Tang:
-That’s how I see vTaiwan. It’s a excuse for people to meet every Wednesday evening to have fun.
+That’s how I see vTaiwan. It’s an excuse for people to meet every Wednesday evening to have fun.
 
 ### Tom Atlee:
 \[laughs\] That certainly turns everything I’m thinking inside out, and I have to start from square zero.
@@ -158,7 +158,7 @@ It is random.
 Like an emergent incubator. It’s a place where relationship, platform, and ideas mutually influence.
 
 ### Audrey Tang:
-I guess you can say that. It is like a incubator. Physically it takes certainly, place in the Social Innovation Lab in Taipei, which is a national program to incubate social innovations of any kind.
+I guess you can say that. It is like an incubator. Physically it takes certainly, place in the Social Innovation Lab in Taipei, which is a national program to incubate social innovations of any kind.
 
 ### Audrey Tang:
 It’s helpful to say that before the 6:00 PM to 10:00 PM thing, already I spent the entire day, from 10:00 AM onward, in the same building in my office hour. Anyone, literally, can show up.
@@ -179,13 +179,13 @@ It’s a funny way that this space is at least as much platform, or even more pl
 It’s like a meta open space conference ongoing all the time, or something like that. I don’t know. I’m trying to find similarities with my existing knowledge.
 
 ### Audrey Tang:
-The place, itself, it was established just six month ago, or something. It was completely ruined a year before.
+The place, itself, it was established just six months ago, or something. It was completely ruined a year before.
 
 ### Audrey Tang:
 We had a co-creation workshop, the result of which was that we need five more co-creation workshops. We hold five co-creation workshops every week and talk with hundreds of social innovators.
 
 ### Audrey Tang:
-The government really just provided a budget and a hardware, but how it need to be allocated is entirely co-designed. People said we need a kitchen with proper oven, and everything. We get a kitchen and a café.
+The government really just provided a budget and hardware, but how it need to be allocated is entirely co-designed. People said we need a kitchen with proper oven, and everything. We get a kitchen and a café.
 
 ### Audrey Tang:
 People said we need a chef. We have a resident chef. People said that we need two very large rooms with nothing in it, bar wireless connection. You get that.
@@ -218,7 +218,7 @@ Fluid.
 It can absorb and eject things. If something absorbs and stays there, then it starts participating in the process of shaping, like a recursive shaping.
 
 ### Audrey Tang:
-That’s exactly right. Yes, which is why we call ourself a recursive public.
+That’s exactly right. Yes, which is why we call ourselves a recursive public.
 
 ### Tom Atlee:
 What is the relationship of pol.is process to what’s going on there? because that has a level of continuity to it, at least part of it.
@@ -287,7 +287,7 @@ It’s closer to a brainstorm. The way it’d be looked at is, &quot;Here we’r
 That’s exactly right. We care about the representation, the accurate presentation of the ideas as it’s originally written. We don’t try to synthesize too much.
 
 ### Audrey Tang:
-It is a representing of what people have originally thought. We carry it through a accountability trail, all the way to the final decision. The methods used in the phases here, here, here, and here are completely different for each case.
+It is a representing of what people have originally thought. We carry it through an accountability trail, all the way to the final decision. The methods used in the phases here, here, here, and here are completely different for each case.
 
 ### Tom Atlee:
 In the second triangle, different kinds of conversation are happening in an effort to get to something solid that’s been through a more focused conversational process, or seven different focused conversational processes? \[laughs\]
@@ -302,7 +302,7 @@ Yes.
 ...the first part, where you have the question marks, what is it that people are talking about? Where does that come from? What’s the articulation of that piece of the puzzle? Whoever has the energy to create one, and then they say what it is?
 
 ### Audrey Tang:
-We need at least two people to have perspectives. Yes, if people think, that is to say, something that has the potential of become something public, then they use...
+We need at least two people to have perspectives. Yes, if people think, that is to say, something that has the potential of becoming something public, then they use...
 
 ### Audrey Tang:
 E-petition, for example, is a great example, because if you have 5,000 people, there’s bound to be at least five different perspectives in those 5,000 people. It is predetermined that if you send out invitation of pol.is to tens of thousands of people who are counter-petitioners, then you get something valuable out of it.
@@ -371,16 +371,16 @@ There’s many concrete cases. There’s one I can talk about, the helicopter ca
 It’s about in the south of Taiwan there’s this little town called Hengchun. It’s a very popular tourism place, but it’s a small town in the south.
 
 ### Audrey Tang:
-There’s about 8,000 petitions at the time for this place, which has a airport that has been neglected for a very long time, for a few years. The petition says we need to ask the Minister of Interior to deploy the Black Hawk helicopters to our airport to serve as ambulance cars so that people who run into strokes or had a diving accident can get to a major hospital in Kaohsiung, here, in time.
+There’s about 8,000 petitions at the time for this place, which has a airport that has been neglected for a very long time, for a few years. The petition says we need to ask the Minister of Interior to deploy the Black Hawk helicopters to our airport to serve as ambulance copters so that people who run into strokes or had a diving accident can get to a major hospital in Kaohsiung, here, in time.
 
 ### Audrey Tang:
 Despite being a popular tourist destination, there’s no big hospital there. There really is nobody who can operate a surgery for the brain, or anything like that.
 
 ### Audrey Tang:
-The nearest large hospital that has both the equipment and the doctors are 90 minutes or 100 minutes away. People die because of this, so it’s a real problem. Ambulance helicopters is not a unheard of idea.
+The nearest large hospital that has both the equipment and the doctors are 90 minutes or 100 minutes away. People die because of this, so it’s a real problem. Ambulance helicopters is not an unheard of idea.
 
 ### Audrey Tang:
-They garnered support, not because there’s 8,0000 people in that town, but because they, in their bed and breakfast, put up those signs that says, &quot;Do you know what will happen if you have a diving accident? Here is this QR code. Bring out your phone. Sign the petition before you check-in our bed and breakfast.&quot;
+They garnered support, not because there’s 80,000 people in that town, but because they, in their bed and breakfast, put up those signs that says, &quot;Do you know what will happen if you have a diving accident? Here is this QR code. Bring out your phone. Sign the petition before you check-in our bed and breakfast.&quot;
 
 ### Audrey Tang:
 There’s grassroots mobilization that lead to one of the fastest petitions we ever saw in petition platform.
@@ -418,7 +418,7 @@ Exactly.
 You turned that around. You said what’s nobody’s responsibility is everybody’s responsibility. \[laughs\]
 
 ### Audrey Tang:
-I started by saying anyone can join through Livestream and through Slido, which is a way to ask questions. This is our facilitator saying that we’re here to solve a systematic problem, to effect systematic change, not to solve a one-shot issue.
+I started by saying anyone can join through Livestream and through Slido, which is a way to ask questions. This is our facilitator saying that we’re here to solve a systemic problem, to effect systemic change, not to solve a one-shot issue.
 
 ### Audrey Tang:
 Here’s she explaining where we are in the double diamond. We’re done with the expansion of possible opportunities, and we’re now trying to delve into the visibility into each one, but we will not make a decision right here. We’re not at the last quarter. The ministries responsible for them will be responsible for the grey places.
@@ -445,7 +445,7 @@ We have MP who is voted, this is his district, who sent his staff to propose his
 The MP, himself, calls in from Taipei. The Minister of Transport people are trying to say that it won’t make tourism and economy better if we have a highway.
 
 ### Audrey Tang:
-The airport people explains about how they try to revitalize the airport. There’s many technical arguments about what kind of flights, what kind of planes can be flew on the airfield there. This is the local county present.
+The airport people explains about how they try to revitalize the airport. There’s many technical arguments about what kind of flights, what kind of planes can be flown on the airfield there. This is the local county present.
 
 ### Audrey Tang:
 We took, easily, more than four hours. If you include the pre-meetings and the follow-up clarifications, it’s easily an entire day, from 9:00 AM to 2:00 PM officially, but it’s actually much longer after the 2:00 PM.
@@ -472,7 +472,7 @@ Every Friday, when we have this meeting, I bring this mind map into the meeting 
 We allocated, at the end, $10 million USD to build a large hospital there. It’s not that this is the solution that is proposed for the first time. No, it’s been proposed 10 years.
 
 ### Audrey Tang:
-It’s always, in the utilitarian sense, not the most cost effective solution, but we can demonstrate to the prime minister we explored everything else and none of it has the same consensus as this solution. There’s $10 million, so it’s now building the large hospital.
+It’s always, in the utilitarian sense, not the most cost effective solution, but we can demonstrate to the premier we explored everything else and none of it has the same consensus as this solution. There’s $10 million, so it’s now building the large hospital.
 
 ### Audrey Tang:
 What I’m trying to get at is that, first, we always go to the place. Second, we return to the place. We make sure that when we have meetings like this, they’re ordered, in the sense that people know each other face-to-face.
@@ -481,7 +481,7 @@ What I’m trying to get at is that, first, we always go to the place. Second, w
 Then we follow-up with meetings, touring around Taiwan, by connecting people -- for example, in Haiduan or other in other south, rural places here -- with 12 different ministries in Taipei. This happens every other Tuesday, so we can follow-up on what we have promised.
 
 ### Audrey Tang:
-The prime minister, himself, visits two counties or cities every week this way. I’m more of a recurring round-trips thing. Over time, people get to know the ministry people from the central government more, and so we get to more, I would say, coordinated or more focused conversation every time I return to a particular place.
+The premier, himself, visits two counties or cities every week this way. I’m more of a recurring round-trips thing. Over time, people get to know the ministry people from the central government more, and so we get to more, I would say, coordinated or more focused conversation every time I return to a particular place.
 
 ### Audrey Tang:
 We don’t think urban and rural are, essentially, two places. As we systematically deploy projections, connected rooms, it might as well be the same place. The Taipei video conferencing space is always the Social Innovation Lab, so the senior executive who go into there are already in more playful mood.
@@ -517,7 +517,7 @@ To try and replicate it you’d have to start with people who are in love with o
 I don’t know how one would find such a place, but I’m sensing the foundations of it are not, &quot;This process does that, so we’re going to do this process.&quot; It really is grounded in the conversation among people who are interested in the topic, the process, each other, whatever.
 
 ### Tom Atlee:
-I’ve been in conversations talking about what is an open space organization. \[laughs\] I’ve never seen anything remotely like this, but it’s very recognizable in terms of the open-spaced principles and spirit.
+I’ve been in conversations talking about what is an open space organization. \[laughs\] I’ve never seen anything remotely like this, but it’s very recognizable in terms of the open-space principles and spirit.
 
 ### Miki Kashtan:
 I have a question, if it’s OK. Is it, Tom?
@@ -1018,7 +1018,7 @@ It try to find orthogonal, that is to say independent, equally controversial or 
 It is the face of the crowd. It’s not machine learning or artificially intelligent in any way. It is mostly a way to draw pretty pictures of diversity and uniqueness. To bring these together, mathematically speaking, is resolved either by a novel idea that suddenly everyone can identify with, which will result in a new group that looks roughly like this one, that re-coalesce around this new idea.
 
 ### Audrey Tang:
-It could be done by having essentially no new ideas, but an eclectic blending of existing ideas that the less radical part of the people can agree to, in which case you will start to see groups moving into the middle, people from the old groups joining the new group, and the new group growing slightly larger, in a radically centrism kind of way.
+It could be done by having essentially no new ideas, but an eclectic blending of existing ideas that the less radical part of the people can agree to, in which case you will start to see groups moving into the middle, people from the old groups joining the new group, and the new group growing slightly larger, in a radical centrism kind of way.
 
 ### Audrey Tang:
 Sometimes both dynamic happen at once, and the system has to recalibrate and re-find the x and y axes that represent new controversies. What I’m getting at is that the two dimensions in this picture, they are not fixed. As long as they become noncontroversial, the system find new controversies to become x and y axes. To achieve a perfect unity is very difficult or impossible in pol.is.
@@ -1050,7 +1050,7 @@ It is a game that is infinite. We harness its power and play it for a few weeks 
 Isn’t your point, at some point, to find a solution that people can go along with, like the hospital?
 
 ### Audrey Tang:
-That’s the governance interest in this. That’s the hook for the prime minister to join this game.
+That’s the governance interest in this. That’s the hook for the premier to join this game.
 
 ### Tom Atlee:
 \[laughs\]
@@ -1142,7 +1142,7 @@ Then, a lot of the articles gave more potency to the convergence that came out o
 ...to something that’s more complex.
 
 ### Audrey Tang:
-If the prime minister herself or himself or the ministers in charge of this participate in the initial gain of pol.is, they are, like any good deliberation, they will be changed a little bit when it comes to the later processes. It’s not like it’s not useful, but it’s a psychological use. It is not a hard, codified use.
+If the premier herself or himself or the ministers in charge of this participate in the initial gain of pol.is, they are, like any good deliberation, they will be changed a little bit when it comes to the later processes. It’s not like it’s not useful, but it’s a psychological use. It is not a hard, codified use.
 
 ### Tom Atlee:
 They will be influenced by any number of things, including any convergences that happen to show up in pol.is, but it’s not as if they have to take every item of convergence that happens in pol.is and either implement it or say why they can’t or won’t.
@@ -1166,7 +1166,7 @@ Right. It’s the point in the middle of your bow-tie here. \[laughs\] The point
 This second part, the second diamond, is not visible in the vast majority of reports that are coming out of Taiwan.
 
 ### Audrey Tang:
-That’s right. Even though, in all our introductory materials, like in the video you just saw, the facilitator said explicitly that this area will not be visible to you at this meeting. This area, the ministry will go back to their respective ministers, and the prime minister will someday -- it turns out really quickly, but there’s no guarantee -- make a response somewhere down the road.
+That’s right. Even though, in all our introductory materials, like in the video you just saw, the facilitator said explicitly that this area will not be visible to you at this meeting. This area, the ministry will go back to their respective ministers, and the premier will someday -- it turns out really quickly, but there’s no guarantee -- make a response somewhere down the road.
 
 ### Audrey Tang:
 We made that very clear in the beginning. Yes, as you said, many English write-ups skips that.
@@ -1252,7 +1252,7 @@ For the second diamond, totally.
 Dynamic facilitation, and other things. There’s a number of things that fit well in there, but I think the logic of convergent facilitation is particularly comfortable within the way of thinking that Audrey is expressing. That’s an invitation, in case you don’t recognize it. \[laughs\]
 
 ### Miki Kashtan:
-Yes, I recognize it. Let me explain. Convergent facilitation is a methodology that I developed. I haven’t adopted it yet. I don’t think I will, because I’m not a techy person. Do you know the Loomio people?
+Yes, I recognize it. Let me explain. Convergent facilitation is a methodology that I developed. I haven’t adapted it yet. I don’t think I will, because I’m not a techy person. Do you know the Loomio people?
 
 ### Audrey Tang:
 Yes, very intimately, because we used that during the Occupy.
@@ -1416,7 +1416,7 @@ You’re not trying to make everybody happy. There’s an art and a skill to fin
 &quot;Does anybody have concerns?&quot; will raise more discussion than if you say, &quot;Does anybody have significant concerns?&quot; or if you ask, &quot;Does anybody have concerns that you believe will actually impair our capacity to function if we adopt it?&quot;
 
 ### Miki Kashtan:
-There are different levels, and choosing the right threshold to ask changes things. As you invite more concerns, ultimately, theoretically, you can have a more powerful decision, because it has incorporated more dissent, more concerns. You are wiping people out, because the process of engaging with dissent is very taxing. It’s a sweet spot.
+There are different levels, and choosing the right threshold to ask changes things. As you invite more concerns, ultimately, theoretically, you can have a more powerful decision, because it has incorporated more dissent, more concerns. You are wearing people out, because the process of engaging with dissent is very taxing. It’s a sweet spot.
 
 ### Miki Kashtan:
 That’s it. Those are the two core innovations. There is a sequence, there’s a process, all of that. You don’t really need to know more about it in the moment, but these are the two specific things.
@@ -1447,7 +1447,7 @@ I worked on IBM mainframes, too, and AIX after that, but that’s a very differe
 I think our methodologies are very compatible. There’s a genuine insight, in that you can pick the interface from &quot;any suicides&quot; to &quot;any one-letter changes.&quot;
 
 ### Audrey Tang:
-I think this is a real insight, because that democratizing the humming volume threshold to everyone in the room. Whereas, before, it is a social norm, and so people get accustomed to a certain threshold. I think this is a genuine insight.
+I think this is a real insight, because that's democratizing the humming volume threshold to everyone in the room. Whereas, before, it is a social norm, and so people get accustomed to a certain threshold. I think this is a genuine insight.
 
 ### Miki Kashtan:
 Thank you.
@@ -1534,7 +1534,7 @@ You’re flattening it to a doing. For me, it’s a way of being.
 Like I say. \[laughs\] There’s the force of life energy. There’s a level of human life that is a source of where life energy comes from. The word needs is an effort to put a tag on that.
 
 ### Tom Atlee:
-People can do it in attempt to evoke that dimension of life from somebody else and work their way towards, how’s that going to play out in the way that works for everybody in this situation and you can live from that place, which is I think what Miki’s...
+People can do it in an attempt to evoke that dimension of life from somebody else and work their way towards, how’s that going to play out in the way that works for everybody in this situation and you can live from that place, which is I think what Miki’s...
 
 ### Miki Kashtan:
 There’s a practice that I do that relates to what you were talking about in terms of the luxury, and we don’t have time. A while back, I was part of the project that most NVC people are still in that project of let’s train and ask people in NVC, reach a critical mass, and then the world will change.
@@ -1558,7 +1558,7 @@ Another one is what is most important here? Another one is what’s the real pur
 What I can do is I can send you I have three or four condensed version of my dissertation. If Tom is right and some of it will interest you, you will then be able to tell me, &quot;Chapter two and chapter seven, please.&quot; Then I will send that to you.
 
 ### Tom Atlee:
-He’ll get it absorbed in a hour, not a problem.
+He’ll get it absorbed in an hour, not a problem.
 
 ### Audrey Tang:
 Is that &quot;The Little Book of Courageous Living&quot;?
@@ -1680,7 +1680,7 @@ He got frustrated. He says, &quot;Don’t you people care about anything? Becaus
 It was very funny and frustrating, an instructive moment. Anyway, Rosa says that as facilitator, she is the designated listener, that the people come in drunk on their own ideas and can’t really hear each other. She is going to be a designated listener.
 
 ### Tom Atlee:
-It starts out with, &quot;Who has something they want to say about this thing we’re here to talk about?&quot; Somebody raises their hand. Say, &quot;OK, tell me about it.&quot; The facilitator, their goal is to have that person feel fully heard. There are usually these four chart pads with problems statements, possible solutions, concerns, and data.
+It starts out with, &quot;Who has something they want to say about this thing we’re here to talk about?&quot; Somebody raises their hand. Say, &quot;OK, tell me about it.&quot; The facilitator, their goal is to have that person feel fully heard. There are usually these four chart pads with problem statements, possible solutions, concerns, and data.
 
 ### Tom Atlee:
 The facilitator is taking what the person’s saying, going, &quot;Let me see if I’m getting that.&quot; They’re repeating it back but not word for word, not rotely. They’re trying to get at what’s the essence of what this person’s saying and with the emotion. All the emotion that’s in it is part of it also.
@@ -1719,7 +1719,7 @@ What is happening to the group is that when they walked into the room, they were
 The mess is now in the collective space. It’s up there on the chart pads that have been stuck on the wall, all those individual sheets. The facilitator might occasionally do a review of what’s gone up there so far. Sort of shove the mess in people’s faces.
 
 ### Tom Atlee:
-Then, there’s a phenomenon that happens that is key to Rose’s thesis, her master’s thesis, is that there’s a shift that happens in the group where the group is now, everybody’s been opened up. They’re now looking at the mess. There’s the compulsion in people to make sense. There begins to emerge a collective energy desperate to make sense of the mess.
+Then, there’s a phenomenon that happens that is key to Rosa’s thesis, her master’s thesis, is that there’s a shift that happens in the group where the group is now, everybody’s been opened up. They’re now looking at the mess. There’s the compulsion in people to make sense. There begins to emerge a collective energy desperate to make sense of the mess.
 
 ### Tom Atlee:
 People start to say things like, &quot;What if we blah, blah, blah?&quot; It’s like the &quot;we&quot; language starts to come up. Proposals start to pop up for the other people to consider. There’s a brainstormy kind of energy that starts to come out.
@@ -1801,7 +1801,7 @@ The original pattern language was on communities that have this magical quality.
 The woman who developed that, Tree Bressen, with tremendous collaboration from lots of other people, created the idea of having these cards and designing the cards with a picture, a little 50-word statement, and connected patterns, related patterns.
 
 ### Tom Atlee:
-I was going to model my pattern language after that, and I did. Because it’s on card and there’s infinite connections between patterns in a pattern language, but you can only put seven of them on a card.
+I was going to model my pattern language after that, and I did. Because it’s on cards and there’s infinite connections between patterns in a pattern language, but you can only put seven of them on a card.
 
 ### Tom Atlee:
 I made this big chart pad. Given the nature of this call, I think I will see if I...Yeah, here it goes. There was this chart pad. I’m a paper guy. \[laughs\] It has, 70 by 70, all the patterns across the top, all the patterns down the side. I go across, marking them with different levels of how related I think they are, for several days.
@@ -1894,7 +1894,7 @@ There’s only a couple of references to the Tao Te Ching in there, but the key 
 I may have lots of philosophy about what that means, but I have not seen anybody who comes close to doing that the way you do. \[laughs\] &quot;Whoa, has this guy got that down.&quot;
 
 ### Audrey Tang:
-It’s interesting to go through the cards. I was a player of a card game called &quot;Magic, The Gathering.&quot; It was very popular among teenagers here, back in 1997, or something, maybe ’98. That’s when I...
+It’s interesting to go through the cards. I was a player of a card game called &quot;Magic: The Gathering.&quot; It was very popular among teenagers here, back in 1997, or something, maybe ’98. That’s when I...
 
 ### Tom Atlee:
 I live in a co-op house with young people, and they every now and then pull out the Magic...
@@ -1912,7 +1912,7 @@ I really like the way the WD-PL, the Wise Democracy site, is organized, as in, i
 I tend to think the same of vTaiwan. The thing with international media is that they have a narrative. vTaiwan is usually just one section, one paragraph, or one part of their larger narrative. Necessarily they extract the one example that fits the narrative and run with it, which we’re OK, too.
 
 ### Audrey Tang:
-We relinquish copyrights for this very purpose. Anyway can say they did it themselves, and we won’t sue them.
+We relinquish copyrights for this very purpose. Anyone can say they did it themselves, and we won’t sue them.
 
 > (laughter)
 
@@ -2069,7 +2069,7 @@ The second horizon goes up over it, overlaps the first, as it’s going down. Th
 There are exercises. I could take you to an illustration. They do an online whiteboard with online Post-It notes. They asked us questions like, &quot;What is it about the way governance is now that you can’t stand?&quot; We all wrote our answers to those, for questions for horizon one.
 
 ### Tom Atlee:
-We’ll go to horizon three next. What’s world look like that you want? If you really achieved your purposes, what would it look like? We wrote our answers to for that kind of thing. Then, &quot;What needs to happen for that to happen? What are existing things and things that need to be initiated, etc.?&quot; That’s the horizon two.
+We’ll go to horizon three next. What’s world look like that you want? If you really achieved your purposes, what would it look like? We wrote our answers for that kind of thing. Then, &quot;What needs to happen for that to happen? What are existing things and things that need to be initiated, etc.?&quot; That’s the horizon two.
 
 ### Tom Atlee:
 I don’t have this. They reduced our answers to Post-It notes that they put on the horizon charts. First, they put them all in a big rectangle, and we had to collectively sort them into groups, all our little answers. That was very frustrating, because the Post-It notes kept flying out of the group you were trying to collect them into, because somebody else moved them.
@@ -2194,7 +2194,7 @@ Historically, this part of the diamond is very expensive. It’s expensive not i
 By using the data structures, the ways of working that builds a guarantee of healing themselves were emerging. Millions of people can type on the same Google doc. Thousands of people can edit the same spreadsheet, and so on.
 
 ### Audrey Tang:
-This space, the automated space itself, works as a facilitator. This gives the hallucination of other data types are also conflict free, but they are not, which is why we have wicked problems.
+This space, the automated space itself, works as a facilitator. This gives the hallucination that other data types are also conflict free, but they are not, which is why we have wicked problems.
 
 ### Audrey Tang:
 I think there is this naive fundamentalism of fun that my generation of open-source programmers are bringing into the world of non-violent communication on public matters, and gradually learning the methodologies of dealing with the tangible world, keeping the inherent funness of the conflict-free intangible work. I think that’s the succinct way of saying it.
@@ -2230,10 +2230,10 @@ Awesome. I’ll do that. I do feel wised up in this conversation. \[laughs\]
 I think by April I will have a little more orientation and be able to talk. I don’t know what will happen by April. I really enjoy the conversation, if you want to stay in touch. It’s a rare feeling to feel over my head. I tend to be thinking and perceiving in realms I don’t have a lot of company in. Here I’m going, &quot;Whoa. Who is this? I better step up.&quot; \[laughs\] I am intrigued.
 
 ### Audrey Tang:
-I’m happy, as I said in email, to catch up exactly one week from now or two week from now, if your time permits.
+I’m happy, as I said in email, to catch up exactly one week from now or two weeks from now, if your time permits.
 
 ### Tom Atlee:
-I keep adding layers of activity. I got five-and-a-half hours sleep last night and four hours of sleep the previous nights. It’s not healthy for me, I can feel it. I’m stacking initiatives on top of initiatives, all of which are compelling.
+I keep adding layers of activity. I got five-and-a-half hours sleep last night and four hours of sleep the previous night. It’s not healthy for me, I can feel it. I’m stacking initiatives on top of initiatives, all of which are compelling.
 
 ### Tom Atlee:
 Each one is more powerful than the last. I don’t yet know how to manage that, lifestyle-wise. You’re \[laughs\] one of the big focuses of that lately, I try to absorb all of the material. Now I look back at all of the work I’ve put into it, and I’m going, &quot;That was playing in the wrong playing field,&quot; but it did generate stuff we could talk about.
@@ -2251,7 +2251,7 @@ For their benefit, I’m going to answer these two questions very quickly. \[lau
 What’s that?
 
 ### Audrey Tang:
-Which are the privacy assurances, and do I have people actively looking for ways to hack the system? We do. We’re paying to white-hat hackers out of taxpayer money to attack the underlying system, the Sandstorm system.
+Which are the privacy assurances, and do I have people actively looking for ways to hack the system? We do. We’re paying white-hat hackers out of taxpayer money to attack the underlying system, the Sandstorm system.
 
 ### Audrey Tang:
 We do publish vulnerabilities, but only when the upstream community fixes it within a reasonable timeframe. It’s called responsible disclosure.
@@ -2260,7 +2260,7 @@ We do publish vulnerabilities, but only when the upstream community fixes it wit
 We hire the very best white-hat hackers to make sure that it is, cybersecurity-wise, safe. Otherwise, people are interested in manufacturing concerns that there isn’t. Pol.is used to be proprietary software.
 
 ### Audrey Tang:
-We convinced and worked with Colin and the team to make it free software with the condition that anyone deploying it anywhere who make change to it has also to share its changes, not just to the original team, but to anyone using the modified system, the users. It’s called strong copy left for that reason.
+We convinced and worked with Colin and the team to make it free software with the condition that anyone deploying it anywhere who make change to it has also to share its changes, not just to the original team, but to anyone using the modified system, the users. It’s called strong copyleft for that reason.
 
 ### Audrey Tang:
 We believe strongly in that, and we believe in community or stakeholder governance of their common technology, of pol.is.
@@ -2347,7 +2347,7 @@ No, it’s good. We can...
 If you want to set something up and invite me in, and I’ll see what I can do.
 
 ### Audrey Tang:
-Exactly. I’ll invite you to the g0v Slack, and it needs some hand holding, but I think it’s surmountable. That’s, I think, the first step. We’ll meet there and figure out something. There’s change agents all over the world. Same thing at our minds, more or less, along the same dimensions as we did.
+Exactly. I’ll invite you to the g0v Slack, and it needs some hand holding, but I think it’s surmountable. That’s, I think, the first step. We’ll meet there and figure out something. There’s change agents all over the world. Same thing on our minds, more or less, along the same dimensions as we did.
 
 ### Tom Atlee:
 Maybe some of the next things might be introductions, you introducing me into some of the platforms so I can function in that world with you.

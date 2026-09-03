@@ -976,7 +976,7 @@ This shouldn’t take long to find; it’s between $2-3 billion TWD per year.
 The question is, has anyone then checked how much of that spending went to on open software to pay for or buy software or services? It could be actually running a system that used open software versus closed software.
 
 ### Audrey Tang:
-It’s got to be less that 0.1 percent, so I don’t think anyone...
+It’s got to be less than 0.1 percent, so I don’t think anyone...
 
 ### Rufus Pollock:
 No one bothers looking at it, got it.
@@ -1377,7 +1377,7 @@ If you look at the cloud providers and you go and look at the ones in California
 Why are they willing to do that?
 
 ### Audrey Tang:
-The want to sell the data?
+They want to sell the data?
 
 ### Rufus Pollock:
 No, not because they want to sell the data.

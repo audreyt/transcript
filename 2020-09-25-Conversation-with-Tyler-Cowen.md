@@ -655,7 +655,7 @@ Perl, Raku, \[laughs\] Haskell, and Python not very fluently, Ruby, of course, a
 English, right?
 
 ### Audrey Tang:
-C, C++, C# — not really C# — OCaml, and also C. OCamel is F#. English, of course.
+C, C++, C# — not really C# — OCaml, and also C. OCaml is F#. English, of course.
 
 ### Tyler Cowen:
 Chinese? Native Taiwanese?

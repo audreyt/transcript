@@ -74,7 +74,7 @@ Because I only see material that is freedom of information accessible, I don’t
 It’s like I’m the frontline reporter who was recording raw material. The editors and investigative journalists then make better stories based on my preliminary work. It’s like I’m interviewing the government.
 
 ### Sarah Maquet：
-You’re the new digital minister here in Taiwan, a the new minister. It’s done after the Sunflower Movement. It was really an attempt from the Taiwanese society to have more freedom in Internet and in digital things?
+You’re the new digital minister here in Taiwan, the new minister. It’s done after the Sunflower Movement. It was really an attempt from the Taiwanese society to have more freedom in Internet and in digital things?
 
 ### Audrey Tang：
 Yes, this position started around late 2014, the year where the Sunflower Movement happened. One of the minister without portfolio around that time, Minister Jaclyn Tsai, started getting more assignments from the deputy premier around what they called the cyberspace issues.
@@ -113,10 +113,10 @@ The POs, the participation officers is now around 50 people.
 When we see this in France, when we are looking for Taiwan and your new job, we think, oh my God, the young people is taking over. Everything is changing.
 
 ### Sarah Maquet：
-It is really the case. You can feel the change after two year after the Sunflower Movement?
+It is really the case. You can feel the change two years after the Sunflower Movement?
 
 ### Audrey Tang：
-Of course. The Sunflower Movement was a attempt of agenda setting by the civil society because they were tired that the government keeps using just the same logic of economic development, basically, to shape all the public policy agenda.
+Of course. The Sunflower Movement was an attempt of agenda setting by the civil society because they were tired that the government keeps using just the same logic of economic development, basically, to shape all the public policy agenda.
 
 ### Audrey Tang：
 The civil society thinks that we should talk more about, perhaps, labor rights, human rights, education, LGBT rights, and that this right-based narrative but also the traditionally more niche issues, such as freedom of Internet, then neutrality and so on.

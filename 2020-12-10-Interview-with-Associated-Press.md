@@ -119,7 +119,7 @@ One of the main things that I want to stress is that during the pandemic, we lim
 By and large, we work with the heuristic that says we do not collect new data in the name of the pandemic that we were not already collecting before the pandemic.
 
 ### Audrey Tang:
-This is very important, because for each new data collection, there’s a set of privacy and cybersecurity evaluation and impact assessment that must be done. If this is genuinely new, like the Bluetooth dongles for contract tracing that Singapore has rolled out, then of course people will take time to familiarize themselves with those cybersecurity and privacy parameters.
+This is very important, because for each new data collection, there’s a set of privacy and cybersecurity evaluation and impact assessment that must be done. If this is genuinely new, like the Bluetooth dongles for contact tracing that Singapore has rolled out, then of course people will take time to familiarize themselves with those cybersecurity and privacy parameters.
 
 ### Audrey Tang:
 By essentially not doing that and piggybacking on existing data collection methods, for example, the National Health card and the refillable prescription, we use the same method to dispense the mask at the pharmacies. For the digital fence, we use the earthquake advance warning or flood advance warning, which builds on the cellphone tower signal strength triangulation.

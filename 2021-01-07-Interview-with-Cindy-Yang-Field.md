@@ -243,7 +243,7 @@ VTaiwan is one of the projects that started in a g0v hackathon, proposed, I thin
 Wow.
 
 ### Audrey Tang:
-Basically, what we did at the time in vTaiwan in 2014-15 is to co-create a online/offline consultation process that brings together the ministries, elected representatives, scholars, experts, and civil society organizations, citizens, and business leaders.
+Basically, what we did at the time in vTaiwan in 2014-15 is to co-create an online/offline consultation process that brings together the ministries, elected representatives, scholars, experts, and civil society organizations, citizens, and business leaders.
 
 ### Audrey Tang:
 The process has tackled issues like the UberX issue, Airbnb, FinTech Sandbox, and things like that, making sure that people can surface the best ideas that take care of everyone’s feelings, which is a step that’s often forgotten in consultative processes.

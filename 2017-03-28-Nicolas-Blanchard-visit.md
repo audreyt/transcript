@@ -247,7 +247,7 @@ That’s right.
 That’s one of the things that’s really interesting. I looked how to set it up and...
 
 ### Audrey Tang:
-Identify the principle component of a diversity of high dimensional opinions.
+Identify the principal component of a diversity of high dimensional opinions.
 
 ### Nicolas Blanchard:
 It works well in practice?
@@ -304,7 +304,7 @@ Yeah, it’s very easy to calculate because everybody can propose a yes or no qu
 I’m just wondering what the metric on that graph...?
 
 ### Audrey Tang:
-Basically, what it tries to do is a dimensional reduction between everybody’s point inside that dimensional space, and then reduce it so that a principle component of a vector gets most representative of the most divisive point becomes the X-axis and the one most orthogonal second sub-component becomes the Y-axis and that’s it. It’s very easy. There’s no magic in it.
+Basically, what it tries to do is a dimensional reduction between everybody’s point inside that dimensional space, and then reduce it so that a principal component of a vector gets most representative of the most divisive point becomes the X-axis and the one most orthogonal second sub-component becomes the Y-axis and that’s it. It’s very easy. There’s no magic in it.
 
 ### Nicolas Blanchard:
 There is one piece of, could be magic like any sufficiently advanced technology is, which is how it finds that biggest vector.

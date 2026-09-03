@@ -319,7 +319,7 @@ The Tokyo Metropolitan Dashboard of COVID. The Stop COVID Dashboard. The g0v peo
 \[laughs\]
 
 ### Audrey Tang:
-…where they used the simplified script of the kanji for Traditional Chinese, and I changed it to the right font. I just contributed on GitHub as a ordinary developer, but that get noticed by the city councilor, and then by the head of Tokyo Metropolis, the mayor, who thanked me on Twitter.
+…where they used the simplified script of the kanji for Traditional Chinese, and I changed it to the right font. I just contributed on GitHub as an ordinary developer, but that get noticed by the city councilor, and then by the head of Tokyo Metropolis, the mayor, who thanked me on Twitter.
 
 ### Katharin Tai:
 \[laughs\]
@@ -344,7 +344,7 @@ The parliament group.
 Parliament? OK.
 
 ### Audrey Tang:
-They’ve contact. If you look for our delegate, or…Is that consulate or embassy? Anyway, our representative office laughs\] in the Germany, Ambassador Hsieh Chih wei, have organized briefing, hearings, and so on, with the parliamentary groups, and I joined by telephone as well.
+They’ve contact. If you look for our delegate, or…Is that consulate or embassy? Anyway, our representative office \[laughs\] in the Germany, Ambassador Hsieh Chih wei, have organized briefing, hearings, and so on, with the parliamentary groups, and I joined by telephone as well.
 
 ### Katharin Tai:
 Would you mind expanding a bit on which areas you discussed, or which areas you think Germany might be able to learn from?

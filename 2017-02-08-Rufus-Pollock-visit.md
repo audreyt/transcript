@@ -80,7 +80,7 @@ So we’ve been experimenting with the 15 people team. Two, three designers now,
 That means, in addition to volunteers, every single ministry in the national government need to assign one to three people to work as officers to drive engagement with non-specific people.
 
 ### Audrey Tang：
-Engagement mostly starts online of course, because it’s easier to engage non-specific people online. But, it also includes offline modes, like public hearings and other notes of consultation, and eventually collaboration.
+Engagement mostly starts online of course, because it’s easier to engage non-specific people online. But, it also includes offline modes, like public hearings and other modes of consultation, and eventually collaboration.
 
 ### Audrey Tang：
 For the largest ministries -- Ministry of Interior, Ministry of Health and Welfare, and so on -- they already have these kinds of systems in place, where they have facilitators and people who use data visualization, and other engagement tools.
@@ -826,7 +826,7 @@ I do completely agree. If I may just recap a little bit. First, we don’t call 
 In this scenario, which is, they have a well-defined whatever, API, to connect to one government database to another government service, which then talks to people. This makes it a round-trip whatever.
 
 ### Audrey Tang：
-Then, when we say this, what we’re also saying is that this, because it’s well-structured -- it’s got a JSON schema, whatever -- we encouraged them to run a API proxy here. So that it can do a lot of extraction and transformation...
+Then, when we say this, what we’re also saying is that this, because it’s well-structured -- it’s got a JSON schema, whatever -- we encouraged them to run an API proxy here. So that it can do a lot of extraction and transformation...
 
 ### Rufus Pollock：
 Absolutely. It’s also a great point you just made, here, which is by having the open data in whatever structure format, you can boot up. Sometimes you may even want to have a proxy or sometimes you might want to boot an entire stack that runs a different type of API, because it has different performance requirements, different structure, or whatever.

@@ -205,7 +205,7 @@ There’s thousands more people, after replying to those 5,000 people, who will 
 If you go to join.gov.tw, there are numbers for you to list. Not just petitions, but also regulation announcements, and also those large‑scale projects. That’s ongoing projects. These are all subject to civic participation.
 
 ### Asaf Ronel:
-Can you give an example for a law or something else concrete happened as a result of a online petition?
+Can you give an example for a law or something else concrete happened as a result of an online petition?
 
 ### Audrey Tang:
 The very first case, the treatment of terminal stage cancer using the so‑called cell immunology treatment method, that was something that’s genuinely new for the Ministry of Health and Welfare. Because it was the first petition case, there’s also no precedents to look for. There was a write‑up, I can send you the link afterwards, that we proposed in parts.

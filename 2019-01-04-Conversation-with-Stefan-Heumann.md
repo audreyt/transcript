@@ -31,7 +31,7 @@ Thank you. Let me first maybe tell you a little bit about myself. I’m Stefan. 
 We are a team of about 20 people, and we work mostly on issues of new technologies, digital technologies from cyber security to open government, to what can we do with AI, and how do we need to regulate it?
 
 ### Stefan Heumann:
-What are the problems with new technologies, what are the potentials? Actually, from the way we work, it’s very similar...Not similar, but has some similarities to your thinking about how policy should be done. We talk a lot about our methodology, because we have been asking ourselves, what is differentiates our think tank from a research institute at university?
+What are the problems with new technologies, what are the potentials? Actually, from the way we work, it’s very similar...Not similar, but has some similarities to your thinking about how policy should be done. We talk a lot about our methodology, because we have been asking ourselves, what differentiates our think tank from a research institute at university?
 
 ### Stefan Heumann:
 We’ve found that, especially in these new technologies, it takes very long for academics to write papers about it. There’s peer review process. It takes quite some time until their expertise is out. You need expertise very quickly.

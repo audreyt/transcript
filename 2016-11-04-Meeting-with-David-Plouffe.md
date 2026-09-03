@@ -158,7 +158,7 @@ They’re not that complicated. At the end of the day, I would look at ride‑sh
 To very quickly recap, a year ago I was helping to facilitate a multi‑stakeholder discussion here on the vTaiwan platform, about exactly the regulatory structure that you talk about. We had thousands of participants. It was the Uber drivers, UberX drivers, and also traditional taxi drivers, but also people who are not yet drivers for any one side but want to think deliberately about this topic together.
 
 ### Audrey Tang:
-Then we had, of course, a lot of division of ideas, but because we employ a Pol.is platform that takes the principle component of everybody’s ideas and present it in an easy‑to‑understand, two‑dimensional form. People still arrive at some consensus, very strong, like 95 percent consensus.
+Then we had, of course, a lot of division of ideas, but because we employ a Pol.is platform that takes the principal component of everybody’s ideas and present it in an easy‑to‑understand, two‑dimensional form. People still arrive at some consensus, very strong, like 95 percent consensus.
 
 ### Audrey Tang:
 Then we made the regulatory auditory structure based on people’s block consensus, even among people who are divisive. One of the consensus was basically taking Uber as a source of inspiration, saying that it is true that we have a way to help taxis that does not depend on the car having any yellow paintings, any medallions, or any other markers. It really is a new way to call a car. That’s true.

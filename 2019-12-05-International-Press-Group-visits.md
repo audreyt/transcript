@@ -509,7 +509,7 @@ I’m wondering how you think about the scalability of these things. I think we�
 It’s hard to see this catching on in a way that some of the more coercive and violent technologies do. I wonder, even aside from your role as minister, maybe just as a technologist, how you think about the challenge of scaling distributed technology versus more authoritarian technology.
 
 ### Audrey Tang:
-As a expert in distributed computing, I assure you distributed scales better than top-down models. We just saw that in Hong Kong. We saw that authoritarian technologies versus distributed technologies in a place where you still have Internet connection – that’s, of course, a given – distributed methodologies won pretty handily.
+As an expert in distributed computing, I assure you distributed scales better than top-down models. We just saw that in Hong Kong. We saw that authoritarian technologies versus distributed technologies in a place where you still have Internet connection – that’s, of course, a given – distributed methodologies won pretty handily.
 
 ### Audrey Tang:
 What I’m trying to get at is that the economy of scale is one thing, but scaling in terms of social legitimacy is another altogether. No matter how quickly the PRC is running into the opposite direction, their direction doesn’t naturally scale to people with expectations from liberal democracies.

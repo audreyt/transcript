@@ -127,7 +127,7 @@ Yes.
 Yeah, Dataa.
 
 ### Audrey Tang:
-I didn’t how to pronounce it, but I’ve heard of it. \[laughs\]
+I didn’t know how to pronounce it, but I’ve heard of it. \[laughs\]
 
 ### Bruce Bateman:
 She spoke at the last couple conferences. For us, she’s an example of what we’re trying to get to. We believe that the best position right now for women in Taiwan is understanding data, understanding use cases, and getting involved. We’ve launched a couple events. Let’s go back to the top. Let’s do this the way we planned.
@@ -937,7 +937,7 @@ Then this is the OR ring.
 I have one last question. How about the mentorship for someone like Audrey?
 
 ### Audrey Tang:
-We hire 30 internists. \[laughs\]
+We hire 30 interns. \[laughs\]
 
 ### Bruce Bateman:
 No, we need people to come in and help, occasionally speak, occasionally record something for the kids. Maybe if we could get, I think, something later on, when we start going out to the kids, is to have a pre-recorded from you.

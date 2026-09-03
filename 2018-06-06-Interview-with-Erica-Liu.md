@@ -346,7 +346,7 @@ I don’t know. There’s roughly speaking 100,000 new companies every year, but
 In Taiwan, many people start companies to do other things. There’s many NGOs nowadays asking us if they can set up subsidiary companies, not to maximize shareholder value, but to hire a competent manager to amplify their charities work. That’s also registered as a company. They would count in startup.
 
 ### Audrey Tang:
-They’re actually just a interface to the market to a maybe 20-year old or 30-year old charity.
+They’re actually just an interface to the market to a maybe 20-year old or 30-year old charity.
 
 ### Erica Liu:
 Why couldn’t they hire that under their original NGO?

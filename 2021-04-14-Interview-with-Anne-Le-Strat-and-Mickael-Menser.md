@@ -337,7 +337,7 @@ We're in a bad position in the United States on this for sure. It couldn't get m
 ### Audrey Tang:
 I hear the US is now considering what we considered in 2016, which is to redefine the word infrastructure. That's a very good thing, because, in 2016, I worked with our then minister of culture and with the National Budgeting Office, convincing that even for things that are not made out of concrete, like not concrete things, it's still infrastructure if it's in the Creative Commons.
 
-If it builds a digital equivalent of a national park, a national museum, a town hall, or things like that because it can be used by pretty much anyone. The social sector can set the agenda there is a public good. Even though budget-wise, it's not a investment, we can classify it as forward-looking infrastructure.
+If it builds a digital equivalent of a national park, a national museum, a town hall, or things like that because it can be used by pretty much anyone. The social sector can set the agenda there is a public good. Even though budget-wise, it's not an investment, we can classify it as forward-looking infrastructure.
 
 The forward-looking objective, very important, because there's no way [laughs] that we can fit in into existing infrastructure categories, and we succeeded. The digital infrastructure components, there is budget-wise structure very differently from any other infrastructure components.
 

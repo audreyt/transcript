@@ -104,7 +104,7 @@ We’re recording.
 ...without using the mic? This is good because we have this as well. Maybe just at this distance. Is that OK with you?
 
 ### Audrey Tang:
-Very glad to be here. Actually, last week I was in London and had a hour-and-a-half conversation with Nesta folks and Geoff Mulgan as well.
+Very glad to be here. Actually, last week I was in London and had an hour-and-a-half conversation with Nesta folks and Geoff Mulgan as well.
 
 > (laughter)
 
@@ -1085,7 +1085,7 @@ It is more in a conservation part of the consensus-making process of it than the
 The gaming part. Back when we did Airbnb case, which is right after UberX, Airbnb sent a email to all its Taiwan members asking them to come to pol.is and support the Airbnb position. What they found out was that had this been a simple yes/no question or a simple questionnaire, maybe people would have behaved as the email told them to do.
 
 ### Audrey Tang:
-But because this is a open-ended, reflective space, only one-third of people they recruited this way actually agree with the Airbnb position.
+But because this is an open-ended, reflective space, only one-third of people they recruited this way actually agree with the Airbnb position.
 
 > (laughter)
 

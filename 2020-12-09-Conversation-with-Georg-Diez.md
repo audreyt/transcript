@@ -27,7 +27,7 @@ It’s our second time around. The first time, we didn’t do much more than pan
 In 2004, a constitutional court in Taiwan charged the legislature to review everything we did wrong in 2003 and set up a new mechanism, the Central Epidemic Command Center, to make sure that the communication’s not only timely, but also make sure the collective intelligence, that is to say citizen’s input, can reach the CECC in a timely fashion.
 
 ### Audrey Tang:
-I usually say it’s fast, it’s fair, and it’s fun. The fast part is this toll-free number, 1-922, that anyone can call and report anything that happens. For example, when we were rationing out masks, a young boy called saying, “Hey, you’re rationing out pink masks to me. I don’t want to wear it to school.”
+I usually say it’s fast, it’s fair, and it’s fun. The fast part is this toll-free number, 1922, that anyone can call and report anything that happens. For example, when we were rationing out masks, a young boy called saying, “Hey, you’re rationing out pink masks to me. I don’t want to wear it to school.”
 
 ### Audrey Tang:
 The very next day, in the daily 2:00 PM CECC press conference, everyone wore pink medical masks. That is a brilliant gender mainstreaming, and increased the mask use almost immediately.
@@ -45,7 +45,7 @@ It’s very cute, so people share it much more than conspiracy theories. When we
 It’s interesting. It goes back to 2004 in some way, an awareness that it is about citizen participation and better flow of information. 2004, wasn’t the peak digital time. It was, in a way, pre-digital. Can you explain that to us, how that was…
 
 ### Audrey Tang:
-In 2004, already there’s this notion of civic participation. It’s true that we didn’t at that time have broadband as human right, 10 megabits per second. No matter where you are in Taiwan, you’re guaranteed to have unlimited 10 megabits per second for just â¬16 per month. Of course, we didn’t have that.
+In 2004, already there’s this notion of civic participation. It’s true that we didn’t at that time have broadband as human right, 10 megabits per second. No matter where you are in Taiwan, you’re guaranteed to have unlimited 10 megabits per second for just €16 per month. Of course, we didn’t have that.
 
 ### Audrey Tang:
 On the other hand, for example the toll-free number is already firmly part of our response plan. Even in the most rural or remote areas, you’re guaranteed to have access to landline, to public telephone booths or, at that time, it’s probably about ADSL, and things like that.
@@ -84,7 +84,7 @@ With that said, we do use a lot of novel data applications. For example, there�
 When I click on one, it shows that in my vicinity, the pharmacies that run out of mask are in red, and those that still have some masks are in green. People who queue in can actually just take out their phone and check through this participatory accountability, like this number of adult and children’s masks are in stock.
 
 ### Audrey Tang:
-The people queuing before them, once they swipe the IC card, people queuing after them can actually see it depleted by 9 or 10, which is the allotted quota. If they detect any anomaly, they can just call 1-822 to report that.
+The people queuing before them, once they swipe the IC card, people queuing after them can actually see it depleted by 9 or 10, which is the allotted quota. If they detect any anomaly, they can just call 1922 to report that.
 
 ### Audrey Tang:
 When we render the mass production in a country of 23 million, from 2 million a day to 20 million a day, everybody can see that it’s actually going to the pharmacies and later on convenience stores.

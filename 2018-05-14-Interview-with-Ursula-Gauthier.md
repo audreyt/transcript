@@ -10,7 +10,7 @@ It began when I was about 13 years old. That was in 1994, and there was this new
 I don’t know about it.
 
 ### Audrey Tang:
-He invented over the course of several years a browser, which you can use to view a web page, and a web server, which serves the web page, and a hyperlink, which is words underlined with blue ribbons and click to go from one age to the other. All these were invented in the late ’80s and early ’90s by this inventor called Tim Berners-Lee.
+He invented over the course of several years a browser, which you can use to view a web page, and a web server, which serves the web page, and a hyperlink, which is words underlined with blue ribbons and click to go from one page to the other. All these were invented in the late ’80s and early ’90s by this inventor called Tim Berners-Lee.
 
 ### Ursula Gauthier:
 What’s the name of the...?
@@ -187,7 +187,7 @@ During the Blue Ribbon campaign, it really opened my eyes. Originally, I thought
 The Internet, in a sense, it’s sovereign, in the sense that they don’t want to be threatened by ordinary states. \[laughs\] That really opened the idea of Internet as a political apparatus, to me.
 
 ### Audrey Tang:
-I worked with the Internet Engineering Task Force, which is part of the Internet Society. The IETF are the legislation body of the Internet. Inside IETF there is this, what they call, a open multi-stakeholder system, where anyone who think they have something to say that they would be affected by the Internet, they can join the IETF.
+I worked with the Internet Engineering Task Force, which is part of the Internet Society. The IETF are the legislation body of the Internet. Inside IETF there is this, what they call, an open multi-stakeholder system, where anyone who think they have something to say that they would be affected by the Internet, they can join the IETF.
 
 ### Audrey Tang:
 They don’t need to be a regional elected or whatever elected. As long as you can say, I have a stake in this, you can participate in this consensus-based discussion. The IETF, they have a document that says, &quot;We reject kings and presidents. We, instead, believe rough consensus and running code.&quot;
@@ -415,7 +415,7 @@ Yeah, I’m just being paid by taxpayers to do it full time now.
 You’re doing it for government services, government platforms?
 
 ### Audrey Tang:
-Or for anyone who would listen. Basically, my contributions here in the Executive Yuan, they’re also open source. Most of the process, the program, the transcripts, and everything we publish, they’re under a open license so people can use it without asking my permission.
+Or for anyone who would listen. Basically, my contributions here in the Executive Yuan, they’re also open source. Most of the process, the program, the transcripts, and everything we publish, they’re under an open license so people can use it without asking my permission.
 
 ### Audrey Tang:
 If the ministries here are willing to use it, of course I help them, but if the ministries elsewhere, maybe in Iceland, in Estonia, in Madrid, in New York City, in Ottawa, or in Wellington, they want to use, I also help them. I’m working, in a sense, with Taiwan; not just working for Taiwan.
@@ -504,7 +504,7 @@ No, to work. To interview my counterparts in France.
 You have counterparts in France? They’re not in government?
 
 ### Audrey Tang:
-They’re in government. There’s, for example, the Etalab . There was a République Numérique consultation from the previous government. The people who powers this conversation, like the Parlement &amp; Citoyens people, the 27th Region people, the SuperPublic people, and so on, I’m in touch with all of them.
+They’re in government. There’s, for example, the Etalab. There was a République Numérique consultation from the previous government. The people who powers this conversation, like the Parlement &amp; Citoyens people, the 27th Region people, the SuperPublic people, and so on, I’m in touch with all of them.
 
 ### Audrey Tang:
 The Etalab is also a government...
@@ -540,7 +540,7 @@ What happened?
 The Nuit Debout, the occupy of the République Square, and where Anne Hidalgo was the mayor at the time. They were tweeting at each other and saying, &quot;We’re giving back the public to the public. We’re not taking the public.&quot; It’s very funny.
 
 ### Audrey Tang:
-In the Nuit debout there was a online part where they have a list of all the tools we used in Taiwan and how much of the tool they can use in the occupy there. We have a lot of conversation. Let me see if I can...Here we go.
+In the Nuit debout there was an online part where they have a list of all the tools we used in Taiwan and how much of the tool they can use in the occupy there. We have a lot of conversation. Let me see if I can...Here we go.
 
 ### Ursula Gauthier:
 How Taiwan solved the Uber problem.
@@ -693,7 +693,7 @@ It was 24/7. That’s exactly right. It’s only on the public roads and the occ
 Also, you provided the same...?
 
 ### Audrey Tang:
-Everything is open innovation, so anyone can. As long as they have something to say, we let them say it. At the 30s, the same technology was also done that includes half a million people on the street. They were still able to use the same kind of technological broadcast what’s going on to the...
+Everything is open innovation, so anyone can. As long as they have something to say, we let them say it. At the 30th, the same technology was also done that includes half a million people on the street. They were still able to use the same kind of technological broadcast what’s going on to the...
 
 ### Ursula Gauthier:
 This is a drone photo, or is it...?
@@ -829,7 +829,7 @@ For a long time, it has become a policy to provide universal service of WiFi or 
 There’s this element, and then?
 
 ### Audrey Tang:
-The other element is that -- I’m 37 now -- we’re the first generation that enjoys the complete freedom of speech and assembly. People older than me, they were raised in the martial law era. People younger than me, like my brother, do not remember the marital law. \[laughs\]
+The other element is that -- I’m 37 now -- we’re the first generation that enjoys the complete freedom of speech and assembly. People older than me, they were raised in the martial law era. People younger than me, like my brother, do not remember the martial law. \[laughs\]
 
 ### Audrey Tang:
 There is a generation thing. The first generation that has the Internet access is also the first generation that has democracy.
@@ -871,7 +871,7 @@ FEPZ was, at the time, one of the things that the National Development Council r
 During the FEPZ discussion, I was sought by both sides. The National Development Council want to make a direct communication with civic media and journalists in a way that is very open and transparent. The civil society people who protest against FEPZ also want our advice on how to make a viral small booklet that let people see what’s interest about FEPZ.
 
 ### Audrey Tang:
-In this neutral facilitating role, we were able to conduct a series of public live streamed communications directly between the head of the National Development Council, Professor C.M. Kuan and also the heads of the civil society protesters and civic media in a very pointed way to fuse each other’s’ visions together.
+In this neutral facilitating role, we were able to conduct a series of public live streamed communications directly between the head of the National Development Council, Professor C.M. Kuan and also the heads of the civil society protesters and civic media in a very pointed way to fuse each other’s visions together.
 
 ### Audrey Tang:
 That was one of the very early examples of a collaborative meeting between who are nevertheless not cooperating with each other. Then, afterwards, there’s the Uber problem.
@@ -880,13 +880,13 @@ That was one of the very early examples of a collaborative meeting between who a
 The Uber problem.
 
 ### Audrey Tang:
-At that time Uber was operating legally in Taiwan, but after a while, in 2015, they started operating illegally. It used to be that they only worked with chartered costs and drivers with professional license, but around that time they started working with amateur drivers and using unchartered costs. It’s a problem everywhere in the world. It’s not just Taiwan, right?
+At that time Uber was operating legally in Taiwan, but after a while, in 2015, they started operating illegally. It used to be that they only worked with chartered cars and drivers with professional license, but around that time they started working with amateur drivers and using unchartered cars. It’s a problem everywhere in the world. It’s not just Taiwan, right?
 
 ### Ursula Gauthier:
 It is.
 
 ### Audrey Tang:
-At the time Minister Jaclyn Tsai reached out to the g0v people saying that we have a bunch of this kind of issues, where we continuously solve by inviting stakeholders, because it is epidemic of the mind that that spread through the society. It doesn’t really matter if we disclose Uber’s operation, Lyft will come in, everyone.
+At the time Minister Jaclyn Tsai reached out to the g0v people saying that we have a bunch of this kind of issues, where we continuously solve by inviting stakeholders, because it is epidemic of the mind that spread through the society. It doesn’t really matter if we disclose Uber’s operation, Lyft will come in, everyone.
 
 ### Audrey Tang:
 It’s easier if we can engage with all the stakeholders, rather than just one or two selected people. We are tasked to design a process that can accommodate thousands of stakeholders, not just one or two representing...
@@ -916,7 +916,7 @@ This is something that people don’t usually see on Facebook or on Twitter. On 
 Then we converge on the seven here that really resonate with everybody, like how insurance must be mandatory, registration must be mandatory, and professional driver’s license should be mandatory. Then we check with all the stakeholders on a live stream consultation so that they can see people’s consensus and commit to it. Only after everybody commit to it do we translate it into law.
 
 ### Audrey Tang:
-Now Uber is operating legally in Taiwan, but only with chartered cars and drivers. You can call taxi using Uber app, but then you can also using other taxi app to call with search prizes or with cars not painted yellow so they’re competing on fair grounds,
+Now Uber is operating legally in Taiwan, but only with chartered cars and drivers. You can call taxi using Uber app, but then you can also using other taxi app to call with search prices or with cars not painted yellow so they’re competing on fair grounds,
 
 ### Audrey Tang:
 Everybody see that it was coming, because it was a consensus including the Uber drivers. They are also agreeing with such things. We were able to use this process to process maybe a dozen or so emerging issues working with the minister, Jaclyn Tsai at the time, all the way to late 2015.

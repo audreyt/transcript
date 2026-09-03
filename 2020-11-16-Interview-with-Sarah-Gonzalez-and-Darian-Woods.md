@@ -657,7 +657,7 @@ When people in the quarantine hotels and quarantine places email me, some of the
 Within a couple weeks, we actually set up a new telecom tower just to make sure that they can watch their movies during the quarantine. The whole point of ensuring a good experience is that people don’t feel the social stigma or the financial burden of those 14 days.
 
 ### Audrey Tang:
-After they get released, they know, because it’s not a app or anything – it’s just cell phone tower strength – they couldn’t be labeled as such, profiled as such, subject to targeted advertisements or whatever discrimination because each of us need to go through 14 days. It applies equally to everyone returning to Taiwan.
+After they get released, they know, because it’s not an app or anything – it’s just cell phone tower strength – they couldn’t be labeled as such, profiled as such, subject to targeted advertisements or whatever discrimination because each of us need to go through 14 days. It applies equally to everyone returning to Taiwan.
 
 ### Audrey Tang:
 I think this is the kind of idea, the rational self-interest, that basically says if you comply with this 14 days, for a while you may lose some of the freedom of movement, but in the long run, it means you can go to the pride parade.
@@ -804,7 +804,7 @@ Has this been controversial? Are some people out there in Taiwan arguing that th
 The approval rate of those measures was around 91 percent, and then the 9 percent of people who did feel uncomfortable, we thanked them for keeping us honest and accountable so that they work with some parliamentarians.
 
 ### Audrey Tang:
-Because we never declare a state of emergency, everything we do need to be pre-authorized by the parliamentarians. The MPs held a public hearing where the architect, also heard of Department of Cyber Security, explained exactly how this system works and how it’s based on the same principle as the forest fire, flood, or earthquake warnings.
+Because we never declare a state of emergency, everything we do need to be pre-authorized by the parliamentarians. The MPs held a public hearing where the architect, also head of Department of Cyber Security, explained exactly how this system works and how it’s based on the same principle as the forest fire, flood, or earthquake warnings.
 
 ### Audrey Tang:
 After that public explanation, which was televised, the approval rate jumped to 94 percent. We still thank the 6 percent for keeping us honest and accountable, as it should be in a democracy.
@@ -1035,7 +1035,7 @@ The HIV-positive community, nowadays the younger generation understand the U=U, 
 The people in the CECC, the Central Epidemic Command Center, comprised of people like Philip Lo, who worked closely with HIV-positive communities. When the COVID came and we discovered that there are people who work in hostess bars that were diagnosed with COVID but did not want to report their symptoms we see that there is a very similar problem brewing.
 
 ### Audrey Tang:
-It’s not unique to Taiwan, certainly. All around the world, and especially in nearby East Asian countries, the nightlife district has always been one of the places that’s most difficult to do contract tracing, whether it’s through traditional interviews, through self-reporting mechanisms, or anything like that.
+It’s not unique to Taiwan, certainly. All around the world, and especially in nearby East Asian countries, the nightlife district has always been one of the places that’s most difficult to do contact tracing, whether it’s through traditional interviews, through self-reporting mechanisms, or anything like that.
 
 ### Audrey Tang:
 We work with the nightlife district to work on a real contact system, so not a real name system, so that they can keep the pseudonyms, the throwaway phone numbers or email addresses entirely locally, in the business itself, on scratchpads.

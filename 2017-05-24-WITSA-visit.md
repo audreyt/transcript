@@ -277,7 +277,7 @@ I called him and I said, &quot;Sergei, go find out what’s going on in your old
 > (laughter)
 
 ### Jim Poisant:
-He said, &quot;Now, China says if you agree to put Taiwan a province of China, then you will let you in.&quot; I said, &quot;You tell China, OK, that first of all I resent being bullied, number one. Number two, we don’t want to belong to your organization belong. This is where I belong. If you are that stupid to not want the industry in because you got a bully in the room, we want nothing to do with you.&quot;
+He said, &quot;Now, China says if you agree to put Taiwan a province of China, then you will let you in.&quot; I said, &quot;You tell China, OK, that first of all I resent being bullied, number one. Number two, we don’t want to belong to your organization. This is where I belong. If you are that stupid to not want the industry in because you got a bully in the room, we want nothing to do with you.&quot;
 
 ### Jim Poisant:
 I said, &quot;Don’t call me, and tell them don’t even call me. Unless this changes, we don’t want to belong. No, we are not a political organization. If you are interested in ICT development, forget politics for a minute, and think about how you’re going to work together.&quot;

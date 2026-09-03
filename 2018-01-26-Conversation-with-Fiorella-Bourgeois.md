@@ -131,7 +131,7 @@ Also, I’m between places in this office and another office. Whenever there’s
 Another way is probably, I can give you some appointments I have, then we can meet out there while I’m having a meeting. We can also have a rough arrangement. By default, I will be in SIL every Wednesday, so we’ll just meet later.
 
 ### Audrey Tang:
-Maybe just fix on Wednesday, then. Every Wednesday, I’ll be at SIL, 10:00 to 10:00 if possible, at least around th evening. If you have any requirements to meet certain people or to join certain meetings that’s beyond Shuyang’s purview, then you would talk about it like Wednesday evening, if that’s OK with you.
+Maybe just fix on Wednesday, then. Every Wednesday, I’ll be at SIL, 10:00 to 10:00 if possible, at least around the evening. If you have any requirements to meet certain people or to join certain meetings that’s beyond Shuyang’s purview, then you would talk about it like Wednesday evening, if that’s OK with you.
 
 ### Fiorella Bourgeois:
 Yes, it’s OK.
@@ -146,7 +146,7 @@ Rendez-vous. \[laughs\]
 Yeah. What are your research interests and your personal interests, and how do they interact? Because you mentioned it’s for both, but how exactly?
 
 ### Fiorella Bourgeois:
-Do mean to which extent what I’m doing is both for personal interest and research?
+Do you mean to which extent what I’m doing is both for personal interest and research?
 
 ### Audrey Tang:
 Yeah.
@@ -239,7 +239,7 @@ vTaiwan is a g0v project. It is defined by participants. Is there anything you w
 It’s a weird question. I don’t know if I can say what I want for vTaiwan. vTaiwan is for Taiwan.
 
 ### Audrey Tang:
-But the idea is that for every meetup, everybody proactively shapes its direction. What do your value...?
+But the idea is that for every meetup, everybody proactively shapes its direction. What do you value...?
 
 ### Fiorella Bourgeois:
 What I think... it would be great for the vTaiwan process to be more open, to deal not only with technology-orientated issues, but also with all kind of national issues, and to include more stakeholders. Right now, I saw that it’s a networking process.
@@ -263,7 +263,7 @@ Are there anything else than vTaiwan that you’re interested in the PDIS work, 
 I don’t know what the PDIS exactly does. I’m reading a lot of online interviews that you have published on SayIt to learn more about the PDIS. I still haven’t read them all. There are so many.
 
 ### Fiorella Bourgeois:
-That’s why I want to do what we call participative observation to learn what’s happening here. Then I will decide what is the most interesting for my research.
+That’s why I want to do what we call participant observation to learn what’s happening here. Then I will decide what is the most interesting for my research.
 
 ### Audrey Tang:
 Have you seen this picture before? ( [https://goo.gl/sbZ8z6](https://goo.gl/sbZ8z6) )
@@ -355,7 +355,7 @@ Everybody here can collaborate on it.
 Yes.
 
 ### Audrey Tang:
-We actually develop a lot of discourse, and paper writing, and narratives ourselves, and we do find that if we do it in Chinese, then the international collaboration is quite limited. People will have rely on Google Translate, and whatever. I imagine it’s the same in French.
+We actually develop a lot of discourse, and paper writing, and narratives ourselves, and we do find that if we do it in Chinese, then the international collaboration is quite limited. People will have to rely on Google Translate, and whatever. I imagine it’s the same in French.
 
 ### Fiorella Bourgeois:
 Yes, exactly.
@@ -421,7 +421,7 @@ Paper writing and collaborative article writing, that seems to be a theme. Anyth
 I want to start on this first.
 
 ### Audrey Tang:
-OK. Let’s see. Anything else I can do for you, other than just be there as far as I can measure, every Wednesday evening?
+OK. Let’s see. Anything else I can do for you, other than just be there as far as I can manage, every Wednesday evening?
 
 ### Fiorella Bourgeois:
 Wednesday evening, can we discuss about, for example...Can I ask you some questions?
@@ -462,10 +462,10 @@ Also, the open source movement has already won. \[laughs\] Like Microsoft and Ap
 > (laughter)
 
 ### Audrey Tang:
-It’s mainstream now. It’s no longer fringe. A lot of people who original forked the free software movement into open source, now seeing their narrative mainstreamed, are now going back and now regarding software freedom as important as well. ( [https://allisonrandal.com/2015/07/22/the-future-of-open-source/](https://allisonrandal.com/2015/07/22/the-future-of-open-source/) )
+It’s mainstream now. It’s no longer fringe. A lot of people who originally forked the free software movement into open source, now seeing their narrative mainstreamed, are now going back and now regarding software freedom as important as well. ( [https://allisonrandal.com/2015/07/22/the-future-of-open-source/](https://allisonrandal.com/2015/07/22/the-future-of-open-source/) )
 
 ### Audrey Tang:
-Open source is an important idea when they were convincing Netscape, IBM, those large companies to adopt open source. Today tHey no longer needs convincing, they can convince themselves. So a lot of us are going back to the software freedom part. That’s the short answer.
+Open source is an important idea when they were convincing Netscape, IBM, those large companies to adopt open source. Today they no longer needs convincing, they can convince themselves. So a lot of us are going back to the software freedom part. That’s the short answer.
 
 ### Audrey Tang:
 Anyway, feel free to throw me any questions. Yu-Shan is going to do interviews as well. I’ll just put everything on the transcript website so that I can refer my question to her to you, because it’s time-saving.
@@ -492,7 +492,7 @@ That’s my honor.
 So funny.
 
 ### Audrey Tang:
-If she is in any meeting or in any event, and want to bring you along, she’ll just notice you and you don’t have to check with me anymore. That’s it?
+If she is in any meeting or in any event, and want to bring you along, she’ll just notify you and you don’t have to check with me anymore. That’s it?
 
 ### Fiorella Bourgeois:
 Yes.

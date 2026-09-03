@@ -264,7 +264,7 @@ Research also tells that usually disinformation spread using humor. You use humo
 Exactly, yes.
 
 ### Dachi Liao：
-Can you give a example how humor over rumor…?
+Can you give an example how humor over rumor…?
 
 ### Audrey Tang：
 For example, this is a very cute…
@@ -551,7 +551,7 @@ Then it makes it very hard for the social sector to clarify it.
 What can social sector do? We really encounter this kind of problem. \[laughs\]
 
 ### Audrey Tang：
-This is a issue faced by pretty much all the countries. Sometimes, the government itself send misinformation. It may not be intentionally false, but it is false. The government is misinformed. Just because it is a government statement, it becomes very difficult for independent fact-checkers to fact-check the government.
+This is an issue faced by pretty much all the countries. Sometimes, the government itself send misinformation. It may not be intentionally false, but it is false. The government is misinformed. Just because it is a government statement, it becomes very difficult for independent fact-checkers to fact-check the government.
 
 ### Audrey Tang：
 On the other hand, if they are state-sponsored, they don’t even have this opportunity in the first place. Just saying very difficult for the TFCC to fact-check the government doesn’t mean that TFCC can’t fact-check the government. It’s just difficult.

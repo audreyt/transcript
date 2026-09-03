@@ -147,7 +147,7 @@ This time around, we’re saying to Facebook and other social media companies th
 Indeed, we have seen projects like the g0v, the vote.ly.g0v.tw. For any pair of candidates, you can very easily compare not just where their Facebook page is, but how much they’re spending on advertisement in an hour-by-hour basis and the reach of such advertisements.
 
 ### Audrey Tang:
-The idea is that people can very easily see not only what they did in the previous election, as provided by the Control Yuan with a very detailed breakdown, but a hour-by-hour breakdown of who exactly is being targeted by this candidate’s advertisements, where, and the reach.
+The idea is that people can very easily see not only what they did in the previous election, as provided by the Control Yuan with a very detailed breakdown, but an hour-by-hour breakdown of who exactly is being targeted by this candidate’s advertisements, where, and the reach.
 
 ### Nathan VanderKlippe:
 Wow.
@@ -234,7 +234,7 @@ The potential surfaces to sow discord have been reduced by tenfold.
 By tenfold?
 
 ### Audrey Tang:
-Literally, because each referenda topic is a division in the society. In the previous election, it’s not just a election. It’s a election plus referenda. Literally, anyone can still campaign on the referenda there, but no candidates can campaign on the election day except it’s a sick day, and some candidates are also proposer of referenda. \[laughs\]
+Literally, because each referenda topic is a division in the society. In the previous election, it’s not just an election. It’s an election plus referenda. Literally, anyone can still campaign on the referenda there, but no candidates can campaign on the election day except it’s a sick day, and some candidates are also proposer of referenda. \[laughs\]
 
 ### Audrey Tang:
 It made it very difficult to devise counter strategies or clarification information that can respond to all the different referenda topic at once. As long as there’s a particular one that escapes the attention of the multistakeholder ecosystem around fact-checking, then all the disinformation package can go through that channel instead of by any particular candidate or other referenda topics.
@@ -246,7 +246,7 @@ Which makes it extremely difficult to defend, but this time around, we say maybe
 You’re talking about restructuring the system of elections in response to disinformation in some ways.
 
 ### Audrey Tang:
-The previous referendum was the first meaningful one. That, by itself, is a experiment. We learned from the experiment and – what’s the word? – we pivoted.
+The previous referendum was the first meaningful one. That, by itself, is an experiment. We learned from the experiment and – what’s the word? – we pivoted.
 
 ### Nathan VanderKlippe:
 That’s interesting. I understand what you’re saying. There’s a lot less scope for disinformation.
@@ -365,7 +365,7 @@ There still is a contest of ideas.
 Right, but it’s been a bit shy on policy discussion, this election. Have you been…
 
 ### Audrey Tang:
-At a MP level, I think it’s pretty OK. We do see very creative platforms and the ways to deliver platforms. I personally work with the CEC, the Central Election Committee. Everybody is using QR code and layout. Not by everybody. A majority of MP candidates are using these sort of things to make sure that they can visually communicate their ideas on a grayscale printed bulletin.
+At an MP level, I think it’s pretty OK. We do see very creative platforms and the ways to deliver platforms. I personally work with the CEC, the Central Election Committee. Everybody is using QR code and layout. Not by everybody. A majority of MP candidates are using these sort of things to make sure that they can visually communicate their ideas on a grayscale printed bulletin.
 
 ### Audrey Tang:
 The freedom afforded by QR codes, URLs, and so on is you look bad if you only have a few emotional slogans on your bulletin. There’s a real contest of bulletin materials and how best to format it in the bulletin. Because it’s released now also as structured data, the vote.ly team, there’s quite a few, the votetaiwan.tw team. I’m sure I’m missing a dozen.
@@ -714,7 +714,7 @@ It turns out that we’ve started some meaningful consultation with the indigeno
 We think that in certain indigenous nations, like the Orchid Island, which is a good example where they have sovereign, blockchain, cryptocurrency thing, this data collaboratives, and negotiation around the truth and reconciliation around the nuclear waste issue and so on.
 
 ### Audrey Tang:
-These are good examples of using modern digital tools to empower indigenous nations to reflect properly their worldview and put a idea of transculturalism on meaningful consultation. Instead of asking everybody to learn the one, official language, we changed the law last year to make the Dawu language also a national language. Now we have 20 national languages. \[laughs\]
+These are good examples of using modern digital tools to empower indigenous nations to reflect properly their worldview and put an idea of transculturalism on meaningful consultation. Instead of asking everybody to learn the one, official language, we changed the law last year to make the Dawu language also a national language. Now we have 20 national languages. \[laughs\]
 
 ### Audrey Tang:
 All this is something that is very relevant to the continued existence of the National Energy Board. \[laughs\] They did quite a huge research, jointly, and published papers on their findings of how the Taiwan idea can apply to their case.

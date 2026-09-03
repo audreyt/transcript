@@ -70,7 +70,7 @@ First, there is no reply button, so you cannot attack other people. You can’t 
 The second is that it lets you see that it’s all your friends. It’s not some nameless enemies on the other side, so people will still compete, but they compete by proposing more and more ideas and feelings that resonates with people.
 
 ### Audrey Tang:
-If you look at only mainstream media or social media, sometime, we get ideas. Those five divisive statements are all there is, because it’s sensational, creates advertisement value, but actually, people have far more in common with each other.
+If you look at only mainstream media or social media, sometimes, we get ideas. Those five divisive statements are all there is, because it’s sensational, creates advertisement value, but actually, people have far more in common with each other.
 
 ### Audrey Tang:
 The future of democracy is a democracy of feeling and a democracy of listening, so that people can discover we actually have much more in common in terms of value compared to what the media will lead us to believe, the divisive statements.
@@ -145,10 +145,10 @@ We are also working with the city of New York, the city of Toronto, and so on, a
 Innovation is very easy to happen in a municipality, because people have very similar life experience. If you have a very large country, even different time zones, then it’s very difficult for people to share their life experience. Most of the innovation happen in a municipal level.
 
 ### Interviewer:
-The last question. What is the advise would you give to young generation?
+The last question. What advice would you give to young generation?
 
 ### Audrey Tang:
-The younger generation are digital natives, meaning that they are born with the Internet and the culture of sharing and open innovation. I am a digital migrant. I discovered the Internet only when I was 12 years old. I’m a immigrant. I migrated to the Internet when I was 12 years old.
+The younger generation are digital natives, meaning that they are born with the Internet and the culture of sharing and open innovation. I am a digital migrant. I discovered the Internet only when I was 12 years old. I’m an immigrant. I migrated to the Internet when I was 12 years old.
 
 ### Audrey Tang:
 Before, the original education, I still used pencil, and paper, and things like that. For digital natives, open is by default. No matter what people cares about, people know that people who care about the same thing around the world is a community.

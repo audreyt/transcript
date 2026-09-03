@@ -79,7 +79,7 @@ There may be building a new hospital versus building a new road in the rural cit
 Usually, the ministry was able to solicit help from other ministries. It really formed a solidarity network within the administration so that people when they see the petitions from the civil society, they don’t think it as necessarily something of conflict.
 
 ### Audrey Tang:
-They can think that, &quot;This is a way, a opportunity to harness some of the creative energies from the streets, from the petitioners and to co-create something that is of common value of everyone and a solution that works for everyone involved.&quot; So far, we’ve held about 35 collaborative workshops with petitioners and stakeholders. That doubles as a learning experience for all the public service agents involved in this kind of change.
+They can think that, &quot;This is a way, an opportunity to harness some of the creative energies from the streets, from the petitioners and to co-create something that is of common value of everyone and a solution that works for everyone involved.&quot; So far, we’ve held about 35 collaborative workshops with petitioners and stakeholders. That doubles as a learning experience for all the public service agents involved in this kind of change.
 
 ### Audrey Tang:
 Because of the regulation for PO network is signed into effect by now-Premier Lai Ching-te, used to be Mayor Lai Ching-te. The Premier himself practiced many open government methodologies when he was a mayor, so he’s a full endorser to our method at the moment.

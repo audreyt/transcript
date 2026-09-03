@@ -57,16 +57,16 @@ Silicon Valley is so yesterday.
 First off, I bring greetings for Pia and the team.
 
 ### Dave Moskovitz:
-Just give you a little background on myself, I’ve been working with the Service Innovation Lab at the Department of Internal Affairs. Pia invited me into the group. I’ve been doing stuff on and off there as a consultant part time, generally between one and two days a week since October of last year. My main job is public private sector engagement.
+Just give you a little background on myself, I’ve been working with the Service Innovation Lab at the Department of Internal Affairs. Pia invited me into the group. I’ve been doing stuff on and off there as a consultant part time, generally between one and two days a week since October of last year. My main job is public-private sector engagement.
 
 ### Dave Moskovitz:
-My own history is in the IT industry. I’m a dev by trade, started programming when I was 11 years old. I grew up in the States, in Los Angeles, emigrating to New Zealand on 1982. I’ve been there for around 35 years. I actually got rid of my US citizenship in 2015.
+My own history is in the IT industry. I’m a dev by trade, started programming when I was 11 years old. I grew up in the States, in Los Angeles, emigrating to New Zealand in 1982. I’ve been there for around 35 years. I actually got rid of my US citizenship in 2015.
 
 ### Audrey Tang:
-Wow. What made you do you it?
+Wow. What made you do it?
 
 ### Dave Moskovitz:
-I’m a not native Kiwi.
+I’m not a native Kiwi.
 
 ### Audrey Tang:
 A naturalized Kiwi.
@@ -280,7 +280,7 @@ We have fellows from Enspiral visiting a couple times. We also brought our start
 There’s this board of investors, local people looking to invest in these ideas and one of the Taipei startup person doing...What they do is that they hand handicapped, wheelchair people use iPads.
 
 ### Audrey Tang:
-They become universal designers and prospect the hotels and whatever and build a network so that they can figure out word of mouth and evidence to let their handicapped community to choose the hotels that are friendly to their co-design. Pretty good business mode actually.
+They become universal designers and prospect the hotels and whatever and build a network so that they can figure out word of mouth and evidence to let their handicapped community to choose the hotels that are friendly to their co-design. Pretty good business model actually.
 
 ### Audrey Tang:
 I think they’re well received in Christchurch, many of participants based in Wellington also who pretty like the idea. We look forward to do more of this in future.
@@ -301,7 +301,7 @@ What we’re looking at for the May event is that we’re going to take all the 
 If not that particular social enterprise, at least the social innovation can be brought back and inspire other people, that is our main goal.
 
 ### Dave Moskovitz:
-When I was talking exchanging people, I was specifically talking about the Service Innovation Lab within the government as well. It’d be great to have a couple of our people come over here for a week or two.
+When I was talking about exchanging people, I was specifically talking about the Service Innovation Lab within the government as well. It’d be great to have a couple of our people come over here for a week or two.
 
 ### Audrey Tang:
 We totally support that. One of our fellow interaction designer, Shu Yang, at the moment in Italy for the #crowdlaw gathering. A few months ago, she was in Tokyo for two months, just like the fellow idea you proposed.
@@ -394,7 +394,7 @@ I wasn’t doing this for myself though. That was not my intention.
 I know.
 
 ### Dave Moskovitz:
-I’m more concerned about the group. I’m an old bugger. I think it’d be really good for someone who’s earlier off in their career to have the opportunity. We’ll see where that goes. That was one thing I wanted to discuss.
+I’m more concerned about the group. I’m an old bugger. I think it’d be really good for someone who’s earlier on in their career to have the opportunity. We’ll see where that goes. That was one thing I wanted to discuss.
 
 ### Dave Moskovitz:
 Another thing is part of the portfolio of things that I do, Service Innovation Lab is only one small part. As I said, I do work down at Creative HQ with accelerators and incubators.
@@ -424,7 +424,7 @@ We call it the Presidential Hackathon. It’s the same idea.
 A 12-week hackathon.
 
 ### Audrey Tang:
-Presidential hackathon. ( [https://presidential-hackathon.iii.org.tw/](https://presidential-hackathon.iii.org.tw/) )
+Presidential hackathon. ([https://presidential-hackathon.iii.org.tw/](https://presidential-hackathon.iii.org.tw/))
 
 ### Dave Moskovitz:
 \[laughs\]
@@ -451,7 +451,7 @@ Then the mentors who are all the equivalent of head of GDS or the equivalent of 
 How long does that process go?
 
 ### Audrey Tang:
-Three months. We’ll be just fine. It’s starts at the open date, the call for ideas. It ends at June 2.
+Three months. We’ll be just fine. It starts at the open date, the call for ideas. It ends at June 2.
 
 ### Dave Moskovitz:
 Is that written up anywhere?
@@ -504,7 +504,7 @@ Well, it’s something.
 It is something. We’re working on tweaking that process as well. One of my dreams is to actually get a good chunk of funding available so that there can be pre-approved procurement.
 
 ### Audrey Tang:
-Do you see the timeline of our two three-month hackathon perfectly coincide? We can have the winning teams come to your competition.
+Do you see the timeline of our two three-month hackathons perfectly coincide? We can have the winning teams come to your competition.
 
 ### Dave Moskovitz:
 \[laughs\]
@@ -513,7 +513,7 @@ Do you see the timeline of our two three-month hackathon perfectly coincide? We 
 Seriously. Because I imagine there has been many very common problems. Maybe it needs a local domain knowledge and to tweak into the local regulations. I think the core social innovation will be similar.
 
 ### Dave Moskovitz:
-What’s sorts of problems have you been tackling in past?
+What sorts of problems have you been tackling in past?
 
 ### Audrey Tang:
 This kind of hackathon, at the Presidential level, is the first one.
@@ -522,7 +522,7 @@ This kind of hackathon, at the Presidential level, is the first one.
 How many have you run?
 
 ### Audrey Tang:
-On the city level, directly backed by the city government, there was about two dozens. If you include ones from civil society, then it’s hundreds. There’s a hackathon every week now here in Taiwan.
+On the city level, directly backed by the city government, there was about two dozen. If you include ones from civil society, then it’s hundreds. There’s a hackathon every week now here in Taiwan.
 
 ### Dave Moskovitz:
 I mean the three month one.
@@ -534,7 +534,7 @@ It was piloted at the city level. I think it’s been run for three cohorts. Thi
 It is. In terms of the specific projects that have dropped out, what’s the most interesting?
 
 ### Audrey Tang:
-The feature cases I think...I really think we need to translate this, unless you happen to read Chinese.
+The featured cases I think...I really think we need to translate this, unless you happen to read Chinese.
 
 ### Dave Moskovitz:
 I don’t, unfortunately. I feel very bad about that being here.
@@ -546,7 +546,7 @@ No, it’s just fine. I seen that on my laptop I just had. My country, things up
 The link is just Presidential Hackathon. There’s this video made by my friends. These are the highlights from previous cases. Let’s see if Google Translate respects their spirit. Maybe it does. Maybe it doesn’t.
 
 ### Audrey Tang:
-There’s one using machine learning, supervised learning, to construct fire risk prediction model. It works Gaozhong City. This is the fire isle address.
+There’s one using machine learning, supervised learning, to construct fire risk prediction model. It works Kaohsiung City. This is the fire isle address.
 
 ### Audrey Tang:
 The idea very easily speaking is to make a geospatial correlation and also future detection of what leads to fire and what leads to fire where and to deploy the fire fighter more effectively. I think this is already well integrated into the public service.
@@ -569,10 +569,10 @@ There’s less privacy concerns with just fires because we don’t put out fires
 This one actually I was the project lead is the MoE dictionary. What it does is that it integrates the Taiwanese Hakka, Holo, in Chinese as well as English, French, Deutsch into this handy pocket dictionary thing.
 
 ### Audrey Tang:
-In addition of being very popular on Facebook because if you want a OG graph, you just put [https://moedict.tw/](https://moedict.tw/) plus whatever Chinese characters you want to say, it just makes a pretty OG banner for it, so you can share. You can tweak the fonts. The marketers love it.
+In addition of being very popular on Facebook because if you want an OG graph, you just put [https://moedict.tw/](https://moedict.tw/) plus whatever Chinese characters you want to say, it just makes a pretty OG banner for it, so you can share. You can tweak the fonts. The marketers love it.
 
 ### Audrey Tang:
-In any case, we build on top of it a urban dictionary. It’s not just the national government but for indigenous people. The Siamese people here use this to revitalize their dictionary because all they had was what the missionary did back in the ’60s or ’70s.
+In any case, we build on top of it an urban dictionary. It’s not just the national government but for indigenous people. The Siraya people here use this to revitalize their dictionary because all they had was what the missionary did back in the ’60s or ’70s.
 
 ### Audrey Tang:
 Then we build this crowdsourced dictionary site so that everybody can add in more definitions to grow a language so to speak. There’s apps. There’s all sort of showcases that you can do with dictionary data.
@@ -590,7 +590,7 @@ I’m asking about the code rather than the content.
 The code is Creative Commons Zero. One of the peculiar thing of g0v is that we use CC Zero code as well which makes it very easy in the next procurement cycle for the vendor to say, &quot;Hey, we wrote this code,&quot; because CC zero is compatible with everything and integrates directly into the public service.
 
 ### Audrey Tang:
-Just very recently, like last year, we have incorporated OpenAPI and SPDX compatbility into our procurement regulations. SPDX is a Linux Foundation thing that allows any project to list all the open source dependencies that it have and thereby waive themself of warranties and stuff.
+Just very recently, like last year, we have incorporated OpenAPI and SPDX compatibility into our procurement regulations. SPDX is a Linux Foundation thing that allows any project to list all the open source dependencies that it have and thereby waive themself of warranties and stuff.
 
 ### Audrey Tang:
 We made this officially part of our procurement process so that people can use open source very easily including AGPL which was the major headache before.
@@ -604,7 +604,7 @@ AGPL says you have to allow if you have a website to completely download of not 
 > (laughter)
 
 ### Audrey Tang:
-Of course, nobody interpret that that way, but because the government procurement did not ever rule for that, it could be interpreted in the most risky way, which is why the procurement people didn’t like AGLP. Because we made it into procurement rule now, there’s a standard interpretation.
+Of course, nobody interpret that that way, but because the government procurement did not ever rule for that, it could be interpreted in the most risky way, which is why the procurement people didn’t like AGPL. Because we made it into procurement rule now, there’s a standard interpretation.
 
 ### Audrey Tang:
 Because we give away also our copyright even in the old procurement regime, because it’s Creative Commons Zero, this is also made into part of procurement process.
@@ -661,7 +661,7 @@ Yeah.
 Before I become the digital minister, it’s mostly on the data visualization level. Many project at this level become very popular with civil servants. We have visualization and simulation for labor law.
 
 ### Audrey Tang:
-You can do your hours, and they tell it whether you violated code, or you would have the, this is the Taipei city budget. Taipei City commits to publish a machine-readable budget every year, along with the human-readable one.
+You can do your hours, and they tell you whether you violated code, or you would have the, this is the Taipei city budget. Taipei City commits to publish a machine-readable budget every year, along with the human-readable one.
 
 ### Audrey Tang:
 I think this is really innovative, because not only you can drill down to the budget that you like -- and it has spread to, like, seven cities -- but also, each and every one is a discussion board. You can talk about it with civil servants.
@@ -688,7 +688,7 @@ The Ministers? My main strategy...
 Not so much the ministers as the people below them.
 
 ### Audrey Tang:
-The senior executives? Yeah, my main strategy is this. Everything I do is on a voluntary basis. As an anarchist, I don’t issue commands or edicts for the matter. It has to be voluntarily. If the Ministry of, say, Defense didn’t want to join this program, I don’t force them to. That’s the disclaimer.
+The senior executives? Yeah, my main strategy is this. Everything I do is on a voluntary basis. As an anarchist, I don’t issue commands or edicts for that matter. It has to be voluntarily. If the Ministry of, say, Defense didn’t want to join this program, I don’t force them to. That’s the disclaimer.
 
 ### Audrey Tang:
 Then I try to sell it either to save time for junior public servants, or reduce risk for mid-levels, or to create credibility for seniors. That’s the main three motivations. I think many civic tech projects fail, because they optimize for one or two of the heavy sacrifice of the other.
@@ -697,7 +697,7 @@ Then I try to sell it either to save time for junior public servants, or reduce 
 Someone will block. Because those three are not fungible, it won’t work if one of them is blocked. It has to take in the form a Pareto improvement, in the sense that you can improve one of it, and not sacrifice any other two. It will surely move forward.
 
 ### Audrey Tang:
-For example, when this system was first introduced a year and a half ago, I say, &quot;OK, only the major project, the national-wide project that is directly overseen by the executive here at the administration level, cross-ministry level.&quot;
+For example, when this system was first introduced a year and a half ago, I say, &quot;OK, only the major project, the nation-wide project that is directly overseen by the executive here at the administration level, cross-ministry level.&quot;
 
 ### Audrey Tang:
 We don’t publish the one that’s self-managed by the ministry. It’s a fraction, like 10 percent, but it reduce risk for the mid-level. It also saves time. As time goes by, people can see that by responding fully, the legislatures, the reporters stop asking them the same basic questions over and again.
@@ -738,7 +738,7 @@ One of my personal heroes, so that’s good.
 Is there any appetite for participatory budgeting? Is that integrated into the system together?
 
 ### Audrey Tang:
-Yes. Taipei has been running PB for a couple years now. It’s pretty successful. Taichung also has PB. Gaozhong also. The New Taipei City has a really interesting kind of Chicago-style of PB, in the sense that they have earmarked money for city councilors.
+Yes. Taipei has been running PB for a couple years now. It’s pretty successful. Taichung also has PB. Kaohsiung also. The New Taipei City has a really interesting kind of Chicago-style of PB, in the sense that they have earmarked money for city councilors.
 
 ### Audrey Tang:
 A city councilor could already suggest particular projects. The city councilor basically offers that part into participatory budgeting. It’s also a very important tension in PB dynamic, which is the city council seeing it as taking away their, the general city power.
@@ -777,7 +777,7 @@ Instead, we should spend, I think, a few hundred million to rebuild the hospital
 So that when things happen, you can fly surgeons here, instead of flying people with a stroke there, which doesn’t make sense, and so on. It was a live streamed, focused conversation of 30 people. In the town hall, I was doing an ESPN anchor style play-by-play to the town hall people, who are not experts, and therefore needs translation.
 
 ### Audrey Tang:
-Once they have questions that I can answer, I just answer. If they have good contributions, then they’re translated into expert language, and through Internet, go in into this smaller room. After this, everybody agree, &quot;Yeah, building hospital, better idea. Helicopters, not so much.&quot;
+Once they have questions that I can answer, I just answer. If they have good contributions, then they’re translated into expert language, and through Internet, go into this smaller room. After this, everybody agree, &quot;Yeah, building hospital, better idea. Helicopters, not so much.&quot;
 
 ### Audrey Tang:
 That was a Friday. On the Monday, every Monday, I talk to the prime minister, and the other minister without portfolio. &quot;This is our consensus last Friday. Do you think it’s OK if we spend a couple hundred million?&quot;
@@ -798,7 +798,7 @@ There are a couple of other things I wanted to run by you. One is that I develop
 Yeah, of course.
 
 ### Dave Moskovitz:
-We’ve just translated into Traditional Chinese. Have a look at it. It’s at [https://leanpolicy.org.](https://leanpolicy.org.) You can look at it right now if you want.
+We’ve just translated into Traditional Chinese. Have a look at it. It’s at [https://leanpolicy.org](https://leanpolicy.org) You can look at it right now if you want.
 
 ### Audrey Tang:
 What’s the target audience?
@@ -822,7 +822,7 @@ Basically, are you familiar with the lean canvas?
 Yeah, of course.
 
 ### Dave Moskovitz:
-Basically, the lean canvas applied to policy development. It allows people to really rapidly work through, focus on the things that matter. What is the problem or opportunity that you’re trying to save? Who are the beneficiaries? What is the impact, before you start working out your interventions?
+Basically, the lean canvas applied to policy development. It allows people to really rapidly work through, focus on the things that matter. What is the problem or opportunity that you’re trying to solve? Who are the beneficiaries? What is the impact, before you start working out your interventions?
 
 ### Dave Moskovitz:
 What I found was that people doing policy development, just like startup founders, they tend to focus on the product, rather than focusing on the problem that they’re trying to solve, or who they’re trying to solve it for.

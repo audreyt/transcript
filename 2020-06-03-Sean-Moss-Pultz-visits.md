@@ -155,7 +155,7 @@ That’s right. You can quote me on it.
 You can quote me in saying that there should be more business-to-government relationships when it comes to counter-coronavirus efforts.
 
 ### Audrey Tang:
-Just as we donated a lot of medical mask to international humanitarian aid, we should also dedicated in a open source manner all our solutions to the epidemic, including the ones that Taiwan have not deployed because of the lack of community spread stage, but we should, nevertheless, support other jurisdictions in doing that.
+Just as we donated a lot of medical mask to international humanitarian aid, we should also dedicated in an open source manner all our solutions to the epidemic, including the ones that Taiwan have not deployed because of the lack of community spread stage, but we should, nevertheless, support other jurisdictions in doing that.
 
 ### Audrey Tang:
 III is focused on the digital transformation of the government and the way the government works. If they can help the business community, including medical mask makers, to get this “Taiwan Can Help” brought out to everybody, then every digital governance tool should be part of this so-called national team on the “Taiwan Can Help” club.

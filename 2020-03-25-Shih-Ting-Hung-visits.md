@@ -10,19 +10,19 @@
 似乎是在柏林的家對面開了一家台灣麵店，他們很愛吃。想說臺灣應該有更多好吃的，就來了。這是在疫情爆發之前。
 
 ### Shih-Ting Hung:
-閒聊間他針對這次口罩事件聊了ㄧ下，他很好奇我們是不是考慮用多媒體的方式來跟世界聊天，分享我們的經驗？
+閒聊間他針對這次口罩事件聊了一下，他很好奇我們是不是考慮用多媒體的方式來跟世界聊天，分享我們的經驗？
 
 ### Audrey Tang:
 前幾天范雲委員也有提出過一個想法，說要拍紀錄片。
 
 ### Shih-Ting Hung:
-嗯嗯，影像工作者思考想如何在現狀底下對社會大眾有點貢獻時，應該很自然會從影像製作與精神層面的方向去發想; 我最近感受很深的，是疫情爆發後對於藝術從業者的衝擊。這期間，我所知道的影像拍攝都暫停，大家瞬間沒有收入。同時，有人說，藝術在這種時期ㄧ定是第一個被犧牲掉的，藝術不是民生必需品。這點聽了讓人有點傷心 - 藝術的確可能不是第一個採取的步驟，但ㄧ定是需要的- 例如義大利人被隔離在家，會忍不住在陽台上ㄧ起歌唱，ㄧ起敲鍋碗瓢盤，音樂是抒發心理壓力最直接美好的管道之一，這對我們度過這個難關有直接的正面影響。這是藝術跟精神健康結合在此時刻非常重要的好例子，是基本需求。
+嗯嗯，影像工作者思考想如何在現狀底下對社會大眾有點貢獻時，應該很自然會從影像製作與精神層面的方向去發想; 我最近感受很深的，是疫情爆發後對於藝術從業者的衝擊。這期間，我所知道的影像拍攝都暫停，大家瞬間沒有收入。同時，有人說，藝術在這種時期一定是第一個被犧牲掉的，藝術不是民生必需品。這點聽了讓人有點傷心 - 藝術的確可能不是第一個採取的步驟，但一定是需要的- 例如義大利人被隔離在家，會忍不住在陽台上一起歌唱，一起敲鍋碗瓢盤，音樂是抒發心理壓力最直接美好的管道之一，這對我們度過這個難關有直接的正面影響。這是藝術跟精神健康結合在此時刻非常重要的好例子，是基本需求。
 
 ### Shih-Ting Hung:
-目前我們生理健康的制度上感覺已經做得很棒，想跟你腦力激盪的，是大家的心理健康這塊 - 是否可以透過互動式的數位方式，達到ㄧ樣照顧大家的功效。而這個點子，也透過逐字稿的公佈，將ㄧ個可能的種子發散出去，吸引有興趣的人ㄧ起來完成。
+目前我們生理健康的制度上感覺已經做得很棒，想跟你腦力激盪的，是大家的心理健康這塊 - 是否可以透過互動式的數位方式，達到一樣照顧大家的功效。而這個點子，也透過逐字稿的公佈，將一個可能的種子發散出去，吸引有興趣的人一起來完成。
 
 ### Shih-Ting Hung:
-我在紙上畫了ㄧ個簡單的線狀圖，可以airdrop分享給你。
+我在紙上畫了一個簡單的線狀圖，可以airdrop分享給你。
 
 ### Audrey Tang:
 你如果要畫圖也可以。
@@ -34,7 +34,7 @@
 我們也可以從這一秒鐘是用英文講話，我是用英文想事情的。
 
 ### Shih-Ting Hung:
-OK. The topic we would like to brainstorm together is “How Digital Art contributes to mental health during Covid-19 perid？” and to target more preciously on each audience’s needs, I am thinking this is actually more of an APP format.
+OK. The topic we would like to brainstorm together is “How Digital Art contributes to mental health during Covid-19 period？” and to target more preciously on each audience’s needs, I am thinking this is actually more of an APP format.
 
 ### Audrey Tang:
 That’s right.
@@ -55,7 +55,7 @@ That’s awesome.
 Then I’d be guided to express my feelings truthfully, for example, “This morning I’m stressed about coronavirus.”
 
 ### Shih-Ting Hung:
-Chatbot would then say, “ I hear you. Challenging time indeed. Do you think this a black-and-white situation?” I go, “Yeah, it’s horrible.” Chatbot would say, “Indeed. Let’s try this : Is anything positive happened despite this horrible pandamic? Try to describe what you feel positive about?” Then I go, “yeah, ok…yes, it humbles me, it makes me go into an inner journey, and it reminds me what’s truly important.”
+Chatbot would then say, “ I hear you. Challenging time indeed. Do you think this a black-and-white situation?” I go, “Yeah, it’s horrible.” Chatbot would say, “Indeed. Let’s try this : Is anything positive happened despite this horrible pandemic? Try to describe what you feel positive about?” Then I go, “yeah, ok…yes, it humbles me, it makes me go into an inner journey, and it reminds me what’s truly important.”
 
 ### Shih-Ting Hung:
 I find this pretty amazing, with the technology, chatbot like this may not be rocket science now, and yet by simply reminding us to look from another perspective, my mood is uplifted right away. It helps to go into the day with a more positive mood.
@@ -67,7 +67,7 @@ What this TREE DIAGRAM is showing here - Under the corona virus period, we may h
 Thank you.
 
 ### Shih-Ting Hung:
-If we focus on 03. Emotioanl Needs, and this app can customize/detect individual needs daily for further straight forward guidance, that would be effectively helpful. We have a lot of information on line, the massive data could be overwhelming and distressing.
+If we focus on 03. Emotional Needs, and this app can customize/detect individual needs daily for further straight forward guidance, that would be effectively helpful. We have a lot of information on line, the massive data could be overwhelming and distressing.
 
 ### Audrey Tang:
 That’s right. It’s a assistive.
@@ -76,7 +76,7 @@ That’s right. It’s a assistive.
 A streamlined trustworthy resource that builds an effective community is our goal.
 
 ### Shih-Ting Hung:
-The next step is to invite artists into this community : for example, when chatbot detects A user’s emotional stress and in need of a break after a long day, the chatbot can say,”how about playing some music together?” The app then directs the user to a live stram of a digital concert, where four musicians playing a 3 minute string quartet before bed time, inviting global musicians to join this would be a lovely idea. Or, let’s say chatbot finds B user more visual, a 15-minute “Lunch Doodle” with an illustrator live could be fun. C user is in need of stress relief, a Pop Up Class of 5 minute medidation could be introduced, etc etc.
+The next step is to invite artists into this community : for example, when chatbot detects A user’s emotional stress and in need of a break after a long day, the chatbot can say,”how about playing some music together?” The app then directs the user to a live stream of a digital concert, where four musicians playing a 3 minute string quartet before bed time, inviting global musicians to join this would be a lovely idea. Or, let’s say chatbot finds B user more visual, a 15-minute “Lunch Doodle” with an illustrator live could be fun. C user is in need of stress relief, a Pop Up Class of 5 minute meditation could be introduced, etc etc.
 
 ### Shih-Ting Hung:
 You know, a bit like the Italian neighbors playing the trumpets, singing the songs together, but digitally and spontaneously.
@@ -94,7 +94,7 @@ That’s right. Everything moves along.
 Things that cannot be online gets shut down.
 
 ### Shih-Ting Hung:
-It makes me sad to hear people say, “ When crisis like this happens, Art is the first to go - it’s not an urgent fundamental human need.” Art may not be the first step, but eventually, we all need books, movies, music to help us get through the days. Even sining in the shower under quarantine could be art. Anything nurturing our souls can be considered artistic.
+It makes me sad to hear people say, “ When crisis like this happens, Art is the first to go - it’s not an urgent fundamental human need.” Art may not be the first step, but eventually, we all need books, movies, music to help us get through the days. Even singing in the shower under quarantine could be art. Anything nurturing our souls can be considered artistic.
 
 ### Audrey Tang:
 Mental health is also health. It’s also a medical need.
@@ -197,7 +197,7 @@ It will kill us. You see this. You use the fear of getting hurt, and it’s very
 Then it explains how anxiety works – a fear of getting hurt, a fear of not getting loved, the fear of becoming a bad person. These are the three choices that you can warn your human and protect them against the world, other people, and themselves. This is public mental health material.
 
 ### Audrey Tang:
-This person now gets a invitation to a party, and whether you should ignore, accept, or deny, and things like that. It gradually personalizes how anxiety works.
+This person now gets an invitation to a party, and whether you should ignore, accept, or deny, and things like that. It gradually personalizes how anxiety works.
 
 ### Audrey Tang:
 The great thing is that everything here is free of copyright. It’s not only relinquishing the intellectual property rights, but actual attribution rights, so you can draw another world and remix it.
@@ -206,7 +206,7 @@ The great thing is that everything here is free of copyright. It’s not only re
 It’s being translated to many languages. The storyline is just a TXT file, so you can change the dialogue very easily. You can even make it something else entirely that talks about depression and social anxiety.
 
 ### Audrey Tang:
-For example, there is a invitation to a party.
+For example, there is an invitation to a party.
 
 ### Shih-Ting Hung:
 The wolf is still shaking. \[laughs\]
@@ -235,7 +235,7 @@ That’s something that we can collaborate together.
 Sound great. Deciphering what we need right at this moment is interesting- it allows technology to sync with the mind. Even with something simple -
 
 ### Shih-Ting Hung:
-This morning, I hop on the internext to learn from those I respect, to be inspired. A podcast says that during this pandemic when some says, “Panic, panic, panic, everything is out of control,” while as the Buddha may say, “Relax, everything is out of control.” That sets the tone of the day.
+This morning, I hop on the internet to learn from those I respect, to be inspired. A podcast says that during this pandemic when some says, “Panic, panic, panic, everything is out of control,” while as the Buddha may say, “Relax, everything is out of control.” That sets the tone of the day.
 
 ### Audrey Tang:
 That’s right. You are not in control. Why don’t you just relax?
@@ -247,7 +247,7 @@ When the fact doesn’t change, to change our perspective could be a beautiful t
 A LA friend is a still photographer from Paris. He told me he takes photos of empty streets as art that comforts him. LA has never been like this,
 
 ### Shih-Ting Hung:
-We see “The Last Supper” becomes completely empty. Edward Hopper paintings become empty. The empty “Nighwaks” really strikes me, as his composition is so refined architecturally - perfectly reflecting what we just dicussed about our attempt to control.
+We see “The Last Supper” becomes completely empty. Edward Hopper paintings become empty. The empty “Nighwaks” really strikes me, as his composition is so refined architecturally - perfectly reflecting what we just discussed about our attempt to control.
 
 ### Shih-Ting Hung:
 To have no protagonists come in to play, that’s something super artistic for our time.
@@ -309,7 +309,7 @@ There’s a need to ideate a more public health benefit, rather than just apprec
 Yes, and to be efficient with time, what do you suggest would be the constructive next step?
 
 ### Audrey Tang:
-I can help on making it a app, like something that you can install on your iPhone home screen, without getting, necessarily, tracking through this app store review process, because nowadays the phones can install an app directly from the website.
+I can help on making it an app, like something that you can install on your iPhone home screen, without getting, necessarily, tracking through this app store review process, because nowadays the phones can install an app directly from the website.
 
 ### Audrey Tang:
 It’s important for you to be able to play offline, because once you’re online, you get distracted all the time.
