@@ -667,7 +667,7 @@ Wow. Is civil society participation commonly taught in high schools? That’s im
 Yes. For things like that, so there’s a really grassroots. It doesn’t really meet agenda setting. It’s on everybody’s agenda.
 
 ### Vivian Wang:
-Maybe what we we need to do is just make it more fun.
+Maybe what we need to do is just make it more fun.
 
 ### Audrey Tang:
 Gamify it.
