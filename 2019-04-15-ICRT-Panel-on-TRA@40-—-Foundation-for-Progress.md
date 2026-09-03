@@ -154,7 +154,7 @@ For example, 1979, it was 96 Congress. From 96 Congress until 2013, 2014, cumula
 Last year, we have seen the concrete report of Taiwan Travel Act and the Asia Reassurance Initiative Act, and now, one after another. We should not just look at Taiwan Relation as such. Cumulatively, there are so many.
 
 ### Joanne Chang：
-For example, Director Christensen has mentioned of WHO. Personally, I wrote a article on WHO/WHA. From 1999 to 2004, the US Congress passed five resolution and later became US domestic law, to support Taiwan’s participation in WHO/WHA.
+For example, Director Christensen has mentioned of WHO. Personally, I wrote an article on WHO/WHA. From 1999 to 2004, the US Congress passed five resolution and later became US domestic law, to support Taiwan’s participation in WHO/WHA.
 
 ### Joanne Chang：
 These are concrete example of congressional effort to help Taiwan to participate in international organization. That’s part of the effort. Over the 40 years, I can cite too many. 2002, for example, the 2003 fiscal year, and the US Congress add something inside in consider Taiwan’s a major non NATO Allies.

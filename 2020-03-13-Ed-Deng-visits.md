@@ -202,7 +202,7 @@ Then everybody has a say. It’s democratic. It’s not governed by who has the 
 True.
 
 ### Audrey Tang:
-I’m using that as a example, because before the invention of cooperatives, people thought that there’s a kind of unbridgeable divide between the capitalists and the employees.
+I’m using that as an example, because before the invention of cooperatives, people thought that there’s a kind of unbridgeable divide between the capitalists and the employees.
 
 ### Ed Deng:
 True.
@@ -391,7 +391,7 @@ Before us. Exactly, right.
 Because they’re rich. They’ve very small in population, very small in area, and so they can afford to run experiments.
 
 ### Audrey Tang:
-Actually, our NHI itself, the IC Card has been running the Pescadores in Penghu for extended amount of time before everybody in Taiwan gets the IC card, the NGIs card. For a while, everybody in Pescadores is using the IC Card. People in Taiwan is using…
+Actually, our NHI itself, the IC Card has been running the Pescadores in Penghu for extended amount of time before everybody in Taiwan gets the IC card, the NHI card. For a while, everybody in Pescadores is using the IC Card. People in Taiwan is using…
 
 ### Ed Deng:
 A paper stamp.
@@ -697,7 +697,7 @@ Which is the opposite. It’s the opposite.
 It sounds like a challenge, “go and reidentify this.”
 
 ### Audrey Tang:
-ome people think putting some asterisks is de-identification. Some only consider statistics as deidentification, and there’s any number of things in-between.
+Some people think putting some asterisks is de-identification. Some only consider statistics as deidentification, and there’s any number of things in-between.
 
 ### Audrey Tang:
 If you ask a random legislator what de-identification means, if you ask 10, you’ll get 11 different answers. What I’m trying to say is that this is the opportunity for us not to use a piece of the language that is already so confused with meaning anyway.

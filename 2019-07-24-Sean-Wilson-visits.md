@@ -70,7 +70,7 @@ It’s fairly new, the dropping of the fifth phase. It’s really a addition to 
 Mostly, there are five new scopes. You already mentioned something about the integrated digital services, digital.gov. The counterpart here will be what’s called the T-Road, which takes its name after the Estonian X-Road. That handles both the data exchange as well as the people-facing portal.
 
 ### Audrey Tang:
-At the moment, www.gov.tw is very much just a index of links. There’s no coherent service or coherent experience across different ministries. That’s the experience part, and this is the data part. There’s, of course, a national plan on open government, protecting private data, the new eID, and things like that.
+At the moment, www.gov.tw is very much just an index of links. There’s no coherent service or coherent experience across different ministries. That’s the experience part, and this is the data part. There’s, of course, a national plan on open government, protecting private data, the new eID, and things like that.
 
 ### Audrey Tang:
 These were not items originally written as such on the phase five. This is a extension of the phase five scope while encompassing all the original to-do items in the phase five.
@@ -462,7 +462,7 @@ It looks interesting. There’s a lot of different resources on there from &quot
 This is the one that’s seen as more canonical. Of course, WTO has its own language, and the various different ministries. The only general-purpose one here is the NAER one. All the others are domain-specific as maintained by the government.
 
 ### Audrey Tang:
-If we want to improve the general quality, NAER will be the one that I think will have the most impact. This is mostly about regulation-specific terms. This is here, I think, because all the regulations and draft bills that has a impact on foreign residents here need to be now published in two languages.
+If we want to improve the general quality, NAER will be the one that I think will have the most impact. This is mostly about regulation-specific terms. This is here, I think, because all the regulations and draft bills that has an impact on foreign residents here need to be now published in two languages.
 
 ### Audrey Tang:
 They really want to make sure that the same terms in the regulatory text is translated exactly the same way. It’s like programing language. For a website, this is the least of our concern, because most websites won’t just post the whole of the regulatory text on their website. NAER, I think, is still worth taking a look.

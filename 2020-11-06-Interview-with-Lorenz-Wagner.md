@@ -433,7 +433,7 @@ When we look at the idea of design thinking in politics, there was an interview 
 Certainly. Design thinking is a very simple idea that you need to first discover what the stakeholders, the people, really feel before defining the common values. Without the common values, you may do all the policymaking in a very professional way, but the people will not feel that they are a part of it.
 
 ### Audrey Tang:
-Instead of the traditional way of just developing a policy and implementing the policy very well, design thinking adds an extra diamond before it that says, “Let’s first discover each other’s feelings,” or an ethnographic hanging out with each other to take all the sides, to feel the viewpoints of taxi drivers and Uber drivers,, of the indigenous elders, but also the younger people, who are more having an international identity with their indigenous upbringing and so on.
+Instead of the traditional way of just developing a policy and implementing the policy very well, design thinking adds an extra diamond before it that says, “Let’s first discover each other’s feelings,” or an ethnographic hanging out with each other to take all the sides, to feel the viewpoints of taxi drivers and Uber drivers, of the indigenous elders, but also the younger people, who are more having an international identity with their indigenous upbringing and so on.
 
 ### Audrey Tang:
 Once we discover various people’s common values, then we can solve the right problem with policymaking. I think design thinking is related not with the idea of equality, but with inclusion. Specifically, being more inclusive in setting the agenda, making sure that people care about the work that we collectively do, instead of saying, “Oh, let’s just delegate to the professional bureaucrats.”

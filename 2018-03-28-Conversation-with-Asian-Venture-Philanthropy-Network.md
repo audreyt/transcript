@@ -24,13 +24,13 @@ Please, go ahead.
 Some feedback.
 
 ### Kevin Tan:
-Yeah, I would love to get some of your thoughts, actually, about the pay for success work that we’ve been doing, and some of our case studies today. Maybe just by way a introduction, I should tell you a bit more about pay for success, and some of what we heard. Just so we’re on the same understanding, this is basically what we discussed earlier with the model.
+Yeah, I would love to get some of your thoughts, actually, about the pay for success work that we’ve been doing, and some of our case studies today. Maybe just by way an introduction, I should tell you a bit more about pay for success, and some of what we heard. Just so we’re on the same understanding, this is basically what we discussed earlier with the model.
 
 ### Audrey Tang:
 That’s right.
 
 ### Kevin Tan:
-What we’re trying to do at the end of the day is move from this world where the time we spend in social services without tracking, to one where we do it more reflexively but how we get there is by using data to pave my results and then having some financing to it.
+What we’re trying to do at the end of the day is move from this world where the time we spend in social services without tracking, to one where we do it more reflexively but how we get there is by using data to prove the results and then having some financing to it.
 
 ### Kevin Tan:
 What we heard today actually was that there are a couple of areas that were top of mind to everybody. There were four areas. One in drug recidivism, one in long-term care, one in healthcare and the last one, early childhood education.
@@ -90,10 +90,10 @@ You can see healthcare is big. Drug rehab is big. Long-term healthcare as part o
 For the rehab and long-term healthcare, I think the rehab system at the moment, again, is very siloed. There’s a lot of data, but many of them quantitative, some of them still in non-structured form. There’s many ways that we can improve it by actively visualizing it.
 
 ### Audrey Tang:
-The reason why it wasn’t visualized was because, first, the government ditched those service principles. It was done, in fact, when those systems were built. Second, they don’t have extra money to procure solutions that will help them to turn it into the national AVI platform that we’re pushing forward.
+The reason why it wasn’t visualized was because, first, the government ditched those service principles. It was done, in fact, when those systems were built. Second, they don’t have extra money to procure solutions that will help them to turn it into the national API platform that we’re pushing forward.
 
 ### Audrey Tang:
-Again, this presidential hackathon is a way for people to get the political will for them to upgrade their systems for digitization. I think there’s a lot of potential here. At the moment, the Ministry of Justice, I wouldn’t say it’s the most digitized or the most progressive one. Mostly because it has also to work with the Judicial Yuan and this cross-UN information system.
+Again, this presidential hackathon is a way for people to get the political will for them to upgrade their systems for digitization. I think there’s a lot of potential here. At the moment, the Ministry of Justice, I wouldn’t say it’s the most digitized or the most progressive one. Mostly because it has also to work with the Judicial Yuan and this cross-agency information system.
 
 ### Audrey Tang:
 We just turned the prosecution document itself into e-document for this year. We can’t expect many other evidence-based policymaking to flow from this thing. If it’s part of the presidential hackathon, I’m sure we can make it happen in another year or so for the necessary data flow.
@@ -137,7 +137,7 @@ I was going to ask. Council of Agriculture, that’s interesting, what kind of d
 It’s ag tech, agriculture technology. One of the cases that I handled was to make visible all the prices of the fruits and vegetables from when it’s growing, monitoring its progress as well as its bulk sale price, its price on the Taipei and other markets, its sale at the endpoints using electronic invoice data, and so on.
 
 ### Audrey Tang:
-There is this quotation chart, quotation that have the bench price platform in which we absorb all the different open data as well as weather prediction of the storage, because there’s the storage of the Council of Agriculture that was charged a balance by the price of vegetable if it was frozen. They never published the stock of this data, because otherwise the market manipulators with whom...
+There is this quotation chart, quotation that have the benchmark price platform in which we absorb all the different open data as well as weather prediction of the storage, because there’s the storage of the Council of Agriculture that was charged a balance by the price of vegetable if it was frozen. They never published the stock of this data, because otherwise the market manipulators with whom...
 
 ### Audrey Tang:
 It would defeat its purpose. Where we have, even national secrets released...
@@ -178,7 +178,7 @@ I totally agree. It basically turns the face culture...
 ...by publishing data. I totally agree with this.
 
 ### Kevin Tan:
-Is there a particular area where that would be most useful given that you already have a open data culture for the government?
+Is there a particular area where that would be most useful given that you already have an open data culture for the government?
 
 ### Audrey Tang:
 One of the issues we’re dealing with right now is actually around the healthcare data. Everybody has their eye on the national medical insurance data, some say because it’s potentially the most social good, but mostly because it’s where all the privacy fights are happening. We’re trying to find ways that is a solution for everyone.
@@ -208,7 +208,7 @@ We’re trying to integrate it with all the other databases at the government le
 The National Development Council is the go-to agency for data integration, mostly because it’s a merger of two government agencies. There was the Economic Planning and Whatever Agency that you know and the Auditing and Control Agency that went away.
 
 ### Audrey Tang:
-These two, one for planning and one is for accountability. When these two merged into the National Economic Council, because it’s in this unique position relative to every other ministry in the sense that they can set this yearly execution plan, and they can also hold them to account, which is why our national data platform, our national citizen participation platform, our national platform for participation on budgeting, our national platform on education, whatever is all under the National Development Council, because it holds this unique position in relation to other ministries.
+These two, one for planning and one is for accountability. When these two merged into the National Development Council, because it’s in this unique position relative to every other ministry in the sense that they can set this yearly execution plan, and they can also hold them to account, which is why our national data platform, our national citizen participation platform, our national platform for participation on budgeting, our national platform on education, whatever is all under the National Development Council, because it holds this unique position in relation to other ministries.
 
 ### Audrey Tang:
 MIS department is not MIS in the traditional sense. It’s more like a true data office in other countries, so the head of MIS NDC is the go-to person for data integration, which is why he at the near-term time is the de facto operator of the participation platform, because all this integration has to go over him.
@@ -230,7 +230,7 @@ What they do have is generally speaking an issue on the public trust. When our s
 > (laughter)
 
 ### Audrey Tang:
-That’s the main issue and that’s why we’re bringing out citizen participation platforms, to increase trust, not only NDC and not the extended units, in general. What they will obviously do for them is as you said to turn around the face culture to make sure that when they release say our Economic Ministry releases data independently, it’s a way to regain the face instead of to lose face.
+That’s the main issue and that’s why we’re bringing out citizen participation platforms, to increase trust, not only NDC and not the extended units, in general. What they will obviously do for them is as you said to turn around the face culture to make sure that when they release say our Economics Ministry releases data independently, it’s a way to regain the face instead of to lose face.
 
 ### Audrey Tang:
 That would be the incentive to partner with NDC. Nothing else is comparable in the position in the executive Yuan, in the same agency.
@@ -351,16 +351,16 @@ Finally, to popularize digital service. Those are our five values. They are ofte
 That’s OK.
 
 ### Audrey Tang:
-To make sure that people can see for themselves how the government is doing. If the government has promised something, the people have a way to hold them into account, by having an audit trail of policymaking. Again, people can voice their concerns. People who complain the loudest get into the kitchen. Make sure that people in rural places are included also, as well as other localities.
+To make sure that people can see for themselves how the government is doing. If the government has promised something, the people have a way to hold them to account, by having an audit trail of policymaking. Again, people can voice their concerns. People who complain the loudest get into the kitchen. Make sure that people in rural places are included also, as well as other localities.
 
 ### Audrey Tang:
 Socially disadvantaged people are involved in policymaking, so there’s an open government principle for inclusion. Since 2015, we have a national regulation that says we have to allow citizens to petition. We have to allow the government, 60 days before any regulations and any proposed bills, for public commentary to happen in public.
 
 ### Audrey Tang:
-We argue it by, for example, auditor spending, public spending, public procurement. Starting next month, all the thousands of ministry projects, they will publish on the same platform. How, if it’s quarterly reported, then every three months, it has to publish spending cuff, its KDI cuff, which procurements it has in agenda, and things like that.
+We argue it by, for example, auditor spending, public spending, public procurement. Starting next month, all the thousands of ministry projects, they will publish on the same platform. How, if it’s quarterly reported, then every three months, it has to publish spending stuff, its KPI stuff, which procurements it has in agenda, and things like that.
 
 ### Audrey Tang:
-If it’s like we have one now, which at the administrative level, major KDI, maybe it’s updated every month. If there’s a way for everyone to see how a government project is doing and comment publicly, and for the public servant to reply in public, so that they only have to reply once instead of 50 times.
+If it’s like we have one now, which at the administrative level, major KPI, maybe it’s updated every month. If there’s a way for everyone to see how a government project is doing and comment publicly, and for the public servant to reply in public, so that they only have to reply once instead of 50 times.
 
 ### Audrey Tang:
 For every budget item to have a write-up so that people can talk on it in a full discussion, instead of a very general fashion. This is actually, we put a lot of thought into this by concentrating all the knowledge management, budget management, procurement management system, gradually infused by everything into the NDC and then telling the NDC what you see. Now, all the citizens see, too.
@@ -381,7 +381,7 @@ The reason why is that before, when we have a evolution case, or now the Referen
 That’s because in a game theory way, if you have an ever-shifting relationship, of course your tendency will be pushing the responsibility around. If now every ministry are in the same PO network, we are all in it for at least four years, then it makes no point to make the relationship bad. Every month we meet. We always highlight the PO who made the good decisions because we show the credit.
 
 ### Audrey Tang:
-This is the Ministry of Finance PO. Somebody petitioned our income tax filing system really sucks on analytics. Instead of defending, he actually went on the petition platform before he reached 5,000 people. When it was 50 people, he said, &quot;We’re now explaining, we’re inviting all the ones who complains into a co-creation workshop.&quot;
+This is the Ministry of Finance PO. Somebody petitioned our income tax filing system really sucks on analytics. Instead of defending, he actually went on the petition platform before it reached 5,000 people. When it was 50 people, he said, &quot;We’re now explaining, we’re inviting all the ones who complains into a co-creation workshop.&quot;
 
 ### Audrey Tang:
 All of the sudden, he turns the negative emotion into a positive emotion, by inviting people to collaborate. We use service design, a lot of post-it notes. We make sure that everyone who ever uttered anything useful on the Internet is included verbatim, very shocking language.
@@ -392,7 +392,7 @@ All of the sudden, he turns the negative emotion into a positive emotion, by inv
 People really feel that they’re part of it. They’re in it together. In service design, the important thing is that over the different touch points, people’s sentiment, their emotion, must get better and better. As someone very acutely pointed out over the Internet, with the thing about filing the income tax, they can’t feel well.
 
 ### Audrey Tang:
-This is why we can’t actually make them feel better during the progress of their tax, but we can at least make it not like this. The co-creation workshop has a lower goal. After the co-creation workshop, something very interesting happened. It turns out, people complained the loudest, their actual professional designers, professional programmers, professional journalists.
+This is why we can’t actually make them feel better during the progress of their tax, but we can at least make it not like this. The co-creation workshop has a lower goal. After the co-creation workshop, something very interesting happened. It turns out, people complained the loudest, they're actual professional designers, professional programmers, professional journalists.
 
 ### Audrey Tang:
 They actually know a lot, which is why we say \[non-English speech\] . They care so much that they complained this loudly. When we invite all of them, the result is that we need five more co-creation workshops and one to resolve one particular step in the tax filing process. The participation office eventually amassed a supporting team that redesigned this year’s tax filing system.
@@ -412,7 +412,7 @@ Why is that? Why we can work with all these completely different ministries? The
 This is an expand the local hospital ministry. This is the NDC. It’s very special. This is the local county, and these are the local stakeholders. They’re literally \[non-English speech\] , EU, and all those organizers.
 
 ### Audrey Tang:
-Why we can do this is because in our regulation was explicitly, whenever an agency or ministry aide think that B is the main agency, and it’s just a supporting agency. B thinks C is the main agency. It’s just a supporting agency. C thinks A is the supporting. I mean, C is just a support agent. Everybody are main agencies. \[laughs\] When it’s nobody’s business, it’s everybody’s business.
+Why we can do this is because in our regulation was explicitly, whenever an agency or ministry aide think that B is the main agency, and it’s just a supporting agency. B thinks C is the main agency. It’s just a supporting agency. C thinks A is the supporting. I mean, C is just a support agency. Everybody are main agencies. \[laughs\] When it’s nobody’s business, it’s everybody’s business.
 
 ### Audrey Tang:
 When Hengchun has a vision like this, all these people, like 40, 50 of us, all went to Hengchun, on a very focused meeting, with everybody involved. With me in the town hall, like an ESPN anchor, live streaming the small room where the experts are, analyzing their every move to the local people, and translating local people’s inquiries into the small room.
@@ -424,13 +424,13 @@ We explore every possible solutions, and finally said, &quot;OK, we really need 
 Maybe fly from some excellent surgeons from the north to here when the incidents and accidents happen, but not fly the patients northward. Otherwise, the local hospital will just keep losing its doctors and nurses.
 
 ### Audrey Tang:
-Then we allocated some budget, so around US 10 million to build this hospital. It’s not because of this meeting that we have this proposal. We’ve seen this proposal for years. That we can see that the social return of value is acknowledged and agreed by all the stakeholders involved, as well as all the ministries involved.
+Then we allocated some budget, so around US$10 million to build this hospital. It’s not because of this meeting that we have this proposal. We’ve seen this proposal for years. That we can see that the social return of value is acknowledged and agreed by all the stakeholders involved, as well as all the ministries involved.
 
 ### Audrey Tang:
-It will be not seen as power grab by the Ministry of Health and Welfare from the Ministry of Interior if everybody has already explored every other option. This every other Friday, we have this kind of collaboration meeting. The next Monday, I present this mind map to the Premiere, who then makes a decision about it.
+It will be not seen as power grab by the Ministry of Health and Welfare from the Ministry of Interior if everybody has already explored every other option. This every other Friday, we have this kind of collaboration meeting. The next Monday, I present this mind map to the Premier, who then makes a decision about it.
 
 ### Audrey Tang:
-Sometime, because we vote every month what cases are we going to do cross-ministry collaboration, there’s some realted to public servants. For example, this is this 5,000 petition about to change the take an absence, the vacation rules of the public servants, so that public servants can take a leave based by hour, instead of half-day. There is more room to take an absence.
+Sometime, because we vote every month what cases are we going to do cross-ministry collaboration, there’s some related to public servants. For example, this is this 5,000 petition about to change the take an absence, the vacation rules of the public servants, so that public servants can take a leave based by hour, instead of half-day. There is more room to take an absence.
 
 ### Audrey Tang:
 Of course, the original rule is very unreasonable and very rigid, but there’s never any rationale to fix it, because it’s involves the Examination Yuan and the Executive Yuan. Nobody really wants to be the first initiator break the status quo. Now, there is a petition, I think, 4,000 of the public servants. The special office is all stakeholders. They all voted for it.
@@ -438,7 +438,7 @@ Of course, the original rule is very unreasonable and very rigid, but there’s 
 > (laughter)
 
 ### Audrey Tang:
-We just had all the ministries saying, &quot;This is really a good idea.&quot; Then the examination UN, they’re the stakeholders, too. They passed this in 15 days. It was the fastest ever.
+We just had all the ministries saying, &quot;This is really a good idea.&quot; Then the Examination Yuan, they’re the stakeholders, too. They passed this in 15 days. It was the fastest ever.
 
 > (laughter)
 
@@ -475,13 +475,13 @@ Is there something that is unique about the way that Asia does it? We really wan
 It reflects a particularly unique way that, our governance structure, right?
 
 ### Audrey Tang:
-When I was in a UN sustainable economic network in Vatican, talking with Professor Jeffrey Sachs about sustainably long goals, he mentioned that when he teaches economy in the textbooks, they are always start from the utilitarian values, and then deontological.
+When I was in a UN Sustainable Development Solutions Network in Vatican, talking with Professor Jeffrey Sachs about Sustainable Development Goals, he mentioned that when he teaches economy in the textbooks, they are always start from the utilitarian values, and then deontological.
 
 ### Audrey Tang:
-It never mentions virtual ethics. It’s as if virtual ethics doesn’t exist. When automation, AI, and all that advance, it really creates a real existential crisis, because people are measured in their efficiency, and the machines are always more efficient.
+It never mentions virtue ethics. It’s as if virtue ethics doesn’t exist. When automation, AI, and all that advance, it really creates a real existential crisis, because people are measured in their efficiency, and the machines are always more efficient.
 
 ### Audrey Tang:
-I happened to read the economy textbook authored by our previous premiere, Lin Chuan, who is an economist and professor. In his textbook, &quot; \[non-English speech\] , the New Horizon for Economy,&quot; it starts from virtual. It’s interesting. It starts from prosperity, start from the common good. It starts from, like we said, planning for seven generations, from sustainable development.
+I happened to read the economy textbook authored by our previous premiere, Lin Chuan, who is an economist and professor. In his textbook, &quot; \[non-English speech\] , the New Horizon for Economy,&quot; it starts from virtue. It’s interesting. It starts from prosperity, start from the common good. It starts from, like we said, planning for seven generations, from sustainable development.
 
 ### Audrey Tang:
 Then he moves onto deontological. The rules, the laws are there to support these virtues in everybody, including our education centers, and so on. Then he talks about the utilitarian values, which are just instruments for those deontological manifestations of virtues. This is unheard of in the European or American context. I think this is something very uniquely Asian.
@@ -520,7 +520,7 @@ Exactly, and particularly because the dynamics. To be practical, a lot of the dy
 Exactly.
 
 ### Patsian Low:
-What that effectively means is that therefore, there’s a particular way of doing things, a family of solutions that need to be aligned with the founders’ objectives. Now, we have an opportunity to actually explore something different. I think it’s worth exploring. I hope that we can maybe work with your office in the future to take some of this innovation and sharing it with the rest of the region.
+What that effectively means is that therefore, there’s a particular way of doing things, a family of solutions that need to be aligned with the funders’ objectives. Now, we have an opportunity to actually explore something different. I think it’s worth exploring. I hope that we can maybe work with your office in the future to take some of this innovation and sharing it with the rest of the region.
 
 ### Audrey Tang:
 We have many number of ambassadors. We can, at any time, send people to Japan for two months, to Singapore for two months. We have a lot of very dynamic fellows, because our office does entirely virtual. As long as they’re in Asia, we’re in the same time zone.
@@ -607,7 +607,7 @@ Thank you for sharing. I look forward to be part of the network. There is a lot 
 We’re using the opportunity of the APAC Social Enterprise Summit this May to make sure that all the exemplar cases are translated to English, and at least there is an English interpreter that we can collect into something that is in a shareable form, like little handouts and so on, the case studies that’s happening here.
 
 ### Audrey Tang:
-That may also add to your network. I told our Ministry of Health and Welfare, as well as agriculture, labor, whatever, that all their introductory material must be under a Creative Commons license, meaning that you can use it to make derivative material was asking their permission. So we look forward to contributing to your courses.
+That may also add to your network. I told our Ministry of Health and Welfare, as well as agriculture, labor, whatever, that all their introductory material must be under a Creative Commons license, meaning that you can use it to make derivative material without asking their permission. So we look forward to contributing to your courses.
 
 ### Patsian Low:
 That would be great. To the extent that we can take the social impact bond journey to the next level, I think your suggestions earlier about where are the low-hanging fruits will be really valuable. I suppose if, in doing the discussions, we come across any potential challenges, we can maybe have a further conversation with you.
@@ -616,13 +616,13 @@ That would be great. To the extent that we can take the social impact bond journ
 At the moment, for someone to try out a creative programming model, it is not legal. The public servant who signed this, they have the responsibility to explain to their minister. That actually is the main issue. If they choose the lowest price fit, there is no risk whatsoever, which is why they tend to use this traditional procurement method.
 
 ### Audrey Tang:
-In our proposed bill now in the legislative UN, we are change the procurement law, that they no longer require explanation in this arm. The risk is not concentrated. The traditional way, and the best value, whatever the value means, it could include such value, are now on par. They no longer have to justify to this.
+In our proposed bill now in the Legislative Yuan, we are change the procurement law, that they no longer require explanation in this arm. The risk is not concentrated. The traditional way, and the best value, whatever the value means, it could include such value, are now on par. They no longer have to justify to this.
 
 ### Audrey Tang:
-I think as I stated in the opening, this procurement the law, and the company law, which allows the company to fix to its social mission, is on the way, and announce this mission lock to the greater investors, as well the data. I think these two, they are not necessarily for SIB to happen, but they would remove two of the largest ecosystem burdens of this kind of procurement.
+I think as I stated in the opening, this procurement the law, and the company law, which allows the company to stick to its social mission, is on the way, and announce this mission lock to the greater investors, as well the data. I think these two, they are not necessarily for SIB to happen, but they would remove two of the largest ecosystem burdens of this kind of procurement.
 
 ### Audrey Tang:
-I’d really hope to work with MP Karen other MPs to fast track these two laws. If they could pass this year, then I think the journey would be much easier from the end of the year onwards.
+I’d really hope to work with MP Karen Yu and other MPs to fast track these two laws. If they could pass this year, then I think the journey would be much easier from the end of the year onwards.
 
 ### Patsian Low:
 From an all of government point of view, do you foresee, are there any other potential regulatory constraints that would have to be overcome to address some of what we talked about, in terms of these issues, education?
@@ -666,7 +666,7 @@ I think this spirit, if it continues like this, as we talk about at NAB, as long
 > (laughter)
 
 ### Patsian Low:
-That’s true. I think it’s a kind of modestly holder collaborative governance that we will hope to have, which should be inspired by an open approach to engender their trust. As you say, if nobody wants anything and everybody wants everything. It’s that kind of spirit. I think hopefully we’ll be able to also take that spirit and start the NAB activities and the social finance activities in that direction.
+That’s true. I think it’s a kind of multi-stakeholder collaborative governance that we will hope to have, which should be inspired by an open approach to engender their trust. As you say, if nobody wants anything and everybody wants everything. It’s that kind of spirit. I think hopefully we’ll be able to also take that spirit and start the NAB activities and the social finance activities in that direction.
 
 ### Audrey Tang:
 Yeah, and actually the discretionary procurement threshold has just moved from 100k to a million NT dollars to Taiwan. So now, below a million NT dollars, there is no bidding process. This is new of this month I think. One of my tactics or strategies would be actually to choose something really, really small. It doesn’t even need a bidding process.
@@ -675,7 +675,7 @@ Yeah, and actually the discretionary procurement threshold has just moved from 1
 I understand.
 
 ### Audrey Tang:
-It could be discretionary budget for pay for success. One million Taiwan dollars is OK. It is an OK amount. That’s one of the tactics before emarking on the full process.
+It could be discretionary budget for pay for success. One million Taiwan dollars is OK. It is an OK amount. That’s one of the tactics before embarking on the full process.
 
 ### Patsian Low:
 That’s a good opportunity. There was a question earlier about competitive bidding actually, about how to find the right service provider. It’s good that if the procurement environment allows that kind of possibility.
@@ -755,12 +755,12 @@ Now that you’ve got the initiative on the part of the government to want to cr
 Have a specific pilot.
 
 ### Audrey Tang:
-Exactly. I think when the stakeholders all come from innovation, virtual ethics background...
+Exactly. I think when the stakeholders all come from innovation, virtue ethics background...
 
 > (laughter)
 
 ### Audrey Tang:
-...it’s always possible to find what we call noncontroversial essence, an abstract enough thing that everybody can rally behind, but concrete enough that you can translate one into a pilot project. It’s always possible in a virtual ethics society. It’s not that easy in a utilitarian society because we have to ask each other utility functions, and know sometimes don’t measure it.
+...it’s always possible to find what we call noncontroversial essence, an abstract enough thing that everybody can rally behind, but concrete enough that you can translate one into a pilot project. It’s always possible in a virtue ethics society. It’s not that easy in a utilitarian society because we have to ask each other utility functions, and know sometimes don’t measure it.
 
 ### Patsian Low:
 Cost benefit and so forth.

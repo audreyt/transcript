@@ -137,7 +137,7 @@ The idea is that we look at 5,000 petitioners, and we invite the ones that are m
 The deliberation, of course, because there’s already more than 5,000 people interested, they will want to watch over live stream and over real-time transcript and things like that, and we do provide the service when asked.
 
 ### Audrey Tang:
-We do a idea development session, and using user journey and service design methods, we mapped every single point in our tax-filing process. What are the touch points? What are people’s feelings and so on? Instead of just complaining, they become collaborators, volunteers really.
+We do an idea development session, and using user journey and service design methods, we mapped every single point in our tax-filing process. What are the touch points? What are people’s feelings and so on? Instead of just complaining, they become collaborators, volunteers really.
 
 ### Audrey Tang:
 We run five workshops like this, and eventually the one who complained the most are discovered to be actually expert UX designers, and expert service designers. Basically, they know more than the contracted IT companies anyway.
@@ -776,7 +776,7 @@ That’s a great question. I’ll have to clarify a little bit of our methodolog
 For example, the virtual workplace that we use, Sandstorm, it’s entirely free software. It’s open source, but then it’s also got professional cyber security audit, and we actually hired as our cyber security department the elite teams, the one who placed the second in the Capture the Flag of Defcon to attack the system and try to find its vulnerabilities and weaknesses.
 
 ### Audrey Tang:
-Because it’s a open source it’s not the simple reverse engineering. They went line by line to look at the loopholes.
+Because it’s an open source it’s not the simple reverse engineering. They went line by line to look at the loopholes.
 
 ### Audrey Tang:
 Once we have this secure underpinning, then we open this innovation for any public servant to write their own software to run on this secure sandbox system. They would write a system to let people order lunchbox together. People in our office us it every week to order lunch together.

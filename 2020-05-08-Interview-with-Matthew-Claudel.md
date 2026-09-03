@@ -28,7 +28,7 @@ We have roughly 40 minutes, but I’m flexible. If we end up taking 50, it’s f
 Cool. If you could just start out by introducing me to your office, the digital office, and in ordinary circumstances what your agenda is or what the mission of the office is.
 
 ### Audrey Tang:
-Taiwan is in a ordinary circumstance. We’ve never declared emergency. There’s been zero lockdowns. There’s, unfortunately, six people who succumbed to the coronavirus, but six people is not that much by international standards, by far.
+Taiwan is in an ordinary circumstance. We’ve never declared emergency. There’s been zero lockdowns. There’s, unfortunately, six people who succumbed to the coronavirus, but six people is not that much by international standards, by far.
 
 ### Audrey Tang:
 Today, our professional baseball league will have a thousand people participating in the audience. We’ve never had to close schools and so on. First, let me say we’re under normal circumstances. This is my office, literally my office.
@@ -514,7 +514,7 @@ That, I think, is part of the underpinning of why we always say we cannot beat t
 That’s fantastic. Thank you. This is hugely inspiring. Also, for my own work, it’s just a terrific body of work that you’re building, and it’s really just a fascinating relationship between these different sort of groups and ways of thinking.
 
 ### Matthew Claudel:
-I’ve been thinking a lot about what it means to constitute a public. This is on my desk right now, but John Dewey’s “The public and It’s Problems” is from almost 100 years ago, but he’s talking about when people have a shared problem or a mutual goal, they come together and they become a public.
+I’ve been thinking a lot about what it means to constitute a public. This is on my desk right now, but John Dewey’s “The public and Its Problems” is from almost 100 years ago, but he’s talking about when people have a shared problem or a mutual goal, they come together and they become a public.
 
 ### Matthew Claudel:
 Only if a government is necessary does the government then become a function of that public, but what’s really happening is this public format. I just find that compelling, and it sounds like that’s exactly what you’re doing in this approach. It’s like government’s there, but it’s really the process of this public formulation that’s at the heart of it.

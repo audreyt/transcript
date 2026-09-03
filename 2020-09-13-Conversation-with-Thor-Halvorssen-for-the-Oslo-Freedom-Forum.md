@@ -28,7 +28,7 @@ The medical officers immediately took the “seven new SARS cases” too hard an
 The collective intelligence not only enables a fast response from the Central Epidemic Command Center that livestreams the responses every day but also through toll free lines like 1922 and chatbots.
 
 ### Audrey Tang:
-Any new ideas coming in from civil society, for example, a boy who calls and says, “Oh, your rationing mask, but all I get his pink medical mask. I don’t want to wear it to school because I’m afraid my classmates may laugh at me,” the very next day in a live stream, everybody, the medical officers, and the minister wore pink medical masks to show solidarity and gender mainstreaming.
+Any new ideas coming in from civil society, for example, a boy who calls and says, “Oh, your rationing mask, but all I get is his pink medical mask. I don’t want to wear it to school because I’m afraid my classmates may laugh at me,” the very next day in a live stream, everybody, the medical officers, and the minister wore pink medical masks to show solidarity and gender mainstreaming.
 
 ### Audrey Tang:
 In this way, our counter infodemic response, the humor over rumor, emphasizes that for each disinformation campaign that travels outrage, we always push out a meme that travels on joy. Joy has a higher R-value than outrage.

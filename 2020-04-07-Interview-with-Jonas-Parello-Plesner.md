@@ -150,7 +150,7 @@ They can very easily locate the pharmacies that still has the masks in stocks. T
 We use the national health insurance card to claim the mask. Now you can get nine medical masks every two weeks. This kind of rationing through this NHI system is a lot of credit to the NHI to be able to work with the pharmacies and the pharmacies to agree for the social accountability of their work so that you can check for yourself.
 
 ### Audrey Tang:
-If you go to a pharmacy, you swipe your NHI card. You get nine mask. After a few minutes, you can refresh the browser and see the stock deplete by nine. Of course, we add to it a online ordering component, but the core principle is the same. It is trusting citizens with open data because we are a republic of citizens or 民國.
+If you go to a pharmacy, you swipe your NHI card. You get nine mask. After a few minutes, you can refresh the browser and see the stock deplete by nine. Of course, we add to it an online ordering component, but the core principle is the same. It is trusting citizens with open data because we are a republic of citizens or 民國.
 
 ### Audrey Tang:
 The citizens then, in turn, trust each other more because everybody can see what’s going on. This is a crash course \[laughs\] of the radical transparency and how it has been working, countering disinformation, including COVID disinformation.
@@ -270,7 +270,7 @@ The first one is making sure that this website is authorized to download your pe
 The second is to self-select the period to download. The third is to select available data.
 
 ### Audrey Tang:
-There was one published case from Israel, one from Korea, and now one from the recent holiday. The CECC just announced a area with very high population density.
+There was one published case from Israel, one from Korea, and now one from the recent holiday. The CECC just announced an area with very high population density.
 
 ### Audrey Tang:
 This tool enables you to compare your own personal trail from the Google Maps against the declared high population density areas. That’s it. There’s nothing more than that.
@@ -288,7 +288,7 @@ No, that’s very interesting. Also, has there been any thoughts, then, in Taiwa
 There is a bit of a backlash, at least in one article I read, about that, of giving a private company that much access to people’s health data in this situation. Has there been any discussion, since you use Google Maps for this?
 
 ### Audrey Tang:
-The Google Map relationship with the website that I just showed is non-governmental. It’s strictly a tool – a open-source tool, at that – that allows people to query their existing data stored at Google.
+The Google Map relationship with the website that I just showed is non-governmental. It’s strictly a tool – an open-source tool, at that – that allows people to query their existing data stored at Google.
 
 ### Audrey Tang:
 We’re not making tools, for example, enabling the sharing of their digital trails to the CECC. That need to be said very clearly.

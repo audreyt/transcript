@@ -227,7 +227,7 @@ They know what they want, but they still have to explain everything in the publi
 Do you have these kind of big contractors the administration is working with them, or are you developing internally?
 
 ### Audrey Tang：
-Yeah, we do have these kind of procurements, but one of the work we’re doing is that we’re separating the backend, which is the function, the self-storage cybersecurity, and the frontend, which is actually the way that it reaches people, like through a website, through a bot, through a app, or whatever as well as the experience itself, the design.
+Yeah, we do have these kind of procurements, but one of the work we’re doing is that we’re separating the backend, which is the function, the self-storage cybersecurity, and the frontend, which is actually the way that it reaches people, like through a website, through a bot, through an app, or whatever as well as the experience itself, the design.
 
 ### Audrey Tang：
 I think it is important that we can use tools. For example, we just adopted the OpenAPI 3 standard, what we call the OAS, as a national standard.

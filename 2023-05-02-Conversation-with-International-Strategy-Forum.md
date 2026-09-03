@@ -72,7 +72,7 @@ No, that’s okay. Please go through Helene. She’s fantastic.
 Sure. All right, so how shall we proceed? Do we talk about the advisor position first? Or do we talk about other topics such as democracy and innovation?
 
 ### Helen Zhang:
-We would love to hear about your priorities for Taiwan, especially in the region and internationally in this very interesting time we’re living though. And then we can go into a little bit more detail about the advisor position and what that might entail. Does that sound okay?
+We would love to hear about your priorities for Taiwan, especially in the region and internationally in this very interesting time we’re living through. And then we can go into a little bit more detail about the advisor position and what that might entail. Does that sound okay?
 
 ### Audrey Tang:
 Sure. Were there any other Taiwanese people in the cohorts that you have run so far?

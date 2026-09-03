@@ -529,7 +529,7 @@ I should remember that.
 So that’s what we have.
 
 ### Chadchart Sittipunt:
-I think we can start that in Bangkok, doing…I mean we find a open government, the open platform.
+I think we can start that in Bangkok, doing…I mean we find an open government, the open platform.
 
 ### Audrey Tang:
 Yeah, and you have a law already, the social enterprise law. It makes for very easy bridging.
@@ -538,7 +538,7 @@ Yeah, and you have a law already, the social enterprise law. It makes for very e
 Then we’ll collaborate with the MPs, the ones who supported the act.
 
 ### Audrey Tang:
-After our election I will go to Seoul, I think, to South Korea, and they already have a MOU of their social innovation lab, and our one. The Taichung one I think. I will go there to be a faculty.
+After our election I will go to Seoul, I think, to South Korea, and they already have an MOU of their social innovation lab, and our one. The Taichung one I think. I will go there to be a faculty.
 
 ### Chadchart Sittipunt:
 Oh, really?

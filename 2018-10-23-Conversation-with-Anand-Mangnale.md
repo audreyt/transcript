@@ -663,7 +663,7 @@ Right. I think it’s really a perception change that need to happen before peop
 Because people have stake in it, they are the contributors. It would be again as you are saying that people are shareholders. They are the stakeholders. They can hold them accountable for everything they do.
 
 ### Audrey Tang:
-We’re seeing that over the world as well. For example, in Bristol, UK, there is still a broadcast station that is a co-op. Basically, everybody in the community is a owner. A co-op, regardless of how many shares you hold, you get one vote. It’s democratic governance.
+We’re seeing that over the world as well. For example, in Bristol, UK, there is still a broadcast station that is a co-op. Basically, everybody in the community is an owner. A co-op, regardless of how many shares you hold, you get one vote. It’s democratic governance.
 
 ### Audrey Tang:
 We’re seeing more and more of that in Taiwan as well in a local way, a local magazine, a local station. I would say in the sense of that it’s spreading, it’s really spreading. In the sense that we can’t point to it and say, &quot;Oh, that’s our new paradigm, like this is a really large one,&quot; we don’t have that. We have maybe thousands of small attempts.

@@ -246,7 +246,7 @@ Because of that, I bring back those innovative social experiment. This one is a 
 Because this tricycle, it doesn’t hurt anyone if it runs into something, \[laughs\] so people learn to co-domesticate, instead of the fear, uncertainty, and doubt around trucks or whatever other things.
 
 ### Audrey Tang:
-Location independence is very important because I get to tour around Taiwan. I get to have interns all around the world and in Taiwan. As long as they can log in to the Sandstorm platform, they’re considered in work. This serves as a example for the entire public service now to adopt teleworking principles, which was not a thing in Taiwan.
+Location independence is very important because I get to tour around Taiwan. I get to have interns all around the world and in Taiwan. As long as they can log in to the Sandstorm platform, they’re considered in work. This serves as an example for the entire public service now to adopt teleworking principles, which was not a thing in Taiwan.
 
 ### Margaret Dawson:
 That’s correct.
@@ -339,7 +339,7 @@ I use free software because the Freedom Zero, the freedom to use for any purpose
 That’s interesting. Is there collaboration a lot with Taiwan’s tech industry with the stuff you’re doing in the universities?
 
 ### Audrey Tang:
-Very much so. We have a program called University Social Responsibility, called USR. Very simply put, it’s the university working with the community. It could be a open street map community. It could be a Wikipedia community. It could be any community.
+Very much so. We have a program called University Social Responsibility, called USR. Very simply put, it’s the university working with the community. It could be an open street map community. It could be a Wikipedia community. It could be any community.
 
 ### Audrey Tang:
 As part of their undergrad course, for two years, the student has just to join the community, pick a social or environmental issue and work towards sustainability. It’s going to count as their capstone project. If they &quot;fail,&quot; it’s not a problem, because it’s part of their learning process.
@@ -586,7 +586,7 @@ In 34 ministries, each ministry has a team of participation officers. It’s a s
 What sort of methods or approaches do they use? I know it’s voluntary association, so you’re not going in there and telling them to do it. What methods do they use within their departments? Are they standardized or all they all...?
 
 ### Audrey Tang:
-It’s almost standardized. Basically, it’s called the Open Policy Making Toolkit. UK has, I think, one of the most advanced one, but nowadays Google, Mozilla, Red Hat, \[laughs\] everybody has a open innovation toolkit, by any other name, but it’s the same methodologies anyway.
+It’s almost standardized. Basically, it’s called the Open Policy Making Toolkit. UK has, I think, one of the most advanced one, but nowadays Google, Mozilla, Red Hat, \[laughs\] everybody has an open innovation toolkit, by any other name, but it’s the same methodologies anyway.
 
 ### Audrey Tang:
 It’s Agile, design thinking, stakeholder mapping, user journey, the usual suspects. We have a toolkit of 20 or so general processes. Then we combine them to form due processes based on how early is the context of policy making. How many stakeholders are involved? How many ministries are involved? There’s a methodology, and we’re also publishing.

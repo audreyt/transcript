@@ -34,7 +34,7 @@ We really use the same way that people refill their prescriptions using their Na
 The pharmacists face a problem because people queuing in line don’t necessarily know how many mask there are in stock. Again, a very young, I think, in his early 30s, civic technologist, his name is Howard Wu in Tainan City, came up with this great idea of coding up a map that lets people report where the masks are available or not.
 
 ### Audrey Tang:
-He paid Google in API-used fees for more than 20k Euros overnight because it went too popular. It’s my job then as digital minister to both talk to Google to waive his fees but also to work with the OpenStreetMap and other open-source community to make sure we have a open-source implementation of this idea.
+He paid Google in API-used fees for more than 20k Euros overnight because it went too popular. It’s my job then as digital minister to both talk to Google to waive his fees but also to work with the OpenStreetMap and other open-source community to make sure we have an open-source implementation of this idea.
 
 ### Audrey Tang:
 If you add, there’s more than 100 different applications so that when we queue in line in any pharmacy, now there is every two weeks 9 masks per adult or 10 per children. This enables people queuing in line to refresh their phone or chatbot or voice assistant and understand that this gets deducted in real-time so that if people see that erratic creases in availability after a purchase they will call 1922 right there.
@@ -64,7 +64,7 @@ We just make a notice, and public notice, making sure that Facebook and other gl
 Also, if there is fact-check as false disinformation, the public attribution is posted to each and every of those social media URLs without taking anything down, and so everybody learns something.
 
 ### Audrey Tang:
-To conclude, I would want to say, last year onward, we made sure that in our K-12 curriculum, we stopped talking about media literacy, or digital literacy, or data literacy, because that’s a old regime where the older people makes media, and the younger people consume media, but we all know it’s the other way around.
+To conclude, I would want to say, last year onward, we made sure that in our K-12 curriculum, we stopped talking about media literacy, or digital literacy, or data literacy, because that’s an old regime where the older people makes media, and the younger people consume media, but we all know it’s the other way around.
 
 ### Audrey Tang:
 It’s the younger people making media now, and so, because in Taiwan, broadband is a human right, anywhere in Taiwan, even top of Taiwan, 4,000 meters high, you’re guaranteed to have 10 megabits per second both ways for just â¬15 a month, otherwise it’s my fault.

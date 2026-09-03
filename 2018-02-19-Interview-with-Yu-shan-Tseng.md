@@ -492,7 +492,7 @@ This is term of use. This refers to the source code of pol.is itself. Of course 
 Also, I think it express several lines to talk about how many...where all these materials -- I think they used a collective word, materials, to express all this data and all this stuff are owned by pol.is.
 
 ### Audrey Tang:
-Yeah, but this is about materials. This is not about user material. This is things that Christopher has written. This is not what a participant has written. Of course, pol.is will want to retain IP right for their code, because otherwise, they will not be able to release it under a open-source license; they will have to check with everybody else.
+Yeah, but this is about materials. This is not about user material. This is things that Christopher has written. This is not what a participant has written. Of course, pol.is will want to retain IP right for their code, because otherwise, they will not be able to release it under an open-source license; they will have to check with everybody else.
 
 ### Audrey Tang:
 I don’t think those two materials are the same thing.
@@ -582,7 +582,7 @@ There are, of course, the MOPCON community, and there’s a bunch of people arou
 Academia Sinica, in the early 2000s, has this national plan to push open source, and it established a so-called OpenFoundry to build infrastructure.
 
 ### Audrey Tang:
-It’s just like GitHub before GitHub existed, to basically give the developers not just a online space, but also a legal space through the introduction of Creative Commons and licensing advisors, as well as offline space.
+It’s just like GitHub before GitHub existed, to basically give the developers not just an online space, but also a legal space through the introduction of Creative Commons and licensing advisors, as well as offline space.
 
 ### Audrey Tang:
 That is to say, the Academia Sinica building itself provides a lot of practically free venues for large-scale events.

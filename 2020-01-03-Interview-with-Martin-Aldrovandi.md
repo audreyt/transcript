@@ -144,7 +144,7 @@ The PO Network is a replica of vTaiwan, but with the facilitators and the mediat
 Can you talk a bit…maybe just introduce the Uber case, because I find that one actually quite interesting.
 
 ### Audrey Tang:
-Sure. Back in 2015, the vTaiwan platform handled this case, and that’s the first time a AI-based conversation system called Polis is used in a regulation context in Taiwan.
+Sure. Back in 2015, the vTaiwan platform handled this case, and that’s the first time an AI-based conversation system called Polis is used in a regulation context in Taiwan.
 
 ### Audrey Tang:
 We wrote out the surveys to the Uber drivers, taxi drivers, Uber passengers, other passengers on the same time, and used a visualization platform so that people can see what their friends and families feel like in this issue.

@@ -86,7 +86,7 @@ China is experimenting with AI for a forward looking surveillance program, not j
 
 ### Jean-Marie Guéhenno:
 
-I'm going to soon turn to Audrey, but before I want to ask Emmanuel a couple of questions because it happens that this morning we already discussed briefly, as he was presenting, when the various types of AI, we discussed briefly DeepSeek. The question is really, do you, I mean Emmanuel is a AI scientist, and do you really believe that there are shortcuts in a way to using much less data and being much cheaper? I mean, how do you see the competition from your standpoint as a...
+I'm going to soon turn to Audrey, but before I want to ask Emmanuel a couple of questions because it happens that this morning we already discussed briefly, as he was presenting, when the various types of AI, we discussed briefly DeepSeek. The question is really, do you, I mean Emmanuel is an AI scientist, and do you really believe that there are shortcuts in a way to using much less data and being much cheaper? I mean, how do you see the competition from your standpoint as a...
 
 ### Emmanuel Bacry:
 

@@ -124,7 +124,7 @@ When their petition and activism became the new law in 2018’s election, that�
 The fact that the social sector sets the norm and pressure the public sector to accept that first as an example, and then later on, the social sector, social media, all joined and would indeed single out Facebook if they are the only platform that didn’t do it, it create enormous pressure based on the social plus public sector norms.
 
 ### Anne Applebaum:
-The problem in Europe was that we didn’t have citizen activists who were that attuned to the problem and weren’t paying attention.I’m trying to understand what’s different between Taiwan and Europe. Is that the problem, that we haven’t got this same public…
+The problem in Europe was that we didn’t have citizen activists who were that attuned to the problem and weren’t paying attention. I’m trying to understand what’s different between Taiwan and Europe. Is that the problem, that we haven’t got this same public…
 
 ### Audrey Tang:
 There are alternatives also, because the PTT or, really, vCard, or Plurk, or whatever, they are real competitors to Facebook. Also, like the PTT, although we call it the Taiwanese equivalent of Reddit, it’s actually different because the PTT is run essentially by National Taiwan University students in their spare time as an exercise in open source governance.
@@ -358,7 +358,7 @@ Having ombudsmen who can oversee or co-create them…
 Yeah, and I’m all for it. I’m just saying that ombudsmen in one jurisdiction doesn’t necessarily translate into ombudsmen to another jurisdiction. You need to do some translation work, but it’s worthwhile work, like GDPR.
 
 ### Audrey Tang:
-We are in the process of translating GDPR to our jurisdiction. There are, of course, a lot of structural differences. For example, what we call the, as I mentioned, civil IoT system is called called joint data controllership in GDPR.
+We are in the process of translating GDPR to our jurisdiction. There are, of course, a lot of structural differences. For example, what we call the, as I mentioned, civil IoT system is called joint data controllership in GDPR.
 
 ### Audrey Tang:
 The GDPR clauses on joint data controllership is quite thin and ill-defined. That it’s actually hard to see how the existing civic union work on data gathering and so on in Taiwan can map cleanly to the joint data controllership clauses.
@@ -406,7 +406,7 @@ Yeah, I’ve just written about this.
 Right, so that’s another thing. There’s laws. There’s rules, but it means different things. Also, for example, in Taiwan, when we say something, that this person have a lot of social credit, it means nothing about the government, but rather about essentially credit unions, which is a thing in Taiwan.
 
 ### Audrey Tang:
-So that this person is trusted financially by a lot of their nearby neighbors, but they use that use that term to mean that people are willing to be tracked in their public behaviors to gain preferential treatment in education, employment, and household registration.
+So that this person is trusted financially by a lot of their nearby neighbors, but they use that term to mean that people are willing to be tracked in their public behaviors to gain preferential treatment in education, employment, and household registration.
 
 ### Audrey Tang:
 The people who have a low social credit, rather than people who don’t, I don’t know, agree on their debts, they mean that people who need to be shamed by disclosing their names, denial of airplane travel, high-speed trains, and each province may actually add a lot more to this public shaming, which was not a part of what the term \[non-English speech\] used to mean until they just reappropriated that term, I guess.

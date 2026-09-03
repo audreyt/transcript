@@ -291,7 +291,7 @@ This place is co-created by hundreds of social entrepreneurs and innovators. Aro
 The minister, I need to be every week, so I’m here \[laughs\] every week from Wednesday 10:00 AM to 10:00 PM. Anyone can come and talk to me -- it’s my office hour -- provided that they’re willing to be on the record of the conversation.
 
 ### Audrey Tang:
-I can talk more about this idea of social innovation in a open, collaborative lab setting. You see all those self-driving tricycles running around and things like that? \[laughs\] For me, this provides a perfect sandbox playing ground for people to test new ideas, like AI and so on, in a harmless way, in a way that people can have firsthand experience without the fear, uncertainty, and doubt about digital technologies.
+I can talk more about this idea of social innovation in an open, collaborative lab setting. You see all those self-driving tricycles running around and things like that? \[laughs\] For me, this provides a perfect sandbox playing ground for people to test new ideas, like AI and so on, in a harmless way, in a way that people can have firsthand experience without the fear, uncertainty, and doubt about digital technologies.
 
 ### Audrey Tang:
 That’s 20 minutes. Let’s go back to your questions. Wow, 15 questions already. Feel free to raise your hand anytime also.
@@ -476,7 +476,7 @@ Of course. Although that’s not a question, I agree with your sentiments.
 How do we solve the taxi driver problem if we are going forward with stronger Uber?
 
 ### Audrey Tang:
-Uber is already involved in Taiwan. We ratified that, just like here, two years ago. We see two branches. If the taxi are already unionized, they already have a app developed by a co-op. They actually partnered with Uber. You can now call the Crown taxi and other taxis using the Uber app. They’ve become one of the venues that the taxis get their business.
+Uber is already involved in Taiwan. We ratified that, just like here, two years ago. We see two branches. If the taxi are already unionized, they already have an app developed by a co-op. They actually partnered with Uber. You can now call the Crown taxi and other taxis using the Uber app. They’ve become one of the venues that the taxis get their business.
 
 ### Audrey Tang:
 Because of that new regulation, you can now call taxis on 7-Eleven, which is a popular -- I’m not sure what they are anymore -- all-purpose store in Taiwan so that you can call a taxi easily. The taxi fleet that comes to you doesn’t have to be painted yellow.
@@ -488,7 +488,7 @@ It basically opens the door for taxi that operates in the app-based telecommunic
 It is true that if the taxis are not unionized, if they do not join an app-based fleet at the time, their work quality, their life quality, or their earnings and so on are less than before, but that has been a stable trend even before Uber joined.
 
 ### Audrey Tang:
-Taiwan Taxi and other fleets that use a app for active engagement is able to retain customers over repeated calls. The non-unionized and non-app-enabled taxis, which mostly rely on the street hailing of taxis, they are dwindling down even before Uber enters the market. It is essential, I totally agree, that we need to find a way for those taxi drivers to find useful work with dignity in their line of work.
+Taiwan Taxi and other fleets that use an app for active engagement is able to retain customers over repeated calls. The non-unionized and non-app-enabled taxis, which mostly rely on the street hailing of taxis, they are dwindling down even before Uber enters the market. It is essential, I totally agree, that we need to find a way for those taxi drivers to find useful work with dignity in their line of work.
 
 ### Audrey Tang:
 It is also the same actually for, for example, teachers. We are rolling out a curriculum reform next September, and it calls for teachers to be co-learners with students. They are no longer people who hand out authoritarian, standard answers. They must do critical thinking, media literacy and so on with the student.
@@ -869,7 +869,7 @@ Yes?
 With all due respect, Minister, looking forward to digital technology and the future AI, do you keep an eye constantly on Gini factor because rich people are getting much richer and poor people are getting poorer?
 
 ### Audrey Tang:
-Yes, definitely. This is a very good time to introduce our AI network of development. This is a AI project, but it doesn’t take anyone’s job away. This is basically a playground, a sandbox for people to feel how, I don’t know, wolves and early hominid co-domesticated into dogs and human beings by learning to follow each other’s eyes, nose, gestures, and things like that.
+Yes, definitely. This is a very good time to introduce our AI network of development. This is an AI project, but it doesn’t take anyone’s job away. This is basically a playground, a sandbox for people to feel how, I don’t know, wolves and early hominid co-domesticated into dogs and human beings by learning to follow each other’s eyes, nose, gestures, and things like that.
 
 ### Audrey Tang:
 What I’m saying is that you need to solve a real social problem and the norms need to be set by everybody, not just people in Silicon Valley or MIT. Then, these things must be open in the sense that local people must be able to tinker it.
@@ -931,7 +931,7 @@ Now, because all the ministers are there, it’s impossible for them to go into 
 ...brainstorm to solve a local need within two weeks.
 
 ### Audrey Tang:
-Every local issue that’s brought up need to be resolved on the record after two weeks, after each meeting. Then, I tour to another place, carry on the conversation. If they cannot be reached within two weeks, sometimes it’s resolved by another regional innovation meeting to resolve issues on the previous region. If that doesn’t happen in two weeks, we list it as a open challenge for people to work on.
+Every local issue that’s brought up need to be resolved on the record after two weeks, after each meeting. Then, I tour to another place, carry on the conversation. If they cannot be reached within two weeks, sometimes it’s resolved by another regional innovation meeting to resolve issues on the previous region. If that doesn’t happen in two weeks, we list it as an open challenge for people to work on.
 
 ### Audrey Tang:
 If you want to apply for a sandbox experiment or something, you can cite that as a rationale. Just by surfacing this problem and having on the record radical transparency, record of the ministers saying, &quot;We really don’t know how to solve this problem,&quot; you get a automatic pass into the sandbox system, where you can take the try as a social entrepreneur to solve the problem.

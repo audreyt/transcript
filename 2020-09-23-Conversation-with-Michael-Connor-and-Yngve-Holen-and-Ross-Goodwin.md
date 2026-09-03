@@ -1217,7 +1217,7 @@ Then again I wouldn’t want my questions or the simple questions that I wrote i
 I have a lot of topics, not so many, 10, 20, something like that. I could feed them into something.
 
 ### Audrey Tang:
-That will work. For example, if you have a input, through very simple math like the Tf-IDF Ross was just describing, we somehow decide a lottery is the main topic of your input. Then it can very simply just run a search. Then if you click the link I just pasted to you, you will list exactly this many times that I mention lottery in my public speech.
+That will work. For example, if you have an input, through very simple math like the Tf-IDF Ross was just describing, we somehow decide a lottery is the main topic of your input. Then it can very simply just run a search. Then if you click the link I just pasted to you, you will list exactly this many times that I mention lottery in my public speech.
 
 ### Audrey Tang:
 Then each of them can be seen as a kind of lottery poetry. If the machine draws one by chance, then it may or may not have anything to do with the actual topic that you’re talking about, but at least it solves the voice problem because it actually came from one of my conversations.
@@ -1226,7 +1226,7 @@ Then each of them can be seen as a kind of lottery poetry. If the machine draws 
 But it would be a copy-pasted thing. It wouldn’t be a new combination of things.
 
 ### Audrey Tang:
-What I’m trying to say is that all the different times that I talk about lottery are not, of course, the same topic. In the link, I first talk about a receipt lottery, which is electronic. I talk about sandbox application which is like a lottery in reverse. If you run just a search result and combine them into a poem-ish thing, then it actually takes a index life on its own.
+What I’m trying to say is that all the different times that I talk about lottery are not, of course, the same topic. In the link, I first talk about a receipt lottery, which is electronic. I talk about sandbox application which is like a lottery in reverse. If you run just a search result and combine them into a poem-ish thing, then it actually takes an index life on its own.
 
 ### Audrey Tang:
 The challenge is how to make sure that it fits actually the poetry lottery format. The idea is that each word or each short sentence, if you click on it, actually takes you back to a word that I actually said. The link would be at word level, not at copy-paste level.

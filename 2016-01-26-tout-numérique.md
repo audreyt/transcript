@@ -92,7 +92,7 @@ Yeah, because I don’t have the feeling it was like that in France.
 For people outside Taiwan, how would you explain the revolution of Sunflower movement to them ?
 
 ### audrey-tang-2：
-This music you just played, it’s pretty nice to hear that. It describes this idea that when people are in love, they could just idle there, do nothing, but they still feel like they’re in love. The are content with their life, with a satisfaction in harmony with the environment.
+This music you just played, it’s pretty nice to hear that. It describes this idea that when people are in love, they could just idle there, do nothing, but they still feel like they’re in love. They are content with their life, with a satisfaction in harmony with the environment.
 
 ### marie-richeux：
 When you say "we," you mean the technical team to work on Internet connectivity during these days?

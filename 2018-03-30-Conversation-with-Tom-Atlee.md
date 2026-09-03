@@ -220,7 +220,7 @@ We have 20 people signed this now, let’s get together and talk about what we�
 There’s infinite lines of input. The easiest one is just to show up in Wednesday, during my office hour and talk to me, so the office hour. It just takes one person. You don’t need 20 person, it’s not online. You just come and visit me. That’s the fast track.
 
 ### Tom Atlee:
-OK, stop there. The fact is the fast stream go talk to Audrey, so you have talked to Audrey, and Audrey says, &quot;Oh, good idea. Why don’t you do X?&quot; or Audrey says, &quot;I’ll take it and post it where...&quot; I mean what happens, they’re petitioning you, the king. \[laughs\]
+OK, stop there. The fact is the fast track go talk to Audrey, so you have talked to Audrey, and Audrey says, &quot;Oh, good idea. Why don’t you do X?&quot; or Audrey says, &quot;I’ll take it and post it where...&quot; I mean what happens, they’re petitioning you, the king. \[laughs\]
 
 ### Tom Atlee:
 &quot;Oh, king, here’s my petition.&quot; Audrey does what, why would they come to you?
@@ -259,7 +259,7 @@ The petition goes and post is posted there, and various people are checking out 
 Here is where POs come in, because POs always interview the petitioner here. In the official National Open Data Advisory Group meeting, it’s a face-to-face meeting with very high bandwidths and very firm understanding of what’s going on. And we’re making a transcript of it.
 
 ### Audrey Tang:
-In the written petition in join.gov, there is no such high bandwidths. We just have 500 watts to work with. The POs always arrange for someone to interview the petitioner, so that they result in the transcript.
+In the written petition in join.gov, there is no such high bandwidths. We just have 500 words to work with. The POs always arrange for someone to interview the petitioner, so that they result in the transcript.
 
 ### Tom Atlee:
 That’s with the 5,000? Is that the 5,000 level or what...?
@@ -286,19 +286,19 @@ Thank you. I have a few steps here. \[laughs\]
 Awesome. Anything you would like to add, Shuyang?
 
 ### Shuyang Lin:
-Yeah, I think it’s clear that the POs can choose any subjects actually, not only from joint website also. They can bring up any issues they think that it will be nice to discuss with their broader network of people, maybe from people they couldn’t even imagine to talk with from the beginning.
+Yeah, I think it’s clear that the POs can choose any subjects actually, not only from Join website also. They can bring up any issues they think that it will be nice to discuss with their broader network of people, maybe from people they couldn’t even imagine to talk with from the beginning.
 
 ### Shuyang Lin:
 If there’s any case in their ministries and they feel like, &quot;OK,&quot; but they want to interface with smart people, oftentimes they actually can bring up in the monthly PO meetings. We’ll also do a transcript from that. It’s possible to be brought up to vTaiwan, as well.
 
 ### Audrey Tang:
-The Committee for Transitional Justice is a new member in the cabinet that we’re going to have in a couple of months. They will take on things like on our coins and bills, there are the figures of Chiang Kai-Shek.
+The Committee for Transitional Justice is a new member in the cabinet that we’re going to have in a couple of months. They will take on things like on our coins and bills, there are the figures of Chiang Kai-shek.
 
 ### Audrey Tang:
-Do we want the figures of Chiang Kai-Shek to remain on our bills and coins? Very soon, we will have a new PO from the Transitional Justice Committee. I’m sure that they won’t wait for 5,000 people to petition to bring this sort of discussion.
+Do we want the figures of Chiang Kai-shek to remain on our bills and coins? Very soon, we will have a new PO from the Transitional Justice Committee. I’m sure that they won’t wait for 5,000 people to petition to bring this sort of discussion.
 
 ### Audrey Tang:
-The central election committee also has a PO already, but they have not finished building the National Referendum Act electronic system. Once it’s there, of course, I expect that things will surface from that platform, too.
+The Central Election Committee also has a PO already, but they have not finished building the National Referendum Act electronic system. Once it’s there, of course, I expect that things will surface from that platform, too.
 
 ### Tom Atlee:
 The PO function is one of the accelerators or attention enhancers, points of initiative in the system? I’m trying to see if when you look at how something comes in to be, at any given point, in the system, any decision is made, if everybody is always totally equal in that, or if there are points where initiative is expected or is institutionalized. This is an example of that kind of thing.
@@ -376,7 +376,7 @@ They have the status and identity. They are specific identities that have associ
 People...
 
 ### Audrey Tang:
-Yes, yes, they are on the select channel, for example.
+Yes, yes, they are on the Slack channel, for example.
 
 ### Shuyang Lin:
 People bring in their skills. There’ll be people who are good at translating more difficult law terminologies to easier-to-understand description. Those people will take the lead to make an open dictionary. We call it &quot;mini-lexicon&quot;.
@@ -394,7 +394,7 @@ Also, probably people who are in charge of the case in the ministries, especiall
 They’ll help out to put out the slides. They’ll be on the slides trying to describe what the issue is about. People who are good at, for example, design can try to make the slides more with a better presentation. Maybe sometimes we also make a logo for a topic.
 
 ### Shuyang Lin:
-Sometimes we made a tech line just for the viewers of vTaiwan’s website to understand \[laughs\] not only a specific case, but also a tech line to understand what this issue’s potentially about and what other controversial points people can probably start to look at from beginning.
+Sometimes we made a tagline just for the viewers of vTaiwan’s website to understand \[laughs\] not only a specific case, but also a tagline to understand what this issue’s potentially about and what other controversial points people can probably start to look at from beginning.
 
 ### Tom Atlee:
 It actually does that. There’s a sense of parallel to Wikipedia. It’s an emergent organization, but it is an organization. People have roles, and there’s certain kinds of lines of communication that are...
@@ -403,7 +403,7 @@ It actually does that. There’s a sense of parallel to Wikipedia. It’s an eme
 In Wikipedia, there’s ways of tagging things so that they show up and somebody particular can attend to that piece of the puzzle, whatever.
 
 ### Shuyang Lin:
-The current status is we know to launch a topic on vTaiwan’s website. We probably need the dictionary. We need the slides. We need a name and tech line and some description. To fulfill all of that, we make few kengs.
+The current status is we know to launch a topic on vTaiwan’s website. We probably need the dictionary. We need the slides. We need a name and tagline and some description. To fulfill all of that, we make few kengs.
 
 ### Shuyang Lin:
 The last video already described about keng. We make this all requirements to launch the vTaiwan case as different kengs and ask people if they want to join and help out.
@@ -525,7 +525,7 @@ For the social enterprise case, that literally happens 17 times, so yes.
 Anybody can do it, and anybody can view it. This is the way for people in the public, or the government to take action in the ways that...You provide a whole pile of ways to take action to reflect on this issue, and try and make decisions, and all the rest, and you just sort of create...
 
 ### Audrey Tang:
-Seriously, the only thing we ask in return is for the facilitator to be somehow known to the community. Ideally come into the weekly hackathon, but it can also happen in a remote fashion. Like in the social enterprise case, there are things that are held by at the MP actually. MP Karen Yu, and she’s holding it in the capacity as a social entrepreneur herself.
+Seriously, the only thing we ask in return is for the facilitator to be somehow known to the community. Ideally come into the weekly hackathon, but it can also happen in a remote fashion. Like in the social enterprise case, there are things that are held by the MP actually. MP Karen Yu, and she’s holding it in the capacity as a social entrepreneur herself.
 
 ### Audrey Tang:
 She was one of the pioneers at Fair Trade coffee in Taiwan. She holds the stakeholder meeting, and again, all the vTaiwan community ask in return is that for them to relinquish copyright to a degree so that we can include this in the vTaiwan website and circulate it, and use it as a material for next stage kind of deliberation.
@@ -570,10 +570,10 @@ Exactly. It’s already open source. We’re now trying to connect the railroad 
 I think it’s interesting when project merge like when the Sense team came to IBM team. Because I think both teams are in lack of some resources the other team actually has.
 
 ### Audrey Tang:
-They’re complimentary.
+They’re complementary.
 
 ### Shuyang Lin:
-Yes. It’s complimentary too. It also makes sense to merge, and to talk about what possibilities. Of course we can create something together, and fork more different versions afterwards, but it’s really a bit tough. It’s kind of collaboration between different skillsets.
+Yes. It’s complementary too. It also makes sense to merge, and to talk about what possibilities. Of course we can create something together, and fork more different versions afterwards, but it’s really a bit tough. It’s kind of collaboration between different skillsets.
 
 ### Tom Atlee:
 I can understand the theoretical level, but I have never been in a geek group doing this kind of thing. I can feel what it’s like, and go, &quot;Wow.&quot; It’s definitely a growing evolving ecosystem, and I know ecosystems well enough to go, &quot;OK, this is what’s happening here.&quot;
@@ -629,7 +629,7 @@ At the end of the day, they’re just a loosely couple of team with a bunch of S
 They have managed to garner a particular attention, but that’s just because they garnered a particular attention. They don’t have any consensus or official role.
 
 ### Audrey Tang:
-I’d say that’s because they have excellent designers. Their website looks really, really pretty. Their content is released under a creative common license which enables the connection to pol.is and to the vTaiwan community.
+I’d say that’s because they have excellent designers. Their website looks really, really pretty. Their content is released under a Creative Commons license which enables the connection to pol.is and to the vTaiwan community.
 
 ### Tom Atlee:
 You say the outcome of the conversation can then be used to make a draft bill. Is there a group within vTaiwan that does a let’s translate all this material into a draft bill?
@@ -731,7 +731,7 @@ There’s different branches of participation I’m sensing, that some of it are
 Then there’s a question of increasing the people who use those platforms as stakeholders or ordinary public citizens who come. You want to have more numbers and more diversity of those.
 
 ### Shuyang Lin:
-All of them. We want to attract all of them. When we talk about stakeholders, we actually are thinking not really so much about the quantity of the stakeholders, but actually the dynamic of the stakeholders. If there’s a issue, we can interface more stakeholders from, let’s say, different groups, different backgrounds.
+All of them. We want to attract all of them. When we talk about stakeholders, we actually are thinking not really so much about the quantity of the stakeholders, but actually the dynamic of the stakeholders. If there’s an issue, we can interface more stakeholders from, let’s say, different groups, different backgrounds.
 
 ### Shuyang Lin:
 Then it’s very good enough instead of having 4,000 people from the same background and talk about the same thing.
@@ -884,7 +884,7 @@ The CKS scenario workshops are about this building in Central Taipei called the 
 What to do with the memorial hall becomes a controversy. The ministry of culture are used to this kind of citizen council, but they don’t have the power to randomly pull anyone in Taiwan.
 
 ### Audrey Tang:
-It ends up being an open-application process through face-to-face encounters, or over email, or over Google Forum, whatever. They do get the sufficient population so they can have a fair poll and representation, statistically speaking.
+It ends up being an open-application process through face-to-face encounters, or over email, or over Google Form, whatever. They do get the sufficient population so they can have a fair poll and representation, statistically speaking.
 
 ### Audrey Tang:
 They run many, many scenario-planning workshops with plenty of informed time and plenty of small-group time and so on, all according to the textbook about the CKS thing.
@@ -964,7 +964,7 @@ This also connects you to the last slides and when we talk about if we should in
 If that is the case, we are kind of regulating the government’s involvement to chat conversation with citizens on the policy-making process. You can see that. If you are familiar with the fork and merge idea from g0v’s community to the government organization right now.
 
 ### Shuyang Lin:
-In the g0v community, we did lots of forking projects to the community. Then when they create some kind of better-experienced websites or projects, the government sometimes merge it back. I think vTaiwan experiments also from g0v to try to prototype a open consultation process.
+In the g0v community, we did lots of forking projects to the community. Then when they create some kind of better-experienced websites or projects, the government sometimes merge it back. I think vTaiwan experiments also from g0v to try to prototype an open consultation process.
 
 ### Shuyang Lin:
 If the government, in the end, is interested in merging these projects back and writing a regulation around it, then the government is trying to institutionalize vTaiwan. There’s actually a regulation called National Communication Regulation.
@@ -1133,7 +1133,7 @@ I’ve got that you’re making clusters of groups of shared belief, and then yo
 I think the fidelity of this consensus will be different if we have more scales on the vote. When I look at pol.is’s algorithm, it’s exactly the same logic behind Netflix, when people are watching videos, movies on the Internet. If I watch the same set of videos as you do, then we probably will be categorized in the same group on pol.is.
 
 ### Shuyang Lin:
-If you can think in that analogy, for me, the measurement of I watch the video, it could be just on and off, I watch or a don’t watch, but it could also be I watch for 20 minutes.
+If you can think in that analogy, for me, the measurement of I watch the video, it could be just on and off, I watch or I don’t watch, but it could also be I watch for 20 minutes.
 
 ### Shuyang Lin:
 ...video watching and so on. The algorithm was more delicate on shaping this consensus on what video to present to you or what kind of consensus you are going to be attached to, in a sense. I do think it makes sense, but also it depends on if it’s really necessary for us to have that fidelity of consensus on every issue. I will think on that.
@@ -1243,7 +1243,7 @@ That’s my suggestion to that.
 Thank you, yeah. I will tell the sense.tw team. They do have pros and cons but what I think is very valuable is about collaboratively coming up with the shared notes around this issue.
 
 ### Tom Atlee:
-You think that that’s part of what’s they’re planning on anyways, somewhere in there is having people working together figure out a way to...
+You think that that’s part of what they’re planning on anyways, somewhere in there is having people working together figure out a way to...
 
 ### Shuyang Lin:
 Yeah, I think it’s important to figure out how people work together, especially collaboratives, and especially in online space, because we don’t always live in the same place. \[laughs\]
@@ -1394,7 +1394,7 @@ Are you going to be in Seattle by any chance?
 No. I am not coming this year. I am coming to New York in a couple months.
 
 ### Tom Atlee:
-I am hoping to be in Seattle to see Audrey while I’m there. Next week, I’m hoping to have another call like this. Audrey says the week or two after that, we won’t be able to do it, but your Friday, my Thursday on next week, I’ll be here at the same time.
+I am hoping to be in Seattle to see Audrey while she’s there. Next week, I’m hoping to have another call like this. Audrey says the week or two after that, we won’t be able to do it, but your Friday, my Thursday on next week, I’ll be here at the same time.
 
 ### Tom Atlee:
 It’s fun having you involved in it. I would love to have you also if you can.

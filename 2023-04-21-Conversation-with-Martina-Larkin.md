@@ -57,7 +57,7 @@ But maybe we'll discuss a little bit what it means also before you give any answ
 Okay. Great. So, I have two clarifying questions. One, you mentioned that MeWe switched to DSNP, but I read that it wouldn't do so before December. So, is it like accelerating its schedule to switch to DSNP? If I sign up to MeWe, am I already using DSNP?
 
 ### Martina Larkin:
-It is in the beta version. It's going to be launched in the beta version, I think in a couple of weeks. So, it is in better, but not yet fully, fully, fully transitioned. So, it's kind of in this process but it is now the first real use case that we point to in terms of it's being built as we speak, and it is incorporated into the better version.
+It is in the beta version. It's going to be launched in the beta version, I think in a couple of weeks. So, it is in beta, but not yet fully, fully, fully transitioned. So, it's kind of in this process but it is now the first real use case that we point to in terms of it's being built as we speak, and it is incorporated into the beta version.
 
 ### Audrey Tang:
 Okay. And the second question is, when you talk about like a general idea around generative social, it's difficult to imagine based on that description, right? Because it could mean two things. It could either mean a sort of chatbot-ish thing that serves as one of the facilitators in a group chat, like a space itself that talks to you. Or it could mean things like a group of people leveraging generative AI in creating their own contents, as many groups already do, as kind of a digital double thing which the generative AI belongs as an assistant to each person instead of to the space itself.

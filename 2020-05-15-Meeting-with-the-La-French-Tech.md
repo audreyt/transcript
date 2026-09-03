@@ -715,7 +715,7 @@ Interesting.
 Excellent.
 
 ### Laetitia Lim:
-It’s open, its initiative it’s Taiwan, French Tech Taiwan. What we want, because we are lovers of Taiwan, is to really advocate and market Taiwan to the rest of the world. The idea we have is it’s going to be open, because you know it has to be a open community. Nobody works in silos.
+It’s open, its initiative it’s Taiwan, French Tech Taiwan. What we want, because we are lovers of Taiwan, is to really advocate and market Taiwan to the rest of the world. The idea we have is it’s going to be open, because you know it has to be an open community. Nobody works in silos.
 
 ### Laetitia Lim:
 We want Taiwan to stay at the heart of this initiative and, of course, open to everybody. We had this idea that we’d love to have, because we think you’re really emblematic of Taiwan Tech, Startup Nations, so we’d love to have…If you think this is initiative that really matches Taiwan values, etc…
@@ -765,7 +765,7 @@ If we do any online lunch or whatever…
 Sure thing. You can record something for your events.
 
 ### Laetitia Lim:
-…a interview or comment, and basically if you could share your vision about that, what you think that brings value, etc.?
+…an interview or comment, and basically if you could share your vision about that, what you think that brings value, etc.?
 
 ### Audrey Tang:
 Of course. Just send me whatever you make me say on the photo, and I will say it again on video.

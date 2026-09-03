@@ -144,7 +144,7 @@ Next slide. When we first started the team, I think the most important is to bui
 The top one is the fixed precision face training, our face recognition. We were number one, which in Taiwan, number one at that time.
 
 ### Tai-Yi Huang:
-The bottom-left-right are the error rate. We use the speaker voice to compete with Google andother techs. Our error rate’s even lower than Google.
+The bottom-left-right are the error rate. We use the speaker voice to compete with Google and other techs. Our error rate’s even lower than Google.
 
 ### Tai-Yi Huang:
 Next one. We use core AI engines to try different ideas.
@@ -162,7 +162,7 @@ Smart medical, I’ll let Miranda talk about smart medical.
 We still have engineering systems…
 
 ### Tai-Yi Huang:
-Oh, yeah. One thing we’re also very proud of, we use an world-class system to deliver our service. Every software deliver, need to go through all the six cycles to review the processm co-management, and PII protection.
+Oh, yeah. One thing we’re also very proud of, we use an world-class system to deliver our service. Every software deliver, need to go through all the six cycles to review the process co-management, and PII protection.
 
 ### Tai-Yi Huang:
 Then we’re a 24/7 service stage, but we’re going to show you some results.

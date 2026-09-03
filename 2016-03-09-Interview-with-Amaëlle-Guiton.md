@@ -282,7 +282,7 @@ Then we go back to this rhythm. Everybody knows where and when to finance those 
 The point is that the funding we get by selling tickets after they were sold out to the hackathon because they were very hot. That’s our only funding first, and then we spend all of it on catering. We don’t keep money. Then two months after that we do another round of fundraising, and buy very good food.
 
 ### Audrey Tang：
-Basically, because one month from a open space hackathon you will not remember any of the agenda or the people, but you will remember the food if it’s good enough or if it’s bad enough. That’s how human long-term memory works. It links a fact to the space, to the situation. This is positive effect, and then the procedure.
+Basically, because one month from an open space hackathon you will not remember any of the agenda or the people, but you will remember the food if it’s good enough or if it’s bad enough. That’s how human long-term memory works. It links a fact to the space, to the situation. This is positive effect, and then the procedure.
 
 ### Audrey Tang：
 After the great food you’re seeing stickers. For example, for you I know you’re a great storyteller, I know maybe you’re a designer, I know maybe that you work in the media. Maybe you care about human right, so then you will take these four stickers. There’s these huge badges you could then put it down your shoulder.

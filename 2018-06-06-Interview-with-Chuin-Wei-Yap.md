@@ -4,7 +4,7 @@
 Your position is really interesting. I don’t know how many countries have a digital minister. Do you? I’m digressing from the main topic that I wanted to discuss with you, because I’m fascinated by the fact.
 
 ### Audrey Tang:
-There are countries that has CTO or a CIO...
+There are countries that have CTO or a CIO...
 
 ### Chuin-Wei Yap:
 What’s these?
@@ -31,7 +31,7 @@ Appointment?
 When were you appointed?
 
 ### Audrey Tang:
-I was appointed August 2016, but I entered work at the 1st of October. There’s a month that I was in Europe and New Zealand, also trying to talk with my counterparts and through the public Q&amp;A with journalists and the citizen and try to cloud source my job description, essentially.
+I was appointed August 2016, but I entered work at the 1st of October. There’s a month that I was in Europe and New Zealand, also trying to talk with my counterparts and through the public Q&amp;A with journalists and the citizen and try to crowd source my job description, essentially.
 
 ### Audrey Tang:
 The detail of this work is indeed worked out in public, because during that time, any journalist who wanted to ask me questions only asked me publicly, so it is a more ever-improving way where people can give me ideas and what they want me to do.
@@ -103,7 +103,7 @@ For our office, the core value is to increase the mutual trust between the publi
 All of these are aspects of how you slice the pie, but it’s the same big chunk. Concretely speaking, we’re working through a few platforms.
 
 ### Audrey Tang:
-There’s the e-petition platform, which now doubles as a regulatory pre-announcement and discussion/consultation platform; it also doubles as a open budget/open spending platform, that people can track thousands of ministry projects and have a real discussion with career public servants.
+There’s the e-petition platform, which now doubles as a regulatory pre-announcement and discussion/consultation platform; it also doubles as an open budget/open spending platform, that people can track thousands of ministry projects and have a real discussion with career public servants.
 
 ### Audrey Tang:
 The unifying theme with that platform is that we make every part of the government not just transparent, but accountable, like they become social objects around which people can have a meaningful conversation. That’s a part.
@@ -115,13 +115,13 @@ On the social innovation part, I’m just traveling around Taiwan and meeting wi
 Just gathering ideas.
 
 ### Audrey Tang:
-Just gathering ideas, brainstorming with them. I often use teleconferencing so that every couple of week, 12 ministries here in social innovation lab see with a real two-way teleconferencing wherever I go, maybe to rural places and indigenous places and so on, we can resolve in real-time the questions brought by that regional social innovators.
+Just gathering ideas, brainstorming with them. I often use teleconferencing so that every couple of weeks, 12 ministries here in social innovation lab see with a real two-way teleconferencing wherever I go, maybe to rural places and indigenous places and so on, we can resolve in real-time the questions brought by that regional social innovators.
 
 ### Audrey Tang:
-Because everything is radically transparent, it’s all published online. People can continue on on previous discussions just like that. Previously, people have to wait for weeks the government to have a written response. That’s not very efficient, and it often loses relevant context, because social innovation only makes sense if you’re within the social context in which in happens.
+Because everything is radically transparent, it’s all published online. People can continue on previous discussions just like that. Previously, people have to wait for weeks the government to have a written response. That’s not very efficient, and it often loses relevant context, because social innovation only makes sense if you’re within the social context in which in happens.
 
 ### Audrey Tang:
-If they send one delegate to travel for four hours to Taipei to give a 15-minute PowerPoint presentation, it loses all the social context which it originates from. By visiting there myself, and through telepresence to let the ministry people be part of the social presence, we can all better understand what kind regulatory changes is needed, what kind of sandbox is needed.
+If they send one delegate to travel for four hours to Taipei to give a 15-minute PowerPoint presentation, it loses all the social context which it originates from. By visiting there myself, and through telepresence to let the ministry people be part of the social presence, we can all better understand what kind of regulatory changes are needed, what kind of sandbox is needed.
 
 ### Audrey Tang:
 Sandbox is this idea that any innovation can challenge existing regulations, so that they should be re-interpreted in the favor of the innovators. If there’s no law against it, it should be permitted, previous interpretations notwithstanding.
@@ -130,10 +130,10 @@ Sandbox is this idea that any innovation can challenge existing regulations, so 
 Even if it’s illegal, as long as it’s for the public good and not just for the profits of one company, we allow, for example, for AI banking in the FinTech Sandbox, we allow them to break the law for 12 months, then for the stakeholders to work out whether this is a good idea or not. If it’s a good idea, then we change the laws and regulations.
 
 ### Audrey Tang:
-We have the AI banking in the FinTech Sandbox. We just sent the AI mobility sandbox to the legislative, that covers all the autonomous vehicles, it could be flying, it could be in a sea, it could be driving, or a hybrid vehicle. Again, that is how we think about AI integrating into the human society, not by top-down decrees, but by something that is just really solving a local need and with sufficient time for communication.
+We have the AI banking in the FinTech Sandbox. We just sent the AI mobility sandbox to the legislature, that covers all the autonomous vehicles, it could be flying, it could be in a sea, it could be driving, or a hybrid vehicle. Again, that is how we think about AI integrating into the human society, not by top-down decrees, but by something that is just really solving a local need and with sufficient time for communication.
 
 ### Audrey Tang:
-For this is not only about AI to understand human society, but for humans to understand how the world looks like to the AI and so we can co-domesticate, like human and dogs, into new norms.
+For this is not only about AI to understand human society, but for humans to understand how the world looks like to the AI and so we can co-domesticate, like humans and dogs, into new norms.
 
 ### Audrey Tang:
 To facilitate all these multi-stakeholder communications, we enable every ministry to organize a team of &quot;Participation Officers&quot; (POs), that form a network that collaboratively design these multi-stakeholder processes.
@@ -169,7 +169,7 @@ After every internal meeting, we allow for 10 working days for everyone to edit 
 People would say like, the Go players have been enjoying that from Ministry of Culture, and some relevant terms from the basketball players also apply here, and so on. They discover specific regulations that could have applied to the e-sport athletes. They’re very professional.
 
 ### Audrey Tang:
-Of course, there are also people online that are toxic, or they’re just not very helpful. But I don’t care about those comments. I just bring those constructive comments next time back to the meeting saying, &quot;Based on our previous radically transparent transcript, here are the some suggestions from the netizens. They seem very reasonable. Why don’t we discuss them?&quot;
+Of course, there are also people online that are toxic, or they’re just not very helpful. But I don’t care about those comments. I just bring those constructive comments next time back to the meeting saying, &quot;Based on our previous radically transparent transcript, here are some suggestions from the netizens. They seem very reasonable. Why don’t we discuss them?&quot;
 
 ### Audrey Tang:
 Throughout this process, the netizens see the public servants not as anonymous, but as pretty reasonable professional people that they may want to help, and the public servants also see the crowd as not just noise but signals. After three rounds like this, we actually resolved everything brought up by the public hearing.
@@ -178,10 +178,10 @@ Throughout this process, the netizens see the public servants not as anonymous, 
 Now e-sport is officially recognized as a sport. The main conceptual difficulty was that it’s not considered 體育, because 體育 in Mandarin is physical education. It’s not really physical, right? \[laughs\] It’s mostly mental, but mind sports could be a sport too, which is why we have reclassified it.
 
 ### Audrey Tang:
-What I’m trying to get at is that, it’s not just one-time transparency. A repeated, transparent communication between multiple parties builds a accountability trail, where people can ask, how did we end up here? I think that’s our main contribution, making all the parties trust each other more.
+What I’m trying to get at is that, it’s not just one-time transparency. A repeated, transparent communication between multiple parties builds an accountability trail, where people can ask, how did we end up here? I think that’s our main contribution, making all the parties trust each other more.
 
 ### Chuin-Wei Yap:
-Anyway, I’m here because I wanted to talk about... I was researching China. I cover Asia trade and economy for the journal. One of the issues that we looking into is the trade frictions, particularly between China and the US. Taiwan is emerging as a primary venue where all this is happening.
+Anyway, I’m here because I wanted to talk about... I was researching China. I cover Asia trade and economy for the journal. One of the issues that we are looking into is the trade frictions, particularly between China and the US. Taiwan is emerging as a primary venue where all this is happening.
 
 ### Chuin-Wei Yap:
 I just wanted to get a chance... I’m sure in the course of your work a lot of businesses probably come to you and you may have some contact with that. I wanted to get a sense from you on where things stand. Where do you see Taiwan as these pressures continue to rise from China? In the first place, do you have a sense that these pressures are increasing for Taiwan?
@@ -229,7 +229,7 @@ Can you repeat that?
 When I went into the administration, I brought in a system called Sandstorm.io, a security-hardened work space, for non-confidential, but drafting-stage data, that all the government officials and public servants are welcome to use. It is also what we call a sandbox, a cybersecurity sandbox.
 
 ### Audrey Tang:
-Everybody is welcome to develop new applications, like we have a colleague who developed a application for ordering lunch boxes together.
+Everybody is welcome to develop new applications, like we have a colleague who developed an application for ordering lunch boxes together.
 
 ### Audrey Tang:
 In any case, it’s mostly for collaborative writing, collaborative spreadsheet, and the usual teamware applications.
@@ -253,19 +253,19 @@ Then, we’re also sharing this experience to, for example, local governments an
 Coming back to the point that...
 
 ### Audrey Tang:
-Yeah, social engineering for trade secret leakage, by way of a higher remuneration for engineers. That is a issue. Of course, the trade secret law has already been hardened so that it’s now punishable for 10 years. That’s just the law.
+Yeah, social engineering for trade secret leakage, by way of a higher remuneration for engineers. That is an issue. Of course, the trade secret law has already been hardened so that it’s now punishable for 10 years. That’s just the law.
 
 ### Audrey Tang:
 What we need is to have the court system as well as the investigative system to be equipped on digital forensics and on the necessary digital knowledge in order to work with cases like this. That’s why we’re always trying to empower them, starting from the front-line police officers, all the way to the investigative officers.
 
 ### Audrey Tang:
-Then there’s a limit to what this can do, though. If there are specific cases that we identify, of course we can deter them from doing. If, as I said, they recruit a entire team -- because Taiwan is a free society after all, if a entire team decides that they want to move elsewhere...
+Then there’s a limit to what this can do, though. If there are specific cases that we identify, of course we can deter them from doing. If, as I said, they recruit an entire team -- because Taiwan is a free society after all, if an entire team decides that they want to move elsewhere...
 
 ### Chuin-Wei Yap:
 Does that happen?
 
 ### Audrey Tang:
-Not frequently, but there are attempts for getting this to happen. We see constant attempts, for example through HR companies or recruitment agencies set up locally, but actually controlled or getting their command for oversea interests.
+Not frequently, but there are attempts for getting this to happen. We see constant attempts, for example through HR companies or recruitment agencies set up locally, but actually controlled or getting their command for overseas interests.
 
 ### Audrey Tang:
 While they technically still work in Taiwan, they are actually working for the...
@@ -386,13 +386,13 @@ Many other Asian countries, not just PRC, are trying to contain these citizen sc
 As the saying goes, &quot;If you can’t beat them, join them.&quot; We join them with NT$ five billion over four years, to build what we call &quot;IoT For Public Good&quot; , basically making more precise the sensors for them to measure, and provide hosting to this collective data.
 
 ### Audrey Tang:
-Not just citizen data, but also meteorological, water quality, earthquake-related data that’s actually public data to the national supercomputing center, so that anyone who want work on the AI model to explain the correlation in human activity or policy can access the same data.
+Not just citizen data, but also meteorological, water quality, earthquake-related data that’s actually public data to the national supercomputing center, so that anyone who wants to work on the AI model to explain the correlation in human activity or policy can access the same data.
 
 ### Audrey Tang:
 Now, that is a very bold move by a democratic country, basically trusting the citizen to not abuse data that’s traditionally reserved only for decision makers. What we are doing is essentially saying when in a democratic society, everybody has access to same data, then we can do science, because it’s better for prediction models to be accountable to everybody.
 
 ### Audrey Tang:
-Currently, for example, in some PRC cities where air pollution is also an issue, it’s very rare that you can see a replicable publication that could be replicated by ordinary citizens. They may have different datas, different model, and you are not knowing which one is correct. What we’re doing, as I said, is increasing trust by radically trusting the citizens, through social innovations such as the process of the AirBox system.
+Currently, for example, in some PRC cities where air pollution is also an issue, it’s very rare that you can see a replicable publication that could be replicated by ordinary citizens. They may have different data, different models, and you are not knowing which one is correct. What we’re doing, as I said, is increasing trust by radically trusting the citizens, through social innovations such as the process of the AirBox system.
 
 ### Audrey Tang:
 It’s now all over the world, because people see it as a way of easily getting more accountability to the civic society organizations, to environmental groups, and things like that. It’s kind of diplomacy, but not just to foreign governments, but for CSOs, international NPOs, things like that.
@@ -416,10 +416,10 @@ High school, right. How did that happen? What led you to where you are now?
 When I was 14, I ran into this new thing called the wide web. I’m on the Internet since birth, but that was very siloed system, BBS, FTP, Gopher, Archie, and so on. Some of them proprietary, like Gopher.
 
 ### Audrey Tang:
-When Tim Bernes-Lee introduced wide web, he gave away his copyright and patents, and the World Wide Web consortium was done in a truly multi-stakeholder fashion, that anyone, even at 14 years old, who want to participate and contribute can contribute.
+When Tim Berners-Lee introduced wide web, he gave away his copyright and patents, and the World Wide Web consortium was done in a truly multi-stakeholder fashion, that anyone, even at 14 years old, who want to participate and contribute can contribute.
 
 ### Audrey Tang:
-I told my teachers at the time that the human knowledge is being created on the web now. It’s not in the classroom. It’s not in the library. The very creation of those pre-prints, these research agenda, everything appear on the web in a contextual fashion.
+I told my teachers at the time that the human knowledge is being created on the web now. It’s not in the classroom. It’s not in the library. The very creation of those pre-prints, these research agenda, everything appears on the web in a contextual fashion.
 
 ### Audrey Tang:
 If I just write an email to a researcher, they don’t know I’m 14 years old, so we start collaborating real quick. In that environment, I think...
@@ -437,13 +437,13 @@ That you were writing people?
 Yeah. One of the more memorable case was, I think when I was 17, I wrote Douglas Hofstadter -- Hofstadter, the author of &quot;Gödel, Escher, Bach&quot; -- Pulitzer Prize winner, and a leading figure in artificial intelligence at the time.
 
 ### Audrey Tang:
-I just wrote Hofstadter about one of his new published books (&quot;Le Ton beau de Marot&quot;). I commented on poetry that he made, and things like that. He just personally wrote back, and in Hanyu Pinyin too. He actually knows Mandarin. \[laughs\] We then had some discussions about...
+I just wrote Hofstadter about one of his newly published books (&quot;Le Ton beau de Marot&quot;). I commented on poetry that he made, and things like that. He just personally wrote back, and in Hanyu Pinyin too. He actually knows Mandarin. \[laughs\] We then had some discussions about...
 
 ### Chuin-Wei Yap:
 He writes Pinyin? That’s so difficult to read.
 
 ### Audrey Tang:
-Well, but that’s his hobby. He learn it from one of his good friend, David Moser.
+Well, but that’s his hobby. He learned it from one of his good friends, David Moser.
 
 ### Chuin-Wei Yap:
 How did you figure out? If I read Pinyin, I would not figure out what the person is even saying.
@@ -475,7 +475,7 @@ What did your startup do?
 It used to be a book publishing house. I wasn’t involved as a shareholder back then. I was just a co-author. It was called &quot;Informationist.&quot; When it did a restructuring into a software publishing company, I was one of the three co-founders back then.
 
 ### Audrey Tang:
-Then the company name was Inforian. The three main shareholders was Lawrence Ho, Heidi Hsueh, and me. I was the CTO back then. It was around 1996 when the restructuring started. Afterwards, the company did many things. We did Taiwan’s first C2C auction site, CoolBid. It’s like eBay.
+Then the company name was Inforian. The three main shareholders were Lawrence Ho, Heidi Hsueh, and me. I was the CTO back then. It was around 1996 when the restructuring started. Afterwards, the company did many things. We did Taiwan’s first C2C auction site, CoolBid. It’s like eBay.
 
 ### Chuin-Wei Yap:
 You said Cool-Bit?
@@ -487,7 +487,7 @@ CoolBid.
 Oh, CoolBid, I see.
 
 ### Audrey Tang:
-I also worked on what we called FusionSearch, which is a search tool that search for multiple engines, and also search your local files. After I left the company, they also worked on CICQ, one of the early instant messengers, and Intel invested a lot in them. I think it was the highest valued web startup during the dotcom boom in Taiwan.
+I also worked on what we called FusionSearch, which is a search tool that searches for multiple engines, and also search your local files. After I left the company, they also worked on CICQ, one of the early instant messengers, and Intel invested a lot in them. I think it was the highest valued web startup during the dotcom boom in Taiwan.
 
 ### Audrey Tang:
 By that time, I have already left, and joined the open source movement. Still, that was the first company I joined, at the beginning just to work on the search part.
@@ -541,7 +541,7 @@ That’s great. Congratulations.
 What I’m saying is, personally, yes, after the World Wide Web, I see knowledge as something that people are making together, rather than being just dispersed vertically. Previously, there’s a power-over relationship. Like the curriculum board over the textbook makers, the textbook makers over the way teachers teach, the teachers over the students.
 
 ### Audrey Tang:
-There’s this idea of the standardized tests, standardized answers. This idea of individual-based competitiveness. None of this makes sense in the World Wide Web. It’s just all contributors. Everyone are just identified by their contributions. There’s always a consensus-making mechanism amidst individuals. There are competitions, but they are between groups. They are not between individuals -- that never makes any sense on the web.
+There’s this idea of the standardized tests, standardized answers. This idea of individual-based competitiveness. None of this makes sense in the World Wide Web. It’s just all contributors. Everyone is just identified by their contributions. There’s always a consensus-making mechanism amidst individuals. There are competitions, but they are between groups. They are not between individuals -- that never makes any sense on the web.
 
 ### Audrey Tang:
 It’s between projects. There’s brain drain between projects and so on, but people don’t compete individually with each other. It didn’t even make sense. The idea is to really shift from power-over-people to power-with-people, that I experienced personally when I was 14.
@@ -589,7 +589,7 @@ You were working with Apple?
 I was working with Apple on Siri, and at the same time with the Oxford University Press too, as a consultant. Right before I joined the cabinet, I am getting more than three times more salary than what I am having now.
 
 ### Audrey Tang:
-If it’s just about money, I wouldn’t accept this job. \[laughs\] I think it’s about positive social impact, though. I think there’s a research that says beyond a certain pay grade, it’s diminishing return, in terms of extra hundred dollar can buy in terms of happiness and a meaningful life.
+If it’s just about money, I wouldn’t accept this job. \[laughs\] I think it’s about positive social impact, though. I think there’s a research that says beyond a certain pay grade, it’s diminishing returns, in terms of extra hundred dollar can buy in terms of happiness and a meaningful life.
 
 ### Audrey Tang:
 Below a certain threshold -- of course, when we talk about poverty line, improving one’s life -- that’s very important. Above a certain point, it’s no longer very meaningful. It’s only meaningful if you are just competing with other people.
@@ -619,7 +619,7 @@ You were an engineer for them, I guess? A consultant?
 A consultant. The technical term is independent contractor, but that role is very rare in Apple. I heard that they are not creating more of those roles. Everybody were asked to be in Cupertino. I’ve never been there.
 
 ### Audrey Tang:
-The story starts with my contribution in the open source community started on the late ’90s and early 2000s. There is a wide community of Perl programmers. When I try to improve the Perl language itself, with help from many people, we become very good friends. I flied to more than 20 countries.
+The story starts with my contribution in the open source community started on the late ’90s and early 2000s. There is a wide community of Perl programmers. When I try to improve the Perl language itself, with help from many people, we become very good friends. I flew to more than 20 countries.
 
 ### Audrey Tang:
 One of my friends in the Perl community happens to be a project manager when Apple first acquired Siri, working on language technologies. He also wanted to get his doctor’s thesis worked out in CMU, so he needs someone he can trust to help with the team while he works on his PhD.

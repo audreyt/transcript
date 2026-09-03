@@ -94,7 +94,7 @@ Ah, OK, understood. That’s what I need to do, just that’s it, just upload it
 Of course, they would strongly prefer that you have a professional field award. It could be not necessarily internal. It could be an internal, domestic recognition. It can be a, like in the Perl community, we used to have this White Camel Award, which is just the community giving to community contributions.
 
 ### Audrey Tang：
-It could be domestic. Whether it qualifies as major or not, that’s up to the Science and Technology Ministry, Economy Ministry, or whatever. There is a jury panel. The MLL will strongly prefer if you have something.
+It could be domestic. Whether it qualifies as major or not, that’s up to the Science and Technology Ministry, Economy Ministry, or whatever. There is a jury panel. The MOL will strongly prefer if you have something.
 
 ### Dawid Jańczak：
 Fair enough. Really, what I have to do is just resubmit the letter saying that I am against that and listing all of my contributions.

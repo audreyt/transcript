@@ -200,7 +200,7 @@ One of the thing is the trauma to go into the office and explain about their pas
 ### Audrey Tang:
 We looked at the tax filing records. Because we have entirely digitalized the tax filing records, we can very easily. Everyone in Taiwan has a number like your My Number system. Using the number, we can easily see whether they have filed sufficient income tax.
 
-If they had not or if they need to support a large household and things like that, then they qualify for the emergency budget immediately. We have a entire system of digitalizing the incoming postcards as well as the over-the-counter social worker that helped to hand out those forms but without them having to explain anything to those social workers and so on.
+If they had not or if they need to support a large household and things like that, then they qualify for the emergency budget immediately. We have an entire system of digitalizing the incoming postcards as well as the over-the-counter social worker that helped to hand out those forms but without them having to explain anything to those social workers and so on.
 
 You never know whether they're collecting it for themself or collecting it for a friend. This is privacy-preserving.
 

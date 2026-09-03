@@ -178,7 +178,7 @@ I’m not sure that will be the right point of contact for you.
 No problem. I’m just looking. I’ll have to look into that a bit later, maybe. That makes sense. The other question I had, Audrey, with the exception of these types of events where people can join in different teams, do you work with consultants and things like that, that are not from Taiwan PDIS, or on projects that are very much related to?
 
 ### Audrey Tang:
-Only international researchers, like they have a thesis. They pair us say, with the major city, or they want to make a social anthropology, cultural anthropology account of civic hackers, and so on, or they have a idea about how public administration cannot innovate, and here to be proven wrong, and so on.
+Only international researchers, like they have a thesis. They pair us say, with the major city, or they want to make a social anthropology, cultural anthropology account of civic hackers, and so on, or they have an idea about how public administration cannot innovate, and here to be proven wrong, and so on.
 
 ### Audrey Tang:
 Usually, if they are in a field study, they go to the Social Innovation Lab, which is part of our office of a resident researcher. The fact is that it’s not a privilege, because everybody is an open space part. Everybody can go here and reside.

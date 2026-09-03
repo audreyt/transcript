@@ -186,7 +186,7 @@ There’s more than almost 2,000 now people holding the gold card this year in T
 We want to send a message that for the Taiwan gold card who diversify Taiwan’s culture because we call ourselves or at least I call ourselves a transcultural republic of citizens. The more coaches, the better.
 
 ### Audrey Tang:
-If you are artists, especially with more than five-years work experience, or if you worked in an international NGO, both accounts, then you actually qualify for the Taiwan gold card with some credentials, of course. We want more artists here. Our ministry of culture could validate your skills as a artist and engage with the global arts community.
+If you are artists, especially with more than five-years work experience, or if you worked in an international NGO, both accounts, then you actually qualify for the Taiwan gold card with some credentials, of course. We want more artists here. Our ministry of culture could validate your skills as an artist and engage with the global arts community.
 
 ### Audrey Tang:
 According to the gold cards culture and arts regulation, there’s five different ways including film broadcasts pop music, handicraft, culture administration, publishing and media, the visual arts and the performing arts. If there’s something missing let me know. \[laughs\]

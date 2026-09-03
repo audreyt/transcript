@@ -22,7 +22,7 @@ Looking for challenges.
 ...yes, looking for challenges can contribute their time and knowledge in a structured and efficient way to effect change. What we found is that people don’t want to give money to help charities, they want to be part of the solution. This is a concept we are testing with a couple charities at the moment.
 
 ### Jameel Somji:
-I’ll give you an example. In Canada, I’m working with a foundation that helps families that have given birth to babies prematurely, to educate them on how to cope going forward. In Canada, it’s about a $600-million problem for all infants affected over the first 10 years of life due to strain on the heath care, education and social services resources.
+I’ll give you an example. In Canada, I’m working with a foundation that helps families that have given birth to babies prematurely, to educate them on how to cope going forward. In Canada, it’s about a $600-million problem for all infants affected over the first 10 years of life due to strain on the health care, education and social services resources.
 
 ### Jameel Somji:
 Preterm births are completely preventable. The Executive Director of the foundation doesn’t know the root cause of the problem nor that a solution for this problem exists.
@@ -40,7 +40,7 @@ It’s new. Yes, and based on a recent research study, which recommends that eve
 What we’re trying to do is bring people from civil society that have knowledge in research, tech, marketing, etc. together to share their time &amp; knowledge with charities. We call it Knowledge Philanthropy. We are starting up this concept in Canada. It’s a form of social innovation, using the Google Sprint methodology.
 
 ### Jameel Somji:
-I just wanted to share that with you. It’s something that we’re working on. The concept is in it’s early stages in Toronto, Canada. I just wanted to get a sense of what your thoughts are on the idea. Are you using the Google Sprint methodology to...?
+I just wanted to share that with you. It’s something that we’re working on. The concept is in its early stages in Toronto, Canada. I just wanted to get a sense of what your thoughts are on the idea. Are you using the Google Sprint methodology to...?
 
 ### Audrey Tang:
 I’m well aware of it. There’s many teams incubating here, employs this technology. The name, SpiNovation (your lab name), What does it signify to you?
@@ -111,13 +111,13 @@ It’s true serendipity. \[laughs\] That’s fate.
 It’s amazing. Right now, I’m working with two charities in Canada, as a test. We’re trying this out for the first time. One of the biggest challenges we’re finding is that charities are so busy doing things that they have no time to schedule in 3 day sprint engagements.
 
 ### Jameel Somji:
-They’re currently working towards certain initiatives. Yet they’re using old methodologies that can months or even years to cycle through without much certainty of success.
+They’re currently working towards certain initiatives. Yet they’re using old methodologies that can take months or even years to cycle through without much certainty of success.
 
 ### Jameel Somji:
 This charity idea I mentioned stemmed from a past client and now partner of mine. She came to me with this charity fundraising idea to raise money by targeting millennials.
 
 ### Jameel Somji:
-We prototyped something in four days using the sprint methodology, and what we learned that millennial’s don’t want to give money. They have the money, but they don’t trust charities. They want to give their time.
+We prototyped something in four days using the sprint methodology, and what we learned that millennials don’t want to give money. They have the money, but they don’t trust charities. They want to give their time.
 
 ### Jameel Somji:
 They don’t want to spend too much time on a project. The maximum amount of time they’d like to spend is about two months on a project, but they want something that’s structured and meaningful. The good thing with the sprint methodology is that it provides structure.
@@ -186,7 +186,7 @@ Very much so, or even crowdfunding.
 Or even crowdfunding will back you. Citizens have disposable income to spend. They currently however don’t trust charities because they don’t know where their donations go and whether the money is being used prudently. If ideas get validated through the sprint process, it helps reduce the risk of failure and brings more transparency to the situation, resulting in positive outcomes that are achieved faster and more effectively.
 
 ### Jameel Somji:
-Doing this en masse can make the world better. Civil society solving problems on their own without dependancy on government. Civil society has to take over. By doing that, we might be able to actually reduce taxes and increase GDP over the long term.
+Doing this en masse can make the world better. Civil society solving problems on their own without dependency on government. Civil society has to take over. By doing that, we might be able to actually reduce taxes and increase GDP over the long term.
 
 ### Audrey Tang:
 Yeah, of course. We’re actually learning from Canada, because in Canada, there’s a social financing and social innovation initiative. David LePage and friends did a pretty good report, I would say, that explains exactly what you mentioned about. They call it inclusive innovation. I don’t know whether you’ve heard of this word.
@@ -348,7 +348,7 @@ These folks, Anchor Taiwan, they’re a interesting tourism agency that basicall
 It just connects that maybe you will find the community interesting. If not just applying yourself, maybe you can be one of their supporters or mentors and things like that.
 
 ### Audrey Tang:
-They’re quite successful in terms of just having the discovery period, making sure that your ideas is translated culturally to something that makes sense locally. That’s their main work. The founder just visited me again as a office hour \[laughs\] a few days ago.
+They’re quite successful in terms of just having the discovery period, making sure that your ideas is translated culturally to something that makes sense locally. That’s their main work. The founder just visited me again as an office hour \[laughs\] a few days ago.
 
 ### Audrey Tang:
 Because everything is on the record, so people can just Google and randomly discover a write-up or a previous case or things like that. You might want to take a picture and then...
@@ -369,7 +369,7 @@ As the digital minister?
 Yeah, exactly.
 
 ### Audrey Tang:
-At the moment, we’re working on the protection the election, the democracy apparatus. Everybody saw that there’s a loophole against our campaign donation laws, which is pretty standard. Only nationals get to donate. There’s accountability, full structured data opened to the public to audit and things like that. Pretty standard, pretty good.
+At the moment, we’re working on the protection of the election, the democracy apparatus. Everybody saw that there’s a loophole against our campaign donation laws, which is pretty standard. Only nationals get to donate. There’s accountability, full structured data opened to the public to audit and things like that. Pretty standard, pretty good.
 
 ### Audrey Tang:
 There was a loophole that says anyone can buy social media or media advertisement -- it could be foreign money -- to \[laughs\] support a candidate. Instead of going through our pretty reasonable campaign donation rules, we see, in the previous election, lots of foreign capital just betting, basically, through precision-targeting several messages.

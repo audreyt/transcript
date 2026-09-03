@@ -1,7 +1,7 @@
 # 2023-02-24 Conversation with Joichi Ito and Daum Kim
 
 ### Joichi Ito:
-Do you know Gene Sharp? He was a objector to the Vietnam War, and he and Albert Einstein corresponded and he was kind of a leader in creating the nonviolent action. So he did a whole thesis on how nonviolence or nonviolent protest actually is more effective than violence.
+Do you know Gene Sharp? He was an objector to the Vietnam War, and he and Albert Einstein corresponded and he was kind of a leader in creating the nonviolent action. So he did a whole thesis on how nonviolence or nonviolent protest actually is more effective than violence.
 
 ### Audrey Tang:
 Yes, this whole NVC school.

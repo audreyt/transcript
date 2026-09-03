@@ -476,7 +476,7 @@ This is a social movement view on things, but we’re working in the government 
 Possibly we could talk a bit more about that. How easy was it for you as a anarchist or revolutionary Occupier? How easy was it for you to go to the other side or to start working with the government? What was that journey and that thought process?
 
 ### Audrey Tang:
-The thought process simply put is that instead of thinking each ministry as a organization that organize people toward movements and the civil services in between that absorb all the tension, we use a overview effect \[laughs\] to reimagine the government as a space.
+The thought process simply put is that instead of thinking each ministry as an organization that organize people toward movements and the civil services in between that absorb all the tension, we use a overview effect \[laughs\] to reimagine the government as a space.
 
 ### Audrey Tang:
 Instead of asking, &quot;Who are the organizers? How can we arbitrate?&quot; which is like last century governance model, a top-down governance model, we now switch to a collaborative governance model where we ask two questions.

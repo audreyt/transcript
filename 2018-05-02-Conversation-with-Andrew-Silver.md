@@ -86,7 +86,7 @@ The HITCON community, H-I-T-C-O-N, are our primary cyber security community.
 Could you introduce me to anyone?
 
 ### Audrey Tang:
-They’re all very open. If you write, they’re bound to answer. They’re a open community. They run their HITCON CTFs, and things like that.
+They’re all very open. If you write, they’re bound to answer. They’re an open community. They run their HITCON CTFs, and things like that.
 
 ### Andrew Silver:
 Do they have a website?
@@ -163,7 +163,7 @@ We have open data regulation, that’s right, but it’s not a law. It’s a reg
 What’s the difference?
 
 ### Audrey Tang:
-Laws are assigned by the parliament, and regulation are basically internal policies that effects the administration, the Executive Yuan, but they don’t bind other people, outside the Executive Yuan. For example, it doesn’t bind the Corrective Yuan or the Examination Yuan. For the administration, the Executive Yuan, we have a open data regulation that applies.
+Laws are assigned by the parliament, and regulation are basically internal policies that effects the administration, the Executive Yuan, but they don’t bind other people, outside the Executive Yuan. For example, it doesn’t bind the Corrective Yuan or the Examination Yuan. For the administration, the Executive Yuan, we have an open data regulation that applies.
 
 ### Andrew Silver:
 Executive Yuan?
@@ -238,7 +238,7 @@ They have their own open data policies, but they’re distinct from the executiv
 All the branch can propose law amendments to the legislative. This is, again, very different from certain other countries. In other countries only MPs get to propose bills and amendments, but here all the five branches can propose their own amendments to the legislative branch.
 
 ### Audrey Tang:
-We have prepared a amendment to the legislative branch that concerns the corrective branch, to ask them to, as part of the sunshine campaigning law, publish he fine details of all the political donations to a election campaign. If passed by the legislation, that will bind the corrective power, but we can’t directly use a regulation to ask data out of the corrective branch.
+We have prepared a amendment to the legislative branch that concerns the corrective branch, to ask them to, as part of the sunshine campaigning law, publish he fine details of all the political donations to an election campaign. If passed by the legislation, that will bind the corrective power, but we can’t directly use a regulation to ask data out of the corrective branch.
 
 ### Andrew Silver:
 Right now, there’s no way to get data from the corrective branch, because there’s no...?

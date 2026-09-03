@@ -53,7 +53,7 @@ Hi. Very nice to meet you. Thank you very much for your time. My name is Koichi 
 OK, great.
 
 ### Tokujin Matsudaira:
-It's an honor to meet you. My name is Tokujin Matsudaira, a law professor at Kanagawa University, Japan. I specialize in constitutional law theory. In that sense I think that among the three of us, I'm the most old-fashoned scholar hanging out with the 19th-20th century things and know very little about the digital issues.
+It's an honor to meet you. My name is Tokujin Matsudaira, a law professor at Kanagawa University, Japan. I specialize in constitutional law theory. In that sense I think that among the three of us, I'm the most old-fashioned scholar hanging out with the 19th-20th century things and know very little about the digital issues.
 
 Today's meeting reminds me one of my close colleague and my classmate, Prof. George Shishido, University of Tokyo, had joined an on-line talk with you, I guess it was held by a Japanese institution. He is known as an expert of new media and big data. I am excited to learn from you on something you may have discussed with your Japanese counterparts.
 
@@ -273,7 +273,7 @@ The Community Note, if Elon Musk tweets something that is factually challenged, 
 
 The Community Note is crowd-sourced, and the top Community Notes are the ones that convince the people of polarizing ideologies. It measures bipartisanship, so the more people who disagree with each other can nevertheless see the insight in the Community Note that it's more likely that this is journalistic.
 
-It is journalistic. It means that it adds context to whatever exaggeration that Elon Musk announced. [laughs] I am just using him as a example. Like Elon Musk posted, in this case then, it will restore the balance of inoculation when people see this out of context tweet.
+It is journalistic. It means that it adds context to whatever exaggeration that Elon Musk announced. [laughs] I am just using him as an example. Like Elon Musk posted, in this case then, it will restore the balance of inoculation when people see this out of context tweet.
 
 Something like Community Notes, crowd-sourced fact finding, crowd-sourced journalism, is part of what we call data altruism. People voluntarily donate their time to do fact-finding in Cofacts and so on, and In this sense, restore the contextual balance.
 

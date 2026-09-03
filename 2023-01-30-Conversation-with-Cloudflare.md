@@ -519,7 +519,7 @@ It does.
 Having those different mindsets, different thoughts intersecting in a single place with a common goal, with a common problem to solve, it makes the solution a lot more robust.
 
 ### Audrey Tang:
-It also adds to a certain culture of not being afraid of working in the open and say that, "This is a open research problem. We don't even know how to solve that. If you're interested, join our presidential hackathon or whatever."
+It also adds to a certain culture of not being afraid of working in the open and say that, "This is an open research problem. We don't even know how to solve that. If you're interested, join our presidential hackathon or whatever."
 
 In the old days of authoritarian models, one is supposed to come up with all the solutions, and if one doesn't, one don't say it publicly. With people who are well versed in those worlds, they know that the old model doesn't work anyway, [laughs] so it's OK to simply state that, "We've solved this particular issue."
 
@@ -610,7 +610,7 @@ Exactly.
 Moda is open source?
 
 ### Audrey Tang:
-Yeah, of course. Oh, we call it public code because we relinquish our copyright by CC0, which is technically not a open source license. That's very pedantic. We say we're public code or we're CC0. "No rights reserved" as written on our home page.
+Yeah, of course. Oh, we call it public code because we relinquish our copyright by CC0, which is technically not an open source license. That's very pedantic. We say we're public code or we're CC0. "No rights reserved" as written on our home page.
 
 ### Nerio Musa：
 Yeah, that's refreshing.

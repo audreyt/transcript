@@ -587,7 +587,7 @@ They know where they are situated in this space, so you don’t have to keep tal
 Of course, there’s many different standards and there’s many different cities who are working with different vendors on these kind of technologies. One of my contributions is to what we call open API.
 
 ### Audrey Tang:
-API meaning the application programming interface, meaning that there’s a basic mission readable language for those things to talk to each other. Those languages, they need to come with their dictionaries, with their lexicons.
+API meaning the application programming interface, meaning that there’s a basic machine readable language for those things to talk to each other. Those languages, they need to come with their dictionaries, with their lexicons.
 
 ### Audrey Tang:
 This has two benefits. One is that a different vendor can look at the lexicons that this product is speaking, independently improve this communication, so it makes the entire ecosystem more vendor‑neutral and less tied to one particular vendor.

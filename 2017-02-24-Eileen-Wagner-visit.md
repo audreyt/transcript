@@ -518,7 +518,7 @@ I also have a very silly question. \[laughs\] You use a lot of VR. What’s your
 Mostly it’s just a time-saver. I have my headset here. It’s for everyday use. The idea of VR, very simply put, is that it’s a high-bandwidth way for people who are not physically in the same space to feel like they’re in the same space. It’s just you and me here, but if we had VR sets, we can just put it on, both of us, and then see three people magically appear on the couch. \[laughs\]
 
 ### Audrey Tang:
-Then, in addition to sharing this screen, they can also seeing our screen here. This is really just a way to save traveling. This is very practical. We know VR is preferable in this way, because if we just use Skype or whatever, people get distracted. They swipe their phones. They get called to something else. But if I’m in VR, everything else is blocked out anyway.
+Then, in addition to sharing this screen, they can also see our screen here. This is really just a way to save traveling. This is very practical. We know VR is preferable in this way, because if we just use Skype or whatever, people get distracted. They swipe their phones. They get called to something else. But if I’m in VR, everything else is blocked out anyway.
 
 ### Eileen Wagner:
 So it’s more of a method to block people from using their phones.
@@ -697,7 +697,7 @@ We’re actually helped by the software as service movement, saying for any elas
 That’s a start. I’m not a dogmatic Free Software person. If the proprietary vendor agrees to provide its free to charge software in those elastic parts, we also take it.
 
 ### Audrey Tang:
-We also say that it must at least conform to the bulk export/import open API, so that when there’s a open-source vendor who wants to take over this procurement next year, they can at least do a bulk export using compatible APIs and import it into the open-source package, and vice versa of course. That’s our strategy.
+We also say that it must at least conform to the bulk export/import open API, so that when there’s an open-source vendor who wants to take over this procurement next year, they can at least do a bulk export using compatible APIs and import it into the open-source package, and vice versa of course. That’s our strategy.
 
 ### Eileen Wagner:
 Very cool. I should make that something that a recommendation for other governments, too.
@@ -720,7 +720,7 @@ That’s a very good question. The most special thing is the domain name, g0v.tw
 I think the domain name works as a hypnotic reminder that self-governance is not just possible, but it’s desired. If you set up a website that says — no offense to our French counterparts — &quot;Citizens’ Parliament,&quot; then it doesn’t connote the same binding notion of &quot;You must take it very seriously.&quot;
 
 ### Audrey Tang:
-But if you call your website &quot;Legislative Yuan dot g0v dot Taiwan,&quot; there is implicitly the promise that you must do something that’s as serious as the actual Legislative Yen.
+But if you call your website &quot;Legislative Yuan dot g0v dot Taiwan,&quot; there is implicitly the promise that you must do something that’s as serious as the actual Legislative Yuan.
 
 ### Audrey Tang:
 I think for all the domain names that g0v hands out, people are compelled to take it seriously.
@@ -765,7 +765,7 @@ It’s also German. What I mean is I think the only trick you need is to get the
 For Taiwan’s current procurement strategy, I work on this decoupled architecture, and also decoupled procurement. This is less radical compared to the UK GDS, which says that it has to be less than one million pounds. No IT procurement must be over that amount. The civil society got a equal footing versus huge semi-integrators.
 
 ### Audrey Tang:
-By decoupled, we mean very simply that the storage part, the elastic part, the backend part must provide a API, and then the display part — be it website, or handheld app, or VR, whatever — these are separate procurements.
+By decoupled, we mean very simply that the storage part, the elastic part, the backend part must provide an API, and then the display part — be it website, or handheld app, or VR, whatever — these are separate procurements.
 
 ### Audrey Tang:
 We’re trying to discourage people from procuring these as one thing, because then you get some integrators who are not particularly good at any of this, or they are very good at backend, but very bad at adapting to RWDs.

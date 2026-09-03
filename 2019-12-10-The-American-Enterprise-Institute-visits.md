@@ -151,7 +151,7 @@ There’s a growing awareness about why that regime is actually such a threat. T
 I’ll leave it at that, but be happy to talk more specifically about what I observed in Singapore, Japan. I did field studies for the research that I’m working on. While I haven’t done my field research yet in South Korea, I do think South Korea could provide some very interesting examples about CCP influence operations there.
 
 ### Russell Hsiao:
-Again, as a organization focused on Taiwan however, as GTI is, we’re literally looking in terms of how Taiwan’s experience in these very various areas apply to what is happening in the world.
+Again, as an organization focused on Taiwan however, as GTI is, we’re literally looking in terms of how Taiwan’s experience in these very various areas apply to what is happening in the world.
 
 ### Russell Hsiao:
 You certainly don’t need me to tell you that Taiwan’s experience matters. But I think there is a growing appreciation in the world for what’s happening in Taiwan because the rest of the world is facing it now. Taiwan’s been facing United Front for a very, very long time.

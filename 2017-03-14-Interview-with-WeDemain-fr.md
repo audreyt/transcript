@@ -1,7 +1,7 @@
 # 2017-03-14 Interview with WeDemain.fr
 
 ### Jean-Jacques Valette:
-Nice to see you at least \[laughs\] through a computer, but it’s like live. I wanted to go a bit further because you brought me a lot of interesting datas.
+Nice to see you at least \[laughs\] through a computer, but it’s like live. I wanted to go a bit further because you brought me a lot of interesting data.
 
 ### Jean-Jacques Valette:
 I would like now to have some quotes I could use and to know you better. I read you are working a lot on VR, virtual reality. Could you tell me a bit more about that?
@@ -10,7 +10,7 @@ I would like now to have some quotes I could use and to know you better. I read 
 Virtual reality thing for me is part of daily life and I use it mostly as a time-saver so that I can have interviews with journalists who don’t have a bandwidth connection, because using virtual reality it doesn’t put that much demand on bandwidth.
 
 ### Audrey Tang:
-Most people with very bad hotel connections, we can still get a interview going. That’s one of the very practical uses.
+Most people with very bad hotel connections, we can still get an interview going. That’s one of the very practical uses.
 
 ### Jean-Jacques Valette:
 Oh, yeah. I read that you went on a few interviews. You said something I found quite particular. You went to sleep with your VR headset, and you were watching the sunset from a moon of Pluto . That was kind of cool. \[laughs\] I can’t wait to get one of those. Do you use VR in your experiments about democracy ?
@@ -219,7 +219,7 @@ I would just say that there are attempts like Wikipedia that tries to take some 
 It’s not just for nostalgia’s sake. It takes time to trust strangers. It takes time to really work with random people and feel that you’re at ease with people who you barely know and so on.
 
 ### Audrey Tang:
-I’m pretty optimistic. I think the intensely social generation, after a few years, will then make useful contributions in a much more deeper scale, and we can also accelerate the process if we want to.
+I’m pretty optimistic. I think the intensely social generation, after a few years, will then make useful contributions in a much deeper scale, and we can also accelerate the process if we want to.
 
 ### Jean-Jacques Valette:
 What do you think about using new technologies that can enable the contribution of people like, I read about it, what’s its name... it’s a program that can subvert a traditional organization by ... it’s with Primavera De Filippi.
@@ -373,7 +373,7 @@ There is just a question. In 2001, when there was the dot com bubble, were you a
 I was helped a lot, because suddenly, we have a lot more people contributing to open-source and to free software. I was into free software before that, but it’s hard to recruit a community, because everybody want to earn a lot of quick money.
 
 ### Audrey Tang:
-For community building, it’s great because then we have people who are talented who temporarily doesn’t have a job, and who can contribute to the community. From that view of a free software activist, that dot com crush is a boon, the free software boon.
+For community building, it’s great because then we have people who are talented who temporarily doesn’t have a job, and who can contribute to the community. From that view of a free software activist, that dot com crash is a boon, the free software boon.
 
 ### Jean-Jacques Valette:
 In 2005, you decided to change your name and gender.
@@ -429,7 +429,7 @@ It’s a candid question. Was it new for Taiwan to have sit-ins like this occupa
 Yeah, of course. The defining moment in Taiwan’s democratization is what we call the Wild Lily Movement. I’ll just give you the Wikipedia link, which makes it easy. It’s just for a week, no, 22 days. It’s defining because it was the year after the Berlin wall, and Tiananmen, of course. It was very symbolic demands, demands that are very much informed by the previous year’s sit-ins and occupies.
 
 ### Audrey Tang:
-The people who participated in the Wild Lily would end up being the defining generation of politic movements, also, professors and teachers of the Sunflower occupiers. There’s a direct link between the two occupies. There’s of course quite a few, between those two major ones.
+The people who participated in the Wild Lily would end up being the defining generation of political movements, also, professors and teachers of the Sunflower occupiers. There’s a direct link between the two occupies. There’s of course quite a few, between those two major ones.
 
 ### Audrey Tang:
 This one was defining because, had the Wild Lily ended the same way as Tiananmen the year before that, then Taiwan wouldn’t even have a democratic constitution, let alone a direct election of presidents.

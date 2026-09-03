@@ -324,7 +324,7 @@ At the moment in Taiwan, there’s 23 million people. E-petition network online 
 We have some machine recommendation algorithm, like Netflix or Amazon, that recommends similar interested petitions. It’s also of course for budgeting visualization, regulation pre-announcement, participatory budgeting on a city level, so it’s an all-in-one participation platform.
 
 ### Audrey Tang:
-The way it works is that whenever there’s anything that receives 5,000 signatures over a two months period gets a VU from all the all participation officers. They can explain and defend whether it needs a cross-ministerial collaboration. We do a approval voting anonymously on it and then we select two cases every month to collaborate on.
+The way it works is that whenever there’s anything that receives 5,000 signatures over a two months period gets a VU from all the all participation officers. They can explain and defend whether it needs a cross-ministerial collaboration. We do an approval voting anonymously on it and then we select two cases every month to collaborate on.
 
 ### Audrey Tang:
 Each and every one that reach the 5,000 people threshold automatically gets a binding power to basically be interviewed, be in talk with by the stakeholders, and publish the full transcript of the conversation, and get a point-by-point response within two months from the respective ministry.

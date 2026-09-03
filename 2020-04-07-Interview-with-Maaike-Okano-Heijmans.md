@@ -53,7 +53,7 @@ It’s the public sector ceding its diplomacy to the social sector. That’s whe
 Many democracies in Europe are struggling, obviously. This is also why your experiment, although I shouldn’t call it experiment because it’s already…
 
 ### Audrey Tang:
-It is a experiment. As I said, humor over rumor. It’s because rumor is very powerful now with the emotion of outrage. Even Netherlands is not totally immune to the outrage of divisiveness in the society, either across ethnicities or across generations, across age.
+It is an experiment. As I said, humor over rumor. It’s because rumor is very powerful now with the emotion of outrage. Even Netherlands is not totally immune to the outrage of divisiveness in the society, either across ethnicities or across generations, across age.
 
 ### Audrey Tang:
 A lot of my work is to make sure that people can laugh about whatever I do. Whether it’s using a electric rice cooker to revitalize a mask or something, I make sure that within 30 minutes people laughed about it.

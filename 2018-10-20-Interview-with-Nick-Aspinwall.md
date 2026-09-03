@@ -37,7 +37,7 @@ Yes, but I haven’t got a video.
 Maybe by the time your article appears on &quot;Diplomat&quot; there will be a video of the complete talk. The overviews are really just that, overviews, but the general idea that we should treat misinformation, disinformation, and criminal offenses differently, I think that is a message well-received.
 
 ### Audrey Tang:
-I also get a idea that the disinformation, or organized spreading of social discord, is really riding on the lack of action around misinformation, whether it’s just individual speculation. The longer we keep from actually tackling those invitations to have a real conversation or a dialogue, the easier for the rumors to spread, especially on end-to-end encrypted channels.
+I also get an idea that the disinformation, or organized spreading of social discord, is really riding on the lack of action around misinformation, whether it’s just individual speculation. The longer we keep from actually tackling those invitations to have a real conversation or a dialogue, the easier for the rumors to spread, especially on end-to-end encrypted channels.
 
 ### Audrey Tang:
 If we proactively discuss those rumors when they still are individual speculations, then everybody gets more inoculated and become psychologically more safe around each other. When conspiracy theories that are organized start to spread, it’s like in immunology.
@@ -243,7 +243,7 @@ It’s mostly expediting existing infrastructure. The other two point, open and 
 It gives, for example, search engines a single place to index so that when you type in those controversial words, it’s more likely for these to show up. It also gives independent fact-checkers, like the Taiwan Fact-Checking Center, it could be cited as a source.
 
 ### Audrey Tang:
-It’s just a press release without any metadata about what this press release is responding to, then it’s hard for \[laughs\] the Fact-Checking Center to mark this source and that source as adding different pieces to one another. By adding structured data, in a open fashion, we enable fact checkers to work with these as material.
+It’s just a press release without any metadata about what this press release is responding to, then it’s hard for \[laughs\] the Fact-Checking Center to mark this source and that source as adding different pieces to one another. By adding structured data, in an open fashion, we enable fact checkers to work with these as material.
 
 ### Audrey Tang:
 Of course, if these are wrong, the fact checkers can also use other sources to correct these as well. That’s why they’re independent fact-checkers.
@@ -385,7 +385,7 @@ We are already pushing a new act to the Parliament. I think it’s finished the 
 It make sure that regardless of where the judge finished their education, \[laughs\] they will rule the same way \[laughs\] for the online behavior to correspond to offline behavior.
 
 ### Audrey Tang:
-While the DCA itself carries no penal code, it makes it possible to bridge existing criminal, civil, and other codes into online communication platforms. Before it was kind of a gray area because nobody is quite sure what these actions mean in a online context. The DCA serves as the foundational law for that.
+While the DCA itself carries no penal code, it makes it possible to bridge existing criminal, civil, and other codes into online communication platforms. Before it was kind of a gray area because nobody is quite sure what these actions mean in an online context. The DCA serves as the foundational law for that.
 
 ### Audrey Tang:
 After the legislation passes the DCA, maybe because the DCA itself says for any emergent issue there should be a multi-stakeholder conversation with the civil society, the social sector, and international actors about how to...
@@ -436,7 +436,7 @@ If we haven’t done our media literacy job -- and by &quot;we&quot; I mean all 
 It’s not like we criminalized disinformation. It’s disinformation leading people to commit actions that are criminal offense. It is not like we’re going backward to revert into a place that has restricted freedom of speech. What we’re saying is that freedom of speech need to be done in a space that are constitutive to free speculations that are met with real-time clarifications and dialogue.
 
 ### Audrey Tang:
-I see misinformation as a invitation to dialogue, and if that dialogue happens, disinformation has less room to grow and less likely to lead to people committing criminal acts. That’s the whole point.
+I see misinformation as an invitation to dialogue, and if that dialogue happens, disinformation has less room to grow and less likely to lead to people committing criminal acts. That’s the whole point.
 
 ### Nick Aspinwall:
 Through promoting media literacy, having these open conversations in real time is something that you’ve referred to. I think that’s really important because an attribute we’ve seen of disinformation is how quickly it spreads.
@@ -1346,7 +1346,7 @@ The government need to trust the people. The people trust back however they want
 When you see that, is that a target for someone you’d want to engage, you’d want to start a conversation with?
 
 ### Audrey Tang:
-Yeah, it’s a invitation.
+Yeah, it’s an invitation.
 
 ### Nick Aspinwall:
 How do I want to put this? I know that a lot of mis- and disinformation originates domestically. When we talk about China, there’s no way to really know.

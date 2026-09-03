@@ -208,7 +208,7 @@ Of course, that kind of relationship develop over time by having that someone be
 > (laughter)
 
 ### Audrey Tang:
-...but rather 交, as in giving, in communicating, in exchanging, crossing over, and 代 as in representing, so giving you the right to represent me. K父代also means, when I say 給個交代, to give an account, meaning coming clear of how one has or has not abused that trust relationship, which is crucial when we think about GDPR or the various rights.
+...but rather 交, as in giving, in communicating, in exchanging, crossing over, and 代 as in representing, so giving you the right to represent me. 交代 also means, when I say 給個交代, to give an account, meaning coming clear of how one has or has not abused that trust relationship, which is crucial when we think about GDPR or the various rights.
 
 ### Audrey Tang:
 It’s all about giving this kind of account. To me, transparency is one of the ways to build a culture where, when one asks for an account, one can readily give that account. It is not by default. We’re not live streaming this. We’re not recording our micro expressions or whatever.
@@ -513,7 +513,7 @@ But we can use their words. The decoration is so poetic that people get lost in 
 Even for things that are challenging the frame, which is posted here, it’s not part of the journey per se but it’s challenging the framework which we are thinking about eternally, right? Afterwards, when thousands of people post their opinions, there’s only this number of questions. The issues are just this many.
 
 ### Audrey Tang:
-It gives people a kind of feeling of certainty. It’s not explosively that, it’s just this bad. If we tackle each and every one of these it will be better. We invited people who complained the loudest...It turns out the petitioner is a professional user experienced designer. When he sees something that is off by one millimeter or something, he will already feel really upset, like a typographer.
+It gives people a kind of feeling of certainty. It’s not explosively that, it’s just this bad. If we tackle each and every one of these it will be better. We invited people who complained the loudest...It turns out the petitioner is a professional user experience designer. When he sees something that is off by one millimeter or something, he will already feel really upset, like a typographer.
 
 ### Audrey Tang:
 Things that are otherwise acceptable, he doesn’t feel it this way which is great, because then he is the expert we need.
@@ -774,7 +774,7 @@ No, not really. Not really. I think one of the good thing about the language we 
 The core language is not a gendered language, and I think that really helps. As opposed to I had an interviewer from Israel writing in Hebrew. He had the hardest time writing about me. In English, at least you can use singular they or whatever. In German, at least you have the neutral noun. In Hebrew, there’s no choice. Every verb has a gender inflection.
 
 ### Audrey Tang:
-He ends up writing is a piece with alternating male and female inflections. When referring to Audrey, it’s he this time, and then she, even in the same sentence, just to protest against a lack of post genderism in the Hebrew language, with all due respect.
+He ends up writing a piece with alternating male and female inflections. When referring to Audrey, it’s he this time, and then she, even in the same sentence, just to protest against a lack of post genderism in the Hebrew language, with all due respect.
 
 ### Audrey Tang:
 That’s the most extreme case I ran into, but I don’t usually think about it. When I think in English and in Mandarin, these are not gendered languages.

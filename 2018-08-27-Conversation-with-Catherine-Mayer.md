@@ -361,7 +361,7 @@ I’m going to interrupt briefly. pol.is, for people who haven’t read or heard
 Right. I’ll explain it very quickly.
 
 ### Audrey Tang:
-Pol.is is like a open questionnaire. When you go to pol.is, you’re seeing one of the few, what we call seed questions that ask simple yes or no questions about how you feel about one particular issue.
+Pol.is is like an open questionnaire. When you go to pol.is, you’re seeing one of the few, what we call seed questions that ask simple yes or no questions about how you feel about one particular issue.
 
 ### Audrey Tang:
 The first time we used pol.is in Taiwan government, we talked about private ride sharing in the form of UberX. For example, the first time when one goes to pol.is, one can see a yes or no question, like, &quot;I think private passengers still need to have protection from accidents by commercial insurance providers.&quot; You can click yes or no on that particular sentiment.
@@ -548,7 +548,7 @@ Good.
 I think data agency, data as a relationship and not as an asset, is something that even with the GDPR, many policymakers still have not internalized this view on data. I’m not just quoting GDPR.
 
 ### Audrey Tang:
-In Taiwan, the privacy protection act, the PIPA, says the same thing, it basically says if a organization or institution holds my data, it begins a relationship where I can always ask what’s happening with this data. I can update it.
+In Taiwan, the privacy protection act, the PIPA, says the same thing, it basically says if an organization or institution holds my data, it begins a relationship where I can always ask what’s happening with this data. I can update it.
 
 ### Audrey Tang:
 If they want it to be used in a way that goes beyond the original collection purposes, I need to be given a chance to be informed and even update about it. The alternative is just to have a pale shadow of a data-driven simulacrum of me four years ago, a small part of my behavior that would be extrapolated, often wrongly, about my current status.

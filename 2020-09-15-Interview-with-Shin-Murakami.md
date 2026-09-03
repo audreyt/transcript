@@ -7,7 +7,7 @@ Thank you for the great question. I think a very important one, which is why ope
 The other days, people can just visit me when I’m here. The only thing I ask is that we publish everything online as either transcript or a video recording. The reason is that the radical transparency makes sure that people, when they lobby me, lobby only on the basis of public interest and not their selfish interest because they know everybody else is watching.
 
 ### Audrey Tang:
-The reason behind this philosophy is what we learned during open-source development. There’s a saying that says, “When there are enough eyes, all bugs are shallow.” That is to say, when you get people from various different positions looking at a idea together, the problems, the inconsistencies, and so on in the idea, there’s bound to be somebody discovering it.
+The reason behind this philosophy is what we learned during open-source development. There’s a saying that says, “When there are enough eyes, all bugs are shallow.” That is to say, when you get people from various different positions looking at an idea together, the problems, the inconsistencies, and so on in the idea, there’s bound to be somebody discovering it.
 
 ### Audrey Tang:
 It serves like a collective intelligence system. I don’t have to rely on my own pairs of eyes to look at all the possible problems with any proposal. Rather, people in different positions can help to suss out the problems in any proposal and build common values. People trust each other to only add to the conversation without attacking each other because it’s all public.
@@ -154,7 +154,7 @@ The more you include the elderly into the public service design, the more likely
 That becomes a social mobilization. By the time of April, more than 95 percent of Taiwanese people not only had access to masks but know how to use it properly. That’s when our R value went to below one.
 
 ### Shin Murakami:
-Open conversation and taking care of each other. That’s so important. Grandma started to use something. We know that we quickly fix the issue. This is like an open-source community or engineer community. We iterate through the PCDA cycle very quickly \[laughs\] like that.
+Open conversation and taking care of each other. That’s so important. Grandma started to use something. We know that we quickly fix the issue. This is like an open-source community or engineer community. We iterate through the PDCA cycle very quickly \[laughs\] like that.
 
 ### Audrey Tang:
 Yes. The point is the short iteration. It’s not how good your decision is, it’s how quickly you can pivot if it’s not.

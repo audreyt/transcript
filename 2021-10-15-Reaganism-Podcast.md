@@ -335,7 +335,7 @@ For example, around the environment, around putting this food and that drug toge
 
 But still, they do amass the legitimacy that I hope will one day surpass that of the authoritarian government, as what happened in Taiwan during the '80s.
 
-I would say, any place where there is a social sector, any place where people contribute to issues that affects everyone, everyone's business with everyone's help, then there is a room for the Taiwan model to work as tools in a large toolkit, not as a entire transplanted modem.
+I would say, any place where there is a social sector, any place where people contribute to issues that affects everyone, everyone's business with everyone's help, then there is a room for the Taiwan model to work as tools in a large toolkit, not as an entire transplanted modem.
 
 ### Rachel Hoff:
 Does that mean any democracy essentially?

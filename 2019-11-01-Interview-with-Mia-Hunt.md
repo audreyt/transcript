@@ -52,7 +52,7 @@ I wanted to ask you about g0v as well. I guess that was your springboard into go
 I’m more like the springboard for g0v community to work with the government. I’m at this Lagrange point, between movement on one side and government on the other. The great thing about Lagrange point is that I don’t have to spend a lot of effort. The gravity keeps me in this stable orbit.
 
 ### Audrey Tang:
-G0v is a idea from Chia-liang Kao, Ipa Chiu, and their friends. It’s not started by me. I joined in early 2013 when they already had their IRC channels, their hackathons, and so on. My main observation with g0v is that the main innovation is really just its name.
+G0v is an idea from Chia-liang Kao, Ipa Chiu, and their friends. It’s not started by me. I joined in early 2013 when they already had their IRC channels, their hackathons, and so on. My main observation with g0v is that the main innovation is really just its name.
 
 ### Audrey Tang:
 There’s many other attempts around the world to fork the government, so to speak, but there’s no other domain name so far that offer this instant gratification. When you see that you really don’t like the legislative ly.gov.tw.
@@ -330,7 +330,7 @@ In any case, what I’m trying to get at is then through distributed ledgers, th
 I think that’s the government’s job as well to make sure that everybody feels that they’re not alone in tackling this problem. They may be alone in their county or city, they may even be alone in Taiwan, but they’re not alone when viewed from a sustainable development scale.
 
 ### Audrey Tang:
-We actually bring these innovators, I just returned from Addis Ababa, to share a AI-based TB, tuberculosis detections, that costs less than one US dollars per filter. I think the WHO standard is $7 or $10 at the moment.
+We actually bring these innovators, I just returned from Addis Ababa, to share an AI-based TB, tuberculosis detections, that costs less than one US dollars per filter. I think the WHO standard is $7 or $10 at the moment.
 
 ### Audrey Tang:
 People in Africa love this idea, but the entire training, missing, model and things like that can be federated, meaning we don’t control the technology in a colonizing way, we’re happy to do, I don’t know, split learning, federated learning, and build a kind of confederation of mission models across all the clinical workers.

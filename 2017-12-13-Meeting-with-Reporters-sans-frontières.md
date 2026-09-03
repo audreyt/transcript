@@ -229,7 +229,7 @@ Yeah. I’m here every Wednesday. I live just 10 minutes’ walk from here.
 Anyone who come and...?
 
 ### Audrey Tang：
-Yeah, as long as they agree to the radical transparency, we have a office hour talk.
+Yeah, as long as they agree to the radical transparency, we have an office hour talk.
 
 ### Pierre Haski：
 That’s a very interesting type of structure. How did you get the government to accept that? That’s very unusual for any government, even radical ideas, to accept this kind of transparency. Some people -- for us, for example, on the left -- talk about the dictatorship of transparency. They feel transparency is a burden, and not an asset.

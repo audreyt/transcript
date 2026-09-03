@@ -520,7 +520,7 @@ Domestication.
 ### Henry Meng:
 Domestication, and kind of similar with Southern Asia environment. We have a corporation with Professor Sue. We have AI driving data set we collect and accumulate for many years. I think TIER IV also very interest in this kind of technology.
 
-If we have this kind of brand, I think your AWF open source were identifying and know how to drive your autonomous driving car in Taipei. Taipei big traffic point driving. I think maybe this data set can combine with a open source and probably open to the public.
+If we have this kind of brand, I think your AWF open source were identifying and know how to drive your autonomous driving car in Taipei. Taipei big traffic point driving. I think maybe this data set can combine with an open source and probably open to the public.
 
 If this is work, and this is not a new business model, we can get more revenue from the industry. I think this is in addition to your two suggestion. Maybe the first suggestion on III experience we can discuss with your team. Thank you.
 

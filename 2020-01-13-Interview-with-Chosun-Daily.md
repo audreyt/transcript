@@ -84,7 +84,7 @@ The Sunflower Movement is just the beginning of people realizing that if the Cab
 There was a national forum on economic development. That’s one of the demand of the Occupy. That was around mid-2014. At that time, many young people in the national economy forum has said there need to be two things done.
 
 ### Audrey Tang:
-One is that there need to be a way for people, using petition or other online ways, to raise their voice, like stopping the trade agreement. Instead of occupying a physical parliament, people need a online space to solicit response from the ministries in a very short time frame, not four years. That’s the first demand, and it’s a majority opinion.
+One is that there need to be a way for people, using petition or other online ways, to raise their voice, like stopping the trade agreement. Instead of occupying a physical parliament, people need an online space to solicit response from the ministries in a very short time frame, not four years. That’s the first demand, and it’s a majority opinion.
 
 ### Audrey Tang:
 Another majority opinion is that instead of people who know the legislators or people who know the civic councilors and so on, like traditional representative way, there need to be people who are more working with the government not against, like on the street, but also not in the representative, like looking at the budget.
@@ -259,7 +259,7 @@ Second, how were you involved?
 First one, we don’t face any resistance because mostly by the end of the incubation, the public service team embedded in the team will already shape it to be feasible. This is obvious if you have every team as tri-sectoral teams. They balance each other.
 
 ### Audrey Tang:
-If there is a idea that makes sense to the social sector but will be a disaster for the public sector, during the three months, they will figure out something else to implement the original idea in a more feasible way.
+If there is an idea that makes sense to the social sector but will be a disaster for the public sector, during the three months, they will figure out something else to implement the original idea in a more feasible way.
 
 ### Audrey Tang:
 On the other hand, if the public sector propose some good idea, but the social sector feel that it will take power away from the social sector and concentrate the power, they will also resist within the team and find a way to co-create in a data platform. The resistance happens in the three months of incubation not by the time we give out the trophy.

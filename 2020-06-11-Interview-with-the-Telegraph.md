@@ -130,13 +130,13 @@ These three together I think have more than 10 million users, but actually there
 Are these systems adaptable to a country like the UK, where actually masks are still in short supply?
 
 ### Audrey Tang:
-South Korea adopted our system. South Korean people were using the same mask map produced in Tainan, \[laughs\] even though Finjon Kiang did not know any Korean language, \[laughs\] but they both speak JavaScript and OpenAPI. \[laughs\] It was just a universal language. \[laughs\] They were able to convince the Korean government to publish in real time a API much as we do.
+South Korea adopted our system. South Korean people were using the same mask map produced in Tainan, \[laughs\] even though Finjon Kiang did not know any Korean language, \[laughs\] but they both speak JavaScript and OpenAPI. \[laughs\] It was just a universal language. \[laughs\] They were able to convince the Korean government to publish in real time an API much as we do.
 
 ### Audrey Tang:
 In other jurisdictions, usually you publish numbers after a public servant have looked at it, like freedom of information may be a week or so. Every day is considered very quick, but in our case it’s every 30 second when the system first launched. In the Korean case it’s real-time.
 
 ### Audrey Tang:
-The importance here is that people can go to a pharmacy, swipe their NHI card, collect nine mask per two weeks, and if they’re adult a child and if they have a child, and see the stock level deplete by 9 or 10 after a couple of minutes. If they see rather that the stock level rises, they call 1822 right there. This is distributor ledger. This is participatory accountability.
+The importance here is that people can go to a pharmacy, swipe their NHI card, collect nine mask per two weeks, and if they’re adult a child and if they have a child, and see the stock level deplete by 9 or 10 after a couple of minutes. If they see rather that the stock level rises, they call 1822 right there. This is distributed ledger. This is participatory accountability.
 
 ### Audrey Tang:
 This requires enormous trust from our government to people for not abusing the system. I don’t think there’s anything technologically preventing UK or other jurisdictions from adopting this system, but it does require a culture change.
@@ -326,7 +326,7 @@ Yeah. Ultimately it’s about data controllership if the people jointly control 
 It’s like a – I think UK has those – a credit union, where people decide to pull money together, but instead of trusting to a speculative banker or something, they use it just to serve the community’s need, a local credit coop or microfinancing.
 
 ### Audrey Tang:
-There’s many innovations like this, where you can see for sure that this is working in the people’s interest in a coop spirit, instead of a capitalist spirit or even as their own enterprise spirit. Then people would trust that. The UK has a example of that, actually it’s the Scottish Highlands and Islands Development Agency.
+There’s many innovations like this, where you can see for sure that this is working in the people’s interest in a coop spirit, instead of a capitalist spirit or even as their own enterprise spirit. Then people would trust that. The UK has an example of that, actually it’s the Scottish Highlands and Islands Development Agency.
 
 > (laughter)
 
@@ -340,7 +340,7 @@ Yeah, where the community collaboratively owns and controls the people of the co
 Basically, there has to be a lot of trust between the population and its government.
 
 ### Audrey Tang:
-It need to be coded by the social sector itself in a open way.
+It need to be coded by the social sector itself in an open way.
 
 ### Nicola Smith:
 The app would be voluntary in the UK. Is that going to work? Is that going to work…

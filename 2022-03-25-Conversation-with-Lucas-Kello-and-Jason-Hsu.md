@@ -743,7 +743,7 @@ I'm very eager to go soon, yeah.
 Maybe that sounds like official invitation to me.
 
 ### Audrey Tang:
-Exactly, if you need a invitation just let us know and you'll just spend 10 short days. I guess, not very short [laughs] we're reducing it — hopefully in a few months — in quarantine.
+Exactly, if you need an invitation just let us know and you'll just spend 10 short days. I guess, not very short [laughs] we're reducing it — hopefully in a few months — in quarantine.
 
 ### Lucas Kello:
 In the hotels. To echo Jason's thanks, I'm grateful for your time and for your interest today. It's been a fascinating exchange. I always learn new things. It was the case today, so thank you.

@@ -169,7 +169,7 @@ Finally, the cultural/political advantage of Taiwan is that we’re really new i
 We don’t have 200 year of proud, Republican tradition. It’s all new to us so it’s easier for us to mix and match things together. The name is Sandstorm, sand as in the sandbox, and storm as in taking something by storm. If you go to sandstorm.io, which I’m sharing with you now, you see the digital tools, which is open source platform, self-hosting Web apps.
 
 ### Audrey Tang:
-It’s audited by Taiwan’s cybersecurity department, as well as by various other white hat hackers. Feel free to use that. If you put a app on the Sandstorm app marketplace, I thank you on behalf of the Taiwan public service because we’re going to use the app that you design.
+It’s audited by Taiwan’s cybersecurity department, as well as by various other white hat hackers. Feel free to use that. If you put an app on the Sandstorm app marketplace, I thank you on behalf of the Taiwan public service because we’re going to use the app that you design.
 
 ### Audrey Tang:
 Thank you very much for joining in this Q&amp;A session.

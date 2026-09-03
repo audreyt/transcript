@@ -49,7 +49,7 @@ I think the idea of open data and open government is an idea that has broad agre
 Fast forward a little bit to the pandemic. In early late January or early February, there was a panic and people were buying masks and there was a shortage of masks. How were you informed? And what was the duty in terms of the whole government response? What part did you play?
 
 ### Audrey Tang:
-Well, it actually started last year, not this year. Last year, Dr. Li Wenliang（李文亮), the PRC whistleblower shared on social media that there were seven SARS cases being detected around Wuhan. Although he got inquiries, and eventually disciplines from their local police.
+Well, it actually started last year, not this year. Last year, Dr. Li Wenliang（李文亮）, the PRC whistleblower shared on social media that there were seven SARS cases being detected around Wuhan. Although he got inquiries, and eventually disciplines from their local police.
 
 ### Audrey Tang:
 The same social media whistleblowing gets reposted on PTT, which is Taiwan’s equivalent of Reddit. But instead of getting inquiries or punishments, this person called “nomorepipe,” I think that was the nickname, eventually escalated this message because the people in the CDC (Center of Disease Control) in Taiwan just took notice of that post.

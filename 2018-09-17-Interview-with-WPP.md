@@ -525,7 +525,7 @@ It’s not meant to compare or to measure, because every case is different, qual
 That’s quite interesting because you say that each case is quite different as it is. How would you define the kind of benchmarks, for want of a better word, or what are your parameters of success for each and how do you define that? How do you see...
 
 ### Audrey Tang:
-I think in the end it is about citizen confidence. It’s like consumer confidence. \[laughs\] There’s a index for consumer confidence. If there’s one for how people feel, even though maybe at end, they don’t get what they want.
+I think in the end it is about citizen confidence. It’s like consumer confidence. \[laughs\] There’s an index for consumer confidence. If there’s one for how people feel, even though maybe at end, they don’t get what they want.
 
 ### Audrey Tang:
 Taiwan’s time zone has not changed, certainly, \[laughs\] but they feel confident that if they can have a factual point-by-point response from each ministry about the impact of daylight savings time on energy, on tourism, on environment, on everything, then they feel this accountability means that the government trusts people completely to not abuse these numbers and evidences.

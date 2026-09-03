@@ -236,7 +236,7 @@ Yeah. It’s the same problem for senior people, too. Not everybody can accept y
 That’s good. That’s why we have a liberal democracy. If nobody dare to question you, that’s called fascism. It’s called authoritarianism, or even worse, totalitarianism. Only in a really total totalitarianism can a leader be free from complaints, because they execute the people who dare to complain. \[laughs\]
 
 ### Audrey Tang:
-That’s not the society we want. If people complain, that means they care, and if they care, we always invite them into a dialog and to see if there are things that they do better, and we can always incorporate their ideas into out public decisions.
+That’s not the society we want. If people complain, that means they care, and if they care, we always invite them into a dialog and to see if there are things that they do better, and we can always incorporate their ideas into our public decisions.
 
 ### Yura Jo:
 This is a literally different question. Nowadays, social media has become one of the political…

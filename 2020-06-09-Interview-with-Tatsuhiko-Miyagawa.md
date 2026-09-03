@@ -1291,5 +1291,5 @@ David said — I think you’ve probably knew this now — “We reject kings. W
 Thank you, Audrey. Hope to see you soon.
 
 ### Audrey Tang:
-See you soon. Stay safe. Have a good localtime.
+See you soon. Stay safe. Have a good local time.
 

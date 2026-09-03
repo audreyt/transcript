@@ -67,7 +67,7 @@ That’s right.
 Then, secondly, then it shows what we have in common. What happens in the journey next? We’ve maybe even drafter some comments at this point.
 
 ### Audrey Tang:
-That’s right. After answering a few ideas, you can see this “share your perspective.” It reminds you that it should be a idea that stands alone, meaning that you shouldn’t write ten ideas in a single statement.
+That’s right. After answering a few ideas, you can see this “share your perspective.” It reminds you that it should be an idea that stands alone, meaning that you shouldn’t write ten ideas in a single statement.
 
 ### Audrey Tang:
 It should raise new perspective and experience or issues, meaning that if you simply copy/paste that, it’s not going to make any difference. Finally, please be clear and concise by limiting to 140 characters, which is a one-vote Twitter.
@@ -352,7 +352,7 @@ If you have a driver license, of course. People know that. They were seeing this
 Each municipality need to decide for themself whether they want e-rentals to also count as multi-purpose taxis or if they don’t count and you really have to rent them by the hour. That is the entirety of what the MOTC is doing. Personally speaking, I think this rental/taxi separation is still within the idea of the original consensus.
 
 ### Audrey Tang:
-If we do need another conversation, it will probably be about how to make multi-purpose taxis more fitting to the current reality. For example, people are saying that hardware meter is very inconvenient. Then you cannot do dynamic pricing. Maybe a app-based meter is a better one.
+If we do need another conversation, it will probably be about how to make multi-purpose taxis more fitting to the current reality. For example, people are saying that hardware meter is very inconvenient. Then you cannot do dynamic pricing. Maybe an app-based meter is a better one.
 
 ### Audrey Tang:
 There are some new observations now that we have multi-purpose taxis for a few years now. MPTs is probably a good idea to have that conversation on through vTaiwan. E-rental regulation, it’s still very much well within the original consensus. It is making sure that each municipality do a reality check. That’s my take.

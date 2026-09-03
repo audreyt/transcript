@@ -214,7 +214,7 @@ So if you have 5,000 people going in, vote exactly the same, it’s not going to
 As you press agree or disagree, your avatar moves among the people who share your ideas, and so first you can see that these are not anonymous enemies. These are your friends and family. You just disagree on this particular public issue.
 
 ### Audrey Tang:
-Second, it shows that people’s positions can change. If a minority actually have more diverse ideas in a idea landscape, then that minority actually has a larger area. This is not proportional to the people, but actually to the diversity of their opinions.
+Second, it shows that people’s positions can change. If a minority actually have more diverse ideas in an idea landscape, then that minority actually has a larger area. This is not proportional to the people, but actually to the diversity of their opinions.
 
 ### Audrey Tang:
 After each discussion, we share a picture like this, and this is very surprising because most people would think that if they are in a minority, it’s in one of those divisive statements that polarize the society. The fact is, minority or not, most people agree on most of the things, most of the time, with most of their neighbors, so the majority/minority is a false dichotomy.
@@ -397,7 +397,7 @@ This actually takes negative budget.
 The co-creation workshops.
 
 ### Audrey Tang:
-Yeah, because during the workshop, a IT engineer, after talking with the civil service in charge of tax filing, noticed that the ministry was paying the rental of the bandwidth and the machine the entire May for the tax filing, and anticipating the influx of people filing the tax online.
+Yeah, because during the workshop, an IT engineer, after talking with the civil service in charge of tax filing, noticed that the ministry was paying the rental of the bandwidth and the machine the entire May for the tax filing, and anticipating the influx of people filing the tax online.
 
 ### Audrey Tang:
 They said there is this idea called elastic computing, that you can rent the computer as you want it.
@@ -415,7 +415,7 @@ The IT department implement it this year, and they save a lot of money, of which
 Wow. That is still the most impressive part for me. That is what I take the most of. If we were to implement that in X country, what will be the main challenges in implementing it?
 
 ### Audrey Tang:
-I’m at a advisory council of a effort called CrowdLaw. If you type crowd.law \[types it on a tablet and shows the result\], I think it’s this one, it shows not just our methodology and case study, but actually what everybody else is doing as well.
+I’m at a advisory council of an effort called CrowdLaw. If you type crowd.law \[types it on a tablet and shows the result\], I think it’s this one, it shows not just our methodology and case study, but actually what everybody else is doing as well.
 
 ### Audrey Tang:
 There is what they call a CrowdLaw Catalog. This is a what we call a digital compendium of everything in the different stage – the level of government, the stage of the government, the task that you want to achieve. It’s not about the technology. The technologies only comes in when you have the design brief of the expected outcome of your agenda-setting.

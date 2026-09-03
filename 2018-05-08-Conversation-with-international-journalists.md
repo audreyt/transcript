@@ -123,7 +123,7 @@ If it’s not, then we thank the investors for paying the tuition for everybody 
 As you see, this is a co-creative environment. We let the private sector, who has the incentive to break the law, and to work with the legislator who need this real-world data to convince the constituents. We let the constituents’ voice inform the private sector people whether this is a good idea or not.
 
 ### Audrey Tang:
-This is all the three sectors working together. We’re extending this fintech sandbox into a couple weeks from now we will push a AI mobility sandbox into the legislation where we will experiment with un-crewed vehicles that are not just autonomous cars, but also freight-carrying drones, ships, and some hybrid vehicles.
+This is all the three sectors working together. We’re extending this fintech sandbox into a couple weeks from now we will push an AI mobility sandbox into the legislation where we will experiment with un-crewed vehicles that are not just autonomous cars, but also freight-carrying drones, ships, and some hybrid vehicles.
 
 ### Audrey Tang:
 Also, working with the local governments with an eye on improving the life of their citizens with new technology, and then we will move onto other general purpose sandboxes. In each cases, we need expertise, but we especially need a accountable public way for people from different expertise to have a real conversation among each other, and for the whole society to learn. That’s the main idea.

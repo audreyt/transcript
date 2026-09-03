@@ -182,7 +182,7 @@ I think that ultimately depends on the priority you set on the second call to ac
 Although through two dimensional forms of communication, one necessarily flattens the interests into the training hashtags, for lack of better term. That is to say, we only share the experience in the ways that are more easily communicable across cultural boundaries, if it could be summarized in essence, in quite short, like just one screen full of terms. It makes sense, if I’m in your position, to choose one or maybe at most two priorities.
 
 ### Audrey Tang:
-For example, if I want to concentrate on degrowth, then we make a entire movement and resources and sharing platforms around degrowth. It could then be a trending hashtag on existing social platforms and so on, so that we can co op existing weak link connections on social media, instead of having to move everyone to our platform.
+For example, if I want to concentrate on degrowth, then we make an entire movement and resources and sharing platforms around degrowth. It could then be a trending hashtag on existing social platforms and so on, so that we can co op existing weak link connections on social media, instead of having to move everyone to our platform.
 
 ### Audrey Tang:
 On the other hand, if this is about, for example, resisting and calling out — I’m thinking of a way that’s not user experience — abuser, right? \[laughs\] Abusers’ experience online communities and so on. That is a more resisting form to existing online realities.
@@ -288,13 +288,13 @@ That’s right, yes.
 \[laughs\] Audrey, do you have any questions for us? I know we’ve been a little extractive, so I’ll let you speak. It’s all about asking you what about this? I wanted to thank you so much for your generosity and for your wisdom. It’s been fantastic to hear. Do you have any questions for us or anything?
 
 ### Audrey Tang:
-Yeah, sharing that we’re going to hold a large summit on social innovation. It’s called APSIS, Asia Pacific Social Innovation Summit dot TW, this April 10th in New Taipei City. We will combine a face to face gathering of the social innovator. It will also have a extensive online presence and a online part.
+Yeah, sharing that we’re going to hold a large summit on social innovation. It’s called APSIS, Asia Pacific Social Innovation Summit dot TW, this April 10th in New Taipei City. We will combine a face to face gathering of the social innovator. It will also have a extensive online presence and an online part.
 
 ### Audrey Tang:
-If you want to look into how to get social innovators around the world interested in all sort of different things in a online way, you can get in touch with the organizers of apsis.tw. I believe they also may have a lot of resources, at least of the people who are value aligned, to tend to your digital gardens, so to speak.
+If you want to look into how to get social innovators around the world interested in all sort of different things in an online way, you can get in touch with the organizers of apsis.tw. I believe they also may have a lot of resources, at least of the people who are value aligned, to tend to your digital gardens, so to speak.
 
 ### Audrey Tang:
-This year, the organizer is the Foundations for Women’s Right Promotion and Development, or the FWRPD. That’s a organization that long history with a lot of government support, legitimacy in the social sector that are being digitally transformed \[laughs\] also by the COVID, and have, probably, a lot of stories to tell to work with the younger organizations, such as Impact Hub, social enterprise insights, and so on, to transform what used to be a very large face to face gathering into a hybrid online/offline engagement. That’s a excellent resource for you.
+This year, the organizer is the Foundations for Women’s Right Promotion and Development, or the FWRPD. That’s an organization that long history with a lot of government support, legitimacy in the social sector that are being digitally transformed \[laughs\] also by the COVID, and have, probably, a lot of stories to tell to work with the younger organizations, such as Impact Hub, social enterprise insights, and so on, to transform what used to be a very large face to face gathering into a hybrid online/offline engagement. That’s a excellent resource for you.
 
 ### Hakima Abbas:
 Yes, that is. We’ve been in touch with FWRPD. When we came to Taiwan, we did site visits and met with them. Definitely, we’ll be in touch with them and find out a bit more about the summit, and what that looks like. Thank you so much.

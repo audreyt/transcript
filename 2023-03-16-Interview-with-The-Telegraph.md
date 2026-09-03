@@ -103,7 +103,7 @@ Yeah. As I mentioned, there's the proof of concepts that's already setting up th
 They're already two Taiwanese companies that partnered with the global providers that have issued the license seeking application, two, the commercial application. For the POC, it's not limited by the commercial operators. We can work with even research operators and so on. While I cannot name names, this is evidently more than just these two providers.
 
 ### Sophia Yan:
-I'm not a expert on this kind of technical terms, can you explain to me what Taiwan is able to do today and what it would need to get to this big, big network that you're talking about?
+I'm not an expert on this kind of technical terms, can you explain to me what Taiwan is able to do today and what it would need to get to this big, big network that you're talking about?
 
 ### Audrey Tang:
 As of today, what we can do is that, for example, in the Hsinchu Fire Service experiments, to mount a satellite receiver connecting to the mid Earth orbit with pretty high bandwidth for high quality video link.

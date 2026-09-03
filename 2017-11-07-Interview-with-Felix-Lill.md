@@ -1,7 +1,7 @@
 # 2017-11-07 Interview with Felix Lill
 
 ### Audrey Tang:
-We’ll be recording this. for example, here is a interview that I did with a BBC correspondent. And this is WCIT International Press, and the format would be like this. It’s basically everything that we say, and everyone can lay in context, and you’ll have 10 days to modify the transcript if the transcript was inaccurate or something, then you can edit it before we publish it. I hope that’s OK with you.
+We’ll be recording this. for example, here is an interview that I did with a BBC correspondent. And this is WCIT International Press, and the format would be like this. It’s basically everything that we say, and everyone can lay in context, and you’ll have 10 days to modify the transcript if the transcript was inaccurate or something, then you can edit it before we publish it. I hope that’s OK with you.
 
 ### Felix Lill:
 Mm-hmm.
@@ -271,7 +271,7 @@ She works closely with the deputy prime minister, and then afterwards prime mini
 They very much agree this kind of tech-oriented, or even AI-mediated discussion. We made many cases. I, along with other occupiers, we basically put training camps and taught thousands of public servants of this way of doing consultations, essentially.
 
 ### Audrey Tang:
-Afterwards, there was a election. Tsai Ing-wen got elected, and she also campaigned on the idea of open government, and also...what was the slogan? &quot;The government most capable of communicating.&quot; That was her platform.
+Afterwards, there was an election. Tsai Ing-wen got elected, and she also campaigned on the idea of open government, and also...what was the slogan? &quot;The government most capable of communicating.&quot; That was her platform.
 
 ### Audrey Tang:
 Of course, it’s not just appointed people. The career public servant force must also be capable of communicating. It’s not sufficient to be willing to communicate. One has to be capable of communicate.
@@ -289,7 +289,7 @@ A lot of the principles, such as my telecommuting, my not involving confidential
 It’s a better way for me to say, &quot;OK, I’m just a channel. I’m not speaking for any particular NGO, or whatever, but people want to see a different way of doing policymaking. I’m willing to experiment.&quot; That’s my mandate.
 
 ### Audrey Tang:
-It’s most out of necessity that someone has to carry on the project and all of the political will to build a open government, open policymaking, and also the will of the crowd who want to see this experiment taken to its logical conclusion and see what happens.
+It’s most out of necessity that someone has to carry on the project and all of the political will to build an open government, open policymaking, and also the will of the crowd who want to see this experiment taken to its logical conclusion and see what happens.
 
 ### Felix Lill:
 Ask Me Anything, have you rejected any of the ideas? Probably a lot, right?

@@ -70,7 +70,7 @@ Yes, we are now early stages. We are growing it as we speak. I think we are abou
 Taiwan is always, from a regulatory perspective, relatively difficult for us to penetrate. On the surface, unless you guys tell me it’s not, it sounds like a sandbox type of activity.
 
 ### Audrey Tang:
-It is well within the kind of consulting track just to make sure which interpretations are in your way, so the speak. Maybe it could be made to work. You’re setting a domestic company in Japan to support that? They don’t require you to become a...
+It is well within the kind of consulting track just to make sure which interpretations are in your way, so to speak. Maybe it could be made to work. You’re setting a domestic company in Japan to support that? They don’t require you to become a...
 
 ### Omri Morgenshtern:
 It depends on the jurisdiction. Some jurisdictions, they need specifically. In Japan, no, they don’t require anything. We don’t even need to apply for a license in Japan. Thailand, we need to apply for a license, as an example.
@@ -82,7 +82,7 @@ You will have to have a local company anyway. That is then seen as a processing 
 For the sandbox?
 
 ### Audrey Tang:
-...for the sandbox. Then they can go through the usual process to say, &quot;Oh, this part is existing interpretation. This part we maybe need a sandbox experiment.&quot; That both simplifies your flow of administration of bureaucracy, and it also makes it much more clear that this is a addition to what you’re already intending to pursue.
+...for the sandbox. Then they can go through the usual process to say, &quot;Oh, this part is existing interpretation. This part we maybe need a sandbox experiment.&quot; That both simplifies your flow of administration of bureaucracy, and it also makes it much more clear that this is an addition to what you’re already intending to pursue.
 
 ### Omri Morgenshtern:
 Perfect.
@@ -139,10 +139,10 @@ I don’t know what’s the processing collecting in the back, but maybe we can 
 At the moment, the tourism bureau, according to their regulation, is only accepting those receipts by a postal mail. If you want to introduce the tech, the tech will be on the back end process to help the hotels to generate a month’s worth or a week’s worth of those receipts in a systemic fashion, and then just send it to the post office, and so forth help to minimize their work.
 
 ### Audrey Tang:
-For the tourism bureau, I think at the moment, that part, there’s no mission to mission part is what I’m saying. The bottleneck is always in checking of those receipts. If you’re interested in alternating the hotel’s part, you can as well begin without consulting the tourism bureau.
+For the tourism bureau, I think at the moment, that part, there’s no machine to machine part is what I’m saying. The bottleneck is always in checking of those receipts. If you’re interested in alternating the hotel’s part, you can as well begin without consulting the tourism bureau.
 
 ### Audrey Tang:
-The tourism bureau, I think, at the moment, is very interested in getting them processed faster. One thought is maybe and I have noticed maybe if you carry some mission to mission deal, to let tourism bureau what happened when.
+The tourism bureau, I think, at the moment, is very interested in getting them processed faster. One thought is maybe and I have noticed maybe if you carry some machine to machine deal, to let tourism bureau what happened when.
 
 ### Audrey Tang:
 There hasn’t been counsel with other transaction that actually happened. Of course, they will have to give out those reimbursement only after receiving the receipt. At least there will be no backlog. The backlog can be significantly shortened.
@@ -299,7 +299,7 @@ The website is in English as well. In any case, Google Translate works.
 True. I wondered also, I was very curious. I’m so sorry we didn’t have the chance to visit your innovation center. I wonder if you could describe that, what you’re doing there...
 
 ### Audrey Tang:
-It’s open every day. You can just take a quick tour of the place. It’s very open. It’s near the Jianguo Flower Market, one of the busiest place in central Taipei, opens weekends from 7:00 AM to 11:00 PM. I’m there every Wednesday as my personal office hour.
+It’s open every day. You can just take a quick tour of the place. It’s very open. It’s near the Jianguo Flower Market, one of the busiest places in central Taipei, opens weekends from 7:00 AM to 11:00 PM. I’m there every Wednesday as my personal office hour.
 
 ### Audrey Tang:
 We also hold regional tours every other Tuesday or so.

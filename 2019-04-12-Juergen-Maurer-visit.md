@@ -418,7 +418,7 @@ It’s OK to be open about electricity standards. We center AI on the sockets, a
 The algorithm can always be shared. It doesn’t really matter. It’s a call center anyway.
 
 ### Juergen Maurer:
-What do you think about the idea that some kind of setup like a AI related technologies be taxedinstead of people? The more robots you have in a company, the more tax the company should pay.
+What do you think about the idea that some kind of setup like an AI related technologies be taxedinstead of people? The more robots you have in a company, the more tax the company should pay.
 
 ### Audrey Tang:
 It’s a interesting idea. It’s a interesting idea. As I said, it often reflects a social tension around job displacement by automation.
@@ -433,13 +433,13 @@ In Taiwan, there’s as far as I can see no present pressure for the regulators 
 Again, can we talk about the question I started with? Where do you see Taiwan in 5 to 10 years as better off than right now, or is the competition getting too strong from other countries that Taiwan needs to fear...
 
 ### Audrey Tang:
-Yeah, I think, first of all, Taiwan’s an island who erase five centimeters anyway, \[laughs\] whatever the humans do. \[laughs\] The biodiversity, the ecology would be there. But from a AI point of view, I think Taiwan is in a really good place when it comes to digital transformation.
+Yeah, I think, first of all, Taiwan’s an island who erase five centimeters anyway, \[laughs\] whatever the humans do. \[laughs\] The biodiversity, the ecology would be there. But from an AI point of view, I think Taiwan is in a really good place when it comes to digital transformation.
 
 ### Audrey Tang:
 AI Academy, people send their presentations. \[laughs\] Maybe I can just proxy in. I think they really have a good point here in saying that here, I think, of just...There’s really good examples around digital transformation.
 
 ### Audrey Tang:
-Basically, what they do basically they’re a AI training camp. Their students are existing managers, like MBA as well as people part of their career is already around smart machinery or fabrics or whatever existing industries, and they are looking to transform their industries. That’s their constituents’, that’s their students’ space.
+Basically, what they do basically they’re an AI training camp. Their students are existing managers, like MBA as well as people part of their career is already around smart machinery or fabrics or whatever existing industries, and they are looking to transform their industries. That’s their constituents’, that’s their students’ space.
 
 ### Audrey Tang:
 They basically work with lots of what we call smart machinery manufacturing or whatever companies and identify their pain points. Basically, there’s lots of university students, but they’re not readily helpful \[laughs\] when they want to digitally transform their industries.

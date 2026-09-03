@@ -105,7 +105,7 @@ We will see whether those agenda set by the referendum petitioners and collectiv
 Turning to the present election, there has been a lot of reports in the media about the fake news, probably most of it originating from mainland China. How serious is this issue of fake news and misinformation?
 
 ### Audrey Tang:
-In Taiwan, we only say disinformation here. At least in the administration, we don’t use the “fake” “news” term, because in Taiwan, journalism and news are translated into the same Mandarin word, \[Mandarin\] . Because of that, it’s impossible to say “fake news” without it sounding like an affront to journalism, so we don’t use that translation.
+In Taiwan, we only say disinformation here. At least in the administration, we don’t use the “fake” “news” term, because in Taiwan, journalism and news are translated into the same Mandarin word, \[Mandarin\]. Because of that, it’s impossible to say “fake news” without it sounding like an affront to journalism, so we don’t use that translation.
 
 ### Audrey Tang:
 But we do say disinformation, disinformation meaning intentional, harmful untruths that harms the public – not just the image of a politician, but the public – is indeed a perennial issue in democracies.
@@ -156,7 +156,7 @@ I can send it to you via email. The point here is that this piece is good becaus
 I heard some of the disinformation from China is fairly unsophisticated and it even uses simplified characters, so you can immediately see where it’s from. Is that correct and do you also see some pretty unsophisticated methods like that?
 
 ### Audrey Tang:
-In the particular case that I just sent you by email, which I alluded to, the disinformation allegedly contained a Telegram group of the Hong Kong protestors but they were using the \[foreign language\] , which is the Romanization method used in the PRC but not in Hong Kong, which is primarily Cantonese.
+In the particular case that I just sent you by email, which I alluded to, the disinformation allegedly contained a Telegram group of the Hong Kong protestors but they were using the \[foreign language\], which is the Romanization method used in the PRC but not in Hong Kong, which is primarily Cantonese.
 
 ### Audrey Tang:
 I wouldn’t say it’s unsophisticated. I would say that they maybe were not aware of the cultural context involved.
@@ -231,7 +231,7 @@ For example, when we talk about disinformation, counter-disinformation, we use t
 Now it is jointly hosted by Japan, by Taiwan, and the US, and with dozens of other countries sending people, usually journalists, to learn about the ways Taiwan worked with journalists instead of against journalists when it comes to mitigating disinformation online. That’s just one of the 17 SDGs that we’re working on.
 
 ### Audrey Tang:
-We are also running a event called the Presidential Hackathon where the president highlights five specific SDG targets every year, as crowdsourced by people who think about novel ways to achieve those SDG targets, and commit to bind herself to realize people’s solutions, five teams every year, into the national strategy within 12 months.
+We are also running an event called the Presidential Hackathon where the president highlights five specific SDG targets every year, as crowdsourced by people who think about novel ways to achieve those SDG targets, and commit to bind herself to realize people’s solutions, five teams every year, into the national strategy within 12 months.
 
 ### Audrey Tang:
 All these ways are not just domestic, but we also invite international teams. The previous winners in last year’s Presidential Hackathon in the international track were Honduras and Malaysia, if I’m not mistaken. Many countries did join. If you look for Presidential Hackathon, you can find a lot of the global goals, related target, and endeavors.
@@ -240,7 +240,7 @@ All these ways are not just domestic, but we also invite international teams. Th
 Could we say that this is a source of Taiwanese soft power in the world?
 
 ### Audrey Tang:
-Of course, if you say, “Taiwan can help.” Around here, we say \[Mandarin\] , or warm power, \[laughs\] to be literal. The idea, of course, this is soft power. This is cultural power.
+Of course, if you say, “Taiwan can help.” Around here, we say \[Mandarin\], or warm power, \[laughs\] to be literal. The idea, of course, this is soft power. This is cultural power.
 
 ### Peter Harmsen:
 Is it a problem that China is doing so much to isolate Taiwan in the world? Does that make it more difficult for Taiwan to use this soft power?
@@ -558,7 +558,7 @@ OK. That is a great question, but that is to say, when I’m trying to offer a q
 Let’s see. Maybe I’ll read you the 11th stanza of the Tao Te Ching, which is a thought from Lao Tzu. I will also send you the link to make sure that this transcribes well. It goes like this.
 
 ### Audrey Tang:
-“30 spokes meet in the hub. Where the wheel isn’t is where it’s useful. Hollowed out clay makes a pot. Where the pot’s not is where is it’s useful. Cut doors and windows to make a room. Where the room isn’t, there is room for you. The profit in what is is in the use of what isn’t.”
+“30 spokes meet in the hub. Where the wheel isn’t is where it’s useful. Hollowed out clay makes a pot. Where the pot’s not is where it’s useful. Cut doors and windows to make a room. Where the room isn’t, there is room for you. The profit in what is is in the use of what isn’t.”
 
 ### Audrey Tang:
 This is one of the more abstract clauses from the Tao Te Ching, but to me, this is why I call the office the Public Digital Innovation Space, meaning that it’s literally space where people can try out various new thoughts.

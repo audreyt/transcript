@@ -70,7 +70,7 @@ We ended up localizing and introducing folks onto the Sandstorm productivity sui
 It’s all free, as in freedom software. It’s also audited independently by our Cybersecurity Department so that all the government people, if they have an email address ending in gov.tw, they can automatically get an account, and not just using the apps that we curated but they could also write and upload their own apps, because it’s all Sandbox.
 
 ### Audrey Tang:
-It’s a app ecosystem internally in the enterprise, which includes all the share document and spreadsheet and whatever. We try to scale our way of working, not just with the PDIS people, but also to all the different ministries.
+It’s an app ecosystem internally in the enterprise, which includes all the share document and spreadsheet and whatever. We try to scale our way of working, not just with the PDIS people, but also to all the different ministries.
 
 ### Audrey Tang:
 There’s 32 ministries in the central government here, and we ask each of them to appoint one person -- now maybe two or three per ministry now. There are 40 people now called participation officers or POs.

@@ -37,7 +37,7 @@ What is the impact that you see in your work, and on the society of Taiwan, of a
 The most powerful impact that they have, and what can be fixed? What can be improved?
 
 ### Audrey Tang:
-For the sake of brevity, I’m just going say &quot;code&quot;, but when I say &quot;code&quot;, please think &quot;algorithm&quot;.
+For the sake of brevity, I’m just going to say &quot;code&quot;, but when I say &quot;code&quot;, please think &quot;algorithm&quot;.
 
 ### Audrey Tang:
 Code is having a large impact, of course, because code is like law, but it’s not a law of text. It is a law of physics.

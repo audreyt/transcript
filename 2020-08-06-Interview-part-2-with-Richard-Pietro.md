@@ -236,7 +236,7 @@ There’s always a outside game. The g0v people, Ronnie Wang, to be precise, fro
 The point here is that because we are the resistance, there is always a outside game. If people do not publish, for example, the campaign donation expenditure for a while, the control branch only offers looking at it and then photocopying with a watermark.
 
 ### Audrey Tang:
-The g0v people, what they did is that they scan everything and did a open CV, computer vision, splitting of it into individual cells and then ask people to play CAPTCHA and complete the OCR. They call it otaku character recognition. People would just type in all the digitization of the campaign expenditure and so on.
+The g0v people, what they did is that they scan everything and did an open CV, computer vision, splitting of it into individual cells and then ask people to play CAPTCHA and complete the OCR. They call it otaku character recognition. People would just type in all the digitization of the campaign expenditure and so on.
 
 ### Audrey Tang:
 The control branch of course said, “You know, you can’t be sure that you’re completely, 100 percent correct in digitizing. I mean, you say each cell has three reviewers or whatever, but you can’t be sure. The g0v people is like, “Yeah, so that’s why you should publish the structured data yourself.”

@@ -1,4 +1,4 @@
-# 2026-03-04 BW Column: Good enough gardeners must harness AI teams in the Year of the Horse
+# 2026-03-05 BW Column: Good enough gardeners must harness AI teams in the Year of the Horse
 
 ### Audrey Tang:
 

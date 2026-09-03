@@ -92,7 +92,7 @@ So, there's really two different risk modes, each driven by a different incentiv
 
 So, I talked about this yesterday. I call it data as soil, not data as oil, right? Because for oil, there's no local context. The AI doesn't really read the room, read the air, as you say here in Japan.
 
-And so what reading the air means is that the protagonist is not our like three persons, but rather the relationship the three edges right between us so a AI joining a group of three if they make our relationship better then it's reading the air. But if an AI just attached to me, another AI attached to you, another AI attached to the editor, try to earn our subscription, then they pull us apart from each other right into the oil. That's not reading the air, not reading the room.
+And so what reading the air means is that the protagonist is not our like three persons, but rather the relationship the three edges right between us so an AI joining a group of three if they make our relationship better then it's reading the air. But if an AI just attached to me, another AI attached to you, another AI attached to the editor, try to earn our subscription, then they pull us apart from each other right into the oil. That's not reading the air, not reading the room.
 
 So, I think trust through data soil means to use AI systems that are loyal only to the relationships of particular communities. I believe that this is what I call technocommunitarianism, and it's a third way beyond just being driven by engagement or driven by addiction.
 

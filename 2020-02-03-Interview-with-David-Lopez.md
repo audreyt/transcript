@@ -811,7 +811,7 @@ We provide some personal data to our assistants, but we expect them to keep that
 This idea of a fiduciary relationship – data as relationship, not data as transaction – highlights the idea of the social sphere, of the social-sector-first data approach. I think this is playing out not only on data, but many other aspects around technology.
 
 ### Audrey Tang:
-You can always see a more technologists-oriented view that wanted to capitalize on resources and then a more relational view that puts these ideas of technologies as a relationship-building material, a infrastructure for relationships rather than infrastructure for transactions.
+You can always see a more technologists-oriented view that wanted to capitalize on resources and then a more relational view that puts these ideas of technologies as a relationship-building material, an infrastructure for relationships rather than infrastructure for transactions.
 
 ### Audrey Tang:
 This relation-versus-transaction view is going to continue. This debate is going to continue for the next decade, but I’m firmly in the relational view when it comes to technology. I think that is how the society can make the technologies evolve better to fit the need of the society.

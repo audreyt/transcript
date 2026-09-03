@@ -52,7 +52,7 @@ Would you mind if I closed that door? This is not making this a closed-door meet
 Perfect. That’s what we’re pushing. We’ve consolidated all of our views on fisheries into one set of 10 recommendations for transparency, and they’re in there. We have them also…
 
 ### Audrey Tang:
-Is there a electronic copy?
+Is there an electronic copy?
 
 ### Max Schmid:
 Yes. We’ll send you that.

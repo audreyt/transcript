@@ -567,7 +567,7 @@ Thank you.
 After you left school and became an entrepreneur and became a professional coder, you went to work also for Apple and worked, for example, on Siri. I was wondering, does the original anarchist, almost libertarian ethos of the hacking community... isn't that in opposition, somewhat, to going to join a big Silicon Valley tech giant?
 
 ### Audrey Tang:
-My role at Apple, as an independent contractor or a open source community consultant, is a little bit like my current role as minister at large with open innovation as the mandate. That is to say I was at a Lagrange point with the community at one side and a huge corporation at the other, just like as my position now is between a civil society organization on one side and a huge state apparatus on the other. I always stress that I'm not working for either, I'm working with both.
+My role at Apple, as an independent contractor or an open source community consultant, is a little bit like my current role as minister at large with open innovation as the mandate. That is to say I was at a Lagrange point with the community at one side and a huge corporation at the other, just like as my position now is between a civil society organization on one side and a huge state apparatus on the other. I always stress that I'm not working for either, I'm working with both.
 
 Similarly in Apple's work, I mostly work with existing open source communities at a time Apple is also having a conversation, although I'm not directly responsible for it but, open sourcing say Swift, the next generation computer language, or bringing in the FreeBSD community which I consider one of my home communities into the Apple developer ecosystem.
 

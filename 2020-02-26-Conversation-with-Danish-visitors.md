@@ -158,10 +158,10 @@ There’s no digital ministry, so it’s like negative one-year-old, I’m sure.
 > (laughter)
 
 ### Audrey Tang:
-My office, which is very interesting, because I’m one of the nine horizontal minster. There’s 32 vertical ministers with ministries or councils, but each of them are like pillars. There’s a top-down commanding structure. Above the 32, or politically correctly in parallel with the 32, there’s 9 ministers that work on cross-ministerial issues alone.
+My office, which is very interesting, because I’m one of the nine horizontal minister. There’s 32 vertical ministers with ministries or councils, but each of them are like pillars. There’s a top-down commanding structure. Above the 32, or politically correctly in parallel with the 32, there’s 9 ministers that work on cross-ministerial issues alone.
 
 ### Audrey Tang:
-The nine, I am one of the nine, have a office where they can get people from any ministry, because digital transformation concerns all ministries. My office doesn’t put a restriction of which ministry can send delegates to my office. Of course, for HR reasons we at one time only allow one person per ministry. Theoretically I can have 32 colleagues that are ministerial delegates.
+The nine, I am one of the nine, have an office where they can get people from any ministry, because digital transformation concerns all ministries. My office doesn’t put a restriction of which ministry can send delegates to my office. Of course, for HR reasons we at one time only allow one person per ministry. Theoretically I can have 32 colleagues that are ministerial delegates.
 
 ### Audrey Tang:
 In reality, I have 20 friends, but they still only report to their minister, and their minister pays them salary. The only requirement for working here is to work out loud. Meaning that whether they’re section chiefs, or whether they’re director generals, they need to share with other ministerial delegates what they’re working on, and co-create possible mechanisms.
@@ -513,7 +513,7 @@ What we’ve done is to put it on public notice, meaning that a independent jour
 Instead of by taking anything down, we make sure that there is a public notice attached to such social media activities. That is how we don’t encroach the media freedom but instead just expose the propaganda for what it is. We counter such rumor also with humor.
 
 ### Audrey Tang:
-Each ministry has a team of comedians that can roll out within an hour funny memes, Internet memes I mean, whenever there is a trending rumor about their purview. For example, there was a rumor a few months ago that says, “Perming your hair will be subject to $1 million fine starting next week,” which is not true. Within a hour, the Prime Minister rolls out this memetic GEM.
+Each ministry has a team of comedians that can roll out within an hour funny memes, Internet memes I mean, whenever there is a trending rumor about their purview. For example, there was a rumor a few months ago that says, “Perming your hair will be subject to $1 million fine starting next week,” which is not true. Within an hour, the Prime Minister rolls out this memetic GEM.
 
 ### Audrey Tang:
 A younger version of him says, “I may be bald now, but I will not punish people with hair.” Then a small friend says, “What we’ve done is introducing a labeling requirement for hair products starting 2021.” Then the Prime Minister as he looks now says, “However, if you keep perming your hair many time a week, it will not damage your pocket. It will damage your hair. It may look like this.”
@@ -695,7 +695,7 @@ We look at the participation ideas from the Presidential Hackathon, whether ther
 We look at the quadratic voting, which is a new voting method that we invite everybody with a join.gov.tw account, authenticated by their SMS numbers, to spend 99 tokens to vote on more than 100 Presidential Hackathon ideas, to select the top 20.
 
 ### Audrey Tang:
-We look at their voting records to see, for example, if they really like the idea of water resource management through automated boxes that are very cheap – less than â¬100 – that can report water pollution if you just install it in the pathways, and that’s a really good idea.
+We look at their voting records to see, for example, if they really like the idea of water resource management through automated boxes that are very cheap – less than €100 – that can report water pollution if you just install it in the pathways, and that’s a really good idea.
 
 ### Audrey Tang:
 Maybe you want to vote it one vote, which will cost you one point, or you vote two votes, costs you four points. Three costs nine. Basically, with 99 points, you can only vote 9, not 10, votes, because it’s quadratic.
@@ -1022,13 +1022,13 @@ That’s why we don’t have a debate. We already know that these are persistent
 Yeah. Where do you as digital minister stand on the face recognition cameras?
 
 ### Audrey Tang:
-In Taiwan, because, as I said, the social sector has higher legitimacy then the public sector, so the social sector are very friendly.
+In Taiwan, because, as I said, the social sector has higher legitimacy than the public sector, so the social sector are very friendly.
 
 ### Audrey Tang:
 For example, when the Taiwan Railroad Corporation tried to use facial recognition to detect people who step too close to the track, which is a noble cause, I’m sure, then everybody did a social sanction \[laughs\] against that and advocates instead that they use infrared or some other non-face-recognizing technologies.
 
 ### Audrey Tang:
-Although we have a pretty good data protection act and its getting GDPR adequacy in a year or so, there’s still no good use case of facial recognition aside from one very specific case, which is the e-Gate when you get into the airport and out of the airport. The biometric is stored in your passport. It’s not stored on the cloud.
+Although we have a pretty good data protection act and it's getting GDPR adequacy in a year or so, there’s still no good use case of facial recognition aside from one very specific case, which is the e-Gate when you get into the airport and out of the airport. The biometric is stored in your passport. It’s not stored on the cloud.
 
 ### Audrey Tang:
 That camera only takes your picture and not everybody else because that’s how e-Gate is designed. That specific case, we have a law authorizing that use of facial recognition. Everybody think it’s a pretty good deal, actually. If you don’t opt in, you can just go into the human inspection. We’re not forcing you to do biometrics when it goes to e-Gate.
@@ -1357,7 +1357,7 @@ And Facebook, Snapchat…
 I’m not a good comedian so I don’t quite do Snapchat or TikTok for that matter which has additional problems, but I do Twitter. Twitter is, I think, very, very powerful in the sense that we can communicate across different jurisdictions very easily. It’s great for diplomacy is what I’m saying.
 
 ### Audrey Tang:
-You can see a lot of my Twitter game basically talking about not only poetry, which I just shared with you, which is my job description that is pinned onto here, but actually a lot of interactions, for example, with a certain Pirate, ZdenÄk HÅib, mayor of Prague city. He visited the Social Innovation Lab and really likes it. His city is now a sister city with Taipei city.
+You can see a lot of my Twitter game basically talking about not only poetry, which I just shared with you, which is my job description that is pinned onto here, but actually a lot of interactions, for example, with a certain Pirate, Zdeněk Hřib, mayor of Prague city. He visited the Social Innovation Lab and really likes it. His city is now a sister city with Taipei city.
 
 ### Audrey Tang:
 You can see some back and forth about me praising pangolins, which is his favorite animal. Also interacting with prominent journalists like “The Financial Times” journalist Rana Foroohar, which covered our work, and also showcased my DC trip. Also, a very interesting video that I shared in the CSIS which is interesting. Maybe I can play the video. It’s very short. It’s in Twitter-land anyway.

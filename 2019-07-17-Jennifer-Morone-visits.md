@@ -326,7 +326,7 @@ I would like to go, because we were talking about doing something similar.
 I’ll be here as well. It will make sense to basically just feel the flow of this bimonthly ritual. It’s been going on for 35 gatherings, and each one brings roughly one-third of new people in. They just pitch some new projects, and some of them actually become social enterprises.
 
 ### Audrey Tang:
-Watch Out is one of the prime example that grew out of a g0v hackathon. One of my friends in Watch Out Is actually trained as a artist, but I think Rhode Island or something. He now works in Watch Out as a person who can design, a person who can facilitate, and so on.
+Watch Out is one of the prime example that grew out of a g0v hackathon. One of my friends in Watch Out Is actually trained as an artist, but I think Rhode Island or something. He now works in Watch Out as a person who can design, a person who can facilitate, and so on.
 
 ### Audrey Tang:
 It’s thanks to the larger, the social connection that makes it you position art as a social change instrument rather than art as art itself.
@@ -386,7 +386,7 @@ Previously, we only roll out policies and products and ask people’s feedback, 
 Everyone in the population?
 
 ### Audrey Tang:
-Yeah, anyone who complained, because otherwise, we don’t know who they are. \[laughs\] If they complain, they get a invitation automatically to join the co-creation meeting. A co-creation meeting of course is standard design thinking, user journey, the usual sort, post-it notes.
+Yeah, anyone who complained, because otherwise, we don’t know who they are. \[laughs\] If they complain, they get an invitation automatically to join the co-creation meeting. A co-creation meeting of course is standard design thinking, user journey, the usual sort, post-it notes.
 
 ### Audrey Tang:
 After co-creation for four workshops, even people who are very toxic online, once they enter this workshop, become not really best friend but at least they can live with the public servants. They collectively delivered the new tax filing experience which used to look like this, and now looks like this.

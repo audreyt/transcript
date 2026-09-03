@@ -137,7 +137,7 @@ To register a new account in PTT if you're not a National Taiwan University stud
 
 Then, the interface, instead of spiraling out of control with personal attacks, swords, and so on, sometimes our design is to take away their reply to individual capabilities. You can reply to this general idea, this rough consensus, this entire pro or contra column of thoughts, but you cannot name names. There's no individual reply. That also helps to render the trolls not useful.
 
-When counting for rough consensus, we count collaboration across diversity. If you invite a lot of people who think exactly like you in such a interface, it may let you feel good, I guess, but it doesn't increase the chance of your ideas being put into the agenda of the collaborative meeting.
+When counting for rough consensus, we count collaboration across diversity. If you invite a lot of people who think exactly like you in such an interface, it may let you feel good, I guess, but it doesn't increase the chance of your ideas being put into the agenda of the collaborative meeting.
 
 We only count the degree in which you convince people who hold very different views from your own — collaboration across diversity. That is the second thing, CAD, collaboration...
 

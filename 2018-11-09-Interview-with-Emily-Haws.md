@@ -78,7 +78,7 @@ Without those digital technology enablers, we will think of them as vulnerable p
 We have rough sleepers, people who are homeless. We have social workers. We have people of indigenous lands and things like that to come visit me and ask me to visit their lands also. We introduce digital technologies like these self-driving tricycles in a way that helps the elderly, for example, in their transportation issues.
 
 ### Audrey Tang:
-It always exists in a open way, meaning that if the elders and the community don’t like particularly how it flashes red when they feels that it doesn’t understand the situation, they can always change that very easily without encumbered by patents and copyright.
+It always exists in an open way, meaning that if the elders and the community don’t like particularly how it flashes red when they feels that it doesn’t understand the situation, they can always change that very easily without encumbered by patents and copyright.
 
 ### Audrey Tang:
 The second is that it’s always introduced in response to a real social need so it’s not colonial. It’s not some huge corporation wanting to use people here to experiment, rather a response to what people really needs here, which is a increasingly elderly population that needs transportation and a domestic animal that follows them to carry things, and things like that.
@@ -136,7 +136,7 @@ It’s called accessibility standard. It’s either through voice synthesis, cap
 If a vendor says that, &quot;I can only deliver the service to you through like PDF files or scans,&quot; or whatever, that is useful to humans but it’s not structured for machine learning. Then they have to charge extra, a lot more money to build a machine-to-machine interface to \[inaudible 11:42\] API, then we deem them as unprofessional, and they could be disqualified from the procurement process for saying so.
 
 ### Audrey Tang:
-Basically, all our new and revised procurement projects need to include interface, not for people to see only but also interface for other machines. The end result is that it could be a old system, but it’s OK because we can do a separate pilot procurement that puts a new paint on it, that delivers it through chatbot, or through virtual reality, or through whatever, without affecting the old system underneath.
+Basically, all our new and revised procurement projects need to include interface, not for people to see only but also interface for other machines. The end result is that it could be an old system, but it’s OK because we can do a separate pilot procurement that puts a new paint on it, that delivers it through chatbot, or through virtual reality, or through whatever, without affecting the old system underneath.
 
 ### Audrey Tang:
 At least it has a circuit that other people can plug into, but they cannot refuse to build a circuit. I think that is one concept that when I talk with the Digital Service and Digital Academy people, they really appreciate and they might look into incorporating that into Canada’s procurement.

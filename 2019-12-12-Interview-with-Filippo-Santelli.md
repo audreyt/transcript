@@ -660,7 +660,7 @@ Yeah, good point. For example, with the AIT, we talk about the specific case lik
 Sorry, AIT?
 
 ### Audrey Tang:
-The American in Taiwan, de facto US embassy. This is for diplomacy. We ask are there any specific measures that you think the US or Taiwan can do to promote Taiwan’s role in the global community. We use a AI listening system so that people see both their commonalities but also the divisions.
+The American in Taiwan, de facto US embassy. This is for diplomacy. We ask are there any specific measures that you think the US or Taiwan can do to promote Taiwan’s role in the global community. We use an AI listening system so that people see both their commonalities but also the divisions.
 
 ### Audrey Tang:
 There is one statement that divides the groups in half.
@@ -1046,7 +1046,7 @@ It’s very rare that NCC takes actions against end-user devices. NCC mostly say
 For end-user devices the only thing I remember now is they’re at the moment talking to Huawei, because their phone, through a software upgrade, lists Taiwan as a republic of citizens as “Taiwan, China,” and NCC would like Huawei to revert back to the old description, which is just Taiwan.
 
 ### Audrey Tang:
-Huawei is – far as I understand – still working on that, and so for this period the Huawei devices carrying the new software is banned, but that is, again, because of a issue that NCC has purview. It is not targeting the future of the company Huawei. It is about the delineation of Taiwan as a republic citizens and not as “, China.”
+Huawei is – far as I understand – still working on that, and so for this period the Huawei devices carrying the new software is banned, but that is, again, because of an issue that NCC has purview. It is not targeting the future of the company Huawei. It is about the delineation of Taiwan as a republic citizens and not as “, China.”
 
 ### Filippo Santelli:
 Is there a brain drain from Taiwan to Mainland China?
@@ -1067,7 +1067,7 @@ You’re not afraid by the fact that some talents, for example, in the high tech
 If you look at the actual flow of, for example, graduate people or even undergrads, the PRC is not their top 3 – I don’t think it’s even top 10 – choice. There, of course, is people moving abroad, but the PRC is not on the radar.
 
 ### Audrey Tang:
-Even if people move to the EU, to the US, to Japan, to Australia, and so on, they do come back after a while. Talent circulation is very healthy, and as a open society we welcome any culture of scientific and education exchanges. As I said, PRC is not even – I’m pretty sure – it’s not on the top five.
+Even if people move to the EU, to the US, to Japan, to Australia, and so on, they do come back after a while. Talent circulation is very healthy, and as an open society we welcome any culture of scientific and education exchanges. As I said, PRC is not even – I’m pretty sure – it’s not on the top five.
 
 ### Filippo Santelli:
 Do you think that this growing PRC will exert more and more political and economical pressure on Taiwan?

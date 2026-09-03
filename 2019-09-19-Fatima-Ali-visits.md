@@ -443,7 +443,7 @@ That’s right.
 Through this, you’re really getting every single person’s input. Do you have anything online for people to contribute?
 
 ### Audrey Tang:
-Yes. Once the local people set the agenda, we have a AI-powered conversation engine which we’re using right now to discuss not just US-Taiwan diplomatic relationship, but also, domestically, about how to improve our hiking experience so we can balance the need for people who like mountains, like Councilor Yeh here…
+Yes. Once the local people set the agenda, we have an AI-powered conversation engine which we’re using right now to discuss not just US-Taiwan diplomatic relationship, but also, domestically, about how to improve our hiking experience so we can balance the need for people who like mountains, like Councilor Yeh here…
 
 > (laughter)
 

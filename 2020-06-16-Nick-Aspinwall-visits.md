@@ -271,7 +271,7 @@ Then the first thing that has to happen is they know what Taiwan is, what it has
 That’s why open technologies work. Their civic sector can just download our code from GitHub and start setting up distribution centers even without states’ approval. That’s how our occupy movement, the Sunflower Movement basically just export the entire software stack to the Umbrella Movement to Hong Kong.
 
 ### Audrey Tang:
-It’s not because we have an official tie with Hong Kong. \[laughs\] Somehow it says, “Oh, we see you’re going to do an occupy — Let’s do a MOU.” Of course, it didn’t happen like that. Is the Hong Kong activist look at what happened in Taiwan, learned about the techniques, and then improving it until it’s now entirely leaderless.
+It’s not because we have an official tie with Hong Kong. \[laughs\] Somehow it says, “Oh, we see you’re going to do an occupy — Let’s do an MOU.” Of course, it didn’t happen like that. Is the Hong Kong activist look at what happened in Taiwan, learned about the techniques, and then improving it until it’s now entirely leaderless.
 
 ### Audrey Tang:
 In Taiwan, we still have like 20 leaders, but in Hong Kong now, 20,000 leaders. What I’m trying to say is that we don’t see that this is branded Taiwan. You can white label the spirit of social innovation. That’s to the best because for it to gain acceptance it need to have a social incentive that align with the local norm.
@@ -681,7 +681,7 @@ Even my old friends circle of “Magic: The Gathering” players.
 Oh, really?
 
 ### Audrey Tang:
-They’re talking about that because the “Magic: The Gathering - Wizards of the Coast” bond that their earliest cards that refer to racial injustice and prejudices.
+They’re talking about that because the “Magic: The Gathering - Wizards of the Coast” banned their earliest cards that refer to racial injustice and prejudices.
 
 ### Nick Aspinwall:
 Oh, wow. They’re…
@@ -767,7 +767,7 @@ I know that this can be a very…
 …a future of Internet.
 
 ### Audrey Tang:
-…but it is a issue. I’m actually working with the new Council of Ocean Affairs, the COA on the new ocean policies. Just like the opening up the mountain policy, which we worked on last year. The idea, again, is using technology to empower people who wants to build a norm of non-abusive relationship. Both with indigenous people and their cultures, but also with the environment itself.
+…but it is an issue. I’m actually working with the new Council of Ocean Affairs, the COA on the new ocean policies. Just like the opening up the mountain policy, which we worked on last year. The idea, again, is using technology to empower people who wants to build a norm of non-abusive relationship. Both with indigenous people and their cultures, but also with the environment itself.
 
 ### Audrey Tang:
 That translates in the sea in the ocean context as, no marine debris or no over fishing or just sustainability in general. I think the more people who care about these, the less abuse we will see. How do we get more people care about this? Well, you do not restrict them from going to the oceans. \[laughs\]

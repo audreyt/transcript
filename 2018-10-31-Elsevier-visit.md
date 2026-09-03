@@ -782,7 +782,7 @@ The data is out in the open so that everybody in the word, even though it’s Ta
 In addition to the Taiwan cases which I talked about, we’re also working with NZ to make sure that our civil IoT for water pipeline, like pressure and flow and so on, can be used to detect water leakage using machine learning.
 
 ### Audrey Tang:
-They didn’t use to have a water shortage problem, but now because of climate change they do, and so they’re partnering with us for three months to codevelop a AI algorithm that works for both countries, and I think this is a new kind of diplomacy. We call this warm power. Not just sharp power, warm power, in the sense that people can share easily.
+They didn’t use to have a water shortage problem, but now because of climate change they do, and so they’re partnering with us for three months to codevelop an AI algorithm that works for both countries, and I think this is a new kind of diplomacy. We call this warm power. Not just sharp power, warm power, in the sense that people can share easily.
 
 ### Michiel Kolman:
 It’s the old science diplomacy.

@@ -375,7 +375,7 @@ When that happens, this is the best time to take all the sides and listen to oth
 Oh good. To practice feeling empathy, do children have to see more people, like outside of school or in different ages?
 
 ### Audrey Tang:
-No, it’s about the quality of listening. For example, when you interview me, you let me speak my mind. Anyone can do that, this is basic journalism training. You can ask a open question, and you say nothing.
+No, it’s about the quality of listening. For example, when you interview me, you let me speak my mind. Anyone can do that, this is basic journalism training. You can ask an open question, and you say nothing.
 
 ### Audrey Tang:
 The other side will speak, for example, for five minutes, and you don’t distract or disrupt them, you just nod your head and check your understanding. Then, after five minutes, sometime you will say, “Um, do you mean this?” or something, so you check you have correctly understood my words.

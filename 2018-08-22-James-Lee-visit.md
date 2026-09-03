@@ -471,7 +471,7 @@ A lot of freedom into the children, even at the junior high school, but even mor
 The second one being interaction or communication skills with people of different background, different ethnicity, different discipline. Basically, identifying oneself as a better communicator and instead of just being fixed in one discipline.
 
 ### Audrey Tang:
-As part of that, we’re also changing the higher education so that you’re not majoring in anything in the four years. That’s totally OK. It could take up to 10 years. You can major in one thing and go out to make some business or join a NGO, go back.
+As part of that, we’re also changing the higher education so that you’re not majoring in anything in the four years. That’s totally OK. It could take up to 10 years. You can major in one thing and go out to make some business or join an NGO, go back.
 
 ### Audrey Tang:
 It’s a back and forth relationship between the student and higher education also. People can switch their majors anytime so that people are not fixated on particular tracks. That’s the cross-discipline communication character.

@@ -112,7 +112,7 @@ The culture isn’t there, to name just one, which is also unfair to Taiwanese c
 It would be like the forced adaptation between two cultures, which nobody likes. That’s part of the definition. Now the Asia SV plan, as we know, has two main branches. One is the Internet of Things, which still needs a field to pass in, it still needs LoRa, IoT‑based spectrums, and other infrastructures.
 
 ### Audrey Tang:
-It also has a startup promotion, and is a small culture. It’s about taking risks. It’s about making it easier to sell new commodities, about being able to securitize intentional assets, to name just a few. None of these are Taoyuan specific. These are the non‑client specific parts to start an ecosystem part.
+It also has a startup promotion, and is a small culture. It’s about taking risks. It’s about making it easier to sell new commodities, about being able to securitize intangible assets, to name just a few. None of these are Taoyuan specific. These are the non‑client specific parts to start an ecosystem part.
 
 ### Audrey Tang:
 While IoT, it’s not how you specify it, but it must be specific to a region. Taoyuan is just one of the first pilot sites. That was a redefinition. Our program so far is that I just received the Asia SV committee formation plan.
@@ -501,7 +501,7 @@ I did not work with the Apple car team \[laughs\]. It was one of the motivations
 If you have experimental sandbox, where you say, &quot;We don’t regulate anything as long as you do what you claim in your business plan, but it has to be risk controlled,&quot; then this, we can do.
 
 ### Audrey Tang:
-To scale this out to say, &quot;By default, we are going to regulate, and if something happens, we go back and punish the people who caused this,&quot; it’s politically very not very feasible to introduce this kind of wide range trial first way, which is part of the beauty of the Asia SV plan, is that the region can be arbitrarily large. It can be Taiwan if you manage to convince the consensus of the Taiwan people.
+To scale this out to say, &quot;By default, we are going to regulate, and if something happens, we go back and punish the people who caused this,&quot; it’s politically not very feasible to introduce this kind of wide range trial first way, which is part of the beauty of the Asia SV plan, is that the region can be arbitrarily large. It can be Taiwan if you manage to convince the consensus of the Taiwan people.
 
 ### David Katz:
 As a living lab.
@@ -570,7 +570,7 @@ Yeah.
 Mayor Cheng is very open minded. I’m sure that he’s not opposed to other places like Kaohsiung. Kaohsiung is doing a lot, actually, autonomous vehicles. I think that this October they are going to have one of the autonomous vehicles, in a point‑to‑point fixed route, but still starting to run.
 
 ### Audrey Tang:
-By opening up the pilot sites to selected other cities instead of Taiwan, that also gives Taiwan a lot of...Because frankly speaking, Taiwan’s IT budget before the Asia SV plan does not compare to Taipei’s of Kaohsiung’s.
+By opening up the pilot sites to selected other cities instead of Taiwan, that also gives Taiwan a lot of...Because frankly speaking, Taiwan’s IT budget before the Asia SV plan does not compare to Taipei’s or Kaohsiung’s.
 
 ### Audrey Tang:
 If Taipei, or Kaohsiung, or Taitung, or Tainan has something that’s already proven using their existing IT budget, then it’s better for Taiwan, because then they can scale it, being a relatively less populace area, or things like that. I’m sure it’s pretty big for them also.

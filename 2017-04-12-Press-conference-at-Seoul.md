@@ -25,7 +25,7 @@ I’m very happy also that our Ministry of Foreign Affairs considered it is wort
 For the government to trust people more and to listen to people’s ideas and feelings, and have people listen to each other’s feelings and experiences. I will talk about those, the technology and the culture to enable this open government.
 
 ### Question:
-I have two questions. As the digital minister, what area are you working on, and what kind of policies? The second question is, as a public servant, or a IT policymaker, you said that you were focusing on the open government, so what could be the most important or you have considered most?
+I have two questions. As the digital minister, what area are you working on, and what kind of policies? The second question is, as a public servant, or an IT policymaker, you said that you were focusing on the open government, so what could be the most important or you have considered most?
 
 ### Audrey Tang:
 Great questions. I’ll answer separately, the answers, one by one. As the digital minister, my main work is using digital technologies to transform the way the public service works. Already we see mobile technology, artificial intelligence transforming not only the private sector on how they structure their workflow, but also the civil society.
@@ -76,7 +76,7 @@ In one of those core concerns of the new curriculum, we put students’ autonomy
 It is very important that they learn how to learn, and learn how to collaborate, not only with other human being, but also with artificial intelligences as they are learning. We’re designing information technology and media literacy as one of the core concerns. Not as a class.
 
 ### Audrey Tang:
-Not something that you can take four of five hours a week, or anything, but require that all the curriculum and textbook makers to integrate this into every single discipline, so that they learn the discipline in a way that makes use of information technology while keeping critical thinking and media literacy as their learning attitude, so they can decide for themselves.
+Not something that you can take four or five hours a week, or anything, but require that all the curriculum and textbook makers to integrate this into every single discipline, so that they learn the discipline in a way that makes use of information technology while keeping critical thinking and media literacy as their learning attitude, so they can decide for themselves.
 
 ### Question:
 Where did you work before?

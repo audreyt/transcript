@@ -270,7 +270,7 @@ This is very effective, but because of that, there was very confusing accounts o
 We start rationing it out through the pharmacies, and to the more than 6,000 pharmacies they receive a fixed amount of masks every day. They can sell it to anyone presenting their national health card. We have also a single-payer national health system here so that everybody who show their card can collect at a moment, if you’re adult, you can collect every two weeks nine medical masks.
 
 ### Audrey Tang:
-If you’re a child, every two weeks 10 medical mask, and you can see the stock level of that pharmacy on your phone depleting by 9 or 10 on the adult or child column every three minutes. Unlike other jurisdictions, where the publishing of statistics information every day is normal, we make sure that we publish every three minutes in a distributor ledger manner so that it’s mirrored, it’s copied to more than 140 tools.
+If you’re a child, every two weeks 10 medical mask, and you can see the stock level of that pharmacy on your phone depleting by 9 or 10 on the adult or child column every three minutes. Unlike other jurisdictions, where the publishing of statistics information every day is normal, we make sure that we publish every three minutes in a distributed ledger manner so that it’s mirrored, it’s copied to more than 140 tools.
 
 ### Audrey Tang:
 If your visibility or eyesight is not that good, you switch to chatbot or a voice assistant or something that is more friendly to people with blindness as well as people speaking different languages and so on.

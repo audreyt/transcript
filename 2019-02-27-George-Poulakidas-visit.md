@@ -227,13 +227,13 @@ It doesn’t really matter for them where to operate, and so the NDC will now sa
 If, as I said, they want to experiment with some technology that makes reinterpretation or relaxation of laws, this is the place where the sandbox system can now say, &quot;Oh, for the next year, let’s just try this out, and we’ll not rule you based on the existing transportation rules or whatever other rules.
 
 ### Audrey Tang:
-&quot;We’ll see whether this regulation that you propose works good on your locality,&quot; and so on. Both the talents that’s being match maked across the island and also the regulations that may need to be relaxed, is in the same package, and then they implement that throughout the year.
+&quot;We’ll see whether this regulation that you propose works good on your locality,&quot; and so on. Both the talents that’s being matched across the island and also the regulations that may need to be relaxed, is in the same package, and then they implement that throughout the year.
 
 ### Audrey Tang:
 It’s very different from previous regulatory schedule because you can apply whenever, and it goes on in a continuous, democratic way. It goes on like forever. \[laughs\]
 
 ### Audrey Tang:
-Around end of year, every year, we have a expo where we share the cases of that year, and also ask for collective feedback to improve the program, and also maybe increase the 10 percent to 15 or 12 percent the next year.
+Around end of year, every year, we have an expo where we share the cases of that year, and also ask for collective feedback to improve the program, and also maybe increase the 10 percent to 15 or 12 percent the next year.
 
 ### George Poulakidas:
 The percent of...
@@ -707,7 +707,7 @@ The device, I think, harnessed that individuation sense in ourselves that was ke
 > (laughter)
 
 ### Audrey Tang:
-It harnessed the power from both sides into something that is iTunes, and iPhone, and everything, that that becomes a sensation. That is the kind of norm making that I allude to when I talk about interventions that encourage effective partnerships, in a sense that the popular will is already there, is kept in check by a out of date system.
+It harnessed the power from both sides into something that is iTunes, and iPhone, and everything, that becomes a sensation. That is the kind of norm making that I allude to when I talk about interventions that encourage effective partnerships, in a sense that the popular will is already there, is kept in check by an out of date system.
 
 ### Audrey Tang:
 Instead of destroying, or protesting, or attacking that old system, a new system is introduced that just makes the old system obsolete. The CDs went obsolete I think in just less than a decade after iPod gets introduced. That kind of phase change, I think, is what I’m looking for.

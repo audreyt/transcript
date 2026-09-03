@@ -127,7 +127,7 @@ Meaning that if you make sure that everybody understand the underlying science �
 Nor any strict criminal penalties, because people understand the underlying science, and they can contribute their own innovations to the furthering of those scientific principles. We’ve never had to rely on any of those totalitarian measures that you just mentioned.
 
 ### Audrey Tang:
-We just basically relied on the civil society to understand the importance of crucial technologies, such as soap – a very crucial technology – and the design of incentive of medical mask. For example, building it is something that protects yourself, because it reminds you to wash your hands properly and not to touch your face.
+We just basically relied on the civil society to understand the importance of crucial technologies, such as soap – a very crucial technology – and the design of incentive of medical mask. For example, billing it as something that protects yourself, because it reminds you to wash your hands properly and not to touch your face.
 
 ### Audrey Tang:
 That enabled, in turn, a small portion in a large crowd who wear masks to remind the other people to wear masks to appeal to their selfish interests of protecting their own health and caring for each other, instead of a purely altruistic incentive design, which would not work, unless a majority of people in a room already wore a mask.

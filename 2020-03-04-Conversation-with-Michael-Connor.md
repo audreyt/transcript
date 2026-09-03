@@ -126,7 +126,7 @@ No. I like meeting new people. I didn’t have any experience with Preciado. It�
 Cool. I’ll take a look at that video. We have a little bit of time to think about pairings. There’s a lot of people that are in the mix already. Is it OK if I email you when I have possible ideas…?
 
 ### Audrey Tang:
-No problem. I’ll be paired as a technologist or as a artist? \[laughs\]
+No problem. I’ll be paired as a technologist or as an artist? \[laughs\]
 
 ### Michael Connor:
 Yeah, as a technologist.

@@ -13,7 +13,7 @@ That’s right.
 The tables are slightly turned.
 
 ### Audrey Tang:
-\[laughs\] No, but this is not a interview or audition. \[laughs\] This is just Glen saying, “You know, Audrey, I think you should meet this interesting person.”
+\[laughs\] No, but this is not an interview or audition. \[laughs\] This is just Glen saying, “You know, Audrey, I think you should meet this interesting person.”
 
 ### Victoria Camblin:
 Very excited to have this conversation. If you want to tell me how to…If you have ideas on structuring a conversation, I can let you know what. I’ve spoken to Glenn, to Vitalik on Monday too.

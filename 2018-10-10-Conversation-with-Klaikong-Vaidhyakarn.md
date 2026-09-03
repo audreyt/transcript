@@ -275,7 +275,7 @@ To do this, you need to solve what we call &quot;wicked problems,&quot; or probl
 Civic tech brings a new player into this game, that is, the power of data and code. With data and code, previously you have to make trade-offs. Now, maybe you don’t have to make trade-offs anymore. For example, before, the first person to donate to a new NGO is at a disadvantage.
 
 ### Audrey Tang:
-Maybe the NGO does not deliver. Maybe not enough people support their cause. The campaign may not happen, so they waste at least a opportunity cost. Everybody else is free riders after a certain while. The early adopters cannot bootstrap a NGO very easily.
+Maybe the NGO does not deliver. Maybe not enough people support their cause. The campaign may not happen, so they waste at least an opportunity cost. Everybody else is free riders after a certain while. The early adopters cannot bootstrap an NGO very easily.
 
 ### Audrey Tang:
 Now, with civic tech, you can have crowdfunding. You can even have subscription-based crowdfunding. You can even have blockchains to support a token-based crowdfunding. Civic tech can make the formula, the incentive, different, so that people are more incentivized to participate, even on a early level, which is where, really, the social entrepreneurship needs the social resources.
@@ -346,7 +346,7 @@ Basically, it’s not like other cities don’t have the room. It’s just it us
 Your office, PDIS, what are the exactly role of the PDIS and how their role to support the social innovation, also the people participation?
 
 ### Audrey Tang:
-PDIS is the Public Digital Innovation Space. We’re not a office. We’re a space. We’re actually six offline space and about five online spaces. We’re literally just space. You’re now in PDIS, because here is one space of PDIS. The second floor of that building, the A9, I think, is also a space in PDIS. In the basement, for VR experiment, is also a space in PDIS.
+PDIS is the Public Digital Innovation Space. We’re not an office. We’re a space. We’re actually six offline space and about five online spaces. We’re literally just space. You’re now in PDIS, because here is one space of PDIS. The second floor of that building, the A9, I think, is also a space in PDIS. In the basement, for VR experiment, is also a space in PDIS.
 
 ### Audrey Tang:
 Just here in Social Innovation Lab, there are three spaces for PDIS. In the administration building in Zhongxiao East Road there’s also three space. There’s the Digital Minister’s office that is part of PDIS. There’s the office of the Chief Commissioner of National Development Council. She donated her office to be part of PDIS.

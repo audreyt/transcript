@@ -723,7 +723,7 @@ Yes.
 What about the Taiwan model do you think so far perhaps needs improvement, or what has to come next in this country to really build on what has happened?
 
 ### Audrey Tang:
-As I said, we have not actually run a election using this new model. We have been kind of cooking this model since 2017, but we cannot roll it out in the previous election because then it will be seen as an election manipulation effort. Then we announce it right after the previous election. This takes affect in the next one, and so we will of course make adjustments based on the actual data collected.
+As I said, we have not actually run an election using this new model. We have been kind of cooking this model since 2017, but we cannot roll it out in the previous election because then it will be seen as an election manipulation effort. Then we announce it right after the previous election. This takes affect in the next one, and so we will of course make adjustments based on the actual data collected.
 
 ### Audrey Tang:
 Before, the social media companies doesn’t even publish the data, so there is nothing to analyze, but now the situation is changing.

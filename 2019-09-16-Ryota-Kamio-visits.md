@@ -82,7 +82,7 @@ We support all social entrepreneurs, meaning people making innovations to empowe
 We have only one meeting room available, and the basement was flooded to the knees. Not a happy time. \[laughs\]
 
 ### Audrey Tang:
-In that time, we constantly talked to a bunch of social innovators around Taiwan and co-created this space for mutual benefit, and so not just for people in Taipei. I think the number one consensus was that we are to have a cafe, a open kitchen, a dedicated chef in a place where you can live stream the cooking to people. That’s the number-one priority.
+In that time, we constantly talked to a bunch of social innovators around Taiwan and co-created this space for mutual benefit, and so not just for people in Taipei. I think the number one consensus was that we are to have a cafe, an open kitchen, a dedicated chef in a place where you can live stream the cooking to people. That’s the number-one priority.
 
 ### Ryota Kamio:
 That space?
@@ -94,7 +94,7 @@ Yeah. That’s the cafe. It’s the cafe. The second priority is that it has to 
 The third thing is that because I was facilitating a conversation every week, and then seeing it’s such a good idea. I will stay here every week for office hours. I’m here in all Wednesdays obviously, because today is not a Wednesday, but it’s more for pre-book meetings.
 
 ### Audrey Tang:
-On Wednesdays, literally anybody can walk in and claim a chunk of my time and then talk. It’s a open space designed to host policy-making across sectors. Every other Tuesday or so, I tour around Taiwan to especially reach people who don’t have a high-speed rail station. It makes it harder for them to reach me.
+On Wednesdays, literally anybody can walk in and claim a chunk of my time and then talk. It’s an open space designed to host policy-making across sectors. Every other Tuesday or so, I tour around Taiwan to especially reach people who don’t have a high-speed rail station. It makes it harder for them to reach me.
 
 ### Audrey Tang:
 I talk to the elders, in both senses, in indigenous lands in the more rural areas, in offshore islands and so on. Because in Taiwan we have broadband as human right, no matter where you’re on the top of the Yu-Shan Jade Mountain or on the Pacific island of Dongsha, you have to make a visit for a second, acknowledge, “It’s not your problem. It’s my fault.”
@@ -162,7 +162,7 @@ Yeah, and other platforms where been actively engaging with social innovation he
 The easiest way is to participate in one of the g0v hackathons. They just had one in the Taipei City Council, of all places. There’s many city councils that are also g0v participants. They offer their workspace and invited everybody in.
 
 ### Audrey Tang:
-I think it’s just a idea that if you see something lacking from the public services, if something.gov.tw isn’t working, people are encouraged to offer better alternatives, something.g0v.tw, literally just a change in the URL. Then release it as open license to the commons.
+I think it’s just an idea that if you see something lacking from the public services, if something.gov.tw isn’t working, people are encouraged to offer better alternatives, something.g0v.tw, literally just a change in the URL. Then release it as open license to the commons.
 
 ### Audrey Tang:
 If the public service likes it, then it takes it back and maintain it for you. If the public service doesn’t like it, at least it form a social object that you can have a dialog on. That’s the basic idea. It’s just a meme, really. If you look at g0v.it, something is happening in Italy, and we certainly don’t have trademark on that.
@@ -299,7 +299,7 @@ They’re very well-funded, but they mostly rely on volunteers in the local chap
 The micro-institution are not necessarily the public institutions, but also can emerge from online communities or…
 
 ### Audrey Tang:
-That’s right. After the introduction of the World Wide Web and the direct presidential election in 1996, they kind of changed. The person to interview here is probably someone that ran Yam, Y-A-M, if they are still around. They call it the “yam vine”, like the rhizome, a idea that those micro-institutions need the online spaces to horizontally connect while maintaining their own identities.
+That’s right. After the introduction of the World Wide Web and the direct presidential election in 1996, they kind of changed. The person to interview here is probably someone that ran Yam, Y-A-M, if they are still around. They call it the “yam vine”, like the rhizome, an idea that those micro-institutions need the online spaces to horizontally connect while maintaining their own identities.
 
 ### Audrey Tang:
 They call themselves 蕃薯藤. They’re probably one of our first digital social enterprises, started as a association but then re-incorporated as a company. That was ‘96, ‘97, around the time I also run another start-up. In any case, Yam took a social purpose – just think Yahoo, but everything is for a social purpose – then they run search engines and everything.
@@ -677,7 +677,7 @@ The thing with that is it makes the association something that part of the profe
 We’re making a similar shift. Starting next year, when university engage in regional revitalization, they have to index both by the SDGs they create, but also on how many organization that previously didn’t know each other that they introduce by virtue of being a university and therefore have some public trust.
 
 ### Audrey Tang:
-Their activity as a organization and agenda-setter is now much more important than their KPIs of people trained, which is meaningless, actually.
+Their activity as an organization and agenda-setter is now much more important than their KPIs of people trained, which is meaningless, actually.
 
 ### Ryota Kamio:
 Why do you think Taiwan is being such innovative? It’s a big question, but what do you think it is?

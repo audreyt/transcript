@@ -1018,7 +1018,7 @@ My main work is philosophical, which is making sure that everybody see the same 
 By example, you think that agriculture tomorrow will be Internet Agriculture?
 
 ### Audrey Tang:
-Yeah, of course. There’s many different layers. There’s the layer about the use of technology like drones where there’s just robots on the air detecting what the props need and give them the chemicals. Essentially, make the land one of the devices on the Internet.
+Yeah, of course. There’s many different layers. There’s the layer about the use of technology like drones where there’s just robots on the air detecting what the crops need and give them the chemicals. Essentially, make the land one of the devices on the Internet.
 
 ### Audrey Tang:
 There’s also vertical farming and other farming techniques that keeps a very close watch on individual plants, essentially making each plant one device on the Internet. There’s also the, what we call robotic farming which just abstracts out the farmer all together and have the farm run itself, maybe supervised by one or two people.

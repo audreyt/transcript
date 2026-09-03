@@ -255,7 +255,7 @@ That’s right.
 Yeah, it’s independent group but it overlaps with the CIO of the ASVDA. It’s a very close relationship to ASVDA. ASVDA itself is also run by this C-suite people that comes from Silicon Valley and are not career public servants.
 
 ### Audrey Tang:
-The ASVDA website lists the names of their organizational chart. The idea is that there is chief technology officer, a HR officer, an investment officer, a general counsel, and a public relationship officer. Those five officers all come from the private sector. They are not career public servants.
+The ASVDA website lists the names of their organizational chart. The idea is that there is chief technology officer, an HR officer, an investment officer, a general counsel, and a public relationship officer. Those five officers all come from the private sector. They are not career public servants.
 
 ### Audrey Tang:
 Us, that is to say, the ministers that steers the ASVDA actually are at arm’s length so we don’t interfere with their day-to-day operations and the ASVDA’s direction actually comes from a think tank, the private sector consultation committee that is all the industry players. I think this is a reverse of what many other Asian countries are doing.

@@ -16,7 +16,7 @@ Nice to meet you, too. I’m a French academic researcher...
 And we’re going on a g0v summit together on Saturday.
 
 ### Clément Mabi：
-Yeah, of course. I come today to introduce myself and to say hello. I’m very pleased to be here, and I want to ask you a few question about how it works here, because my main research subject is about how public actors are working in a open government way and especially for the French case.
+Yeah, of course. I come today to introduce myself and to say hello. I’m very pleased to be here, and I want to ask you a few question about how it works here, because my main research subject is about how public actors are working in an open government way and especially for the French case.
 
 ### Clément Mabi：
 I would like to share with you some feelings about what I read about Taiwan on some discussions I had since I’ve been here. I heard you interested a lot about...You are very inspired by the Internet governance, like IETF. What is exactly for you a multi stakeholder governance?
@@ -187,7 +187,7 @@ Of course.
 They can’t share a ground...
 
 ### Audrey Tang：
-I will also point out that every expert in a domain that they are not expert with is also just a ordinary citizen. If you start talking about medical profession with me, I don’t know anything about it, even though I’m an IT expert. I become an ordinary citizen if we are going to talk about telemedicine.
+I will also point out that every expert in a domain that they are not expert with is also just an ordinary citizen. If you start talking about medical profession with me, I don’t know anything about it, even though I’m an IT expert. I become an ordinary citizen if we are going to talk about telemedicine.
 
 ### Audrey Tang：
 In really difficult cases, for example the data protection standard, there is law, there is economy, there is technology, there is social sciences, there is philosophy, and there is no way that one person can be expert in all these different fields. Basically, a multi stakeholder mechanism need to take into account that even the so called experts are ordinary citizens in many fields.

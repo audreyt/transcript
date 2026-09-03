@@ -414,7 +414,7 @@ Should the project be related to Taiwan?
 They should be related to sustainable infrastructure. Each team has to identify with one or more of the targets of the global goals, which are global. \[laughs\] Of course, they solve a Taiwan problem, but the solution, for example, the water leak detection, the same team went to New Zealand for three months to co-create a solution for the Wellington Water corporation.
 
 ### Audrey Tang:
-It’s readily transferable. The WaterBox is so interesting the New Zealand people – actually, they just arrive to Taiwan today – go to Taiwan to learn from the WaterBox to see whether they can use the same model to figure out, for example, the dairy farming, which is a issue there, and things like that.
+It’s readily transferable. The WaterBox is so interesting the New Zealand people – actually, they just arrive to Taiwan today – go to Taiwan to learn from the WaterBox to see whether they can use the same model to figure out, for example, the dairy farming, which is an issue there, and things like that.
 
 ### Duncan Hewitt:
 The Taiwanese people who developed this WaterBox went to New Zealand?
@@ -450,7 +450,7 @@ Sandbox is a UK idea. It came from the fintech community. In Taiwan, we use it f
 It’s like an incubator is it?
 
 ### Audrey Tang:
-It is like a incubator, with the aim to get people’s response to emerging technologies. If people respond well, then we can co-create new regulations. vTaiwan first started in late 2014. For example, this was the map that we drew for the UberX with help of a AI-powered conversation system called pol.is that we still use.
+It is like a incubator, with the aim to get people’s response to emerging technologies. If people respond well, then we can co-create new regulations. vTaiwan first started in late 2014. For example, this was the map that we drew for the UberX with help of an AI-powered conversation system called pol.is that we still use.
 
 ### Duncan Hewitt:
 I read about that.
@@ -669,7 +669,7 @@ You’ve had a debate on this or you’re doing it now?
 We had five debates, five Pol.is conversations on various aspects. For example, there was a aspect of how complex it is. You have to deal with four agencies just to get a permit on a favorite hiking or mountaineering trip. That is really not convenient. And a lot of trails, for no good reason whatsoever, still requires a permit.
 
 ### Audrey Tang:
-The lack of telecommunication facilities was also a issue, especially in the rescue operations.
+The lack of telecommunication facilities was also an issue, especially in the rescue operations.
 
 ### Duncan Hewitt:
 Just no signal?
@@ -2007,10 +2007,10 @@ She projects a sense of stability.
 In terms of the achievement, that a woman for the first time became a president.
 
 ### Audrey Tang:
-Also, even more usefully in the Indo-Pacific context, that she is not president because she is somebody’s wife or daughter. She earned presidency, by working on political issues as a expert in trade negotiations and so on.
+Also, even more usefully in the Indo-Pacific context, that she is not president because she is somebody’s wife or daughter. She earned presidency, by working on political issues as an expert in trade negotiations and so on.
 
 ### Audrey Tang:
-I would say that it is significant to show that people who are willing to do political work to build their career, not building family relations, but rather achieving a expert level understanding of the geopolitical area. I think that has repercussions not only in Taiwan but also reverberating around the whole Indo-Pacific area.
+I would say that it is significant to show that people who are willing to do political work to build their career, not building family relations, but rather achieving an expert level understanding of the geopolitical area. I think that has repercussions not only in Taiwan but also reverberating around the whole Indo-Pacific area.
 
 ### Duncan Hewitt:
 Is Taiwan now a sufficiently equal society, would you say, in gender equality?

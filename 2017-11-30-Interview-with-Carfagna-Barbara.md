@@ -132,7 +132,7 @@ I did not learn alone. I learned it with the free software community, with the w
 I think the idea of digital skills never grows alone. It always grows in a community. But the difference is that, with digital skills, the community can be distributed. It could be all over the place on the Earth. The community stays active instead of goes asleep at the same time. It’s like 24 hours every day, every time.
 
 ### Audrey Tang:
-In this large community, like the Wikipedia community or other communities, one finds a sense of belonging, that one can always contribute something but without fearing that the community will disappear if you go to do some other things the other day. It has a idea of stableness that is not found by physical communities because it is virtual in a sense.
+In this large community, like the Wikipedia community or other communities, one finds a sense of belonging, that one can always contribute something but without fearing that the community will disappear if you go to do some other things the other day. It has an idea of stableness that is not found by physical communities because it is virtual in a sense.
 
 ### Audrey Tang:
 I think all the learning of digital skills need to happen in community. It is best if the face to face communication and online communication is overlapped by a number of conferences or summits, meetups, hackathons. But it is possible to learn strictly from the virtual community.

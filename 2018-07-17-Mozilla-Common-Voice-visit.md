@@ -74,7 +74,7 @@ Aha, OK.
 I’m Irvin from Taipei. I’m helping the Common Voice’s Traditional Chinese staff and getting it up.
 
 ### Joe Cheng:
-My name is Joe Cheng. I’m actually based out of here, in Taipei. I’m on the product team for Taiwan markets. I’m not directly involved in the Common Voice Project, but I’m here to try to understand, see how we can we can help out from what we hear.
+My name is Joe Cheng. I’m actually based out of here, in Taipei. I’m on the product team for Taiwan markets. I’m not directly involved in the Common Voice Project, but I’m here to try to understand, see how we can help out from what we hear.
 
 ### Audrey Tang:
 Let’s get started. Who would like to give a sketch of your current progress?
@@ -98,7 +98,7 @@ We published our first version of the data set in November last year, which was 
 We’re adding new ones all the time. The website, we currently have 50 more languages in progress. We’re continually trying to add to our collection of languages. That part of our effort is multiple languages, expanding the data set. Also, part of our effort for the next six months is making the site more fun to use.
 
 ### Michael Henretty:
-We will add profiles to the this, so people can have identity, optionally. Of course, we will always accept anonymous donations. We want to expose a lot of metrics onto our site, so people can see how the project is progressing, so people can see how fast different languages are collecting and how quickly we can get to a viable speech technology data set.
+We will add profiles to this, so people can have identity, optionally. Of course, we will always accept anonymous donations. We want to expose a lot of metrics onto our site, so people can see how the project is progressing, so people can see how fast different languages are collecting and how quickly we can get to a viable speech technology data set.
 
 ### Desigan Chinniah:
 Mike, I don’t know whether it will be useful. Has everyone yet seen the website or how it works?
@@ -332,7 +332,7 @@ Some of the topics they are working on now are speech related. Google, in Taiwan
 But when speech-related R&amp;D, when it is hardware-related, they find out that Taiwan’s an excellent environment. We provide some hardware component, and sometimes they will look to try different combination of hardware and software. They said in public that that’s the direction they wish to achieve in Taiwan. On the Microsoft side, I think...
 
 ### Audrey Tang:
-They set up a AI center here, like 100 and up to 200 AI engineers...
+They set up an AI center here, like 100 and up to 200 AI engineers...
 
 ### Michael Henretty:
 Wow.
@@ -596,7 +596,7 @@ Duolingo did that for translation, and it’s very, very useful. They also sell 
 I’m very happy to talk to social enterprises. \[laughs\] It’s much easier.
 
 ### Audrey Tang:
-That’s mirroring and linking of data sets. Validation and rereading, really, crowdsourcing of the expansion of the MOST data set. Also, the integration with indigenous communities, as long as they agree to a open license. Those are three main topics.
+That’s mirroring and linking of data sets. Validation and rereading, really, crowdsourcing of the expansion of the MOST data set. Also, the integration with indigenous communities, as long as they agree to an open license. Those are three main topics.
 
 ### Michael Henretty:
 As Dees said, longer term, we would love to explore maybe tools for helping teach languages. Part of our work in the next year is gamification of our websites. If there’s a use case around accent training, spoken language training, or learning to understand spoken language, we would certainly work with you on product. That’s longer-term stuff.

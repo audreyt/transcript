@@ -291,7 +291,7 @@ That makes sense.
 Neither code makers nor law makers should monopolize the process. That’s the only thing I would ask for.
 
 ### Chieh-Ting Yeh:
-Last thing. We’ve been talking about, at least on the liberal media side in the West, there’s this lamenting of the right rise of the ring wing nationalists. You’re talking about Brexit, Trump, Marie Le Pen, Turkey, and all this stuff.
+Last thing. We’ve been talking about, at least on the liberal media side in the West, there’s this lamenting of the right rise of the right wing nationalists. You’re talking about Brexit, Trump, Marie Le Pen, Turkey, and all this stuff.
 
 ### Chieh-Ting Yeh:
 Intuitively that seems to run counter of the spirit of open government, transparency or maybe not. I don’t know. What do you think?

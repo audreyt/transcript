@@ -257,7 +257,7 @@ Is there a translation for that?
 Hacktivism, 駭客行動主義.
 
 ### Audrey Tang:
-That’s right. That is one other thing though. In Taiwan, we do distinguish a little bit creative, non-cybersecurity hacking, which we call 黑客 as in 黑客松, and cybersecurity-based hacking, which we call 駭客. Even in tonal pronunciation, choice of words, there already is a old jargon file, like white-hat, black-hat on one hand, and maybe Red Hat on the other. \[laughs\]
+That’s right. That is one other thing though. In Taiwan, we do distinguish a little bit creative, non-cybersecurity hacking, which we call 黑客 as in 黑客松, and cybersecurity-based hacking, which we call 駭客. Even in tonal pronunciation, choice of words, there already is an old jargon file, like white-hat, black-hat on one hand, and maybe Red Hat on the other. \[laughs\]
 
 ### Audrey Tang:
 It’s a very different connotation of hacking. Just by deciding to translate it as 駭客, which would actually mean breaking into the political system or 黑客, which would mean bringing creative energy to the political system, that’s already making a choice.
@@ -385,7 +385,7 @@ I guess. I transitioned from a exclusive model to inclusive model. You can say t
 For instance, you’re not criticizing by itself the knowledge regime of the traditional universities?
 
 ### Audrey Tang:
-I publish, but on open-access journals. I edit, I do conferences, steering committees as well. I participate in the traditional academic activities but always only if it’s a open-access regime, meaning that it doesn’t reject further people from contributing.
+I publish, but on open-access journals. I edit, I do conferences, steering committees as well. I participate in the traditional academic activities but always only if it’s an open-access regime, meaning that it doesn’t reject further people from contributing.
 
 ### Audrey Tang:
 My core reading when I was 13 years old was Project Gutenberg, which you may have heard of. It is a bunch of people just typing everything -- because there was no good OCR technology back then -- that’s in the public domain to the public Internet for everybody, including me, to read.

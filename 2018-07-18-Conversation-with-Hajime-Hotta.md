@@ -4,7 +4,7 @@
 Anything you would like to discuss?
 
 ### Hajime Hotta:
-There are several things. Let’s say the first topic could be just a little bit of introduction of myself, as well as our company, and then an intention. We are originally from Japan, but we are now expecting to have a AI researcher branch here in Taiwan.
+There are several things. Let’s say the first topic could be just a little bit of introduction of myself, as well as our company, and then an intention. We are originally from Japan, but we are now expecting to have an AI researcher branch here in Taiwan.
 
 ### Hajime Hotta:
 Shares a little bit of background. Number one is I’m a Japanese. I used to be very domestic person until 30 years old. I got a PhD of neural network. Since then, I enjoy a lot in the start-up world, exiting the company to the big corporation, like Yahoo Japan and Mixi, until when I was 30 years old. Then my passion is upgraded.
@@ -13,7 +13,7 @@ Shares a little bit of background. Number one is I’m a Japanese. I used to be 
 Since then, my dream was simply I wanted to do something technical in Japan and I just wanted to do the business in Japan. I found that the IT area, actually more in technical area, is much bigger in a global market, including the US and China. I really wanted to do something in a global market, rather than only limiting myself in Japan.
 
 ### Hajime Hotta:
-Currently, we do the company called Cinnamon, which is a AI provider for enterprises. One of the product of ourself is the name, Fax Scanner. For example, in the insurance company or let’s say in a bank, 20,000 of the sales people are working on the sales of the mortgage.
+Currently, we do the company called Cinnamon, which is an AI provider for enterprises. One of the product of ourself is the name, Fax Scanner. For example, in the insurance company or let’s say in a bank, 20,000 of the sales people are working on the sales of the mortgage.
 
 ### Hajime Hotta:
 What they are doing, of course, 70 percent of their time is still sales, but 30 percent of their time is just inputting a lot of information. They have to receive, let’s say, the pay slip, the salary proof, or a bank statement, or clinical record, medical records, the blood check or a urine check. Those documents are sent by the customer. Then they are checking all through those data.
@@ -46,7 +46,7 @@ Hence, in terms of the top tier, very smart people. In terms of science and tech
 There are a shift from very hardware focusing here to recently very AI, or the software industry, at least. That is why I really want to get some help from Taiwanese people, as well. This is why we decided to come to Taiwan. More fundamentally, what I really want to do is to build up a ecosystem here as a band of talents, including Japan, Taiwan, Vietnam, and maybe India.
 
 ### Hajime Hotta:
-Those have tons of suppliers. I mean that technically very good people exist. Actually, except Japan, the market is not so huge. Even in India, a AI solution can’t be sold to a big corporation there, simply because of the impact of AI is still very huge only in the developed countries.
+Those have tons of suppliers. I mean that technically very good people exist. Actually, except Japan, the market is not so huge. Even in India, an AI solution can’t be sold to a big corporation there, simply because of the impact of AI is still very huge only in the developed countries.
 
 ### Hajime Hotta:
 For example, like the US, they have a very huge revenue. That means, just one percent of optimization, it is already a big impact for them. For example, Taiwan, even though they still want to do the investment...
@@ -58,7 +58,7 @@ Let’s say in Japan, it’s very easy for the big corporations to invest one mi
 We are capable of bringing those foreign demands to the Asian countries. Then, if we can connect the local Taiwan talents or local Vietnamese talents, local Indian talents to the demand, then it could be possible for an APAC region to be the global leader of AI invention.
 
 ### Hajime Hotta:
-That is what we really want to do. What essentially our company, Cinnamon, is doing is connecting the talents in Japan and maybe Korea, in Taiwan, Vietnam, and then maybe India, connecting all those AI talents together to build up a AI invention cycle.
+That is what we really want to do. What essentially our company, Cinnamon, is doing is connecting the talents in Japan and maybe Korea, in Taiwan, Vietnam, and then maybe India, connecting all those AI talents together to build up an AI invention cycle.
 
 ### Hajime Hotta:
 We also foster several business center in Japan, in the US, and the UK to deliver the demand side into this area to finally connect. This is what I really want to do.
@@ -274,7 +274,7 @@ They’re very realistic. Nowadays, there’s a lot of hype. They’re very real
 The one thing is I have to come up with some idea of what aspect I can give to them. They have a very good resource. I have to give something, otherwise I cannot get anything.
 
 ### Audrey Tang:
-Your technology as a SDK or as a API, that’s something super useful.
+Your technology as a SDK or as an API, that’s something super useful.
 
 ### Hajime Hotta:
 Maybe, one part could be the technology. We essentially want to hire people, right?
@@ -283,7 +283,7 @@ Maybe, one part could be the technology. We essentially want to hire people, rig
 I know, but if people already have experience and know the limitation, as well as the application of your technology, that means that they get hired with better understanding.
 
 ### Audrey Tang:
-Instead of you having to train them, you essentially have the customers train themselves, \[laughs\] and then become your employees. It’s always a win-win. There’s a Taiwan Technology Arena, or TTA. I don’t know whether you know about this. It is a effort by the Ministry of Science and Technology.
+Instead of you having to train them, you essentially have the customers train themselves, \[laughs\] and then become your employees. It’s always a win-win. There’s a Taiwan Technology Arena, or TTA. I don’t know whether you know about this. It is an effort by the Ministry of Science and Technology.
 
 ### Hajime Hotta:
 I went to the opening session just last month.
@@ -295,7 +295,7 @@ That’s right. They’re mostly working with also international investors and i
 I see.
 
 ### Audrey Tang:
-It’s not like a MOU. It’s just keeping a relationship every couple months with just that. Also, with maybe AppWorks or Taiwan Startup Stadium, basically, all the AI-related accelerators. You can be a consultant or just a friend and come to their demo day.
+It’s not like an MOU. It’s just keeping a relationship every couple months with just that. Also, with maybe AppWorks or Taiwan Startup Stadium, basically, all the AI-related accelerators. You can be a consultant or just a friend and come to their demo day.
 
 ### Hajime Hotta:
 I see. AppWorks and the TSS, I just know that TSS, I don’t have any contacts.

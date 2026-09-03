@@ -641,7 +641,7 @@ Yes, that was my next slide. \[laughs\]
 My question was different. You often say “we,” and so, I was trying to understand the “we” you say, what is referred to. Now, you are talking about something which is a space of encounter, and not a movement. When you say “we,” you talk about what exactly?
 
 ### Audrey Tang:
-In order to be a g0v project, the only requirement is, if it’s a coding project to use a open source license, meaning that other people can use your product without asking your permission.
+In order to be a g0v project, the only requirement is, if it’s a coding project to use an open source license, meaning that other people can use your product without asking your permission.
 
 ### Audrey Tang:
 If it is a non-coding project, we ask people to use Creative Commons, which again, is a way to say people can copy your work without asking you. When I say “we” and people who agree to this protocol of social...I would still say it is a movement.
@@ -1653,13 +1653,13 @@ On the other side of the administrative building, there was police brutality of 
 Of course we all know that, but we learned it very painfully. We decided then -- OK. I still have time -- to deploy not only the stationary cameras, which by that time, its numbers is in the dozens but they were stationary.
 
 ### Audrey Tang:
-We decided that we need mobile cameras everywhere, around not just the streets but anywhere with any kind of possibility of escalation. We built a website. This is the Civic Journalism Batch Generator. All you have to do is to write your name here and upload your photo here.
+We decided that we need mobile cameras everywhere, around not just the streets but anywhere with any kind of possibility of escalation. We built a website. This is the Civic Journalism Badge Generator. All you have to do is to write your name here and upload your photo here.
 
 ### Audrey Tang:
-It will print you a batch of your desired size that will fit your phone or the iPad that declares that you’re a journalist. Then we print on the other side of the badge, or the flip side of the badge, this QR code. What is this QR code?
+It will print you a badge of your desired size that will fit your phone or the iPad that declares that you’re a journalist. Then we print on the other side of the badge, or the flip side of the badge, this QR code. What is this QR code?
 
 ### Audrey Tang:
-It’s a link to a Supreme Court’s ruling a few years ago, that says, “Article 11in the Constitution protects not only speech, but also news gathering. News gathering is not limited just to professional journalists, but also protects any ordinary person who gathers information with the aim of providing newsworthy information to supervise the government.”
+It’s a link to a Supreme Court’s ruling a few years ago, that says, “Article 11 in the Constitution protects not only speech, but also news gathering. News gathering is not limited just to professional journalists, but also protects any ordinary person who gathers information with the aim of providing newsworthy information to supervise the government.”
 
 ### Audrey Tang:
 Whenever the police stop a civic journalist, we ask them to scan the QR code and read the Supreme Court’s decision. That says, “Any area where the mainstream media can enter, the civic journalist who printed this badge must be able to allow to enter. Otherwise, we will take you all the way to the Supreme Court.”

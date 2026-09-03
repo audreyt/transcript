@@ -801,7 +801,7 @@ Excellent, thank you so much. Do you have aspirations for higher political offic
 ### Audrey Tang:
 There are exactly two higher political offices, compared to a minister...
 
-No, not at the moment. I'm not in it for the election, and especially because to run for a election in the presidential level, you have to have a party affiliation, and my commitment is to all, so I cannot have a party affiliation. I am happy to be a semi-senior-bureaucrat working with everyone.
+No, not at the moment. I'm not in it for the election, and especially because to run for an election in the presidential level, you have to have a party affiliation, and my commitment is to all, so I cannot have a party affiliation. I am happy to be a semi-senior-bureaucrat working with everyone.
 
 ### Josh Rogin:
 Is there anything else that I've missed that if you were me, that I would ask you that I haven't?

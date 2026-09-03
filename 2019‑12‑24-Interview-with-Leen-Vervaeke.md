@@ -594,7 +594,7 @@ Disinformation is one excuse. It’s not the only excuse. One excuse or another,
 \[laughs\]
 
 ### Audrey Tang：
-Only Taiwan and New Zealand are ranked as open, as in we didn’t infringe on any of the major freedoms of the people. Of course, this part is faring much better than we do. \[laughs\] I would say we would serve as a example to our nearby jurisdictions, that they don’t have to go all the way to closed, that they can still learn from Taiwan. They do.
+Only Taiwan and New Zealand are ranked as open, as in we didn’t infringe on any of the major freedoms of the people. Of course, this part is faring much better than we do. \[laughs\] I would say we would serve as an example to our nearby jurisdictions, that they don’t have to go all the way to closed, that they can still learn from Taiwan. They do.
 
 ### Leen Vervaeke：
 Like, for example?

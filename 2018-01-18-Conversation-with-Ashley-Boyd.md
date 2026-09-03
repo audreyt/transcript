@@ -166,7 +166,7 @@ We have started a process of looking more at privacy by design ideas, and how to
 Rather than making privacy and security settings difficult to find and master, or not have them at all, is put the responsibility back on the manufacturers to start changing their habits. We feel like there’s a dysfunctional conversation, where manufacturers say they don’t care about it, and so they don’t provide it, and then people aren’t aware of it.
 
 ### Ashley Boyd:
-We stared to shift that conversation. We did a buyer’s guide on connected devices for the holiday season here, and used the &quot;Consumer Reports&quot; Digital Standard to look at those products the same way across different...It’s called &quot;Privacy Not Included.&quot;
+We started to shift that conversation. We did a buyer’s guide on connected devices for the holiday season here, and used the &quot;Consumer Reports&quot; Digital Standard to look at those products the same way across different...It’s called &quot;Privacy Not Included.&quot;
 
 ### Ashley Boyd:
 That started the conversation there, and now we’re planning to look at some specific cohorts of products to register consumer concern about them, probably, particularly about connected toys for kids. There are some toys that have been banned in Germany and Canada but are still available in the US, Australia, and other places.
@@ -249,7 +249,7 @@ Right, so for example -- I’m just mentally centering myself -- There’s a cer
 It was not until it’s put into a journalistic narrative and dedicated media, like &quot;The Intercept,&quot; for example, is set up to constantly turn out just bits, really, of the entire revelation or framed in a way that people can and do relate to, and always with the hint that there’s more, before it turned into a public discussion, worldwide.
 
 ### Audrey Tang:
-In Taiwan, we already had that discussion in the early 2000s, due to the The Golden Shield effort, the great firewall. We had our Snowden moment years ago. \[laughs\]
+In Taiwan, we already had that discussion in the early 2000s, due to the Golden Shield effort, the great firewall. We had our Snowden moment years ago. \[laughs\]
 
 ### Audrey Tang:
 It’s interesting to see that the world kind of waking up to the fact, and I think that the journalistic, especially investigative journalists, working on such communications, I think, really played a great role. That’s what I mean by having a trove of materials in addition, and then based on that, journalistic narrative.

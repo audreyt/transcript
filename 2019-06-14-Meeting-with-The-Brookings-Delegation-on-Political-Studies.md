@@ -84,7 +84,7 @@ Even if people have different positions, we ask people, &quot;Are there common v
 When I meet with the local co-ops and multi-stakeholders, social entrepreneurs, NPOs, the 12 ministry that join this program are in the major cities in Taiwan and telecommunicating through telepresence and two-way video conferencing to make sure that they can understand the local people’s need and introduce decision-making that is in real-time response to the local people.
 
 ### Audrey Tang:
-These are my regional tours. When we want to get the sense of people’s consensus, whether a sandbox experiment or a new innovation is good or not, we usually use a AI-powered conversation called pol.is. This is a open-source software that we also helped develop.
+These are my regional tours. When we want to get the sense of people’s consensus, whether a sandbox experiment or a new innovation is good or not, we usually use an AI-powered conversation called pol.is. This is an open-source software that we also helped develop.
 
 ### Audrey Tang:
 Here, you can see people’s different opinion clusters in different places. The important thing is we’re not counting the number of people. We’re counting the plurality of opinions. People’s friends and families are actually all over the place, so they can see each other as more friends and families instead of nameless trolls on the Internet.
@@ -235,7 +235,7 @@ That’s right.
 ...giving access, sometimes in real time.
 
 ### Audrey Tang:
-To budgets and all the parts. Just one minute of context. G0v is a idea that all the government services and websites are hosted in websites that ends in .g0v.tw. Sometimes, people don’t like the way that the budget is presented as 500 pages of PDF files or whatever.
+To budgets and all the parts. Just one minute of context. G0v is an idea that all the government services and websites are hosted in websites that ends in .g0v.tw. Sometimes, people don’t like the way that the budget is presented as 500 pages of PDF files or whatever.
 
 ### Audrey Tang:
 For all government services -- to date, there is over 200 government services -- that the civil society don’t like, they don’t have to protest on the street. They just register the same domain, exactly the same as the government, but change the O to a zero. You just go to a government website, change O to a zero, and you get into the shadow government where it is more interactive, more open, and more fun.
@@ -562,7 +562,7 @@ After three weeks of non-violent occupy, they condensed to five consensus points
 At the time, what people have seen is that the civic hackers, the people who basically contribute to democracy, organized this demonstration not as a protest, but as a demo, as demonstrating that this kind of conversation can reach half a million people on the street and many more online, but still manage to come up with consensus.
 
 ### Audrey Tang:
-At the end of that year, there was a election. Everybody who supported the Sunflower gets elected, sometime to their surprise. People who did not, who are more authoritarian, lost their mayoral positions. It’s like something that happened in Spain in the 15-M.
+At the end of that year, there was an election. Everybody who supported the Sunflower gets elected, sometime to their surprise. People who did not, who are more authoritarian, lost their mayoral positions. It’s like something that happened in Spain in the 15-M.
 
 ### Audrey Tang:
 Then the central government started hiring people who facilitated this kind of conversation during Sunflower into the central government. The English is the reverse mentorship, understudies, younger people that work with ministers to reverse-mentor the ministers while receiving mentorship from the ministers as understudy on the matters.

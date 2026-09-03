@@ -166,7 +166,7 @@ Now, to go back to your original question, I think the H&#x26;M case is interest
 The more influential sports circles in the PRC, it seems to be limited to the arts, especially performing arts and YouTubers and so on circles. It’s quite clear that if this is a real popular demand, then it could not narrowly define its scope of action.
 
 ### Audrey Tang:
-If people are going to the physical stores to protest and so on, then they would not make a very clear-cut difference between, “Hey, this is a artist, but that is a national sport.”
+If people are going to the physical stores to protest and so on, then they would not make a very clear-cut difference between, “Hey, this is an artist, but that is a national sport.”
 
 ### Audrey Tang:
 It seems to me that it’s heavily scripted. You can see in their state media that such scripts are published by the state media. They warn about, and I quote, “The bad actors infused into this boycotting action” – warn people against those so-called bad actors. All this seems to me that this is basically, heavily scripted.

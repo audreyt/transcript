@@ -16,7 +16,7 @@ There’s been a number of legislative attempts to fix the problem of disinforma
 Or rather, social innovations, really, like changing how people perceive the issue, because in Taiwan, disinformation is not the first time that we had this social sector-oriented way of making these models that hold the solution.
 
 ### Audrey Tang:
-We have a infrastructure for counter spam, but we don’t have any laws pertaining to spying, particularly, other than a draft currently in the parliament. Spam, you don’t hear this in Taiwan much anymore, because with the global international Spamhaus project, we work with all the email providers to make sure people can flag something as spam.
+We have an infrastructure for counter spam, but we don’t have any laws pertaining to spying, particularly, other than a draft currently in the parliament. Spam, you don’t hear this in Taiwan much anymore, because with the global international Spamhaus project, we work with all the email providers to make sure people can flag something as spam.
 
 ### Audrey Tang:
 Then essentially donating what’s not really private communication to begin with, because a spammer sends the same thing to everybody, into this social sector network that analyses the sender’s patterns, so that new emails from these same senders that fits these patterns goes into the junk mail box instead of the inbox. That is a classical case of people just solving things together by the social sector’s innovations.

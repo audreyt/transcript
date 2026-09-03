@@ -73,7 +73,7 @@ I assembled those tools and put them to use, but just like any open source or fr
 The tools that I work with, there are many. For example, we have an e-petition platform that is, I think, the world’s best actively used e-petition platform. We have visualization of our budget, and have each individual project in every individual ministry be a social object that people can collaborate on and watch the progress together.
 
 ### Audrey Tang:
-We have a AI powered conversation space called Pol.is that we use when there are a thousand people, all with different perspectives, and try to find consensus out of the dissent.
+We have an AI powered conversation space called Pol.is that we use when there are a thousand people, all with different perspectives, and try to find consensus out of the dissent.
 
 ### Audrey Tang:
 We also have employed many of what we call civilized discourse construction kit, which is a way for people to work on each other’s ideas more deeply, but without the capability of getting the trolls or getting other people who are not so willing to have a civilized discussion, to let them reform in this kind of collaborative space.
@@ -88,7 +88,7 @@ We use the RealtimeBoard, which is also a tool that makes the mind map of a faci
 We also use 360 Live streaming, so that people who are not here in the room can also feel like being in the room. We use many other telepresence tools, as well. We also use a lot what we call accountability tools, such as a shared bookmark called Hackfoldr that shows exactly the context and history of how and why a policy is made.
 
 ### Audrey Tang:
-We use a platform called Sandstorm, which is a free software security tool that is within our cybersecurity infrastructure that let the public servants create new and novel applications, such ordering lunch boxes together without worrying about cybersecurity threats from other places.
+We use a platform called Sandstorm, which is a free software security tool that is within our cybersecurity infrastructure that let the public servants create new and novel applications, such as ordering lunch boxes together without worrying about cybersecurity threats from other places.
 
 ### Audrey Tang:
 There’s hundreds of tools. I can spend an hour just talking through each of them, but I understand this is a short interview.
@@ -211,5 +211,5 @@ That is, people can agree on the common values and find some solutions that work
 Maybe after a few years of participating, they will gradually start identifying as being Taiwanese, but as a byproduct. It is not a entry barrier. I think it is a very soft thing that people, just through osmosis, start to see the values of Taiwan, instead of one single value system.
 
 ### Audrey Tang:
-20 years ago, it’s all about the values fighting to be the dominant value system, but now we’re definitely a plurality. Nobody can dominate the discourse. It is through this plurality that we started to redefine the platform that is Taiwan and how those values cohere and de cohere together, and eventually becomes an assemblage that people can gradually identify with.
+20 years ago, it’s all about the values fighting to be the dominant value system, but now we’re definitely a plurality. Nobody can dominate the discourse. It is through this plurality that we started to redefine the platform that is Taiwan and how those values cohere and decohere together, and eventually becomes an assemblage that people can gradually identify with.
 

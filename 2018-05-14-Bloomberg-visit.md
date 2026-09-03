@@ -22,7 +22,7 @@ Food and technology are the big ones, the important stories. One of the things w
 That’s a really interesting topic for all governments right now. Globally, this is interesting. I don’t know if you could tell us a little bit more about what you’re doing, any recent successes you have or the direction it’s going.
 
 ### Audrey Tang:
-My main mandate, so to speak, is open government at the government side, and social innovation at the civil society side. Those two are two sides at the same coin. This innovation plan that we have is essentially not top down at all. We are working &quot;with&quot; innovators, not working &quot;for&quot; innovators.
+My main mandate, so to speak, is open government at the government side, and social innovation at the civil society side. Those two are two sides of the same coin. This innovation plan that we have is essentially not top down at all. We are working &quot;with&quot; innovators, not working &quot;for&quot; innovators.
 
 ### Audrey Tang:
 This is epitomized by a social innovation lab. It’s in the TAF cultural park, near the Jianguo flower market. I don’t know whether you know...
@@ -39,7 +39,7 @@ I was there yesterday.
 I was amazed. I was like, &quot;I want this in Hong Kong. I could go get lovely flowers for not a lot of money.&quot; Yeah, it’s lovely.
 
 ### Audrey Tang:
-That’s great. My residence, the minister’s dormitory, is just next to the Jianguo flower market. For me, it’s just 10 minutes’ walk from one end of Jianguo flower to the other end of Jianguo flower market, where it borders the Jianguo jade market.
+That’s great. My residence, the minister’s dormitory, is just next to the Jianguo flower market. For me, it’s just 10 minutes’ walk from one end of Jianguo flower market to the other end of Jianguo flower market, where it borders the Jianguo jade market.
 
 ### Jodi Schneider:
 Where I also was, and bought a necklace.
@@ -172,7 +172,7 @@ Those experiments are not to be started, but almost everything is fair game. Som
 In the Fintech Sandbox, which is unique in the world, we allowed experiment to be extended up to three years waiting for the law to change. Once the law changes everybody else can enter this market. Now we have the Fintech Sandbox. Next, we are handing to the legislation the AI Mobility Sandbox which is for self-driving vehicles. They could be on the road, in the air, on the sea, that’s the AI Mobility Sandbox.
 
 ### Audrey Tang:
-The third one that we’re working on at the moment is the Regional Sandbox, which is a general-purpose sandbox. They must be initiated by a regional, like county government that want to solve their particular social need. There again, they get to challenge the Central Government’s laws and regulations. Even the law itself is subject to disruption thorugh the sandbox law.
+The third one that we’re working on at the moment is the Regional Sandbox, which is a general-purpose sandbox. They must be initiated by a regional, like county government that want to solve their particular social need. There again, they get to challenge the Central Government’s laws and regulations. Even the law itself is subject to disruption through the sandbox law.
 
 ### Samson Ellis:
 It sounds incredible.
@@ -193,10 +193,10 @@ No, not at all. It could be a process innovation, it could be an idea innovation
 Can you give an example?
 
 ### Audrey Tang:
-Yeah. It could just be adding a name. One of the largest social enterprises in Taiwan, the Children Are Us Foundation, or CAREUS Foundation, they use the Chinese name XÇ hÄn er. XÇ hÄn er is in itself a name is a social innovation because it stands for, &quot;Joyful, Honest, Children.&quot; Whereas this group of people were previously called clinically people with Down syndrome or just morons.
+Yeah. It could just be adding a name. One of the largest social enterprises in Taiwan, the Children Are Us Foundation, or CAREUS Foundation, they use the Chinese name 喜憨兒. 喜憨兒 is in itself a name is a social innovation because it stands for, &quot;Joyful, Honest, Children.&quot; Whereas this group of people were previously called clinically people with Down syndrome or just morons.
 
 ### Audrey Tang:
-By using XÇ hÄn er, Joyful, Honest, Children as the moniker, it changes the social relationship between these people and the society. For example, the soccer playing field in the social innovation lab, that is a creation by the Joyful, Honest Children. \[laughs\] I can’t do that. They are very artistically inclined.
+By using 喜憨兒, Joyful, Honest, Children as the moniker, it changes the social relationship between these people and the society. For example, the soccer playing field in the social innovation lab, that is a creation by the Joyful, Honest Children. \[laughs\] I can’t do that. They are very artistically inclined.
 
 ### Audrey Tang:
 There’s multiple efforts, like the bakery, preparing of frozen foods, or a lot of artful creation projects that involves the Joyful, Honest, Children as the service providers rather than the service receivers. There’s social enterprise in Taiwan that is systematically working with for the first-time street dealers on wheelchairs and re-imagine their work into a service provider instead of a service receiver.
@@ -257,10 +257,10 @@ Explain to me this project.
 This is very simply people who put cheap PM2.5, NOx, or whatever sensors in their house, in their balcony, in their schools. Some primary schools use that as an education tool to raise environmental awareness.
 
 ### Audrey Tang:
-The Academia Sinica people provide this online platform for all those IOP sensors to connect to so that they can do predictions. Not very accurate, I would say, but the predictions of how and why the air pollutions come.
+The Academia Sinica people provide this online platform for all those IoT sensors to connect to so that they can do predictions. Not very accurate, I would say, but the predictions of how and why the air pollutions come.
 
 ### Audrey Tang:
-All this is not at all related to the state environmental commission agency, the PA Sensor Network, which although they’re expanding it, so that they will eventually have multiple thousands of sensors as long as they’re not in your home or in your school it’s not really relevant to the people, because people really want to know how the air is like here instead of like 5 kilometers away or 10 kilometers away.
+All this is not at all related to the state environmental commission agency, the EPA Sensor Network, which although they’re expanding it, so that they will eventually have multiple thousands of sensors as long as they’re not in your home or in your school it’s not really relevant to the people, because people really want to know how the air is like here instead of like 5 kilometers away or 10 kilometers away.
 
 ### Audrey Tang:
 This threatens actually the legitimacy of the government network. We have a lot of professors who have competing air pollution prediction frameworks and they all use a subset of data. Once the data is different and the algorithm is different you can’t really do science \[laughs\] there’s basically factions where people follow.
@@ -275,7 +275,7 @@ We aggregate all the different data the civil society contributed, the private s
 All the different professors and scholars, they don’t have to download partial data they can just upload their code, their algorithm for prediction on the same database platform, so that we can compare it next to each other and actually do science this way.
 
 ### Audrey Tang:
-The other thing is the ITRI, the Research Institute for Industrial Technology, we also asked them to produce really cheap but still much more accurate PM2.5 sensors so that these people can upgrade to a higher position.
+The other thing is the ITRI, the Industrial Technology Research Institute, we also asked them to produce really cheap but still much more accurate PM2.5 sensors so that these people can upgrade to a higher position.
 
 ### Samson Ellis:
 All of this is open data, like the websites and all that somewhere where you can get them?
@@ -318,7 +318,7 @@ Yeah, I’m booked for the entire day.
 Yeah, all the time. The public just seem to be embracing this that this is a way for them to be heard and for them to more than just give input, to actually be involved in the process?
 
 ### Audrey Tang:
-Yeah, I think the already more organized people, this is the civil society, the NGOs and so on, all see this as a way for them to network and amplify their network. For individuals, it’s not until the more highlighted cases, like tax income software redesign case where they see one single designer essentially changing the fate of everyone...
+Yeah, I think the already more organized people, this is the civil society, the NGOs and so on, all see this as a way for them to network and amplify their network. For individuals, it’s not until the more highlighted cases, like income tax software redesign case where they see one single designer essentially changing the fate of everyone...
 
 > (laughter)
 
@@ -335,7 +335,7 @@ What will you see successes as? Will it be having things online that basically s
 Well, it’s quantify and qualify. The quantify part we can measure quite easily, because it’s an online platform. For instance, we can measure whether people propose more positions, whether there are more positions that result in actionable policies.
 
 ### Audrey Tang:
-Also, the very important thing is whether the ministries themselves feel comfortable publishing their projects on the online platform for everybody to comment on as social objects. At the moment, we have the Corrective Yuan, the auditing branch for counties or cities and the Executive Yuan itself.
+Also, the very important thing is whether the ministries themselves feel comfortable publishing their projects on the online platform for everybody to comment on as social objects. At the moment, we have the Control Yuan, the auditing branch for counties or cities and the Executive Yuan itself.
 
 ### Audrey Tang:
 Just a very recent addition, just last month is what we call the National Budget Visualization Platform, so that you can see how each ministry spends on their relative budgets. All of the more than 1,200 projects managed by the ministries themselves are also online for people to comment on and for people to see how it’s spending their money, how much procurement or research people are doing.

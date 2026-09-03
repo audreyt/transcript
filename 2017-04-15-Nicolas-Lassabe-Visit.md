@@ -58,7 +58,7 @@ The sustainability of the citizens...
 It’s about a pledge from a city.
 
 ### Nicolas Lassabe:
-Yeah, and the city need to apply and with right goals of FabLab. Tight now most of the products travel around the world to go in the different city and become trash, and user data usually are keep by company.
+Yeah, and the city need to apply and with right goals of FabLab. Right now most of the products travel around the world to go in the different city and become trash, and user data usually are keep by company.
 
 ### Nicolas Lassabe:
 Fab Cities goal is to inverse this, to reverse this, and to have some data moving and produce more localized things and furniture. For example, in Barcelona they have this project to do a one square kilometer of Fab City with a different type of shop and events.

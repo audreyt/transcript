@@ -443,7 +443,7 @@ I think they're all very happy to hear the news.
 Well, I'll be traveling to DC for the ICANN meetings.
 
 ### Wen-Fang Tseng:
-We have arranged tomorrow’s meeting and we can discuss more in discuss more in details in DC or tomorrow.
+We have arranged tomorrow’s meeting and we can discuss more in detail in DC or tomorrow.
 
 ### George Kuo:
 Tomorrow lunchtime.

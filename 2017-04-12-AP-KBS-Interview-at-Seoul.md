@@ -522,7 +522,7 @@ First we can do it through simulation. You can invent some simulation scenario, 
 Human testers describe the situation to human drivers, when they’re taking the drivers’ test and see whether they have the good...and this is essentially the same that we put the pilots also into in their cockpit simulations.
 
 ### Audrey Tang：
-Basically, as the spirit of Turing Test, if AI can handle all the situations the human can imagine, and through at it, at a simulation, then we can judge it based on how it thinks and explains itself and their stimulation scenarios.
+Basically, as the spirit of Turing Test, if AI can handle all the situations the human can imagine, and through at it, at a simulation, then we can judge it based on how it thinks and explains itself and their simulation scenarios.
 
 ### Audrey Tang：
 At the moment, there’s still always somebody behind the wheel to take over when the machine fears that they don’t have the confidence to handle the situation. Another very important thing is the human machine hand-off.

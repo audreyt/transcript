@@ -213,7 +213,7 @@ Glen’s colleague, Divya, I think, did a research paper on it, also from Radica
 Divya did extensive research on existing materials.
 
 ### Audrey Tang:
-There is a really good one about using AI to regulate AI, that’s the UberX example where we using the Pol.is system, which is a AI moderated facilitation method so that uber drivers and taxi drivers and all passengers can reach a rough consensus on how to regulate the UberX algorithm. That’s well worth a read.
+There is a really good one about using AI to regulate AI, that’s the UberX example where we using the Pol.is system, which is an AI moderated facilitation method so that uber drivers and taxi drivers and all passengers can reach a rough consensus on how to regulate the UberX algorithm. That’s well worth a read.
 
 > (interviewer speaks)
 
