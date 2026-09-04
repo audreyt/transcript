@@ -316,7 +316,7 @@ My suggestion is very simple, it’s just to listen more across different experi
 > (Japanese)
 
 ### Audrey Tang:
-To expand on the listening, if I am anxious about something and my friend or you \[laughs\] is anxious about something else. Then we listen to one another, we both feel better. There’s less anxiety. If we define ourselves as, “Oh, I’m an anxious person. You’re a anxious person.” Then this stereotyping makes both of us even more anxious when talking to one another.
+To expand on the listening, if I am anxious about something and my friend or you \[laughs\] is anxious about something else. Then we listen to one another, we both feel better. There’s less anxiety. If we define ourselves as, “Oh, I’m an anxious person. You’re an anxious person.” Then this stereotyping makes both of us even more anxious when talking to one another.
 
 ### Audrey Tang:
 The experience is what we have, the feeling is what we have, but we’re not defined by that. The way we grow out of those definitions is by listening to one another.

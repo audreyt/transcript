@@ -157,10 +157,10 @@ They know that these arguments will be inspected online, and they may face socia
 It makes it much more easy for lobbyists of different positions on the same issue to eventually asynchronously arrive to the same common values. People will be motivated then to only make public benefit arguments, so it also makes collaboration easier.
 
 ### Gary Sheng:
-That’s amazing. Here’s a pointed question. What subset or what types of interaction between community members, specific to \[inaudible 14:16\] , should be recorded?
+That’s amazing. Here’s a pointed question. What subset or what types of interaction between community members, specific to \[inaudible 14:16\], should be recorded?
 
 ### Audrey Tang:
-There’s two criteria. First, for example, if you start mentioning a story, a anecdote of your friend, who have not cleared this for publication, then on the transcript we’ll probably have to anonymize or even delete that section, because they have not cleared this for a public dissemination.
+There’s two criteria. First, for example, if you start mentioning a story, an anecdote of your friend, who have not cleared this for publication, then on the transcript we’ll probably have to anonymize or even delete that section, because they have not cleared this for a public dissemination.
 
 ### Audrey Tang:
 Anything that concerns the privacy, the trade secret, or whatever of a third party who is not party to this conversation, naturally should not recorded. Or even, if recorded, should be redacted before publishing. That is one criteria.
@@ -193,7 +193,7 @@ People do actually quote this, and just then start a discussion board with that 
 Did you make this?
 
 ### Audrey Tang:
-Yes. I maintain this website. This technology is called \[non-English speech\] , which is a African word. The English version is maintained by mySociety, which is a UK civic tech group.
+Yes. I maintain this website. This technology is called \[non-English speech\], which is an African word. The English version is maintained by mySociety, which is a UK civic tech group.
 
 ### Gary Sheng:
 US-based?
@@ -241,7 +241,7 @@ Have other countries used this?
 As I said, SayIt started from mySociety, which is UK. It spread to a large number of users. If you google for SayIt, you can see that it’s being used in Africa, in many Parliaments, and things like that.
 
 ### Audrey Tang:
-It’s actually a very integrated component in many existing civic hacking groups, where people really want to take a unfriendly format, for example, PDF files or things like that, that are published by their local city council or parliament. They write simple programs that publish them then as transcript that you can easily quote.
+It’s actually a very integrated component in many existing civic hacking groups, where people really want to take an unfriendly format, for example, PDF files or things like that, that are published by their local city council or parliament. They write simple programs that publish them then as transcript that you can easily quote.
 
 ### Audrey Tang:
 You talk about the commenting part. It’s very convenient and also pretty easily done to integrate SayIt with a hypothesis, which is another civic tech tool that is open-source. You can just take any SayIt web page, or indeed any web page, and then start adding a commenting board on it by overlaying the commenting interface on top of an existing page.
@@ -286,7 +286,7 @@ I wouldn’t say that I personally design things. It’s just that I’ve helped
 Maybe a trophy from the president, promising to implement whatever they have done in the next 12 months into a national policy and things like that, like meta-mechanisms to encourage such mechanisms.
 
 ### Gary Sheng:
-If I’m hearing that you are changing the culture subsets, it’s more changing like helping people value the sort of making these participatory processes more accessible to the Gen Z types that \[inaudible 25:07\] interactions and then other people who are the more synchronous \[inaudible 25:13\] .
+If I’m hearing that you are changing the culture subsets, it’s more changing like helping people value the sort of making these participatory processes more accessible to the Gen Z types that \[inaudible 25:07\] interactions and then other people who are the more synchronous \[inaudible 25:13\].
 
 ### Audrey Tang:
 It’s transculturalism, which means the freedom to move across cultures and inspect your own upbringing with the lens of a different culture – asynchronous, synchronous, remote, face-to-face. These are all different kinds of cultural primitives, \[laughs\] the different cultural components.
@@ -391,7 +391,7 @@ Certainly. Some of them may be already visiting anyway, which makes it easier. I
 We’ll see where corona is in July, but do you have any recommendations for which of the young leaders that you think might be good to talk to?
 
 ### Audrey Tang:
-I don’t have any specific recommendation because I don’t know the kind of tone you’re trying to set. I can just say I’ve been participating and helping out the Oslo Freedom Forum in Taiwan and also the…Actually there’s many human-right-related conferences that have Hong Kong people who input. There’s \[inaudible 36:22\] , the g0v Summit, who also has a Hong Kong track.
+I don’t have any specific recommendation because I don’t know the kind of tone you’re trying to set. I can just say I’ve been participating and helping out the Oslo Freedom Forum in Taiwan and also the…Actually there’s many human-right-related conferences that have Hong Kong people who input. There’s \[inaudible 36:22\], the g0v Summit, who also has a Hong Kong track.
 
 ### Audrey Tang:
 Maybe you can just look at existing material. These all have video recordings, even TED Talks. If you like any particular speaker that strikes you as working very well, then maybe that’s a better starting point than me just iterating the list of 20 or 30 people.
@@ -456,10 +456,10 @@ Just imagine just seeing these sort of stickers fucking everywhere.
 That’s nice.
 
 ### Gary Sheng:
-You’re aware of, I’m sure, other civic superheroes as well. You have your own \[inaudible 40:28\] . It was cool. A couple weeks ago, we had a picture of the guy on the left, \[inaudible 40:35\] Conway, who was, he was the big star of the ‘60s in America. He was so cool.
+You’re aware of, I’m sure, other civic superheroes as well. You have your own \[inaudible 40:28\]. It was cool. A couple weeks ago, we had a picture of the guy on the left, \[inaudible 40:35\] Conway, who was, he was the big star of the ‘60s in America. He was so cool.
 
 ### Gary Sheng:
-Just imagine if there’s all these kids, actual teenagers, maybe even younger, but having t-shirts just proudly \[inaudible 40:53\] .
+Just imagine if there’s all these kids, actual teenagers, maybe even younger, but having t-shirts just proudly \[inaudible 40:53\].
 
 ### Gary Sheng:
 You are the pinnacle of a civic superhero to me. I’m excited. I’m just grateful that you spent time with me today. I’m excited that you’re \[inaudible 41:09\] to the kids and excited about all the ways that we can work together.

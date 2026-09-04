@@ -384,7 +384,7 @@ Last but not least, we are start marketing, that’s more relationships if we wa
 The other way around for more companies like Deliveroo, which I understand opened here last week to consider Taiwan also as a sales market as a manufacturing destination. A little bit of bad players, players with bidirectional awareness for a market, creating interest. That’s also part of why we are here as an exploratory mission, and we’re very, very grateful to Wallis and her team for making this possible.
 
 ### Audrey Tang:
-I’m particularly interested in the Missions part which is reflected in my impart. It was the global bulletin. If you flip it around, it says \[non-English speech\] . \[laughs\]
+I’m particularly interested in the Missions part which is reflected in my impart. It was the global bulletin. If you flip it around, it says \[non-English speech\]. \[laughs\]
 
 ### Parveen Dhanda:
 You and global goals.
@@ -641,7 +641,7 @@ Exactly. Wow, I like that. It’s very good. Thank you. Thanks for sharing it.
 We should bring this example back to the mayor of London. We just had a very confrontational discussion in the public between the mayor and Uber, revoking the Uber license. The public, I believe, but I’m not representative, is loving the service, so what’s right or wrong here?
 
 ### Audrey Tang:
-We have a advocate for this methodology in the UK called Geoff Mulgan.
+We have an advocate for this methodology in the UK called Geoff Mulgan.
 
 ### Parveen Dhanda:
 Jeff Morgan?
@@ -1137,7 +1137,7 @@ It’s great that we’re having these conversations, because a key concern at t
 Yeah, but also the bilateral element is really interesting. If you take that to a bigger context, say the EU, the UN, it’s possibly going to be a 10-year process of deliberation. By the time, AI will have had...
 
 ### Audrey Tang:
-People will be like, &quot;You know, we don’t even have a Internet exchange point. Why are you talking with us about these things?&quot;
+People will be like, &quot;You know, we don’t even have an Internet exchange point. Why are you talking with us about these things?&quot;
 
 > (laughter)
 
@@ -1227,10 +1227,10 @@ Can you get someone to take a picture?
 > (background conversations)
 
 ### Audrey Tang:
-We’re working with the GDS, Policy Lab, and so on, of course on the upper level. What we found particularly fruitful is just working with mid-level public servants and just work in a operation-level collaboration. We can then really share new code in programming, regulation, and things like that.
+We’re working with the GDS, Policy Lab, and so on, of course on the upper level. What we found particularly fruitful is just working with mid-level public servants and just work in an operation-level collaboration. We can then really share new code in programming, regulation, and things like that.
 
 ### Stephan Kuester:
-Please let us know if you’re visiting on a official or unofficial mission again. We’d love to show you around a bit, possibly also introduce some entrepreneurs that could substantiate what we presented.
+Please let us know if you’re visiting on an official or unofficial mission again. We’d love to show you around a bit, possibly also introduce some entrepreneurs that could substantiate what we presented.
 
 ### Parveen Dhanda:
 Especially around if you’re very interested in the AI and ethics, that discussion. We can introduce you to some of the people that are really talking very much in this space, as well. I’d be happy to do an intro...

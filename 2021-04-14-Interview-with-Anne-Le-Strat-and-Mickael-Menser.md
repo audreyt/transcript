@@ -53,7 +53,7 @@ In that sense, the social sector is the one that sets the agenda. The ruling par
 
 The unifying events were, for example, the earthquake, the September 21st earthquake, that's basically forced all the social sector energy to move together in order to recover. In fact, most of the occupant movement in Taiwan follows the same collaboration as the disaster recovery and resilience as this social sector.
 
-If you look at the 20 or so NGOs that occupied the streets around the parliament during 2014, you see pretty much the exact same collaboration model and style as they would be following a accident, natural disaster, a typhoon or things like that. That's the network of resilience that fills in the void of the public sector inability or lack of the agility to respond to emergent social situations.
+If you look at the 20 or so NGOs that occupied the streets around the parliament during 2014, you see pretty much the exact same collaboration model and style as they would be following an accident, natural disaster, a typhoon or things like that. That's the network of resilience that fills in the void of the public sector inability or lack of the agility to respond to emergent social situations.
 
 Now, politically speaking though, we're a very young democracy. Our first presidential election in '96, and is already after the Wide Web. That imbues in the democratic designers a different sense of scale. Previously, if you operate only with paper or telegram, the old coin or the app or the phones, then that means that it only scales to speaking through radio.
 
@@ -371,7 +371,7 @@ In that sense, they're not liable for the data bias or data errors, because the 
 
 We think that each person has the same distance when they go to secure their PPEs, but because we publish every 30 seconds, their real-time purchasing history, it soon turns out we're biased. It's not a company. It's called OpenStreetMap. It's a community.
 
-Communities find a member of the parliament, MP [Mandarin] , previously VP data analytics, Foxconn. She knows something about data. In her interpellation to the Minister of Health and Welfare, she said that the OpenStreetMap community notice if you zoom out a little bit, then the people who have good access to public transportation get it much, much more easily.
+Communities find a member of the parliament, MP [Mandarin], previously VP data analytics, Foxconn. She knows something about data. In her interpellation to the Minister of Health and Welfare, she said that the OpenStreetMap community notice if you zoom out a little bit, then the people who have good access to public transportation get it much, much more easily.
 
 The people who don't don't, because by the time they get to the pharmacy, the pharmacy may have already closed for the business hours. What looks the same distance on the map is actually not equity.
 

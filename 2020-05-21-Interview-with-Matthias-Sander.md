@@ -102,7 +102,7 @@ Not just spent the night.
 At the morning I went to the Presidential inauguration ceremony. Nothing special there. I sang along, not very audibly, with the singers, the National Choir, the experimental choir.
 
 ### Audrey Tang:
-They sang, first, a indigenous song, and then a Hakka, and one in Taiwanese Holo. I happen to know some of those songs, and I really enjoy singing with them.
+They sang, first, an indigenous song, and then a Hakka, and one in Taiwanese Holo. I happen to know some of those songs, and I really enjoy singing with them.
 
 ### Audrey Tang:
 One of them described that she’s standing on top, like the second floor, looking at the audience. She noticed I was singing along, observed that on Facebook, and said that whether describing this would be possible to summon me. This is the person here, singer.
@@ -369,10 +369,10 @@ If you pit Taiwanese people with random culture that doesn’t have a mask-weari
 I felt that a lot, and maybe it’s true, right?
 
 ### Audrey Tang:
-I don’t know. I think mostly this is just a availability thing. Like in Czech Republic, they do a very public mask for all campaign, and literally changed the norm over the course of a week. They do that by showing how to sew their own mask, and how to fold and make their own mask.
+I don’t know. I think mostly this is just an availability thing. Like in Czech Republic, they do a very public mask for all campaign, and literally changed the norm over the course of a week. They do that by showing how to sew their own mask, and how to fold and make their own mask.
 
 ### Audrey Tang:
-It doesn’t really quite matter whether there’s a norm to begin with. It does matter whether this norm-building is conscious, or intentional or not, because otherwise, the incentives cancel each other out. If you do something out of intrinsic motivation and there is a intrinsic order or reward, they tend to cancel each other.
+It doesn’t really quite matter whether there’s a norm to begin with. It does matter whether this norm-building is conscious, or intentional or not, because otherwise, the incentives cancel each other out. If you do something out of intrinsic motivation and there is an intrinsic order or reward, they tend to cancel each other.
 
 ### Matthias Sander:
 That’s what happened in many European countries. In the beginning, they were very reluctant. They said you don’t have to wear a mask. It’s even better not to wear one. There might be false incentives and all that. Basically I think it was because they didn’t have masks, and then later on, we all saw them adopting…
@@ -699,7 +699,7 @@ I preach, I advocate for digital transformation. If you go to your local ministe
 You’re a lower-case minister. Still then, normally, you would preach something, which would, in this case as digital minister, I would suspect would be, “Hey guys, we should use this occasion to push for a digital payment system.”
 
 ### Audrey Tang:
-No, I don’t have a agenda, and digital is here to serve the social norm, to help us find the social norm, discover the social norm. If the norm is that people in the National Palace Museum queues really want a piece of paper for memory value, for souvenir value, then digital should make that happen.
+No, I don’t have an agenda, and digital is here to serve the social norm, to help us find the social norm, discover the social norm. If the norm is that people in the National Palace Museum queues really want a piece of paper for memory value, for souvenir value, then digital should make that happen.
 
 ### Audrey Tang:
 I’m not the information technology minister, which would be advocating for specific technologies. Digital means possibilities, inclusion, and things like that. I would probably say whatever on my mind and use digital technologies to further the social norms.
@@ -785,7 +785,7 @@ For artificial intelligence, they say 人工智能. The 智能 part is intellige
 Is this concept really very much different in practice as well from the Western concept of smart city?
 
 ### Audrey Tang:
-Yeah, I think a few things. First of all, if you concentrate on wisdom, then interpersonal mechanism designed for participation, I think is right term, is preferred over a individual interaction with digital services. It would be digital services that enable the kind of social structure that are more pro-social.
+Yeah, I think a few things. First of all, if you concentrate on wisdom, then interpersonal mechanism designed for participation, I think is right term, is preferred over an individual interaction with digital services. It would be digital services that enable the kind of social structure that are more pro-social.
 
 ### Audrey Tang:
 That we do share with the PRC. That’s the same concept. What’s different is that we emphasize participatory mechanism design, meaning that everybody can change the rules a little bit and propose new innovations as ordinary citizens. Whereas in PRC, there’s less of that. There’s places where we’re similar and places where we are not.
@@ -902,7 +902,7 @@ Yeah?
 I know.
 
 ### Audrey Tang:
-It doesn’t really matter. If I’m not longer in a upper-case minister position, I can still visit the Social Innovation Lab and talk to people every Wednesday. It really doesn’t change anything. The upper-case one, I see it as a honorary title.
+It doesn’t really matter. If I’m not longer in an upper-case minister position, I can still visit the Social Innovation Lab and talk to people every Wednesday. It really doesn’t change anything. The upper-case one, I see it as an honorary title.
 
 ### Matthias Sander:
 You don’t care about honorary titles?
@@ -935,7 +935,7 @@ That’s my condition entering the cabinet. It’s well-documented. It’s by vo
 I’m saying, “It’s good that you can give me and office, but I will not frequently enter the office. And it’s good that there’s a salary, although it’s one-third of what I used to earn, but whatever.
 
 ### Audrey Tang:
-“The most important thing is that the public service trust me because I’m a advisor who never forced them to do anything, and this relationship need to continue if you make me a upper-case minister.” Premier Lin Chuan agreed with that, and so did every premier after him.
+“The most important thing is that the public service trust me because I’m an advisor who never forced them to do anything, and this relationship need to continue if you make me an upper-case minister.” Premier Lin Chuan agreed with that, and so did every premier after him.
 
 ### Matthias Sander:
 It was, I think, Jaclyn Tsai who, can I say, brought you into government or who established the first contact?
@@ -965,7 +965,7 @@ Three very different things. First, Jaclyn Tsai was the horizontal minister for 
 I’m more like a counsel on algorithms, instead. People come to me and seek advice, not because they need a novel interpretation of our legal system. We have a Minister Lo for that.
 
 ### Audrey Tang:
-People come to me because they are trying to reconcile the algorithmic norm and the existing social norm. I am playing a very different role because my training is different from Minister Jaclyn Tsai, in a advisory cabinet counsel position. That’s the first thing.
+People come to me because they are trying to reconcile the algorithmic norm and the existing social norm. I am playing a very different role because my training is different from Minister Jaclyn Tsai, in an advisory cabinet counsel position. That’s the first thing.
 
 ### Audrey Tang:
 The second thing is, although Jaclyn Tsai did have ministerial delegates, she did not have this participation officer network, which all the ministries joined. That replicates our kind of horizontal liaison-based leadership in each and every ministry.
@@ -1076,7 +1076,7 @@ I guess you’ll never, never ever run for elected office, right?
 I would say that unless, of course, this is just to bootstrap a new system, a new mechanism where people only vote for issues and after that never for candidates, then that I would entertain, because it’s essentially a reboot of a representative democracy.
 
 ### Audrey Tang:
-That could work, but if I join the representative democracy with the goal of continuing representative democracy, I don’t see that happen. Lawrence Lessig tried to do that, run for President and only do one single thing, which is pass a executive order to end the Super PACs in the US, and then he would immediately resign.
+That could work, but if I join the representative democracy with the goal of continuing representative democracy, I don’t see that happen. Lawrence Lessig tried to do that, run for President and only do one single thing, which is pass an executive order to end the Super PACs in the US, and then he would immediately resign.
 
 ### Matthias Sander:
 That rings a bell. Can you say that name again?
@@ -1193,7 +1193,7 @@ Rule, OK.
 Yeah. This is the national administrative rule of policies. They maybe changed at the whim of a premier or a minister, because it’s not required by law. It is not written into the formative law of the cabinet itself.
 
 ### Audrey Tang:
-What President Tsai is saying essentially is that we’re looking at – I wouldn’t say best – better practices in the past few years, and put it into a amendment to the act that defines the extent of the cabinet and how the administration, the executive branches constitute it and put digital to it.
+What President Tsai is saying essentially is that we’re looking at – I wouldn’t say best – better practices in the past few years, and put it into an amendment to the act that defines the extent of the cabinet and how the administration, the executive branches constitute it and put digital to it.
 
 ### Audrey Tang:
 Instead of just a horizontal ministers’ network which, although we institutionalized most of that at a regulation level, she would like the Parliament to have a deliberation on how to put it into law level, which is even more commitment.
@@ -1202,7 +1202,7 @@ Instead of just a horizontal ministers’ network which, although we institution
 Absolutely, and it’s a recognition of your work that it works entirely?
 
 ### Audrey Tang:
-I guess. Or of people’s work then. I didn’t really do much. Of connecting good governance, effective governance, social sector-laid innovation with digital transformation, which was not a obvious link four years ago.
+I guess. Or of people’s work then. I didn’t really do much. Of connecting good governance, effective governance, social sector-laid innovation with digital transformation, which was not an obvious link four years ago.
 
 ### Matthias Sander:
 You aren’t very much involved, I guess, in this kind of industrial policy. We have to strengthen our semiconductor industry, we have to strengthen our ICT companies and stuff like that, right?
@@ -1211,7 +1211,7 @@ You aren’t very much involved, I guess, in this kind of industrial policy. We 
 If TSMC wants to share their renewable energy designs, participate more in the circular economy talent pool, and offer their designs so that SMEs can make a greener and more circular economy recovery, then I’m very interested, in the sense of zero waste, zero carbon, and things like that.
 
 ### Audrey Tang:
-I focus on the part that has a environmental, ecological – thank you – and societal public benefit. If there’s only linear economy and they focus mostly only on reducing external harm, then I’m far less interested.
+I focus on the part that has an environmental, ecological – thank you – and societal public benefit. If there’s only linear economy and they focus mostly only on reducing external harm, then I’m far less interested.
 
 ### Matthias Sander:
 One thing that was criticized these days is that there is only one woman as a head of a ministry.
@@ -1511,7 +1511,7 @@ If they cannot do either of these two branches, then maybe we’ll have to use a
 This delicate choice of norm building is now a central topic in the new e-ID debate. It’s long past time that we have a good public deliberation on this.
 
 ### Audrey Tang:
-Coupled with the GDPR adequacy work, as well as the work on the digital agency you just mentioned and the National Human Rights Council on the Control Yuan that is going to be set up very, very soon as our national human right overseeing branch of the government, that will all shape together to have a due process on privacy not as a afterthought, but privacy as a inherent design value. I very much look forward for that to happen.
+Coupled with the GDPR adequacy work, as well as the work on the digital agency you just mentioned and the National Human Rights Council on the Control Yuan that is going to be set up very, very soon as our national human right overseeing branch of the government, that will all shape together to have a due process on privacy not as an afterthought, but privacy as an inherent design value. I very much look forward for that to happen.
 
 ### Matthias Sander:
 Sorry, you just mentioned GDPR. What did you say?
@@ -1580,7 +1580,7 @@ Home monitoring devices, like a home bot, like a voice assistant speaker. You pu
 Many other things. Nowadays there’s the quarantining hotel, which you don’t need the digital fence because there’s virtual fence. I really couldn’t say that it’s always preferred.
 
 ### Audrey Tang:
-There’s many alternatives. If it’s a opt-in basis, like if people prefer a quarantining hotel, now there’s plenty of quarantining hotel that could subsidize for the digital fence because you really cannot escape the hotel. It’s a physical barricade.
+There’s many alternatives. If it’s an opt-in basis, like if people prefer a quarantining hotel, now there’s plenty of quarantining hotel that could subsidize for the digital fence because you really cannot escape the hotel. It’s a physical barricade.
 
 ### Audrey Tang:
 What I’m trying to get at is that there’s many alternatives, each with its own drawbacks, pros and cons. If we can honestly say that for some people it’s preferable, then we introduced that as an alternative, like the quarantining hotel.
@@ -1699,7 +1699,7 @@ I asked Howard, first, whether that’s true, and also what kind of aggregation 
 The basic philosophy, what I gather from Howard, is that they don’t actually collect more data. This is what the telecoms are already collecting anyway to improve their roaming service, I’m sure.
 
 ### Audrey Tang:
-This is a out of purpose use, and it operates purely on SMS level. That’s what he told me.
+This is an out of purpose use, and it operates purely on SMS level. That’s what he told me.
 
 ### Matthias Sander:
 That’s good enough for you?
@@ -1756,7 +1756,7 @@ What I think is interesting, you’re saying it’s very inaccurate, which I agr
 Super inaccurate.
 
 ### Matthias Sander:
-In this study they use this data. The study showed – I’m not sure if it was in the abstract. I guess it was – that out of these more than 600,000 people who went, and then those who went to see a doctor, their proportion was lower then in the general Taiwanese population.
+In this study they use this data. The study showed – I’m not sure if it was in the abstract. I guess it was – that out of these more than 600,000 people who went, and then those who went to see a doctor, their proportion was lower than in the general Taiwanese population.
 
 ### Audrey Tang:
 Sorry, what proportion?
@@ -1774,7 +1774,7 @@ Absolutely, that’s what I’m saying, but in the study they’re saying this s
 No, what this can draw, and only in a correlation sense, not causation sense, is that people who have received that SMS take care of themselves more – there’s no dispute about that – and then that’s it. That’s pretty much what the data can say.
 
 ### Audrey Tang:
-Like a control a group who did not receive any SMS and a experimental group who did, regardless of the methodology, the group which received the SMS obviously wore their mask more, or whatever. Then, of course, because of that they get less respiratory diseases, which is very logical.
+Like a control a group who did not receive any SMS and an experimental group who did, regardless of the methodology, the group which received the SMS obviously wore their mask more, or whatever. Then, of course, because of that they get less respiratory diseases, which is very logical.
 
 ### Matthias Sander:
 Absolutely.

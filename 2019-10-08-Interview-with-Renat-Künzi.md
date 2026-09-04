@@ -45,13 +45,13 @@ He also covered the fall of the Berlin Wall and made sure that he wants to pursu
 A lot of them are just undergrad or graduate students, and they were finishing their schools that they could not finish back in the PRC, so continuing their study in Europe. I remember in the living room, just talking about democracy with lots of Tiananmen exiles. That’s maybe one of the moments for me.
 
 ### Audrey Tang：
-Finally, after I returned to Taiwan and had a Internet account, I think that was in 1996 when I was 15 years old, I decided that maybe dropping out of junior high school is a good idea. I told my principal that my textbooks were out of date, that I’m able to participate in the knowledge creation just on archive.org, the preprint servers, as well as the open access community.
+Finally, after I returned to Taiwan and had an Internet account, I think that was in 1996 when I was 15 years old, I decided that maybe dropping out of junior high school is a good idea. I told my principal that my textbooks were out of date, that I’m able to participate in the knowledge creation just on archive.org, the preprint servers, as well as the open access community.
 
 ### Audrey Tang：
 My principal says, “Sure, you don’t have to go to school anymore,” and covered for me. I founded quite a few start-ups. I think my real moment participating in democracy started then, because then I got to know this Internet community with IEPF, with the W3C. Those are those emerging governance structures where people are just practicing this idea of multi-stakeholder Internet governance.
 
 ### Audrey Tang：
-That’s the first democratic system that I knew. It wouldn’t be another six years until I get my voting rights. At that time, I’m already very well-versed in this kind of directly participative democracy where all you need is a email account. Nobody knows that you’re just 15 years old, so it’s very inclusive for me at that time.
+That’s the first democratic system that I knew. It wouldn’t be another six years until I get my voting rights. At that time, I’m already very well-versed in this kind of directly participative democracy where all you need is an email account. Nobody knows that you’re just 15 years old, so it’s very inclusive for me at that time.
 
 ### Renat Künzi：
 When you worked with the government, was this a change of role? How did you proceed this process?
@@ -71,7 +71,7 @@ That was actually last year’s name card. This is this year’s one, but the fr
 Because of radical transparency, people who interview me, like we’re doing now, people who come to lobby about something, internal meetings that I’m a chair, I make sure that, just like in Internet governance, there’s a radically transparent record of it so everybody can build on each other’s argument instead of just lobbying for their private interests. People under the circumstances usually have to at least care somewhat about the public interests.
 
 ### Audrey Tang：
-I wouldn’t say that it’s a change of role for me, personally, because I’ve been always operating this way. Rather, this is a attempt to bring some of the legitimacy-building devices from Internet governance into everyday governance in the cabinet.
+I wouldn’t say that it’s a change of role for me, personally, because I’ve been always operating this way. Rather, this is an attempt to bring some of the legitimacy-building devices from Internet governance into everyday governance in the cabinet.
 
 ### Renat Künzi：
 Last question in this bio part. Are you proud that you made this way, that you’re also a member of the Taiwanese government? How do you look at this?
@@ -80,7 +80,7 @@ Last question in this bio part. Are you proud that you made this way, that you�
 I’m happy that the Taiwanese Cabinet is willing to give this collaborative governance a genuine try. This is something that is very rare. Usually, we get similar attempts. We have many people in this kind of network. In Europe alone, there is the DECODE project, the Horizon 2020 project. Before that, there was the Decentralized Cities.
 
 ### Audrey Tang：
-There’s many, many projects that try to crack this nut of a inclusive digital democracy. Mostly, they work on the edge of the government, meaning that maybe they process one significant case, maybe a couple month, once. Maybe they get a political will by a mayor of a certain city, but once the mayor switches, then it’s gone.
+There’s many, many projects that try to crack this nut of an inclusive digital democracy. Mostly, they work on the edge of the government, meaning that maybe they process one significant case, maybe a couple month, once. Maybe they get a political will by a mayor of a certain city, but once the mayor switches, then it’s gone.
 
 ### Audrey Tang：
 We’re, just recently, having to work a governance mechanism for a very powerful software called Consul because the Madrid City, although they’re still using it, is no longer actively leading its development.
@@ -203,7 +203,7 @@ It’s just thanks to Taiwan’s broadband as human rights, no matter where they
 For youth advisory group, we also have another website, the advisory.yta.gov.tw. Here, you can see all the youth counselors who are reverse mentors to ministries. The idea is that each minister can nominate one young person, usually less than 30 and always less than 35, to serve as a reverse mentor, much as I was a reverse mentor for Minister of Japan Tsai, many years ago, four years ago.
 
 ### Audrey Tang：
-The idea here is that the young people are not only a understudy, they are actually here to lead the ministry into a more forward-looking direction. They have direct access to the head of the council, which is our premier, our prime minister, and helped along by yours truly, but also ministers of education, labor, and economy.
+The idea here is that the young people are not only an understudy, they are actually here to lead the ministry into a more forward-looking direction. They have direct access to the head of the council, which is our premier, our prime minister, and helped along by yours truly, but also ministers of education, labor, and economy.
 
 ### Audrey Tang：
 The idea is that every young person can also have this meeting regionally to talk about the work that they are focusing on. As you can see, there’s a wide variety of topics that they care about. We have an ongoing map of all the different policies currently in place for all different youth engagement, including the presidential promises, as well as the ministerial projects.
@@ -299,7 +299,7 @@ This is the basic idea of bringing tech to people, not asking people to come to 
 But if we make sure that this is mostly just capturing, amplifying, distilling the previous face to face conversations as I just showed you, then there is far more motivation for people to participate in their local affairs knowing that they will be as collated and transmitted to the national government, but without asking people to come to a “national platform.”
 
 ### Audrey Tang：
-I think this relationship between face to face and digital is also very important. Once you use digital only as a assistive, augmented or an amplifier of face to face conversation, you can’t go wrong.
+I think this relationship between face to face and digital is also very important. Once you use digital only as an assistive, augmented or an amplifier of face to face conversation, you can’t go wrong.
 
 ### Renat Künzi：
 Is there something like a highlight, a really good example that you can present to foreign governments or in you contact when you were telling about your vision? Is there something like your most favorite project that you like to present?
@@ -463,7 +463,7 @@ Indeed, at that time, I think very few people care about, say, copyright extensi
 I think the public service can really learn, and that includes me, anyone can learn about the fact that we’re switching from a metaphor of there’s just a limited number of senior organizers in civil society and in the private sector, and the public sector’s role is just to make arbitration between those organizers.
 
 ### Audrey Tang：
-This is a superseded idea because, nowadays, with the right hashtag - #MeToo, #ClimateStrike - anyone can be a organizer. There’s no need for traditional vertical organization anymore to represent people’s ideas. Any of these online platforms can represent people’s ideas with no loss in fidelity.
+This is a superseded idea because, nowadays, with the right hashtag - #MeToo, #ClimateStrike - anyone can be an organizer. There’s no need for traditional vertical organization anymore to represent people’s ideas. Any of these online platforms can represent people’s ideas with no loss in fidelity.
 
 ### Audrey Tang：
 Because of that, we have to switch to a different set of questions. Instead of asking, “Who are the organizers and how do we arbitrate?” we must ask now, “What are the various positions? What are their common values, and can we deliver innovations that deliver on everybody’s common values?”
@@ -514,7 +514,7 @@ Setting aside time for feelings is also very important before we jump to the ide
 Then you get a referendum and half the people feel they have lost.
 
 ### Renat Künzi：
-There’s an actual debate in Switzerland about the introduction of a EID. The plan is that \[laughs\] the government, who is now a bit cautious, because there were fails, like e-voting, and they are cautious. They want to build up public-private partnerships, private companies would issue or give these EIDs to the citizens. What about EIDs in Taiwan?
+There’s an actual debate in Switzerland about the introduction of an EID. The plan is that \[laughs\] the government, who is now a bit cautious, because there were fails, like e-voting, and they are cautious. They want to build up public-private partnerships, private companies would issue or give these EIDs to the citizens. What about EIDs in Taiwan?
 
 ### Audrey Tang：
 We already have EIDs for quite some time. We have a PKI card, the Citizen Digital Certificate, or the CDC. It’s a strongly encrypted card that has the same weight as signing a paper document. I think maybe one in four people in Taiwan has that card and uses that card.
@@ -523,10 +523,10 @@ We already have EIDs for quite some time. We have a PKI card, the Citizen Digita
 Is it handed out by the state?
 
 ### Audrey Tang：
-It’s handed out by the state. The software is written by CHT, the Chunghwa Telecom, which is a almost state-owned but not quite telecom operator. People generally trust the CDC, but because it’s opt-in, if you don’t want a digital certificate, you can use other means to file your tax. There is no mandated requirement that you get a EID. You just get one if it suits you.
+It’s handed out by the state. The software is written by CHT, the Chunghwa Telecom, which is an almost state-owned but not quite telecom operator. People generally trust the CDC, but because it’s opt-in, if you don’t want a digital certificate, you can use other means to file your tax. There is no mandated requirement that you get an EID. You just get one if it suits you.
 
 ### Audrey Tang：
-There’s a plan starting next October to start rolling out the paper ID. With a EID built in, but you still have to activate it. What we’re saying is that if you feel like, you can have your EID and your paper ID and essentially stick them into one. If you don’t feel like, you don’t have to activate it either.
+There’s a plan starting next October to start rolling out the paper ID. With an EID built in, but you still have to activate it. What we’re saying is that if you feel like, you can have your EID and your paper ID and essentially stick them into one. If you don’t feel like, you don’t have to activate it either.
 
 ### Audrey Tang：
 Maybe the people who have the EID after the new EID rolls around will grow from maybe one in four people to maybe one in three or one in two people. We’re certainly not saying that everybody have to mandatorily enable the EID.
@@ -684,7 +684,7 @@ For foreign people, even after they get a permanent certificate for residency, t
 Many systems, for example ordering movies, ordering train tickets, and so on, only check for this format, and not this format. Essentially what it did is that it made sure that the nationals can always get reservation, but for many services if you’re a permanent resident, but you’re of a foreign passport, you cannot use these systems at all.
 
 ### Audrey Tang：
-This is not only digital systems, but also physical systems. It’s not a law, there’s no law that says we must discriminate foreign people versus local people. It’s in the code, and the code is both represents the architecture like in software code, but also just the coded forms. Anything that is something that restricts the possibility of a flow of service is code. This is what Lawrence Lansing called a architecture. The architecture precludes these people form participating.
+This is not only digital systems, but also physical systems. It’s not a law, there’s no law that says we must discriminate foreign people versus local people. It’s in the code, and the code is both represents the architecture like in software code, but also just the coded forms. Anything that is something that restricts the possibility of a flow of service is code. This is what Lawrence Lansing called an architecture. The architecture precludes these people form participating.
 
 ### Audrey Tang：
 What we’re now doing is starting next year also, the foreign people would get a different numbering, what used to be AA would be A8, what used to be AC would be A9, for example. Because of this, they are now of the same code, and they can get a service. We do all this because the norm changed, and then there’s a market policy of being inclusive about people with residence, so we changed the code. It involves no change in law at all.

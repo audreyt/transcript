@@ -91,7 +91,7 @@ Of course, their data center has sufficient information technology prowess to ha
 But as you correctly inferred, if the data collection involves more than one ministry, and one thinks that it’s private data and the other one does not, then we have a problem, because there is no upper level DPA that judges between those ministries.
 
 ### Audrey Tang:
-In a fact, this means that all the private data processing occurs as if it’s a EU, with each ministry as a member state.
+In a fact, this means that all the private data processing occurs as if it’s an EU, with each ministry as a member state.
 
 ### David Green:
 That’s a good analogy. Understood.

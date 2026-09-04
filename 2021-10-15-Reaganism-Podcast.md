@@ -289,7 +289,7 @@ Just like the Banning the Plastic Straw petition was a civics class assignment f
 
 If they can only receive consumed information, sometimes very difficult to tell one source of information against the other without learning the fact checking skills oneself. Also, we help to communicate to dispel the trending rumors by what we call "Humor Over Rumor."
 
-Basically, we identify by people flagging, voluntarily, spam in their communication media, like if you receive a email, it doesn't go to your junk mail folder but you think it should. You can flag it as junk mail and that signal gets reported to Spamhaus, an international network.
+Basically, we identify by people flagging, voluntarily, spam in their communication media, like if you receive an email, it doesn't go to your junk mail folder but you think it should. You can flag it as junk mail and that signal gets reported to Spamhaus, an international network.
 
 The next time that spammer tries to send to somebody else, it lands in their junk mailbox, not their inbox. We've been working on the account response strategy for decades now, so we apply the same strategy.
 

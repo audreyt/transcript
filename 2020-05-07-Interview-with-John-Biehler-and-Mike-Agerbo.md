@@ -240,7 +240,7 @@ The quarantine’s provided by top hotels. We make sure that we thank you for th
 > (laughter)
 
 ### Audrey Tang:
-In any case, what we have done instead is that we controlled this at the borders with quarantining. We use something called a digital fence, meaning that if people break out of their quarantine with their phone, then a automated SMS message is sent to local hostel managers and police so that people can see what really happened. We keep people within quarantine using this way.
+In any case, what we have done instead is that we controlled this at the borders with quarantining. We use something called a digital fence, meaning that if people break out of their quarantine with their phone, then an automated SMS message is sent to local hostel managers and police so that people can see what really happened. We keep people within quarantine using this way.
 
 ### Audrey Tang:
 Of course, if their phone runs out of battery or stays for too long without moving or answering messages, the same thing happens. It is some encroachment on the privacy during those 14 days, but we do have a constitutional court ruling during SARS and after SARS when we did a recap that backs this up.

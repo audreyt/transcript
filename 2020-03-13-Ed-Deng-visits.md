@@ -256,7 +256,7 @@ It’s just the NHI, and NHI gets to decide, approve who gets to use the SDK.
 Then legitimacy is lower, because in Japan they, like us, used to have data protection authorities distributed throughout the ministries. Because of GDPR, they are now also working on liaison office that can serve as a kind of final arbiter of such tanks.
 
 ### Audrey Tang:
-Of course in Taiwan, that would warrant a independent unit in the administration. Then, later this year, there will also be one belonging to the Control Yuan, the National Human Rights Council.
+Of course in Taiwan, that would warrant an independent unit in the administration. Then, later this year, there will also be one belonging to the Control Yuan, the National Human Rights Council.
 
 ### Audrey Tang:
 Ideally, we should have a DPA in the administration, and a human rights oversee board that evaluates and approves NHI’s use to give it legitimacy. But at the moment, it is all administrative decision.
@@ -615,7 +615,7 @@ They just repurposed their ticket-buying bots, like for a concert. People would 
 or train tickets.
 
 ### Audrey Tang:
-…to be the first one. They try to issue 4,000 requests a second to try to be the first in line to guarantee that they have extra ticket to sell to other people. A lot of those bots were used against our system, which causes a firewall overload, not a application server overload.
+…to be the first one. They try to issue 4,000 requests a second to try to be the first in line to guarantee that they have extra ticket to sell to other people. A lot of those bots were used against our system, which causes a firewall overload, not an application server overload.
 
 ### Audrey Tang:
 It’s a denial service attack, I’m sure not by malicious people. It’s just people wanting to be the first in line, computationally.
@@ -672,7 +672,7 @@ Through the legislators?
 To the legislation. I don’t think anyone in the legislation will be against this kind of law to get GDPR adequacy. I don’t think any legislator would say, “Oh, we don’t want business from the EU.”
 
 ### Audrey Tang:
-On the other hand, of course, legislators are free to add new clauses. I think that a public education campaign, once they have their privacy act draft, that would then have, as I said, a new data protection authority, a new DPA, that’s more independent as a organ, and also the enabling acts of what the GDPR called joint controllership of data, or what we’ve been talking about, data mutuals.
+On the other hand, of course, legislators are free to add new clauses. I think that a public education campaign, once they have their privacy act draft, that would then have, as I said, a new data protection authority, a new DPA, that’s more independent as an organ, and also the enabling acts of what the GDPR called joint controllership of data, or what we’ve been talking about, data mutuals.
 
 ### Audrey Tang:
 There’s many different names for that idea, joint controllership. If we can get these into the legislation language, and manage to make sure that all the four parties understand what this is about, I think we have a good foundation to start a public deliberation about what is the best model to go forward.

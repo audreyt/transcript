@@ -271,7 +271,7 @@ I don't know. It's fun to share and enjoy. That's what Lynne Tobas was saying, j
 
 While we do see the anti-social corners of social media-fueled by outrage and by the vengefulness, the discrimination, the things that follows outrage, we can see, and there is now a numerical evidence to pick it up that humor over rumor actually works.
 
-Some humor, [laughs] , some fun making as part of the not just social sector, but also public sector can turn this around.
+Some humor, [laughs], some fun making as part of the not just social sector, but also public sector can turn this around.
 
 This is just like redefining the term infrastructure, which I'm aware the US is now doing well [laughs] what we did in 2016 and in our infrastructure appeal, we redefined digital infrastructure as infrastructure.
 

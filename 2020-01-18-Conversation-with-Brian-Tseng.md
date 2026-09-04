@@ -537,7 +537,7 @@ We have just talked about policy. I don’t know if it’s a topic your staff wo
 You have taken part developing the 108 curriculum, which is being rolled out now. What about the 108 curriculum? Currently, many people are very hesitant. They are worried and have no idea what this idea of “sùyǎng” is about.
 
 ### Brian Tseng:
-Is is right to call it “sùyǎng?” What does it mean?
+Is it right to call it “sùyǎng?” What does it mean?
 
 ### Audrey Tang:
 Actually, the word “sùyǎng” is a part of a translated term. The original term is “competence,” from “core competence”.

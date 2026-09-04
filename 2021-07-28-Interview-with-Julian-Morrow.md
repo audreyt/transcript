@@ -54,7 +54,7 @@ That's fascinating. I understand that the Join platform is — and forgive my te
 ### Audrey Tang:
 For the particularly controversial topics, we enlist the help of the Pol.is, it's a machine learning system. We use Pol.is only when there is more than three ministerial angles so that even within the government, we couldn't quite get to the same viewpoints.
 
-In that sense, Pol.is is a kind of a machine learning moderator. How it works is that for issues like Uber, when Uber first came to Taiwan in 2015, it work with people without professional driver license calling a UberX. We enlisted the help of police asking all the Uber drivers, taxi drivers, passengers and so on to go to this platform, which is like a survey.
+In that sense, Pol.is is a kind of a machine learning moderator. How it works is that for issues like Uber, when Uber first came to Taiwan in 2015, it work with people without professional driver license calling an UberX. We enlisted the help of police asking all the Uber drivers, taxi drivers, passengers and so on to go to this platform, which is like a survey.
 
 The survey is created by people sharing how they feel. Instead of the government doing the survey, the people wikisourced crowdsourced the agenda. There's people saying, "Oh, I feel much more safe if the passenger liability insurance is allowed on the UberX cars, and there's people who say, "Oh, I want them to not undercut existing meters," and things like that.
 

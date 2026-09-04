@@ -12,16 +12,16 @@
 Facilitators like us often incorporate the focused conversation method, also known as ORID, in our processes. We heard that you also use this method to facilitate governmental meetings. Can you tell us how it helps these meetings? What types of meetings would you recommend using ORID?
 
 ### Audrey Tang:
-There are two important components. The first is our Participation Officer initiative and the other is a project we had worked on—a petition for National Airborne Service to station at Hengchun Airport.
+There are two important components. The first is our Participation Officer initiative and the other is a project we had worked on—a petition for National Airborne Service Corps to station at Hengchun Airport.
 
 ### Audrey Tang:
 In the Executive Yuan, our two collaborative meetings every month serve as a multi-method dialogue platform, and they both educate on and solve problems. Every month, there is a team of Participation Officers (PO) who coordinate, facilitate, and consolidate issues and discussions with third and fourth-level central agencies on citizen petitions and inquiries. In these cross-department discussions, ORID helps us to focus on issues to find various solutions for the problems.
 
 ### Audrey Tang:
-One of my favorite examples is the petition of National Airborne Service to station at Hengchun Airport. About 8,000 citizens petitioned the National Airborne Service to allocate Black Hawk choppers to station at Hengchun Airport for use as ambulances. The core issue of this petition is actually the long travel time (90 minutes’ drive by car) locals have in order to access the nearest hospitals.
+One of my favorite examples is the petition of National Airborne Service Corps to station at Hengchun Airport. About 8,000 citizens petitioned the National Airborne Service Corps to allocate Black Hawk choppers to station at Hengchun Airport for use as ambulances. The core issue of this petition is actually the long travel time (90 minutes’ drive by car) locals have in order to access the nearest hospitals.
 
 ### Audrey Tang:
-Before we set up the PO system, we couldn’t respond to issues with multiple solutions. That is why in the “Directions for Implementing Online Participation in Public Policy” specifies that “When there are two or more responsible authorities, the Participation Platform administrative authority shall coordinate the designation of the principal and assisting authorities. If a dispute arises that cannot be resolved through coordination, the authorities concerned shall all be designated as principal authorities.” So, in our discussion for the Hengchun petition, our PO teams work with all the stakeholders in our collaborative meetings through the method of mind-mapping. We call this Issue-based Mapping.
+Before we set up the PO system, we couldn’t respond to issues with multiple solutions. That is why the “Directions for Implementing Online Participation in Public Policy” specifies that “When there are two or more responsible authorities, the Participation Platform administrative authority shall coordinate the designation of the principal and assisting authorities. If a dispute arises that cannot be resolved through coordination, the authorities concerned shall all be designated as principal authorities.” So, in our discussion for the Hengchun petition, our PO teams work with all the stakeholders in our collaborative meetings through the method of mind-mapping. We call this Issue-based Mapping.
 
 ### Audrey Tang:
 Our collaborative meetings are facilitated by Fang-Jui Chang. Fang-Jui had previously facilitated discussions at the Policy Lab in the U.K. and is actively implementing the practice in Taiwan. All the outside stakeholders—including legislators, village representatives, even superintendents of local hospitals and petitioners—can join the discussions.
@@ -78,7 +78,7 @@ In Canada, the government works with ICA Canada (Institute of Culture Affairs, C
 We are going to work with the NACS (National Academy of Civil Service) to plan out the training program for promotion from junior to senior civil service positions. The curriculum is not finalized yet, but our trial program received positive feedback. The curriculum may be incorporated into the training program for the promotion of junior positions.
 
 ### Audrey Tang:
-The participation officer system is adapted in the central government across the ministry level. So far we are getting good responses. Third-level agencies are starting to adopt the system, although mostly at the local government level. On the level of local government, we showed them the essential communication skills through demonstrations. We have done this in Taipei and Taichung, and then we will visit Tainan next. We hope local governments will adopt the system, too.
+The participation officer system is adopted in the central government across the ministry level. So far we are getting good responses. Third-level agencies are starting to adopt the system, although mostly at the local government level. On the level of local government, we showed them the essential communication skills through demonstrations. We have done this in Taipei and Taichung, and then we will visit Tainan next. We hope local governments will adopt the system, too.
 
 ### Question:
 After joining the cabinet, what is your vision of becoming “the most capable government ever in terms of communication”? What do you think caused the issue of trust right now?

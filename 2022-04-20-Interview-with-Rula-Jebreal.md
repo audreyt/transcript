@@ -8,7 +8,7 @@ I am so inspired by your story. I will start directly to the core. My main quest
 How did this journey and you embracing technology as a fundamental tool to make democracy even a more perfect system and more transparent system?
 
 ### Audrey Tang:
-Certainly. It started with journalism. Both of my parents are journalists working, from I had memory, maybe '85 and so. They are already working as frontline journalists covering Taiwan's democratization. You see, at that time, Taiwan was very much a authoritarian society.
+Certainly. It started with journalism. Both of my parents are journalists working, from I had memory, maybe '85 and so. They are already working as frontline journalists covering Taiwan's democratization. You see, at that time, Taiwan was very much an authoritarian society.
 
 We're still under martial law at that point, even though it would be lifted pretty quickly around the end of the '80s. Their work was interfered by the political censorship and so on. My dad would eventually, in 1989, visit the Tiananmen Square around May and June. You know what happened there. Fortunately for our family, he returned to Taiwan on the 1st of June.
 
@@ -38,7 +38,7 @@ The primary schoolers if they can measure air quality and inform their family wh
 
 If the middle schoolers can fact check the three presidential candidates in real-time so that you're in their debate and forum. If they say something that's against the facts, the middle schooler's name and their contribution appear on public television and streaming.
 
-Then that increases the bandwidth of democracy of people's input and also reduce the latency, the time delay before someone who surface a injustice into someone thinking of a innovation to address that. Then the entire society is, "Oh, yeah. We can actually make something better together." That's in my knowledge and experience is the best defense against the authoritarian narrative.
+Then that increases the bandwidth of democracy of people's input and also reduce the latency, the time delay before someone who surface an injustice into someone thinking of an innovation to address that. Then the entire society is, "Oh, yeah. We can actually make something better together." That's in my knowledge and experience is the best defense against the authoritarian narrative.
 
 ### Rula Jebreal:
 You want mass participation as a very young age. Engagement, listening. You're talking about active involvement, meaning holding these people in power accountable through transparency?
@@ -73,7 +73,7 @@ Then we have the Sunflower Movement, which is maybe the only movement in my life
 ### Audrey Tang:
 I think the main difference is in the situation or applications, the sit-ups that we co-created during the Sunflower Movement. Learning fully from the scholars such as Manuel Castells, who analyzed very deeply why these previous movements did not reach its original goal.
 
-In these movements that we have studied, what people have expressed is a kind of outrage, but a energy that is the outrage could not reliably turn into co-creation, or to good enough consensus that half a million people on the street would readily agree on.
+In these movements that we have studied, what people have expressed is a kind of outrage, but an energy that is the outrage could not reliably turn into co-creation, or to good enough consensus that half a million people on the street would readily agree on.
 
 Indeed, as time goes on, there's this information, rumors, violence escalation that turned initial utterly non-violent movement into something that even the organizers themselves could not converge on any coherent demands. Of course, for some people, that was the point of exposing the way that the powers work, how the structure work and the structure lessness to them is a feature. It's not a bug.
 
@@ -169,7 +169,7 @@ Many of them are in Taiwan now.
 Exactly. You did the reverse. You protested. Those citizens who were very angry became even more active citizens. Can we say that?
 
 ### Audrey Tang:
-Yes, definitely. That is the difference between a democratic regime and a authoritarian regime.
+Yes, definitely. That is the difference between a democratic regime and an authoritarian regime.
 
 ### Rula Jebreal:
 They turned their citizen into dissidents. What we see now in Ukraine in other period, they're turning groups of people trying to erase the identity of these people.
@@ -177,7 +177,7 @@ They turned their citizen into dissidents. What we see now in Ukraine in other p
 How can we look at Taiwan as a successful model? Any of the advice of how can some of your steps that you are implementing to better your democracy can be implemented and can become global?
 
 ### Audrey Tang:
-I don't have much of a ego even in the name Taiwan. I was just talking to the new local conference, public servants and social sector people from the UK. I said, "If you think Taiwan is too unique, too strange in counter-pandemic, just call it the New Zealand model." New Zealand adapted the Taiwan playbook in counter-pandemic. It doesn't need to be called the Taiwan Model.
+I don't have much of an ego even in the name Taiwan. I was just talking to the new local conference, public servants and social sector people from the UK. I said, "If you think Taiwan is too unique, too strange in counter-pandemic, just call it the New Zealand model." New Zealand adapted the Taiwan playbook in counter-pandemic. It doesn't need to be called the Taiwan Model.
 
 That said, there is a couple of things that are broadly applicable. The first thing is trusting your fellow citizens. In liberal democracies, many people in the career public service see 5,000 counter signature, 50,000 countersignatures. Then they immediately think of pressure, that these people are here to make demands, to hold us accountable, and so on.
 

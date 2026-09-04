@@ -37,7 +37,7 @@ I think it’s picking it up. I think what we’re interested in knowing is whic
 The more specific you could be, the better, because everybody’s talking about it. We’re looking for real stories, real people, and real companies who are active.
 
 ### Audrey Tang:
-Sure. Just recently, there was an announcement – I think it was just yesterday – that \[indecipherable 1:18\] , the company that makes the medical mask, Champ Mask, is exporting this whole manufacturing system, along with most of the other part of the Made in Taiwan mask national team.
+Sure. Just recently, there was an announcement – I think it was just yesterday – that \[indecipherable 1:18\], the company that makes the medical mask, Champ Mask, is exporting this whole manufacturing system, along with most of the other part of the Made in Taiwan mask national team.
 
 ### Audrey Tang:
 So that any place with sufficient amount of water supply, land use, and things like that – and that’s pretty much it – you can build a micro factory that manufactures 24 hours a day that churns out two million medical masks a day, which is 1/10th of Taiwan’s daily production.
@@ -78,13 +78,13 @@ They’re helping to make other jurisdictions more interested in this kind of se
 You said it’s Kan? What’s the name of the company before?
 
 ### Audrey Tang:
-It’s \[indecipherable 4:28\] .
+It’s \[indecipherable 4:28\].
 
 ### Ralph Jennings:
-\[indecipherable 4:29\] .
+\[indecipherable 4:29\].
 
 ### Audrey Tang:
-\[indecipherable 4:30\] , Champ Mask, as in champion mask. Champ Mask.
+\[indecipherable 4:30\], Champ Mask, as in champion mask. Champ Mask.
 
 ### Ralph Jennings:
 Champ Mask, OK.

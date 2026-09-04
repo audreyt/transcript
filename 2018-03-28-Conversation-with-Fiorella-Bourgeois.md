@@ -7,7 +7,7 @@ OK. First, can you describe PDIS? Say whatever you want about it.
 The Public Digital Innovation Space is literally a space. It comprises of physical spaces that’s on the ground floor of the administrative building. We have two offices. On the third floor, we have another space, and here, the social innovation space.
 
 ### Audrey Tang:
-We also have the office here as well as the \[non-English speech\] , the nobody’s library on the second floor. It’s at a total, five different spaces. Of course, there’s countless -- actually, countable -- digital spaces online, as well. We have a GitHub. We have a slide channel. We have a Sandstorm Rocket.Chat, a shared comment board, and a lot of spaces.
+We also have the office here as well as the \[non-English speech\], the nobody’s library on the second floor. It’s at a total, five different spaces. Of course, there’s countless -- actually, countable -- digital spaces online, as well. We have a GitHub. We have a slide channel. We have a Sandstorm Rocket.Chat, a shared comment board, and a lot of spaces.
 
 ### Audrey Tang:
 The idea of the space is very easy. Everybody joins here to do something for the public good. People get to decide what project they work on. There is no commanding relationship between the PDIS members.
@@ -55,7 +55,7 @@ That it changes the social organization. It used to be like this, but now it org
 Then it, finally, has some social impact. Usually, we now define impact in terms of sustainable development goals, but there could be other metric, as well.
 
 ### Audrey Tang:
-Again, a mission, an innovation in process and technology, or even organization, so a innovation, and then impact. Mission, innovation, and impact together defines social innovation, as opposed to, say, industrial innovation.
+Again, a mission, an innovation in process and technology, or even organization, so an innovation, and then impact. Mission, innovation, and impact together defines social innovation, as opposed to, say, industrial innovation.
 
 ### Audrey Tang:
 If the innovation is digital in nature, instead of purely face-to-face, then we say it’s digital innovation. It doesn’t mean that it’s wholly digital. It only means that it use digital technology as part of the enabler in the innovation part.

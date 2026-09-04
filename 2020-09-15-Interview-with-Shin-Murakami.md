@@ -19,13 +19,13 @@ Great. Thank you so much. Radical transparency. Very interesting. The famous sto
 The question about why is digital so important is that digital allows us to transcend the boundaries of space and time. For example, we are not in the space now. Through digital technology, we can still meet face to face and see each other very clearly, actually, more clearly, than we have face-to-face meetings because we have to wear a mask if we’re actually face to face
 
 ### Audrey Tang:
-This breaks the space boundary. Also, if people are in different time zone when they cannot wake up to participate in a live streaming, they can watch their recording and do a asynchronous way of, maybe, comment and a reply to nevertheless voiced their opinions without having to stay awake regardless of their time zone.
+This breaks the space boundary. Also, if people are in different time zone when they cannot wake up to participate in a live streaming, they can watch their recording and do an asynchronous way of, maybe, comment and a reply to nevertheless voiced their opinions without having to stay awake regardless of their time zone.
 
 ### Audrey Tang:
 It also makes asynchronous communication possible that breaks the time boundary. That’s why digital is important. On the other hand, all of this goes through intermediation.
 
 ### Audrey Tang:
-If the intermediation is biased, for example, if sometimes people don’t have the bandwidth required to participate in live streaming, or they don’t have access to such devices, or if the live streaming platform only favors certain operating systems or devices and excludes other operating system or devices and so on, then it creates a imbalance in the right of participation, which is why broadband as a human right.
+If the intermediation is biased, for example, if sometimes people don’t have the bandwidth required to participate in live streaming, or they don’t have access to such devices, or if the live streaming platform only favors certain operating systems or devices and excludes other operating system or devices and so on, then it creates an imbalance in the right of participation, which is why broadband as a human right.
 
 ### Audrey Tang:
 Also, vendor neutrality is so important when making democratic innovations. Finally, what are the things that can only be done face to face? Definitely, enjoy food and drink together. Even though we can’t enjoy the same music together now, it’s very easy. The food and drink is much harder.
@@ -52,7 +52,7 @@ Where do you think the area for tech to shine is in the future? Plus, how should
 I always call AI assisted intelligence. To your question of why AI works well with democracy in Taiwan, that’s because just like any assistant, you have to make sure that assistant that you hire works according to your best interest. It’s called value alignment.
 
 ### Audrey Tang:
-Also whenever they make a decision that you’re not comfortable with, you will demand a explanation from the assistant. That’s called accountability.
+Also whenever they make a decision that you’re not comfortable with, you will demand an explanation from the assistant. That’s called accountability.
 
 ### Audrey Tang:
 If there’s value alignment and accountability that the entire society can shape the norm upon which the AI enters the society, then we can trust the AI as we trust some of our assistance. On the other hand, if they fail to provide the account or fail to align for value, then that AI will not be symbiotic. It will be parasitic with the society.
@@ -73,7 +73,7 @@ Let’s move on the next question. The current Taiwanese government is actively 
 What are your thoughts on the importance of incorporating the power of young people into organizations, both in politics and in business?
 
 ### Audrey Tang:
-If you are under 35 years old, that means that you are a digital native. By the time that you learn to read and write, it’s already reading and writing IE computer. I am a digital immigrant. I’m not a digital native. I learned about Internet when I was 12 years old. I’m a young immigrant, but I’m still a immigrant.
+If you are under 35 years old, that means that you are a digital native. By the time that you learn to read and write, it’s already reading and writing IE computer. I am a digital immigrant. I’m not a digital native. I learned about Internet when I was 12 years old. I’m a young immigrant, but I’m still an immigrant.
 
 ### Audrey Tang:
 For digital natives, the solutions that is not something that is top-down. They always think about working in crowdfunding and crowdsourcing and just getting people interested in a hashtag. They very quickly trust each other. It’s called swift trust.
@@ -193,7 +193,7 @@ Having gone through puberty, I don’t have this mindset. For me, everybody shar
 For example, I don’t belong to any political party so I don’t think that people of certain political party are my comrades and the other ones are my enemies. I don’t think that way either. The same is for nationality, for pretty much anything.
 
 ### Audrey Tang:
-In my mind, there is a intersectionality going on whenever people feel that they can see the world through some perspective, I’m willing to learn from that perspective. I think being transgender also help me to be trans-national, trans-cultural, and so on. That is a very good, positive effect.
+In my mind, there is an intersectionality going on whenever people feel that they can see the world through some perspective, I’m willing to learn from that perspective. I think being transgender also help me to be trans-national, trans-cultural, and so on. That is a very good, positive effect.
 
 ### Audrey Tang:
 As far as what society expect me to be, whatever other people portray me, that’s their creation. That’s their remix. I see it as their creative output, but I don’t identify with other people’s label of me. That’s it. It’s a very simple idea in open source development that if somebody fork your project, that become their project. You don’t identify with their fork. I treat the societal portrayal of me the same.
@@ -366,7 +366,7 @@ Even though it’s not as fun as other more fun-oriented social media platforms,
 Then the other thing is that it also enables me to receive emails from other people. After each conference and so on, I will usually receive many email from people. It enable me to very quickly check their credentials and check whether they are the person they claim to be, and also whether we have common friends who can do a referral and things like that.
 
 ### Audrey Tang:
-It saves me a little bit of time every time everybody send a email, because I don’t have to spend as much time to check their credentials and their bona fide. On the other hand, of course, I also receive many invitations from many other channels as well.
+It saves me a little bit of time every time everybody send an email, because I don’t have to spend as much time to check their credentials and their bona fide. On the other hand, of course, I also receive many invitations from many other channels as well.
 
 ### Audrey Tang:
 Email is maybe just five percent of all my incoming, but for those five percent, I don’t have to spend that much time to do due diligence checks. Thank you for providing that value.

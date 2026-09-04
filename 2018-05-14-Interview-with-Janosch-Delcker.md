@@ -64,7 +64,7 @@ Also, in addition, for example, the Data Protection Authority, at a moment, each
 We’re seeing that in Japan also. They used to have each ministry acting as DPA. Now, they also have a central agency in charge of harmonizing the different interpretations of data protection laws within all the different ministries.
 
 ### Audrey Tang:
-The National Development Council is now also taking charge of that. We’re reshaping the Department for Information Management into potentially the Department for Digital Development, so that it can be more a oversight of all the different ministries. We see it as a positive opportunity.
+The National Development Council is now also taking charge of that. We’re reshaping the Department for Information Management into potentially the Department for Digital Development, so that it can be more an oversight of all the different ministries. We see it as a positive opportunity.
 
 ### Janosch Delcker:
 There’s talk here in Europe about the GDPR potentially becoming a model for the world for data protection. What’s your reaction to this? How do you feel? Could it be a role model?

@@ -112,7 +112,7 @@ Second thing I’d like to…
 \[inaudible 6:49\] go through the motion of setting up your avatar and stuff?
 
 ### Yngve Holen:
-I haven’t. I just got it \[inaudible 6:56\] .
+I haven’t. I just got it \[inaudible 6:56\].
 
 ### Audrey Tang:
 That will take a while though. That will take 10 minutes, 20.
@@ -953,7 +953,7 @@ It’s stochastic.
 Yeah. The way I talked about doing this from before, the tech is pretty simple. There was a question we reached. The first question is, “Is it in real time?” That adds complexity. The simplest way to do it is to have a system by which people are uploading clips, and then they construct it, but that’s less interesting. You lose some glitz by losing a real-time aspect. “Is it real time?” is one question.
 
 ### Ross Goodwin:
-The next question is now much context does each speaker get? That was where I got stuck on this before. In the Web interface that everyone sees, which maybe is different for every individual person, which is pretty easy to do, there’s a bunch of unique URLs. That’s the simplest way to do it. You could have a actual Web app of some kind as well with a framework. That takes a little longer.
+The next question is now much context does each speaker get? That was where I got stuck on this before. In the Web interface that everyone sees, which maybe is different for every individual person, which is pretty easy to do, there’s a bunch of unique URLs. That’s the simplest way to do it. You could have an actual Web app of some kind as well with a framework. That takes a little longer.
 
 ### Ross Goodwin:
 The main thing is that everyone gets their own version of the site, essentially, or everyone gets the same version. Then everyone gets the version, and then Oscar Sharp and I, when we discussed it, we’re like it sort of changes the dynamic, because then everyone can see the script in real time as it goes by.
@@ -1232,7 +1232,7 @@ What I’m trying to say is that all the different times that I talk about lotte
 The challenge is how to make sure that it fits actually the poetry lottery format. The idea is that each word or each short sentence, if you click on it, actually takes you back to a word that I actually said. The link would be at word level, not at copy-paste level.
 
 ### Audrey Tang:
-I say this with some experience because when I was 20 years old or so, I would log into the Perl chat room on a IRC on the chat space, and I wrote a bot. Whenever it sees me type river run, it would just pull randomly from Finnegans Wake a certain paragraph and to insert into the conversation.
+I say this with some experience because when I was 20 years old or so, I would log into the Perl chat room on an IRC on the chat space, and I wrote a bot. Whenever it sees me type river run, it would just pull randomly from Finnegans Wake a certain paragraph and to insert into the conversation.
 
 ### Audrey Tang:
 It’s almost like poetry lottery because Joyce always has something relevant to say. It just pull random sentence out of Finnegans Wake. The corpus that you see here is roughly at the length of Finnegans Wake, actually longer. If I can do that to Joyce, I’m sure that other people can do that to me.

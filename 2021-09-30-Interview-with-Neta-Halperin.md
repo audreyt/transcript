@@ -139,7 +139,7 @@ The underlying psychological theory is this most disinformation is driven by out
 
 You must know what I'm talking about, rendering with capacity of empathy, null and void in an antisocial corner of social media. When people start sharing those stories with mindless abandon, we have the infodemic.
 
-We think of this as a epidemic, and then the natural answer is, "Let's develop some vaccines." We need to vaccinate ourselves against the virus of the mind.
+We think of this as an epidemic, and then the natural answer is, "Let's develop some vaccines." We need to vaccinate ourselves against the virus of the mind.
 
 We understand that outrage can be channeled to humor. It's also a way to vent the tension without the hate speech part. The humor have a higher R-value, a higher basic reproduction rights than discrimination and hate speech.
 

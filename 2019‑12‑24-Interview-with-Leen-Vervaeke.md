@@ -52,7 +52,7 @@ No.
 Because you always have to be careful not to say anything off the record?
 
 ### Audrey Tang：
-No, if we, for example, go to a photo session, as we did before, because we’re not producing anything quotable, so we may chat there, but because it doesn’t result in anything binding…The idea is anything that might be binding, either in a lobbying sense or in a internal meeting sense, must be on the record.
+No, if we, for example, go to a photo session, as we did before, because we’re not producing anything quotable, so we may chat there, but because it doesn’t result in anything binding…The idea is anything that might be binding, either in a lobbying sense or in an internal meeting sense, must be on the record.
 
 ### Leen Vervaeke：
 There is no off the record, actually.
@@ -82,7 +82,7 @@ Because they considers their questions company property. That’s fine too. It�
 When they do that, all of them are marked as “Audience Member.” Actually, this is not the exact words they say. It’s what I paraphrase. I double‑check with them. I paraphrase their words, and then that become their words with that attribution.
 
 ### Audrey Tang：
-Sometime they only agree to ask questions in a off‑the‑record setting, so I just pause the recording. \[laughs\] They ask the question. I continue recording, paraphrasing their question, and so on. That’s the maximum I would do.
+Sometime they only agree to ask questions in an off‑the‑record setting, so I just pause the recording. \[laughs\] They ask the question. I continue recording, paraphrasing their question, and so on. That’s the maximum I would do.
 
 ### Leen Vervaeke：
 Do you notice an effect on the…
@@ -136,7 +136,7 @@ For example, there was a rumor that said perming your hair would be subject to o
 “What we have done is introduce a labeling requirement for hair products starting in 2021. Premier as he looks now, since if you keep perming your hair many time a week, it will not damage your pocket. It will damage your hair. When serious, you may look up. You look like me.”
 
 ### Audrey Tang：
-It’ s humor, because he makes fun of himself, not other people. This goes viral, much more viral than the original disinformation. It serves as a inoculation.
+It’ s humor, because he makes fun of himself, not other people. This goes viral, much more viral than the original disinformation. It serves as an inoculation.
 
 ### Leen Vervaeke：
 It also goes much more viral than just…
@@ -232,7 +232,7 @@ According to the Taiwan Fact Check Center, there’s many different types. One i
 Anyone who have a media competency, received basic journalism training, when looking at misinformation can shield oneself from this disinformation effect and really check the sources and so on and turn the parts that’s misinformed into this kind of attribution report and turn the parts that are actually true into something that people can understand. That’s core journalism work.
 
 ### Audrey Tang：
-If disinformation try to undermine trust in journalistic institutions, then that, to me, is a affront to this whole journalistic integrity system. Then it will reinforce the echo chamber effect because then it discredits the journalism in general.
+If disinformation try to undermine trust in journalistic institutions, then that, to me, is an affront to this whole journalistic integrity system. Then it will reinforce the echo chamber effect because then it discredits the journalism in general.
 
 ### Audrey Tang：
 If you look at the TFCC, many of their focus is on this kind. For example, the latest one, the 234, that says this photographer use a long‑focus 70 to 200 mm to take a picture of a certain parade.
@@ -256,7 +256,7 @@ This is the main challenge. It’s still ongoing. There’s unending ways trying
 It’s attacking integrity of news that is actually real news. It’s at the same time spreading fake news to the point that people say that the outcome of last year’s elections might be actually influenced by it, might be different than if there would not have been so much disinformation.
 
 ### Audrey Tang：
-I would say certainly people at that time didn’t have a easy way to check whether something is disinformation, as in intentional, harmful untruth, or if it is a real journalistic output that just contains some content that they happen to disagree with, which is normal. There was no easy access to the Taiwan Fact Check Center.
+I would say certainly people at that time didn’t have an easy way to check whether something is disinformation, as in intentional, harmful untruth, or if it is a real journalistic output that just contains some content that they happen to disagree with, which is normal. There was no easy access to the Taiwan Fact Check Center.
 
 ### Audrey Tang：
 Now, as of this election, not only the TFCC website is much more accessible, but the partnership with LINE, with Facebook, and so on is firmly in place. When people see a trending frame like this, they can very easily check. Once TFCC fact‑check this, actually this number will stop increase that quickly because people won’t see this on their news feed.
@@ -361,7 +361,7 @@ The repackaging and the localizing, where is that happening?
 It’s just a nature of the social media. It’s like evolution. If you have a memetic variation, that cause it to spread more. You see it more. People will remix it more and so on. That’s part of the social network. The core message came sometimes very overtly here.
 
 ### Audrey Tang：
-It’s not the only example. During the Hong Kong protest, there’s many examples. During the WHA that Taiwan could not attend even as a observer to the World Health Assembly, there was a similar narrative that said that Taiwan is well‑represented because the Beijing delegate will take care, in a efficient manner, anything that the Taiwan people need to know.
+It’s not the only example. During the Hong Kong protest, there’s many examples. During the WHA that Taiwan could not attend even as an observer to the World Health Assembly, there was a similar narrative that said that Taiwan is well‑represented because the Beijing delegate will take care, in an efficient manner, anything that the Taiwan people need to know.
 
 ### Audrey Tang：
 They are a good representative to the Taiwan delegation and so on. Of course, that’s not true, but that’s their official line. That become then repackaged and shared on social media and saying that Taiwan people don’t need to worry. If there’s any health hazard, people in Beijing will take care of it very efficiently and so on.
@@ -471,7 +471,7 @@ More often than not, that source is found on Chinese side, or is it more often d
 It depends. That Hong Kong one is from the PRC. For example, this one, when they trace the accounts, most of them are domestic.
 
 ### Audrey Tang：
-This one, again, is a attack on the media. It says there is a video of a protest in the front of presidential building, but all the institutional media “turned a blind eye on it.” Trying to undermine integrity. Actually, that protest was in 2016, quite a long time ago. \[laughs\]
+This one, again, is an attack on the media. It says there is a video of a protest in the front of presidential building, but all the institutional media “turned a blind eye on it.” Trying to undermine integrity. Actually, that protest was in 2016, quite a long time ago. \[laughs\]
 
 ### Audrey Tang：
 TFCC traces sources, but most of them are domestic. This video itself is from one of the main campaigning coalitions against marriage equality back in the referenda. The source was from there, but there’s no attribution to the PRC. It’s likely that they supported this protest because of referenda.
@@ -480,7 +480,7 @@ TFCC traces sources, but most of them are domestic. This video itself is from on
 That protest was initially, indeed, saying that the new curriculum, because it include marriage equality text, need to be blocked. That was the original context. Whether this re‑purpose is done with the blessing of the original coalition against marriage equality or not, that’s debatable.
 
 ### Audrey Tang：
-At least, the original source of this frame and this video, neither come from PRC, but it is a intentional attack on institutional media.
+At least, the original source of this frame and this video, neither come from PRC, but it is an intentional attack on institutional media.
 
 ### Leen Vervaeke：
 That’s actually what I’m a bit wondering about. Often when you read media reports on disinformation in Taiwan, it’s often presented as a phenomenon that mainly has its source in China. When I talked with some experts here, I was surprised to hear that they feel like it’s happening on both sides, both government and opposition, and maybe in more or less equal amounts.
@@ -522,7 +522,7 @@ During their platform speeches, during their interviews, during their public con
 Then the partnering media would then send their fact checkers after those statements. They partner also with like public TV and so on for distribution. Many a time, right after a presidential debate, you can very quickly in real‑time see one of the partnering media said that, “They made these claims. These are wrong. These are right.”
 
 ### Audrey Tang：
-This, of course, has a effect saying that if they would like to make public statements, they will be more careful because they know that they will be fact‑checked, sometimes in real‑time.
+This, of course, has an effect saying that if they would like to make public statements, they will be more careful because they know that they will be fact‑checked, sometimes in real‑time.
 
 ### Leen Vervaeke：
 What is the number that we see?
@@ -573,7 +573,7 @@ Of course, less than one‑fifth, then there’s still some virality to this mes
 With all these projects and platforms to counter disinformation, do you actually think that Taiwan could be an example for other countries?
 
 ### Audrey Tang：
-Especially if you want to keep liberal democracy. There’s plenty of jurisdictions nearby, according to the CIVICUS Monitor, that took this as a excuse to have the ministers words somehow even more powerful than a journalist’s words to infringe on journalistic freedom and on the civic space in general.
+Especially if you want to keep liberal democracy. There’s plenty of jurisdictions nearby, according to the CIVICUS Monitor, that took this as an excuse to have the ministers words somehow even more powerful than a journalist’s words to infringe on journalistic freedom and on the civic space in general.
 
 ### Audrey Tang：
 It’s a good excuse. Like because disinformation is too much, so we have to authorize certain administrative powers outside of the judicial. The judicial is too slow. That’s usually the argument.

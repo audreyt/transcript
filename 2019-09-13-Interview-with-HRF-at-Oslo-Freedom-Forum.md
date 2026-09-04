@@ -16,7 +16,7 @@ I’m here to deliver the opening remark, to share with the world that Taiwan ha
 As Oslo Freedom Forum is known to human rights activists, technologists, politicians, artists, what’s the value of crossing these disciplines into one goal and fighting authoritarianism?
 
 ### Audrey Tang:
-I am a hacktivist myself. \[laughs\] I’m working with the government now, not for the government. For me, my office is already a intersection of all those roles.
+I am a hacktivist myself. \[laughs\] I’m working with the government now, not for the government. For me, my office is already an intersection of all those roles.
 
 ### Audrey Tang:
 We’re promoting this idea of co-gov, as called by the UN — Digital Interdependence — that means that around things around digital, it’s not just the technologists making the decision, nor are the lawyers making all the decisions.

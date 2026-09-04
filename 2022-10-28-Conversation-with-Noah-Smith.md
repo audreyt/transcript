@@ -938,7 +938,7 @@ Which form do you think we should take, aside from bubble tea?
 Aside from bubble tea, everybody knows that. Which form? See, I don't know because I'm not an entertainment industry person. If Korea had asked me for advice, I would say I don't know.
 
 ### Audrey Tang:
-There's suggestions that maybe the web3 NFTs are it, maybe we we should just double down on that metaverse thing.
+There's suggestions that maybe the web3 NFTs are it, maybe we should just double down on that metaverse thing.
 
 ### Noah Smith:
 Definitely not the metaverse, that's garbage.

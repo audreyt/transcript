@@ -240,7 +240,7 @@ That’s precisely what’s happening now. \[laughs\]
 Exactly, but I mean the decoupling of referendum days and election days is what we in Switzerland have done for 100 years. It’s obviously an asset to focus on issues and on elections separately. What I wonder a little bit is this experience you have mastered very much with these participatory tools involving people.
 
 ### Bruno Kaufmann:
-You get people who are really interested and willing. While in a referendum you’re inviting basically everybody and especially older people who are maybe unhappy with the government in place. How does these two worlds fit together in your review? Are they complimentary or are they in a way antagonists?
+You get people who are really interested and willing. While in a referendum you’re inviting basically everybody and especially older people who are maybe unhappy with the government in place. How does these two worlds fit together in your review? Are they complementary or are they in a way antagonists?
 
 ### Audrey Tang:
 They’re not antagonists. They can’t be because we have universal broadband access. As I mentioned this, 70 or 80 years old are quite active. We have in the joint platform for example that’s anywhere from 8 million or 10 million visitors a year out of country with 23 million.

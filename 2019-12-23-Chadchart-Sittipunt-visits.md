@@ -213,7 +213,7 @@ The plastic.
 …yeah, the plastic, before they hit the shore.
 
 ### Audrey Tang:
-This one is the WaterBox, of course. This is a very cheap device that people, because we have a new law this year that says if anyone pollutes the water on the agric land, with a industrial plant on agric land zone, they will get their water and electricity cut by the Minister of Economy directly.
+This one is the WaterBox, of course. This is a very cheap device that people, because we have a new law this year that says if anyone pollutes the water on the agric land, with an industrial plant on agric land zone, they will get their water and electricity cut by the Minister of Economy directly.
 
 ### Audrey Tang:
 They want to prove, of course, they didn’t pollute, it’s upstream, so everybody have the incentive to install such WaterBoxes.
@@ -282,7 +282,7 @@ It can be expand to other cases too?
 Yes, yes. They did that actually for many cases, but the drunk driving is the first one to complete, so they chose it for Presidential Hackathon.
 
 ### Audrey Tang:
-But they have a system that showed a lot of different cases. It’s called \[Non-English speech\] . Let’s see their website. Right. Here. They’re really good at SEO as well. Not only drunk driving, but also like stealing, fraud, and hurting people, and things like that.
+But they have a system that showed a lot of different cases. It’s called \[Non-English speech\]. Let’s see their website. Right. Here. They’re really good at SEO as well. Not only drunk driving, but also like stealing, fraud, and hurting people, and things like that.
 
 ### Audrey Tang:
 It’s all very easy. You can just click on one, and choose which, like this is stealing, whether it’s for illegal means, whether it is for personal benefit, or just for survival. Are they mentally retarded? Where are they, and so on.

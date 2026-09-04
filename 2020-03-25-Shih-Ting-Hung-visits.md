@@ -70,7 +70,7 @@ Thank you.
 If we focus on 03. Emotional Needs, and this app can customize/detect individual needs daily for further straight forward guidance, that would be effectively helpful. We have a lot of information on line, the massive data could be overwhelming and distressing.
 
 ### Audrey Tang:
-That’s right. It’s a assistive.
+That’s right. It’s an assistive.
 
 ### Shih-Ting Hung:
 A streamlined trustworthy resource that builds an effective community is our goal.
@@ -374,7 +374,7 @@ That’s right.
 Ah, interesting.
 
 ### Audrey Tang:
-There’s two reasons. One is that when reading the wide screen…People are going to scan the words \[indecipherable 18:22\] , so unless you make it purely pictorial, and the words aren’t just like five words as captions.
+There’s two reasons. One is that when reading the wide screen…People are going to scan the words \[indecipherable 18:22\], so unless you make it purely pictorial, and the words aren’t just like five words as captions.
 
 ### Audrey Tang:
 Especially in ideograph languages, people really rely on a line height that’s high to separate the reading, unless you go all classical Chinese and do vertical, but nobody do that nowadays.

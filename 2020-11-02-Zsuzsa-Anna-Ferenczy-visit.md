@@ -93,7 +93,7 @@ That’s my ambition. I think it’s also an ambition for the EU as well.
 Yes, indeed. The norm-shaping is at the core of the EU’s identity as a normative power. This has been challenged for quite a while, especially with China’s increasing aspirations or ambitions to shape norms themselves.
 
 ### Audrey Tang:
-Also surveillance capitalists’ increasing ambition, so these two. I often say it’s like an Eurasian Plate on one side and the Philippine Sea plate on the other. They bump into each other. We’ve experienced earthquakes. \[laughs\]
+Also surveillance capitalists’ increasing ambition, so these two. I often say it’s like a Eurasian Plate on one side and the Philippine Sea plate on the other. They bump into each other. We’ve experienced earthquakes. \[laughs\]
 
 ### Zsuzsa Anna Ferenczy:
 Let’s talk about the Taiwan model in that context. Not only in Europe but worldwide, I think Taiwan is getting more and more attention because of its successful way of containing the virus and beyond not just domestically doing such a great job to protect the health of the people but to help others. You’ve seen, I think it was in April, that the president…
@@ -175,7 +175,7 @@ I read it quite carefully.
 Thank you so much. I appreciate it. I also published a similar article in the “Taipei Times.” That was about a month or two months ago. We worked together with other fellows in the fellowship program. We really advocate for a stronger look at Taiwan and also, for example, Europe and India to work together to embrace Taiwan.
 
 ### Zsuzsa Anna Ferenczy:
-With Taiwan’s profound rise, and having read my article, and also being so well informed about global dynamics and global sentiment on China’s assertiveness, especially in an European context, and since we speak about infodemic and conspiracy theory.
+With Taiwan’s profound rise, and having read my article, and also being so well informed about global dynamics and global sentiment on China’s assertiveness, especially in a European context, and since we speak about infodemic and conspiracy theory.
 
 ### Zsuzsa Anna Ferenczy:
 I think this is one of the elements that has contributed to a sharp rise in European minds on the implications of such an increased presence of Chinese actors and state-owned enterprises, state-backed actors on our soil.
@@ -202,7 +202,7 @@ I think this is a good indication that we are converging. Do you think this coul
 Definitely. Yes.
 
 ### Zsuzsa Anna Ferenczy:
-How would you assess our approach to Taiwan at the moment as an European approach, knowing that the European Union is not a country but 27 countries, and it’s much more difficult to work with, much more complex? Where do you see that we could work closer together?
+How would you assess our approach to Taiwan at the moment as a European approach, knowing that the European Union is not a country but 27 countries, and it’s much more difficult to work with, much more complex? Where do you see that we could work closer together?
 
 ### Audrey Tang:
 You mean…?

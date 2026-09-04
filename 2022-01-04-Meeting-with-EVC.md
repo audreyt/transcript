@@ -348,7 +348,7 @@ The mobile framework for doing that, and correct me if I'm wrong, is the GCTF.
 GCTF.
 
 ### Audrey Tang:
-GCTF with recently other countries willingness to join as co host, were now acquired. Not that quite, but just quite. [laughs] . Many other countries are expressing interest in forming study circles, because GCTF fundamentally is about doing something.
+GCTF with recently other countries willingness to join as co host, were now acquired. Not that quite, but just quite. [laughs]. Many other countries are expressing interest in forming study circles, because GCTF fundamentally is about doing something.
 
 ### Jakub Janda:
 Yes, it does.

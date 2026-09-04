@@ -211,7 +211,7 @@ Actually today I’m interested in two of the initiated from your department, an
 Right. First, it’s not about computer games. eSport is a sport. It just happens so that the stadium they use is a virtual one, not a physical one, but the point here is the computational sport aspect.
 
 ### Audrey Tang：
-My favorite argument in this conversation is that I think Go (圍棋), the board game, is now a eSport, because most of the competition and training happens online, and also because machines now play better than human, \[laughs\] so this is mostly for two human beings to enjoy each other’s company and play for performance, and in this sense, it really has nothing different from other eSports.
+My favorite argument in this conversation is that I think Go (圍棋), the board game, is now an eSport, because most of the competition and training happens online, and also because machines now play better than human, \[laughs\] so this is mostly for two human beings to enjoy each other’s company and play for performance, and in this sense, it really has nothing different from other eSports.
 
 ### Audrey Tang：
 As for the alternative military service, it is true that it’s already the case for Go, for 圍棋 players in Taiwan. They can have alternative military service if they win some international or national competition awards. The same applies for any other sport as well as like symphony conductors and other cultural performers.
@@ -220,7 +220,7 @@ As for the alternative military service, it is true that it’s already the case
 An e-Sport athlete being a cultural performer, and which has international competition and so on, shouldn’t really be discriminated against. That was just the basic idea, so we’re not actively promoting in. We’re just saying this is like other sport.
 
 ### Audrey Tang：
-The other thing that we used during the e-Sport thing is that we have on our previous website a accountability trail where you can have this QR code that lists the entire decision making process for how exactly this policy was formed.
+The other thing that we used during the e-Sport thing is that we have on our previous website an accountability trail where you can have this QR code that lists the entire decision making process for how exactly this policy was formed.
 
 ### Audrey Tang：
 Starting from the public hearing, down to the classes, down to the military service, down the national tax breaks, and so on, we have all the ministries and all the decision makers in our internal meetings taken as a transcript -- was real time transcript -- and everybody, after editing it for 10 working days, agreed to publish it to the general public even before we have set our direction.
@@ -268,7 +268,7 @@ Starting, what age would Taiwanese students...?
 The entire K-12 system, that is to say starting from the first grade all the way through senior high school, because this is not a class. This is one of the literacy that need to be merged into all the classes.
 
 ### Audrey Tang：
-All the classes, the teachers and the textbook makers and schools need to find some way to find media literacy and critical thinking into the way they are teaching, and not just taking it as a class, as a examination.
+All the classes, the teachers and the textbook makers and schools need to find some way to find media literacy and critical thinking into the way they are teaching, and not just taking it as a class, as an examination.
 
 ### AP：
 I’ll have just one more. What was your reactions in your country when you were first appointed? Number one, you’re the hacker, so people may be worried that. &quot;How can a hacker be working for the government? Hacker can attack.&quot; A hacker is usually seen as somebody who attacks the government.
@@ -357,7 +357,7 @@ Do you think the way he names some of the news media as a fake news outlet? What
 When Twitter first got invented, people used Twitter in the way that’s very direct, and make full use of the 140 characters. Taiwanese people used Twitter more like regular blogging, because in 140 Chinese characters, you can say a lot, \[laughs\] but in English, not so much.
 
 ### Audrey Tang：
-I think there’s a distinct style difference in the ways that we Twitter versus a English speaker use of Twitter. They had to be very brief, and basically just say even just one idea or half of an idea.
+I think there’s a distinct style difference in the ways that we Twitter versus an English speaker use of Twitter. They had to be very brief, and basically just say even just one idea or half of an idea.
 
 ### Audrey Tang：
 As things developed, because I was in developing social media networks, we see a lot of very creative uses in Twitter, like multi-part tweets, like the tweets that are complementing each other using hashtags and conversation communities, and so on. They built a community structure out of those very short forms of communication.

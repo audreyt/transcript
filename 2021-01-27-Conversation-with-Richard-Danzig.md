@@ -90,7 +90,7 @@ Probably that will be very helpful. I can connect them to their counterparts in 
 Not really. I was very heavily involved back last February to maybe June. That was around the securing the supply and distribution fair equitable access to the PPEs and things like that, but now there’s a…I mean we don’t really have any community spread. There’s really not much work to be done.
 
 ### Audrey Tang:
-Whenever there’s a few local cases, of course the contact tracing, the medical officers are very busy, but from a information technology viewpoint and infodemic viewpoint, all the mechanism is in place.
+Whenever there’s a few local cases, of course the contact tracing, the medical officers are very busy, but from an information technology viewpoint and infodemic viewpoint, all the mechanism is in place.
 
 ### Audrey Tang:
 I’ll probably be back to work if there’s a community spread, but it doesn’t seem like likely, or when the vaccination is ready to roll out, then maybe like the health care access and things like that, then that would need some work. Otherwise no, I am not involved in the CECC’s daily work now.
@@ -323,13 +323,13 @@ What I’m trying to say is that people do not give up their resistance purely b
 > (interviewer speaks)
 
 ### Audrey Tang:
-Certainly. And wolves/dog is great for my analogy of assistive intelligence, because dog is a assistive intelligence while it’s not a artificial intelligence. \[laughs\] A lot of metaphors carry over very easily.
+Certainly. And wolves/dog is great for my analogy of assistive intelligence, because dog is an assistive intelligence while it’s not an artificial intelligence. \[laughs\] A lot of metaphors carry over very easily.
 
 ### Audrey Tang:
 Of course, I don’t know much about the psychology of dogs, but I know people who know. I know people who can teach me a little bit if I want to know more. The same goes for elevators.
 
 ### Audrey Tang:
-It’s a ladder of expertise in the society that makes sure that whenever we need access to justice, when the dog or the elevator behaves erotically, then this justice in a epistemic sense, but also in a lower sense is achieved.
+It’s a ladder of expertise in the society that makes sure that whenever we need access to justice, when the dog or the elevator behaves erotically, then this justice in an epistemic sense, but also in a lower sense is achieved.
 
 > (interviewer speaks)
 
@@ -350,7 +350,7 @@ I think that’s the different pedagogical view. One view is so-called literacy.
 In Taiwan, our education system underwent a pretty large change a couple of years ago and shifted from this literacy view to the competence view mostly in response to AI, but also to other emerging digital phenomena where the students are no longer passive consumers of norms because they fact-check their teachers all the time. We need to adapt to that.
 
 ### Audrey Tang:
-We teach instead media competence where they are the producers and need to be aware of the social externalities – positive or not – of their actions as producers in media and also digital ones and so on, which is a much more as you put it a inquisitive view on education in general.
+We teach instead media competence where they are the producers and need to be aware of the social externalities – positive or not – of their actions as producers in media and also digital ones and so on, which is a much more as you put it an inquisitive view on education in general.
 
 ### Audrey Tang:
 I don’t think there’s a lot difference between you and me because a decade ago in any classroom in Taiwan, your view will be dominant. It just so happen that I work on the new curriculum. We’re actively steering the society to a competence view.
@@ -358,7 +358,7 @@ I don’t think there’s a lot difference between you and me because a decade a
 > (interviewer speaks)
 
 ### Audrey Tang:
-A little bit. I usually quip saying, if you have an access to a smartphone, not even the Internet, with five apps, everyone has a IQ that’s immeasurably high because it’s measuring the things that apps can do for you as assistive intelligence is. It’s not important at all long as you know how to use those apps properly, or even right one.
+A little bit. I usually quip saying, if you have an access to a smartphone, not even the Internet, with five apps, everyone has an IQ that’s immeasurably high because it’s measuring the things that apps can do for you as assistive intelligence is. It’s not important at all long as you know how to use those apps properly, or even right one.
 
 ### Audrey Tang:
 I think it’s a great equalizer much as a self-defense, martial arts or weapon. It’s a great equalizer across different body conditions. A app is a great equalizer for IQ, for anyone who have to access can pass the IQ tests with the top score and flying colors.
@@ -385,7 +385,7 @@ That’s right. Yeah, the epistemic lens. Yes.
 Exactly. Because if you’ve put it in the frame of resistance, like giving consent, then of course familiarity, peer pressure, social norms, that’s dominant. My initial frame was that is answering to the utilitarian calculus argument, through an epistemic perspective. The main difference is how you frame this.
 
 ### Audrey Tang:
-I can see people complying but feeling slightly anxious, accepting it in a social-pressured sense, but not in a intuitive gut-feeling sense. That’s probably describing many people going into hyperloop for the first time?
+I can see people complying but feeling slightly anxious, accepting it in a social-pressured sense, but not in an intuitive gut-feeling sense. That’s probably describing many people going into hyperloop for the first time?
 
 > (interviewer speaks)
 
@@ -422,7 +422,7 @@ When it comes to emerging technologies, including AI and self-driving vehicles. 
 > (interviewer speaks)
 
 ### Audrey Tang:
-Definitely, even just on the cyber-security side — which is a intermediate point — actors may accidentally shut down the Internet connectivity, and then what?
+Definitely, even just on the cyber-security side — which is an intermediate point — actors may accidentally shut down the Internet connectivity, and then what?
 
 > (interviewer speaks)
 

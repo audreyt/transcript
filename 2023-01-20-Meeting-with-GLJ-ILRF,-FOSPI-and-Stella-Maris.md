@@ -410,7 +410,7 @@ I think it's the latter. It's 10 percent of the fleet. I think they have committ
 ### Audrey Tang:
 They also, from their press release, said that it is calculated based on a 8,000 NT dollars per month basis. When they say that, it usually means that there is already a fixed fund allocated for this purpose so that if the monthly communication fee lowers to, say, 800 instead of 8,000, they will be able to cover everyone.
 
-Usually, when they put a dollar figure on it, it means that there's a allocated budget, but it's not very clear from the press release.
+Usually, when they put a dollar figure on it, it means that there's an allocated budget, but it's not very clear from the press release.
 
 ### Female Participant:
 That's a good point. Do you have any sense of that?
@@ -421,7 +421,7 @@ That's a good point. Do you have any sense of that?
 I'm not sure we should ask them.
 
 ### Audrey Tang:
-That's a important clarifying question, because if that is the case, then our job becomes much easier, because we are in charge of allocating the spectrums and promoting competition, especially new entrants, to use radio frequency for fixed satellite services.
+That's an important clarifying question, because if that is the case, then our job becomes much easier, because we are in charge of allocating the spectrums and promoting competition, especially new entrants, to use radio frequency for fixed satellite services.
 
 As many of you know, I just returned from Lithuania, and they already have access to the Starlink network. The Starlink network specializes to the moving vehicles, including airplanes and vehicles on the sea. It's not just Starlink, but also other what we call non-geostationary satellite providers are considering entering the Taiwanese market.
 
@@ -542,7 +542,7 @@ There's a Universal Service Board that governs the use. I chair the board. The f
 We need to make a very sound case that, although the letter says the nationals, however, in some cases like medical services and so on, you cannot really tell a national from non-national, where they need medical help and so on. That is the work that we're going to do this year. Your use case is also a very convincing use case. It's even more clear-cut than the video relay service.
 
 ### Female Participant:
-Let us know if there's anything that we can put together for them. We also, of course, have our legal team within our organization. Any presentation or briefing paper, anything that we can put together to make the case in a legal way for why the fishing sector is a exceptional case, why the migrant fishers should be considered in this case, we can put that together.
+Let us know if there's anything that we can put together for them. We also, of course, have our legal team within our organization. Any presentation or briefing paper, anything that we can put together to make the case in a legal way for why the fishing sector is an exceptional case, why the migrant fishers should be considered in this case, we can put that together.
 
 ### Female Participant:
 Of course, the idea of inclusivity and who has a right to be included, I do think it's part of our democracy. At the same time, having access to all these services, but also access to a minimum infrastructure is precisely what this company is about. Also, the fact that just because you have the WiFi on vessel doesn't mean that the workers have access to it.

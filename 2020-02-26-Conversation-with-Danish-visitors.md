@@ -269,7 +269,7 @@ After that, I get recruited as a reverse mentor to a horizontal minister, Minist
 Anyway, I worked with her for a couple years. Then the new Cabinet decided that somebody needed to occupy this office too. They asked me to find someone. I asked around, but everybody’s busy. I just stood in myself.
 
 ### Audrey Tang:
-Because of that, I said I’m a appointee of an appointee, because in Taiwan, people elect the president that appoints the prime minister that appoints me. Yes. Question.
+Because of that, I said I’m an appointee of an appointee, because in Taiwan, people elect the president that appoints the prime minister that appoints me. Yes. Question.
 
 ### Audience Member:
 We were told that it was quite like the UK. Is that true, your Parliament? Do you know that?
@@ -339,7 +339,7 @@ You would quit?
 You would quit, or the president would fire you?
 
 ### Audrey Tang:
-Would fire, yeah. That’s right. Of course, all the horizontal ministers are there to further a agenda, a political agenda, even though it’s not partisan. If a president doesn’t want renewable energy, she would not need a horizontal minister in charge of renewable energy. If a president doesn’t want sustainability, wait. \[laughs\] They won’t happen, right?
+Would fire, yeah. That’s right. Of course, all the horizontal ministers are there to further an agenda, a political agenda, even though it’s not partisan. If a president doesn’t want renewable energy, she would not need a horizontal minister in charge of renewable energy. If a president doesn’t want sustainability, wait. \[laughs\] They won’t happen, right?
 
 > (laughter)
 
@@ -417,7 +417,7 @@ In the recent election, who is elected by the people? Is it only the president�
 It’s Dr. Tsai and everybody in the Parliament.
 
 ### Audrey Tang:
-The Parliament has more than 40 percent women. There’s a at-large section and a constituency section. That part is more familiar to you. \[laughs\]
+The Parliament has more than 40 percent women. There’s an at-large section and a constituency section. That part is more familiar to you. \[laughs\]
 
 ### Audience Member:
 I’m sorry to ask you, but are you in the parliament?
@@ -504,10 +504,10 @@ It’s a public/private partnership. \[laughs\] Basically, it’s a really diffe
 Actually, this is a really good example. They have a photo. That says, “This 13-year-old thug bought new iPhones and game consoles and brand-name sport shoes by murdering police. He is recruiting his brothers.” Actually, they’re reusing a Reuters photo for that. Reuters said nothing about \[laughs\] murdering police or getting paid for it.
 
 ### Audrey Tang:
-It’s obviously a infiltration and malinformation campaign. It originates actually from \[Mandarin\] , the central political and legal unit of the PRC, its Weibo account. It’s still on their Weibo account. It’s just deliberate propaganda.
+It’s obviously an infiltration and malinformation campaign. It originates actually from \[Mandarin\], the central political and legal unit of the PRC, its Weibo account. It’s still on their Weibo account. It’s just deliberate propaganda.
 
 ### Audrey Tang:
-What we’ve done is to put it on public notice, meaning that a independent journalist check this, find the source, so that when everybody see this on Facebook, online, on other systems, they see a small footprint that says, “This is actually state propaganda by the PRC. Click here to learn more.”
+What we’ve done is to put it on public notice, meaning that an independent journalist check this, find the source, so that when everybody see this on Facebook, online, on other systems, they see a small footprint that says, “This is actually state propaganda by the PRC. Click here to learn more.”
 
 ### Audrey Tang:
 Instead of by taking anything down, we make sure that there is a public notice attached to such social media activities. That is how we don’t encroach the media freedom but instead just expose the propaganda for what it is. We counter such rumor also with humor.
@@ -854,7 +854,7 @@ I talked to my teachers and saying, “I’m creating knowledge and these are 10
 That’s great, and I just participated in the Internet governance community, the IETF, the W3C, the Free Software Movement. It’s still not known as open source at that time. This kind of environment is classical multistakeholderism.
 
 ### Audrey Tang:
-In the Internet, people join the Internet not because the Internet somehow has a Army or a Navy, it’s because it’s good for every network operator that joins. This constant threat of balkanization also keeps everybody honest in maintaining the core of the Internet. All you have to take to vote or to participate in the working group is to have a email address.
+In the Internet, people join the Internet not because the Internet somehow has an Army or a Navy, it’s because it’s good for every network operator that joins. This constant threat of balkanization also keeps everybody honest in maintaining the core of the Internet. All you have to take to vote or to participate in the working group is to have an email address.
 
 ### Audrey Tang:
 That is my native political system. I run with that system for six years, before I even have the right to vote. \[laughs\] To me, when I vote, it’s a pale comparison \[laughs\] to the Internet governance world that I’m more familiar with. My first vote was voting for the district, precinct leader. The candidate I voted win by one vote, so I still have some faith…
@@ -1084,7 +1084,7 @@ That’s my job description. I can read you my job description. In SDG terms, th
 I wrote some plain text language to explain my job, which goes like this.
 
 ### Audrey Tang:
-“When we see the Internet of Things, let’s make it a Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear that the singularity is near, let us always remember the plurality is here.”
+“When we see the Internet of Things, let’s make it an Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear that the singularity is near, let us always remember the plurality is here.”
 
 ### Audrey Tang:
 It’s digital transformation, but bringing tech to people, not asking people to adapt to tech. That is the core of the vision. Sorry.
@@ -1141,7 +1141,7 @@ They agree on democracy and they agree on this now admittedly somewhat analog pr
 That’s what we mean by a republic of citizens as well. It’s basically saying that direct democracy is woven into the constitution of this country, because that’s what \[non-English speech\] or citizens’ republic means. The same idea has also in 1913 been adopted by some Korean revolutionaries.
 
 ### Audrey Tang:
-That’s why the \[non-English speech\] , the South Korea, also calls themself a republic of citizens, because they’re not satisfied with representative democracy. They really want to use whatever tool available to build a participatory and eventually direct democracy. That’s also one of this constitutional vision.
+That’s why the \[non-English speech\], the South Korea, also calls themself a republic of citizens, because they’re not satisfied with representative democracy. They really want to use whatever tool available to build a participatory and eventually direct democracy. That’s also one of this constitutional vision.
 
 ### Audrey Tang:
 Internationally, then, because we do take care of our ocean and islands and act as stewards for, I’m sure, the next intelligent life form to emerge. \[laughs\] Whatever solutions that we discovered through the social innovation, circular economy, Presidential Hackathon, we’re happy to share. That’s what social innovation means.
@@ -1153,7 +1153,7 @@ We work with New Zealand people to solve their water leakage by getting the thre
 If you cannot do so, you must have to have a harbor allocated to us, some port allocated to us, which is what PRC have done. We’re not a colonizing power. \[laughs\] Because of that, the slogan here is, “Taiwan can help,” meaning that when we’re solving our own socioeconomic problems, we don’t externalize them to other environments.
 
 ### Audrey Tang:
-When we do circular economy and other sustainable goals, we help everybody on the planet, including people in the PRC actually. That is the main vision. It is Taiwan as a innovation hub that is good for everyone, including people in the PRC, instead of directly competing with the PRC on any political agenda in terms of social innovation.
+When we do circular economy and other sustainable goals, we help everybody on the planet, including people in the PRC actually. That is the main vision. It is Taiwan as an innovation hub that is good for everyone, including people in the PRC, instead of directly competing with the PRC on any political agenda in terms of social innovation.
 
 ### Audrey Tang:
 That’s why we’re going skyward instead of any other direction. That’s the basic idea. If PRC can learn from our governance ideas, after the Hong Kong election, a lot of just elected city councilors and their staff did visit us and want to learn about participatory budgeting and everyday democracy that they really want to roll out now that they have won the local election in Hong Kong.
@@ -1270,7 +1270,7 @@ Sure.
 How much do you collaborate with other countries? If you see a problem, for example, you mentioned Australia, and you already have a solution, do you then collaborate?
 
 ### Audrey Tang:
-Yeah, we do. The International Presidential Hackathon is, as its name implied, international. We do have a international track. We work with everybody who is interested in the sustainable goals. For example, we partner with the Open Contracting Partnership to run this Presidential Hackathon. They have over 40 countries and cities participating.
+Yeah, we do. The International Presidential Hackathon is, as its name implied, international. We do have an international track. We work with everybody who is interested in the sustainable goals. For example, we partner with the Open Contracting Partnership to run this Presidential Hackathon. They have over 40 countries and cities participating.
 
 ### Audrey Tang:
 For example, last year the winner goes to Malaysia and to Honduras. We’re very active in APEC also, of which we’re a full member, to share such solutions. We are running a set of GCTF, or Global Cooperation and Training Framework, which is co-hosted by Japan, US, and Taiwan and a rotating fourth chair depending on the topic.
@@ -1279,7 +1279,7 @@ For example, last year the winner goes to Malaysia and to Honduras. We’re very
 This year alone, we’ll have 11 of those mini-lateral meetings. The fourth chair, for example, for marine debris for circular economy is Netherlands. We will have these four chairs sharing the best practices around circular economy for marine debris reduction from Japan, US, Taiwan, and the Netherlands.
 
 ### Audrey Tang:
-That’s how we instead of getting into multilateral large organizations, which is getting easier using teleconference. In any case \[laughs\] , it’s traditionally hard. We instead just go to places and have a rotating chair. If you search for Global Cooperation and Training Framework or GCTF, you’ll see plenty of such activities going on.
+That’s how we instead of getting into multilateral large organizations, which is getting easier using teleconference. In any case \[laughs\], it’s traditionally hard. We instead just go to places and have a rotating chair. If you search for Global Cooperation and Training Framework or GCTF, you’ll see plenty of such activities going on.
 
 ### Audience Member:
 When you say we, it’s Taiwan?
@@ -1291,7 +1291,7 @@ Yeah, It’s Taiwan, in general.
 What about this hackathon?
 
 ### Audrey Tang:
-Yeah, the hackathon too. The hackathon has a international party in which that we invite the global teams in. It’s open for registration soon, so you can spread the idea. \[laughs\]
+Yeah, the hackathon too. The hackathon has an international party in which that we invite the global teams in. It’s open for registration soon, so you can spread the idea. \[laughs\]
 
 ### Audience Member:
 What exactly is a hackathon?
@@ -1303,7 +1303,7 @@ A hackathon is a large marathon of hackers. People look at the sustainable goals
 Oh, what we talked about earlier.
 
 ### Audrey Tang:
-The presidential one, yeah. For the international teams, of course, we can’t force other people’s presidents \[laughs\] , but we will make sure to do our best in implementing it not only locally but also work with your team to implement that in your country as well.
+The presidential one, yeah. For the international teams, of course, we can’t force other people’s presidents \[laughs\], but we will make sure to do our best in implementing it not only locally but also work with your team to implement that in your country as well.
 
 ### Audrey Tang:
 We give out such international awards, again, from a jury that is from not only Taiwan, but also from a partner organization, for example, the Open Contracting Partnership.
@@ -1405,7 +1405,7 @@ Which countries do Taiwan aspire to?
 You mean, other than the republic of citizens, which is in our constitution as an ideal form? We do consider Switzerland an important inspiration especially now that we are redesigning our referenda system. We see ourselves as a direct democracy reimagined. Switzerland has a lot to offer in terms of what didn’t work. Also, the kind of clockwork they have across different cultural groups.
 
 ### Audrey Tang:
-The e-petition system, we took from \[non-English speech\] , that’s Iceland, the participatory budget system from \[Spanish\] from Madrid and \[Spanish\] from Barcelona. The US digital service, of course, is a huge influence on the digital service part.
+The e-petition system, we took from \[non-English speech\], that’s Iceland, the participatory budget system from \[Spanish\] from Madrid and \[Spanish\] from Barcelona. The US digital service, of course, is a huge influence on the digital service part.
 
 ### Audrey Tang:
 There’s a lot of cooperation with the Canadian government in terms of this multilingualism because the Pol.is software, they took it and made it English/French. That really helped our English/Mandarin consultations. There’s many others. New Zealand sent people here and we sent people there. We have this bilateral called n’Stack.

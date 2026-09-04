@@ -68,7 +68,7 @@ Totally separate.
 > (laughter)
 
 ### Atsushi Osanai:
-Tanaka-san is working at a German machinery company in Tokyo. Ashizawa-san is a battery manufacturing company employee. He is an corporate planning managers. He somehow need to make a new business, factories in Indonesia, in Vietnam, or something in Southeast Asia.
+Tanaka-san is working at a German machinery company in Tokyo. Ashizawa-san is a battery manufacturing company employee. He is a corporate planning managers. He somehow need to make a new business, factories in Indonesia, in Vietnam, or something in Southeast Asia.
 
 ### Atsushi Osanai:
 Shima-san work for the Microsoft. He is a sales manager.

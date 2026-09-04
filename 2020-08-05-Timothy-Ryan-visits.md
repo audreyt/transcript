@@ -13,7 +13,7 @@ Can I open up a…?
 Go ahead.
 
 ### Timothy Ryan:
-Sorry, \[inaudible 0:16\] .
+Sorry, \[inaudible 0:16\].
 
 ### Audrey Tang:
 It’s fine. It’s air-conditioned here. \[laughs\]
@@ -52,7 +52,7 @@ Well, humans, of course. \[laughs\]
 Oh, OK. Just to make sure.
 
 ### Timothy Ryan:
-Basically, with the notion of open innovation, in terms of the design situation, I think there’s a bit of a design problem in that the way in which the Internet is being used today with gig economy is very reductionist in the design industry. People compete in terms of time and price. The platforms that exist don’t seem to encourage speculative design risk \[inaudible 1:54\] .
+Basically, with the notion of open innovation, in terms of the design situation, I think there’s a bit of a design problem in that the way in which the Internet is being used today with gig economy is very reductionist in the design industry. People compete in terms of time and price. The platforms that exist don’t seem to encourage speculative design risk \[inaudible 1:54\].
 
 ### Audrey Tang:
 It encourages speculative AI… I just read about a Russian design agency passed as human. \[laughs\]
@@ -82,7 +82,7 @@ Essentially, they put out calls, and they are looking for…
 Crowdfunding, crowdsourcing, whatever.
 
 ### Timothy Ryan:
-Exactly. In my experience, teams are often formed either at university when people are going through formative years and their peer relationships, or it’s people who’ve worked together. Actually forming a team is quite difficult \[inaudible 3:18\] . Also, designers have a lot of commitments. You have daily commitments. You need to earn an income. To actually commit to a startup is a very onerous task.
+Exactly. In my experience, teams are often formed either at university when people are going through formative years and their peer relationships, or it’s people who’ve worked together. Actually forming a team is quite difficult \[inaudible 3:18\]. Also, designers have a lot of commitments. You have daily commitments. You need to earn an income. To actually commit to a startup is a very onerous task.
 
 ### Audrey Tang:
 True.
@@ -94,7 +94,7 @@ What’s more is that if you decide to commit to a particular concept or innovat
 I’m from originally a film background, and I’ve always viewed film as the most collaborative creative exercise. Indeed, you have sound designers, fashion designers, cinematographers, script writers, and they bring them together.
 
 ### Timothy Ryan:
-What I’m interested in is a platform that actually harnesses underutilized design talent, accommodates career flexibility, facilitates team building, and encourages independent \[inaudible 4:23\] .
+What I’m interested in is a platform that actually harnesses underutilized design talent, accommodates career flexibility, facilitates team building, and encourages independent \[inaudible 4:23\].
 
 ### Audrey Tang:
 Proposals.
@@ -103,7 +103,7 @@ Proposals.
 Innovation proposals \[inaudible 4:26\] very quick on that. Also, a method of providing equitable recompense to designers. Often, a designer may come up with an idea, but unless you have a startup, and even then if you get bought out, you’re not necessarily rewarded appropriately.
 
 ### Timothy Ryan:
-What I’ve been working on is a notion of an online platform that actually encourages outside-initiated design-driven relations. It’s an idea that formalizes in kind investments in the development of innovations in that in the film industry, if you’re trying to get a film out, often, people work without pay with the promise of receiving royalties \[inaudible 5:18\] .
+What I’ve been working on is a notion of an online platform that actually encourages outside-initiated design-driven relations. It’s an idea that formalizes in kind investments in the development of innovations in that in the film industry, if you’re trying to get a film out, often, people work without pay with the promise of receiving royalties \[inaudible 5:18\].
 
 ### Audrey Tang:
 Yeah, so they provide their services, and/or products, and/or infrastructure as an investment.
@@ -124,7 +124,7 @@ The notion is that by setting up an innovation society, design-driven innovation
 But design is far more bespoke than art when it comes to the companies.
 
 ### Timothy Ryan:
-It can be, yes. I suppose that this is where some companies…The typical example that’s used by Roberto Verganti is looking at Alessi and how they actually outsource to architects to actually design products, etc. They actually encourage a speculative design process \[inaudible 7:00\] .
+It can be, yes. I suppose that this is where some companies…The typical example that’s used by Roberto Verganti is looking at Alessi and how they actually outsource to architects to actually design products, etc. They actually encourage a speculative design process \[inaudible 7:00\].
 
 ### Audrey Tang:
 Where design borders on art. \[laughs\]
@@ -145,7 +145,7 @@ Cognitive surplus.
 Great description. Also, organizations that are actually seeking design research capabilities that are beyond the realm of their business itself. In my experience, although design research is talked about in the development of product, very few design organizations actually acquire the appropriate resources to conduct the appropriate research.
 
 ### Timothy Ryan:
-The big companies ideas and frogs, and things like that, yes they do, but when a company goes to product design agency, for example, they’re relying on the knowledge and the interpretive abilities of the existing staff. Often, it doesn’t \[inaudible 8:23\] .
+The big companies ideas and frogs, and things like that, yes they do, but when a company goes to product design agency, for example, they’re relying on the knowledge and the interpretive abilities of the existing staff. Often, it doesn’t \[inaudible 8:23\].
 
 ### Audrey Tang:
 I’m aware of that.
@@ -181,13 +181,13 @@ Well…
 \[laughs\]
 
 ### Timothy Ryan:
-I’m a designer that can’t draw, can’t play a musical instrument, but I’m a creative director and I appropriate from \[inaudible 9:50\] .
+I’m a designer that can’t draw, can’t play a musical instrument, but I’m a creative director and I appropriate from \[inaudible 9:50\].
 
 ### Audrey Tang:
 I’ve discussed something like this with the two founders, of LikeCoin and the platform “Matters”, which is a blog community, I guess, and it’s using also distributed ledger technology to make sure it’s censorship resistant.
 
 ### Audrey Tang:
-While being Hong Kongers, they, of course, have a strong motivation to be censorship resistant, and also distribute the creative energy in a way that is rewarded both financially and also in terms of teaming up through another Ethereum project called LikeCoin from \[non-English speech\] .
+While being Hong Kongers, they, of course, have a strong motivation to be censorship resistant, and also distribute the creative energy in a way that is rewarded both financially and also in terms of teaming up through another Ethereum project called LikeCoin from \[non-English speech\].
 
 ### Audrey Tang:
 LikeCoin is very similar in shape to what you just described. Basically, people press like and the like signifies both that I’m willing to pay a monthly, like Spotify, subscription fee toward the creator so that they can create more works, but also that I am interested in participating in the governance part, which is setting up more coalitions between different creative media, I guess, workers to make joint projects. It’s in its very early days.
@@ -271,7 +271,7 @@ Most of these projects, are they being sponsored? Are they being uploaded by bus
 All sorts. It may be worth checking out, because it’s a large-scale experiment of trying to find the right balance between one vote per share versus one vote per person.
 
 ### Timothy Ryan:
-I suppose I was…It’s very consistent. When you say…Sorry, I’m trying to show a tag here \[inaudible 19:35\] . You have contributions?
+I suppose I was…It’s very consistent. When you say…Sorry, I’m trying to show a tag here \[inaudible 19:35\]. You have contributions?
 
 ### Audrey Tang:
 Yes.
@@ -307,7 +307,7 @@ My knowledge of blockchain is not…I have a basic concept, but I part rely on o
 Where you see DAO here, it’s the decentralized autonomous organization.
 
 ### Timothy Ryan:
-Decentralized autonomous organization. I’m also certainly interested in other \[inaudible 20:57\] . I would say such a thing had \[inaudible 21:02\] Ethereum. In terms of it being a non-profit situation.
+Decentralized autonomous organization. I’m also certainly interested in other \[inaudible 20:57\]. I would say such a thing had \[inaudible 21:02\] Ethereum. In terms of it being a non-profit situation.
 
 ### Audrey Tang:
 It’s the Ethereum Foundation. The other one is Open Collective, which I also personally subscribe to. It’s more about transparency and also participatory governance. It’s more social-oriented. We were trying to make a social impact in a relatively short timeframe. It’s also backing development projects as well.

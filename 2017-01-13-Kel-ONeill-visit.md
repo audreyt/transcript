@@ -416,7 +416,7 @@ It doesn’t work if you take that out.
 That’s one thing that we played with a lot in our first 360‑piece because it’s a piece where a lot of it is split screen, so you have an opening of two worlds touching each other.
 
 ### Kel O’Neill：
-There’s something about watching the way that people rotate around to be facing front and seeing Kenya and facing at the back and seeing San Diego, there’s something about that, once again, choreography that they fall into when they’re doing that that really it feels magical. It feels like breaking new ground in the medium.
+There’s something about watching the way that people rotate around to be facing front and seeing Kenya and facing at the back and seeing San Diego, there’s something about that, once again, choreography that they fall into when they’re doing that that really feels magical. It feels like breaking new ground in the medium.
 
 ### Kel O’Neill：
 I think that that’s one of the things that’s really interesting is that it feels, sometimes, working on this specific technology, like, &quot;I am the ant, and all of my friends are ants who work in the field and we’re all just working on something that we don’t fully understand every aspect of.&quot;
@@ -1103,7 +1103,7 @@ We’re running out of time. I need more coffee.
 You need more coffee. I’m sure. Drop by anytime and we’ll get a video recording.
 
 ### Interviewer：
-Is it possible...? \[non‑English speech\] .
+Is it possible...? \[non‑English speech\].
 
 ### Kel O’Neill：
 I think I’m good for now.
@@ -1112,10 +1112,10 @@ I think I’m good for now.
 \[non‑English speech\]
 
 ### Interviewer：
-\[non‑English speech\] .
+\[non‑English speech\].
 
 ### Audrey Tang：
-\[non‑English speech\] .
+\[non‑English speech\].
 
 ### Interviewer：
 \[non‑English speech\]

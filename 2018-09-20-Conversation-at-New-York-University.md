@@ -142,7 +142,7 @@ What they do as a demo, in a demo in the sense of a demo seeing not a demonstrat
 I was part of the people in Sunflower Revolution not as taking any of those 20 or so sides, but rather as part of the movement called g0v, which, as the moderator already introduced, is the community that caused to fork the government which was start in 2012, two years before the occupy.
 
 ### Audrey Tang:
-This is a very simple hack. You can do it yourself here. Any government website in Taiwan ends in gov.tw, and the idea very simply put is that if you don’t like, for example, the legislative website, you can just do a alternative by changing the O to a zero on the browser bar. That solves the discoverability problems.
+This is a very simple hack. You can do it yourself here. Any government website in Taiwan ends in gov.tw, and the idea very simply put is that if you don’t like, for example, the legislative website, you can just do an alternative by changing the O to a zero on the browser bar. That solves the discoverability problems.
 
 ### Audrey Tang:
 Any public service, by changing O to a zero you get into the shadow government, which does the same thing except with more interactive, more open data. People participating in this movement relinquished their copyright so that by the next procurement cycle, we see a lot of g0v innovations.
@@ -321,7 +321,7 @@ That absolutely neutral sentence was basically formed over many month of stakeho
 It is very much a stakeholder conversation platform, much like the Internet society or standard-making association rather than trying to do ourselves as something that has a power of a referendum. We’re very much not on this stage.
 
 ### Audrey Tang:
-We’re very much just on the fact checking and the feeling checking stage. That was the vTaiwan position, which is why it’s seen as complimentary to hierarchical power or to representative democracy, but not reinforcing it, just complementing it.
+We’re very much just on the fact checking and the feeling checking stage. That was the vTaiwan position, which is why it’s seen as complementary to hierarchical power or to representative democracy, but not reinforcing it, just complementing it.
 
 ### Beth Simone Noveck:
 Just complementing it, but it was a very deliberate decision to start with that component of the problem as opposed to instituting a citizen jury or something that used sortition or a random selection of a representative sample of people.
@@ -871,7 +871,7 @@ Thank you. I’ve wrote entire treaties about this \[laughs\] back when I was wo
 I think that the origin of the anarchist thinking for me, because I learned anarchism first from the classic texts but also from the fables and stories of Laozi and Zhuangzi in the old Daoist tradition. They were very much against hierarchical power as well, but they explained their philosophy in a way that is fun, that appeals to even a five-year-old when I first read it, Daoist texts. It’s basically very intuitively appealing.
 
 ### Audrey Tang:
-When you maintain this intuitive appeal without actually throwing bombs, things like that, and destroy people who don’t agree with the anarchist agenda, you’ll get what I call conservative anarchism, meaning that a anarchist tradition, they’ll respect the traditions but don’t reinforce them, who work alongside hierarchical power and shifting them into peer-to-peer power but without usurping it within the old power logic.
+When you maintain this intuitive appeal without actually throwing bombs, things like that, and destroy people who don’t agree with the anarchist agenda, you’ll get what I call conservative anarchism, meaning that an anarchist tradition, they’ll respect the traditions but don’t reinforce them, who work alongside hierarchical power and shifting them into peer-to-peer power but without usurping it within the old power logic.
 
 ### Audrey Tang:
 I think Buckminster Fuller captured it best. When you don’t fix a broken system, you make one, a new one that makes the old obsolete. Then that’s exactly what we’re doing, which is a lot of fun.
@@ -1013,7 +1013,7 @@ The career public service’s perfectly capable, generalists and specialists to 
 Just creating this recursive space and culture I think is the boot loader that you just talk about and also what I would recommend when bootstrapping from a new municipality and whatever. We hold training classes, actually, this June in NYC, and also very soon, I think November in Canada, and in many other places.
 
 ### Audrey Tang:
-We’re building a English curriculum of the curriculum that we’re offering to the municipalities in Taiwan.
+We’re building an English curriculum of the curriculum that we’re offering to the municipalities in Taiwan.
 
 ### Beth Simone Noveck:
 Did you get Kai’s question?
@@ -1046,7 +1046,7 @@ It means that first, all the mechanism that came out of PDIS doesn’t sacrifice
 The second thing is that when we do the recruiting, we find that people who are willing to join naturally are more of a giver. They wish to contribute more than what they can take to the public good. This is not some HR criteria.
 
 ### Audrey Tang:
-It’s just in a anarchist workspace you have to be this kind of people in order to have fun. Otherwise it’s just not fun at all, because if you are after petty politics or whatever, you do don’t get much satisfaction from an anarchist minister.
+It’s just in an anarchist workspace you have to be this kind of people in order to have fun. Otherwise it’s just not fun at all, because if you are after petty politics or whatever, you do don’t get much satisfaction from an anarchist minister.
 
 > (laughter)
 
@@ -1082,7 +1082,7 @@ There’s all sort of technologies that you can deploy without it being a digita
 It is more in a conservation part of the consensus-making process of it than the amplification part of it. We’re not too big on the amplification part of it. Even though, having said that, the Join platform is now 5 million users out of 23 million population, which is not too bad.
 
 ### Audrey Tang:
-The gaming part. Back when we did Airbnb case, which is right after UberX, Airbnb sent a email to all its Taiwan members asking them to come to pol.is and support the Airbnb position. What they found out was that had this been a simple yes/no question or a simple questionnaire, maybe people would have behaved as the email told them to do.
+The gaming part. Back when we did Airbnb case, which is right after UberX, Airbnb sent an email to all its Taiwan members asking them to come to pol.is and support the Airbnb position. What they found out was that had this been a simple yes/no question or a simple questionnaire, maybe people would have behaved as the email told them to do.
 
 ### Audrey Tang:
 But because this is an open-ended, reflective space, only one-third of people they recruited this way actually agree with the Airbnb position.
@@ -1090,7 +1090,7 @@ But because this is an open-ended, reflective space, only one-third of people th
 > (laughter)
 
 ### Audrey Tang:
-Many other people have much more nuanced, much more eclectic, much more resonating feelings, because they’re just motivated to press one like, but what it gets from opening the link is actually a larger crowd, a larger system, a more holistic approach, a overview effect, if you will, on the problem space.
+Many other people have much more nuanced, much more eclectic, much more resonating feelings, because they’re just motivated to press one like, but what it gets from opening the link is actually a larger crowd, a larger system, a more holistic approach, an overview effect, if you will, on the problem space.
 
 ### Audrey Tang:
 In that reflective space, people behave very differently than people mobilized just to press one like on things. Of course, we see people trying to use bots and things like that, but it’s not really a big problem.

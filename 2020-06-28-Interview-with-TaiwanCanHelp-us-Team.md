@@ -64,7 +64,7 @@ Sure. IDEA is an international organization. The call to defend democracy is tha
 In Taiwan, we actually strengthened democracy by working on the pandemic in a way that’s grassroots, that allows for everybody to participate and allow for social innovation that feed back into the decision-making cycle. Because of that, people feel even more participatory instead of less, and because we’ve never imposed a lockdown.
 
 ### Audrey Tang:
-We’ve never imposed a takedown either for online speech. That’s another thing that authoritarian regimes loves to use as a excuse because of pandemic, because their social order. We have to justify the takedowns. Taiwan doesn’t do that either. Taiwan is a shining example of how to enhance liberal democracy during the pandemic and afterwards.
+We’ve never imposed a takedown either for online speech. That’s another thing that authoritarian regimes loves to use as an excuse because of pandemic, because their social order. We have to justify the takedowns. Taiwan doesn’t do that either. Taiwan is a shining example of how to enhance liberal democracy during the pandemic and afterwards.
 
 ### Darice Chang:
 Thank you. You did talk a little bit about grassroots efforts on the part of the Taiwanese people. Can you share with us a little more of what Taiwanese have done to help the government during this pandemic?

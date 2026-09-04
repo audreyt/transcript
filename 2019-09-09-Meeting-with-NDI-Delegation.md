@@ -97,7 +97,7 @@ As I mentioned, the Taiwan model of countering disinformation is centered on the
 It is not a single company or a single minister saying, “This is the solution.” This is us initiating a collaborative search for collective solutions. We have witnessed the more open the society is, the more authentic journalists there are in a society, interestingly, the more threat disinformation is to that jurisdiction.
 
 ### Audrey Tang:
-To talk about this phenomenon, we don’t use the F word, which is very misleading because 新聞 in Mandarin is a translation of both news and journalism. Someone worked at news is 新聞工作者. Saying the F word, referring to the news, is also a affront to journalism. That’s a specific, original linguistic issue. Both my parents are journalists, so out of filial piety…
+To talk about this phenomenon, we don’t use the F word, which is very misleading because 新聞 in Mandarin is a translation of both news and journalism. Someone worked at news is 新聞工作者. Saying the F word, referring to the news, is also an affront to journalism. That’s a specific, original linguistic issue. Both my parents are journalists, so out of filial piety…
 
 ### Audrey Tang:
 (laughter)
@@ -367,7 +367,7 @@ After that, you can already look in the Control Yuan’s website, the entire raw
 Then we’re saying to the platforms, “OK, that might be our oversight. Maybe we should include you in the first place.” Now, we’re amending that, and they will be treated as campaign donations for radical transparency. That’s our three lines of defense. They are all reactive. Three proactive things.
 
 ### Audrey Tang:
-First of all, we have a participation officer team in every ministry that is in charge of not just clarifying things, but also listening. Listening means that 5,000 people petitioning for the banning of the plastic straws, for example. That was two years ago led by a 16 year girl. If we didn’t have a e petition platform, I am sure that she would go to strike on Fridays.
+First of all, we have a participation officer team in every ministry that is in charge of not just clarifying things, but also listening. Listening means that 5,000 people petitioning for the banning of the plastic straws, for example. That was two years ago led by a 16 year girl. If we didn’t have an e petition platform, I am sure that she would go to strike on Fridays.
 
 ### Audrey Tang:
 We do have an e petition platform, so our Greta \[laughs\] did not get to strike on Fridays, but rather, sat down with the EPA, as well as all the utensil makers that use plastics and non recyclable material to make those one shot use things, spoons, straws, and so on. We sat down and talked. The industry said that they were actually businesses with a social purpose.

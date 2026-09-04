@@ -195,7 +195,7 @@ I think so.
 Because just before I entered the cabinet I was visiting New Zealand and living with the Enspiral and Loomio folks. There is a very strong cooperative solidarity theme there.
 
 ### Audrey Tang:
-They told be very explicitly that that’s not the norm. They were seen as somewhat idealist and as not the norm in the social enterprise sector. Perhaps that could be developed more.
+They told me very explicitly that that’s not the norm. They were seen as somewhat idealist and as not the norm in the social enterprise sector. Perhaps that could be developed more.
 
 ### Audrey Tang:
 Thank you so much. That’s a very complete picture.

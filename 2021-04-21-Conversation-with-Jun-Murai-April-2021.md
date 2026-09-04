@@ -45,7 +45,7 @@ Yes. I've been using 5G for the past year now, and it's been very smooth. I had 
 That's right.
 
 ### Audrey Tang:
-Definitely. We're seeing millimeter wave deployments for the specific areas that are, pilots test-beds for the V2X. I have not personally tried out the millimeter communication, but I heard that it's quite a attraction to startups trying to explore the open rent space and so on.
+Definitely. We're seeing millimeter wave deployments for the specific areas that are, pilots test-beds for the V2X. I have not personally tried out the millimeter communication, but I heard that it's quite an attraction to startups trying to explore the open rent space and so on.
 
 ### Audrey Tang:
 Definitely.

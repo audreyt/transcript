@@ -218,7 +218,7 @@ If you look at that lens, then GDPR is a boon because GDPR mandates portability.
 
 To your other point, which is how those long arm reach [laughs] of data rights and portability rights affect our own planning, I would say two things.
 
-First, we want to cross recognize with other data protection regimes. We are a active party of the GDPR. We've been seeking GDPR adequacy for quite some time now. Within the next couple of years, we will have a independent DPA, which is the only remaining criteria for getting GDPR adequacy.
+First, we want to cross recognize with other data protection regimes. We are an active party of the GDPR. We've been seeking GDPR adequacy for quite some time now. Within the next couple of years, we will have an independent DPA, which is the only remaining criteria for getting GDPR adequacy.
 
 In all these accounts, we want to remain interoperable with all those data protection regimes. For the next couple of years, what we're focusing on is on a very tiny slice of it, which is the resilience part, which overlaps but certainly is not all of data protection.
 
@@ -497,7 +497,7 @@ I saw Wjke's name on the data market because he was working with the Hsinchu Cit
 CCTVs.
 
 ### Audrey Tang:
-Yes. So you share the concerns about zero knowledge, about privacy preservation and enhancing technologies, about data residency and so on. He's got this full stack all the way to having the fiber optics laid out to maintain a actual intranet and so on. Very hardcore, very full stack.
+Yes. So you share the concerns about zero knowledge, about privacy preservation and enhancing technologies, about data residency and so on. He's got this full stack all the way to having the fiber optics laid out to maintain an actual intranet and so on. Very hardcore, very full stack.
 
 ### Wjke:
 In the moda, we don't have the intranet fiber. Right now, we use a lot of Cloudflare Access and DDos prevention to protect our service outside. Maybe we will put some more service on our cloud.
@@ -648,7 +648,7 @@ In that even people who are very experienced, like literally CEOs or CEO, many o
 
 That's very unique. The venue we have, our National Academy, is known for being politically neutral. If you go to National Academy to run a government subsidized venue you're not seen as being co-opted by the government because the National Academy reports only to the president and no other ministers
 
-It's independent from all the universities and all the ministries. When the people who belong to one party or another, one ideology or another, and so on, nevertheless there's a incredibly neutral ground in the National Academy that they can go every month or so, or every week, there's some event there.
+It's independent from all the universities and all the ministries. When the people who belong to one party or another, one ideology or another, and so on, nevertheless there's an incredibly neutral ground in the National Academy that they can go every month or so, or every week, there's some event there.
 
 Basically we just tap into that community and see the people who want to embrace this co-creation across diversity, willing to work with people who speak different languages of different cultural backgrounds, different ideology, through the work of appropriate technology which then we just tap these people.
 

@@ -43,7 +43,7 @@ That’s the social sector thing. It’s open data. People using an app can dedi
 People can also participate in a lot of other things, but this shows one of the prime examples of the social sector power at work.
 
 ### Audrey Tang:
-Taiwancanhelp.us is a crowdfunded response to send a account of what if Taiwan is a full member of the WHO.
+Taiwancanhelp.us is a crowdfunded response to send an account of what if Taiwan is a full member of the WHO.
 
 ### Audrey Tang:
 Then it shows that people around the world can save at least 10 days of time because we start inspecting flight passengers, health inspections, from Wuhan starting the first day this year, whereas the WHO did not start recommending until 10 days later or even later. Everybody can save 10 days of time if Taiwan has been a full member of the WHO and have ministerial access.
@@ -124,7 +124,7 @@ First of all, I would say that it’s the government that trusts the people. Peo
 If you ask people why they wear mask they say, “That’s because we protect ourselves, and we remind each other to protect our self, because wearing a medical mask can remind yourself not to touch your mouth. It reminds you to wash your hands properly, so when we see people who do not wear a medical mask, we remind them that they need to protect themselves.
 
 ### Audrey Tang:
-“It’s not the government’s mandate. Actually, the government, for a while, during the mass shortage, said that we should leave the medical mask to the medical workers. We will have none of it. The government should ensure everybody have medical masks.” That’s a average response from people in the street.
+“It’s not the government’s mandate. Actually, the government, for a while, during the mass shortage, said that we should leave the medical mask to the medical workers. We will have none of it. The government should ensure everybody have medical masks.” That’s an average response from people in the street.
 
 ### Audrey Tang:
 This says two things. First of all, it’s far more Daoist than Confucius. The Daoist idea is that the people think it’s what is natural. It’s a norm-based approach. It’s what’s natural to do.
@@ -169,7 +169,7 @@ How do you deal with disinformation and fake news, while preserving press freedo
 To answer the question about press freedom and disinformation, it’s important to note that we do not use the word fake news in Taiwan, because news, xinwen, and journalism, xinwen gong zuo, is the same word, basically. Journalism is literally news work or news business in Mandarin here.
 
 ### Audrey Tang:
-If we say fake news, it’s a offense to journalists. It’s a oxymoron in Mandarin here. Because my parents are both journalists, out of filial piety, a Confucius thing, I shouldn’t be using the F word. \[laughs\] Disinformation, we have a legal definition. It’s intentional untruth that causes public harm. It’s a very narrow definition.
+If we say fake news, it’s an offense to journalists. It’s an oxymoron in Mandarin here. Because my parents are both journalists, out of filial piety, a Confucius thing, I shouldn’t be using the F word. \[laughs\] Disinformation, we have a legal definition. It’s intentional untruth that causes public harm. It’s a very narrow definition.
 
 ### Audrey Tang:
 As you can see, harming the image of a minister is fine. It’s just good journalism, because it’s not public harm. You need to actually harm the public, like saying, “Give me your social media accounts and share this message, you can get a box of mask for free.” That’s disinformation, because it’s malicious. It’s spear phishing.
@@ -190,7 +190,7 @@ There’s also antivirus companies such as Dr.Message from the Trend Micro, whic
 If you befriend, add it as a contact to your LINE, which is like WhatsApp, it just scans all the messages sent to you and send out clarification. It’s very advanced. You can detect videos, synthetic videos, or images, as well as other scams, as well as disinformation.
 
 ### Audrey Tang:
-If you invite that to your group chat, it also scans each incoming message and reminds people if any of them contains such malicious disinformation. Of course, it doesn’t store it on the local server. It’s just like a antivirus application. If you don’t trust it, you can download the underlying technology, such as Meiyuyi, from GitHub and compile a bot yourself.
+If you invite that to your group chat, it also scans each incoming message and reminds people if any of them contains such malicious disinformation. Of course, it doesn’t store it on the local server. It’s just like an antivirus application. If you don’t trust it, you can download the underlying technology, such as Meiyuyi, from GitHub and compile a bot yourself.
 
 ### Audrey Tang:
 That is how we fight disinformation through rapid response, through a funny clarification that’s rolled out at most two hours with two fun pictures, with 200 characters at most. That makes the humor more trendy than the rumor. So we enlist the press as our friend, and the press, in turn, enlists the citizenry as their friend.
@@ -274,7 +274,7 @@ The president give a trophy that has a micro projector that when turned on, proj
 That’s the highest level of social innovation binding power. Along this ladder, it’s built on face-to-face solidarity. It’s based on what we call a community of practice with common purpose. It becomes amplifying the classical offline encounters. What we do is to make sure the offline encounters including rallies, and protests, and occupying the parliament widely live-streamed and participatory.
 
 ### Audrey Tang:
-Everybody can feel by inputting, contributing online, they changed the course of history offline. That is why we always take a face-to-face-first approach when it comes to encounters. It is a amplifying instead of replacing structure of re-presentation. Digital is a re-presentation of the classical, not a representation of the classical. That’s the answer.
+Everybody can feel by inputting, contributing online, they changed the course of history offline. That is why we always take a face-to-face-first approach when it comes to encounters. It is an amplifying instead of replacing structure of re-presentation. Digital is a re-presentation of the classical, not a representation of the classical. That’s the answer.
 
 ### Audrey Tang:
 I’m not working for the government. I’m working with the government. Young people in Taiwan also think it’s not very cool to work for the government. When I say I only work with the government, people think it’s pretty cool.

@@ -163,7 +163,7 @@ They were incredibly excited because they said, &quot;We could read it because i
 This is what we are at. We do many other things but this is our most advanced technology. That’s what we’re most excited about.
 
 ### Audrey Tang:
-Great. I see Timescope has a Oculus Go as well.
+Great. I see Timescope has an Oculus Go as well.
 
 > (laughter)
 
@@ -465,7 +465,7 @@ That’s cool.
 We’re offering this service and content for free, so every filmmaker around the world can use Taiwan as their backdrop. I think that this too have a lot of synergy.
 
 ### Audrey Tang:
-It’s a easier timeline for us to produce, but you offer something unique that you can install on Taipei 101. \[laughs\]
+It’s an easier timeline for us to produce, but you offer something unique that you can install on Taipei 101. \[laughs\]
 
 ### Adrien Sadoka:
 Definitely. I think that Taipei 101 is really like the observatory. You’re pointing at 101 Tower with big nice view would be such a cool experience to see how Taipei has changed over...
@@ -532,7 +532,7 @@ That’s good, because it’s the same as our text filing system, ha-ha...
 > (laughter)
 
 ### Audrey Tang:
-...which we also co-create with people. Anything that involve a action by the person themself is better.
+...which we also co-create with people. Anything that involve an action by the person themself is better.
 
 ### Adrien Sadoka:
 Definitely.
@@ -585,7 +585,7 @@ That’s cool. That’s interesting.
 Things like that can be done in this huge open space that it doesn’t make any economic sense. But the Minister of Culture is very willing to sponsor this kind of work, so it’s perfect for piloting.
 
 ### Audrey Tang:
-If you want to convince a institution to buy 5,000 copies, they will not think about. But if it is just 100 or 50 copies for an experimental pilot, then it’s well within their small procurement budget. I think this is a great help.
+If you want to convince an institution to buy 5,000 copies, they will not think about. But if it is just 100 or 50 copies for an experimental pilot, then it’s well within their small procurement budget. I think this is a great help.
 
 ### Adrien Sadoka:
 You think in our case, it would be the Minister of Culture who would be our direct plant, or it would be like a mix between you and the Ministry of Culture?
@@ -722,7 +722,7 @@ If you could connect to us would be good.
 The previous chair of 101, Christina Sung of SERT.tw, I think is perhaps a good contact, because, first, she knows the right people, but also that she really cares about social entrepreneurship. She manages one of our independent social innovation investment board.
 
 ### Audrey Tang:
-She has also access to people who really want to make the experience better for the arts and the society, rather than just from a purely financial return perspective. She’s one of the leading impact investors, so I think it’s a easier angle, if she think it’s a good fit.
+She has also access to people who really want to make the experience better for the arts and the society, rather than just from a purely financial return perspective. She’s one of the leading impact investors, so I think it’s an easier angle, if she think it’s a good fit.
 
 ### Carl de Poncins:
 Thank you.

@@ -261,7 +261,7 @@ Definitely. The CECC is special in the sense that it had its own legal group, an
 
 Before the pandemic, each ministry is its own data protection authority, and they may have different interpretations on the human rights interpretations of our Data Protection Act, for example. Although the Minister of Justice and later on the National Development Council served as a harmonizer of the interpretations, there was no cabinet level joint operations when it comes to data protection, personal data protection.
 
-Thanks to the CECC's cross ministerial assembly, for the first time, many ministers and we, the minister at large, the [Chinese] , got actively involved in the personal data protection work across ministries because the CECC systems are almost all across ministries.
+Thanks to the CECC's cross ministerial assembly, for the first time, many ministers and we, the minister at large, the [Chinese], got actively involved in the personal data protection work across ministries because the CECC systems are almost all across ministries.
 
 For the first time, we had this cabinet level conversation. One of the results was that there's now a cabinet level headed by, I think, three horizontal ministers at large, personal data protection joint meeting. Even though there's currently no independent DPA, the ministers at large are all independent of the vertical ministries.
 

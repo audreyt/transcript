@@ -16,7 +16,7 @@ In our own Sunflower movement which I have participated, where we occupied the p
 The protests there have grown more violent in the last period of time and there’s the chance that at some point Beijing says “we’ve had enough, we’re going to intervene with force.” How do you view this?
 
 ### Audrey Tang:
-I don’t think that will happen on a international watch, when all around the world, liberal democracies are looking at it as something that must not happen. For our part, the Taiwan universities have been offering a lot of exchange programs to give the students there a safe space to have a conversation with international media, precisely for this.
+I don’t think that will happen on an international watch, when all around the world, liberal democracies are looking at it as something that must not happen. For our part, the Taiwan universities have been offering a lot of exchange programs to give the students there a safe space to have a conversation with international media, precisely for this.
 
 ### Interviewer:
 Now you’ve started writing computer code when you were a kid; you’ve been active as a hacker, as a computer hacker; now you’re the Digital Minister of Taiwan, and you’re calling for the reinvention of democracy. How’s it supposed to look like and how do you perceive your own role in it?

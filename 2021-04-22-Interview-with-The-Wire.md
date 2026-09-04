@@ -139,7 +139,7 @@ Also, I will point out that the Open Space Technology and the way that movements
 Just as social science is also science, social tech is also tech. This is the example that I will use to make sure that people when they hear about tech, not just think about natural science and industrial tech.
 
 ### James Chater:
-We talked a little bit about already the kind of some of the early experiences you have with technology. With this kind of experiences with technology, will they always in some way related to governance? Was there it an politics, I guess? Is that always been the running thread in your kind of understanding of the role of technology?
+We talked a little bit about already the kind of some of the early experiences you have with technology. With this kind of experiences with technology, will they always in some way related to governance? Was there it a politics, I guess? Is that always been the running thread in your kind of understanding of the role of technology?
 
 ### Audrey Tang:
 Yeah, definitely, as I mentioned, the question I asked is whether it empowers people closest to the suffering? If it takes the power from the center to the edges, like the Wide Web vis à vis the earlier authoritarian model, then that's an empowering sort of technology. That's appropriate technology because people can appropriate it like they want.

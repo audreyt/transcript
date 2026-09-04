@@ -573,7 +573,7 @@ So to get from the 200 teams — each corresponding to one or more SDGs — to t
 
 ### Audrey Tang:
 
-So the incentive here is that after voting for nine votes, spending 81, you have 18 left. People are incentivized to look at at least three other projects, because nobody wants to squander their points. So they like something else and they vote four votes — 16 — and they still have two points left. They look at two others and they discover that actually these two work better than the original ones. So they take some of the votes back — maybe they do a seven and seven, six and six and two, or whatever.
+So the incentive here is that after voting for nine votes, spending 81, you have 18 left. People are incentivized to look at least three other projects, because nobody wants to squander their points. So they like something else and they vote four votes — 16 — and they still have two points left. They look at two others and they discover that actually these two work better than the original ones. So they take some of the votes back — maybe they do a seven and seven, six and six and two, or whatever.
 
 ### Audrey Tang:
 

@@ -21,7 +21,7 @@ Well, &quot;conservative&quot; means very simply that there is a large part of e
 One of the things that you’re involved in and improving the workings of government. What do you say, g-0-v? What is it?
 
 ### Audrey Tang:
-Gov-zero (g0v) is a assembly of sorts, in a few loosely coupled bits of spaces. We have hackathons every month and it’s a bunch of — about 5000 by now — designers, hackers, activists, coders, scholars, who meet every now and then.
+Gov-zero (g0v) is an assembly of sorts, in a few loosely coupled bits of spaces. We have hackathons every month and it’s a bunch of — about 5000 by now — designers, hackers, activists, coders, scholars, who meet every now and then.
 
 ### Audrey Tang:
 The only thing we have in common is that a project we do are in the commons, meaning that we relinquish most of our copyright. We work most on this shadow government website called g0v.tw, that basically takes an existing government agency — like the environment agency would be the env.gov.tw — so that anybody can just change in the browser, from &quot;O&quot; to zero, like env.g0v.tw, and get into the zero counterpart.

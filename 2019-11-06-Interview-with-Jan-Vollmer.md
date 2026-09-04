@@ -403,7 +403,7 @@ After that, I talked with Dell Technology. They want to emphasize on their upcyc
 After that, I had a conversation with a PhD student on social anthropology who really wanted to know what’s the mechanism designed to enable people to contribute to the common good.
 
 ### Audrey Tang:
-After that, I had a conversation with Sense. It’s a Asia Social Innovation Award winner and also Asia-Pacific Social Innovation Partnership Award Winner. I gave their award. They use eye tracking, like Stephen Hawking, to enable people to communicate quite easily, but they have some regulatory issues.
+After that, I had a conversation with Sense. It’s an Asia Social Innovation Award winner and also Asia-Pacific Social Innovation Partnership Award Winner. I gave their award. They use eye tracking, like Stephen Hawking, to enable people to communicate quite easily, but they have some regulatory issues.
 
 ### Audrey Tang:
 One of them is about to qualify to reimbursement, they have to simulate a mouse left button and right button. The regulation is very old. Nowadays, nobody has mouses anymore.

@@ -169,7 +169,7 @@ Wow. How has the population responded to this contact tracing?
 The population really insisted to play a co-detective role. There’s a lot of people calling 1922 about the suspected cases, suspected symptoms, and things like that. We have to massively assign a lot of staff to answer those calls, to triage those calls, and so on. It’s really effective.
 
 ### Audrey Tang:
-Also, because of the digital fence, it’s based on the idea that for the 14 days of the home quarantine, people who are attached to their phones anyway cannot \[laughs\] move outside of the digital fence. Otherwise, a automatic SMS is sent to the local household managers and the police.
+Also, because of the digital fence, it’s based on the idea that for the 14 days of the home quarantine, people who are attached to their phones anyway cannot \[laughs\] move outside of the digital fence. Otherwise, an automatic SMS is sent to the local household managers and the police.
 
 ### Audrey Tang:
 Their neighbors also help enforcing, essentially, the digital fence for the 14 days and making sure that they get plenty of video calls like we do now to make sure that they are still around and also their mental health is being taken care of.
@@ -229,7 +229,7 @@ In Taiwan, our counter-disinformation strategy is based on this idea. It’s cal
 That’s our Premier, Su Tseng-chang, smiling happily, working with the convenience stores. You can see him here. He posted this on social media, which is his bottom wiggling a little bit actually, and says in very large font that “We only have one pair of buttocks each.”
 
 ### Audrey Tang:
-Meaning that we don’t need to panic buy tissue papers, and then a very clear table that shows that materials of medical masks come from Taiwan and the tissue paper material came from South America, and so on. It’s an informative infographic with a extremely funny mimetic packaging. This went absolutely viral.
+Meaning that we don’t need to panic buy tissue papers, and then a very clear table that shows that materials of medical masks come from Taiwan and the tissue paper material came from South America, and so on. It’s an informative infographic with an extremely funny mimetic packaging. This went absolutely viral.
 
 ### Audrey Tang:
 Because of that, the panic buying of tissue papers actually died down within a day or two. Finally, we found out the person who spread the rumor was a tissue paper reseller.
@@ -301,7 +301,7 @@ We managed quite early to isolate virus strains from patients to synthesize the 
 I’m not the Vice President — Chen Chien-jen — so I cannot comment too much on vaccines. Suffice it to say that we really want vaccines, because currently, we rely on the physical vaccine, that is the medical mask, but we all understand it doesn’t scale to the entire world. Only vaccines scale to the entire world.
 
 ### Audrey Tang:
-There’s more and more medical masks being produced, and we’re also offering the medical masks voluntarily, as well as teaching other countries how to make the machine to make those medical masks. At the end of the day, it still takes a vaccine to completely end a epidemic. We are committing a lot of resource on it.
+There’s more and more medical masks being produced, and we’re also offering the medical masks voluntarily, as well as teaching other countries how to make the machine to make those medical masks. At the end of the day, it still takes a vaccine to completely end an epidemic. We are committing a lot of resource on it.
 
 ### Audrey Tang:
 If you’re interested in what you can contribute, there is a website called [cohack.tw](https://cohack.tw/) that anybody from any place of the world can look at the six pillars of responses and see how the digital community can help as well the people who are doing vaccine research or people who are doing the frontline responses, and nurses as well, very important.
@@ -325,7 +325,7 @@ This morning’s virtual GCTF was precisely how we can apply resources to combat
 For example, the founder of PTT, the equivalent of Reddit, is currently running a nonprofit called AI Labs. He shared using sentiment analysis and text mining how people’s sentiment to each other are so that we can make sure that when we’re sending our messages, we hit the right emotional tone.
 
 ### Audrey Tang:
-We actually allow a lot of remixes using Creative Commons so that people can really remix the memes so that it become more precise toward the target audiences that they want to inform. For example, the proper hand sanitation rules. There’s very easy to remember lyrics and like \[non-English speech\] , that tells you how to wash your hands properly and things like that.
+We actually allow a lot of remixes using Creative Commons so that people can really remix the memes so that it become more precise toward the target audiences that they want to inform. For example, the proper hand sanitation rules. There’s very easy to remember lyrics and like \[non-English speech\], that tells you how to wash your hands properly and things like that.
 
 ### Audrey Tang:
 There’s a lot of creativity and innovation across the board in the US, Taiwan, and now Japan co-created GCTPR forums.

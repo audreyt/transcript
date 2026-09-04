@@ -217,7 +217,7 @@ It’s very radical, but it’s very effective. We’ve been running it for thre
 > (Jun speaks)
 
 ### Audrey Tang:
-I read that someone who have successfully organized this kind of activities, of course, without presidential access but otherwise the same, \[Japanese\] , is now part of your government as well, of course, for Japan.
+I read that someone who have successfully organized this kind of activities, of course, without presidential access but otherwise the same, \[Japanese\], is now part of your government as well, of course, for Japan.
 
 > (Jun speaks)
 

@@ -4,7 +4,7 @@
 Let’s get started. Welcome to the administration, to the Executive Yuan. I am Audrey Tang, Taiwan’s Digital Minister. If there is anything I can help answering or you would like to know, I’m happy to share. As usual, visitors, journalists, and actually internal meetings, too, that are held in the Executive Yuan, we make a record, but we don’t publish the record.
 
 ### Audrey Tang:
-We make a textual transcript, and all of you will receive the full transcript of our conversation. It’s a editable... It’s like a Google Doc, but it’s hosted within the Taiwan government. Anyone can edit anything, anything that you say, of course. After 10 days, we publish it to the Wide Web. I’ve been doing this for one year and a half since I become the minister.
+We make a textual transcript, and all of you will receive the full transcript of our conversation. It’s an editable... It’s like a Google Doc, but it’s hosted within the Taiwan government. Anyone can edit anything, anything that you say, of course. After 10 days, we publish it to the Wide Web. I’ve been doing this for one year and a half since I become the minister.
 
 ### Audrey Tang:
 If you prefer to be known as a particular speaker, please say your name before saying something. Otherwise, it would just be a journalist asking a question.
@@ -108,7 +108,7 @@ You have a technocratic approach to industrial policy, for instance, setting an 
 That’s a great question. Actually, the first cases of the laws that I worked on, personally, when I entered the cabinet is called so-called fintech sandbox law. The fintech sandbox kind of epitomizes the balance that you were referring to.
 
 ### Audrey Tang:
-In fintech sandbox law, I’m going to introduce very briefly, anyone who has an idea, like AI-based banking, cryptocurrency, and B2B lending, whatever, that is not currently allowed by the financial ministry, basically gets to submit a application saying that I have a new fintech innovation and I’m going to violate the law for the next 6 months to 12 months, but for the public good.
+In fintech sandbox law, I’m going to introduce very briefly, anyone who has an idea, like AI-based banking, cryptocurrency, and B2B lending, whatever, that is not currently allowed by the financial ministry, basically gets to submit an application saying that I have a new fintech innovation and I’m going to violate the law for the next 6 months to 12 months, but for the public good.
 
 ### Audrey Tang:
 They have to write a justification of why this is good for digital inclusion, for financial inclusion, for any kind of public good. The financial people, it’s not like the ministry stays completely out of the loop, but they assemble a multi-stakeholder panel to look at this innovation and see if they can partner with any local city government or whoever to realize it.
@@ -126,7 +126,7 @@ As you see, this is a co-creative environment. We let the private sector, who ha
 This is all the three sectors working together. We’re extending this fintech sandbox into a couple weeks from now we will push an AI mobility sandbox into the legislation where we will experiment with un-crewed vehicles that are not just autonomous cars, but also freight-carrying drones, ships, and some hybrid vehicles.
 
 ### Audrey Tang:
-Also, working with the local governments with an eye on improving the life of their citizens with new technology, and then we will move onto other general purpose sandboxes. In each cases, we need expertise, but we especially need a accountable public way for people from different expertise to have a real conversation among each other, and for the whole society to learn. That’s the main idea.
+Also, working with the local governments with an eye on improving the life of their citizens with new technology, and then we will move onto other general purpose sandboxes. In each cases, we need expertise, but we especially need an accountable public way for people from different expertise to have a real conversation among each other, and for the whole society to learn. That’s the main idea.
 
 ### Audrey Tang:
 Yes? You. Sorry.
@@ -522,7 +522,7 @@ For the fact-checkers, I know of three independent groups all working on various
 We publish our clarifications, but in a way that is very easy for a machine-to-machine protocol to receive. If you work in the television and cable news, for example, before you report a rumor from the Internet, you can very easily check whether on the bulletin the government has already said something to counterbalance it.
 
 ### Audrey Tang:
-You don’t have to take the government’s word for granted. You can still say, &quot;The government is probably lying. \[laughs\] We trust this.&quot; It’s within your journalistic discretion, but at least the government is not being unresponsive, like takes 7 days, takes 60 days just to catch up on a accusation.
+You don’t have to take the government’s word for granted. You can still say, &quot;The government is probably lying. \[laughs\] We trust this.&quot; It’s within your journalistic discretion, but at least the government is not being unresponsive, like takes 7 days, takes 60 days just to catch up on an accusation.
 
 ### Audrey Tang:
 The civil society has been really active. There is a Line bot. Line is like WhatsApp. It’s an instant message platform, and this information there is particularly difficult to track because there’s no search engine for such group messages that went viral.
@@ -614,7 +614,7 @@ Sorry, I should have done my research. As a factual matter, are the protections 
 Of course, there’s libel laws. There’s all sorts of laws that if someone feels hurt they can also apply. We’re designing something DMCA style. You can order a take down, but you have to file a lawsuit within 10 days -- I think it’s 10 days -- so there’s a way for the administration to work with the judiciary system in a balanced fashion to handle these things.
 
 ### Audrey Tang:
-We also now have a anti-harassment law that one can issue, like some particular person who keeps interfering with my online and offline work, keeps stalking me, one can file some order for them to stay away. If they keep violating it, then it’s punishable. All these are done in a way that doesn’t harm free speech, as I said, somewhat differently from some European contexts.
+We also now have an anti-harassment law that one can issue, like some particular person who keeps interfering with my online and offline work, keeps stalking me, one can file some order for them to stay away. If they keep violating it, then it’s punishable. All these are done in a way that doesn’t harm free speech, as I said, somewhat differently from some European contexts.
 
 ### Audrey Tang:
 Here in Taiwan, free speech is seen as something that is a value in itself. It’s not an instrumental value. I think mostly because people still remember, people younger than me don’t, but people older than me still remember when there wasn’t free speech at all. \[laughs\] They finally got free speech after generations of struggle. We might as well try to keep the verbatim version of it.

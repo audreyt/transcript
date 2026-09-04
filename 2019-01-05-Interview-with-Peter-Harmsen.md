@@ -225,7 +225,7 @@ In Taiwan, we have adopted the SDGs not only a national level with our own volun
 Through the 17 Sustainable Development Goals, we engage the global multistakeholder society, that is to say, not only the traditional multi-laterals but rather form mini-laterals around specific SDGs that people care about.
 
 ### Audrey Tang:
-For example, when we talk about disinformation, counter-disinformation, we use the Global Cooperation and Training Framework to ensure that everybody agreeing to SDG 16 – which is a accessible and representative institutions, protecting human rights and free speech – to bond together.
+For example, when we talk about disinformation, counter-disinformation, we use the Global Cooperation and Training Framework to ensure that everybody agreeing to SDG 16 – which is an accessible and representative institutions, protecting human rights and free speech – to bond together.
 
 ### Audrey Tang:
 Now it is jointly hosted by Japan, by Taiwan, and the US, and with dozens of other countries sending people, usually journalists, to learn about the ways Taiwan worked with journalists instead of against journalists when it comes to mitigating disinformation online. That’s just one of the 17 SDGs that we’re working on.
@@ -264,7 +264,7 @@ They all have a seat at the table, and they re-present their actual contribution
 Are you concerned that China, either directly or indirectly, eventually will find ways to also constrain Taiwanese international participation overseas in these fora?
 
 ### Audrey Tang:
-I don’t think that could happen because a multistakeholder forum, for example, the Internet multistakeholder forums, people can join using Internet connections, teleconferencing. Anybody who has a email can join the working group.
+I don’t think that could happen because a multistakeholder forum, for example, the Internet multistakeholder forums, people can join using Internet connections, teleconferencing. Anybody who has an email can join the working group.
 
 ### Audrey Tang:
 It is quite unlikely that the PRC can systemically remove the email accounts or the video-conferencing accounts from anybody dialing in from Taiwan because we do have our own Internet domain that is .tw. It is quite unlikely that the PRC can manage to take .tw out from the international Internet domain ICANN registry.
@@ -315,7 +315,7 @@ Why is it a human right? Why is it so important?
 The information and communication technology increasingly become the public forum around which democracies are formed and democracies are performed.
 
 ### Audrey Tang:
-To systemically exclude people from the digital information and communication or to restrict people to a asymmetric mode, that is to say, television and radio, which allows for broadcasting, meaning one person to speak to millions of people but not listening, which is a million people listening to one another, decimates these people’s participation into a democratic everyday life.
+To systemically exclude people from the digital information and communication or to restrict people to an asymmetric mode, that is to say, television and radio, which allows for broadcasting, meaning one person to speak to millions of people but not listening, which is a million people listening to one another, decimates these people’s participation into a democratic everyday life.
 
 ### Audrey Tang:
 It’s not just about the political democracy. It’s also about democracy when it comes to opportunities of development, education, and so on.
@@ -405,7 +405,7 @@ The thing is that Internet, as originally designed, relies on the freedom to inn
 Arguably, in the past couple years especially, people in PRC, through the Great Firewall as well as many other institutional design, is turning the Internet there through their management of VPN and management of cryptography, devising an alternate norm of what they call “cyber-sovereignty,” which is their alternative norm to the Internet norm.
 
 ### Audrey Tang:
-It is interesting to see whether they would remain part of the core Internet with this norm or whether they will close more and more of the core Internet protocols beneath or behind the Great Firewall and eventually becoming, essentially, a intranet. The trend is moving slowly toward that direction. Of course, we don’t know how long it will take to reach that point.
+It is interesting to see whether they would remain part of the core Internet with this norm or whether they will close more and more of the core Internet protocols beneath or behind the Great Firewall and eventually becoming, essentially, an intranet. The trend is moving slowly toward that direction. Of course, we don’t know how long it will take to reach that point.
 
 ### Peter Harmsen:
 Given China’s record over the past several years in the area, are you basically optimistic or pessimistic regarding the Internet as a force for democracy in China?

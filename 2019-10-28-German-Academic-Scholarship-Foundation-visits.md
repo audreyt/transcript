@@ -349,7 +349,7 @@ That’s my job description. \[laughs\] It’s a very broad brush of what the ma
 That is very much captured by the triple-bottom-line idea of the Sustainable Goals. It’s just poetry easier to convey and a Venn diagram, less so. That is the general outlook.
 
 ### Audrey Tang:
-Based on this outlook, the social impact of radical transparency allows people of different positions to come to me, one by one. I act as a channel so that they can listen to each other’s voices in a way that is collaborative. I’ll use two examples. One example is about the idea of e-sport. I’m sure it’s also a emerging issue in many jurisdictions.
+Based on this outlook, the social impact of radical transparency allows people of different positions to come to me, one by one. I act as a channel so that they can listen to each other’s voices in a way that is collaborative. I’ll use two examples. One example is about the idea of e-sport. I’m sure it’s also an emerging issue in many jurisdictions.
 
 ### Audrey Tang:
 Taiwan took 10 years to talk about what e-sport should belong, whether it’s a sport, whether it’s a cultural performance, whether it’s educational material. Whether this is something that’s just industrial, whether it is something social, whether it’s addictive, whether it’s bad for the health, whether it’s good for the health, and so on, for 10 years. I’m sure other places as well.
@@ -361,7 +361,7 @@ Before I become digital minister, it was deadlocked. The premiers of the previou
 The idea, very simply put, is that we started with a public hearing in the month that I joined, in October ‘16, in which case you can see it’s not like most summaries. It’s just a play-by-play entire verbatim transcript of the e-sport competitors outlining their real differences with the traditional sports but also their real needs in comparison with the real sport athletes and so on.
 
 ### Audrey Tang:
-Even though the three ministries have very different takes, I can use this to distill the contention points and talk to each one of them. You can see the Ministry of Education’s logo, Ministry of Culture’s logo, and so on. This represents a internal discussion that I chaired.
+Even though the three ministries have very different takes, I can use this to distill the contention points and talk to each one of them. You can see the Ministry of Education’s logo, Ministry of Culture’s logo, and so on. This represents an internal discussion that I chaired.
 
 ### Audrey Tang:
 I said, “Within two weeks, everything will be public, and so make your argument solid. Maybe edit away the in-jokes and things like that.” It’s just that the argument is because, in Taiwan, sport translates sometimes as PE or physical education. The Ministry of Education thinks that there’s nothing physical in e-sport, so it really shouldn’t be their business. It should be Ministry of Culture.
@@ -379,7 +379,7 @@ The idea of radical transparency brings the idea of ice bucket challenge. You’
 Then we publish all of this into the public forums, the likes of Reddit. The equivalent Reddit in Taiwan is called PTT, and there’s many other forums as well. The great Internet people just went through this transcript and find flaws, find holes in these arguments.
 
 ### Audrey Tang:
-Maybe the first four commenters make personal attacks. I pretend those don’t exist. The fifth commenter usually have something, a insight. For example, somebody observed that chess and Go is mostly online now, so it should be considered an e-sport – it’s a really good point – and things like that.
+Maybe the first four commenters make personal attacks. I pretend those don’t exist. The fifth commenter usually have something, an insight. For example, somebody observed that chess and Go is mostly online now, so it should be considered an e-sport – it’s a really good point – and things like that.
 
 ### Audrey Tang:
 We bring the best arguments from the wide Internet into the next meeting, which is a month after that, and say, “If you’re offering alternative military service to Wéiqí players, surely now that Wéiqí is a e-sport, you should offer it to other e-sport players as well.” Very creative arguments.
@@ -403,7 +403,7 @@ The thing that you think would block the conversation is just a few, a handful. 
 This kind of radical transparency ensures two things. The first is that the public service gets all the credit. Previously, if they do something right, they don’t get the credit. The minister does. If they do something wrong, the minister can always blame the public service, so it’s a no-win situation for them to innovate.
 
 ### Audrey Tang:
-Using this way, you can see exactly who is the Wéiqí-playing Ministry of Culture public servant that came upon this interesting idea from the PTT and did a innovative solution. We invite them to the press conferences. We make sure that we feature their faces in my presentations and so on, so they get the full credit.
+Using this way, you can see exactly who is the Wéiqí-playing Ministry of Culture public servant that came upon this interesting idea from the PTT and did an innovative solution. We invite them to the press conferences. We make sure that we feature their faces in my presentations and so on, so they get the full credit.
 
 ### Audrey Tang:
 If things go wrong, I absorb all the blame because I’m the one that interfaces with random citizens to my office or random people on the Internet. I hug the trolls and make sure the trolls who have interesting insights bring those insights into the public service.
@@ -487,13 +487,13 @@ So far, we’ve done 55 of these open collaboration meetings, but the ministries
 On the third level, which is the ongoing level, daily democracy level, we don’t wait for petitions, we actually proactively go to a tour. Every other Tuesday or so, like tonight, I’m going to Tainan and spend three days there.
 
 ### Audrey Tang:
-Every week I take like Wednesday as the office hour, the entire day. Every other week I take two or three days in a rural or a indigenous, or a offshore area, because people who come to my office hour, are naturally close to the high speed rail station, because it’s less time for them to travel to the capital city.
+Every week I take like Wednesday as the office hour, the entire day. Every other week I take two or three days in a rural or an indigenous, or an offshore area, because people who come to my office hour, are naturally close to the high speed rail station, because it’s less time for them to travel to the capital city.
 
 ### Audrey Tang:
 Now even from Kaohsiung it’s only an hour and a half, but that’s the Western side. Other than the HSR, it’s actually very difficult for them to just hop to Taipei and hop back in the same day, so I travel to them.
 
 ### Audrey Tang:
-The arrangement is that every time I go there, I took into their existing meeting places, so it may be a existing co-op, existing charity, or existing local community builder, and we gather everybody here to talk about a regional revitalization ideas, and how people in the central government have been stopping them from realizing their dreams.
+The arrangement is that every time I go there, I took into their existing meeting places, so it may be an existing co-op, existing charity, or existing local community builder, and we gather everybody here to talk about a regional revitalization ideas, and how people in the central government have been stopping them from realizing their dreams.
 
 ### Audrey Tang:
 At the very same time at the Social Innovation Lab, indeed in five municipalities, all 12 different ministries that join our program send their section chiefs or higher into the same room. Share the music, share the food, no wine because it’s day time, but in a very amiable atmosphere using broadband to look at the local peoples’ idea.
@@ -537,7 +537,7 @@ The digital opportunity center, the indigenous culture and indigenous center, an
 Now in terms of raw participation on the platform, we have seen two peaks. People around 15 years old, and people around 65 are the most active. For good reason, because they have more time on their hands. \[laughs\] Also they tend to care more about sustainability rather than their private interests. This doesn’t taper off until 70, 75 or so, after which there is a disconnection.
 
 ### Audrey Tang:
-I think that’s because our immersive VR isn’t quite there yet, but in any case, most of the elderly people now use at least a instant messenger that can participate. Just for going to the petition website and showing support, they’re very well equipped in doing that.
+I think that’s because our immersive VR isn’t quite there yet, but in any case, most of the elderly people now use at least an instant messenger that can participate. Just for going to the petition website and showing support, they’re very well equipped in doing that.
 
 ### Audrey Tang:
 I think a lot of this digital governance issues in other countries gets blocked because the principles of democracy says you cannot exclude systemically a bunch of people, even though they’re just 5 percent or 10 percent of people, they still need to be protected in the agenda-setting power.
@@ -576,7 +576,7 @@ The second thing is the cybersecurity argument. Instead of saying the current ge
 At any given time where there’s a systemic break of a virus or something, you have to trust the vendor to supply you with the kind of hot patch, and these hot patches are deemed too great a risk, because of that they’re claim Taiwan, I guess, to greater risk to allow into the core infrastructure.
 
 ### Audrey Tang:
-We made our decision back then, which is why during the 5G discussion you don’t hear much from Taiwan because we had that discussion five years ago. From that point on, built a alternate supply chain, especially for the Taiwan public service, but now extends to the critical infrastructures, including the industrial parks, which includes the Taiwan semiconductors.
+We made our decision back then, which is why during the 5G discussion you don’t hear much from Taiwan because we had that discussion five years ago. From that point on, built an alternate supply chain, especially for the Taiwan public service, but now extends to the critical infrastructures, including the industrial parks, which includes the Taiwan semiconductors.
 
 ### Audrey Tang:
 Each government projects now must allocate five percent to seven percent to cybersecurity, that’s separate from the IT budget, it’s just cybersecurity budget. We invite a lot of penetration tester, white hat hackers, to test the system that I personally brought in also as Digital Minister in open source, and welcoming them to just find holes in it.
@@ -689,7 +689,7 @@ If we think of governance as a way of the various different interest each findin
 It does create a lot of tension on the civil service who \[choose the rope in between, which is usually unseen, anonymous, absorb all the tension, and sometimes breaks. The idea of this top-down or representational policy making where you can always find a powerful lobbyist or powerful representative representing some different ideas, that can be kind of complimented by asking a different set of questions.
 
 ### Audrey Tang:
-Nowadays there’s also a equally strong organizing power, which is called hashtag, with the right hashtag, MeToo, ClimateStrike, you name it, you can get a lot of political forces without any obvious leaders, or in case of Hong Kong, maybe 10,000 leaders, but in that case, that is also a social force.
+Nowadays there’s also an equally strong organizing power, which is called hashtag, with the right hashtag, MeToo, ClimateStrike, you name it, you can get a lot of political forces without any obvious leaders, or in case of Hong Kong, maybe 10,000 leaders, but in that case, that is also a social force.
 
 ### Audrey Tang:
 The point here is if we keep asking not “Who are the representatives?” and how to fight and make those fight fair, if we keep asking, “Different positions, but do we have common values?” and settle only on the…Common value is a great word. In Mandarin it’s called 共識, which usually translates as consensus.
@@ -794,7 +794,7 @@ The second thing is that there are people who support your opinion, as well. Thi
 Also, the other thing is that during this digital dialog – just a second. If you google digital dialog, that’s the first hit. It’s pretty good SEO – you can also see that only people who convince people on the other side gets the voice, gets the response from the administration.
 
 ### Audrey Tang:
-You don’t ever get one from this one, which is the most contention, most divisive one out of the commerce conversation, which is when Taiwanese companies do corporate social responsibility in other countries, then we should also still give them tax breaks because those are diplomatic. It’s very divisive \[laughs\] , but there are many things that people probably agree on.
+You don’t ever get one from this one, which is the most contention, most divisive one out of the commerce conversation, which is when Taiwanese companies do corporate social responsibility in other countries, then we should also still give them tax breaks because those are diplomatic. It’s very divisive \[laughs\], but there are many things that people probably agree on.
 
 ### Audrey Tang:
 People can see this by themselves They don’t have to trust a minister’s words, because if you sort by grouped informed consensus you can see exactly how much consensus each one has across different groups. If you’re a data geek you can also do a lot more analysis based on this. There was a virtual reality view on this. It’s very interesting.
@@ -929,7 +929,7 @@ It’s up to the private sector to vet them. I think Line has a pretty good rela
 Just like any good journalism, it’s about its fact-checking process not about particular stunts that it takes. That’s the first thing. The second thing is that the fact-checkers that they work with all have to provide this kind of digital accountability. As you can see, for each particular one, there’s based on the people who report, this is like counter spam.
 
 ### Audrey Tang:
-Email is supposedly private communication. If you receive a email that says, “I’m a royalty from a faraway country. I have $10 billion. You just pay this transaction fee of â¬5,000,” and so on. \[laughs\] That’s a scam, right? It’s spam. A spam is not personal.
+Email is supposedly private communication. If you receive an email that says, “I’m a royalty from a faraway country. I have $10 billion. You just pay this transaction fee of â¬5,000,” and so on. \[laughs\] That’s a scam, right? It’s spam. A spam is not personal.
 
 ### Audrey Tang:
 Many people around the time when we, the Internet community, fought the spam wars, that was almost 20 years ago now, it was pretty pessimistic. Bill Gates was saying we have to charge a postal stamp for each email otherwise emails will stop working.
@@ -955,7 +955,7 @@ In any case, these clarifications are funny or viral by themselves. They serve a
 The main idea here is that you can both see very entertaining…This rumor is very funny. In a K-12 curriculum in a primary school, the textbook is replacing father with breeder-male and mother with breeder-female. \[laughs\] This is obviously info up. It’s clarified as false. It’s important that they both review the trajectory, the content farms, as well as the Facebook pages.
 
 ### Audrey Tang:
-This is basically a attribution work that shows how it exactly spread to the people who flagged it on the social media. Then it goes into the actual textbooks and clarified that there is no such thing going on. There is also a public commentary.
+This is basically an attribution work that shows how it exactly spread to the people who flagged it on the social media. Then it goes into the actual textbooks and clarified that there is no such thing going on. There is also a public commentary.
 
 ### Audrey Tang:
 Because it’s fun, the elderly people, as well as the children who are stakeholders, can very easily share this clarification easier than they can share rumors. If they share rumors, they have to go to their chatroom. They go to dark message. They have to click share and so on.
@@ -964,7 +964,7 @@ Because it’s fun, the elderly people, as well as the children who are stakehol
 Because this is a built-in feature of Line Today, the clarifications are given higher visibility and easier to share to your channels. There is also many bots. For example, the trend MicroBot, which is from the leading anti-virus company that you can invite to your group communication for your class, for example.
 
 ### Audrey Tang:
-For every single message that’s sent, the bot scans it against the database of clarified rumors just like a anti-virus company, which they are. Then they don’t keep any logs but if it matches then it immediately post a clarification to the chatroom. It’s delivering the clarification to where it needs it most, which is the place where the rumors are spreading and so on.
+For every single message that’s sent, the bot scans it against the database of clarified rumors just like an anti-virus company, which they are. Then they don’t keep any logs but if it matches then it immediately post a clarification to the chatroom. It’s delivering the clarification to where it needs it most, which is the place where the rumors are spreading and so on.
 
 ### Audrey Tang:
 This is a leveraged network that’s loosely based on the Spamhaus Project when we did to counter spam. Each private sector who enlists those social sector checkers relies on their own reporting mechanism.

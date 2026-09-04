@@ -779,7 +779,7 @@ I’m sensing all the time that stakeholders is who you’re looking to engage, 
 Your idea would be everybody in Taiwan is involved in pol.ises on every issues that’s raised, whatever. I don’t know if that would be an idea at a theory level or that’s not even an idea, you just don’t operate that way. The public as an abstraction, you’re not interested in. You’re interested in the diversity of stakeholder at a...
 
 ### Audrey Tang:
-The thing is that if people don’t know, they’re not well-informed, as of their relation, their stake in this topic. Of course, they may be interested in learning about it. We do engage. All our materials can be thought as a introductory material on civics around public issues.
+The thing is that if people don’t know, they’re not well-informed, as of their relation, their stake in this topic. Of course, they may be interested in learning about it. We do engage. All our materials can be thought as an introductory material on civics around public issues.
 
 ### Audrey Tang:
 At the end of the day, when we ask all the ministry to publish all its yearly plans, monthly plans, their KPIs, their procurements, their whatever, on a common platform, what we are looking at is not people who do a meaningful vote or referendum on it.
@@ -866,7 +866,7 @@ That’s why we have this town hall style dialogues in the collaborative meeting
 On the larger room or across the Internet, on the live stream, there’s thousands of people watching. It cost them nothing, really, to pull out their phone and start watching, or it cost them just a little bit to walk to a local town hall and watch the live streaming with me as the anchor, explaining the moves by the experts.
 
 ### Audrey Tang:
-There is a second tier of involvement that depends on the aesthetics. That’s where the filming, their live streaming crew came in, as long as we can format it. It’s interesting. Lots of people will watch it like any other TV show. This is a interactive TV show. The opinions they send, the messages they send on Pol.is or in chat rooms are then filtered into the live-streamed expert meetings.
+There is a second tier of involvement that depends on the aesthetics. That’s where the filming, their live streaming crew came in, as long as we can format it. It’s interesting. Lots of people will watch it like any other TV show. This is an interactive TV show. The opinions they send, the messages they send on Pol.is or in chat rooms are then filtered into the live-streamed expert meetings.
 
 ### Tom Atlee:
 It’s different in kind from something to take as an...It’s not an ideal necessarily but as a perfect example of, &quot;We, the people, voice is randomly selecting people,&quot; and then having them come to a consensus of some kind is a different approach and then having people watch...

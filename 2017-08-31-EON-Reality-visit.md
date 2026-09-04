@@ -526,7 +526,7 @@ Space-wise, as I said, 1,500 square meters. In terms of education we tried to be
 We develop a curriculum that’s quite advanced. That’s been accredited in many different countries around the world. It’s supposedly the best -- we’ve been receiving awards -- curriculum for begin not theoretical, but practical, actually applying this.
 
 ### Dan Lejerskar:
-People get a entry salary of $85,000. Even guys in South Africa.
+People get an entry salary of $85,000. Even guys in South Africa.
 
 ### Pontus Appelqvist:
 We apply the same in China, for example, and Nanyang Technological University in Singapore.

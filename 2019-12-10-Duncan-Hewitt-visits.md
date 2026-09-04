@@ -28,7 +28,7 @@ Essentially, maybe a thousand journalists now.
 A lot of it is with members of the public or…
 
 ### Audrey Tang:
-Also, internal meetings. All the internal meetings that I chair, I also publish the entire transcript. I’m kind of a investigative journalist within the administration. \[laughs\]
+Also, internal meetings. All the internal meetings that I chair, I also publish the entire transcript. I’m kind of an investigative journalist within the administration. \[laughs\]
 
 ### Duncan Hewitt:
 It sounds like it. Actually, every word I say is going to be published, is it?
@@ -88,7 +88,7 @@ This is actually the cabinet office, but this is my real office. This is the Soc
 Where is that?
 
 ### Audrey Tang:
-…everybody can visit me next to the Jian Guo Flower Market, the Da’An Central Park – it’s in No. 99, Section 3, Ren’ai Road – and bring with them their self-driving vehicles or whatever. It’s also a incubator, a sandbox for experimenting all sort of new social and digital technologies.
+…everybody can visit me next to the Jian Guo Flower Market, the Da’An Central Park – it’s in No. 99, Section 3, Ren’ai Road – and bring with them their self-driving vehicles or whatever. It’s also an incubator, a sandbox for experimenting all sort of new social and digital technologies.
 
 ### Audrey Tang:
 I’m here only actually every Thursday and Monday, by default. The other days of the week, I’m just touring around Taiwan. I just returned from Pingtung yesterday.
@@ -169,7 +169,7 @@ This is schools, you’re saying.
 The schools and also people just measuring about air quality on their balconies. If they are farmers in agri-lands, they also have WaterBoxes that measures pollution.
 
 ### Audrey Tang:
-We passed a new act this year that says if you are on a agri-land and you manufacture anything that pollutes the waterways, the minister of economy can cut electricity and water supply to that plant directly without going through the regional or municipal government.
+We passed a new act this year that says if you are on an agri-land and you manufacture anything that pollutes the waterways, the minister of economy can cut electricity and water supply to that plant directly without going through the regional or municipal government.
 
 ### Audrey Tang:
 Of course, the industrial workers there would say that actually pollution come from upstream, it’s not us. They’re also encouraged to also get some WaterBoxes, which are really cheap. Using 0G IoT technology, they can just report the numbers from upstream as well.
@@ -232,7 +232,7 @@ Out of the Presidential Hackathon, which every year…
 Is that an annual thing?
 
 ### Audrey Tang:
-It’s a annual thing. Every year from April.
+It’s an annual thing. Every year from April.
 
 ### Duncan Hewitt:
 This started when?
@@ -438,7 +438,7 @@ That’s right. It’s also run by the social sector.
 That’s separate?
 
 ### Audrey Tang:
-Yeah, vTaiwan is used whenever people feel that there is a emerging technology that the government doesn’t have a clue about. They experiment in consultation/deliberation techniques. The latest one was e-scooters, which is a global phenomenon, I’m sure. \[laughs\]
+Yeah, vTaiwan is used whenever people feel that there is an emerging technology that the government doesn’t have a clue about. They experiment in consultation/deliberation techniques. The latest one was e-scooters, which is a global phenomenon, I’m sure. \[laughs\]
 
 ### Audrey Tang:
 VTaiwan also is a generator of sandboxes, which is a way for people to experiment for a year to convince the society their new regulation is a better idea.
@@ -450,7 +450,7 @@ Sandbox is a UK idea. It came from the fintech community. In Taiwan, we use it f
 It’s like an incubator is it?
 
 ### Audrey Tang:
-It is like a incubator, with the aim to get people’s response to emerging technologies. If people respond well, then we can co-create new regulations. vTaiwan first started in late 2014. For example, this was the map that we drew for the UberX with help of an AI-powered conversation system called pol.is that we still use.
+It is like an incubator, with the aim to get people’s response to emerging technologies. If people respond well, then we can co-create new regulations. vTaiwan first started in late 2014. For example, this was the map that we drew for the UberX with help of an AI-powered conversation system called pol.is that we still use.
 
 ### Duncan Hewitt:
 I read about that.
@@ -666,7 +666,7 @@ That’s what I wondered…
 You’ve had a debate on this or you’re doing it now?
 
 ### Audrey Tang:
-We had five debates, five Pol.is conversations on various aspects. For example, there was a aspect of how complex it is. You have to deal with four agencies just to get a permit on a favorite hiking or mountaineering trip. That is really not convenient. And a lot of trails, for no good reason whatsoever, still requires a permit.
+We had five debates, five Pol.is conversations on various aspects. For example, there was an aspect of how complex it is. You have to deal with four agencies just to get a permit on a favorite hiking or mountaineering trip. That is really not convenient. And a lot of trails, for no good reason whatsoever, still requires a permit.
 
 ### Audrey Tang:
 The lack of telecommunication facilities was also an issue, especially in the rescue operations.
@@ -1959,7 +1959,7 @@ That was also a time where we don’t have general election of presidents, but m
 From your office, can you actually go and do things in Hong Kong?
 
 ### Audrey Tang:
-Of course. I gave talks. Even in Hangzhou, but as a hologram, as a avatar, as I did in UN Geneva.
+Of course. I gave talks. Even in Hangzhou, but as a hologram, as an avatar, as I did in UN Geneva.
 
 ### Duncan Hewitt:
 You weren’t physically there.

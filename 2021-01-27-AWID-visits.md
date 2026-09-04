@@ -167,7 +167,7 @@ That’s our more social production oriented rather than purely experience shari
 If you say we’re here to collaboratively make something, then it’s more possible to make people’s attention engaged and stay engaged on particular modes of social production. That needs to be co creation instead of just share the things that one individually creates because we already get saturated in existing media platforms, whether it’s social sector or commercial.
 
 ### Hakima Abbas:
-Wow. \[laughs\] It’s such a amazing way of thinking about all these tools that, for instance, I’m using in my day to day, but I don’t consciously know how they’re built in order to do the things that they do. The language that you’re using in the explanations are so helpful to me in terms of how these can interact with one another. I would love to hear from you.
+Wow. \[laughs\] It’s such an amazing way of thinking about all these tools that, for instance, I’m using in my day to day, but I don’t consciously know how they’re built in order to do the things that they do. The language that you’re using in the explanations are so helpful to me in terms of how these can interact with one another. I would love to hear from you.
 
 ### Hakima Abbas:
 We, as an organization, this is not our specialty. This is not what we on a day to day. What we do is the activism, and we use different tools, but we haven’t gotten this far with technology.
@@ -288,13 +288,13 @@ That’s right, yes.
 \[laughs\] Audrey, do you have any questions for us? I know we’ve been a little extractive, so I’ll let you speak. It’s all about asking you what about this? I wanted to thank you so much for your generosity and for your wisdom. It’s been fantastic to hear. Do you have any questions for us or anything?
 
 ### Audrey Tang:
-Yeah, sharing that we’re going to hold a large summit on social innovation. It’s called APSIS, Asia Pacific Social Innovation Summit dot TW, this April 10th in New Taipei City. We will combine a face to face gathering of the social innovator. It will also have a extensive online presence and an online part.
+Yeah, sharing that we’re going to hold a large summit on social innovation. It’s called APSIS, Asia Pacific Social Innovation Summit dot TW, this April 10th in New Taipei City. We will combine a face to face gathering of the social innovator. It will also have an extensive online presence and an online part.
 
 ### Audrey Tang:
 If you want to look into how to get social innovators around the world interested in all sort of different things in an online way, you can get in touch with the organizers of apsis.tw. I believe they also may have a lot of resources, at least of the people who are value aligned, to tend to your digital gardens, so to speak.
 
 ### Audrey Tang:
-This year, the organizer is the Foundations for Women’s Right Promotion and Development, or the FWRPD. That’s an organization that long history with a lot of government support, legitimacy in the social sector that are being digitally transformed \[laughs\] also by the COVID, and have, probably, a lot of stories to tell to work with the younger organizations, such as Impact Hub, social enterprise insights, and so on, to transform what used to be a very large face to face gathering into a hybrid online/offline engagement. That’s a excellent resource for you.
+This year, the organizer is the Foundations for Women’s Right Promotion and Development, or the FWRPD. That’s an organization that long history with a lot of government support, legitimacy in the social sector that are being digitally transformed \[laughs\] also by the COVID, and have, probably, a lot of stories to tell to work with the younger organizations, such as Impact Hub, social enterprise insights, and so on, to transform what used to be a very large face to face gathering into a hybrid online/offline engagement. That’s an excellent resource for you.
 
 ### Hakima Abbas:
 Yes, that is. We’ve been in touch with FWRPD. When we came to Taiwan, we did site visits and met with them. Definitely, we’ll be in touch with them and find out a bit more about the summit, and what that looks like. Thank you so much.

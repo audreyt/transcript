@@ -37,7 +37,7 @@ There is one thing that I didn’t know before I joined the cabinet as a ministe
 What I have discovered after setting up radical transparency is that they only appear to be not innovative because the ministers took all the credit of innovation, and they took all the blame for not executing well.
 
 ### Audrey Tang:
-Through radical transparency, we create a environment where the civil servants can be seen by the citizens, either online through teleconference or offline, on how innovative they really are and share the credit. If things go wrong, I can take the blame. I can take the risk.
+Through radical transparency, we create an environment where the civil servants can be seen by the citizens, either online through teleconference or offline, on how innovative they really are and share the credit. If things go wrong, I can take the blame. I can take the risk.
 
 ### Audrey Tang:
 In this kind of environment, the public service is just as innovative as the activists. That is the main surprising thing that I discovered that I wish I had known earlier before joining the civil service.
@@ -139,7 +139,7 @@ Our numbers say that they have no difference between the age groups. There are s
 I will not read out question. I’ll just answer quickly. I think we should bring technology to people instead of asking people to technology. The new experiment I’m doing this year is me, personally, going to indigenous places, translating our open government material into indigenous languages like Amis.
 
 ### Audrey Tang:
-Working with their elders and ambassadors to basically have them set a agenda, we commit ourself into participating in their inclusive process so it’s turned the other way around.
+Working with their elders and ambassadors to basically have them set an agenda, we commit ourself into participating in their inclusive process so it’s turned the other way around.
 
 ### Audrey Tang:
 From being inside the government, it’s easy if it saves everybody work. Previous, when the public service want to say save the people two hours of work, somebody, somewhere has to work three hours more. Now, with digital technology, for the first time, we say, &quot;If you are being fully accountable, it actually saves you time, over time.&quot; That has been the winning argument so far.

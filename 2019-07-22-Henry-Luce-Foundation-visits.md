@@ -87,7 +87,7 @@ Each knot is like a vertical minister, and the rope here is the anonymous career
 As we realize that we cannot invent an agency whenever there is a trending hashtag, so people’s organization and mobilization has really changed.
 
 ### Audrey Tang:
-For each emergent issue, there’s no way to have a emergent agency to look at it, so we should ask a different question. The old way is about asking, &quot;Who are the representatives, and how do I make a fair arbitration between them?&quot;
+For each emergent issue, there’s no way to have an emergent agency to look at it, so we should ask a different question. The old way is about asking, &quot;Who are the representatives, and how do I make a fair arbitration between them?&quot;
 
 ### Audrey Tang:
 Now we ask a different set of question, ask if people have different positions, and we don’t know what to do. Despite different positions, are there common values? Given the common values that people discover, is there innovations that can deliver on those values without leaving anybody worse off?
@@ -477,7 +477,7 @@ The citizens set up those airboxes. Each one is the same $100 US and sometimes e
 What the government does is that instead of beating them we always join them by saying, &quot;OK, are there places where you think you should have measurement devices and you would love to but you somehow cannot get into?&quot;
 
 ### Audrey Tang:
-They say, &quot;Oh, in industrial parks.&quot; They are of the private sector’s lot, they cannot go in even if they suspect the industries there is polluting the air. We’re like, &quot;Oh, we own the land in industrial parks so we can hook air boxes there.&quot; People say, &quot;We want a airbox here to tell domestic versus across-the-street air pollution.&quot;
+They say, &quot;Oh, in industrial parks.&quot; They are of the private sector’s lot, they cannot go in even if they suspect the industries there is polluting the air. We’re like, &quot;Oh, we own the land in industrial parks so we can hook air boxes there.&quot; People say, &quot;We want an airbox here to tell domestic versus across-the-street air pollution.&quot;
 
 ### Audrey Tang:
 It’s very hard. If you fly drones, they run out of battery really quickly. It turns out we’re setting up renewable wind plants, wind turbines, there.

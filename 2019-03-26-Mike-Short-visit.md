@@ -338,7 +338,7 @@ The legislators are not really happy about this. One particular legislator is ve
 It shifts the political tension, you see, from the city government for not observing the environmental protection laws well, into something that, &quot;Hey, if you feel that something is not being observed well, you can contribute by adding a sensor somewhere near the spot that you care about,&quot; and so on.
 
 ### Audrey Tang:
-It offloads some of the responsibility to the citizens. I think the local city governments are generally in favor of it, hence the Minister of Education partnership, and on the central government level. I think because this particular instance I’m approaching is run by Academia Sinica, which is a academic place that reports directly to the president’s office.
+It offloads some of the responsibility to the citizens. I think the local city governments are generally in favor of it, hence the Minister of Education partnership, and on the central government level. I think because this particular instance I’m approaching is run by Academia Sinica, which is an academic place that reports directly to the president’s office.
 
 ### Audrey Tang:
 The Minister of Education doesn’t have any control to this budget. They’re like, &quot;OK. If Academia Sinica wants it, that means the president wants it and why not?&quot;
@@ -722,7 +722,7 @@ We are very fortunate in one of the leading telecoms, Chunghwa Telecoms, is behi
 Owned by the government, you mean?
 
 ### Audrey Tang:
-Correct. Of course there is cable, but in any case, they’re complimentary. For example, every year, we hold this Asia Pacific Social Enterprise Summit, and we give out an award called APSIPA. I think it’s still open for registration if you’re interested.
+Correct. Of course there is cable, but in any case, they’re complementary. For example, every year, we hold this Asia Pacific Social Enterprise Summit, and we give out an award called APSIPA. I think it’s still open for registration if you’re interested.
 
 ### Audrey Tang:
 What we’re doing is highlighting just like the GSMA partnership you mentioned. Always, the Chunghwa Telecoms is a great partner and a sponsor in making this happen. I’m not as much in touch with FarEasTone. I don’t think we have any partnership with FarEasTone yet.

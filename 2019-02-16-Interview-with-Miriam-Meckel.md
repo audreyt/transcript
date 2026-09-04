@@ -639,7 +639,7 @@ The petitioner is a senior high school child and a student and, I think, one of 
 It can be compared to one of the last year’s star petition, which is to ban the use of plastic straws, plastics anywhere, one time use anywhere, for takeouts, which is, again, an assignment of the civics class. The petitioner, she was also a ninth grader or something.
 
 ### Audrey Tang:
-The teenagers are leading the world now \[laughs\] , because they can really find a memes that resonates with the netizen and maybe a choking turtle or something — I forgot the memes they used, but they were very quick in mobilizing the petitioners. We really had to listen.
+The teenagers are leading the world now \[laughs\], because they can really find a memes that resonates with the netizen and maybe a choking turtle or something — I forgot the memes they used, but they were very quick in mobilizing the petitioners. We really had to listen.
 
 ### Audrey Tang:
 In any case, what I’m getting to is that when anyone from all walks of life, especially teenagers, get to be a part of the agenda setter of what the cross ministries’ meetings are talking about, to me that is open source. That means the source of democracy comes from the freshest point, even though they are too young to vote.
@@ -862,13 +862,13 @@ I reject the GDP, but I don’t mean that we don’t need a better improvement. 
 I think it’s Global CXI, the Council for Extended Intelligence, which has published our first position paper about how to do three things — to see AI as assistive intelligence, coupled with collective intelligence to form extended intelligence; to have democracy by design instead of surveillance capitalism or surveillance authoritarianism, which are the two ruling ideologies at the moment.
 
 ### Audrey Tang:
-Also, to have enlightened indicators which is the post GDP stream. It’s all in the report, but I can summarize it. What I’ve been witnessing is that the increase of use of local \[foreign word\] how do I translate that? Good exchange. It is the term that we use here that is not currency, \[foreign word\] .
+Also, to have enlightened indicators which is the post GDP stream. It’s all in the report, but I can summarize it. What I’ve been witnessing is that the increase of use of local \[foreign word\] how do I translate that? Good exchange. It is the term that we use here that is not currency, \[foreign word\].
 
 ### Audrey Tang:
 There’s a very subtle difference. When we talk about currency, we mean something that can interoperate with the fiat money. But when we say \[foreign word\] or good exchange, it could be a local currency. It could be something that is recognized like likes, stars, or kudos, or something, or reddit stars that really has no counterpart. You cannot redeem it back to the fiat.
 
 ### Audrey Tang:
-This \[foreign word\] , good exchange, we see a lot of use in Taiwan. The Mayor of Kaohsiung just announced that he is having a Kaohsiung B or the Kaohsiung good exchange, the Kaohsiung point, which is not going to convertible to the new Taiwan dollars.
+This \[foreign word\], good exchange, we see a lot of use in Taiwan. The Mayor of Kaohsiung just announced that he is having a Kaohsiung B or the Kaohsiung good exchange, the Kaohsiung point, which is not going to convertible to the new Taiwan dollars.
 
 ### Audrey Tang:
 Indigenous people of Tao in Orchid Island, based by a Blockchain Etherium technology, has already issued their \[foreign word\] tokens, which again, is a form of local currency world economy token that can only be used in a natural preserving way. Or it’s loud or legitimate use it’s the one that you can clinically spend it on are by default use good, or at least not bad for the environmental sustainability of the Orchid Islands, and so on.
@@ -1137,7 +1137,7 @@ Not really.
 Why not?
 
 ### Audrey Tang:
-I mean, the hardware culture is punctual. It’s, in a German word, \[German\] .
+I mean, the hardware culture is punctual. It’s, in a German word, \[German\].
 
 > (laughter)
 

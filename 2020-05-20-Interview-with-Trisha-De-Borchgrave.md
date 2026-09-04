@@ -195,7 +195,7 @@ What we have done is that each pharmacy that carries the medical masks in stock 
 What this has done is essentially participatory accountability. Everybody can take their National Health Insurance card, go to a pharmacy, swipe their NHI card, get 9 masks if they’re an adult, 10 if they’re a child. Then, every couple of minutes, refresh their phone and see the stock level deplete by 9 or 10.
 
 ### Audrey Tang:
-This is what blockchain technology is doing, essentially, to the monetary system. It enables everybody to play the role of a auditor or an accountant without any top-down central bank to clear all the transactions.
+This is what blockchain technology is doing, essentially, to the monetary system. It enables everybody to play the role of an auditor or an accountant without any top-down central bank to clear all the transactions.
 
 ### Audrey Tang:
 What this has done is basically relieve people of any fear, uncertainty, and doubt around essential supply of personal protective equipment. Everybody can see that there is plenty of them. You can just walk a couple more blocks if the pharmacy near you runs out of stock. There’s chatbots, there’s voice assistance, and things like that.
@@ -462,7 +462,7 @@ In Taiwan, we have plenty of experience in that. The example I often share, the 
 This is not something you passively get observed, but rather something, like as scientist, you actively observe the nature and contribute to the distributed ledger that increase everybody understanding. I would say that anywhere that science is taught, the same data competence is being taught.
 
 ### Audrey Tang:
-We’re not that far away. It’s part of this scientific education that everybody, just like I said, are amateur epidemiologists. Everybody is also amateur journalist. Everybody’s also a amateur data curator or data steward, and this is very important.
+We’re not that far away. It’s part of this scientific education that everybody, just like I said, are amateur epidemiologists. Everybody is also amateur journalist. Everybody’s also an amateur data curator or data steward, and this is very important.
 
 ### Trisha de Borchgrave:
 Do you have regulation around how you aggregate that data? Do you control it? Or, do citizens understand that one thing is about judging your air quality, but then does that get aggregated into something else you’re voting for? Do you see what I’m saying?

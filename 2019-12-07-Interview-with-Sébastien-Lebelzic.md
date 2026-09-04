@@ -250,7 +250,7 @@ On the contrary, we see that in China they see the Internet and those social net
 What they are working on, while they’re still calling it transparency, is the other way around. We talk about all the way to make the government more transparent to people. The PRC is working on how to make people more transparent to the state.
 
 ### Audrey Tang：
-They may use very similar words and very similar technologies, but what they’re really building is a intranet. They’re trying to show that this is a alternative norm, like this way of authoritarian control of the intranet is a viable way to deploy network technologies.
+They may use very similar words and very similar technologies, but what they’re really building is an intranet. They’re trying to show that this is an alternative norm, like this way of authoritarian control of the intranet is a viable way to deploy network technologies.
 
 ### Audrey Tang：
 Of course, liberal democracies are not quite buying this social norm. I wouldn’t say it is a war, but I will say that it is a very different value system and very different norms. These norms, how they interplay, how they work together and work against each other, is one of the main topics in the Internet governance.
@@ -274,7 +274,7 @@ The system is a really good example of what it means by making citizen transpare
 If any of us decide to report this to a system of surveillance capitalism or surveillance statism, it actually compromise the social data in terms of control, in terms of the feedback and co-governing agency for the other two person as well. We don’t really have any control if one of the three of us decide to report the fact that we’re here together.
 
 ### Audrey Tang：
-What it really means is that we’re looking at a very weak individual bargaining power when a individual with this kind of social data that could be compromised by anyone who occur in the same social setting when they decide to enter it in into the social credit system or to a surveillance capitalist system.
+What it really means is that we’re looking at a very weak individual bargaining power when an individual with this kind of social data that could be compromised by anyone who occur in the same social setting when they decide to enter it in into the social credit system or to a surveillance capitalist system.
 
 ### Audrey Tang：
 One of the main way out, the intuition that I am sharing here, is the data coalition that I just share with you. If you altogether decide on a way to co-govern our data, then it makes a social sector governance mechanism that can stand in contrast with the surveillance statism, which is public sector, governance or the private sector governance, which is surveillance capitalism.

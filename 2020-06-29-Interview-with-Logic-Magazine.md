@@ -168,7 +168,7 @@ This is our Premier wiggling his bottom.
 It’s an effective strategy?
 
 ### Audrey Tang:
-It’s super effective. If you look at this meme, it’s funny on multiple levels. The text description to this meme is \[Taiwanese\] . That’s a homonym. It’s a joke because \[Taiwanese\] sounds the same in Mandarin as \[Taiwanese\] as twin bottom. That’s funny on that part, the format. This picture itself is a tissue paper box, and so on. There’s many levels of fun.
+It’s super effective. If you look at this meme, it’s funny on multiple levels. The text description to this meme is \[Taiwanese\]. That’s a homonym. It’s a joke because \[Taiwanese\] sounds the same in Mandarin as \[Taiwanese\] as twin bottom. That’s funny on that part, the format. This picture itself is a tissue paper box, and so on. There’s many levels of fun.
 
 ### Audrey Tang:
 When people feel that it’s funny, this is what we called humor over rumor, they will share it. Everyone who look at this picture will remember that tissue paper came from South American materials, and so we will not run out of tissue paper. After they see the disinformation afterward, they will not spread it. It works like a vaccine to the infodemic.
@@ -243,7 +243,7 @@ The Premier immediately understood the importance, saying that “Oh, this is ju
 Then he said to the NHIA right there that we need to trust these people with open data. That’s why they started publishing 30 seconds at a time the stock level of all the pharmacy. It also enabled decision-makers to look at these civic tech dashboards. There are people who analyze.
 
 ### Audrey Tang:
-For example, this is when we start ramping up the production so we can ration nine masks per two weeks instead of three masks per week. Then everybody can see it’s very transparently. They also highlight in which precincts or townships is there a undersupply or oversupply.
+For example, this is when we start ramping up the production so we can ration nine masks per two weeks instead of three masks per week. Then everybody can see it’s very transparently. They also highlight in which precincts or townships is there an undersupply or oversupply.
 
 ### Audrey Tang:
 Every week when we do the mask meeting, I will show this analysis from the civil society to the Premier saying that “OK, we need to adjust our distribution strategy.” This shows that in municipalities with very long working hours, there’s 30 percent of people who cannot get the mask, because when they go off work, the pharmacist has already closed.
@@ -336,7 +336,7 @@ Sometime they work on, for example, whether we need to allow PRC components in o
 In any case, what we are doing at that time is a demonstration but not a protest, but rather showing people this kind of civic technology, working in a situation when people focus on the same topic, at that time the CSSTA, can actually produce a set of very strong commitment of everyone to talk together and get consensus for demand at the end, not one less, which was then adopted by the head of parliament, so it was a successful occupy.
 
 ### Audrey Tang:
-After that civic technologists became reverse mentors to the cabinet at the end of 2014. I started working in this office as a essentially reverse mentor around end of 2014.
+After that civic technologists became reverse mentors to the cabinet at the end of 2014. I started working in this office as an essentially reverse mentor around end of 2014.
 
 ### Ann Chen:
 I just find that really amazing that the government is willing to reach out to the people who were sort of anti-government.
@@ -490,7 +490,7 @@ I’m also part of that negotiation essentially.
 I’ve also joined the Slack group as well. I’ve been following all the different channels. How active are you on it? Are there other people in the government who are also active?
 
 ### Audrey Tang:
-There’s a lot of people who are also public servants active in it, and also contractors. On the Slack, there’s someone with the name of Frank, Frank Cheong. I’ve never really met him until way after the pandemic. Frank was the person in charge of developing the online chat bot \[Taiwanese\] .
+There’s a lot of people who are also public servants active in it, and also contractors. On the Slack, there’s someone with the name of Frank, Frank Cheong. I’ve never really met him until way after the pandemic. Frank was the person in charge of developing the online chat bot \[Taiwanese\].
 
 ### Audrey Tang:
 He is from the organization called HTCDQ. Their chat bot have millions of subscribers. On the LINE platform, which is very popular in Taiwan, you can just click Ji Guan Jia \[Taiwanese\] and say, “Hey, where is the nearest pharmacy,” and still have the map. For many people, it’s easier than opening a map.
@@ -517,7 +517,7 @@ Hundreds of them.
 It feels messy, but at the same time, it provides almost like alternative ways for people to get at the same information.
 
 ### Audrey Tang:
-They actually complement each other. This is a standard map. If you, for example, have a eyesight issue, then, of course, you will prefer something that can be read out by your assistive intelligence, by your voice reader. Table is going to be very useful to you. Or, sometimes people would like to see not individual pharmacies. They just want to look at the whole map of Taiwan.
+They actually complement each other. This is a standard map. If you, for example, have an eyesight issue, then, of course, you will prefer something that can be read out by your assistive intelligence, by your voice reader. Table is going to be very useful to you. Or, sometimes people would like to see not individual pharmacies. They just want to look at the whole map of Taiwan.
 
 ### Audrey Tang:
 Just like the air pollution thing that I showed you before, people want to say, “How is the distribution even or uneven?” For a while, there was a lack of mask. You will see that’s in orange or something on the northern part, but southern part will have extra supply. We can change the distribution strategy based on these real numbers. This is also very useful.

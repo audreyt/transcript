@@ -542,7 +542,7 @@ Earlier Uber mentioned NT$20 million protection. May I ask which insurance compa
 
 Earlier Uber's tax payments were mentioned—how much income is there, how much money did all Taiwan Uber passengers pay, and what proportion of that money... You were referring to business tax. Any small shop also has to pay income tax and business tax. If Uber is willing to state it, saying most stays in Taiwan: if I spend NT$1,000, is NT$990 staying in Taiwan, or NT$1,000 staying in Taiwan? I hope Uber can provide this figure.
 
-In fact, it is already clear what behavior is legal and what behavior is illegal. Part is legal and part is illegal; even put on a intermediary platform, it is still illegal.
+In fact, it is already clear what behavior is legal and what behavior is illegal. Part is legal and part is illegal; even put on an intermediary platform, it is still illegal.
 
 Finally, many people cite satisfaction surveys. We can see that MOTC and Uber's satisfaction surveys have many different interpretations. According to my own experience, 90% of people drawn into pyramid schemes are very satisfied. What we need to look at is whether the public has a genuine need for this matter. Before the Formosa Fun Coast dust explosion, people participating in road runs were also very satisfied.
 

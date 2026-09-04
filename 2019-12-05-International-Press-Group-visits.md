@@ -109,7 +109,7 @@ What this means is that the bureaucracy is not in the way of freedom of expressi
 The problem is that a lot of those private-sector innovations has negative social externalities. When that happens, for example surveillance capitalism, and things like that, we treat them as important issues to tackle, and we don’t think surveillance capitalism is somewhat preferable to a surveillance state-ism.
 
 ### Audrey Tang:
-In Taiwan when we say innovation, it is always trisectorial, so our unicorns don’t pollute the social or environment spheres, they have to pursue inclusive worlds. For example, Gogoro, which is a unicorn in Taiwan, is at once solving the motorcycle ridesharing issue, but also is a investor in renewable energy, battery management, electricity, and things like that.
+In Taiwan when we say innovation, it is always trisectorial, so our unicorns don’t pollute the social or environment spheres, they have to pursue inclusive worlds. For example, Gogoro, which is a unicorn in Taiwan, is at once solving the motorcycle ridesharing issue, but also is an investor in renewable energy, battery management, electricity, and things like that.
 
 ### Audrey Tang:
 They have to prove in all the 33 bottom lines to be given free reign by the sandbox system, Presidential Hackathon system, whatever other system. If they pursue economic liberty, but actually taking away from the society or from the sustainable environment, then, of course, our co-governance mechanism is designed to keep them in check. Yes?
@@ -405,7 +405,7 @@ You can see there are five very traditional ideological, divisive statements tha
 For example, they all agree that the arts are important. STEM need to become STEAM. Nobody is against that. It costs practically nothing. Any mayor that adopts this gets reelected chance maybe improve by 0.5 percent. By getting those rough consensus out, we show people the polity is not what people think from the ideological divisive messages.
 
 ### Audrey Tang:
-This, again, is not invented in Taiwan. We just deploy it here. The petition system we learn from Better Reykjavik, which is the Icelandic city that builds this from a offshoot of Pirate Party International. I think it’s called the Best Party of Iceland at the time. We learned from their platform as well.
+This, again, is not invented in Taiwan. We just deploy it here. The petition system we learn from Better Reykjavik, which is the Icelandic city that builds this from an offshoot of Pirate Party International. I think it’s called the Best Party of Iceland at the time. We learned from their platform as well.
 
 ### Audrey Tang:
 We’re also working with the CONSUL system, which is the 15-M/Podemos movement that, when they took Madrid City a few years ago, started working on a Spanish-speaking participatory budgeting platform for all the Spanish- and English-speaking countries. They got a UN Public Service Award for that.
@@ -476,7 +476,7 @@ My point here is that your point is correct. The elderly people often prefer fac
 In Taiwan, we say, “Face-to-face meeting builds 30 percent of trust,” and over the Internet now, using a projector, maybe 20 percent of trust. This means that not only high bandwidth live streaming is important, but it’s important for me to physically travel to the elders, both tribal, like indigenous elders, and also elderly, and listen to them where they meet.
 
 ### Audrey Tang:
-Sometime, I spend two nights or at least a night with them on a ethnographic hangout and just hang out with them for a couple days. When we hold these public town hall meetings, for them, it’s just showing up to where they’re already meeting, talking about the issues they’re already talking about.
+Sometime, I spend two nights or at least a night with them on an ethnographic hangout and just hang out with them for a couple days. When we hold these public town hall meetings, for them, it’s just showing up to where they’re already meeting, talking about the issues they’re already talking about.
 
 ### Audrey Tang:
 We scaled this part of listening by showing how to do it to the district offices. The district office, when it talk about regional revitalization, which is our flagship national participatory budgeting project, they gather the elderly people face to face, but we use technology to amplify their voices. We bring tech to people. We’re not asking people to come to our platforms.
@@ -542,7 +542,7 @@ The PRC’s threat to Taiwan’s democracy, let’s frame it like that. It is tr
 I wouldn’t say it’s exaggerated. I would say it’s constitutive, meaning that whatever the PRC is doing on the opposite direction serves as a reminder that we must not, for example, cite disinformation has harming “harmony” and infringe on journalists’ rights. We must instead roll out funny cat pictures. \[laughs\]
 
 ### Audrey Tang:
-I don’t think it’s a exaggeration. The threat is real in both legitimacy and also day to day areas, but I think the threat is challenging us to find more solutions for liberal democracies.
+I don’t think it’s an exaggeration. The threat is real in both legitimacy and also day to day areas, but I think the threat is challenging us to find more solutions for liberal democracies.
 
 ### Audience Member:
 Building off of that point, it seems, at least to me in a very short amount of time here, four days, that the whole country self-identifies through the prism of China.

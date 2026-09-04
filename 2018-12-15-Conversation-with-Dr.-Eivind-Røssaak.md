@@ -67,7 +67,7 @@ This is just the textual part.
 On my Twitter and my Facebook there is also the non-textual part, which may also interest you, because you also work with other modalities. Which is at track.pdis.tw, PDIS being a public digital innovation space.
 
 ### Audrey Tang：
-For each occurrence -- for example, a conversation with Paul Preciado, which is a philosopher -- it is available both in live-streaming mode, in transcript mode, and as a interactive whiteboard, of sorts. People with different modalities, they can choose the modality that they prefer to relive the conversation.
+For each occurrence -- for example, a conversation with Paul Preciado, which is a philosopher -- it is available both in live-streaming mode, in transcript mode, and as an interactive whiteboard, of sorts. People with different modalities, they can choose the modality that they prefer to relive the conversation.
 
 ### Audrey Tang：
 Sometimes, with lobbyists, we also keep a 360 record, so there you can put on VR and relive the lobbying with Uber, and so on. The whole point of this, what we call radical transparency, is to make sure that everybody can get the context, the why of policymaking.
@@ -483,7 +483,7 @@ Taiwan can help other people, really. Most of our work is around the sustainable
 In the sense that, for example, in many UN settings, I shared the AirBox, which is people measuring their own air qualities using measurement boxes that’s less than $100 USD, so they’re very cheap. In many jurisdictions, they don’t allow citizen scientists to organize to 2,000 or more sides, especially around this region.
 
 ### Audrey Tang：
-If there’s more than 200, maybe they get disappeared, or severely discouraged, because they really threaten the legitimacy of the government. What we do is that we can’t beat them, so we join them. We not only set up complimentary measuring sites on the places where citizen scientists are not as active, we also listen to the citizen scientists who say, &quot;We want a measurement point here.&quot;
+If there’s more than 200, maybe they get disappeared, or severely discouraged, because they really threaten the legitimacy of the government. What we do is that we can’t beat them, so we join them. We not only set up complementary measuring sites on the places where citizen scientists are not as active, we also listen to the citizen scientists who say, &quot;We want a measurement point here.&quot;
 
 ### Audrey Tang：
 Which they cannot actually do, even with drones. It runs out of battery. We are going to build wind power turbines there, for the power plant. Of course, we can carry the air boxes there. Everything here, as you can see, is open source.
@@ -706,7 +706,7 @@ Many people work in China, and if they are allowed to vote through each Internet
 People have proposed something that is more of a compromise, in the sense that you have to still vote in a booth. Maybe you go to Kinmen, and then you voted in a booth in Kinmen. Over the Internet, through postal, or whatever, it still counts back in your household registration place.
 
 ### Audrey Tang：
-That is the kind of compromise position that people have generally agreed on. You’re right, if you’re allowed to do so in a Internet that is controlled by the PRC, there really is no guarantee of secrecy, of who is watching when you are voting.
+That is the kind of compromise position that people have generally agreed on. You’re right, if you’re allowed to do so in an Internet that is controlled by the PRC, there really is no guarantee of secrecy, of who is watching when you are voting.
 
 ### Audrey Tang：
 I think voting for electoral candidates -- as in, voting for people -- we still need a lot of time for people to get into the state where people feel they’re secure in doing such voting.

@@ -44,7 +44,7 @@ China is the opposite, in terms of the openness of the media. What we’re tryin
 The PRC wasn’t always going the opposite direction. For a while it seemed like it would get better, but then comes a new regime and everything goes backwards.
 
 ### Audrey Tang:
-So I’m not saying that PRC was always a opposite influence, but especially in the past four years or so, with the rapid closing of the media and speech freedoms, and censorship not only after the speech, but before the speech too.
+So I’m not saying that PRC was always an opposite influence, but especially in the past four years or so, with the rapid closing of the media and speech freedoms, and censorship not only after the speech, but before the speech too.
 
 ### Audrey Tang:
 You see a lot of Internet automated censorship. These were originally only deployed around October, or something like that, but now it’s years-round.
@@ -65,7 +65,7 @@ That’s right. A lot, especially the elderly, have a difficulty telling disinfo
 For people who are born or educated after the lifting of the marital law, which is after the ’80s, they have a broad swathe of information sources to choose from. Our democracy, with the first presidential election in ’96, coincides with the World Wide Web, so people associate democracy with the democratization of information sources.
 
 ### Audrey Tang:
-We have had, since ’96, a long time to have a educated civil society, so that people generally can take a more critical thinking attitude when it comes to media sources.
+We have had, since ’96, a long time to have an educated civil society, so that people generally can take a more critical thinking attitude when it comes to media sources.
 
 ### Audrey Tang:
 I’m the last generation that remembers martial law. If you ask anyone who is younger than me, then they say of course that you need a second opinion on every information sources. They don’t grow up blindly trusting the authority, or even their teachers. They learn to fact check, even on the lectures, using Wikipedia and whatever.
@@ -120,7 +120,7 @@ Important clarification. \[laughs\]
 In any case, what we’re rolling out is threefold. First, before a propaganda campaign or disinformation spreads, we usually observe that there is a point where they are doing some kind of limited testing or A/B testing, and that’s before it became really popular. It’s just testing the meme, the variation, to see whether it would go viral, so to speak.
 
 ### Audrey Tang:
-Each of our ministry now has a team that is charged to say if we detect that there is a disinformation campaign going on, but before it reaches the masses, they’re in charge to make within 60 minutes a equally or more convincing narrative.
+Each of our ministry now has a team that is charged to say if we detect that there is a disinformation campaign going on, but before it reaches the masses, they’re in charge to make within 60 minutes an equally or more convincing narrative.
 
 ### Audrey Tang:
 That could be a short film, that could be a media card, that could a social media post. It could be the minister herself or himself doing a livestream. It could be our president going on a standout comedy show. \[laughs\] It could be our deputy premier watching a livestream of a video game.
@@ -128,7 +128,7 @@ That could be a short film, that could be a media card, that could a social medi
 > (laughter)
 
 ### Audrey Tang:
-There’s a large selection of modalities, \[laughs\] but within 60 minutes there’s something that is viral, that could go viral. Our observation is that if we do that, then most of the population reach this message like a inoculation before they reach the disinformation, and so that protects like a vaccination.
+There’s a large selection of modalities, \[laughs\] but within 60 minutes there’s something that is viral, that could go viral. Our observation is that if we do that, then most of the population reach this message like an inoculation before they reach the disinformation, and so that protects like a vaccination.
 
 ### Audrey Tang:
 That protects them against the onslaught of disinformation. This is particularly useful during the pomelos incident, where during the last MP election for Tainan or something, there was a disinformation campaign about the fruits, pomelos, being dumped into a water reservoir, and it is entirely fabricated.
@@ -203,7 +203,7 @@ When sufficient people flag it, it goes into a public database where you can see
 Even more than that, we have professional fact checkers in the Taiwan FactCheck Center that looks at the trending disinformation as reported by this mechanism and do a real reporter fact-checking public audit to that by checking to the sources, and so on, and publishing the report. The TFC, or the Taiwan FactCheck Center, is entirely nonpartisan and only accepts small donations, and so it’s generally well trusted.
 
 ### Audrey Tang:
-Here are all the reports that they just published. For example, there was a really popular rumor that says whenever a earthquake is larger than degree 7.0 then other nearby jurisdictions can send its rescue teams without the approval of the country that suffers the earthquake. A excuse for invasion, you see?
+Here are all the reports that they just published. For example, there was a really popular rumor that says whenever an earthquake is larger than degree 7.0 then other nearby jurisdictions can send its rescue teams without the approval of the country that suffers the earthquake. A excuse for invasion, you see?
 
 ### Audrey Tang:
 God knows why they spread this message. In any case, it is a popular message, and so the Taiwan FactCheck Center go into the conventions, the actual treaties that our Minister of Foreign Affairs signs, and things like that, cites, or its sources, and finally say this is false.
@@ -410,7 +410,7 @@ You can look at it in several ways, right? If you’re talking about the right t
 As for whether people really value freedom of expression, I think each and every time when the members of the Parliament even start consulting or even talking about any measures that could potentially block Internet access, or that could potentially... for example, the notice and take-down system is not invented by spam or disinformation encountering communities. It’s invented by copyright enforcement communities.
 
 ### Audrey Tang:
-For copyright reasons, all this conversation we just had, we had that before. There was people who petitioned in the MPs, saying if there is a oversea copyright of a violation pirate website, then we should hold the ultimate button to basically close it down and block any Internet communication to that website.
+For copyright reasons, all this conversation we just had, we had that before. There was people who petitioned in the MPs, saying if there is an oversea copyright of a violation pirate website, then we should hold the ultimate button to basically close it down and block any Internet communication to that website.
 
 ### Audrey Tang:
 Even in this very narrowly defined case, people flooded the MPs telephones and office, and there is a lot of blackouts by popular websites, my website included, \[laughs\] and things like that. People show it very clearly that they don’t want any kind of censorship even in the name of protecting intellectual property, because it is a slippery slope.
@@ -455,7 +455,7 @@ Yes and no. We look at it as a kind of epidemic and virus of the mind. Just like
 It’s easy to trace who posts that particular message. It’s very hard to say at which point this message becomes virus so that everybody posts it. It’s two different questions.
 
 ### Audrey Tang:
-Just like with a biological virus, you can’t really interrogate a virus. \[laughs\] It’s not the same category of things. We do keep an eye on the general trend of where it comes from, whether it looks like a composition that is domestic, whether it looks like a mission translated oversea message, whether it carries a fingerprint of a amateur, or whether it looks like a professionally-done thing.
+Just like with a biological virus, you can’t really interrogate a virus. \[laughs\] It’s not the same category of things. We do keep an eye on the general trend of where it comes from, whether it looks like a composition that is domestic, whether it looks like a mission translated oversea message, whether it carries a fingerprint of an amateur, or whether it looks like a professionally-done thing.
 
 ### Audrey Tang:
 On the other hand, at some point when it goes viral, everybody actually does its own second or third level recreation on it. Once those remix enter the memetic marketplace, all hope is lost. You really cannot trace anything about it anymore, because it just becomes a meme.

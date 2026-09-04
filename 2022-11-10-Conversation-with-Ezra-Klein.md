@@ -95,7 +95,7 @@ That's the best analogy of something where you have a piece of Internet architec
 ### Audrey Tang:
 Maybe we call it a foundational sector with the analytics foundations. No matter which word we use to describe it, you need to end up inspiring people to reimagine the relationship between people to technology. In the Mandarin context here in Taiwan, when we say 公益 public benefit, people don't think about the state.
 
-The state government is 政府, it's completely different thing. The org domain suffix means public benefit in the Taiwanese Mandarin context. From what you're saying is essentially that .org is like a afterthought, [laughs] something that like .coop or .museum, this subject exists, but it doesn't carry the same weight as the .gov and .com counterparts.
+The state government is 政府, it's completely different thing. The org domain suffix means public benefit in the Taiwanese Mandarin context. From what you're saying is essentially that .org is like an afterthought, [laughs] something that like .coop or .museum, this subject exists, but it doesn't carry the same weight as the .gov and .com counterparts.
 
 ### Ezra Klein:
 In the Taiwanese context or in any other context you're familiar with, what would surprise somebody who is used to the American social Internet? What is run for the public benefit or run by the state that here we understand as a private for profit concern?
@@ -133,7 +133,7 @@ The second thing, is that the space itself need to be, I want to say, troll proo
 
 Becoming clump proof, for example, is very easy. In Taiwan, in order to get SIM cards from telecoms, you have to present two photo IDs. They serve as a root of trust.
 
-To register a new account in PTT if you're not a National Taiwan University student, you need to manually send a authenticating SMS to PTT to prove that you are a SIM card holder. If someone creates 5,000 SIM cards out of thin air, the anti money laundering office will be after them very quickly. People understood that, although it's all pseudonyms, there's no bots or clones behind the scenes.
+To register a new account in PTT if you're not a National Taiwan University student, you need to manually send an authenticating SMS to PTT to prove that you are a SIM card holder. If someone creates 5,000 SIM cards out of thin air, the anti money laundering office will be after them very quickly. People understood that, although it's all pseudonyms, there's no bots or clones behind the scenes.
 
 Then, the interface, instead of spiraling out of control with personal attacks, swords, and so on, sometimes our design is to take away their reply to individual capabilities. You can reply to this general idea, this rough consensus, this entire pro or contra column of thoughts, but you cannot name names. There's no individual reply. That also helps to render the trolls not useful.
 

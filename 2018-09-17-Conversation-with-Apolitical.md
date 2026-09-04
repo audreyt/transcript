@@ -31,10 +31,10 @@ Yeah. What we normally do is, it’ll be interactive during in that it’s a 15-
 Then we’ll share that with you beforehand so that you can get a sense of what’s on the mind of the participants, keeping in mind that that will change, depending on what’s brought up.
 
 ### Audrey Tang:
-That sounds great. There’s a list of questions they want to ask, or things they want to hear about, for the webinar, about \[inaudible 2:43\] , how many days before?
+That sounds great. There’s a list of questions they want to ask, or things they want to hear about, for the webinar, about \[inaudible 2:43\], how many days before?
 
 ### Sean Long:
-We generally try to share 10 days in advance, keeping in mind that often, there are a lot of people who wait until the last minute to register. We’ll share it beginning 10 days in advance, up until the week \[inaudible 3:01\] .
+We generally try to share 10 days in advance, keeping in mind that often, there are a lot of people who wait until the last minute to register. We’ll share it beginning 10 days in advance, up until the week \[inaudible 3:01\].
 
 ### Audrey Tang:
 Do you usually use WebEx?
@@ -204,7 +204,7 @@ If there’s not, the government cannot manufacture nothing out of a lack of pub
 This is not exactly something people have an intuition about, including decision makers, policymakers, and ordinary citizens. If we want to do vTaiwan method on that, the main problem is not the process itself, or even the stakeholder map. Just people can’t even know what these people are...
 
 ### Anoush Darabi:
-Still not working, the translation \[inaudible 12:16\] .
+Still not working, the translation \[inaudible 12:16\].
 
 ### Audrey Tang:
 That’s exactly right, for the inform part as well. Also, of course, in transition justice for indigenous people and so on, it’s very different lived-in cultural experiences. The same word doesn’t mean the same thing.
@@ -249,7 +249,7 @@ That’s good.
 Are there any groups of people that you feel like you would like to be learning from that you don’t get an opportunity from right now?
 
 ### Audrey Tang:
-In London, we just met these people. \[laughs\] That’s \[inaudible 14:39\] .
+In London, we just met these people. \[laughs\] That’s \[inaudible 14:39\].
 
 ### Fang-Jui Chang:
 More reach out. I think there is an organization that I am interested in to hearing more, because I saw the g0v news have wrote an article about the consultation that being hold in the UK, the high speed rail tube.
@@ -298,7 +298,7 @@ Yeah.
 Especially because a lot of people are questioning why we were building this in the first place. It connects towns to London, but then a lot of people are arguing that it’s not about connecting places to London. It’s about connecting places in the north of the country to each other, or connecting Edinburgh better to Manchester, or Manchester to Liverpool.
 
 ### Anoush Darabi:
-That’s where the growth opportunity is. London can only grow so big. Dragging more people into London \[inaudible 16:54\] , it’s going to have a limit, I think. That’s what a lot of people are questioning, I think, with the investment itself.
+That’s where the growth opportunity is. London can only grow so big. Dragging more people into London \[inaudible 16:54\], it’s going to have a limit, I think. That’s what a lot of people are questioning, I think, with the investment itself.
 
 ### Anoush Darabi:
 It’s such a huge amount of money. As in, it could have been spent doing lots more basic things on the northern railways, maybe, and just making sure...There are still diesel trains that run up north, rather than electric.

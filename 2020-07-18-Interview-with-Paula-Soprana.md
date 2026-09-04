@@ -46,7 +46,7 @@ I’m a lower-case minister.
 I know. No, I mean like you are individualist, anarchist?
 
 ### Audrey Tang:
-I’m a lower-case minister, with a small m. I’m not a upper-case Minister. As a digital minister, lower-case, I communicate, advocate, preach sometimes, and write poems.
+I’m a lower-case minister, with a small m. I’m not an upper-case Minister. As a digital minister, lower-case, I communicate, advocate, preach sometimes, and write poems.
 
 ### Audrey Tang:
 You think of me not as a top-down, like order-giving minister, but rather just someone who serves as a channel between the various different positions in order to find common values, more like a chat room moderator than anything.

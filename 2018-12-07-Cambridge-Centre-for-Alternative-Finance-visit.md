@@ -395,7 +395,7 @@ Actually the system integrators in Taiwan, they are totally on board with this b
 They can manufacture something that is manufactured in Taiwan and not in nearby jurisdictions, and that doesn’t have cybersecurity issues. \[laughs\] That can provide a better quality network.
 
 ### Audrey Tang:
-The larger corporation, they also say they want to contribute. For example, the citizen scientists really want to put a air quality sensor here on the Taiwan Strait, but it’s impossible. Even with drones, they run out of battery eventually.
+The larger corporation, they also say they want to contribute. For example, the citizen scientists really want to put an air quality sensor here on the Taiwan Strait, but it’s impossible. Even with drones, they run out of battery eventually.
 
 ### Audrey Tang:
 There’s people working on drones also, but we are working on it because of the wind plant, the power plant of wind turbines.
@@ -471,7 +471,7 @@ At the Center for University Social Responsibility is also thinking along these 
 Which University?
 
 ### Audrey Tang:
-...a USR, like CSR buffer universities, which is encouraging universities to design five years worth of capstone projects that engage their professors and students in service of a environmental or social need locally. It’s a very large budget, actually.
+...a USR, like CSR buffer universities, which is encouraging universities to design five years worth of capstone projects that engage their professors and students in service of an environmental or social need locally. It’s a very large budget, actually.
 
 ### Robert Wardrop:
 Do they do international collaboration in the research funding, or is it just domestic?
@@ -617,7 +617,7 @@ Maybe we should push for that though.
 I think that would be a really long time. The whole issue of machine translation and being able to make our system work in a number of key languages to ensure as global coverage as possible is definitely going to be an issue that we’re going to have to address, but that is a criteria that would fit...
 
 ### Audrey Tang:
-Yeah. When I was visiting Canada...and as you know that, they have a English-French by law compulsory thing, but for most of those emergent content is really difficult, and they’re also working on.
+Yeah. When I was visiting Canada...and as you know that, they have an English-French by law compulsory thing, but for most of those emergent content is really difficult, and they’re also working on.
 
 ### Audrey Tang:
 English-French is one of the best pairs for machine translation at the moment, but even though we all recognize that, they still have to put a distance machine-translated mark. They have to figure out a lot of internal regulations to even offer this to you. It would take a long time because, as we’ve said, this is fundamentally a social issue that people need to feel secure in the technology.
@@ -650,7 +650,7 @@ Yeah, the NDC is probably the right contact for this.
 Great, Thanks for your time. Really appreciated and I’m amazed. You’re doing some very innovative things. Is something more agile in your structure? How are you getting away with that? That’s put a bit strongly, but you know what I mean?
 
 ### Audrey Tang:
-Yeah. I have three compact... I negotiated in public through a Ask Me Anything platform during the months between my appointment and me actually being the digital minister.
+Yeah. I have three compact... I negotiated in public through an Ask Me Anything platform during the months between my appointment and me actually being the digital minister.
 
 ### Audrey Tang:
 The three things are voluntary association — meaning I don’t give orders, I don’t take orders; location independence — I get to work anywhere; radical transparency — anything I can see I can publish. \[laughs\]

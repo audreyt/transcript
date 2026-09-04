@@ -91,7 +91,7 @@ They’re emergent, like self-driving vehicles, and there’s no clear strategy 
 \[laughs\]
 
 ### Audrey Tang：
-In these kind of situations, it helps enormously for people to see a accurate reflection of everybody’s feelings around this matter because if you only look at mainstream media or indeed some social media, you will see only maybe five divisive issues being repeated again and again. That led to the illusion that we’re tribal people and against each other.
+In these kind of situations, it helps enormously for people to see an accurate reflection of everybody’s feelings around this matter because if you only look at mainstream media or indeed some social media, you will see only maybe five divisive issues being repeated again and again. That led to the illusion that we’re tribal people and against each other.
 
 ### Audrey Tang：
 Through this kind of a machine learning revelation of collective intelligence, people can actually see that most people agree with most of their neighbors on most of the issues, most of the time. \[laughs\] This is very important for a polity to emerge.
@@ -160,7 +160,7 @@ Basically, it creates hope, however terrible it is, for people who are suffering
 With democracy, you only get to upload maybe three bits every four years, or every two years, and the three bits, two of which are discarded because of German Mandarin or whatever. It creates asymmetric hope, and that brings about outrage against the slow bandwidth democracy.
 
 ### Audrey Tang：
-Democracy need to evolve into a real-time democracy, in turn, to basically give alternate means, like the Polis that I just mentioned, but also participatory budgeting, also e-petition, also all sorts of different ways, so people can feel that whatever the issue is, there is a actual place of fighting power that I can participate in real-time.
+Democracy need to evolve into a real-time democracy, in turn, to basically give alternate means, like the Polis that I just mentioned, but also participatory budgeting, also e-petition, also all sorts of different ways, so people can feel that whatever the issue is, there is an actual place of fighting power that I can participate in real-time.
 
 ### Alexander Görlach：
 Is that also the reason why we see a modest explosion of new parties? That’s like NPP is a breakthrough for the new subgroups, as we called them back in the day. Very interesting. How do we then transition into this real-time democracy?
@@ -220,10 +220,10 @@ I feel we know now a lot about Cambridge Analytica, but maybe it’s also intere
 I have two slides that talks a little bit about the PRC model and the Taiwan model. What we have seen, of course, is in terms of freedom of assembly speech, and basically human rights, where according to CIVICUS Monitor, the only place in not just Asia, but all the way to North Africa that is totally open.
 
 ### Audrey Tang：
-That means that we are founded on the idea that freedom of expression and assembly is not a instrumental right, is not a instrumental value. It is a core value, meaning that it’s part of Taiwanese identity.
+That means that we are founded on the idea that freedom of expression and assembly is not an instrumental right, is not an instrumental value. It is a core value, meaning that it’s part of Taiwanese identity.
 
 ### Audrey Tang：
-I think it will remain like that for decades because we still have people like me who remember the martial law and how it was like, and we really don’t want to go back there. It’s a identity thing.
+I think it will remain like that for decades because we still have people like me who remember the martial law and how it was like, and we really don’t want to go back there. It’s an identity thing.
 
 ### Audrey Tang：
 Whereas with more or less the same technology, we’re making the state transparent to citizens by publishing all the budget data, procurement data, implementation data, planning data and then asking people to participate and comment openly as I mentioned, meanwhile, the PRC is making the citizens radically open to the state using social credit and many other designs.
@@ -258,7 +258,7 @@ I think it’s very interesting, like mirror image of philosophies, and using mo
 Before we continue with the whole alternative facts and fake news, that’s a very crucial question and always at the forefront. I’d say, progress in society always has happened through technological progress, if it’s good and bad, depending on place, whatever, but you can use these new technologies to go thence, always.
 
 ### Audrey Tang：
-Yeah, it’s a amplifier, so whatever your...
+Yeah, it’s an amplifier, so whatever your...
 
 ### Alexander Görlach：
 For good or bad.
@@ -290,7 +290,7 @@ One thing is that if there is a high chance of abuse, I would actually argue for
 > (laughter)
 
 ### Audrey Tang：
-If there are things that are heavily dependent on what we call a increasing return on research, then you can set your research agenda accordingly. Of course, it’s a science policy question, so we really need to discuss this case by case.
+If there are things that are heavily dependent on what we call an increasing return on research, then you can set your research agenda accordingly. Of course, it’s a science policy question, so we really need to discuss this case by case.
 
 ### Alexander Görlach：
 Correct me if I’m wrong, I also feel like because technology is always at the forefront of advancement, that means that lawmaking and regulation is lagging behind. It’s always like that and then the poets come in and there’s screenplays and movies. It’s like basically technology runs in front and then like everybody is about to follow, so what do we do in that meantime?
@@ -469,7 +469,7 @@ We saw that more people saw this clarification before they see the rumor. They s
 The second defense, of course, is collaborative checking. In Taiwan, we have members of the International Fact-Checking Network as well as the collaborative fact-checking community that allows anyone to just press on their Line, which is like WhatsApp, which again the Google doesn’t see.
 
 ### Audrey Tang：
-Just like email, email is supposed to be anyway secret communication. But anyone can flag something as spam. If you flag something as spam, you’re basically saying, &quot;This is not personal communication. This is a infringement to my personal domain by people who don’t really care about me.&quot;
+Just like email, email is supposed to be anyway secret communication. But anyone can flag something as spam. If you flag something as spam, you’re basically saying, &quot;This is not personal communication. This is an infringement to my personal domain by people who don’t really care about me.&quot;
 
 ### Audrey Tang：
 Even they may say they care about me a lot and they’re are a royalty some foreign country that have a lot of money...
@@ -494,7 +494,7 @@ No hobbies. No pet.
 Exactly. It doesn’t waste people’s time.
 
 ### Audrey Tang：
-The same for the IFCN. The IFCN basically gathers the signals of people flagging something as disinformation. They publish fact-checking reports in a investigative-journalism way.
+The same for the IFCN. The IFCN basically gathers the signals of people flagging something as disinformation. They publish fact-checking reports in an investigative-journalism way.
 
 ### Audrey Tang：
 Once the Thai Fact-checking Center rates something as false, for example, it goes back to the Facebook algorithm so that people will stop seeing that on their news feed. It would become not preferred to share. It’s not entirely censorship. If you go to that friend’s page, you’ll still see the post. It’s just it was a related link that links to this debunkment of the disinformation.
@@ -524,7 +524,7 @@ Facebook, just like Line, have signed on what they call the counter-disinformati
 Very cool. That’s the learning out of Cambridge Analytica I suppose.
 
 ### Audrey Tang：
-Exactly, because they are at a all-time low in terms of social trust. People are considering Facebook worse than tobacco and liquor companies.
+Exactly, because they are at an all-time low in terms of social trust. People are considering Facebook worse than tobacco and liquor companies.
 
 ### Alexander Görlach：
 \[laughs\]
@@ -595,10 +595,10 @@ Unless you’re reading &quot;Harry Potter&quot; newspapers, in which case, ther
 > (laughter)
 
 ### Audrey Tang：
-In any case, what we are now looking at is basically a not transactional but relational configuration of policy-making. When people participate in the e-petitions, they’re not just there to support the 15-years-old. You are also reaffirming their identification into creating a better Earth for the next generation. It’s a identity-building or even polity-building action.
+In any case, what we are now looking at is basically a not transactional but relational configuration of policy-making. When people participate in the e-petitions, they’re not just there to support the 15-years-old. You are also reaffirming their identification into creating a better Earth for the next generation. It’s an identity-building or even polity-building action.
 
 ### Audrey Tang：
-Once we have that as a organizing principle, its norm-setting power is actually much higher than any hierarchical organization can do. A hierarchic organization, while very efficient at issuing command, is actually very bad at providing the appropriate context to such a command.
+Once we have that as an organizing principle, its norm-setting power is actually much higher than any hierarchical organization can do. A hierarchic organization, while very efficient at issuing command, is actually very bad at providing the appropriate context to such a command.
 
 ### Audrey Tang：
 But if it’s a horizontal, then everybody can extend the metaphor, the memes and so on, so that it makes the most sense. Like a small-world network theory, the bridge-makers makes the most sense and do a cultural translation of that norm into what their community can embrace and understand.
@@ -613,7 +613,7 @@ That is to say, anyone working on any of the SDG topics are empowered through th
 That also requires a capacity of empathy, which is a very human thing to be able to. The question would be how you can implement this even if you would say this positive bias or whatever you want to call it within the technological framework? Because we seem to be lacking this.
 
 ### Alexander Görlach：
-Even though you have now assembled, like make sure you can display that societies have similar issues they care about, still we are in a age where divisiveness is rating high and lack of empathy, if you see the European debates on refugees, it’s tremendous. How do you see this factor? How can we bring empathy into technology?
+Even though you have now assembled, like make sure you can display that societies have similar issues they care about, still we are in an age where divisiveness is rating high and lack of empathy, if you see the European debates on refugees, it’s tremendous. How do you see this factor? How can we bring empathy into technology?
 
 ### Audrey Tang：
 A few things. One thing is that I think the divisiveness and the lack of empathy is a direct result of lack of imagination so that it feels like zero sum. It doesn’t have to be zero sum. If people’s planning horizon are at most... Actually, German is exempt from that because your Chancellor can go on forever.
@@ -633,7 +633,7 @@ First thing what we do in our collaborative meeting is that we try to have the c
 We had a real case where people who are very much for marriage equality and people who are very much, I don’t know, conservative Catholics going to our collaboration meeting to talk about the issue of whether we want to extend the artificial insemination rights for people who are not in a marriage, so single mothers wanting to have the same reproductive rights as wed couples. It’s not yet legal in Taiwan.
 
 ### Audrey Tang：
-The point that we can make this discussion fruitful instead of violent or divided is that we set the how-might-we question, the centerpiece in the double-diamond design thinking method, as how do we ensure a exclusive and accepting society for children born into such a family?
+The point that we can make this discussion fruitful instead of violent or divided is that we set the how-might-we question, the centerpiece in the double-diamond design thinking method, as how do we ensure an exclusive and accepting society for children born into such a family?
 
 ### Audrey Tang：
 That rephrasing is basically saying, &quot;What are we going to make as a society for people who haven’t been born yet? They will be socially included maybe 10 years, 20 years later.&quot; If you use that planning horizon for conversation, actually people who seem like fighting against each other can work very collaboratively.

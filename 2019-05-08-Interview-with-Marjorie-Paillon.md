@@ -238,7 +238,7 @@ In a way, we’ve been seeing over the past few seasons, a lot of user backlashi
 We’ve seen also platforms on the other end, understanding that type of backlash, and trying to redeem themselves, but way less demanding from their users actually. Are we on a threshold of a change here?
 
 ### Audrey Tang:
-I do think so. I think people are becoming more aware. Thanks to advanced regulations like GDPR, and so on, that there was a exploitive externalities that fueled the current, what many scholars have said as a surveillance capitalism. I think even the capitalist themselves have realized that this is not sustainable because trust is not a renewable resource.
+I do think so. I think people are becoming more aware. Thanks to advanced regulations like GDPR, and so on, that there was an exploitive externalities that fueled the current, what many scholars have said as a surveillance capitalism. I think even the capitalist themselves have realized that this is not sustainable because trust is not a renewable resource.
 
 ### Audrey Tang:
 If you deplete trust, if you lose the fiduciary relationship with the so-called users, then basically what is left is just manufacturer addiction. Even that doesn’t last. I think people are more and more aware that if you build a relationship with the people, not users, it needs to be a relational. It’s not transactional. That’s what GDPR means.

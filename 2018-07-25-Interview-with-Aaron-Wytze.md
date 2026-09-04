@@ -81,7 +81,7 @@ All the ministries related to the open-government issues at the time contributed
 Has Taiwan continued to apply to the OGP since that previous application?
 
 ### Audrey Tang:
-Not as such. Not with an national action plan, not formally like the first bid, no.
+Not as such. Not with a national action plan, not formally like the first bid, no.
 
 ### Aaron Wytze:
 What was the reason why that it hasn’t done a subsequent official bid?
@@ -102,7 +102,7 @@ Far as I know, the conversation started around that time. During my keynote-ish 
 Was there any possibility that Taipei or any other city in Taiwan could join on the sub-national level? Is that a possibility still?
 
 ### Audrey Tang:
-We checked the subnational charter, and one of the precondition at the time was that it has to be under a existing national-action-plan country. If the upper level does not have a national action plan, then the sub-national action plan has nothing to hook onto. That still remains one of the outstanding issues.
+We checked the subnational charter, and one of the precondition at the time was that it has to be under an existing national-action-plan country. If the upper level does not have a national action plan, then the sub-national action plan has nothing to hook onto. That still remains one of the outstanding issues.
 
 ### Aaron Wytze:
 Basically, Taiwan would have to join first as a member government before Taipei, or Kaohsiung, or Taichung could join as a sub-national government?

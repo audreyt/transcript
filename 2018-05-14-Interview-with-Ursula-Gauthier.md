@@ -80,7 +80,7 @@ On internet sociology.
 That was your main topic?
 
 ### Audrey Tang:
-That was my main topic, to find out why people behave differently online than offline. I wrote to all the scholars that I can find working on that subject and have discussions. They trust me very quickly, and they don’t know that I’m only a early teenager.
+That was my main topic, to find out why people behave differently online than offline. I wrote to all the scholars that I can find working on that subject and have discussions. They trust me very quickly, and they don’t know that I’m only an early teenager.
 
 > (laughter)
 
@@ -106,7 +106,7 @@ I was very into mathematics. When I was eight years old I get into programming, 
 You were already predisposed to that kind of...?
 
 ### Audrey Tang:
-To mathematics. To me, computer is like a instrument, in the sense that the music that one can make from programs are like spaces where people can interact. For me, it’s much easier for people to see or to feel the kind of mathematical structures that I’m working with if I can use program to make it very visible, to visualize it, so to speak.
+To mathematics. To me, computer is like an instrument, in the sense that the music that one can make from programs are like spaces where people can interact. For me, it’s much easier for people to see or to feel the kind of mathematical structures that I’m working with if I can use program to make it very visible, to visualize it, so to speak.
 
 ### Audrey Tang:
 This remains a solo tool for me until when I was 12 and I encountered the Internet. I found that there’s many people working on the same thing, and I previously did not know that. Then there’s a real community.
@@ -154,7 +154,7 @@ You had the equipment. Your parents provided it? They were happy with your...?
 Back in 1989, where computer was kind of expensive, they didn’t, at the beginning, think it’s necessary for my education, but I read about programming, anyway, so I use a A4 paper, draw on it a keyboard and the cursor, and tied this paper keyboard and start programming.
 
 ### Audrey Tang:
-It’s good for my learning, because then I learned that computational thinking doesn’t need a computer. It’s a way of thinking. It’s like playing a instrument from the notes. The notes are still in your head, and it’s possible to create this way. My parents finally gave in shortly afterwards and gave me a computer then.
+It’s good for my learning, because then I learned that computational thinking doesn’t need a computer. It’s a way of thinking. It’s like playing an instrument from the notes. The notes are still in your head, and it’s possible to create this way. My parents finally gave in shortly afterwards and gave me a computer then.
 
 ### Ursula Gauthier:
 Your parents are also into math?
@@ -220,7 +220,7 @@ The Atom?
 The Atom Publication Group. The Atom Publishing Protocol, it is a new generation of the RSS, the Really Simple Syndication. RSS at the time is being worked on by Aaron Swartz, among other people. The Atom people are trying to make the RSS work better, not just as a consuming blogs, but also a way to publish blogs, so becoming two way.
 
 ### Audrey Tang:
-I worked with the Movable Type community, which is a early blogging software platform, to provide Traditional Chinese translation of that platform, as well as to make the journalists and other writers to adopt this platform to be self-publishing. I’m involved not just on the technical side, but also on the advocacy. Our group translated the word blog to "部落格", and tried to spread this idea of self-directed publication.
+I worked with the Movable Type community, which is an early blogging software platform, to provide Traditional Chinese translation of that platform, as well as to make the journalists and other writers to adopt this platform to be self-publishing. I’m involved not just on the technical side, but also on the advocacy. Our group translated the word blog to "部落格", and tried to spread this idea of self-directed publication.
 
 ### Audrey Tang:
 Around that time, it’s early 2000, I also contributed to the Freenet Project. The Freenet Project is one of the early projects to let people who are whistleblowers, who are activists in a constrained environment to anonymously reveal the ideas that they know to journalists, to the outside world.
@@ -334,7 +334,7 @@ Wonderful, and then how did you get up to political advocacy?
 All this is political advocacy. \[laughs\] It is a way for people to see that it is possible to participate in a political conversation of technology, admittedly, but still political conversation among very large companies, like Microsoft, Google, Facebook, or whatever, but still as a non-profit or social enterprise, like Mozilla Foundation, like Wikipedia Foundation.
 
 ### Audrey Tang:
-They still have a equal say to where and how the Internet is evolving, so I still see this as political. Personally, my involvement in Taiwan’s domestic politics...
+They still have an equal say to where and how the Internet is evolving, so I still see this as political. Personally, my involvement in Taiwan’s domestic politics...
 
 ### Ursula Gauthier:
 You came back to Taiwan after Silicon Valley?
@@ -364,7 +364,7 @@ With Apple being here, yes. I work as a liaison between the open source communit
 This wasn’t, basically, an Apple program? It was your program?
 
 ### Audrey Tang:
-No, it’s a partnership. \[laughs\] For example, I worked on the Mac and iOS version of the built-in dictionary of Traditional Chinese. It’s at once a Apple program, a Oxford University Press program, and also the Wu-Nan publishing house. I was working as consultant to all three programs.
+No, it’s a partnership. \[laughs\] For example, I worked on the Mac and iOS version of the built-in dictionary of Traditional Chinese. It’s at once an Apple program, an Oxford University Press program, and also the Wu-Nan publishing house. I was working as consultant to all three programs.
 
 ### Ursula Gauthier:
 I get it. You were still based in Taiwan?
@@ -612,7 +612,7 @@ Because we also give up our copyright, so when the government likes the idea, in
 It wasn’t considered as a protest?
 
 ### Audrey Tang:
-It wasn’t considered a protest. It was considered as a demo of how the government could be. If the government likes it, they can always merge it back. In 2014, during the Sunflower Occupy, g0v played a different role as a enabler of civic media. The civic media at the time, there’s many different reporters, independent journalists, people with an iPad reporting of the occupied site.
+It wasn’t considered a protest. It was considered as a demo of how the government could be. If the government likes it, they can always merge it back. In 2014, during the Sunflower Occupy, g0v played a different role as an enabler of civic media. The civic media at the time, there’s many different reporters, independent journalists, people with an iPad reporting of the occupied site.
 
 ### Audrey Tang:
 What we would be doing is, essentially, building the infrastructure so that everyone can compare notes and share each other’s live streams. There’s teams of people who type very fast, and to turn what’s happened in the parliament into real-time actual reports. There’s also other teams who take these reports and translate it into 12 different languages.
@@ -678,7 +678,7 @@ If the police...
 This is Taiwan law?
 
 ### Audrey Tang:
-This is a interpretation, yes, of the Supreme Court. It’s as effective as a constitution. This is very important for the civic journalists. Because that’s a relatively new ruling, we also printed the QR code, so if the police doesn’t believe it, they can scan the QR code and see the Supreme Court ruling.
+This is an interpretation, yes, of the Supreme Court. It’s as effective as a constitution. This is very important for the civic journalists. Because that’s a relatively new ruling, we also printed the QR code, so if the police doesn’t believe it, they can scan the QR code and see the Supreme Court ruling.
 
 ### Audrey Tang:
 Throughout this, we were able to build a CCTV network that let anyone who doesn’t participate on-site, they can, nevertheless, view online what is happening during the occupy.
@@ -711,7 +711,7 @@ It is a drone photo, yes. There’s a lot of use of aerial drones to count the n
 To provide free WiFi for all the sites you need a lot of equipment.
 
 ### Audrey Tang:
-Yes, so we worked with the Chunghwa Telecom, who provided a fiber optic line to a street, not to a address. \[laughs\] That’s the first time they provided. Instead of as street address, we just said to the camp outside the legislation, close to the 7-11. This you bring the high-speed fiber optic on.
+Yes, so we worked with the Chunghwa Telecom, who provided a fiber optic line to a street, not to an address. \[laughs\] That’s the first time they provided. Instead of as street address, we just said to the camp outside the legislation, close to the 7-11. This you bring the high-speed fiber optic on.
 
 ### Ursula Gauthier:
 In fact, it’s like you had a new account on Chunghwa Telecom?
@@ -975,7 +975,7 @@ Or anywhere. It’s not for the betterment of democracy, maybe, in itself?
 If the public service trusts the people more, then the people have more power to set agenda. If the public service doesn’t trust the people, the people never really get a say anyway. I would say I’m not working directly with a representative democracy or traditional democracies, but through this kind of work we were able to create space for participative democracy.
 
 ### Audrey Tang:
-It’s not directly on the referendum or the elections, but we’re creating a environment where prior to any referendum or any voting there’s better understanding.
+It’s not directly on the referendum or the elections, but we’re creating an environment where prior to any referendum or any voting there’s better understanding.
 
 ### Ursula Gauthier:
 Do you think that what you are doing now can help to ease one of the problems that we have in Taiwan, that’s a very divided society with blue, green, not trusting each other at all, and having hard feelings?

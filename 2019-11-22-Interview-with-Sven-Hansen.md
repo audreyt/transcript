@@ -125,7 +125,7 @@ To be honest, I found the quote only in German, so I re-translated it, and maybe
 Maybe you can say it in German.
 
 ### Sven Hansen:
-Yeah, it is \[German\] .
+Yeah, it is \[German\].
 
 ### Audrey Tang:
 Ah, yeah, to renew our thinking of democracy digitally.
@@ -290,7 +290,7 @@ Oh, yeah.
 The GDPR gets every person this kind of rights, but it’s up to each person to exercise it. If we exercise as just like, I don’t know, consumer unions or things like that, if we exercise these rights, then everybody who deploy general-purpose technologies such as facial recognition will be very costly because they collect more than they need to use.
 
 ### Audrey Tang:
-If everybody ask for a copy, ask for a explanation, ask for updates, ask for portability, you will overwhelm their support center. They will switch to a more single-use technology that cannot be easily abused by collecting only the minimal that they need, and not keeping anything that can put them liable.
+If everybody ask for a copy, ask for an explanation, ask for updates, ask for portability, you will overwhelm their support center. They will switch to a more single-use technology that cannot be easily abused by collecting only the minimal that they need, and not keeping anything that can put them liable.
 
 ### Audrey Tang:
 If people don’t exercise their basic GDPR rights, then of course it costs less to collect more, and you just store it and maybe someday, it will be useful, and people will get lazy.
@@ -593,7 +593,7 @@ I would expect that, or my experience is that in most countries, all the so-call
 That’s not the case in Taiwan, no. The reason is that in Taiwan, we don’t say computer scientists as engineers.
 
 ### Audrey Tang:
-Whereas other places may call these people software engineers, in Taiwan, we call them program designers, and so it is seen as a design thing and not a engineering industrial thing. Because of that, there’s always equally boys and girls, or even sometime more girls than boys in the program design profession.
+Whereas other places may call these people software engineers, in Taiwan, we call them program designers, and so it is seen as a design thing and not an engineering industrial thing. Because of that, there’s always equally boys and girls, or even sometime more girls than boys in the program design profession.
 
 ### Audrey Tang:
 I think it’s maybe because of this translation advantage that it is always seen as a field that does not have as much gender bias as you mentioned on other industrial practices.

@@ -495,7 +495,7 @@ Sorry. You’re not going to get me down that pass.
 You’re not. I wrote about this, that the problem here is that the tax laws are from 1980, ‘70s and ‘80s. That it’s easy to write off hardware, so capital investment. We didn’t want to invest. They didn’t want to invest in software.
 
 ### Bruce Bateman:
-Just five years ago, I said, “Hey, let’s do AI.” They said, “Oh, no, no.” They said, “What’s the ROI?” I said, “Well, I can’t calculate it.” They said, “Well, I’m going to spend the same amount of money on \[Mandarin\] , and that, I have an ROI on. Not only that, the government gives me a write-off.”
+Just five years ago, I said, “Hey, let’s do AI.” They said, “Oh, no, no.” They said, “What’s the ROI?” I said, “Well, I can’t calculate it.” They said, “Well, I’m going to spend the same amount of money on \[Mandarin\], and that, I have an ROI on. Not only that, the government gives me a write-off.”
 
 ### Bruce Bateman:
 I can’t. When I do capital investment, I can write it off, but I can’t do capital…Only your PC, I can write off.
@@ -698,7 +698,7 @@ Adding the social word, I think, is going to be…IoT, you can say sustainable, 
 That’s right.
 
 ### Bruce Bateman:
-I notice you’re onto sustainability. I work quite a bit in sustainability. It’s very, well, I’ll come talk to you later on that one one day. Because we’re such a cost-efficient model here, getting companies to do it, it’s really hard.
+I notice you’re onto sustainability. I work quite a bit in sustainability. It’s very, well, I’ll come talk to you later on that one day. Because we’re such a cost-efficient model here, getting companies to do it, it’s really hard.
 
 ### Bruce Bateman:
 I’d land on, we sent people. We did a little thing, picnic on the beach. People realized there was a lot of trash. To pay them a huge company thing, where everybody went out every weekend, and they…
@@ -775,7 +775,7 @@ We relinquished our copyright, you see? \[laughs\]
 Yeah, we relinquish all our copyrights. There you go, so you don’t care. You got me there.
 
 ### Bruce Bateman:
-If you go look at that, that means they’re not paying attention to it. The second problem is, when I bring startups into the \[Mandarin\] , they can’t really work with them.
+If you go look at that, that means they’re not paying attention to it. The second problem is, when I bring startups into the \[Mandarin\], they can’t really work with them.
 
 ### Bruce Bateman:
 I bring ABCs to them, because they can try, or we bring…One of the things we’ve been talking about at the MOST is about bringing internships in, and who can bridge the language gap. It’s great for the Taiwan students, because they’re forced to speak with a foreigner.
@@ -805,7 +805,7 @@ I left the kid alone and came back a couple weeks later. I said, “What’d you
 You don’t know what GitHub, because they didn’t teach this stuff in the school. It’s sad that…I lecture at \[Mandarin\] about, on the future of living in 2030. It’s surprising that, how many people have never seen Sophia.
 
 ### Bruce Bateman:
-I show the videos, like, “How many have seen Sophia…How many have seen Boston Dynamics robots?” The number of kids who haven’t seen that was surprisingly scary, but I went to Fuxing \[Mandarin\] , and I asked probably third or fourth-graders. They’d all seen it. \[laughs\]
+I show the videos, like, “How many have seen Sophia…How many have seen Boston Dynamics robots?” The number of kids who haven’t seen that was surprisingly scary, but I went to Fuxing \[Mandarin\], and I asked probably third or fourth-graders. They’d all seen it. \[laughs\]
 
 ### Bruce Bateman:
 That’s Fuxing. It wasn’t in \[Mandarin\]. If you go back to \[Mandarin\], they would all have known about it. We’ve got this problem. The good…
@@ -946,7 +946,7 @@ No, we need people to come in and help, occasionally speak, occasionally record 
 Of course, there is plenty of material from my side.
 
 ### Bruce Bateman:
-Really trying to help the kids understand the fear, get past. When I talked to her originally, she said, “Oh, my parents said if you’re \[Mandarin\] , it’s OK.” It’s like, you’ve got to respect the parents and say, “No, that is not correct.”
+Really trying to help the kids understand the fear, get past. When I talked to her originally, she said, “Oh, my parents said if you’re \[Mandarin\], it’s OK.” It’s like, you’ve got to respect the parents and say, “No, that is not correct.”
 
 ### Bruce Bateman:
 It’s OK if you’re \[Mandarin\]. You’ve got to go into something else, but you can’t just say that, because you’ve got to…The logic is the future of the world. If you don’t understand emoji, then even if you’re an artist…
@@ -1155,7 +1155,7 @@ Yeah, their relationship with startups before this.
 Yeah. I’ve done nine successful and about eight unsuccessfully. I still, I mentor about six, seven startups here in Taiwan today. Then Women in IoT and then Women…You’ve got to give back, right? My point to that is not me.
 
 ### Bruce Bateman:
-In Taiwan, you have \[Mandarin\] executives \[Mandarin\] , going fishing and doing stupid stuff.
+In Taiwan, you have \[Mandarin\] executives \[Mandarin\], going fishing and doing stupid stuff.
 
 ### Audrey Tang:
 That’s right. They’re in their golden age.
@@ -1230,7 +1230,7 @@ OK, I got it.
 Anyway, yeah, there’s a startup working on it.
 
 ### Bruce Bateman:
-I went to Nuance. Nuance’s CEO is Taiwanese, Charles Kwan. I went to Charles, because \[Mandarin\] , when I was at \[Mandarin\], I did smart cities. I went around the world doing smart city design. We went to Kaohsiung and asked him, “What’s the number one problem?”
+I went to Nuance. Nuance’s CEO is Taiwanese, Charles Kwan. I went to Charles, because \[Mandarin\], when I was at \[Mandarin\], I did smart cities. I went around the world doing smart city design. We went to Kaohsiung and asked him, “What’s the number one problem?”
 
 ### Bruce Bateman:
 This was probably three years ago. The only person who \[Mandarin\] was the social. She said, “I have a problem with…”

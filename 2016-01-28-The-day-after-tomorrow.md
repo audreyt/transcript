@@ -58,7 +58,7 @@ I can see a recursive image of my own screen from the mirrors there. This is act
 ### audrey-tang:
 I’m happy to be here to talk about the day after tomorrow. The midnight reminds us that we are among the stars. If you look up in the night sky, you see that Earth is a place among the stars. I’ve been working with the technology called virtual reality. I have a virtual reality headset here which Florent will put on for effect — never mind.
 
-### voiceover-richard-gariott:
+### voiceover-richard-garriott:
 The most beautiful thing I’ve ever seen is the earth from space. On this little ball is everything we’ve ever known, all of the history, all of the future, all the beauty of what it means to be human.
 
 ### voiceover-spacevr-staff:
@@ -67,13 +67,13 @@ The world that everyone uses is fragile. You can’t understand that from the gr
 ### audrey-tang:
 Right. From space, we all look very small, and we are very tightly bound together. We share the Earth. All of our problems are of a global scale at the moment, including the climate and everything that people at this night have talked about. The observer effect makes us able to see the problem on a global scale.
 
-### voiceover-richard-gariott:
+### voiceover-richard-garriott:
 My conception of the scale of the reality of the earth went from being unimaginably large to absolutely finite and, in fact, small. It goes from infinity to one. I’m going to get goosebumps about this sort of stuff when I talk about it. Even today, it was only after my flight that I began to go, "I can’t be the only one who’s had this sort of reaction."
 
 ### audrey-tang:
 Actually, during this whole event, during lunch, and during the radio interviews, I’ve been asking Saskia Sassen, Souleymane Bachir Diagne, and everybody I met to put on this compass and watch Earth with me together.
 
-### voiceover-richard-gariott:
+### voiceover-richard-garriott:
 We would all benefit if we all had a shared experience of this kind. Virtual reality is very well positioned right now. It’s starting to give truly immersive experiences and make you feel like you’re there.
 
 ### voiceover-spacevr-staff:
@@ -86,7 +86,7 @@ It wasn’t until I experienced virtual reality that it became clear to me that 
 The overview effect has such a profound impact that once you’ve seen it, there is no going back.
 
 ### audrey-tang:
-There’s one saying in politics: "Where you stand depend on where you sit."
+There’s one saying in politics: "Where you stand depends on where you sit."
 
 ### voiceover-jaclyn-tsai:
 What we do not want to see, is by evoking the name of innovation, you do not pay taxes, or use it as an excuse to break laws.
@@ -136,7 +136,7 @@ In fact, this technology, it’s important that you have talked, both of you, ab
 I don’t think that technologies are neutral. There is a big debate in the US. It’s, of course, the only industrialized country that is having this debate about guns in which the people in favor of not having gun control say things like, "Guns are neutral pieces of technology, and it’s people who kill people and not guns."
 
 ### florent-latrive:
-That’s a good example, because for the kind of technology you show us about pattern recollection or image recognition, right now, we see more and more of this technology used to recognize people, to distinguish between the black and white and the people who behave this way or this way. It’s many control technologies and not empowerment technologies.
+That’s a good example, because for the kind of technology you show us about pattern recognition or image recognition, right now, we see more and more of this technology used to recognize people, to distinguish between the black and white and the people who behave this way or this way. It’s many control technologies and not empowerment technologies.
 
 ### blaise-agüera-y-arcas:
 The ability to recognize people from an image of their face and recognize a bunch of their characteristics, of the same kinds of characteristics that you or I would see when we look at a person’s face, is in itself a neutral technology.

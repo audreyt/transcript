@@ -66,7 +66,7 @@ He went back to Taiwan, I think, on 1st of June, which is very important because
 That made him very connected and interested in the student movement leaders. Many of them went on exile, diaspora, into Europe. He followed them to Europe and started working at his PhD thesis in Saarland in Germany. I also moved to Germany for a year when he’s working on his PhD.
 
 ### Audrey Tang:
-I remember I was raised among the people who cannot return to the PRC anymore. They worked on the democratization. They keep debating how to democratize the PRC government. That is also a important part in my life because I heard first how technology can shape the connection between people.
+I remember I was raised among the people who cannot return to the PRC anymore. They worked on the democratization. They keep debating how to democratize the PRC government. That is also an important part in my life because I heard first how technology can shape the connection between people.
 
 ### Audrey Tang:
 It was the time of the first color camera, digital camera, fax machine, and so on. It really helped both on the Tiananmen and also in the fall of Berlin Wall, and also the Wild Lily movement shortly afterward, in Taiwan.
@@ -81,7 +81,7 @@ Now you can have collective action with many, many cities connected in a connect
 Wow. \[laughs\]
 
 ### Audrey Tang:
-They said, &quot;Oh, it’s really true. You don’t have to study for 10 years, go abroad to enter the lab of a researcher. You can just write a email to that researcher and we start collaborating.&quot; Many of them protested in what we call the Blue Ribbon...
+They said, &quot;Oh, it’s really true. You don’t have to study for 10 years, go abroad to enter the lab of a researcher. You can just write an email to that researcher and we start collaborating.&quot; Many of them protested in what we call the Blue Ribbon...
 
 ### 関治之:
 Blue Ribbon.
@@ -99,7 +99,7 @@ I learned that the World Wide Web is not just a tool for collective learning and
 透過網際網路蒐集到很多人的資訊，這做起頭，你後來自己也創業，是這樣的發展過程。剛開始的公司是怎麼樣的一家公司呢？
 
 ### Audrey Tang:
-When I joined, it was a publishing press called The Informationist. I joined as a author to share my experience learning programming languages, making web pages and so on. It was the beginning of the e-commerce days. I helped the company to build a e-commerce website for the company. That was really early, like ’95 or something like that.
+When I joined, it was a publishing press called The Informationist. I joined as an author to share my experience learning programming languages, making web pages and so on. It was the beginning of the e-commerce days. I helped the company to build a e-commerce website for the company. That was really early, like ’95 or something like that.
 
 ### Audrey Tang:
 Then we discovered that it’s actually much more interesting if we can show people what we’re talking about in the form of software, so not just our stories, but actually how we go about our daily life. You talk about searching for information.
@@ -114,7 +114,7 @@ My co-authors thought it’s good that we switch to a software company from a pu
 We worked on the first social -- nowadays, we would call it a social media -- a community website and also develop our own search engine products. After I left Inforian, @clkao, one of the key people in the g0v movement, joined also Inforian to develop CICQ, one of the first instant message platforms, and many other things.
 
 ### Audrey Tang:
-It’s just a early software startup that was very popular and got a lot of investment from Intel and so on during the dot-com bubble.
+It’s just an early software startup that was very popular and got a lot of investment from Intel and so on during the dot-com bubble.
 
 ### 関治之:
 アントレプレナーとして成功してきたわけですね。私もスタートアップの世界で活動していました。一般的に言って、利益を追求しなくてはいけないスタートアップと、社会課題を解決する活動というのが一致しないこともあるかと思うのですが、会社の活動と、社会活動家としての自分の間の矛盾などはありませんでしたか？
@@ -205,7 +205,7 @@ Actually, one of the Code for Japan people, I forgot who, said that the real inv
 It’s something, yes.
 
 ### Audrey Tang:
-Yes, because everything else, we see it elsewhere, but the domain name g0v.tw means that the g0v is positioned as a alternative fork of the government itself. Not just complementing where the government isn’t seeing not. Not just working with the government structure. Rather, it’s about re-imagining a government structure.
+Yes, because everything else, we see it elsewhere, but the domain name g0v.tw means that the g0v is positioned as an alternative fork of the government itself. Not just complementing where the government isn’t seeing not. Not just working with the government structure. Rather, it’s about re-imagining a government structure.
 
 ### Audrey Tang:
 Although in the very beginning, the g0v people talked about taking every government website and change the O to a 0 to get into the shadow of government website. For the legislative, the parliament, ly.gov.tw. If you would change the O to a 0, you get into the open-source version of the parliament.
@@ -214,7 +214,7 @@ Although in the very beginning, the g0v people talked about taking every governm
 The truth is that many g0v projects started working on things that doesn’t have a government counterpart. It is not just about working with existing government service and making it better, but actually delivering new services that the government doesn’t even know that the public really want this kind of services. I think that tradition is really powerful.
 
 ### Audrey Tang:
-For example, there’s a chatbot called Cofacts that if you look at a information from your instant message, it’s private, but you don’t know whether it’s rumor or not. You can forward to that bot. That bot will get back to you like a crowdsource wiki, like fact checking, and say, &quot;This is false&quot; or &quot;This is true,&quot; and so on.
+For example, there’s a chatbot called Cofacts that if you look at an information from your instant message, it’s private, but you don’t know whether it’s rumor or not. You can forward to that bot. That bot will get back to you like a crowdsource wiki, like fact checking, and say, &quot;This is false&quot; or &quot;This is true,&quot; and so on.
 
 ### Audrey Tang:
 This is something that the government really should not be doing, because otherwise we will be judging the media and so on and centralize the power. The Cofacts project at cofacts.g0v.tw re-imagined the government’s model so that everybody can be a fact checker, like Wikipedia.
@@ -319,7 +319,7 @@ It’s important, too, for young people to also learn the art of working with th
 > (laughter)
 
 ### Audrey Tang:
-Relay the digital to the real world. I think in Taiwan, as well as in Japan, many people, if they are young students like when I was 11 years old, if they already feel a beauty, a obligation towards their local community, then when they are in the university level and learning about democratic tools, they will apply it to their community scale.
+Relay the digital to the real world. I think in Taiwan, as well as in Japan, many people, if they are young students like when I was 11 years old, if they already feel a beauty, an obligation towards their local community, then when they are in the university level and learning about democratic tools, they will apply it to their community scale.
 
 ### Audrey Tang:
 If you teach the students in an abstract way outside of the local context, then much more likely when they become a graduate student or in their graduating years, they will choose a topic not related to the local community because they grow up separated. Maybe they will go overseas. Maybe they go to Taipei City.
@@ -370,13 +370,13 @@ I think just getting the message out is one of the most important things, becaus
 > (laughter)
 
 ### Audrey Tang:
-They think, &quot;Oh, wait. Is it the same Taiwan that I know about?&quot; Just getting the story that Taiwan is now a new digital and very progressive democracy out, I think it is a important first step.
+They think, &quot;Oh, wait. Is it the same Taiwan that I know about?&quot; Just getting the story that Taiwan is now a new digital and very progressive democracy out, I think it is an important first step.
 
 ### Audrey Tang:
 Also, when we participated in the community organized workshops, like in Madrid, in Toronto, or in New York and so on, many people think it’s interesting that in Taiwan and in g0v community, many projects, they have very cross-sectoral partnership.
 
 ### Audrey Tang:
-People might be working in the public service, in a startup as entrepreneur, as an investor, as a intermediary organization to facilitate incubation of startups in their day job. In the g0v, people really brought resources from those different sites.
+People might be working in the public service, in a startup as entrepreneur, as an investor, as an intermediary organization to facilitate incubation of startups in their day job. In the g0v, people really brought resources from those different sites.
 
 ### Audrey Tang:
 When I was in Toronto, noticed that Code for Canada community, Code for Toronto, city government, and also the academics and so on, many of them, it’s their first time sitting in the first table, talking about the same thing. Usually, they have their own community gathering. Maybe all of them meet monthly with their sector. There is very few truly cross-sector collaboration events.
@@ -444,7 +444,7 @@ Yeah, right. He is.
 He has no problem theorizing \[laughs\] in the Berkeley way from whatever he is doing. I’m not saying that everybody need to be native English speakers, but it’s important to both localize like Pol.is would translate it to Japanese but also to have one or two theorists to absorb the insights and turn it into an international audience.
 
 ### Audrey Tang:
-It’s just like in the Occupy movement. At the time, they sent two people in each Occupy movement to join the cross-Occupy network. It’s two people because if one gets arrested \[laughs\] , they can send someone else in their position. It’s a fallback, it’s a RAID configuration, high availability.
+It’s just like in the Occupy movement. At the time, they sent two people in each Occupy movement to join the cross-Occupy network. It’s two people because if one gets arrested \[laughs\], they can send someone else in their position. It’s a fallback, it’s a RAID configuration, high availability.
 
 ### Audrey Tang:
 If it’s too many people, then of course, the theorization will stop, because usually in design thinking you need to have a clear, how might we question in the middle to serve as the provocation. It’s important for each Occupy to have two people who can crystallize their provocations to the other networks.
@@ -482,7 +482,7 @@ I will do.
 In the Code for Japan summit, would you expect the attendance internationally to be like half or 30 percent? What are your goals for international participation?
 
 ### 関治之:
-I think I feel that it’s great that the g0v summit was very international. I want to be same. I think this year we are right now planning. I am not sure, but I want to have a international...
+I think I feel that it’s great that the g0v summit was very international. I want to be same. I think this year we are right now planning. I am not sure, but I want to have an international...
 
 ### Audrey Tang:
 Track.
@@ -491,7 +491,7 @@ Track.
 Track, yeah. At least one track that presentation will be in English and also people safely to be speaking English there.
 
 ### Audrey Tang:
-That’s great. When I attended the large conferences in Japan, I found that if they are designed with a international track, then there’s really professional interpreters, like everything is great. I think if there’s designs for remote participation as well...
+That’s great. When I attended the large conferences in Japan, I found that if they are designed with an international track, then there’s really professional interpreters, like everything is great. I think if there’s designs for remote participation as well...
 
 ### 関治之:
 Remote participation.
@@ -500,7 +500,7 @@ Remote participation.
 ...I think that that will even increase the outreach. When we held discussions like this, usually we even have two different YouTube or Facebook live stream and one with just the interpreter’s soundtrack so that people who are native English speakers, they can put on their earphones.
 
 ### Audrey Tang:
-Maybe you are talking about local developments, but because you have good interpreter, so it will be like you are giving a English presentation. People will be able to associate their ideas but with the person, with the right person, even if they are speaking Japanese.
+Maybe you are talking about local developments, but because you have good interpreter, so it will be like you are giving an English presentation. People will be able to associate their ideas but with the person, with the right person, even if they are speaking Japanese.
 
 ### Audrey Tang:
 That would be my suggestion for maybe highlight some tracks that you know are very good story and even if it’s in pure Japanese to invest in interpretation in real-time, and also, make sure that it’s live-streamed in a way that will be captured. That, I think, will get attention from the international community.

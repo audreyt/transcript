@@ -135,7 +135,7 @@ Arriving, after three weeks of occupy, on four demands, not one less, which got 
 Many of the people who were involved in that were quite young, so we’re talking about one generation there.
 
 ### Audrey Tang:
-Yeah, they were in their 20s, or at most, 30s. At the end of 2014, we, the occupiers and facilitators, communicators around the Occupy, were hired essentially as what they called reverse mentors to the cabinet. For example, I personally worked in this office as kind of a understudy, in turn, on one side, but also consultant on the other side with Minister Jaclyn Tsai at the time.
+Yeah, they were in their 20s, or at most, 30s. At the end of 2014, we, the occupiers and facilitators, communicators around the Occupy, were hired essentially as what they called reverse mentors to the cabinet. For example, I personally worked in this office as kind of an understudy, in turn, on one side, but also consultant on the other side with Minister Jaclyn Tsai at the time.
 
 ### Audrey Tang:
 She was in charge of the regulatory reform in responding to, for example, Uber, Airbnb, and such. We devised, using the same technology that powered the Occupy, the listening at scale technology that makes sure the people who gets affected by UberX, for example, can manage to agree on something that we can all live with.
@@ -264,7 +264,7 @@ Instead of just reviewing and giving scores and so on, there’s some matchmakin
 This is important, because only then it will become a feasible and sustainable data collaborative, instead of having the social entrepreneurs carry all the cost. The same applies to the mask availability map, actually. By looking at the data for social good, that’s another initiative starting in the civil society and the g0v grants, we decide to elevate it to the presidential office.
 
 ### Audrey Tang:
-Dr. Tsai personally work with our investor-at-large, \[non-English speech\] , to design the system. I’m merely the convener of the jury. I don’t give scores, but I make sure that the trilingual communication is a smooth as possible by essentially doing cultural translation between the three expertise.
+Dr. Tsai personally work with our investor-at-large, \[non-English speech\], to design the system. I’m merely the convener of the jury. I don’t give scores, but I make sure that the trilingual communication is a smooth as possible by essentially doing cultural translation between the three expertise.
 
 ### Kathrin Hille:
 If you had to explain to someone who is really not in these circles at all, like, I don’t know, someone who is much older and is not…
@@ -467,7 +467,7 @@ The idea, very simply put, is that all the reference implementations to say the 
 People who have seen difficulties who would prefer voice assistant and so on, if they say, “Why don’t you think of us?” we can always say, “Hey, the data, the API, the source code is here, so make it the way that you want.” This open innovation is the key to your procurement rules in your jurisdiction.
 
 ### Audrey Tang:
-If your procurements does not have a rule, as we have put in, that says for each and every human-interactable part, there needs to be a equivalent machine-interactable API, a machine-readable and writable part. Otherwise, the vendor could be disqualified for discriminating against robots. We don’t quite say that, but that’s the idea. \[laughs\]
+If your procurements does not have a rule, as we have put in, that says for each and every human-interactable part, there needs to be an equivalent machine-interactable API, a machine-readable and writable part. Otherwise, the vendor could be disqualified for discriminating against robots. We don’t quite say that, but that’s the idea. \[laughs\]
 
 ### Audrey Tang:
 That will open up, unlock the potentials of digital service. If you instead say, “Oh, we will just sue people who make alternate versions of our government digital services,” then, of course, you will have no solidarity with the social sector and civic technologists.

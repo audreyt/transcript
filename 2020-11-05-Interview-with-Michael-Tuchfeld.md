@@ -7,7 +7,7 @@ Minister Tang, I’ll go straight to the point without any introductions. What m
 One thing that I would like to ask is about the surveillance means. How did you work to find out the spread out of the virus? What means of surveillance methods between the…How did you balance also between the needs and the human rights and the privacy of people?
 
 ### Audrey Tang:
-Simply put, because we never declared a emergency state and therefore operate entirely within the constitutional limit, we never during the pandemic collect data that we’re not already collecting before the pandemic.
+Simply put, because we never declared an emergency state and therefore operate entirely within the constitutional limit, we never during the pandemic collect data that we’re not already collecting before the pandemic.
 
 ### Audrey Tang:
 The data controllership and processing, for example, for our digital quarantine program occurs in the telecoms. They do not send extra data to other data processors.
@@ -37,7 +37,7 @@ If they are found to break the quarantine, for example, through the digital quar
 If you have to put a finger on the main factor, the major factor that led to the success, what would you say?
 
 ### Audrey Tang:
-It’s definitely soap and mask use, which only works in tandem. Very early on, we have this spokesdog, the Zongchai, a very cute dog that says, “Wear your mask to protect yourself from you own unwashed hands.” This is a entirely rational, self-interest argument. This says nothing about respecting your elders or protecting your community. This message resonates with people.
+It’s definitely soap and mask use, which only works in tandem. Very early on, we have this spokesdog, the Zongchai, a very cute dog that says, “Wear your mask to protect yourself from you own unwashed hands.” This is an entirely rational, self-interest argument. This says nothing about respecting your elders or protecting your community. This message resonates with people.
 
 ### Audrey Tang:
 Once we get three-quarter of people through mask rationing access to the mask and hand sanitizers, the R value decreased to be under one, at which point the virus is no longer a pressing concern.
@@ -52,7 +52,7 @@ No.
 How do you earn the trust then?
 
 ### Audrey Tang:
-No, I wouldn’t say so. I would say it’s very important for the government to trust the citizens, to make the state transparent to the citizens, to make our mistakes widely known and competently fixed in a accountable way in real-time, and be inclusive to all the different cultures of people who are residents or visitors.
+No, I wouldn’t say so. I would say it’s very important for the government to trust the citizens, to make the state transparent to the citizens, to make our mistakes widely known and competently fixed in an accountable way in real-time, and be inclusive to all the different cultures of people who are residents or visitors.
 
 ### Audrey Tang:
 These four – transparency, participation, accountability, and inclusion – are all the state’s duties to the citizens. I don’t think it’s necessary for the citizen to trust the state or the citizen to be transparent to the state.

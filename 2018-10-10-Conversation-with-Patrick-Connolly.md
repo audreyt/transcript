@@ -970,7 +970,7 @@ The whole space?
 Yeah, the whole space, but especially that room is dedicated for civic tech.
 
 ### Patrick Connolly:
-There’s a few things that that money can be spent on. What if there’s like, someone has a different idea? Is there clarity? How do we spend money together?
+There’s a few things that money can be spent on. What if there’s like, someone has a different idea? Is there clarity? How do we spend money together?
 
 ### Audrey Tang:
 Pizza.

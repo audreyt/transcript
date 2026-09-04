@@ -134,7 +134,7 @@ I was wondering what is your feedback or thought about platforms like this UGC f
 It makes an impact, it has a symbiotic relationship with the mainstream news. Right? People who share there basically are looking to prevent something wrong from happening again.
 
 ### Audrey Tang:
-That’s a very powerful channel for outreach to collect collaborative perspectives about a particular social issue and the joy of delivering some new mechanism that could be, I don’t know, locking down the cars of people who drunk drive. \[laughs\] Right? They have to brace into their car in order to drive. Now, that’s a actual result of this kind of social movements.
+That’s a very powerful channel for outreach to collect collaborative perspectives about a particular social issue and the joy of delivering some new mechanism that could be, I don’t know, locking down the cars of people who drunk drive. \[laughs\] Right? They have to brace into their car in order to drive. Now, that’s an actual result of this kind of social movements.
 
 ### Audrey Tang:
 People could say, “Let’s ban plastic straws from bubble teas” – which is actually realized.
@@ -327,7 +327,7 @@ That’s one niche, and probably not your original targets.
 > (laughter)
 
 ### Audrey Tang:
-If you look at structurally, it’s actually very similar. This is a adversarial environment, and people want to write about something that could have a social impact without suffering from the traditional review process, which always, in Hong Kong now, have someone trying to… Just look at Apple Daily News.
+If you look at structurally, it’s actually very similar. This is an adversarial environment, and people want to write about something that could have a social impact without suffering from the traditional review process, which always, in Hong Kong now, have someone trying to… Just look at Apple Daily News.
 
 ### Ivan Linn:
 \[laughs\]
@@ -856,7 +856,7 @@ The CSR people are now also looking to do more BD because the financial supervis
 Basically, if you’re a small company, but you are willing to adhere to the same disclosure for social and environmental impact as a public listed company would, then that connects you to even more BD community than previous miss miss group could. That’s the social innovation landscape in Taiwan. That will then make your crowdsourcing, crowdfunding much more easy if you can articulate clearly, like protecting the Hong Kong activists.
 
 ### Audrey Tang:
-That’s one value proposition from Better News. If you can find a similar proposition, that’s going to help you much more to find not necessarily a co founder, but a advisor, or someone that want to lend their social sector credentials to your work.
+That’s one value proposition from Better News. If you can find a similar proposition, that’s going to help you much more to find not necessarily a co founder, but an advisor, or someone that want to lend their social sector credentials to your work.
 
 ### Ivan Linn:
 I see. Is there anyone in particular that you think I should be in touch with, TAICCA, anyone you think?

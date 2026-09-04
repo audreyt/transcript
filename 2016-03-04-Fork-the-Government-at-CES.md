@@ -623,7 +623,7 @@ Many projects have this weekly meet-up where it’s just three people, five peop
 Then you will tell those people that hackathons are a great place, so they will join the next month’s hackathon and identify more projects. \[laughs\] This really is a circle, and g0v is not an organization, this is just a way of doing things.
 
 ### Audrey Tang:
-Its just a habit, a way of living. Anybody who come is a participant, and who contribute is a contributor. We don’t have a leader. We don’t have a spokesperson. It’s just space, really, online space and offline space.
+It’s just a habit, a way of living. Anybody who come is a participant, and who contribute is a contributor. We don’t have a leader. We don’t have a spokesperson. It’s just space, really, online space and offline space.
 
 ### Giovanni Allegretti:
 I’m curious of one thing.
@@ -1926,7 +1926,7 @@ The phrase is an engineering problem. We need one editor, a few engineers, and s
 It took actually only a month for us to build this system and this slide was our first case, the company law change. The way we did this was modeled after IETF in the early ’90s, in the previous century. This is saying we held a mail list, a public forum and everybody can join as long as you have an email address. Then, we welcome discussions.
 
 ### Audrey Tang:
-We are not saying anything about law. We are asking for stakeholders to identify themselves. Are you a startup lawyer? Are you an something, and something? Then any experience that you share is very much appreciated. When people share something useful or contribution, they get marked as being valuable.
+We are not saying anything about law. We are asking for stakeholders to identify themselves. Are you a startup lawyer? Are you a something, and something? Then any experience that you share is very much appreciated. When people share something useful or contribution, they get marked as being valuable.
 
 ### Audrey Tang:
 We invite those people to the administration building and hold after-hours -- we are not wearing suits or anything, but it’s in the administration building -- with the ministries of economy, finance and something, and with the leading scholars of civil law and case law, and all the local government people working on registration of companies, to talk with those people.

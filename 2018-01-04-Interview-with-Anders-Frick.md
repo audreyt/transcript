@@ -265,7 +265,7 @@ The software was co-designed by more than a hundred social entrepreneurs, social
 Software-wise, they ask for two things. First that they ask that it opens until midnight. Now, it’s open from 7 to 11 in the midnight. Then, they asked that for me and responsible ministries to send their window to social enterprise policy-making into the service office. They ask for office hours, because it’s also an accelerator or incubator for social innovators. It’s natural that mentors have office hours.
 
 ### Audrey Tang:
-That’s what they asked, and so that’s what I deliver. Every Wednesday technically, if you look at the se.pdis.tw, which is our social enterprise portal, you can see that the social innovation lab actually has a Audrey is always here timetable which shows exactly when I’m here.
+That’s what they asked, and so that’s what I deliver. Every Wednesday technically, if you look at the se.pdis.tw, which is our social enterprise portal, you can see that the social innovation lab actually has an Audrey is always here timetable which shows exactly when I’m here.
 
 ### Audrey Tang:
 Technically, it says that every Wednesday from 10 to 2 PM. That’s actually the formal schedule. In practice for the past month or so, I’m practically from 10 AM to 10 PM there. It’s like 12 hours on every Wednesday. People gradually think that it’s not a big deal to just go and talk to a minister.
@@ -542,7 +542,7 @@ Because now...Swap this. It can still be hearing. It will not just be used.
 Now, I would like to ask a bit more about economy and more financial, economic news. Taiwan is sometimes referred to as the Silicon Valley of Asia. What’s the difference between Asia’s Silicon Valley and the Silicon Valley in United States?
 
 ### Audrey Tang:
-I don’t know where you got this Asia Silicon Valley idea. When I get into the cabinet, my first contribution is to rename \[non-English speech\] , Silicon Valley in Asia into \[non-English speech\], Asia.Silicon Valley, meaning that we’re a hub that links the Asia people and a hub that links the Asia people, and a hub that links the innovations from the Silicon Valley and innovations here in Asia. We see ourselves as a connector of talents, of resources, of regulations at times.
+I don’t know where you got this Asia Silicon Valley idea. When I get into the cabinet, my first contribution is to rename \[non-English speech\], Silicon Valley in Asia into \[non-English speech\], Asia.Silicon Valley, meaning that we’re a hub that links the Asia people and a hub that links the Asia people, and a hub that links the innovations from the Silicon Valley and innovations here in Asia. We see ourselves as a connector of talents, of resources, of regulations at times.
 
 ### Audrey Tang:
 We don’t see ourselves as a Shan chai or a copy of Silicon Valley in Asia. That would actually be absurd. That’s one of my first country visions going into the cabinet, just renaming the Asia SV plan into the Asia.SV plan.

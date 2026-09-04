@@ -354,7 +354,7 @@ Oh, for themselves. It’s very important to make sure that when people make the
 Not only it makes me sleep less every night, it will also make my classmates or people who are near me also get distracted, because while they may be listening to one another, and we’re having dinner together or something, if I just get addicted to my phone, then it also distract everybody on the table. This is just one simple example.
 
 ### Audrey Tang:
-It shows that each choice we make have a effect not only on other people but also on our own future. When we make choices, make choices that will make it easier to choose new things in the future and not choose things that will make it harder to choose new things in the future for yourself and to other people as well.
+It shows that each choice we make have an effect not only on other people but also on our own future. When we make choices, make choices that will make it easier to choose new things in the future and not choose things that will make it harder to choose new things in the future for yourself and to other people as well.
 
 ### Akiko Kamimura:
 Good example like the touchscreen making things change. According to one survey, there are a few children in Japan who think they can change Japanese society. Regarding to the future of Japan, their pessimism is very strong and having reasons such as anxiety about finance, social security, the economy and employment, blah-blah-blah. How can we encourage children with their pessimistic fears?
@@ -417,7 +417,7 @@ I know. In Japan, like in Taiwan, even when children are already 18 years old, l
 The education is a kind of virtue in Japan, \[laughs\] I think. We have to change our thinking.
 
 ### Audrey Tang:
-At least for the children who are around teenagers, because teenagers want to feel like they are a adult. When somebody is 12 or 14, they want to feel they are already an adult, it’s called puberty. If you treat them like a baby, they will fight against you. If you treat them like a adult, then you can learn from them.
+At least for the children who are around teenagers, because teenagers want to feel like they are an adult. When somebody is 12 or 14, they want to feel they are already an adult, it’s called puberty. If you treat them like a baby, they will fight against you. If you treat them like an adult, then you can learn from them.
 
 ### Akiko Kamimura:
 Like friends.
@@ -525,7 +525,7 @@ Thank you. There’s three people from the publisher, and I think they want to a
 OK, but I don’t have a lot of time. I only have maybe five more minutes.
 
 ### Akiko Kamimura:
-Five more minutes. Yeah, \[non-English speech\] .
+Five more minutes. Yeah, \[non-English speech\].
 
 ### Editor:
 I just want to making sure that I appreciate time. I would like to ask you one question, just one question. Are you interested in making a picture for children, or a picture book, a children book? You will have the image about the picture?

@@ -125,10 +125,10 @@ Part of our culture is that you can call a random person on the street aunt or u
 That then makes the conversations very easy to leak out of the -- to reuse a Google word that’s no longer relevant now -- circles of the original designated audience. For example, somebody may post something on a friend-only or a private group.
 
 ### Audrey Tang:
-The private group, the private is a lock icon. It means that a access-controlled group. That same icon is also used for secure end-to-end communication in both browsers and your end-to-end encrypted chat. It creates confusion of people looking at a lock icon and assuming that this is a protected conversation.
+The private group, the private is a lock icon. It means that an access-controlled group. That same icon is also used for secure end-to-end communication in both browsers and your end-to-end encrypted chat. It creates confusion of people looking at a lock icon and assuming that this is a protected conversation.
 
 ### Audrey Tang:
-Actually, not only it could be data mined, but it’s very easy for people to forward a private group conversation. You can always screenshot, but it’s very easy to make it leak to the public. People’s expectation of a end-to-end conversation is violated regularly.
+Actually, not only it could be data mined, but it’s very easy for people to forward a private group conversation. You can always screenshot, but it’s very easy to make it leak to the public. People’s expectation of an end-to-end conversation is violated regularly.
 
 ### Audrey Tang:
 I actually provided a suggestion that maybe you reserve the lock icon into true end-to-end encryption so that Facebook can securely say, &quot;We don’t even know of the conversation details.&quot; Currently, it is hidden behind a hostile design that people have to explicitly choose end-to-end encryption instead of, like on WhatsApp, where it is the default.
@@ -149,10 +149,10 @@ To polarization.
 Let’s talk a bit more about this out-of-context problem. How do you see it manifest on our platform specifically? What kinds of consequences do you think out-of-context content is having, if any, on the political discourse here?
 
 ### Audrey Tang:
-A lot of political discourse here is centered on screenshots. It could be a private group on Facebook. It could also be a conversation on a closed LINE group, which is a similar setting socially speaking. There was a large thing that a few months ago ran about a airline worker in the private chat group talking about, as part of the strike, how they want to &quot;punish&quot; the captains that did not support the strike.
+A lot of political discourse here is centered on screenshots. It could be a private group on Facebook. It could also be a conversation on a closed LINE group, which is a similar setting socially speaking. There was a large thing that a few months ago ran about an airline worker in the private chat group talking about, as part of the strike, how they want to &quot;punish&quot; the captains that did not support the strike.
 
 ### Audrey Tang:
-It makes total sense in their private context, but if taken out of context, it could be interpreted as that she’s about to poison the captain. I’m sure that she didn’t mean to poison the captain. \[laughs\] She just said this is someone that we would add stuff or things like that. Within context, it’s a in-joke. Out of context, it sounds like a threat to public safety.
+It makes total sense in their private context, but if taken out of context, it could be interpreted as that she’s about to poison the captain. I’m sure that she didn’t mean to poison the captain. \[laughs\] She just said this is someone that we would add stuff or things like that. Within context, it’s an in-joke. Out of context, it sounds like a threat to public safety.
 
 ### Audrey Tang:
 I don’t have much specific incidents, but if you look at the rumors database, Cofacts and so on, you can easily find many such instances. I would say that a lot of political discourse is, indeed, centering around out-of-context.
@@ -282,7 +282,7 @@ Definitely have more to ask, but I want to be mindful of time and allow Tom to f
 When you do see harassment on the platform, is it around particular divisive issues? You shared that wonderful graph of the divisive issues that soak up a lot of our time. What are the divisive issues that dominate here?
 
 ### Audrey Tang:
-That depends on the topic of discussion. When we had a public conversation with the AIT, that’s the US de facto embassy, asking how to make more visible in the world, the divisive issue that would trigger harassment if it’s a reply-enabled situation is the statement saying, &quot;Every time PRC closes a international door for Taiwan, the US has the obligation to open one door for Taiwan someplace else.&quot;
+That depends on the topic of discussion. When we had a public conversation with the AIT, that’s the US de facto embassy, asking how to make more visible in the world, the divisive issue that would trigger harassment if it’s a reply-enabled situation is the statement saying, &quot;Every time PRC closes an international door for Taiwan, the US has the obligation to open one door for Taiwan someplace else.&quot;
 
 ### Audrey Tang:
 As you can see, \[laughs\] half of the people absolutely love this statement. Half of the people really doesn’t like this statement. How to define our relationship with PRC and whether this is part of a US triangle or whether it’s a bilateral thing is the main political divide in Taiwanese communities.

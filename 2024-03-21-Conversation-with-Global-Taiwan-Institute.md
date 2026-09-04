@@ -346,7 +346,7 @@ That's a great question. As I mentioned, the two Director Generals of the two ad
 
 He has deep connection with the hardware side of things. He has been a member of Cyber Security, have deep connection with our diplomatic allies and friendly countries when it comes to cyber defense, generally. I want to continue that tradition. I don't want to build a silo. Moda is lowercase. We're the only lowercase Ministry in the central climate because we want to be a motor, which is renewable energy rather than an engine which is non-renewable.
 
-Anyway, we want to be a electric motor that drives digital transformation, but we never take the credit. We want those upper industries to take the credit. The same applies to the directors of our departments.
+Anyway, we want to be an electric motor that drives digital transformation, but we never take the credit. We want those upper industries to take the credit. The same applies to the directors of our departments.
 
 ### Igor Khrestin:
 Can I just one more thing? Because you mentioned something that is very important, and that is, I think, in the US, we have a deficit of, which is credible non-partisan arbiters of the most precious currency we have, I think, which is free speech. Whether we need them or not, and you mentioned the disinformation board became such a partisan issue, partially where it was housed, which was DHS.

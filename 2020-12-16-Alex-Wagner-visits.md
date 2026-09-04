@@ -49,7 +49,7 @@ The idea is that you would have this system that would be managed by…To me, wh
 It’s like you create a system with a government body looking over like we’re agricultural co-ops. I call them agro-electric co-ops. They look at managing the land as well as managing the rotation of these solar panels.
 
 ### Audrey Tang:
-I’ve been to the Taromak. It’s a indigenous community doing their own solar, and also some wind and also some water, all renewable self-sufficient powering. They do use a co-op-like structure for it.
+I’ve been to the Taromak. It’s an indigenous community doing their own solar, and also some wind and also some water, all renewable self-sufficient powering. They do use a co-op-like structure for it.
 
 ### Alex Wagner:
 What’s the name of it?
@@ -85,7 +85,7 @@ And there’s not as much bureaucracy.
 Exactly, exactly. In the indigenous use, we already have existing laws and regulations that promotes the forming of co-ops, especially labor co-ops. For example, like fixing the electricity setting up, those GST wires and things like that.
 
 ### Audrey Tang:
-If it is a certain percentage, like a majority or something of indigenous people within that co-op, then it qualifies also for a additional types of benefit and so on.
+If it is a certain percentage, like a majority or something of indigenous people within that co-op, then it qualifies also for an additional types of benefit and so on.
 
 ### Alex Wagner:
 One thing to me is that a lot of what I need to know is way outside of my expertise, and I don’t know how to necessarily gain access to that. Do I have to go to school for land planning to even start doing this, or what is a way to get research done?
@@ -120,7 +120,7 @@ Sure. No worries.
 For me to do this, it involves me having to change my life, kind of. One thing that makes me afraid is like is this even possible? Is this something that can even happen in Taiwan? Is it worth my time and effort?
 
 ### Audrey Tang:
-Maybe you can talk to the three, the indigenous part, the co-op part, and also the social enterprise part, and explore whether that feels like a agreeable lifestyle to you, and make your own decisions.
+Maybe you can talk to the three, the indigenous part, the co-op part, and also the social enterprise part, and explore whether that feels like an agreeable lifestyle to you, and make your own decisions.
 
 ### Audrey Tang:
 It’s true that in Taiwan we are still at a piloting phase, but that’s also because the photovoltaic arrays along the coast becomes bearable or even competitive only in the past few years. This is a very new thing for all of us, actually for around the world, too.

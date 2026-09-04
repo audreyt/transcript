@@ -60,13 +60,13 @@ Because I’m not yet, anyway, affiliated with Reset, I get to ask questions tha
 That’s all right.
 
 ### Audrey Tang:
-What about nonprofits like the Polis, now a charity. I’ve been working very closely with Polis, as you know, as a assistive intelligence technology that facilitates crowdsourced agenda setting, including the crowdlaw initiative and all that.
+What about nonprofits like the Polis, now a charity. I’ve been working very closely with Polis, as you know, as an assistive intelligence technology that facilitates crowdsourced agenda setting, including the crowdlaw initiative and all that.
 
 ### Audrey Tang:
 One thing I understand from the grant proposals that they’re working on is that there’s essentially two parts of it. One is the advocacy, the facilitation, and so on, that part, which sounds more like what Reset is doing and interested, but there’s the other, mundane part, which is just the software engineering and research and scaling. That’s the code level thing.
 
 ### Audrey Tang:
-Without the code level thing, actually we can’t prove that this assistive intelligence is actually value aligning and accountable. The harder to fund part is actually a essential part, the reason of existence of the easier to fund part.
+Without the code level thing, actually we can’t prove that this assistive intelligence is actually value aligning and accountable. The harder to fund part is actually an essential part, the reason of existence of the easier to fund part.
 
 ### Audrey Tang:
 That’s not limited to Polis. We see this situation with the CONSUL Democracy Foundation and many other similar initiatives as well. What’s Reset’s position on this regard?

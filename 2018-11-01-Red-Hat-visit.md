@@ -185,7 +185,7 @@ Vendor or whatever.
 ...lobbyist, vendor, media, journalism, or anything, we make a full transcript, published 10 days after each meeting and 10 working days after each internal meeting. People get to understand the why, the context of policy making instead of just the what. This is, I think, one of the most important thing.
 
 ### Audrey Tang:
-In our Freedom of Information Act, it says, in the drafting stage, conversation is not to be published, which is the same as everywhere in the world, but there was a exception clause. If it serves the public interests, it may be released, at the judgment of the minister of course. As my working condition, everything I see is of public interest to publish.
+In our Freedom of Information Act, it says, in the drafting stage, conversation is not to be published, which is the same as everywhere in the world, but there was an exception clause. If it serves the public interests, it may be released, at the judgment of the minister of course. As my working condition, everything I see is of public interest to publish.
 
 > (laughter)
 

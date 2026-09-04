@@ -52,7 +52,7 @@ Minister, thank you very much for finding the time to talk to us today. I’m ve
 I wanted to talk to you in the beginning about the Sunflower Movement. There wasn’t as much publicity around that in the UK as you might have imagined. Would you mind starting by explaining the Sunflower Movement and your involvement in it? It was really something quite amazing.
 
 ### Audrey Tang:
-Certainly. The Sunflower Movement was a Occupy movement for 22 days in March to April 2014. During those 22 days, students and activists occupied the parliament. They did this for demonstration, but not demonstration in a protesting sense, but rather demonstration in the demo kind of sense.
+Certainly. The Sunflower Movement was an Occupy movement for 22 days in March to April 2014. During those 22 days, students and activists occupied the parliament. They did this for demonstration, but not demonstration in a protesting sense, but rather demonstration in the demo kind of sense.
 
 ### Audrey Tang:
 The reason of the occupation was that the MPs at the time were refusing to deliberate a trade service agreement with Beijing. Because of that, the students did the deliberation for the MPs because they went on strike. They occupied the parliament and did the deliberation with the people.
@@ -97,7 +97,7 @@ That’s right. The second distinguishing factor is that we allowed people who p
 There’s also a live chat channel where people just type in what exactly they were hearing from the 20 or more debate stations so that people can just at a glance see what the topics are being debated as well as getting the consensus that’s being made from this debate on the street.
 
 ### Audrey Tang:
-This is a ICT technology, but it is for enabling people to listen to hundreds of thousands of people rather than speaking to hundreds of thousands of people. We often see social media or even television or radio used in a broadcasting manner, that is to say, it enables people to obey, follow the party line, or to somehow get the talking points from one or two people with stellar.
+This is an ICT technology, but it is for enabling people to listen to hundreds of thousands of people rather than speaking to hundreds of thousands of people. We often see social media or even television or radio used in a broadcasting manner, that is to say, it enables people to obey, follow the party line, or to somehow get the talking points from one or two people with stellar.
 
 ### Audrey Tang:
 This is the inverse of that. This technology enables tens of thousands of people to listen to one another. It enabled the people who did occupy in the Occupy parliament to listen to those people and get them their voice as a single voice. This is a deployment of what we call assistive civic technology that led people as points being heard in a way that is accountable.
@@ -124,13 +124,13 @@ During the National Forum, it was decided that we did a national e-participation
 Five million people using it on a basis that helps form policy very directly.
 
 ### Audrey Tang:
-On a active basis. That’s right. About one-quarter of people who can use Internet. Of course, that number can still grow, but still, I think we’re performing much better than other countries.
+On an active basis. That’s right. About one-quarter of people who can use Internet. Of course, that number can still grow, but still, I think we’re performing much better than other countries.
 
 ### Catherine Mayer:
 What was your role in this? You came into this as somebody with Silicon Valley experience, which is also fairly unusual for a politician.
 
 ### Audrey Tang:
-Yeah. At the time of the Occupy, I was a independent consultant to a company called Socialtext, which is called a Wiki company.
+Yeah. At the time of the Occupy, I was an independent consultant to a company called Socialtext, which is called a Wiki company.
 
 ### Audrey Tang:
 We make wikis, we make microblogging, we make a lot of so-called social media tools but for Fortune 500 companies as well as large non-profits in order to enhance their internal communication and make sure that the knowledge is captured within the organization rather than inside specific silos.
@@ -169,16 +169,16 @@ That’s right. We see our demonstration as a demo. \[laughs\] Now I am deployin
 Do you worry about this as well? Do you think that technology can be the answer to the concerns around technology?
 
 ### Audrey Tang:
-It is a concern. At the beginning, when we were doing the mobile version of the Socialtext, what we call Signals, which is very much like Twitter, we didn’t anticipate that it kind of has a effect on the habit of people.
+It is a concern. At the beginning, when we were doing the mobile version of the Socialtext, what we call Signals, which is very much like Twitter, we didn’t anticipate that it kind of has an effect on the habit of people.
 
 ### Audrey Tang:
 Back in 2010 or so, it’s like if a person only installs one messaging system on their phones, it actually increased their productivity. If a person installs three or four instant message systems, it’s like a cocktail effect on the mind because the mind would be constantly context-switching.
 
 ### Audrey Tang:
-It actually, from a mental health perspective, puts people in a always adrenaline rush or a fear-of-missing-out state that is not conductive to the kind of deep listening or deliberation that we were just talking about.
+It actually, from a mental health perspective, puts people in an always adrenaline rush or a fear-of-missing-out state that is not conductive to the kind of deep listening or deliberation that we were just talking about.
 
 ### Audrey Tang:
-We were part of the problem, I guess \[laughs\] , but we’re, I think, also aware that it is possible to have technologies that reduce the demand on attention and indeed the inherent bias that certain technology has introduced.
+We were part of the problem, I guess \[laughs\], but we’re, I think, also aware that it is possible to have technologies that reduce the demand on attention and indeed the inherent bias that certain technology has introduced.
 
 ### Audrey Tang:
 In early 2000s, I also participated in the so-called spam wars. At that point, people thought that email is helpless and email may soon go away because it costs nothing to send junk mail. It wastes everybody’s time. It also degrades the trust that people put on each other’s messages around the Internet.
@@ -205,13 +205,13 @@ Also, that if you are building these kinds of things, it’s very important, pre
 When I founded my first startup in 1996 in Taiwan, actually people majoring in computer science or working on IT and so on, the gender ratio is very healthy. It’s close to one on one.
 
 ### Audrey Tang:
-When I got online, I discovered that the free software community, the maker community, and so on, many women are forced to use male-sounding nicknames, not because they identify as transgender \[laughs\] , but rather, they did this to avoid harassment.
+When I got online, I discovered that the free software community, the maker community, and so on, many women are forced to use male-sounding nicknames, not because they identify as transgender \[laughs\], but rather, they did this to avoid harassment.
 
 ### Audrey Tang:
 It’s apparently a very important and significant issue on the Western, English-speaking world. That took me completely by surprise because Taiwan is not like that. \[laughs\] I think this highlights the importance of participation. In Taiwan, we have different problems. For example, the indigenous people, they don’t participate enough in the design of everyday technology that affects them.
 
 ### Audrey Tang:
-As are the other ethnicities because Taiwan is like 98 percent ethnic Han. The other ethnicities’ voices don’t often get heard simply because of their language or their lived experience differences. One of the main points in diversity is not just getting sufficient number of people, although that helps, like our spokesperson now is a indigenous women.
+As are the other ethnicities because Taiwan is like 98 percent ethnic Han. The other ethnicities’ voices don’t often get heard simply because of their language or their lived experience differences. One of the main points in diversity is not just getting sufficient number of people, although that helps, like our spokesperson now is an indigenous women.
 
 ### Audrey Tang:
 Our President is also partly indigenous, she’s a woman and not anyone’s daughter and wife. We think this is very important. Rather than just diversity, I think real inclusion means that all the different people participating in the end result of the designs, such as, for example, in our K-12 education, we emphasize that people use technology to work with children. They must prefer open source technology.
@@ -286,7 +286,7 @@ In the social innovation scene here in Taiwan, we’re seeing a lot of work arou
 \[laughs\] I was...
 
 ### Audrey Tang:
-Yeah. \[laughs\] ...that can deliver a mutual distributed ledger.
+Yeah. \[laughs\]...that can deliver a mutual distributed ledger.
 
 ### Catherine Mayer:
 Yeah, I was laughing.
@@ -352,7 +352,7 @@ That’s right.
 We were talking before about the ways in which you were able to find consensus from very strongly polarized viewpoints. Is pol.is something we as a party could be using? What would it look like if you applied it to some very polarized debates that there are within feminism, for example?
 
 ### Audrey Tang:
-Pol.is is great if you use it as a agenda-setting tool. By that, I mean that it surfaces what people’s common values are, just by their differences. It enables people to find possible solutions that follows these common values. What it’s not so great is to work out the details of those ideas. For that, you need other tools. The great thing about pol.is and other technologies that...
+Pol.is is great if you use it as an agenda-setting tool. By that, I mean that it surfaces what people’s common values are, just by their differences. It enables people to find possible solutions that follows these common values. What it’s not so great is to work out the details of those ideas. For that, you need other tools. The great thing about pol.is and other technologies that...
 
 ### Catherine Mayer:
 I’m going to interrupt briefly. pol.is, for people who haven’t read or heard about it, it’s a platform, yes?
@@ -400,7 +400,7 @@ On normal social media, it flip around. People spend most of their time on argui
 Is that platform something that anyone can use?
 
 ### Audrey Tang:
-Yeah. It is entirely open-source. We have a instance running here in the Taiwan national government. You don’t have to be a Taiwanese citizen. You can still use our instance. It’s easy to set up your own if you know technological people who can set up a machine.
+Yeah. It is entirely open-source. We have an instance running here in the Taiwan national government. You don’t have to be a Taiwanese citizen. You can still use our instance. It’s easy to set up your own if you know technological people who can set up a machine.
 
 ### Catherine Mayer:
 As we’ve been speaking, I’ve been imagining the very few people that we actually have in our team with their heads in their hands, because they know I’m going to come away from this conversation going, &quot;We should do pol.is. We should do pol.is.&quot;
@@ -409,7 +409,7 @@ As we’ve been speaking, I’ve been imagining the very few people that we actu
 That should be, as you say, the websites that look like government websites, but actually have the information in them that the government websites don’t. All those things requires a lot of work. My question to you is, how is this actually done practically? Who is doing the work here?
 
 ### Audrey Tang:
-We actually start normally with a easier version, which is not pol.is. It’s called Slido. Slido is something that I use for all my public lectures. I just came out from a conference called Tai Chi, which is a Taiwan computer-human interface conference.
+We actually start normally with an easier version, which is not pol.is. It’s called Slido. Slido is something that I use for all my public lectures. I just came out from a conference called Tai Chi, which is a Taiwan computer-human interface conference.
 
 ### Audrey Tang:
 The Slido idea is similar to pol.is. You go to Slido.com. You enter a number or a code, and you get to start asking questions. Unlike pol.is, there is no clustering. There is no moving around, but you can still like each other’s questions, and you can make things that people like the best float to the top.
@@ -557,7 +557,7 @@ If they want it to be used in a way that goes beyond the original collection pur
 If we see data as an asset and not a relationship, we will end up with the data that are there but are basically reinforcing biases, not just from our past selves, but also from past social conditions.
 
 ### Audrey Tang:
-This is very important to see that only a living relationship between the data so-called producers, so-called data processors and so-called data users or consumers, they need to trust each other through a accountability framework that enables constant interrogation, constant relationship between all those different people involved.
+This is very important to see that only a living relationship between the data so-called producers, so-called data processors and so-called data users or consumers, they need to trust each other through an accountability framework that enables constant interrogation, constant relationship between all those different people involved.
 
 ### Audrey Tang:
 Only at that time can we get the agency of the people back to the people so-called producing the data for collection. I think if the people producing data or people collecting data are generally aware of this, then they see their contributions as in the commons.
@@ -566,7 +566,7 @@ Only at that time can we get the agency of the people back to the people so-call
 For example, in Taiwan, we are now working with the Mozilla Foundation on a project called Common Voice, which is basically us reading aloud random fragments of public domain text.
 
 ### Audrey Tang:
-Basically, informing the machine learning algorithm so they can recognize the different accent, the different ways people use language, even ethnic minorities, indigenous people, and things like that instead of forcing everybody to speak in a accent that most resembles whatever \[laughs\] the original voice actors that the machine learning companies contracted with.
+Basically, informing the machine learning algorithm so they can recognize the different accent, the different ways people use language, even ethnic minorities, indigenous people, and things like that instead of forcing everybody to speak in an accent that most resembles whatever \[laughs\] the original voice actors that the machine learning companies contracted with.
 
 ### Audrey Tang:
 This commons that resembles the way people actually speak are entirely done by voluntary contributions and with the people knowing that they can also use the voice data in this commons for whatever purpose they like. They can also update it and reflect what they want things to go to, again democratization of this technology.

@@ -126,7 +126,7 @@ It’s sophisticated, a little bit more. I wouldn’t say much more, but somewha
 Not about checking?
 
 ### Audrey Tang:
-It’s about making sure that the ads are properly attributed. If they take down, that’s because they came from a extra-jurisdictional source. What we’re saying is that the norm around campaign financing here is that we have a separate branch of government called the Control Yuan that publishes the raw data of campaign donation and expense.
+It’s about making sure that the ads are properly attributed. If they take down, that’s because they came from an extra-jurisdictional source. What we’re saying is that the norm around campaign financing here is that we have a separate branch of government called the Control Yuan that publishes the raw data of campaign donation and expense.
 
 ### Audrey Tang:
 I call this a norm because people expect to see such raw donation data in everybody who is involved in the election campaigns, regardless of whether they’re a candidate, a candidate supporter, somebody who are volunteering to buy some ads, and so on.
@@ -192,7 +192,7 @@ Yeah, right.
 If you take away the S and go to CoFact.org, as in singular, \[laughs\] then you’ll see the Thai version. LINE is as popular in Thailand as here. When CoFacts first started, there was no indication at all that a CSR arm of LINE Taiwan is going to provide the dashboard that you just took a photo from.
 
 ### Audrey Tang:
-In fact, they were pretty much saying, “We’re just a end-to-end encrypted messaging platform,” and so on, “mere conduit.” At that time, CoFacts was the only social-sector response to what we call the problem of getting the clarification back to where the disinformation are from, a circulation problem.
+In fact, they were pretty much saying, “We’re just an end-to-end encrypted messaging platform,” and so on, “mere conduit.” At that time, CoFacts was the only social-sector response to what we call the problem of getting the clarification back to where the disinformation are from, a circulation problem.
 
 ### Audrey Tang:
 By CoFacts being a viable prototype, it not only influenced LINE Taiwan to work with CoFact-like fact-checkers, four of them now, providing a CoFact-like dashboard from the LINE dashboard.
@@ -216,7 +216,7 @@ What are your observations about, in general, the things that are most effective
 The people who innovate to sow discord and spread disinformation are very innovative and sharing each other’s playbooks. There might be a silver bullet for any particular tactic ongoing. 20 years ago I worked with the Freenet project. I saw first-hand the co-evolution of the Great Firewall and the VPN bypassing community.
 
 ### Audrey Tang:
-There really is no silver bullet, per se, as long as the people who sow disinformation are also evolving. It’s a ongoing thing. This is just like cybersecurity. You may have found a 100 percent good solution to a certain tactic, but that only means that from tomorrow they switch tactic.
+There really is no silver bullet, per se, as long as the people who sow disinformation are also evolving. It’s an ongoing thing. This is just like cybersecurity. You may have found a 100 percent good solution to a certain tactic, but that only means that from tomorrow they switch tactic.
 
 ### Nathan VanderKlippe:
 I’ve got to tell you, from the firewall perspective, it’s not getting any better. It’s getting a lot more difficult in China these days. When you look at this in sum, there’s still been a great amount of disinformation that is circulated. Do you feel like, from an overall perspective, this election has been cleaner from a disinformation perspective? Or do you feel like it’s been a struggle or perhaps even a failure?
@@ -315,7 +315,7 @@ I understand, but it’s an important issue isn’t it not? It does feel like it
 I understand, but you see, I just caught a cold today, and I can’t negotiate directly with the virus. We are not in the same category.
 
 ### Audrey Tang:
-They speak a bit different language, I mean the virus. It’s the same for the virus of the mind. We, of course, can try to attribute the epidemic, but it only makes sense in a aggregate sense. We try to reduce the spread. We try to increase the distance.
+They speak a bit different language, I mean the virus. It’s the same for the virus of the mind. We, of course, can try to attribute the epidemic, but it only makes sense in an aggregate sense. We try to reduce the spread. We try to increase the distance.
 
 ### Audrey Tang:
 For each individual message, for each individual strain of virus, it is important to protect against that as a kind of public health matter and increase personal resilience and drink some coffee so that I’m not as affected.
@@ -472,7 +472,7 @@ The fact that we’ve moved referenda to its own year means that we have a full 
 It makes it much likely, higher payoff for a Swiss-style, full deliberation before referenda. Whichever side of referenda I talk with, they all want their ideas to be deliberated in more nuance rather than just in very short few weeks with a few people talking and not debating on TV. Then people go into the referenda booth being captured by party rhetorics.
 
 ### Audrey Tang:
-No referenda proposer truly want that because each referenda proposer is also a advocate for a new direction for the polity. Just winning the referenda is not enough for them because referenda, they all are binding only for two years anyway.
+No referenda proposer truly want that because each referenda proposer is also an advocate for a new direction for the polity. Just winning the referenda is not enough for them because referenda, they all are binding only for two years anyway.
 
 ### Audrey Tang:
 What they really want is to deepen the understanding around that particular issue in the whole society. That’s what only deliberation can do. A more deliberative referenda is definitely on the horizon no matter who win the election.
@@ -505,7 +505,7 @@ Well just look at the CIVICUS Monitor.
 Liberal democracy is predicated on a vibrant civil society. It’s based on the idea of what I call a trans-cultural republic of citizens, trans-cultural meaning instead of silo multiculturalism, people are willing to look beyond the culture that we were brought up with, that we went to school with, and look at our culture from the perspective of a different culture co-existing in the same polity.
 
 ### Audrey Tang:
-From a indigenous point of view, for example, the Tongku Saveq, the Jade Mountain is a spirit.
+From an indigenous point of view, for example, the Tongku Saveq, the Jade Mountain is a spirit.
 
 ### Audrey Tang:
 From the viewpoint of Лариса Бакурова who is voting also this week, she was originally from Ukraine, with a different perspective on our democracy.
@@ -637,7 +637,7 @@ And just downright blocking Wikipedia now.
 Exactly, but they have a solution. That solution is actually an effective solution. Do you see it as a given that that Chinese solution is the best solution when it comes to some of these issues?
 
 ### Audrey Tang:
-Taken to the extreme, you can say what Russia have currently demonstrated, that they can just decouple from the Internet and become a intranet, that is also a “solution.” If your computer, you don’t want virus, you can unplug the Ethernet cables. You won’t get virus if you seal the USB ports and unplug all the Internet connectivity.
+Taken to the extreme, you can say what Russia have currently demonstrated, that they can just decouple from the Internet and become an intranet, that is also a “solution.” If your computer, you don’t want virus, you can unplug the Ethernet cables. You won’t get virus if you seal the USB ports and unplug all the Internet connectivity.
 
 ### Audrey Tang:
 If you don’t have any freedom of speech, you won’t have hate speech. That’s true, yes, but calling it a solution is weird. This is like saying to solve a privacy issue, we just make everybody accept state surveillance by default. Without privacy, there is no privacy concerns…

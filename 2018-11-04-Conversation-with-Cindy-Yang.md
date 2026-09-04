@@ -184,7 +184,7 @@ The g0v.news network is really interesting because everything is published bilin
 Jason Liu.
 
 ### Audrey Tang:
-Jason. Thank you. \[laughs\] Jason’s work is respectively tried to frame something that’s innovative in Taiwan and bring it to a international audience, or to bring something that happens locally -- it could be around waste management, why not? -- that they think the Taiwanese people would be interested in, and also then bring it back.
+Jason. Thank you. \[laughs\] Jason’s work is respectively tried to frame something that’s innovative in Taiwan and bring it to an international audience, or to bring something that happens locally -- it could be around waste management, why not? -- that they think the Taiwanese people would be interested in, and also then bring it back.
 
 ### Audrey Tang:
 There’s a lot of exchanges both ways.
@@ -319,7 +319,7 @@ You really feel the vibe of innovation when you walk into the space. Starting ne
 I have a few follow-up questions on the groups that get involved. You said they’re not government actors. They’re small groups, individual people. How do they know what the biggest problems are, or is it what they see and experience and decide this is the problem they want to solve?
 
 ### Audrey Tang:
-That’s a great question. Ideally, they would self-organize, but for people who are really looking, like just entering the field, we have a annual summit called the Asia Pacific Social Enterprise Summit, which is not the Gov Zero Summit.
+That’s a great question. Ideally, they would self-organize, but for people who are really looking, like just entering the field, we have an annual summit called the Asia Pacific Social Enterprise Summit, which is not the Gov Zero Summit.
 
 ### Audrey Tang:
 G0v is more, I would say, civic tech as its core, but with civic media, with activists, and all the social innovators at a perimeter, but with the open innovation as its core to hold everybody together. The Social Enterprise Summit takes a different end goal. It takes the sustainability of business model as the main thing.
@@ -343,7 +343,7 @@ It’s a different conversation. There’s many people overlapping, though, but 
 This year’s g0v Summit has a much more than before emphasis on inclusivity and the people with disabilities, people with different social/environmental needs.
 
 ### Audrey Tang:
-There’s even a agricultural co-op that share their year, or something like that, and how they use sustainable farming methods to work on agricultural lands without destroying the renewability of the land, which doesn’t used to be the mainstream g0v civic tech message, but right now it’s, as of this year, starting to be one of the main messages to connect back to the land and to the solidarity of the people.
+There’s even an agricultural co-op that share their year, or something like that, and how they use sustainable farming methods to work on agricultural lands without destroying the renewability of the land, which doesn’t used to be the mainstream g0v civic tech message, but right now it’s, as of this year, starting to be one of the main messages to connect back to the land and to the solidarity of the people.
 
 ### Cindy Yang:
 Some new themes.
@@ -1106,7 +1106,7 @@ Yes.
 They’re a lot more extreme than we are. \[laughs\] We have a lot more taxation here. I think, as a Canadian, our upbringing encourages fundamentally different values. You understand that the taxation is for the greater good. It’s more European.
 
 ### Audrey Tang:
-Taiwan is like that, but it’s Taiwan before martial law was lifted. It’s directly the opposite. We do have a intergenerational value reconciliation issue in Taiwan also. I still remember the martial law. When I was in the first grade, the martial law was still in effect. It was lifted when I was in the second grade.
+Taiwan is like that, but it’s Taiwan before martial law was lifted. It’s directly the opposite. We do have an intergenerational value reconciliation issue in Taiwan also. I still remember the martial law. When I was in the first grade, the martial law was still in effect. It was lifted when I was in the second grade.
 
 ### Audrey Tang:
 The tone of education is very different. During the martial law era, which run for three decades or something, it is very authoritarian. People are taught that it’s not really for the social good, like for the good of the neighbors, but rather for the prosperity of the authoritarian nation, which is not dissimilar to what PRC is currently telling its people.
@@ -1274,7 +1274,7 @@ I’m trying to think. It’s funny, because I never intentionally study Toronto
 > (laughter)
 
 ### Cindy Yang:
-I always study other places. I just live here \[laughs\] ...
+I always study other places. I just live here \[laughs\]...
 
 ### Audrey Tang:
 Right, it’s your hometown. \[laughs\]

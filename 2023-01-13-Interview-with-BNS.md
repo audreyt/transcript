@@ -206,7 +206,7 @@ Do you have any specific plans?
 ### Audrey Tang:
 We do, yeah, here. One example, as I mentioned, is electronic signature interoperability. We understand that we just joined the World Wide Web Consortium, the W3C, as moda, and also the FidO Alliance.
 
-We understand that the European Union is also considering those, what we call, decentralized identifier technologies, that will make it much easier, like an electronic wallet, for all these different e-residence cards to work together in a interoperable fashion.
+We understand that the European Union is also considering those, what we call, decentralized identifier technologies, that will make it much easier, like an electronic wallet, for all these different e-residence cards to work together in an interoperable fashion.
 
 The endpoint would be that any electronic signature that I make on the smartphone, or with this card or with that card, ends up being automatically interoperable without extra adaptations costs by the banks and by everybody involved. That will massively lower the transaction cost between the Taiwanese companies and Lithuania. That's one.
 
@@ -422,7 +422,7 @@ We're ready to commit to that, yes.
 The last question. You are one of the first highest-ranking Taiwanese officials who visits Lithuania. Minister of National Development visited Vilnius in 2021, Speaker of Taiwan parliament was in Lithuania last year. Do other Taiwan's ministers have any plans to visit Lithuania, and maybe such plans have Taiwan's President or Prime Minster?
 
 ### Audrey Tang:
-This is a interesting question because there are chances that around the end of this month, there will be a cabinet reshuffle. After I go back to Taiwan, there may be some reconfigurations of the cabinet, the size of which we don't know yet. Right after that, I will relay your question to my colleagues in the cabinet.
+This is an interesting question because there are chances that around the end of this month, there will be a cabinet reshuffle. After I go back to Taiwan, there may be some reconfigurations of the cabinet, the size of which we don't know yet. Right after that, I will relay your question to my colleagues in the cabinet.
 
 ### Giedrius Gaidamavičius:
 Ministers -- your colleagues -- have specific plans to visit Lithuania?

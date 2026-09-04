@@ -380,7 +380,7 @@ Tao Coin?
 Yeah, the Tao bit. It’s probably the earliest one. There’s countless forks and different inspired ideas from the Tao Coin. It’s issued for real in 2019. It’s an app, the Tao Passport app, that basically try to keep the consumption being friendly to the indigenous nation of Tao in the Orchid Island.
 
 ### Audrey Tang:
-It’s more like a community currency, but also serves as a deed because only people who identify as a supporter of the Tao Indigenous Nation get to be authenticated within it. A lot of indigenous people saw this as a very interesting aspect of their national sovereignty, this kind of passport. They use the temp password, which is by definition a identity word.
+It’s more like a community currency, but also serves as a deed because only people who identify as a supporter of the Tao Indigenous Nation get to be authenticated within it. A lot of indigenous people saw this as a very interesting aspect of their national sovereignty, this kind of passport. They use the temp password, which is by definition an identity word.
 
 ### Audrey Tang:
 Also many governments around the township level, also municipal level, civil and city level also issue their own coins, which are actually passports. This is also a deed thing because in Taiwan you either use your national IC cards for healthcare, which is the most centralized system ever.
@@ -415,7 +415,7 @@ They are quite visible, but many other cities are emulating that as well.
 What’s the response from the people? People like it?
 
 ### Audrey Tang:
-Yeah, it’s fun, like Pokémon Go, right? I collect them all, I mean the TT coins. \[laughs\] Also, I think it’s ecosystem building because it’s coupled with this like V people. In Mandarin its called \[non-English speech\] . That’s because in our national ID numbering scheme, actually it’s the same for ARC holders, the first letter is the place who issued you the ID card.
+Yeah, it’s fun, like Pokémon Go, right? I collect them all, I mean the TT coins. \[laughs\] Also, I think it’s ecosystem building because it’s coupled with this like V people. In Mandarin its called \[non-English speech\]. That’s because in our national ID numbering scheme, actually it’s the same for ARC holders, the first letter is the place who issued you the ID card.
 
 ### Audrey Tang:
 Mine begins with an A because I was born in Taipei City and registered here.

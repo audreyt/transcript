@@ -230,10 +230,10 @@ It doesn’t take us extra time to make it into something we can index and searc
 The second thing is that, for example, for procurement, for a while Taiwan’s procurement RFPs and all were only published to people who spend a little bit of money to get the documents. It’s not a lot of money. It’s just one US dollar or Canadian dollar, but it is a burden. It’s not entirely open data.
 
 ### Audrey Tang:
-There’s always a outside game. The g0v people, Ronnie Wang, to be precise, from the g0v movement, paid that money and wrote a scraper to scrape everything \[laughs\] and then publish it on GitHub and something.
+There’s always an outside game. The g0v people, Ronnie Wang, to be precise, from the g0v movement, paid that money and wrote a scraper to scrape everything \[laughs\] and then publish it on GitHub and something.
 
 ### Audrey Tang:
-The point here is that because we are the resistance, there is always a outside game. If people do not publish, for example, the campaign donation expenditure for a while, the control branch only offers looking at it and then photocopying with a watermark.
+The point here is that because we are the resistance, there is always an outside game. If people do not publish, for example, the campaign donation expenditure for a while, the control branch only offers looking at it and then photocopying with a watermark.
 
 ### Audrey Tang:
 The g0v people, what they did is that they scan everything and did an open CV, computer vision, splitting of it into individual cells and then ask people to play CAPTCHA and complete the OCR. They call it otaku character recognition. People would just type in all the digitization of the campaign expenditure and so on.
@@ -242,10 +242,10 @@ The g0v people, what they did is that they scan everything and did an open CV, c
 The control branch of course said, “You know, you can’t be sure that you’re completely, 100 percent correct in digitizing. I mean, you say each cell has three reviewers or whatever, but you can’t be sure. The g0v people is like, “Yeah, so that’s why you should publish the structured data yourself.”
 
 ### Audrey Tang:
-When faced with the lesser of two evils \[laughs\] , either allowing this civil disobedience produce may or may not be correct date spreading around or having to work with the legislators to publish the campaign donation expenditure as structured raw data, which is actually a one-time investment only in getting the schema right and so on…
+When faced with the lesser of two evils \[laughs\], either allowing this civil disobedience produce may or may not be correct date spreading around or having to work with the legislators to publish the campaign donation expenditure as structured raw data, which is actually a one-time investment only in getting the schema right and so on…
 
 ### Audrey Tang:
-The career public service would inevitably chose the later, but they would not choose this without a outside game.
+The career public service would inevitably chose the later, but they would not choose this without an outside game.
 
 ### Richard Pietro:
 And it sounds as though, based on your answers, that the leadership…
@@ -449,7 +449,7 @@ Maybe I’ll just read my job description. It goes like this.
 Yeah, by all means. Yeah, go for it.
 
 ### Audrey Tang:
-When we see the Internet of things, let’s make it a Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear the singularity is near, let us always remember the plurality is here.
+When we see the Internet of things, let’s make it an Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear the singularity is near, let us always remember the plurality is here.
 
 ### Richard Pietro:
 This is something right out of “The Matrix,” the way you say it. \[laughs\] It’s wonderful. I want to thank you so much for giving so much of your time for these podcast episodes, Audrey. Is there anything that you want to say before we go?

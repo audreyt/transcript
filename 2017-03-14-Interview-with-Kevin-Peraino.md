@@ -265,7 +265,7 @@ It ceased to be a useful illusion. When you say, for example, &quot;I want to co
 Because there are certain things that a civil society does that’s much more effective if the civil society look at available tools and then gather around those tools in the Wikipedia kind of way, instead of waiting for a hierarchical system to do that.
 
 ### Audrey Tang:
-Because, by definition, these kind of crowdsourcing is ineffective inside the hierarchical organization. If you expect the state to do that, the state will do that, but in a ineffective way. At these kind of times, where the civil society is actually better, but they may have not realized it yet, it’s useful to do away with the state as a construction in those endeavours.
+Because, by definition, these kind of crowdsourcing is ineffective inside the hierarchical organization. If you expect the state to do that, the state will do that, but in an ineffective way. At these kind of times, where the civil society is actually better, but they may have not realized it yet, it’s useful to do away with the state as a construction in those endeavours.
 
 ### Kevin Peraino:
 I’m trying to imagine what does your ideal system look like. What’s the utopia in your view? I know you’ve called yourself a conservative anarchist. You’ve explained that a little bit. What would the ideal political system look like?
@@ -391,7 +391,7 @@ There are aspects where these tools are useful.
 I’m also interested in history. I write history. In terms of historical research, do you work with Academia Historica at all on digitizing archives, and things that they could be doing?
 
 ### Audrey Tang:
-There’s a huge archive project that’s gone on for some years now, primarily Academia Sinica. What we call \[non‑English speech\] , the digital archive of ‑‑ what’s the name? ‑‑ the No‑Material Heritage, or something like that.
+There’s a huge archive project that’s gone on for some years now, primarily Academia Sinica. What we call \[non‑English speech\], the digital archive of ‑‑ what’s the name? ‑‑ the No‑Material Heritage, or something like that.
 
 ### Audrey Tang:
 All sorts of, not just National Palace Museum things, but also oral history, performance, memories of tribal, or whatever, that the heritage is.
@@ -445,7 +445,7 @@ I read it on Twitter.
 I think Twitter’s fine. Twitter is a very innovative way to do diplomacy. I do that myself.
 
 ### Audrey Tang:
-Tsai set up a English Twitter account shortly after that, because perhaps she saw that Trump was very effective in using Twitter to announce the Taiwan‑US telephone call. Twitter’s great.
+Tsai set up an English Twitter account shortly after that, because perhaps she saw that Trump was very effective in using Twitter to announce the Taiwan‑US telephone call. Twitter’s great.
 
 ### Kevin Peraino:
 What do you think about the call itself and the reaction to the call? Was it successful diplomacy, do you think?
@@ -582,7 +582,7 @@ Can you walk me through a little bit of the specifics of what that involve, what
 It means that I drew something like this on paper, and then pressed keys on paper. If I press, say, C, L, S, and then I would write CLS here. Then also write a cursor here.
 
 ### Audrey Tang:
-I will then press Enter. Because it means clear screen, I would take a eraser to erase it here, and so on. Clear enough?
+I will then press Enter. Because it means clear screen, I would take an eraser to erase it here, and so on. Clear enough?
 
 ### Kevin Peraino:
 Yeah, I see what you’re saying. At 11, you’re in Germany. Can you talk a little bit more? I wanted to get a little bit more detail about the process of listening to the exiles that your father was interviewing from Tiananmen.
@@ -618,13 +618,13 @@ Mostly that no matter what your field is ‑‑ because they come from the human
 That the arbitrary lines that divides those views disappear when you’re in a real movement, because everybody is connecting to everybody, and forced, even, by the contingencies to make one’s self understood as much as possible by people who don’t share the same field or same profession. Which is not at all what usually happens in university, especially around the ’80s.
 
 ### Audrey Tang:
-That’s the main thing, is that disciplines is a illusion. That’s...
+That’s the main thing, is that disciplines is an illusion. That’s...
 
 ### Kevin Peraino:
-Which is a illusion?
+Which is an illusion?
 
 ### Audrey Tang:
-The economic disciplines, fields, are a illusion. That’s almost never useful to have.
+The economic disciplines, fields, are an illusion. That’s almost never useful to have.
 
 ### Kevin Peraino:
 Is that the thing that struck you most about their stories, or was there something else?
@@ -704,7 +704,7 @@ Then became the first C2C auction site, like eBay.
 What was the name of it?
 
 ### Audrey Tang:
-It was called Informationist, \[non‑English speech\] . It was then renamed to Inforist. It was renamed to Inforian, and then renamed to P‑Asia. It’s a company that likes renaming a lot.
+It was called Informationist, \[non‑English speech\]. It was then renamed to Inforist. It was renamed to Inforian, and then renamed to P‑Asia. It’s a company that likes renaming a lot.
 
 ### Audrey Tang:
 Each of those four iterations it was a social media, like the Chinese version of ICQ. It was the Messenger kind of thing. It was an auction site, and it was also a search engine. It was also an online community. It was also a lot of other things.
@@ -896,7 +896,7 @@ Basically continue the time line, personally, and there reflect your inputs into
 It’s a dynamic that allows people to build communities that gives the feeling of being in the same time and in the same space but without having actually to be in the same time or in the same physical space. It was at this coexistence the main application of Internet. It’s a state in itself I would say.
 
 ### Audrey Tang:
-It’s a new governance system that allows people to make collective decisions but without a intermediary system. Of course, Google Docs is itself an intermediary, but we also have ways to make it entirely decentralized. That’s the main effect.
+It’s a new governance system that allows people to make collective decisions but without an intermediary system. Of course, Google Docs is itself an intermediary, but we also have ways to make it entirely decentralized. That’s the main effect.
 
 ### Audrey Tang:
 It’s showing that collective action is possible and collective distribution of resources ‑‑ cognitive or not ‑‑ can happen without a hierarchical structure to back it up.
@@ -913,7 +913,7 @@ I wouldn’t say that. What I’ve said is that it’s a more palatable, the mor
 > (laughter)
 
 ### Audrey Tang:
-Anarchism in this course much more than direct democracy. I, of course, work on direct‑democracy tools, process, playbooks, and so on. To build a anarchistic collective or so, it requires not just the decision‑making part, which is the direct democracy, but also the transparency, the accountability, the general inclusion, and diversity.
+Anarchism in this course much more than direct democracy. I, of course, work on direct‑democracy tools, process, playbooks, and so on. To build an anarchistic collective or so, it requires not just the decision‑making part, which is the direct democracy, but also the transparency, the accountability, the general inclusion, and diversity.
 
 ### Audrey Tang:
 It’s an entire link and the participation that direct democracy is just one link of at least four aspects.
@@ -961,7 +961,7 @@ Confirmation bias.
 Right. People reinforce their confirmation bias, which is part of the normal private sphere. Among families there’s always confirmation bias. That’s how families are formed, but because the social media and popular media before that used much of the same words that we use for private‑sphere things like our friends or \[laughs\] favorites.
 
 ### Audrey Tang:
-These were words that originally only has a meaning on the private sphere and not a public sphere. We then turn it into something of a semi‑public sphere. A lot of those fears gets conflated. Then people tend to take a us‑versus‑them attitude in many of those dimensions. That’s very useful on the private sphere, but then this is actually a private sphere now.
+These were words that originally only has a meaning on the private sphere and not a public sphere. We then turn it into something of a semi‑public sphere. A lot of those fears gets conflated. Then people tend to take an us‑versus‑them attitude in many of those dimensions. That’s very useful on the private sphere, but then this is actually a private sphere now.
 
 ### Audrey Tang:
 It’s a confusion that’s going on not necessarily just in the US. In the US, I think the polarization and advancement of technology tend to happen first \[laughs\] just on the virtue of a lot of those new innovations being first introduced by US commons.

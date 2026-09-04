@@ -481,7 +481,7 @@ These two work closely together…
 Of course.
 
 ### Audrey Tang:
-…and collaborate. Really, it’s a mutually reinforcing relationship, because the more that internal discord is being sown by internal or domestic people, the more of a opportunistic window for the foreign powers to interfere and to essentially amplify those divisive ideas.
+…and collaborate. Really, it’s a mutually reinforcing relationship, because the more that internal discord is being sown by internal or domestic people, the more of an opportunistic window for the foreign powers to interfere and to essentially amplify those divisive ideas.
 
 ### Audrey Tang:
 There is a very public report about what Russia did to the US election. You will see that they are not actually getting any side. All the sides of rhetorics, but just making, radicalizes them, to make them more polarizing.
@@ -754,7 +754,7 @@ That’s right. In any case, what I’m trying to say is that OGP provides Taiwa
 When we have a lot to contribute, we don’t quite care which side of the table we’re sitting. We’re basically saying we are a partner instead of a whatever they try to bill us at.
 
 ### Audrey Tang:
-I participated in the Paris OGP, 2016, and delivered a ending keynote. I said that “I know that Taiwan means different things to different people here, but what my main point is that Taiwan can help, and we are happy to join as a partner.”
+I participated in the Paris OGP, 2016, and delivered an ending keynote. I said that “I know that Taiwan means different things to different people here, but what my main point is that Taiwan can help, and we are happy to join as a partner.”
 
 ### Tyler Walker:
 Taiwan Can Help™.

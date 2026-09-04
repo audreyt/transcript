@@ -166,7 +166,7 @@ I’m also a consultant for the BenQ Company. At the time BenQ, it was not yet k
 I went to mainland China as well as Silicon Valley as part of the consultant work. Eventually we started a startup in Silicon Valley and then in Taiwan around the turn of the century. That was ’99, 2000.
 
 ### Julie Zaugg:
-Come back to something you were saying when you went back to university. What sorts of insights that that provide you on the behaviors we see online? What did you understand...?
+Come back to something you were saying when you went back to university. What sorts of insights that provide you on the behaviors we see online? What did you understand...?
 
 ### Audrey Tang:
 I had a lot of conversations, a mentor relationship with a cognitive scientist and philosopher in a nearby university. His interest at the time was what we call consilience, which means an anti‑disciplinary approach studying a problem without any constraints of any academic fields.

@@ -48,7 +48,7 @@ I think it’s this more than 5,000 people strong, collectively working together
 That’s my background. I studied social interaction design by prototyping it with the early Socialtext folks, so the wiki thinking. We’re basically taking micro-blogging, wiki, spreadsheets, whatever, that’s running on the consumer Internet and making into productivity tools.
 
 ### Audrey Tang:
-I also worked with the Siri team for six years as a independent contractor on computational linguistics also. There’s a lot of it in communicating poetic meaning \[laughs\] through very limited communication modalities and so on. That’s a very short background.
+I also worked with the Siri team for six years as an independent contractor on computational linguistics also. There’s a lot of it in communicating poetic meaning \[laughs\] through very limited communication modalities and so on. That’s a very short background.
 
 ### Rana Foroohar:
 Tell me when did you start as digital minister, and if you can maybe give me one or two examples of the way in which this sort of more representative ideas around democracy merged with the technology that actually enabled that to happen in a real way?

@@ -67,7 +67,7 @@ But I’m interested in emailing people and figuring things out together.
 It’s nice that they responded to a kid.
 
 ### Audrey Tang:
-They don’t know I’m a kid or adult. It doesn’t really matter. It’s just a email account.
+They don’t know I’m a kid or adult. It doesn’t really matter. It’s just an email account.
 
 ### Martin Legros:
 It means that at 14, you were able to formulate question that seems to them interesting to respond?
@@ -82,7 +82,7 @@ What kind of questions did you ask, yourself, at the time?
 For example, whether it is possible to explain why we trust strangers very quickly online, but we trust strangers very slowly in face-to-face, offline settings?
 
 ### Audrey Tang:
-Why is it that a keyword online can spread like a virus, and so people can unify around these keywords and form a imaginary clan, if you will?
+Why is it that a keyword online can spread like a virus, and so people can unify around these keywords and form an imaginary clan, if you will?
 
 ### Audrey Tang:
 The same thing in offline world, in the real world, takes ages for a religion or a cult to formulate, and so on.
@@ -307,7 +307,7 @@ Most mammals, and certainly cats and dogs and pigs and so on, are capable of hav
 That’s feeling, it’s not meaning.
 
 ### Audrey Tang:
-Sure. But if you can relate to your inner experience and produce a expression, which when seen from the outside there is no difference — if you can’t tell the difference whether it produced from a human subjective experience versus a non-human subjective experience, then operationally, I would say that they are both capable of cognition.
+Sure. But if you can relate to your inner experience and produce an expression, which when seen from the outside there is no difference — if you can’t tell the difference whether it produced from a human subjective experience versus a non-human subjective experience, then operationally, I would say that they are both capable of cognition.
 
 ### Martin Legros:
 It’s a supposition.
@@ -491,7 +491,7 @@ The point here is that it used to be that software makers like Microsoft felt th
 Then people are just following the blueprint of the architect to make the cathedral that you speak. The bazaar approach allocated by the free software movement is that, no, it’s just one person raising a tent to fix their own problem. They’re not opposed of people putting up tents next to them and form connections.
 
 ### Audrey Tang:
-More and more people just form tents around this kind of spaces, and become a organic community, and share their trades and goods. The main thing here is not that people who say that the tents are not professionals. They are the professional traders. It’s that they don’t have a vision of how the bazaar should look like. None of them are urban planners, so to speak.
+More and more people just form tents around this kind of spaces, and become an organic community, and share their trades and goods. The main thing here is not that people who say that the tents are not professionals. They are the professional traders. It’s that they don’t have a vision of how the bazaar should look like. None of them are urban planners, so to speak.
 
 ### Audrey Tang:
 The space just grows in response to the need of the bazaar or the merchants. There was the original metaphor. The metaphor, when I used it during the quotation, is more about the amateurishness of construction, of that how you don’t have to a professional stone smith or a wood smith but you can nevertheless contribute to this bazaar making.
@@ -927,10 +927,10 @@ I understand. An example of an anarchist society where the past?
 There’s many \[laughs\] anarchist societies in the past. If you read Kōjin, there is this philosopher, Kōjin Karatani, who categorized many of the early pioneers, that is to say, people who just arrived to a new place and formed de facto anarchistic society, because everybody is free to move. They vote with their feet, so to speak.
 
 ### Audrey Tang:
-But when the dimensions become constrained, either because somebody set up into farming or because the land gets used up, then it very quickly turned into a hierarchical and not a anarchistic organization. He has a hypothesis that the early Ionia was a more anarchistic society to build those pre-Socratic philosophy. But this is more or less speculation.
+But when the dimensions become constrained, either because somebody set up into farming or because the land gets used up, then it very quickly turned into a hierarchical and not an anarchistic organization. He has a hypothesis that the early Ionia was a more anarchistic society to build those pre-Socratic philosophy. But this is more or less speculation.
 
 ### Audrey Tang:
-He has a hypothesis on how the early philosophers are actually born out of anarchistic tradition, like Hippocrates and so on. He also has another idea that anarchy, to him, is about a exchange model, so that there are people who exchange only to people they know or are strangers, and also people who exchange in the return of something more, versus altruistic, free exchanges.
+He has a hypothesis on how the early philosophers are actually born out of anarchistic tradition, like Hippocrates and so on. He also has another idea that anarchy, to him, is about an exchange model, so that there are people who exchange only to people they know or are strangers, and also people who exchange in the return of something more, versus altruistic, free exchanges.
 
 ### Audrey Tang:
 He has this schema that he said the original family or tribe was where people exchanged freely, but only with people we know.
@@ -979,7 +979,7 @@ I think Uber and Airbnb are two completely different thing. Uber, as far as we k
 Airbnb is more like a listing where people can see what other landlords or people around them are, so it’s more like a platform, while Uber is more like a middle person.
 
 ### Audrey Tang:
-Of course, these are two different models. The European Union calls this collaborative, and calls this platform. I wouldn’t say it’s a anarchistic foundation. I would say that they harness some of the needs, psychological and material needs toward this free exchange, but taking a cut from it.
+Of course, these are two different models. The European Union calls this collaborative, and calls this platform. I wouldn’t say it’s an anarchistic foundation. I would say that they harness some of the needs, psychological and material needs toward this free exchange, but taking a cut from it.
 
 ### Audrey Tang:
 Whether they are taking a cut that’s too much by being de facto employers or a cut that is reasonable as considered by everybody else, it remains part of the society to decide together. It’s not my personal opinion. My work is to make sure that everybody understands the facts.

@@ -267,7 +267,7 @@ And Logbot. I actually don’t understand what that is, but maybe you could tell
 Logbot is a bot that logs the conversation on g0v. We’re inclusive in the sense that the Logbot recognizes conversations from Slack, which is marked by an S, which is then translated into English and Japanese automagically through machine translation to the English and Japanese channels.
 
 ### Audrey Tang:
-It also recognizes conversations from Telegram. By default, it recognize conversation from IRC. It is basically a effusion of three popular communication technologies that the civic hackers here use, making sure that each individual utterance have its own URL, so to speak. You can talk about one particular utterance, within context, as a social object. That’s the main design in brief.
+It also recognizes conversations from Telegram. By default, it recognize conversation from IRC. It is basically an effusion of three popular communication technologies that the civic hackers here use, making sure that each individual utterance have its own URL, so to speak. You can talk about one particular utterance, within context, as a social object. That’s the main design in brief.
 
 ### Shaowen Bardzell:
 Those color-coded just means that it’s from different sources.
@@ -407,7 +407,7 @@ Of course....public art contributed by people with trisomy 22 or something like 
 For example, we had two-city-mobility hackathons with those creatures that are self-driving tricycles from MIT Media Lab. They call themselves the persuasive electric vehicles or PEVs. They’re very slow, has the same right of road as pedestrians, doesn’t harm anyone if it runs into buildings, and it’s open source, open hardware, and open data.
 
 ### Audrey Tang:
-The people from local college can very easily adapt the flow of these creatures to make it feel more symbiotic instead of parasitic, and more community-owned, instead of colonizing. It’s a attempt of getting people into a state of curiosity and co-creation when it comes to self-driving vehicles.
+The people from local college can very easily adapt the flow of these creatures to make it feel more symbiotic instead of parasitic, and more community-owned, instead of colonizing. It’s an attempt of getting people into a state of curiosity and co-creation when it comes to self-driving vehicles.
 
 ### Audrey Tang:
 Taiwan has a law now that permits open experiments for one year for any modality of hybrid land, sea, and air self-driving vehicles. In such a safe space, people can co-create with much more confidence around the new norm. Otherwise, people think people from MIT decide the social parameters, which is exactly the wrong thing to do when it comes to autonomous technology.
@@ -442,7 +442,7 @@ It’s free for everybody to use the space on the ground floor. As long as you c
 The maker culture you outlined, they would say, &quot;But we’re also working on the SDG 9 and SDG 12,&quot; which is industrialization, innovation, and infrastructure, as well as a responsible production-consuming cycle, that is to say to blur the line between producers and consumers, and have a full accountability of the externalities of the action of production and things like that.
 
 ### Audrey Tang:
-That is the physical space that we intentionally curate to make this culture possible. Of course, there’s a older place that is slightly farther away in Academia Sinica in Nangang. The Humanities and Social Sciences building, as well as the Institute for Information is widely considered by the g0v community as home or as space.
+That is the physical space that we intentionally curate to make this culture possible. Of course, there’s an older place that is slightly farther away in Academia Sinica in Nangang. The Humanities and Social Sciences building, as well as the Institute for Information is widely considered by the g0v community as home or as space.
 
 ### Audrey Tang:
 That physical space is also an important part of the ecology. First of all, it’s a regular meeting. Every two months, there’s going to be a large gathering of hundreds of people. Every two years, there’s a large summit in the HSS building with a thousand people.
@@ -564,7 +564,7 @@ The third contribution is that I’m there every Wednesday from 10:00 AM to 10:0
 Our collaboration meetings are there also, on Fridays, twice a month. Our regional innovation tours are also there every other Tuesday or so. I think it’s one per month now, but it used to be twice per month.
 
 ### Audrey Tang:
-I tour around Taiwan going to indigenous places, rural places, remote islands, and talk to people while the 12 ministries are in the Social Innovation Lab seeing whatever I see. I’m more like a investigative reporter. I talk with local people, but instead of just handing their cases as A4 paper copies, they actually, in their natural habitat, talk about their local challenges and worries.
+I tour around Taiwan going to indigenous places, rural places, remote islands, and talk to people while the 12 ministries are in the Social Innovation Lab seeing whatever I see. I’m more like an investigative reporter. I talk with local people, but instead of just handing their cases as A4 paper copies, they actually, in their natural habitat, talk about their local challenges and worries.
 
 ### Audrey Tang:
 Instead of the ministries passing A4 copies to one other, all the relevant people are in the same room, so they immediately start brainstorming.
@@ -1137,7 +1137,7 @@ I skipped over this earlier but one question we did want to ask about was that i
 We’re just wondering what the implications for democracy are, like for parents, for example, who I don’t think will ever use any of these tools.
 
 ### Audrey Tang:
-There’s a concerted effort in g0v to work with people who are of a older generation. CoFact is a primary one. Before people start attributing gender bias, we’ll \[laughs\] stress that it’s not specifically talking about mothers...
+There’s a concerted effort in g0v to work with people who are of an older generation. CoFact is a primary one. Before people start attributing gender bias, we’ll \[laughs\] stress that it’s not specifically talking about mothers...
 
 > (laughter)
 
@@ -1501,7 +1501,7 @@ Just getting in touch with the circles here that works on social innovation theo
 Accessible?
 
 ### Audrey Tang:
-Accessible by the general public. One group we’re working closely with is the Social Enterprise Insights group, the SE Insights. Another one is NPOst. NPOst did quite a few work with the American counterparts of people working on similar things in a also very-difficult way because of the, as you said, the political imagination. \[laughs\]
+Accessible by the general public. One group we’re working closely with is the Social Enterprise Insights group, the SE Insights. Another one is NPOst. NPOst did quite a few work with the American counterparts of people working on similar things in an also very-difficult way because of the, as you said, the political imagination. \[laughs\]
 
 ### Audrey Tang:
 For example, here, the CIO of CARE International, Dar Vanderbeck, the NPOst people invited her and I -- conversation of the possible points of both academic but also governance relationships. They distilled this into something that the local people can feel as important.

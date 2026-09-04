@@ -247,7 +247,7 @@ This is just this default thing that Taiwanese people would expect from the civi
 Everything’s really real-time now. It’s even like seeing the conversation online now, like what I do, it’s not always so. \[laughs\] Work on something for a year, not publish, nothing, but slow it down.
 
 ### Yngve Holen:
-It’s the same thing with \[inaudible 23:47\] . The medium is so \[inaudible 23:52\] see this \[inaudible 23:56\]. \[laughs\] Something like that.
+It’s the same thing with \[inaudible 23:47\]. The medium is so \[inaudible 23:52\] see this \[inaudible 23:56\]. \[laughs\] Something like that.
 
 ### Michael Connor:
 Yeah, the timing, that’s interesting.

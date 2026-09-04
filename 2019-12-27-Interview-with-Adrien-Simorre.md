@@ -73,7 +73,7 @@ Of course, Silicon Valley added to that by sharing ways to show the commercial s
 Not for purely altruistic or for social movement reasons, but rather to share the development cost to make sure that the accountability is easier to build. They can win the trust from users by treating them not as users, but as co-collaborators, co-developers, and so on.
 
 ### Audrey Tang:
-I was at Silicon Valley at that time, in San Jose to be particular, and worked with the open-source movement to localize the idea of open source in Mandarin, because it’s a new word, and also helped the initial free software communities in Taiwan to build a association that is inclusive of both the freedom of the software development, use, and remix, as well as the commercial reasoning of open source.
+I was at Silicon Valley at that time, in San Jose to be particular, and worked with the open-source movement to localize the idea of open source in Mandarin, because it’s a new word, and also helped the initial free software communities in Taiwan to build an association that is inclusive of both the freedom of the software development, use, and remix, as well as the commercial reasoning of open source.
 
 ### Audrey Tang:
 I suggested, for example, the naming of the association called Software Liberty Association Taiwan, or SLAT, by focusing on the term “liberty,” that I feel as inclusive of the free side and the open side.
@@ -139,7 +139,7 @@ I moved back here mostly because of the invention of video conferencing. It used
 If I’m physically co-located with my colleagues, then I’ll be dragged into meetings much more easily than if I live in a different time zone and literally only have one hour every night to meet with them in stand-up meetings literally every morning. If they want more of my time, they’ll have to wake up way earlier.
 
 ### Audrey Tang:
-I feel much more effective, both in the fact that this drives all the different departments to produce things that are more self-descriptive. That is to say, it doesn’t require a lot of face-to-face explanation. They become social objects that people can collaborate around in a asynchronous fashion. I prefer this mode of work.
+I feel much more effective, both in the fact that this drives all the different departments to produce things that are more self-descriptive. That is to say, it doesn’t require a lot of face-to-face explanation. They become social objects that people can collaborate around in an asynchronous fashion. I prefer this mode of work.
 
 ### Audrey Tang:
 Also, that enable more time for me to spend on, for example, my family, and so on, who are all based in Taiwan.
@@ -228,7 +228,7 @@ I would say that the anti-ELAB showed these in action in a much more closer prox
 In Taiwan, so you think now there’s kind of a consensus in Taiwan regarding the way Taiwan should interact with the Chinese?
 
 ### Audrey Tang:
-The English word consensus is actually different from the Mandarin word that we use to say, which is \[Chinese\] . The Mandarin word \[Chinese\] means literally only common understanding.
+The English word consensus is actually different from the Mandarin word that we use to say, which is \[Chinese\]. The Mandarin word \[Chinese\] means literally only common understanding.
 
 ### Audrey Tang:
 It’s not as fine as the word consensus in English, which is something you can put your name on, like signing a memorandum of understanding, or even signing a contract, that’s where the word consensus in English conjures up.
@@ -237,7 +237,7 @@ It’s not as fine as the word consensus in English, which is something you can 
 But in Taiwan, when we say common understanding, we mean, really, just common understanding, like people come to a rough consensus on the objective facts and people agree to share each other’s feelings. But that’s that. There’s nothing beyond that.
 
 ### Audrey Tang:
-I would say yes, on the common understanding level, people came to a common understanding that the PRC is developing in a very different norm, a authoritarian norm, a nationalistic norm on cyberspace, which is different from the norm that we see, the cyberspace, which is fundamentally about the freedom to innovate, freedom of speech, of assembly, and so on.
+I would say yes, on the common understanding level, people came to a common understanding that the PRC is developing in a very different norm, an authoritarian norm, a nationalistic norm on cyberspace, which is different from the norm that we see, the cyberspace, which is fundamentally about the freedom to innovate, freedom of speech, of assembly, and so on.
 
 ### Audrey Tang:
 This difference, I will say, is a common understanding here. But feelings, of course, differ, and ideas and opinions, of course, differ even more. Because if that layer is uniform, then we are not a democracy anymore, right? \[laughs\]
@@ -252,7 +252,7 @@ Can you explain what was your precise role as a minister here without portfolio,
 I’m the digital minister in charge of open government, social innovation, and youth engagement. The word without portfolio is actually a relic from the previous name of this role, which I think the republic citizen’s government here have changed long ago. \[laughs\]
 
 ### Audrey Tang:
-It used to be saying that the horizontal ministers are ministers without ministries, like \[Chinese\] . That’s the Mandarin. But we’ve dropped that part already, so it’s now just \[Chinese\] in our everyday role, meaning that we don’t have a fixed portfolio. But it doesn’t mean that we don’t have a portfolio. That’s a clarification.
+It used to be saying that the horizontal ministers are ministers without ministries, like \[Chinese\]. That’s the Mandarin. But we’ve dropped that part already, so it’s now just \[Chinese\] in our everyday role, meaning that we don’t have a fixed portfolio. But it doesn’t mean that we don’t have a portfolio. That’s a clarification.
 
 ### Audrey Tang:
 Open government is my main work, and it’s about trusting the citizens without requiring the citizen to trust back. This is about publishing all our budgets, regulatory pre-announcements, everything for people to see on a day-to-day basis.
@@ -351,7 +351,7 @@ When you turn on the micro projector embedded within the trophy, it shows a shor
 Whether they have prototyped, for example, video conferencing for telemedicine for people in remote islands or whether they have prototyped a machine learning system to help fix water leaks by detecting it early, this presidential trophy enabled all the regulatory personnel and budget changes required to enact this civic technology into national policy within 12 months.
 
 ### Audrey Tang:
-We’ve delivered five out of five in the previous year’s winners. This year’s five winners is of a even more fierce competition, so we introduced a new voting system, called quadratic voting, or QV, that came out of the radical exchange movement, which is an international movement that I’m also on the board as a board member of the foundation of RadicalxChange, which informed our Presidential Hackathon process.
+We’ve delivered five out of five in the previous year’s winners. This year’s five winners is of an even more fierce competition, so we introduced a new voting system, called quadratic voting, or QV, that came out of the radical exchange movement, which is an international movement that I’m also on the board as a board member of the foundation of RadicalxChange, which informed our Presidential Hackathon process.
 
 ### Audrey Tang:
 There’s many other jurisdictions, like the Colorado state budget, is now also determined by the quadratic voting. I’m working with all these governments in an international role. I’m not only working for any particular jurisdiction. My loyalty, again, is to the civic tech and the open community.
@@ -531,13 +531,13 @@ All the people who work in this office, join here voluntarily. At most, one dele
 Just something about Taiwanese politics, would you say that you’re an independentist, and how would you describe it to a French audience? What does that mean?
 
 ### Audrey Tang:
-I don’t even know what a independentist… \[laughs\] This is the first time I’ve heard of this term, actually.
+I don’t even know what an independentist… \[laughs\] This is the first time I’ve heard of this term, actually.
 
 ### Audrey Tang:
 Of course, the independentist would argue that the less that Taiwan is dependent on other governing sovereignties, or other governing institutions, the better. That the liberal democracy, if it’s more self-sufficient, including but not limited to referenda and the presidential elections, and so on, the better. That’s how I understand this term.
 
 ### Audrey Tang:
-In that sense, I’m non-partisan, so you can also say that I’m a independent political worker, but this is probably not what you mean by the word “independentist.” It’s usually in foreign media. What you are probably alluding to is called the pro-Taiwan independent.
+In that sense, I’m non-partisan, so you can also say that I’m an independent political worker, but this is probably not what you mean by the word “independentist.” It’s usually in foreign media. What you are probably alluding to is called the pro-Taiwan independent.
 
 ### Audrey Tang:
 The pro-Taiwan independents are just pro-independent parties. That is to say, there’s certain political parties that strongly argue for a de jure independence of Taiwan. They have a lot of political theories about why Taiwan is not yet independent and why Taiwan must someday become independent, and things like that. I am less affiliated with this group of people.
@@ -624,7 +624,7 @@ With this position of…
 Having the position of a Digital Minister, you can look at my name card, actually. Let’s see if I have my name card on the table. You can see that there really is no country name on my name card. The “minister” is lower case, meaning that I preach about digital. \[laughs\]
 
 ### Audrey Tang:
-I’m fine with, of course, the government here if they want to offer me a upper-case minister’s role. But I’m performing in this role exactly what I would do otherwise without the upper-case minister role. I’m always seeing myself as a lower-case minister, \[laughs\] and not a upper-case minister.
+I’m fine with, of course, the government here if they want to offer me an upper-case minister’s role. But I’m performing in this role exactly what I would do otherwise without the upper-case minister role. I’m always seeing myself as a lower-case minister, \[laughs\] and not an upper-case minister.
 
 ### Audrey Tang:
 The work that I’m enabling is mostly about the cross-sectoral dialog, which can be done in any sector. I’m happy to work in this office, physically, which enables more meetings with the career public service, but I would also say that I’m doing this to establish some experience. That I’m still publishing papers on the social archives, open-access website.

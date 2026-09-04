@@ -179,7 +179,7 @@ Can you talk a little bit about that, as a part of your work?
 Sure. In Taiwan, we say digital competence. We don’t say literacy. It’s a conscious choice because in Mandarin, literacy or 識讀 assume that you’re a consumer or a viewer, reader of information, whereas competence 素養 means that you’re a producer, a creator, a steward of information, and data, and media.
 
 ### Audrey Tang:
-This is a important distinction because in Taiwan, we have broadband as human right. No matter how remote you are or how high you are on the peak of Taiwan, almost 4,000 meters, you still have 10 megabits per second at 16 USD per month, with unlimited 4G connection. If you don’t, it’s my fault.
+This is an important distinction because in Taiwan, we have broadband as human right. No matter how remote you are or how high you are on the peak of Taiwan, almost 4,000 meters, you still have 10 megabits per second at 16 USD per month, with unlimited 4G connection. If you don’t, it’s my fault.
 
 > (laughter)
 
@@ -354,7 +354,7 @@ That was actually one of my questions, was that it seems like a big sort of asse
 I’m curious. First off, what did you learn from SARS and now you’re taking into the COVID situation? Also, knowing that you were able to learn from that, what are you taking forward into the next, into the future, from COVID? What are the provisions you’re packing from this moment?
 
 ### Audrey Tang:
-From SARS, we learned three important things, and that’s fair and fun. \[laughs\] First is obvious, because we don’t have a easy to cross border. We’re a bunch of islands. It’s impossible to accidentally stumble upon Taiwan.
+From SARS, we learned three important things, and that’s fair and fun. \[laughs\] First is obvious, because we don’t have an easy to cross border. We’re a bunch of islands. It’s impossible to accidentally stumble upon Taiwan.
 
 ### Audrey Tang:
 If you do testing and quarantining at the borders, you don’t have to do Bluetooth tracing apps at any kind. We’re not rolling that out. If you do the quarantine well at the borders, test well at the borders, act early, like when Dr. Li Wenliang, the whistleblower post that there’s new SARS in Wuhan around the end of December.

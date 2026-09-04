@@ -31,7 +31,7 @@ After that, in the mayoral election of 2014, all the mayors that embraced this o
 Because of that, the Ma Ying-jeou administration, at the end of 2014, after Premier Jiang Yi-huah resigned and Premier Mao Chi-kuo took place as the Premier, embraced this kind of crowdsourcing and open government as their national agenda.
 
 ### Audrey Tang:
-We were hired as reverse mentors — understudies that help setting directions — to their cabinet. For example, I worked with Minister Jaclyn Tsai, theoretically as a understudy, but actually as a reverse mentor. I was tackling how to build these kinds of listening experiences into all the levels of national conversations, like regulating Uber and so on, and without getting the Parliament occupied every single time, which was kind of expensive. \[laughs\]
+We were hired as reverse mentors — understudies that help setting directions — to their cabinet. For example, I worked with Minister Jaclyn Tsai, theoretically as an understudy, but actually as a reverse mentor. I was tackling how to build these kinds of listening experiences into all the levels of national conversations, like regulating Uber and so on, and without getting the Parliament occupied every single time, which was kind of expensive. \[laughs\]
 
 ### Audrey Tang:
 Because of that, we’re now focusing our efforts, for example, on the Join platform, which is three different platforms rolled into one. It’s a petition platform just like the We the People, it’s the regulatory pre-announcement like regulations.gov, and it’s also participatory budgeting on a national and municipal level, for which there’s no equivalent in the US. \[laughs\]
@@ -349,7 +349,7 @@ There are some thoughts around that. Also, very crucially, the petition also sai
 It’s 16,000 people in total that have supported both sides. Instead of seeking a compromise, namely GMT+8.5, which makes nobody happy \[laughs\] … We’re actually tallying each and every aspect of the time zone change and asking the Board of Energy to come up with real numbers about how it impacts energy use, how it impacts traffic, how it impacts trade and tourism, and so on.
 
 ### Audrey Tang:
-All this basically resulted in what we call a fact-based conversation. Everybody who comes to our face-to-face meeting who came from both petitioner camps looked at the same data—which is, even if we just did the daylight saving time change, it would only reduce energy use by an minuscule amount.
+All this basically resulted in what we call a fact-based conversation. Everybody who comes to our face-to-face meeting who came from both petitioner camps looked at the same data—which is, even if we just did the daylight saving time change, it would only reduce energy use by a minuscule amount.
 
 ### Audrey Tang:
 It would not increase tourism, unless people break labor laws, and so on. \[laughs\] There are real numbers backing each statement up. We’re then asking what people feel about those objective statements. That’s when the feelings start to emerge.

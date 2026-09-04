@@ -437,7 +437,7 @@ Yeah. There are of course still very minor registration fees, like transaction f
 What are you redesigning?
 
 ### Audrey Tang:
-Basically, it’s currently tied to a IC card. The IC card, because people are using these mobile devices more and more, they eventually don’t really like the experience of having to carry the IC card, just like if you have taken high-speed rails.
+Basically, it’s currently tied to an IC card. The IC card, because people are using these mobile devices more and more, they eventually don’t really like the experience of having to carry the IC card, just like if you have taken high-speed rails.
 
 ### Audrey Tang:
 Now, a lot of people just use their phone and use the QR codes to scan to beep once when entering, once when exiting, and that’s it. People are looking more toward that kind of experience rather than having to carry around one plastic card.
@@ -446,7 +446,7 @@ Now, a lot of people just use their phone and use the QR codes to scan to beep o
 There’s also another use case of more remote, rural areas where they rely more on telemedicine.
 
 ### Audrey Tang:
-When the doctor do visit, they, before our redesign, have to carry a very heavy bag of a laptop computer, a card reader, all the usual things, while they can actually nowadays just carry a iPhone or a Android with NFC capabilities and just have a Bluetooth reader, and that’s it. That’s the only thing they can carry. It could be in their pocket.
+When the doctor do visit, they, before our redesign, have to carry a very heavy bag of a laptop computer, a card reader, all the usual things, while they can actually nowadays just carry an iPhone or an Android with NFC capabilities and just have a Bluetooth reader, and that’s it. That’s the only thing they can carry. It could be in their pocket.
 
 ### Audrey Tang:
 When I say we’re redesigning experience to free people form the current card reader system, that’s the main design criteria. We’re not really changing the payment of the...Actually, we are.
@@ -503,7 +503,7 @@ I’d love to hear more or see more stories, some more examples.
 Sure. This week actually, we’re inviting the OPAL, the Open Algorithm people to Taiwan. There was this kind of zero-sum backwards thinking about privacy versus economic benefits.
 
 ### Audrey Tang:
-What the OPAL is doing, called Open Algorithm, is, very simply put, a way for people to share through a intermediary, they call it data controller, and to partner with private companies. This acts as a trust for the people involved, and the Open Algorithm Institution basically accepts code from the developers. Unlike open data, which is data flowing outward, Open Algorithm is code flowing inward.
+What the OPAL is doing, called Open Algorithm, is, very simply put, a way for people to share through an intermediary, they call it data controller, and to partner with private companies. This acts as a trust for the people involved, and the Open Algorithm Institution basically accepts code from the developers. Unlike open data, which is data flowing outward, Open Algorithm is code flowing inward.
 
 ### Audrey Tang:
 They get checked for, just like cyber security audits, to make sure that they are not privacy-harming, they are privacy-preserving. There’s mathematical properties -- I know Glenn is also looking into that -- called differential privacy, so you can show which epsilon is actually the acceptable range for people’s code to submit this way.
@@ -759,7 +759,7 @@ They just informed us they are also very interested in the water box. They have 
 > (laughter)
 
 ### Audrey Tang:
-It has international appeal. Every year the president give out a award to five teams. The five teams are guaranteed to become part of public policy in the next year.
+It has international appeal. Every year the president give out an award to five teams. The five teams are guaranteed to become part of public policy in the next year.
 
 ### Jennifer Morone:
 Great. How long has that been going on?

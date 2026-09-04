@@ -64,7 +64,7 @@ Also, by setting up these projects, by setting up Polis or vTaiwan, isn’t that
 It’s a people-public-private partnership. The order, very important. Always, the norm is set by the social sector. That is to say, the people, variously called the voluntary sector, the third sector, the civic sector, the civil society, etc., but I will say social sector for the sake of the conversation, because it rhymes better with social innovation.
 
 ### Audrey Tang:
-Anyway, the social sector sets the norm. For example, around countering infodemic, the fact-checkers set the norm. Around, for example, the targeted advertisements on social media, that actually has a antisocial externality when it comes to election, and the social sector sets the norm of radical transparency of campaign donation expenditure.
+Anyway, the social sector sets the norm. For example, around countering infodemic, the fact-checkers set the norm. Around, for example, the targeted advertisements on social media, that actually has an antisocial externality when it comes to election, and the social sector sets the norm of radical transparency of campaign donation expenditure.
 
 ### Audrey Tang:
 I can go on, but the point is that the social sector sets the norm. Then the public sector amplify the norm by essentially saying that, “We found that the social sector now has a norm that says, for example, during the elections, all the campaign donation expenditure are to be published as open data, not just open data, but rather open API as quick as possible, as structured as possible.”
@@ -112,7 +112,7 @@ Like boycotting, like people actually going to, say, PTT or the vCard, or any of
 If everybody else agree that this is the norm, then people would just maybe publicly delete their Facebook accounts if Facebook continued to not respect the local norm. Our government – the control branch is a separate branch in the government – published the campaign donation expenditure previously also only as statistics in a very difficult to understand format.
 
 ### Audrey Tang:
-Thanks to the citizen activist, hacktivist even, that went to the Control Yuan, brought out photocopies and did a OCR, a massive crowdsourcing project to turn these into CSVs, into independently reportable numbers.
+Thanks to the citizen activist, hacktivist even, that went to the Control Yuan, brought out photocopies and did an OCR, a massive crowdsourcing project to turn these into CSVs, into independently reportable numbers.
 
 ### Audrey Tang:
 That also partly enabled the independent investigative journalist to discover that the majority of campaigns did not file their social media advertisements budget as campaign donation or expenditure, essentially creating a loophole in the political process.
@@ -487,7 +487,7 @@ This is actually a true Reuters photo. It’s by Reuters, but it says nothing ab
 Then the fact-checkers, of course, traced this back to the Central Political and Law Unit of the CCP, of the Chinese Communist Party, in the PRC.
 
 ### Audrey Tang:
-We did a notice and public notice, meaning that we didn’t take anything down, but when you share this, for example, on Facebook, Facebook will tell you that this is probably sponsored – maybe not probably – by the \[non-English speech\] , by the people in Beijing.
+We did a notice and public notice, meaning that we didn’t take anything down, but when you share this, for example, on Facebook, Facebook will tell you that this is probably sponsored – maybe not probably – by the \[non-English speech\], by the people in Beijing.
 
 ### Audrey Tang:
 This is state-sponsored propaganda. There’s, of course, people still are free to share it, but they need to frame it in a way that doesn’t harm the Reuters journalists, and also that doesn’t harm the democracy, the democratic system, which would probably get harmed if we do a takedown.

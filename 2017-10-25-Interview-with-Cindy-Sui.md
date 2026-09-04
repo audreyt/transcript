@@ -222,7 +222,7 @@ That’s right.
 When you talk about the four main problems, how does that affect people who want to build a startup here?
 
 ### Audrey Tang:
-For example, we have a Uber-like app, it’s called FindTaxi. When the startup just gets formed, it’s unclear whether they can operate legally or not. The Ministry of Transport and Communication eventually agreed that they can work under certain business model, but it took a long while. During this time, nobody really know whether they are legal or not.
+For example, we have an Uber-like app, it’s called FindTaxi. When the startup just gets formed, it’s unclear whether they can operate legally or not. The Ministry of Transport and Communication eventually agreed that they can work under certain business model, but it took a long while. During this time, nobody really know whether they are legal or not.
 
 ### Audrey Tang:
 Because of this, there is real difficulty in attracting venture capital, attracting things like that because nobody will want to invest in a business that’s questionably legal, but they’re really solving a social issue, right?
@@ -284,7 +284,7 @@ It doesn’t have to be in order. \[laughs\] Capital, whatever the main problems
 The Taiwan government is establishing a more consistent interpretation platform, where any startup founder or team can say, &quot;I want this regulation to be clarified,&quot; and we respond in a timely manner. We also work with the community in Taiwan on such regulatory adjustments.
 
 ### Audrey Tang:
-As for the capital issue, I think this is about a ecosystem that is building, but we’re working very closely with VCs so that when government invest in something, we don’t do it alone. We’re trying to bring everybody together.
+As for the capital issue, I think this is about an ecosystem that is building, but we’re working very closely with VCs so that when government invest in something, we don’t do it alone. We’re trying to bring everybody together.
 
 ### Audrey Tang:
 As for foreign talent, we just passed a...That depends on the type of area, right?
@@ -334,7 +334,7 @@ That’s right.
 How did that happen? Why didn’t you like the schools here? Is that part of the problem with Taiwan startup company, the education system?
 
 ### Audrey Tang:
-When I was 15 years old, that was 1996, I discovered this World Wide Web thing and found that my textbooks were all out of date. Surprisingly, when I told my teachers I want to quit school and start my education, I had to emphasize all my teachers agreed with it, which is why I become a optimist to this day.
+When I was 15 years old, that was 1996, I discovered this World Wide Web thing and found that my textbooks were all out of date. Surprisingly, when I told my teachers I want to quit school and start my education, I had to emphasize all my teachers agreed with it, which is why I become an optimist to this day.
 
 ### Audrey Tang:
 This strange condition of discovering World Wide Web I think is very specific to the ’90s. Now there’s people grew up with Wikipedia, they grew up with their sources on the Internet. The teacher’s role has already changed because the students will fact-check their teachers using their mobile phones and such.

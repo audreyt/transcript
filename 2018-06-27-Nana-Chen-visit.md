@@ -138,7 +138,7 @@ I know. I tend to...
 You pick up accents?
 
 ### Audrey Tang:
-English is my fourth or fifth language, so I don’t have a accent. I learned English when I was 16 or 17, so I don’t have a fixed accent. I just pick up whomever’s accent that I’m talking to.
+English is my fourth or fifth language, so I don’t have an accent. I learned English when I was 16 or 17, so I don’t have a fixed accent. I just pick up whomever’s accent that I’m talking to.
 
 ### Nana Chen:
 \[laughs\] That’s very interesting. I will look into this and see what we can do. Would you like to pose for me?

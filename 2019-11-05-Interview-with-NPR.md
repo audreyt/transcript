@@ -229,7 +229,7 @@ It’s not about news outlets. It’s more about, as I said, intentional, harmfu
 The idea is that, if we can prove in a court process the intent and harm, disinformation is just one of the many kinds of behaviors that could fulfill the intent to cause harm. Of course, this process is just like any other court-system cases, subject to public scrutiny.
 
 ### Emily Feng:
-It’s relying on the public reporting potential cases and then a either judicial or a minister of…
+It’s relying on the public reporting potential cases and then an either judicial or a minister of…
 
 ### Audrey Tang:
 This is saying that the jurisdiction for public harm still resides in the court system in the judicial branch. This is an administrative branch saying it’s not a case that the ministers are pillars of truth. Rather, the ministers give out our own assessments as quickly as possible to the fact-checkers, to the journalists, who can then compare the different sources of information and draw their own conclusions.
@@ -357,7 +357,7 @@ The understanding is that they’re providing the use of that to their partners 
 What we are looking at is whether it’s possible for everybody to repeat this inquiry because that’s how you do academic rigor. It’s only used when the social scientists say, “There’s X percent of CIBs. I give in my paper a query exactly as I enter it into the workbench.” For FB to say, “Here is the public workbench that you can validate it by yourself by entering those inquiries.”
 
 ### Audrey Tang:
-That’s the only way that I know of to build a public accountability. If I give you a number, even if I have quantitative information to back this number, unless you can independently reproduce that number, then it’s actually qualitative. It’s not really \[laughs\] a number. It’s a assessment of feeling. That is the question of the year.
+That’s the only way that I know of to build a public accountability. If I give you a number, even if I have quantitative information to back this number, unless you can independently reproduce that number, then it’s actually qualitative. It’s not really \[laughs\] a number. It’s an assessment of feeling. That is the question of the year.
 
 ### Audrey Tang:
 We’re working intently with the platforms to make this configuration possible.

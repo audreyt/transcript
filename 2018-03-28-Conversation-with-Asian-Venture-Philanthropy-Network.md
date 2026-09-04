@@ -375,7 +375,7 @@ This is a major undertaking, which we’ll complete by next month. The other thi
 These people remain the same team. We have people who have all those different skills to build this cross-departmental team inside every ministry. Now, many of the major ministries, such as Ministry of Finance, of Health and Welfare, of Interior, Agriculture, the have the third level agency also. They have participation officers in the third level agency, too, so it’s a fractal tree relationship.
 
 ### Audrey Tang:
-The reason why is that before, when we have a evolution case, or now the Referendum Act has passed and we will have referendum cases, if it’s concerning only one ministry, usually they do it really well. If it’s cross-ministry, suddenly it just explains the problem. It never really takes on more responsibility than it already has.
+The reason why is that before, when we have an evolution case, or now the Referendum Act has passed and we will have referendum cases, if it’s concerning only one ministry, usually they do it really well. If it’s cross-ministry, suddenly it just explains the problem. It never really takes on more responsibility than it already has.
 
 ### Audrey Tang:
 That’s because in a game theory way, if you have an ever-shifting relationship, of course your tendency will be pushing the responsibility around. If now every ministry are in the same PO network, we are all in it for at least four years, then it makes no point to make the relationship bad. Every month we meet. We always highlight the PO who made the good decisions because we show the credit.
@@ -395,7 +395,7 @@ People really feel that they’re part of it. They’re in it together. In servi
 This is why we can’t actually make them feel better during the progress of their tax, but we can at least make it not like this. The co-creation workshop has a lower goal. After the co-creation workshop, something very interesting happened. It turns out, people complained the loudest, they're actual professional designers, professional programmers, professional journalists.
 
 ### Audrey Tang:
-They actually know a lot, which is why we say \[non-English speech\] . They care so much that they complained this loudly. When we invite all of them, the result is that we need five more co-creation workshops and one to resolve one particular step in the tax filing process. The participation office eventually amassed a supporting team that redesigned this year’s tax filing system.
+They actually know a lot, which is why we say \[non-English speech\]. They care so much that they complained this loudly. When we invite all of them, the result is that we need five more co-creation workshops and one to resolve one particular step in the tax filing process. The participation office eventually amassed a supporting team that redesigned this year’s tax filing system.
 
 ### Audrey Tang:
 We have 27 cases like this, where it’s a cross-ministry collaboration on this e-petition initiated agenda, but works across silos. It’s not just national cases. We also have regional cases, like people asking for helicopters on the southmost part of Taiwan in Hengchun, because their distance to a major hospital is 90 minutes.
@@ -409,7 +409,7 @@ Why is that? Why we can work with all these completely different ministries? The
 > (laughter)
 
 ### Audrey Tang:
-This is an expand the local hospital ministry. This is the NDC. It’s very special. This is the local county, and these are the local stakeholders. They’re literally \[non-English speech\] , EU, and all those organizers.
+This is an expand the local hospital ministry. This is the NDC. It’s very special. This is the local county, and these are the local stakeholders. They’re literally \[non-English speech\], EU, and all those organizers.
 
 ### Audrey Tang:
 Why we can do this is because in our regulation was explicitly, whenever an agency or ministry aide think that B is the main agency, and it’s just a supporting agency. B thinks C is the main agency. It’s just a supporting agency. C thinks A is the supporting. I mean, C is just a support agency. Everybody are main agencies. \[laughs\] When it’s nobody’s business, it’s everybody’s business.
@@ -481,7 +481,7 @@ When I was in a UN Sustainable Development Solutions Network in Vatican, talking
 It never mentions virtue ethics. It’s as if virtue ethics doesn’t exist. When automation, AI, and all that advance, it really creates a real existential crisis, because people are measured in their efficiency, and the machines are always more efficient.
 
 ### Audrey Tang:
-I happened to read the economy textbook authored by our previous premiere, Lin Chuan, who is an economist and professor. In his textbook, &quot; \[non-English speech\] , the New Horizon for Economy,&quot; it starts from virtue. It’s interesting. It starts from prosperity, start from the common good. It starts from, like we said, planning for seven generations, from sustainable development.
+I happened to read the economy textbook authored by our previous premiere, Lin Chuan, who is an economist and professor. In his textbook, &quot; \[non-English speech\], the New Horizon for Economy,&quot; it starts from virtue. It’s interesting. It starts from prosperity, start from the common good. It starts from, like we said, planning for seven generations, from sustainable development.
 
 ### Audrey Tang:
 Then he moves onto deontological. The rules, the laws are there to support these virtues in everybody, including our education centers, and so on. Then he talks about the utilitarian values, which are just instruments for those deontological manifestations of virtues. This is unheard of in the European or American context. I think this is something very uniquely Asian.

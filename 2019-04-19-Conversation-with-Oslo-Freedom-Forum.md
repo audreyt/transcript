@@ -25,7 +25,7 @@ Good to know.
 What are you doing in Detroit?
 
 ### Audrey Tang:
-There’s a annual meeting of the Taiwanese Women’s Association. I’m giving a keynote tomorrow.
+There’s an annual meeting of the Taiwanese Women’s Association. I’m giving a keynote tomorrow.
 
 ### Sevim Abaza:
 That’s awesome.
@@ -79,7 +79,7 @@ You’re breaking away from the hotel culture. Did I hear that right?
 Mm hmm.
 
 ### Audrey Tang:
-There was a OTF Summit, the Open Tech Fund Summit that was also in Taipei, and they chose a pretty good hotel. I was there. Do you mean that you’re deliberately choosing a venue that’s not a hotel?
+There was an OTF Summit, the Open Tech Fund Summit that was also in Taipei, and they chose a pretty good hotel. I was there. Do you mean that you’re deliberately choosing a venue that’s not a hotel?
 
 ### Sevim Abaza:
 Yeah, I’m looking for something that allows for more engagement with those on stage and those offstage. Sometimes there’s a formality with hotels. Again, I’m not familiar with all the hotels in the city. If there is something that you feel as a venue was really functional, allowed for better engagement, and I would say more egalitarian.
@@ -178,7 +178,7 @@ Good. We’re thinking of going sometime either June or July, and it’d be real
 Yes, our ambassador at large.
 
 ### Jenny Wang:
-She was very delightful, and we really look forward to seeing her there as well. I think it’s really exciting that HRF and Oslo Freedom Forum is starting to really work with the community and engaging. I think this is a exciting trajectory. We’re excited that you’re on board and definitely interested.
+She was very delightful, and we really look forward to seeing her there as well. I think it’s really exciting that HRF and Oslo Freedom Forum is starting to really work with the community and engaging. I think this is an exciting trajectory. We’re excited that you’re on board and definitely interested.
 
 ### Audrey Tang:
 As for the organizations, are you looking for people who help setting an agenda, people who are delivering talks? What kind of partnership are you looking for at this stage?

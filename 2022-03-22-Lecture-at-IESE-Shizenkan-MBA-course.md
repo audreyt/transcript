@@ -517,9 +517,9 @@ Just wondering what we could have done or could do to prepare or help those peop
 ### Audrey Tang:
 In addition to randomly sending SMS to Russian telephone numbers. [laughs]
 
-What I'm trying to say is that 40 years ago, when I was born, Taiwan was still in the martial law. It's very much a authoritarian continuation of a dictatorship in Taiwan.
+What I'm trying to say is that 40 years ago, when I was born, Taiwan was still in the martial law. It's very much an authoritarian continuation of a dictatorship in Taiwan.
 
-I can say, because my parents are both journalists, during the martial law era, my earliest memories are around censorship, political control, surveillance, and things like that. I can say with quite some confidence that in a authoritarian regime, what people say to the pollsters may not be what they believe.
+I can say, because my parents are both journalists, during the martial law era, my earliest memories are around censorship, political control, surveillance, and things like that. I can say with quite some confidence that in an authoritarian regime, what people say to the pollsters may not be what they believe.
 
 Take those poll numbers with a heavy grain of salt because people just say that to be safe. Even with that in mind, in Taiwan, we do rely...At that time, for example, our international correspondents in Hong Kong, who are paying a lot of attention to the human rights situation in Taiwan.
 
@@ -588,7 +588,7 @@ Open-source platform, like listening to all their voices might not necessarily w
 ### Audrey Tang:
 Of course, I always emphasize Taiwan's liberal democratic tradition. The liberty according to the freedom in the world and freedom on the net survey in Freedom House, we're doing pretty well in terms of civics space. Having this civics space in the first place is a condition.
 
-The liberty, the freedom is like a operating system on top of which democracy flourish. If you do not have this underlying operating system, then indeed as you said, that if you try to run the software, there's simply no RAM for it. The working capacity is not there to support this upper-level application.
+The liberty, the freedom is like an operating system on top of which democracy flourish. If you do not have this underlying operating system, then indeed as you said, that if you try to run the software, there's simply no RAM for it. The working capacity is not there to support this upper-level application.
 
 When I was a child at a time, there was essentially not so much political freedom. Certainly, no freedom to form opposition parties in Taiwan. My mom worked instead to get the co-ops movement on the way. She co-founded this Homemakers Union to popularize the idea of now what they will call a circular economy.
 
@@ -650,9 +650,9 @@ Say at the same time. If you send an email to the members, some of the members a
 ### Audrey Tang:
 That's a great example. One can, for example, say that we ask a post office to deliver the snail mail, the paper mail to all the recipients at this Sunday, for example, and then, you send an email that Sunday afternoon and problem solved.
 
-For me, a harmless coexistence means that it's swift and safe. If it disadvantaged people, we can always turn it into a advantage.
+For me, a harmless coexistence means that it's swift and safe. If it disadvantaged people, we can always turn it into an advantage.
 
-I have a anecdote about postcards. In Taiwan, we used to require the people who apply for the reimbursements for COVID-related sufferings, if they're low or mid-income or their income gets impacted by the COVID, they can redeem NT$10,000 by proving that their income is being harmed by the COVID.
+I have an anecdote about postcards. In Taiwan, we used to require the people who apply for the reimbursements for COVID-related sufferings, if they're low or mid-income or their income gets impacted by the COVID, they can redeem NT$10,000 by proving that their income is being harmed by the COVID.
 
 The first time we did that in 2020, people lined up at the desks of the local health and welfare offices. Workers are simply overwhelmed. The new type of city even transported boxes and boxes of forms to the central government and say, "You design this form, you must type it in because we're simply overwhelmed."
 
@@ -664,9 +664,9 @@ Then, you fold the A4 paper two times, and with the photocopy of the envelope of
 
 The people who are suffering from handicaps of movement are pretty good typers gain employments by typing in those postcards. Very quickly, they get aggregated into the digital websites, as if these small or medium-income people have filed those website applications themselves.
 
-If they have a debit card, and if you're a parent, for example, they can also use a ATM and type their health insurance number and withdraw cash. What I'm trying to get at, is that digitalization doesn't mean paperless, it means to make the possibilities swift and safe.
+If they have a debit card, and if you're a parent, for example, they can also use an ATM and type their health insurance number and withdraw cash. What I'm trying to get at, is that digitalization doesn't mean paperless, it means to make the possibilities swift and safe.
 
-People feel safer when they don't have to queue in line, especially during times of COVID. People feel that it's safer when they can count the bills at a ATM. If they don't have a debit card at all, if they don't have a bank account, then, at least a check is mailed right back to whichever address they write on the postcard.
+People feel safer when they don't have to queue in line, especially during times of COVID. People feel that it's safer when they can count the bills at an ATM. If they don't have a debit card at all, if they don't have a bank account, then, at least a check is mailed right back to whichever address they write on the postcard.
 
 The desks on their local welfare office is no longer swamped because they're not even open to receive applications. The point I'm trying to make is that digital transformation enables all the touchpoints to innovate, empowering the people closest to the pain.
 
@@ -690,7 +690,7 @@ Even when we moved some of the classes online just for a couple of months, the d
 
 It also prompted us to begin this September, this semester to adopt a way for the disadvantaged children to also bring those iPads and laptops home. Previously, they have to go to school because our zero-trust cybersecurity wasn't all the way there. We rely on an internal network to keep them safe.
 
-We've doubled down on investing in the cybersecurity arrangement so that we are now pretty sure that they're safe around the edges whereas, of course, all children enjoy the use of laptops and iPads. If the teachers see them as complimentary, we're not replacing paper-based textbooks if the teachers and parents are not comfortable with it.
+We've doubled down on investing in the cybersecurity arrangement so that we are now pretty sure that they're safe around the edges whereas, of course, all children enjoy the use of laptops and iPads. If the teachers see them as complementary, we're not replacing paper-based textbooks if the teachers and parents are not comfortable with it.
 
 The disadvantaged children, including medium-income family with five children, they can all take those laptops and iPads home, I think, beginning this September.
 
@@ -757,7 +757,7 @@ I see AI as "assistive intelligence". By assistive, I mean aligned and accountab
 
 I do not have to pay three million dollars of licensing fee or spend three years to reverse engineer it just so that it does not project advertisement to my retina, which will not be aligned to me, it will be aligned to the advertisers.
 
-A very simple example of a eyeglass as assistive technology showed that we need to treat AI, hold them accountable and aligned, exactly as any other from of assistive technology. If we do so, so that it protects the dignity of the citizens instead of treating them just as users, then it will enhance the possibility of creating better jobs.
+A very simple example of an eyeglass as assistive technology showed that we need to treat AI, hold them accountable and aligned, exactly as any other from of assistive technology. If we do so, so that it protects the dignity of the citizens instead of treating them just as users, then it will enhance the possibility of creating better jobs.
 
 That leads to more satisfaction because you can then delegate the part of the mundane task, that nobody want to do anyway, to those assistants. If you do not have the local tweaking control, if the innovation is not open, is not aligned to you, then actually it's the other way around.
 

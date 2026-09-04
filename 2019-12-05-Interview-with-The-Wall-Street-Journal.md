@@ -564,7 +564,7 @@ We say disinformation…
 I guess that definition is also open into political…It lends itself to being manipulated and people who contest what is true.
 
 ### Audrey Tang:
-Of course, and they do so in the court system. These are established legal concepts. We’re not reinventing any concept. We’re taking existing laws that says you cannot spread fear during a epidemic like SARS, and things like that. That law originally, for example, only says something about newspapers, and radio, and so on and, somehow, omitted the Internet.
+Of course, and they do so in the court system. These are established legal concepts. We’re not reinventing any concept. We’re taking existing laws that says you cannot spread fear during an epidemic like SARS, and things like that. That law originally, for example, only says something about newspapers, and radio, and so on and, somehow, omitted the Internet.
 
 ### Audrey Tang:
 We revamped the laws to add the digital part but the definition stays the same. We’re not creating new legal concepts, nor are we making new laws.

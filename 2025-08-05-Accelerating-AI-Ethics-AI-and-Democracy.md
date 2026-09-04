@@ -256,7 +256,7 @@ But using AI systems to bridge these diversities so we can figure out how to liv
 ### Caroline Green:
 So that's really beautiful that idea. Because I think when we think of AI specifically, agentic, AI, generative AI, everything you know, there's buzzwords and systems that are out there. It's often about the threat to what we as humans value, whether it's social connection, whether it's our work and the purpose that it gives us in our lives.
 
-So you are offering an very alternative perspective. You are offering a perspective that's positive. You are saying actually, what makes us human is something that technology that AI can explore, help us understand, expand.
+So you are offering a very alternative perspective. You are offering a perspective that's positive. You are saying actually, what makes us human is something that technology that AI can explore, help us understand, expand.
 
 Is that right?
 
@@ -277,7 +277,7 @@ I have so many follow up questions, but the first one is: How worried are you ab
 ### Audrey Tang:
 Yeah, it's just like social media when designed in a way that it encourages pro-sociality. It can encourage people who are shy, who are introverts or who are extroverts, but actually not very good at reading each other’s emotions and so on to pay more attention, more care, to each other, in which case it's very good. It's like a connective tissue.
 
-On the other hand, if they offer a kind of relationship that actually isolates people from each other, then of course is very bad, because then we just fall into this addictive part of ourselves. Just just keep doom scrolling and so on. And in this sense, generative AI is no different.
+On the other hand, if they offer a kind of relationship that actually isolates people from each other, then of course is very bad, because then we just fall into this addictive part of ourselves. Just keep doom scrolling and so on. And in this sense, generative AI is no different.
 
 It can be made to be cooperative in the sense of it facilitates human cooperation, but it can also be made to make people addicted to them, so it become more and more antisocial. In fact, change. GPT-4o was, for three days, anti-social.
 
@@ -305,7 +305,7 @@ By design, help me understand a bit more that concept of care? Umm, what does it
 ### Audrey Tang:
 To me when we are using or designing any social system, we would like people to know each other better in an empathetic, not just sympathetic way. Of course, sharing each other's feelings is good. On the other hand, if you cannot mentalise to understand each other's feelings in context, then they tend to just reverberate and trap people into shared misery or echo chambers or things like that, or even outrage.
 
-And so on. So, part of care is the ability to contextualise suffering, to contextualise harm, to contextualise people's interactions so that people can reason also together, on how, for example, not to repeat the harm that was done before instead of justice seeking vengeance and things like that. To me it is a interpersonal skill, but it's also a mindset that says, instead of just fulfilling the immediate instincts of us, we mentalize our social settings and settle on a better course forward.
+And so on. So, part of care is the ability to contextualise suffering, to contextualise harm, to contextualise people's interactions so that people can reason also together, on how, for example, not to repeat the harm that was done before instead of justice seeking vengeance and things like that. To me it is an interpersonal skill, but it's also a mindset that says, instead of just fulfilling the immediate instincts of us, we mentalize our social settings and settle on a better course forward.
 
 And this is in contrast to simply saying, ‘you should never do this, you should never do that’ kind of the ontological kind of command setting, and it's also different from just calculating utilities, saying that ‘I'm a little bit happier, and you're a little bit less happy, but I'm happier than the kind of unhappiness you suffer, so, in total we're actually positive’. And so on. It offers a very different calculus, and instead of just adding things together, or just saying that you should do this or shouldn't do this in all situations, it considers each specific situation and figures out how to live better afterwards.
 

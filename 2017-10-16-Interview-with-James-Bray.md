@@ -204,7 +204,7 @@ It’s not that we are particularly innovative on any component. We mostly use t
 Our contributions are two-fold. The first is we make it regular. It’s not something that a prime minister wants, not something the cabinet office wants, but something genuinely to create public servancy as reducing their risk and saving their time.
 
 ### Audrey Tang:
-This is a approach that involves more simplification of administrative work, instead of the highlighting of a certain prime minister. Our first contribution is a reposit of this AI stuff, of this augmented reality stuff, all this collaborative ideation stuff as time-savers. It’s actually welcome, and so that’s our first contribution.
+This is an approach that involves more simplification of administrative work, instead of the highlighting of a certain prime minister. Our first contribution is a reposit of this AI stuff, of this augmented reality stuff, all this collaborative ideation stuff as time-savers. It’s actually welcome, and so that’s our first contribution.
 
 ### Audrey Tang:
 The second is that we see ourself as a fact-finding, essentially, consultancy, not just for the administration, but for everybody including the MPs, local city counselors, and local city government. That solves an issue where always in cases like this...It’s actually not necessarily found in national government level, but from the MPs and the local governments, who are even more likely to think about this as taking their power away.
@@ -231,7 +231,7 @@ Why not? We can save a lot of their time by gathering the consensus and the publ
 Maybe there will be people who say, &quot;But I want to vote for this person only for these matters,&quot; and so on, and argue for liquid democracy. Maybe people will argue that for certain cases, it makes more sense to have a random sampled people instead of elected officials who are not that representative on the variety, and so on.
 
 ### Audrey Tang:
-These are valid arguments, but I think a empowered place for doing debates like this, whether we call them MPs or not, I think it’s still very valuable.
+These are valid arguments, but I think an empowered place for doing debates like this, whether we call them MPs or not, I think it’s still very valuable.
 
 ### James Bray:
 The chief distinguishing feature for them being that they have a mandate that stems from the ballot box?
@@ -240,7 +240,7 @@ The chief distinguishing feature for them being that they have a mandate that st
 Mm-hmm, right. The ballot box could be in any shape though. In a liquid or delegative democracy, you essentially have 10 different ballot boxes, one for each area of interest. In participatory budgeting, you essentially have the ballot box in the sense of dollars on programs, and so on.
 
 ### Audrey Tang:
-The ballot box, itself, is just a information-gathering device. Of course, you can argue that by having a first-past-the-post, winner-takes-all design, there’s not so much efficient bits, there is no sufficient bits for the positions.
+The ballot box, itself, is just an information-gathering device. Of course, you can argue that by having a first-past-the-post, winner-takes-all design, there’s not so much efficient bits, there is no sufficient bits for the positions.
 
 ### Audrey Tang:
 I would agree with that, but all the other ways are essentially variations on the same theme.

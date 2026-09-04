@@ -762,7 +762,7 @@ It’s also definitely German.
 It’s also German. What I mean is I think the only trick you need is to get the people who write the procurement criteria to consider this kind of early-stage prototypes, what we call micro-grant, micro-purchase, and things like that.
 
 ### Audrey Tang:
-For Taiwan’s current procurement strategy, I work on this decoupled architecture, and also decoupled procurement. This is less radical compared to the UK GDS, which says that it has to be less than one million pounds. No IT procurement must be over that amount. The civil society got a equal footing versus huge semi-integrators.
+For Taiwan’s current procurement strategy, I work on this decoupled architecture, and also decoupled procurement. This is less radical compared to the UK GDS, which says that it has to be less than one million pounds. No IT procurement must be over that amount. The civil society got an equal footing versus huge semi-integrators.
 
 ### Audrey Tang:
 By decoupled, we mean very simply that the storage part, the elastic part, the backend part must provide an API, and then the display part — be it website, or handheld app, or VR, whatever — these are separate procurements.

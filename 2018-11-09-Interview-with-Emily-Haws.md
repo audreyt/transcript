@@ -81,7 +81,7 @@ We have rough sleepers, people who are homeless. We have social workers. We have
 It always exists in an open way, meaning that if the elders and the community don’t like particularly how it flashes red when they feels that it doesn’t understand the situation, they can always change that very easily without encumbered by patents and copyright.
 
 ### Audrey Tang:
-The second is that it’s always introduced in response to a real social need so it’s not colonial. It’s not some huge corporation wanting to use people here to experiment, rather a response to what people really needs here, which is a increasingly elderly population that needs transportation and a domestic animal that follows them to carry things, and things like that.
+The second is that it’s always introduced in response to a real social need so it’s not colonial. It’s not some huge corporation wanting to use people here to experiment, rather a response to what people really needs here, which is an increasingly elderly population that needs transportation and a domestic animal that follows them to carry things, and things like that.
 
 ### Audrey Tang:
 Digital and social, I think, are two sides of the same coin. Instead of thinking large tech company and social non-profit meets, we really need to be in the spirit of co-creation. That’s my main message.
@@ -118,7 +118,7 @@ Better broadband infrastructure using more innovative technologies, such as the 
 Even in places where it’s only land line service, there exists ways for people just call a toll-free number and talk to a Siri-like assistant that can search the Internet for whatever relevant information and get back to them through AI-powered services. They even deploy that in Columbia, of all places.
 
 ### Audrey Tang:
-This is one of the things that a innovative digital service can look into, is just to make people’s life better using existing tools and habits that they’re using.
+This is one of the things that an innovative digital service can look into, is just to make people’s life better using existing tools and habits that they’re using.
 
 ### Emily Haws:
 I guess that is the biggest thing with Canada. The bureaucracy tends to be pretty slow moving. We’re just starting to move into the more digital space. How do you think that Canada can keep up? Technology moves so quickly that often by the time the government is done procuring something, you think of our pay system which has a giant problem right now.
@@ -177,7 +177,7 @@ The radical transparency is how the Internet is built. The Internet doesn’t ha
 If people all follow the Internet Protocol, their machines connect to each other. That’ the inter part in the Internet. It’s by voluntary association, but how does the legitimacy of the Internet comes forward so that everybody need to hook into the same Internet Protocols?
 
 ### Audrey Tang:
-The Internet doesn’t have a Army or a Navy. It can’t force any sovereign country to connect to the Internet, and the Internet as a body, it doesn’t even report to the any of the states. The UNITU tried for years to absorb us, but now it’s more of a partnership. Every year, there’s a UNITU Internet Governance Forum. I participated last year in Geneva as a robot.
+The Internet doesn’t have an Army or a Navy. It can’t force any sovereign country to connect to the Internet, and the Internet as a body, it doesn’t even report to the any of the states. The UNITU tried for years to absorb us, but now it’s more of a partnership. Every year, there’s a UNITU Internet Governance Forum. I participated last year in Geneva as a robot.
 
 > (laughter)
 
@@ -359,7 +359,7 @@ The digital was the connector between everyone else.
 Exactly. Every day, using digital means, we can see what are the rough consensus of people. At one point, it was half a million people on the street, and we’re still able to get what people generally feels like when it comes to the CSSTA.
 
 ### Audrey Tang:
-We also developed tools where they can enter their company name or company registration number and show exactly which part of the STA affects them, so it enables a evidence-based conversation.
+We also developed tools where they can enter their company name or company registration number and show exactly which part of the STA affects them, so it enables an evidence-based conversation.
 
 ### Audrey Tang:
 After three weeks, we converged on five consensus, and then head of parliament accept that, and so the occupy was a victory. I always say it’s a demo. It’s a demonstration, it’s not a protest. Protest is asking the government to do something, but g0v is, we do something and show the government how things should be done.
@@ -449,7 +449,7 @@ Exactly. Also, learning for the sake of the betterment of the community, instead
 Because the artificial intelligence can always do better than you.
 
 ### Audrey Tang:
-Yeah, like \[inaudible 34:30\] .
+Yeah, like \[inaudible 34:30\].
 
 > (laughter)
 
@@ -493,7 +493,7 @@ Many other East Asian countries, they want to wait until there’s 200 stations,
 In Taiwan, no, we fully embrace the civic tech community. We say this is also a map of the digital divide in Taiwan. Clearly, in the mountains and in the first nations, there’s just not so much citizen scientists around. That’s where we really need to provide broadband as human rights, and provide our own measurement devices. We need to manufacture low-cost, high-precision device for citizen scientists.
 
 ### Audrey Tang:
-We listen to them when they tell us they really want a air quality sensor here to tell the domestic versus the extra-jurisdictional air quality flow, but it’s impossible for citizen scientists to set up a station here.
+We listen to them when they tell us they really want an air quality sensor here to tell the domestic versus the extra-jurisdictional air quality flow, but it’s impossible for citizen scientists to set up a station here.
 
 ### Emily Haws:
 Government would have to do it.
@@ -552,7 +552,7 @@ Yeah, in FWD50, but we didn’t have one-on-one conversations.
 What did you think of their speeches?
 
 ### Audrey Tang:
-It’s a interesting story of how accessibility first or inclusion first led to procurement. We totally agree with that in Taiwan, but we haven’t heard the message put so strongly like inclusion before transparency, accountability, and participation. Inclusion has to be the first pillar of the four pillars of open government. This is a new sequence for us. \[laughs\]
+It’s an interesting story of how accessibility first or inclusion first led to procurement. We totally agree with that in Taiwan, but we haven’t heard the message put so strongly like inclusion before transparency, accountability, and participation. Inclusion has to be the first pillar of the four pillars of open government. This is a new sequence for us. \[laughs\]
 
 ### Audrey Tang:
 For us, it’s usually transparency-first, or for some people, participation-first. Inclusivity-first makes a lot of sense, because otherwise, you gradually leave some people behind because of digital gap. It’s only by trusting the people through including them in the procurement process and a co-design process, we can move at the speed of trust.

@@ -257,7 +257,7 @@ I fly back to Taipei after I realized that I can bootstrap and drink our own cha
 …in order to work well with communities of all kinds. No, I didn’t stay in San Jose long for that matter. When I started the plugs project in 2004, I didn’t stay in any city. I hosted or co-created more than 20 hackathons in 20 cities all across the world. I just actively worked like Paul Erdős, I guess.
 
 ### Audrey Tang:
-People who have a free couch in their home and that are passionate about open source and free software communities and we can co-create something together until they get fed up with me and then send me a address at the next stop to go to. No, I was not in any city. I was couchsurfing.
+People who have a free couch in their home and that are passionate about open source and free software communities and we can co-create something together until they get fed up with me and then send me an address at the next stop to go to. No, I was not in any city. I was couchsurfing.
 
 ### Richard Pietro:
 You know what, based on your personal history of the accomplishments you’ve had, I wouldn’t be surprised if you help create couchsurfing.org.
@@ -283,7 +283,7 @@ I merge that with the KwikiWiki system, which we were using in our Internet star
 At that time, I was working on WikiCalc, which would allow people to edit spreadsheets together. All of this were two or three years before Google spreadsheet, and that would then take me into a more permanent position in Socialtext.
 
 ### Audrey Tang:
-I call my position “untitled page,” meaning that I don’t have a official title, but I’m like a page that sends the messages and also fulfill whatever errands that need to be done in Socialtext. After a while, my professional career kind of merged into the Socialtext vision.
+I call my position “untitled page,” meaning that I don’t have an official title, but I’m like a page that sends the messages and also fulfill whatever errands that need to be done in Socialtext. After a while, my professional career kind of merged into the Socialtext vision.
 
 ### Audrey Tang:
 That continued all the way until Socialtext exited, and sold to PeopleFluent. I think that was 2013 or something, and I retired after a year or so after that.
@@ -295,7 +295,7 @@ I want to get the chronology right, a little bit here.
 Yes. Inforian was in 1996 to 1997. Then, in around year 2000, that’s OurInternet, first in San Jose, in Taipei, and then many other cities. That continued until 2005 or so 2006. Then, in which time I was working full time on the PRAXIS language for a couple years.
 
 ### Audrey Tang:
-Then afterwards, in 2008, I will join Socialtext with also CL Kao, my co-founder in the OurInternet days, and stats continued from 2008 all the way to 2013, ‘14-ish. I still am retained as a independent contractor at that time starting in 2010, not only with Socialtext, but also with Apple. In 2013, it would also bring me to work with the Oxford University Press.
+Then afterwards, in 2008, I will join Socialtext with also CL Kao, my co-founder in the OurInternet days, and stats continued from 2008 all the way to 2013, ‘14-ish. I still am retained as an independent contractor at that time starting in 2010, not only with Socialtext, but also with Apple. In 2013, it would also bring me to work with the Oxford University Press.
 
 ### Audrey Tang:
 When I retired, I was still holding three consultant positions with Apple, Socialtext, and Oxford University Press respectively. Then, we occupied the parliament in 2014 and my life took a very interesting turn. Then became Digital Minister in 2016.

@@ -490,7 +490,7 @@ Wow.
 > (laughter)
 
 ### Audrey Tang:
-Right. I don't know whether NSC will let him represent the National Security Council, but he used to work in the White House Office of Science and Technology Policy, so he can talk on a OSTP viewpoint. His name's Tantum Collins, or Teddy Collins. And he runs a blog Substack.com, about democracy on Mars, and he is now working on designing the governance systems in the first Mars colony, which breaks some more, you know, barriers and kind of conscious biases.
+Right. I don't know whether NSC will let him represent the National Security Council, but he used to work in the White House Office of Science and Technology Policy, so he can talk on an OSTP viewpoint. His name's Tantum Collins, or Teddy Collins. And he runs a blog Substack.com, about democracy on Mars, and he is now working on designing the governance systems in the first Mars colony, which breaks some more, you know, barriers and kind of conscious biases.
 
 And so, yeah, we don't have to talk about Mars colony…
 

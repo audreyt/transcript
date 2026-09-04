@@ -40,7 +40,7 @@ You get business origami. You get any number of Post-it Notes.
 \[laughs\]
 
 ### Audrey Tang:
-It’s shaped very much like a co-working space, but not a artsy one. We have another office that’s the more artsy one.
+It’s shaped very much like a co-working space, but not an artsy one. We have another office that’s the more artsy one.
 
 ### Audrey Tang:
 Let’s get started because I have maybe an hour or so.
@@ -115,7 +115,7 @@ Say I’m a person interested in participating in crowdfunding you just mentione
 Of course, Kickstarter is a B Corp, supposedly. They drive their social purpose and so on, but nowadays we’re also seeing, because of technologies out there now, quite a few what we call platform cooperatives. With any other name, people are basically putting up their own crowdfunding, distributing schemes up on open collectives and other open co-op movements.
 
 ### Audrey Tang:
-Are you aware of any of these adopting QV? From a end user perspective, I think that’s probably what makes the most sense to have the first experience in.
+Are you aware of any of these adopting QV? From an end user perspective, I think that’s probably what makes the most sense to have the first experience in.
 
 ### Glen Weyl:
 There’s a donation platform on Ethereum called WeTrust that actually put $100,000 or 500 ETH behind matching funds for liberal radicalism, for donations to charity. There’s also a lot of different mostly Ethereum-based platforms that have been using quadratic voting for various governance things.
@@ -237,7 +237,7 @@ Instead, the notion is, you could give a little bit of funding to some things, m
 On the other hand, things being too concentrated because the democratic process just leads to whatever the majority prefers to win.
 
 ### Audrey Tang:
-Does it require a overview effect of the current budget situation, or do you think that it can also work in an uncoordinated fashion where people just make individual choices?
+Does it require an overview effect of the current budget situation, or do you think that it can also work in an uncoordinated fashion where people just make individual choices?
 
 ### Glen Weyl:
 I think you do need to have probably some view of what the current funding levels are, and you actually saw that on that site. They make it pretty transparent what the current funding levels are. That’s helpful for the users.

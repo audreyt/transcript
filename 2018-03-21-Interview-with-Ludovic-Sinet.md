@@ -51,7 +51,7 @@ Of course, take your time.
 Sorry to interrupt.
 
 ### Audrey Tang:
-Not at all. We’re just starting this interview about the technology for social good, as well as a innovation ecosystem, and how Taiwan’s civic tech and social innovation ecosystem plays together.
+Not at all. We’re just starting this interview about the technology for social good, as well as an innovation ecosystem, and how Taiwan’s civic tech and social innovation ecosystem plays together.
 
 ### Audrey Tang:
 This is an effort, a joint research program, that will be published openly about how to solve the most wicked parts of the Sustainable Development Goals, and is jointly funded by some French and some American sources.
@@ -215,7 +215,7 @@ Then we have a judge panel with 20 cases. The project management is the Presiden
 We do this by advocating basically that anyone anywhere in Taiwan or the world, because we don’t limit nationalities, can suggest ways for the public service to work better. This is jointly coordinated by pretty much all the ministries related to all the different organizations of social entrepreneurship.
 
 ### Audrey Tang:
-Finally, the Ministry of Foreign Affairs and Labor worked together on the SDG diplomacy. We basically worked with all the UN-related SDG and \[inaudible 12:12\] . If it’s the official UN meeting, we send iPads instead of ministers to make sure that we are engaged in the discussion in the actual exporting of the SDG-related technologies.
+Finally, the Ministry of Foreign Affairs and Labor worked together on the SDG diplomacy. We basically worked with all the UN-related SDG and \[inaudible 12:12\]. If it’s the official UN meeting, we send iPads instead of ministers to make sure that we are engaged in the discussion in the actual exporting of the SDG-related technologies.
 
 ### Audrey Tang:
 We have a very aggressive strategy of basically taking all the civic tech. For example, this is the civic tech that monitors air pollution. We see one of the sensors here actually. This is all citizen science, but also government-supported once it gets to scale.
@@ -273,7 +273,7 @@ We tried to come up with the social innovation branding. This is the branding th
 In Taiwan, we have two main projects to support this. One is called DIGI⁺. DIGI+ is an eight-year plan and there’s an English page that explains how this is about. There’s this committee called the Digital Innovation and Governance Initiative Committee.
 
 ### Audrey Tang:
-The DIGI stands respectively for the digital infrastructure, the development, the innovation, the governance and inclusion, social inclusion. That encompasses all the different parts of the digital life. This is a very complex plan and it runs until 2025. There is a even more impressive committee headed by the Premier himself, and the vice convener.
+The DIGI stands respectively for the digital infrastructure, the development, the innovation, the governance and inclusion, social inclusion. That encompasses all the different parts of the digital life. This is a very complex plan and it runs until 2025. There is an even more impressive committee headed by the Premier himself, and the vice convener.
 
 ### Audrey Tang:
 There are three minister without portfolio. I’m of the three. Then it’s split into the development and infrastructure, of the innovation, of the economy, of the governance, as well as coordination and promotion. This is the main governing structure of the underlying infrastructure part. On top of it, we have the investments and connection to Silicon Valley, to other start-up and accelerator.
@@ -332,7 +332,7 @@ I see. Note the things. It’s pretty interesting. Is there any weaknesses of th
 Our infrastructure is really, really good. Broadband as Human Right, it covers a vast majority of population. The rest few percents we use special budget to make sure that there’s 4G, or at least microwave connection, so that everybody can enjoy broadband. That’s our advantage, and it’s mostly because of geography.
 
 ### Audrey Tang:
-Of course, education’s really good. Constitutionally protected budget and the democratization of ICT technologies in K-12 education. These are the advantages. Of course, the diversity status is really good. We recently passed a series of laws that basically declares all the indigenous languages and the major Hakka, \[inaudible 22:39\] , and Mandarin as all our national languages. It’s linguistic or cultural diversity at one.
+Of course, education’s really good. Constitutionally protected budget and the democratization of ICT technologies in K-12 education. These are the advantages. Of course, the diversity status is really good. We recently passed a series of laws that basically declares all the indigenous languages and the major Hakka, \[inaudible 22:39\], and Mandarin as all our national languages. It’s linguistic or cultural diversity at one.
 
 ### Audrey Tang:
 The gender balance, we’re the highest in gender parity in using Internet services and digital services. The digital participation rate is, again, one of the world’s highest. All this makes Taiwan pretty unique in trying a lot of digital participation and digital governance tools.
@@ -344,7 +344,7 @@ What are the weaknesses? Frankly, when we talk about social innovation or social
 When asked, &quot;Can you name one social entrepreneur? Is there one social enterprise or civic tech model that you know of? Can you name one?&quot; about four-fifths of the people cannot name one. They support the idea in general, but they can’t quite identify the particular type or particular social entrepreneur that actually affected their lives.
 
 ### Audrey Tang:
-This is the main weakness, I would say. Many, like the \[inaudible 24:03\] , or the other projects, they’re really high profile internationally, but for the domestic population, it reaches, still, a relatively minor part of the people. It’s not part of the basic education system, for example.
+This is the main weakness, I would say. Many, like the \[inaudible 24:03\], or the other projects, they’re really high profile internationally, but for the domestic population, it reaches, still, a relatively minor part of the people. It’s not part of the basic education system, for example.
 
 ### Audrey Tang:
 Random people, if you ask, &quot;Hey, what do you think about civic tech and social enterprise?&quot; they’re like, &quot;Yeah, they are very good ideas, but I can’t name anything.&quot;
@@ -380,7 +380,7 @@ We cannot break, because if you break the society stop talking to each other. Th
 What tech, entrepreneurship, and innovation can do is to serve as a link between the social and the commercial forces. As well as, of course, the environmental and governance forces.
 
 ### Audrey Tang:
-Whenever there’s a innovation happens, usually through technology, suddenly you can pull in the social forces, like the \[inaudible 26:50\] participants, and the commercial forces, such as \[inaudible 26:52\] manufactures, into something that actually for the common good of all.
+Whenever there’s an innovation happens, usually through technology, suddenly you can pull in the social forces, like the \[inaudible 26:50\] participants, and the commercial forces, such as \[inaudible 26:52\] manufactures, into something that actually for the common good of all.
 
 ### Audrey Tang:
 It makes it possible to coordinate on a massive scale, and without which none of those coordination problems can be solved before. Before you can solve a coordination problem, it will always appear as a zero-sum game. Technology and entrepreneurship makes it possible, for example, through things like crowdfunding, to get everybody to commit before actually committing to an action.
@@ -451,7 +451,7 @@ This is especially true in non-digital areas...
 ...because they want to disrupt the market, essentially. Before we have the sandbox law, which the fintech sandbox passed a couple months ago, and the autonomous vehicle sandbox will be in next month. All this has been pre-announced on vTaiwan, and so the society knows about it.
 
 ### Audrey Tang:
-Whereas before the sandbox acts when a innovator proposed something, it’s easier for the civil servant to reject it, it costs them nothing, than to try to adapt and approve it, which costs them some time. Now, with the sandbox act, if you approve it, it just costs you some time, but if you reject it, it enters into a 6 to 12-month sandbox process.
+Whereas before the sandbox acts when an innovator proposed something, it’s easier for the civil servant to reject it, it costs them nothing, than to try to adapt and approve it, which costs them some time. Now, with the sandbox act, if you approve it, it just costs you some time, but if you reject it, it enters into a 6 to 12-month sandbox process.
 
 ### Audrey Tang:
 For the civil servant involved, it’s actually more easy to just approve it. There is, actually, a key performance indicator of the National Development Council. At the moment is how many outdated interpretations can we abolish, because of the need of social innovators.
@@ -474,7 +474,7 @@ The Sustainable Development Goals can’t be hyped enough.
 > (laughter)
 
 ### Audrey Tang:
-There’s no over-hyping of sustainable development. I don’t believe there is a over-hyping stage for it. If we bill particular technologies as a panacea to solve any particular SDG or multiple SDG goals, that’s doomed to failure because of the natural the curve of technologies. That’s not going to happen.
+There’s no over-hyping of sustainable development. I don’t believe there is an over-hyping stage for it. If we bill particular technologies as a panacea to solve any particular SDG or multiple SDG goals, that’s doomed to failure because of the natural the curve of technologies. That’s not going to happen.
 
 ### Audrey Tang:
 If we focus as part of the education, as part of our public message of one’s core mission in life, for example, for human beings, for students to work collaboratively to solve social issues, but then it is a, essentially, endless game that is non-zero sum from beginning to end.
@@ -548,12 +548,12 @@ DLT, the distributed ledger technology is useful, and we have used it. For examp
 It increases accountability for all parties involved. There’s no question about it. In that regard it can help, of course, with sustainable development by providing accountability, which is a large part of SDG ’17, as well as the other SDGs. I don’t think the cryptocurrency part is immediately relevant. It mostly is orthogonal.
 
 ### Audrey Tang:
-The only connection, and it’s a very stretched one, I can see is that it provides a funding model for the fundamental crypto infrastructure \[laughs\] , like open SSR, and things like that, which was very difficult to get people to fund, but now the core developers are suddenly millionaires, so they don’t need patrons, anyway.
+The only connection, and it’s a very stretched one, I can see is that it provides a funding model for the fundamental crypto infrastructure \[laughs\], like open SSR, and things like that, which was very difficult to get people to fund, but now the core developers are suddenly millionaires, so they don’t need patrons, anyway.
 
 > (laughter)
 
 ### Audrey Tang:
-In that regard, it is useful for SDG 9, I guess \[laughs\] . That’s a stretch. I don’t think it’s otherwise related. We’re now witnessing a space where it’s like the Internet before the TCP or HTTP. We’re seeing a lot of protocols vying to become the dominant protocol, and that will still go on for a while.
+In that regard, it is useful for SDG 9, I guess \[laughs\]. That’s a stretch. I don’t think it’s otherwise related. We’re now witnessing a space where it’s like the Internet before the TCP or HTTP. We’re seeing a lot of protocols vying to become the dominant protocol, and that will still go on for a while.
 
 ### Ludovic Sinet:
 What do you think, maybe more largely, about cryptocurrencies? Do you think in 10, 15, 20 years there won’t be just one money, like a Taiwanese dollar, but maybe really different monies, like different currencies that people will use for one kind of objects or one kind of services?
@@ -588,7 +588,7 @@ It’s already there. There’s the Pineapple Fund.
 There’s the thing I talked about, about the basic cryptographic primitives, and things like that. It’s already there. I think it will continue doing that, because if you have a distributed ledger, you can piggyback existing charity-based, equity-based, or whatever-based crowdfunding techniques on top of it, because it’s a better replicated database.
 
 ### Audrey Tang:
-It’s a enabler, but it’s not as hype-y as people make it. It’s just a better database for some scenarios.
+It’s an enabler, but it’s not as hype-y as people make it. It’s just a better database for some scenarios.
 
 ### Ludovic Sinet:
 What are some of the biggest risks you see in all the emerging technologies, so not only in the civic side, but also can be seen in biology, can be AI, can be other things, blockchain? What do you think should be done to mitigate them?
@@ -605,7 +605,7 @@ I, as well.
 It’s very attractive. It quantifies everything. Assuming you have infinite computing power, it can be very good ethical framework, but we don’t have infinite computing power, \[laughs\] so we make short cuts. When we make short cuts under utilitarianism, it actually moves us away from co-intelligence, from collaborative intelligence or collective intelligence.
 
 ### Audrey Tang:
-It over-emphasizes on things that could be measured, but most of the interesting things can’t. It re-creates, for example, you just mentioned the social profiling, which is like a shadow image of the real person, which is actually the least important part about that person, but it’s treated as \[inaudible 48:37\] , and so on.
+It over-emphasizes on things that could be measured, but most of the interesting things can’t. It re-creates, for example, you just mentioned the social profiling, which is like a shadow image of the real person, which is actually the least important part about that person, but it’s treated as \[inaudible 48:37\], and so on.
 
 ### Audrey Tang:
 This whole idea of data market ownership, control, whatever, it’s really a utilitarian narrative underneath. I want to talk about, for example, freedoms. You can rephrase all the GDPR debates in terms of freedoms. That’s a Richard Stallman thing, but it still works.
@@ -617,7 +617,7 @@ You can rephrase the positive freedoms of access sharing and collaboration. You 
 This kind of narrative is more useful if we want to have an informed dialogue of technology and how it fits into the society. Whereas if we overemphasize the industrial innovation part, then we fall victim to utilitarianism, and that is really dangerous.
 
 ### Ludovic Sinet:
-Can take a photo of this one, even though I will try to get \[inaudible 49:49\] , to remind me?
+Can take a photo of this one, even though I will try to get \[inaudible 49:49\], to remind me?
 
 ### Audrey Tang:
 Sure. There’s also poetry. Maybe you want to take a photo of the poetry, as well. \[laughs\]
@@ -719,7 +719,7 @@ Maybe a last question, to \[inaudible 56:53\] things. A last question about how 
 How do you think these kind of things can happen in other countries? The culture can play a role, but is there a lesson you can give, like a recipe?
 
 ### Audrey Tang:
-I bill myself as a public servant of public servants. I help the civil service. I don’t ever give commands. As a anarchist I don’t believe in commands. Basically, I treat the civil service as my peers and I try to make only Pareto improvements.
+I bill myself as a public servant of public servants. I help the civil service. I don’t ever give commands. As an anarchist I don’t believe in commands. Basically, I treat the civil service as my peers and I try to make only Pareto improvements.
 
 ### Audrey Tang:
 Meaning, all the stakeholder ministries or public servants I try to, for example, reduce the work of the junior frontline public service through automation to reduce a risk of the mid-level management through a shared co-creation framework and radical transparency.
@@ -734,7 +734,7 @@ They maybe do this at the expense of the other two, or do two at the expense of 
 That all our programs are pre-approved, in a sense, that it doesn’t overly burden any particular level, and that it always make one of the three level’s life easier without sacrificing the two. Every step is very small, but taken together I have met no resistance.
 
 ### Ludovic Sinet:
-I see. If I think of the French system as purely vertical \[inaudible 59:20\] , so when you’re at the top, you give the shit back to the one down, and so on. It’s pretty interesting to see that. I’ll check if I have any other question. Could be working.
+I see. If I think of the French system as purely vertical \[inaudible 59:20\], so when you’re at the top, you give the shit back to the one down, and so on. It’s pretty interesting to see that. I’ll check if I have any other question. Could be working.
 
 ### Ludovic Sinet:
 Maybe one last question, a short one. How do you think the social entrepreneurship field, the civil society, and the technology, maybe digital or deep tech, can work together? They should work together, for sure, but how can they work together more?

@@ -180,7 +180,7 @@ The process itself is in the commons, so you don’t have to go through the Taiw
 Anybody, anywhere on the earth, can run this idea of taking something that seems like a technological singularity thing that’s accelerating everything, and turn it over to a plurality that will listen to one side and then the other side, across a time dimension, resolving our differences, and eventually know what we ask of the technology, instead of having the technology dictating what we do.
 
 ### Audrey Tang：
-Just to quote Dr. Tsai Ing-Wen again: &quot;We need to build a unified democracy, not hijacked by ideologies; a efficient democracy that responds to the demands of the environment; and a pragmatic democracy that will let people take care of each other’s feelings.&quot;
+Just to quote Dr. Tsai Ing-Wen again: &quot;We need to build a unified democracy, not hijacked by ideologies; an efficient democracy that responds to the demands of the environment; and a pragmatic democracy that will let people take care of each other’s feelings.&quot;
 
 ### Audrey Tang：
 We do this just by listening, and building technologies that help us listen to each other.

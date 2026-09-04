@@ -248,7 +248,7 @@ Yeah, patriotic. It’s a false propaganda. It’s not based on history, and his
 That’s also happening in terms of changing curriculum. You’re trying to teach students to make their own opinions. Here, you’re imposing a false opinion to students.
 
 ### Audrey Tang:
-That’s exactly right. We think the current misinformation, they piggyback on people’s ideologies. If those ideology are formed in a authoritative way, then the news that carries these messages, they only receive the part that agree with their authoritarian ideologies.
+That’s exactly right. We think the current misinformation, they piggyback on people’s ideologies. If those ideology are formed in an authoritative way, then the news that carries these messages, they only receive the part that agree with their authoritarian ideologies.
 
 ### Audrey Tang:
 The news may be multifaceted, it may be nuanced, but if people are trained in one ideology, then they only take the part that they see...
@@ -790,7 +790,7 @@ Clearly misinformation.
 That is mainstream media.
 
 ### Audrey Tang:
-That’s even mainstream media. What I’m saying is that the government, of course, by partnering with the civic hack community, we can get the message out in a timely fashion. Basically the ministry of health and welfare and all the ministry I mentioned, they just provide the raw data, like a Excel file.
+That’s even mainstream media. What I’m saying is that the government, of course, by partnering with the civic hack community, we can get the message out in a timely fashion. Basically the ministry of health and welfare and all the ministry I mentioned, they just provide the raw data, like an Excel file.
 
 ### Anand Mangnale:
 How much is the reach of this? I guess it boils down to ultimately that, what percentage of people you reach with this correct information.
@@ -981,7 +981,7 @@ Upholding journalistic ethics, that’s ultimately the...
 That’s exactly right. Yes, we’re fostering that culture.
 
 ### Anand Mangnale:
-Awesome \[laughs\] . Would you be able to share the...
+Awesome \[laughs\]. Would you be able to share the...
 
 ### Audrey Tang:
 The plan?

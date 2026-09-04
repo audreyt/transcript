@@ -1,7 +1,7 @@
 # 2020-11-16 Interview with Sarah Gonzalez and Darian Woods
 
 ### Darian Woods:
-My name’s Darian Woods. I am a producer for National Public Radio’s show, “Planet Money.” We’re a economics podcast that tells story that highlight something about the world. This is my colleague, Sarah Gonzalez, who can introduce herself.
+My name’s Darian Woods. I am a producer for National Public Radio’s show, “Planet Money.” We’re an economics podcast that tells story that highlight something about the world. This is my colleague, Sarah Gonzalez, who can introduce herself.
 
 ### Sarah Gonzalez:
 I’m one of the hosts of the show. I’m going to start by giving you this little disclaimer that we normally do really long interviews, and we don’t have that much time with you for Planet Money.
@@ -58,7 +58,7 @@ You can’t offend me.
 We will have to pick something. We’ve noticed that a lot of media use the pronoun she/her. Is that a good one for you?
 
 ### Audrey Tang:
-That’s, of course, fine. There was a Israeli journalist that alternated between the feminine and masculine forms every word in their reporting. That’s interesting because there’s no neutral pronouns in Hebrew. She/her is just fine.
+That’s, of course, fine. There was an Israeli journalist that alternated between the feminine and masculine forms every word in their reporting. That’s interesting because there’s no neutral pronouns in Hebrew. She/her is just fine.
 
 ### Sarah Gonzalez:
 We could also do they/them. You tell us. We’ll chose whichever one.
@@ -111,7 +111,7 @@ Last December when Dr. Li Wenliang, the whistleblower for PRC, posted on their s
 Turns out, the young director that reposted it made sure that people can upvote it with crowdsource fact-checking to make the SARS information shared by Dr. Li Wenliang seems more legit by the minute.
 
 ### Audrey Tang:
-At the end of that day, not only did the medical officers in Taiwan notice it and send a email to WHO, but the very next day, the first day of 2020, we made sure that all the flights coming in from Wuhan are subject to health inspections.
+At the end of that day, not only did the medical officers in Taiwan notice it and send an email to WHO, but the very next day, the first day of 2020, we made sure that all the flights coming in from Wuhan are subject to health inspections.
 
 ### Audrey Tang:
 This is because of our collective trauma back in 2003 when SARS 1.0 hit Taiwan. We were very much unprepared. The municipal government were saying completely different thing from the central government and so on. We learned from this, so anyone who are above 30 years old, when they see SARS, they immediately go into this drill mode where we practice every year on how to react to this sort of thing.
@@ -147,7 +147,7 @@ Could I follow up on that? Was personal protective equipment running low during 
 That’s one of the communication failures we had in 2003. People mistakenly believed that only N95 was of any use against a coronavirus. People panic-buyed N95. Even the medical workers, for a time, the supply is very low and there’s a lot of panic-buying as well.
 
 ### Audrey Tang:
-This whole infodemic, as now they call it – at the time, it’s just misinformation – was also one of the main reason why the Central Epidemic Command Center settled on a hotline, the 1922, that will answer every and all questions related to the pandemic this time around. That was a identified as what’s missing during the early days in 2003.
+This whole infodemic, as now they call it – at the time, it’s just misinformation – was also one of the main reason why the Central Epidemic Command Center settled on a hotline, the 1922, that will answer every and all questions related to the pandemic this time around. That was an identified as what’s missing during the early days in 2003.
 
 ### Sarah Gonzalez:
 This hotline is basically like a daily press conference? Are daily conferences held, but people can call into this hotline to ask…
@@ -212,10 +212,10 @@ It’s the Central Epidemic Command Center.
 Is that a center that is around for epidemics? Has this been around since 2004?
 
 ### Audrey Tang:
-That’s right. We have a act, the Act for Countering Communicable Diseases, that authorizes whenever something like a epidemic or pandemic happens. Then the CECC assumes the authority where it can command over the resources of other ministries, other bureaus, and so on.
+That’s right. We have an act, the Act for Countering Communicable Diseases, that authorizes whenever something like an epidemic or pandemic happens. Then the CECC assumes the authority where it can command over the resources of other ministries, other bureaus, and so on.
 
 ### Audrey Tang:
-This is a little bit like a emergency state, but with a very narrowly defined duties and so on. We do not have to go to the questionably constitutional way of declaring a state of emergency.
+This is a little bit like an emergency state, but with a very narrowly defined duties and so on. We do not have to go to the questionably constitutional way of declaring a state of emergency.
 
 ### Sarah Gonzalez:
 I’m going to switch now. I’m going to get back into the drills later. For now, I’m going to switch back to Howard Wu, or switch to Howard Wu and his maps app. We talked to Howard Wu last week. He told us that there are a bunch of things that he has done. He told us about a bunch of hacks that he’s done to save himself time. Apparently, he was very against wasting time.
@@ -346,7 +346,7 @@ Mm-hmm.
 I know you said that you and Howard had already met on g0v. How did you guys end up talking? Did you just Slack him, “Howard, I heard you got a bill”?
 
 ### Audrey Tang:
-We met only in the sense that we typed messages at each other. We’ve never met in person. We actually didn’t even have a video conference or a audio link well afterward this whole mask availability map thing. To me, he is just Howard on the Slack channel. To him, I’m just AU on the same Slack channel at join.g0v.tw. Sorry, let’s do this again.
+We met only in the sense that we typed messages at each other. We’ve never met in person. We actually didn’t even have a video conference or an audio link well afterward this whole mask availability map thing. To me, he is just Howard on the Slack channel. To him, I’m just AU on the same Slack channel at join.g0v.tw. Sorry, let’s do this again.
 
 ### Audrey Tang:
 To Howard, I’m just a nickname, AU, on the g0v Slack channel. To me, Howard is just Howard on the Slack channel at join.g0v.tw. That channel, initially just called Mask, is later on renamed to COVID-19 because more and more people want to contribute not just about masks, but about dashboards, about public communication, and things like that.
@@ -439,7 +439,7 @@ Just so that I can make sure I understand what your thinking was, was it like, �
 No, not at all. You see, Google Maps is on the visualization layer. It displays the navigation tips and things like that. What I was thinking is that instead of having the people queuing in line, report from the customer side what they see, whether it’s out of mask or not.
 
 ### Audrey Tang:
-Therefore, in the places where there’s less volunteers available, we don’t have a accurate picture if we rely only on crowdsourcing. What I see is that with a pharmacist rationing, we can have the data not on the customer side but on the pharmacy side.
+Therefore, in the places where there’s less volunteers available, we don’t have an accurate picture if we rely only on crowdsourcing. What I see is that with a pharmacist rationing, we can have the data not on the customer side but on the pharmacy side.
 
 ### Audrey Tang:
 Basically, the availability of their masks can be automatically deduced every time that people hold out their IC card, their health insurance card, and receive the mask from the pharmacist. The availability can automatically decrease instead of having someone to key in them or to report them. That’s the automation.
@@ -451,7 +451,7 @@ The upshot is that if we update this number every 30 seconds, then it becomes ki
 If the availability rather increase after the people queuing before them make a purchase, they will call 1922 right there. That’s participatory accountability. That’s another insight.
 
 ### Audrey Tang:
-The leading map still use the Google Maps technologies, this time sponsored by Google, waiving the API usage fees. This is not about a in-house map that replace the Google Maps. This is more about a real-time API that obviates the need of the customers queuing in line doing the manual reporting or the pharmacists doing the manual reporting for the map so it could be automated.
+The leading map still use the Google Maps technologies, this time sponsored by Google, waiving the API usage fees. This is not about an in-house map that replace the Google Maps. This is more about a real-time API that obviates the need of the customers queuing in line doing the manual reporting or the pharmacists doing the manual reporting for the map so it could be automated.
 
 ### Sarah Gonzalez:
 We learned a term from Howard which is called forking. Is this what Taiwan did? Did Taiwan fork Howard’s map?
@@ -469,7 +469,7 @@ Wow. Just so we can understand, explain to us how the pharmacies already had exi
 In Taiwan, we have a single-payer national healthcare system. This healthcare system ensured that anyone who, for example, refill on their chronic prescriptions in any of the pharmacies, the pharmacist can check that they did not dispense the same prescriptions somewhere else within the same timeframe. That is one of the use cases. There’s many other use cases.
 
 ### Audrey Tang:
-In order to do that, they need to have a high-speed link to the National Health Insurance registry. Also, in order to identify this person is the same person, we have a IC card that, back in 2003, when SARS 1.0 came, it’s on small-scale pilot testing in Penghu, in the Pescadore Island, and not on the main island of Taiwan or any of the other islands.
+In order to do that, they need to have a high-speed link to the National Health Insurance registry. Also, in order to identify this person is the same person, we have an IC card that, back in 2003, when SARS 1.0 came, it’s on small-scale pilot testing in Penghu, in the Pescadore Island, and not on the main island of Taiwan or any of the other islands.
 
 ### Audrey Tang:
 It turns out having an IC card is really helpful when there is a pandemic because you can do rationing at basically zero cost reusing existing infrastructure.
@@ -771,7 +771,7 @@ That’s exactly right.
 What’s the level of detail?
 
 ### Audrey Tang:
-That depends on the density of telecom towers, but in a average urban area the level of detail’s around 50 meters.
+That depends on the density of telecom towers, but in an average urban area the level of detail’s around 50 meters.
 
 ### Sarah Gonzalez:
 I don’t know what 50 meters is. Is that a house?
@@ -940,7 +940,7 @@ Fork the government. That’s right. Make sure we get the “R.”
 Tell me about some of the other ways that technology was used to fight the coronavirus. I’ve read that Taiwan fought misinformation online in quite an interesting way.
 
 ### Audrey Tang:
-Let me first say that the chemical technology, that is the soap, hand sanitizers, and the physical vaccine, these are the main things that keep the R-value down. All the digital technology that we just talked about are in a assistive role. Wear the mask and wash your hands.
+Let me first say that the chemical technology, that is the soap, hand sanitizers, and the physical vaccine, these are the main things that keep the R-value down. All the digital technology that we just talked about are in an assistive role. Wear the mask and wash your hands.
 
 ### Audrey Tang:
 With the public announcement done, let’s move on to digital ones.
@@ -952,7 +952,7 @@ PSA over. \[laughs\]
 How do we get people to wear the mask and wash their hands? If it’s me saying it, maybe you’ll remember it, but maybe you will not share it on social media. That is to say, the idea, in many cases, do not spread as fast as conspiracy theories, as misinformation, and even intentionally fabricated disinformation. Those have a higher R-value on social media. The science and the clarifications, they need to find some way to spread even faster than the disinformation.
 
 ### Audrey Tang:
-We looked at all the options and discovered that fun, joy, or, as I call it, humor over rumor is the most potent way to do so. The reason is that when people feel the outrage of a injustice. For example, “Hey, the tissue papers are running out. The nation confiscated the tissue papers producers to make medical mask instead.”
+We looked at all the options and discovered that fun, joy, or, as I call it, humor over rumor is the most potent way to do so. The reason is that when people feel the outrage of an injustice. For example, “Hey, the tissue papers are running out. The nation confiscated the tissue papers producers to make medical mask instead.”
 
 ### Audrey Tang:
 It’s a rumor. It’s not true, but it has a sense of injustice and outrage to it, so people will click Share to vent that upsetness. If it goes into revenge mode or discrimination mode, then it becomes very polarized and divisive.
@@ -1350,7 +1350,7 @@ The usual way of enforcing a fine. \[laughs\] It’s not like they’re going an
 How do you enforce a fine? Can you tap into their wages? Can you put them in jail?
 
 ### Audrey Tang:
-Yeah, of course. It’s the usual way of enforcing a fine. The point of having such a astronomical fine is just to ensure that people understand that this is a serious public health issue. It’s a serious public hazard if they do break the quarantine.
+Yeah, of course. It’s the usual way of enforcing a fine. The point of having such an astronomical fine is just to ensure that people understand that this is a serious public health issue. It’s a serious public hazard if they do break the quarantine.
 
 ### Audrey Tang:
 We say up to this number. It’s not like we have to fine. It’s up to the maximum number, but we do actually make sure that people understand the very vital importance of going through the 14-day quarantine, not only for the rest of society but also for themselves.
@@ -1359,13 +1359,13 @@ We say up to this number. It’s not like we have to fine. It’s up to the maxi
 Wait. Just so that I’m clear, you would be able to garnish someone’s wages or put them in jail…
 
 ### Audrey Tang:
-Yeah, of course. Garnish someone’s wages, that’s certainly possible but many other ways of enforcing a fine as well. Yes, in general, such a astronomical fine is reserved \[laughs\] for things that are truly serious, like endangering the whole country. In the case of COVID, that’s exactly what they’re designed for.
+Yeah, of course. Garnish someone’s wages, that’s certainly possible but many other ways of enforcing a fine as well. Yes, in general, such an astronomical fine is reserved \[laughs\] for things that are truly serious, like endangering the whole country. In the case of COVID, that’s exactly what they’re designed for.
 
 ### Sarah Gonzalez:
 Say that again. A fine that high is designed for something that would involve endangering the country.
 
 ### Audrey Tang:
-Sure. Of course, we understand that setting the maximum fine at such a astronomical number is only reserved for behaviors that would actually endanger the whole country, not just one neighborhood or two. In the case of COVID, that’s exactly the case, so it’s worth it. That is approved by, of course, the legislature.
+Sure. Of course, we understand that setting the maximum fine at such an astronomical number is only reserved for behaviors that would actually endanger the whole country, not just one neighborhood or two. In the case of COVID, that’s exactly the case, so it’s worth it. That is approved by, of course, the legislature.
 
 ### Sarah Gonzalez:
 Did anyone not pay the fine?

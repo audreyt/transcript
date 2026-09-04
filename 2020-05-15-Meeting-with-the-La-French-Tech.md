@@ -488,7 +488,7 @@ I just saw that our Ministry of Economy, or the Jingjibu…Their latest social m
 To realize the SDG 4, we have these technologies. To realize the SDG 10, we have these technologies SDG-whatever. This is a natural partnership. If you can get more French companies, if they have a Taiwan Chapter, to register on the social innovation platform, si.taiwan.
 
 ### Audrey Tang:
-Then naturally they have access to this Ministry of Economy network, and it’s run by \[Chinese\] in the SMEA anyway. \[laughs\] You probably know these folks. \[laughs\] They now partner with \[Chinese\] . That’s the Digital Culture Association who run PanScience and also NPOst.
+Then naturally they have access to this Ministry of Economy network, and it’s run by \[Chinese\] in the SMEA anyway. \[laughs\] You probably know these folks. \[laughs\] They now partner with \[Chinese\]. That’s the Digital Culture Association who run PanScience and also NPOst.
 
 ### Laurent Le Guyader:
 Yeah, I know it’s a weekly…
@@ -558,7 +558,7 @@ We just set up such a thing with this nice regional revitalization badge on it, 
 Those are basically the location where you could rotate to visit a different message for different types…
 
 ### Audrey Tang:
-It’s a exhibition space. The manager of what goes where is the Digital Culture Association folks, the DCA folks. Talk to them.
+It’s an exhibition space. The manager of what goes where is the Digital Culture Association folks, the DCA folks. Talk to them.
 
 ### Laurent Le Guyader:
 Yeah.
@@ -572,7 +572,7 @@ Use my Flickr photos however you want.
 These are the three offers that I can give you right away. Going beyond a little bit, the Taiwan Circulation Alliance, which is the AIT counterpart of your…
 
 ### Laurent Le Guyader:
-There is a All Hands…
+There is an All Hands…
 
 ### Audrey Tang:
 I’m pretty sure that you can co-host some events because there is no limitation in the TCA that says this is US only. This says like-minded economies.
@@ -727,7 +727,7 @@ I would love to see “Startup Island Taiwan” logo right here, because it says
 No, not yet. We are working on the interface to add…
 
 ### Audrey Tang:
-What I mean is instead of just say “Taiwan,” say “Startup Island Taiwan.” It’s the same number of lines, \[laughs\] , and so it looks like a natural connection. That’s what I’m trying to get at, because that will get people share it much more organically.
+What I mean is instead of just say “Taiwan,” say “Startup Island Taiwan.” It’s the same number of lines, \[laughs\], and so it looks like a natural connection. That’s what I’m trying to get at, because that will get people share it much more organically.
 
 ### Audrey Tang:
 People will share it as one of the things that they identify, and then of course you can add your other APAC countries’ equivalent logos in their different locales. If you choose Taiwanese Mandarin interface, then you’ll probably want to say that we do work with Startup Island Taiwan. Talk to a new commissioner. You don’t need their approval, but it would be good to have that approval. \[laughs\]

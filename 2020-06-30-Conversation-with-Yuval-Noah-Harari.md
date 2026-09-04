@@ -484,7 +484,7 @@ Audrey, my question for you is, what was the narrative of Taiwan’s success? Do
 There’s actually two crises at the same time. There is the pandemic, which is the biological one. Then there is the anxiety and fear and outrage and conspiracy theories and panic buying that is collectively referred to as the infodemic.
 
 ### Audrey Tang:
-A good analogy is that if those ideas of conspiracy theory, if you do not put out the vaccines of mind, that is to say deliberative, intentional communication materials of basic scientific understanding, then people would suffer actually from a epistemic void because they don’t know really what’s going on. They tend to fill in whatever their mental projection is, which tend to divide people more and makes things even worse.
+A good analogy is that if those ideas of conspiracy theory, if you do not put out the vaccines of mind, that is to say deliberative, intentional communication materials of basic scientific understanding, then people would suffer actually from an epistemic void because they don’t know really what’s going on. They tend to fill in whatever their mental projection is, which tend to divide people more and makes things even worse.
 
 ### Audrey Tang:
 In Taiwan, in very early on, we establish the “fast, fair, fun” principles, and I talk about fast. Anyone who care enough about asking anything about a counter-pandemic strategy can call 1922 and get their questions answered.
@@ -514,10 +514,10 @@ It become essentially a distributor ledger, in which you can only update every 3
 They expect after a couple of minutes to see in their phone that the stock level of that pharmacy would deplete by 9 or 10 if there are child. If it doesn’t deplete, or it rather increases, then they will just call 1922 right there and report this anomaly to the CECC. I spent a time to talk about this in detail, because this captures what’s at the root of the idea of a data collaborative.
 
 ### Audrey Tang:
-It’s everybody holding each other accountable, everybody ensuring that there really is a fair distribution, because they can win this by themselves, and independent analysts can write more dashboards to show there’s a oversupply in certain areas, undersupply in certain areas.
+It’s everybody holding each other accountable, everybody ensuring that there really is a fair distribution, because they can win this by themselves, and independent analysts can write more dashboards to show there’s an oversupply in certain areas, undersupply in certain areas.
 
 ### Audrey Tang:
-There’s people who work very long hours that they cannot collect at pharmacy, so we have to work with convenience store that open 24 hours a day. It’s already a international narrative.
+There’s people who work very long hours that they cannot collect at pharmacy, so we have to work with convenience store that open 24 hours a day. It’s already an international narrative.
 
 ### Audrey Tang:
 After we developed this code, which is all open source, by the way, people in Korea used the Taiwan model to convince their government that publishing the number every week or every day at the end of day is not enough. You have to do a real-time API, just like Taiwan did.
@@ -646,7 +646,7 @@ You believe in the nation or in some god or in a corporation or whatever. You wa
 Whatever story we create in the 21st century in order to deal with the new challenges, we should constantly ask ourselves this question. Who actually suffers? Remember that everything we do is in order to alleviate that suffering. Then we are on safe ground.
 
 ### Audrey Tang:
-That’s a very powerful way to interpret, which is very enlightening. As a oyster vegan, I would not go into a debate of whether oysters are real or not, \[laughs\] of whether they can suffer or not. What makes sense really is to empower the people – by people, I mean any being that can suffer – to empower people closest to the suffering.
+That’s a very powerful way to interpret, which is very enlightening. As an oyster vegan, I would not go into a debate of whether oysters are real or not, \[laughs\] of whether they can suffer or not. What makes sense really is to empower the people – by people, I mean any being that can suffer – to empower people closest to the suffering.
 
 ### Audrey Tang:
 If we keep coding to empower people who are closest to the pain, who are indeed suffering, then I would argue that they then become hackers in the civic hacking sense, that they cannot be restrained by their biology, because it’s Pride Month after all, or restrained \[laughs\] by their social standing or even other old stories that people merely repeat but do not co-create.
@@ -655,7 +655,7 @@ If we keep coding to empower people who are closest to the pain, who are indeed 
 Then being liberated from those old stories, they become story weavers that can then determine a better destiny for everyone in the sapien-kind, if that’s a word. If we concentrate power to the people who are feeling the least suffering, people who already enjoy too much hedonistic lifestyles, then we are in real danger.
 
 ### Audrey Tang:
-Even though hedonism is not zero sum, it tends to self-reinforce itself into a self-trapping cycle. I would also say that to hack or to be hacked is not a question that is a individual level.
+Even though hedonism is not zero sum, it tends to self-reinforce itself into a self-trapping cycle. I would also say that to hack or to be hacked is not a question that is an individual level.
 
 ### Audrey Tang:
 Rather, it’s on a society level, and we can keep looking at, just like Gini index, we can look at the code weaver, story weaver’s index of how much individuals who are closest to the pain and suffering can co-create the norm and the code that we’re living by.

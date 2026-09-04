@@ -71,7 +71,7 @@ The password works. Excellent. I'm able to see the document.
 Here I would like to change over to the interviewer. That's Mr. Murakami. Mr. Murakami, he is a writer. We look forward to interviewing you.
 
 ### Murakami:
-[Japanese] .
+[Japanese].
 
 ### Mijikta:
 First of all, I now understand that you were able to open the file and see the questions. We're going to go according to that script. Our first question is, you joined the ministry in 2016. It has been five years already. Looking back, can you tell us how you feel right now?
@@ -161,7 +161,7 @@ Well, we're not forcing it on anyone though, like the SMS based contact tracing.
 
 If you don't have a phone, you can always, I don't know, use a seal [laughs] to stamp on paper and check in. It's all about offering more pluralistic choices. It's not about transforming away from anything, but rather transforming toward shared goals.
 
-Because we've never had a lockdown in Taiwan, we've never had a emergency state in the past couple of years, so the freedom of movement is still there, and people still go to work if they choose to go to work. It's just that teleworking has gained popularity as an alternative. Maybe people do some meetings in augmented reality.
+Because we've never had a lockdown in Taiwan, we've never had an emergency state in the past couple of years, so the freedom of movement is still there, and people still go to work if they choose to go to work. It's just that teleworking has gained popularity as an alternative. Maybe people do some meetings in augmented reality.
 
 Maybe they travel to enjoy the social gatherings with their colleagues, but bring some work back home and use augmented reality to help on the machine repairs. Or for classes, maybe they do some of their studying using teller education tools, but meet together to solve problems and make projects and so on.
 
@@ -340,7 +340,7 @@ Rather, it's because getting the vision and mission of the leadership more evenl
 [Japanese]
 
 ### Mijikta:
-This is the last question for you Audrey. What makes you you, and to maintain that, to stick to that, what kind of things do you do to keep that?
+This is the last question for you Audrey. What makes you, you, and to maintain that, to stick to that, what kind of things do you do to keep that?
 
 ### Audrey Tang:
 To me, I see myself just as a vehicle for ideas that's worth spreading. Maybe I receive an idea like, "Humor over rumor" or something. I do some rhyming or alliteration, making sure that it's easier to spread. Then I spread it, I just relate that to you, or optimizing for fun. These are not new ideas and these are certainly not my idea, it's just I helped in increasing its basic transmission rate, increase its virality.
@@ -357,7 +357,7 @@ That's my function. As soon as it's spread to some other people, I've done my wo
 This is the end of the interview. Thank you very much for all the interesting things that you have shared with us today.
 
 ### Audrey Tang:
-Thank you. Thank you for the excellent interpretation. I think this is one of smoothest experience I've had in working with a asynchronous interpreter. Thank you.
+Thank you. Thank you for the excellent interpretation. I think this is one of smoothest experience I've had in working with an asynchronous interpreter. Thank you.
 
 ### Mijikta:
 [Japanese]

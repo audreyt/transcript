@@ -56,7 +56,7 @@ Yes. You said "outrage," are you seeing anything specific in Taiwan? Or are you 
 ### Audrey Tang:
 We're talking about pre-COVID days. I have in my mind around November 2019 leading up to our 2020 January presidential election there was a trending viral disinformation that talks about, and I quote, "The young people in Hong Kong are being paid $20 million to kill the police."
 
-This is obviously not true. It's not trending in anywhere else, not in Hong Kong, just in Taiwan. We see that this kind of messages try to provoke outrage, and change the public discourse, vis-à-vis the Hong Kong Anti ELAB protests and demonstrations in a attempt to influence our presidential election campaigns.
+This is obviously not true. It's not trending in anywhere else, not in Hong Kong, just in Taiwan. We see that this kind of messages try to provoke outrage, and change the public discourse, vis-à-vis the Hong Kong Anti ELAB protests and demonstrations in an attempt to influence our presidential election campaigns.
 
 ### Erin Hale:
 Where do you think that rumor came from? Was it from inside Taiwan or was it from outside Taiwan?

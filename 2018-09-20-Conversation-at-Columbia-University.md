@@ -89,7 +89,7 @@ That is why in this slide, I chose this icon, which is the 17th SDG for this con
 For this kind of holistic worldview, reliable data is very important because otherwise, people are not held accountable for the negative externalities, but they’re rewarded for the positive progress they make on any of these goals.
 
 ### Audrey Tang:
-We need to maintain our awareness that any action has a different spillover effect on every other goals as well. How exactly does those goals overlap? How does policies and other civil society and private sector actions actually impact these different goals and targets that becomes a evidence-based policymaking problem that only advance unethical use of data and make everybody see the whole picture at once?
+We need to maintain our awareness that any action has a different spillover effect on every other goals as well. How exactly does those goals overlap? How does policies and other civil society and private sector actions actually impact these different goals and targets that becomes an evidence-based policymaking problem that only advance unethical use of data and make everybody see the whole picture at once?
 
 ### Audrey Tang:
 17.17 talks about encouraging effective partnership because when we talk about open data, many people think about open government data, but it is also citizen science. It is also data sharing from private sector.
@@ -149,7 +149,7 @@ We have some audience questions coming in. Shall we go into talking about those?
 I’ve already mentioned a little bit about the Civil IoT project. The website address is ci.taiwan.gov.tw. We have offered these cross-ministerial projects like ci.taiwan.gov.tw. We also have one for AI Taiwan, for Bio Taiwan, for Smart Taiwan, you name it.
 
 ### Audrey Tang:
-The CI Taiwan one is about basically citizen science and about people measuring the air quality using low-cost measurement devices basically on their balcony, also part of as a education tool and things like that.
+The CI Taiwan one is about basically citizen science and about people measuring the air quality using low-cost measurement devices basically on their balcony, also part of as an education tool and things like that.
 
 ### Audrey Tang:
 Taiwan is kind of rare in Asia, where you can have thousands of people just doing citizen science like that without fear of censorship or retaliation from the government. In fact, the government, we’re like, &quot;When we can’t beat them, join them.&quot;
@@ -161,7 +161,7 @@ When they set up those 2,000 points we commit ourselves to set up complementary 
 When they went to water quality we started doing water quality as well and manufacturing devices that can do sensor vision, like make most of the environmental data without impacting too much by the noise and things like that.
 
 ### Audrey Tang:
-I think the really powerful message sent to the policymakers is that for the first time we have a aggregated data store of a very large variety and incoming sources and it’s all accountable. The snapshot is taken every now and then and stored into distributed ledger systems to make sure that we don’t change the numbers before election day or things like that.
+I think the really powerful message sent to the policymakers is that for the first time we have an aggregated data store of a very large variety and incoming sources and it’s all accountable. The snapshot is taken every now and then and stored into distributed ledger systems to make sure that we don’t change the numbers before election day or things like that.
 
 ### Audrey Tang:
 Basically, it creates something of a neutral collaboration ground that people who are doing science, doing policy, and so on can see as a reusable data source. We also do a lot of collaboration around that.
@@ -445,7 +445,7 @@ It certainly is a mutually distributed ledger. Such ledger technologies are now 
 There is, for example, around the time of the Nepal water issue, there’s a lot of people who donated towards to recover from the hurricane and the disaster and whatever.
 
 ### Audrey Tang:
-We observed that people generally trust a international charity better than a domestic partnering with another domestic charity because they don’t know of the accountability involved, which is why the Taiwan NPOs all invest a lot accountability mechanisms and self-regulation in order to earn people’s trust.
+We observed that people generally trust an international charity better than a domestic partnering with another domestic charity because they don’t know of the accountability involved, which is why the Taiwan NPOs all invest a lot accountability mechanisms and self-regulation in order to earn people’s trust.
 
 ### Audrey Tang:
 Such auditing mechanisms with KPMG or with any of the other auditors are kind of costly. It’s not so, so good for crowdfunding or the charities that are just set up for this event alone.
@@ -463,7 +463,7 @@ That is one thing that is already being increasingly used to improve the account
 There’s many other...I have a bunch of friends working on the so-called &quot;Matter News,&quot; which is a way for people working on human rights to voice their concerns and have a distributed forum. I think the good thing about it, again, is because of this distributed ledger, if people censor or modify the message, that attempted censorship will actually be recorded.
 
 ### Audrey Tang:
-They chose a pretty good mathematic foundation so that it’s very difficult to mount a attack for the whole network.
+They chose a pretty good mathematic foundation so that it’s very difficult to mount an attack for the whole network.
 
 ### Audrey Tang:
 For things like that that are just out there in the public knowledge, social objects for everybody to reflect about, I think there’s enormous potential in distributed ledger technologies.
@@ -511,7 +511,7 @@ There’s a whole notion of portability, explainability, and so on because of th
 If there is no ongoing relationship, none of these words would matter, because then it would just be a shadow of your profile captured years ago, basically going back to a fossilized society, because there’s no way to update it in a way that accurately reflects then your purpose being defined.
 
 ### Audrey Tang:
-Of course, what does &quot;purpose&quot; actually mean? Professor Wing made a lot of semantic contributions on this field, and that is also a ongoing dialogue that we have to make across sectors, on what &quot;purpose&quot; actually means.
+Of course, what does &quot;purpose&quot; actually mean? Professor Wing made a lot of semantic contributions on this field, and that is also an ongoing dialogue that we have to make across sectors, on what &quot;purpose&quot; actually means.
 
 ### Audrey Tang:
 I say this very carefully, because for each and every scenario that involves the government use of people’s data in Taiwan, we have this true multi-stakeholder dialogue that brings everybody’s voices in, that lets people generally become aware of what exactly is going on.

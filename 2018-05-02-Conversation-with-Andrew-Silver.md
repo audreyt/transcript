@@ -181,7 +181,7 @@ Yuan is.. a courtyard? The Executive Courtyard. \[laughs\]
 Instead of three powers, the constitution here -- imported from somewhere else -- defines five powers. \[laughs\]
 
 ### Audrey Tang:
-The five powers, in addition to the usual three branches, there’s a examination and the corrective. These two branches are not covered by the Executive powers’ internal regulations.
+The five powers, in addition to the usual three branches, there’s an examination and the corrective. These two branches are not covered by the Executive powers’ internal regulations.
 
 ### Andrew Silver:
 The government here is not similar to, let’s say, the German government, for example?
@@ -238,7 +238,7 @@ They have their own open data policies, but they’re distinct from the executiv
 All the branch can propose law amendments to the legislative. This is, again, very different from certain other countries. In other countries only MPs get to propose bills and amendments, but here all the five branches can propose their own amendments to the legislative branch.
 
 ### Audrey Tang:
-We have prepared a amendment to the legislative branch that concerns the corrective branch, to ask them to, as part of the sunshine campaigning law, publish he fine details of all the political donations to an election campaign. If passed by the legislation, that will bind the corrective power, but we can’t directly use a regulation to ask data out of the corrective branch.
+We have prepared an amendment to the legislative branch that concerns the corrective branch, to ask them to, as part of the sunshine campaigning law, publish he fine details of all the political donations to an election campaign. If passed by the legislation, that will bind the corrective power, but we can’t directly use a regulation to ask data out of the corrective branch.
 
 ### Andrew Silver:
 Right now, there’s no way to get data from the corrective branch, because there’s no...?
@@ -552,7 +552,7 @@ Test self-driving cars and planes and ships and everything in between.
 Currently, that’s...
 
 ### Audrey Tang:
-There are three different regulations at the moment. They also are concerned with things are still cars. For the Ministry of Transportation and Communication once something that moves but doesn’t have a external wheel, is it a car anymore? It’s exclusively for things that are unknown by the MOTC.
+There are three different regulations at the moment. They also are concerned with things are still cars. For the Ministry of Transportation and Communication once something that moves but doesn’t have an external wheel, is it a car anymore? It’s exclusively for things that are unknown by the MOTC.
 
 ### Audrey Tang:
 Then, the MOEA steps in and takes care. The AI Mobility Sandbox is chaired by the MOEA, not the MOTC. The MOEA takes this experimentation proposal, figure out the business model of it, and then talk to the MOST on the science and technology part, and MOTC on the safety part. They collaboratively...

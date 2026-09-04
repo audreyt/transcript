@@ -43,7 +43,7 @@ The 20 NGOs each deliberating one aspect of CSSTA also benefited from the crowd 
 It was a demonstration, to everybody in Taiwan really, that this kind of technology many people did not imagine that would scale to this number of people actually works. Because half a million people participated in some form in it, it gained a lot more legitimacy than the administration which at that moment was about nine percent of popular approval.
 
 ### Audrey Tang:
-At the end of the Occupy, there was a city-level election. For the first time, the Taipei city has a independent mayor. Also, the Tainan city mayor, Lai Ching-te, ran with the campaign of open government and won reelection because of it.
+At the end of the Occupy, there was a city-level election. For the first time, the Taipei city has an independent mayor. Also, the Tainan city mayor, Lai Ching-te, ran with the campaign of open government and won reelection because of it.
 
 ### Audrey Tang:
 Anyone who did not agree with the Occupy values did not get elected mayors. That’s how the previous Prime Minister at the time resigned. The new Premier using a very engineering think process thought that &quot;If this thing actually works, we should have it as national direction.&quot;
@@ -52,7 +52,7 @@ Anyone who did not agree with the Occupy values did not get elected mayors. That
 The new Premier declared that crowdsourcing and open data transparency are just going to be the national direction from the end of 2014 onward. The Occupiers, as well as supporters of the Occupy facilitative methods were invited as advisers and mentors to the public service to teach the public servants how to listen to people at scale.
 
 ### Audrey Tang:
-I was kind of an understudy minister starting from that point onward. The minister for cyberspace at the time, Jaclyn Tsai, herself coming from IBM Asia, actually asked at a hackathon whether we can build a Internet society-inspired process that let people to deliberate about upcoming digital economy issues such as Uber and AirBnb and so on.
+I was kind of an understudy minister starting from that point onward. The minister for cyberspace at the time, Jaclyn Tsai, herself coming from IBM Asia, actually asked at a hackathon whether we can build an Internet society-inspired process that let people to deliberate about upcoming digital economy issues such as Uber and AirBnb and so on.
 
 ### Audrey Tang:
 We built this completely open source protocol for deliberating online and then using the online deliberation as the agenda for a face-to-face deliberation that is then re-broadcasted and live-streamed with online input.
@@ -153,7 +153,7 @@ If they need help with translation, for example, we also work with Hackpad, and 
 For a while, that went, hackpad.com is under maintenance, g0v Hackpad would actually still function, because it’s a \[laughs\] dedicated instance of sorts. We was working with Twitch.tv, with YouTube, with YouScreen, with Hackpad -- with all those international collaborative media ways and writing new applications to support the Occupy whenever the need arises.
 
 ### Audrey Tang:
-It’s literally the work of hundreds of people. I remember them calling for a Ethernet line because the internal and external communication through the Internet has a 5- to 10-second delay. Rumors spread because of that delay.
+It’s literally the work of hundreds of people. I remember them calling for an Ethernet line because the internal and external communication through the Internet has a 5- to 10-second delay. Rumors spread because of that delay.
 
 ### Audrey Tang:
 I remember them carrying 350 meters of ethernet cables to the Occupy site and helping the network team there setting up the intranet that connects directly the video feed from the Occupy site to the street outside the Parliament so that people can watch with their own eyes what’s happening in the Occupy site.
@@ -210,7 +210,7 @@ That’s good. It’s good. We have time.
 Would you mind giving a brief overview of the Public Digital Innovation Space and why you all traveled to New York City to share with us the methods in this amazing two-day training that we took part in?
 
 ### Audrey Tang:
-PDIS, our Public Digital Innovation Space is a port, a adaptation of the g0v methodology in the central government. It’s set up explicitly as a leaderless structured network, which is why we call our selves a space rather than a service or a corp or whatever. It’s literally a space or several spaces.
+PDIS, our Public Digital Innovation Space is a port, an adaptation of the g0v methodology in the central government. It’s set up explicitly as a leaderless structured network, which is why we call our selves a space rather than a service or a corp or whatever. It’s literally a space or several spaces.
 
 ### Audrey Tang:
 There’s an office that used to be Minister Jaclyn Tsai’s office in the central administration building. There’s the office next to it, the Minister Chen Mei-ling’s office of the National Development Council, but she’s usually at the NDC building, so she donates her office to PDIS as an additional space.
@@ -285,7 +285,7 @@ I’m really just having fun. Back then, when I was doing Perl 6, and I did this
 The whole point is to look at democracy, to look at this co-creation methods, and enjoy it. Too often, what the institutional or the establishment ways of practicing so-called democracy -- while being useful or effective to a degree -- really takes the fun out of it, because people sometimes took a lot of effort and spent a lot of time to cast a ballot, but it’s in reality just two bits every four years, five bits every four years.
 
 ### Audrey Tang:
-Most of my work is just to restore some of the fun in it, to create or -- to use a now a little bit outdated term -- gamify the system so that people can find that there is a instant gratification and tangible reward by contributing. Just by pressing Like or Unlike a few times, or by inputs, say, in one statement or one part of the feeling, and feel that they add to the whole, adding to the discussion rather than taking anything away.
+Most of my work is just to restore some of the fun in it, to create or -- to use a now a little bit outdated term -- gamify the system so that people can find that there is an instant gratification and tangible reward by contributing. Just by pressing Like or Unlike a few times, or by inputs, say, in one statement or one part of the feeling, and feel that they add to the whole, adding to the discussion rather than taking anything away.
 
 ### Audrey Tang:
 This underlies a lot of my research, and the PDIS team are also publishing our findings about designing interactive spaces. That’s led every participant to feel that they’re adding something rather than subtracting or taking something away.
@@ -297,7 +297,7 @@ This is completely in line with what I did around 2005, 2006, just flying around
 I really do think that this kind of restoring the fun in a democracy takes input from all coachers, and it is not just one single civilization or one single coacher or one single city can complete this massive puzzle by itself, and what we’re is a swarm-like experimentation, and a swarm-like innovation. There’s got to be some way for everybody to know, to have an overview of what everybody else is doing.
 
 ### Audrey Tang:
-I’m deeply grateful to venues such as TIC TAC, such as the Personal Democracy Forum, such as the Open Government Partnership and other related venues, where people can annually just share what’ve been doing the past years. It could be seen as a ambassadors’ or a diplomat’s work.
+I’m deeply grateful to venues such as TIC TAC, such as the Personal Democracy Forum, such as the Open Government Partnership and other related venues, where people can annually just share what’ve been doing the past years. It could be seen as an ambassadors’ or a diplomat’s work.
 
 ### Audrey Tang:
 What I’m thinking, my internal image of this is really a new kind of international movement of new power projecting as shadows to the various different cities and countries, and just harnessing the different coachers’ innovations into refining this kind of recursive public, and then adding back to the collective intelligence infrastructure that everybody can use to improve the engagement and enjoyment of collective decision.
@@ -398,7 +398,7 @@ This is a way to point at that problem in a more efficient, in a better way.
 Not necessarily better, but a more transparent way, because I think the current challenge of a true open multi-stakeholder governance is that we all know that it works on open-source projects really well, and it works reasonably well in an Internet society and other more ICT-related topics. It is far from clear that the same model works at scale to solve social problems. That requires a lot of local domain knowledge, local expertise, and so on.
 
 ### Audrey Tang:
-This is a active research area, but because the Taiwan administration prides our self in innovating governance, so I think it does help that we’re just piloting a lot of this and failing a lot and document the occasional successes as well as all the failures. Again, absorbing risk, but not just for public servants but also for anyone who want to use not necessarily civic tech but any kind of social innovation for the public good in a multi-stakeholder governance model.
+This is an active research area, but because the Taiwan administration prides our self in innovating governance, so I think it does help that we’re just piloting a lot of this and failing a lot and document the occasional successes as well as all the failures. Again, absorbing risk, but not just for public servants but also for anyone who want to use not necessarily civic tech but any kind of social innovation for the public good in a multi-stakeholder governance model.
 
 ### Audrey Tang:
 I hinted at that during the workshop, that we’re assigning a lot of the wording of open multi-stakeholder process into the, for example, National Digital Communication Act as well as other acts. We’re trying to propagate this idea -- that this is a new, exciting way of doing governance that anyone can join without the government spearheading it.

@@ -24,7 +24,7 @@ Previously, with radio and television, it’s very easy for the government to sp
 The kind of technology we’re working on, we call it civic technology. It’s mostly just to get millions of people to listen to one another, and also find their commonalities despite different positions, like common values.
 
 ### Audrey Tang:
-I think that, the common value finding, is a utmost importance to the governance nowadays when it comes to social entrepreneurship. Because otherwise, we will just have people lobbying for environmental values, for social values, for economic values, and so on without a coherent way to blend those ideas into a common value that everybody can live with.
+I think that, the common value finding, is an utmost importance to the governance nowadays when it comes to social entrepreneurship. Because otherwise, we will just have people lobbying for environmental values, for social values, for economic values, and so on without a coherent way to blend those ideas into a common value that everybody can live with.
 
 ### Audrey Tang:
 I think technology really helps in the sense of it get everybody’s feelings out there and give everybody a safe space and to converge in common values.
@@ -129,7 +129,7 @@ Actually there’s many social enterprise in Taiwan because Taiwan has been deve
 I remember when I was six years old I think, that was 1987 -- now you know my age, which is public information anyway -- \[laughs\] my mom joined this foundation. They called themselves the Homemakers United Foundation for environmental protection.
 
 ### Audrey Tang:
-It started as a environmental awareness campaign. Very quickly, they found that if they form a consumer co-op and pool together the buying power from the agricultural people, then they can convince them to do agriculture in an environmentally-friendly way.
+It started as an environmental awareness campaign. Very quickly, they found that if they form a consumer co-op and pool together the buying power from the agricultural people, then they can convince them to do agriculture in an environmentally-friendly way.
 
 ### Audrey Tang:
 They pool their resource together, not as producers but just as consumers, and then raise awareness just exactly this way. It’s one of the largest coops in Taiwan. They’ve been running for more than 20 years now.

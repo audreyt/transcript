@@ -152,7 +152,7 @@ We’re interested in all of the people who use Google in Taiwan, of course, but
 ### Audrey Tang:
 The Deputy Ministry just earlier today delivered a very comprehensive presentation about how we're helping the helpers to the elderly people. If you go directly to see, then it's very difficult actually.
 
-There are helpers who can, themselves, maybe in their 50s and so on, who are going to get us in any way, if you make sure that they're acquainted as a additional ambassador to the even older people they're taking care of, empowering them with, for example, a service map that they can get more help on, and make matching guarantees so that when they used a website and so on, it is accessible by default, it has universal design.
+There are helpers who can, themselves, maybe in their 50s and so on, who are going to get us in any way, if you make sure that they're acquainted as an additional ambassador to the even older people they're taking care of, empowering them with, for example, a service map that they can get more help on, and make matching guarantees so that when they used a website and so on, it is accessible by default, it has universal design.
 
 Such standards, I think we're very committed to work with all the ministries and competent authorities to make it happen. I understand that Google's design actually has a very strong accessibility component to it.
 
@@ -391,7 +391,7 @@ A lot of the talks that we have here, because we'll have a GDPR-compliant data p
 ### Audrey Tang:
 We try. We made that as our cabinet's promise to the human rights report to establish by the next year. A lot of the talk are going through the cabinet level, and I'm the cabinet-level CIO.
 
-A lot of our work with the administration and with the CBPR work will eventually be subsumed by the new DPA. We want to make sure that the DPA in collaboration with MoDA is not just a agency giving out huge fines, but rather it should be a capacity builder so that it shares the latest and greatest in privacy tech. I have in mind, for example, I'm more connected to the Ethereum and so Tezos world. [laughs]
+A lot of our work with the administration and with the CBPR work will eventually be subsumed by the new DPA. We want to make sure that the DPA in collaboration with MoDA is not just an agency giving out huge fines, but rather it should be a capacity builder so that it shares the latest and greatest in privacy tech. I have in mind, for example, I'm more connected to the Ethereum and so Tezos world. [laughs]
 
 That world is even more plural, and there's a lot more opportunistic scammers in that space. It's like a maximally adversarial space. In those space, people discovered that really the only way privacy tech can work is for it to be zero knowledge. There's no privacy budget.
 

@@ -223,7 +223,7 @@ The g0v movement built connections overseas, in particular with mySociety in the
 They run this pretty good festival for the impact civic technology in Europe for a few years now, and they’re running it in Taipei this time concurrent with WCIT. The latest news I heard was that it would be considered official as one of the tracks in the WCIT Taipei.
 
 ### Audrey Tang:
-We’ve been meeting those speakers all over world, hundreds of them by now. \[laughs\] At least these relatively young people really want to come to Taiwan, because they really need something that’s after certain presidential elections and certain exits that that shows ICT can still have a proactive role in driving the democratic institutions, as part of the social-media invention.
+We’ve been meeting those speakers all over world, hundreds of them by now. \[laughs\] At least these relatively young people really want to come to Taiwan, because they really need something that’s after certain presidential elections and certain exits that show ICT can still have a proactive role in driving the democratic institutions, as part of the social-media invention.
 
 ### Audrey Tang:
 That’s why I said we’ll tackle these issues here, and there’s already dozens of talks to that of recruiting and people will come. That’s a relatively small track, one quarter or one fifth of the complete program. I don’t have a very detailed review of the other corporate of the program.
@@ -238,7 +238,7 @@ They tried to have so many because right now they will mention about 90 some of 
 That’s a nice metaphor. \[laughs\]
 
 ### Yvonne Chiu:
-Yeah, that’s what I worry about, because also me and Jim keep talking about. We don’t need that many speakers, because we really need to get things done in a genius, specialist each time. This last month, he and I went to Geneva, and then because WITSA has a seat in a UN panel , so we can go into United Nations, and he’s one of the panelists there, and he’s really good.
+Yeah, that’s what I worry about, because also me and Jim keep talking about. We don’t need that many speakers, because we really need to get things done in a genius, specialist each time. This last month, he and I went to Geneva, and then because WITSA has a seat in a UN panel, so we can go into United Nations, and he’s one of the panelists there, and he’s really good.
 
 ### Yvonne Chiu:
 When we go in there, and he sits on the stage, and I would sit down there, and he even points out, &quot;WITSA chairman is sitting there. Stand up and say hi to everybody.&quot; Trying to promote, everybody look at me. They won’t say I’m American, they won’t say I’m, but I just stand up and say hi to everyone.
@@ -710,7 +710,7 @@ He’s really, really good.
 Imagineer, right?
 
 ### Yvonne Chiu:
-Yeah, imagineer and he’s really grateful, and more I know him the more I appreciate him, because before I even on board and everybody talk about it , but I changed a lot. One other thing is WCIT used to be every two years, and this I am so proud, too.
+Yeah, imagineer and he’s really grateful, and more I know him the more I appreciate him, because before I even on board and everybody talk about it, but I changed a lot. One other thing is WCIT used to be every two years, and this I am so proud, too.
 
 ### Yvonne Chiu:
 Every two years, and our government asked me to submit a paper to challenge it for 2018, but 2018 already, but 2018 India already got it because Taiwan submit the papers the last, the last one and then France and Armenia.

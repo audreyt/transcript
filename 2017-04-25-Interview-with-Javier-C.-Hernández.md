@@ -34,7 +34,7 @@ Civic participation has many different forms. So far, we have a vTaiwan.tw platf
 Also coming up, for example, unmanned aerial systems, sharing economy such as Airbnb, and privacy-related laws, anything that’s related to the digital economy.
 
 ### Audrey Tang：
-This is a cross‑sectoral collaboration. The National Development Council has a separate platform called join.gov.tw. This platform allows three kinds of participation. One is e-petition. You may have heard if 5,000 people countersigns, they can enact a petition.
+This is a cross‑sectoral collaboration. The National Development Council has a separate platform called join.gov.tw. This platform allows three kinds of participation. One is e-petition. You may have heard if 5,000 people countersign, they can enact a petition.
 
 ### Audrey Tang：
 We review it every month, and then we select three proposals every month to be intensively collaborated as a workshop every Friday that I brief with the Premier on the next Monday.
@@ -115,7 +115,7 @@ Not yet.
 Not yet, that’s right. We invited motorcycle riders, the association of the large vehicles, the Ministry of Transport, and so on, and worked very intensively for four hours, allowing everybody to voice their concerns.
 
 ### Audrey Tang：
-For the non‑bikers there, like me, they had also the first point of view recording of how it’s like to drive motorcycle, so we that can build empathy for each other. We allowed online calling. There’s thousands of people watching the livestreaming, providing for input. We collaboratively decided on a course of action that everybody can live with.
+For the non‑bikers there, like me, they had also the first point of view recording of how it’s like to drive motorcycle, so that we can build empathy for each other. We allowed online calling. There’s thousands of people watching the livestreaming, providing for input. We collaboratively decided on a course of action that everybody can live with.
 
 ### Audrey Tang：
 What I mean is that we start small, like 5,000‑people level, and gradually build that trust, instead of just having the most controversial, the most difficult. I wouldn’t say that if we do a, for example, same‑sex marriage forum we would get meaningful results. We would need to get people’s habit into this kind of process for this situation.
@@ -178,7 +178,7 @@ As people get more agenda‑setting power, both in their private lives, and also
 That leads to a lot of anger, as you said, because that’s the last bastion that wouldn’t change. Governments around the world are feeling this pressure. It used to be that they can set the agenda of how the nation is developing, but now we’re maybe 10 percent of this direction‑setting power.
 
 ### Audrey Tang：
-I think the most important thing for a career public servant is to give up the illusion that we can control the national agenda in a meaningful way, and then also trust the collective intelligence more, instead of characterizing people as ignorant or populous masses or whatever. We’re way past that now.
+I think the most important thing for a career public servant is to give up the illusion that we can control the national agenda in a meaningful way, and then also trust the collective intelligence more, instead of characterizing people as ignorant or populist masses or whatever. We’re way past that now.
 
 ### Javier C. Hernández：
 How’s it going in terms of convincing other people, people like career civil servants, who spent their lifetimes in government and are perhaps very accustomed to that agenda‑setting role, and perhaps aren’t as comfortable with radical transparency, participation, and so on? What’s your own sense in working with people like that?
@@ -331,7 +331,7 @@ It’s obviously been a couple years in which we’ve seen a lot of political ac
 I’m curious, thinking through your lens of somebody who studies participation and governments, I’m curious, how do you characterize that movement ‑‑ Occupy, etc. ‑‑ in the context of Taiwan’s history, and where do you see the youth today, especially, and what they’re seeking from the government?
 
 ### Audrey Tang：
-Like all young people, they seek meaning, and create a meaningful life. Internet being a great way for people to meet kind like‑minded people, I think it’s done tremendous good for young people of all kinds to find like‑minded people, not just within Taiwan, but globally as well.
+Like all young people, they seek meaning, and create a meaningful life. Internet being a great way for people to meet like‑minded people, I think it’s done tremendous good for young people of all kinds to find like‑minded people, not just within Taiwan, but globally as well.
 
 ### Audrey Tang：
 There’s a very strong sense of connectedness in Taiwan’s youth that we’ve not seen before, where the generation before me were raised looking, I would say, at the industries, especially the manufacturing or service industries here, they have very clearly defined verticals.
@@ -397,7 +397,7 @@ We took a page from how the French is teaching philosophy, for example. It’s n
 While the course is being developed, mostly by journalism experts, I think the idea is to question the teachers, and for the teachers to stop assuming a source of all truth, which doesn’t work, anyway. People, now the student use their phones to check Wikipedia.
 
 ### Audrey Tang：
-It’s impossible to monopolize the truth, anyway. For the teacher to gradually become not somebody who teaches, but just as somebody who facilitates learning. Once the teachers assume this role, and then we’ve designed empowerment costs for teachers, also, people can then see the student‑teacher relationship is more important relationship.
+It’s impossible to monopolize the truth, anyway. For the teacher to gradually become not somebody who teaches, but just as somebody who facilitates learning. Once the teachers assume this role, and then we’ve designed empowerment courses for teachers, also, people can then see the student‑teacher relationship is more important relationship.
 
 ### Audrey Tang：
 Once they do that, the students can then form equal dialogues or conversations among themselves, and the teacher just happens to be someone who studies. I think that’s the fundamental thing about K12, because in Taiwan, experimental education has been legal for years.

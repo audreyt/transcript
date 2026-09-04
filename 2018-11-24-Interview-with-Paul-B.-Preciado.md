@@ -379,7 +379,7 @@ Exactly. Yes.
 \[laughs\]
 
 ### Audrey Tang:
-I guess. I transitioned from a exclusive model to inclusive model. You can say that, but you can’t say I reject university. I learn most things from universities. Otherwise, it’s from CERN, which is not university, but a research facility. These are state institutions, and I’m not rejecting their existence. I’m just engaging them in a way that is non-exclusive of our relationships.
+I guess. I transitioned from an exclusive model to inclusive model. You can say that, but you can’t say I reject university. I learn most things from universities. Otherwise, it’s from CERN, which is not university, but a research facility. These are state institutions, and I’m not rejecting their existence. I’m just engaging them in a way that is non-exclusive of our relationships.
 
 ### Paul B. Preciado:
 For instance, you’re not criticizing by itself the knowledge regime of the traditional universities?
@@ -391,7 +391,7 @@ I publish, but on open-access journals. I edit, I do conferences, steering commi
 My core reading when I was 13 years old was Project Gutenberg, which you may have heard of. It is a bunch of people just typing everything -- because there was no good OCR technology back then -- that’s in the public domain to the public Internet for everybody, including me, to read.
 
 ### Audrey Tang:
-Because the Project Gutenberg has a interesting interaction with the copyright law, which keeps getting extended to protect a certain mouse. What happened was that, when I was around 13, which is 1994, I only get to read everything that’s written before the First World War.
+Because the Project Gutenberg has an interesting interaction with the copyright law, which keeps getting extended to protect a certain mouse. What happened was that, when I was around 13, which is 1994, I only get to read everything that’s written before the First World War.
 
 ### Audrey Tang:
 Everything that’s written at or after the First World War was not public domain, so Project Gutenberg cannot operate on that.
@@ -704,7 +704,7 @@ That, I also consider poetic because these are self-contained, very small limits
 Back to Jaromil. Jaromil says that I remind him of Birgitta of Icelandic Pirate Party, also a poet, a politician, and also anarchist. Yes, that’s the other poetician anarchist that I’m aware of.
 
 ### Audrey Tang:
-Jaromil runs a observatory, AlgoSov.org, a think tank -- obviously a do tank also -- about how to own the code that runs people’s lives, which is what he means by algorithmic sovereignty. He asked me pretty much the same question you just asked.
+Jaromil runs an observatory, AlgoSov.org, a think tank -- obviously a do tank also -- about how to own the code that runs people’s lives, which is what he means by algorithmic sovereignty. He asked me pretty much the same question you just asked.
 
 ### Audrey Tang:
 I said, &quot;I’m going to say code, but when I say code, please think algorithm.&quot; I’m saying, in cyberspace, which is another word for Internet, code determine what can happen, what cannot happen, what is transparent, what is opaque. It is the normativity, but it’s not textual. It’s more like physics because, within the space, you cannot violate the physics law.
@@ -950,13 +950,13 @@ We just passed the Foreign Talent Act, and the new immigration act is in the wor
 The political definition, that means the border of the polity is more geographic in nature. When I say Taiwan, I always mean the geographic feature. I would say Taiwan started forming four million years ago. Taiwan’s culture starts spreading for thousands of years ago of the Austronesian tradition.
 
 ### Audrey Tang:
-I would also say that back in the ice age, Taiwan was part with Mainland. It’s a archipelago shape now for hundreds of thousands of years. When I say Taiwan, I always mean the geographic feature. That includes the inhabitants, of course, of biosphere. I happen to think that we’re just stewards here, &quot;we&quot; meaning the human species.
+I would also say that back in the ice age, Taiwan was part with Mainland. It’s an archipelago shape now for hundreds of thousands of years. When I say Taiwan, I always mean the geographic feature. That includes the inhabitants, of course, of biosphere. I happen to think that we’re just stewards here, &quot;we&quot; meaning the human species.
 
 ### Audrey Tang:
 Taiwan has other species before, and we’ll have other species in the future. We’re just safeguarding it. That’s my ecopolitics.
 
 ### Audrey Tang:
-The immigration policy in Taiwan would be dealt with in a much more instrumentalist version of a debate rather than a ethnic or a nationalistic version of the debate, simply because the natural border requires so much intention to travel.
+The immigration policy in Taiwan would be dealt with in a much more instrumentalist version of a debate rather than an ethnic or a nationalistic version of the debate, simply because the natural border requires so much intention to travel.
 
 ### Audrey Tang:
 Now the topic that we’re handing in terms of immigration, it used to be our immigrants, before they’re fully naturalized, they’re maybe permanent residents, but they’re a numbering system, which we can talk about, which is part of institution. It’s still not the same as the Taiwan citizen’s right.
@@ -1420,7 +1420,7 @@ We just had one so we’re in for a collective healing period two days afterward
 In terms of group dynamics, that will be our intervention time to say, first, there are certain optical mechanisms in terms of social media, in terms of political rhetoric, that makes people seem more divided ethnically, gender-wise, or however, than it actually is.
 
 ### Audrey Tang:
-The optics has a way, through a manifestation of code and memes, to widen the gap, to widen the division. If we fully expose the optics as they are, it builds a inoculation. What is inoculation if not a fully exposed, lighter version of a virus? If we get that version into our minds and make peace with it, we become immunized against polarized discussions in the future.
+The optics has a way, through a manifestation of code and memes, to widen the gap, to widen the division. If we fully expose the optics as they are, it builds an inoculation. What is inoculation if not a fully exposed, lighter version of a virus? If we get that version into our minds and make peace with it, we become immunized against polarized discussions in the future.
 
 ### Audrey Tang:
 That’s why I call it vaccines of the mind. If we call those politically divisive memes a virus of the mind, then I would call this vaccine of the mind. It’s just by exposing the optics. That would be our third part that should set the stage.
@@ -1824,7 +1824,7 @@ This is useful because if you, at the beginning of two hour, take their phones t
 They will just channel the spirit to our talk by liking each other’s questions and writing more questions. It’s a way to get people more concentrated because two hours is very long. By the 40th minute or so, people just start swiping Facebook. That’s one of the way to get people off Facebook.
 
 ### Shu Lea Cheang:
-Then we speak about technology. In this case, because we are in a auditorium, I think the screen’s showing the whole scribbles of yours on the back is better because it really presents certain keywords like that.
+Then we speak about technology. In this case, because we are in an auditorium, I think the screen’s showing the whole scribbles of yours on the back is better because it really presents certain keywords like that.
 
 ### Audrey Tang:
 Yes.
@@ -1860,7 +1860,7 @@ Yes, or maybe we just do double projection.
 How long is your scribbles?
 
 ### Audrey Tang:
-I’ll connect my iPad through a Apple TV, a HDMI, a VGA...
+I’ll connect my iPad through an Apple TV, a HDMI, a VGA...
 
 ### Shu Lea Cheang:
 How about we just do the split screen if we can’t have two projections with that? It’s not possible.
@@ -1896,7 +1896,7 @@ That’s fine, then. I think, in this case, I should probably, with my phone, un
 Of course, of course.
 
 ### Shu Lea Cheang:
-However, does it matter? How would I be? Should I use also a iPad, then?
+However, does it matter? How would I be? Should I use also an iPad, then?
 
 ### Audrey Tang:
 If you have a phone, you will look like this. Just a second. Let me quickly simulate the view.

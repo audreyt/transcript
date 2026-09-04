@@ -235,7 +235,7 @@ Because Taiwan...Although we’re the first in Asia, we’re not the first in th
 Is there anything else on a more kind of technical or Taiwan-based level? Should...
 
 ### Audrey Tang:
-Oh, there’s a bot on the LINE system, which is a end-to-end encrypted system like WhatsApp. LINE is particularly interesting, because it’s end-to-end encrypted. There’s no search engine or any...Indeed, the company running it doesn’t know which message is running on it. There’s a lot of rumors and misinformation that’s being spread there in a dark way that people outside the circle cannot actually discover.
+Oh, there’s a bot on the LINE system, which is an end-to-end encrypted system like WhatsApp. LINE is particularly interesting, because it’s end-to-end encrypted. There’s no search engine or any...Indeed, the company running it doesn’t know which message is running on it. There’s a lot of rumors and misinformation that’s being spread there in a dark way that people outside the circle cannot actually discover.
 
 ### Audrey Tang:
 There is a bot called Co-Fact that is done by the g0v community. Very importantly, this idea of collaborative fact-checking or co-fact, surfaces those dark rumors in a way that you can just share to a bot called Is It True Or Not, 真的假的. When you share to that bot, that bot will do a fact-checking and get back to you, whether it is true or not.
@@ -410,7 +410,7 @@ We were able to actually talk about the seed ecosystem from the perspective of d
 Because of virtual reality and the Internet of things, we’re now able to extend it into what we call an Internet of beings, and a collaborative learning, and a shared reality, that lets us view these non-human actors in a way that we can still personally empathize, without resorting to fiction or oversimplification.
 
 ### Audrey Tang:
-We can literally step into a endangered species shoes. That is also intersectionality. I think all this informs the idea of me being a channel that enables people to literally feel more close to each other, and also see beings in general as people. That’s the answer to your first question.
+We can literally step into an endangered species shoes. That is also intersectionality. I think all this informs the idea of me being a channel that enables people to literally feel more close to each other, and also see beings in general as people. That’s the answer to your first question.
 
 ### Audrey Tang:
 Yes. We’re moving toward a plural world. A better plurality is not just human condition. The second view is about my personal work as digital minister. When I joined a cabinet, I brought a lot of virtual reality experiences into it.
@@ -447,7 +447,7 @@ No, no. It’s a recording.
 Hmm. It’s not set up yet. Because we’re going to use it later tonight, I thought that they’ve got it ready, but since they’ve not...
 
 ### Audrey Tang:
-The idea very simply put is that you put on these goggles and it lifts you above the Earth so you can see the Earth as a whole, and this is a imperfect copy. \[laughs\] Basically you see something like this, and it actually reacts to the time. My wallpaper also reacts to the time, so it rotates, and you should see the solar system and things like that.
+The idea very simply put is that you put on these goggles and it lifts you above the Earth so you can see the Earth as a whole, and this is an imperfect copy. \[laughs\] Basically you see something like this, and it actually reacts to the time. My wallpaper also reacts to the time, so it rotates, and you should see the solar system and things like that.
 
 ### Audrey Tang:
 There’s a psychological phenomenon called the overview effect that says if people become astronauts, some private sector people like Mark Shuttleworth and so on, that pay to have a trip to the outer space and see the Earth and come back, more often than not they become better people.
@@ -464,7 +464,7 @@ They see the world as a living being, as fragile, and you cannot actually have t
 Basically, people become better people, and it’s a well-studied phenomenon. I would say that my work as digital minister has enabled more and more people to have this kind of overview effect, not just on the biosphere system with the Moogles, but also on policy use and context of policy making of getting people in different positions to find common values, and again intersectionality.
 
 ### Audrey Tang:
-The idea of we having our vulnerable experiences, but we also of course, additionally, from the experience of pain, closer to the pain, we also have the experience of power, of being in the majority, of being in a organizational perspective. Everybody has a vulnerable part and a organizational part.
+The idea of we having our vulnerable experiences, but we also of course, additionally, from the experience of pain, closer to the pain, we also have the experience of power, of being in the majority, of being in an organizational perspective. Everybody has a vulnerable part and an organizational part.
 
 ### Audrey Tang:
 Intersectionality is about using our experience closer to the pain to understand other peoples experience closer to the pain, and empower each other using our organizational powers to put words on this experience, and making these not personal vulnerability but hashtags that people can share and connect and extend.
@@ -473,10 +473,10 @@ Intersectionality is about using our experience closer to the pain to understand
 This is a social movement view on things, but we’re working in the government is bringing people who occupied the parliament and people who do social movements inside the administration and bridge the world view to that of the civil service like we’re all Occupiers here.
 
 ### Rik Glauert:
-Possibly we could talk a bit more about that. How easy was it for you as a anarchist or revolutionary Occupier? How easy was it for you to go to the other side or to start working with the government? What was that journey and that thought process?
+Possibly we could talk a bit more about that. How easy was it for you as an anarchist or revolutionary Occupier? How easy was it for you to go to the other side or to start working with the government? What was that journey and that thought process?
 
 ### Audrey Tang:
-The thought process simply put is that instead of thinking each ministry as an organization that organize people toward movements and the civil services in between that absorb all the tension, we use a overview effect \[laughs\] to reimagine the government as a space.
+The thought process simply put is that instead of thinking each ministry as an organization that organize people toward movements and the civil services in between that absorb all the tension, we use an overview effect \[laughs\] to reimagine the government as a space.
 
 ### Audrey Tang:
 Instead of asking, &quot;Who are the organizers? How can we arbitrate?&quot; which is like last century governance model, a top-down governance model, we now switch to a collaborative governance model where we ask two questions.
@@ -526,7 +526,7 @@ Yeah, it is definitely.
 Could you tell us more about that?
 
 ### Audrey Tang:
-We actually export this, because the idea of gov-zero simply put is a meme, right? Any government website you find that’s bad or hard to use, you can deliver a alternative service by just changing the same website.
+We actually export this, because the idea of gov-zero simply put is a meme, right? Any government website you find that’s bad or hard to use, you can deliver an alternative service by just changing the same website.
 
 ### Audrey Tang:
 By gov.tw, and change the &quot;o&quot; to a &quot;0,&quot; and you get into the shadow government, so you don’t have to remember the website of the citizens’ version, because the same as governments’ version just with o changed to a 0. This idea is called forking the government, fork being taking a different path, and that we also relinquish our copyright.
@@ -550,7 +550,7 @@ Populism doesn’t have to be polarizing. Of course, the current generation of s
 We use it to moderate conversations using AI as a new true facilitator so that you can see your feelings among all your Facebook and Twitter friends in a way that you cannot make personal attacks to each other. The way it works is like this.
 
 ### Audrey Tang:
-You start as a avatar, you see your friends, and you see each others’ feelings about one particular issue. You can click Agree or Disagree. As you do, you move toward places with people feeling similar to you.
+You start as an avatar, you see your friends, and you see each others’ feelings about one particular issue. You can click Agree or Disagree. As you do, you move toward places with people feeling similar to you.
 
 ### Audrey Tang:
 What it doesn’t have is a reply button. You cannot reply to people, so you cannot make personal attacks or anything. After clicking a few Agree or Disagree, you can also share your own feelings for other people to vote on.

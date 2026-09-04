@@ -136,7 +136,7 @@ That’s exactly right. If you do stay in the quarantine for 14 days, then we pa
 What are some other reasons for Taiwan’s success in containing the outbreak?
 
 ### Audrey Tang:
-The main reason really is that people over 30 years old remember SARS 1.0 in 2003, where we had very chaotic communication. The municipal government was saying different things from the central one. We had to lock down an entire hospital unannounced for a indefinite number of days and so on.
+The main reason really is that people over 30 years old remember SARS 1.0 in 2003, where we had very chaotic communication. The municipal government was saying different things from the central one. We had to lock down an entire hospital unannounced for an indefinite number of days and so on.
 
 ### Audrey Tang:
 It’s exactly like the situation in other jurisdictions now. We had a societal inoculation. We had a collective memory of how bad the lockdowns was. This time, we need to fight the pandemic with no lockdown, just as we fight the infodemic with no takedown.
@@ -184,7 +184,7 @@ Minister Tang, you advocate what you call digital democracy. Can you briefly exp
 Certainly. This is everyone’s business with everyone’s help. The government doesn’t only work for the people They must work with the people.
 
 ### Audrey Tang:
-The mask map participatory auditing system is a great example because people do not have to take the national health insurance agency’s words or numbers. They can verify, through their own queuing or their pre-ordering or through the convenience store systems, that it really is a equitable access.
+The mask map participatory auditing system is a great example because people do not have to take the national health insurance agency’s words or numbers. They can verify, through their own queuing or their pre-ordering or through the convenience store systems, that it really is an equitable access.
 
 ### Audrey Tang:
 This is not just about transparency. It’s also about participation. There’s a member of the parliament, Kao Hung-an, who was the VP of Data Analytics at the Foxconn Group, so she knows something about data.
@@ -208,7 +208,7 @@ If we get into this ideological debate, we will get nowhere because people assoc
 The Polis system basically ask a simple question. Given the UberX situation now, what do you feel about it? There is no right or wrong about feelings. I can feel that as a passenger in the backseat, I feel insecure because the liability insurance doesn’t apply to me when taking UberX in 2015. You cannot deny my feeling. This is my personal feeling, but you can resonate or not with the feeling.
 
 ### Audrey Tang:
-It turns out most people resonate with most each other’s feelings most of the time on most of the things. By making a pro-social media rather than a antisocial media that focus on the definition of sharing economy, we eventually get everyone to agree on a common agenda, which we then use to make the multi-purpose taxi regulation and now a law.
+It turns out most people resonate with most each other’s feelings most of the time on most of the things. By making a pro-social media rather than an antisocial media that focus on the definition of sharing economy, we eventually get everyone to agree on a common agenda, which we then use to make the multi-purpose taxi regulation and now a law.
 
 ### Audrey Tang:
 Because of that, Uber is now a local taxi company in Taiwan. It’s called Q Taxi. There’s also LINE TAXI, other taxi companies that work with the Uber-like method but still subject to the regulation that protects the passengers.
@@ -292,7 +292,7 @@ That’s what we call rough consensus. People agree on things they can live with
 How do you see the future of democracy in Taiwan?
 
 ### Audrey Tang:
-In Taiwan, democracy itself is a technology because we had our first presidential election, directly, in 1996. That’s already after the World Wide Web. Obviously, we see democracy as a applied social technology that we can change.
+In Taiwan, democracy itself is a technology because we had our first presidential election, directly, in 1996. That’s already after the World Wide Web. Obviously, we see democracy as an applied social technology that we can change.
 
 ### Audrey Tang:
 Indeed, the kernel of democracy, the constitution, went through five amendments in the years after the first presidential election. Just like you can change different semiconductor designs and layouts, you can change different bandwidth of democracy.

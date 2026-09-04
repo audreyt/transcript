@@ -33,7 +33,7 @@ OK.
 ### Audrey Tang:
 I understand there's already a Personal Information Protection Commission, the PPC in Japan, as the national authority for privacy protection.
 
-Now that Privacy Act has been amended, does that mean that the role of the PPC changes? It's somehow part or collaborated with the digital agency or is this still an dedicated agency but related to digital agency?
+Now that Privacy Act has been amended, does that mean that the role of the PPC changes? It's somehow part or collaborated with the digital agency or is this still a dedicated agency but related to digital agency?
 
 ### Audrey Tang:
 I see, it mentions the digital agency, but the commission is still there.

@@ -849,7 +849,7 @@ It is. Our original topic was how to make the society more accepting of an entre
 Well, instead of saying, &quot;These are the startup people, and these are the conservative people,&quot; what we are trying to do in every industry is to create an ecosystem where there’s this gradual curve.
 
 ### Audrey Tang:
-If people cannot jump from their day job to be an entrepreneur, maybe they can participate still to a initiatives or movements, or local social enterprises or NGOs as a stakeholder, as a volunteer or as a contributor, or as a part-time worker even, in addition to their day job.
+If people cannot jump from their day job to be an entrepreneur, maybe they can participate still to an initiatives or movements, or local social enterprises or NGOs as a stakeholder, as a volunteer or as a contributor, or as a part-time worker even, in addition to their day job.
 
 ### Audrey Tang:
 The point of social innovation is to ensure that people don’t have to take unreasonable risk to make innovation. For example, one of the movements that I helped fostering is called the g0v movement.
@@ -1194,7 +1194,7 @@ Yeah, that’s more or less, right. He recruits these AI talents and works with 
 > (laughter)
 
 ### Audrey Tang:
-Ethan. E-T-H-A-N. Ethan Tu. Tu \[Chinese\] .
+Ethan. E-T-H-A-N. Ethan Tu. Tu \[Chinese\].
 
 ### Audrey Tang:
 That’s right.

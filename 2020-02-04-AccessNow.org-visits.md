@@ -405,7 +405,7 @@ If I cannot travel in the flesh for some reason, hopefully not coronavirus…
 …then I’m committed to telepresencing. Sometimes, we just record a five-minute telepresence recording, which actually is quite popular because it doesn’t take much from your program.
 
 ### Audrey Tang:
-For a Singapore museum, there’s a new museum in New York, they even had a interactive “Ask the Minister” thing. They asked me the question around the future of cyberspace, the future of environmental solidarity, and the future of sovereignty. I wear three jackets, answering from three different sector, like tri-sectoral answers, because I can wear three hats. \[laughs\]
+For a Singapore museum, there’s a new museum in New York, they even had an interactive “Ask the Minister” thing. They asked me the question around the future of cyberspace, the future of environmental solidarity, and the future of sovereignty. I wear three jackets, answering from three different sector, like tri-sectoral answers, because I can wear three hats. \[laughs\]
 
 ### Audrey Tang:
 There’s nine recordings, and each is less than three minutes. People can, just pressing, hitting the lottery kind of stuff. \[laughs\] We can do something like this because this is very inexpensive. It’s just Gauss projection, but it looks like Star Wars. I’m happy to contribute that way if, for some reason, I cannot travel in the flesh.
@@ -467,7 +467,7 @@ For environment, of course, Kaohsiung City have a strong marine, like marine deb
 There’s a limited space for Taipei for the large events like this, but Taoyuan, for example, is extremely convenient now that the Metro is working. It’s just half an hour or something. Taoyuan, Taichung, or Kaohsiung, anything that the high-speed rails reaches, I would say that their municipality would then have extra bonus programs.
 
 ### Audrey Tang:
-For example, Taoyuan may want to show their newly built venue space if they can construct it in time for yours. Probably they will. \[laughs\] They would be able to show off their new expo center, international architecture-designed, sustainable, green building, whatever, \[laughs\] to a international audience.
+For example, Taoyuan may want to show their newly built venue space if they can construct it in time for yours. Probably they will. \[laughs\] They would be able to show off their new expo center, international architecture-designed, sustainable, green building, whatever, \[laughs\] to an international audience.
 
 ### Audrey Tang:
 That will be much more favorable when you’re talking about venue discounts and things like that. For Taipei then, that will be everybody gets the same price. The OTF, I think, chose a New Taipei City venue for similar reasons.
@@ -665,7 +665,7 @@ My favorite saying is that whenever we see user experience, we need to replace t
 Instead of user experience, addictive design, and all those bad words, in my experience, just to think about human experience, itself, liberates people from a kind of user point of view, vis-à-vis the data collectors, be it public or private sector.
 
 ### Audrey Tang:
-Just to verify that there is such a norm is what my main work in Taiwan is about, which is why our conversation’s going to be radically transparent, structured conversation in Akoma Ntoso format. Then people understand that whatever their right is being concerned, even in a drafting stage, even when it’s still being considered, there’s plenty of opportunity for them to make a informed voice about that.
+Just to verify that there is such a norm is what my main work in Taiwan is about, which is why our conversation’s going to be radically transparent, structured conversation in Akoma Ntoso format. Then people understand that whatever their right is being concerned, even in a drafting stage, even when it’s still being considered, there’s plenty of opportunity for them to make an informed voice about that.
 
 ### Audrey Tang:
 Which is why all the legislative agenda around kind of censorship always gets a published pushback, but not at the parliamentary floor, like right in the drafting table. They never come to fruition, and so they don’t need amendments, such as for certain encryption things.

@@ -286,7 +286,7 @@ If you just say, “I know a place that managed to fight off the pandemic withou
 Is this something that we’ve seen where a community in a decentralized way has adopted this technology in countries? For instance in…
 
 ### Audrey Tang:
-Code for Japan is prime example. It’s like g0v, but in the social sector. They managed to just do an unofficial website for the Tokyo municipality until the Tokyo municipality have to offer then a domain name that is a official domain name. That’s the stopcovid19 work, which I also contributed. \[laughs\] That effect, that’s classical.
+Code for Japan is prime example. It’s like g0v, but in the social sector. They managed to just do an unofficial website for the Tokyo municipality until the Tokyo municipality have to offer then a domain name that is an official domain name. That’s the stopcovid19 work, which I also contributed. \[laughs\] That effect, that’s classical.
 
 ### Nick Aspinwall:
 Can you tell me a bit more about that project, because I know that in Japan you received quite a bit of media coverage for your role in what you did in Taiwan and also what you did in Japan.
@@ -467,7 +467,7 @@ How would you describe what society said at that time? It almost felt like we’
 Exactly. You put it perfectly. Basically, the CECC need to earn their trust, and they earn their trust by responding to each and every question that you just refer to in the daily press conference.
 
 ### Audrey Tang:
-Many journalists brought it out in a even hostile angle, but Commander Chen always responded with civility, and even telling a bunch of school children no matter how hostile a deaf person seems or how irrational that person seems, it makes sense from their point of view. What’s important is to step into their shoes and understand their point of view.
+Many journalists brought it out in an even hostile angle, but Commander Chen always responded with civility, and even telling a bunch of school children no matter how hostile a deaf person seems or how irrational that person seems, it makes sense from their point of view. What’s important is to step into their shoes and understand their point of view.
 
 ### Audrey Tang:
 There’s kind of a Pygmalion effect. If Commander Chen treats the civil society all as adults, even the most childish of them eventually become adults.
@@ -497,7 +497,7 @@ That is to say, it will not distance the government too much from the civil soci
 Cofacts, a key piece of that machinery, is replicated also in Thailand. If you go to cofact.org, the Thai version, of course, they’re doing fact-checking on still primarily health-related rumors because of their different political climate.
 
 ### Audrey Tang:
-But at least is building a lot more trust between the various stakeholders, including professional journalists and amateur fact-checkers. That’s a plus. We’re seeing similar shapes like that. That just the existence of the Taiwan model serves as a inspiration.
+But at least is building a lot more trust between the various stakeholders, including professional journalists and amateur fact-checkers. That’s a plus. We’re seeing similar shapes like that. That just the existence of the Taiwan model serves as an inspiration.
 
 ### Nick Aspinwall:
 Right, and to be specific in a case like this, there is no government involvement, right?

@@ -57,7 +57,7 @@ In our norm, it’s not about takedown. We don’t believe in takedown. We belie
 The point is not allowing the administration to collaborate with social media companies to take down anything, but to rather work out a way for people who see disinformation, as defined as intentional untruth to do public harm, the antithesis of journalism, people can flag it very easily.
 
 ### Audrey Tang:
-For example, I’ll use a metaphor, maybe you’ve noticed that in your email inbox, if you receive a email saying that, I don’t know, they’re a royalty, they have like 10,000 Bitcoins, and they want to wire you if you just pay this small deposit and so on. It’s a scam, by the way, and so you would probably flag it as spam. That is the norm in the Internet governance.
+For example, I’ll use a metaphor, maybe you’ve noticed that in your email inbox, if you receive an email saying that, I don’t know, they’re a royalty, they have like 10,000 Bitcoins, and they want to wire you if you just pay this small deposit and so on. It’s a scam, by the way, and so you would probably flag it as spam. That is the norm in the Internet governance.
 
 ### Audrey Tang:
 Basically, email is supposed to be private, but if you flag something as spam, you donate the signature, the fingerprint of that email so that people who receive similar email in the future, they still receive the email, but it goes to the spam mail, the junk mail folder rather than the inbox.
@@ -153,7 +153,7 @@ By the presidential election this year, they basically implemented the same Cont
 That is the kind of norm conversations that we’ve had, and of course Google and Twitter simply refrained from running advertisements.
 
 ### Audrey Tang:
-I think, for questions like this, instead of saying like we should outright ban it or that we should allow it, getting a social norm, a social outrage if you will, about the kind of threat that it could have on democracy and negotiating a safe norm and so making sure that international companies conform to that norm in a auditable, accountable fashion, that is preferred.
+I think, for questions like this, instead of saying like we should outright ban it or that we should allow it, getting a social norm, a social outrage if you will, about the kind of threat that it could have on democracy and negotiating a safe norm and so making sure that international companies conform to that norm in an auditable, accountable fashion, that is preferred.
 
 ### Audrey Tang:
 Only if they refuse to negotiate, only if they refuse to conform to the norm do we go to the social sanction route and eventually the state action route.
@@ -181,7 +181,7 @@ Thank you. There’s just a, I think, a NPR and “New York Times,” piece abou
 The technologies in Taiwan basically says that we need to adapt to the societal needs. It’s not asking a certain population to come to technology. Rather, it is us, the technologists, conforming to what the societal expectation, societal norms of technologies are.
 
 ### Audrey Tang:
-I just mentioned 5G. When we’re deploying 5G, there’s a auction on the spectrum. There’s a lot of extra money that we can allocate.
+I just mentioned 5G. When we’re deploying 5G, there’s an auction on the spectrum. There’s a lot of extra money that we can allocate.
 
 ### Audrey Tang:
 We allocate it to the places where the 4G connections are least utilized, specifically around a more rural areas, in the places with higher average age of population, and to focus on education, that’s lifelong learning, and health. These are the two things that the people across all age groups feel passionate about.
@@ -208,7 +208,7 @@ Thank you. Take another question here online. It’s from Anthony Rowley at the 
 Yeah, and I was simply relaying the rough consensus of the 2014 occupiers, so it’s not my view. It’s what the occupiers feel at the time, and then ratified by the National Security Council and National Communication Commission. How does that work?
 
 ### Audrey Tang:
-If you install certain components, no matter whether it’s software or hardware, of course you do a security audit, but then necessarily, either in a emergency situation, for example when it’s out of service or whether there’s just a security vulnerability that’s discovered and disclosed, you will probably have to update that piece of software and firmware, and even hardware, from the vendor.
+If you install certain components, no matter whether it’s software or hardware, of course you do a security audit, but then necessarily, either in an emergency situation, for example when it’s out of service or whether there’s just a security vulnerability that’s discovered and disclosed, you will probably have to update that piece of software and firmware, and even hardware, from the vendor.
 
 ### Audrey Tang:
 The main idea around Occupy in 2014 was that we never know at which point would the CCP, through its party branches, install in all the large so-called privately owned enterprises did do a swap of the leadership and take de facto control of the private enterprise, so that they become de facto state-owned.

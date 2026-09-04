@@ -82,7 +82,7 @@ Is there prize money?
 There is no prize money, only a presidential commitment to winning teams.
 
 ### Audrey Tang:
-There is a support team, of course. It’s a incubation process. We have people from III and so on working on those teams.
+There is a support team, of course. It’s an incubation process. We have people from III and so on working on those teams.
 
 ### Audrey Tang:
 What I have heard from the 10X is that it’s like an internal rapid prototyping service, but at the end of it, the operation or the maintenance is not for the 18F to do forever. There must be a hand off process to the external vendors. I think that’s public information. It says right on their website. It’s good to know that it’s the same being carried smoothly.

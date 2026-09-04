@@ -662,7 +662,7 @@ First of all, the private sector gets into the game, also. When the social secto
 This is from our leading antivirus company, Trend Micro. This Dr.Message bot is basically a supercharged Cofacts. Not only it can do Cofacts’ kind of real-time clarification – it taps into the same databases – but it can also work through videos and images.
 
 ### Audrey Tang:
-It’s also mostly a anti-scam and anti-phishing bot. It also counters disinformation, which makes a much easier sell to people, because when people see a pure counter-disinformation they may be thinking it’s a tool that reinforces certain ideologies, but if a tool primarily counters scam and smut, then it’s something that people have more appetite to.
+It’s also mostly an anti-scam and anti-phishing bot. It also counters disinformation, which makes a much easier sell to people, because when people see a pure counter-disinformation they may be thinking it’s a tool that reinforces certain ideologies, but if a tool primarily counters scam and smut, then it’s something that people have more appetite to.
 
 ### Audrey Tang:
 First of all, the private sector, because the social sector takes the open source approach, is able to build value-added products and services on top of that. That’s the first thing.

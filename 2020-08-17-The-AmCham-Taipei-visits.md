@@ -60,7 +60,7 @@ There are people just like parliamentary officers talking to MPs and media offic
 We engage those hashtags with funny memes, humor over rumor, and things like that to ensure that these people, instead of just traveling on outrage, can turn their outrage into co-creative energy. When people complain that nobody knows where to find mask, the mask availability map is created as a social innovation partnership.
 
 ### Audrey Tang:
-When people complain the tax filing system is bad, the people who complain gets invited to do the tax filing experience together, and so on and so forth. That becomes a radical thing. Social innovation also gets ratified as a annual project, co-sponsored by the American Institute in Taiwan for the presidential hackathon.
+When people complain the tax filing system is bad, the people who complain gets invited to do the tax filing experience together, and so on and so forth. That becomes a radical thing. Social innovation also gets ratified as an annual project, co-sponsored by the American Institute in Taiwan for the presidential hackathon.
 
 ### Audrey Tang:
 That’s run by the President’s Office, making sure that every year, we choose five winning teams. We just chose one actually yesterday, the day before, Saturday. We made sure that these five winning teams receive a trophy from the president, which is a micro project that, when turned on, projects the president handing you have a trophy. It’s a self-describing trophy.
@@ -115,7 +115,7 @@ My favorite is museum.
 > (laughter)
 
 ### Audrey Tang:
-We’ll maybe call it \[non-English speech\] , the National Digital Museum, the NDM, and next to the NPM. That’s because then the head of that museum could be called a chief curator, which in Taiwan Mandarin is called \[non-English speech\].
+We’ll maybe call it \[non-English speech\], the National Digital Museum, the NDM, and next to the NPM. That’s because then the head of that museum could be called a chief curator, which in Taiwan Mandarin is called \[non-English speech\].
 
 > (laughter)
 
@@ -348,13 +348,13 @@ That they have to find a professor to vouch for them. That’s the current rule.
 Yeah. It was very difficult for them to utilize the data. Because of that, they may not be able to help the government reach the target of precision medicine. Every time they try to help, they end up with disappointment, because no one in NHIA or MOHW know about this topic. The utilization of the database may also need NDC’s help.
 
 ### Audrey Tang:
-Not really… There is a SDK, that’s a software development kit, from the NHIA for this very specific purpose already. The point was there is a diabetes support group called 智抗糖, that’s one of the very good examples. The \[non-English speech\] , the information bank or whatever, the saving account, the health account, whatever.
+Not really… There is a SDK, that’s a software development kit, from the NHIA for this very specific purpose already. The point was there is a diabetes support group called 智抗糖, that’s one of the very good examples. The \[non-English speech\], the information bank or whatever, the saving account, the health account, whatever.
 
 ### Audrey Tang:
 The personal health bank can be written not only by the insurance provider, which in Taiwan, there is no other insurance provider for these kind of things, the National Health Insurance Agency, but also, for example, if people go to a health check, then that’s actually not the NHIA, because it may not be paid by the health insurance.
 
 ### Audrey Tang:
-When it’s paid by, for example, your employer or something, then that’s collected sometimes by the \[non-English speech\] , the National Health Agency or something like that. Then if it’s like in the military, then it’s actually the defense department, and so on. All these actually are in the single portal that is maintained by the NDC. It’s called MyData.
+When it’s paid by, for example, your employer or something, then that’s collected sometimes by the \[non-English speech\], the National Health Agency or something like that. Then if it’s like in the military, then it’s actually the defense department, and so on. All these actually are in the single portal that is maintained by the NDC. It’s called MyData.
 
 ### Audrey Tang:
 If you go to mydata.nat.gov.tw, that’s the NDC single one-stop portal for everyone to access their own, used to be very scattered, personal data records in all those very different agencies. That’s already done. It’s already the case.
@@ -384,7 +384,7 @@ If it’s too much of a hassle to talk to independent clinics and individual soc
 You don’t know what the data is about, but you still run your research algorithm on it, and the result can only be decrypted by the people who volunteer into this project. It’s a new methodology. It only becomes commercially available this year. It’s also one way to look into it. IBM is funding a lot of efforts on that particular approach.
 
 ### Audrey Tang:
-The reason why we need a data protection authority, a independent one, is like the Aviation Security Council. They need to serve as this independent social sector board that look at these new materials, new technologies, and say yes, this is a good way to make sure that there is no compromise between data utility and privacy.
+The reason why we need a data protection authority, an independent one, is like the Aviation Security Council. They need to serve as this independent social sector board that look at these new materials, new technologies, and say yes, this is a good way to make sure that there is no compromise between data utility and privacy.
 
 ### Audrey Tang:
 If this is done by, with all due respect, public service International Development Council, the people who are more inclined about privacy would say that but the National Development Council mandate is to push economic development. Of course, they will say something that compromise privacy. Actually, they don’t do that, but people will keep saying that.
@@ -393,7 +393,7 @@ If this is done by, with all due respect, public service International Developme
 If this is a truly multi-stakeholder, a multi-sectoral board that makes their decision like fully homomorphic encryption, like zero-knowledge proofs, federated learning, split learning, open algorithm, is fit for this particular use. Even though its unspecified population, unspecified hypothesis, it still doesn’t compromise anyone’s privacy, and by the way, gives you full data utility.
 
 ### Audrey Tang:
-If it ratifies the DPS mandate, then all the ministries can rest assured that this conveys the same strength as a interpretation by law. It’s both interpretation by law and an interpretation by the algorithm.
+If it ratifies the DPS mandate, then all the ministries can rest assured that this conveys the same strength as an interpretation by law. It’s both interpretation by law and an interpretation by the algorithm.
 
 ### Audrey Tang:
 For this to work, the privacy act also has to change and to appoint this particular DPA as what we call the competent authority for data privacy, instead of for each fragmented ministry to be their own DPA. These legal changes need to first happen before your pharmaceutical researchers can enjoy an entirely privacy-preserving but also utilizable data.
@@ -417,7 +417,7 @@ Pfizer, right?
 Yeah. At least one, I think that one, is published on YouTube. I think Joel can help getting the conversation out. Maybe you can just share that link to other pharmaceutical companies who are concerned about two things. One is this advertisement law about illegal advertisement for them.
 
 ### Audrey Tang:
-They can’t even share their latest research studies about their products on the Internet, but random people paying for Google advertisements can. \[laughs\] That’s their first thing. The second this is data utilization. Dr. \[non-English speech\] , I think, also invited Sean Moss-Pultz of Bitmark, \[non-English speech\], Microsoft, and KKBOX, they also visit me as a group, talk about exactly the same thing.
+They can’t even share their latest research studies about their products on the Internet, but random people paying for Google advertisements can. \[laughs\] That’s their first thing. The second this is data utilization. Dr. \[non-English speech\], I think, also invited Sean Moss-Pultz of Bitmark, \[non-English speech\], Microsoft, and KKBOX, they also visit me as a group, talk about exactly the same thing.
 
 ### Audrey Tang:
 Was it Asus? I think it was Asus, also talk about the same thing. There’s at least three YouTube recordings that talks about this particular matter. Maybe we can curate a little bit and send to your constituents.

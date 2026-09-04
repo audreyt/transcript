@@ -93,13 +93,13 @@ To work with the safety, they decided 10 years ago that retweet is a virus [laug
 
 For example, the mask visualization, the contact tracing system, and so on, are all innovations that came from the civil society, from the human right activists even, where the society adopted as a progress. This is what we call People First, PVP.
 
-In such a design, safety is still very important. We need to guarantee safety through a at large minister. I was at the time the at large minister in charge, for example, about cybersecurity or about the Chief Information Office, and so on.
+In such a design, safety is still very important. We need to guarantee safety through an at large minister. I was at the time the at large minister in charge, for example, about cybersecurity or about the Chief Information Office, and so on.
 
 Now I'm the Minister of MoDA. We have permanent staff for participation that's in our MoDA proper. The departments of MoDA are all about participation.
 
 We also have a dedicated administration about the industrial progress, the Administration for Digital Industries. We also have a dedicated administration for safety. That's the Administration for Cyber Security.
 
-Internally, what used to take three different ministries and three at large ministries, so six ministries in total, in order to solve this trilemma can be easily accomplished by a internal conversation within MoDA. I still retain the CIO role. If needed, I can still work with the other ministries, deputy minister, who are CIOs of their ministries, to work across the ministerial boundaries.
+Internally, what used to take three different ministries and three at large ministries, so six ministries in total, in order to solve this trilemma can be easily accomplished by an internal conversation within MoDA. I still retain the CIO role. If needed, I can still work with the other ministries, deputy minister, who are CIOs of their ministries, to work across the ministerial boundaries.
 
 That was two minutes. I hope that's OK. Any follow ups or do we go to the next question? I'll just go ahead.
 
@@ -167,7 +167,7 @@ I was guessing if you have ever...your personal view or based on your past exper
 ### Audrey Tang:
 Well, the thing is that the Intermediary Bill consultation was done during my work in the minister at large without portfolio duration, but that draft was never sent to the Cabinet. The draft was still in the internal consultation stage. Usually, the way we work is that the ministry or the commission sends a draft for the Cabinet to ponder.
 
-Then the minister at large ponders it. In the intermediary service case, that was not the case. That was more like a internal consultation and the stakeholder consultation by the commission without a ready draft. It was just a general consultation, early general consultation stage.
+Then the minister at large ponders it. In the intermediary service case, that was not the case. That was more like an internal consultation and the stakeholder consultation by the commission without a ready draft. It was just a general consultation, early general consultation stage.
 
 Of course, I've read the consultation questions. The people who engage in consultation, especially the local social media, the smaller social media, they were worried that they will be tasked with too much of a burden.
 
@@ -185,11 +185,11 @@ Thank you.
 ### Audrey Tang:
 It's all on public record, by the way. [laughs] The fourth question, how to tell whether a digital policy is successful. How does multi stakeholderism enter the picture? That was the question.
 
-As I mentioned, it's easy to maximize participation, progress, or safety at the sacrifice to the other values. To me, it is only successful if we successfully find a overlap, a good enough consensus, things that all three values are satisfied to a degree, a good enough consensus. That is the success criteria.
+As I mentioned, it's easy to maximize participation, progress, or safety at the sacrifice to the other values. To me, it is only successful if we successfully find an overlap, a good enough consensus, things that all three values are satisfied to a degree, a good enough consensus. That is the success criteria.
 
 For example, what was usually considered dilemmas was usually because of a lack of technological innovation. It used to be, for example, people think you either have a lot of privacy protection and to remove all the re identifiable material from your data, but then you don't get good medical AI or something. You don't get a lot of progress.
 
-Or, if you can prioritize progress, then you must make some sacrifice to accept some risk for your personal information to re identified to a adversary with a lot of computation. Such safety progress dilemmas are easily solved if you ask for participation from people in the future. That is to say, if people in the future already live.
+Or, if you can prioritize progress, then you must make some sacrifice to accept some risk for your personal information to re identified to an adversary with a lot of computation. Such safety progress dilemmas are easily solved if you ask for participation from people in the future. That is to say, if people in the future already live.
 
 I was quoting this idea that the future is already here, just not evenly distributed. There are some people already living in the future. For example, in the Web3 world, they're already living in a maximal scamming dangerous place where nobody can be trusted.
 
@@ -255,7 +255,7 @@ I think your points get right approaches basically. But, firstly, you require ra
 However, under some circumstances, it is difficult for the government to reveal data related to decision making of countermeasures against foreign disinformation and the cyber attacks. What do you think about the point?
 
 ### Audrey Tang:
-Yeah, so, I think there are two different things going on here. Great question, by the way. One is that foreign disinformation based on a exaggeration or out of context interpretation, and so on, so it has some root in truth. It's just misrepresented. Usually it's called information manipulation, if that's the case.
+Yeah, so, I think there are two different things going on here. Great question, by the way. One is that foreign disinformation based on an exaggeration or out of context interpretation, and so on, so it has some root in truth. It's just misrepresented. Usually it's called information manipulation, if that's the case.
 
 In this, contextualization is the cure. If everybody has the full context of what's going on, and it's easier to get access to this context than to share this misinformation, then, the problem is solved itself because it's like you have a more viral vaccine than the virus itself. Maybe the viral vaccine is called Omicron...
 
@@ -267,7 +267,7 @@ OK, bad joke.
 > (laughter)
 
 ### Audrey Tang:
-But a weaker form of virus that is nevertheless easily accessible can safeguard one against a toxic virus, is what I am saying. The point here is that if we make sure that the context is always delivered, for example with Twitter there is a function called Community Notes. It uses algorithm, it's inspired by Polis, which is a algorithm I personally worked on and published.
+But a weaker form of virus that is nevertheless easily accessible can safeguard one against a toxic virus, is what I am saying. The point here is that if we make sure that the context is always delivered, for example with Twitter there is a function called Community Notes. It uses algorithm, it's inspired by Polis, which is an algorithm I personally worked on and published.
 
 The Community Note, if Elon Musk tweets something that is factually challenged, then, the Community Note is attached to the tweet. If you retweet it, you cannot do away with the Community Note.
 

@@ -148,7 +148,7 @@ More generally, can any intrinsically authoritative government copy Taiwan's mod
 ### Audrey Tang:
 Ultimately, it is not strictly about authoritarianism or democracy -- I think it is about press freedom. It's about journalism. As I mentioned, the Taiwanese model relies heavily on the journalists asking the tough questions every 2:00 PM and on civic journalism, on people finding out what's wrong with our pandemic response... Or maybe not wrong, per se, but the virus has mutated, so the original measures become wrong in light of the new variant of the virus.
 
-So it's both professional and civic journalism and the press liberties, the freedom that enabled us to respond in a Agile way our governance system vis-à-vis those new variants.
+So it's both professional and civic journalism and the press liberties, the freedom that enabled us to respond in an Agile way our governance system vis-à-vis those new variants.
 
 To any government, it's not about the election nor about the way to appoint successors and so on. Fundamentally, the litmus test is how much freedom do you give to civic and professional journalists to reflect what is actually happening with the virus.
 

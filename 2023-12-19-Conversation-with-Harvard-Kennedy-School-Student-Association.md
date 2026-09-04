@@ -198,7 +198,7 @@ Hi, my name is Annabel. I'm a first year at the business school. You mentioned a
 ### Audrey Tang:
 It was a coordinated attack of not just propaganda and information manipulation, but also just cyber-attack, taking over signboards outside of the Taiwan radio station and so on, replacing them with anti-Pelosi messages. When journalists want to fact-check the rumor, for example, the Ministry of Transportation has been taken over, the Ministry of National Defense has been taken over, whatever.
 
-They check the website and the website was suffering DDoS. It's very slow. They can't easily connect to it. I think the strategy of the Red Team, literally the Red Team, is trying to create a informational vacuum, a void, and then fill it with synthetic disinformation. I think it is to the credit of the Chinese society that the stock market did not crash that day, as hoped by the Red Team, it actually raised that day.
+They check the website and the website was suffering DDoS. It's very slow. They can't easily connect to it. I think the strategy of the Red Team, literally the Red Team, is trying to create an informational vacuum, a void, and then fill it with synthetic disinformation. I think it is to the credit of the Chinese society that the stock market did not crash that day, as hoped by the Red Team, it actually raised that day.
 
 We deployed a very old tactic called humor-over-rumor, which... I interviewed with the press and said the Ministry of Digital Affairs website, which went online the very same hour, didn't even suffer from one second of attack. That's because we use IPFS, we use web3 infrastructure. We host our websites on the same blockchain infrastructure that everybody can participate and join.
 
@@ -253,7 +253,7 @@ You mean in addition to replying emails to administrates? To the first question,
 
 The biometric side, the device side, and the behavior side never goes to the same vendor. Actually, it always goes to three different vendors. We assume one of them will be breached.
 
-It's probably already breached. But then it doesn't matter because the other two doors just will detect that and the attackers will have wasted a attack. Then we send threats, indicators, notifications, and so on, and strengthen the immune system of liberal democracies. The semiconductor industry is also very interested in this ZTA configuration.
+It's probably already breached. But then it doesn't matter because the other two doors just will detect that and the attackers will have wasted an attack. Then we send threats, indicators, notifications, and so on, and strengthen the immune system of liberal democracies. The semiconductor industry is also very interested in this ZTA configuration.
 
 Through the administration for digital industries, another subsidiary, we co-created the SEMI E-187, which is a zero-trust cybersecurity standard for not just the semiconductor industry, but across the entire supply chain. The question we asked is that assuming that one of them is across the supply chain, is probably already breached. How do we make sure that it cannot laterally move?
 

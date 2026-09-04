@@ -19,7 +19,7 @@ We want to ask about your position and role. When we hear minister in Japan, it 
 We’re curious to know why you use the word “with,” that you’re working with the government, and you said that you are the channel, your role is a channel. Could you describe to us how you see your position and your role?
 
 ### Audrey Tang:
-Certainly. Very happy to participate in this deep dive. I will first say that I usually say I’m a lower-case minister. In the English language, a upper-case Minister corresponds to the Japanese idea of daijin, which is a state official of the high rank, but a lower-case minister is just a advocate.
+Certainly. Very happy to participate in this deep dive. I will first say that I usually say I’m a lower-case minister. In the English language, an upper-case Minister corresponds to the Japanese idea of daijin, which is a state official of the high rank, but a lower-case minister is just an advocate.
 
 ### Audrey Tang:
 In a lower-case minister role, anyone can be a lower-case minister, and this corresponds to the Mandarin idea of my actual position, which is called shùwèi zhèngwěi, a delegate for digital that is plural because shùwèi in Mandarin also means plural, many.
@@ -307,10 +307,10 @@ The point here being, it’s like language learning. Of course, the language you
 If you are a programmer, the hardest part to becoming a programmer is now usually solved by things like Scratch, where you don’t have to learn any language, just some Lego blocks from some other kid. You change those Lego block to change its color, its music, or something, remixing each other’s work.
 
 ### Audrey Tang:
-Just by remixing this culture is easier than if you have to start learning a new language from Scratch. Building on the Scratch language, you can then learn other computer languages. It’s a easy way to get out of one’s comfort zone. If you find something that’s useful to you, it’s already 90 percent there and you just have to learn the 10 percent to make it truly useful in your life.
+Just by remixing this culture is easier than if you have to start learning a new language from Scratch. Building on the Scratch language, you can then learn other computer languages. It’s an easy way to get out of one’s comfort zone. If you find something that’s useful to you, it’s already 90 percent there and you just have to learn the 10 percent to make it truly useful in your life.
 
 ### Audrey Tang:
-Each of those communities that I referred to before served as hubs that connect people together in a small world network. Of course, there is already a established theory about network robustness. I will not quote the textbooks.
+Each of those communities that I referred to before served as hubs that connect people together in a small world network. Of course, there is already an established theory about network robustness. I will not quote the textbooks.
 
 ### Audrey Tang:
 Please feel free to introduce the audience about network robustness and design. This applies to human network, as well as to computer networks. For an old but useful exposition on this, you can read Clay Shirky, “Here Comes Everybody.”

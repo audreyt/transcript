@@ -35,7 +35,7 @@ The third is that we dispense the company’s commitments to corporate social re
 We have a framework that we broadly refer to as Twitter for Good, and five pillars within that framework. They span digital safety and Internet education, digital literacy, to equality and equal rights, to freedom of expression and human rights.
 
 ### Kathleen Reen:
-More recently, we’ve added the climate crisis and environment to the portfolio, and there’s a number of reasons for that. One is that Twitter as a very public platform, with more open APIs and more open global conversations, its a place that welcomes, and is also more popular for discussing really complex problem sets.
+More recently, we’ve added the climate crisis and environment to the portfolio, and there’s a number of reasons for that. One is that Twitter as a very public platform, with more open APIs and more open global conversations, it’s a place that welcomes, and is also more popular for discussing really complex problem sets.
 
 ### Kathleen Reen:
 We often talk about how Twitter is quick, how Twitter is sharp and fast, how it rewards short messaging. The truth is also that because of the way we’ve expanded and built out the platform inclusive of threading and tweet storms, the ability to post more video and to do more media-rich work and conversations there…
@@ -613,7 +613,7 @@ I totally understand. I will repeat my advice to Facebook when they are seeking 
 On the browser, the 🔒 lock icon means that no intermediary can eavesdrop or store your conversations. It means end-to-end encryption. On many social media platform, the lock icon has come to mean a conversation with a private or limited audience, but with no end-to-end encryption.
 
 ### Audrey Tang:
-I think it makes the cyber norm conversation very confusing. Also, it makes people expect more service from you than you can technically provide. I would strongly advocate for a non-lock icon, that’s to say a icon indicating a limited audience, but not secret – as in end-to-end encrypted – conversations.
+I think it makes the cyber norm conversation very confusing. Also, it makes people expect more service from you than you can technically provide. I would strongly advocate for a non-lock icon, that’s to say an icon indicating a limited audience, but not secret – as in end-to-end encrypted – conversations.
 
 ### Audrey Tang:
 It could be something like 👥 one-to-one conversation. Like in Facebook, they recently renamed the “Secret” groups to “Hidden and Private,” indicating that messages in the group are not really “secret” to Facebook.

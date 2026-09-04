@@ -120,7 +120,7 @@ We have another 40 minutes.
 When it comes to youth engagement and open government based on data, what are the most important policies you are now focusing on?
 
 ### Audrey Tang:
-There are two most important ones on open government, youth engagement, respectively. The open government, as you know, has a international partnership. It turns out that Korea is the chair for this year’s Open Government Partnership.
+There are two most important ones on open government, youth engagement, respectively. The open government, as you know, has an international partnership. It turns out that Korea is the chair for this year’s Open Government Partnership.
 
 ### Audrey Tang:
 The OGP is interesting because it is both multilateral, as in people from every country send their delegate, but also multi-stakeholder, as in half, 50 percent, of the steering committee come from the civil society. It is a hybrid organization.
@@ -241,10 +241,10 @@ We use a new invention called quadratic voting, or QV, for this voting. The voti
 Maybe you give it one vote, and that is going to cost you 1 point. Two vote will cost 4 point in total, three 9 points, four 16 points, so quadratic. With 99 point, you can only vote 9 vote, not 10, because 10 will cost 100, and you don’t have 100.
 
 ### Audrey Tang:
-With 99 points and nine votes to this, you still have 18 left. Nobody want to squander 18 point, so they will look into another, for example, using a IoT device to measure water quality in agric land. Maybe it’s a good idea. You give it four vote, 16 point. You still have 2 point, so you will look at something else.
+With 99 points and nine votes to this, you still have 18 left. Nobody want to squander 18 point, so they will look into another, for example, using an IoT device to measure water quality in agric land. Maybe it’s a good idea. You give it four vote, 16 point. You still have 2 point, so you will look at something else.
 
 ### Audrey Tang:
-At this point, maybe you think, “Ah, this is a better idea than this one,” so you can do a seven and seven and so on. You can reflect your true preference on the thing you understand. At the end of it, most people vote five or six teams that they learn about. This is also a education tool about Sustainable Development Goals.
+At this point, maybe you think, “Ah, this is a better idea than this one,” so you can do a seven and seven and so on. You can reflect your true preference on the thing you understand. At the end of it, most people vote five or six teams that they learn about. This is also an education tool about Sustainable Development Goals.
 
 ### Audrey Tang:
 When the top 20 gets announced, everybody feel they have won because they support at least one team that made it to the top 20, usually. If you allow everybody to vote directly just to one, most people will feel they have lost. This is what gives those open-innovation teams their legitimacy so that when they get into the top five, and we want to change a law, no lawmaker will say no to the idea.
@@ -450,7 +450,7 @@ The social innovation work that I just described, whether it’s across the reve
 When we become 18 years old and so on, we can step into the shoe of another culture through this mechanism and look back at our original culture, our home culture, from the viewpoint of the other sector, the other religion, or the other ethnicity, and make something new that makes sense to both cultures. If you keep doing this, then the main identity of this polity will be the democratic process.
 
 ### Audrey Tang:
-This is what we mean by republic of citizens. It will not be five MPs representing a ethnic group, seven MP representing another ethnic group, and so on. It will be everybody co-creating new culture out of existing cultures using day-to-day democratic tools not just voting. This is what I mean by a republic of citizen, Mínguó, which is, incidentally, shared in the name of your country as well, the Minguk. That is the original idea of Mínguó anyway.
+This is what we mean by republic of citizens. It will not be five MPs representing an ethnic group, seven MP representing another ethnic group, and so on. It will be everybody co-creating new culture out of existing cultures using day-to-day democratic tools not just voting. This is what I mean by a republic of citizen, Mínguó, which is, incidentally, shared in the name of your country as well, the Minguk. That is the original idea of Mínguó anyway.
 
 ### Interviewer:
 Two last questions. First of all, you are empowering the young people under the voting age to participate in policy making…
@@ -471,7 +471,7 @@ You’ve been visiting Korea several times. What has impressed you about Korea? 
 To be honest, this is my first visit with the youth engagement portfolio. I’m here to learn. I don’t know anything yet. My previous visit, for example on CodeGate with the Best of the Best and so on, that I’m really impressed. At the time, cybersecurity was not seen in Taiwan as a private sector focus.
 
 ### Audrey Tang:
-In Taiwan, cybersecurity is seen as something that the critical infrastructures must do, the public sector must do, the schools teach. It’s like general awareness and things like that, but it’s not a branding that says, “If a software or hardware system is made in Taiwan and that has survived the cyber intrusions, then it’s battle-hardened like Israel,” \[laughs\] and become a international brand.
+In Taiwan, cybersecurity is seen as something that the critical infrastructures must do, the public sector must do, the schools teach. It’s like general awareness and things like that, but it’s not a branding that says, “If a software or hardware system is made in Taiwan and that has survived the cyber intrusions, then it’s battle-hardened like Israel,” \[laughs\] and become an international brand.
 
 ### Audrey Tang:
 At that time, in 2016, early ‘17, it’s not that strong a brand in Taiwan to build a cybersecurity like center of excellence around the world. It’s obvious when I visited Korea that you’re very advanced in that thinking in that you want to build cybersecurity not only as one of the career options but as a very special career option that carries prestige. We adapted that idea from Korea.

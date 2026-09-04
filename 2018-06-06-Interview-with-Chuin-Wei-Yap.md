@@ -244,7 +244,7 @@ This system is open-source, so it’s not reverse engineering; it’s line-by-li
 We didn’t stop there. We continued to retain white hat hackers to do social engineering on the whole public service and to try to attack us. The idea is with these contributions, we credit their findings so they can publicly file CVEs that helps their career and credit.
 
 ### Audrey Tang:
-The whole point is that the cybersecurity is a active thing. It is not something that you can just delegate to insurance and assistants. Those helps, but what helps more is to engage the white-hat community and continuously ask them to audit, to do penetration testing and share with us their findings. That’s how we can step ahead of the people who want to do cybersecurity attacks on our systems.
+The whole point is that the cybersecurity is an active thing. It is not something that you can just delegate to insurance and assistants. Those helps, but what helps more is to engage the white-hat community and continuously ask them to audit, to do penetration testing and share with us their findings. That’s how we can step ahead of the people who want to do cybersecurity attacks on our systems.
 
 ### Audrey Tang:
 Then, we’re also sharing this experience to, for example, local governments and so on.
@@ -334,7 +334,7 @@ So it could have already been going on for some time. When did it start? I don�
 In your role, do you get a lot of interaction with a wider range of technology companies such as semiconductors and so on?
 
 ### Audrey Tang:
-Well, there’s two main project I’m working with. The first is the DIGI⁺ project ( [https://www.digi.ey.gov.tw/](https://www.digi.ey.gov.tw/) ) which is ensuring, as I said, broadband as human right and things like that. There is also a application strategy which is the Asia connecting to the Silicon Valley ( [https://www.asvda.org/](https://www.asvda.org/) ).
+Well, there’s two main project I’m working with. The first is the DIGI⁺ project ( [https://www.digi.ey.gov.tw/](https://www.digi.ey.gov.tw/) ) which is ensuring, as I said, broadband as human right and things like that. There is also an application strategy which is the Asia connecting to the Silicon Valley ( [https://www.asvda.org/](https://www.asvda.org/) ).
 
 ### Audrey Tang:
 Currently, there is a lot of projects on having the semiconductor companies and design companies to work with what we call &quot;AI on the Edge&quot; projects so that basically tailoring the chips in a way that enables more intelligence at the edge, instead of transmitting everything, because the volume of data is just too large.

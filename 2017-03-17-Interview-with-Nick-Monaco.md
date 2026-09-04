@@ -137,7 +137,7 @@ I don’t know if you’ve heard much about it, but it’s a phenomenon that’s
 But there have also been benevolent uses to promote constructive debate, refuting anti-vaxxers and anti-climate change people online. I was just curious if you have seen any evidence or had any hunch that that type of stuff might be going on in Taiwan.
 
 ### Audrey Tang:
-That’s a overly broad question. Could you be more specific...?
+That’s an overly broad question. Could you be more specific...?
 
 ### Nick Monaco:
 Yeah, for sure. Obviously bots, especially within the digital sphere, is a really broad term. Political bots are kind of what we’re interested in. More than that, I guess from people I’ve talked to and the research I’ve done, my suspicion is that they may be being used for campaigns or maybe for 網軍 or something like that, on either side of the debate.

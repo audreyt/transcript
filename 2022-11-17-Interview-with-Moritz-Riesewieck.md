@@ -108,7 +108,7 @@ People ask very practical questions like, "How did you feel about not getting in
 
 Everybody understood that registration is good, insurance is good, and it's good that the local temples and churches who want to organize their rural transportation must also have the same legal standing as the Uber fleets.
 
-All this inclusive access, actually regardless of whether you're a Uber driver or a taxi driver, you agree, but if you only have radio and television, it's almost impossible for the people to write their own posts, their own surveys.
+All this inclusive access, actually regardless of whether you're an Uber driver or a taxi driver, you agree, but if you only have radio and television, it's almost impossible for the people to write their own posts, their own surveys.
 
 Therefore, not possible to see that there's actually a lot common understanding between you and your neighbors on pretty much all accounts. That is the discovery that we made through the pol.is system in Taiwan.
 
@@ -313,7 +313,7 @@ However, there are also communities like the InterPlanetary File System, the IPF
 
 For our ministry, the Ministry of Digital Affairs at moda.gov.tw, although you can connect through your browser on the regular cloud infrastructure, you can also visit us through the IPFS. If you want to keep our website afloat during cyber attacks, you can help us by pinning our website on your hard disc and become a cloud provider for the MODA.
 
-Again, this is complimentary. People who can pay those public cloud providers enjoy the convenience of access, but people who care about tamper proof, censorship resistant, especially journalists working authoritarian regimes in which Amazon may or may not stay connected.
+Again, this is complementary. People who can pay those public cloud providers enjoy the convenience of access, but people who care about tamper proof, censorship resistant, especially journalists working authoritarian regimes in which Amazon may or may not stay connected.
 
 Then they will work with the IPFS people to free the future by making sure that nobody can tamper with their content and everybody can help making it accessible.
 
@@ -335,7 +335,7 @@ It's still pretty hard to imagine how something like this, like publicly designe
 ### Audrey Tang:
 When I first encountered the Internet, that was 1993, I was 12 years old. I was very interested in learning from the public domain works. For example, in the Gutenberg archive where people digitize their works that was already in the public domain out of copyrights and I formed my first vocabularies when learning the English language.
 
-Interestingly, they're all before the world wars, so I have a unusually optimistic view on the Western civilization because everything after the world wars are still in the copyright.
+Interestingly, they're all before the world wars, so I have an unusually optimistic view on the Western civilization because everything after the world wars are still in the copyright.
 
 The commons is already part of the Internet back then, as it is now. The Internet Archive, the arXiv, A R X I V, public access scholarly works, and especially Wikipedia nowadays form the common vocabularies of students, professors, and everyone in the academic and research communities.
 
@@ -458,7 +458,7 @@ Anyone around the world more than 200,000 computer volunteers can help backing u
 ### Moritz Riesewieck:
 I think in a lot of cases when in Europe, people talk about data that it reflects immediately. People will only take a few seconds and then there is the example of China, the People's Republic of China, controlling the data and if using it, using it against the people. This is quite dominant in Europe.
 
-People could hearing you talk about what important role data play in society. Here, people could take get it wrong and understand that all this data can easily be abused in a moment when...I don't know and nobody wants that, but the worst case scenario, the People's Republic of China would like be in a even worst war with you and would take over or whatever.
+People could hearing you talk about what important role data play in society. Here, people could take get it wrong and understand that all this data can easily be abused in a moment when...I don't know and nobody wants that, but the worst case scenario, the People's Republic of China would like be in an even worst war with you and would take over or whatever.
 
 There's this fear of where is data? Data can also be abused. What is your take on that? How do you protect the data? In which way are we talking about personal data or is this a really completely different data?
 
@@ -507,9 +507,9 @@ When they run their own systems, taking control of more and more of their interp
 
 If I send instant message to you, even if it's through a third party like Signal, people demand to reveal the source code of Signal to make sure that they cannot intercept the message that's encrypted from my phone to your phone and any intermediaries, people in the middle cannot mathematically speaking, gets the original plain text that I sent you.
 
-The most a attacker can do is to disrupt the service, but they cannot compromise the privacy of our two one to one private communications. Private instant messaging is something that we have seen more and more people start demanding.
+The most an attacker can do is to disrupt the service, but they cannot compromise the privacy of our two one to one private communications. Private instant messaging is something that we have seen more and more people start demanding.
 
-If a instant message provider doesn't provide end to end encryption, there's a backlash against them providing such services that may sell the content of the conversation to the highest bidder for our attentions.
+If an instant message provider doesn't provide end to end encryption, there's a backlash against them providing such services that may sell the content of the conversation to the highest bidder for our attentions.
 
 It's only through consumer right protection and the civic hackers and the maker's [laughs] movement that we can set a new norm that is only normal if they cannot eavesdrop into our postings and is not normal at all if they start to profit from the private communications that people have on in instant message.
 
@@ -573,7 +573,7 @@ Before the Internet, there was many attempts at building central nervous system 
 
 Unlike the Internet, the system is controlled by a few designers. In the Internet, the main thing is permissionless innovation. If you think about a better way to do things, you can convince two or three of your friends across the world, and then you start building a new protocol, a new system.
 
-The providers of Internet service cannot object to you inventing a new way that may be putting some of the actor out of business. In projects like Cybersyn, there is a architect, there's a designer, and their design may be good, maybe bad, may inform the society, distract the society, but it's very difficult for the society to say, "Yes, and we want to make it better this way."
+The providers of Internet service cannot object to you inventing a new way that may be putting some of the actor out of business. In projects like Cybersyn, there is an architect, there's a designer, and their design may be good, maybe bad, may inform the society, distract the society, but it's very difficult for the society to say, "Yes, and we want to make it better this way."
 
 However, on the Internet, people who don't like the original configuration of their pol.is system, maybe it was English only, maybe it doesn't run on small screens, on films and so on.
 

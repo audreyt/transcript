@@ -445,10 +445,10 @@ If we don’t tackle this in a way that’s collaborative, the government will b
 This is like the Minister of Transport now, and it becomes very high like this. Saying, &quot;We really enforce this transportation idea.&quot;
 
 ### Audrey Tang:
-Also the consensus of that particular meeting is that Association of E-commerce who comes need to enlist FB to join their ranks, and then to go through a association multi-stakeholder system, to make sure that everybody knows how to flag those advertisement, with our education.
+Also the consensus of that particular meeting is that Association of E-commerce who comes need to enlist FB to join their ranks, and then to go through an association multi-stakeholder system, to make sure that everybody knows how to flag those advertisement, with our education.
 
 ### Audrey Tang:
-This is somewhat related to your question because then this is diplomatic in nature. This is basically backing up a action from a civil society actor, a private sector actor, to the FB.
+This is somewhat related to your question because then this is diplomatic in nature. This is basically backing up an action from a civil society actor, a private sector actor, to the FB.
 
 ### Audrey Tang:
 When I visit the FB, I describe this to their VP. They’re like, &quot;Why not? We’re happy to join.&quot; Last week, they did join the local e-commerce Association, here, and then worked directly with the people, the stakeholders.
@@ -734,7 +734,7 @@ It is a big challenge, but there’s like two years to meet that challenge. Some
 There’s a lot of interest, especially outside of the six metropolis, to actually get the education experiencing their local industries. If it’s a farming community, then it’s integrating with the social enterprise on that community.
 
 ### Audrey Tang:
-If it’s a industry, making community, then there’s also social innovations happens around there, if it’s touristy, and so. It’s going to be much more integrated, and I see a lot of social enterprises now, because of the demand of the primary schoolers, they actually join these kind of programs and basically they augment the teachers through curriculum design this way.
+If it’s an industry, making community, then there’s also social innovations happens around there, if it’s touristy, and so. It’s going to be much more integrated, and I see a lot of social enterprises now, because of the demand of the primary schoolers, they actually join these kind of programs and basically they augment the teachers through curriculum design this way.
 
 ### Audrey Tang:
 There’s a social enterprise working with the Khan Academy internationally, and produced a locally translated version, and basically teach them the way that basically having those students dictate their own pace, and have the teacher basically be co-learners. They’ve done really, really well as a social enterprise and also as the innovator.

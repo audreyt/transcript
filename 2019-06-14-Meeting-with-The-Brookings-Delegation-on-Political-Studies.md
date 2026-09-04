@@ -241,7 +241,7 @@ To budgets and all the parts. Just one minute of context. G0v is an idea that al
 For all government services -- to date, there is over 200 government services -- that the civil society don’t like, they don’t have to protest on the street. They just register the same domain, exactly the same as the government, but change the O to a zero. You just go to a government website, change O to a zero, and you get into the shadow government where it is more interactive, more open, and more fun.
 
 ### Audrey Tang:
-The budget, for example, become a interactive map that you can have a real-time conversation around. This was originally in 2012. Two years later, in 2014, it was adopted then by the Taiwan City mayor, Ko Wen-je, as the system for the participatory budgeting in Taipei.
+The budget, for example, become an interactive map that you can have a real-time conversation around. This was originally in 2012. Two years later, in 2014, it was adopted then by the Taiwan City mayor, Ko Wen-je, as the system for the participatory budgeting in Taipei.
 
 ### Audrey Tang:
 It spread to other municipalities and cities, and after I became the digital minister in 2016, we then merged this back into the e-participation platform that has 5 million visitors out of 23 million people in Taiwan, so one-quarter of population.
@@ -273,7 +273,7 @@ Do you have data of how many people in Taiwan often access...?
 15 years old doesn’t even have the voting rights. Actually, these two age groups care the most about public welfare instead of private matters. They have the most time on their hands, so they organize very well.
 
 ### Audrey Tang:
-The most impactful e-petitions that we have received, for example, the one that caused the banning of the plastic straw for indoor bubble tea drinking, \[laughs\] is actually petitioned by a 15 years old. When asked, &quot;Why are you petitioning this?&quot; it’s like the Friday Strikes in Europe, why they can organize so well, they say, &quot;Oh, it’s a assignment from the civics class of the senior high school.&quot;
+The most impactful e-petitions that we have received, for example, the one that caused the banning of the plastic straw for indoor bubble tea drinking, \[laughs\] is actually petitioned by a 15 years old. When asked, &quot;Why are you petitioning this?&quot; it’s like the Friday Strikes in Europe, why they can organize so well, they say, &quot;Oh, it’s an assignment from the civics class of the senior high school.&quot;
 
 ### Visitor 1:
 That’s great.
@@ -628,7 +628,7 @@ What we’re doing is basically just working on the content layer or the applica
 If you look at the Taiwan FactCheck Center, which is totally nonpartisan, and actually they rely on crowdfunding -- they refuse any funding from political parties and governments and things like that -- they’re not actually always in favor of the DPP, or the administration for matter.
 
 ### Audrey Tang:
-What we’re basically saying is that we are a source that can very reliably, if the fact-checkers ask us, give them something in an hour. We don’t have a exclusive right or privilege on that.
+What we’re basically saying is that we are a source that can very reliably, if the fact-checkers ask us, give them something in an hour. We don’t have an exclusive right or privilege on that.
 
 ### Audrey Tang:
 To win trust, any actor, KMT or not, can also commit to get them this kind of information within this time frame. The TFCC, again, just shows through investigative reporting, what exactly is, is like.

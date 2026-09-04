@@ -493,7 +493,7 @@ But these things have a distinctly different theme compared to what you just des
 Sure.
 
 ### Audrey Tang:
-And then for professional truck drivers, we of course established a even more strict regulatory structure, and we’re not saying that people can just hop on a random truck and drive them home as amateurs, like &quot;anybody can drive a truck.&quot; I don’t think that’s true, right?
+And then for professional truck drivers, we of course established an even more strict regulatory structure, and we’re not saying that people can just hop on a random truck and drive them home as amateurs, like &quot;anybody can drive a truck.&quot; I don’t think that’s true, right?
 
 ### Audrey Tang:
 Even for automated truck driving, you’d still have to have the local part of it. Once they finish the highway, there has to be somebody who drives it to the local depot.

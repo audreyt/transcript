@@ -89,7 +89,7 @@ This is how we gather around one large room in the TAF and to talk about any iss
 Any larger ministries, even third-level agencies now have participation officers. Just like we get officers who talk to journalists, just like the parliamentary officers who talk to the MPs, participation officers are people who talk to stakeholders such as this person here who last May raised a petition that says, &quot;You know, on Mac, Linux and tablets the income tax form software is explosively hostile.&quot;
 
 ### Audrey Tang:
-They get quite a following. \[laughs\] Then after 48 hours, the \[non-English speech\] , the Ministry of Finance participation officer is posted publicly online saying that whoever complained about our income tax filing software are invited to co-creation workshops this Friday or next Friday.
+They get quite a following. \[laughs\] Then after 48 hours, the \[non-English speech\], the Ministry of Finance participation officer is posted publicly online saying that whoever complained about our income tax filing software are invited to co-creation workshops this Friday or next Friday.
 
 ### Audrey Tang:
 This is very interesting because whereas before about 80 percent of people online on e-petition forum are very negative, only less than 20 percent said, &quot;I use Windows and I feel pretty good.&quot; \[laughs\] Nobody cared about it. \[laughs\] As soon as the invitation was posted, it’s reversed. 80 percent of the people offer very constructive criticism.

@@ -327,7 +327,7 @@ I’ll just use one simple example for two minutes to illustrate this idea of in
 People in Taiwan really care about air quality, so without waiting for the government, they engaged themselves using what’s called AirBoxes, meaning really low-cost, less than US$100, devices. Everybody can just put those boxes to their balcony, to their schools, to their homes, wearing it, and so on. It senses the air quality and reports to the cloud.
 
 ### Audrey Tang:
-The g0v people, of course, support it with the ICT technology to visualize. It’s not just to measure the air quality of your local home. Using your home WiFi or some other technologies, you can upload to this global visualization network that lets people view, at a glance, the digital gap in Taiwan \[laughs\] , where the bulk of Taiwan people has been active, digitally.
+The g0v people, of course, support it with the ICT technology to visualize. It’s not just to measure the air quality of your local home. Using your home WiFi or some other technologies, you can upload to this global visualization network that lets people view, at a glance, the digital gap in Taiwan \[laughs\], where the bulk of Taiwan people has been active, digitally.
 
 ### Audrey Tang:
 There’s many people, of course, in the mountains, in indigenous areas, and things like that. That is the government’s responsibility to support them with accurate air measurements in places that are blank.
@@ -342,7 +342,7 @@ The reason why is that this really challenge the legitimacy of the central gover
 Because of that, it’s seen as a threat to the governmental authority for many economies and jurisdictions in our region. In Taiwan, we take a different approach. We say we can’t beat the civil society. We join the civil society.
 
 ### Audrey Tang:
-What the government does is manufacture low-cost sensors for people to use, to put new spots on the ones that are indigenous or less digitally inclined. We have broadband as human right, and we listen to those citizen scientists who say they really want to have a AirBox here in the Taiwan Strait, which is partly an answer to the question about the Taiwan Strait.
+What the government does is manufacture low-cost sensors for people to use, to put new spots on the ones that are indigenous or less digitally inclined. We have broadband as human right, and we listen to those citizen scientists who say they really want to have an AirBox here in the Taiwan Strait, which is partly an answer to the question about the Taiwan Strait.
 
 ### Audrey Tang:
 People really care about the air pollution quality here, because people can then tell whether the air quality is because of domestic causes or whether it’s because of air quality from the other side of the Taiwan Strait.
@@ -370,13 +370,13 @@ Of course, the national high-speed computing center would never do such a thing,
 The distributed ledger, simply put, is a way for people to add new numbers to a common ledger. Everybody can write to a ledger book, and it appears automatically to everybody else’s books. You cannot ever erase anything on it. You can only add to it. You cannot change the numbers. Any attempt to change the numbers will be detected by everybody else holding the same distributed ledger.
 
 ### Audrey Tang:
-This is a new technology that’s invented by someone that doesn’t even have a identity, \[laughs\] the Bitcoin creator. That is a hip technology the past few years. We use DLT, the distributed ledger, to make sure that when the numbers are uploaded to the national supercomputing center, it’s got a snapshot, it’s storing the DLT.
+This is a new technology that’s invented by someone that doesn’t even have an identity, \[laughs\] the Bitcoin creator. That is a hip technology the past few years. We use DLT, the distributed ledger, to make sure that when the numbers are uploaded to the national supercomputing center, it’s got a snapshot, it’s storing the DLT.
 
 ### Audrey Tang:
 People can see if that we want to change the numbers, everybody will get notified of it, so we’ll never change the numbers. That enables a cross-sectoral trust. Because it’s all open source, meaning we relinquish the copyrights, people around the world can just download the code, put it into open hardware like Arduino or Raspberry Pi, and then just start their own AirBoxes.
 
 ### Audrey Tang:
-If they don’t change the code, the code, by default, uploads to the Taiwan network. \[laughs\] Of course, they can choose other networks, but that means that, by default, we now have a international network that we can contribute to climate science and things like that.
+If they don’t change the code, the code, by default, uploads to the Taiwan network. \[laughs\] Of course, they can choose other networks, but that means that, by default, we now have an international network that we can contribute to climate science and things like that.
 
 ### Audrey Tang:
 For that, we have one, single entry point, the website, collectiveintelligence.taiwan.gov.tw, that collectively measures the planet and let the climate speak through wind turbines on the Taiwan Strait and other places.
@@ -405,7 +405,7 @@ Yes, there’s follow-up questions.
 I know that there’s a lot of dependency on new digital technologies. That implies the backbone of the Internet and Taiwan being sovereign or something like that. I’m wondering what’s the cybersecurity posture of Taiwan? How does that interact with politics in the region with other powers? You have a vested interested in protecting cyber power and that sort of thing.
 
 ### Audrey Tang:
-Our cybersecurity strategy. Just like Estonia, we’re on the front line. Around the year 2000, I personally worked on the advocacy and translation of a project called Freenet, which is a early version of something like Pour or Shadowsocks, and things like that.
+Our cybersecurity strategy. Just like Estonia, we’re on the front line. Around the year 2000, I personally worked on the advocacy and translation of a project called Freenet, which is an early version of something like Pour or Shadowsocks, and things like that.
 
 ### Audrey Tang:
 Because the Great Firewall and the Golden Shield was still in its nascent stages, it was relatively easy to break at the time. In any case, I personally worked on these technologies. I believe that secure communication is a human right. Because of that, our Snowden moment came way before the Western world.
@@ -445,7 +445,7 @@ It’s state-of-the-art, so we’re reasonably sure that anything we develop on 
 ...basically digitizing their menu so that around lunch time it will...It’s single sign-on. It automatically remembers my name, my favorite food \[laughs\] from the last time ordering from this restaurant. Then we can just get lunch boxes together. It’s very useful. \[laughs\]
 
 ### Audrey Tang:
-This app is written by someone who is not a certified cybersecurity author exactly because the app is running on a abstracted sandbox-contained layout. The defense in depth to this system is there so that anything you put on it will be secure by default. That is the answer to your question.
+This app is written by someone who is not a certified cybersecurity author exactly because the app is running on an abstracted sandbox-contained layout. The defense in depth to this system is there so that anything you put on it will be secure by default. That is the answer to your question.
 
 ### Audrey Tang:
 We make sure that for all the major government projects we allocate at least five percent of the total budget in procurement for cybersecurity. This is the norm. When we do any new project, we ask the white hackers to attack and report before the black hats do.
@@ -482,7 +482,7 @@ Uber is already involved in Taiwan. We ratified that, just like here, two years 
 Because of that new regulation, you can now call taxis on 7-Eleven, which is a popular -- I’m not sure what they are anymore -- all-purpose store in Taiwan so that you can call a taxi easily. The taxi fleet that comes to you doesn’t have to be painted yellow.
 
 ### Audrey Tang:
-It basically opens the door for taxi that operates in the app-based telecommunication way. The largest fleets, like Taiwan Taxi and so on, they all switched to a Uber-like model with their apps and things like that. They actually enjoy higher living quality.
+It basically opens the door for taxi that operates in the app-based telecommunication way. The largest fleets, like Taiwan Taxi and so on, they all switched to an Uber-like model with their apps and things like that. They actually enjoy higher living quality.
 
 ### Audrey Tang:
 It is true that if the taxis are not unionized, if they do not join an app-based fleet at the time, their work quality, their life quality, or their earnings and so on are less than before, but that has been a stable trend even before Uber joined.
@@ -547,7 +547,7 @@ We have a e-petition system where anyone who raised 5,000 e-signatures, verified
 > (laughter)
 
 ### Audrey Tang:
-I think that’s a accurate translation. His petition is full of negative energy. I will spare you the content. It went viral. A lot of people called for the Minister of Finance to resign because their experience using Mac, Linux, and iPad to file taxes is really explosively hostile.
+I think that’s an accurate translation. His petition is full of negative energy. I will spare you the content. It went viral. A lot of people called for the Minister of Finance to resign because their experience using Mac, Linux, and iPad to file taxes is really explosively hostile.
 
 ### Audrey Tang:
 If you use Safari, which is the default browser on iPad and Mac, to open our tax filing system page last year, it will say, &quot;Please wait for a few moments for the app to be installed. The Java applet will take some time to start.&quot; Because Safari blocks pop-up windows like advertisements, one of our MP waited for four hours and nothing happens.
@@ -601,7 +601,7 @@ We divided the experience from before the tax filing, during the tax filing, aft
 The important thing here is that during the co-creation workshop we worked with the trolls and worked with the people on the Internet in a way that doesn’t count the numbers of sentiments. If 5,000 people have the same sentiment, it’s just one Post-It note. It doesn’t matter if you mobilize or not. This measures diversity, not counting of heads or showing of hands.
 
 ### Audrey Tang:
-The other thing that we promise is that, unlike other jurisdictions, we will never harmonize your comments. Basically, if the people on the Internet says that this is volatile, the words are just explosively overwhelming, we just post that. If it’s a \[Chinese\] , it’s just...
+The other thing that we promise is that, unlike other jurisdictions, we will never harmonize your comments. Basically, if the people on the Internet says that this is volatile, the words are just explosively overwhelming, we just post that. If it’s a \[Chinese\], it’s just...
 
 > (laughter)
 
@@ -609,7 +609,7 @@ The other thing that we promise is that, unlike other jurisdictions, we will nev
 ...so over-decorated that I feel confused, we just post that. We never harmonize people’s sentiments. We show them on the overview map and check on each other’s feelings. That’s our core principle. We even allow people’s sentiment to challenge our own assumptions, out-of-scope challenges.
 
 ### Audrey Tang:
-Like last year, when people were filing for the tax, at around the end of it, a mascot from the Ministry of Finance will jump up and down and say, &quot;Thank you for your contribution to the country,&quot; in a attempt to make people feel better.
+Like last year, when people were filing for the tax, at around the end of it, a mascot from the Ministry of Finance will jump up and down and say, &quot;Thank you for your contribution to the country,&quot; in an attempt to make people feel better.
 
 > (laughter)
 
@@ -668,7 +668,7 @@ They did that in every single election so far.
 ...that fake news, and how Taiwanese government, using open data, open government, or citizen technology to protect Taiwanese election or Taiwanese democracy.
 
 ### Audrey Tang:
-That’s a excellent question. You asked about both cybersecurity and disinformation. Cybersecurity, I think I’ve already answered, is an early part of a strategy, basically making sure that our white hat hackers, they are not trained academically. They’re trained in the field. \[laughs\]
+That’s an excellent question. You asked about both cybersecurity and disinformation. Cybersecurity, I think I’ve already answered, is an early part of a strategy, basically making sure that our white hat hackers, they are not trained academically. They’re trained in the field. \[laughs\]
 
 ### Audrey Tang:
 They are paid very well, they get recognized, and they have very high social status. We guarantee five percent for major government projects, six percent from municipal, and seven percent for small projects that goes to cybersecurity so they have very good living and don’t go to the dark side.
@@ -694,13 +694,13 @@ Sometimes, there are actors that manufacture information that is intentional and
 In her National Day speech, she used the term disinformation, instead of fake news. This is the same for the entire administration. We don’t use the words &quot;fake news&quot; anymore.
 
 ### Audrey Tang:
-The reason why is that, personally, both my parents are journalists. The term &quot;fake news&quot; itself, to me, although you can use it to describe disinformation, it carries a connotation that somehow this has something to do with the journalistic output. This is a attack, an affront on the status of journalism in the society.
+The reason why is that, personally, both my parents are journalists. The term &quot;fake news&quot; itself, to me, although you can use it to describe disinformation, it carries a connotation that somehow this has something to do with the journalistic output. This is an attack, an affront on the status of journalism in the society.
 
 ### Audrey Tang:
 We need journalism for a democracy to thrive, so we will not mis-associate the term news with disinformation, which is why we never use now in official communications the term &quot;fake news&quot; in Taiwan. We just say organized disinformation, criminal disinformation, but not fake news. This is just terminology.
 
 ### Audrey Tang:
-The second thing is that we observe that it is a global phenomenon that it reveals trust on everybody, not just public sector, but especially among the people with different feelings and thoughts. Around this region, according to the CIVICUS Monitor, we are the only jurisdiction that has a expanding civil society space in terms of freedom of assembly, speech, and so on.
+The second thing is that we observe that it is a global phenomenon that it reveals trust on everybody, not just public sector, but especially among the people with different feelings and thoughts. Around this region, according to the CIVICUS Monitor, we are the only jurisdiction that has an expanding civil society space in terms of freedom of assembly, speech, and so on.
 
 ### Audrey Tang:
 We’re not saying that we’re like Scandinavia, or New Zealand, or Australia, but in our region, we’re the only expanding one and everybody is shrinking. Because of this, maybe in five generations down in the future, the freedom of speech will be seen as the instrumental value as in other jurisdictions.
@@ -878,13 +878,13 @@ What I’m saying is that you need to solve a real social problem and the norms 
 This is actually the idea of personal computing. Back in 1980, when personal computer is known for, late ’80s, the previous thought train was of a mainframe computer, a huge computer that is maybe one-tenth as powerful as this iPad, and people connect to it as terminals. You don’t have any control of the logic that’s running on the mainframe.
 
 ### Audrey Tang:
-The promise of personal computer and, later on, of mobile computing is that you can install the apps that fits your lifestyle and they co-evolve with you. It must be the same with AI. People need to be able to interrogate, to communicate, to change this flashing red light when it’s feeling uneasy to maybe a emoji or a dog face or whatever as they feel like. This is what personal computing means.
+The promise of personal computer and, later on, of mobile computing is that you can install the apps that fits your lifestyle and they co-evolve with you. It must be the same with AI. People need to be able to interrogate, to communicate, to change this flashing red light when it’s feeling uneasy to maybe an emoji or a dog face or whatever as they feel like. This is what personal computing means.
 
 ### Audrey Tang:
 Which is why we make sure, first problem is human rights and AI integrated to all levels of education, so that all children can feel that AI is something that they have agency over. It’s not something they subscribe to and has agency over them. This is the utmost importance in Taiwan’s AI development philosophy.
 
 ### Audrey Tang:
-When anyone applies for a sandbox experiment, which is a application to break laws and regulations for a year to prove that it’s good for the society...This is a new innovation system we introduced just this year.
+When anyone applies for a sandbox experiment, which is an application to break laws and regulations for a year to prove that it’s good for the society...This is a new innovation system we introduced just this year.
 
 ### Audrey Tang:
 Anything that you have in AI for banking, AI for transportation, AI for, I don’t know, parking lot allocation, you name it, you can go to sandbox.org.tw and say, &quot;There’s a social problem or environmental problem here or economic unique to regional revitalization. I think that this regulation or law is blocking the society from progressing.
@@ -914,7 +914,7 @@ We basically tour around Taiwan. I personally, every Tuesday, tour around Taiwan
 Anytime I go there and talk to the local people who are the most impacted by technologies, they would tell me the real social needs and environmental needs. At the same time, 12 ministries related to social innovation gather in the Social Innovation Lab in Taipei and sees through my eyes.
 
 ### Audrey Tang:
-I’m like a investigative reporter. They see what I see in the place that I stay for a couple of days or I meet with local indigenous assembly or things like that. All the ministries related to social innovations are there.
+I’m like an investigative reporter. They see what I see in the place that I stay for a couple of days or I meet with local indigenous assembly or things like that. All the ministries related to social innovations are there.
 
 ### Audrey Tang:
 Previously, the people here would say, &quot;We need our local co-op to be recognized and some procurement rules.&quot; They would say, &quot;We have a local association that we’d really like to be a social enterprise by using impact investment programs.&quot;
@@ -934,7 +934,7 @@ Now, because all the ministers are there, it’s impossible for them to go into 
 Every local issue that’s brought up need to be resolved on the record after two weeks, after each meeting. Then, I tour to another place, carry on the conversation. If they cannot be reached within two weeks, sometimes it’s resolved by another regional innovation meeting to resolve issues on the previous region. If that doesn’t happen in two weeks, we list it as an open challenge for people to work on.
 
 ### Audrey Tang:
-If you want to apply for a sandbox experiment or something, you can cite that as a rationale. Just by surfacing this problem and having on the record radical transparency, record of the ministers saying, &quot;We really don’t know how to solve this problem,&quot; you get a automatic pass into the sandbox system, where you can take the try as a social entrepreneur to solve the problem.
+If you want to apply for a sandbox experiment or something, you can cite that as a rationale. Just by surfacing this problem and having on the record radical transparency, record of the ministers saying, &quot;We really don’t know how to solve this problem,&quot; you get an automatic pass into the sandbox system, where you can take the try as a social entrepreneur to solve the problem.
 
 ### Audrey Tang:
 We will adjust our regulation and interpretations for you. This is co-creation not just for the people, but with the people. That is the philosophy.
@@ -946,7 +946,7 @@ Yes?
 The culture that you have and that your government has introduced is really inspiring. The question I have is let’s just say, in a hypothetical scenario, there’s a change in government. How do you make sure that this culture of collective intelligence and open government sticks beyond, say, you being in office?
 
 ### Audrey Tang:
-I’m in this for the long haul, \[laughs\] for the long run. I joined as a understudy minister, as a advisor to public service, around the end of 2014. The people who invites me, Minister Jaclyn Tsai, Deputy Premier Simon Chang, Jaclyn was from IBM Asia, director of law IBM Asia, Simon Chang was director of engineering in Google.
+I’m in this for the long haul, \[laughs\] for the long run. I joined as an understudy minister, as an advisor to public service, around the end of 2014. The people who invites me, Minister Jaclyn Tsai, Deputy Premier Simon Chang, Jaclyn was from IBM Asia, director of law IBM Asia, Simon Chang was director of engineering in Google.
 
 ### Audrey Tang:
 I was at the time, of course, independent contractor and advisor at Apple. We share very similar ethos. We share this idea of rapid innovation, listening to users, and working with people as people. We are all non-partisan. I don’t have any party affiliation. I don’t even care about political parties.
@@ -981,7 +981,7 @@ Of course, that got resolved and later on he entered the city council, but then 
 > (laughter)
 
 ### Audrey Tang:
-This is great because he went on a economic innovation tour, and I go on social innovation tour, but both with the idea of regional revitalization, which is our new national direction starting next year. What I’m saying is that open government on a national and municipal level, it is a culture that cannot be turned back now, but in the township, precinct level, that is just now being devolved into those government and jurisdictions.
+This is great because he went on an economic innovation tour, and I go on social innovation tour, but both with the idea of regional revitalization, which is our new national direction starting next year. What I’m saying is that open government on a national and municipal level, it is a culture that cannot be turned back now, but in the township, precinct level, that is just now being devolved into those government and jurisdictions.
 
 ### Audrey Tang:
 Tainan City, for example, just adopted the Participation Officers Network and many other cities are committed to do that after the midterm election. So, yeah, I’m very optimistic. I’m non-partisan. Whichever party runs the cabinet, I’m working with the cabinet, not for the cabinet anyway. I’m here for the long run.
@@ -1031,7 +1031,7 @@ Nobody needs a rationale or a signature by the upper echelon of the public servi
 Do you worry that I would become a tool of neoliberal capitalism? I am a vessel of conservative anarchism, which is very different from neoliberal capitalism. Anarchism means very simply that I take no orders and I give no orders. I have not given a single order as the digital minister.
 
 ### Audrey Tang:
-Everybody in my office volunteered to work with me. I had a agreement with the Secretary General that I can poach at most one person from each ministry who volunteer to work with me. Literally, I can have 34 staff because there’s exactly 34 ministry. At the moment I have 22. For example, this is our Foreign Affair Ministry \[laughs\] delegate to our office.
+Everybody in my office volunteered to work with me. I had an agreement with the Secretary General that I can poach at most one person from each ministry who volunteer to work with me. Literally, I can have 34 staff because there’s exactly 34 ministry. At the moment I have 22. For example, this is our Foreign Affair Ministry \[laughs\] delegate to our office.
 
 ### Audrey Tang:
 This creates a culture of voluntary association, of people just brainstorming any idea, anything that they want to do, printing a comic book or whatever, \[laughs\] print a t-shirt. People just go ahead and do it. Because every ministry is a different social or economic value, if something that is a consensus of these people, it is of no harm to any ministry.
@@ -1103,10 +1103,10 @@ Maybe the last one.
 We did the disinformation one.
 
 ### Audrey Tang:
-Some major social consensus challenges facing Taiwan. I would say that there are many people in Taiwan at the moment still believe in the authoritarian power structures. There are people who still think that a efficient authoritarian rule is sometimes better than a somewhat more deliberate one-month-long decision-making process that involves a rough consensus.
+Some major social consensus challenges facing Taiwan. I would say that there are many people in Taiwan at the moment still believe in the authoritarian power structures. There are people who still think that an efficient authoritarian rule is sometimes better than a somewhat more deliberate one-month-long decision-making process that involves a rough consensus.
 
 ### Audrey Tang:
-To me, one month or two months is a good time period to have a iteration, but there are still some people who believe that you really need to fast-track things by a majority rule or by just some political will, to not go through a proper conversation for two months.
+To me, one month or two months is a good time period to have an iteration, but there are still some people who believe that you really need to fast-track things by a majority rule or by just some political will, to not go through a proper conversation for two months.
 
 ### Audrey Tang:
 For me, this is a culture of the people who are educated before the martial law gets lifted, and the people who gets educated after, especially the educational reform of the ’90s. I think the time is on our side, and also \[laughs\] that we do all we can through lifelong education efforts to make sure that people respect the plurality.

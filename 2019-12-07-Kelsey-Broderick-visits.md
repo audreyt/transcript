@@ -37,7 +37,7 @@ Very good.
 I wanted to know about the Asia-Silicon Valley first, because I was there, and I experienced Silicon Valley. How is it going here? Is the intention to be like Palo Alto, or is the intention to be a different version that is more…?
 
 ### Audrey Tang:
-I put a dot to the Asia-Silicon Valley Plan, so now, it’s Asia connecting, multiplying, or a dot product, whatever, connecting to Silicon Valley. It used to be \[Taiwanese\] , but now, it’s \[Taiwanese\].
+I put a dot to the Asia-Silicon Valley Plan, so now, it’s Asia connecting, multiplying, or a dot product, whatever, connecting to Silicon Valley. It used to be \[Taiwanese\], but now, it’s \[Taiwanese\].
 
 ### Audrey Tang:
 We want to be the dot here that connects with the Silicon Valley, but we are not just saying that it’s single-directional, like we’re replicating Silicon Valley in Taiwan. We’re rather introducing the spirits of Silicon Valley, the idea of an ecosystem, the idea of pivoting, the idea of fast iteration, a good collaboration between the academia, the startup scene, and things like to Taiwan.
@@ -165,7 +165,7 @@ Yes, we’ve got some demographics, and there’s no real difference between rur
 I think they have both more time on their hands, maybe. \[laughs\] This is anecdotal, I don’t have a real theory. Maybe they care more about the public welfare for the next generation, instead of their private interests.
 
 ### Audrey Tang:
-They’re the best partners, the 15-years-olds set the direction, like starting petitions that says let’s ban the use of single-use utensils such as straws for \[inaudible 10:52\] . 65-year-olds join and figure out the most viable way to go about that like using carbon-neutral, organic way to make plastic straws, and things like that. We have a lot of collaboration between those two generations.
+They’re the best partners, the 15-years-olds set the direction, like starting petitions that says let’s ban the use of single-use utensils such as straws for \[inaudible 10:52\]. 65-year-olds join and figure out the most viable way to go about that like using carbon-neutral, organic way to make plastic straws, and things like that. We have a lot of collaboration between those two generations.
 
 ### Kelsey Broderick:
 I know you’re pretty heavily involved, in the Uber decision.

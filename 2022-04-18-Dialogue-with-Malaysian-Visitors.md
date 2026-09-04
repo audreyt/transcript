@@ -86,7 +86,7 @@ I saw there was some divisive statements in your previous slide here. How do you
 ### Audrey Tang:
 We just table them. The idea very simply put, is that we aim for a rough consensus or good enough consensus. If people still cannot agree on a few things, instead of like mainstream media, or in a more antisocial corner of social media, people's attention are drawn to just a few ideological differences and spend endless time debating.
 
-It's in polis in our digital democracy infrastructure. As you can see, there is no no verification, there's no reply button. People just propose their own more nuanced, more eclectic feelings for everybody else who feel very differently, maybe strongly. Nevertheless, they agree on a few common principles.
+It's in polis in our digital democracy infrastructure. As you can see, there is no verification, there's no reply button. People just propose their own more nuanced, more eclectic feelings for everybody else who feel very differently, maybe strongly. Nevertheless, they agree on a few common principles.
 
 We legalize, instill into law, just those broad understanding, those common ground, those good enough consensus. Whilst there may be ideological differences, on these practicalities, we can agree to move forward a little bit.
 
@@ -364,7 +364,7 @@ We need the additional public infrastructure, the public space where people can 
 
 When people ask my job description, I'm like, "This is very easy. I just make the space for reliable data, 17 18, effective partnership 17 17, and 17 6, which is open innovation and we need to continue to adapt technology to where people are, not asking people to give up their values for technology.
 
-I think that galvanizes people because they see that they are being treated as complimentary partners, not just supplementary data points.
+I think that galvanizes people because they see that they are being treated as complementary partners, not just supplementary data points.
 
 ### Malaysian Moderator:
 Another question here. In the context of social innovation during pandemic. How do you see the roles of social enterprises in Taiwan, in the context of social innovation during pandemic? The other question is, do you observe distinctive business or operating modules on all these SEs, social enterprises?

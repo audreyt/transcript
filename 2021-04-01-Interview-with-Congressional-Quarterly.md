@@ -305,7 +305,7 @@ We made sure that we made the universal healthcare, for example, which is entire
 > (laughter)
 
 ### Audrey Tang:
-Universal healthcare is also a human right here and a education tool. By saying that access to basic education online, access to health online and access to democracy online are human rights, we are not confining the resource, universal broadband, to just the NCC, our FCC equivalent. Rather, I could use the resource of all the ministries involved.
+Universal healthcare is also a human right here and an education tool. By saying that access to basic education online, access to health online and access to democracy online are human rights, we are not confining the resource, universal broadband, to just the NCC, our FCC equivalent. Rather, I could use the resource of all the ministries involved.
 
 ### Gopal Ratnam:
 Thank you so much for your time. I appreciate it, and I will come back to your assistant, Frances, if I have any follow-up questions.

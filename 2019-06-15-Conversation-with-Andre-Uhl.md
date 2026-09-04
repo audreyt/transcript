@@ -73,7 +73,7 @@ I’m curious, how did you actually get connected to the Council?
 I was in Vatican, where there was a meeting on the future of AI and participatory democracy and so on, organized by Jeffrey Sachs.
 
 ### Audrey Tang:
-I gave my talk and get connected to the cohort of people who care about these issues. In particular, John Havens was also in that meeting. Then John took a interest in exactly what you said in having radical transparency as kind of an enabler of creating digital twins of ourselves, and that can be interacted socially.
+I gave my talk and get connected to the cohort of people who care about these issues. In particular, John Havens was also in that meeting. Then John took an interest in exactly what you said in having radical transparency as kind of an enabler of creating digital twins of ourselves, and that can be interacted socially.
 
 ### Audrey Tang:
 The other thing that I emphasize is that we co-create the AI norms before we turn them into regulatory experiments like sandboxes. Then after that, we turn them into parameters in a machine code.
@@ -190,7 +190,7 @@ While the West side, somewhat symbolical, is Westernized. It’s very interestin
 I’m very happy to also connect to people who think along these lines and the importance of making sure that the non-duality is getting into all the different dimensions of the CXI, for example, in participatory democracy or participatory design.
 
 ### Audrey Tang:
-In Taiwan we say \[Chinese\] , but we mean that by common understanding or a common sense, actually, sense as in sensing, not in common sense.
+In Taiwan we say \[Chinese\], but we mean that by common understanding or a common sense, actually, sense as in sensing, not in common sense.
 
 ### Audrey Tang:
 But this by itself is very different from its traditional Western counterpart, which is consensus. Consensus is something that is very strong, that is binding, that you can put your name on it that signifies a kind of rigid link between individual peoples.
@@ -220,7 +220,7 @@ They are, of course, advocating anarchistic revolution in the context of the Eas
 There’s a very famous article at a time, about a hundred years ago now, that says anarchism sees education as revolution. Basically, a cultural enlightenment is what Eastern anarchists like Chuang Tzu following Lao Tzu, partly that was in tradition, is looking forward.
 
 ### Audrey Tang:
-It’s not as much bomb throwing as it is as meme throwing. I think we are at a age where...The traditional anarchism, I think, was seen as antagonistic, mostly because of their work against private property, and more so than anything.
+It’s not as much bomb throwing as it is as meme throwing. I think we are at an age where...The traditional anarchism, I think, was seen as antagonistic, mostly because of their work against private property, and more so than anything.
 
 ### Audrey Tang:
 People generally agree that if you can replace hierarchy with horizontal leadership, people are fine with it. But if you start saying property is theft, then people have a lot more problem accepting that, John Lennon notwithstanding.
@@ -358,7 +358,7 @@ Very interesting. What have you observed statistically? Are there any groups tha
 Yeah. I mentioned the 15 and 65 years old are the...
 
 ### Audrey Tang:
-...because, first, they have more time. Also, they are concerned more about public welfare. The age groups in the middle, they still have in themselves a imperative to sustain economically.
+...because, first, they have more time. Also, they are concerned more about public welfare. The age groups in the middle, they still have in themselves an imperative to sustain economically.
 
 ### Audrey Tang:
 The people in the other two groups, the retired groups and the 15 years old, they have in their mind more the people the planet dimensions and they dominate over economic events.

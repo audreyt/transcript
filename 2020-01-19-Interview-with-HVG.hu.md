@@ -40,7 +40,7 @@ That’s right.
 Yes.
 
 ### Nagy Gábor:
-I work as a group \[inaudible 2:25\] .
+I work as a group \[inaudible 2:25\].
 
 ### Audrey Tang:
 Yes, sorry, we had some time lag. The SARS experience taught us in a time of a pandemic or epidemic as were, the infodemic part is actually sometime more damaging. At the SARS in 2003, people panicked buy, for example, N95 masks leading to a shortage and things like that.
@@ -247,7 +247,7 @@ It’s not like the personnel and the budget is still at the moment appointed by
 We are going to send out the foundation acts of the competent authority on data protection. Hopefully, that will close the only gap between our own system and the GDPR adequacy.
 
 ### Nagy Gábor:
-I did have a personal experience when I was in Taiwan at the first time. I was in a hospital and I was shown the…I don’t know how you call it. The health registry card or health \[inaudible 22:05\] . It was quite astonishing because…
+I did have a personal experience when I was in Taiwan at the first time. I was in a hospital and I was shown the…I don’t know how you call it. The health registry card or health \[inaudible 22:05\]. It was quite astonishing because…
 
 ### Nagy Gábor:
 It’s going to be a little bit longer question because I’d like to explain the situation. Hungary, the Constitutional Court in the early ‘90s, I think it was in ‘92 or ‘93, decided that we could no longer use the personal identification number for data gathering purposes.
@@ -295,7 +295,7 @@ While the law is European style, there’s a lot of flexibility within a single 
 Of course, having an independent DPA will make this much more clear, but the national health card is also the backbone of most of our counter COVID situation which made for example rationing the mask much more easy on the pharmacies. There is pro and con in this.
 
 ### Nagy Gábor:
-Going back to the data you gather as a government, the more data you have, the more protection you need for the data to \[inaudible 26:17\] . You are a hacker or used to be.
+Going back to the data you gather as a government, the more data you have, the more protection you need for the data to \[inaudible 26:17\]. You are a hacker or used to be.
 
 ### Audrey Tang:
 Yes, still I am. A civic hacker.
@@ -382,7 +382,7 @@ That of course channels our developer’s energy into the topics that has a posi
 What I’m trying to say is that I’m not saying that we should ban nightlife district. What I’m trying to say is that we need this to a public infrastructure to serve as pro social purpose instead of just letting the civilians and capitalism taking over the essential social functions and we are doing so in Taiwan.
 
 ### Nagy Gábor:
-Maybe the social word is not properly connected to the social media but still it has a big power. If you talk about Reddit and if you talk about the Taiwanese equivalent of Reddit, this is a much smaller proportion of the populace than the proportion which uses the companies just mentioning Facebook and then Google and other cyber \[inaudible 35:24\] .
+Maybe the social word is not properly connected to the social media but still it has a big power. If you talk about Reddit and if you talk about the Taiwanese equivalent of Reddit, this is a much smaller proportion of the populace than the proportion which uses the companies just mentioning Facebook and then Google and other cyber \[inaudible 35:24\].
 
 ### Audrey Tang:
 Granted. There are 20 million or more Facebook users in Taiwan. On the other hand, there are 10 million users in Taiwan for our national petition platform and deliberation platform, join.gov.tw. We have maybe one half of Facebook’s reach.

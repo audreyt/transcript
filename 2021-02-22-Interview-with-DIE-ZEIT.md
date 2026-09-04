@@ -283,7 +283,7 @@ Or 10, we don’t know.
 …or in 10, then we have the next pandemic, so it’s not a once in lifetime situation.
 
 ### Audrey Tang:
-That’s right. On the other hand, if the origin, the epicenter of SARS 3.0, practice good public health, then maybe it’s not a pandemic. Maybe it’s a epidemic. If it’s managed well, if it doesn’t go to the higher than one R value, maybe it’s SARS 3.0, but it doesn’t affect as much people.
+That’s right. On the other hand, if the origin, the epicenter of SARS 3.0, practice good public health, then maybe it’s not a pandemic. Maybe it’s an epidemic. If it’s managed well, if it doesn’t go to the higher than one R value, maybe it’s SARS 3.0, but it doesn’t affect as much people.
 
 ### Audrey Tang:
 The public health, understanding the public awareness of epidemiology, that’s what we focus on. We even had the VP, 陳建仁, the person who wrote the textbook on epidemiology, to record online Massive Open Courses, the MOOC courses, on Epidemiology 101. We want people to understand the science behind it, not to blindly follow centrally planned CECC measures.
@@ -470,7 +470,7 @@ MP Gao, who used to be VP Data Analytics at Foxconn , knows something about data
 Even though it looks the same distance on the Google map, or OpenStreetMap, because you work with OpenStreetMap community, if you zoom it out, then the opportunity cost, the time cost, is different. By the time a rural person goes to a pharmacy, maybe the pharmacy is already closed. It’s biased that we didn’t realize. Minister Chen didn’t defend at all.
 
 ### Audrey Tang:
-He’s said, “Legislature teach us.” Because we published real time, open data, open API every 30 seconds, that’s not a empty invitation. MP Gao and OpenStreetMap community did contribute, and we changed the distribution, including pre ordering and everything, and working with 24 hour convenience stores the very next day.
+He’s said, “Legislature teach us.” Because we published real time, open data, open API every 30 seconds, that’s not an empty invitation. MP Gao and OpenStreetMap community did contribute, and we changed the distribution, including pre ordering and everything, and working with 24 hour convenience stores the very next day.
 
 ### Audrey Tang:
 MP Gao was like, “Oh, yesterday interpolation become tomorrow’s co creation.” That’s what I mean by deepening democracy. It’s not just the computer programmers or data scientists at the CECC doing the innovation. It’s pretty much everybody doing the innovation.
@@ -642,7 +642,7 @@ Because of that, you can’t get almost the same GDPR-like experience if you fil
 That’s a lot of burden. The other thing is that because technically a minister have the final power over whether their DPA find something objectionable or not, it’s true that if a ministry’s public servants do something, it’s less likely that their minister would say that you’re wrong. It’s why GDPR insists on independent DPA. It’s just human nature if you report to a minister, you’re less likely to say that a minister violates privacy.
 
 ### Audrey Tang:
-We are now working on the act that will make us entirely GDPR compatible by setting up a independent DPA. That’s part of the Digital Ministry Act. We’ll see. The plan is to get it to the upcoming legislative session.
+We are now working on the act that will make us entirely GDPR compatible by setting up an independent DPA. That’s part of the Digital Ministry Act. We’ll see. The plan is to get it to the upcoming legislative session.
 
 ### Katharin Tai:
 Looking back, and particularly in light of this, it sounds quite complicated for individual citizens to be able to uphold their privacy rights. Do you think in hindsight, the government could’ve done a better job of empowering its citizens to protect the privacy and also demand this privacy to be protected, especially in the time of COVID?
@@ -676,7 +676,7 @@ First of all, because of current act that says each minister is their own PPA, t
 > (laughter)
 
 ### Audrey Tang:
-It’s a pretty good track record so far. Some of the advice is like having a independent DPA that requires legislation. It’s not like we can just define by ourself in the administration that we will just yield to a council and call it independent. It doesn’t work like that because of the budget cycle and how it works.
+It’s a pretty good track record so far. Some of the advice is like having an independent DPA that requires legislation. It’s not like we can just define by ourself in the administration that we will just yield to a council and call it independent. It doesn’t work like that because of the budget cycle and how it works.
 
 ### Audrey Tang:
 A lot of the suggestions that I brought up through the vTaiwan process, we talked about the DPA and necessity of it. It still require parliamentary approval. It’s a good thing. The four major parties are usually in line in this particular matter.
@@ -728,7 +728,7 @@ You’re a journalist. You’re OK.
 > (laughter)
 
 ### Audrey Tang:
-It’s one of those languages. That’s the in group may use, not out group. It’s a offense. \[laughs\] We deal with this intentional misinformation in a way that relies on the civil society to flag incoming messages on their end to end encrypted channels like LINE, which is like WhatsApp and spam.
+It’s one of those languages. That’s the in group may use, not out group. It’s an offense. \[laughs\] We deal with this intentional misinformation in a way that relies on the civil society to flag incoming messages on their end to end encrypted channels like LINE, which is like WhatsApp and spam.
 
 ### Audrey Tang:
 It’s just like if you get an incoming email, you flag it as spam. It’s not just moving it out of your inbox, but you’re also contributing signal to the international spam house. That will help every other recipient of the same spam email to move those into a junk mail folder rather than the inbox.

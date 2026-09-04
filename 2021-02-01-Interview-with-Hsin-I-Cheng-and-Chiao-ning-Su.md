@@ -63,7 +63,7 @@ I joined the g0v Hackathons in early 2013. G0v itself started late 2012. By the 
 There’s a broad community and intellectual tradition that inform the g0v organizers. On the other hand, g0v started at a time where mobile social media became prevalent in Taiwan and there’s a lot of people – a lot more compared than before – that want to serve as what we call civic media people.
 
 ### Audrey Tang:
-In Mandarin, we call them \[Mandarin\] or \[Mandarin\] , the self-media. With my training in social interaction design and Crowd Lexicography – that’s making a dictionary together – we speak that language. We quickly found out…
+In Mandarin, we call them \[Mandarin\] or \[Mandarin\], the self-media. With my training in social interaction design and Crowd Lexicography – that’s making a dictionary together – we speak that language. We quickly found out…
 
 ### Audrey Tang:
 Although, previous social movements including Free Software have a way to engage people who are already communities of practice and people who have already shown their interest and form interest groups and so on.
@@ -144,7 +144,7 @@ During the COVID, a really good example is using the traditional rice cookers to
 If you don’t add water, they make the temperature very predictable and it can actually be used to clean the masks. Now, that’s appropriate technology, because it’s something social, something people can contribute to, that everyone has good access to. That’s wildly outside of the original imagination of the designers.
 
 ### Audrey Tang:
-Another good example, which follows from what I just talked about as a organizer for organizers, is the Open Space Technology tradition, or OST. In community organization, many people around Asia, and particularly in Taiwan, there’s workshops.
+Another good example, which follows from what I just talked about as an organizer for organizers, is the Open Space Technology tradition, or OST. In community organization, many people around Asia, and particularly in Taiwan, there’s workshops.
 
 ### Audrey Tang:
 You can argue that g0v Hackathons are organized using Open Space Technology principles and the technology in OST specifically refer to social technology. It’s not digital at all. While we have digital equivalent of the OST, in the form of police and other online equivalent, it is not primarily about the natural sciences or in industrial applications.
@@ -276,7 +276,7 @@ Now, when people are interested in the policy, for example, around the policy of
 Maybe you get an email some weeks down the road saying they have a different take on a particular part. I get that all the time because I publish transcripts of the meetings that I chair. I get corrections and more input from the citizenry, but if I only publish the decisions, then I have no way to get such helpful ideas.
 
 ### Audrey Tang:
-This is coupled with a general, inclusive attitude. In Mandarin, it’s called \[Mandarin\] , which is hard to translate. I guess, “Building cars behind open doors,” and, “If you can do it, go and do it. Come and do it.”
+This is coupled with a general, inclusive attitude. In Mandarin, it’s called \[Mandarin\], which is hard to translate. I guess, “Building cars behind open doors,” and, “If you can do it, go and do it. Come and do it.”
 
 ### Audrey Tang:
 The idea is that if people think of a better idea after seeing the conversations that led to any particular policy, that put them in a much better position to suggest amendments or alternatives to the policy as opposed to if they have no context.
@@ -345,7 +345,7 @@ I too pay a lot of attention to that kind of social media messaging put forward 
 The government used the social media language on the one hand to simplify the policy and on the other hand to manipulate the public opinion. Do you share that kind of view? Do you agree with that kind of critique?
 
 ### Audrey Tang:
-The main critique is when some of the social media messaging come at expense of specific people, specific business or specific groups. That makes it into what we call \[Mandarin\] . Again, hard to translate going on an expedition. \[laughs\]
+The main critique is when some of the social media messaging come at expense of specific people, specific business or specific groups. That makes it into what we call \[Mandarin\]. Again, hard to translate going on an expedition. \[laughs\]
 
 ### Audrey Tang:
 Turning the messaging instead of sharing by laughing about it, by a humorous messaging. It would encourage revenge or vengeful attitude toward each other. That is a valid critique.
@@ -414,7 +414,7 @@ One example would be how social and national identities were impacted by social 
 From the recent year’s survey done by National Chengchi University, we’re seeing emerging trend of the Taiwanese national consciousness. What do you think might be technology’s roles in this trend?
 
 ### Audrey Tang:
-With my broadened definition of technology, I would definitely place the national health care into the technology parts that enable such consciousness. The constitutional amendment very specifically stipulates that the country has a obligation to run universal health care with all its citizens.
+With my broadened definition of technology, I would definitely place the national health care into the technology parts that enable such consciousness. The constitutional amendment very specifically stipulates that the country has an obligation to run universal health care with all its citizens.
 
 ### Audrey Tang:
 People who have experience covered in the National Health Insurance, especially around the year of COVID, has shaped the people who are eligible for universal health care.
@@ -426,7 +426,7 @@ They may not be officially citizens. They may just be residents on work permits 
 They’re considered Taiwanese people in terms of national health care and in terms of we should offer protection to them, too. I would argue it’s one of the factors that enable a more all-of-society strategy countering COVID as well.
 
 ### Audrey Tang:
-In other jurisdictions, for example, we have seen the immigrant workers being excluded in their, who are citizens, dialogue and therefore tend to get less attention and therefore more likeliness to have a outbreak from the places where the immigrant workers are.
+In other jurisdictions, for example, we have seen the immigrant workers being excluded in their, who are citizens, dialogue and therefore tend to get less attention and therefore more likeliness to have an outbreak from the places where the immigrant workers are.
 
 ### Audrey Tang:
 In Taiwan, all of us are protected by the universal health care. All of us are entitled to the medical mask rationing system and notification system and the quarantine system and these systems.

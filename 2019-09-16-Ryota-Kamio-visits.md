@@ -31,7 +31,7 @@ Mainly I was in Fab Lab Barcelona, with Tomas Diez and others like him.
 Yeah, I’ve heard of these people but we haven’t worked together on a project.
 
 ### Ryota Kamio:
-Actually, I saw you virtually for the first time on a IAM conference.
+Actually, I saw you virtually for the first time on an IAM conference.
 
 ### Audrey Tang:
 That’s right, using the gauze projection.
@@ -302,7 +302,7 @@ The micro-institution are not necessarily the public institutions, but also can 
 That’s right. After the introduction of the World Wide Web and the direct presidential election in 1996, they kind of changed. The person to interview here is probably someone that ran Yam, Y-A-M, if they are still around. They call it the “yam vine”, like the rhizome, an idea that those micro-institutions need the online spaces to horizontally connect while maintaining their own identities.
 
 ### Audrey Tang:
-They call themselves 蕃薯藤. They’re probably one of our first digital social enterprises, started as a association but then re-incorporated as a company. That was ‘96, ‘97, around the time I also run another start-up. In any case, Yam took a social purpose – just think Yahoo, but everything is for a social purpose – then they run search engines and everything.
+They call themselves 蕃薯藤. They’re probably one of our first digital social enterprises, started as an association but then re-incorporated as a company. That was ‘96, ‘97, around the time I also run another start-up. In any case, Yam took a social purpose – just think Yahoo, but everything is for a social purpose – then they run search engines and everything.
 
 ### Audrey Tang:
 The online morphing of these on-the-ground social communities is best captured if you get to interview some of the earlier Yam co-founders. For example, we have Ambassador-at-Large Chen Jen-ran, JR, who was the founder of Yam. We have Hsiao Ching-Teng working now on the Board of Science and Technology as a section chief, who was providing the technologies enabling the Yam network.
@@ -367,7 +367,7 @@ Sorry?
 Cultural anthropology you said?
 
 ### Audrey Tang:
-The idea is that there’s a human geographer doing a internship here with our space. There was also another that focused on the anthropology, but focusing on spaces, so how space defines culture in anthropology. It’s very interesting because if you look at their research methods, it’s the same.
+The idea is that there’s a human geographer doing an internship here with our space. There was also another that focused on the anthropology, but focusing on spaces, so how space defines culture in anthropology. It’s very interesting because if you look at their research methods, it’s the same.
 
 ### Ryota Kamio:
 It is.
@@ -638,10 +638,10 @@ It could be a large company suddenly deciding, dedicating their mission to a soc
 My point being these are actually different intellectual strands. Somehow, in a rush to balance the excess of capitalism, \[laughs\] they’re now, right after the financial crisis, banded together as a viable alternative to excessive capitalism. You see lots of Horizon 2020 projects. \[laughs\]
 
 ### Audrey Tang:
-The term digital social innovation was defined then. We didn’t know that this is a word, but it apparently becomes a word that’s broad enough so everybody can join. That’s the most important part. Now, instead of saying social entrepreneurs, which can mean anything, my office say, “You can register as a organizer for social innovation.”
+The term digital social innovation was defined then. We didn’t know that this is a word, but it apparently becomes a word that’s broad enough so everybody can join. That’s the most important part. Now, instead of saying social entrepreneurs, which can mean anything, my office say, “You can register as an organizer for social innovation.”
 
 ### Audrey Tang:
-To operate as a entrepreneur, it defines a kind of a growing institution. You want to grow the person inside your wall, so to speak, your institutional perimeter. To define you as a social innovation organizer means that you’re spreading something. It’s a paradigm shift.
+To operate as an entrepreneur, it defines a kind of a growing institution. You want to grow the person inside your wall, so to speak, your institutional perimeter. To define you as a social innovation organizer means that you’re spreading something. It’s a paradigm shift.
 
 ### Audrey Tang:
 Most importantly, these more siloed definitions could not include the universities. University are not open for business, certainly, and they are not quite charities either. Where are they?
@@ -650,7 +650,7 @@ Most importantly, these more siloed definitions could not include the universiti
 If you’re a social entrepreneur, nobody runs a university from scratch. University have a lot of institutions behind them, so they cannot be a start-up either. It doesn’t fit into any of those traditions that I was just describing.
 
 ### Audrey Tang:
-Now if you are a university that restructure empirically around the sustainable goals, if you teach all the business school people how to make circular design, if you teach all your humanities people how to use digital technology to rebuild social trust, suddenly, you are a organizer for social innovation.
+Now if you are a university that restructure empirically around the sustainable goals, if you teach all the business school people how to make circular design, if you teach all your humanities people how to use digital technology to rebuild social trust, suddenly, you are an organizer for social innovation.
 
 ### Audrey Tang:
 You’re not keeping them. After four years, they’re gone, so you’re not growing your human resources, \[laughs\] but you’re still a social innovation organization. That regulation was just passed maybe last month, and we just had a university registering today.

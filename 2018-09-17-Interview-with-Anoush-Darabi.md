@@ -276,7 +276,7 @@ The world’s first.
 Is it something that you think about often? Does it come off in your work or be found up in any obstacles as a result of that?
 
 ### Audrey Tang:
-The main step, my gender performance is more fluid. Having gone through two puberties, I’m more able to empathize with people, I guess. There’s a whole notion of intersectionality, like having a organizational advantage or even privilege in one hand, but having a really vulnerable lifting experience, on the other hand, and using the former to help people in the latter, and even across different movements.
+The main step, my gender performance is more fluid. Having gone through two puberties, I’m more able to empathize with people, I guess. There’s a whole notion of intersectionality, like having an organizational advantage or even privilege in one hand, but having a really vulnerable lifting experience, on the other hand, and using the former to help people in the latter, and even across different movements.
 
 ### Audrey Tang:
 That just comes natural. It is not something that I particularly label myself in. That’s because Taiwan really has a really good LGBTIQ+ community and the first constitutionally recognized same-sex marriage in Asia. It is generally seen, of course, as my tribe, but maybe not my primary tribe.

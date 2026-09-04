@@ -376,10 +376,10 @@ It’s using all of that information very, very rapidly, to make the best projec
 The goal is having a platform like Foundry allows you to take action very, very rapidly because you can see some of those changes and then integrate it into decision workflows. That’s what we want to empower. It’s basically everything we talked about, making sure it’s all integrated in one place, so we can see the real-time impact as things happen.
 
 ### Audrey Tang:
-Thank you. This view, which is really good, it’s like a executive summary. Do you have something like a published mode, in a sense, for non-data scientists to work with? What I mean is that instead of a full workbench for professionals and so on, if we are going to translate this into public communication material or interactibles, I’m not even sure that’s a word. \[laughs\]
+Thank you. This view, which is really good, it’s like an executive summary. Do you have something like a published mode, in a sense, for non-data scientists to work with? What I mean is that instead of a full workbench for professionals and so on, if we are going to translate this into public communication material or interactibles, I’m not even sure that’s a word. \[laughs\]
 
 ### Audrey Tang:
-Basically, a interactive sandbox for the general population to experiment, because part of the Taiwan model is that each predictive model, our Vice President, the person who wrote literally the epidemiology textbook, record MOOCs and teaches the entire population epidemiology.
+Basically, an interactive sandbox for the general population to experiment, because part of the Taiwan model is that each predictive model, our Vice President, the person who wrote literally the epidemiology textbook, record MOOCs and teaches the entire population epidemiology.
 
 ### Audrey Tang:
 There’s a lot of YouTubers, professional communicators that could really benefit from interactibles that they can then weave into their storytelling materials. Everybody can check for themselves, adjusting a few sliders here and there, without going into the Python transformations. Is there a storytelling mode of this?
@@ -466,10 +466,10 @@ For example, our AI Labs, social sector, nonprofits, they’re working at a Blue
 Now they’re offering their source code to the UK. Because it’s open source both in terms of open source intelligence, open source code, it transfers much more easily.
 
 ### Audrey Tang:
-Just as you said, they can just choose a AWS instance and spin it up. The AI Labs doesn’t need to know whether UK government changes the code to fit their needs. We will probably soon see a few winning cases from the Cohack Hackathon. Many of them will probably want some communication material that I just alluded to of the interactibles from your Foundry platform.
+Just as you said, they can just choose an AWS instance and spin it up. The AI Labs doesn’t need to know whether UK government changes the code to fit their needs. We will probably soon see a few winning cases from the Cohack Hackathon. Many of them will probably want some communication material that I just alluded to of the interactibles from your Foundry platform.
 
 ### Audrey Tang:
-For their ideas to actually work in jurisdictions other than Taiwan, they will also need a orange-to-orange way to integrate their data pipelines. If you’re willing to work with these essential international champions, \[laughs\] we can, of course, offer your service as something that’s value-added to the traditional rice cookers \[laughs\] for the winning teams. That’s perhaps the easiest.
+For their ideas to actually work in jurisdictions other than Taiwan, they will also need an orange-to-orange way to integrate their data pipelines. If you’re willing to work with these essential international champions, \[laughs\] we can, of course, offer your service as something that’s value-added to the traditional rice cookers \[laughs\] for the winning teams. That’s perhaps the easiest.
 
 ### Audrey Tang:
 At the moment, what I’ve seen is really impressive. I’ll probably have to personally use it to build a few models, to actually work out the rough edges of that platform and see how it fits. So far, it looks like really powerful. Thank you very much for an offer.

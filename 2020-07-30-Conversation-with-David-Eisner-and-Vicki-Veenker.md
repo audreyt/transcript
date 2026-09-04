@@ -64,7 +64,7 @@ That also comes with a 5G chip. It’s called XRSpace Manova. I’m not saying t
 The idea, very simply put, is that because it comes in with a cam, you can use this VR device as a cam to scan your surrounding. Once you did, that’s 3D-modeled, and it becomes a virtual space that you can gather in.
 
 ### Audrey Tang:
-For example, if you have a shared office water cooler auditorium, something that people are already having a affect, that is to say people already feel comfortable in it. Even if they are at home, if you scan that place and make that your virtual meeting place, as well as their colleagues as avatars that looks not cartoonish, but rather resembling the actual persons.
+For example, if you have a shared office water cooler auditorium, something that people are already having an affect, that is to say people already feel comfortable in it. Even if they are at home, if you scan that place and make that your virtual meeting place, as well as their colleagues as avatars that looks not cartoonish, but rather resembling the actual persons.
 
 ### Audrey Tang:
 People can just wear this VR device and then use hand gestures, like the HoloLens gestures, to engage in clapping and shaking hands, hugging, and other social gestures. That really also helps the mood to make sure that people do not get isolated in their feelings.

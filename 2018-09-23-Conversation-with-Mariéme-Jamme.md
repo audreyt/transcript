@@ -605,7 +605,7 @@ I know. But what we’re now saying is that...
 It’s more the technology...
 
 ### Audrey Tang：
-...we can be all all working on the 17th global goal.
+...we can be all working on the 17th global goal.
 
 ### Mariéme Jamme：
 They need to understand the potential.
@@ -784,7 +784,7 @@ I said to him, &quot;Who’s counting?&quot; and I said, &quot;OK. Who is the mi
 At the ministry of planning there’s no system into place to do this, or they’re not asking the Africans, the young people who design the census app. When I went to help Kofi Annan and did the apps for Africa, what I did is that I helped them understand about census, and so we designed our own census app. How do you take the census app to give it to the government?
 
 ### Mariéme Jamme：
-Why do you think human trafficking is high in Africa? It’s because a young girl can be taken from their country without nobody knowing. That’s how I was trafficked as a young girl. Traffickers, they can traffic easily if you don’t have a identity or birth certificate.
+Why do you think human trafficking is high in Africa? It’s because a young girl can be taken from their country without nobody knowing. That’s how I was trafficked as a young girl. Traffickers, they can traffic easily if you don’t have an identity or birth certificate.
 
 ### Mariéme Jamme：
 I said to my government, &quot;If you have an SPCC in the UK of somebody missing, a data somewhere, you can track people but they can’t track anyone. That’s why there’s millions of people missing around the world, because there’s no tracking system.

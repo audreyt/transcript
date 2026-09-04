@@ -160,7 +160,7 @@ They made a TED talk about it, where it’s giving kindergarteners this giant en
 I’m like, “All right, what can I do? How can I transport these kids? Now, I’m talking to younger age. I’m talking maybe 4 to 12 years old. How can I transport them to another world?” I toyed around with AR and VR. But I hit wall, after wall, after wall; mostly equipment, mostly the controllers, wires. Especially for kids, it’s just a big mess.
 
 ### Audrey Tang:
-Ting here is wearing a AR device. I see it on screen. It’s called air pods.
+Ting here is wearing an AR device. I see it on screen. It’s called air pods.
 
 ### Russmann Jaimes:
 He has the air pods and he has the background, but Ting is stationary.
@@ -278,7 +278,7 @@ That’s right, because if they only send their audio connection, and at most, m
 What’s your advice on how can I make these things a reality for Taiwan?
 
 ### Audrey Tang:
-Sure. There are many communities already working on deploying such technologies. This is the education and technology, the ed tech community. There’s summits. There’s meetups. I just recently spoke to what they call the…I think the idea is called “Dream to the Power of N, or \[non-English speech\] .” I’m pasting you the link.
+Sure. There are many communities already working on deploying such technologies. This is the education and technology, the ed tech community. There’s summits. There’s meetups. I just recently spoke to what they call the…I think the idea is called “Dream to the Power of N, or \[non-English speech\].” I’m pasting you the link.
 
 ### Audrey Tang:
 It’s in Mandarin, but they are specifically just touring around Taiwan, finding the teachers in all sorts of basic education in order to train the trainers basically and make sure that newer ideas around competence-based learning, as well as not as foreign but as second language and so on, are spread across the island.

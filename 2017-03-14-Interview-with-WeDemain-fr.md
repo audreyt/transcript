@@ -246,7 +246,7 @@ Sure. There is a lot of work in this area. Us, it is that we share one. There’
 This space has seen explosive growth ever since Ethereum appears. I’m acutely aware of these efforts. I think it’s great. It’s great that people are exploring the new protocol based on proof-of-work and things like that.
 
 ### Audrey Tang:
-I also think decentralization has some very obvious use cases, like when you are part of a occupy, and your Internet connection just went down, but you still really want to communicate with seven million people around you.
+I also think decentralization has some very obvious use cases, like when you are part of an occupy, and your Internet connection just went down, but you still really want to communicate with seven million people around you.
 
 ### Audrey Tang:
 Of course at that time, you will want a mesh network, which is why things like FireChat got very popular, both during the Sunflower occupy and the Hong Kong occupy afterwards.
@@ -329,7 +329,7 @@ That’s right.
 It was a search engine in Chinese?
 
 ### Audrey Tang:
-Yeah. It was a search engine, both on the desktop and on Internet by the same company. We also built a eBay-like online auction website, and also a social media community, like an instant messenger after I left the company. It’s pretty diversified.
+Yeah. It was a search engine, both on the desktop and on Internet by the same company. We also built an eBay-like online auction website, and also a social media community, like an instant messenger after I left the company. It’s pretty diversified.
 
 ### Jean-Jacques Valette:
 This first startup, you left it at 17?
@@ -575,13 +575,13 @@ One sneaky question. Do you think new information technologies about civic tech,
 Of course. Otherwise it’s not a freedom of speech anymore.
 
 ### Audrey Tang:
-We’re not censoring them, but there are tools that automatically prompt a alternative view to you as you’re reading the news so you can consider both sides.
+We’re not censoring them, but there are tools that automatically prompt an alternative view to you as you’re reading the news so you can consider both sides.
 
 ### Audrey Tang:
 That’s actually one of the projects -- the LINE bot project -- also in the g0v site. You can look at it at your leisure. It’s the messaging app that has a robot where if you let a robot join your dialogue, and then paste a rumor, it will respond automatically saying the link you’ve pasted or the photo you’ve pasted is contested, and the actual clarification is here.
 
 ### Audrey Tang:
-It doesn’t censor your messages. Your message is still there. But it invites you to consider a independently reviewed alternate point of view.
+It doesn’t censor your messages. Your message is still there. But it invites you to consider an independently reviewed alternate point of view.
 
 ### Jean-Jacques Valette:
 I think that’s all I needed. Is there anything else you would like to express?

@@ -314,7 +314,7 @@ She’ll know?
 Yeah, because we in the administration, we have no control over Academia Sinica. The Sinica is under the President’s office, so they are not part of the Minister of Science, Education, or anything, which means we can’t really touch Academia Sinica.
 
 ### Audrey Tang:
-It helps, of course, that our previous Vice President is a academician, and the top authority on epidemiology.
+It helps, of course, that our previous Vice President is an academician, and the top authority on epidemiology.
 
 ### Audrey Tang:
 You actually have a connection there, through Dr. Ho.
@@ -359,7 +359,7 @@ This is so good. Those are all my questions related to autonomy, navigating how 
 That’s everything we talked about.
 
 ### Audrey Tang:
-This gentleman with a ice stick is a aforementioned foreign service delegate to our office…
+This gentleman with an ice stick is an aforementioned foreign service delegate to our office…
 
 ### Joel Chen:
 Nice to meet you.

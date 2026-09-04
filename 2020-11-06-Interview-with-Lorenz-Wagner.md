@@ -46,7 +46,7 @@ Finally, I think many primary school classmates did not want to go to Gymnasium.
 Usually, in Taiwan, when people go to that, especially on a senior high level, they only go to the skill development path, the professional skills path, if they somehow cannot go into the academic path. There’s a strong social order.
 
 ### Audrey Tang:
-In Germany, at least at that time, it’s almost reversed. It’s like people take pride into being able to contribute to the society on such a early age. People who are researching theory, of course, are respected, but they are not particularly high on the social rank when it comes to the primary school students. That’s also quite surprising to me.
+In Germany, at least at that time, it’s almost reversed. It’s like people take pride into being able to contribute to the society on such an early age. People who are researching theory, of course, are respected, but they are not particularly high on the social rank when it comes to the primary school students. That’s also quite surprising to me.
 
 ### Lorenz Wagner:
 You left school very early. Is this right? I’ve read that you were about 14 or 15 years old.
@@ -73,7 +73,7 @@ I get to join the latest, most advanced research are the arXiv at the preprint s
 As you said, it’s a kind of social production. Let’s do things together. To me, it’s the most pure fun. That is the most pure joy. I learned programming when I was eight years old. On the piece of paper, that’s true. That was in ‘89.
 
 ### Audrey Tang:
-By the time that I was 14, I’m already quite versed in programming and actually programmed not only compression methods but also reasoning. A national science fair, which I won the first place, is a inference engine – nowadays, it would be classified as machine learning – to learn about the heuristics through the logical understanding and things like that.
+By the time that I was 14, I’m already quite versed in programming and actually programmed not only compression methods but also reasoning. A national science fair, which I won the first place, is an inference engine – nowadays, it would be classified as machine learning – to learn about the heuristics through the logical understanding and things like that.
 
 ### Audrey Tang:
 I was, in a sense, already doing research. All the researchers didn’t know I was just 14 years old. They just wrote back with email. That’s what I told the head of my school. She simply said, “OK, tomorrow on, you don’t have to go to school anymore. I will cover for you,” meaning that she will fake the record for me.
@@ -88,7 +88,7 @@ Yeah, I work with Apple for six years, mostly on the Siri technology but also on
 When your look back to these times, what were your learnings? What were your learnings, personal learnings and technical learnings, that are important for you today?
 
 ### Audrey Tang:
-The most important thing is that I learned a political system that’s based on the idea of rough consensus and running code. That’s the foundational values of the Internet, meaning that anyone with a email and a good idea can participate in the policymaking.
+The most important thing is that I learned a political system that’s based on the idea of rough consensus and running code. That’s the foundational values of the Internet, meaning that anyone with an email and a good idea can participate in the policymaking.
 
 ### Audrey Tang:
 Instead of relying on representatives and instead of relying on uploading three bits of information every four years, which is called voting, anyone can just directly participate. This accountability culture, which, as I mentioned, I first encountered as a primary school student in Germany, is really the core of how the Internet gets its legitimacy.

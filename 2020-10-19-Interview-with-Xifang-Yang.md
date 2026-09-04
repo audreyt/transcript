@@ -115,7 +115,7 @@ The other thing is that in Taiwan, people understand no matter what their party 
 That is partly why the pre-presidential election disinformation campaign focused so much on Hong Kong. It’s because they are also showing that democracy is worth fighting for.
 
 ### Audrey Tang:
-This is a dangerous message to the PRC people if the message resonates with people within the PRC as well. In a sense, their interferences show a insecurity. It’s not a projection of power. It’s a projection of the insecurity.
+This is a dangerous message to the PRC people if the message resonates with people within the PRC as well. In a sense, their interferences show an insecurity. It’s not a projection of power. It’s a projection of the insecurity.
 
 ### Xifan Yang:
 Would you say the Chinese efforts have been successful in at least parts, maybe some parts of the population more susceptible to their messages, maybe older people who don’t know how to use social media, who are more easily influenced?
@@ -166,19 +166,19 @@ This work is a collaboration with the fact checkers, of course. I mentioned Taiw
 Also, even more importantly I would argue, is the social sector and private sector communities, such as, for example, the Cofacts from g0v community, which is a bot that you can forward to flag disinformation, or the Dr. Message, which is a chatbot from Trend Micro, Taiwan’s leading antivirus company, which does the same but also for scam. You can also invite the bot to your chat group and so on.
 
 ### Audrey Tang:
-All in all, this enables us to have a advanced understanding of the disinformation landscape long before it goes into the public social networks such as Facebook, when it’s already in circulation but only in end-to-end encrypted channels. As long as people are willing to donate to dedicated to public study, then we can detect it before it goes viral, so to speak.
+All in all, this enables us to have an advanced understanding of the disinformation landscape long before it goes into the public social networks such as Facebook, when it’s already in circulation but only in end-to-end encrypted channels. As long as people are willing to donate to dedicated to public study, then we can detect it before it goes viral, so to speak.
 
 ### Xifan Yang:
 This fact-checking center that you mentioned, is it affiliated to your ministry directly?
 
 ### Audrey Tang:
-Not at all. They are a independent organization. They, as a matter of fact, do not accept donations from political parties or politicians.
+Not at all. They are an independent organization. They, as a matter of fact, do not accept donations from political parties or politicians.
 
 ### Xifan Yang:
 Can you explain the concept of nerd immunity?
 
 ### Audrey Tang:
-Sure. It’s just a easy-to-remember idea of basically if people have understood the context in a more fun fashion, in a more lighthearted fashion, if they experience joy, then one is less likely to feel outrage about the same topic.
+Sure. It’s just an easy-to-remember idea of basically if people have understood the context in a more fun fashion, in a more lighthearted fashion, if they experience joy, then one is less likely to feel outrage about the same topic.
 
 ### Audrey Tang:
 If we can get our clarifications to be very funny and reaches a lot of people with a higher R-value, the basic transmission rate, than the disinformation, then within a day or two, most people will feel that there’s nothing outrageous and so won’t spread the disinformation. They will understand that there is disinformation going on, but they don’t feel particularly enraged or anxious about it.
@@ -199,7 +199,7 @@ You can see very easily that there’s more people aware of it, more people part
 Thank you so much. When you see how Western countries deal with Chinese cyber disinformation, do you see any particular blind spot? Is there anything that Western countries can learn from Taiwan’s example?
 
 ### Audrey Tang:
-One of the main ideas I keep sharing, especially in the case of the counter pandemic, is to trust the citizens. If people trust the citizens and empower them to be competent, essentially, part-time journalists, then one can collectively figure out new ways to respond to emerging crisis in a all-of-society fashion.
+One of the main ideas I keep sharing, especially in the case of the counter pandemic, is to trust the citizens. If people trust the citizens and empower them to be competent, essentially, part-time journalists, then one can collectively figure out new ways to respond to emerging crisis in an all-of-society fashion.
 
 ### Audrey Tang:
 On the other hand, if we rely on top-down, shutdown, takedown, lockdown measures, then the creativity of the population will be inhibited. This is called a Pygmalion effect. I wrote at length in this blog that I just pasted you. You’re welcome to quote from it.
@@ -217,7 +217,7 @@ By March 2014, thanks to the Sunflower Movement, people already has a pretty str
 The ongoing risk assessment that one must do when we use PRC components in the 4G network, amortized, is actually much more expensive than had we went to Ericsson, Nokia, or develop our own. That’s a pretty strong consensus of the whole society, not just a few people in the government.
 
 ### Audrey Tang:
-A whole-of-society conversation is always beneficial because then it makes the legitimacy of whatever endeavor that you are making a exercise in democracy and not only in trade, in negotiation, or in diplomacy.
+A whole-of-society conversation is always beneficial because then it makes the legitimacy of whatever endeavor that you are making an exercise in democracy and not only in trade, in negotiation, or in diplomacy.
 
 ### Audrey Tang:
 I also found another blog that I wrote about the disinformation part in general. I just pasted you the one on pandemic. This one is on infodemic, but they essentially make the same argument.

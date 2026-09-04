@@ -30,7 +30,7 @@ I’ve never met...
 Congratulations.
 
 ### Lman Chu:
-Yes, right now they aren’t happy to not get purely a very high awareness, even in Asia, especially in Taiwan. It’s the first meet up, and yesterday, we just need to face the attack from the Ethereum community today, having another successful meetup in Nangang tells about a ICO, that’s a topic where get people more interested. \[laughs\]
+Yes, right now they aren’t happy to not get purely a very high awareness, even in Asia, especially in Taiwan. It’s the first meet up, and yesterday, we just need to face the attack from the Ethereum community today, having another successful meetup in Nangang tells about an ICO, that’s a topic where get people more interested. \[laughs\]
 
 ### Audrey Tang:
 All their new developments are funded by ICO, essentially. \[laughs\]
@@ -594,7 +594,7 @@ Sure, sure.
 What you’re really saying is that we’re not participating in the governance, steering the direction, and things like that, right? It’s this level of participation that you’re mentioning? I’m seeing a lot of IoT adoption of blockchain technology, but as a distributed ledger, not as...
 
 ### Lewis Freiberg:
-As a EIO.
+As an EIO.
 
 ### Audrey Tang:
 Right, and of course, IOTA clears faster, and things like that. The technical advantages are pretty obvious, but what it lacks, of course, first is a clear comparison table.
@@ -765,7 +765,7 @@ I’ve tried to read your white paper, and that makes some sense to me. But for 
 It will be useful also for Mr. Hsiao to convince his colleagues.
 
 ### Lewis Freiberg:
-Oh yeah, because we say, &quot;Oh, we have a IOTA,&quot; and they’re like, &quot;What is that?&quot; We’re like, &quot;Well, it’s really good,&quot; and they’re like, &quot;OK, show me.&quot; \[laughs\] You’re like, &quot;Well, we don’t a list yet,&quot; so we’ll get the list. We’ll make it.
+Oh yeah, because we say, &quot;Oh, we have an IOTA,&quot; and they’re like, &quot;What is that?&quot; We’re like, &quot;Well, it’s really good,&quot; and they’re like, &quot;OK, show me.&quot; \[laughs\] You’re like, &quot;Well, we don’t a list yet,&quot; so we’ll get the list. We’ll make it.
 
 ### Audrey Tang:
 Also, of course on the other side, how’s it different from replicating databases? \[laughs\]

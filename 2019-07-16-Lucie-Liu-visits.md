@@ -123,7 +123,7 @@ That’s the thing. I’m really interested in how to reach them in terms of...Y
 Well, we have found the most effective is really just to make the clarifications as viral as the rumors, and then also distribute it very widely and very quickly after an hour at most of each campaign. We found that to be very useful because if you wait for a day, then it’s over, right? Everybody will have spread the rumor.
 
 ### Audrey Tang:
-For example, I don’t know, the premier of the administration punishing people who dye and perm their hair twice in a week. That was a rumor, actually \[laughs\] .
+For example, I don’t know, the premier of the administration punishing people who dye and perm their hair twice in a week. That was a rumor, actually \[laughs\].
 
 ### Lucie Liu:
 Wow.
@@ -216,7 +216,7 @@ That was started by a petition a couple of years ago by a 16-year-old.
 Really?
 
 ### Audrey Tang:
-It is. They don’t have to go to the street to strike on Fridays \[laughs\] . They can orchestrate...I’m not dismissing that movement. It’s a great movement. What I mean is that the social solidarity is so strong, and the issue considered so legitimate that the EPA has to really meet the 15-year-old demand and just start ratifying what she had to say.
+It is. They don’t have to go to the street to strike on Fridays \[laughs\]. They can orchestrate...I’m not dismissing that movement. It’s a great movement. What I mean is that the social solidarity is so strong, and the issue considered so legitimate that the EPA has to really meet the 15-year-old demand and just start ratifying what she had to say.
 
 ### Lucie Liu:
 That’s really interesting to me because when I think about Germany, a lot of politicians were criticizing the Fridays of the Future movement you just mentioned. I was wondering if the government side is more interested in actually having a dialogue with the younger people, if it’s like on that pressure that they have to...
@@ -296,7 +296,7 @@ That’s right.
 On the other hand, what about the citizen, like full-on protection of the data?
 
 ### Audrey Tang:
-Of course, of course. Yeah, the open data, of course, is only concerning statistics you need to aggregate. You wouldn’t call the Census Bureau and say, &quot;Oh, take me out of the previous year’s census,&quot; if that makes sense \[laughs\] . If they’re published statistics, of course, that’s protected by the Privacy Act.
+Of course, of course. Yeah, the open data, of course, is only concerning statistics you need to aggregate. You wouldn’t call the Census Bureau and say, &quot;Oh, take me out of the previous year’s census,&quot; if that makes sense \[laughs\]. If they’re published statistics, of course, that’s protected by the Privacy Act.
 
 ### Audrey Tang:
 If they’re personal identifiable, of course, then we, of course, don’t see that as part of open government because essentially government is only the fiduciary of your data and is beginning of a trust relationship.

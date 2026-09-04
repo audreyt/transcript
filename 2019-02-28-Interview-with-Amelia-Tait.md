@@ -40,7 +40,7 @@ Basically, each one of us take turns reporting the occurrence that has been goin
 In the afternoon, the visitors from other governments or regional partners, and so on, usually visit me in the administration. Then we make a full recording of what everybody has said and ask them to co edit. Usually, Monday is also when I send out the pre recorded opening speeches, keynotes and things like that for the week.
 
 ### Audrey Tang:
-If people ask me to, for example, chair at a opening or something without interaction, I usually just pre record whatever message they want me to say. That’s a typical Monday. As you can see, a lot of those conversations are interviews and so on, takes place on Monday. Here is also where we publish everything, like 10 working days after each meeting.
+If people ask me to, for example, chair at an opening or something without interaction, I usually just pre record whatever message they want me to say. That’s a typical Monday. As you can see, a lot of those conversations are interviews and so on, takes place on Monday. Here is also where we publish everything, like 10 working days after each meeting.
 
 ### Amelia Tait:
 What about Wednesday, whilst we’re at? \[laughs\]
@@ -139,7 +139,7 @@ That has been the case since I was a child. I don’t see it changing now. That 
 The g0v initiative, for example, basically takes everything that people think is of public value, but the public service isn’t doing — or shouldn’t be doing, or isn’t doing enough — and they just change the gov.tw into g0v.tw to introduce the shadow government service.
 
 ### Audrey Tang:
-Of course, I’ve shared before, the budget visualization which we merged back into the National Digital Service in 2017, which is a itemized visualization of each budget. For disinformation, the Cofacts system is pretty neat. It basically is a chatbot in the end to end encrypted system line, which is like WhatsApp.
+Of course, I’ve shared before, the budget visualization which we merged back into the National Digital Service in 2017, which is an itemized visualization of each budget. For disinformation, the Cofacts system is pretty neat. It basically is a chatbot in the end to end encrypted system line, which is like WhatsApp.
 
 ### Audrey Tang:
 When people add this robot as their friend, whenever they see a rumor, they can just flag it by forwarding it to the bot, and then the bot does fact checking through collective intelligence. It’s just like spam mail in a private communication medium. People nevertheless can voluntarily report spams or junk mails into this like Spamhaus system that’s built by the social sector.

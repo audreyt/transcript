@@ -73,7 +73,7 @@ This will be atop specifically putting together all pieces of the puzzle to gene
 Sure.
 
 ### Andrey Suprun:
-Yes, there you go. Really putting all these pieces of the puzzle together and we are extremely fortunate in Ukraine that we have something called \[foreign language\] , which is a crazy group for APIs. We can put all different APIs together, literally, 10 times faster and at least 8 times cheaper than any other solution. This is how the largest bank in Ukraine was built from scratch. Currently, we have 22 million people in one bank and it’s a very powerful tool to spread any digital reform countrywide.
+Yes, there you go. Really putting all these pieces of the puzzle together and we are extremely fortunate in Ukraine that we have something called \[foreign language\], which is a crazy group for APIs. We can put all different APIs together, literally, 10 times faster and at least 8 times cheaper than any other solution. This is how the largest bank in Ukraine was built from scratch. Currently, we have 22 million people in one bank and it’s a very powerful tool to spread any digital reform countrywide.
 
 ### Andrey Suprun:
 The whole country, let’s say, is 40 million. You have 22 in one bank. This is the situation here. It would be my honor to share this with you and if you are anxious to hear your feedback on that once it’s ready by the end of the year.
@@ -202,7 +202,7 @@ We also make sure that in my columns I write every couple of weeks, in “April 
 If you were to look at my blog, you would see, basically, how I go about and share the success cases and, sometimes, with films as well. A lot of people discovered that how people engage into, for example, diplomatic policies and so on, and find their suggestions turned into real policies simply by reading the blog, either in printed form or in the blog.
 
 ### Audrey Tang:
-Of course, there’s also some YouTube channels. We also make short films. We even made a \[foreign language\] , which is a comic book to share a particular success story in all the six languages in Taiwan so that people can read even in indigenous languages about the success case that was the co-creation of the text filing experience.
+Of course, there’s also some YouTube channels. We also make short films. We even made a \[foreign language\], which is a comic book to share a particular success story in all the six languages in Taiwan so that people can read even in indigenous languages about the success case that was the co-creation of the text filing experience.
 
 ### Audrey Tang:
 If you’re interested in that, I can share our issue account with you so that you can read these comics. I’m sure that there’s an English version. If you want to translate into the Ukrainian language, feel free to because we relinquish the copyright, do anything about it.

@@ -240,7 +240,7 @@ That’s for sure.
 It’s more an idea of a global community than a global government.
 
 ### Audrey Tang:
-Internet was always like this. The Internet itself is governed in a global fashion. Anyone with a email can join the Internet Society, the Internet Engineering Taskforce, the ICANN, and so on, without having to go through a state representative. In a sense, Internet governance is the prototype of the kind of global governance that we’re looking at at the moment.
+Internet was always like this. The Internet itself is governed in a global fashion. Anyone with an email can join the Internet Society, the Internet Engineering Taskforce, the ICANN, and so on, without having to go through a state representative. In a sense, Internet governance is the prototype of the kind of global governance that we’re looking at the moment.
 
 ### Hanako Zhang:
 The initial idea, the formation of the Internet is that, but there’s a lot of growing suspicion…
@@ -321,7 +321,7 @@ Which is why I always consult my own grandma, my father’s mother, 88 years old
 She would tell me that her young friend, 77 years old, her young friend, but not my young friend, her young friend has a lot of upset emotions when it comes to queuing at pharmacies.
 
 ### Audrey Tang:
-When we designed for these convenience store to be able to preorder the masks, we initially said, “OK. Every convenience store has a ATM. You just insert your debit card, and then you type your password, and then you pay like about two USD, and then the very next week you can go back and collect nine medical masks.”
+When we designed for these convenience store to be able to preorder the masks, we initially said, “OK. Every convenience store has an ATM. You just insert your debit card, and then you type your password, and then you pay like about two USD, and then the very next week you can go back and collect nine medical masks.”
 
 ### Audrey Tang:
 It all sounds very good, but grandma Yang, that’s 77 years old has told me that she would never do that, because she said she will type her debit card password, and she will be afraid that people would just see those password or just to siphon away her savings, her lifelong savings, because of this process.
@@ -369,7 +369,7 @@ Anyway, as in the projector projecting me in the same room. Even when the PRC Am
 One side needs to leave the room, because it’s a multilateral system, and the seat – actually one of the founding seats – can only be seated by one representative. By sending a robotic tuple, this norm is disrupted. For our purposes they’re just watching a movie, but movie is of course mounted on the robot, and it’s recorded one second ago, but it’s still a movie. \[laughs\]
 
 ### Audrey Tang:
-Whatever I said ended up in the official records, and it’s a legitimate conversation, but that’s because IGF operates on a Internet governance norm. At the end of the day, while the UN building of course check passports at the entry, and that’s a multilateral rule, within the building it operates under multistakeholder rules of the Internet society.
+Whatever I said ended up in the official records, and it’s a legitimate conversation, but that’s because IGF operates on an Internet governance norm. At the end of the day, while the UN building of course check passports at the entry, and that’s a multilateral rule, within the building it operates under multistakeholder rules of the Internet society.
 
 ### Audrey Tang:
 This is really symbolic, because the robot doesn’t need a passport, so the robot just enters. I’m sure Sophia doesn’t need a passport either. \[laughs\] When the robot enters the UN building, it transcends the multilateral rules, and then it enters the multistakeholder norm.
@@ -378,7 +378,7 @@ This is really symbolic, because the robot doesn’t need a passport, so the rob
 As long as we can prove that we are a stakeholder in Internet governance – which is very easy to prove, you just type something.tw, like [www.gov.tw](http://www.gov.tw) , and then you get into our machines, not the Beijing machine, \[laughs\] obviously we’re a stakeholder. Then, of course, we have the right to speak like any other stakeholders.
 
 ### Audrey Tang:
-It’s a evolution into a more hybrid model of multilateral on one side, but also multistakeholder on the other, of the major groups in the sustainable development goals, people who are impacted by climate change.
+It’s an evolution into a more hybrid model of multilateral on one side, but also multistakeholder on the other, of the major groups in the sustainable development goals, people who are impacted by climate change.
 
 ### Audrey Tang:
 They can go through either their country representatives on the multilateral side, or they can go through the social sector organizations, the CSOs on the major group side, which is the multistakeholder side.
@@ -396,7 +396,7 @@ With the WHO, we had a pre-assembly assembly online with 14 countries and econom
 These words mean nothing if you’re all rectangles on a telecommunication \[laughs\] setting. Everybody are free to choose their own nickname. It all went very well.
 
 ### Audrey Tang:
-It actually has a extra sense of intimacy, because we get to see many of the senior leadership’s homes, just like I’m showing you my home right now. \[laughs\] It’s a extra layer of intimacy that you couldn’t get if you meet in Geneva.
+It actually has an extra sense of intimacy, because we get to see many of the senior leadership’s homes, just like I’m showing you my home right now. \[laughs\] It’s an extra layer of intimacy that you couldn’t get if you meet in Geneva.
 
 ### Audrey Tang:
 It’s better for solidarity, and it transcends the multilateral norms. We really look forward to have more engagement like this in the ministerial level, not just a limited scientific access that we currently get through the WHO system now.
@@ -408,7 +408,7 @@ What could be the negative side of this world community or this world governance
 There could be two main drawbacks. One is that unless you have broadband as a human right, which we do have in Taiwan…
 
 ### Audrey Tang:
-Unless you have broadband as a human right, then it constitutes a epistemic injustice, because people who cannot connect to the Internet, or if they can, but they have to pay a lot, or if they can, but they can download a lot but they cannot upload a lot, in all these forms, their presentation, their representation is dwindled.
+Unless you have broadband as a human right, then it constitutes an epistemic injustice, because people who cannot connect to the Internet, or if they can, but they have to pay a lot, or if they can, but they can download a lot but they cannot upload a lot, in all these forms, their presentation, their representation is dwindled.
 
 ### Audrey Tang:
 Even if they have a lot of innovation to say, they cannot contribute to the world’s knowledge. Then, it’s very likely that this multistakeholder governance system will make decisions that sacrifice them, not out of malice, simply because we did not know that they will be negatively impacted. Unless we have broadband as a human right, there will be epistemic injustice, so that’s the first thing.
@@ -477,7 +477,7 @@ There could be no incentive for a non-being, for a fiction, but they say it, any
 Similarly, if we only talk about carbon emissions and so on, as if that we are the manager of us, that us has no mystery, and we manage it just like SimCity and so on, then to me, it also makes it potentially falling into a dungeon of all-knowingness. It’s actually not true.
 
 ### Audrey Tang:
-The way that a complex system, a emerging system behaves itself is very hard to predict. If we can predict, just based on satellite images and so on, how the planet works, we wouldn’t have coronavirus in the first place. \[laughs\]
+The way that a complex system, an emerging system behaves itself is very hard to predict. If we can predict, just based on satellite images and so on, how the planet works, we wouldn’t have coronavirus in the first place. \[laughs\]
 
 ### Audrey Tang:
 It shows the limits of our epistemic enterprise, and it’s very easy to fall into the illusion of we’re counting so many things, everything must be countable. A sense of mystery is still very important.
@@ -498,7 +498,7 @@ Yes, definitely. The less connected this place is to the capital, to Taipei City
 If it’s hard for your transportation, like it takes four hours or more from the Indigenous mountains to the Taipei City, then chances are your life there is very different from the City of Taipei.
 
 ### Audrey Tang:
-It makes more sense of me to spend a couple of days or a couple of weeks in that place, in a anthromorphic paying-out ethnographic work, and to make sure that I can see the world from that particular point of view. There really is no shortcut – of course, I can take a helicopter, but I really have to live there. \[laughs\]
+It makes more sense of me to spend a couple of days or a couple of weeks in that place, in an anthromorphic paying-out ethnographic work, and to make sure that I can see the world from that particular point of view. There really is no shortcut – of course, I can take a helicopter, but I really have to live there. \[laughs\]
 
 ### Audrey Tang:
 The transportation there is shortcut, but lived experience there is not shortcut. This is my having gone through two puberties, going through the second puberty through estrogen and so on.
@@ -513,7 +513,7 @@ Really, there is no shortcut around this. I really have to be in the shoes of pe
 When you do travel, do you organize meetings and everybody share their ideas, or do you go there more as the observer?
 
 ### Audrey Tang:
-Both. I first go there as a observer, so I can listen to what they have to say and understand it on a deeper intuitive fashion, and then we have a real face-to-face town hall, and then I facilitate and try my best translating their ideas into the idea of bureaucracy, that’s the 12 ministries in Taipei can understand.
+Both. I first go there as an observer, so I can listen to what they have to say and understand it on a deeper intuitive fashion, and then we have a real face-to-face town hall, and then I facilitate and try my best translating their ideas into the idea of bureaucracy, that’s the 12 ministries in Taipei can understand.
 
 ### Hanako Zhang:
 I guess your relationship with the digital and the physical is very fast and there’s not much of a lag between them, which you say, you meet people and go there and talk to them and also act as observer, but you implement their ideas very quickly. How do you keep this balance and relationship between the two, the physical and the digital?
@@ -642,7 +642,7 @@ This illusion of the border between the cyber and the physical is especially imp
 The environment that both we are in are artificial. We’re not in nature. Soon, we will be able to meet in camaraderie, in the nature and enjoy the natural settings in a way that feels natural to us.
 
 ### Hanako Zhang:
-I guess right now there’s a detachment between the physical and the digital. But like you said, if that becomes much more together, and you don’t see this detachment anymore, I think many people would also be very scared of this because there’s a anti for new technology or developing technology.
+I guess right now there’s a detachment between the physical and the digital. But like you said, if that becomes much more together, and you don’t see this detachment anymore, I think many people would also be very scared of this because there’s an anti for new technology or developing technology.
 
 ### Hanako Zhang:
 It’s hard to see what’s real and what’s not real. What would you say to people like this? Both of us were a bit skeptical on that.
@@ -681,13 +681,13 @@ Even just exposing ourselves in the International Space Station or the moon for 
 Which may sound abstract, but when you’re looking at this Earth as a thing that you can hold in your hand, suddenly, it becomes very easy to imagine.
 
 ### Victor Leclercq:
-Almost sounds like the same experience of a out-of-body experience from meditation.
+Almost sounds like the same experience of an out-of-body experience from meditation.
 
 ### Hanako Zhang:
 That experience, does that translate back to daily life?
 
 ### Audrey Tang:
-Yeah, definitely, because I’m not looking at some fictional world. I’m not looking at a fictional planet. I’m looking at this planet. In a sense, I’m looking at myself, just from a different vantage point. It’s not about just a overview and the here-and-now but about the zooming effect.
+Yeah, definitely, because I’m not looking at some fictional world. I’m not looking at a fictional planet. I’m looking at this planet. In a sense, I’m looking at myself, just from a different vantage point. It’s not about just an overview and the here-and-now but about the zooming effect.
 
 ### Audrey Tang:
 If, through virtual reality, you can share all the different levels of zooming with the people that you care and you want them to care too about the environment, then this zooming experience is very enriching and empowering. If it’s just about the top level of zoom and the here-and-now level, and it’s not shared, it’s a solo experience, then, of course, it’s as fictional as anything.
@@ -714,10 +714,10 @@ My first interview in virtual reality was with middle-schoolers and one primary-
 In virtual reality, I did a 3D scan of myself and shrank my body to be the same height as they are. I can join their community, and they can look at me eye-to-eye. Like in indigenous culture, you will sit on the floor and meet each other eye-to-eye, but it’s hard to explore when you’re all sitting. \[laughs\]
 
 ### Audrey Tang:
-In virtual reality, we can explore all we want, but they still see me as someone at the same height as they are. For example, we can all shrink to the same height as a leopard cat and have a conversation about how to make constructions that are friendly in a ecosystem that includes the almost-extinct leopard cats.
+In virtual reality, we can explore all we want, but they still see me as someone at the same height as they are. For example, we can all shrink to the same height as a leopard cat and have a conversation about how to make constructions that are friendly in an ecosystem that includes the almost-extinct leopard cats.
 
 ### Audrey Tang:
-It’s realized in many entertainment facilities. There was a experience like that in Disneyland Paris, the Ratatouille immersive experience. Nowadays, it’s inexpensive to make such experiences too. Just by shrinking oneself to fit leopard cats or small kids, that, by itself, is also quite transformative.
+It’s realized in many entertainment facilities. There was an experience like that in Disneyland Paris, the Ratatouille immersive experience. Nowadays, it’s inexpensive to make such experiences too. Just by shrinking oneself to fit leopard cats or small kids, that, by itself, is also quite transformative.
 
 ### Victor Leclercq:
 So far, it sounds like all those technologies apply to entertainment more than human experience. Do you think it will merge together? Are we going to lose the entertainment part or are we going to merge them together, the social and entertainment?
@@ -756,7 +756,7 @@ On the other hand, if the designer is not humble, but rather is full of hubris, 
 I still don’t think with any AI that we have the kind of computational power that can predict people’s preferences in a truly intimate way better than people themselves. I believe, instead, assistive intelligence, so also AI, but just like a hearing aid.
 
 ### Audrey Tang:
-You wouldn’t want a hearing aid or a eyeglass to sell what you have heard to advertisers because it runs counter to the idea of assistive technology, which is restoring or empowering human dignity. If the AI is assistive, then the space co-designed by those assistive intelligences will be humble, participatory, accountable, and aligned.
+You wouldn’t want a hearing aid or an eyeglass to sell what you have heard to advertisers because it runs counter to the idea of assistive technology, which is restoring or empowering human dignity. If the AI is assistive, then the space co-designed by those assistive intelligences will be humble, participatory, accountable, and aligned.
 
 ### Audrey Tang:
 If you start with authoritarian, “The state knows everything” or “The capitalist knows everything,” perspective, then that will go horribly wrong.
@@ -771,7 +771,7 @@ I wonder if there will be an alternative eventually to this, either it come from
 One of the things is about addiction. We talked about manufactured experiences like Pokémon Go that keeps people addicted even when it’s way past something that’s to their best benefit. A lot of it, I think, is attributable to touch screens.
 
 ### Audrey Tang:
-I was reaching for my stylus. \[laughs\] That’s my iPad Pro stylus, and this is my phone. It also has a stylus. I always use computation devices with keyboard or a stylus, that is to say, through intermediation. This intermediation reminds me that they’re just a assistive tool, it’s not a extension of my body so that when I lose it, I will not physical pain.
+I was reaching for my stylus. \[laughs\] That’s my iPad Pro stylus, and this is my phone. It also has a stylus. I always use computation devices with keyboard or a stylus, that is to say, through intermediation. This intermediation reminds me that they’re just an assistive tool, it’s not an extension of my body so that when I lose it, I will not physical pain.
 
 ### Audrey Tang:
 This is, to me, all the way from Palm Pilot and then Sharp Zaurus, all those different PDAs with a stylus. I make sure that I think of them just as paper, as surfaces that I can write on. In this case, I wouldn’t get addicted because there’s nothing new. It’s all coming from me.
@@ -815,7 +815,7 @@ We’re sharing on an everyday basis…you probably know that better than me in 
 I wonder how we could change this. How can we educate people on the importance of what they share?
 
 ### Audrey Tang:
-Always share a call to action that are more meaningful than the previous interaction. For example, you wrote me a email. I wrote back, which lead to a Skype conversation. Maybe we’ll meet face-to-face someday. In any case, this leads to more meaningful relational engagements.
+Always share a call to action that are more meaningful than the previous interaction. For example, you wrote me an email. I wrote back, which lead to a Skype conversation. Maybe we’ll meet face-to-face someday. In any case, this leads to more meaningful relational engagements.
 
 ### Audrey Tang:
 When you produce the magazine, I’m sure that sometimes people will only briefly skim it, but the next call to action is still something deeper, something more meaningful. The thing about those vacuous pseudo-interaction is that it doesn’t lead to anything meaningful. It’s interaction with NPCs, with non-player characters.
@@ -830,7 +830,7 @@ Once you make this distinction and focus on the people-to-people connection, the
 What are the next project you’re working on at the moment?
 
 ### Audrey Tang:
-Why do you ask? \[laughs\] At the moment, I’m working with the Presidential Hackathon team, which is a interesting design. Every year, our president give five trophy to five social innovation teams, promising, in the next 12 months, to turn their idea into policies, so that presidential power as hackathon prize.
+Why do you ask? \[laughs\] At the moment, I’m working with the Presidential Hackathon team, which is an interesting design. Every year, our president give five trophy to five social innovation teams, promising, in the next 12 months, to turn their idea into policies, so that presidential power as hackathon prize.
 
 ### Audrey Tang:
 We’re now planning not only give domestic awards, but also give international awards, which will need a lot of coordination. Not all presidents are happy to give their \[laughs\] presidential power as hackathon awards.
@@ -839,7 +839,7 @@ We’re now planning not only give domestic awards, but also give international 
 Maybe it doesn’t need to be implemented in the host country. I could easily see that, in a foreign aid scenario, the people receiving the foreign aid co-create a package they want to receive, and it could be designed by another country, so truly a multi-sectoral and transcultural interaction.
 
 ### Audrey Tang:
-We recently gave the Social Innovation Partnership Award to the Singaporean company called BeamAndGo. They design a experience for migrant workers from Philippine to many other countries. In their country where they work, sometime they send money back.
+We recently gave the Social Innovation Partnership Award to the Singaporean company called BeamAndGo. They design an experience for migrant workers from Philippine to many other countries. In their country where they work, sometime they send money back.
 
 ### Audrey Tang:
 Those money are spent on luxury, status goods, or gambling, and not on education, groceries, and the medical or whatever basic needs. The BeamAndGo folks design, essentially, a shopping app so that the migrant workers, when they send back money, it’s not really money but rather vouchers.
@@ -857,7 +857,7 @@ That’s great.
 Do you have a date set, or are you still coordinating…
 
 ### Audrey Tang:
-We already run two pilots around open contracting because procurement is something that comes across all jurisdictions. The easier work of international track, thanks to the contribution of the Open Contracting Partnership, is already in place. If you check out the Presidential Hackathon website, there’s a international track for the past couple years, and you can check out the winning team.
+We already run two pilots around open contracting because procurement is something that comes across all jurisdictions. The easier work of international track, thanks to the contribution of the Open Contracting Partnership, is already in place. If you check out the Presidential Hackathon website, there’s an international track for the past couple years, and you can check out the winning team.
 
 ### Hanako Zhang:
 Wow. How do you see these initiatives expanding in the future? What do you imagine and what do you wish for?
@@ -905,7 +905,7 @@ Maybe we begin with Okinawa. We’ll see.
 What are the countries responding quite well to this?
 
 ### Audrey Tang:
-I mentioned Japan. Japan, I think, is responding really, really well to this, which I think led to our interview. Also, the Czech Republic, who visited Taiwan, and the head of their Senate say, “ \[Mandarin\] . I am Taiwanese.” \[laughs\]
+I mentioned Japan. Japan, I think, is responding really, really well to this, which I think led to our interview. Also, the Czech Republic, who visited Taiwan, and the head of their Senate say, “ \[Mandarin\]. I am Taiwanese.” \[laughs\]
 
 ### Audrey Tang:
 Because they also understand that both the temptation of authoritarianism in the name of communism but also how communistic feelings could only be fostered by a vibrant democracy and not authoritarianism. They went through a very similar period as Taiwan, so they understand it.
@@ -1039,7 +1039,7 @@ How can we work to become whole-earth citizens? What can we do in our local envi
 You already know my job description. My job description is written to answer this very question. It’s almost like, “Whenever you see IT that connects machines, make it digital so it connects people.” I don’t have better answers than my job description. Otherwise, I will change my job description. \[laughs\]
 
 ### Audrey Tang:
-It’s the same thing. “When we see the Internet of Things, make it a Internet of beings. When we see virtual reality, make it shared reality. With machine learning, make it collaborative learning. When we see user experience, make it about human experience. Whenever we hear the singularity is near, let is always remember the plurality is here.”
+It’s the same thing. “When we see the Internet of Things, make it an Internet of beings. When we see virtual reality, make it shared reality. With machine learning, make it collaborative learning. When we see user experience, make it about human experience. Whenever we hear the singularity is near, let is always remember the plurality is here.”
 
 ### Victor Leclercq:
 That was a great conclusion.

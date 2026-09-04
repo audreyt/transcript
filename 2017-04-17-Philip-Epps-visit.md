@@ -1000,7 +1000,7 @@ I’m aware of that.
 Right now, you get on the Chinese side, and there’s pages and pages online, and then there’s the sentence...
 
 ### Audrey Tang:
-In our own website, PDIS.tw, we have a English website. We don’t have anything else. This is our team’s website. It’s completely in English. For the Chinese‑speaking people, we have Google Translate to translate it to Chinese, and leave it at that.
+In our own website, PDIS.tw, we have an English website. We don’t have anything else. This is our team’s website. It’s completely in English. For the Chinese‑speaking people, we have Google Translate to translate it to Chinese, and leave it at that.
 
 ### Audrey Tang:
 Machine translation is actually getting...

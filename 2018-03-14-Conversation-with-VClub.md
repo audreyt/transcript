@@ -31,7 +31,7 @@ Yes, and then they have the compassion for Taiwan and for Formosa, for the local
 Illustrations.
 
 ### Hillary Liu:
-...for the kids. Then we think it’s a awesome thing, this is the young people that will learn. This is the thing. If we could help them with the base here, they say they want to come. I say, &quot;I will tell Audrey that you want to come.&quot;
+...for the kids. Then we think it’s an awesome thing, this is the young people that will learn. This is the thing. If we could help them with the base here, they say they want to come. I say, &quot;I will tell Audrey that you want to come.&quot;
 
 ### Audrey Tang:
 Would any of your members happen to be in Taichung or Taiwan around May 5th and 6th?

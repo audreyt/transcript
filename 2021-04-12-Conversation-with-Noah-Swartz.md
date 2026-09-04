@@ -230,7 +230,7 @@ The legal underpinning at the moment is that is encouraged, but it's not mandato
 Do you think that there is a role of government in encouraging it?
 
 ### Audrey Tang:
-Maybe from business, why not. If you do more open access, that also means that there's more small and medium enterprises that could not pay such large patent fees or whatever license fee that they have required to appropriate those innovations, and appropriate them in a appropriate way, appropriate technology, and so on.
+Maybe from business, why not. If you do more open access, that also means that there's more small and medium enterprises that could not pay such large patent fees or whatever license fee that they have required to appropriate those innovations, and appropriate them in an appropriate way, appropriate technology, and so on.
 
 If then this means the very micro and medium and small enterprises all can pull together and fund some sort of open source innovation that enable them to simplify their everyday work to enable that we're going to have digital transformation, that will be one of the main economic incentives to publish as open access with the artifacts because that will link you much more easily to such SMEs.
 
@@ -290,7 +290,7 @@ What else are you focusing on or working on?
 ### Audrey Tang:
 Nowadays, one of the main things is the upcoming digital ministry. By hopefully a year from now, there will be a dedicated competent authority for digital ministry, for a digital minister, but there's currently no ministry for digital affairs. My office is literally six continents from 12, or seven ministries, and external staff as well.
 
-It remains a very much not a implementing a ministry, but rather a coordinating and strategizing office, or as we call it, a space, the public visual innovation space depicts.
+It remains a very much not an implementing a ministry, but rather a coordinating and strategizing office, or as we call it, a space, the public visual innovation space depicts.
 
 This is probably still remains, which is great, because we do have the various different ministering councils sending people after people on a rotating basis and bringing back opening innovation and the idea of free software and powering the public sector by reducing, for example, the cyber security costs, because it's publicly audited by multiple government agencies into one.
 
@@ -707,7 +707,7 @@ Lots of fun.
 Definitely fun. Is there a future project you're most excited about?
 
 ### Audrey Tang:
-The Presidential Hackathon. It's a annual thing. Every year, it's very exciting. Last year, it was almost all about climate change, climate crisis mitigation and awareness. I wonder what this year will be about. It will begin in a month or so from now.
+The Presidential Hackathon. It's an annual thing. Every year, it's very exciting. Last year, it was almost all about climate change, climate crisis mitigation and awareness. I wonder what this year will be about. It will begin in a month or so from now.
 
 The top five teams get a presidential trophy that basically said whatever you did in the past three months will become national policy, like a presidential agenda, in the next year. That is presidential power as Hackathon prize.
 

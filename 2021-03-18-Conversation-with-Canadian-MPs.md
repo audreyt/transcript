@@ -277,7 +277,7 @@ No matter who you vote, Dr. Tsai is going to get a vote. The tallying machine ha
 It got cleared up within just a couple hours and the disinformation stopped to spread. The reason why is that we invited YouTubers of all the opposing parties to attend the counting ceremony. We use paper based ballots. We count publicly, in the sense that everybody is allowed to record. The YouTuber of the major parties all are armed with this app that does real time tallying.
 
 ### Audrey Tang:
-The point is that there is a almost participatory auditing accountability going on. People, while they don’t listen to the opposition’s party’s YouTubers, they are of course listening to their own YouTubers. When those counts agree with one another, then invisible ink is just not very plausible. The idea is through more transparency and participatory, once at that, do we counter that.
+The point is that there is an almost participatory auditing accountability going on. People, while they don’t listen to the opposition’s party’s YouTubers, they are of course listening to their own YouTubers. When those counts agree with one another, then invisible ink is just not very plausible. The idea is through more transparency and participatory, once at that, do we counter that.
 
 ### Audrey Tang:
 Or there was a conspiracy theory that says the masks are being hoarded by certain pharmacies or production facilities and so on, there’s a black market. Again, it’s countered by making the real time stock availability available of all the pharmacies medical grade mask so that every 30 seconds people queuing in line can check the real time availability, analyze the distribution patterns and so on in more than 100 applications.
