@@ -53,7 +53,7 @@ There’s my anarchist principles: I don’t take commands. I don’t give comma
 But because they’re interested in this work, so they sign up for what we call the PDIS, which is roughly modeled after the Policy Lab or GDS, whatever.
 
 ### Audrey Tang：
-Because the PDIS is not a officially ordained unit yet, we’re not at a stage as in Singapore where they have hundreds of people working at the Singapore GDS. Some PDIS members are career public servants in different ministries, who tell their ministers or deputy ministers that they want to -- instead of working on for example tax or other duties -- they want to work on open government.
+Because the PDIS is not an officially ordained unit yet, we’re not at a stage as in Singapore where they have hundreds of people working at the Singapore GDS. Some PDIS members are career public servants in different ministries, who tell their ministers or deputy ministers that they want to -- instead of working on for example tax or other duties -- they want to work on open government.
 
 ### Audrey Tang：
 Then, I sign a letter of intent, saying that this person now works in the office.
@@ -62,7 +62,7 @@ Then, I sign a letter of intent, saying that this person now works in the office
 Yes, I understand.
 
 ### Audrey Tang：
-Exactly. For as long as I’m the Digital Minister, I have this temporary staff. This is very interesting, because in Agile software development, we have this concept of a on-site customer.
+Exactly. For as long as I’m the Digital Minister, I have this temporary staff. This is very interesting, because in Agile software development, we have this concept of an on-site customer.
 
 ### Audrey Tang：
 If we are doing e-government planning, what’s better than having those on-site customers evaluating on behalf of their colleagues, that the system would actually work, or these open data infrastructures actually reduce their workload instead of increasing their workload, and so on?
@@ -152,7 +152,7 @@ A couple questions. One is are you guys building the platform? Who’s building 
 The National Development Council is in charge of doing this. The majority of the budget is actually not spending on programming, which is off the shelf nowadays, but is on training.
 
 ### Audrey Tang：
-It’s on getting the public servants to see this as a important engagement tool, but, also, now they must essentially become their own investigative journalists. They need to respond in a way that people hold them to the same standard as media, which is not a very high standard, anyway. \[laughs\]
+It’s on getting the public servants to see this as an important engagement tool, but, also, now they must essentially become their own investigative journalists. They need to respond in a way that people hold them to the same standard as media, which is not a very high standard, anyway. \[laughs\]
 
 ### Audrey Tang：
 What we’re saying is that they have to provide context, the narrative, the lead, and then everything, in order to get people the whole context, because people see one random sentence and then... So we give them journalism training as part of this plan.
@@ -989,7 +989,7 @@ Look at the second... This one. This was just a fun project at one point, but wa
 If you scroll down, this is one I wrote because I did it. This one is one of my favorite... They seem to have...
 
 ### Audrey Tang：
-403 ?
+403?
 
 ### Rufus Pollock：
 Yeah, they’ve now obviously prevented login to that anymore.

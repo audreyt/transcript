@@ -51,13 +51,13 @@ We have a UAE team that’s serving the Middle East and EMEA market. I’m the o
 We have a small team in Hong Kong. In Hong Kong, we are focusing more on fintech. Primarily, the team in Hong Kong, most of them have financial technology background. They are using our platform to find partners in that area, focusing on, for example, AML solution, small medium size loan processing, essentially using our AI platform to drive that. We also have a small team in Japan.
 
 ### David Liu:
-Within a relatively short period of time, we’ve done a fair amount of work trying to set up the infrastructure in Asia. I personally spent a fair amount of time in Taiwan. That’s when I learnt most of my Chinese. I was a general council for a Taiwan company for about nine years. Then I moved back to the States and started my investment business about 10 years ago.
+Within a relatively short period of time, we’ve done a fair amount of work trying to set up the infrastructure in Asia. I personally spent a fair amount of time in Taiwan. That’s when I learnt most of my Chinese. I was a general counsel for a Taiwan company for about nine years. Then I moved back to the States and started my investment business about 10 years ago.
 
 ### David Liu:
 Basically, in the past 10 years, I’ve been trying to identify unique technology platform. Hopefully, either me as a venture investor, and then later on try to branch out to other parts of the world, primarily in Asia.
 
 ### David Liu:
-That’s the general background on Beyond Limits. We look at Taiwan from multiple angles. One is definitely the certain products that we already developed, especially on the energy sector. Chungyi has been very helpful connecting us with a lot of the energy players over here. We just came from \[Mandarin\] . We just arrived for about an hour ago. That’s just been pure business development.
+That’s the general background on Beyond Limits. We look at Taiwan from multiple angles. One is definitely the certain products that we already developed, especially on the energy sector. Chungyi has been very helpful connecting us with a lot of the energy players over here. We just came from \[Mandarin\]. We just arrived for about an hour ago. That’s just been pure business development.
 
 ### David Liu:
 The other part of it, we also want to look for strategic partner in Taiwan. When I was in Taiwan, I was pretty tied into the hardware design and manufacturing ecosystem. Then from our viewpoint, we would never be a chip company, for example. We would never be a device company. However, our AI algorithms, especially with the Nasa Rover AI Program, there’s a lot of edge AI technology in rover.
@@ -222,7 +222,7 @@ Part of the reason is because we can take a lot of rules and heuristic from the 
 We have demonstrated we have a product that’s quite well built. It’s called Process Automization Advisor. We took on a lot of the operator’s knowledge in how to run a prod. Most of the time, we’re focusing on where the human decision making process is key. Again, like I said, it’s almost like having a super operator next to you.
 
 ### Audrey Tang:
-That’s right. It’s like a interactive decision system that you can go back and change the hypotheses. You can ask a Shifu, or a skilled person, what if this situation’s not like this, but rather that? They will also apply their expertise.
+That’s right. It’s like an interactive decision system that you can go back and change the hypotheses. You can ask a Shifu, or a skilled person, what if this situation’s not like this, but rather that? They will also apply their expertise.
 
 ### David Liu:
 Absolutely, yeah, you got it. Then, you click on it. The thing is, what we do is that we don’t override a human decision. We only give you advice. For the operator, he can click on it and understand what the logic. Let’s say there’s a tripping event because you’re deviating from the plan. The objective could be economic, could be safety, could be a combination of different objectives.
@@ -402,7 +402,7 @@ That’s channeled into these kind of experiments. Still, the implementation is 
 I see. Is there any ranking of which municipality is actually more receptive to innovative projects to be tested out and all that?
 
 ### Audrey Tang:
-The six municipalities, they are all very much into this sort of thing. Also, like we talked about explainable AI, they are also in charge of explaining the cybersecurity implications to the counties and cities near their municipality or require a regional alliance \[Mandarin\] .
+The six municipalities, they are all very much into this sort of thing. Also, like we talked about explainable AI, they are also in charge of explaining the cybersecurity implications to the counties and cities near their municipality or require a regional alliance \[Mandarin\].
 
 ### Audrey Tang:
 The head of the six municipalities or the head of the…is variously called the Bureau of Information, Department of Information — sometimes it’s called Digital Bureau now in those municipalities — are the main go to people.

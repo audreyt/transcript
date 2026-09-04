@@ -237,7 +237,7 @@ When we’re talking about how to move Taiwan companies who register from Cayman
 Again, there are no clear cut existing associations of all the Taiwanese company that register in Cayman Islands. \[laughs\] It’s just a tax device or a governance device. In cases in which there are no obvious top-down hierarchical organizations, that’s where the vTaiwan approach shines.
 
 ### Audrey Tang:
-It enables people who don’t have a voice because they don’t have a organized presence that has a protocol dealing with the governance. It enables them to discover each other, form a kind of ad hoc stakeholder coalition, and even maintain that relationship afterwards.
+It enables people who don’t have a voice because they don’t have an organized presence that has a protocol dealing with the governance. It enables them to discover each other, form a kind of ad hoc stakeholder coalition, and even maintain that relationship afterwards.
 
 ### Audrey Tang:
 I think vTaiwan has generating the fintech sandbox like the self-driving vehicle sandbox, indeed, the platform economy sandbox. All those sandboxes are basically ways for people who engage in open innovation to discover their own coalition. vTaiwan is not just a consultation process. It’s a meta-process that generates more consultative processes.
@@ -351,10 +351,10 @@ That makes a lot of sense. I want to talk about your super ministry again and ho
 How does that function in practice in terms of achieving outcomes? Are they self-selecting in that they have an agenda or a burning issue when they come to you? Are there set political issues that are introduced or from civil society? How do they determine what they want to act on?
 
 ### Audrey Tang:
-It differs for each ministry. The minister of foreign affairs, of course, have a agenda of pushing the idea of “Taiwan Can Help” on the global goals. That is just the value of our foreign ministry.
+It differs for each ministry. The minister of foreign affairs, of course, have an agenda of pushing the idea of “Taiwan Can Help” on the global goals. That is just the value of our foreign ministry.
 
 ### Audrey Tang:
-Then, of course, they are dispatched to our office, reconcile the work we’re doing within the framework of SDG and making sure that we approach foreign ministries or foreign organizations or foreign CSOs in a appropriate platform that is conforming to the UN SDG, so that’s what they bring to the table.
+Then, of course, they are dispatched to our office, reconcile the work we’re doing within the framework of SDG and making sure that we approach foreign ministries or foreign organizations or foreign CSOs in an appropriate platform that is conforming to the UN SDG, so that’s what they bring to the table.
 
 ### Audrey Tang:
 There’s many other examples. The people from the ministry of culture, for example, cares about youth engagement a lot and takes care of engaging with our youth counselors to make sure that they all have agenda-setting power.

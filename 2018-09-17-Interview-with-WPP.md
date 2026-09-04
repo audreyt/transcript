@@ -191,7 +191,7 @@ Yes. Exactly. We’ve done a few interviews with people across different governm
 Under this methodology, of course, if people cannot agree on facts, then this whole process cannot even start. That happens for example in futuristic scenarios like if people want to talk about, I don’t know, distributed federated identities using zero knowledge proofs distributor ledgers.
 
 ### Audrey Tang:
-This is something that people don’t have a intuitive grasp of unless you’re trained in mathematics, and cryptography. Even if you are, you may not be trained in philosophical, and dependent use of human rights.
+This is something that people don’t have an intuitive grasp of unless you’re trained in mathematics, and cryptography. Even if you are, you may not be trained in philosophical, and dependent use of human rights.
 
 ### Audrey Tang:
 It requires very cross discipline conversation in order to even start the sense making. That’s not very effective for consultations if we just put up things like that without a lift end experience that’s shared by all participants involved.
@@ -224,10 +224,10 @@ You cannot just use statistics or use any mathematical model to talk about susta
 What we did was essentially a listening experience and also using 360 recording devices to make sure that people who visit later can also get that into the empathy space of the four or so hours of town hall and have the fishers people speak their mind about what they view about this.
 
 ### Audrey Tang:
-The space design, which I’ll spend a couple minutes talking about, is there’s essentially two places, a smaller room where the stakeholders are identified and use a ideation process inspired by the open policymaking here, which Fang-Jui can talk about in detail, and then a large town hall, which I am kind of the MC.
+The space design, which I’ll spend a couple minutes talking about, is there’s essentially two places, a smaller room where the stakeholders are identified and use an ideation process inspired by the open policymaking here, which Fang-Jui can talk about in detail, and then a large town hall, which I am kind of the MC.
 
 ### Audrey Tang:
-The town hall is showing a livestream of the expert discussion. I’m like a ESPN anchor...
+The town hall is showing a livestream of the expert discussion. I’m like an ESPN anchor...
 
 > (laughter)
 

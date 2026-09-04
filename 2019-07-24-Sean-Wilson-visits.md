@@ -64,7 +64,7 @@ We dropped the phase five. It’s just Smart Government now.
 I should be looking at the Chinese-language documents and not the English-language documents.
 
 ### Audrey Tang:
-It’s fairly new, the dropping of the fifth phase. It’s really a addition to the fifth phase with a much more ambitious goal. It’s called SmartGov or Smart Government project. As you said, it’s led by the NDC, and it contain pretty much all the relevant ministries in it.
+It’s fairly new, the dropping of the fifth phase. It’s really an addition to the fifth phase with a much more ambitious goal. It’s called SmartGov or Smart Government project. As you said, it’s led by the NDC, and it contain pretty much all the relevant ministries in it.
 
 ### Audrey Tang:
 Mostly, there are five new scopes. You already mentioned something about the integrated digital services, digital.gov. The counterpart here will be what’s called the T-Road, which takes its name after the Estonian X-Road. That handles both the data exchange as well as the people-facing portal.
@@ -73,7 +73,7 @@ Mostly, there are five new scopes. You already mentioned something about the int
 At the moment, www.gov.tw is very much just an index of links. There’s no coherent service or coherent experience across different ministries. That’s the experience part, and this is the data part. There’s, of course, a national plan on open government, protecting private data, the new eID, and things like that.
 
 ### Audrey Tang:
-These were not items originally written as such on the phase five. This is a extension of the phase five scope while encompassing all the original to-do items in the phase five.
+These were not items originally written as such on the phase five. This is an extension of the phase five scope while encompassing all the original to-do items in the phase five.
 
 ### Sean Wilson:
 Apologies, I haven’t seen the slides yet. After this, I’ll go back and take a look.
@@ -519,7 +519,7 @@ There’s also they changed to Symfony. They completely changed that. A lot of p
 There’s pros and cons to standardizing on a specific technology. We would all be able to help each other get over the obstacles. Now Drupal 8 is here. It has been for a while.
 
 ### Audrey Tang:
-It does have a OpenAPI module, but it’s not at all used on 7. If you have a 7 website, you have to upgrade everything. That’s why we hear less from Drupal contractors when it comes to this API-based push on the T-road.
+It does have an OpenAPI module, but it’s not at all used on 7. If you have a 7 website, you have to upgrade everything. That’s why we hear less from Drupal contractors when it comes to this API-based push on the T-road.
 
 ### Audrey Tang:
 If what we’re doing is a redesign of the user experience as well as the whole service flow, then API-based redesign is needed, because we want to keep the original website running, but then we also want the people who use English, for example, to be able to access in a drastically different way, a different modality. If you don’t have a read/write API, there’s just no easy way to do that.

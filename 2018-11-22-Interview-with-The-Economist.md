@@ -74,7 +74,7 @@ This configuration is new because around the turn of century, the screen are lar
 Taiwan, of course, is affected. I wouldn’t say it’s just by the PRC, but also by all the different neighborly authoritarian or going to be more authoritarian jurisdictions.
 
 ### Audrey Tang:
-When faced with the same social media disinformation issues, there is a strong incentive, if you start with the authoritarian governance system, to use this as a easy, I’m trying to think of a neutral word, as a easy excuse to shrink the civil society’s space, the basic freedoms of speech, assembly and so on, by essentially passing more draconian cyber control rules around.
+When faced with the same social media disinformation issues, there is a strong incentive, if you start with the authoritarian governance system, to use this as an easy, I’m trying to think of a neutral word, as an easy excuse to shrink the civil society’s space, the basic freedoms of speech, assembly and so on, by essentially passing more draconian cyber control rules around.
 
 ### Audrey Tang:
 It is, of course, a very attractive proposal to any authoritarian regime. The PRC for example spends a lot of energy on what they call \[Mandarin\] which I don’t know how to translate that -- to stabilization? I don’t really know. To keep the stabilization of the social media and the Internet there.
@@ -122,7 +122,7 @@ Mm-hmm.
 It’s considered by some as draconian. I think we’re a favorite. \[laughs\]
 
 ### Audrey Tang:
-They say France is narrowed, but Sweden is still open, and of course I don’t maintain or have any relationship with this website. \[laughs\] I just want to say there is a strong polar in our region, in a world actually that extends all the way to Africa to use disinformation as a excuse to shrink the civil society space.
+They say France is narrowed, but Sweden is still open, and of course I don’t maintain or have any relationship with this website. \[laughs\] I just want to say there is a strong polar in our region, in a world actually that extends all the way to Africa to use disinformation as an excuse to shrink the civil society space.
 
 ### Audrey Tang:
 In that sense, yes, it is a threat, but it is a threat not because of disinformation itself, but rather because...
@@ -271,7 +271,7 @@ I wouldn’t say in relative numbers whether this is easier or harder, whether i
 When we’ve first heard about this, we’ve also understood it in terms of attention hacking. In other words, systems that are optimized, social media companies optimizing their systems in the way they distribute information in order to hack your attention, which is something that email doesn’t do.
 
 ### Audrey Tang:
-It kind of does. There were chainmails and things like that, but not at this scale, no, which is why I always recommend this wonderful plugin to people. There’s a mobile version as well. If you install it for Chrome, Firefox, or Safari, it replaces your newsfeed with a inspiring quote, in this case by Atler.
+It kind of does. There were chainmails and things like that, but not at this scale, no, which is why I always recommend this wonderful plugin to people. There’s a mobile version as well. If you install it for Chrome, Firefox, or Safari, it replaces your newsfeed with an inspiring quote, in this case by Atler.
 
 > (laughter)
 
@@ -769,7 +769,7 @@ In each item, you can see which ministries are interested in this, how they sign
 This is essentially internal startup that involves one person from each ministry that are willing to join. Back in their ministry, there’s also a team of what we call participation officers that also amplifies this way of working, of horizontalism, into branches of that ministry.
 
 ### Audrey Tang:
-Also, the Tainan municipality has signed on as well. After this interview, I’ll give you gifts of comic books that we use to explain this whole process. The way we got into this way of work is by design of voluntary association through a entirely cross-silo way of teaming up the ministries.
+Also, the Tainan municipality has signed on as well. After this interview, I’ll give you gifts of comic books that we use to explain this whole process. The way we got into this way of work is by design of voluntary association through an entirely cross-silo way of teaming up the ministries.
 
 ### Audrey Tang:
 Oh yeah. This is the open government comic of the very taxing tax filing system. It’s in six languages, including indigenous. That’s the basic idea. That’s the training material, literally the training material that we give to people. It’s also in Taiwanese, Hoklo, and Hakka. That’s the theory of change of my work.
@@ -813,7 +813,7 @@ Then the premier, Jiang Yi-huah, resigned. A new premier -- I think it was Mao C
 All the neutrals during the Occupy, the facilitators, the civic-type people, the communication people, and so on, were invited to the cabinet -- I think there’s an English word for this - as reverse mentors to the ministers.
 
 ### Audrey Tang:
-I’m kind of a understudy minister to Minister Jaclyn Tsai at that time. We worked together for a couple of years. While she is still the horizontal minister of cyberspace law, I am in charge of the more digital or technical part of the consultations, for example.
+I’m kind of an understudy minister to Minister Jaclyn Tsai at that time. We worked together for a couple of years. While she is still the horizontal minister of cyberspace law, I am in charge of the more digital or technical part of the consultations, for example.
 
 ### Audrey Tang:
 We worked together for two years. They made sure that I trained more than 1,000 career public servants in the art of open government. That’s all before Dr. Tsai Ing-wen became president.
@@ -849,7 +849,7 @@ Yeah, but they don’t mean it.
 I’m not sure about it. I would like to challenge that assumption. I remember the martial law days when I was five years old. That was before lifting of martial law. The Kuomintang was never wrong. It’s the martial law, so they can be never wrong. They can never be wrong.
 
 ### Audrey Tang:
-Still, there are factions within the KMT working on 16.10, 16.7, and 16.6. Even within a political environment that doesn’t allow for a opposition party, there’s still people working on the rule of law and due process and access to information.
+Still, there are factions within the KMT working on 16.10, 16.7, and 16.6. Even within a political environment that doesn’t allow for an opposition party, there’s still people working on the rule of law and due process and access to information.
 
 ### Audrey Tang:
 I don’t think these two are completely contradicting each other. I don’t think openness and participation requires a representative democracy. They of course help each other.

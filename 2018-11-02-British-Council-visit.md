@@ -273,7 +273,7 @@ What’s the trick?
 Yeah, what’s your trick? Because that’s so difficult with ministries.
 
 ### Audrey Tang:
-The trick, very simple, is that my office is actually a assemblage, a cross-section of ministries.
+The trick, very simple, is that my office is actually an assemblage, a cross-section of ministries.
 
 > (laughter)
 

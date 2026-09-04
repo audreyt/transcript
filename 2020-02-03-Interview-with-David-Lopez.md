@@ -197,7 +197,7 @@ You were appointed as Taiwan’s Digital Minister in 2016. What has been the big
 Back in 2016, people are talking about the weaponization of social media everywhere around the world including certain elections in 2016. People discovered that it is actually possible to use precision targeting and the same technologies that people develop for advertisement purposes, for political campaigning.
 
 ### Audrey Tang:
-Even more worrying, it can spread intentional harmful information to parts of the electorate so that the citizens who are affected with such disinformation will stop to recognize other political ideas as valid or even other groups as people. It will drive people to be much more polarized and more violent to each other so that it becomes a antisocial media and not a social media.
+Even more worrying, it can spread intentional harmful information to parts of the electorate so that the citizens who are affected with such disinformation will stop to recognize other political ideas as valid or even other groups as people. It will drive people to be much more polarized and more violent to each other so that it becomes an antisocial media and not a social media.
 
 ### Audrey Tang:
 The threats of weaponization of social media as well as election interference based on precision hypertargeting goals have been a lot of what the liberal democracies seen as the kind of populism that excludes certain people from even thinking about political things, because whenever they think about it, they think of the online bullying, they think of online hate, and things like that, so a toxic environment that drives people away from public conversation.

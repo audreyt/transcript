@@ -400,7 +400,7 @@ My father's mother — my grandma, almost 90 now, just met her yesterday — my 
 Wonderful.
 
 ### Audrey Tang:
-My father's mother came from Lukang and was educated of course under Japanese rule. She married freely to my grandpa, not the behest of her family, a couple years after the February 28th massacre. It was a unlikely collaboration in those times. Her family disowned her for a while. Of course, they made peace afterwards.
+My father's mother came from Lukang and was educated of course under Japanese rule. She married freely to my grandpa, not the behest of her family, a couple years after the February 28th massacre. It was an unlikely collaboration in those times. Her family disowned her for a while. Of course, they made peace afterwards.
 
 It's a kind of microcosm of what happens when in the '40s the ROC government relocated to Taiwan. First it had to stand its ground of course, as I mentioned, defend against the expansionism. On the other hand, it also has to both literally learn different languages, different cultures, and also make peace — initially not successfully at all, but eventually, through democratization, to make sure that this diversity is treasured as a value.
 
@@ -516,7 +516,7 @@ Sure.
 Of course, this weekend it's very hard to ignore that the party congress is going on. I'm wondering, first of all general question, can I ask for your reactions to what you're saying on the TV about this? What's coming out? What does it tell you about the duration of the Chinese government, what that means for Taiwan?
 
 ### Audrey Tang:
-Well, it's quite clear that there's also clarity in leadership around, well, all things, not just Taiwan-related affairs in the congress. What used to be a internal check and balance, if you can call that, within their party system, I would say that there's much more consolidated compared to the previous term.
+Well, it's quite clear that there's also clarity in leadership around, well, all things, not just Taiwan-related affairs in the congress. What used to be an internal check and balance, if you can call that, within their party system, I would say that there's much more consolidated compared to the previous term.
 
 Now, I'm not "anticipating" anything, as cyberattacks already happen a million times a day. It's not like we're preparing ourselves for something in the future, it's just like what we're facing now will probably continue for a while. We need to prepare ourselves for it, much like we prepare our infrastructure for earthquakes.
 
@@ -781,7 +781,7 @@ Like "net zero dictatorship" or something like that?
 Something like that. The question is here, is there a compromise to be reached with the autocracy such that we coexist, or is that ultimately a fool's errand and we should build resilience amongst the free and open societies, but understand that in the end, either democracies or autocracies will prevail in that?
 
 ### Audrey Tang:
-Right, "zero dictators." It's a interesting view. However, I would also say that even within liberal democracies, there are also forces that assume or at least are demonstrably something like autocracies. It could be a very large operation ruled by one person. It could be a movement of so-called decentralized organization but ruled by one founder, and so on. These are autocracy-like structures.
+Right, "zero dictators." It's an interesting view. However, I would also say that even within liberal democracies, there are also forces that assume or at least are demonstrably something like autocracies. It could be a very large operation ruled by one person. It could be a movement of so-called decentralized organization but ruled by one founder, and so on. These are autocracy-like structures.
 
 ### Josh Rogin:
 ...Sure, authoritarian.
@@ -789,7 +789,7 @@ Right, "zero dictators." It's a interesting view. However, I would also say that
 ### Audrey Tang:
 Yeah, authoritarian structures, within liberal democracies as well. Usually, the response was through some justification by a sense of urgency. "In the emergency, of course, we have to have a strong commander" and so on.
 
-I think what you're saying, the non-peaceful coexistence, is a symptom, it's not the root cause. The root cause is that when emergency happens, our gut instinct among population is not more democracy; it's not collective intelligence at the moment; it's not going to the social sector at the moment. Every time there's a emergency or urgency, there's another chance for authoritarian tendencies to gain ground even within developed democracies.
+I think what you're saying, the non-peaceful coexistence, is a symptom, it's not the root cause. The root cause is that when emergency happens, our gut instinct among population is not more democracy; it's not collective intelligence at the moment; it's not going to the social sector at the moment. Every time there's an emergency or urgency, there's another chance for authoritarian tendencies to gain ground even within developed democracies.
 
 I think all that really is a pedagogical point, is to build competence of everyday practice of democracy so that people's go-to solution is more democracy. Then as I mentioned, the narrative that authoritarian model solves problems better, promotes innovation better, doesn't quite work as compared to two, three years ago.
 

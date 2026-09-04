@@ -396,7 +396,7 @@ We're now pretty sure that the so called augmented collective intelligence, or A
 
 For example, Whoscall, which is a collective intelligence project that let people report unsolicited calls. Once people report that, then the next call to everybody else is more so you will not pick it up.
 
-Then Whoscall, who is the other unicorn, right? That also went to Japan. That's another issue for another day. HUSCO then branched into the disinformation space. They work with a acquaintance of ours to call the team of maybe who basically you can invite to your chat groups on end to end encrypted channels like LINE.
+Then Whoscall, who is the other unicorn, right? That also went to Japan. That's another issue for another day. HUSCO then branched into the disinformation space. They work with an acquaintance of ours to call the team of maybe who basically you can invite to your chat groups on end to end encrypted channels like LINE.
 
 Then there's a kind of virus scan of each and every message, but not just computer virus or phish, but also mind virus, which is to say information manipulation.
 
@@ -453,7 +453,7 @@ You mean legislation in a sense of promoting pro-social behavior by the private 
 It might be very close to an area that I'm not super well-versed on or I want to go super deep on, but are you asking about just policy...?
 
 ### Niffer Nan:
-I think that safety and alignment will be important in the future, and more generally, ensuring that outcomes are good for society. We could just rely on the private sector to do the right thing, but government could play a important role either by providing guide rails or funding innovation here. I'm just curious if you do that kind of work.
+I think that safety and alignment will be important in the future, and more generally, ensuring that outcomes are good for society. We could just rely on the private sector to do the right thing, but government could play an important role either by providing guide rails or funding innovation here. I'm just curious if you do that kind of work.
 
 ### Audrey Tang:
 It's easier if we speak in examples. Around 2017, and correct me if I'm wrong, a bunch of people really wanted Facebook to release closer to election, which of those sponsored advertisement or bypass fact-checking came from external sources, foreign sources.
@@ -509,7 +509,7 @@ Yeah, definitely. Hopefully with the new vein, people will use it more.
 I really like the idea of using metaphors that the legislators can understand. Do you think there's also more cultural similarity with the legislators? I just don't know what the makeup of your legislatures are, whether they have more math and science proficiency.
 
 ### Audrey Tang:
-A couple of things. One is that specifically for the trolls and disinformation we just talked about, we deliberately used a epidemiology metaphor. We talk about the basic reproduction number...
+A couple of things. One is that specifically for the trolls and disinformation we just talked about, we deliberately used an epidemiology metaphor. We talk about the basic reproduction number...
 
 ### Audrey Tang:
 The basic reproduction number of the mind virus. Of the contact tracing, quarantine, vaccination, and cure. These things are...

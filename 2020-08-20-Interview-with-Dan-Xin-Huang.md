@@ -132,7 +132,7 @@ It’s just a computer.
 That’s very cool.
 
 ### Audrey Tang:
-I think the dashboard, even though it’s standard now, is a interesting story of compromise. For a long time, this has been around for other respiratory disease. This has come from cases by counties and cities.
+I think the dashboard, even though it’s standard now, is an interesting story of compromise. For a long time, this has been around for other respiratory disease. This has come from cases by counties and cities.
 
 ### Audrey Tang:
 People kept pushing for finer resolution, like to district level or to even smaller levels, like township. The CECC keeps saying no. I think this is a non-radical transparency issues. Like for each confirmed cases, there’s a number.

@@ -77,7 +77,7 @@ Exactly. But before that, you were already known at least in Germany and across 
 ### Audrey Tang:
 Certainly. My previous job, before taking on the moda minister role, was minister in charge of social innovation, which means co-creation in civil society. Social innovation relies on a vibrant, free society where people can look at any emerging trends and then respond even quicker than our government.
 
-My role was, as a amplifier, to take the latest innovations from the civil society and deploy it in our work. We understand that for example, during the pandemic, there are a lot of top-down lockdown measures that's maybe necessary or justified on public health reasons, but if the people do not understand the scientific, like why, behind those measures, they don't tend to last long.
+My role was, as an amplifier, to take the latest innovations from the civil society and deploy it in our work. We understand that for example, during the pandemic, there are a lot of top-down lockdown measures that's maybe necessary or justified on public health reasons, but if the people do not understand the scientific, like why, behind those measures, they don't tend to last long.
 
 People eventually just got fed up with it after a few months. In Taiwan, we very successfully countered the pandemic. I think the only New Zealand did better than us worldwide without a single day of lockdown. The reason why is that it's the people, the civil society coming up with the innovative measures starting from, of course, the mask rationing, all the way to a rapid testing, and vaccine pre-registration.
 
@@ -120,7 +120,7 @@ For example, we are now in talks with Alphabet -- Google and YouTube -- and Meta
 
 Especially the textual part of the journalism dwindled, the revenue has more than halfed during the past 10 years and workforce has dwindled more than 20 percent. If this trend goes on, then we will not have this journalistic weapon to counter the virus of the mind when the time needs to come.
 
-All around the world, there are ways. In EU, there's a extension of the copyrights, the neighboring rights. In Australia, there's a collective negotiation, and so on.
+All around the world, there are ways. In EU, there's an extension of the copyrights, the neighboring rights. In Australia, there's a collective negotiation, and so on.
 
 Our ministry is also in charge of working with all the Ministry of Culture, of communication, and so on, to ensure that everyone understand that the public good journalism is currently dwindling and we need to work with the international, the largest platform, actually just those two platforms, to ensure there is fair compensation for journalistic work.
 
@@ -186,7 +186,7 @@ Open data, yeah.
 > (laughter)
 
 ### Audrey Tang:
-So that's a Eric question. Would you like to answer that? Why were people not afraid of open data circa 2012, 2014?
+So that's an Eric question. Would you like to answer that? Why were people not afraid of open data circa 2012, 2014?
 
 > (laughter)
 
@@ -300,11 +300,11 @@ Oh yeah. They are very scared.
 ...that sort of thing. They are scared enough to do it for three days, and then they...
 
 ### Audrey Tang:
-The point is that during those three days, we have to find something that is a easier habit than their previous ways of doing things. For example, if they used to have simple passwords that's eight digits long, and we suddenly say, you have to have 18 digits. Of course, nobody will actually remember those as if we said nothing.
+The point is that during those three days, we have to find something that is an easier habit than their previous ways of doing things. For example, if they used to have simple passwords that's eight digits long, and we suddenly say, you have to have 18 digits. Of course, nobody will actually remember those as if we said nothing.
 
 With our zero trust architecture, what we have done is essentially saying just now install this antivirus on your phone which doubles as a, what we call, mobile device management tool so that from the point you install this, you don't have to use passwords anymore. From that point onward, you just use your fingerprint.
 
-Because using their fingerprint is easier than the password, new habits form much more easily. For example, if you want to do device authentication. Instead of seeing as one more factor, you can use it to remove a factor. Passwordless, instead of longer password plus a authentication. That's the way to go.
+Because using their fingerprint is easier than the password, new habits form much more easily. For example, if you want to do device authentication. Instead of seeing as one more factor, you can use it to remove a factor. Passwordless, instead of longer password plus an authentication. That's the way to go.
 
 ### IPAC Member:
 Which phone do you use?
@@ -413,7 +413,7 @@ This is especially useful leading up to the election when there is simply no tim
 
 It's coupled with a very scary looking Reuter photo. Once the Taiwan FactCheck Center, the independent fact checker, discover that the origin of the message was actually the central political and low units weapon of the CCP, they simply go back to cofacts and so on to basically say the message you just saw is propaganda. It's sponsored by the CCP, without taking anything down.
 
-It suddenly shifts people's frame of reference, so that people, they still share the message, but now with a different frame. That, just going back to the route, is very important. There's a immune system that's built by the cross sectoral approach, collaborative fact checking, co facts.
+It suddenly shifts people's frame of reference, so that people, they still share the message, but now with a different frame. That, just going back to the route, is very important. There's an immune system that's built by the cross sectoral approach, collaborative fact checking, co facts.
 
 ### IPAC Member:
 Chinese, they create some group for disinformation here, for example.

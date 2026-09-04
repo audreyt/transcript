@@ -217,7 +217,7 @@ Yes. You can order in one of the three ways. One is you just go to a pharmacy or
 Second, far more conveniently, you can go to one of the convenience stores, there’s more than 11,000 or them, and insert your NHI card and still pay. You have to wait a week to collect that, pre-order. There is no cuing for that. It’s all very convenient. When you collect, you can pay again and two weeks afterward, you go there to collect and pay again, and so on.
 
 ### Audrey Tang:
-You can also order through an online app instead of going to the convenience store but still collect at the convenience store. These three pathways all enabled a adult to collect nine per two weeks, or if you are a child under 16, 10 per two weeks.
+You can also order through an online app instead of going to the convenience store but still collect at the convenience store. These three pathways all enabled an adult to collect nine per two weeks, or if you are a child under 16, 10 per two weeks.
 
 ### Hannes Grassegger:
 You’re using an openness approach, publishing information. You have a website as well that’s very transparent on the cases. What do you see data risks here in terms of publishing too much about a particular person? What should Europe refrain from using? What would be your guidelines?

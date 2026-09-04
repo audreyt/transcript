@@ -1083,7 +1083,7 @@ That was in January. That was before I was a minister. I was just a random speak
 Thanks, Blaise, if you’re watching, for these slides.
 
 ### Audrey Tang:
-In any case, what we’ve been doing mostly, using this website \[points to PDIS.tw\] , is just to bring it to our international counterparts, and say, &quot;This is roughly what we’re doing.&quot; It’s a conversation‑starter so far, but it could do much more.
+In any case, what we’ve been doing mostly, using this website \[points to PDIS.tw\], is just to bring it to our international counterparts, and say, &quot;This is roughly what we’re doing.&quot; It’s a conversation‑starter so far, but it could do much more.
 
 ### Shuyang Lin:
 What do you think?

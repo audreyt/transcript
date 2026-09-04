@@ -43,7 +43,7 @@ What about the second part of that? What are the challenges? The civil servants 
 Originally, before I entered, I thought the challenges would be that the civil servants would be risk-averse and not risk-taking enough to try these new tools and new processes, with horizontal integration and so on. But when I actually joined, because I deployed a few very particular anarchistic way of working, those challenges are actually nonexistent. They don’t actually manifest.
 
 ### Audrey Tang:
-To explain, in a hierarchical organization, often if that I’m a Minister and I issue orders and the people under me do some decisions and make something, if everything works perfectly, then I get the credit. But if things fail, the media has a way to find which public servant actually caused the failure and they get the blame. In such a environment, nobody actually wants to innovate, because the payoff matrix just isn’t there.
+To explain, in a hierarchical organization, often if that I’m a Minister and I issue orders and the people under me do some decisions and make something, if everything works perfectly, then I get the credit. But if things fail, the media has a way to find which public servant actually caused the failure and they get the blame. In such an environment, nobody actually wants to innovate, because the payoff matrix just isn’t there.
 
 ### Audrey Tang:
 What I try to introduce is a kind of radical transparency. That includes this kind of meeting. It’s not just with you media folks. Even any internal meeting that I am the chairperson of, I make a full record, but I don’t publish it. I make a textual transcript.
@@ -73,7 +73,7 @@ The question was in the sense of massive self-communication, everybody’s the m
 That’s right.
 
 ### Audrey Tang:
-It’s great. \[laughs\] I joined with a agenda to empower the civil society to fully understand how the government system works. This is what radical transparency means. In contrast to some other country -- I won’t name names -- who want to control the use of social media through a lot of interesting policies, in Taiwan we try to encourage a civil society to engage in any way they feel comfortable.
+It’s great. \[laughs\] I joined with an agenda to empower the civil society to fully understand how the government system works. This is what radical transparency means. In contrast to some other country -- I won’t name names -- who want to control the use of social media through a lot of interesting policies, in Taiwan we try to encourage a civil society to engage in any way they feel comfortable.
 
 ### Audrey Tang:
 If they don’t feel comfortable engaging through real name, we accept pseudonyms. If they don’t feel comfortable enough to show up in person, we accept people who type in stuff through livestreaming, in any way they would organize. If the government trusts the civil society, the citizens enough, eventually they trust back. But the government has to do this first.
@@ -124,7 +124,7 @@ Great question. I don’t think I’m working for Taiwan. \[laughs\] I’m worki
 The e-petition system, that originated in the US. Many of the collaboration platforms that we did originated from Iceland or from the Occupy in Spain or from New Zealand. There’s also a lot of South American participants as well in the transcription system that we’re using and things like this.
 
 ### Audrey Tang:
-It is a international collaboration that tries to make democracy more transparent and also more accountable. I see this as a international movement that is not specific to any country, but Taiwan is in a pretty, I would say, privileged position because our citizens demand this of politicians and is willing to bear the cost of introducing such systematic technologies, even when it’s expensive.
+It is an international collaboration that tries to make democracy more transparent and also more accountable. I see this as an international movement that is not specific to any country, but Taiwan is in a pretty, I would say, privileged position because our citizens demand this of politicians and is willing to bear the cost of introducing such systematic technologies, even when it’s expensive.
 
 ### Audrey Tang:
 That ties into the test bed idea that’s common to the Asia SV, in the sense that we can deploy these systems because these people really want it, especially after the Occupy in 2014.
@@ -489,7 +489,7 @@ Which is why you see the digital minister replying on Twitter and Facebook, with
 Do we have some information how much start-ups is created each year and how much will not survive for one year?
 
 ### Audrey Tang:
-I think the one-year mortality \[laughs\] ...Most of the start-ups didn’t really linger. The idea is that, as in Silicon Valley, we pivot. We don’t fail. \[laughs\] The idea is that for many, I would say a majority -- I think that the number is like 85 or 90 percent of startups -- they just start building a business model. They find out it’s not a market fit. Yet it’s born out of a social mission, so they try a different business strategy to further the same social mission.
+I think the one-year mortality \[laughs\]...Most of the start-ups didn’t really linger. The idea is that, as in Silicon Valley, we pivot. We don’t fail. \[laughs\] The idea is that for many, I would say a majority -- I think that the number is like 85 or 90 percent of startups -- they just start building a business model. They find out it’s not a market fit. Yet it’s born out of a social mission, so they try a different business strategy to further the same social mission.
 
 ### Audrey Tang:
 The social entrepreneurs that I work with, many of them try four or five different iterations, maybe one as an NGO, one as a coop, and the other one as a company, whatever angle they can get donations, investments, or whatever. Then finally finding a way that has learned sufficiently from the stakeholders and fit into the market.
@@ -516,7 +516,7 @@ There’s two different layers. There’s cybersecurity, which is the infrastruc
 For the infrastructure, we are now looking for the legislative to pass the Cyber Security Act, which will secure for the critical infrastructure, as well as for all the government systems, sufficient people who are versed in cybersecurity. We’re trying to create a market where if you learn cyber security as part of your university program, or whatever, there is like four or five different job slots for you once you’ve finished basic training.
 
 ### Audrey Tang:
-There’s a market shaping play, and I think it’s been pretty successful, even without this act being passed to introduce sufficient cybersecurity training to public servants, especially on the local level. As part of our special budget, we also allocated the necessary hardware and infrastructure upgrades for all the last-mile systems that are mostly still running Windows XP or older, and are primary vectors of attack. We’re very much look into it, and then building this into a industry.
+There’s a market shaping play, and I think it’s been pretty successful, even without this act being passed to introduce sufficient cybersecurity training to public servants, especially on the local level. As part of our special budget, we also allocated the necessary hardware and infrastructure upgrades for all the last-mile systems that are mostly still running Windows XP or older, and are primary vectors of attack. We’re very much look into it, and then building this into an industry.
 
 ### Audrey Tang:
 Taiwan is home to Trend Micro and a lot of cybersecurity industries, and we’re looking to integrate it with IoT even more now that the autonomous cars will be everywhere. Cybersecurity, it’s life and death if it’s an autonomous car.
@@ -540,7 +540,7 @@ There’s a lot of computer science advances in recent years that allow us to br
 This is the superior model than just turning things into, &quot;You have to sign a lot of NDAs, and we have to basically make you a ministry or associated with those two ministries, and for you to do your research with access with all the data.&quot; We were not looking to that model.
 
 ### Audrey Tang:
-We start from a very conservative position, and even as we expand for data for social good, we never let the citizen feel that their personal data is somehow a asset of the state that the state can capitalize on. This is a very dangerous metaphor to work with. That’s the basic data literacy plan. I hope that answers your question.
+We start from a very conservative position, and even as we expand for data for social good, we never let the citizen feel that their personal data is somehow an asset of the state that the state can capitalize on. This is a very dangerous metaphor to work with. That’s the basic data literacy plan. I hope that answers your question.
 
 ### Audrey Tang:
 Yes?
@@ -558,7 +558,7 @@ On a bigger scale? I’m going to read you a poem. \[laughs\] It’s something t
 It’s something I wrote in New Zealand, and if you go to my Twitter account, @audreyt, that’s pinned on my account. It goes like this.
 
 ### Audrey Tang:
-When we see Internet of Things, let’s make it a Internet of Beings.
+When we see Internet of Things, let’s make it an Internet of Beings.
 
 ### Audrey Tang:
 When we see virtual reality, let’s make it a shared reality.
@@ -588,7 +588,7 @@ In effect, what this creates is a new intelligent species, or a new intelligent 
 Just how people working with animals can somehow speak and translate for the animals’ feelings and nonverbal cues, we also need people who are not programmers who can interrogate with just laypersons these kind of autonomous cars. What is it seeing? How does it perceive the world?
 
 ### Audrey Tang:
-When it perceive a complex situation and stop cold on the middle of the road, what exactly is going on? If we see it as a integration of a new kind of animal, then it could be either like a dog, who domesticate us when we domesticate dogs, or it could be like a wild animal and people just develop a very bad feeling toward it as part of our evolution.
+When it perceive a complex situation and stop cold on the middle of the road, what exactly is going on? If we see it as an integration of a new kind of animal, then it could be either like a dog, who domesticate us when we domesticate dogs, or it could be like a wild animal and people just develop a very bad feeling toward it as part of our evolution.
 
 ### Audrey Tang:
 What I’m saying is, instead of bringing everybody to the street with pitchforks perhaps, we’re trying to make autonomous vehicles in a way that respects local needs. Like if one city, what it needs is tricycles, or the other regions, what it needs is a minivan or whatever, we work with the technologies.
@@ -698,7 +698,7 @@ Now with this very regular weekly meeting, they see that people who sign the pet
 They see that, first, it’s politically advantageous for them to engage with the public, because they deliver highlights. The second, it also lowers their communication cost. I think, at this particular regard, it was pretty successful. I wouldn’t say it’s my success. It’s just this natural way of working in a design-thinking informed kind of way.
 
 ### Audrey Tang:
-The challenges still remain, of course. As you mentioned, many other ministers or ministries, like if we do one case every week, there’s thousands of cases every week that isn’t done this way. It also creates a expectations, especially on the local level — &quot;The national government can do it, so why can’t our city do this?&quot;
+The challenges still remain, of course. As you mentioned, many other ministers or ministries, like if we do one case every week, there’s thousands of cases every week that isn’t done this way. It also creates an expectations, especially on the local level — &quot;The national government can do it, so why can’t our city do this?&quot;
 
 ### Audrey Tang:
 So it does create a pressure to the cities. But I think the mayors have risen up to the challenge, either through deliberation workshops, participation budgets, or whatever.

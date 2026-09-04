@@ -367,7 +367,7 @@ How do you encourage people who are dissuaded by government, especially given Ta
 If the government says, “Oh, we’re working for the people. We’re working very hard. We came up with this economic booster plan,” and then, of course, people would be very apathetic. It’s like, “OK, you guys think of everything.”
 
 ### Christopher Balkaran:
-\[laughs\] .
+\[laughs\].
 
 ### Audrey Tang:
 Of course, that’s not what we’re going forward as a country. There was this idea of government as a platform. It calls for working for the people. It’s passé. We’re now working with the people. That’s all fine.

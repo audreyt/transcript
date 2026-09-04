@@ -87,7 +87,7 @@ Let’s talk a little bit about the coronavirus stuff. It’s fascinating, that 
 Sure. That’s part of our Fast, Fair, and Fun strategy. The fast means that we ramp up the production of our mask from 2 million medical mask a day to 20 million medical mask a day very quickly, over a couple months. Once we produce that many, we want to ensure that everybody have access to those mask.
 
 ### Audrey Tang:
-In the very beginning, we ask the pharmacies – I think there is 6,000 of them – to help distributing them on a real-name basis, meaning that people who use their national health insurance card, which is a IC card, can go to the pharmacies. Initially, people can get two per week. Quickly, became 3 per week. After a while, become 9 per two weeks, or 10 if you’re a child.
+In the very beginning, we ask the pharmacies – I think there is 6,000 of them – to help distributing them on a real-name basis, meaning that people who use their national health insurance card, which is an IC card, can go to the pharmacies. Initially, people can get two per week. Quickly, became 3 per week. After a while, become 9 per two weeks, or 10 if you’re a child.
 
 ### Audrey Tang:
 The trick of the pharmacies distributing mask is that we want to avoid long queues because long queues is, by itself, a transmission vector. The civil society, civic technologies, build a map that visualizes all the real-time stock level. That’s not our idea. It’s just people in the g0v community came up with those ideas.
@@ -503,7 +503,7 @@ Moving on to the next category, I think it applies to your job, it is a continua
 I’m happy that the translation use a lower-case minister, because then the answer is very simple. No, there is no any difficulties as a lower-case minister, because that means that I mostly just advocate and preach about an open innovation, and about sustainability, and so on. \[laughs\]
 
 ### Audrey Tang:
-I’m not seeing myself as a upper-case minister, in which case I’ll have to order people around. As a lower-case minister, there is no difficulties whatsoever.
+I’m not seeing myself as an upper-case minister, in which case I’ll have to order people around. As a lower-case minister, there is no difficulties whatsoever.
 
 ### Audrey Tang:
 Here in the Social Innovation Lab, everybody can see, very transparently. Literally, it’s a park. Everybody can walk in and see my working environment, and even walk in, and every Wednesday to have 40 minutes of my time, chatting to me. Of course it has to be on the record.
@@ -551,7 +551,7 @@ Another question, you describe your job as a linker or a pipe between multiple o
 You need to take all the sides, and that’s it. When there’s controversy or when there’s tension between different multistakeholders, you have to have the capacity of arguing from the viewpoint of each and every side.
 
 ### Audrey Tang:
-If you don’t, then maybe you can do a ethnographic hanging out with these people until that you can argue from their point of view. That’s it.
+If you don’t, then maybe you can do an ethnographic hanging out with these people until that you can argue from their point of view. That’s it.
 
 ### Tatsuhiko Miyagawa:
 I think it’s related to the next question. Some people think that domain knowledge is not necessarily required to be a minister. What do you think about it? I think the person asks question wants to know, when you want to be a pipe or linker between these organization, it’s implied that the fact that you have this domain knowledge and expert, professional experience in these IT fields are playing a huge role. Is that true?
@@ -714,7 +714,7 @@ She agrees on that. Computers today, according to Professor Wing, are combinatio
 We actually do not know the extent of computation of capability of humans. That’s an active area of research, the science of the mind. Because of that, I think it’s easier if you think of it as a design of cyber-social systems.
 
 ### Audrey Tang:
-It’s fortunate that in Taiwan, we translated the word programmer as \[Mandarin\] , literally the designers of programs instead of engineers of software. I think it gives a very different view.
+It’s fortunate that in Taiwan, we translated the word programmer as \[Mandarin\], literally the designers of programs instead of engineers of software. I think it gives a very different view.
 
 ### Tatsuhiko Miyagawa:
 That’s interesting. Is programming taught in Taiwanese schools?
@@ -723,7 +723,7 @@ That’s interesting. Is programming taught in Taiwanese schools?
 Of course. As I said, it’s not taught as a foreign language in primary school level. It’s rather as part of the media and digital competence, and that’s across all the different classes. If you’re learning math, if you’re learning the nature of sciences and so on, you learn to produce digital media and communicate with international digital open communities as part of your ordinary class.
 
 ### Audrey Tang:
-If you can write some programs to help, for example, measuring your air quality in your school, then you go and get a AirBox, which runs Raspberry Pi or Arduino or both. Then you learn a little bit of programming. That’s part of your nature science class though. It’s not a programming class. The programming class would start in junior high.
+If you can write some programs to help, for example, measuring your air quality in your school, then you go and get an AirBox, which runs Raspberry Pi or Arduino or both. Then you learn a little bit of programming. That’s part of your nature science class though. It’s not a programming class. The programming class would start in junior high.
 
 ### Tatsuhiko Miyagawa:
 There’s a lot of questions about – it leads to what you just said – technology and society, stuff like that. There’s a lot of deep questions in this section. \[laughs\] I don’t know how far we can get. Does IT bring happiness to humanity? This is a really \[laughs\] deep question.

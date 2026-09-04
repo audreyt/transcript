@@ -211,7 +211,7 @@ If you look at sci fi, and some people wish secretly to replace humans by machin
 
 I summarize a bit but you cannot explain that AI or technologies will be more supportive of humanity and more likely not TVs or proceeding some other things, too, that they have to keep them together best of themselves.
 
-Also you explain that about referring objects and that you can detach from IoT objects and it's very linked. I mean, coming from a psychology and biology neuroscience is this kind of idea, but there's a French philosopher called [indecipherable 27:09] .
+Also you explain that about referring objects and that you can detach from IoT objects and it's very linked. I mean, coming from a psychology and biology neuroscience is this kind of idea, but there's a French philosopher called [indecipherable 27:09].
 
 He has the same idea where you cannot transmit the only architecture you infringe savoir faire. He returned me the way to return his knowledge and no hope. Humans are maintenance where they transmit to their children, no hope and some knowledge. Every generation is a new layer. Is that ready?
 
@@ -261,13 +261,13 @@ I believe, once we get the metaphors right, I think there will be less confusion
 ### Joachim Son Forget:
 Is there any room we can speak to a politic because it is very interesting that Taiwan, as what I hear from you, is going to grow the model that is radically different from your neighbors. I don't speak only about China, actually, because when I look at, I know very well, South Korea, Japan, and some other model is still extremely traditional in the way they use technology. I mean, the tools are here but the philosophy is not even there.
 
-When I see the Chinese, I mean some of the create a rival network, instead of being made of blockchain and decentralized elements across the world, they do that but with humans with hands. They use their citizens as hands and [indecipherable 35:21] .
+When I see the Chinese, I mean some of the create a rival network, instead of being made of blockchain and decentralized elements across the world, they do that but with humans with hands. They use their citizens as hands and [indecipherable 35:21].
 
 I don't want to be insulting at all, but with the Belt and Road Initiative, I've been traveling in a lot of warrior in the world and I've always find Chinese people. It's very interesting in a way they kick out all of farming system for cryptos and they get rid of the usual global system to create an alternate model. It's very...I don't know.
 
 When I look also at the [indecipherable 35:53] and very recent permanent CCTV everywhere. I think it's not only in China, it's like this absent consent is also everywhere.
 
-In Korea, you have CCTVs checking people in their own cars everywhere in the street. In Japan is the same way. And somehow, one famous anthropologist recently coined the concept of the use of eusociality to compare the society of insects like ants and bees to humans. We self organize in a way that [indecipherable 36:28] .
+In Korea, you have CCTVs checking people in their own cars everywhere in the street. In Japan is the same way. And somehow, one famous anthropologist recently coined the concept of the use of eusociality to compare the society of insects like ants and bees to humans. We self organize in a way that [indecipherable 36:28].
 
 ### Joachim Son Forget:
 He said that to save biodiversity somewhere, we should live in one part of the world and let the rest of the world quiet without human activity. Some people said, "Yeah, we could do this."
@@ -349,7 +349,7 @@ They never reached the people of Wuhan, and that is one very clear difference be
 ### Joachim Son Forget:
 When a totalitarian model wants to get rid of a distributed world in the end. That's exactly like when the heart doesn't have haptics. The reality has haptics, so the reality can kill someone, can surprise someone. You can remove him, remove her. And the biggest threat — I mean to the localism — is its localism is bad.
 
-I don't know. It might have some very good aspects or [indecipherable 46:55] or stay down to earth to also have a very localist way of life at the same time. I don't want to make some [indecipherable 47:05] , but there is a worse thing. It's localism, and the best also for our life, and we want to have a healthy life in the nature, being down to earth elements, things around us. But we don't want to create new fear [indecipherable 47:20].
+I don't know. It might have some very good aspects or [indecipherable 46:55] or stay down to earth to also have a very localist way of life at the same time. I don't want to make some [indecipherable 47:05], but there is a worse thing. It's localism, and the best also for our life, and we want to have a healthy life in the nature, being down to earth elements, things around us. But we don't want to create new fear [indecipherable 47:20].
 
 But at the same time, the cultural distribution of virtual toxic with the Web2 that we have now create violent behaviors. You're coming out of Twitter fight. I was a victim of the system as well, even if I use it involuntarily.
 
@@ -365,7 +365,7 @@ It's just like the earlier Internet vision of end to end permissionless innovati
 ### Ian Rogers:
 What I think is inspiring about your approach — and I thank you for taking the time, I realize that we're at the end of it — is that you're fully aware of the possibilities of the current technological landscape. But you are using them for kind of citizen empowerment at the moment, and not just sort of projecting 5 to 15 years in the future,
 
-But it seems to me that you're asking what can we build right now that will — as you said — ease that transition or answer some of these key questions for our citizenry to make our our citizens more in power?
+But it seems to me that you're asking what can we build right now that will — as you said — ease that transition or answer some of these key questions for our citizenry to make our citizens more in power?
 
 ### Audrey Tang:
 Yep, that's a very fair summarization. I'm also   as is the norm — typing my contact and so on, and I think I'm happy to continue the conversation, really. So I am aware that we can't afford Twitter right now. It has not completed its Web3 transition, but still, I think it's one of the places that's at least open to such possibilities.

@@ -125,7 +125,7 @@ What about the upcoming elections? What role does social media play in the upcom
 Social media is a great amplifier of people’s both prosocial tendencies but also antisocial tendencies. It’s social, but it doesn’t say whether it’s prosocial or antisocial.
 
 ### Audrey Tang:
-In Taiwan, what we’ve seen is that it tends to reward mostly the more extreme voices so that they amplify more. There may only be five divisive ideas among all the possible ideas that concern the society, but social media, when it’s designed in a antisocial way tend to over-amplify the voices of the divisive and give less room for the consensual.
+In Taiwan, what we’ve seen is that it tends to reward mostly the more extreme voices so that they amplify more. There may only be five divisive ideas among all the possible ideas that concern the society, but social media, when it’s designed in an antisocial way tend to over-amplify the voices of the divisive and give less room for the consensual.
 
 ### Interviewer:
 How does social media work in Taiwan? Does it work a little bit differently from other countries or is it same-same?
@@ -193,10 +193,10 @@ What does this mean for the upcoming election? Everybody is extensively using so
 We have those people from Han’s party who are accusing the opposite of fake news and also vice versa. I get the impression that it’s quite heated.
 
 ### Audrey Tang:
-We’re a young democracy, so elections are always heated. Social media is unique in that it allows turning the helpless anger into a outrage very easily by clicking share.
+We’re a young democracy, so elections are always heated. Social media is unique in that it allows turning the helpless anger into an outrage very easily by clicking share.
 
 ### Audrey Tang:
-Whenever people feel anger, they may not have the mental capacity to check the veracity of the image or video. They can very easily turn it into something more positive, subjectively, by clicking share and sending a message of outrage so that people are angry about the same thing together instead of a individual anger. That tend to spread, yes.
+Whenever people feel anger, they may not have the mental capacity to check the veracity of the image or video. They can very easily turn it into something more positive, subjectively, by clicking share and sending a message of outrage so that people are angry about the same thing together instead of an individual anger. That tend to spread, yes.
 
 ### Interviewer:
 Say this again?
@@ -222,7 +222,7 @@ Is it the trending ones or just the trending ones concerning that ministry?
 Of course they can only respond to the ones concerning their ministry. The trending one also is a volunteer basis. People either report it on the LINE system directly to a public dashboard, like flagging a spam email, or people can work with the Taiwan FactCheck Center and say, “I see this trending. Would you like to check it?”
 
 ### Audrey Tang:
-One way or another, it will end up on the ministry’s radar, and they will look at whether it’s a intentional, harmful untruth. If so, within two hours, usually within 60 minutes now, they will roll out two picture cards that are less than 200 words and easy-to-grasp in arguments.
+One way or another, it will end up on the ministry’s radar, and they will look at whether it’s an intentional, harmful untruth. If so, within two hours, usually within 60 minutes now, they will roll out two picture cards that are less than 200 words and easy-to-grasp in arguments.
 
 ### Interviewer:
 The people from the ministry, they don’t themselves do the monitoring? The people are doing the monitoring, and then they will respond?
@@ -321,7 +321,7 @@ For example, on the Honk Kong protests alone, there’s 200,000 fake accounts on
 Are there also such trolling farms when it comes to questions concerning Hong Kong?
 
 ### Audrey Tang:
-I think so. Just recently, people discovered that there’s a set of content farms that re-publishes in traditional Chinese language script whatever the simplified Chinese messages that’s pushed out by the PRC Weibo or something, instantly, or even before they post in simplified Chinese. That’s a instant translation of the messages as pushed out.
+I think so. Just recently, people discovered that there’s a set of content farms that re-publishes in traditional Chinese language script whatever the simplified Chinese messages that’s pushed out by the PRC Weibo or something, instantly, or even before they post in simplified Chinese. That’s an instant translation of the messages as pushed out.
 
 ### Audrey Tang:
 For example this Hong Kong one, which is a good example because it’s also posted on the Weibo of the Chang’an Sword, which is the official Weibo of the 中共中央政法委员会 in the PRC. It’s not merely spreading this in Taiwan. It’s rather taking something of official propaganda and localize it in Cantonese, in traditional Chinese, and spread it in the social media.
@@ -347,7 +347,7 @@ As you can see, there are many pertaining only to Taiwan messages. Some of them 
 What’s for you the difference between disinformation and mal-information?
 
 ### Audrey Tang:
-Disinformation is untruth with a intention to do harm. Mal-information is information spread with the intention to do harm that may or may not be true, but they are intended to be framed in a way to do harm.
+Disinformation is untruth with an intention to do harm. Mal-information is information spread with the intention to do harm that may or may not be true, but they are intended to be framed in a way to do harm.
 
 ### Audrey Tang:
 For example, there was a protest back in 2016. There was a real video of that protest but it’s almost three years ago. Then there’s a reframed message of such a protest as if it’s happening right now.
@@ -374,7 +374,7 @@ When it’s reported to the TFC. It’s maybe only within one hour, but while it
 Through this whole fact-checking work, how many cases are your people or the people in the other ministry dealing with when it comes to China and Taiwan? It is a lot?
 
 ### Audrey Tang:
-If you mean China as in the land, the territory that they currently govern, then there is many. For example, this was about a epidemic in rat. There’s also a virus in pigs, as in swine fever. There’s some concerning that area of their jurisdiction, but I would say it’s not a majority.
+If you mean China as in the land, the territory that they currently govern, then there is many. For example, this was about an epidemic in rat. There’s also a virus in pigs, as in swine fever. There’s some concerning that area of their jurisdiction, but I would say it’s not a majority.
 
 ### Audrey Tang:
 All what they want to do is to sow discord, so a local topic makes more sense to do so. For example, this one is disinformation about Dr. Tsai Ing-wen and a dialog with, allegedly, a small vendor from a…
@@ -463,7 +463,7 @@ Fake news is?
 假新聞, which would also describe a fake journalist, fake journalism. Journalism, by definition, is the opposition of fake because it’s a process to determine reality, if not truth, but at least reality from different perspectives.
 
 ### Audrey Tang:
-By combining these two together, in Mandarin, it is a affront to journalists. Because my parents were both journalists, out of filial piety, I cannot say that word.
+By combining these two together, in Mandarin, it is an affront to journalists. Because my parents were both journalists, out of filial piety, I cannot say that word.
 
 ### Interviewer:
 It’s disinformation then?
@@ -711,7 +711,7 @@ Yeah.
 Yeah. Of all the cases that we work with directly, almost 60 cases now, half of which resulted in decisive regulatory or policy change. The other half get maybe something different. But I would say, not necessarily what’s…
 
 ### Audrey Tang:
-For example, there was one petition – wow, nice number – 8,000 people strong that says Taiwan should change the time zone to GMT+9 for some reason. Then there’s a equally strong petition, also 8,000 people strong, that says we should remain in GMT+8, without changing to GMT+9. Obviously, you cannot please both petition subjects.
+For example, there was one petition – wow, nice number – 8,000 people strong that says Taiwan should change the time zone to GMT+9 for some reason. Then there’s an equally strong petition, also 8,000 people strong, that says we should remain in GMT+8, without changing to GMT+9. Obviously, you cannot please both petition subjects.
 
 ### Interviewer:
 For example, also as it comes to China, I’ve seen several petitions, for example, ones who are saying we want to have a counter-propaganda department against China, and who like…

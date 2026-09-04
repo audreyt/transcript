@@ -34,7 +34,7 @@ In this sense, I work for everybody, including the private sector and also the C
 What does exactly mean, &quot;open software,&quot; and what does it mean applied to all this?
 
 ### Audrey Tang:
-A open source software or free software means a attitude when developing software. Normally people who write software like writers enjoy copyright, meaning that when other people try to copy or adapt our work, we can sue them, saying, &quot;OK, you have infringed my copyright.&quot;
+A open source software or free software means an attitude when developing software. Normally people who write software like writers enjoy copyright, meaning that when other people try to copy or adapt our work, we can sue them, saying, &quot;OK, you have infringed my copyright.&quot;
 
 ### Audrey Tang:
 In open source or free software, we believe that software is better when everybody develop them together. When many people want to develop together, by necessity, just like in Wikipedia, they give up some part of their copyright, saying that, &quot;As long you give me credit or as you long share it in the same way, I will agree not to sue you.&quot;
@@ -46,7 +46,7 @@ This idea of a partial giving up of copyright is the foundation of the collabora
 In politics, this is what we mean by collaboration or crowdsourcing. It means that we open up the policymaking process so everybody can see how it’s cooking. People who never met us before can show up and say, &quot;Hey, I want this change because I have this very good reason,&quot; and so on.
 
 ### Audrey Tang:
-The idea is that it enables citizens or even foreign people who look at the policymaking process to give useful contributions without having a agreement or a collaboration contract beforehand. I can just meet strangers. Those strangers then become collaborators by giving useful suggestions.
+The idea is that it enables citizens or even foreign people who look at the policymaking process to give useful contributions without having an agreement or a collaboration contract beforehand. I can just meet strangers. Those strangers then become collaborators by giving useful suggestions.
 
 ### Carfagna Barbara:
 How is your influence on the other ministers and ministries? How is the process of your hacking the system?
@@ -96,7 +96,7 @@ It is essential that we forward something to the citizen to inspect, to audit, t
 This is how trust can grow between the public servants and the public in general because every side trusts the other side to treat carefully the messages sent and also give useful response and then go back and so on.
 
 ### Audrey Tang:
-I would not say any particular direction is more important than the other. What is important is a iteration, a loop, between the public servants and the public.
+I would not say any particular direction is more important than the other. What is important is an iteration, a loop, between the public servants and the public.
 
 ### Carfagna Barbara:
 Don’t you think that in the majority of the digital societies and digitalizing government the question is about it regulated the society and not so democratic? Sort of totally opposite vision, opposite realizing of the previous vision of Internet.
@@ -105,7 +105,7 @@ Don’t you think that in the majority of the digital societies and digitalizing
 I think this is because algorithm, meaning how the computers work, it is like law in the sense that it is written by people. Unlike law, it is not interpreted by people. In law, we have the judges, the legislators, the executive people interpreting how each law and regulation apply to a new social condition. For code, for algorithms, the computer enforce its design by itself.
 
 ### Audrey Tang:
-You create a disparity, a imbalance, because always the regulation needs a careful consideration from the human beings. The existing code already runs very fast and without any deliberation really at all with the society. That is what they call disruptive innovation.
+You create a disparity, an imbalance, because always the regulation needs a careful consideration from the human beings. The existing code already runs very fast and without any deliberation really at all with the society. That is what they call disruptive innovation.
 
 ### Audrey Tang:
 Our work is what we call regulation technology. We use the technology not just for disruptive innovation but also for transforming the governance process itself so that we can offload as many as possible of the repetitive work into autonomous agents, into AI, into other efforts, so that we can catch up as quickly as the new technologies come.
@@ -165,7 +165,7 @@ What do you think about blockchain? Is it a danger for democracy or is it really
 Blockchain technology and also distributed ledger and distributed consensus, it is a new protocol, a new way for people and machines to work with each other. Like any other protocol, like the Internet is built on the Internet Protocol, this is why we call this IP address, because it’s an Internet Protocol address.
 
 ### Audrey Tang:
-Internet Protocol can be used for democracy, for federating, for a lot of freedoms to protect speech, but the same protocol can also be shaped to build a great firewall, to build a intranet to monitor, to survey everybody’s every keystroke, every movement to profile them.
+Internet Protocol can be used for democracy, for federating, for a lot of freedoms to protect speech, but the same protocol can also be shaped to build a great firewall, to build an intranet to monitor, to survey everybody’s every keystroke, every movement to profile them.
 
 ### Audrey Tang:
 The protocol, itself, is not good or bad. It is just a new way to more efficiently, more conveniently let people communicate with each other. It is up to us, the humans to determine the values that we want to embed into the technology.
@@ -216,7 +216,7 @@ What do you think about direct democracy? The one that Birgitta Jónsdottir want
 You believe more in a representative system, of course because you’re in ministry, or you think that we will pass to a third one?
 
 ### Audrey Tang:
-I’m a appointee, so I’m not elected. I don’t think I’m representing any particular constituent. I’m only representing myself in a sense.
+I’m an appointee, so I’m not elected. I don’t think I’m representing any particular constituent. I’m only representing myself in a sense.
 
 ### Audrey Tang:
 For direct democracy, I think the consensus now is if it’s a very small city or a town, it’s very easy to practice direct democracy, because everybody knows everybody, or at least have heard of everybody. When the scale becomes large, when the population becomes 10s of millions, 100s of millions, it becomes much harder for everybody’s voice to be heard in a fair fashion.
@@ -243,7 +243,7 @@ In Taiwan, what we believe is Internet as a human right, meaning that everybody 
 Why this is important is the digital technology tend to divide people to the haves and have nots. If we molded our basic K-12 education so that every school children learns how to have media literacy, how to do critical thinking with the help of Internet and communication technologies, that we can make sure that this class divide actually shortens instead of widens as time goes on.
 
 ### Audrey Tang:
-This depends on affordable access to the computation equipment, and also broadband Internet every point in Taiwan. This is what we firmly believe in. I think this is one of the things that the government in its current form has a obligation to do. If it does not intervene, then of course, the society will tend to split.
+This depends on affordable access to the computation equipment, and also broadband Internet every point in Taiwan. This is what we firmly believe in. I think this is one of the things that the government in its current form has an obligation to do. If it does not intervene, then of course, the society will tend to split.
 
 ### Carfagna Barbara:
 How did you convince the government to have this role? If you convince or did they ask you, and they were not scared about you influencing the other ministry?
@@ -282,7 +282,7 @@ He said he doesn’t care. He doesn’t want to keep it, net neutrality.
 I think net neutrality is very interesting, in the sense that different people on the different part of the value chain tends to think of it either as a liberating force or a constricting force, depending on whethere you work on: the content layer, the transmission layer, or in some other layers.
 
 ### Audrey Tang:
-I think this is a natural thing that, during the digital convergence, different interested parties will take different stands on net neutrality. I think it is very important to have a informed dialogue. But I really don’t know personally about the US government’s stance on this matter.
+I think this is a natural thing that, during the digital convergence, different interested parties will take different stands on net neutrality. I think it is very important to have an informed dialogue. But I really don’t know personally about the US government’s stance on this matter.
 
 ### Carfagna Barbara:
 Also, because we don’t know if these are fake news, \[laughs\] everything that does not say the person. Which is your system of e-petitions? Which is your use of artificial intelligence in politics?

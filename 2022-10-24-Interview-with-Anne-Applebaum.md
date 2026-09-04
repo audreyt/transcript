@@ -40,7 +40,7 @@ For example?
 ### Audrey Tang:
 For example, we have cyberattacks denying the service of our Presidential Office website or Ministry of National Defense website just for half an hour, an hour, whatever. The disinformation campaign says the PRC forces have successfully infiltrated the Presidential Office, or the Minister of National Defense have collapsed central command, and so on.
 
-The public bulletin board in one of the Taiwan rail stations, which is advertisement-only -- it doesn't even display the timetable -- they were able to hack into that and make it display a anti-Pelosi message. The disinformation narrative says the critical infrastructure of the railroad is now under control of the PLA or something.
+The public bulletin board in one of the Taiwan rail stations, which is advertisement-only -- it doesn't even display the timetable -- they were able to hack into that and make it display an anti-Pelosi message. The disinformation narrative says the critical infrastructure of the railroad is now under control of the PLA or something.
 
 This is very similar to how, during the attack to Kyiv, wherever there is a void, a vacuum, where the local Kyiv Independent and other journalists cannot get a message out, you see disinformation that capitalize on this. The appetite for information is there. People will read and spread disinformation.
 
@@ -64,7 +64,7 @@ You mean because the economy's not doing well?
 ### Audrey Tang:
 That's one. Also, they put restrictions, real restrictions, on the freedom to innovate in their Internet sectors. Previously, the narrative was the liberal democracies isn't that liberal at all because the check and balances and so on. Only in the sandboxes offered by the authoritarian regimes can the private sector truly grow in a wild way, "野蛮生长." It's one of the One Belt and One Road narratives.
 
-Now, because they clamped down the entire Internet industry sector, that is no longer a argument they can make. Previously, our, as you put it, some of the more excluded or marginal part of society were attracted around 2014ish to that narrative. That's the background of the Sunflower Movement. Nowadays, they cannot even make that narrative work very well.
+Now, because they clamped down the entire Internet industry sector, that is no longer an argument they can make. Previously, our, as you put it, some of the more excluded or marginal part of society were attracted around 2014ish to that narrative. That's the background of the Sunflower Movement. Nowadays, they cannot even make that narrative work very well.
 
 The same goes for the pandemic control, which was a dominant narrative 2020, '21. Again, nowadays, they cannot make that argument very well. I think we're helped by the fact that our counter-pandemic or counter-infodemic efforts were inclusive by nature.
 
@@ -122,7 +122,7 @@ Exactly.
 How do you think about building an international coalition? Should there be one? There isn't right now.
 
 ### Audrey Tang:
-There is. There's this Joint Declaration for the Future of the Internet and so on, which is very good to Taiwan because .TW is an independent domain, we're not .CN or .UK. On the Internet digital realm, we have a full voice, not just a observer or something, because it's not the Westphalian territorial model. It is multistakeholderism, not simply multilateralism.
+There is. There's this Joint Declaration for the Future of the Internet and so on, which is very good to Taiwan because .TW is an independent domain, we're not .CN or .UK. On the Internet digital realm, we have a full voice, not just an observer or something, because it's not the Westphalian territorial model. It is multistakeholderism, not simply multilateralism.
 
 In the multistakeholder sense, for example, I often say, in countering the pandemic, if the people in the U.K., for example, think Taiwan is too different, then maybe call it the New Zealand model. Call it by any name.
 
@@ -160,7 +160,7 @@ Again, whether you identify as Democrat or Republican, everybody understand that
 Where else have you used pol.is? I know the taxi driver example you told us ...
 
 ### Audrey Tang:
-For example, we also use that to have a conversation about e-scoters. It's all very practical like whether e-scooters can be as bikes or as pedestrian or things like that and to very good effect. We have now multiple paddle sites and a upcoming ...
+For example, we also use that to have a conversation about e-scoters. It's all very practical like whether e-scooters can be as bikes or as pedestrian or things like that and to very good effect. We have now multiple paddle sites and an upcoming ...
 
 The law change already happens, so it would just have to put it into effect. Also online liquor sales, like non-consensual intimate images online. Airbnb, quite a few, like 25 legislations on the original platform. It is also being used for something this suddenly known digital.
 
@@ -307,7 +307,7 @@ The Diia, they did that.
 Yes.
 
 ### Audrey Tang:
-They integrated multiple photo ID forms into that app just like our National Health Express insurance app. They turned something that was just a ID into a full participation platform because they first authenticate everybody through Diia.
+They integrated multiple photo ID forms into that app just like our National Health Express insurance app. They turned something that was just an ID into a full participation platform because they first authenticate everybody through Diia.
 
 ### Anne Applebaum:
 Yes. Did you talk to them about that?
@@ -446,7 +446,7 @@ Yeah, the Taiwanese social sector, which is non-partisan.
 For example, the Uzbek social sector also objects to the way Facebook works sometimes, but apparently they don't seem to have the same purchase, or the  ...
 
 ### Audrey Tang:
-Exactly, and that's because the social sector, as I mentioned, has a higher legitimacy than even the public sector when they occupy the control unit, or when we occupy the legislative [laughs] , again totally peacefully, non-violently. What we did was demonstrating that it was radical transparency, that current public service can also benefit by reducing their risk.
+Exactly, and that's because the social sector, as I mentioned, has a higher legitimacy than even the public sector when they occupy the control unit, or when we occupy the legislative [laughs], again totally peacefully, non-violently. What we did was demonstrating that it was radical transparency, that current public service can also benefit by reducing their risk.
 
 We built a camaraderie with National Development Council [laughs] in 2014. He was the person in charge of open-data policy.
 
@@ -490,7 +490,7 @@ Comparatively, we're gaining ground in mindshare. The liberal democracy might ha
 
 Previously, we had this inkling from people who likes "one belt and one road," maybe they would say autocracies can coexist, and eventually take over. We don't hear that anymore after the pandemic. Yes, we will, of course, work with liberal democracy around the world. We have programs called Public Code that let us freely reuse, for example, the Estonian system X-Road.
 
-We also contribute our cybersecurity defense interplanetary file system, where three into the comments. The DI team, or any team, can freely reuse that. All of our cybersecurity penetration testing efforts have a amplifying effect because we can also ...
+We also contribute our cybersecurity defense interplanetary file system, where three into the comments. The DI team, or any team, can freely reuse that. All of our cybersecurity penetration testing efforts have an amplifying effect because we can also ...
 
 When we find out potential vulnerabilities in pol.is and fix that, the Canadians also benefit. When Canadians contribute their French conversation and translation for the multi-language support points, we also benefit, and so on.
 
@@ -644,7 +644,7 @@ Yes.
 Do you think about those audiences and how to reach them, or is that not your job?
 
 ### Audrey Tang:
-That's not my job. My job is to make the infrastructure for collaborative diversity work in a secure way. That in itself is a existential proof that this way counters disinformation better, counters pandemic better, and so on.
+That's not my job. My job is to make the infrastructure for collaborative diversity work in a secure way. That in itself is an existential proof that this way counters disinformation better, counters pandemic better, and so on.
 
 ### Anne Applebaum:
 Is there anyone in Taiwan who thinks along that way, or not?
@@ -728,7 +728,7 @@ The Hong Kong dissidents here, how did they fit into your argument or your plan?
 ### Audrey Tang:
 Yes, of course. There's a bookstore called Nowhere, in Ximending. If you find time, you can go there. It's a natural gathering place for Hong Kong people here. A lot of them are very into this whole web3 Blockchain thing -- immutable, facilitating independent-media stuff.
 
-They have to operate on a governing experience outside of a territorial place now. They joined the ranks of other decentralized, autonomous organizations, and can actually contribute to a lot of the same tools. It will be a interesting visit to Nowhere if you can find time.
+They have to operate on a governing experience outside of a territorial place now. They joined the ranks of other decentralized, autonomous organizations, and can actually contribute to a lot of the same tools. It will be an interesting visit to Nowhere if you can find time.
 
 ### Anne Applebaum:
 I might even be going there. I know I'm meeting several Hong Kong people while I'm here.

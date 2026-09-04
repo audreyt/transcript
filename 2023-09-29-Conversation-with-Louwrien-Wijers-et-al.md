@@ -324,7 +324,7 @@ If it is cash, how can they track you? Or are we talking about Worldcoin?
 
 ### Hilde Latour:
 
-Yes. Well, a Worldcoin is a perfect example. And yes, I know you are aware that in the definition of basic income, we have cash just to protect the freedom at the spending end. But if we move to the digital world, is there a is there a possibility that we can use digital money and at the same time protect the people from this data theft?
+Yes. Well, a Worldcoin is a perfect example. And yes, I know you are aware that in the definition of basic income, we have cash just to protect the freedom at the spending end. But if we move to the digital world, is there a possibility that we can use digital money and at the same time protect the people from this data theft?
 
 ### Audrey Tang:
 

@@ -215,7 +215,7 @@ One of the reason why we have a vibrant social sector, used to be called third s
 Indeed, the CIVICUS Monitor shows each violation of the freedom of assembly, or overconcentration of privileges into the administration and each time it happens, that jurisdiction decrease score and finally becomes red. Taiwan is alone in our region. Japan is doing OK, but everybody else is obstructed, repressed, or closed.
 
 ### Audrey Tang:
-If you have a obstructed or oppressed civil society, there is no point of asking anybody anything, right? Because they’re just going to say whatever the administration want them to say, because if they say the opposite, they risk disappearance.
+If you have an obstructed or oppressed civil society, there is no point of asking anybody anything, right? Because they’re just going to say whatever the administration want them to say, because if they say the opposite, they risk disappearance.
 
 ### Audrey Tang:
 This is a real issue in our nearby jurisdictions. So because of that, our civil society always think, and sometimes rightly so, that they know more, and is more legitimate than the public sector. That is the first condition of this way of working, is by the civil society assuming that they have more legitimacy, so that’s the first one.
@@ -254,7 +254,7 @@ Personally.
 Personally, I dropped out of junior high school when I was 14. At that time, I drop out not because my principal didn’t like me, rather it’s because the principal really liked me. I participated in the science fair, got a first place and so on, by doing research online and that was the first serious community that I participated, it’s still around. It’s called archive.org.
 
 ### Audrey Tang:
-Some of you may have visited or one of their sibling websites such as socialarchive.org, and so on. archive.org maintained now by the Cornell University, is like Reddit. It’s like a Internet forum, but instead of the Reddit boards, these are the sciences and applied sciences of each and every preprint. Preprint meaning that the researchers publish to this place for peer review, even before they publish to the journal.
+Some of you may have visited or one of their sibling websites such as socialarchive.org, and so on. archive.org maintained now by the Cornell University, is like Reddit. It’s like an Internet forum, but instead of the Reddit boards, these are the sciences and applied sciences of each and every preprint. Preprint meaning that the researchers publish to this place for peer review, even before they publish to the journal.
 
 ### Audrey Tang:
 The preprint archive is literally the cutting edge of research in these domains. Even after becoming the digital minister, I also publish our work on WeTaiwan and so on to the social archive as a contribution back to the community that I belonged to in 1994.
@@ -391,7 +391,7 @@ We’re the first in Asia, important qualifier.
 Marriage equality is just a milestone in a very long process that started in 2007 in the public sector in Taiwan. The year 2007 is the foundational year of a new regulatory regimen called the Impact Assessment Co Creation for Gender Mainstreaming.
 
 ### Audrey Tang:
-As part of it, we set up the Gender Equality Council, I think, \[non English speech\] , which is designed, as I just mentioned, to have a majority of social sector leaders and a minority of government ministers in this council. It means that, as CSO leaders, if they are of one mind, always wins over the public sector. This is a deliberate design.
+As part of it, we set up the Gender Equality Council, I think, \[non English speech\], which is designed, as I just mentioned, to have a majority of social sector leaders and a minority of government ministers in this council. It means that, as CSO leaders, if they are of one mind, always wins over the public sector. This is a deliberate design.
 
 ### Audrey Tang:
 This council reviews, every year, 200 or so government projects and 20 or so government bills with no exception. Each draft of project or draft bill from the Executive Yuan must go through the measurements of inequality self assessment form and for the civil society leaders to do an independent audit of whether it’s true or not.
@@ -681,7 +681,7 @@ That’s right.
 There’s elections in a number of our countries, including mine next month, where these issues of information, and what is true and what is not, are big issues. In Taiwan, what have you seen, in terms of the trends regarding fake news and misinformation? Are they the same trends that are applicable to other countries in the West?
 
 ### Audrey Tang:
-In Taiwan news and journalism translate to the same Mandarin word, \[non English speech\] , so \[non English speech\], but also \[non English speech\]. News and journalism is the same translation, which is why I never use the F word that you just used, which also in Mandarin sounds like a front to journalists. Out of filial piety, I cannot use that word. Feel free to continue using that.
+In Taiwan news and journalism translate to the same Mandarin word, \[non English speech\], so \[non English speech\], but also \[non English speech\]. News and journalism is the same translation, which is why I never use the F word that you just used, which also in Mandarin sounds like a front to journalists. Out of filial piety, I cannot use that word. Feel free to continue using that.
 
 ### Audrey Tang:
 In any case, what we’re now seeing, in terms of information on manipulation, is indeed very applicable to other countries as well. This slide, actually, I shared first, in Bangkok, in Thailand. In Thailand, the PBS, the Public Broadcasting System, and indeed, their entire public sector, is now forced to choose between going to the Singaporean model or the Taiwan model.

@@ -82,13 +82,13 @@ In Taiwan representative democracy’s a new overly, but people take a lot of co
 Which is why many people, what we call the civic hackers in Taiwan, are at once technologists, but also people working on democracy, because in Taiwan there’s no 200 years of democratic, republican, or federal tradition. For us it’s all the very same generation that gets to experiment with all these things.
 
 ### Audrey Tang:
-I formally began working in politics at end of 2014 as a advisor to the cabinet, at that time because of the Sunflower Occupy. Many people saw that over the course of three weeks it’s possible to use Internet to mediate half a million people on the street and many more online so that people gradually converge on consensus without the need of using traditional representative mechanisms, and which were on strike, anyway, because the MPs were refusing to deliberate the service and trade agreement.
+I formally began working in politics at end of 2014 as an advisor to the cabinet, at that time because of the Sunflower Occupy. Many people saw that over the course of three weeks it’s possible to use Internet to mediate half a million people on the street and many more online so that people gradually converge on consensus without the need of using traditional representative mechanisms, and which were on strike, anyway, because the MPs were refusing to deliberate the service and trade agreement.
 
 ### Audrey Tang:
 People occupied the parliament and doing without the overlaid representative democracy, but actually going back to the communal participative democracy. It actually worked and delivered a pretty good set of consensus.
 
 ### Audrey Tang:
-Many ministries at the end of that year really wanted to learn how to harness this kind of potential, as offered by Internet based participation. We built quite a few systems together. I was a understudy minister, kind of a reverse mentor to the minister Jaclyn Tsai, the Minister without Portfolio in charge of cyberspace law.
+Many ministries at the end of that year really wanted to learn how to harness this kind of potential, as offered by Internet based participation. We built quite a few systems together. I was an understudy minister, kind of a reverse mentor to the minister Jaclyn Tsai, the Minister without Portfolio in charge of cyberspace law.
 
 ### Audrey Tang:
 That continued for a couple of years, and then I became the Digital Minister, no longer understudy, but still running pretty much exactly the same thing as I started participating at the end of 2014. That’s the six minute version.
@@ -117,7 +117,7 @@ It means that the process, itself, is in the commons. Everybody can amend the De
 > (laughter)
 
 ### Audrey Tang:
-It gives the constitution a life, in the sense that it stays relevant to everybody who participates in the Debian community. Even if no Debian developer would dedicate 100 percent of their time on the democratic process, I would say that on average they’re much more aware of a democratic process that is powering the community than a average citizen in any democratic community. That’s the first difference, I would say, of this transnational idea.
+It gives the constitution a life, in the sense that it stays relevant to everybody who participates in the Debian community. Even if no Debian developer would dedicate 100 percent of their time on the democratic process, I would say that on average they’re much more aware of a democratic process that is powering the community than an average citizen in any democratic community. That’s the first difference, I would say, of this transnational idea.
 
 ### Audrey Tang:
 The second thing is that we see a lot of democracy bookkeeping as something that could be automated. Anything that doesn’t interfere with the judgment process, that doesn’t require a value judgment, basically, could potentially be automated. A lot of voting systems and a lot of opinion systems, a HackNotice notification, and things like that.
@@ -159,7 +159,7 @@ Usually when we utilize mobile technologies we make sure that we use it only in 
 We actually don’t use mobile technologies to replace the face to face talking about or this one on one Skype session that we explicitly use a desktop form factor to make sure that we’re talking at each other with better attunement than those slice of conversation. I would distinguish between two, not really polar, but connected sides. One is the outrage part, and the second is the deliberation part.
 
 ### Audrey Tang:
-There’s a psychological phenomenon called the empathy gap, meaning that if one is outraged it’s very hard to empathize a calm person, and vice versa. If you are very calm it’s very hard to empathize with a outraged person.
+There’s a psychological phenomenon called the empathy gap, meaning that if one is outraged it’s very hard to empathize a calm person, and vice versa. If you are very calm it’s very hard to empathize with an outraged person.
 
 ### Audrey Tang:
 There’s both of these in all of us. What’s important is that we design the engagement principles so that we don’t confuse or mix those two modalities too much together.
@@ -228,7 +228,7 @@ The point you made about automation’s really interesting because most people v
 I’m wondering if we could talk a little bit about how this is ideological in a sense of being more than just tools, but also showing people that they can have democratic control over technologies and its use.
 
 ### Audrey Tang:
-For example, when I see AI I always pronounce it assistive intelligence. It is a ideological choice of words, because AI, unlike deep learning or whatever that has a fine scientific definition, AI is really anything that the humans choose not to do and the machines somehow does it, right?
+For example, when I see AI I always pronounce it assistive intelligence. It is an ideological choice of words, because AI, unlike deep learning or whatever that has a fine scientific definition, AI is really anything that the humans choose not to do and the machines somehow does it, right?
 
 > (laughter)
 
@@ -236,7 +236,7 @@ For example, when I see AI I always pronounce it assistive intelligence. It is a
 It doesn’t prescribe anything. It doesn’t even have to be a computer. It could be any assistive intelligence. It could be animal intelligence. What I mean is that if we look at an assistive intelligence kind of view, it’s less threatening, just as in personal computer.
 
 ### Audrey Tang:
-When the first personal computers were being forged, the IBM PC clones, or prior to that Apple II, or whatever, it promised the idea of a maker or a tinkering spirit in a sense that if you don’t like what your computer does there’s always a easy way for you to find some neighbor kid who hack the computer until the computer does things that you personally find more gratifying.
+When the first personal computers were being forged, the IBM PC clones, or prior to that Apple II, or whatever, it promised the idea of a maker or a tinkering spirit in a sense that if you don’t like what your computer does there’s always an easy way for you to find some neighbor kid who hack the computer until the computer does things that you personally find more gratifying.
 
 ### Audrey Tang:
 That’s what personal computing means. Prior to personal computing it means a terminal, which is just a screen and a keyboard, or a Teletype and a keyboard, that connects to a mainframe and have all the programs being determined or predetermined by the programmers in the mainframe.
@@ -287,7 +287,7 @@ That’s really the most substantially creative thing that I can imagine, becaus
 We can do that because we have a firm understanding of what each stakeholder in the co op, or in the Social Innovation Lab, or whatever, what their real interests are, and where the tools are there to speed up some chores, or whether it’s there to capture some moments to make remote conversations possible.
 
 ### Audrey Tang:
-To take a actual GovTech example, starting this year Taiwan is doing a regional revitalization plan where we identified a hundred or so counties that have a shrinking brain drain or aging population. We encouraged people who work in the national government to relocate back to their hometown, basically, and telework.
+To take an actual GovTech example, starting this year Taiwan is doing a regional revitalization plan where we identified a hundred or so counties that have a shrinking brain drain or aging population. We encouraged people who work in the national government to relocate back to their hometown, basically, and telework.
 
 ### Audrey Tang:
 Because I entered the cabinet with a teleworking working condition, with such a simple thing as telework, where you have to do a lot of service design to look at the everyday work of paper pushing in any workplace, government being one, and to make them amicable to remote work, but once you do that, everything gets digitized automatically.
@@ -605,13 +605,13 @@ It is something that is like the Usenet and the &quot;summer that never ends&quo
 For a lot of people that I’m working with, especially school children because we’re teaching media literacy, AI, and whatever in K to 12 now, what we found is that what they are looking at is to make meaningful interpersonal connections.
 
 ### Audrey Tang:
-If they want, for example, a Arduino or a Raspberry Pi project to make useful interpersonal connections, like showing their families how many steps they are from the phone, \[laughs\] so that they can predict where they go home, there’s much more motivation to look under the hood and to view source on even the apps or on any technologies that’s between them and the kind of interpersonal relationship that they are keen to do.
+If they want, for example, an Arduino or a Raspberry Pi project to make useful interpersonal connections, like showing their families how many steps they are from the phone, \[laughs\] so that they can predict where they go home, there’s much more motivation to look under the hood and to view source on even the apps or on any technologies that’s between them and the kind of interpersonal relationship that they are keen to do.
 
 ### Audrey Tang:
 Otherwise, I would agree that it’s now much easier to browse through the scratch projects without modifying any of those scratch projects from people in kindergarten and so on. Certainly, I don’t think it’s a bad thing. I think it’s just a phase.
 
 ### Audrey Tang:
-If you immerse yourself in the Wikipedia community for a couple years without editing one single article, that still prepares you better \[laughs\] to become an eventual editor. To have a community that lasts longer than a average lifetime of engagement, I think that’s the important thing, which is why sustainable is the keyword of the SDGs.
+If you immerse yourself in the Wikipedia community for a couple years without editing one single article, that still prepares you better \[laughs\] to become an eventual editor. To have a community that lasts longer than an average lifetime of engagement, I think that’s the important thing, which is why sustainable is the keyword of the SDGs.
 
 ### Peter Bloom:
 I think that also touches on another of the mobile aspects that we really are interested...it’d be good to also follow up some of this conversation. There’s so many aspects of the work that you’re doing and others are doing.

@@ -84,7 +84,7 @@ On the other hand, where were we also concerned about the Azure space how to mai
 > (visitor speaks)
 
 ### 王誠明：
-Actually my question is not about the service. Today I see some information, since the SpaceX launched, they announced they were launched 12000 satellites. And the other countries also want to launch their satellites. I wonder if if you will launch your Microsoft satellites?
+Actually my question is not about the service. Today I see some information, since the SpaceX launched, they announced they were launched 12000 satellites. And the other countries also want to launch their satellites. I wonder if you will launch your Microsoft satellites?
 
 > (visitor speaks)
 

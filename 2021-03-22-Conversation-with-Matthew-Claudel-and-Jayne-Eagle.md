@@ -214,7 +214,7 @@ What opportunities does that open up, both socially in terms of social and cultu
 These are some of the things that are pulling right now. I don’t know if there’s anything that you’re doing or working on that would…?
 
 ### Audrey Tang:
-Yes. We do have a indigenous section in the open government’s National Action Plan, and in our bilateral, with say, New Zealand, the ANZTEC, the Taiwan New Zealand’s relationship has a separate track of indigenous to indigenous relationships, and moderated by either’s governments. It’s very much a pluri national pact, whatever that means. \[laughs\]
+Yes. We do have an indigenous section in the open government’s National Action Plan, and in our bilateral, with say, New Zealand, the ANZTEC, the Taiwan New Zealand’s relationship has a separate track of indigenous to indigenous relationships, and moderated by either’s governments. It’s very much a pluri national pact, whatever that means. \[laughs\]
 
 ### Audrey Tang:
 I hear that with our counterpart in Canada, that Taiwan Indigenous to Canadian Indigenous relationship probably need to follow the same way that we did with the Maori people in New Zealand instead of previously through the Canadian federal governments.
@@ -376,7 +376,7 @@ Long story short, this is about a civil society still have the ultimate say, but
 For example, we now have 42 percent of state legislators of women, and that’s measured. We have a pretty good Equal Pay Day, of course, through improving, but we have a pretty not so good story in graduates and STEM as currently just short of one quarter women.
 
 ### Audrey Tang:
-Then we make it a focus and yours truly make this clipped access, \[laughs\] computer has never asked about my gender in response to this question about, “Isn’t cybersecurity mostly for boys,” and so on. This is a intentional work by the career public service, but still, with stewardship and ultimately saved by the civil society.
+Then we make it a focus and yours truly make this clipped access, \[laughs\] computer has never asked about my gender in response to this question about, “Isn’t cybersecurity mostly for boys,” and so on. This is an intentional work by the career public service, but still, with stewardship and ultimately saved by the civil society.
 
 ### Matthew Claudel:
 Yeah, which speaks to the replication problem: enabling substantive change across different agencies and departments in government and across countries.
@@ -388,7 +388,7 @@ I’m curious, in the case that you spin up something like the mask searching ap
 There is more than 100 different implementations, all connecting to the same open API. Though, this is like asking who is responsible for making Ethereum or Bitcoin work? Of course, everyone is responsible. If they are not responsible, there’s 99 choices. \[laughs\] People would choose something else, I guess.
 
 ### Audrey Tang:
-There’s a friendly competition going on. Of course, there’s also a lot of open source infrastructure being built to make new applications easier. The thing we want to convey is that if your average primary school or who just know a little bit of JavaScript in a afternoon’s work, you can also tailor make your own distribution map.
+There’s a friendly competition going on. Of course, there’s also a lot of open source infrastructure being built to make new applications easier. The thing we want to convey is that if your average primary school or who just know a little bit of JavaScript in an afternoon’s work, you can also tailor make your own distribution map.
 
 ### Audrey Tang:
 This is like tap water stuff. Of course, the quality of the data is co governed. For example, in the beginning, when we update every 30 seconds, we were quite happy because it looks like the pharmacy distribution completely agrees with the population distribution.
@@ -534,7 +534,7 @@ That’s exciting.
 Oh my gosh, yes.
 
 ### Matthew Claudel:
-It’s both mutual accountability but also political cover. Something you were saying before was if if someone does it somewhere in a small way, then you can say “they did it there” and create a political cover in a useful way.
+It’s both mutual accountability but also political cover. Something you were saying before was if someone does it somewhere in a small way, then you can say “they did it there” and create a political cover in a useful way.
 
 ### Matthew Claudel:
 I wonder if that’s part of the, let’s say, shadow agenda around some of these bilateral agreements.

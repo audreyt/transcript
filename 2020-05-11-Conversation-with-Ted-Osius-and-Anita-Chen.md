@@ -185,7 +185,7 @@ That’s right.
 The first in Asia. I was Ambassador to Vietnam. At that time, I thought maybe Vietnam would be the first, but you’re the first.
 
 ### Audrey Tang:
-Or Thailand, but we’re the first. We got ahead because we work in a way that connects intergenerational solidarity, because we introduced a truly innovative model that I call \[non-English speech\] , or we marry the bylaws, but not the in-laws.
+Or Thailand, but we’re the first. We got ahead because we work in a way that connects intergenerational solidarity, because we introduced a truly innovative model that I call \[non-English speech\], or we marry the bylaws, but not the in-laws.
 
 > (laughter)
 
@@ -211,7 +211,7 @@ Very soon, we will also roll out in our residence certificates as well, so that 
 That’s fantastic. Congratulations. It’s been really interesting for us to see how committed President Tsai is to a digital economy, making your services available digitally, digital education. It’s, again, a model for much of the region. You have played not a small role in that whole process.
 
 ### Audrey Tang:
-Mostly as a inspiration, I guess. \[laughs\] I’ve seen my name being used in Japan or in South Korea, but it doesn’t really sound like me or seem like me. It seems like they’re using a model of me to inspire their cabinet members. I’m fine with that remix, Creative Commons and all. \[laughs\] It doesn’t really seem like myself.
+Mostly as an inspiration, I guess. \[laughs\] I’ve seen my name being used in Japan or in South Korea, but it doesn’t really sound like me or seem like me. It seems like they’re using a model of me to inspire their cabinet members. I’m fine with that remix, Creative Commons and all. \[laughs\] It doesn’t really seem like myself.
 
 ### Ted Osius:
 As long as you’re associated with something you believe in and care about, then it’s OK.
@@ -286,7 +286,7 @@ I was just going to add a little bit about digital transformation SMB. This is s
 That’s right.
 
 ### Anita Chen:
-Like Audrey said, they are particularly vulnerable to a economic downturn like this. We’re talking about how we’re going to use Google products and services to help them, and also provide them with the tools. Digital transformation, that is actually a topic that we actually have been working on even before COVID.
+Like Audrey said, they are particularly vulnerable to an economic downturn like this. We’re talking about how we’re going to use Google products and services to help them, and also provide them with the tools. Digital transformation, that is actually a topic that we actually have been working on even before COVID.
 
 ### Audrey Tang:
 That’s right.

@@ -4,7 +4,7 @@
 Just so you can see, we have five long form interviews per issue. We publish every quarter. We’ve been around for about 13 years, and our tagline and our purpose is to have conversations with extraordinary people.
 
 ### Mele-Ane Havea:
-For us, extraordinary means people who are contributing to their community, who are living with passion and purpose, people who are, I suppose, change makers for ones of a better word. We really talk to them about who they are, what they do, how they’ve come to be where they are, and what motivates them and their story.
+For us, extraordinary means people who are contributing to their community, who are living with passion and purpose, people who are, I suppose, change makers for want of a better word. We really talk to them about who they are, what they do, how they’ve come to be where they are, and what motivates them and their story.
 
 ### Mele-Ane Havea:
 That’s what I hope to do with you here today. It’s a very free flowing conversation. I record it as you can see.
@@ -43,7 +43,7 @@ Without a ministry. You do have a physical office, very nice, really. Can you ta
 We are in Taiwan. Taiwan is an island that’s been around for four million years. It’s at the intersection of two plates on earth, and we’re raising five centimeters every year here, which is why there are so many earthquakes.
 
 ### Audrey Tang:
-Taiwan was around for a very long time before human beings, giving rise to a very diverse ecology. Also, the oldest people who live in Taiwan are now widely considered to be the origins of all the indigenous people in the Pacific Ocean of the people who traveled from here, the various different sea-bearing tribes, to all the different islands, Pacific Islands.
+Taiwan was around for a very long time before human beings, giving rise to a very diverse ecology. Also, the oldest people who live in Taiwan are now widely considered to be the origins of all the indigenous people in the Pacific Ocean of the people who traveled from here, the various different seafaring tribes, to all the different islands, Pacific Islands.
 
 ### Mele-Ane Havea:
 Which, by the way, is where I’m from.
@@ -507,7 +507,7 @@ Also, one of my first VR experiences was to wear the headset, and to look at the
 From space, it’s a good feeling, which is why many people came to space and go back a better person, because they could feel that it were one fragile blue dot here. Through virtual reality, it’s much easier to get into the same perspective, not just on the planet, but also on a certain region or so on.
 
 ### Audrey Tang:
-I do think virtual reality really helps. That’s one of the technologies. The other one, I think, is really high-resolution, like 4K and 3D video conferencing. Through Skype or the previous generation of silicone High-Definition video, we lose a lot subtle signals, what we call micro expressions, like where the eyes are looking at, the gaze and things like that.
+I do think virtual reality really helps. That’s one of the technologies. The other one, I think, is really high-resolution, like 4K and 3D video conferencing. Through Skype or the previous generation of silicon High-Definition video, we lose a lot subtle signals, what we call micro expressions, like where the eyes are looking at, the gaze and things like that.
 
 ### Audrey Tang:
 It’s very difficult to reconstruct that from a piece of glass, no matter how dense is the pixel. We can actually improve on that, which uses a lot of bandwidth, but kept with the sufficient technology, like in the room, one can track where your eyes are looking at, or one of the glasses can know where my eyes are looking at.

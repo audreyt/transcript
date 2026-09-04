@@ -199,7 +199,7 @@ This has a huge number of visitors, of course, and a lot of quality content that
 It is advertisement on every possible keyword. It works really well. What I learned during that AdSense experiment was that the main value is a longer relationship of what is trending.
 
 ### Audrey Tang:
-In that point, a particular Taiwanese follower called me up. It is trending. There is a panda named that and people typing their searches...It’s very new. It’s emergent. Nobody bothered to place a advertisement for that particular word. That place an advertisement on every word \[laughs\] it gets redirected to my dictionary. Then I started learning about...
+In that point, a particular Taiwanese follower called me up. It is trending. There is a panda named that and people typing their searches...It’s very new. It’s emergent. Nobody bothered to place an advertisement for that particular word. That place an advertisement on every word \[laughs\] it gets redirected to my dictionary. Then I started learning about...
 
 ### Ryan Chang:
 You actually got clicks at a very low price because there wasn’t bidding on it, right?
@@ -569,7 +569,7 @@ Like a yes or no.
 Like out of 10, they can borrow. They can...
 
 ### Audrey Tang:
-Exactly. There’s a interesting visualization of QV, which is like a cup. Then it’s like a triangle, and then you dip into it, and the height is the vote that you give, but the volume is the point that you’ve spent.
+Exactly. There’s an interesting visualization of QV, which is like a cup. Then it’s like a triangle, and then you dip into it, and the height is the vote that you give, but the volume is the point that you’ve spent.
 
 ### Audrey Tang:
 That’s one, and three, and five, and seven for each traditional voting, so you’re literally pouring into a champagne cup or something. That gives a nice visualization of filling in the glasses of the creators, and things like that.
@@ -584,7 +584,7 @@ Right. I think things like Patreon shows how much people are willing and interes
 That’s when a creator can announce their pledges. If 10,000 people donate to me and then I agree to make one extra product every week or something like that’s a very familiar arrangement. I must say that with monetization as a protocol should address this.
 
 ### Audrey Tang:
-If a extension allows a way for such creators, it could be used for Patreon, it could be OPENCOLLAB or things like that to hook into this, then you get to learn more about how each of your subscription in the outer web is doing to fund creator’s career. That is another thing that provides social value.
+If an extension allows a way for such creators, it could be used for Patreon, it could be OPENCOLLAB or things like that to hook into this, then you get to learn more about how each of your subscription in the outer web is doing to fund creator’s career. That is another thing that provides social value.
 
 ### Audrey Tang:
 Value exists between two social actors. It doesn’t really exist abstractly on one solo mission. Any attempt to capture value purely on a single user scenario isn’t going to work. If I recognize that my favorite creator is gaining some extra time to draw one more product every week, that provide social value to me.
@@ -686,13 +686,13 @@ I play mostly indie games. I’m not the best person to offer my opinion. \[laug
 A fixed set of rules and I enjoy mostly turn-based games. I spend a lot of time on it but not interactively. I’m the wrong person to ask is what I’m saying. I do agree that if more games is able to build on each other’s successes that would mean a lot.
 
 ### Audrey Tang:
-I have a friend called Rufus Pollock. He wrote &quot;Open Revolution&quot; which is a openly pay-what-you-want book that explains that, just like Spotify. He thinks that both patent and copyright need to be reformed so that it should be freely available but then paid by remuneration rights, which is paid by actual use.
+I have a friend called Rufus Pollock. He wrote &quot;Open Revolution&quot; which is an openly pay-what-you-want book that explains that, just like Spotify. He thinks that both patent and copyright need to be reformed so that it should be freely available but then paid by remuneration rights, which is paid by actual use.
 
 ### Audrey Tang:
 The drug is paid by how many life it actually saves. Music is paid by how many hours it’s actually played and things, basically micropayments through a redistribution. He thinks that it makes new creations easier because it’s not entangled in patents and copyrights.
 
 ### Audrey Tang:
-New creations still gives the royalties implicitly by a fork from your GitHub. Then, if I monetize that, then you would automatically still get a screen credit. This is a interesting model. It currently only has worked in very centralized like Apple Music or Spotify models or in state-owned...
+New creations still gives the royalties implicitly by a fork from your GitHub. Then, if I monetize that, then you would automatically still get a screen credit. This is an interesting model. It currently only has worked in very centralized like Apple Music or Spotify models or in state-owned...
 
 ### Ryan Chang:
 It’s the Spotify model. Looking to the Spotify model to all copyrights.
@@ -860,7 +860,7 @@ Their only loss is probably a loss of referral traffic that they’re...
 That’s right. I’m less worried about Hackernoon is what I’m saying, which is why I’m still on Medium. The blogging community is very flexible and is mostly a social connection anyway.
 
 ### Audrey Tang:
-There is already a backbone of microblogging supporting bloggers \[laughs\] so you can still rediscover the social connections through microblogging, through Twitter or in the early days in Taiwan in \[Taiwanese\] .
+There is already a backbone of microblogging supporting bloggers \[laughs\] so you can still rediscover the social connections through microblogging, through Twitter or in the early days in Taiwan in \[Taiwanese\].
 
 ### Audrey Tang:
 Nowadays, Mastodon has some users now and things like that. Having a microblogging layer to still be a consistent social layer while the underlying platform can change, at the moment it’s working...
@@ -893,7 +893,7 @@ You don’t think there’s...
 Interesting. I’m curious what’s Taiwan’s stance on net neutrality. That’s an issue that I was really...
 
 ### Audrey Tang:
-No. Our telecom operators is behaving so well that it’s not even a active political issue.
+No. Our telecom operators is behaving so well that it’s not even an active political issue.
 
 ### Ryan Chang:
 OK. That’s good to know.

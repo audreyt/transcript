@@ -192,7 +192,7 @@ That’s before I went into a cabinet. I’ve been facilitating this kind of pet
 I think there was just one response, yeah.
 
 ### Audrey Tang:
-But for some other ministries, The Ministry of Health and Welfare, there’s a initial kickoff meeting about seven days after the proposal went through to make sure we know what the petition is asking for, and then a lot of kick‑off meetings but internally. There was outside experts and those were made public.
+But for some other ministries, The Ministry of Health and Welfare, there’s an initial kickoff meeting about seven days after the proposal went through to make sure we know what the petition is asking for, and then a lot of kick‑off meetings but internally. There was outside experts and those were made public.
 
 ### Audrey Tang:
 At least the transcript is made public and then on the 15 days, they release the infographics to explain the issue to general public. Then at 45 days, they had the initial statement and things like these. It’s every two weeks and on the third day, they announce the timetable, saying that we will do this every two weeks and so on.

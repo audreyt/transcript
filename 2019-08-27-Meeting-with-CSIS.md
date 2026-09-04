@@ -73,7 +73,7 @@ For the digital economy, you mentioned we also have people who work with the dis
 Again, the ministries may fight on behalf of the interests, but nowadays, with the new hashtag, people just organize out of nowhere. People no longer need politicians to organize. People can just have #metoo, #climatestrike, whatever, and then just out of nowhere, organize themselves.
 
 ### Audrey Tang:
-If we insist on making a new agency, or a new team, or a new task force whenever there’s a emerging topic, the government will be paralyzed and unable to function, as many liberal democracy nowadays face the same problem.
+If we insist on making a new agency, or a new team, or a new task force whenever there’s an emerging topic, the government will be paralyzed and unable to function, as many liberal democracy nowadays face the same problem.
 
 ### Audrey Tang:
 Our theory, which is ratified in the UK Digital High-Level Group, is called COGOV, or collaborative governance. It’s a really old idea, like centuries-old idea, but it’s implemented very efficiently in the digital space by asking a different set of question.
@@ -232,7 +232,7 @@ This applies to pretty much every other parts of the economy as well. What I’m
 We see it as a kind of unifying force that unifies the economic, environmental, and the social aspects of the SDG, by ensuring that everybody have reliable data, that people can form effective partnerships, and also people can share their innovations across sectors.
 
 ### Audrey Tang:
-It’s a enabler. It is not by itself a goal. It is a mean toward the other 16 goals.
+It’s an enabler. It is not by itself a goal. It is a mean toward the other 16 goals.
 
 ### Daniel F. Runde:
 If I say to you, the Internet of things, how do you think about the Internet of things here in Taiwan?
@@ -393,13 +393,13 @@ In the previous one…
 There’s been arguments in other societies, including mine, about interventions by state actors in the elections. You have an election in January. Would you be surprised if the PRC or some other malignant actor were to operate in a variety of ways to create division and sow discord in your society using digital means?
 
 ### Audrey Tang:
-We do have evidence already that in the previous mayoral election, people who are from a IP address from the PRC and declare themselves to be employees of Tencent – but they have 15 people all looking the same, so who knows, from that angle anyway– just operating disinformation campaigns for one particular mayoral candidate in foreign policy.
+We do have evidence already that in the previous mayoral election, people who are from an IP address from the PRC and declare themselves to be employees of Tencent – but they have 15 people all looking the same, so who knows, from that angle anyway– just operating disinformation campaigns for one particular mayoral candidate in foreign policy.
 
 ### Audrey Tang:
 I assume people know this about that particular operation. Twitter just released a public dataset of a block of IP address in PRC that doesn’t need a VPN to access Twitter to do disinformation on Hong Kong.
 
 ### Audrey Tang:
-If the PRC has a IP address block that doesn’t VPN to access Twitter and post only these things, we can safely assume that the state at least permitted their use outside of the Great Firewall.
+If the PRC has an IP address block that doesn’t VPN to access Twitter and post only these things, we can safely assume that the state at least permitted their use outside of the Great Firewall.
 
 ### Audrey Tang:
 It may or may not be the PRC administration. It could be the PLA, too.
@@ -567,7 +567,7 @@ Are you a digital optimist?
 Yes.
 
 ### Daniel F. Runde:
-We shouldn’t fear deep fakes, and cyber attacks, and Internet of things being turned off with a off switch, and mainland China taking all our driverless cars and crashing them into each other, we shouldn’t worry about it, and people stealing my privacy. I’m being a little provocative, but I think you know what I’m trying to say.
+We shouldn’t fear deep fakes, and cyber attacks, and Internet of things being turned off with an off switch, and mainland China taking all our driverless cars and crashing them into each other, we shouldn’t worry about it, and people stealing my privacy. I’m being a little provocative, but I think you know what I’m trying to say.
 
 ### Audrey Tang:
 It’s fine. A few things. Deepfake is not new. Anybody who watched “The Lord of the Rings” movie, the movie one with Gollum in it, have seen a deepfake, the motion capture of the Gollum’s face. That technique, the movie CG industry have been using them for…
@@ -600,7 +600,7 @@ Right, and so the element of surprise is not there, is what I’m getting at.
 In your mind, is it a question of educating in values in the society? Is that basically all you can do?
 
 ### Audrey Tang:
-Yes, but we can do a lot using only that. I mean, each clarification message is a education, and we use public funding to fund the TV series, “The World Between Us,” which was sponsored by a special budget item by the government, and it’s very highly rated on IMDB and HBO Asia.
+Yes, but we can do a lot using only that. I mean, each clarification message is an education, and we use public funding to fund the TV series, “The World Between Us,” which was sponsored by a special budget item by the government, and it’s very highly rated on IMDB and HBO Asia.
 
 ### Audrey Tang:
 That literally is a major literacy TV series, and the Ministry of Culture has a lot to do with this.
@@ -908,7 +908,7 @@ Much lower.
 Mulch lower, almost zero in our jurisdiction, or sometime negative really, as people suspect and then they go on strike and refuse to buy something and turn out to be a mistake, but it’s considered OK to do that. Better to be cautious than sorry.
 
 ### Audrey Tang:
-All this shapes a economy that delivers innovations by not sacrificing the social environmental goals, and that’s what I’m getting at is that innovations like Gogoro in Taiwan is much more exportable because every other nearby petrol station about these things as well.
+All this shapes an economy that delivers innovations by not sacrificing the social environmental goals, and that’s what I’m getting at is that innovations like Gogoro in Taiwan is much more exportable because every other nearby petrol station about these things as well.
 
 ### Daniel F. Runde:
 If you’ve got to set up a shared value, what you’re offering is more exportable. Is that basically what you’re saying?
@@ -944,7 +944,7 @@ Easy question.
 That’s an easy question. \[laughs\]
 
 ### Audrey Tang:
-That’s a easy question. We didn’t lose our jobs to automobiles…
+That’s an easy question. We didn’t lose our jobs to automobiles…
 
 ### Daniel F. Runde:
 To auto mobiles and….

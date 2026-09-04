@@ -34,7 +34,7 @@ Somehow, from 2002 to now, 2018, I think some of these topic we will be revisiti
 That was such a moment I always remember in my studio in Paris in the Cité des Arts. I was doing a residency there. Somehow you feel the sunlight beams in. Since then, I have been collaborating with Preciado in different occasions.
 
 ### Shu Lea Cheang:
-In 2008, Preciado brought me to Arteleku in Spain to stage...At the time, it was a performance piece and workshop called &quot;FLUID.&quot; It was a exhibition called &quot;Feminismo Porno Punk.&quot; I think somehow these three words always stay with me. I think a lot of my work carry the punk, the porn, and the feminisimo mode, yes. \[laughs\]
+In 2008, Preciado brought me to Arteleku in Spain to stage...At the time, it was a performance piece and workshop called &quot;FLUID.&quot; It was an exhibition called &quot;Feminismo Porno Punk.&quot; I think somehow these three words always stay with me. I think a lot of my work carry the punk, the porn, and the feminisimo mode, yes. \[laughs\]
 
 ### Shu Lea Cheang:
 This was the first time when Paul brought me to Arteleku. It was the first time I was able to realize this particular performance and workshop. It actually did happen. Before that, I was censored and shut down three times, in Norway, in Montreal, and in Berlin.
@@ -97,7 +97,7 @@ These are some of the questions that are now put in the museum and questioned, a
 The museum might be not exactly these walls that we see here, but something else.
 
 ### Audrey Tang:
-Right. Technologies works in a interesting way. When we turn my scribbles of Paul’s statements to a projector here that allows people to comment on it using Slido there, it makes them what we call social objects.
+Right. Technologies works in an interesting way. When we turn my scribbles of Paul’s statements to a projector here that allows people to comment on it using Slido there, it makes them what we call social objects.
 
 ### Audrey Tang:
 These are no longer objects like trophies are on display, but actually become things that people can take a photo on and share on social media or on any other places, and basically gets uploaded to the public Internet as part of the commons. I think that is a kind of overlay layer on top of any what we call spaces.
@@ -197,7 +197,7 @@ Through this radical participation, the hackers of the Internet basically are in
 Nobody in between, including the earlier inventors of the Internet, they cannot say anything about it. This permissionless invention, or the idea of hacking on the Internet itself, is what enable Internet to still grow after all these decades.
 
 ### Audrey Tang:
-I think it is a very artist’s take on code because if you’re a institutionalist, you would just keep the code running. You will not hack the code and you will not do permissionless invention. You will always ask for permission before inventing. The Internet, still today, is very artsy in the sense that it is permissionless invention.
+I think it is a very artist’s take on code because if you’re an institutionalist, you would just keep the code running. You will not hack the code and you will not do permissionless invention. You will always ask for permission before inventing. The Internet, still today, is very artsy in the sense that it is permissionless invention.
 
 ### Paul B. Preciado:
 It’s true that whenever I listen to you speaking, I have the impression that you are extremely Utopian, that your view of the Internet is really that we have full agency, that this is a space of maximum freedom. Nevertheless, I tend to have the impression that it’s also a space of enormous control.
@@ -224,7 +224,7 @@ We see fire burn through the entire cities because of the limited control of a t
 People at any time, if they feel comfortable, can always ask somebody higher on the expertise chain for more input. There will be always a fluid conversation between people who know about the legal issues a little bit more, like the paralegal people, but not yet lawmakers or constitutional court judges.
 
 ### Audrey Tang:
-When the constitutional court, for example, makes a interpretation, you see a flow on the Internet where it gets translated into something that the practicing lawyers will understand, that the people with some paralegal training will understand, and then into what just people with liberal arts education will understand, and so on.
+When the constitutional court, for example, makes an interpretation, you see a flow on the Internet where it gets translated into something that the practicing lawyers will understand, that the people with some paralegal training will understand, and then into what just people with liberal arts education will understand, and so on.
 
 ### Audrey Tang:
 If anyone, at any point, have some ideas of how to contribute to it, of course, we see a lot of these materials also getting translated back. These kind of feedback and feed-forward, the two-way translation among expertise, is really what keeps any technology, including fire, legal code, and computer code, from being completely dominating.
@@ -469,7 +469,7 @@ Better.
 Actually, I think in a sense when I say I know, Audrey, I think you are still — always — a hacktivist. In a sense of hacktivism or hacker of technology or computer codes or hacker as a sex and gender and body. When we are talking about hacking, we’re not limited to computer codes anymore. Refer to this particular question about...Would you like to pick up from?
 
 ### Audrey Tang:
-Yes, the question reads, about gender hacking, this discussion falls into the category of post-human or post-humanity. The questioner, which is anonymous, says that it seems to connotate the notion of seeing the subjectivity model as a information modal instead of a material model. It coincides with the idea that consciousness itself is a epiphenomena -- it’s not just phenomena, it’s epiphenomena, it’s something out of the phenomenal world -- or whether it is a new noble in evolution.
+Yes, the question reads, about gender hacking, this discussion falls into the category of post-human or post-humanity. The questioner, which is anonymous, says that it seems to connotate the notion of seeing the subjectivity model as an information modal instead of a material model. It coincides with the idea that consciousness itself is an epiphenomena -- it’s not just phenomena, it’s epiphenomena, it’s something out of the phenomenal world -- or whether it is a new noble in evolution.
 
 ### Audrey Tang:
 They would like to ask about the relationship between information and body: Does it actually mean that subjectivity is purely information, or is it also somewhat body, or body is purely information? What does that even mean?
@@ -544,7 +544,7 @@ And whenever we hear that a singularity is near, let us always remember that a p
 This is a poetic take on politics and especially the politics of the Internet of things as Paul just described. That’s my answer to this question. I don’t know whether Paul has something to contribute?
 
 ### Paul B. Preciado:
-I don’t know if we mean this question maybe bring us back to the question of how to queer the museum that you mentioned before, Shu Lea? In the sense of for me, like asking the question of art and politics in such a abstract way, for me, doesn’t make any sense. This, for me, it’s just like what art, what politics? Of which context are we speaking about?
+I don’t know if we mean this question maybe bring us back to the question of how to queer the museum that you mentioned before, Shu Lea? In the sense of for me, like asking the question of art and politics in such an abstract way, for me, doesn’t make any sense. This, for me, it’s just like what art, what politics? Of which context are we speaking about?
 
 ### Paul B. Preciado:
 Art and politics are never separated. Basically, art is always political, right. It can be a bit normative, conservative or it can be very critical, but there is always or it can, in a sense, it can repeat the normative aesthetics, or it can be suddenly like troubling that aesthetics or complicating it or just like introducing some variations within the code.
@@ -655,7 +655,7 @@ People of a foreign passport, even if they have permanent resident certificate, 
 They’re prevented, actually, access that shouldn’t be excluded, but are excluded because of code. If people go to order a movie ticket, or if they order some meals online, or maybe they buy a train ticket from the train station and use the Chinese, not the English interface of the website, they will be asked to fill in a National ID.
 
 ### Audrey Tang:
-Where they put in AC223 something, it will be rejected, saying, &quot;It is not a valid National ID because the second digit is not a digit. It is a alphabet.&quot; Because of that, they’re denied access that by law and by regulation, actually, should be provided to permanent residents, but is rejected simply because the letter don’t look like a digit, which is very much in tune of this citizenry access.
+Where they put in AC223 something, it will be rejected, saying, &quot;It is not a valid National ID because the second digit is not a digit. It is an alphabet.&quot; Because of that, they’re denied access that by law and by regulation, actually, should be provided to permanent residents, but is rejected simply because the letter don’t look like a digit, which is very much in tune of this citizenry access.
 
 ### Audrey Tang:
 Of course, starting next year, we’re going to change that. The number here is going to be changed. The AC something, something, it will be replaced by a 9 something, something. Basically, the numbers seven, eight and nine will be used in place of the letters C and so on, AC and so on.
@@ -664,7 +664,7 @@ Of course, starting next year, we’re going to change that. The number here is 
 That is a change in the design of the code, not the legal code, just computer code, just the numbering system to provide more inclusive access of visitors, permanent residents and everybody in between, who don’t hold a local passport, to still have access to local services.
 
 ### Audrey Tang:
-That brings a interesting thing because there’s many countries with passport of a non-binary gender now. We, traditionally, use the second digit to distinguish between the genders.
+That brings an interesting thing because there’s many countries with passport of a non-binary gender now. We, traditionally, use the second digit to distinguish between the genders.
 
 ### Audrey Tang:
 What do we do of foreign nationals when they become getting this new numbers that are non-binary? Do we force them to choose eight or nine or do we roll a dice or something? The result is that we make the number seven the non-binary digit.
@@ -811,13 +811,13 @@ I do actually have a little doubt about virtual freedom. I do not particularly w
 They used...By &quot;they,&quot; I mean this person who calls themself, &quot;How would you translate a metaphor?&quot; which is great name, by the way. They used translate/transfer, but that is a very interesting combination because it’s almost never together.
 
 ### Audrey Tang:
-If you \[laughs\] translate, you’re really bringing a copy, maybe a imperfect one, but you’re bringing a copy. If you transfer, it kind of means that the original is gone. It make it to the other end. It’s not a copy, it’s the same thing.
+If you \[laughs\] translate, you’re really bringing a copy, maybe an imperfect one, but you’re bringing a copy. If you transfer, it kind of means that the original is gone. It make it to the other end. It’s not a copy, it’s the same thing.
 
 ### Audrey Tang:
 I think these represent two different views of freedom. I wouldn’t even talk about virtual. One is that freedom is something that you need to fight for. It is never complete. You can get a translated version, and maybe you open up some possibility and the next generation will have more freedom.
 
 ### Audrey Tang:
-It’s a very progressive view, which was true, certainly is true in Taiwan. I still remember the Martial law days when I was a young child. There’s, of course, less freedom, and it’s a objective fact because when people publish something the rulers don’t want to see, they get disappeared.
+It’s a very progressive view, which was true, certainly is true in Taiwan. I still remember the Martial law days when I was a young child. There’s, of course, less freedom, and it’s an objective fact because when people publish something the rulers don’t want to see, they get disappeared.
 
 ### Audrey Tang:
 Of course, we can objectively say there was less freedom of assembly, of publishing, of speech, of whatever 30 years before. Compared to now, I think we can say that. It also says the possibility of transfer, which means that it’s got a complete transfer. Once you have this freedom imbued in the flesh, then you completely free up, liberate, emancipates oneself.
@@ -1034,7 +1034,7 @@ Whatever the frustration from the election today in Taiwan or on the right-wing 
 I include everybody in this room. It’s back to what would the resistance means, particularly in the certain, going back to the title, three times three times six, the civilian system that we live in, what would resistance mean today?
 
 ### Shu Lea Cheang:
-I feel myself, as Paul said, I’m also a activist. I’m also a media activist. We are the code activist. In this case, I’m always wondering about the masses. I get back to the masses.
+I feel myself, as Paul said, I’m also an activist. I’m also a media activist. We are the code activist. In this case, I’m always wondering about the masses. I get back to the masses.
 
 ### Shu Lea Cheang:
 The masses, all the mundanity or the masses on the street holding the rainbow flag particularly, for example or the recent rainbow on the Facebook status \[laughs\] report. These kind of, I think it’s almost like what would be this kind of gesture, the gesture of resistance.

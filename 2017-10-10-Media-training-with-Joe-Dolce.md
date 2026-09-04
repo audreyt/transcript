@@ -511,7 +511,7 @@ What else? As Taiwan’s digital minister, I can say I’m the first one that in
 For example, I publish, publicly, all the meetings that I hold -- even internal meetings -- all the meetings with journalists and everything. This is actually very radical, because nobody, to my knowledge, in any national movement, ever did that.
 
 ### Audrey Tang:
-Everyone knows that after a meeting with Audrey, the digital minister will send a Etherpad link to all the participants, and they can all edit for 10 days to take out where it may sound too bad when it comes to press, or whatever.
+Everyone knows that after a meeting with Audrey, the digital minister will send an Etherpad link to all the participants, and they can all edit for 10 days to take out where it may sound too bad when it comes to press, or whatever.
 
 ### Audrey Tang:
 After the 10 days, or 10 working days editing, it’s all published verbatim online. There’s millions of words of hundreds of meetings that I’ve convened after entering the cabinet a year ago.
@@ -616,7 +616,7 @@ Can you talk about this again for me, please? Do it this way. Before, there was 
 Give me the before and the after, OK? Let me hear.
 
 ### Audrey Tang:
-Before I entered the cabinet, we had a e-petition platform, just like &quot;We the People&quot; in the US, but it was not very popular. It was, again, also like &quot;We the People,&quot; have been described like a ghost town.
+Before I entered the cabinet, we had an e-petition platform, just like &quot;We the People&quot; in the US, but it was not very popular. It was, again, also like &quot;We the People,&quot; have been described like a ghost town.
 
 ### Audrey Tang:
 The reason is that people often get a very formal, very bureaucratic written response from one of the ministries, while what they’re actually petitioning is very reasonable. It’s just because it touches multiple different ministries, so they don’t get a satisfactory response from the one ministry that was designated to handle it.
@@ -1997,7 +1997,7 @@ That’s a great detail that actually brings people together.
 Now we have a free software community inside the national government... How do I bridge into this?
 
 ### Audrey Tang:
-Also, we had a e-petition platform as a way for people to participate. It was like the &quot;We the People&quot; platform in the US. It really didn’t receive much attention before I was the digital minister, because people would get those very blank, very bureaucratic answers that doesn’t really solve their problems, but just explains the problems.
+Also, we had an e-petition platform as a way for people to participate. It was like the &quot;We the People&quot; platform in the US. It really didn’t receive much attention before I was the digital minister, because people would get those very blank, very bureaucratic answers that doesn’t really solve their problems, but just explains the problems.
 
 ### Audrey Tang:
 The reason why is that often, when people propose something, it touches many different ministries. The one ministry designated to answer for it can only answer for the little part that it has in this policy suggestion.

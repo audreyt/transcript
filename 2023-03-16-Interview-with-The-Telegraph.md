@@ -39,9 +39,9 @@ A couple of things. I cannot speak for MOFA. I can speak for MODA. The MODA basi
 
 We also have the National Institute of Cyber Security, or NICS, I'm also the chair, which protects much more including the private sector and the venues that are not covered yet by the Act of the Cyber Security Management.
 
-For example, when there's a incident reported by cyber security researchers, for example, iRent and many other private sector that's not part of the Cyber Security Management Act, the NICS is activated by receiving these reports from say, TWCC and other CERT emergency response teams.
+For example, when there's an incident reported by cyber security researchers, for example, iRent and many other private sector that's not part of the Cyber Security Management Act, the NICS is activated by receiving these reports from say, TWCC and other CERT emergency response teams.
 
-The NISC will work with the competent authority, for example, the Ministry of Transportation and Communication, which is in charge of having a inspection to the iRent situation.
+The NISC will work with the competent authority, for example, the Ministry of Transportation and Communication, which is in charge of having an inspection to the iRent situation.
 
 Although it's not covered by the Cyber Security Management Act, it is covered by the Personal Data Protection Act, the PDPA. The Minister of Transportation and Communication acting by the PDPA can work with NICS, and the NICS professionals can just go with the MOTC to iRent to do the necessary inspections. It's essentially, two branches.
 
@@ -158,7 +158,7 @@ It still comes and goes. It's hard to load web pages, things like that. In an id
 ### Audrey Tang:
 Then, people won't feel a thing. Ideally, around the end of this year, when the NCC and the CHT working with us expands the microwave capabilities so that it matches the actual usage — as I mentioned, the supply need to match the demand of the people in Matsu — then, even if all the submarine cables are cut, people will not feel any significant impact.
 
-Of course, microwave is the second line of backup. The first line is a additional subsea cable, the fourth subsea cable between Taiwan and Matsu, which will be also funded.
+Of course, microwave is the second line of backup. The first line is an additional subsea cable, the fourth subsea cable between Taiwan and Matsu, which will be also funded.
 
 In addition to the new cable and the microwave, what we want to say is that if we have the satellite capabilities for emergency and for coordination, video conference, responding, and so on.
 
@@ -172,7 +172,7 @@ How do you balance this between the transparency aspect to let people here know 
 If you had the capability to make sure that if all the cables were cut, Taiwan could still stay connected, doesn't that give people the advantage then to figure out how they can, frankly, mess with you? How do you balance that, the transparency versus possibly revealing too much?
 
 ### Audrey Tang:
-Sure. Transparency itself is not the goal. The goal is democracy. To make sure that there's a informed citizenry that has the full context of the why and how of policymaking, not just the what of policies made. This is very important.
+Sure. Transparency itself is not the goal. The goal is democracy. To make sure that there's an informed citizenry that has the full context of the why and how of policymaking, not just the what of policies made. This is very important.
 
 Nowadays, it's very easy for generative AI [laughs] to make up whatever hallucinating articles, essays with very convincing style. Without a pipeline, I would say, a mechanism to ensure balanced reports, fact checking, proper framing of things, checking the sources, which is called journalism [laughs] in total. Without journalism, democracy wouldn't function.
 

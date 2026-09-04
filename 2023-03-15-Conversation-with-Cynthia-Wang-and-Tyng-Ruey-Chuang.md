@@ -155,7 +155,7 @@ Many people in the movement used the MOE dictionary as a very easy way, on Faceb
 
 You get to choose the font, and you can deliver your message banner in Taigi or something. It became a very easy way for any activist online to turn, what used to be just a handful of people in face to face setting, into a larger social movement online that goes viral with hundreds and thousands of people, that starts a real petition, and so on.
 
-We successfully enabled many activists using the MOE dictionary as their advocacy tool. First, it builds solidarity among the advocacy group, and second, it allows us to rethink what the dictionary and its relevance in the contemporary world. It is a way for the words themselves to carry a activism message. It's not something that only teachers use.
+We successfully enabled many activists using the MOE dictionary as their advocacy tool. First, it builds solidarity among the advocacy group, and second, it allows us to rethink what the dictionary and its relevance in the contemporary world. It is a way for the words themselves to carry an activism message. It's not something that only teachers use.
 
 ### Cynthia Wang:
 That's very interesting, and I think that's something that research hasn't talked a lot about, it's social media and technology and how that's influenced the most use.
@@ -433,7 +433,7 @@ It got used a lot. Something imbalance that says, only probably zero knowledge r
 Maybe we'll see that in a couple of years.
 
 ### Audrey Tang:
-Maybe we'll see that. It requires a independent data protection authority, which is another movement altogether.
+Maybe we'll see that. It requires an independent data protection authority, which is another movement altogether.
 
 ### Cynthia Wang:
 We could have a whole other interview for that.

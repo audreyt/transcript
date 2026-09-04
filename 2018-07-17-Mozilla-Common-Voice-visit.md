@@ -519,7 +519,7 @@ Or, do we just open the pipeline of building such language databases and for the
 Centralized database.
 
 ### Audrey Tang:
-At least, as you said, to bootstrap the process and demonstrate the pipeline. I have not yet talked to our new administration’s spokesperson. The spokesperson, Kolas Yotaka, is indigenous in the Amis nation. She has always advocated a orthography that’s based on Latin scripts, multi-ethnicity, and things like that for indigenous languages.
+At least, as you said, to bootstrap the process and demonstrate the pipeline. I have not yet talked to our new administration’s spokesperson. The spokesperson, Kolas Yotaka, is indigenous in the Amis nation. She has always advocated an orthography that’s based on Latin scripts, multi-ethnicity, and things like that for indigenous languages.
 
 ### Audrey Tang:
 I think that is a political question that we will very quickly see whether we would also like to signify our commitment to bootstrapping the indigenous language movement by providing such databases under the auspices of the Ministry of Culture or not. This "Council of Aboriginal Affairs" is a misnomer. \[laughs\] It’s "Council of Indigenous Peoples" now.
@@ -702,7 +702,7 @@ The thing is that, if you put it into premature use, just like in one of the int
 It shows the limits of the existing way. If you cross a certain boundary of similarity between the different language semantic clusters, then the machine gets very confused, and so transfer of learning had not been an easy answer. \[laughs\]
 
 ### Kelly Davis:
-That’s one of the things that we’re going to experiment with, is using transfer learning to indeed transfer some knowledge, say from American English accent to a Australian English accent. We’ve also been trying to, for languages that are not so closely related, see how far we can go. But I agree, it’s more research as opposed just turn a switch on and it works.
+That’s one of the things that we’re going to experiment with, is using transfer learning to indeed transfer some knowledge, say from American English accent to an Australian English accent. We’ve also been trying to, for languages that are not so closely related, see how far we can go. But I agree, it’s more research as opposed just turn a switch on and it works.
 
 ### Audrey Tang:
 People would have to understand that this is risky, experimental, and often wrong. Accepting those preconditions, they may of course use this technology, but it is not the ground on which to demand equal treatment at day one. Maybe 10 years from now, but it is not today.
@@ -753,7 +753,7 @@ We instead tried to get them to go for CC0. First, we had to talk to Sam, and th
 It’s hard to, first of all, remix the data set and adhere to the license. It makes it prohibitively expensive, let’s say, in people time. Second of all, to try to get people to the public domain, you have to be able to get in front of people. Luckily, we have Dees who can reach out to Sam, who can reach out to Julia, who can reach out to people.
 
 ### Michael Henretty:
-If I was a university student and I wanted to make a technology that is commercial, let’s say, then I’m basically stuck or it’d be very hard for me understand the technology I’m creating actually adheres to these licenses. Because this license, when you’re talking about remixing data, it comes in this baggage. It’s like a infinitely variable tree that you have to try to adhere to.
+If I was a university student and I wanted to make a technology that is commercial, let’s say, then I’m basically stuck or it’d be very hard for me understand the technology I’m creating actually adheres to these licenses. Because this license, when you’re talking about remixing data, it comes in this baggage. It’s like an infinitely variable tree that you have to try to adhere to.
 
 ### Michael Henretty:
 We think CC0 or public domain is this way of solving it by making it easy. Just have it be open and use it however you want. We think that this attribution piece, we’ve done some research as to why people choose attribution, at least in university.
@@ -774,7 +774,7 @@ If their paper’s reproducible, they have to quote to their source, so we can g
 It could prevent somebody from making a doctor personal voice assistant from using our data and make it a good thing because they would have to adhere to our license, which is a public, which may be like attribute Mozilla and maybe that doesn’t meet their business standards for some legal reasons.
 
 ### Michael Henretty:
-We see CC0 as a way of, we still get a attribution. We still have ways of measuring our impact in the academia world, but it’s also way of having the non-academia world, the commercial world have the most impact there. That’s what we care about.
+We see CC0 as a way of, we still get an attribution. We still have ways of measuring our impact in the academia world, but it’s also way of having the non-academia world, the commercial world have the most impact there. That’s what we care about.
 
 ### Michael Henretty:
 We think that CC0 can actually unlock a lot of potential for data sets. We think that you can still get the things you want from the attribution maybe without having the actual attribution license because this reproducibility. This is our theory. This is what we’re going off of.
@@ -804,7 +804,7 @@ They could always go back and say, &quot;You know, although I did not say that I
 We have a national regulation that says all the ICT systems that’s built and maintained for the last past three years under around US$1 million must have all its output to be published as open data, using Creative Commons for attribution. That is a very strong regulation, and this is how Taiwan get to the number one on the OKFN Open Data Index.
 
 ### Audrey Tang:
-There’s no legal basis for us to say that the government-procured data sets using taxpayer money that isn’t using the open government data license should be even more lax rather than even more strict. We can always argue for even more strict. Like, &quot;This is dictionary data. Obviously, it’s non-derivative.&quot; You can’t change the stroke numbers or whatever. It’s a easy argument to make.
+There’s no legal basis for us to say that the government-procured data sets using taxpayer money that isn’t using the open government data license should be even more lax rather than even more strict. We can always argue for even more strict. Like, &quot;This is dictionary data. Obviously, it’s non-derivative.&quot; You can’t change the stroke numbers or whatever. It’s an easy argument to make.
 
 ### Audrey Tang:
 It’s a very hard argument for us to make, saying, &quot;We’re not using attribution anymore.&quot; That is politically very difficult for us. Operationally, you mentioned the burden of having to basically, like at the end of the movie, have a wall of short URLs. That preventing commercial uses, I can sympathize with that. When I worked with Apple, there’s an entire department doing that. \[laughs\]
@@ -907,7 +907,7 @@ That’s great. I think that leaves only the communication critical.
 Just one thing on the education piece. I know we talked about indigenous languages and local languages. If I flipped it slightly around, what about actually people learning, improving their English. Is there any efforts in that regard?
 
 ### Audrey Tang:
-Oh, yes. The minister of education is now working on a revised plan of making English primary education systems, on the order of our new premier, William Lai, who has always advocated that the students who want a English primary education should get a English primary education.
+Oh, yes. The minister of education is now working on a revised plan of making English primary education systems, on the order of our new premier, William Lai, who has always advocated that the students who want an English primary education should get an English primary education.
 
 ### Desigan Chinniah:
 That’s obviously something that we already are pretty strong at. I’m not trying to win the round, but just throwing it into the mixture.
@@ -1086,7 +1086,7 @@ That’s great.
 ...in Taiwan to see how we can tap into opportunities here in Taiwan. There are a lot of opportunity and a lot of potential here. One area that we specifically chose was to see if we can add into the elderly society and how we can help the people, for example people 40, 50 and up, to get them to make use of technology and to get them online. We think most interfaces could be more interesting.
 
 ### Desigan Chinniah:
-I think, in general, what we we realize is, we build Firefox as a product, that’s a very global product, and obviously, lots of people use it, there are definitely use cases and lots of possibilities with more niche products.
+I think, in general, what we realize is, we build Firefox as a product, that’s a very global product, and obviously, lots of people use it, there are definitely use cases and lots of possibilities with more niche products.
 
 ### Desigan Chinniah:
 For example, as Joe said, it’s very product oriented. They both are working on Firefox and they have lots of expertise in mobile Firefox. It came out the last year, but they went out to Indonesia and brought a specific product called Firefox Rocket that has a very specific use case that meets the needs of those users in Indonesia.

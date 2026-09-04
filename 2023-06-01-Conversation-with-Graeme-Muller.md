@@ -78,7 +78,7 @@ And the IDB gets something because they get promoted to a full administration no
 Yeah, right. Exactly.
 
 ### Audrey Tang:
-Right, because they became an administration before the bureau. But then because of this president, the people who are left at the bureau say, if one quarter of us is warranting a administration, we're warranting administration too. So now, as of this year, they also pass an act to promote the bureau to administration. So, it's good for everyone as well.
+Right, because they became an administration before the bureau. But then because of this president, the people who are left at the bureau say, if one quarter of us is warranting an administration, we're warranting administration too. So now, as of this year, they also pass an act to promote the bureau to administration. So, it's good for everyone as well.
 
 > (laughter)
 

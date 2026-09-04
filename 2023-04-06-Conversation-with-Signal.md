@@ -112,7 +112,7 @@ So, that is something we’ve taken back to our server team and we’re going to
 ### Audrey Tang:
 Yeah. We have our own AWS outpost servers, so if needed, we can run DynamoDB or whatever on our outposts. So, before you arrived, we were just doing our own element matrix deployments based on such principles so that when our signal, you know, gets cut by earthquakes, we can at least fall back to a matrix element, so we’ve translated elements to traditional Mandarin for this very purpose.
 
-On the other hand, we do have Amazon outposts lying around, so if you’re willing to have a technical proof of concept in which that the queuing system is either as a fallback or as a after-effective federation on our outpost, then we do not have to wait for Amazon to have DynamoDB in Taiwan.
+On the other hand, we do have Amazon outposts lying around, so if you’re willing to have a technical proof of concept in which that the queuing system is either as a fallback or as an after-effective federation on our outpost, then we do not have to wait for Amazon to have DynamoDB in Taiwan.
 
 ### Meredith Whittaker:
 Understood. My understanding is that Amazon outposts in Taiwan are just the content delivery network?
@@ -664,7 +664,7 @@ That is correct. Because they agreed on two things. One is that the entire compu
 And was that pretty… Did you see a wide adoption of security as to how the general population adapted?
 
 ### Audrey Tang:
-In public sector, certainly. And especially in education sectors because certain other popular video conferencing solutions had a really bad track record back in the day of early pandemic days of having PRC people monitoring its calls and disabling Hong Kong demonstrations and so on. So, director of cyber security, Howard back then, issued an directive asking all the schools and public servants to not join such calls. And if they must do, then they must do so under protest.
+In public sector, certainly. And especially in education sectors because certain other popular video conferencing solutions had a really bad track record back in the day of early pandemic days of having PRC people monitoring its calls and disabling Hong Kong demonstrations and so on. So, director of cyber security, Howard back then, issued a directive asking all the schools and public servants to not join such calls. And if they must do, then they must do so under protest.
 
 So, because of that, an alternative at the time was Google Meet.
 

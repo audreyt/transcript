@@ -127,7 +127,7 @@ The international track of the Presidential Hackathon the two winners are Hondur
 That’s one, and Malaysia, which uses public procurement to make sure that cartels are detected in early on. All this is setting an example saying that Taiwan voluntarily discloses all the procurement data, even the raw data, even the RFPs for systemic analysis for this kind of research, and we’re very rare in the WTO system that does that. The other country that did that before is Greece, that’s because they’re Greece. Other than that, we don’t see other countries voluntarily disclose the raw data from to the RFP stage.
 
 ### Audrey Tang:
-It’s very validating that we are now being quoted by the winning teams, like in Honduras where they went back and told the World Bank that this kind of radical transparency is a requirement for their issues to be solved and not just a off-the-shelf solution on open government data.
+It’s very validating that we are now being quoted by the winning teams, like in Honduras where they went back and told the World Bank that this kind of radical transparency is a requirement for their issues to be solved and not just an off-the-shelf solution on open government data.
 
 ### Audrey Tang:
 There must be a collaboration structure with the ecology and social-minded people, and that open data means also consider that they help private sector data and not primarily open government data.
@@ -261,7 +261,7 @@ I’m sorry, this what?
 The open source ethos.
 
 ### Audrey Tang:
-The open source ethos really, well, I’m not sure open source has a ethos, but the free software movement had an ethos, yes. The four freedoms, the freedom to run for any purpose in particular. Freedom zero.
+The open source ethos really, well, I’m not sure open source has an ethos, but the free software movement had an ethos, yes. The four freedoms, the freedom to run for any purpose in particular. Freedom zero.
 
 ### Audrey Tang:
 I think that is the main thing that all the open movements have in common, be it open access, open hardware, open culture, open source, and so on, is that the creator has no privilege to restrict the purpose that the creation, how to be used.
@@ -569,7 +569,7 @@ I think there’s plenty of public servants that are system-focused. When it’s
 I’m talking about liberal democracies, of course. \[laughs\] In any case, what I’m getting at is I think it’s not a lack of systems thinking, I think it’s the lack of time for the outside, for the social sector, and small, medium MSMEs.
 
 ### Audrey Tang:
-Everybody but the largest lobbyists and journalists to have a access of the context, the why of policymaking. I think that’s the main thing that’s lacking, because if you only give out done policies for the public, of course all they can do is to organize protests.
+Everybody but the largest lobbyists and journalists to have an access of the context, the why of policymaking. I think that’s the main thing that’s lacking, because if you only give out done policies for the public, of course all they can do is to organize protests.
 
 ### Audrey Tang:
 If you share the entire policymaking context, then everybody can become a cocreator, even if they’re unhappy with you. If they don’t want to cooperate with you, at least they can collaborate with what you have done.

@@ -136,7 +136,7 @@ It sounds like you guys are very open to that. I was hoping just to chat about w
 Our office is pretty well connected because the initial founders came already, I think I mentioned that before, abroad from the design community. We currently have two colleagues in UK, and also quite a few international visiting researchers as well over the years.
 
 ### Audrey Tang:
-With Singapore actually, Singapore GovTech, we connected very early on, both on law and consultation. Actually, they also develop a mass rationing system online. We learned copiously from their design and experience. We didn’t reuse any code, but it was a early inspiration. I think on the GovTech front, we’re very well connected.
+With Singapore actually, Singapore GovTech, we connected very early on, both on law and consultation. Actually, they also develop a mass rationing system online. We learned copiously from their design and experience. We didn’t reuse any code, but it was an early inspiration. I think on the GovTech front, we’re very well connected.
 
 ### Audrey Tang:
 Now, wearing my other hat, the civic tech front, I think the g0v community is already very international. They have a dedicated English channel and even Japanese channel, with automated translations and things like that. If you joined g0v Slack, that’s join.g0v.tw, then you’ll find plenty of people who don’t speak Mandarin.
@@ -330,7 +330,7 @@ As early as next week, maybe.
 Oh.
 
 ### Audrey Tang:
-But we don’t know. We just had a ideation session last night actually. Whether we’ll have budget and personnel for it will only be known maybe at a cabinet meeting tomorrow. It’s very early. Chances also are the cabinet meeting tomorrow will say it’s a great idea, but maybe not the most pressing thing to do. That’s also possible.
+But we don’t know. We just had an ideation session last night actually. Whether we’ll have budget and personnel for it will only be known maybe at a cabinet meeting tomorrow. It’s very early. Chances also are the cabinet meeting tomorrow will say it’s a great idea, but maybe not the most pressing thing to do. That’s also possible.
 
 ### Audrey Tang:
 We won’t know until tomorrow, but I’ll keep you posted, and if there is a website, we’ll make sure that it’s bilingual, and if you see anything wrong with the English…

@@ -9,7 +9,7 @@ Let me introduce my colleagues first. Yujing (Guo) takes care of Great China Reg
 Appreciate it.
 
 ### George Chen:
-Yujing will give a overview of Workplace by Facebook. I know you already heard it from the press or friends, but you will get the official version of what Workplace by Facebook is this time.
+Yujing will give an overview of Workplace by Facebook. I know you already heard it from the press or friends, but you will get the official version of what Workplace by Facebook is this time.
 
 ### Audrey Tang:
 That’s great.

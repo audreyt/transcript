@@ -183,7 +183,7 @@ I’m working in a very international way, making a facility to show that, inste
 But a lot of our applications, through my participation as board members, in, for example, RadicalxChange with Vitalik Buterin. That’s in New York. Or in Digital Future Society, that’s in Spain, or the CONSUL Foundation, which started in Spain but they are moved to Amsterdam. I’m also actively participating in these work as well.
 
 ### Audrey Tang:
-The experience has been, first up, it’s, I’m really grateful that the Ministry of Civil Service and so on, really relaxed and adjusted a lot of their working condition rules to make sure that I can be a international board member, that I can telework, that I can do a lot of these things.
+The experience has been, first up, it’s, I’m really grateful that the Ministry of Civil Service and so on, really relaxed and adjusted a lot of their working condition rules to make sure that I can be an international board member, that I can telework, that I can do a lot of these things.
 
 ### Audrey Tang:
 But I made sure that they make those changes not for myself, but for everybody in the career public service. It also has a transformative function to the entire public service, as well for them to work in a more international and also more globalized fashion. That’s my first experience.
@@ -444,7 +444,7 @@ They discovered that they could really be alienated from their family members ov
 Before 2007, Taiwan’s marriage act recognizes social ceremonies. The social ceremony itself marries people between their families, and then maybe they do registration.
 
 ### Audrey Tang:
-It’s like getting a birth certificate is kind of meaningless about the birth itself. It’s something that already happened in a natural way in a social setting. Then the registration is just after the fact, giving a administrative record of it.
+It’s like getting a birth certificate is kind of meaningless about the birth itself. It’s something that already happened in a natural way in a social setting. Then the registration is just after the fact, giving an administrative record of it.
 
 ### Audrey Tang:
 After 2008, it becomes by registration only, so the social ceremony between families no longer count. People have to register for the marriage to happen.
@@ -542,7 +542,7 @@ Exactly. Deliberation, in design-thinking terms, deliberation is mostly about th
 But, like Polis, or whatever our online petitions and so on, all starts in the Discover stage where people are still finding out the various dimensions of stakes. We’re not even sure who are the stakeholders, we’re still discovering the stakes.
 
 ### Audrey Tang:
-In that, it’s more about ideation in a constrained setting. It’s less about coming to a informed rough consensus on where to develop. In this process, the more we run, the more stakeholders we discover, the more ethnographic hanging out we do \[laughs\], the better we’re able to define the problem afterward. I would say it’s a precondition for deliberation.
+In that, it’s more about ideation in a constrained setting. It’s less about coming to an informed rough consensus on where to develop. In this process, the more we run, the more stakeholders we discover, the more ethnographic hanging out we do \[laughs\], the better we’re able to define the problem afterward. I would say it’s a precondition for deliberation.
 
 ### Emilie Frenkiel:
 Who participates in the conversation? I know you constantly trying to…
@@ -593,7 +593,7 @@ We probably need a real jury system before we can extend that into the legislati
 On the other hand, the citizens initiatives like petitions, referendums, and so on, that’s very advanced now. Everybody feels that they can set an agenda.
 
 ### Audrey Tang:
-That’s also because when the Dr. Sun Yatsen enumerated the fundamental rights of citizens in a republic of citizens, \[indecipherable 37:30\] , he specifically took citizens initiative as an important part of it and say one day we’ll be better than Switzerland, literally. That was in 1916. \[laughs\]
+That’s also because when the Dr. Sun Yatsen enumerated the fundamental rights of citizens in a republic of citizens, \[indecipherable 37:30\], he specifically took citizens initiative as an important part of it and say one day we’ll be better than Switzerland, literally. That was in 1916. \[laughs\]
 
 ### Audrey Tang:
 People understand that the citizens initiative at least every generation have heard about this idea of citizen initiative, but Sun Yatsen didn’t say anything about citizen jury. \[laughs\] That’s I think the cultural difference of the different conditions.
@@ -668,7 +668,7 @@ What’s the percentage?
 For each, it’s different. For like diplomatic conversations – because we just had them, it’s fresh on my mind – the more professional it is. For example, whether we reform or reinstitute the conscription system, there’s, I think, a large percentage, 20 or 30 percent that simply said, “I don’t know enough to say yes or no to this question.”
 
 ### Audrey Tang:
-But for things like how to make Taiwan be seen more unique in the world, everybody feel they have something to say. \[laughs\] I think it largely depends on the kind of…It’s not just informed, it’s on the required background to have a informed consensus or even informed knowledge on this.
+But for things like how to make Taiwan be seen more unique in the world, everybody feel they have something to say. \[laughs\] I think it largely depends on the kind of…It’s not just informed, it’s on the required background to have an informed consensus or even informed knowledge on this.
 
 ### Audrey Tang:
 Again, to quote Sintomer . The ladder of expertise, sometimes, at some stage it feels that you have to have spent days, if not a month, to climb to the next stage. For all the topics above that stage, we have a lot of people saying I’m not sure. But for everything below the stage, we can still have a lot of meaningful resonance.
@@ -689,7 +689,7 @@ Yeah. All the digital conversation report, if you google just for “AIT” and 
 What is it? Related to China?
 
 ### Audrey Tang:
-Yes. How would you have guessed it? \[laughs\] It says, “Every time PRC closes a international door for Taiwan, the US should try open one for Taiwan someplace else.” Exactly. \[laughs\]
+Yes. How would you have guessed it? \[laughs\] It says, “Every time PRC closes an international door for Taiwan, the US should try open one for Taiwan someplace else.” Exactly. \[laughs\]
 
 ### Emilie Frenkiel:
 Right.
@@ -889,10 +889,10 @@ The clarification need to be even more fun. \[laughs\]
 Is the humor the same one? Did you manage to actually…?
 
 ### Audrey Tang:
-Humor as opposed to satire or even a even more attack package as something fun is that humor makes fun at expense of the person making the humor. The more aggressive alternatives makes fun of people who are not like us. It’s a very clear philosophical difference.
+Humor as opposed to satire or even an even more attack package as something fun is that humor makes fun at expense of the person making the humor. The more aggressive alternatives makes fun of people who are not like us. It’s a very clear philosophical difference.
 
 ### Audrey Tang:
-What we found is that humor that doesn’t exclude people spreads easier because people don’t feel a moral difficulty spreading it. This, I would also say, may be a East Asia thing, that we collectively already have an idea that says making fun of people who are not like you with the intention of excluding them, although it may seem funny, it’s fundamentally a bad thing to share.
+What we found is that humor that doesn’t exclude people spreads easier because people don’t feel a moral difficulty spreading it. This, I would also say, may be an East Asia thing, that we collectively already have an idea that says making fun of people who are not like you with the intention of excluding them, although it may seem funny, it’s fundamentally a bad thing to share.
 
 ### Audrey Tang:
 In a more individualistic culture, maybe that raises debate, and that’s the perfect thing to share. I would say there’s a cultural difference.

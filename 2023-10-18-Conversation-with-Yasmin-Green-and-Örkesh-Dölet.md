@@ -450,7 +450,7 @@ Yes, yeah. Yeah, that's a brilliant part of it, I think, of the community notes,
 ### Audrey Tang:
 Exactly. Exactly, and that's actually the only way to scale now that, before language models, only local Taiwanese people speaking a whole lot, like Taigi, can make scam phone calls to scam people speaking Taigi. But now, with language models, anyone around the world can do the same now because including the voice cloning and so on is getting really, really good. And the same goes on Facebook, right? Short videos and so on can be very easily synthesized nowadays.
 
-And so, without crowdsourced contextualization, it's just a handful of people in the International Fact-Checking Network, the Poynter network, doing this this, and they are about to be overwhelmed. So, I expect platforms like Meta to adopt some sort of community notes in the future.
+And so, without crowdsourced contextualization, it's just a handful of people in the International Fact-Checking Network, the Poynter network, doing this, and they are about to be overwhelmed. So, I expect platforms like Meta to adopt some sort of community notes in the future.
 
 ### Yasmin Green:
 You should be doing that, too.

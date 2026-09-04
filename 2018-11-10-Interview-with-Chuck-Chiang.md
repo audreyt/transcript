@@ -148,7 +148,7 @@ Going back with the social enterprise model, our experience here is that things 
 Do you think that consumers are willing to pay a little bit more, or companies are willing to pay a little bit more, for goods that are beneficial to society and beneficial to the environment? What’s your opinion on that? Are consumers willing to pay...?
 
 ### Audrey Tang:
-We don’t need opinion, we have a evidence-based survey. Every year, the Development Bank of Singapore, the DBS, as well as the Vision Project of the UDN Media Group in Taiwan asks people around Taiwan: &quot;Are you willing to pay more for products or services with a clearly evidence-based, better socio-environmental value?&quot;, and year after year we see this growing. This is actually last year’s number, but by this year it’s more than 80 percent now.
+We don’t need opinion, we have an evidence-based survey. Every year, the Development Bank of Singapore, the DBS, as well as the Vision Project of the UDN Media Group in Taiwan asks people around Taiwan: &quot;Are you willing to pay more for products or services with a clearly evidence-based, better socio-environmental value?&quot;, and year after year we see this growing. This is actually last year’s number, but by this year it’s more than 80 percent now.
 
 ### Chuck Chiang:
 This is in Taiwan, right?

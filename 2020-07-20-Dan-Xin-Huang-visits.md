@@ -106,7 +106,7 @@ That’s right. Maybe we focus this conversation on this topic. Then we can work
 Yes, with Google Translate and a lot of time, I can get through it, yeah.
 
 ### Audrey Tang:
-I think in English. Anyway, the primary materials…Like I just had a conversation with Yuval Noah Harari, the historian. That’s primarily in English, but I also make other materials such as the conversations with Brian Tseng, one of the stand-up comedians here. I translate that to English too. I’ll try to get you relevant source materials either translated or \[inaudible 12:02\] .
+I think in English. Anyway, the primary materials…Like I just had a conversation with Yuval Noah Harari, the historian. That’s primarily in English, but I also make other materials such as the conversations with Brian Tseng, one of the stand-up comedians here. I translate that to English too. I’ll try to get you relevant source materials either translated or \[inaudible 12:02\].
 
 ### Dan Xin Huang:
 I really appreciate that.
@@ -193,7 +193,7 @@ Back then, the ruling party determined the ruling ideology, which determines the
 Through direct democracy and participatory democracy, people blended into more eclectic, nuanced positions that instead of taking down opposing ideologies, we would instead build a more eclectic — everybody can live with it — meta-ideology. That’s the beginning of Taiwan’s democracy. From the very beginning, it was powered by the Web.
 
 ### Audrey Tang:
-Of course, before, there’s various lower level elections and things like that. That concentrates on maybe one city, one municipality, at a sub-national level. It feels still a little bit like under a overarching top-down architecture. You allow bits and pieces of self-determination, but never on the whole country level. ‘96 is really the first time that it’s a whole country level of democracy.
+Of course, before, there’s various lower level elections and things like that. That concentrates on maybe one city, one municipality, at a sub-national level. It feels still a little bit like under an overarching top-down architecture. You allow bits and pieces of self-determination, but never on the whole country level. ‘96 is really the first time that it’s a whole country level of democracy.
 
 ### Dan Xin Huang:
 How do you qualify that, from the beginning, it was powered by the Web?
@@ -220,7 +220,7 @@ Because there’s just a huge selection of BBS communities, those regulate thems
 How would you define your communities? Was that your primary, the swarm that you just described…
 
 ### Audrey Tang:
-Yeah, the BBS community and also the MUD, the multi-user dungeons, the MOOs. Basically, the idea is that we write code not as a abstract for the people way, but rather with the people.
+Yeah, the BBS community and also the MUD, the multi-user dungeons, the MOOs. Basically, the idea is that we write code not as an abstract for the people way, but rather with the people.
 
 ### Audrey Tang:
 Any player of that BBS, MUD, or other coaches with a little bit of programming knowledge will be able to co-determine the laws of physics that people live by. It’s very enabling. That’s the main idea I want to get across.
@@ -319,7 +319,7 @@ It sounds like a lot of that really goes back to the way that you came up.
 It’s not a new idea. It’s just participatory democracy. Previously, using paper which is a technology, too, or counting sticks or ropes, it really wasn’t easy for more than 100 or so people to make decisions together. The closest approximation was the Athenian democracy, where people just go to this really large square, the Acropolis.
 
 ### Audrey Tang:
-The thing is that the Acropolis, even if it’s very well-designed, doesn’t truly scale to the current populations that we have. The Internet is like a enabler that enables people to listen at scale. Whereas previously, the communication technology, like radio and so on, mostly enabled speaking at scale.
+The thing is that the Acropolis, even if it’s very well-designed, doesn’t truly scale to the current populations that we have. The Internet is like an enabler that enables people to listen at scale. Whereas previously, the communication technology, like radio and so on, mostly enabled speaking at scale.
 
 ### Audrey Tang:
 Listening at scale is truly where the participatory democracy is at. The early Internet workers really understood what they’re building is not another radio or another television, but rather something that enable people to feel closer to each other, despite the inherent limitation of the Dunbar’s number.
@@ -364,7 +364,7 @@ It always results in this reflection of the agree to disagree points, but also, 
 In Taiwan, the main rift in the previous national referendum day, which was the marriage equality, which is also a very polarizing topic in the US as well, super polarizing.
 
 ### Audrey Tang:
-What we did, though, was taking the results of the two referenda. One talking about the civic code, and one talks about the rights and duties of individuals when they marry, as well as their constitutional court ruling, and fused it into a social innovation that I call to \[non-English speech\] , legalizing the bylaws, but not the in-laws.
+What we did, though, was taking the results of the two referenda. One talking about the civic code, and one talks about the rights and duties of individuals when they marry, as well as their constitutional court ruling, and fused it into a social innovation that I call to \[non-English speech\], legalizing the bylaws, but not the in-laws.
 
 ### Audrey Tang:
 It’s basically saying that we hear both sides. We take both sides. They bump into each other, and the Jade Mountain rises again. Then we deliver an innovation that guarantees all the rights, duties, and protections of individuals when they wed.
@@ -475,7 +475,7 @@ I would argue even more important than if democracy is a black box that was give
 That was something that it sounds like they were sufficiently mindful of, that they really had to not just talk the talk, but walk the walk and show that they were changing, had changed in this way.
 
 ### Audrey Tang:
-The civil society banded together, as I mentioned, after the September 21 earthquake of ‘99. There’s always a outside gain, in the sense of people would just refer to the Wild Lily. If the constitutional amendment doesn’t work toward a truly participatory democracy, people can always do another Wild Lily movement.
+The civil society banded together, as I mentioned, after the September 21 earthquake of ‘99. There’s always an outside gain, in the sense of people would just refer to the Wild Lily. If the constitutional amendment doesn’t work toward a truly participatory democracy, people can always do another Wild Lily movement.
 
 ### Audrey Tang:
 Wild Lily was a movement in 1990 that, basically, people occupied the ZhongZheng Memorial Hall, the Chiang Kai-shek Memorial Hall. At that time, it was not the Liberty Square. It would later become the Liberty Square. More than 20,000 demonstrators and calling for direct election, of course. Probably an election for the National Assembly and became the legitimacy of the ‘96 direct election.

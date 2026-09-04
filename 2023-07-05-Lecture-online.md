@@ -151,7 +151,7 @@ Once they join procurement, become part of the government ecosystem, only the in
 
 So it will be a closed ecosystem. But because we insist on open interoperability, anyone, as I mentioned, closer to the pain, have access to the same data. And it also changes the political dynamics.
 
-One example, during the pandemic in 2020, we started rationing out masks very early on. Then a opposition party MP, now the mayor of Hsinchu, who was an MP at the time, Ann Kao, asked the Minister of Health and Welfare, saying, you say that each person on average is of the same distance of a nearby pharmacy, so everybody have the same chance, same effort to reaching this mask distribution.
+One example, during the pandemic in 2020, we started rationing out masks very early on. Then an opposition party MP, now the mayor of Hsinchu, who was an MP at the time, Ann Kao, asked the Minister of Health and Welfare, saying, you say that each person on average is of the same distance of a nearby pharmacy, so everybody have the same chance, same effort to reaching this mask distribution.
 
 But the OpenStreetMap community showed Ann Kao, using a visualization, that we only counted in kilometers, but not in travel time. So it actually biases a lot for people closer to metro or very convenient transportation. And people who have to wait for hours to get a bus doesn't get masks because it was unevenly distributed according to opportunity cost of time.
 

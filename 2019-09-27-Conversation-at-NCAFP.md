@@ -690,7 +690,7 @@ We spend huge amount of budget as part of our new curriculum on this kind of edu
 Education, always important, yeah, that’s the cover photo of the TV series, “The World Between Us,” or literally “The Distance to Evil.” That’s the highest-budget item.
 
 ### Audrey Tang:
-The slightly lower-budget item, which involves President Tsai being named the model digital citizen of LINE Corporation \[laughs\] , perhaps because she is not asking them to turn over their encryption key \[laughs\], is essentially LINE now saying, “Your clarification messages is too funny. It’s newsworthy by itself.” \[laughs\]
+The slightly lower-budget item, which involves President Tsai being named the model digital citizen of LINE Corporation \[laughs\], perhaps because she is not asking them to turn over their encryption key \[laughs\], is essentially LINE now saying, “Your clarification messages is too funny. It’s newsworthy by itself.” \[laughs\]
 
 ### Audrey Tang:
 Instead of being a content forum that spreads disinformation, LINE want to be a content forum that spreads organic, healthy food. \[laughs\] Basically, LINE Today is the news section of LINE. The top one, the section that’s on the top, is entertainment and gossip. The second section is real-time clarification. Then it’s the rest.
@@ -879,7 +879,7 @@ Considering the MPs were on strike, people took their position and do their work
 The g0v movement made a lot of tools, like if you enter your company registration number or your name of your company it shows exactly how the CSSTA affects you in a very factual, not at all partisan way of deliberation.
 
 ### Audrey Tang:
-People talk about the impact on agriculture, on labor, on telecommunication, on allowing them into our 4G base stations \[laughs\] , and things like that. Each NGO deliberated one aspect. It’s all livestreamed. It’s all transcribed. It’s all available online.
+People talk about the impact on agriculture, on labor, on telecommunication, on allowing them into our 4G base stations \[laughs\], and things like that. Each NGO deliberated one aspect. It’s all livestreamed. It’s all transcribed. It’s all available online.
 
 ### Audrey Tang:
 Every day we inched toward rough consensus a little bit. It’s certainly nonviolent in the Occupy Parliament area. After three weeks, a set of rough consensus emerged. The demonstration is not a protest.
@@ -930,7 +930,7 @@ After a while, you start seeing the polarized poles to start converging more int
 This is a real consultation run in Bowling Green, Kentucky. It’s a kind of virtual town hall thing. There are usually, of course, five divisive issues. If you read institutional or social media, you would think that’s all there is about politics. I’m sure that nowadays, here, maybe it’s just one issue.
 
 ### Audrey Tang:
-In any case \[laughs\] , actually there are a lot of consensus among people of different party affiliations. The top consensus of Bowling Green, Kentucky is that in our K-12, where we have STEM, we really should add arts and make it STEAM, as simple as that.
+In any case \[laughs\], actually there are a lot of consensus among people of different party affiliations. The top consensus of Bowling Green, Kentucky is that in our K-12, where we have STEM, we really should add arts and make it STEAM, as simple as that.
 
 ### Audrey Tang:
 This is readily implementable. It doesn’t even cost much. It’s missing in the current public policy. Everybody across parties or whatever ideologies say they want it. Why don’t we just ratify it? There’s no reason not to ratify it.

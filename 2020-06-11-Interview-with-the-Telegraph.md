@@ -16,7 +16,7 @@ What would say about the actual medical effectiveness of masks? You talk about s
 It doesn’t matter whether this is made of fabric, like t-shirt, literally, or medical mask or surgical or even N95 – I imagine you wouldn’t be able to wear it all day – because it’s a signal.
 
 ### Audrey Tang:
-The social signal is the part that has a effect on a larger crowd of people because just a few people wearing sends a signal that remind the other people, if they cannot keep a physical distance, to wear a mask, to protect themself from their own hands.
+The social signal is the part that has an effect on a larger crowd of people because just a few people wearing sends a signal that remind the other people, if they cannot keep a physical distance, to wear a mask, to protect themself from their own hands.
 
 ### Nicola Smith:
 What impact do you think it made to order on Taiwan’s strategy though? Taiwan’s been very successful, obviously, in fighting COVID-19.
@@ -282,7 +282,7 @@ However, even if it is just collected in your own firm, that is still new data b
 Even for that, like the sports watches, there are still people with reservations, because they may not completely trust the hardware even if the software is open-source. These are legitimate concerns.
 
 ### Audrey Tang:
-You will have to pair it with a incentive structure that acts in the individual’s best interest, just as I described with medical mask used in Taiwan, which is in the individual’s own best interest and not at all for a collectivist goal. Then, maybe that has a chance to spread.
+You will have to pair it with an incentive structure that acts in the individual’s best interest, just as I described with medical mask used in Taiwan, which is in the individual’s own best interest and not at all for a collectivist goal. Then, maybe that has a chance to spread.
 
 ### Nicola Smith:
 How would you do that? If you were presenting that scope to the public, how would you suggest doing that?
@@ -309,7 +309,7 @@ First off, I’m not a cryptographer. \[laughs\] I know cryptography, but I’m 
 They found some unintended flaws in it so that they – I think just last week – changed their design to address the cryptographers critiques. I don’t think Apple and Google start being malicious. It’s just cryptographic design – especially for a new scenario it’s difficult.
 
 ### Audrey Tang:
-Working with cryptographers on a accountable and open fashion will ultimately win trust from the cryptographic community, which would then help disseminate that scientific knowledge to the rest of population.
+Working with cryptographers on an accountable and open fashion will ultimately win trust from the cryptographic community, which would then help disseminate that scientific knowledge to the rest of population.
 
 ### Audrey Tang:
 I would say for cryptographic content you really need interactive games, professional illustrators, or something that try to make those ideas simple, because otherwise, cryptography by itself is math, and we all know that math information have the R-value probably under one.
@@ -475,7 +475,7 @@ You read about the tissue paper and the premier’s buttocks.
 Premier’s buttocks? \[laughs\]
 
 ### Audrey Tang:
-The premier’s buttocks, yes. The maker of that meme now are administration’s spokesperson, \[non-English speech\] , basically said, when he was a child, he used to look at this book, I think by Mai Kong, that says we only have one earth, which is a very famous environmental slogan. He just changed that to say that we only have a pair of buttocks each.
+The premier’s buttocks, yes. The maker of that meme now are administration’s spokesperson, \[non-English speech\], basically said, when he was a child, he used to look at this book, I think by Mai Kong, that says we only have one earth, which is a very famous environmental slogan. He just changed that to say that we only have a pair of buttocks each.
 
 ### Audrey Tang:
 Our premier wiggling his buttocks a little bit, making that point, \[laughs\] says that the rumor that says the medical masks ramping up will hurt the tissue paper production is not true because tissue paper are made out of South American material and medical masks, domestic material. This is hilarious because the packaging itself is of a tissue paper box.
@@ -490,7 +490,7 @@ Yeah.
 I didn’t notice that at first.
 
 ### Audrey Tang:
-It says in Mandarin, “ \[Mandarin\] ,” which means no matter how much you stockpile, we only have one pair of buttocks each. In Mandarin, stop stockpile is this homonym for buttocks. \[laughs\] It’s a pun on many levels.
+It says in Mandarin, “ \[Mandarin\],” which means no matter how much you stockpile, we only have one pair of buttocks each. In Mandarin, stop stockpile is this homonym for buttocks. \[laughs\] It’s a pun on many levels.
 
 ### Nicola Smith:
 That’s very funny. The premier didn’t mind being used?
@@ -542,7 +542,7 @@ Funny.
 How did you discover that?
 
 ### Audrey Tang:
-They did a attribution. We always do a notice and public notice if we can trace to the original poster.
+They did an attribution. We always do a notice and public notice if we can trace to the original poster.
 
 ### Nicola Smith:
 That was a local tissue…or international?
@@ -601,7 +601,7 @@ Yeah.
 The Taiwan Fact-Check Center, part of the International Fact-Checking Network, did the attribution work, did a notice and public notice. Initially, there’s this photo from somebody we know, which is the “Reuters,” which is a journalistic organization. It says on the caption that there were teenage protestors, and that’s it. That’s literally the only thing that Reuters say.
 
 ### Audrey Tang:
-This is a new caption to a real photo that’s taken by Reuters. It’s not just disinformation, it’s a info op. It’s a operation. We traced – and by we, the IFCN member, the Taiwan Fact-Check Center, not run by the state – the independent journalists traced that into the Weibo account of the Chang’an Sword, or the Zhongyang Zhengfawei, the CCP’s central political and law unit in the PRC.
+This is a new caption to a real photo that’s taken by Reuters. It’s not just disinformation, it’s an info op. It’s an operation. We traced – and by we, the IFCN member, the Taiwan Fact-Check Center, not run by the state – the independent journalists traced that into the Weibo account of the Chang’an Sword, or the Zhongyang Zhengfawei, the CCP’s central political and law unit in the PRC.
 
 ### Audrey Tang:
 They’re a state organ. Their original Weibo post says this.
@@ -647,7 +647,7 @@ People.
 …experts who are dedicated to that.
 
 ### Audrey Tang:
-Of course, and there’s now multiple organizations in Taiwan doing that. I think MyGoPen is also certified now as a International Fact-Check Network member.
+Of course, and there’s now multiple organizations in Taiwan doing that. I think MyGoPen is also certified now as an International Fact-Check Network member.
 
 ### Nicola Smith:
 Are other countries, Western countries, doing enough to counter this kind of disinformation?
@@ -658,10 +658,10 @@ The public awareness is most important than anything. When people laughed about 
 > (laughter)
 
 ### Audrey Tang:
-…and would keep a social distance \[laughs\] from the social media posts before clicking share. They would have a inoculation in their mind about this kind of messages because they have seen sufficient attribution work before and maybe even participated in some of the fact-checking work themself, which is the best way.
+…and would keep a social distance \[laughs\] from the social media posts before clicking share. They would have an inoculation in their mind about this kind of messages because they have seen sufficient attribution work before and maybe even participated in some of the fact-checking work themself, which is the best way.
 
 ### Audrey Tang:
-It’s just like learning to be amateur epidemiologist. It’s like being a amateur journalist. It shields you from this kind of narratives. When a majority of population have this exposure, this inoculation, this builds nerd immunity.
+It’s just like learning to be amateur epidemiologist. It’s like being an amateur journalist. It shields you from this kind of narratives. When a majority of population have this exposure, this inoculation, this builds nerd immunity.
 
 > (laughter)
 

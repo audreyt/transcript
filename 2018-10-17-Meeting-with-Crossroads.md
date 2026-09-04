@@ -792,7 +792,7 @@ Some way or another.
 A way to frame this is that we provide the best environment, that’s a MOEA message, for disruptive innovation to happen. Meanwhile, you can also join this very exciting, like the Microsoft AI Lab or whatever lab that international and at least Silicon Valley companies is setting up in Taiwan.
 
 ### Audrey Tang:
-If you’re in Southeast Asia and your country doesn’t have a Google R&amp;D center, \[laughs\] , come over and you’ll need the new immigration act to join the hub of Asia.
+If you’re in Southeast Asia and your country doesn’t have a Google R&amp;D center, \[laughs\], come over and you’ll need the new immigration act to join the hub of Asia.
 
 ### Justin Wu:
 Also one way for Taiwan to attract talent.

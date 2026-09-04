@@ -182,7 +182,7 @@ No, to have to go through that whole process.
 To actually get through the entire process.
 
 ### Audrey Tang:
-You’re operating a agency by yourself here, as a ARC holder?
+You’re operating an agency by yourself here, as an ARC holder?
 
 ### Didi Bethurum:
 I have an ARC extension right now, so I’m able to potentially consult.
@@ -334,7 +334,7 @@ It sounds like a dial-up thing.
 > (laughter)
 
 ### Audrey Tang:
-There’s a new Economic Immigration Act. I’m sure you’re aware of it, \[Taiwanese\] .
+There’s a new Economic Immigration Act. I’m sure you’re aware of it, \[Taiwanese\].
 
 ### David Chang:
 Yes.
@@ -381,7 +381,7 @@ There’s a general sense of, &quot;Yeah, maybe they are creating jobs,&quot; an
 Whether we can get it passed or not, it’s anyone’s call.
 
 ### Audrey Tang:
-Yeah, it is a stretch, but help framing the narrative, too, from the perspective of a person who really want to contribute to Taiwan, not just in a economic sense, but as a brand-building sense. I think that will...
+Yeah, it is a stretch, but help framing the narrative, too, from the perspective of a person who really want to contribute to Taiwan, not just in an economic sense, but as a brand-building sense. I think that will...
 
 ### Audrey Tang:
 ...massively help the message that the NDC is trying to convey to the parliament. This is a talent visibility play. This is not just a &quot;we don’t have enough babies born, so we need more work force&quot; play.
@@ -456,7 +456,7 @@ Right. We’re now saying, like there’s a September, I think -- November? conf
 Yeah, I saw that one.
 
 ### Audrey Tang:
-The idea is really pushing it, and it’s part of the Global Entrepreneurship network, and so they’re going to have their own conference here in Taiwan, the summit. Just like in the digital economy, Digital Innovation Forum, which was a APAC thing.
+The idea is really pushing it, and it’s part of the Global Entrepreneurship network, and so they’re going to have their own conference here in Taiwan, the summit. Just like in the digital economy, Digital Innovation Forum, which was an APAC thing.
 
 ### Audrey Tang:
 Still, what we’re saying is that we’re enabling social impact with AI-plus, I would say. Whatever technology and whatever jobs we create, those are just instruments.

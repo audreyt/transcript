@@ -136,7 +136,7 @@ Whenever there is a pseudonymous way of expressing things it needs to be covered
 I only answer questions until the time runs out. Basically, after this one from CJ, I ran out of time. This is good because I know that even though it’s not real names, when I answer the top question I also answer certain other people’s questions, so it saves time.
 
 ### Audrey Tang:
-Also, it makes it easier for people in the lesser power. For example, if they attend a meeting, but as a apprentice, a underling, staff, or something, they often wouldn’t dare to raise hands, because their superiors are there. They would refrain from contributing.
+Also, it makes it easier for people in the lesser power. For example, if they attend a meeting, but as an apprentice, an underling, staff, or something, they often wouldn’t dare to raise hands, because their superiors are there. They would refrain from contributing.
 
 ### Audrey Tang:
 We really want those contributions. A way for them to voice their concerns while having a moderation is a very good thing.
@@ -186,7 +186,7 @@ Long story short, there was this Occupy Movement. The Occupy Movement in 2014 de
 Case in point is that it stem out of a trade service agreement, the Cross-Straight Trade Service Agreement. The trade service agreement, basically, the MPs said that they won’t deliberate it, or they won’t discuss it, because they consider it domestic, or something. It’s a technical issue.
 
 ### Audrey Tang:
-Instead of just protesting, there’s people who went into the parliament and say, &quot;If the MPs don’t deliberate it, we’re doing their job for them.&quot; This is a important part of the Taiwan’s current political climate, is that people don’t generally wait for government to do things.
+Instead of just protesting, there’s people who went into the parliament and say, &quot;If the MPs don’t deliberate it, we’re doing their job for them.&quot; This is an important part of the Taiwan’s current political climate, is that people don’t generally wait for government to do things.
 
 ### Audrey Tang:
 If the government can do this, it’s great. People like it. If the government is lacking in some regard, instead of just protesting people go and say, &quot;OK, here’s a better way of doing things.&quot;
@@ -235,7 +235,7 @@ Because we relinquish most of our copyright, so when the next procurement cycle 
 We see this happening for a lot of websites. This is the first website before I joined gov-zero in 2012.
 
 ### Audrey Tang:
-In end of 2012 there was this idea of people not able to understand the national budget. The government even made a advertisement about that, and then this was shown as a demonstration that, actually, people can understand it.
+In end of 2012 there was this idea of people not able to understand the national budget. The government even made an advertisement about that, and then this was shown as a demonstration that, actually, people can understand it.
 
 ### Audrey Tang:
 One of the point here is that it’s interactive. People can press like or unlike on budget items. More importantly, they can ask questions.
@@ -259,7 +259,7 @@ At the end of that year, at end of 2014, there was a peaceful revolution. At the
 All the people who didn’t say transparency in their campaign lost the election in the mayoral election. Because of this, the prime minister at the time, Jiang Yi-huah, resigned. There’s a new prime minister, Mao Chi-kuo at the time, that said, &quot;OK, from now in crowdsourcing and open data are going to be the national direction.&quot;
 
 ### Audrey Tang:
-The occupiers, the civic tech people who supported them, were then invited as mentors and advisers to the public administration. From that point on I, as a consultant, or as a adviser, handled many cases, such as the Uber case, the Airbnb case, the closely-held companies, Internet liquor sales, many interesting cases, working alongside the different ministries.
+The occupiers, the civic tech people who supported them, were then invited as mentors and advisers to the public administration. From that point on I, as a consultant, or as an adviser, handled many cases, such as the Uber case, the Airbnb case, the closely-held companies, Internet liquor sales, many interesting cases, working alongside the different ministries.
 
 ### Audrey Tang:
 At the time I was this independent consultant or adviser to the cyberspace minister. At the time, Minister Jaclyn Tsai, who worked in IBM Asia as head of Asian legal department.
@@ -369,7 +369,7 @@ If it succeeds, if the society think it’s a good idea, then it falls on the re
 It shifts the government’s role from someone who regulates to someone who co-creates. We’re going to do this for driverless cars, also, and even for general Public Sandbox Act.
 
 ### Audrey Tang:
-This, coupled with the new NDC, the National Development Council’s point that any startup or any innovative company who can identify a interpretation of the law that’s blocking their business model while not explicitly contradicting the law.
+This, coupled with the new NDC, the National Development Council’s point that any startup or any innovative company who can identify an interpretation of the law that’s blocking their business model while not explicitly contradicting the law.
 
 ### Audrey Tang:
 The law doesn’t say you can’t do this, but interpretation says you can’t do this. Case in point, in our Psychotherapists Act there is a thing that says that psychotherapists need to work in a specific clinic, but it doesn’t say whether the patient, the client, need to be on the same place as well.
@@ -490,7 +490,7 @@ This is what we’re seeing in the new wave of startups in Taiwan, in that more 
 Again, we’re not billing this as software not talking to hardware. It’s not in Taiwan’s DNA. It may be in some Valley companies’ but it’s not in Taiwan.
 
 ### Audrey Tang:
-AI Labs is interesting because it’s founded by Ethan Tu, who founded the largest social media site in Taiwan, the PTT. PTT, still, is a nonprofit. Its venture as a nonprofit created a absolute freedom of speech environment that’s not so easy to maintain if you’re a profit-seeking entity.
+AI Labs is interesting because it’s founded by Ethan Tu, who founded the largest social media site in Taiwan, the PTT. PTT, still, is a nonprofit. Its venture as a nonprofit created an absolute freedom of speech environment that’s not so easy to maintain if you’re a profit-seeking entity.
 
 ### Audrey Tang:
 Tu also, in his day job, worked as director of artificial intelligence research, A-Pac, Microsoft. He also has a profit-seeking side working at Microsoft, but then he quit his job in Microsoft and started a company here.
@@ -562,7 +562,7 @@ That’s what it was?
 Right, but it also searches different search engines, like AltaVista, or Lycos, or whatever.
 
 ### Audrey Tang:
-It also does a lot of other things. We branched out into one of the earliest C2C auction sites. It’s like eBay, or more like Craigslist, but you get the idea. Then, also, a instant messenger. That’s after I quit the company.
+It also does a lot of other things. We branched out into one of the earliest C2C auction sites. It’s like eBay, or more like Craigslist, but you get the idea. Then, also, an instant messenger. That’s after I quit the company.
 
 ### Audrey Tang:
 There’s many other things that Inforian did around the time. There’s a social media-like site, a proto-Facebook, if you will, and many other things.
@@ -721,7 +721,7 @@ But in the new curriculum, we’re saying we can’t predict the world 12 years 
 We think the three fundamental characters -- being autonomous, autonomy, interaction, being able to communicate, common good, being able to think in a larger picture -- remains important humanistic values no matter the world or AI changes.
 
 ### Audrey Tang:
-As part of the three main characters, the communication one, the interaction one, we design a part called ICT and Media Literacy, \[Taiwanese\] . This literacy is not designed to have just two-hour every week. It’s not a class.
+As part of the three main characters, the communication one, the interaction one, we design a part called ICT and Media Literacy, \[Taiwanese\]. This literacy is not designed to have just two-hour every week. It’s not a class.
 
 ### Audrey Tang:
 It’s a way for textbook makers, for teachers to design their education methods so that, again, just like what I mentioned about regulation, the teacher is now a co-learner with the student rather than a lecturer.
@@ -808,7 +808,7 @@ On the other hand, it means that I can’t experience ecstasy or a very strong s
 At the moment, my emotional circuit is wired such that I can’t feel anger.
 
 ### Felix Lill:
-You don’t remember the last time you felt anger, sadness, or \[non-English speech\] , ache, you know?
+You don’t remember the last time you felt anger, sadness, or \[non-English speech\], ache, you know?
 
 ### Audrey Tang:
 Sadness, of course, certainly.

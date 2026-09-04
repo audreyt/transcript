@@ -79,7 +79,7 @@ When I was visiting Silicon Valley in ‘90, I think it was ‘98 or something, 
 To open up its source code, and not for altruistic purposes, but rather for commercial purposes, because it makes it easier to maintain. It makes it easier to look at their cybersecurity profile and have volunteer, essentially users were also abusers, to help making things better, improve on things.
 
 ### Audrey Tang:
-There was this whole movement of pushing free software for economic not a ethical or social perspective. That’s how I got involved in Silicon Valley, just by talking with my free software friends that they were online, but at the same time, they were beginning to get jobs from traditional commercial companies.
+There was this whole movement of pushing free software for economic not an ethical or social perspective. That’s how I got involved in Silicon Valley, just by talking with my free software friends that they were online, but at the same time, they were beginning to get jobs from traditional commercial companies.
 
 ### Audrey Tang:
 I remember first doing just consultancy work, just fixing up documentations, just patching up their issues and one of my first work is to provide Traditional Chinese, to Simplified Chinese translation software.
@@ -177,7 +177,7 @@ We have more than 15 indigenous nations, and they share the same culture with th
 If I’m not a conservative, in the sense of conserving the tens of thousands of years of western, of our indigenous traditions, it’s very easy to introduce new digital policies that essentially forces everybody to just learn the very resourceful languages and cultures. It will contribute to the decimation of their culture.
 
 ### Audrey Tang:
-Because I’m a conservative, I help the ministries of culture, of education, and so on, to make sure that whether you’re a ethnical Han or some other ethnicity, if you identify with any of the indigenous cultures and languages, you are actually capable of joining both physically and virtually, and to learn mathematics, learn physics, learn anything using the indigenous culture, not just their language.
+Because I’m a conservative, I help the ministries of culture, of education, and so on, to make sure that whether you’re an ethnical Han or some other ethnicity, if you identify with any of the indigenous cultures and languages, you are actually capable of joining both physically and virtually, and to learn mathematics, learn physics, learn anything using the indigenous culture, not just their language.
 
 ### Audrey Tang:
 By being a conservative…I just named that. I think an intergenerational solidarity is very important. The way that their ancestors have always do things should be respected, and this extends to other ethnicities and cultures that’s on the Taiwan Island.
@@ -323,7 +323,7 @@ What we have found is the audio quality is very important. Video, also important
 All these different places, we will start by making a round of self-introduction. If the sound or the video doesn’t work, we just drop the site because dropping the site and having people following the transcript afterward is better than people waiting for a lagging, pixelating, feels really bad projection of ourselves.
 
 ### Audrey Tang:
-What we have discovered is as long as it’s bi-directional high-speed live streaming, then it’s good. In Taiwan, we say \[foreign language\] . Face-to-face builds 30 percent towards trust and live streaming in high definition maybe builds 20 percent. If it’s not high quality, then it’s negative 20 percent.
+What we have discovered is as long as it’s bi-directional high-speed live streaming, then it’s good. In Taiwan, we say \[foreign language\]. Face-to-face builds 30 percent towards trust and live streaming in high definition maybe builds 20 percent. If it’s not high quality, then it’s negative 20 percent.
 
 ### Chinasa Chukwu:
 Carrying on with this then, how far do you see this type of transparency going? Do you imagine a world, one day, where every country has this level of transparency or even a higher level of transparency and all the platforms are linked, so it becomes a mass, global, collaborative process when it comes to policymaking?
@@ -494,7 +494,7 @@ G0v is based on the idea that each project can potentially be forked into many p
 Then, you’ve spoken about finding a common cause and pushing forward with that beyond approaching it from different perspectives as it applies to policy review. How easy or how difficult have you found this to be in practice?
 
 ### Audrey Tang:
-It’s always easy. Instead of aiming for a consensus, you’re aiming for something that people can live with. The interesting thing is that in Mandarin, we say \[Mandarin\] , which can be described as a very fine consensus or a very rough consensus that simply we agree to disagree or that we will live it.
+It’s always easy. Instead of aiming for a consensus, you’re aiming for something that people can live with. The interesting thing is that in Mandarin, we say \[Mandarin\], which can be described as a very fine consensus or a very rough consensus that simply we agree to disagree or that we will live it.
 
 ### Audrey Tang:
 Because \[Mandarin\] literally only means common understanding so how fine or rough is this common understanding? It’s something we can work on over time. The important thing simply is to not leave the table.

@@ -61,13 +61,13 @@ It’s all social-sector governance or local-level governance, instead of just e
 Talk to me about the Economic Power-Up Plan.
 
 ### Audrey Tang:
-The Economic Power-Up Plan was a interesting plan that tried to motivate the economy, but it’s “too complicated to explain” at the time. The government at the time, in 2012, tried to film something that basically have a voice-over that says, “The Power Plan is great but too complicated for citizens to understand. So, just follow it along and make it happen.”
+The Economic Power-Up Plan was an interesting plan that tried to motivate the economy, but it’s “too complicated to explain” at the time. The government at the time, in 2012, tried to film something that basically have a voice-over that says, “The Power Plan is great but too complicated for citizens to understand. So, just follow it along and make it happen.”
 
 ### Audrey Tang:
 It’s the first advertisement on the Internet that’s flagged as spam by citizens, from the central administration, so a complete flop. What it represents is the kind of elitist mindset that thinks the public, the “commoners,” have no way of understanding something as comprehensive as a multi-year budget.
 
 ### Audrey Tang:
-The civic hackers at the time, four of them, imagined that it’s not because we’re dumb, but it’s because it’s not made in accessible way. They went up and did a interactive visualization of the national budget just to show that people can actually collectively understand budget very well.
+The civic hackers at the time, four of them, imagined that it’s not because we’re dumb, but it’s because it’s not made in accessible way. They went up and did an interactive visualization of the national budget just to show that people can actually collectively understand budget very well.
 
 ### Shiroma Silva:
 The sun keeps coming in and out. It appears on your face quite a lot.
@@ -868,7 +868,7 @@ It’s not like that.
 OK, so what? That’s just a question that people may be thinking.
 
 ### Audrey Tang:
-What we did was that as soon as I become the Digital Minister, there was already a extension of the regulatory pre-announcement period as negotiated by then Secretary General Dr. Chen Mei-ling. It used to be one week or two, and people can only call a single person. Nobody knows 5,000 people have already called that poor person before, so it doesn’t work. In short, it doesn’t work.
+What we did was that as soon as I become the Digital Minister, there was already an extension of the regulatory pre-announcement period as negotiated by then Secretary General Dr. Chen Mei-ling. It used to be one week or two, and people can only call a single person. Nobody knows 5,000 people have already called that poor person before, so it doesn’t work. In short, it doesn’t work.
 
 ### Audrey Tang:
 After Dr. Chen Mei-ling arranged so that it becomes 60 days, I joined as Digital Minister and say, “Hey, why don’t we take part of vTaiwan and make the regulatory pre-announcement period, now that it’s 60 days, public, so that people can offer their commentary in public?”
@@ -1045,7 +1045,7 @@ If we take the Uber case, for instance, could you just give us in really simple 
 Actually, the case is not called the Uber case on pol.is. It’s called People Without Professional Driver’s License Driving for Profit. It’s very specific. The theory of overlapping consensus tells us that the more specific it is, the more people are able to transcend ideological boundaries. If we start saying, “Sharing economy – good or not?” it’s lost.
 
 ### Audrey Tang:
-Basically, it’s a very specific case. The initial division is essentially people who would prefer convenience over the legality of the service, versus people who would prefer a insurance, a professional license, and the safety of it over convenience. It’s different tribes. Roughly speaking, it’s Uber drivers, Uber passengers, other drivers, other passengers.
+Basically, it’s a very specific case. The initial division is essentially people who would prefer convenience over the legality of the service, versus people who would prefer an insurance, a professional license, and the safety of it over convenience. It’s different tribes. Roughly speaking, it’s Uber drivers, Uber passengers, other drivers, other passengers.
 
 ### Audrey Tang:
 You can literally see them in the four corners. Over time, people do find consensus. People start agreeing that having insurance is, after all, very important…That in order to have insurance, some kind of professional certification is therefore very important, and that taxation need to be…
@@ -1075,7 +1075,7 @@ I just do the same?
 Yeah, just say the same thing.
 
 ### Audrey Tang:
-We don’t call it a Uber case. The case is very specifically, what about driving for profit without a professional driver’s license in your own car? The idea is that the more specific the case is, the more likely people can come to consensus. If we ask, what’s your take on sharing economy, it’s anybody’s guess, because it’s too vague as to make any sense.
+We don’t call it an Uber case. The case is very specifically, what about driving for profit without a professional driver’s license in your own car? The idea is that the more specific the case is, the more likely people can come to consensus. If we ask, what’s your take on sharing economy, it’s anybody’s guess, because it’s too vague as to make any sense.
 
 ### Audrey Tang:
 What we were proposing essentially is that we ask all the drivers, it could be taxi or Uber drivers back in 2015…That’s when Uber first started engaging amateur drivers. And so, everybody came in. Very quickly, we can see the different groups or tribes, if you prefer, Uber drivers, taxi drivers, Uber passengers, other passengers.
@@ -1294,7 +1294,7 @@ All right, let’s go.
 It sounds like technology is also changing people’s expectations around democracy.
 
 ### Audrey Tang:
-Yes. As I mentioned, my first experiences with Internet governance, they’re all real-time. If I send a email, if there’s a consensus from our working group, within months, they become policy. Then they become…Just a second.
+Yes. As I mentioned, my first experiences with Internet governance, they’re all real-time. If I send an email, if there’s a consensus from our working group, within months, they become policy. Then they become…Just a second.
 
 ### Audrey Tang:
 If I send an email into a working group, and we have consensus, then it becomes a request for comment. That becomes policy. That becomes code. It all feels like a direct engagement with the policy-making process.
@@ -1324,7 +1324,7 @@ What could the UK learn from this?
 While I’m not terribly informed of UK politics, I do know that the UK basically defined a lot of what we know as liberal democracy nowadays in the world. Maybe one of the things that people can do is just to look at the existing system that are working pretty well on the floor, in the real world, before Internet arrives.
 
 ### Audrey Tang:
-For example, people’s way of getting a hearing from parliamentarians. MPs way of accepting petitions. If you modernize that and empower the people to have real agenda-setting power, while overcoming the noise-to-signal-ratio problem, then you can very easily augment that kind of consensus making into a already pretty working well, well-oiled, institutionalized democracy system.
+For example, people’s way of getting a hearing from parliamentarians. MPs way of accepting petitions. If you modernize that and empower the people to have real agenda-setting power, while overcoming the noise-to-signal-ratio problem, then you can very easily augment that kind of consensus making into an already pretty working well, well-oiled, institutionalized democracy system.
 
 ### Audrey Tang:
 This is what my friend, Indy Johar, says is the dark matter of democracy. It’s the public service looking at newer engagement methods and see only the confusion and noise.

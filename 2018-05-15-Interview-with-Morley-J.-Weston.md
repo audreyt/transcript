@@ -43,7 +43,7 @@ What do you think the state of media literacy in Taiwan is at the moment?
 I was just [talking with journalists from Global Views Monthly](https://sayit.pdis.nat.gov.tw/2018-05-15-%E9%81%A0%E8%A6%8B%E9%9B%9C%E8%AA%8C%E4%BE%86%E8%A8%AA), the GVM. They are very interested in this topic, as well. I think people in Taiwan who are digital natives or people who learned to use Internet, it’s just part of their life. They don’t think real space/cyberspace. It’s already very integrated.
 
 ### Audrey Tang:
-They get exposed to all kind of different materials, so source checking and so on, it’s already a instinct. It’s very difficult to infect people with a viral message and expect people not to fact check. In that sense, I think Taiwan’s very healthy.
+They get exposed to all kind of different materials, so source checking and so on, it’s already an instinct. It’s very difficult to infect people with a viral message and expect people not to fact check. In that sense, I think Taiwan’s very healthy.
 
 ### Audrey Tang:
 Of course, there are pockets of population who are educated in a more authoritarian era, before the martial law was lifted. They tend to look at messages printed in some form that were spoken with some authoritative voice or are credited to some authoritative figure and be more inclined to believe it. That is really a Taiwan specific issue.
@@ -335,7 +335,7 @@ Fair enough.
 > (laughter)
 
 ### Audrey Tang:
-Other than that, I think education is the lifelong thing. Recently, Minister of Education said that even if you’re already going through adulthood, you can easily get back to a college and apply for a up to 10 years program.
+Other than that, I think education is the lifelong thing. Recently, Minister of Education said that even if you’re already going through adulthood, you can easily get back to a college and apply for an up to 10 years program.
 
 ### Audrey Tang:
 University or college, including the normal universities, and also what we call experimental schools now up to university can apply to be experimental as well. Also, community colleges, they’re the three pillars of that, should and it’s already engaging with the public more. If you want to look into details, the key word here is University Social Responsibility or USR.

@@ -67,7 +67,7 @@ That’s very interesting.
 That’s interesting terminology. Usually, there are some literature saying fake news. In my country, they also say fake news is…
 
 ### Audrey Tang：
-That’s right, but in one of the UN reports that I read, they also crossed the term fake news and switched to disinformation. Nowadays, when we talk about the disinformation crisis, we also call it a infodemic. That’s something that’s new this year because of the pandemic.
+That’s right, but in one of the UN reports that I read, they also crossed the term fake news and switched to disinformation. Nowadays, when we talk about the disinformation crisis, we also call it an infodemic. That’s something that’s new this year because of the pandemic.
 
 ### Rino Nugroho：
 Sorry again, but it’s part of the process of the interview. What is your position right now that may affect or affected by the disinformation or misinformation?
@@ -121,7 +121,7 @@ That’s interesting. If you say the social sector, who would be in the social s
 For example, there is this idea that professional journalists can serve in a non-partisan way to fact-check existing messages. In Taiwan, for example, that’s the Taiwan Fact-Check Center, which is part of the International Fact-Checking Network, the IFCN.
 
 ### Audrey Tang：
-Because it’s voluntary, it solves a common problem, and anyone can contribute. That fits the definition of social sector. Certain, the TFCC is not a business in the private sector. Neither are they a extension of the administration, so they are not part of the public sector. I would refer to the TFCC, for example, as a social-sector actor.
+Because it’s voluntary, it solves a common problem, and anyone can contribute. That fits the definition of social sector. Certain, the TFCC is not a business in the private sector. Neither are they an extension of the administration, so they are not part of the public sector. I would refer to the TFCC, for example, as a social-sector actor.
 
 ### Rino Nugroho：
 TFCC is like a crowd concept? People will try to do the fact-check rather than…
@@ -166,16 +166,16 @@ That’s interesting.
 What made this kind of fact-check…
 
 ### Audrey Tang：
-In Taiwan, members of IFCN is just MyGoPen and TFCC. There are also other non-IFCN-accredited fact-checking groups available. For example, the Cofacts project from g0v is not a IFCN member, but it is trusted by many. Cofacts also partners, for example, with Trend Micro, which is Taiwan’s leading antivirus company. That’s one example.
+In Taiwan, members of IFCN is just MyGoPen and TFCC. There are also other non-IFCN-accredited fact-checking groups available. For example, the Cofacts project from g0v is not an IFCN member, but it is trusted by many. Cofacts also partners, for example, with Trend Micro, which is Taiwan’s leading antivirus company. That’s one example.
 
 ### Audrey Tang：
-There’s a company called Whoscall in Taiwan that does fraud detection for caller identification and so on, but they are not a IFCN…
+There’s a company called Whoscall in Taiwan that does fraud detection for caller identification and so on, but they are not an IFCN…
 
 ### Dachi Liao：
 Fact-check.
 
 ### Audrey Tang：
-They’re not a IFCN member, but they do have a chat bot that partners with Cofacts for fact-checking and scam detection purposes. It’s called Meiyu 美玉姨, Aunt Meiyu.
+They’re not an IFCN member, but they do have a chat bot that partners with Cofacts for fact-checking and scam detection purposes. It’s called Meiyu 美玉姨, Aunt Meiyu.
 
 ### Audrey Tang：
 Whoscall and Meiyu are not IFCN members.
@@ -596,7 +596,7 @@ Thank you very much, minister. In our case, the responsibility is taken care of 
 Every ministry has the right to counter the disinformation?
 
 ### Audrey Tang：
-They have a obligation.
+They have an obligation.
 
 ### Rino Nugroho：
 How they do that? They use their official accounts, LINE or Twitter?
@@ -640,7 +640,7 @@ You want to share with the…
 Or your perception on other?
 
 ### Audrey Tang：
-Why not? There is a interesting development this year that combines the cybersecurity attack and the disinformation operation together. In the Taiwan Fact-Check Center, if you search for Team T5 and Taiwan Fact-Check Center, you see the report. This is in Mandarin, but, of course, you can machine translate it.
+Why not? There is an interesting development this year that combines the cybersecurity attack and the disinformation operation together. In the Taiwan Fact-Check Center, if you search for Team T5 and Taiwan Fact-Check Center, you see the report. This is in Mandarin, but, of course, you can machine translate it.
 
 ### Audrey Tang：
 What this is saying is that the advanced, persistent threats – essentially state-sponsored, black-hat hackers – are now helping the disinformation organizers to create fake accounts that makes all sort of cybersecurity-related disinformation. It’s both to shield the disinformation actors from being identified as, well, professionals.

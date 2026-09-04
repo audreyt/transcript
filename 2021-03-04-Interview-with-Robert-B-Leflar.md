@@ -253,7 +253,7 @@ We had a system where people who already have some mask at home can choose to no
 Eight million, did you say?
 
 ### Audrey Tang:
-Yeah, here is the number. It’s in TaiwanCanHelp.us. Half of these citizens choose to publish their name. It’s kind of a award honor thing. Half of the citizens choose to remain anonymous.
+Yeah, here is the number. It’s in TaiwanCanHelp.us. Half of these citizens choose to publish their name. It’s kind of an award honor thing. Half of the citizens choose to remain anonymous.
 
 > (pause)
 
@@ -267,13 +267,13 @@ Earlier on, the human rights groups focus on the home quarantine measures.
 We use what you would call conditional quarantine system to make sure that when people choose to go to a home quarantine, the sim card of their phone is registered to their telecoms. That the telecoms can send automated SMS messages if they break out of their quarantine, as measured by the signal strength, to the nearby cell phone towers. It’s called the electronic fence.
 
 ### Audrey Tang:
-If they venture out, a alarm SMS is first sent to their phone and then to the local officials, usually health officers. If they are already diagnosed with symptoms, then it’s also sent to the police so that people wouldn’t break out from quarantine and will collect, I think, $100 per day as a stipend. If they break out the quarantine, it’s 1,000 times that.
+If they venture out, an alarm SMS is first sent to their phone and then to the local officials, usually health officers. If they are already diagnosed with symptoms, then it’s also sent to the police so that people wouldn’t break out from quarantine and will collect, I think, $100 per day as a stipend. If they break out the quarantine, it’s 1,000 times that.
 
 ### Audrey Tang:
 The human rights watch groups were quite worried about whether it is telecom data, metadata, location data, which are of course private data, personal data, which gets processed by third parties, whether it will leak out into advertisement or whatever and things like that.
 
 ### Audrey Tang:
-The Ministry of Justice did a official response to the legislature which did a public hearing on it in April 9th, 2020. This report contains the Ministry of Justice explanation of why this is proportional necessary. No better alternative measures exist and a criminal penalty that a public servant will suffer if they somehow work outside of the very strict boundary of the CDCA.
+The Ministry of Justice did an official response to the legislature which did a public hearing on it in April 9th, 2020. This report contains the Ministry of Justice explanation of why this is proportional necessary. No better alternative measures exist and a criminal penalty that a public servant will suffer if they somehow work outside of the very strict boundary of the CDCA.
 
 ### Robert B Leflar:
 When you say public servant will somehow suffer, what is…?
@@ -376,10 +376,10 @@ The Ho Ping Hospital case was one such case but this time around, no. According 
 I’ve heard mention of this hospital case back in 2003 that you just adverted to. Could you tell me more about that? I haven’t learnt about that much.
 
 ### Audrey Tang:
-Sure. It was a case of a unannounced sudden barricading of the hospital so that the people there which it were deemed a high risk of SARS carrying couldn’t get out. It was quite traumatic really because there weren’t sufficient PPEs within the hospital. I think at least one staff tried to jump outside. Things like that. It wasn’t pretty.
+Sure. It was a case of an unannounced sudden barricading of the hospital so that the people there which it were deemed a high risk of SARS carrying couldn’t get out. It was quite traumatic really because there weren’t sufficient PPEs within the hospital. I think at least one staff tried to jump outside. Things like that. It wasn’t pretty.
 
 ### Audrey Tang:
-They brought it all the way to the Constitutional Court, arguing that such a unpre announced sudden barricading is unconstitutional. I think the Constitutional Court said that because there was no way that the legislatures could have foreseen this particular scenario, so it’s not quite unconstitutional.
+They brought it all the way to the Constitutional Court, arguing that such an unpre announced sudden barricading is unconstitutional. I think the Constitutional Court said that because there was no way that the legislatures could have foreseen this particular scenario, so it’s not quite unconstitutional.
 
 ### Audrey Tang:
 Now we had the experience of SARS, there is no excuse for the legislature not to put the due process in law so that when SARS 2.0 comes, if we still do something like that, that would be unconstitutional.

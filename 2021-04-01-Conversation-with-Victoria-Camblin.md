@@ -93,10 +93,10 @@ It is.
 …which exactly, it is. I don’t think anyone else I’ve spoken to has given it quite that scope.
 
 ### Audrey Tang:
-OK. It has regional chapters, and municipal and city chapters which makes it, by definition, a international NGO. Of course, I understand many other people see it more as a hashtag. This new century style idea was spreading.
+OK. It has regional chapters, and municipal and city chapters which makes it, by definition, an international NGO. Of course, I understand many other people see it more as a hashtag. This new century style idea was spreading.
 
 ### Audrey Tang:
-We don’t have any de facto control, not like the traditional NGOs, which is also true. We’re more hashtags than taxonomy, but for the purpose of the cabinet office, it’s a international NGO.
+We don’t have any de facto control, not like the traditional NGOs, which is also true. We’re more hashtags than taxonomy, but for the purpose of the cabinet office, it’s an international NGO.
 
 ### Victoria Camblin:
 Absolutely. Also, how do we wrangle the hashtag into something, a functioning body that can assist where we need it as an international NGO but without institutional paralysis or whatever. That’s also what’s about how you’ve navigated it in particular, not just board member of several NGOs with that where there was a president for that.
@@ -120,7 +120,7 @@ For the past year or so, I’ve been telling the Telemundo as a new story, new i
 Then the obvious counter question is, “Without lockdown, without takedown, without top down or shutdown, that’s all very good, but then with what?” That’s the main question that I get asked. To me, our RxC answers a little bit of that with what.
 
 ### Audrey Tang:
-In summary, I refer to it as variously people public private partnership, social sector first approach or just a plurality instead of singularity. All this refers to essentially the same thing. It’s about a institution built upon one’s self trust or autonomy to act competence, not literacy, trusting each other through transparency and participation, accountability. Instead of trusting them, be it the damn being, sorry, I have to go back to the transcript to fix this.
+In summary, I refer to it as variously people public private partnership, social sector first approach or just a plurality instead of singularity. All this refers to essentially the same thing. It’s about an institution built upon one’s self trust or autonomy to act competence, not literacy, trusting each other through transparency and participation, accountability. Instead of trusting them, be it the damn being, sorry, I have to go back to the transcript to fix this.
 
 ### Audrey Tang:
 With all due respect, them being the World Health Organization \[laughs\] are the damned as the United Nations and its high level multilateral, control over the ITU, over the Internet, which probably isn’t actual control, is more formal, only multilateral, but exclusive of all stakeholders.
@@ -536,7 +536,7 @@ There’s only so many area in which you can do that, which is why, I assume, ac
 Yeah, that’s right. I mean, I’m totally fine with promiscuous. I think it’s \[laughs\] precisely the right word, unless, of course one would like to say adhocracy or something like that, but I don’t think adhocracy pertains to individuals or two ideas.
 
 ### Audrey Tang:
-Adhocracy mostly to me means something that \[laughs\] actually you describe after the fact. Like we’ve had a Occupy. We describe it as adhocracy.
+Adhocracy mostly to me means something that \[laughs\] actually you describe after the fact. Like we’ve had an Occupy. We describe it as adhocracy.
 
 ### Audrey Tang:
 Nobody, four or five people start saying, let’s build adhocracy together. That doesn’t seem to work like this, but promiscuous, it’s a very scalable concept. One can apply that to a certain individual, \[laughs\] two persons, three people. I mean, the more the merrier, but it’s scale free.
@@ -572,7 +572,7 @@ Intellectually curious, obviously that thing too, but for me it’s more like go
 I know, \[laughs\] yeah. I mean, as a lowercase minister, I preach, I pray, I write poetry, I sing, and I hear confessions, so that’s sort of ministered too. \[laughs\]
 
 ### Victoria Camblin:
-Right, exactly. That is interesting too and there is an unite without the religious comparison, we could go a long way with in terms of these communities too.
+Right, exactly. That is interesting too and there is a unity without the religious comparison, we could go a long way with in terms of these communities too.
 
 ### Audrey Tang:
 Yeah, so this is my recent tweet with a fellow Congressperson. He’s a legislator and a member of Cabinet.

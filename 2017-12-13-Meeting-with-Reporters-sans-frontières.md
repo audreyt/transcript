@@ -100,7 +100,7 @@ I think we have many success cases like this. There was one of the hospital in t
 After a stakeholder consultation that runs, again, for five hours in two different rooms, we finally discovered that the proper way to solve it is actually to attract more medical talents who want to stay at that place. At the moment, they don’t even have a good dormitory let alone proper hardware.
 
 ### Audrey Tang：
-We allocated some 300 million NT dollars dollars to that area to rebuild a eight story high new medical center that address the local needs so that they don’t at the moment require the helicopters to service ambulance which doesn’t quite work with people who have strokes anyway. It’s easier if it could be treated locally.
+We allocated some 300 million NT dollars dollars to that area to rebuild an eight story high new medical center that address the local needs so that they don’t at the moment require the helicopters to service ambulance which doesn’t quite work with people who have strokes anyway. It’s easier if it could be treated locally.
 
 ### Audrey Tang：
 All those petitions, they may specify one particular solution. We try to get the stakeholder to agree on the larger structural issue or the problem. Most of those wicked problems are a problem because it takes coordinated action of six different parties before it can get better.
@@ -211,7 +211,7 @@ Impressive. What’s this place?
 This is the Social Innovation Lab. This is a place where it used to be the Taiwan Air Force Command Center, but the Air Force is not using it any more. Now the social enterprise and social innovation people, because of a plan by the Ministry of Economic Affairs, now have this as a dedicated place for social innovation and sustainable development.
 
 ### Audrey Tang：
-This is both a incubator and accelerator for local social enterprises, but also a place where if you have any activity that has anything to do with social innovation, then you can use it for free.
+This is both an incubator and accelerator for local social enterprises, but also a place where if you have any activity that has anything to do with social innovation, then you can use it for free.
 
 ### Audrey Tang：
 The whole design is co-created with hundreds of social enterprises. They wanted rooms with pillows, so we have one room with pillows and whiteboards. They want a kitchen, we have a kitchen. All this arrangement is co-designed, and opens until well into the midnight, like 11:00 PM or something.
@@ -445,7 +445,7 @@ It’s not about size anymore. It’s about who goes fastest. I’m sure that yo
 China trying to export their ideology, very backward, very fascist. Then at this time, Taiwan say, &quot;Wait a minute. We have a better version of political idea of future politics structure.&quot;
 
 ### Gia Tang：
-So far, technology is used for surveillance, mostly, even in our democracies. It’s been a very long time since I last heard of someone mentioning that technology could be used for freedom ; recently it’s mostly heading at citizen control. Now, I hear you talking about technology for the people to be heard.
+So far, technology is used for surveillance, mostly, even in our democracies. It’s been a very long time since I last heard of someone mentioning that technology could be used for freedom; recently it’s mostly heading at citizen control. Now, I hear you talking about technology for the people to be heard.
 
 ### Audrey Tang：
 For citizens, yes.
@@ -642,7 +642,7 @@ Just a year, but yes. \[laughs\]
 Still, but if I am, who is, who does spend a lot of time in front of computer, on my lap, and using my smartphone as smart as possible, if I haven’t been driven into this wave, then the question really is, how to grab people.
 
 ### Audrey Tang：
-Definitely. We’re now working to amend the \[non-English speech\] , the Proceeding of Regulation Act. Previously, it only include things like \[non-English speech\], the very formal hearing process that is very expensive to run, anyway, and doesn’t seem to be very attractive to people.
+Definitely. We’re now working to amend the \[non-English speech\], the Proceeding of Regulation Act. Previously, it only include things like \[non-English speech\], the very formal hearing process that is very expensive to run, anyway, and doesn’t seem to be very attractive to people.
 
 ### Audrey Tang：
 I think not even 5,000 people have a lot of experience with such hearings, let alone five million. What we’re now doing is that in \[non-English speech\] Act, we are now putting into a more relaxed public hearing chapter.
@@ -768,7 +768,7 @@ The way we’ve been doing that is that we synthesize into a mock debate. It’s
 Then we have the same newsletter spread to all the 20,000 people who countersigned those petitions, and try to redirect their energy into more constructive point-by-point discussion of the privileges and responsibility when you enter a marriage contract. Going into it one by one, and seeing whether it applies to same-sex couples or not.
 
 ### Audrey Tang：
-This strategy actually worked. The discussion we observed is now much more practical. They’re now discussing it on a rights level, not on a ideology or spiritual level. You can’t really get agreement there, but you can get agreement here.
+This strategy actually worked. The discussion we observed is now much more practical. They’re now discussing it on a rights level, not on an ideology or spiritual level. You can’t really get agreement there, but you can get agreement here.
 
 ### Audrey Tang：
 This is the process we’re now going through. It’s not a debate, per se, but this is a more a statistic.

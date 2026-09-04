@@ -342,7 +342,7 @@ It’s a double use?
 Exactly, so it’s double use. It’s actually involving the Ministry of Health and Welfare, as well, also the army, and a lot of very different stakeholders who everyone has a different solution to this problem of medical assistance.
 
 ### Audrey Tang:
-What we did was we went all the way to Hengchun, the south most part of Taiwan, and held a about 20 to 40-people deliberation there. Then we projected this in live stream and allowed people all over Taiwan to both watch how we gathered the facts and check everybody’s feelings, but also provide their input as the deliberation is going.
+What we did was we went all the way to Hengchun, the south most part of Taiwan, and held an about 20 to 40-people deliberation there. Then we projected this in live stream and allowed people all over Taiwan to both watch how we gathered the facts and check everybody’s feelings, but also provide their input as the deliberation is going.
 
 ### Audrey Tang:
 The legislators also practiced their expertise on suggestion of how, exactly, to solve this problem. It’s not just from the administration, but some legislators, as well.
@@ -437,10 +437,10 @@ A lot of Taiwan’s younger generation are actually very talented in this regard
 You’re part of the government, but do you think they fully recognize that this is the transformation that has to happen for Taiwan?
 
 ### Audrey Tang:
-We are working on the so-called Digital Nation Plan. It’s a eight-year plan. We know fully that the bureaucracy, or the professional career public servants were raised in a era where the fields have very delineated demarcations between the fields.
+We are working on the so-called Digital Nation Plan. It’s an eight-year plan. We know fully that the bureaucracy, or the professional career public servants were raised in an era where the fields have very delineated demarcations between the fields.
 
 ### Audrey Tang:
-People were trained in one field or the other, and they seldom talked to each other. Now it’s very cross-disciplinary, inter-disciplinary. While we are changing our curriculum to reflect this fact, we can’t just change everybody who work in the pubic service overnight, which is why this is a eight-year plan, and not a eight-month plan.
+People were trained in one field or the other, and they seldom talked to each other. Now it’s very cross-disciplinary, inter-disciplinary. While we are changing our curriculum to reflect this fact, we can’t just change everybody who work in the pubic service overnight, which is why this is an eight-year plan, and not an eight-month plan.
 
 ### Audrey Tang:
 We recognize the difficulty in tackling this, but we also recognize we’re not alone. All the governments everywhere is working on digital transformation. We have good friends to share notes and learn from each other.

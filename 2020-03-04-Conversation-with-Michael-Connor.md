@@ -43,7 +43,7 @@ That should be doable. That’s good to know. It would be great to work with you
 I facilitated it. I didn’t personally code anything other than the list of applications. I did the map, not the territory. It’s quite artsy, actually. The various layouts that I just posted you that you can get from this map, where every 30 seconds, the stock level just depletes in real-time. We have a lot of really good analysis of the current demands and things like that.
 
 ### Audrey Tang:
-All in all, I think it’s a interesting art project even \[laughs\] if we just show the dashboard, the time series, the various issues around the demand and supply and how people’s behavior change before and after this transparency of the stock to quell the panic, fear, uncertainty, doubt, and things like that.
+All in all, I think it’s an interesting art project even \[laughs\] if we just show the dashboard, the time series, the various issues around the demand and supply and how people’s behavior change before and after this transparency of the stock to quell the panic, fear, uncertainty, doubt, and things like that.
 
 ### Audrey Tang:
 This intervention is not just speculative design or mechanism design, it’s actually quite inspirational in terms of the various application that people make out of these data. It’s like visualization as art.

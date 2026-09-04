@@ -430,7 +430,7 @@ As non-binary, as whatever.
 Sure. I went through two puberties, once when I was 12 or 13. I never developed quite so much as other adolescent boys. Later on, I would get my testosterone level tested.
 
 ### Audrey Tang:
-Doctors said that I am like a 80-year-old man, which means that it’s between the natural levels of a adolescent boy and adolescent girl physically speaking, which makes it easier for me to go through the second puberty when I was 24, 25 years old taking hormonal replacement without having to take a lot of anti-testosterone, because my level is very low, to begin with.
+Doctors said that I am like a 80-year-old man, which means that it’s between the natural levels of an adolescent boy and adolescent girl physically speaking, which makes it easier for me to go through the second puberty when I was 24, 25 years old taking hormonal replacement without having to take a lot of anti-testosterone, because my level is very low, to begin with.
 
 ### Audrey Tang:
 I developed then for another couple of years the female puberty. In my mind, I don’t have this category like half the population is closer to me and half the population is farther away from me. I see my community as Homo sapiens, a large community.

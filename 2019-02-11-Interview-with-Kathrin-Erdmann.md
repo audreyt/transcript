@@ -213,7 +213,7 @@ Yeah, but this is a good question. When I ask you to delete my data, the questio
 Yes, there are ways to mathematically prove that. I think one of the important thing about digital literacy is that we educate children so that they are part of this data agency idea so that they also learn that when they become the data operator, when other people ask them to delete the data, how do they prove that?
 
 ### Audrey Tang:
-Once they wear the shoe of a data operator, then they can understand what actually to ask of the larger international companies or whatever of a accountable record. They will know how to ask and what to ask.
+Once they wear the shoe of a data operator, then they can understand what actually to ask of the larger international companies or whatever of an accountable record. They will know how to ask and what to ask.
 
 ### Kathrin Erdmann:
 When you became minister, you said that you should create a surrounding that is transparent to attract more companies. Were you successful?
@@ -362,7 +362,7 @@ No. The thing is that in Taiwan, we have a saying that says one who manufactures
 I’ve been working with Silicon Valley companies on enterprise social software and things like that, so I know exactly how the dopamine cycles work, how manufacturer addictions work. I rejected particular lines of work because I consider them unethical.
 
 ### Audrey Tang:
-Of course, when I use social media, for example, Facebook, I always use it with a extension, a program called a Facebook Feed Eradicator. Once you install that, the Facebook wall disappears and replaced by a saying, for example, from Athlur or something that inspires you every morning.
+Of course, when I use social media, for example, Facebook, I always use it with an extension, a program called a Facebook Feed Eradicator. Once you install that, the Facebook wall disappears and replaced by a saying, for example, from Athlur or something that inspires you every morning.
 
 ### Audrey Tang:
 The other parts of Facebook, the intentional part, for example, you can still contact your friends and family, you can also visit your profile, their page, watch some live stream, why not?

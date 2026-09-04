@@ -165,7 +165,7 @@ I think cohesion is overrated. It’s one of those ideas like harmonization of s
 In Taiwan, I usually translate the official country name of the cabinet office, government that I’m currently in, which is in Mandarin 中華民國, as a Transcultural Republic of Citizens -- republic of citizens as in 公民之國, a country with its citizens as its foundation, and transcultural as in 在花之中, literally in the middle of various flowers. It’s a transcultural view.
 
 ### Audrey Tang:
-It’s not, “Let’s plant the same kind of flower and have it dominate the garden.” That idea was first developed by Sun Yat-Sen and his revolutionary friends to explain how to not entirely write off the Manchurian culture while having the ethnic Han working with the Manchurian culture that was the Qing dynasty, among other cultures, in a transcultural way, not in a assimilation kind of way.
+It’s not, “Let’s plant the same kind of flower and have it dominate the garden.” That idea was first developed by Sun Yat-Sen and his revolutionary friends to explain how to not entirely write off the Manchurian culture while having the ethnic Han working with the Manchurian culture that was the Qing dynasty, among other cultures, in a transcultural way, not in an assimilation kind of way.
 
 ### Audrey Tang:
 That idea is universal. It doesn’t need to be Han and Manchurian. \[laughs\] It could be between any cultures. If one learned that, from different cultures, there are pieces of a puzzle that one offers to complete one another’s perspectives. One does not actualize one’s own upbringing unless you can actually view it from a very different culture than the one of your upbringing.
@@ -222,7 +222,7 @@ I signify during that hot debate and two referenda that you see there’s a comm
 Ultimately, our so-called hyperlink act to legalize marriage equality is to rule that homosexual people, when they wed, they wed as individuals, hyperlinking to all the rights and duties, the parts in the civic code, but it hyperlinks to none of the codes in the in-law relationships, so their families do not become in-laws to one another on the legal code, and so on.
 
 ### Audrey Tang:
-This is not a compromise, compromise. This is a innovation that, just like Taiwan is caught between the Eurasian Plate on one side and the Philippines Sea Plate on the other, after earthquakes, grows.
+This is not a compromise, compromise. This is an innovation that, just like Taiwan is caught between the Eurasian Plate on one side and the Philippines Sea Plate on the other, after earthquakes, grows.
 
 ### Audrey Tang:
 Literally, the tip of Taiwan grows two or three centimeters every year because of this tension, this earthquake, and the idea that, “I’m going to innovate no matter what the left-wing says or the right-wing says. I’m determinedly going up-wing.” I think this is something any individual can say to become a force of common value out of the divisiveness and tension.
@@ -355,7 +355,7 @@ That during the pandemic that the most recent…Our baseball games are tens of t
 They all wear masks, of course, but we are a post-pandemic for quite a while now. During the pandemic, people do feel anxious that humor over rumor playbook is still worth sharing.
 
 ### Audrey Tang:
-I remember a instance, where there was a panic buying of instant noodles. There was a conspiracy theory that says that the instant noodles aren’t going to run us then, and we all need to stockpile it, and so on. Then the premier, using the humor over rumor playbook immediately rolled out this huge cute scene banner.
+I remember an instance, where there was a panic buying of instant noodles. There was a conspiracy theory that says that the instant noodles aren’t going to run us then, and we all need to stockpile it, and so on. Then the premier, using the humor over rumor playbook immediately rolled out this huge cute scene banner.
 
 ### Audrey Tang:
 Basically, him showing a display of a huge storage of food, and says that there’s plenty of them and buy as much as you want. Just go out and buy. Basically, it’s kind of paradoxical prescription. People buy because they fear that there will be a shortage and the premier is saying that buy as much instant noodle as you want. We have plenty more.
@@ -370,7 +370,7 @@ It could be a local seafood. \[laughs\] It could be local fruit and things like 
 People don’t feel obsessed with the scarcity and the outrage of the original message anymore because it’s a one-way street. If you start from anger and outrage and then you get into a festive mood, that already through creative means used up the tension in one’s head. The one now feel celebratory that we’re so plenty \[laughs\] when it comes to agricultural.
 
 ### Audrey Tang:
-If you see those very funny memes with instant noodles mixed with the premier and various mayors heads and their favorite dish, \[laughs\] , then you literally are vaccinated against conspiracy theories. You cannot feel outrage when a conspiracy theory come, and so the humor has a higher R-value than the rumor.
+If you see those very funny memes with instant noodles mixed with the premier and various mayors heads and their favorite dish, \[laughs\], then you literally are vaccinated against conspiracy theories. You cannot feel outrage when a conspiracy theory come, and so the humor has a higher R-value than the rumor.
 
 ### Audrey Tang:
 The point here is that it has to be on the same day because if a person goes into sleep with outrage, then that form a long-term association. The next time that person sees that word, outrage is evoked and no amount of cute dogs or interesting looking dishes is going to change that.
@@ -452,7 +452,7 @@ The reason is one of frugal innovation because the property of each new line of 
 On the other hand, there are already existing mechanisms for data collection, they’re just not very granular. For example, all the five major telecoms already know your phones whereabouts, but it’s not for tracking you, so it’s very rough. Even in the most densely packed urban areas is just 50 meter or so in radius.
 
 ### Audrey Tang:
-It doesn’t know which block you’re in basically. It knows which part of district you’re in because they need this information to do roaming service to transfer from one telecom tower to another telecom tower while you’re moving fast by car to continue your call. They already collect that data. We already send out short text messages, seconds before a earthquake or minutes before a flood.
+It doesn’t know which block you’re in basically. It knows which part of district you’re in because they need this information to do roaming service to transfer from one telecom tower to another telecom tower while you’re moving fast by car to continue your call. They already collect that data. We already send out short text messages, seconds before an earthquake or minutes before a flood.
 
 ### Audrey Tang:
 People are already getting this norm of they being in a wide area and not because we know precisely through GPS tracking or anything but just out of caution, sent a broadcast message to people roughly based on the telecom tower strength. They’re associated with a kind of one-way signal that tells them that there is danger in this area.

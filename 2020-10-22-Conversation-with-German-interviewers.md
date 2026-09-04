@@ -16,7 +16,7 @@ There’s three pillars in our digital social innovation – that’s fast, fair
 She posted it on PTT, which is a Taiwanese equivalent of Reddit, except it’s run by a bunch of very young people for decades now because it’s part of National Taiwan University. Instead of answering to surveillance capitalism on one side or authoritarian intelligence on the other, this is just pure social sector intelligence.
 
 ### Audrey Tang:
-They upvoted and collectively fact-checked Dr. Li Wenliang’s message so that the very next day, which is the first day of January, it convinced all the medical officers in Taiwan. We started health inspections for all the flights coming in from Wuhan to Taiwan. This shows how a vibrant free speech society can contribute as a advanced radar warning to the counter pandemic.
+They upvoted and collectively fact-checked Dr. Li Wenliang’s message so that the very next day, which is the first day of January, it convinced all the medical officers in Taiwan. We started health inspections for all the flights coming in from Wuhan to Taiwan. This shows how a vibrant free speech society can contribute as an advanced radar warning to the counter pandemic.
 
 ### Audrey Tang:
 We set up this Central Epidemic Command Center that gets this toll-free number, 1922. Of course, there’s chatbots and everything. We set up this toll-free number just so that people don’t have to use smartphones or any fancy technology. Anyone, any young people, can pick up their phone, call 1922.
@@ -40,7 +40,7 @@ He paid Google in API-used fees for more than 20k Euros overnight because it wen
 If you add, there’s more than 100 different applications so that when we queue in line in any pharmacy, now there is every two weeks 9 masks per adult or 10 per children. This enables people queuing in line to refresh their phone or chatbot or voice assistant and understand that this gets deducted in real-time so that if people see that erratic creases in availability after a purchase they will call 1922 right there.
 
 ### Audrey Tang:
-This also enable people to analyze the distribution, about fairness, and so on. When an MP, previously data analytics VP from Foxconn, made a interpolation to Minister Chen Shih-chung saying, “The OpenStreetMap community is saying that your distribution looks fair on the map, but it’s actually unfair because you haven’t taken care of people who use public transport or have to walk, the time that they have to spend to get a mask is not fair.”
+This also enable people to analyze the distribution, about fairness, and so on. When an MP, previously data analytics VP from Foxconn, made an interpolation to Minister Chen Shih-chung saying, “The OpenStreetMap community is saying that your distribution looks fair on the map, but it’s actually unfair because you haven’t taken care of people who use public transport or have to walk, the time that they have to spend to get a mask is not fair.”
 
 ### Audrey Tang:
 The Minister Chen, he didn’t defend the policy at all. He just said, “Legislator, teach us,” and the very next day, we co-created a new algorithm that’s more fair, and also enable people to pick up the mask 24 hours a day in a convenient store.
@@ -138,7 +138,7 @@ The list goes on, but this is an international community on participatory democr
 The question is about, is there any contributors from the Chinese continent to the various endeavors that we’re working on. Of course, most of the conversation happens on places such as GitHub, which is open-source. Anyone can make contributions.
 
 ### Audrey Tang:
-I personally worked with the MoE dictionary, that’s our Ministry of Education dictionary, which would include Taiwanese Holo, Taiwanese Hakka, and also Taiwanese Mandarin, of course. When people from the continental China contributes, a lot of their definitions of the same terms, written the same but means very different things. Like \[non-English speech\] , which means very warm, very happy in Taiwan but means very unhappy in the PRC. \[laughs\]
+I personally worked with the MoE dictionary, that’s our Ministry of Education dictionary, which would include Taiwanese Holo, Taiwanese Hakka, and also Taiwanese Mandarin, of course. When people from the continental China contributes, a lot of their definitions of the same terms, written the same but means very different things. Like \[non-English speech\], which means very warm, very happy in Taiwan but means very unhappy in the PRC. \[laughs\]
 
 ### Audrey Tang:
 If they contribute this kind of input in a way that relinquish the copyright, in a way that’s open-source, then, of course, we collaborate just as we would with any international people. That’s all based on the idea of open collaboration and innovation. That’s the answer to your question.
@@ -219,10 +219,10 @@ Next Thursday, we will introduce a new data schema so that they can have the ope
 Also, even more important is to make sure that people don’t label each other as others, which is very easy to happen in a pandemic. People are very eager to blame others for spreading the disease or whatever that others mean.
 
 ### Audrey Tang:
-There’s a anecdote I want to share very quickly. When we were talking about the mask ration, there was one meeting that was interrupted. It happened, at that day, during the meeting that a previously diagnosed with COVID worker a day before that finally, in the contact tracing interview that day, admitted that she wasn’t just stay at home contacting nobody, no idea why she contracted the disease.
+There’s an anecdote I want to share very quickly. When we were talking about the mask ration, there was one meeting that was interrupted. It happened, at that day, during the meeting that a previously diagnosed with COVID worker a day before that finally, in the contact tracing interview that day, admitted that she wasn’t just stay at home contacting nobody, no idea why she contracted the disease.
 
 ### Audrey Tang:
-She admitted the day afterward, saying that “I work in a intimate drinking bar. I’m a nightlife professional. I initially lied because I want to protect my customers’ privacy.”
+She admitted the day afterward, saying that “I work in an intimate drinking bar. I’m a nightlife professional. I initially lied because I want to protect my customers’ privacy.”
 
 ### Audrey Tang:
 That is, of course, a very classic zero-sum idea at that time. People were very anxious. I was there with Minister Chen Shih-chung and the Premier, talking about this particular issue. The intuitive thing is just to order a nightclub to close down if they refuse to collaborate. This will cause them to go underground and make it even harder to track the pandemic.
@@ -291,7 +291,7 @@ That is to say we never want those social sector organizations, even company-bas
 > (interviewer speaks)
 
 ### Audrey Tang:
-Full disclosure. When you ask me about the Silicon Valley companies, I must say that right before I joined the cabinet, I was working with Apple as a independent contractor for six years on computational linguistics, specifically the Siri technology. I instinctively do not categorize Apple with the rest of like Google or Facebook.
+Full disclosure. When you ask me about the Silicon Valley companies, I must say that right before I joined the cabinet, I was working with Apple as an independent contractor for six years on computational linguistics, specifically the Siri technology. I instinctively do not categorize Apple with the rest of like Google or Facebook.
 
 ### Audrey Tang:
 Specifically for the Siri team, we used a very different thought process. In Apple, the main business, the customers are co-creators, essentially, when it comes to their data. Their data are not analyzed or sold or anything except for improving the user experience for that particular individual.
@@ -300,7 +300,7 @@ Specifically for the Siri team, we used a very different thought process. In App
 Even though Apple would have device that has face recognition, the chip will only store the individual’s face for unlocking the device but never transmits it to any other parts of the device or the software. It’s a very single, specific, value-aligned, accountable use of private data.
 
 ### Audrey Tang:
-Of course, nowadays, I’m not working with Apple anymore. I don’t have to defend them \[laughs\] , but I still think that this idea of mainly aligning the value to the individual, honoring the individual’s dignity, and making a full account is very, very important.
+Of course, nowadays, I’m not working with Apple anymore. I don’t have to defend them \[laughs\], but I still think that this idea of mainly aligning the value to the individual, honoring the individual’s dignity, and making a full account is very, very important.
 
 ### Audrey Tang:
 I tend to hold the other multinational platforms to the same standard that I hold myself to when I worked with Apple. If they fall short of that basic – it’s not even good. It’s just basic – bare basic value-alignment accountability criteria, then we work with…
@@ -332,7 +332,7 @@ I, of course, also visited in person to Berlin and exchange a lot of thoughts. I
 Instead of just a Prototype Fund, we just made sure that the President promised to the five winning team every year that whatever they did in the past three months will become public policy, nationally, in the next 12 months. In a sense, executive power as the hackathon award. That’s something that we improved on the Prototype fund infrastructure.
 
 ### Audrey Tang:
-The Presidential Hackathon also has a international track. We would really like to co-work, as we did this year with the AIT, the de facto US embassy, to host the international track of open contracting or sustainable environment, specifically maybe about food safety or about health or things like that.
+The Presidential Hackathon also has an international track. We would really like to co-work, as we did this year with the AIT, the de facto US embassy, to host the international track of open contracting or sustainable environment, specifically maybe about food safety or about health or things like that.
 
 ### Audrey Tang:
 These are, as I understand, all the things that Germany cares about too. I would really like to work out some sort of formal collaboration, either through the Open Government Partnership or any of those other international frameworks. Then we can work to share not necessarily the best practice, the better practices, that our teams build.

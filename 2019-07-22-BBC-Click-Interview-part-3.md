@@ -37,7 +37,7 @@ Nevertheless, it helps us to tell initial groups to see that there are Uber pass
 It begins in quite a similar experience-wise way to Twitter or Facebook in a sense that it brings you face-to-face with a series of statements which other people have drafted. The origin is quite similar.
 
 ### Audrey Tang:
-The origin is similar. It is even more like Reddit where you have a upload and a download. This is like a upload and this is like a download. If you, say, agree with the statement, you will notice two things. First, that you have moved a little bit toward the right. Second, that you will see another statement.
+The origin is similar. It is even more like Reddit where you have an upload and a download. This is like a upload and this is like a download. If you, say, agree with the statement, you will notice two things. First, that you have moved a little bit toward the right. Second, that you will see another statement.
 
 ### Carl Miller:
 You start receiving these statements. You start agreeing or disagreeing. You can’t reply. No trolling allowed. Crucially, then, I guess, the first big difference between this and the other platforms is this mapping. Is that correct?
@@ -310,7 +310,7 @@ Yes. Previously, decision-makers faced a dilemma of getting very good qualitativ
 It’s forced to use those two very lopsided way to gorge the public’s interest. Thinking from the angle of the citizen, if I get a survey telephone, I may want to fill in the blank and say, “This is what I actually think.” It’s never recorded by the person who does the survey. If I join a focus group, I may say, “Actually, I don’t represent the Uber drivers.”
 
 ### Audrey Tang:
-We have maybe 4,000 people. Each of them need to have a say. Even as a association leader, I don’t have the time to listen to the 4,000 people. As a citizen, participate, it feels frustrating when you’re being surveyed, or polled, or invited to a focus group because even representatives can’t really know what their constituents think.
+We have maybe 4,000 people. Each of them need to have a say. Even as an association leader, I don’t have the time to listen to the 4,000 people. As a citizen, participate, it feels frustrating when you’re being surveyed, or polled, or invited to a focus group because even representatives can’t really know what their constituents think.
 
 ### Audrey Tang:
 Pol.is is in a midpoint where the correspondents can add in their statements but it always results in signaling their resonance.
@@ -334,7 +334,7 @@ The consensus items become a new act called a Multi-purpose Taxi Act. That’s e
 Now, using the Uber app, you can call both rental cars as well as taxis. One is metered by hour, the other metered by distance. Through a loophole, there’s a cap on taxi cars but no cap on rental cars. People became rental cars.
 
 ### Audrey Tang:
-It’s abusing the rental car legislation because if you call a Uber through e-rental means, you can tell the driver to sit to the other chair and you start driving it. That’s what rental car is about.
+It’s abusing the rental car legislation because if you call an Uber through e-rental means, you can tell the driver to sit to the other chair and you start driving it. That’s what rental car is about.
 
 ### Carl Miller:
 Really? You can drive the guy himself?
@@ -397,7 +397,7 @@ OK.
 What had pol.is produced for yesterday’s meeting?
 
 ### Audrey Tang:
-Now we’re looking at the e-scooters pol.is. You can see, again, a statement. Here’s 47 statements this time. After clicking agree or disagree for a few times you can see your avatar moving to one group or the next. Group A, broadly speaking, says that there should be a age limit beyond which you should be not qualified to drive a e-scooter.
+Now we’re looking at the e-scooters pol.is. You can see, again, a statement. Here’s 47 statements this time. After clicking agree or disagree for a few times you can see your avatar moving to one group or the next. Group A, broadly speaking, says that there should be an age limit beyond which you should be not qualified to drive a e-scooter.
 
 ### Carl Miller:
 We have two groups formed for yesterday.
@@ -691,7 +691,7 @@ Yeah, but you need to come back in a second. I need to do some noddies.
 What we’re looking at is the Uber X deliberation back in 2015. We’re looking at one particular statement from the \[Mandarin Chinese\] that talks something about taxation. Here, we can see Group A, which all probably speaking, that the MOTC, the Ministry of Transportation and Communication, has a duty to do law enforcement against unregistered vehicles.
 
 ### Audrey Tang:
-Group B doesn’t quite agree. Group B mostly says, “If I’m not in a rush, even if I see taxis driving by, I will still reach out my phone and call a Uber.” That’s Group B, but Group A doesn’t quite agree with that.
+Group B doesn’t quite agree. Group B mostly says, “If I’m not in a rush, even if I see taxis driving by, I will still reach out my phone and call an Uber.” That’s Group B, but Group A doesn’t quite agree with that.
 
 ### Audrey Tang:
 Even with the divisions, there’s still a majority opinion forming, for example, that the insurance against accidents is important. It is important for safety as well as the fairness, as well as how government should keep the regulation up-to-date to respond to emergent technical inventions.

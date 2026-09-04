@@ -58,7 +58,7 @@ We see in some extractive or speculative use of, for example, distributed ledger
 
 Whenever that fairness is not guaranteed, then you suffer from vampire attacks, civil attacks, all sort of attacks very quickly. There's an inherent gap between the legitimacy of the structure that you participated in when it was founded, vis-a-vis, like you joined after the revolution. [laughs] Fairness in governance, that's very important.
 
-Finally, it needs to be fun. For a imagined communities to become real, there needs to be something that people enjoy intrinsically. Any extrinsic so-called incentives decimate that intrinsic motivation. All the long-running social movements such as open-source, and so on, continuously renew on itself using this appeal to intrinsic motivations such as fun, joy, and solidarity.
+Finally, it needs to be fun. For an imagined communities to become real, there needs to be something that people enjoy intrinsically. Any extrinsic so-called incentives decimate that intrinsic motivation. All the long-running social movements such as open-source, and so on, continuously renew on itself using this appeal to intrinsic motivations such as fun, joy, and solidarity.
 
 ### Jo Swinson:
 That's interesting about the Web-culture forums in communities within societies.
@@ -66,7 +66,7 @@ That's interesting about the Web-culture forums in communities within societies.
 I'm interested in the point you made about the resilience and the participation. Could you say a little bit more? From what you're saying, you're basically arguing that participation is good not just from a morality perspective, but also because it provides resilience. Is that right? Are there other examples that you have?
 
 ### Audrey Tang:
-That is correct, basically, [laughs] or even more than resilience. Antifragility. This kind of participation is what allows people to find a clarity of purpose of a shared urgency whenever there is a emergency.
+That is correct, basically, [laughs] or even more than resilience. Antifragility. This kind of participation is what allows people to find a clarity of purpose of a shared urgency whenever there is an emergency.
 
 In Taiwan, we countered the pandemic without a single day of lockdown. We countered the infodemic, the disinformation crisis without any administrative takedown.
 
@@ -96,11 +96,11 @@ Maybe I'm going off-piece here, but I'm really quite intrigued about these issue
 Do you think that that is important also as one of the motivators for there being that kind of strong culture? I suppose, maybe it's an impossible question, but how much do you think it's partly because of that specific situation versus could this work anywhere?
 
 ### Audrey Tang:
-I was in, I believe, Lisbon, and they talked about long, long ago, there was this earthquake that flattened the city and how people from very different backgrounds, different cultures, different languages, and religions, almost had to work together in a impossible situation of having to rebuild the city.
+I was in, I believe, Lisbon, and they talked about long, long ago, there was this earthquake that flattened the city and how people from very different backgrounds, different cultures, different languages, and religions, almost had to work together in an impossible situation of having to rebuild the city.
 
 When I was in Christchurch also, for Social Enterprise World Forum, and they also tell a very similar story much more recent about the earthquake. There's something about earthquakes that unites people and in Taiwan, indeed, both in our turn of the century, September 21st earthquake, and also in helping the Japanese people in their tsunami/earthquake about 10 years ago now.
 
-We saw a lot of, not just domestic, but also international civic sector bonding together, inventing new things like the Line end-to-end encrypted messenger was invented because of the earthquake in Japan. All that increased the solidarity and in a sense, the Occupy movement that I participated in back in 2014, is like that too. We occupied — thoroughly peacefully — our parliament for three weeks that is also like a earthquake in the sense that half a million people supported us on the street and many more online.
+We saw a lot of, not just domestic, but also international civic sector bonding together, inventing new things like the Line end-to-end encrypted messenger was invented because of the earthquake in Japan. All that increased the solidarity and in a sense, the Occupy movement that I participated in back in 2014, is like that too. We occupied — thoroughly peacefully — our parliament for three weeks that is also like an earthquake in the sense that half a million people supported us on the street and many more online.
 
 I would say that those peak experiences, is indeed essential in fostering a culture that can renew itself because one do not have to talk anything abstract.
 

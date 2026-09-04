@@ -31,7 +31,7 @@ We call it Asia.SiliconValley, because in Asia, trade is very complementary nowa
 As you mentioned, semiconductor is one, but also in the smart machinery as well as in the creative use of the IoT devices. The IoT devices is not just deployed in the industrial setting, but also in the citizen science setting.
 
 ### Audrey Tang:
-Taiwan, I think...It’s unique in Asia, where there’s a inexpensive air quality measurement box, air box, then you automatically see thousands of people just connecting together their individual measurement devices, because they care about their air quality and they, frankly speaking, want to trust their neighbors’ numbers more than the government’s numbers. \[laughs\]
+Taiwan, I think...It’s unique in Asia, where there’s an inexpensive air quality measurement box, air box, then you automatically see thousands of people just connecting together their individual measurement devices, because they care about their air quality and they, frankly speaking, want to trust their neighbors’ numbers more than the government’s numbers. \[laughs\]
 
 ### Audrey Tang:
 Very quickly you can see this kind of open data platforms arising by people donating data into the commons essentially. This configuration is really unique, and it also means that whenever there’s a new emergent algorithm coming from the AI research, it is not only channeled to the private sector but also the social sector as well.
@@ -187,10 +187,10 @@ Tell me about talent. That’s probably now the main headache of all companies o
 It used to be that Japan is the strictest when it comes to immigration for white collar talents. Taiwan is not as strict but still pretty strict. Singapore used to be the most liberal with the Gold Card Visa and everything, entrepreneurship programs, and so on. In Tsai Ing wen’s government, we basically copied everything Singapore has to offer.
 
 ### Audrey Tang:
-We wrote our own Gold Card 4 in 1 visa. Singapore is three year. We’re three year but renewable. We also made sure that we have a special foreign talent law that makes it very clear that if you are one of the needed, being brain drained talent areas, including art, you can work in Taiwan without having to first find a employer.
+We wrote our own Gold Card 4 in 1 visa. Singapore is three year. We’re three year but renewable. We also made sure that we have a special foreign talent law that makes it very clear that if you are one of the needed, being brain drained talent areas, including art, you can work in Taiwan without having to first find an employer.
 
 ### Audrey Tang:
-For people with this kind of talent, we’re essentially location independent. We can work anywhere. It doesn’t matter for us. What we’re saying is, for those digital nomads, when they come to Taiwan, they don’t have to have a employer.
+For people with this kind of talent, we’re essentially location independent. We can work anywhere. It doesn’t matter for us. What we’re saying is, for those digital nomads, when they come to Taiwan, they don’t have to have an employer.
 
 ### Audrey Tang:
 They can still work for their own LLC somewhere else. They just enjoy the food here. \[laughs\] Gradually, over the course of three or five years, they can build a deeper cultural relationship with the people here.
@@ -328,7 +328,7 @@ Basically, we want to get this idea of fail fast and provide post mortems and co
 Taiwan’s main attraction in startup scene is not particularly the ease of getting loans or the ease of getting your credit even before you release your product to being assured by the miss met fund or whatever. We have kind of pioneers, some of those designs, the e tree and things like that. Now pretty much everybody else has those designs as well.
 
 ### Audrey Tang:
-It’s still mostly the culture of not afraid to fail. That is the main strength. That can be compared more easily with Japan, which is still finding the normativity in their curriculum for a parent to not panic when their child decide to become a entrepreneur. They have a huge challenge to culturally solve for parents to acquiesce their children to be entrepreneurs.
+It’s still mostly the culture of not afraid to fail. That is the main strength. That can be compared more easily with Japan, which is still finding the normativity in their curriculum for a parent to not panic when their child decide to become an entrepreneur. They have a huge challenge to culturally solve for parents to acquiesce their children to be entrepreneurs.
 
 ### Juergen Maurer:
 You talked about the sandbox example. Taiwan, as well as Japan, are not very much known for being un bureaucratic.
@@ -421,7 +421,7 @@ The algorithm can always be shared. It doesn’t really matter. It’s a call ce
 What do you think about the idea that some kind of setup like an AI related technologies be taxedinstead of people? The more robots you have in a company, the more tax the company should pay.
 
 ### Audrey Tang:
-It’s a interesting idea. It’s a interesting idea. As I said, it often reflects a social tension around job displacement by automation.
+It’s an interesting idea. It’s an interesting idea. As I said, it often reflects a social tension around job displacement by automation.
 
 ### Audrey Tang:
 I think compared to UBI, of course, this is maybe more feasible...actually, on a similar scale. \[laughs\] In any case, yes, as I said, it’s a kind of regulatory response to social tension, because the representative really has to do something that convince their constituents.
@@ -490,7 +490,7 @@ Yes. For using AI information literacy and so on, that is part of our curriculum
 Then it’s part of every class. It’s not a class in itself. I think data science/programming/AI application it’s seventh grade.
 
 ### Audrey Tang:
-On the 9th grade, there’s already lots of partnership classes with Google and Microsoft and also domestic AI training curriculum for people who already got a undergrad admission or people who are looking to work for a couple years before getting to undergrad to essentially equip themselves with AI over the summer or the second semester of the 10th grade. That is also very popular.
+On the 9th grade, there’s already lots of partnership classes with Google and Microsoft and also domestic AI training curriculum for people who already got an undergrad admission or people who are looking to work for a couple years before getting to undergrad to essentially equip themselves with AI over the summer or the second semester of the 10th grade. That is also very popular.
 
 ### Audrey Tang:
 By the time they are in the undergrad, by next year, I think, half of Taiwanese undergrad student need to be capable of coding, regardless of their majors. Again, we fused coding into all existing majors rather than requiring everybody to learn &quot;computer science.&quot;

@@ -55,7 +55,7 @@ Sorry. Why is barricading hospital a problem? Can you tell me about that?
 The persons within the hospital was not notified that they’re going to be quarantined. A emergency measure.
 
 ### Audrey Tang:
-The people in there did not have adequate mental or physical preparation. They were barred from leaving for a indefinite period of time, and so it was very traumatic for everybody involved.
+The people in there did not have adequate mental or physical preparation. They were barred from leaving for an indefinite period of time, and so it was very traumatic for everybody involved.
 
 ### Regis Arnaud:
 What’s really striking to me in your response is the collaboration between entities that don’t talk to each other. In the case of the mask, from what I read, it’s a pharmacist, Google, and the government who work in sync.
@@ -103,13 +103,13 @@ We do think that, for example, if people are feeling that once they go into the 
 The CECC takes great care to not publish personally identifiable information for people who are confirmed cases in quarantine precisely because we want to avoid the kind of labeling effect.
 
 ### Audrey Tang:
-Again, this is not about technology. This is about ensuring that people will want to go to a local clinic wearing a mask if they develop symptoms. If they see that other people get personally identified, become a outcast of their community, and labeled, then once they develop symptoms they will not be incentivized to show up knowing that they will get a fair treatment.
+Again, this is not about technology. This is about ensuring that people will want to go to a local clinic wearing a mask if they develop symptoms. If they see that other people get personally identified, become an outcast of their community, and labeled, then once they develop symptoms they will not be incentivized to show up knowing that they will get a fair treatment.
 
 ### Audrey Tang:
 This is about social incentive design. It’s not privacy for privacy’s sake, but rather protecting their privacy because we want more people to show up to clinics if they do develop symptoms.
 
 ### Audrey Tang:
-I still think this is important, but not on a ideological sense.
+I still think this is important, but not on an ideological sense.
 
 ### Regis Arnaud:
 What’s very impressive to me, I went to Taiwan a couple of times. I visited in Kaohsiung, the ACER factory, and so forth. What’s impressive to me, I was thinking about that because there is a real collaboration between the old economy and new economy.
@@ -205,7 +205,7 @@ She spoke good English. She said, “The Chinese will never crush…” I rememb
 You never see such a scene in Japan or wherever. Maybe it comes from the fact that democracy in Taiwan came from a fight. It was not a given, like for Japan.
 
 ### Regis Arnaud:
-I’ve been in Japan 20 years. I have the sense that because democracy was given in Japan – it was imposed, actually. It was a imposed freedom – people don’t cherish it as much as in your country, which is small, and next to China, hence more in constant jeopardy.
+I’ve been in Japan 20 years. I have the sense that because democracy was given in Japan – it was imposed, actually. It was an imposed freedom – people don’t cherish it as much as in your country, which is small, and next to China, hence more in constant jeopardy.
 
 ### Regis Arnaud:
 Do you agree that there is value in the acquisition of freedom by fight?
@@ -235,7 +235,7 @@ There is, for me, a premium now for small countries. It used to be that big is b
 Do you think the size is helpful, or do you think it’s not?
 
 ### Audrey Tang:
-With 23 million people Taiwan is packed on a few islands. The population density should make the pandemic much worse on a epidemiology viewpoint.
+With 23 million people Taiwan is packed on a few islands. The population density should make the pandemic much worse on an epidemiology viewpoint.
 
 ### Audrey Tang:
 I would say while the Taiwan High Speed Rails and broadband as human right has brought people together, and people can much more easily empathize with one another because it’s easier to travel and share their personal stories and histories, what we call our transculturalism, meaning that we respect and foster all the more than 20 national languages and communities.
@@ -244,7 +244,7 @@ I would say while the Taiwan High Speed Rails and broadband as human right has b
 It’s usually a good idea when developing democracy that people can easily empathize with one another. That I’d agree, but on pandemic the population density is a much higher risk factor than pretty much everything else combined.
 
 ### Audrey Tang:
-We had to make sure that more than 90 percent of people have a easy supply mask they can get for less than two US dollars. Every two weeks 9 medical mask if they’re adult and 10 if you’re a child. That rebuilds the physical vaccination that is needed in a population with such a high population density.
+We had to make sure that more than 90 percent of people have an easy supply mask they can get for less than two US dollars. Every two weeks 9 medical mask if they’re adult and 10 if you’re a child. That rebuilds the physical vaccination that is needed in a population with such a high population density.
 
 ### Audrey Tang:
 I’m, right after this conversation, going to collect my nine masks, like every two weeks, in the nearby convenience store.

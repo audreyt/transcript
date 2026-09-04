@@ -51,7 +51,7 @@ Yes.
 I believe, Ms. Ardern, very beginning of the pandemic say we'll just do whatever Taiwan does. That was early 2020. [laughs]
 
 ### Alison Stringer:
-Look, if we'd followed that past, we might not have a camper far right activist on a parliament right now. I'm not sure if you're aware of that. We have a [inaudible 03:44] . Yeah, of course you are. You were well informed.
+Look, if we'd followed that past, we might not have a camper far right activist on a parliament right now. I'm not sure if you're aware of that. We have a [inaudible 03:44]. Yeah, of course you are. You were well informed.
 
 I guess that's my request. If there's any information, documentation, particularly. If it's not in English, I'm sure we can do something about that. I think it's past time as you know to share what works. You may have already been doing that. I think New Zealand still looks to other nations who have not been quite so successful. The three things I want to speak about if we can in the limited.
 

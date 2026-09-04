@@ -162,7 +162,7 @@ You arrived at a cabinet meeting day, so I’m this building, but otherwise I’
 Even more importantly, I practice radical transparency so that everybody who visit me has to agree, like we do now, to post a transcript of our conversation, and this holds even for internal meetings that I chair.
 
 ### Audrey Tang:
-In a sense, I’m also like a investigative journalist looking into issues together with lots of people figuring out the different perspectives and so on, but the work is always with the commons and not for any private interest.
+In a sense, I’m also like an investigative journalist looking into issues together with lots of people figuring out the different perspectives and so on, but the work is always with the commons and not for any private interest.
 
 ### Filippo Santelli:
 Of course, you are not allowed to take and publish transcripts of some reserved internal meetings inside the cabinet, right?
@@ -360,7 +360,7 @@ VTaiwan. Yeah, vTaiwan is operated and owned, co-created, by the civil society. 
 As I understand, vTaiwan is even more in the beginning of a policymaking, whereas Join is more about the government has this idea and the people has this idea – at least 5,000 people – and then we have a large stakeholder.
 
 ### Audrey Tang:
-VTaiwan is for when the stakeholder is not as well organized, and the government literally knows nothing, or very few things, about a emergent issue. That is for the vTaiwan people to decide the process.
+VTaiwan is for when the stakeholder is not as well organized, and the government literally knows nothing, or very few things, about an emergent issue. That is for the vTaiwan people to decide the process.
 
 ### Audrey Tang:
 Again, I help facilitate the civil service to participate in the vTaiwan meetings, but we don’t control their agenda. If they want to talk about, say, e-scooters, then I help finding the Ministry of Transportation and Communication to listen to them.
@@ -543,7 +543,7 @@ Sure, sure.
 Is politics also a specific knowledge and skills? My question is, should we expect that all the people, all the citizen, participate in this process, or should we keep some people doing the politicians’ work?
 
 ### Audrey Tang:
-Obviously, we should do both. Computer, as you correctly points out, is a machine, but the data scientists or computer scientists, programmers, is a activity for humans.
+Obviously, we should do both. Computer, as you correctly points out, is a machine, but the data scientists or computer scientists, programmers, is an activity for humans.
 
 ### Audrey Tang:
 The very reason why we teach computational thinking, starting from primary school, is not so that all the children become programmers. It’s that they demystify programming – that they understand that there is nothing mysterious about algorithms, that they can work with a little bit of learning, like Scratch, just like playing legal blocks, automate away the chore in their daily work.
@@ -878,7 +878,7 @@ A governor.
 Governor?
 
 ### Audrey Tang:
-A governor role. Instead of saying “We’re merely conduits,” they are taking a actively governing approach, just like counter-spam.
+A governor role. Instead of saying “We’re merely conduits,” they are taking an actively governing approach, just like counter-spam.
 
 ### Audrey Tang:
 Instead of the email providers saying “Oh, this is just email. We’re just delivering email. We’re not even looking into it,” they’re saying, “Oh, if you flag something as spam, we’re willing to work with Spamhaus and move those most suspect spams into your junk mail folder instead of your inbox.” This is governance.
@@ -887,7 +887,7 @@ Instead of the email providers saying “Oh, this is just email. We’re just de
 They’re learning. Those wumaos are learning. The Chinese system is learning.
 
 ### Audrey Tang:
-This is a evolutionary process. The spammers who don’t learn about new counter-spam strategies, we don’t see them anymore. Their work become the content of our junk mail folder. We’re not even aware of them. Only the most adaptive ones become…
+This is an evolutionary process. The spammers who don’t learn about new counter-spam strategies, we don’t see them anymore. Their work become the content of our junk mail folder. We’re not even aware of them. Only the most adaptive ones become…
 
 ### Filippo Santelli:
 This is true on the social media as well.
@@ -1097,7 +1097,7 @@ You mean like the South Park episode?
 \[laughs\] Yeah.
 
 ### Audrey Tang:
-Yeah. \[laughs\] It is of course a economic trade relationship is going on regardless of the governance differences. We are also increasingly seeing, especially around markets of increasing return including 5G, people start talking about path dependency, about nonmarket forces, and things like that.
+Yeah. \[laughs\] It is of course an economic trade relationship is going on regardless of the governance differences. We are also increasingly seeing, especially around markets of increasing return including 5G, people start talking about path dependency, about nonmarket forces, and things like that.
 
 ### Audrey Tang:
 Even in purely economic places we’re also seeing, for example, the European governments start to wake up to the fact that they’re not exactly dealing with market players that any so-called private sector company can become de facto state-owned and accountable maybe only internally.

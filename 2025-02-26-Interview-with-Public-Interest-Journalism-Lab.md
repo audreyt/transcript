@@ -51,7 +51,7 @@ Yeah. Certainly. I actually started this work in 2014. That's even before I went
 
 The society was quite polarized around one particular issue, which is the trade agreement with Beijing. In March that year, there was the Sunflower movement where people took matters into their own hands, and we call ourselves demonstrators, not just protesters.
 
-We're not just against something. We're also pro something, ProZorro [laughs] . Pro transparency. Pro well, actually, you have the same movement, so I don't need to go into a lot of details. But the idea is that we...
+We're not just against something. We're also pro something, ProZorro [laughs]. Pro transparency. Pro well, actually, you have the same movement, so I don't need to go into a lot of details. But the idea is that we...
 
 ### Nataliya Gumenyuk:
 It's a service, basically. You know ProZorro. Right?
@@ -435,7 +435,7 @@ Yeah. I think there's broadly speaking, two red lines.
 
 First, I think if you remove fundamental freedoms, that is not accepted. It doesn't matter whether it's the state removing the freedom of expression in the name of security, censorship, or whatever, or a foreign actor crowding out the conversation around democracy with 200 million robots posing as humans, posting advertisements, and so on.
 
-I mean, this is not speech anymore if you have fake accounts, paid advertisements, micro-targeting people and just crowding out normal democratic discourse because in our constitution, although we have freedom of expression, we never protected robots from having freedom of expression [laughs] . We never protected robots from having freedom of expression.
+I mean, this is not speech anymore if you have fake accounts, paid advertisements, micro-targeting people and just crowding out normal democratic discourse because in our constitution, although we have freedom of expression, we never protected robots from having freedom of expression [laughs]. We never protected robots from having freedom of expression.
 
 To me, that is a red line. If the exercise of such astroturfing, trolling, or things like that crowd out actual speech, then to me that is actually a kind of censorship. It's not censorship in the sense of cutting subsea cables, although they do that too. [laughs] It is also censorship in terms of disabling actual freedom of speech and association. It infringes upon fundamental freedom. To me, that is a red line.
 
@@ -488,7 +488,7 @@ We always plan for our resilience for earthquakes, natural or unnatural, the ded
 
 The other thing, of course, is the backup of the critical systems, the core communication networks, and so on to the cloud, to the hyperscalers so that it becomes location-independent. That is the second thing that we have learned.
 
-I think all in all we see so much of ourselves in your situation. I don't think there's any anti-Ukraine party in Taiwan [laughs] . Everybody is supporting Ukraine. We very much expressed our willingness to support.
+I think all in all we see so much of ourselves in your situation. I don't think there's any anti-Ukraine party in Taiwan [laughs]. Everybody is supporting Ukraine. We very much expressed our willingness to support.
 
 I personally also think I recorded something for a Lviv like, press conference not long after I became the minister to support the power generators, support the laptops, support the communication equipment, and things like that. We can offer only civilian support after all but I think communication and societal resilience is also a key part in your ongoing process.
 

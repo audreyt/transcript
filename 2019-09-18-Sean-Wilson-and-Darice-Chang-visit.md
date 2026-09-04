@@ -201,7 +201,7 @@ You mean for the security cooperation?
 Yeah.
 
 ### Audrey Tang:
-It’s a interesting topic, for sure.
+It’s an interesting topic, for sure.
 
 ### Darice Chang:
 Because a lot of Americans or English-reading people, they do still read Taipei Times. That might be a…

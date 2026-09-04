@@ -79,7 +79,7 @@ That of course, is not yet applied to the domestic people, especially that in ou
 My last question for you. How do gender equality and democracy go together?
 
 ### Audrey Tang:
-Sure. The idea of democracy is based on the idea that a plurality of perspectives, the plurality of voices together, when trusting each other, makes that the polity knows about itself more and know about the world more as a epistemic alliance. Without gender equality, this is basically just privileging one voice to the exclusion to the other voices.
+Sure. The idea of democracy is based on the idea that a plurality of perspectives, the plurality of voices together, when trusting each other, makes that the polity knows about itself more and know about the world more as an epistemic alliance. Without gender equality, this is basically just privileging one voice to the exclusion to the other voices.
 
 ### Audrey Tang:
 Essentially, at its most drastic form, may just render democracy just like a ritual, which you ostensibly go to vote but all the candidates you vote, all the policies you vote just look the same. That of course, is not a thriving democracy, and will, in fact, make democracy look less appealing to the people who gets excluded, like suffering from epistemic injustice.

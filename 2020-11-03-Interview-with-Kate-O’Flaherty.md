@@ -67,7 +67,7 @@ That’s absolutely amazing. I know you mentioned memes to educate people and th
 Yeah. It’s the triple-two principle. Whenever there’s a trending rumor, we make sure there’s humor over rumor, meaning that within two hours, we roll out two pictures, each with less than 200 characters, that goes even more viral than the disinformation. The idea, very simply put, is that if you read both the conspiracy theory or disinformation and the funny clarification on the same day, when one goes to sleep and wake up, the long-term association tend to be on the joy and humor part instead of on the anger and outrage part.
 
 ### Audrey Tang：
-If people go to sleep only having seen the outrage part, they forms a ideological association that makes it very difficult to clarify without reinforcing existing stereotypes, so the response time is of essence.
+If people go to sleep only having seen the outrage part, they forms an ideological association that makes it very difficult to clarify without reinforcing existing stereotypes, so the response time is of essence.
 
 ### Kate O'Flaherty：
 How do you detect where the disinformation is coming from? Is it an automated machine learning-type system?
@@ -82,7 +82,7 @@ Just like, how do we detect spam? It’s because people flag incoming email as s
 In a similar way, there’s a lot of people in Taiwan working on technology such as the Cofacts, which is a way for end-to-end encrypted channels such as LINE chat rooms – if you see something and you suspect it as disinformation, you can forward it to the bot in order for it to be crowd-checked.
 
 ### Audrey Tang：
-That then fuels also the Dr. Message, which is a antivirus company called Trend Micro. It’s a commercial offering called , which is another offering, and so on. These basically get a lot of people into the habit of flagging incoming disinformation as spam.
+That then fuels also the Dr. Message, which is an antivirus company called Trend Micro. It’s a commercial offering called , which is another offering, and so on. These basically get a lot of people into the habit of flagging incoming disinformation as spam.
 
 ### Audrey Tang：
 The professional fact-checkers, such as the Taiwan FactCheck Center, MyGoPen – they’re all part of the International Fact-Checking Center, can act on it early, that is to say, when it’s still being end-to-end group-tested, instead of going to the truly viral social media platforms.
@@ -261,7 +261,7 @@ You’re saying that you pay people €30 to stay at home. What about people who
 Yeah, yeah, €30 a day for their stipend, and of course, if they can telework, they of course would telework. We spend a lot of time making sure that those quarantine places in the hotels have good bandwidth so that they can do videoconferencing and so on.
 
 ### Audrey Tang：
-Even in the most remote places, we arrange to have at least one of the telecoms, \[laughs\] the CHT to arrange at least one of those telecoms will have good 4G network. For people who cannot telework in their profession, of course, there’s a act, a law that says that of course their employers cannot force them for it and things like that. It’s all very clearly spelled in the law.
+Even in the most remote places, we arrange to have at least one of the telecoms, \[laughs\] the CHT to arrange at least one of those telecoms will have good 4G network. For people who cannot telework in their profession, of course, there’s an act, a law that says that of course their employers cannot force them for it and things like that. It’s all very clearly spelled in the law.
 
 ### Kate O'Flaherty：
 That was all in place before this happened?
@@ -306,7 +306,7 @@ Of course, you test all the people the contact tracing identified. If people nee
 That makes sense. What about the data side of things? You’ve talked about the cellphone data. What other data are you collecting and how you’re using it?
 
 ### Audrey Tang：
-For example, we already have in the form of a IC card people’s national ID, and whether they are eligible for the national healthcare, which 99.99 percent of not just citizens but also residents have coverage.
+For example, we already have in the form of an IC card people’s national ID, and whether they are eligible for the national healthcare, which 99.99 percent of not just citizens but also residents have coverage.
 
 ### Audrey Tang：
 That IC card formed the basis of the mask rationing system, which we designed to initially add 6,000 pharmacies places and resembles the chronic prescription, like many elderly go to the pharmacist every other week or every month for refilling their chronic prescriptions. It’s the same experience.
@@ -367,10 +367,10 @@ Again, wear a mask to protect yourself from your own hands. That works really we
 A very clear explanation of all the measures and the scientific “why,” not just the administrative “how” really works, because that enable people to innovate.
 
 ### Audrey Tang：
-There was a case, and I think it’s a very illustrative case, where a nightlife worker, a intimate drinking bar worker, was diagnosed with COVID-19. Initially, at the first day, she didn’t tell anything to the contact tracers, says, “I’ll just remain home. I didn’t meet friends.”
+There was a case, and I think it’s a very illustrative case, where a nightlife worker, an intimate drinking bar worker, was diagnosed with COVID-19. Initially, at the first day, she didn’t tell anything to the contact tracers, says, “I’ll just remain home. I didn’t meet friends.”
 
 ### Audrey Tang：
-The second day, of course, she said, “OK. I work in a intimate bar,” and because of professional requirement of anonymity, she didn’t want to work with the contact tracer. For many jurisdictions, at that point, there would be a very strong pressure for the people who work in nightlife to be fined or even put to prison for not collaborating with contact tracing.
+The second day, of course, she said, “OK. I work in an intimate bar,” and because of professional requirement of anonymity, she didn’t want to work with the contact tracer. For many jurisdictions, at that point, there would be a very strong pressure for the people who work in nightlife to be fined or even put to prison for not collaborating with contact tracing.
 
 ### Audrey Tang：
 That will lead to stigma, and that leads to business going underground, as in the US Prohibition era, and that will actually just make the pandemic even more unpredictable. The CECC had a lot of experts, and some of them had extensive experience working with HIV-positive communities.

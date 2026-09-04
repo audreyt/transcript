@@ -93,10 +93,10 @@ Yes, but both actually, both local and global, but yes, that is correct.
 What I’m saying is that for those two particular needs, there exist existing international communities dedicated for exactly that, and I wonder if you have considered just working with them. The obvious choice for example is, in your country, Ott Karulin from the Adviser of the Government Office, is currently in charge of your Open Government Partnership commitments.
 
 ### Audrey Tang:
-That’s their work, to make sure that people like you are invited to the policy-making worldwide, not just in Estonia. That’s a existing community internationally, exactly just for your purpose.
+That’s their work, to make sure that people like you are invited to the policy-making worldwide, not just in Estonia. That’s an existing community internationally, exactly just for your purpose.
 
 ### Audrey Tang:
-Another one which is started by governments but by technologists, is the Code for All network, which g0v is also a part of, but I don’t see a Estonian chapter on that Web page. Those are the two that we very regularly work with, and by we, I mean my office, the Taiwan government’s Public Digital Innovation Space.
+Another one which is started by governments but by technologists, is the Code for All network, which g0v is also a part of, but I don’t see an Estonian chapter on that Web page. Those are the two that we very regularly work with, and by we, I mean my office, the Taiwan government’s Public Digital Innovation Space.
 
 ### Anett Linno:
 Thank you for sharing the Code for All and also the OGP, because we are not in Code for All. We are not members of them, but definitely, I will go it through. Thank you. \[laughs\]
@@ -140,7 +140,7 @@ Why social innovation is my preferred term now is that it doesn’t have to be�
 That’s the extent of imagination most people hear when they hear the term technology, but innovation doesn’t have to be technological in nature.
 
 ### Audrey Tang:
-For example, a important social innovation before our time, actually, is the idea of cooperatives, which is people sharing the benefit of their joint work by share, which is just like a company, but they decide in a democratic manner just like in public sector, one person, one vote.
+For example, an important social innovation before our time, actually, is the idea of cooperatives, which is people sharing the benefit of their joint work by share, which is just like a company, but they decide in a democratic manner just like in public sector, one person, one vote.
 
 ### Audrey Tang:
 That is a technology because it combines the democratic principle with a profit-sharing model, so cooperatives could be seen as a social technology, but it has nothing to do with our traditional way of digital technology. It’s mostly a new form of organization.
@@ -149,7 +149,7 @@ That is a technology because it combines the democratic principle with a profit-
 There are many people working on those furthering the cooperative spirit in the digital age, for example, the so-called platform cooperativism, platform coops, which is essentially Uber, but run in a way that is democratically decided by the drivers.
 
 ### Audrey Tang:
-When we say civic tech, these efforts usually do not get involved that much because they started with a social organization innovation instead of a applied science or applied nature science angle.
+When we say civic tech, these efforts usually do not get involved that much because they started with a social organization innovation instead of an applied science or applied nature science angle.
 
 ### Audrey Tang:
 Saying social innovation is maximally inclusive because it includes both parties, and they do have a lot to learn from each other.
@@ -182,7 +182,7 @@ Yeah, I am already in, as I explained, many of the working groups. When I look a
 I would also remind the communities that maybe it doesn’t work anymore to call it…and this is not a critique to your copy, but rather my personal view in Taiwan. For example, you call yourself a e-decision platform, but it’s like saying that, “Let’s send each other e-messages, or e-telegrams, or emails.”
 
 ### Audrey Tang:
-It used to be that email is spelled with E, dash, mail, but nobody do that anymore. Everybody dropped the dash, and in Taiwan, we now just say, “I’ll mail you,” because it’s assumed that it’s a email. We would say postal mail if it’s not electronic. Do you see what I’m saying?
+It used to be that email is spelled with E, dash, mail, but nobody do that anymore. Everybody dropped the dash, and in Taiwan, we now just say, “I’ll mail you,” because it’s assumed that it’s an email. We would say postal mail if it’s not electronic. Do you see what I’m saying?
 
 ### Anett Linno:
 Yes. \[laughs\] I totally hear you.

@@ -142,7 +142,7 @@ This is also fleshing a bit your history and the journey to vTaiwan. Could you t
 The first few days of Sunflower Occupy, people wondered a lot about whether the police will forcibly evacuate the students in the Parliament. When it transpired, the head of the Parliament didn’t really want the police to intervene. It’s given a room of collaborative conversation around one very specific topic, which is the Cross-Straits Service and Trade Agreement.
 
 ### Audrey Tang:
-We found 20 different NGOs. Each have a very different take into this CSSTA. It could be from a human right perspective, from a labor movement perspective, from a ecological perspective, and all these perspectives are given the room not only to deliberate that aspect but also cross-pollinate because people moved from one booth to another.
+We found 20 different NGOs. Each have a very different take into this CSSTA. It could be from a human right perspective, from a labor movement perspective, from an ecological perspective, and all these perspectives are given the room not only to deliberate that aspect but also cross-pollinate because people moved from one booth to another.
 
 ### Audrey Tang:
 People read the context of the transcript from one day to another. People feel, gradually, that we are one polity, and it’s possible even for half a million people on the street to gradually converge into rough consensus around CSSTA. It’s a feeling of empowerment.

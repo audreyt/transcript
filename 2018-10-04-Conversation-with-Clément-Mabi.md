@@ -25,7 +25,7 @@ I would like to share with you some feelings about what I read about Taiwan on s
 For example, radical transparency. We are on the record, and we will be editing for 10 days before publishing online, and this is exactly how IETF established its legitimacy, because as we know, IETF and the Internet society in general is the largest and most legitimate, I would say, known multilateral organization.
 
 ### Audrey Tang：
-Every other multi stakeholder organization either centers around one specific project, or it is actually a extension of multilateral system that is just doing multi stakeholder constituency consultation. IETF by itself has legitimacy in the Internet society so much so that it can negotiate with ITU, with the US Government, with various other governments, and the reason why it can do so I think is threefold.
+Every other multi stakeholder organization either centers around one specific project, or it is actually an extension of multilateral system that is just doing multi stakeholder constituency consultation. IETF by itself has legitimacy in the Internet society so much so that it can negotiate with ITU, with the US Government, with various other governments, and the reason why it can do so I think is threefold.
 
 ### Audrey Tang：
 One is that of course it’s based on radical transparency and accountability so that everybody can see how it reaches its conclusions by rough consensus, it’s the first one.
@@ -34,7 +34,7 @@ One is that of course it’s based on radical transparency and accountability so
 The second thing is that because the Internet itself is too important for every other actor, so the price of actually not connecting to the open Internet outweigh the risk of boycotting or not working with the Internet governance module so that there is a real incentive for everybody to play with the Internet protocol rules, instead of by their own domestic protocol or whatever. The second is really economic incentive.
 
 ### Audrey Tang：
-I think the third one, which is often overlooked is that it is by itself a inspiration or a call to a governance model that is not ruled by so called domination.
+I think the third one, which is often overlooked is that it is by itself an inspiration or a call to a governance model that is not ruled by so called domination.
 
 ### Audrey Tang：
 That is to say, at its core, when we see requests for comments or IFCs, the very waiting itself or the Tao of the IETF, the document itself, it promotes this idea of non domination. I think this is a very odd hope by most people that’s people can reach something that they can all live with without one party dominating the other.
@@ -67,7 +67,7 @@ This maybe sometimes is called a group consent. There’s many different names f
 For you, it’s very different from deliberation. Rough consensus is different from deliberation?
 
 ### Audrey Tang：
-Deliberation is a activity. Deliberation can result in rough consensus, but you can also start a deliberation with a goal of a very fine consensus or you can start a deliberation with a goal just sharing feelings and sharing the facts without reaching any kind of consensus.
+Deliberation is an activity. Deliberation can result in rough consensus, but you can also start a deliberation with a goal of a very fine consensus or you can start a deliberation with a goal just sharing feelings and sharing the facts without reaching any kind of consensus.
 
 ### Audrey Tang：
 Every deliberation has its own framing and the framing may or may not contain rough consensus.
@@ -139,7 +139,7 @@ Yes.
 How are they chosen?
 
 ### Audrey Tang：
-They choose themselves. It’s just like IETF. If you feel you’re a stakeholder, you send a email to a special interest group, and then you become a stakeholder.
+They choose themselves. It’s just like IETF. If you feel you’re a stakeholder, you send an email to a special interest group, and then you become a stakeholder.
 
 ### Clément Mabi：
 How do you take the concern of representativity? In France, when we make some public consultations, we have a very important issue about who you are representing. People used to say that it’s not enough to speak about the opposition. How do you take this question of representativity of citizens?
@@ -151,7 +151,7 @@ First, we ask a few profiling questions. Because our online questionnaire, even 
 The second thing is that, for example, when we did Airbnb, they sent an email to all their members to go to this platform \[laughs\] and support the Airbnb position. There’s mobilization, but because this space encourages people to reason out each other’s feelings instead of a few yes or no questions, only one third of them actually supported the Airbnb position.
 
 ### Audrey Tang：
-The other two third have more nuanced, more interesting ideas for other to share. I don’t think representation here means what you just described what it means. If all these people say, &quot;OK, I represent a Airbnb member, and Airbnb calls me here to express my opinion,&quot; that works, for example, if it’s a binary choice.
+The other two third have more nuanced, more interesting ideas for other to share. I don’t think representation here means what you just described what it means. If all these people say, &quot;OK, I represent an Airbnb member, and Airbnb calls me here to express my opinion,&quot; that works, for example, if it’s a binary choice.
 
 ### Audrey Tang：
 On the other hand, because they are all individuals and they’re given the freedom to propose their own feelings, I think this re presentation of their own feelings is even more important than whether they are mobilized by Airbnb or not. They’re, after all, individuals.
@@ -374,7 +374,7 @@ It is not a chapter in the usual sense, because it’s not trademarked. Nobody r
 This meme itself can spread, and so new ways are found in Italy, in Toronto, in New York, DC, and so on. That, of course, is new to these people. They will also discover new ideas and new memes for people in Taiwan to understand and then to reuse.
 
 ### Audrey Tang：
-I think it is on the nature of international and cross sectoral collaboration that we constantly find new, fun memes for people to engage with, instead of reusing the old memes that’s one year old. A meme that’s one year old is not viral anymore. Everybody developed a immunity to it.
+I think it is on the nature of international and cross sectoral collaboration that we constantly find new, fun memes for people to engage with, instead of reusing the old memes that’s one year old. A meme that’s one year old is not viral anymore. Everybody developed an immunity to it.
 
 ### Clément Mabi：
 The fund for mobilization, in France, we use to say no issue, no public. People come in this kind of mobilization because they can feel a larger political issue. We can see that sometimes it’s very difficult to transform the issue in a public problem.
@@ -437,7 +437,7 @@ Yes.
 Look in Iceland. They make deliberative processes, they vote, and at the end...
 
 ### Audrey Tang：
-They get absorbed back into the Parliament. We can take Better Reykjavik, which is pretty good as online consultation go. On the other hand, people also say, &quot;Maybe it is not purely ruled by a anarchist politician.&quot;
+They get absorbed back into the Parliament. We can take Better Reykjavik, which is pretty good as online consultation go. On the other hand, people also say, &quot;Maybe it is not purely ruled by an anarchist politician.&quot;
 
 ### Clément Mabi：
 And the constitution was rejected.
@@ -459,7 +459,7 @@ You see, a politically correct term.
 Yes, I do agree. There are constitutional moments like that, where people get to question the very foundation of democracy. There are incremental moments, like Better Reykjavik, basically get their legitimacy through comedic power. \[laughs\]
 
 ### Audrey Tang：
-In these two, which all happen in Iceland, we see people have a lot of expectation, but they have to settle for a compromise. This is true, and Taiwan has seen the same thing. In Sunflower, at the end of Occupy, people called for a constitutional national forum. What they got is a economic reform forum, which is still binding. It’s still national, but its scope is limited.
+In these two, which all happen in Iceland, we see people have a lot of expectation, but they have to settle for a compromise. This is true, and Taiwan has seen the same thing. In Sunflower, at the end of Occupy, people called for a constitutional national forum. What they got is an economic reform forum, which is still binding. It’s still national, but its scope is limited.
 
 ### Audrey Tang：
 People, of course, then, in the forum, proposed that we have the joint platform, radical transparency for all the regulations, all the budgets, the e petition system, and they all get integrated back. It’s not like it doesn’t make any impact, but the original demand of the Occupy has been institutionalized in a way that can fit within the representative democracy system. So, exactly the same thing has happened in Taiwan in 2014 and ’15.
@@ -488,7 +488,7 @@ I think for Nuit debout, one of the main next step is La France Insoumise, becau
 I think that is the main difference. In Taiwan, we still see, for example, the New Power Party, but very few people here will say that the New Power Party represents the whole Occupy Movement. We will say it’s one of the off shots of the Occupy Movement.
 
 ### Clément Mabi：
-I think that’s a very important difference. In France, our representative culture is very strongly \[claps\] .
+I think that’s a very important difference. In France, our representative culture is very strongly \[claps\].
 
 ### Audrey Tang：
 I know you invented it, right?
@@ -550,7 +550,7 @@ No, not enough to give some independence and some autonomies to the projects. Ho
 Back in ’14 and ’15, crowdfunding was very strong in Taiwan. There’s a lot of very large movement that just support itself through crowdfunding alone. I’ll also be honest and say, since ’16, people gradually switched to a subscription based crowdfunding. People think that is more sustainable. It gives a more recurring income.
 
 ### Audrey Tang：
-Subscription based crowdfunding depends on a almost personal trust between the people and the creator or the person who gets supported by the crowd. First, it’s not for everyone. Also, it encouraged I use it in a neutral way a more populist framing of the message.
+Subscription based crowdfunding depends on an almost personal trust between the people and the creator or the person who gets supported by the crowd. First, it’s not for everyone. Also, it encouraged I use it in a neutral way a more populist framing of the message.
 
 ### Audrey Tang：
 If you are going to encourage people to donate to you every month, every creation, every video, or whatever, you have to appeal to more people. You cannot just appeal to people who care about one particular social or environmental issue. You have to basically make a brand out of yourself.

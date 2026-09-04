@@ -220,7 +220,7 @@ Around ’91, and then I went there around ’92. He’s already established a n
 For example?
 
 ### Audrey Tang:
-For example? Personally, I’m more acquainted with, say, @FengCongde’s work . There’s some extended network where they communicated over this thing that I was aware of, but haven’t used, myself. Like Internet, obviously, \[laughs\] but that I haven’t accessed at the time.
+For example? Personally, I’m more acquainted with, say, @FengCongde’s work. There’s some extended network where they communicated over this thing that I was aware of, but haven’t used, myself. Like Internet, obviously, \[laughs\] but that I haven’t accessed at the time.
 
 ### Audrey Tang:
 Also, because many of those are students, they were university students during the protest, so they still pursue their original degrees in mathematics, and science, and so on.
@@ -557,7 +557,7 @@ Yeah, and during the National Day, I think, but not otherwise.
 Building this Asian Silicon Valley in Taiwan, you said, really is one of your main tasks, right?
 
 ### Audrey Tang:
-Asia, the noun form, Silicon Valley was the plan. The original resistance was that everybody, just as you said, added a aim to it, which means that we want to be the Silicon Valley of Asia, which is what drew so much resistance because it’s not feasible to build a Silicon Valley in Asia.
+Asia, the noun form, Silicon Valley was the plan. The original resistance was that everybody, just as you said, added an aim to it, which means that we want to be the Silicon Valley of Asia, which is what drew so much resistance because it’s not feasible to build a Silicon Valley in Asia.
 
 ### Audrey Tang:
 The culture, for one, is completely different. We re-branded and redefined it. My contribution was to introduce this middle dot between...
@@ -584,7 +584,7 @@ Silicon Valley, meaning linking Asia, connecting to SV.
 How will you do it?
 
 ### Audrey Tang:
-How will I do it? There’s now a agency that takes care of that. It’s the ASVDA. The ASVDA page ‑‑ we can just bring it up.
+How will I do it? There’s now an agency that takes care of that. It’s the ASVDA. The ASVDA page ‑‑ we can just bring it up.
 
 ### Max Kalkhof:
 Can I see the top again?
@@ -866,7 +866,7 @@ No, just making up a story. He or she also spends some time in China. Now he’s
 Of course, the main thing is that whether it’s an intranet business, or whether it’s an Internet business, or if it’s both. It should be a very clear business decision.
 
 ### Audrey Tang:
-If you want to be a intranet business, that is primarily single population, then of course you want to found it in Beijing. On the other hand, if you wanted to be a Internet operation, then Taipei is a pretty reasonable choice. So is Tel Aviv, or Singapore.
+If you want to be an intranet business, that is primarily single population, then of course you want to found it in Beijing. On the other hand, if you wanted to be an Internet operation, then Taipei is a pretty reasonable choice. So is Tel Aviv, or Singapore.
 
 ### Max Kalkhof:
 Are there big startups or tech companies in Taiwan?
@@ -899,7 +899,7 @@ Of course, the gaming computer that Asus, or Acer, or MSI brought out. Or any of
 It is more like hardware, right?
 
 ### Audrey Tang:
-Yeah. There’s the Trend Anti-virus, of course, but it’s one comparatively narrow segment. Yeah, it’s mostly as part of the Internet of Things or as part of some cutting edge hardware that you see telling yourself that it’s almost always part of a integration with software and hardware.
+Yeah. There’s the Trend Anti-virus, of course, but it’s one comparatively narrow segment. Yeah, it’s mostly as part of the Internet of Things or as part of some cutting edge hardware that you see telling yourself that it’s almost always part of an integration with software and hardware.
 
 ### Audrey Tang:
 People wouldn’t think HTC as a software company. They will think they are a phone or a VR company, but of course what drives that phone or VR is mostly software.
@@ -1139,7 +1139,7 @@ Yeah, but that’s the only document that was changed.
 I see. What’s your...?
 
 ### Audrey Tang:
-Original name? My original name is Tang Zonghan, traditionally meaning the Tang dynasty inherited the Han dynasty. It’s a extremely traditional Chinese name.
+Original name? My original name is Tang Zonghan, traditionally meaning the Tang dynasty inherited the Han dynasty. It’s an extremely traditional Chinese name.
 
 ### Max Kalkhof:
 Traditional name, and you changed it to Tang?

@@ -372,7 +372,7 @@ Yeah. They re-forked the repository. Yeah, look at this. This is very technologi
 You have interviewed Code4HK, so you know their system. It’s crowd-sourced bookmarking, and with the geo-positioning of news and real-time broadcast and the logistics spreadsheet. This is what we built during the entire movement, and they fought it and of course, improved on it. It started with the anti-nuke protest, that was our first test of this kind of methodology. I’ll give you the short version.
 
 ### Audrey Tang：
-This is ’14, and one year ago before that, there is a anti-nuke protest that’s very large, 100 million people. I’m sorry, 100,000 people or something like that. That’s because of Fukushima — all around the world people are doing the same thing. Taiwan was considering building its first nuclear plant. People were generally OK with that, but after Fukushima, some people went to the street saying, we don’t want that now, especially if it’s Japanese technology. \[laughs\] We have earthquakes, just like in Japan.
+This is ’14, and one year ago before that, there is an anti-nuke protest that’s very large, 100 million people. I’m sorry, 100,000 people or something like that. That’s because of Fukushima — all around the world people are doing the same thing. Taiwan was considering building its first nuclear plant. People were generally OK with that, but after Fukushima, some people went to the street saying, we don’t want that now, especially if it’s Japanese technology. \[laughs\] We have earthquakes, just like in Japan.
 
 ### Audrey Tang：
 But the problem is that the journalists who went to the parade could not send their news out because there’s so many people, the entire 3G spectrum was gone.
@@ -448,7 +448,7 @@ But when the person next to you shouts, &quot;They’re being attacked over ther
 > (phone rings)
 
 ### Amaëlle Guiton：
-Yes, I don’t know. \[French\] . OK. Sorry.
+Yes, I don’t know. \[French\]. OK. Sorry.
 
 ### Audrey Tang：
 It’s OK. This is what we did. We set out a projector like this. This is the occupied place, it’s the parliament, but there’s a stenographer, three actually, rotating. There’s a stenographer in the parliament sitting here, typing everything she heard. Here, in real-time, a stenographer. You don’t have to trust what she writes, of course, buy anybody with a phone, or a headphone can check whether she’s actually being factual. She has to be factual.
@@ -545,7 +545,7 @@ Sometimes it can happen, yeah.
 Very divided things. Then, the Nationalists lost the election on all its cities, but one, one city, the New Taipei City, in the election here, so basically, everybody knows the Nationalist government has one year to live till the presidential election this year at that time.
 
 ### Audrey Tang：
-The entire sentiment of government changed, and the prime minister was forced to resign because he was the one who refused to negotiate with the occupiers, and was generally seen as the reason why Nationalists lost this election so completely, and why we have a independent, nonpartisan mayor as the Taipei city mayor, the capital mayor.
+The entire sentiment of government changed, and the prime minister was forced to resign because he was the one who refused to negotiate with the occupiers, and was generally seen as the reason why Nationalists lost this election so completely, and why we have an independent, nonpartisan mayor as the Taipei city mayor, the capital mayor.
 
 ### Audrey Tang：
 He was elected in a very five-star movement kind of way. A hacker-mayor, basically. The prime minister was replaced with an engineer, and the prime minister said, “Engineers cannot choose to avoid problems. We still have to solve it.&quot;
@@ -587,7 +587,7 @@ Any party that blocks this bill will be seen as the enemy of the entire process.
 Then we talk about one aspect of their law each time. Then, for 20 minutes, face to face for 20 minutes to the cyber-participation. Whether you’re offline or online, you get the same amount of time to deliberate. All this is standard deliberative technology, where we use it is tele-communicatively. We keep the word of everybody using Hackpad and SayIt.
 
 ### Audrey Tang：
-The idea is that the consensus is built in this way. It’s very difficult for other political power to refute. This is our tool kit. The point here is that we changed our methodology a little bit when we’re faced with a entity that does not even have to answer to the national consensus, even if we could reach national consensus.
+The idea is that the consensus is built in this way. It’s very difficult for other political power to refute. This is our tool kit. The point here is that we changed our methodology a little bit when we’re faced with an entity that does not even have to answer to the national consensus, even if we could reach national consensus.
 
 ### Audrey Tang：
 Am I going too long or is it OK?
@@ -657,7 +657,7 @@ That’s it. We just ask for five seconds of your time and when you answer that,
 People can write new sentiments to try to win more consensuses in their own group and there’s a visualisation of other groups, and this is published. On the first week, there were Uber drivers, taxi drivers, Uber passengers, other passengers, and then a significant fraction of people thinks it’s already illegal. It is on the court already, so it should be canceled immediately.
 
 ### Audrey Tang：
-This group of people says, &quot;Even if there’s a lot of taxi in front of me, I always call a Uber.&quot; These are the Uber addicts, so to speak and these are the anti-Uber people, but if you multiply the numbers, none of this is in majority.
+This group of people says, &quot;Even if there’s a lot of taxi in front of me, I always call an Uber.&quot; These are the Uber addicts, so to speak and these are the anti-Uber people, but if you multiply the numbers, none of this is in majority.
 
 ### Amaëlle Guiton：
 It’s true.
@@ -1017,7 +1017,7 @@ What do you mean, vaccinates them?
 > (3.1. Vaccines of the Mind)
 
 ### Audrey Tang：
-I will use a very simple example. Before the election, presidential election in Taiwan, before Dr. Tsai Ing-wen was elected, she had a agenda platform running with open-source, maker-spirit, whatever, it’s very progressive — human right, animal right even, because she has a family of cats.
+I will use a very simple example. Before the election, presidential election in Taiwan, before Dr. Tsai Ing-wen was elected, she had an agenda platform running with open-source, maker-spirit, whatever, it’s very progressive — human right, animal right even, because she has a family of cats.
 
 ### Audrey Tang：
 The idea is that everybody knows she will win, but not by much, by maybe three million or less than three million, but the night before the election, there was this campaign that went viral. It came from a Korean company, called JYP. It’s one of the largest K-pop studios. One of the Taiwanese girl, Zhou Zi-Yu, is a singer in one of the JYP’s bands. In JYP, they did a show on a television a couple years ago of all their team members waving a flag, their national flag.

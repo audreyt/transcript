@@ -91,7 +91,7 @@ How far can it go in Taiwan? How far do you think it can go because there’s is
 We’re pushing the boundaries to find out exactly how far can it go in each and every data sets. It varies. For procurement data, the main worry of the procurement agency is that it will be used out of context as a trade negotiation kind of weapon, which creates an unfair trading disadvantage as long as our trade partners do not open their procurement data, but we do in a real-time fashion. That creates a disadvantage at trade negotiations, obviously. That is really the only thing against the totally opening up of procurement data for any purpose, which is why we elected a model of basically saying the data is public, but not under an open license.
 
 ### Audrey Tang:
-People can ask for a copy of the data if they are either a Taiwanese national promising not to use it for encouraging foreign trade negotiation purposes or that you have a legitimate reason. For example, you get statistics in the aggregate and you can, of course, give a algorithm to a person or entity trusted with this data, which runs your code and published the results back to you.
+People can ask for a copy of the data if they are either a Taiwanese national promising not to use it for encouraging foreign trade negotiation purposes or that you have a legitimate reason. For example, you get statistics in the aggregate and you can, of course, give an algorithm to a person or entity trusted with this data, which runs your code and published the results back to you.
 
 ### Audrey Tang:
 In that case, that would be open data. This method is called open algorithm, like public data, but only for nationals, on one hand, and then open algorithm for everybody. That is currently the balance we’re striking with the government procurement data.
@@ -169,7 +169,7 @@ Being in an academic institution with the system operators rotating on a four-ye
 It’s a social production system that has all the hallmarks of the large site with its own moderation, its own community rules, and things like that, but it’s not being hijacked for either sell to advertisers -- they don’t need advertisement money -- or selling to the state. They’re independent, because of their academic status, from the state.
 
 ### Audrey Tang:
-They are a hallmark of what we call, in the UK, the voluntary sector, in Taiwan, we call the social sector. That is separate from the private or the public sectors’ aims. That provides a safe space for new collusions to happen in that space. The second thing is that Taiwan uses a EU-style privacy law from the very beginning. Ever since we have a personal data protection law, we are using the EU style.
+They are a hallmark of what we call, in the UK, the voluntary sector, in Taiwan, we call the social sector. That is separate from the private or the public sectors’ aims. That provides a safe space for new collusions to happen in that space. The second thing is that Taiwan uses an EU-style privacy law from the very beginning. Ever since we have a personal data protection law, we are using the EU style.
 
 ### Audrey Tang:
 People around our region are slowly converging, mostly because of GDPR, to that point of view, but it’s not ingrained in the culture yet. Here in Thailand, I think they’re taking a year just getting people’s head around data not as an asset but as a beginning of a relationship.
@@ -222,7 +222,7 @@ We encourage the company to become like B Corps, to declare their explicit purpo
 That’s a relief.
 
 ### Audrey Tang:
-It is a relief. I’m not arguing communism, but I think this commons distance between the entirely private and entirely communal has a lot of room to grow, even in the face of Facebook and so on. GDPR, with its right to portability, may be the first step. The next step could be, for example, defining a ongoing data relationship as something that could be compensated.
+It is a relief. I’m not arguing communism, but I think this commons distance between the entirely private and entirely communal has a lot of room to grow, even in the face of Facebook and so on. GDPR, with its right to portability, may be the first step. The next step could be, for example, defining an ongoing data relationship as something that could be compensated.
 
 ### Audrey Tang:
 Previously, it’s hard because the transaction cost is just too high. Now, it’s actually becoming possible. We’re seeing more federated social networks anyway. This is just some of the possibilities to strike a balance between the two polar opposites.
@@ -310,7 +310,7 @@ The second thing is that there’s a dedicated team in Academia Sinica, which is
 > (laughter)
 
 ### Audrey Tang:
-Taiwan is a excellent practice in fusion of constitutions. In any case, the Academia Sinica has a dedicated team that calibrates the crowdsourced data. All the research they do is exactly the calibration that you just mentioned. They basically work with the public sector. We also set up Airbox-compatible sensors throughout Taiwan to serve as a government contribution to their community effort.
+Taiwan is an excellent practice in fusion of constitutions. In any case, the Academia Sinica has a dedicated team that calibrates the crowdsourced data. All the research they do is exactly the calibration that you just mentioned. They basically work with the public sector. We also set up Airbox-compatible sensors throughout Taiwan to serve as a government contribution to their community effort.
 
 ### Audrey Tang:
 Using those different correlated data, the people in Academia Sinica are working on algorithms to make it more reliable and exactly solving the drifts and biases. They do publish on that. Because they’re above the administration, people trust that the Academia Sinica is not working for any party’s team. They’re superior, beyond the normal universities in that case.
@@ -357,7 +357,7 @@ Then the people who audit them can fly a drone over or something. That is immedi
 It’s just an early sign to send people over, to reduce the time it takes to detect and also for the auditors to geolocate the precise position of rice-straw burning or other actions that harms the general health. This is already ongoing for a year or so now. It’s a no-brainer.
 
 ### Audrey Tang:
-On the municipal level, I think it is also helping to clarify. For example, the people will often suspect a industrial park or so on of causing the air pollution, and they cannot talk themself out of it without showing the numbers.
+On the municipal level, I think it is also helping to clarify. For example, the people will often suspect an industrial park or so on of causing the air pollution, and they cannot talk themself out of it without showing the numbers.
 
 ### Audrey Tang:
 If it is the private sector provide the number themselves without any correlations by other sectors, then people will say, &quot;Maybe you fake your records. Maybe you don’t fake your records, but they are just conveniently intervaled,&quot; \[laughs\] or things like that. There really is no way for the private sector to prove on its own.

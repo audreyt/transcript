@@ -453,7 +453,7 @@ What are the outcomes here?
 [laughs] This is the picture show the domains that we're assessing in the digital tool. You can see this part represent findings from multiple individuals.
 
 ### Audrey Tang:
-Each column is a individual.
+Each column is an individual.
 
 ### Keng-Yen Huang:
 This, right now, is individual, and we're adding environmental factors. Those are all including in the digital tool assessment. Those are the domains recommended to be assessed based on the US National Institute of Health. This is based on a framework they are developing. We need to understand behaviors from normal to abnormal, and the processes of development?

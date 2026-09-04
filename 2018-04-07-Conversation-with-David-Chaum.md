@@ -801,7 +801,7 @@ You get a really neat result and people find that gratifying. Then the code is r
 That’s something the survey showed distinctly people really appreciated. Very few people, of course, understood the proofs that we give of the verifiable proof that the tally does accurately reflect the votes that are encoded in those numbers.
 
 ### David Chaum:
-Still, they were very happy with the overall system. I guess they were willing to take that second phase on faith somehow seeing at least their vote was...I don’t know exactly how each person thought about it, but the overall appreciation, satisfaction was much higher, and in fact, it costs nothing extra to do this. It’s actually cheaper. And, of course, its a pure overlay, so that there is no diminution in overall hand-counting options or traditional security.
+Still, they were very happy with the overall system. I guess they were willing to take that second phase on faith somehow seeing at least their vote was...I don’t know exactly how each person thought about it, but the overall appreciation, satisfaction was much higher, and in fact, it costs nothing extra to do this. It’s actually cheaper. And, of course, it’s a pure overlay, so that there is no diminution in overall hand-counting options or traditional security.
 
 ### David Chaum:
 We offered any jurisdiction that would want to start adopting it, we’d give them all the software for free and all updates in perpetuity for free, but no one signed up. I don’t know what’s with that. If you’re running polling place voting, there’s no excuse for not using it, because voters like it better and turnout is higher, it costs less, and its strictly speaking more secure.
@@ -1077,7 +1077,7 @@ The rows, the IV parts, and the tribes, the districts that were stripes, the who
 Pinakia.
 
 ### David Chaum:
-I’m glad you know about this. They’d go out with those disks. They weren’t allowed to talk to each other. Some of them had holes, some not. They put their their arms in, and they released them. It’s almost as secure as pope elections for the last 600 years or so. I try to make this argument...It’s shocking how much the same it is that what I proposed.
+I’m glad you know about this. They’d go out with those disks. They weren’t allowed to talk to each other. Some of them had holes, some not. They put their arms in, and they released them. It’s almost as secure as pope elections for the last 600 years or so. I try to make this argument...It’s shocking how much the same it is that what I proposed.
 
 ### David Chaum:
 Also, the jury sizes are pretty large compared to...The minimum was I think 300. It’s very much like RSV. Then the interesting thing...

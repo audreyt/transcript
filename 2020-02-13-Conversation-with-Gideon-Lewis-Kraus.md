@@ -13,7 +13,7 @@ I think there’s two things. One, as you correctly pointed out, I’m not just 
 Also, board member soon of CONSUL Foundation, which is the Madrid participation platform. After Madrid election, they moved to Amsterdam, trying to find a new home supporting civic participation software development and figuring out a financial model as a new social innovation organization.
 
 ### Audrey Tang:
-Three very different international NGOs, one you would think well-funded, but now we don’t know. \[laughs\] The Digital Future Society, I mean. Then RadicalxChange which has, of course, the Ethereum backup as a experimental community.
+Three very different international NGOs, one you would think well-funded, but now we don’t know. \[laughs\] The Digital Future Society, I mean. Then RadicalxChange which has, of course, the Ethereum backup as an experimental community.
 
 ### Audrey Tang:
 CONSUL trying to project these ideas into the real world, and having gained some legitimacy, like winning a UN public service award, working with municipal governments worldwide.
@@ -557,7 +557,7 @@ My uncle is based in San Jose, my mother’s younger brother. Aside from the bri
 At some point, I would like you to direct me, given that there’s so much there, to more of the interviews that you think were particularly interesting or useful interviews that I should be caught up on.
 
 ### Audrey Tang:
-Sometimes it feels like a exercise in hermeneutics, in making sense of what I previously have said, because you bring up the very old French interviews. My perspective certainly changed since then. Just doing a “Yeah, that makes sense” exercise in that context is very interesting by itself.
+Sometimes it feels like an exercise in hermeneutics, in making sense of what I previously have said, because you bring up the very old French interviews. My perspective certainly changed since then. Just doing a “Yeah, that makes sense” exercise in that context is very interesting by itself.
 
 ### Gideon Lewis-Kraus:
 I can imagine.

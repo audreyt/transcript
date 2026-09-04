@@ -306,7 +306,7 @@ It’s been great. My time here the past six months here in Taiwan have been abs
 I visited everything from almost all cities along the coastline of Taiwan visiting electronic e-waste facilities to plastic recycling plants, to research institutes, to government offices, to you name it. It’s been amazing. My goal when I return back to Washington, DC is two-fold.
 
 ### Grayson Shor:
-First is I will be continuing my work on the GCTF for next year, which I have some questions for you about. I’m hoping to get your advice on that. Then the second one is when I return back I’ll also be working on a OECD portfolio.
+First is I will be continuing my work on the GCTF for next year, which I have some questions for you about. I’m hoping to get your advice on that. Then the second one is when I return back I’ll also be working on an OECD portfolio.
 
 ### Grayson Shor:
 My hope is to use OECD portfolio as also a mechanism to promote the circular and the greening economy but also open-source data and a lot of the values that you and I share and a lot of people in our generation as well about the importance of open-source data, open-source information, and even the civic hacker, and the maker community as well.
@@ -530,7 +530,7 @@ I agree.
 The GCTF media literacy track and the GEC hackathon you mentioned, has such a synergy. You can have the GCTF itself making the academic connections and do the analysis and things like this, but after all, it’s not a public-appealing event.
 
 ### Audrey Tang:
-If the academics can feel that, by coming here, it’s not just sharing the best practices, but can collaboratively determine the agenda of a outreach event that is truly global – like the GEC event – that everyone can then take back to our countries to serve as local contextualizers, then it gives them a lot of things to do right after the GCTF for five months or six months.
+If the academics can feel that, by coming here, it’s not just sharing the best practices, but can collaboratively determine the agenda of an outreach event that is truly global – like the GEC event – that everyone can then take back to our countries to serve as local contextualizers, then it gives them a lot of things to do right after the GCTF for five months or six months.
 
 ### Audrey Tang:
 The next GCTF will naturally be then going back and reporting whether this intervention was useful. In a closed setting, not open to the public, people can be very frank in how to make the second year better.

@@ -56,7 +56,7 @@ Many democracies in Europe are struggling, obviously. This is also why your expe
 It is an experiment. As I said, humor over rumor. It’s because rumor is very powerful now with the emotion of outrage. Even Netherlands is not totally immune to the outrage of divisiveness in the society, either across ethnicities or across generations, across age.
 
 ### Audrey Tang:
-A lot of my work is to make sure that people can laugh about whatever I do. Whether it’s using a electric rice cooker to revitalize a mask or something, I make sure that within 30 minutes people laughed about it.
+A lot of my work is to make sure that people can laugh about whatever I do. Whether it’s using an electric rice cooker to revitalize a mask or something, I make sure that within 30 minutes people laughed about it.
 
 ### Audrey Tang:
 Once people laughed about it, people can then discuss things in a very rational, participatory fashion because they’ve already used up the psychic energy that could be channeled to outrage even if we do not have a comedic relief.
@@ -216,7 +216,7 @@ This is literally my name card, and so it says, “Taiwan Can Help.” As you ca
 It has the .tw, but that’s it.
 
 ### Audrey Tang:
-It’s a Internet domain. It’s a cyberspace domain. It is not in a physical domain, and then we didn’t specify which country it is, and even the digital minister title is in lower case, meaning that I’m just someone who preach about digital.
+It’s an Internet domain. It’s a cyberspace domain. It is not in a physical domain, and then we didn’t specify which country it is, and even the digital minister title is in lower case, meaning that I’m just someone who preach about digital.
 
 > (laughter)
 

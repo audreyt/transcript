@@ -384,7 +384,7 @@ In addition to our premier, which continues to [laughs] literally making himself
 > (laughter)
 
 ### Audrey Tang:
-The Shiba Inu, the very cute dog, we have a official spokesdog of the counter pandemic effort, and the Shiba Inu helped a lot, for example, around mask use. One of the most striking difference between our public communication around mask use and, for example, the US one, with all due respect, is that...
+The Shiba Inu, the very cute dog, we have an official spokesdog of the counter pandemic effort, and the Shiba Inu helped a lot, for example, around mask use. One of the most striking difference between our public communication around mask use and, for example, the US one, with all due respect, is that...
 
 > (laughter)
 

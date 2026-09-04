@@ -52,9 +52,9 @@ Yes.
 ### Audrey Tang:
 Usually, the way people do that, not just in Taiwan, but everywhere else, is driver's license and so on.
 
-In the, I think it was the verifiable credentials, W3C spec, there was a spectrum that said that the fact that we're over a certain age is considered non-private. It's OK if everybody knows whether I'm an adult or not because there's no way that you could be re-identified. The norm here is to show this yellow card in conjunction with a ID card.
+In the, I think it was the verifiable credentials, W3C spec, there was a spectrum that said that the fact that we're over a certain age is considered non-private. It's OK if everybody knows whether I'm an adult or not because there's no way that you could be re-identified. The norm here is to show this yellow card in conjunction with an ID card.
 
-I'm just pointing out that the solution, whichever it is, if it doesn't also obviates the need to show a ID card or driver's license, then at that point probably would be moot. Exactly the same information and more is on the driver's license. Just an observation.
+I'm just pointing out that the solution, whichever it is, if it doesn't also obviates the need to show an ID card or driver's license, then at that point probably would be moot. Exactly the same information and more is on the driver's license. Just an observation.
 
 ### Jonathan Levin:
 That's an excellent point, and also, a very good segue to my next slide. Basically, what this type of procedure or this type of process is called is a so-called attribute-based credential. For example, showing that you are old enough to go to bar in the first place is showing that you have some attribute that you are over 18 in Taiwan.
@@ -123,7 +123,7 @@ Exactly, right. The bouncer at the bar but it's not posting it's an interactive 
 Exactly. Sorry, good question.
 
 ### Audrey Tang:
-It has to be a active one, because otherwise you would just run a fake app.
+It has to be an active one, because otherwise you would just run a fake app.
 
 ### Jonathan Levin:
 Exactly. This would be corresponding to, for example, the bouncer at the bar having a tablet that is constantly showing these new QR codes for people to scan as they enter.
@@ -197,7 +197,7 @@ Yeah, I'm aware of that. The TSDA is the app that requires also the state sponso
 Exactly.
 
 ### Audrey Tang:
-Apple and Google does not discourage any additional feature, including play space checking and so on, being added to the national checking method. The reason you cited is that IRMA cannot make its own app. The reason I cited was whether IRMA can be integrated with a existing nationally blessed exposure notification app, in Taiwan's case, the TSDA.
+Apple and Google does not discourage any additional feature, including play space checking and so on, being added to the national checking method. The reason you cited is that IRMA cannot make its own app. The reason I cited was whether IRMA can be integrated with an existing nationally blessed exposure notification app, in Taiwan's case, the TSDA.
 
 ### D.T. Lee:
 Jonathan, I thought that the IRMA can be integrated to TSDA?
@@ -209,7 +209,7 @@ That's my original suggestion. The entire TSDA is open source so just make a pul
 If we get API available, then we can hook it up as far as that goes.
 
 ### Audrey Tang:
-Yes. I made a suggestion to D.T., but then the EUDCC people eventually did convince the TSDA people to add the EUDCC wallet. Now, the TSDA is a EUDCC wallet. What I'm trying to say is that the Google, Apple restriction doesn't say that the TSDA cannot be two wallets, one wallet for IRMA, one wallet for EUDCC.
+Yes. I made a suggestion to D.T., but then the EUDCC people eventually did convince the TSDA people to add the EUDCC wallet. Now, the TSDA is an EUDCC wallet. What I'm trying to say is that the Google, Apple restriction doesn't say that the TSDA cannot be two wallets, one wallet for IRMA, one wallet for EUDCC.
 
 For a practical reason, the bar, the bouncer, would like to standardize on one for obvious reasons. One requires them to scan a QR code. In your case, they need to present a QR code which is an active one. The bouncer can only do so much. The point I'm making is that you're in a competitive goal vis-à-vis the kind of standards that the bouncer at a bar would use.
 
@@ -414,7 +414,7 @@ If you have a twin and you're really close, you might still give them everything
 ### Audrey Tang:
 I see that. It's very useful to have privacy. Especially the vaccine passport, everybody know that it's vulnerable to replay attack. Once I scan your account, I might as well just store that character, right? [laughs] Of course, it's well known.
 
-For the EUDCC, it's considered OK because it's mostly for traveling and for the airport to use. In that case, they're going to verify a stronger passport anyway. It's considered OK for that particular use case. I don't think it's designed for bars in general. [laughs] It's designed for international travel. Everything else is a add on.
+For the EUDCC, it's considered OK because it's mostly for traveling and for the airport to use. In that case, they're going to verify a stronger passport anyway. It's considered OK for that particular use case. I don't think it's designed for bars in general. [laughs] It's designed for international travel. Everything else is an add on.
 
 Whereas in the IRMA case, it's designed to be general purpose. I'm just saying that there are certain norms that's already being built around EUDCC in Taiwan. We will have to compete vis-à-vis that norm, is my own observation.
 
@@ -469,7 +469,7 @@ For that, because it's entirely asynchronous and via a document, we end up choos
 
 We went with EUDCC, even though we understand there's many other solutions possible. That's that. What else? Tanja mentioned website logins for, I don't know, a website that has to prove that you're adults to enter. Taiwan used to have that law, but it's not active anymore. We don't have prove age to enter laws here in Taiwan.
 
-It's not a imminent use case, either. I would like to brainstorm with people who have been to various different websites in Taiwan and places in Taiwan to see what could be the next use case.
+It's not an imminent use case, either. I would like to brainstorm with people who have been to various different websites in Taiwan and places in Taiwan to see what could be the next use case.
 
 ### Jonathan Levin:
 Most of the thought I've been putting into this has been around vaccine passports. I have had some experiences in my time in Taiwan over the last year or two that I think this could be useful.
@@ -547,7 +547,7 @@ Of course, that means the metadata would be linked because you asked for the cre
 
 The point I was making was not a hypothetical one because if what you're saying is that your employer would like verify that you are healthy to some degree, then they will want range proofs.
 
-Each employer will have different ranges for the acceptable threshold. The army, for example, would have a different range compared to other employers like academia and [inaudible 49:12] .
+Each employer will have different ranges for the acceptable threshold. The army, for example, would have a different range compared to other employers like academia and [inaudible 49:12].
 
 ### Tanja Lange:
 My understanding is that in the end it's a yes, no answer. You compute the range and then enter a credential which says yes or no.
@@ -663,7 +663,7 @@ I have to confess that I'm not as acutely privacy aware as my friends who are no
 
 The central government and the city governments are asking sometimes, by my lights, too much information. For example, just one thing that I consider to be way too much information is when you are always on a city bus. You have to click in when you get on. You have to click out when you get off.
 
-That is something that in a sense, the city government shouldn't be asking about, especially if you are using a ID-tied Metro card, like many people are using.
+That is something that in a sense, the city government shouldn't be asking about, especially if you are using an ID-tied Metro card, like many people are using.
 
 ### Audrey Tang:
 The Easy card.
@@ -795,9 +795,9 @@ I mean, for instance, in the bright and glorious future where we don't have to w
 ### Audrey Tang:
 I'm aware of that, which is why I asked about the offline use case, because the ID card is tamper-proof without Internet connection.
 
-What I'm trying to say is that since we are going to use it for marathon or activities as the first use case, what I think is prudent is to make the use case build in such places so that people become generally comfortable with this kind of two active sessions with essentially a active QR code, which from my knowledge is only used now when doing mobile payment.
+What I'm trying to say is that since we are going to use it for marathon or activities as the first use case, what I think is prudent is to make the use case build in such places so that people become generally comfortable with this kind of two active sessions with essentially an active QR code, which from my knowledge is only used now when doing mobile payment.
 
-That's the only other scenario that has a active QR code generating, so maybe a couple toward that sort of cases instead of on the existing norms that already are dominated by paper or paper equivalents.
+That's the only other scenario that has an active QR code generating, so maybe a couple toward that sort of cases instead of on the existing norms that already are dominated by paper or paper equivalents.
 
 ### Tanja Lange:
 Do you know whether the thing, if I take on YouBike's 2.0, is it an active QR code or is it static?
@@ -809,7 +809,7 @@ I don't know. I don't have YouBike access, somebody with YouBike access.
 I have never used YouBike with a QR code. I just know it exists. I'm the kind of the YouBike 1.0 user because it doesn't have trackings.
 
 ### Audrey Tang:
-It's a active one. I'm pretty sure it's not zero knowledge.
+It's an active one. I'm pretty sure it's not zero knowledge.
 
 ### Tanja Lange:
 Since you mentioned...
@@ -846,7 +846,7 @@ It's interesting. We will have the SKI thing be open source so we can have this 
 ### Audrey Tang:
 The point I was making was because the TSDA, the social distancing app, probably will only be the wallet for EUDCC for the next while. There are other apps well within D.T.'s control like the SKI+. The other logical thought is to localize, to translate into Mandarin at least, or maybe the other 19, sorry, 16 national languages, the 20 national languages that we have.
 
-We got to start somewhere, so maybe still Mandarin. Then, translating to Taiwanese Mandarin the IRMA app. From my perspective, a lot of the adoption hurdles come from people who see a application not localized or not partially localized.
+We got to start somewhere, so maybe still Mandarin. Then, translating to Taiwanese Mandarin the IRMA app. From my perspective, a lot of the adoption hurdles come from people who see an application not localized or not partially localized.
 
 I just installed the Element messenger, previously known as Riot on iOS, which is maybe just 20 percent translated. [laughs] I was just saying, if we want to roll it out to replace Rocket.Chat, which we contributed a lot of localization in, the first thing we got to do is to translate everything. Otherwise, it would not allure to the general citizenry.
 

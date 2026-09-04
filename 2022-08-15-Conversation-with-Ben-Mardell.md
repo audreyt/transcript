@@ -10,7 +10,7 @@ We've worked in Denmark and South Africa and US and Colombia, and now we've done
 Yvonne can do that. Do you want to talk a little bit about what you guys have been doing here?
 
 ### Yvonne Liu:
-Yes. I grew up in Taiwan. [Mandarin] . What we were doing is the Forest School which you probably know [Mandarin], maybe. [laughs]
+Yes. I grew up in Taiwan. [Mandarin]. What we were doing is the Forest School which you probably know [Mandarin], maybe. [laughs]
 
 ### Audrey Tang:
 Of course.
@@ -18,7 +18,7 @@ Of course.
 > (laughter)
 
 ### Yvonne Liu:
-...and [Mandarin] . The teachers there tried to come up with their own indicators of what this playful learning means to them and what this would look like in the Taiwanese context. Actually, we could share it with you.
+...and [Mandarin]. The teachers there tried to come up with their own indicators of what this playful learning means to them and what this would look like in the Taiwanese context. Actually, we could share it with you.
 
 ### Audrey Tang:
 Some material?
@@ -305,7 +305,7 @@ Yeah.
 [Mandarin] ?
 
 ### Colleague A:
-How do they were doing in Taiwan in [Mandarin] , in the first school?
+How do they were doing in Taiwan in [Mandarin], in the first school?
 
 ### Audrey Tang:
 In the first school?
@@ -320,7 +320,7 @@ My knowledge is...Or do you want to answer it because you know it better than I?
 Yes. The whole project that we do is that when we go to a country, we would select schools that already have playful learning. That's why we picked the first school. That's why we picked that thinking. It's that you made into the research says something about it.
 
 ### Colleague A:
-[Mandarin] .
+[Mandarin].
 
 ### Audrey Tang:
 The indicator is already local context?
@@ -374,7 +374,7 @@ Excellent.
 > (laughter)
 
 ### Colleague A:
-[Mandarin] .
+[Mandarin].
 
 ### Audrey Tang:
 To interpret a little bit...

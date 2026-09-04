@@ -147,7 +147,7 @@ They appeal to us, saying that, &quot;We want to use the system that you are usi
 We had no idea whether they are actual civic hackers or engineers, or whether they were just here for the fun. Because the engineers have a fast lane toward all the occupy stations, and so maybe people get in for the ride. We had to somehow tell a network engineer from a non-network engineer, and so we used Loomio to crowdsource the ideas.
 
 ### Audrey Tang：
-We started with some really bad ideas like depositing one’s passport or an electronic ID. Nobody mentioned blockchain... At that point it wasn’t that popular, in 2014. We settled with something really, really simple, which is asking anyone who shows up who looks new what’s two to the power of six and two to the power of nine. If they can answer it, then they’re likely a civic or a Internet engineer. Things like that.
+We started with some really bad ideas like depositing one’s passport or an electronic ID. Nobody mentioned blockchain... At that point it wasn’t that popular, in 2014. We settled with something really, really simple, which is asking anyone who shows up who looks new what’s two to the power of six and two to the power of nine. If they can answer it, then they’re likely a civic or an Internet engineer. Things like that.
 
 ### Audrey Tang：
 Literally, every day is a completely different topography and completely different configuration that we need to work with. I remember a day where the Supreme Court did this interpretation of the law saying that flash mobs are constitutional. They don’t have to get an approval beforehand if there’s no coordinator and there is no organized, premeditated will to gather.
@@ -453,7 +453,7 @@ Then suddenly people who shared the same affinity to a keyword just started trus
 My work has always been to go into all the three dimensions to scale out, to scale up, to scale deeply, and try to get the same listening experience. Instead of like radio and television, where one person gets to speak to one million people, but have no idea what those million people said, try to listen to those millions of people, a signal not as noise.
 
 ### Audrey Tang：
-Equally importantly, too, to have millions of people listen to each other and to partake in this kind of listening experience. It’s been always the project. I don’t think it’s my project. \[laughs\] I think it is just how the technologies evolved in a asymmetrical way at the beginning.
+Equally importantly, too, to have millions of people listen to each other and to partake in this kind of listening experience. It’s been always the project. I don’t think it’s my project. \[laughs\] I think it is just how the technologies evolved in an asymmetrical way at the beginning.
 
 ### Audrey Tang：
 It was the Internet, there was this huge dream, the Cluetrain Manifesto and the Declaration of the Independence of Cyberspace and all that, to democratize this. It didn’t quite play out that way, so we talked about re-decentralization. We talk about re-de-re-decentralization.
@@ -605,7 +605,7 @@ You’re interviewing everybody else in the vTaiwan community. They’re actuall
 The vTaiwan story from my point of view, it’s a story of the central government having lost all legitimacy, and the Occupiers and Occupy sympathizers won the local elections, threatening to make the central government irrelevant. That’s the background, the back story of the story, if you will.
 
 ### Audrey Tang：
-It’s also the story of a existing civic tech community, the g0v community, with the slogan, &quot;Fork the government.&quot; We really didn’t want to fork the entire government. People just picked the part of government where we had the most gripe with, and fork that particular part of it.
+It’s also the story of an existing civic tech community, the g0v community, with the slogan, &quot;Fork the government.&quot; We really didn’t want to fork the entire government. People just picked the part of government where we had the most gripe with, and fork that particular part of it.
 
 ### Audrey Tang：
 When the central government, having lost all legitimacy, \[laughs\] and they came asking, &quot;How about forking the entire central government?&quot; Without that domain name, g0v.tw, I don’t think we’d have risen up to the task.

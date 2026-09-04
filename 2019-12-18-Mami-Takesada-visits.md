@@ -50,7 +50,7 @@ Yes.
 LITALICO provide the services for the children with autism, ADHD, LD from 2011. They have some difficulties when they want to communicate with others and when they attend classes in school. We also have the program for children to learn programming, and it start from 2014. I also was the teacher for the special needs and some of the autism children who are not good at talking with others by using the language in Japanese or English, but they’re very good at programming, because the programming language have the…How can I say it? \[non-English speech\]
 
 ### Ky:
-\[non-English speech\] .
+\[non-English speech\].
 
 ### Audrey Tang:
 The natural language is not as precise as programming languages.
@@ -93,7 +93,7 @@ Some of them is similar because they are literally taken from Japanese translati
 It’s including the media literacy.
 
 ### Audrey Tang:
-It’s the same thing, and it’s with a angle of communication and interaction with people who are different from you. This is very important because if we communicate only with people who are more like us, it becomes a echo chamber where it reinforces the stereotype about everybody else, and people become more exclusive.
+It’s the same thing, and it’s with an angle of communication and interaction with people who are different from you. This is very important because if we communicate only with people who are more like us, it becomes an echo chamber where it reinforces the stereotype about everybody else, and people become more exclusive.
 
 ### Audrey Tang:
 If you think technology is part of media literacy, and it’s aimed at communicating and interacting with people who are not like you, then it’s inclusive by design. That is the basic philosophy of our new curriculum, which is not only very different from the previous curriculum, 10 years ago. It’s also different from most other East Asian curriculums.
@@ -105,7 +105,7 @@ It is done more like Finland or more like Scandinavian countries, so it is a lar
 Part of it says the Ministry of Education don’t control which school material and education to use, as long as you can fulfill those nine competencies. The school can design their own classes, their own participation along with the community.
 
 ### Audrey Tang:
-What used to be a off-hour activity or a summer camp or winter camp can now be included in the schools as its own designed classes. In that we encourage a new generation of what we call education innovators to design new curriculums and material based on those competence without any restriction by the Ministry of Education.
+What used to be an off-hour activity or a summer camp or winter camp can now be included in the schools as its own designed classes. In that we encourage a new generation of what we call education innovators to design new curriculums and material based on those competence without any restriction by the Ministry of Education.
 
 ### Audrey Tang:
 There’s already classes on thinking, creative thinking, design thinking. There’s already classes based on e-sports and teach people how to become a good YouTuber.
@@ -260,7 +260,7 @@ I can send you the link, the news Skills 4U thing.
 Their team, the World Skills Taiwan team won the third place, worldwide, in this year’s World Skills competition. For the school children, many of them used to think that working as a skills person is something you do if you cannot place highly on examinations and study for academia.
 
 ### Audrey Tang:
-Now, what the Skills 4U is doing is making sure that people who are interested in skills can have a early taste of how it works like. Maybe at 7th or 10th grade, they already become respected masters of their skill.
+Now, what the Skills 4U is doing is making sure that people who are interested in skills can have an early taste of how it works like. Maybe at 7th or 10th grade, they already become respected masters of their skill.
 
 ### Mami Takesada:
 By meeting someone who already has the skills they want to get…
@@ -333,7 +333,7 @@ They don’t wait for the minister of education, they just go ahead…
 If you want to try a lot of different ideas, those commodity hardware is what you need. That’s how those larger companies can provide for free for the social innovators to work with. That’s the foundation.
 
 ### Audrey Tang:
-The second one is called University Social Responsibility or USR. USR is basically saying as a undergrad student, as part of your capstone project, you can do something for two years or so, something good for your community, and that counts, for example, as a graduate degree, or that counts toward your undergrad degree.
+The second one is called University Social Responsibility or USR. USR is basically saying as an undergrad student, as part of your capstone project, you can do something for two years or so, something good for your community, and that counts, for example, as a graduate degree, or that counts toward your undergrad degree.
 
 ### Audrey Tang:
 That allows the undergrad people to learn from the community, and when they go to graduate level, it’s more likely they will learn something that’s useful for the community and not just for themselves, for their own career. This is a very large component in the USR system, as each school can design anything that correspond to the 17 sustainable goals.
@@ -358,7 +358,7 @@ Yes, yes. That’s what we mean by what we call the sustainable social impact te
 It’s maybe implemented differently, but it’s the same idea.
 
 ### Mami Takesada:
-I also have some interest about inclusive education, because in Japan, the number of the children goes down, but the percentage of the children who have disabilities goes up, so …how can I say … \[non-English-speech\] .
+I also have some interest about inclusive education, because in Japan, the number of the children goes down, but the percentage of the children who have disabilities goes up, so …how can I say … \[non-English-speech\].
 
 ### Ky:
 \[non-English speech\]
@@ -494,7 +494,7 @@ This place is co-designed. You can still see a lot of visual design by people wi
 You said that in g0v summit 2018.
 
 ### Audrey Tang:
-I think, as with people with Down syndrome, a lot of work is public rebranding of what it means to be among people with Down syndrome. If we say that they are like sick people, like \[non-English speech\] , which is literally a disease, then it limits our interaction with them.
+I think, as with people with Down syndrome, a lot of work is public rebranding of what it means to be among people with Down syndrome. If we say that they are like sick people, like \[non-English speech\], which is literally a disease, then it limits our interaction with them.
 
 ### Audrey Tang:
 It constraints what people have in imagination about interaction with them. If we say something like they’re – how do we translate that – joyful and trusting children, something like that, \[laughs\] like 喜憨兒, or just 憨兒.
@@ -571,7 +571,7 @@ The law actually authorizes experimental university as well. It’s new, so nobo
 Someday we will see it. \[laughs\]
 
 ### Mami Takesada:
-Thank you. One more thing that I want us to talk about the sex education, because…Hold on a second. Now our company tries to do the training in the \[non-English speech\] .
+Thank you. One more thing that I want us to talk about the sex education, because…Hold on a second. Now our company tries to do the training in the \[non-English speech\].
 
 ### Ky:
 \[non-English speech\]
@@ -594,7 +594,7 @@ When we do the training in that context, we realized that some of the children w
 And the children who have the program with the parents or the families go out to the city. In the case of the young girl just go around in the night, out at night, some adults get them to join the sexual industry, the maid cafe where the girls wear maid uniforms to serve customers who perform as a master or something like that. It’s a little bit easier one, but heavier accident happened in Tokyo or some cities.
 
 ### Mami Takesada:
-To help any kinds of children, they have to learn the equal rights when they are young. It’s about disable, it’s about sexual things, it’s about culture, or the \[non-English speech\] , everything.
+To help any kinds of children, they have to learn the equal rights when they are young. It’s about disable, it’s about sexual things, it’s about culture, or the \[non-English speech\], everything.
 
 ### Audrey Tang:
 Of course. That’s like human right education.
@@ -685,7 +685,7 @@ Of course.
 \[non-English speech\]
 
 ### Audrey Tang:
-You do say it’s \[non-English speech\] .
+You do say it’s \[non-English speech\].
 
 ### Mami Takesada:
 \[non-English speech\]
@@ -697,7 +697,7 @@ It’s not the word you use?
 We use for the sex, the gender.
 
 ### Ky:
-The way you say gender equality, it’s more like \[non-English speech\] .
+The way you say gender equality, it’s more like \[non-English speech\].
 
 ### Audrey Tang:
 男女共同参画, I see. Even if you say that, it’s between men and women. It’s not across the genders.
@@ -763,7 +763,7 @@ This kind of design is what’s needed to enforce the social norm and not just t
 The agenda setting from the civil society movement, which is backed by people who are heteronormative, they support the queer community or LGBT community. That is very important.
 
 ### Mami Takesada:
-Maybe the first thing is that we have to change the law like this. After that, we also have to change the \[non-English speech\] .
+Maybe the first thing is that we have to change the law like this. After that, we also have to change the \[non-English speech\].
 
 > (non-English speech)
 
@@ -840,7 +840,7 @@ When we do some good action, maybe we can copy each other, but how to communicat
 Code for All is for all over the world, but if we can gather Asian countries, we can discuss and work with more. Especially for some similar issues which comes from Asian culture.
 
 ### Audrey Tang:
-I thought the community already had a Okinawa hackathon?
+I thought the community already had an Okinawa hackathon?
 
 ### Mami Takesada:
 Yeah, “Facing the Ocean”.
@@ -869,7 +869,7 @@ Right. Are there any ideas about the connection with the Asian countries to do t
 We work quite closely with, say, the Korean social-innovator programs. They have regular visits and also exchange programs. So much so that actually right after the election, which is January 11th, on the 13th I’ll be in Seoul to work with their social-innovation people as a mentor to their teams.
 
 ### Audrey Tang:
-I think a lot of this exchange is not about creating solutions that are readily transferrable back. It’s about figuring out new ways of collaboration. That model is easier to carry back than any product or service because that has operational constraint. A good idea doesn’t have a operational constraint.
+I think a lot of this exchange is not about creating solutions that are readily transferrable back. It’s about figuring out new ways of collaboration. That model is easier to carry back than any product or service because that has operational constraint. A good idea doesn’t have an operational constraint.
 
 ### Mami Takesada:
 \[laughs\]
@@ -887,7 +887,7 @@ Exactly, and they all have their own communities. By coming together, looking at
 We make sure not only this is widely useful to the Asia Pacific but also that these communities’ best practices can be shared freely among not only the contestants but among the judges. This is also very important. If you have some ideas like if Litalico works with someone who you think previously that it’s impossible for us to work with.
 
 ### Audrey Tang:
-One of the winner this year was a collaboration with Carrefour, which is the very large corporation, Carrefour Taiwan, and an animal society of animal welfare and rights. They work on cage-free eggs as a co-promotion. They’re very, very successful. Normally, you would not think that a advocacy group at Carrefour who would work together. The more unlikely the partnership is, the more likely they will win the prize.
+One of the winner this year was a collaboration with Carrefour, which is the very large corporation, Carrefour Taiwan, and an animal society of animal welfare and rights. They work on cage-free eggs as a co-promotion. They’re very, very successful. Normally, you would not think that an advocacy group at Carrefour who would work together. The more unlikely the partnership is, the more likely they will win the prize.
 
 ### Audrey Tang:
 If you have some thoughts around that, we will roll out this year’s APSIPA, and maybe you are also welcome to be in Taiwan, and also bring along those new ideas of partnerships.

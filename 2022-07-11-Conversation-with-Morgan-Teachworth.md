@@ -110,7 +110,7 @@ That nearly doubled the adoption of the, for example, point of service or custom
 That's T-Cloud, you said?
 
 ### Audrey Tang:
-T-Cloud or [Mandarin] .
+T-Cloud or [Mandarin].
 
 ### Morgan Teachworth:
 Is there a process to getting qualified and list data as a cloud service there?
@@ -150,7 +150,7 @@ I know. No, we're starting with the largest. Not all publicly-listed, just the l
 Is it harmonized with the EU regs or the REA?
 
 ### Audrey Tang:
-We're working toward that. That's the first part. What I'm trying to get at is that because teleworking or hybrid work is not just a efficiency or collaboration play, it is also a net-zero play. You can probably prove that it beats driving by car to work and back, and so on. Anyway, T-Cloud will keep expanding. That's my answer to your first question.
+We're working toward that. That's the first part. What I'm trying to get at is that because teleworking or hybrid work is not just an efficiency or collaboration play, it is also a net-zero play. You can probably prove that it beats driving by car to work and back, and so on. Anyway, T-Cloud will keep expanding. That's my answer to your first question.
 
 ### Morgan Teachworth:
 If you include foreign remote work in your thing, how do you account for that in the Taiwan net zero?
@@ -233,7 +233,7 @@ For people who did not have this Taiwanese connection before, I don't think that
 ### Morgan Teachworth:
 I found out about the Gold Card program myself. It's pretty exciting. Our local team, it started with these two. Over the pandemic, we've gone now probably from 3 to close to 25 pretty soon. It works pretty well.
 
-The model, like I said, a lot of the times, you get this idea that you're going to do a Taiwan design center. You're going to be wholly focused on Taiwan. That's not our model, and it's working pretty well to have a fully-embedded mix. Time zone obviously becomes a problem, but you get enough blend on both ends that it works [indecipherable 16:33] .
+The model, like I said, a lot of the times, you get this idea that you're going to do a Taiwan design center. You're going to be wholly focused on Taiwan. That's not our model, and it's working pretty well to have a fully-embedded mix. Time zone obviously becomes a problem, but you get enough blend on both ends that it works [indecipherable 16:33].
 
 ### Audrey Tang:
 If it's West Coast, it's not too bad.
@@ -269,7 +269,7 @@ If it's PowerPoint or Google Docs, they're remarkably context free.
 ### Audrey Tang:
 You have to actually guess the other side's idea. We're not doing that. What we've been doing in the social text was instead to make sure that, for example, a kickoff is synchronized so that everybody has the shared mind map of what's going on.
 
-It's like a fractal. Everybody has this high-level map of what needs to be done, and so on. On a iteration basis, we use two-week agile iteration sprints. Within the sprint then, of course, each time zone can own one sprint, one small part of the sprint. Where it fits the context is always visualized.
+It's like a fractal. Everybody has this high-level map of what needs to be done, and so on. On an iteration basis, we use two-week agile iteration sprints. Within the sprint then, of course, each time zone can own one sprint, one small part of the sprint. Where it fits the context is always visualized.
 
 The highest level is maps, and then the second level is a Kanban of cards. On the second level, you can still embed other maps in. Then, on the individual level, it's collaborative documents.
 
@@ -340,7 +340,7 @@ Oh, really?
 Yeah, it depends. We also have some senior employers here doing the mentorship here with the new coming employees to guide them. We still have some portion of the people have been flew to the headquarter and has seen the [indecipherable 22:40] there. We can do the mentorship here and buddy-buddy...
 
 ### Morgan Teachworth:
-It's like we have the first class of [indecipherable 22:49] early, who are training the next class. We're only going second-generation onboarding now. How is that going? [indecipherable 22:59] , what do you think? Are the newest employees getting decent onboard experience?
+It's like we have the first class of [indecipherable 22:49] early, who are training the next class. We're only going second-generation onboarding now. How is that going? [indecipherable 22:59], what do you think? Are the newest employees getting decent onboard experience?
 
 ### Audrey Tang:
 You're on the second generation is what you're saying.
@@ -353,13 +353,13 @@ Yeah. What are you doing?
 ### Terri Sung:
 I'm doing a buddy training [indecipherable 23:16] for a new hire of our compliance team. I know her before. We have a call maybe every week. She has training courses every morning since the beginning of her first day. The first day is about computer set up because they will need to know about computers, so on and so forth. It lasts for two weeks.
 
-Then I will schedule a meeting with them online and also meet up with them to teach them, share the information with them about how we file our expenses and plus the Meraki organization structure [indecipherable 24:01] , just experience sharing.
+Then I will schedule a meeting with them online and also meet up with them to teach them, share the information with them about how we file our expenses and plus the Meraki organization structure [indecipherable 24:01], just experience sharing.
 
 ### Audrey Tang:
 For that, do you invite them to your local office or you do it purely online?
 
 ### Terri Sung:
-I invite them to our office. We just [indecipherable 24:14] .
+I invite them to our office. We just [indecipherable 24:14].
 
 ### Audrey Tang:
 I see.
@@ -415,7 +415,7 @@ They've caught on to it. That's one of the goals for the next year is to figure 
 ### Audrey Tang:
 In Taiwan, because we've never really had a lockdown during the two and a half years, so there's what we call a T-dash or a T Ambassador -- I think it's 3T.org.tw -- Program that's in compliment to the T-Cloud.
 
-We've discovered that for people who are freshly graduated from undergrad level, they actually are digital-native. They know how to tele-onboard each other. What they don't have is how their relevant culture can fit in a existing, especially manufacturing, but also around service delivery, around catering, and so on.
+We've discovered that for people who are freshly graduated from undergrad level, they actually are digital-native. They know how to tele-onboard each other. What they don't have is how their relevant culture can fit in an existing, especially manufacturing, but also around service delivery, around catering, and so on.
 
 These people know they need to digitally transform, but they don't have the culture for it. If you directly put these two people together, it doesn't work. It just falls apart.
 
@@ -453,7 +453,7 @@ They apply directly. Then, during those two weeks of initial boot camp, the ment
 Take the team members that they're comfortable mentoring with. Also, because we want to make sure those five people complement each other in terms of their skill set and peer personality, and so on. There's some curation going on during those first weeks.
 
 ### Morgan Teachworth:
-That's interesting. We should definitely look into that. [indecipherable 29:20] , you got that? You captured that 3T...?
+That's interesting. We should definitely look into that. [indecipherable 29:20], you got that? You captured that 3T...?
 
 ### Terri Sung:
 Yes.

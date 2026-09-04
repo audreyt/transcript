@@ -298,10 +298,10 @@ When we went to the Hacking House, the most questions asked for us is, “People
 Again, what we have seen is I never owned a car, ever. We bought a car last year, and then I started to see the problems from a car perspective. I only used public transport, so I never seen the problems for a city perspective, from a car user’s.
 
 ### Ravi Nataraju:
-Then I found out a lot of problems was if only people who drive the car knew what the problem was with the car. Then they would never bring a unhealthy car to the road and create a domino effect for everybody else, so no traffic jams, pollution-free because not everybody’s stopping.
+Then I found out a lot of problems was if only people who drive the car knew what the problem was with the car. Then they would never bring an unhealthy car to the road and create a domino effect for everybody else, so no traffic jams, pollution-free because not everybody’s stopping.
 
 ### Ravi Nataraju:
-I was thinking, “Why haven’t people done anything in this angle?” Then I used the SigFox Hacking House to see how we can provide a OBD2 plug, put that into the car and only listen to the bad things that the car would say, and then give it to the user. The user will decide, “Is this car healthy enough for me to take it to the road or not, or should I take it to the repair?” That’s the first thing.
+I was thinking, “Why haven’t people done anything in this angle?” Then I used the SigFox Hacking House to see how we can provide an OBD2 plug, put that into the car and only listen to the bad things that the car would say, and then give it to the user. The user will decide, “Is this car healthy enough for me to take it to the road or not, or should I take it to the repair?” That’s the first thing.
 
 ### Ravi Nataraju:
 The second thing was, even if I do that, would people buy things like this? Maybe, maybe not. How to incentivize people to actually do it? Then we spoke to Huanan Bank.
@@ -709,7 +709,7 @@ Yeah. Then, by doing this, we are not pinpointing anybody in the office, and we 
 Next year, our idea is to enable government organizations to be more iterative in a way where you see there was something wrong, you took some action, and then look again, if the same problems are being reported, are being related, and if your solution did not work or did work, and keep going.
 
 ### Ravi Nataraju:
-What we are proposing with [www.CLAPP.IO](http://www.CLAPP.IO) is as a iterative developmental tool for you to do self-development for your organization or for your office locally, which is pretty…
+What we are proposing with [www.CLAPP.IO](http://www.CLAPP.IO) is as an iterative developmental tool for you to do self-development for your organization or for your office locally, which is pretty…
 
 ### Audrey Tang:
 Yeah. I just checked the public listing. It turns out you’re online like today.
@@ -863,7 +863,7 @@ The main person you want to convince is not necessarily any particular departmen
 Got it.
 
 ### Audrey Tang:
-They have that kind of internal escalation process. For many municipalities, if you look for…For example, Taoyuan recently has a innovation and digital office as well, which is on part with the other bureaus and departments in the mayorship. I think that is the main vehicle.
+They have that kind of internal escalation process. For many municipalities, if you look for…For example, Taoyuan recently has an innovation and digital office as well, which is on part with the other bureaus and departments in the mayorship. I think that is the main vehicle.
 
 ### Audrey Tang:
 Otherwise, in many other municipalities where there is no DOIT or equivalent, usually it falls to the Research, Development and Evaluation Commission, the RDEC.

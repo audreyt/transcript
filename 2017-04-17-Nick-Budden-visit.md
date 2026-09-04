@@ -154,7 +154,7 @@ It’s just called &quot;A Digital Nation: an Innovative Economy,&quot; literall
 This seems like this was what I was curious about. I’ll try to have a look at this later.
 
 ### Audrey Tang:
-If you look for DIGI+, which is the abbreviation, I think you’ll find more material. It’s not a very Google‑able term though. We took part of the DIGI+ and put it into the special budget called \[Chinese\] , the Forward‑Looking Infrastructure Plan.
+If you look for DIGI+, which is the abbreviation, I think you’ll find more material. It’s not a very Google‑able term though. We took part of the DIGI+ and put it into the special budget called \[Chinese\], the Forward‑Looking Infrastructure Plan.
 
 ### Nick Budden:
 It sounds like a big plan, but what would be the bullet points?

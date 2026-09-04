@@ -599,7 +599,7 @@ One was on inclusive banking which provides people who are not allowed to get a 
 Revolutionary ideas. Stories like these should be heard more.
 
 ### Audrey Tang:
-In May 11th and 12th, we’re going to run a APSES, the Asia Pacific Social Enterprise Summit, a gathering of social entrepreneurs around the Asia-Pacific.
+In May 11th and 12th, we’re going to run an APSES, the Asia Pacific Social Enterprise Summit, a gathering of social entrepreneurs around the Asia-Pacific.
 
 ### Yuri Baral:
 Where will it be?

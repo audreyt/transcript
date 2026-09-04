@@ -41,7 +41,7 @@ Yes, I’m very happy.
 I just had a video conference this afternoon with my mother, who is a journalist.
 
 ### Audrey Tang：
-She said that this is the most happy foreign mission that I have done in the past four years that she has seen because this time, I travel by myself in my individual capacity, not with a entourage of consulate people. \[laughs\]
+She said that this is the most happy foreign mission that I have done in the past four years that she has seen because this time, I travel by myself in my individual capacity, not with an entourage of consulate people. \[laughs\]
 
 ### Ima Sanchís：
 Do you live alone?
@@ -419,7 +419,7 @@ Whatever we want to be.
 The idea of this whole Digital Future Society thing is that there’s a plurality of futures.
 
 ### Audrey Tang：
-If we keep it plural, we don’t need to choose between the visions about singularity, which is always about reducing possibility, like a inevitable linear future.
+If we keep it plural, we don’t need to choose between the visions about singularity, which is always about reducing possibility, like an inevitable linear future.
 
 ### Audrey Tang：
 Rather, we can focus our energy on making sure that the plurality that is already here gets conserved and indeed amplified with digital technology. That’s what I mean by bringing digital to the society rather than asking society to conform to the digital.
@@ -506,7 +506,7 @@ Yeah, I was there the night before they broke into the parliament. I was there t
 What did you experience? What did happened? What happened to you in your inner being, in your heart?
 
 ### Audrey Tang：
-I read about Occupy Wall Street, and I read Manuel Castells who did a lot of papers about occupy movement, so I know intellectually about how to run a occupy.
+I read about Occupy Wall Street, and I read Manuel Castells who did a lot of papers about occupy movement, so I know intellectually about how to run an occupy.
 
 ### Audrey Tang：
 When the occupy actually happened, I discovered mostly what people really want is a garden that is thousands of miles away, but people still want to care about the sunflowers, the plants in the garden because they really want to make a difference.
@@ -656,7 +656,7 @@ The digital…
 …to give them…
 
 ### Audrey Tang：
-…a equal voice…
+…an equal voice…
 
 ### Audrey Tang：
 …so that the society can recognize, for example, the highest mountain in Taiwan, almost 4,000 meters high, is called Sylvia by the indigenous people.

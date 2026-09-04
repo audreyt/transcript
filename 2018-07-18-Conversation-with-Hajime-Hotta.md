@@ -43,7 +43,7 @@ I found that, for example, in Vietnam, we already hired 50-plus AI engineers who
 Hence, in terms of the top tier, very smart people. In terms of science and technology, they want to be the computer scientists. That is why we enjoy hiring those top-tier people. I found that Taiwan is exactly the same. Very top tier, very smart people are willing to be the computer scientists here.
 
 ### Hajime Hotta:
-There are a shift from very hardware focusing here to recently very AI, or the software industry, at least. That is why I really want to get some help from Taiwanese people, as well. This is why we decided to come to Taiwan. More fundamentally, what I really want to do is to build up a ecosystem here as a band of talents, including Japan, Taiwan, Vietnam, and maybe India.
+There are a shift from very hardware focusing here to recently very AI, or the software industry, at least. That is why I really want to get some help from Taiwanese people, as well. This is why we decided to come to Taiwan. More fundamentally, what I really want to do is to build up an ecosystem here as a band of talents, including Japan, Taiwan, Vietnam, and maybe India.
 
 ### Hajime Hotta:
 Those have tons of suppliers. I mean that technically very good people exist. Actually, except Japan, the market is not so huge. Even in India, an AI solution can’t be sold to a big corporation there, simply because of the impact of AI is still very huge only in the developed countries.
@@ -91,7 +91,7 @@ I’m on the visiting basis, because I still have to manage the company side, th
 Is there a local team or a partnership that you’re working with?
 
 ### Hajime Hotta:
-I am now working with several non-tech people who are setting up everything. For the technical people, we are very conservative, because the first, and the second, third tech-worker people is the core of the team. I’m interviewing a lot of people, actually more than 20, but I only made a offer to one.
+I am now working with several non-tech people who are setting up everything. For the technical people, we are very conservative, because the first, and the second, third tech-worker people is the core of the team. I’m interviewing a lot of people, actually more than 20, but I only made an offer to one.
 
 ### Audrey Tang:
 It’s mostly on the visual domain of AI, optical recognition?
@@ -205,7 +205,7 @@ How to say? I don’t believe much that only a business person who are not famil
 Usually and finally, some of them really want to make money. For example, half of our engineers’ motivation is to learn something from myself or our R&amp;D. Three years later or four years later, they really want to have another company founded by themselves. Then they could do some of the innovation.
 
 ### Hajime Hotta:
-We are more than happy with it rather than sticking to us for 10 years. Our ultimate intention is more to build up a ecosystem. We want to strengthen the community itself, rather than just sticking to our own interests.
+We are more than happy with it rather than sticking to us for 10 years. Our ultimate intention is more to build up an ecosystem. We want to strengthen the community itself, rather than just sticking to our own interests.
 
 ### Hajime Hotta:
 I’m hoping to have the similar talents here in Taiwan, as well. If immediately people can pick up with all the concept in AI, you can start your start-up right now. I want to invest, maybe. In case that they want to learn from us in more detail. Then once digesting, then they want to spin out, then we are happy to do it.
@@ -217,7 +217,7 @@ This is one of the differentiator from the AI Academy or some other community bu
 You just mentioned AI Academy. I think their collaboration with the private sector is pretty solid, in the sense that they both have mentors and have real-world business problems that they use to solve. Of course, it’s not just AI.
 
 ### Audrey Tang:
-There’s a larger data scientist community here, as well. They have lots of meet-ups. I’m sure you already know about it. They have a lot of sharing experiences. If you sign up to be a instructor, or a lecturer, or a mentor, I’m sure that people will love \[laughs\] this resource, because it’s really useful.
+There’s a larger data scientist community here, as well. They have lots of meet-ups. I’m sure you already know about it. They have a lot of sharing experiences. If you sign up to be an instructor, or a lecturer, or a mentor, I’m sure that people will love \[laughs\] this resource, because it’s really useful.
 
 ### Audrey Tang:
 What I’m also hearing is that it’s not just about knowledge sharing. You also want to identify the particular inventions that is being produced here, and to align it with business problems that you discovered elsewhere, right?
@@ -238,7 +238,7 @@ Do you have a local partner for that? In Taiwan, for example, Microsoft is commi
 Just yesterday, we were talking about the voice domain with Mozilla. Mozilla is going to work with the Taiwan Mozilla team to do machine learning, but around the language education domain.
 
 ### Audrey Tang:
-Also, Google with its Intelligent Taiwan program, and NVIDIA. There’s lots of people. Mostly they come and they find one specific domain. Then they start a incubator program or they join an existing incubator program.
+Also, Google with its Intelligent Taiwan program, and NVIDIA. There’s lots of people. Mostly they come and they find one specific domain. Then they start an incubator program or they join an existing incubator program.
 
 ### Hajime Hotta:
 I see.

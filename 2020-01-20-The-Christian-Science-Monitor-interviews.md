@@ -49,7 +49,7 @@ We have the National Palace Museum here and the ministry of culture donating ope
 On all these open content and open data donations, we hope that those participating organizations can facilitate these tri-sectoral teams to make solutions not only in technical science, but also solutions that can call upon more people to participate, for example, to use inexpensive devices called water boxes – that’s one of the entries last year – to measure water pollution on agric land so that plants, industrial plants, that do not make pollution will also want to procure such boxes to prove that pollution come from upstream.
 
 ### Audrey Tang:
-The farmers there can also procure such inexpensive devices to know which waterway actually brought this pollutions, so people can find out the polluting plants together, where the Ministry of Economy promised via a act to cut electricity and water supply to those polluters. This is just one of the examples of what we call data coalitions between the sectors.
+The farmers there can also procure such inexpensive devices to know which waterway actually brought this pollutions, so people can find out the polluting plants together, where the Ministry of Economy promised via an act to cut electricity and water supply to those polluters. This is just one of the examples of what we call data coalitions between the sectors.
 
 ### Ann Scott Tyson:
 Wow. What are the innovations that have come out of this, if you could name a few that have surprised you the most, or you’ve been the most excited about?
@@ -241,7 +241,7 @@ Called Polis, P-O-L-I-S.
 Then on to the other topic of the disinformation issue, sort of segueing from that. I believe you may have said his previously, that when a place like Taiwan faces maybe 30 billion cyber attacks a month, or that figure has been thrown around, there’s really no way to exactly guard against it, it seems, and perhaps educating people and engaging people is one of the best defenses against that. I assume that, I believe, could you elaborate on that?
 
 ### Audrey Tang:
-Disinformation often relies on the voluntary sharing of disinformation packages. If it doesn’t go viral, disinformation doesn’t do much harm by its own. What it’s trying to do is incentivize a transformation of people’s kind of helplessness whenever they feel angry at a injustice as something that’s actually not true, but they feel provoked to share their helplessness which is anger, which is a negative emotion into outrage, which is a positive if destructive emotion.
+Disinformation often relies on the voluntary sharing of disinformation packages. If it doesn’t go viral, disinformation doesn’t do much harm by its own. What it’s trying to do is incentivize a transformation of people’s kind of helplessness whenever they feel angry at an injustice as something that’s actually not true, but they feel provoked to share their helplessness which is anger, which is a negative emotion into outrage, which is a positive if destructive emotion.
 
 ### Audrey Tang:
 The easiest way is to just click share when you see something that provokes your sensibilities, even if it’s false. Disinformation’s danger is not in the payload of information itself, but rather in the behavior, the kind of behavior of outrage that it provokes.

@@ -106,7 +106,7 @@ While we do have, of course, online services for taxpaying and so on, people act
 I can just print out that coupon. If my tax is below a certain number, I can just go to the counter in that convenience store and just pay it right there. What I’m trying to say is that this is not your ordinary official desk. This is more than 11,000 convenience stores open 24 hours everywhere in Taiwan.
 
 ### Audrey Tang:
-If your income tax for the year is less than £534, then you can just pay over-the-counter in any convenience store. In theory, every convenience store, as well as, pharmacies, ATM, and so on, are a extension of our digital public service. Although it is still over-the-counter, it’s not the official desk counter.
+If your income tax for the year is less than £534, then you can just pay over-the-counter in any convenience store. In theory, every convenience store, as well as, pharmacies, ATM, and so on, are an extension of our digital public service. Although it is still over-the-counter, it’s not the official desk counter.
 
 ### Daniel Knowles:
 That’s incredible. That’s exactly the sort of thing I was hoping you’d tell me about. That’s great. Tell me, going forward, I was watching your TED talk, and I read some other interviews with you. It sounds like you have ideas about how this could go into democratic decision-making, too, so not just people accessing services but also taking part in government.
@@ -145,7 +145,7 @@ That is because online platforms actually earned more revenue during the pandemi
 This money, that you gave a stimulus to people, they have had to spend in the businesses that have been, presumably, most affected?
 
 ### Audrey Tang:
-Yeah, before the end of the year. Then, after you spend it, you receive a cashback. Chances are, you’ll also spend it because you’re nearby a ATM, so you’ll probably also spend it somewhere else, but also, physically. That’s how we stimulate the economy without going into over-complicated mechanisms.
+Yeah, before the end of the year. Then, after you spend it, you receive a cashback. Chances are, you’ll also spend it because you’re nearby an ATM, so you’ll probably also spend it somewhere else, but also, physically. That’s how we stimulate the economy without going into over-complicated mechanisms.
 
 ### Daniel Knowles:
 When you go and pay, you pay with your national health app or you pay with…

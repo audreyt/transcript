@@ -118,7 +118,7 @@ What I’m trying to say is that usually when you’re using an app-specific dat
 In the case of Taiwan and the recommendations they’re giving, that’s going to be uniform in any place in Taiwan. The only differentiating factor would mostly be their age, and everything else is self-assessed.
 
 ### Audrey Tang:
-Of course, you can always ask “How old do you feel you are?” It’s just I don’t think it’s a very useful question for COVID-19 management \[laughs\] , but otherwise, it’s also assessed. It’s not like the iPhone has any sensors that can automatically get whether you have a fever or not, without extra permission.
+Of course, you can always ask “How old do you feel you are?” It’s just I don’t think it’s a very useful question for COVID-19 management \[laughs\], but otherwise, it’s also assessed. It’s not like the iPhone has any sensors that can automatically get whether you have a fever or not, without extra permission.
 
 ### Audrey Tang:
 I think it’s useful. I like the UI. It’s just if I’m a personal user, I would be wary to install an app and give them access to my health data to get uniform advice. That’s my honest assessment.

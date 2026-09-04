@@ -84,7 +84,7 @@ By the time they finish K-12, we don’t want the vendor to go away or abandon t
 One popular case is the AirBox, which has more than 2,000 stations Taiwan-wide. Each one costs maybe less than 100 US dollars. They automatically report the air quality, like PM2.5 and so on, over WiFi, sometimes over NB-IoT, to a shared distributed ledger that let everybody know how the air quality is across Taiwan.
 
 ### Audrey Tang:
-There are some competencies that cannot be taught until they become stewards of data and producer of information, and AirBox is one of it. We look at it from a more holistic point of view, of basically how to collaborate within the data ecosystem as a peer, rather as only a consumer or a analyst.
+There are some competencies that cannot be taught until they become stewards of data and producer of information, and AirBox is one of it. We look at it from a more holistic point of view, of basically how to collaborate within the data ecosystem as a peer, rather as only a consumer or an analyst.
 
 ### Audrey Tang:
 We think that important ideas like GDPR and so on, only make sense to be taught in that framework. That’s the kind of three-minute overview of where we’re coming from.
@@ -102,7 +102,7 @@ You also said you could do something to promote. What did you mean by that?
 Case in point, I have personally translated quite a few games from a designer with the name Nicky Case. I don’t know whether you know of their work. Nicky did, I think, the originally 2014, the Coming Out Simulator, but then after that, the Parable of Polygons, that talks about the Schelling segregation model.
 
 ### Audrey Tang:
-Then the Game of Trust, I think, that talks about the prisoner’s dilemma, then the media framing effect, and then the small world network. Basically, Nicky makes a game, a interactive, out of each and every important competency subjects in the so-called Things You Can Play initiative.
+Then the Game of Trust, I think, that talks about the prisoner’s dilemma, then the media framing effect, and then the small world network. Basically, Nicky makes a game, an interactive, out of each and every important competency subjects in the so-called Things You Can Play initiative.
 
 ### Audrey Tang:
 By personally translating that, as well as making sure that the deputy minister of education gets a list of translated and non-translated things that students can play, we made sure that I, both in my talks to the high school principals…I talk to each and every principal in a cross-country meetings, maybe three meetings every year.

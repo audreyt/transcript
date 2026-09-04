@@ -254,7 +254,7 @@ That runs counter to the whole continental law system idea, so they have a claus
 For fintech, they can debate for up to three years, for autonomous vehicle, up to four, and so on. The MPs have the final say, but during those three or four years, the experiment still keeps running, waiting for the parliament to decide.
 
 ### Audrey Tang:
-Even their service, their business model is still running, essentially creating a three year monopoly locally because for everybody else, it’s still illegal. It’s a incentive, actually, for the innovators. \[laughs\]
+Even their service, their business model is still running, essentially creating a three year monopoly locally because for everybody else, it’s still illegal. It’s an incentive, actually, for the innovators. \[laughs\]
 
 ### Audrey Tang:
 But at the end of the day, when the MPs legalize it, of course competition will enter the area. That’s how we work out a truce with the MPs because they always have the final say anyway, so that’s the idea.
@@ -269,7 +269,7 @@ As for other ministries, the Ministry of Economy actually is happy that they are
 As minister of economy, previously, they have to represent the more traditional capitalistic values, but now because the projects they receive are much more balanced, the local co ops, the local associations, they must be fine with it, so it’s by default more sustainable and less about short term GDP.
 
 ### Audrey Tang:
-The message I heard from the Ministry of Economy is that they’re, because Taiwan is 90 percent miss me anyway, so they’re happy that they don’t need to focus only on the GDP now and they can make more of their miss me connections to help formulating a ecosystem.
+The message I heard from the Ministry of Economy is that they’re, because Taiwan is 90 percent miss me anyway, so they’re happy that they don’t need to focus only on the GDP now and they can make more of their miss me connections to help formulating an ecosystem.
 
 ### Audrey Tang:
 I think this wouldn’t work if not for the fact that Taiwan is mostly miss me, which can be rapidly redeployed.
@@ -347,7 +347,7 @@ Yes. That’s literally...It says on the card. \[laughs\]
 I didn’t see that. Right. Perfect.
 
 ### Audrey Tang:
-That’s actually a official tag line for Taiwan as shared by our president. If you want to summarize Taiwan’s relationship to the worldwide system of development in one sentence is, Taiwan can help not just on one or two SDGs.
+That’s actually an official tag line for Taiwan as shared by our president. If you want to summarize Taiwan’s relationship to the worldwide system of development in one sentence is, Taiwan can help not just on one or two SDGs.
 
 ### Audrey Tang:
 It starts as, I think, a hashtag for the WHA in terms of Taiwan can help on global medicine and global health, but it turns out that we can help on the pollution of the sea and how to recycle those plastic back into fuel. That’s something we can help too, or through the Presidential Hackathon, which is an annual event.
@@ -392,7 +392,7 @@ Blueseeds?
 Blue as in the color seeds. In a nutshell, they work with indigenous people to revitalize their land by introducing what we call a subgrass, which is a kind of grass that grows without you needing to tending it. It automatically restores the fertility of the land.
 
 ### Audrey Tang:
-They work with indigenous artists to basically do a Aveda like branding on this whole thing and releases products like shampoos and things like that, body care products. Now it’s been sold in the FamilyMart all over Taiwan for more than a year now.
+They work with indigenous artists to basically do an Aveda like branding on this whole thing and releases products like shampoos and things like that, body care products. Now it’s been sold in the FamilyMart all over Taiwan for more than a year now.
 
 ### Audrey Tang:
 People generally identify that because it’s zero percent chemical edition, it’s branded in a way that corresponds and respect that indigenous culture, the Amis culture. It actually opened a branch in Vancouver I think.
@@ -455,7 +455,7 @@ Nice.
 It learns to produce beautiful films based on the work of the director Chi Po lin. They work as a catalyst to merge very different backgrounds, like people specialists on drones, on 360 cameras, on optics, and so on, into a coherent project that has public value. Then the local government take notice and just merge it back as part of the public service.
 
 ### Audrey Tang:
-That’s the innovation model that we’re pursuing here, the cutting edge technology but always with a aim toward public interest.
+That’s the innovation model that we’re pursuing here, the cutting edge technology but always with an aim toward public interest.
 
 ### George Poulakidas:
 That’s something that we’re trying to unpack. It’s hard. As you know, there’s a wide spectrum of starting with, let’s say, social corporate responsibility, which is not really the same thing, right?
@@ -494,7 +494,7 @@ In the open source community, we introduced the term open source to sell this, t
 In the very early days, we managed to convince, say, Netscape to rebrand as Mozilla. Then the Mozilla Foundation controls the Mozilla Corporation which makes Firefox, which makes lots of money. 100 percent of them goes back to the mission of the Mozilla Foundation. This a well established case.
 
 ### Audrey Tang:
-In Taiwan, we have a equivalent case with the Tzu Chi, which is a Buddhist humanitarian association, a charity. It also controls the Da.ai. The technology company that does recycling and advanced circular economy research, which is quite profitable but 100 percent controlled by the charity.
+In Taiwan, we have an equivalent case with the Tzu Chi, which is a Buddhist humanitarian association, a charity. It also controls the Da.ai. The technology company that does recycling and advanced circular economy research, which is quite profitable but 100 percent controlled by the charity.
 
 ### George Poulakidas:
 How can you scale up some of these, especially the local? You mentioned that some of them start from local communities.
@@ -521,10 +521,10 @@ Previously, if you don’t take scaling up into account, it is just one very wis
 What we are building here in the Social Innovation Lab through awards and annual hackathons and things like that is just to cultivate impact leaders and actors that can go out and say, &quot;There’s one banker whose father has a publicly listed, well respected bank that she rebranded that brand bank as the old bank and gets the B Lab certificate.&quot; We have a publicly listed bank that’s also a B Corp.
 
 ### Audrey Tang:
-Flagship cases like this and impact leaders such as Ms. Lou makes sure that everybody see the B Corp movement as a legitimate form, not just a alternative, its own legitimacy. With more people doing the intermediation, we can then design for scale.
+Flagship cases like this and impact leaders such as Ms. Lou makes sure that everybody see the B Corp movement as a legitimate form, not just an alternative, its own legitimacy. With more people doing the intermediation, we can then design for scale.
 
 ### Audrey Tang:
-The design for scale happens as a natural result of the supporting ecosystem underneath it. It doesn’t appear on its own. It never appear in a top down way. It can only appear in a emergent way. As a government, I limit my role as just providing the accountability layer.
+The design for scale happens as a natural result of the supporting ecosystem underneath it. It doesn’t appear on its own. It never appear in a top down way. It can only appear in an emergent way. As a government, I limit my role as just providing the accountability layer.
 
 ### George Poulakidas:
 That was the next thing I wanted to ask about, the role of government, especially knowing your beliefs before becoming a minister.
@@ -601,7 +601,7 @@ That establishes a more equal relationship. While there is industrial lobbying, 
 Do you see this almost two different, I don’t know if that’s the proper term, worlds, the social and industrial, let’s say, as necessarily coexistent? Could it be only social, for example?
 
 ### Audrey Tang:
-I think what they’re saying is a standard answer, no. \[laughs\] That the idea of triple bottom line is that, if you tame the capital motivations toward a interval that looks at...I usually say seven generations. Maybe it’s too long, a couple generations, \[laughs\] then it actually coincides really well with the social impulse.
+I think what they’re saying is a standard answer, no. \[laughs\] That the idea of triple bottom line is that, if you tame the capital motivations toward an interval that looks at...I usually say seven generations. Maybe it’s too long, a couple generations, \[laughs\] then it actually coincides really well with the social impulse.
 
 ### Audrey Tang:
 It’s only when you trade in the millisecond range where it really destroys \[laughs\] any semblance of social meaning. Patient capital, I think is one of the things that we’re really getting to, not just to see a few cases of BD, but including the whole supply chain and ecosystem building. The capitalists, if they take a multi generational view, I think their judgments usually agree with the local social groups anyway.

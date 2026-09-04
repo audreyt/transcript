@@ -481,7 +481,7 @@ So it ends at September, what would you do?
 We have a demo day. Typically, the New Zealand teams bid for funding from government. We’re integrated into the procurement process.
 
 ### Audrey Tang:
-There is a earmarked procurement portion for this?
+There is an earmarked procurement portion for this?
 
 ### Dave Moskovitz:
 There is.
@@ -604,7 +604,7 @@ AGPL says you have to allow if you have a website to completely download of not 
 > (laughter)
 
 ### Audrey Tang:
-Of course, nobody interpret that that way, but because the government procurement did not ever rule for that, it could be interpreted in the most risky way, which is why the procurement people didn’t like AGPL. Because we made it into procurement rule now, there’s a standard interpretation.
+Of course, nobody interpret that way, but because the government procurement did not ever rule for that, it could be interpreted in the most risky way, which is why the procurement people didn’t like AGPL. Because we made it into procurement rule now, there’s a standard interpretation.
 
 ### Audrey Tang:
 Because we give away also our copyright even in the old procurement regime, because it’s Creative Commons Zero, this is also made into part of procurement process.

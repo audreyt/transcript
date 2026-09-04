@@ -113,10 +113,10 @@ Another thing, which I don’t know if this was the think tank that you mentione
 I wanted to tell you what we were thinking and see if you disagree. Basically, it seemed to be more muted in 2020 than 2018. Would you agree with that?
 
 ### Audrey Tang:
-Definitely. I think the main factor is, first, people are aware that this is something going on. The fact-checking ecosystem is much more mature. Equally important, there’s less of a attack surface. Each referendum topic was a divisive point. In the picture I just show you, the 10 referenda topic are 10 points that divides the society.
+Definitely. I think the main factor is, first, people are aware that this is something going on. The fact-checking ecosystem is much more mature. Equally important, there’s less of an attack surface. Each referendum topic was a divisive point. In the picture I just show you, the 10 referenda topic are 10 points that divides the society.
 
 ### Audrey Tang:
-This time, because we moved the representative elections and the deliberative direct democracy into alternating years, there’s less of a attack surface this time around.
+This time, because we moved the representative elections and the deliberative direct democracy into alternating years, there’s less of an attack surface this time around.
 
 ### Sean Quirk:
 Is it possible that there was other coordinated behavior that we haven’t picked up on yet? Do you think they were using maybe a similar playbook to 2018, but because they had less cognitive space to shape the discourse, just didn’t do it as well? Is there another venue, potentially, that is different than 2018 that potentially we haven’t fully seen the effects of?
@@ -369,7 +369,7 @@ My office is essentially in charge of working with the civil society on civic pa
 > (laughter)
 
 ### Audrey Tang:
-I, of course, think that there’s plenty of civil society energy in making that happen. The playbooks that came out of that office and now with GovLab, Beth Noveck and friends, which I’m a international advisor of, still encourage our work here. The US is a very large place.
+I, of course, think that there’s plenty of civil society energy in making that happen. The playbooks that came out of that office and now with GovLab, Beth Noveck and friends, which I’m an international advisor of, still encourage our work here. The US is a very large place.
 
 ### Audrey Tang:
 The main difference when I talk to people in Toronto, where we also had a workshop, and in Ottawa is that you need to think about Taiwan more like Toronto and less like Canada. From Taipei to Kaohsiung is just 90 minutes by high-speed rail. 98 percent of people is on high-speed Internet. It’s €15 euros per month unlimited data connection.

@@ -601,7 +601,7 @@ When they do that, they discovered very quickly, it’s quadratic. Meaning that 
 With 99 points the most they can vote on any single project is just nine votes, which costs 81, and they still have 18 left. They’re motivated not to squander the vote, to look around to some other case.
 
 ### Audrey Tang:
-Maybe they vote initially to the water box which is a crowd sourced water pollution measurement project. That has the arable lands and industrial plans on its building a IOT network of sensing water pollution, which is pretty cool.
+Maybe they vote initially to the water box which is a crowd sourced water pollution measurement project. That has the arable lands and industrial plans on its building an IOT network of sensing water pollution, which is pretty cool.
 
 ### Audrey Tang:
 They can’t vote everything to it. They have to look around and maybe they see another case. They use the Pokémon Go like game to encourage people to go to refill their bottles instead of buying new plastic bottle. That sounds cool. You can vote four votes now, with 16, and you still have 2 points left.
@@ -791,7 +791,7 @@ First of all, getting them votes that would be \[laughs\] a good first step. In 
 Meaning that people in the middle school, even in the primary school, they can set an agenda for policy making for the country. They don’t have to think that, “People will start to care about my voice, politician will care about my voice when I become an adult.”
 
 ### Audrey Tang:
-They don’t have to take a strike every Friday either. Something between participating in Friday strikes and waiting to be a adult lies a third way, which is just organizing to get the natural allies in the young people’s case, usually the very old people, like the people in their 70s or in the late 60s.
+They don’t have to take a strike every Friday either. Something between participating in Friday strikes and waiting to be an adult lies a third way, which is just organizing to get the natural allies in the young people’s case, usually the very old people, like the people in their 70s or in the late 60s.
 
 ### Audrey Tang:
 We have anecdotal evidence that shows that age groups of around 17 and 70 are the most active in looking at those sustainability related themes in citizens’ initiatives. They care about future generations equally and pretty much more than any other age group.
@@ -803,7 +803,7 @@ That’s fantastic.
 Yeah, to find that intergenerational spokesperson, solidarity across generations, that’s a good first step, because then the very young people who naturally are at the business end went here, say, like sustainability crisis can then find people who care more about their grandchildren or great grandchildren’s destinies.
 
 ### Audrey Tang:
-Then piggybacking on that, we can give the voice to the…I think the terra0 nomenclature is this cybernetic ecology where people who care a lot about a large forest can then speak as a avatar or spokesperson with that forest.
+Then piggybacking on that, we can give the voice to the…I think the terra0 nomenclature is this cybernetic ecology where people who care a lot about a large forest can then speak as an avatar or spokesperson with that forest.
 
 ### Audrey Tang:
 This is related to the idea of natural personhood, which is already in practice with legal fictions in New Zealand, I believe, in other jurisdictions as well, where a river or a mountain…
@@ -821,7 +821,7 @@ Is this something that Taiwan is considering?
 Oh, definitely, which is why people come to my office hour to talk about NFTs for planting forest. For people’s continuous investing of their attention to look after the forest after it’s been planted for a tree plant is just the beginning with a relationship with the Earth.
 
 ### Audrey Tang:
-It’s not just about advocating for the Earth but also somehow gets the Earth away to advocate through us. We already hand out, for example, our Civil IoT data application championship. The second place last year is a art project, that paints virtual trees on E Ink papers and so on, that reflects the real trees’ health, but in a way that put visibility into large streets, and banners, and so on.
+It’s not just about advocating for the Earth but also somehow gets the Earth away to advocate through us. We already hand out, for example, our Civil IoT data application championship. The second place last year is an art project, that paints virtual trees on E Ink papers and so on, that reflects the real trees’ health, but in a way that put visibility into large streets, and banners, and so on.
 
 ### Audrey Tang:
 They even have installations in the apartment complex, where they remind people to turn off unnecessary air conditioning, because they portray the polar bear \[laughs\] with the shrinking ice, and things like that.

@@ -114,7 +114,7 @@ Stronger focus on brainstorming ways that we can give power to the people and fu
 Exactly. That’s why the young people, youth engagement, is so important, because they are far less institutional baggage or legacy. You can see a various assembling of things that not necessarily work but in a proof-of-concept stage. That is more inspirational.
 
 ### Audrey Tang:
-That is not to say that people very seasoned and very respected, Nobel Prize winning is not good to draw a crowd. It’s this cross-generational solidarity to pair curiosity with insight that together makes a forum work, which are names of the two most recent \[inaudible 10:02\] .
+That is not to say that people very seasoned and very respected, Nobel Prize winning is not good to draw a crowd. It’s this cross-generational solidarity to pair curiosity with insight that together makes a forum work, which are names of the two most recent \[inaudible 10:02\].
 
 ### Jenny Wang:
 Sorry, I’m just taking a few notes - although I do know this conversation will be published. We’re also interested in potentially setting up some sort of branch office or representative office in Taiwan. I’ve done a bit of research looking into the Ministry of the Interior, and at this Foundation Act from the Ministry of Justice.

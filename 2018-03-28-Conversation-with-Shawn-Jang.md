@@ -65,7 +65,7 @@ That’s correct.
 ...the concerns of this generation versus the seventh generation down the road.
 
 ### Audrey Tang:
-Traditionally, before the advent of mobile Internet and social media, the government does a pretty good job to balance the interests and to make sure that we don’t break, in the sense that we translate the language between those different stakeholders, so they understand what each other’s concerns are, both in a virtue-ethics way and in an utilitarian kind of way.
+Traditionally, before the advent of mobile Internet and social media, the government does a pretty good job to balance the interests and to make sure that we don’t break, in the sense that we translate the language between those different stakeholders, so they understand what each other’s concerns are, both in a virtue-ethics way and in a utilitarian kind of way.
 
 ### Audrey Tang:
 We’re the regulatory link between the civil societies and the private sector. However, after the mobile Internet, these dogs became much bigger. \[laughs\] The interested stakeholders organize among themselves. They don’t really need an MP or a traditional media to organize. Anyone who could share a hashtag can organize. \[laughs\]

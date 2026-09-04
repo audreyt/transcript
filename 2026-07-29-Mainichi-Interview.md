@@ -6,7 +6,7 @@ I would like to start the interview as I sent you in an email, I would like to a
 
 ### Audrey Tang:
 
-How long will the edited version be, one one page or two pages?, Do I answer briefly or do I answer long?
+How long will the edited version be, one page or two pages?, Do I answer briefly or do I answer long?
 
 ### Mayumi Nobuta:
 

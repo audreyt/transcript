@@ -222,7 +222,7 @@ Yeah, the new Taiwanese, yes. The smiles, I believe, are written in the characte
 
 All of these are different languages are there to make sure that the new Taiwanese feel free, that they are being included in the spaces instead of just citizens. In Taiwan, the national healthcare protects all residents, not just citizens.
 
-Even if they are what we call a illegal migrant worker who's visa have expired maybe long ago, we make sure that they can get, for example, free vaccination and with a complete protection against them being investigated or being deported. This is just, again, to make everyone feel that they are being included.
+Even if they are what we call an illegal migrant worker who's visa have expired maybe long ago, we make sure that they can get, for example, free vaccination and with a complete protection against them being investigated or being deported. This is just, again, to make everyone feel that they are being included.
 
 Of course, the concourse in the Taipei main station, many people especially people from the cultures where it feels more natural to sit on the ground often during the weekends bring some pillows or something and socialize on the ground.
 
@@ -274,7 +274,7 @@ The worldwide web just started at the time. There's no existing literature to st
 
 This is what I mean by a safe space. First, that my value, the research that I want to do, is affirmed by someone in the authority. Again, that someone from the authority then innovated on my behalf to think about ways to reconcile the values that I hold and the position that she was in.
 
-Inspired by that and a few other homeschoolers around 1996, Taiwan would go on to implement the Asia's most liberal homeschooling laws, the three experimental education laws, so that up to 10 percent of students can choose to homeschool or join a alternative school group or institution. This then paves the way of education reform.
+Inspired by that and a few other homeschoolers around 1996, Taiwan would go on to implement the Asia's most liberal homeschooling laws, the three experimental education laws, so that up to 10 percent of students can choose to homeschool or join an alternative school group or institution. This then paves the way of education reform.
 
 Then these safe spaces, some practicing the German Waldorf Schule, some practicing Montessori, many be different education provide safe spaces for students who don't fit in with the more traditional examination-based curriculum and want to explore autonomy-based, competence-based learning environments.
 
@@ -403,7 +403,7 @@ In just three days after this idea was invented by the civic technologist, there
 
 That shortened the contact tracing from, it used to take 24 hours, to 24 minutes if they're using the SMS-based contact tracing. It's very successful and toll-free too. I go into this detail because the idea of fire or eyeglass is based on this well-understood principles. If we invent new things during the pandemic, people will not trust that.
 
-If we reuse existing, already well-trusted components, and the innovation is in how to put them together, then people understand, "Oh, yes, this we understood." Also as important is it's not a enterprise business idea.
+If we reuse existing, already well-trusted components, and the innovation is in how to put them together, then people understand, "Oh, yes, this we understood." Also as important is it's not an enterprise business idea.
 
 It's not a government idea. It's invented by the very people who care about human right, and privacy, and data sovereignty. It's invented by the social sector. Of course, it has more trust. People understood it's not in it for profit. It's in it just for the purpose.
 

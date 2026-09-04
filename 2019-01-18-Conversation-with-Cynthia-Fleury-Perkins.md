@@ -79,7 +79,7 @@ The third step of this sociotherapeutic ecosystem is that we have a structure de
 We won a project to reorganize the emergency service in a hospital, for example. The chair is doing all the continuum -- the teaching, the research, or the theoretical approach, the graduation, and \[makes swishing sound\] up to the experimentation so we can go between practice and theory very quickly, and to test and to transform of course the governance of a system, of a hospital.
 
 ### Cynthia Fleury-Perkins:
-Not only that. I think we try to have an holistic approach of what is health and what is care. That’s what I do. I’m also a member of the National French Committee of Ethics, and in that committee I did several reports as a co-rapporteur, as co-writer -- a report about editing of the genome...
+Not only that. I think we try to have a holistic approach of what is health and what is care. That’s what I do. I’m also a member of the National French Committee of Ethics, and in that committee I did several reports as a co-rapporteur, as co-writer -- a report about editing of the genome...
 
 ### Audrey Tang:
 CRISPR/Cas9.
@@ -277,7 +277,7 @@ So much so that the existing distance between the democratic institutional appar
 Previously, taking seven days to apply and receive a response to a letter to the minister, or taking a couple months to receive a freedom of information request, or 60 days to receive a response to a petition is considered sufficient.
 
 ### Audrey Tang:
-Now because the clock of the social media operates on a different scale, through a different modality, it creates what we call a empathy gap. If we are in a upset, immediate-response modality...
+Now because the clock of the social media operates on a different scale, through a different modality, it creates what we call an empathy gap. If we are in an upset, immediate-response modality...
 
 ### Cynthia Fleury-Perkins:
 It’s emotional.
@@ -286,7 +286,7 @@ It’s emotional.
 ...yes, of a shorter expectation of response.
 
 ### Audrey Tang:
-Through this synchronous mode, this creates a empathy gap to what we call the depressive position in psychoanalysis, the more considered mode.
+Through this synchronous mode, this creates an empathy gap to what we call the depressive position in psychoanalysis, the more considered mode.
 
 ### Audrey Tang:
 It is well known that the two psychic positions do not co-exist at the same time in the mind. This actually forecloses the empathic mode of communication. Renders it irrelevant, not just ineffective. It renders it irrelevant.

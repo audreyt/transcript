@@ -446,7 +446,7 @@ Because such privacy and cybersecurity certificates is what they do, but it's no
 Is it operating under the Digital Affairs, you will...?
 
 ### Audrey Tang:
-Yeah, it's our associated institute, but it's not doing the certificate alone. It also work with a ecosystem of cybersecurity researchers and so on, but it is the one stop shop for drone operators and manufacturers to get certifications. I think there is a natural partnership here.
+Yeah, it's our associated institute, but it's not doing the certificate alone. It also work with an ecosystem of cybersecurity researchers and so on, but it is the one stop shop for drone operators and manufacturers to get certifications. I think there is a natural partnership here.
 
 ### Shinpei Kato:
 It seems like we could also include that topic. What about virtual reality, digital twin, say, Web3 things, is it also an interesting scope of your sector to be integrated into automotive mobility?

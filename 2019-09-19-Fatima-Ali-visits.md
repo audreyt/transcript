@@ -148,7 +148,7 @@ As a junior-high dropout, I actually don’t have some experience about that, bu
 > (laughter)
 
 ### Audrey Tang:
-…that they have to pass something like a entry exam. I don’t know what that means.
+…that they have to pass something like an entry exam. I don’t know what that means.
 
 > (laughter)
 

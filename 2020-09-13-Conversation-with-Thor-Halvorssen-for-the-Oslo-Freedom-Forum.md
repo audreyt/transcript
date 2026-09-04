@@ -100,7 +100,7 @@ The digital quarantine where the phone, instead of asking people to install anyt
 By reusing mechanisms that’s already in place, we make sure that the human rights organizations can better communicate with the CECC, the Command Center. The approval rate about this CECC’S digital quarantine measures was at 91 percent.
 
 ### Audrey Tang:
-We think the nine percent for asking the MPs for us to have to do a interpolation and explanation session after which the posts show approval rate grows to 94 percent. Of course, we thank the six percent for keeping us honest and accountable.
+We think the nine percent for asking the MPs for us to have to do an interpolation and explanation session after which the posts show approval rate grows to 94 percent. Of course, we thank the six percent for keeping us honest and accountable.
 
 ### Thor Halvorssen:
 It’s wonderful to hear someone in government say, “Keep us honest and accountable.” It’s very inspiring. In past Oslo Freedom Forums and actually already in this one, we’ve had several speakers discuss how Chinese tech companies could threaten the digital rights and human rights of users.

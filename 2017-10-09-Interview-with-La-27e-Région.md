@@ -386,7 +386,7 @@ Too blurry but we need it to imagine thing that are really new or not happening 
 Digital product frugal.
 
 ### Anna Lochard：
-Do you say frugal? No, I’m checking for the transcription, I mean translation of the word. Actually \[French\] . Yeah, that’s frugal. It’s a...How do you say?
+Do you say frugal? No, I’m checking for the transcription, I mean translation of the word. Actually \[French\]. Yeah, that’s frugal. It’s a...How do you say?
 
 ### Lilas Ozanne：
 Digital.

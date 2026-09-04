@@ -342,7 +342,7 @@ No, it’s fine. Everybody gets to have 40 minutes.
 It’s really nice.
 
 ### Audrey Tang:
-These folks, Anchor Taiwan, they’re a interesting tourism agency that basically just brings entrepreneurs that are successful outside of Asia, but give them a whirlwind tour of all the right connections in Taiwan.
+These folks, Anchor Taiwan, they’re an interesting tourism agency that basically just brings entrepreneurs that are successful outside of Asia, but give them a whirlwind tour of all the right connections in Taiwan.
 
 ### Audrey Tang:
 It just connects that maybe you will find the community interesting. If not just applying yourself, maybe you can be one of their supporters or mentors and things like that.

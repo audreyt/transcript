@@ -320,7 +320,7 @@ Yeah. Of course, that happened, but it always turns out not to be the case they 
 Each individual are given more agency than the traditional mobilizers imagine. With time, people have started to discover that we’re really after common values. If there’s no common value, we don’t push things forward. If there’s a very, very rough consensus, we only act on those that we have very, very rough consensus.
 
 ### Audrey Tang:
-We don’t force consensus with this process, which is why people generally see this as complimentary if not reinforcing the old power model.
+We don’t force consensus with this process, which is why people generally see this as complementary if not reinforcing the old power model.
 
 ### Frederic Laloux:
 I’m trying to think ahead. The old power model, used the setting up as a dichotomy where we can play nice and if it’s not working, then...
@@ -380,7 +380,7 @@ Sure. In design thinking, the first diamond consists of discovering the problem.
 If people converge here, it’s a rough consensus because people generally agree that whatever gripe, we have is better solved if we reach this goal. It’s sustainable. It doesn’t say anything about how to reach it. It’s a barrier endpoint.
 
 ### Audrey Tang:
-Then, the second diamond is about testing various different way to solve the problem. It’s a iteration of quick prototyping and testing. Then, the second diamond finally converges on a decision that we can scale out to everybody because people are reasonably sure that this is a good solution. That’s standard design thinking.
+Then, the second diamond is about testing various different way to solve the problem. It’s an iteration of quick prototyping and testing. Then, the second diamond finally converges on a decision that we can scale out to everybody because people are reasonably sure that this is a good solution. That’s standard design thinking.
 
 ### Frederic Laloux:
 How did you map sortation or stakeholder on diamond...?
@@ -404,7 +404,7 @@ That is the second diamond’s diverge stage. On the final converge stage, we ne
 I’m curious, if as part of your stakeholders, you have citizen, let’s think in the Uber case, you have just a general population that was present.
 
 ### Audrey Tang:
-Mostly, is a mobilization problem. They don’t actually care about it, so why are they going to join? Then, that’s where jury duty comes. If people don’t see jury as a duty, we don’t have a easy way to convince people.
+Mostly, is a mobilization problem. They don’t actually care about it, so why are they going to join? Then, that’s where jury duty comes. If people don’t see jury as a duty, we don’t have an easy way to convince people.
 
 ### Frederic Laloux:
 Makes sense. I think that’s the part where we could de-bottleneck our current parliamentarian system.

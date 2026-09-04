@@ -184,13 +184,13 @@ How can you prevent that?
 We’re not preventing that because, for example, this anonymous person that raised the plastic straws issue, she’s not famous at all. She basically just proposed an idea that really resonates with everybody, but we allow pseudonyms so that nobody knows she’s actually 16 years old.
 
 ### Audrey Tang:
-There’s many cases where we don’t really know who is the proposer, perhaps because it concerns a asymmetric power relationship. Like there was someone who proposed that public servants should be able to take absence by hour instead of by half day.
+There’s many cases where we don’t really know who is the proposer, perhaps because it concerns an asymmetric power relationship. Like there was someone who proposed that public servants should be able to take absence by hour instead of by half day.
 
 ### Audrey Tang:
 It’s clear that all the 5,000 people who petitioned are probably public service, but without pseudonymous protection, they would probably not dare to propose it. What happened is that, only after this was ratified, signed into the regulation do the proposer came out and say, “Oh, it was me who proposed this.”
 
 ### Audrey Tang:
-We allow a kind of pseudonymous effect. So even if somebody purports to be a very famous person, you don’t really know whether that’s just a pseudonym chose by a anonymous person, or is that really them.
+We allow a kind of pseudonymous effect. So even if somebody purports to be a very famous person, you don’t really know whether that’s just a pseudonym chose by an anonymous person, or is that really them.
 
 ### Audrey Tang:
 Of course, they can post videos or so on saying that, “I initiate this petition,” but all they get is a chance to have a conversation. It’s not always to their favor because sometime you see a bad idea, and the contra side actually dominates the discussion. This is a design where it’s only setting agenda, but it doesn’t control where the conversation goes.
@@ -352,7 +352,7 @@ Yeah.
 It doesn’t really help. People probably agree, and so all 18,000 people said, “Oh, this new way of using budget to promote Taiwan, that may actually be a better idea than changing time zone while achieving the value that we petitioned about.”
 
 ### Audrey Tang:
-This room of conversation provides this far more creative potential than a simple referendum where everybody can only contribute one bit. That’s a actual case.
+This room of conversation provides this far more creative potential than a simple referendum where everybody can only contribute one bit. That’s an actual case.
 
 ### Audrey Tang:
 The actual case that did get adopted is someone who proposed that the tax filing software is very hostile to use two years ago. Because in every ministry we have a team of participation officers who engage with people in real-time, so once they post that and we see 80 percent of people was flaming, meaning attacking the ministry of finance.
@@ -364,7 +364,7 @@ This person from Ministry of Finance, the PO at the time, just said, “Everybod
 I obviously reply saying, “Oh, I’m Audrey Tang, and what he said is true,” and so basically everybody, 80% started offering constructive criticism instead of just flaming because they now see they’re invited to the kitchen, so to speak.
 
 ### Audrey Tang:
-Turns out the petitioner, while the initial wording is very toxic, he’s actually a interaction designer, so he feels the pain the most because he’s the professional. \[laughs\]
+Turns out the petitioner, while the initial wording is very toxic, he’s actually an interaction designer, so he feels the pain the most because he’s the professional. \[laughs\]
 
 ### Audrey Tang:
 He cares the most, so he suffers the most, and then we live-stream the co-creation workshop. We have people going online, and we use user journey to map the before, during, and after of tax filing. People’s actions, needs, feelings and how we can adjust those feelings and the burdens they have to carry going through the process.
@@ -406,7 +406,7 @@ They said there is this idea called elastic computing, that you can rent the com
 They observed that only the first two days and the last two days have high usage because people were in a rush to file a tax and they’re in a rush to catch-up on filing their tax, but the middle three weeks, there’s almost no activity compared to the first and last few days.
 
 ### Audrey Tang:
-They’re like, “Why don’t you just reject the telecom’s proposal that you rent for the month and, anticipating this flow, you can just rent this in a elastic way?”
+They’re like, “Why don’t you just reject the telecom’s proposal that you rent for the month and, anticipating this flow, you can just rent this in an elastic way?”
 
 ### Audrey Tang:
 The IT department implement it this year, and they save a lot of money, of which running the workshop is just a fraction of cost, and so the net budget is negative.
@@ -415,7 +415,7 @@ The IT department implement it this year, and they save a lot of money, of which
 Wow. That is still the most impressive part for me. That is what I take the most of. If we were to implement that in X country, what will be the main challenges in implementing it?
 
 ### Audrey Tang:
-I’m at a advisory council of an effort called CrowdLaw. If you type crowd.law \[types it on a tablet and shows the result\], I think it’s this one, it shows not just our methodology and case study, but actually what everybody else is doing as well.
+I’m at an advisory council of an effort called CrowdLaw. If you type crowd.law \[types it on a tablet and shows the result\], I think it’s this one, it shows not just our methodology and case study, but actually what everybody else is doing as well.
 
 ### Audrey Tang:
 There is what they call a CrowdLaw Catalog. This is a what we call a digital compendium of everything in the different stage – the level of government, the stage of the government, the task that you want to achieve. It’s not about the technology. The technologies only comes in when you have the design brief of the expected outcome of your agenda-setting.

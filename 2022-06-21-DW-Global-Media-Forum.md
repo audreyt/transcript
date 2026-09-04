@@ -72,7 +72,7 @@ There are all sorts of examples, for instance, Cloudflare, the DDoS product whic
 
 We invested a lot in educating Russians about VPNs and they installed basic software, but for these VPN service, you have to pay. You can't do it, because Visa and Mastercard are not working in the country anymore.
 
-This access to information resisting digital Iron Curtain, requests a lot of work from both sides, not only from civil society and from those who want to break through through the digital Iron Curtain, but also from the western governments and first of all [inaudible 11:15] .
+This access to information resisting digital Iron Curtain, requests a lot of work from both sides, not only from civil society and from those who want to break through through the digital Iron Curtain, but also from the western governments and first of all [inaudible 11:15].
 
 ### Janelle Dumalaon:
 Now, I want to grab on to a word that you mentioned there and it's participation. And I would like to go to Adrey Tang, who can tell us something about this. Also again, the original question of how you have been affected by the digital iron curtain.
@@ -259,7 +259,7 @@ Not because they're expensive -- they're not -- but because they just don't have
 
 The actual cost of the service is maybe 10 percent of that. All others is marketing, margin, and whatever, and the infrastructure of collecting three euro a month from [laughs] many users. No problem. Spend this money on this side. Provide a high-quality, free service, accessible and least-resistant, so there's some technology.
 
-Not just a mainstream VPN, but a little bit of technical sophistication instead. Promote it. Russians will be thankful. It will make a difference [inaudible 37:50] , very important when [inaudible 37:52] help a lot. Now, US is doing something like this. They have invested very much, and Siphon and [inaudible 37:57]. Europe is not doing anything like this.
+Not just a mainstream VPN, but a little bit of technical sophistication instead. Promote it. Russians will be thankful. It will make a difference [inaudible 37:50], very important when [inaudible 37:52] help a lot. Now, US is doing something like this. They have invested very much, and Siphon and [inaudible 37:57]. Europe is not doing anything like this.
 
 ### Janelle Dumalaon:
 Leonid? I'm so sorry, we have to leave it there. Perhaps you can network with Maria Makeeva afterwards to hear her views. At this stage, I'd like to thank my panelists. Thank you very much for the insights, Maria Makeeva, Leonid Volkov, Lutz Guellner, and Audrey Tang. Thank you, all.

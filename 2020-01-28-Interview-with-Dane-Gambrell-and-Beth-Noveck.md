@@ -31,7 +31,7 @@ It is from the PO network. Actually, we have a folder here that contains the run
 We regularly use the examples of regulating Uber and online alcohol sales. Is there a new story we should tell?
 
 ### Audrey Tang:
-Carl Jack Miller did the e-scooters one. It’s a OK story, I guess.
+Carl Jack Miller did the e-scooters one. It’s an OK story, I guess.
 
 ### Audrey Tang:
 The most exciting thing is largely this generative approach that vTaiwan was able to produce new vTaiwan-like processes. Not only the PO network, but literally the fintech sandbox, the self-driving vehicle sandbox, now the 5G testing spectrum sandbox, and platform economy sandbox, general purpose regulatory.
@@ -97,7 +97,7 @@ With vTaiwan, of course, whenever people realize that there’s a limitation of 
 Is it the PO network that meets every Wednesday?
 
 ### Audrey Tang:
-No, it’s the vTaiwan community. vTaiwan is defined as really just a every Wednesday, 7:00 PM to 11:00 PM, meetup.
+No, it’s the vTaiwan community. vTaiwan is defined as really just an every Wednesday, 7:00 PM to 11:00 PM, meetup.
 
 ### Beth Noveck:
 It begins with Wednesdays as they call it here.
@@ -142,7 +142,7 @@ My main function is just to ensure that the right stakeholders within the govern
 Many of the citizen participation and innovations are one-offs. What do you think gives vTaiwan its staying power?
 
 ### Audrey Tang:
-Considering that it’s been running continuously for more than five years now, I think two things. One is that there’s always a outside game. If anyone in the Cabinet backtracks from the promise, the opposition party, who is always pro-open government because open government benefits opposition parties more, they will put pressure to the Cabinet.
+Considering that it’s been running continuously for more than five years now, I think two things. One is that there’s always an outside game. If anyone in the Cabinet backtracks from the promise, the opposition party, who is always pro-open government because open government benefits opposition parties more, they will put pressure to the Cabinet.
 
 ### Audrey Tang:
 That is how vTaiwan survived in the window between 2016, May, where Simon Chang is no longer the premier, and October that year where I become the digital minister. There was literally a five-months window.
@@ -219,13 +219,13 @@ Sorry, Dane. I’m interrupting.
 How uniform has the adoption of the vTaiwan process been? Have you found that certain departments are more willing to use it or that it works better for certain types of issues?
 
 ### Audrey Tang:
-The original envisioning of the vTaiwan process is decidedly in a initial discover stage where the government knows nothing or almost nothing about possible solutions. In design-thinking terms, vTaiwan is about the initial discovery and a incremental definition.
+The original envisioning of the vTaiwan process is decidedly in an initial discover stage where the government knows nothing or almost nothing about possible solutions. In design-thinking terms, vTaiwan is about the initial discovery and an incremental definition.
 
 ### Audrey Tang:
 By the time of face-to-face consultation meetings, we will then settle on a common “how might we?” question. That is the key question that people can live with. The development of those ideas through prototyping and sandboxes and the delivery through parliamentary assent is deliberately not part of the vTaiwan process as originally envisioned.
 
 ### Audrey Tang:
-We don’t want to contest our legitimacy with that of representative democracy. We definitely say we’re just augmenting the representative democracy in the group discovery and sometime define phases. The less any particular MP or minister know about a emerging topic, the better the vTaiwan process is.
+We don’t want to contest our legitimacy with that of representative democracy. We definitely say we’re just augmenting the representative democracy in the group discovery and sometime define phases. The less any particular MP or minister know about an emerging topic, the better the vTaiwan process is.
 
 ### Dane Gambrell:
 You’ve described vTaiwan as being in a state of permanent beta. You mentioned the new regulatory sandboxes. Are there any other recent ways you’ve evolved the process such as using new tools or platforms?
@@ -342,7 +342,7 @@ Dr. Tsai promised, in her second term, a digital ministry or council. That unit 
 By the way, Mayor Han literally promised the same thing during his presidential campaign. Both parties are for a dedicated competent authority instead of just having the Cabinet take care of it. That’s why the DCA clause did not get passed.
 
 ### Audrey Tang:
-Instead, we will probably have a institutionalization act for the digital council or ministry, and then that minister will then take care of the institutionalization of the vTaiwan binding power. My reading is that this have bipartisan, actually four-partisan support.
+Instead, we will probably have an institutionalization act for the digital council or ministry, and then that minister will then take care of the institutionalization of the vTaiwan binding power. My reading is that this have bipartisan, actually four-partisan support.
 
 ### Dane Gambrell:
 Is there anything else you think we should understand about how vTaiwan is changed recently or more generally, about citizen participation in Taiwan?
@@ -456,7 +456,7 @@ You mean non-vTaiwan examples?
 Non-vTaiwan examples. There are obvious global movement projects like Ushahidi or Safecast. Curious what’s on your radar screen, either in terms of good tools and technology, really good process, or other characteristics that’s on your radar screen.
 
 ### Audrey Tang:
-Aside from being on a international advisory board of a certain GovLab… I am board member of three international NGOs. We got the civil service ministry to reinterpret the rules so I can join as board members of international NGOs, one of which is the Consul Foundation, now reincarnated in Amsterdam.
+Aside from being on an international advisory board of a certain GovLab… I am board member of three international NGOs. We got the civil service ministry to reinterpret the rules so I can join as board members of international NGOs, one of which is the Consul Foundation, now reincarnated in Amsterdam.
 
 ### Audrey Tang:
 The Consul/Decidim communities is still very much on my radar, not the least because it seems that the developers’ community are still quite eager carry it forward, metric or not. Also, that this Consul/Decidim forks seems to bring those two communities in a generative, and not so adversarial, network relationship. I spend quite some time thinking about Consul and Decidim. That’s one.

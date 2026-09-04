@@ -150,7 +150,7 @@ Sure. Back in 2015, the vTaiwan platform handled this case, and that’s the fir
 We wrote out the surveys to the Uber drivers, taxi drivers, Uber passengers, other passengers on the same time, and used a visualization platform so that people can see what their friends and families feel like in this issue.
 
 ### Audrey Tang:
-Most importantly, we didn’t ask a abstract question like “What do you think about platform economy?” but rather, “What do you think if someone driving to work stops by to pick up a stranger that they meet on the phone and charging them for the detour that they have to make?” a very specific case.
+Most importantly, we didn’t ask an abstract question like “What do you think about platform economy?” but rather, “What do you think if someone driving to work stops by to pick up a stranger that they meet on the phone and charging them for the detour that they have to make?” a very specific case.
 
 ### Audrey Tang:
 Because of that, the overlapping consensus was that that’s fine as long as the insurance, registration, and license is taken care of if that someone do this detour more than twice a day.
@@ -177,7 +177,7 @@ Yeah, compared to before, because previously the problem is that the representat
 The algorithm must be open, transparent, accountable. All the source code is public for everyone to see all the data, public for people to analyze. The machine that runs this code is in a separate security-reinforced place in Taiwan now.
 
 ### Audrey Tang:
-It must become part of the democratic institution to be part of the governance project. It’s not relying on a arbitrary black box somewhere else on the planet.
+It must become part of the democratic institution to be part of the governance project. It’s not relying on an arbitrary black box somewhere else on the planet.
 
 ### Martin Aldrovandi:
 Can we talk a little bit about the sandbox, which I found very interesting as well?
@@ -449,7 +449,7 @@ Currently how big of a problem is this kind of news infiltration from China in T
 Audrey. We don’t use the term, the F word, You’re a journalist. You’re OK to use that. I respect that.
 
 ### Martin Aldrovandi:
-In Taiwan, the word news and journalism translate to the same word, \[Mandarin\] . Because of that, it’s difficult for me to say the F word in Mandarin without offending journalists, and because of filial piety, I cannot do so. \[laughs\] Because of that, what we are saying now is just disinformation or information manipulation, information operation.
+In Taiwan, the word news and journalism translate to the same word, \[Mandarin\]. Because of that, it’s difficult for me to say the F word in Mandarin without offending journalists, and because of filial piety, I cannot do so. \[laughs\] Because of that, what we are saying now is just disinformation or information manipulation, information operation.
 
 ### Martin Aldrovandi:
 It is a big problem, of course, worldwide. It is not only a Taiwan problem. The social media makes it easier for one angry person to mobilize tens of thousands of people in outrage. This is a general problem, it’s not just a Taiwan problem.

@@ -251,7 +251,7 @@ The people who occupied the parliament, they initially only have maybe a very va
 On the last day, the head of the parliament agreed to their demand, and so for the people who occupied inside the parliament it’s a victory. Of course, people in the different NGOs, they don’t always get their demand met by Sunflower.
 
 ### Audrey Tang:
-What they gain is new solidarity with horizontal power, because maybe their constituents are a aging population, maybe younger people no longer care that much about that large NGOs, but through Sunflower movement, they recruit and build connection with new media, with civic media, with crowd funders, with people who have talents in design, and so new collaboration is fostered.
+What they gain is new solidarity with horizontal power, because maybe their constituents are an aging population, maybe younger people no longer care that much about that large NGOs, but through Sunflower movement, they recruit and build connection with new media, with civic media, with crowd funders, with people who have talents in design, and so new collaboration is fostered.
 
 ### Audrey Tang:
 Because of this, at the end of that year, the mayoral election, basically anyone who oppose the Occupy lose the election. Anyone who participate or support the Occupy or use open government in their platform, in particular Mayor Lai Ching-Te and Mayor Ko Wen-je in that year both use open government as their main platform.
@@ -260,7 +260,7 @@ Because of this, at the end of that year, the mayoral election, basically anyone
 The won a lot. That really gave legitimacy to the open government. That made the central administration...After the election, the premier resigned. The new premier, an engineer, said, &quot;OK, so now open throughout is our national direction.&quot;
 
 ### Audrey Tang:
-Next year, we’re going to be number one on Open Data Index and that become the national direction. It’s led by the Occupy, realized by the municipals, and then finally ratified at a administration level, all within the same year.
+Next year, we’re going to be number one on Open Data Index and that become the national direction. It’s led by the Occupy, realized by the municipals, and then finally ratified at an administration level, all within the same year.
 
 ### Klaikong Vaidhyakarn:
 Wow. In your opinion, how civic tech, open government, and your government support each other?
@@ -278,7 +278,7 @@ Civic tech brings a new player into this game, that is, the power of data and co
 Maybe the NGO does not deliver. Maybe not enough people support their cause. The campaign may not happen, so they waste at least an opportunity cost. Everybody else is free riders after a certain while. The early adopters cannot bootstrap an NGO very easily.
 
 ### Audrey Tang:
-Now, with civic tech, you can have crowdfunding. You can even have subscription-based crowdfunding. You can even have blockchains to support a token-based crowdfunding. Civic tech can make the formula, the incentive, different, so that people are more incentivized to participate, even on a early level, which is where, really, the social entrepreneurship needs the social resources.
+Now, with civic tech, you can have crowdfunding. You can even have subscription-based crowdfunding. You can even have blockchains to support a token-based crowdfunding. Civic tech can make the formula, the incentive, different, so that people are more incentivized to participate, even on an early level, which is where, really, the social entrepreneurship needs the social resources.
 
 ### Audrey Tang:
 Civic tech, to my mind, is basically the enabling technology for social innovation. It doesn’t replace social innovation. Of course, you still have to live with indigenous people to understand what they really want, but at least you can incentivize more people to live with the indigenous people.
@@ -307,10 +307,10 @@ Should not use that word. \[laughs\]
 They reason why is that the government, we can only change our direction once every year. That’s how the national budget works. Emerging social issues, they don’t wait for the budget cycle. \[laughs\]
 
 ### Audrey Tang:
-Basically, the government is not very well equipped to have a rapid response to a emergent social innovation or a social situation. That’s why we have the sandbox system, to make new, emergent players willing to try with us in a co-creation relationship, instead of a law-breaking relationship.
+Basically, the government is not very well equipped to have a rapid response to an emergent social innovation or a social situation. That’s why we have the sandbox system, to make new, emergent players willing to try with us in a co-creation relationship, instead of a law-breaking relationship.
 
 ### Audrey Tang:
-Sandbox is only for regulatory or place-based problems. Of course, we can do that, but for many other issues, for example a aging population, for example the loss of identity of many smaller townships, it’s not about a low or a regulation change. It doesn’t matter.
+Sandbox is only for regulatory or place-based problems. Of course, we can do that, but for many other issues, for example an aging population, for example the loss of identity of many smaller townships, it’s not about a low or a regulation change. It doesn’t matter.
 
 ### Audrey Tang:
 They’re not suffering because of we don’t have a law for anything. They’re suffering because the constitutive power of the community is changing. Maybe they all went to large cities. Maybe they don’t care about their local culture anymore. Maybe their traditional language is disappearing, and no laws can completely solve that.
@@ -325,7 +325,7 @@ If we just allocate budget, then it is a blunt tool. We can only allocate toward
 You can already do social entrepreneurship, starting next year, in high school or even primary school. This year, you can already do it as part of your college degree. You can have a capstone project that solves a social need through the USR system.
 
 ### Audrey Tang:
-What we’re saying is that, even if you don’t end up being a proper B corp, Yunus corp, or whatever, there’s a Call You start for that. Even if you don’t actually create a enterprise to be a social enterprise, you can still do social entrepreneurship while you’re a student to learn things.
+What we’re saying is that, even if you don’t end up being a proper B corp, Yunus corp, or whatever, there’s a Call You start for that. Even if you don’t actually create an enterprise to be a social enterprise, you can still do social entrepreneurship while you’re a student to learn things.
 
 ### Audrey Tang:
 The society is better, because they near to see university as something that’s not just for the elites, but something that connects well with the community. A important part of our social innovation plan is to have the university to be in the forefront, looking for emergent issues.
@@ -376,7 +376,7 @@ Agile. \[laughs\]
 To create something that is of core value to all the ministries, how to rebuild trust in the society, this is why we unite together. We may have people who care about culture more. We may have people who care about national communication. For example, the Minister of Interior maybe care about the social order.
 
 ### Audrey Tang:
-They care about different things. It’s not like we agree, but we don’t have to agree, because this is a space where we brainstorm something in social innovation, in open government, that is to the benefit of everyone. This is a entirely horizontal space that connect then with the Participation Officer Network, which is about 60 or so people, again in every ministry.
+They care about different things. It’s not like we agree, but we don’t have to agree, because this is a space where we brainstorm something in social innovation, in open government, that is to the benefit of everyone. This is an entirely horizontal space that connect then with the Participation Officer Network, which is about 60 or so people, again in every ministry.
 
 ### Audrey Tang:
 The whole reason is that, first, we make sure that the entire society know what each ministry care about. They’re like 30 non-profits. They care about different things. \[laughs\] Also, we’re like the central co-op, because people pay tax. They vote. It’s like a co-op.
@@ -506,7 +506,7 @@ Open space lens our individual feelings into shared reflections. Within a reflec
 We are the early makers of digital democracy in the 21st century. We’re like the early makers of reflecting telescopes in the 17th century. We’re full of innovations. We want to look at all the stars.
 
 ### Audrey Tang:
-Personally speaking, I’m very happy to learn with our international friends in making an inventory, a catalog, of such innovations around the world. Only through learning with each other can we truly enter a age of science, and then eventually going beyond it into a age of reflection. Thank you.
+Personally speaking, I’m very happy to learn with our international friends in making an inventory, a catalog, of such innovations around the world. Only through learning with each other can we truly enter an age of science, and then eventually going beyond it into an age of reflection. Thank you.
 
 ### Klaikong Vaidhyakarn:
 Thank you. Actually, I know it’s, yeah, but I’m thinking it’s not appropriate ask you for a comment for the next election of Thailand.

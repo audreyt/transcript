@@ -115,7 +115,7 @@ Yeah, certainly. But before I talk about vTaiwan and Join, I need to talk about 
 People in different sectors co-producing and co-using the data so that people, for example, can detect earthquakes, floods, predict air quality, and things like that, in a very collaborative environment, so that anyone really, in their primary school and so on, can set up air boxes, very inexpensive – less than US$100 each or €100 each – stations that contributes to our environmental understanding.
 
 ### Audrey Tang：
-The Presidential Hackathon is a enabling annual thing where the president, Dr. Tsai Ing-wen, gives an award to five of the winning teams out of 200 or so. Each need to correspond to one of the sustainable goals. The five teams, the trophy is a micro-projector.
+The Presidential Hackathon is an enabling annual thing where the president, Dr. Tsai Ing-wen, gives an award to five of the winning teams out of 200 or so. Each need to correspond to one of the sustainable goals. The five teams, the trophy is a micro-projector.
 
 ### Audrey Tang：
 If you turn it on, it projects the president handing you the trophy – the trophy describes itself – promising whatever you did in the past three months will become national policy in the next 12 months. We do all the regulatory, personnel, budget, and so on as needed. Of course, such Presidential Hackathon teams doesn’t come out of nowhere.

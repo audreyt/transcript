@@ -34,7 +34,7 @@ There is a movement in Taiwan called the g0v movement that register the g0v.tw w
 People, just by typing a single letter, gets into the single digit of zero and the shadow government that allows more forking, that is to say the more understanding of how to take existing public service but do it in a social innovation way through more perspective and a more engaging way.
 
 ### Audrey Tang:
-To me, this has always been my native culture, the Internet governance culture based around rough consensus, on radical transparency, on stakeholder participation without any coercive power. The Internet doesn’t have a army or navy. The reason why all the different jurisdictions join the Internet is not because anyone coerce them to.
+To me, this has always been my native culture, the Internet governance culture based around rough consensus, on radical transparency, on stakeholder participation without any coercive power. The Internet doesn’t have an army or navy. The reason why all the different jurisdictions join the Internet is not because anyone coerce them to.
 
 ### Audrey Tang:
 Rather it provides benefit for everyone. It’s like a common value despite the various different positions in a standard setting body or in various jurisdictions. That’s my mission, to bring what we have learned from the Internet culture into everyday culture and also into the politics, into the career public service.

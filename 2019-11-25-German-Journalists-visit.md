@@ -936,7 +936,7 @@ I’m sorry?
 Will you work with a…?
 
 ### Audrey Tang:
-I worked with the KMT government. That was when I was the understudy minister. \[non-English speech\] was working with \[non-English speech\] , and both are KMT, I believe.
+I worked with the KMT government. That was when I was the understudy minister. \[non-English speech\] was working with \[non-English speech\], and both are KMT, I believe.
 
 ### Sara Geisler:
 Yeah. You want to continue your work after the election?

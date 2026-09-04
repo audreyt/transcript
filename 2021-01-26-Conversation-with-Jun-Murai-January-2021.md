@@ -36,7 +36,7 @@ Congratulations. That sounds like a real improvement.
 > (Jun speaks)
 
 ### Audrey Tang：
-Yeah. The experience will be, the first time I’m a older person, I get a vaccine, I also learned about my number for the first time and I take the same number for my second dose. Is that the idea?
+Yeah. The experience will be, the first time I’m an older person, I get a vaccine, I also learned about my number for the first time and I take the same number for my second dose. Is that the idea?
 
 > (Jun speaks)
 
@@ -125,7 +125,7 @@ That’s right.
 > (Jun speaks)
 
 ### Audrey Tang：
-Yes. We are now proposing a act. I think it will enter the parliamentary floor by March. With any luck, our digital ministry might be established around the same time as yours. \[laughs\] In the design, the digital ministry of Taiwan has the arm about digitization infrastructure, which is a role currently played by the National Communications Commission.
+Yes. We are now proposing an act. I think it will enter the parliamentary floor by March. With any luck, our digital ministry might be established around the same time as yours. \[laughs\] In the design, the digital ministry of Taiwan has the arm about digitization infrastructure, which is a role currently played by the National Communications Commission.
 
 ### Audrey Tang：
 That will be transferred into the digital ministry. That’s one part. The other part is about the application layer, data consultation, e-petition, regulatory preannouncement and reconciliation, and so on. That part would be transferred from the National Development Council also to the Digital Ministry. It has both the infrastructure as well as the application layer.
@@ -225,7 +225,7 @@ Four years.
 > (Jun speaks)
 
 ### Audrey Tang：
-Yeah. Before I serve in a cabinet, I was a project consultant to the minister, actually in this office too \[laughs\] , Minister Jaclyn Tsai. She was also responsible for what they call the cyber regulatory reform. I was a consultant for the consultation part of that. I worked maybe one-fifth of my time in the project during ‘14 to early ‘16, so, six years in total.
+Yeah. Before I serve in a cabinet, I was a project consultant to the minister, actually in this office too \[laughs\], Minister Jaclyn Tsai. She was also responsible for what they call the cyber regulatory reform. I was a consultant for the consultation part of that. I worked maybe one-fifth of my time in the project during ‘14 to early ‘16, so, six years in total.
 
 > (Jun speaks)
 

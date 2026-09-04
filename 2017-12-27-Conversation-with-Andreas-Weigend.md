@@ -730,7 +730,7 @@ The virtual world is not anonymization, I think.
 No, it’s not.
 
 ### Andreas Weigend:
-So many people get fooled by thinking they can anonymize data. Let me tell you a story. One of the dearest friends I have is Dave Liu, Taiwanese who was at Stanford. He worked for me. It’s the one I met at the New Year’s party. I had another from Kaohsiung , whose roommate Dave was, and the Kaohsiung guy always went out of the room, coming to cook.
+So many people get fooled by thinking they can anonymize data. Let me tell you a story. One of the dearest friends I have is Dave Liu, Taiwanese who was at Stanford. He worked for me. It’s the one I met at the New Year’s party. I had another from Kaohsiung, whose roommate Dave was, and the Kaohsiung guy always went out of the room, coming to cook.
 
 ### Andreas Weigend:
 I said, &quot;What do you do? Do you cook?&quot; &quot;No.&quot; I called my roommate, I said I want to meet your roommate. I met Dave. Dave worked for me and then Dave went to Amazon, and then Dave convinced Jeff Bezos to hire me, so I know Dave well.

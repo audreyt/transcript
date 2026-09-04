@@ -291,7 +291,7 @@ It's small c conservative, in a sense, that when we roll out Digital Measures, i
 
 In that context, it also means that I never forced, say, the Minister of Defense to change their ways. I never force anyone and I don't issue orders. I don't take orders either. I work with the people with the government, but not for the government or for the people.
 
-This is what I mean by the lowercase a anarchism and which is actually the textbook definition.
+This is what I mean by the lowercase an anarchism and which is actually the textbook definition.
 
 ### Jan Oberländer:
 What did you initially think when the premier offered you the job of Digital Minister? Was there any reservations or conditions you had?
@@ -485,7 +485,7 @@ Sure, it's on public record. I was in Vienna, I think the beginning was in Tokyo
 So it was definitely a worldwide journey. I wanted to ask also about your, kind of, socialization on the Internet. Was the role the Internet played as a refuge for you growing up as a teenager – did that have something to do also with your situation of maybe figuring out what, for example, your gender identity was? How you fit into the social system?
 
 ### Audrey Tang:
-Definitely. I mean, I went through two puberties and the Internet community supported me in both. I also believe this made me nonbinary in a sense that I don't think half of the population is similar to me and half of population is farther away from me. This also enabled me to basically... instead of seeing this as identity, more as a experience. So you will note that I said I had two puberties instead of I become something or become something else.
+Definitely. I mean, I went through two puberties and the Internet community supported me in both. I also believe this made me nonbinary in a sense that I don't think half of the population is similar to me and half of population is farther away from me. This also enabled me to basically... instead of seeing this as identity, more as an experience. So you will note that I said I had two puberties instead of I become something or become something else.
 
 This, I think, is also where the Internet shines at, because in the Internet, you can always have a new experience and then maybe find a new community to share these experiences without identifying with existing categories.
 
@@ -551,7 +551,7 @@ They never really taught me politics. Rather, we debated and deliberated. My fat
 
 I remember when I... I must be five or six years old when the "Democratic Progressive Party" first formed, quite illegally at that time, and tried to run for political seats.
 
-We were having a conversation about the name of the political party, and I would learn through this deliberation with my parents that progress mean very different things to many different people. My mother was working on the establishment of a act for "National Parks." What progress used to mean in Taiwan, at a time very economic development heavy, is actually the lack of progress when seen from an environmentalist point of view.
+We were having a conversation about the name of the political party, and I would learn through this deliberation with my parents that progress mean very different things to many different people. My mother was working on the establishment of an act for "National Parks." What progress used to mean in Taiwan, at a time very economic development heavy, is actually the lack of progress when seen from an environmentalist point of view.
 
 The same would go, for example, on advocating for one particular linguistic group's right, when viewed from, say, the indigenous linguistic point of view and so on.
 
@@ -591,7 +591,7 @@ I wouldn't say that it's any particular technological projects I did, but rather
 You left your part spontaneously at age 33. You quit your job at Apple to join the Sunflower Movement, saying, "I have to leave. Democracy needs me." That quote...
 
 ### Audrey Tang:
-That's not entirely right, I took a absence. I'm like "Yeah, I can't," because I was teleworking anyway. It's not like I boarded a plane. I actually wrote... I think it was Wired that said that I boarded a plane, and I fact checked them and they did go back to edit that part.
+That's not entirely right, I took an absence. I'm like "Yeah, I can't," because I was teleworking anyway. It's not like I boarded a plane. I actually wrote... I think it was Wired that said that I boarded a plane, and I fact checked them and they did go back to edit that part.
 
 I wasn't physically in Cupertino or Palo Alto. I was physically in Taipei just teleworking, and I said, "I need to take a few weeks off." That's the extent what I did.
 
@@ -619,7 +619,7 @@ Then, as for Taiwan itself, it's not that we're oblivious to campaigns and inter
 
 That's what motivated the Sunflower Movement in the 20 NGOs that liberated on the specific cases. For example, the 4G infrastructure where now market forces can take over. If we do risk assessment, every time there's an upgrade, it's much more costly to do so. So, there's an economic argument as well during the Sunflower Movement.
 
-I don't know whether you'd describe it as a war or not, like trade war or standardization war, or nowadays people say 5G war. Whatever, but it's certainly a intense competition, I would say that.
+I don't know whether you'd describe it as a war or not, like trade war or standardization war, or nowadays people say 5G war. Whatever, but it's certainly an intense competition, I would say that.
 
 ### Jan Oberländer:
 But you're not afraid of a physical annexation of Taiwan?
@@ -652,7 +652,7 @@ Is Facebook an anti social medium?
 ### Audrey Tang:
 Not how I use it. I installed the Facebook feed eradicator. So I don't have a Facebook feed. I use it much like the Wide Web browser. I search for a person's name. I watch some movies. I search for hashtags. But I don't have a feed where a parasitical or symbiotic – depending... – AI tries to predict my emotions. I simply don't have that part.
 
-Facebook is large. It has addiction-forming parts, and it has some other not so addictive forming parts. Trying to have a town hall conversation in a addiction forming part is like holding a physical town hall in a loud nightclub where you have to shout to get heard. Addictive drinks, private bouncers, smoke filled room.
+Facebook is large. It has addiction-forming parts, and it has some other not so addictive forming parts. Trying to have a town hall conversation in an addiction forming part is like holding a physical town hall in a loud nightclub where you have to shout to get heard. Addictive drinks, private bouncers, smoke filled room.
 
 I'm not saying nightclubs are antisocial. Nightclubs could be quite social, and has its role in a district. It's just that we shouldn't hold our town halls there.
 

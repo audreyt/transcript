@@ -156,7 +156,7 @@ Can you give a specific example for what the media captures, and what’s your c
 Sure. For example, in 2015 when we first used the term rough consensus, and Polis as a civic technology, at that time, the topic was around UberX or people who don’t have a professional driver’s license driving to work, picking up a stranger that they meet from the app. Taking a detour to take that stranger to their destination, and charging them for it. Like what do you feel about this?
 
 ### Audrey Tang:
-There are quite a few divisive issues. For example, there is one that says Uber’s service is so good that even when taxis are wishing past me, I will still use my phone to call a Uber. That’s very divisive.
+There are quite a few divisive issues. For example, there is one that says Uber’s service is so good that even when taxis are wishing past me, I will still use my phone to call an Uber. That’s very divisive.
 
 ### Audrey Tang:
 Media tends to capture these anecdotal statements, and make it seem like a polarizing dialogue. Actually regardless of whether they’re Uber drivers, or Uber passengers or taxi drivers, or other passengers, everybody agreed that insurance is important. That registration is important. That some sort of mutual feedback mechanism is important.

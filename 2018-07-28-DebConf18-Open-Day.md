@@ -120,7 +120,7 @@ We only had our first presidential election in 1996 which is about the year of t
 The advent of democracy and the advent of Internet and direct democracy is the same time in Taiwan. We don’t have 200 or 300 years of a representative democracy tradition. When we had democracy, we had also the Internet.
 
 ### Audrey Tang:
-In Taiwan, when we see or when we talk about free software, we translate it as \[Mandarin\] . It’s always free as in freedom to assemble, freedom of speech, freedom to express, and never free of cost.
+In Taiwan, when we see or when we talk about free software, we translate it as \[Mandarin\]. It’s always free as in freedom to assemble, freedom of speech, freedom to express, and never free of cost.
 
 ### Audrey Tang:
 We know that freedom is never free of costs. Our parents’ generation, our grandparents’ generation fought very hard to get those freedoms. It’s up to us to use the software freedoms to keep the society free.

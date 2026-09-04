@@ -125,7 +125,7 @@ To some, it's even more dangerous than the biological virus itself because it co
 There was some pretty malicious rumors. Weren't there? During the early when there was a spike in infections in April last year and you had all stuff being thrown out there online and elsewhere about the effectiveness of vaccines.
 
 ### Audrey Tang:
-That's one. A lot of the elderly people at the time bought into those rumors and discounted the efficacy of AstraZeneca vaccines. We countered that, again, through radical transparency by showing exactly how many people young or old are interested in getting a easy shot.
+That's one. A lot of the elderly people at the time bought into those rumors and discounted the efficacy of AstraZeneca vaccines. We countered that, again, through radical transparency by showing exactly how many people young or old are interested in getting an easy shot.
 
 Then, publishing on every arrival of the AZ batch. Now the 50 years old are getting them, the 35 years old are getting them. The elderly people can see that there's just so many actual demands and if they do not register their willingness the younger people are going to get the shots first. They seem to be doing fine. [laughs]
 
@@ -201,7 +201,7 @@ I could also say I'm a spiritual Taoist, but then, if I say that for many Wester
 
 Then the anarchist part says they do not have a monopoly on the possible configuration of institutions. New kinds of processes, communities, networks should be able to form without taking orders or giving orders to existing institutions.
 
-Basically, it's a way to say live and let live with existing institutions. Repurposing them, if you will, instead of disrupting them or taking them down because if I say I'm a anarchist, people associate that with bomb throwing. I'm not bomb-throwing...
+Basically, it's a way to say live and let live with existing institutions. Repurposing them, if you will, instead of disrupting them or taking them down because if I say I'm an anarchist, people associate that with bomb throwing. I'm not bomb-throwing...
 
 > (laughter)
 
@@ -370,7 +370,7 @@ Internationally, I think people now understand that liberal democracy has its ow
 
 Nowadays, people don't say that anymore. People will see that you do need a fully empowered democratic society in order to have resilience and a very efficient top down decision making process. Although it could be efficient on the right things, it could also be very efficiently doing the wrong things.
 
-That has been a collective awareness, I believe, in the international community. Especially in Taiwan, a lot of people are now saying, "What can we do then during a escalation of tension?" We don't need to wait for the Ministry of Defense or anyone to tell us what to do. We should be preparing ourselves to the eventual situation of communication loss or whatever tensions.
+That has been a collective awareness, I believe, in the international community. Especially in Taiwan, a lot of people are now saying, "What can we do then during an escalation of tension?" We don't need to wait for the Ministry of Defense or anyone to tell us what to do. We should be preparing ourselves to the eventual situation of communication loss or whatever tensions.
 
 In Taiwan, we have the typhoons and earthquakes. All those preparations, not necessarily just for our military escalations, all those preparations are equally useful when there's a tie for nabs.
 

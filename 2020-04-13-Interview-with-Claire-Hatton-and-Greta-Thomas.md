@@ -364,7 +364,7 @@ The job description, which I posted on Twitter the day I become Digital Minister
 I just wrote a poem, a prayer to celebrate that, and that became my job description. The prayer goes like this.
 
 ### Audrey Tang:
-“When we see the Internet of things, let’s make it a Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear that a singularity is near, let us always remember the plurality is here.”
+“When we see the Internet of things, let’s make it an Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear that a singularity is near, let us always remember the plurality is here.”
 
 ### Audrey Tang:
 That’s my job description.

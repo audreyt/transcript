@@ -102,7 +102,7 @@ In our basic education starting from the first grade, starting last year, we tea
 So that people, whenever they feel that something may be a scam or disinformation or whatever, they can forward it to a chatbot, and a chatbot then forwards it to a Wikipedia-like civic type of community called CoFacts. That in turn inspires many private sector tools that enable people to very quickly get into the clarifications and disseminate the clarifications to people.
 
 ### Audrey Tang:
-The Taiwan FactCheck Center is a independent social-sector organization that are professional journalists, and they work with those sources to make sure that everybody see the honest advertisements and whichever things that has been deemed by the Taiwan FactCheck Center or other international fact-checking network members as misleading or as untrue.
+The Taiwan FactCheck Center is an independent social-sector organization that are professional journalists, and they work with those sources to make sure that everybody see the honest advertisements and whichever things that has been deemed by the Taiwan FactCheck Center or other international fact-checking network members as misleading or as untrue.
 
 ### Audrey Tang:
 Instead of taking it down, people see a “see also blank” is social media. Social media leads them to learn more about the clarification instead of taking anything down. Our strategy is to add more information for a participatory journalism.
@@ -360,13 +360,13 @@ Obviously, because, as I said, a minister’s word is only as good, maybe less, 
 There are two responses to this. One is that is it showed that really we need a data protection authority in the GDPR style that is independent of the administration.
 
 ### Audrey Tang:
-We do have a Privacy Office under the National Democratic Council, and we do have the Department of Cyber Security. They are not independent organs, and so people tend to consider them a part of the administration instead of part of a oversight unit.
+We do have a Privacy Office under the National Democratic Council, and we do have the Department of Cyber Security. They are not independent organs, and so people tend to consider them a part of the administration instead of part of an oversight unit.
 
 ### Audrey Tang:
 This year we had a change in the formulation of the National Human Right Council in the Control Yuan, which is a separate branch. It’s a separate branch that only controls and audits our human right violations from the administration.
 
 ### Audrey Tang:
-We would say that if the Human Right Council forms in the Control Yuan, and if our Personal Data Protection Unit becomes a independent organ, as GDPR requires us to do – that’s the only thing between Taiwan and the GDPR adequacy – it will have a much more agreeable legitimacy platform.
+We would say that if the Human Right Council forms in the Control Yuan, and if our Personal Data Protection Unit becomes an independent organ, as GDPR requires us to do – that’s the only thing between Taiwan and the GDPR adequacy – it will have a much more agreeable legitimacy platform.
 
 ### Audrey Tang:
 This is a matter of public debate. People are publicly debating it. We’re not resting on our laurels, saying 91 percent of people supporting the CECC. That means, still, there’s nine percent of people who do not support the CECC and its measures.
@@ -396,7 +396,7 @@ I may be biased because both my parents are journalists. The freedom of journali
 The journalism branch, if I may call it a branch, is the branch that keeps everybody honest and accountable for their actions. Without the journalistic branch a single whistleblower cannot do much, even in the age of digital media.
 
 ### Audrey Tang:
-Taiwan benefits a lot from a robust journalistic community. The journalists who work very hard, like the CECC Command Center, tells to the journalist community that you are like a army of detectives. Then he offered to teach them free classes in public health and epidemiology.
+Taiwan benefits a lot from a robust journalistic community. The journalists who work very hard, like the CECC Command Center, tells to the journalist community that you are like an army of detectives. Then he offered to teach them free classes in public health and epidemiology.
 
 ### Audrey Tang:
 Them, as people who hold, first, the CECC and all the private sector actors accountable make sure that people get alert, early warning, of any new developments of the coronavirus situations, even before the cabinet ministers do.
@@ -561,12 +561,12 @@ The corona hand washing video?
 Do you have your own hand washing video?
 
 ### Audrey Tang:
-I have one about using a electric rice cooker to revitalize mask. I have not just one. I have 10 now. It’s in many languages. I don’t know which languages strikes your fancy. Maybe we will do a German one.
+I have one about using an electric rice cooker to revitalize mask. I have not just one. I have 10 now. It’s in many languages. I don’t know which languages strikes your fancy. Maybe we will do a German one.
 
 > (plays video: \[Schutzmasken Aufbereitung zur Wiederverwendung\](https://www.youtube.com/watch?v=MiKW9E-7OT0))
 
 ### Audrey Tang:
-I’m required by the CECC to say that this procedure to apply dry heat with electric rice cooker can only be repeated to up to five times. It’s applicable only in indoor and low-risk places. You use a electric cooker, a IH cooker, you need to maintain a certain temperature for this to be useful.
+I’m required by the CECC to say that this procedure to apply dry heat with electric rice cooker can only be repeated to up to five times. It’s applicable only in indoor and low-risk places. You use an electric cooker, an IH cooker, you need to maintain a certain temperature for this to be useful.
 
 ### Audrey Tang:
 This shows social innovation also, because this is not a government decree. In fact, it was contributed by research of Professor Lai Chane-yu in a research that was published way before the TFDA approved of it.

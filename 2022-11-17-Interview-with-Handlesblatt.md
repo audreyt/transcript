@@ -134,7 +134,7 @@ We're very fortunate that the Taiwanese companies, such as Pegatron, have extens
 No matter, whether it's actually mid Earth orbit, low Earth orbit, cloud computing, and so on, we can still view it logically as a coherence network that happens just to choose the transport layer, the link layer that still exists. For the service providers, the goal is so that they can continue to deliver the services without even pausing to reconfigure. That is the goal.
 
 ### Roman Winkelhahn:
-We're not talking about 700 satellites, we're talking about 700 receiver stations, like the one in [Mandarin] . My question now is, the receiver stations, what part in constructing them will Taiwan play and where, for example, will there have to be knowledge imported from external companies or states?
+We're not talking about 700 satellites, we're talking about 700 receiver stations, like the one in [Mandarin]. My question now is, the receiver stations, what part in constructing them will Taiwan play and where, for example, will there have to be knowledge imported from external companies or states?
 
 What about the satellites? Are there up there already? Will they have to be launched? Who will launch them? The whole hardware question. It's going to be 700...
 
@@ -271,7 +271,7 @@ How will the government ensure that Taiwan will have the full control over the n
 
 Just like our submarine cables doesn't all exit Taiwan on the same place, it's distributed in different geographic locations precisely because of earthquakes, and the submarine cables themselves are constructed in joint partnership with different vendors and different countries.
 
-Even if some of them suffer outages, it's OK because the Internet is designed so that it can route around the damaged parts and still deliver a acceptable experience.
+Even if some of them suffer outages, it's OK because the Internet is designed so that it can route around the damaged parts and still deliver an acceptable experience.
 
 We had to tell the legislator that you will cost more. It's not like if you just have the bare bone, lowest price bidder win, then you will end up with, I don't know a single vendor taking over all the equipments because that's economies of scale and they can offer a lowest bid. This is not about the lowest bid. This is about as thorough as many as possible so they don't all fail at the same time.
 
@@ -299,7 +299,7 @@ Between the intranet and the Internet, there is this idea of a firewall. Your IT
 
 In zero trust architecture, there's no intranet. There is no distinction between a firewall protected office and a non protected outer world. All the employees in my ministry have laptops. There's no desktops around here. We sign official documents using FidO.
 
-That's a authentication mechanism using my fingerprint on my smartphone that checks for the integrity of my phone, my SIM card, the connection, and my fingerprint. It's very difficult to falsify all three layers at the same time. If you only attack one layer, not only is your action initially detected very quickly, but also it's impossible to fake the other two layers in an instant.
+That's an authentication mechanism using my fingerprint on my smartphone that checks for the integrity of my phone, my SIM card, the connection, and my fingerprint. It's very difficult to falsify all three layers at the same time. If you only attack one layer, not only is your action initially detected very quickly, but also it's impossible to fake the other two layers in an instant.
 
 It makes defense much more likely to be joined by different vendors. Maybe this layer provided by Microsoft, that layer by Amazon, that layer by Google, that layer by VMware, or whatever other companies. These large IT companies, each taking care of the layer that they're most familiar with, join us together in a joint cyber defense through ZTA, zero trust architecture.
 
@@ -469,7 +469,7 @@ We're willing to collaborate with any service provider meeting the cybersecurity
 
 This is quite technical answer, but I think the satellite projects between the NDC, Microsoft, Pegatron, and Wave In showed us how to do cybersecurity red teaming, purple teaming, assessments, and so on, in such a plural configuration.
 
-As I mentioned, we're not putting all the eggs into one basket. When there's a mixture of eggs in a omelet — weird metaphor — [laughs] we can, nevertheless, have sufficient cybersecurity prowess to test the interconnectivity and interoperability of all the different layers. If they meet the criteria, then, of course, we will adopt it, but not all in it.
+As I mentioned, we're not putting all the eggs into one basket. When there's a mixture of eggs in an omelet — weird metaphor — [laughs] we can, nevertheless, have sufficient cybersecurity prowess to test the interconnectivity and interoperability of all the different layers. If they meet the criteria, then, of course, we will adopt it, but not all in it.
 
 ### Martin Koelling:
 Do you have benchmarks, international benchmarks? Is this a very unique project, and you are pioneering in this area?
@@ -570,7 +570,7 @@ What brought you into the field of programming and of technology. You were a ver
 ### Audrey Tang:
 I started programming when I was eight years old and initially, really, just to save some time, because I like mathematics, but I don't like calculation at all. I don't like pressing calculators or [laughs] the other computational devices that the Taiwanese kids use. [laughs]
 
-Because of that, I don't miss a day since I started learning programming to translate the more advanced mathematical concepts I was grappling with at a time so that I don't have to touch a calculator or a abacus.
+Because of that, I don't miss a day since I started learning programming to translate the more advanced mathematical concepts I was grappling with at a time so that I don't have to touch a calculator or an abacus.
 
 ### Martin Koelling:
 One question. You are now in government office already for quite a while, how has this governmental work changed and your outlook on politics and also privately?

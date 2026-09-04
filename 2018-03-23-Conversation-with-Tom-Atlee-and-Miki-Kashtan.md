@@ -371,7 +371,7 @@ There’s many concrete cases. There’s one I can talk about, the helicopter ca
 It’s about in the south of Taiwan there’s this little town called Hengchun. It’s a very popular tourism place, but it’s a small town in the south.
 
 ### Audrey Tang:
-There’s about 8,000 petitions at the time for this place, which has a airport that has been neglected for a very long time, for a few years. The petition says we need to ask the Minister of Interior to deploy the Black Hawk helicopters to our airport to serve as ambulance copters so that people who run into strokes or had a diving accident can get to a major hospital in Kaohsiung, here, in time.
+There’s about 8,000 petitions at the time for this place, which has an airport that has been neglected for a very long time, for a few years. The petition says we need to ask the Minister of Interior to deploy the Black Hawk helicopters to our airport to serve as ambulance copters so that people who run into strokes or had a diving accident can get to a major hospital in Kaohsiung, here, in time.
 
 ### Audrey Tang:
 Despite being a popular tourist destination, there’s no big hospital there. There really is nobody who can operate a surgery for the brain, or anything like that.

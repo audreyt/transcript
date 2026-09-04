@@ -4,7 +4,7 @@
 I obviously come from a blockchain publication, so my interest is in your thoughts on how government can be decentralized. Also, what you think that blockchain plays in governments. if it indeed does? Does that sound good?
 
 ### Audrey Tang:
-That’s a excellent angle. Just a clarification, I usually say DLT, as in distributor ledgers, because we work with many technologies like IOTA, which is not strictly speaking blockchains. Feel free to continue saying blockchain. My preferred term is just ledgers or distributed ledgers.
+That’s an excellent angle. Just a clarification, I usually say DLT, as in distributor ledgers, because we work with many technologies like IOTA, which is not strictly speaking blockchains. Feel free to continue saying blockchain. My preferred term is just ledgers or distributed ledgers.
 
 ### Audrey Tang:
 Ledgers is very promising. It is a cheap way to build accountability and some sort of legitimacy across sectors. The sectors are such like public sector, social sector, and the government public sector because they have different structures of normativity of legitimacy.
@@ -16,7 +16,7 @@ Through shared ledgers people can nevertheless agree on something that previousl
 I also think that’s where in my radio exchange has a lot of governance experiments currently going on in the ledgers community. For example, the Gitcoin experiment, the first round, which just concluded, offers very valuable insights for governments mechanism design as well.
 
 ### Audrey Tang:
-People, when they see a real market actually working to redistribute their priorities, there is a inspiration that if the Ethereum community can do that why can’t Taiwan do that. That service inspiration as well. That’s the two. One is more utility, instrumental value across sectors, and one is of a more inspirational kind of idea value.
+People, when they see a real market actually working to redistribute their priorities, there is an inspiration that if the Ethereum community can do that why can’t Taiwan do that. That service inspiration as well. That’s the two. One is more utility, instrumental value across sectors, and one is of a more inspirational kind of idea value.
 
 ### Robert Stevens:
 Your interest is in decentralizing government. Stepping back a little bit, why might we want to do that in the first place?
@@ -172,7 +172,7 @@ Because they are essentially a media, they have a way to do a push notification 
 It still stands that without a negative vote, whether Gitcoin, the Presidential Hackathon, or Colorado Experiment, there’s no negative voting. We do have negative voting in the rhetoric exchange board by the way. Without negative voting, we’ll only look at the positive square root, not the negative root, but both square roots are valid mathematically to your credits used.
 
 ### Audrey Tang:
-I think this cross-amplification, the echo chamber effect, the effect of key online influencers and so on is a interesting problem that democracy is facing, especially around precision targeting. I don’t think blockchain governance is immune to that.
+I think this cross-amplification, the echo chamber effect, the effect of key online influencers and so on is an interesting problem that democracy is facing, especially around precision targeting. I don’t think blockchain governance is immune to that.
 
 ### Audrey Tang:
 Blockchain governance, if anything, may actually co-amplify that because it’s a pure online system. People have a lot of skills to make arguments online. Unless we can get a more deliberative agenda setting before we go to the QV or the QF, I don’t really think negative voting alone can solve this effect that Vitalik highlighted in this latest round of Gitcoin.

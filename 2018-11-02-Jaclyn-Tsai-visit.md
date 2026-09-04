@@ -179,7 +179,7 @@ Oh really? Cool.
 > (laughter)
 
 ### Jaime:
-Then we have a transparency index. Basically, on the platform, we’ll be able to sort by the percentages of disclosure made by a project. If you’re a investor and you want to see projects that have disclosed above 50 percent, you can sort it by percentage disclosure. Then, look at the top 50 percent.
+Then we have a transparency index. Basically, on the platform, we’ll be able to sort by the percentages of disclosure made by a project. If you’re an investor and you want to see projects that have disclosed above 50 percent, you can sort it by percentage disclosure. Then, look at the top 50 percent.
 
 ### Jaime:
 Also, we have verifications. A lot of issuers might say, &quot;Oh,&quot; for example, &quot;Jaclyn Tsai is their advisor.&quot; Unless Jaclyn goes and confirms it, they won’t get a verified check on it. That’s pretty important because we’ve talked to a few of our foundation council members. A lot of their names have been used inappropriately by projects because of their reputation.
@@ -214,7 +214,7 @@ About 37.
 Thank you.
 
 ### Jaime:
-Once the project fills in the 37 items, then they can get a mark that’s saying that they’ve met the GITA minimum standard. You can have some types of assurance as a investor that if you find a project that has our mark, they have actually made the disclosures that we thought are important to them.
+Once the project fills in the 37 items, then they can get a mark that’s saying that they’ve met the GITA minimum standard. You can have some types of assurance as an investor that if you find a project that has our mark, they have actually made the disclosures that we thought are important to them.
 
 ### Audrey Tang:
 Awesome.

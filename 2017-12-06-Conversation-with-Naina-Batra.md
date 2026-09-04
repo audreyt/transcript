@@ -13,7 +13,7 @@ If you are OK with it, we will post this chat transcript for you to edit, and th
 It is absolutely fine with us. That would be a really good way to get other stakeholders interested.
 
 ### Audrey Tang:
-That’s great. The basic structure, the GSG structure, as well as Japan’s National Advisory Board draft, we have read the materials and we’re pretty interested. This a extension with the G8 network, as far as I understand.
+That’s great. The basic structure, the GSG structure, as well as Japan’s National Advisory Board draft, we have read the materials and we’re pretty interested. This an extension with the G8 network, as far as I understand.
 
 ### Naina Batra:
 Absolutely correct. The G8 task force was disbanded and formed into the GSG so that we could include more country participations. I feel, with the interest level in Taiwan, it would be a great global forum for Taiwan to be a part of.

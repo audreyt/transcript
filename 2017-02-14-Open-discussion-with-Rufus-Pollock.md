@@ -831,7 +831,7 @@ For example, out of every message, we currently only extract time and text. At s
 We want the DDL to be able to grow, and when we grow it we want the API to stay clean, compatible with existing consumers but also versioned in some way.
 
 ### Audrey Tang:
-There’s already users in other government agency who broadcasts push notifications, and we don’t want those services to stop. It would be silly to rebuild that. We want this to continue, but against a clean API from now on which is where an data schema comes in. It’s already communicating over HTTP anyway, so why not structure it?
+There’s already users in other government agency who broadcasts push notifications, and we don’t want those services to stop. It would be silly to rebuild that. We want this to continue, but against a clean API from now on which is where a data schema comes in. It’s already communicating over HTTP anyway, so why not structure it?
 
 ### Audrey Tang:
 What we talk about is we take the DDL here and say, &quot;Every hour get me a data package of everything that happens around EMIC, and then publish it as open data packages,&quot; and then send it to a second system which is called the NCDR system. The NCDR system currently is for disaster prediction and reduction. The R stands for reduction I think.
@@ -890,7 +890,7 @@ If you do quite a bit of ETL, one of your pain points is normally, as they get c
 ### Rufus Pollock:
 We’re using this at the moment. This is very crude in the sense it’s a mini‑ETL language for a pipeline that’s based around tabular data, particularly.
 
-> ( Website : [https://github.com/frictionlessdata/datapackage-pipelines](https://github.com/frictionlessdata/datapackage-pipelines) )
+> ( Website: [https://github.com/frictionlessdata/datapackage-pipelines](https://github.com/frictionlessdata/datapackage-pipelines) )
 
 ### Audrey Tang:
 It’s kind of naive.
@@ -1209,7 +1209,7 @@ The finance section at the World Bank. Not the World Bank main part that bought 
 They said, &quot;OK. We’re opening bidding.&quot; The bidding ended at the end of April. They said, &quot;By the beginning of June, when our contract expires, you need to have migrated all the data to our new system and be compatible with the old API from Socrata.&quot;
 
 ### Rufus Pollock:
-Socrata had that open API. No one else implemented it. Also you had to migrate all the data, comply with all the performance quality \[indecipherable 75:55\] . That’s classic stuff.
+Socrata had that open API. No one else implemented it. Also you had to migrate all the data, comply with all the performance quality \[indecipherable 75:55\]. That’s classic stuff.
 
 ### Rufus Pollock:
 &quot;Oh, yes. The API is open, but you need to be able to stand up, migrate all the data, do all the other stuff, to really have competition.&quot; Remember, the guy who’s losing the business is not going to be super helpful about migrating all this stuff in.

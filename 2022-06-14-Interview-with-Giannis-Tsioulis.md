@@ -148,7 +148,7 @@ Obviously, it holds power, because without such intermediate networks, we cannot
 
 If we find that this platform is locking us in, it's very simple to go back to the decentralized platform called the email. I can email you saying, "Let's go to the other platform," [laughs] and then we're not beholden to the lock-in power.
 
-It's quite obvious that when the power is communication power, it's network-making power, and situated in a Internet work that allows true end-to-end innovation. Then, the power is checked and balanced by its surrounding networks, and can never grow into lock-in power if we concentrate on making sure that the choices are possible.
+It's quite obvious that when the power is communication power, it's network-making power, and situated in an Internet work that allows true end-to-end innovation. Then, the power is checked and balanced by its surrounding networks, and can never grow into lock-in power if we concentrate on making sure that the choices are possible.
 
 ### Giannis Tsioulis:
 Does this apply as well to elected politicians? We have seen people being elected from the people. In fact, on terms when they take over power, they have authoritarian processes and don't work in favor for the many.
@@ -226,7 +226,7 @@ You've worked in Silicon Valley, and I assume you have seen firsthand the corpor
 Does it even matter when all the other countries allow these regulations to happen?
 
 ### Audrey Tang:
-In Taiwan, if you get into a car accident and you test positive for above a certain threshold for alcohol in your blood, then it's mandatory to install a alcohol lock in your car. The next time you drive, you have to prove to the machine that you are not inebriated. I'm sure that many jurisdictions do that.
+In Taiwan, if you get into a car accident and you test positive for above a certain threshold for alcohol in your blood, then it's mandatory to install an alcohol lock in your car. The next time you drive, you have to prove to the machine that you are not inebriated. I'm sure that many jurisdictions do that.
 
 It used to be, that the liquor companies many years ago, are considered too big to fail. There's even constitutional level like prohibition, like a lock down, that people think is the only course towards freedom from alcohol, and so on.
 
@@ -280,13 +280,13 @@ I want you to tell me your personal experience from the transition from the mart
 ### Audrey Tang:
 When I was born, I was born into the martial law. Because both my parents are journalists, they routinely get calls by the state censors, the one party, saying that their writing is out of line and things like that.
 
-In my dinner table when I was very young, like four or five years old, people were debating whether this new party called the Democratic Progressive Party, the DPP, currently the ruling party, is a party or a illegal gathering. [laughs] That was the days.
+In my dinner table when I was very young, like four or five years old, people were debating whether this new party called the Democratic Progressive Party, the DPP, currently the ruling party, is a party or an illegal gathering. [laughs] That was the days.
 
 I learned very early on that we rely on international correspondence, Amnesty International, the international human right movement, and even international journalists in Hong Kong who get what's going on on the ground. Because we're not allowed to publish that, the journalistic practitioners, including my parents, work with international correspondents.
 
 They may publish in Hong Kong or in international media. We can then say it's international media. What would a local government do? It's a check and balance on an international level. Nowadays, of course we're reversing the role vis-à-vis Hong Kong.
 
-The point I'm making is that there's always a international democracy community. People who are even exiles from Taiwan or people who could not do much in Taiwan, but maintains a connection, many time underground connection, with the international community can nevertheless express what's actually going on, speaking truth to power, but sometimes only in a very roundabout way.
+The point I'm making is that there's always an international democracy community. People who are even exiles from Taiwan or people who could not do much in Taiwan, but maintains a connection, many time underground connection, with the international community can nevertheless express what's actually going on, speaking truth to power, but sometimes only in a very roundabout way.
 
 ### Giannis Tsioulis:
 I have two more questions, if you would grant me the time?

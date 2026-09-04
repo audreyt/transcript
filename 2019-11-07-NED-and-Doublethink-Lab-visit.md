@@ -274,7 +274,7 @@ This would not happen had we not developed already browser extensions, the Bayes
 We’re seeing more or less very similar things going on around the disclosure of advertisements, around work with the social sector, third-party fact-checkers, around the opening up to the Workbench that they provide advertisers such as CrowdTangle to also social scientists. I would argue, to everybody else as well in some future, Twitter is going to that direction, Facebook maybe slower, and things like that.
 
 ### Audrey Tang:
-They’re waiting for their judicial branch to be formed, and things like that, oversight board. That is where we are at at the moment. Whenever we show there is a viable alternative, they are actually willing to listen and sign on counter-disinformation package.
+They’re waiting for their judicial branch to be formed, and things like that, oversight board. That is where we are at the moment. Whenever we show there is a viable alternative, they are actually willing to listen and sign on counter-disinformation package.
 
 ### Audrey Tang:
 If the norm is not yet set, and if we dictated something into law, unless there is an existing law that already argues very strongly about it like spreading disinformation about diseases starts spreading. Of course, if we change talking to the public spaces to cause harm to also digital, nobody argues against that.
@@ -351,7 +351,7 @@ Yes. Two things. The first one is I hear you. Whenever I walk on the street, the
 The second part, though, I want to say – maybe Ning has more to contribute – is that we are a GDPR adequacy-seeking, almost finalizing jurisdiction. Our Personal Information Privacy Protection Act or PIPPA is modeled quite closely to the European privacy law prior to GDPR. We are making necessary adjustments according to GDPR.
 
 ### Audrey Tang:
-For us, private data is a beginning of a relationship. The relationship begins with the right to ask for a copy, to update, to delete, to start a accountability relationship with. While it is true that, for example, I’m recording this conversation, I’m required by PIPPA to say what’s the intended use.
+For us, private data is a beginning of a relationship. The relationship begins with the right to ask for a copy, to update, to delete, to start an accountability relationship with. While it is true that, for example, I’m recording this conversation, I’m required by PIPPA to say what’s the intended use.
 
 ### Audrey Tang:
 What would be construed as misuse according to my interpretation, I’m required to ask for your consent before I even start the record button. There is that side of it as well. There is many conversations nowadays around specifically facial recognition. It’s one thing that’s camera that’s low resolution that just measures the height of the water during a flood.
@@ -531,7 +531,7 @@ This is a very good example. This is File Reader Plus. They run a public, open s
 You probably already know this, but I will bring this out anyway, the presidential fact check thing. They run a fact check around the presidential election, which interestingly is a combination of institutional, social, and crowdsourced media where they ask people to type in all the transcripts of the presidential candidates’ utterings in public media.
 
 ### Audrey Tang:
-After they are typed into transcripts, they then turn the attention into tagging, labeling the different parts of the sentence as maybe making a over claim or maybe have no factual basis. This part is also crowd contributed. The point here is that at the end, it is the institutional media that reviews the claims, I think. That is the key word to use.
+After they are typed into transcripts, they then turn the attention into tagging, labeling the different parts of the sentence as maybe making an over claim or maybe have no factual basis. This part is also crowd contributed. The point here is that at the end, it is the institutional media that reviews the claims, I think. That is the key word to use.
 
 ### Audrey Tang:
 It’s the institutional media that finally looks at those crowdsourced reports from…This is the crowd, so large crowd, \[laughs\] and these crowd contributions. Sorry, I was browsing with Firefox Focus which, by default, hides all images to protect my emotional landscape.

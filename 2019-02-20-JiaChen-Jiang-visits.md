@@ -313,7 +313,7 @@ At least off the top of my head, I would think that cultural ideas of what’s i
 Even within a country, with a large enough country like The States, \[laughs\] there are actually various different cultures. I do know that there is programs designed specifically to bring people into uncomfortable zones \[laughs\] and to cross those cultural boundaries.
 
 ### Audrey Tang:
-In Taiwan, I just met with this interesting kind of travel agency that plans travels for people in the US interested in entrepreneurship or in impact generation. They designed a soft landing and programs so that they tour around all the various partners in Taiwan. Basically, they make sure that they visit all these people and then connect their missions, but translated into a Asian perspective.
+In Taiwan, I just met with this interesting kind of travel agency that plans travels for people in the US interested in entrepreneurship or in impact generation. They designed a soft landing and programs so that they tour around all the various partners in Taiwan. Basically, they make sure that they visit all these people and then connect their missions, but translated into an Asian perspective.
 
 ### Audrey Tang:
 They invite people all over Europe, the US, and so on, and ask them to check their notions at the door, \[laughs\] but proceed to find their counterparts, translate their ideas locally, and find them local innovators that can share their vision, but also make it in a way that is more convenient for the local culture norm to accept.
@@ -325,7 +325,7 @@ There are bridge-makers like this all over the civic tech world. This is just on
 If any more of them comes to mind, definitely send them to me because I want to know how they do it. I think, especially in the US, there’s a whole lot of, &quot;Let’s bridge the gap. Let’s bring the two sides together.&quot; It’s always interesting to see what ways they succeed and, more often than not, what ways they fail.
 
 ### Audrey Tang:
-Certainly. Actually, all their partners all have their own partners. Impact Hub is a international network anyway. They started as a UN thing, but now they’re literally everywhere. Each network has their strength and weakness, their methodologies, and so on.
+Certainly. Actually, all their partners all have their own partners. Impact Hub is an international network anyway. They started as a UN thing, but now they’re literally everywhere. Each network has their strength and weakness, their methodologies, and so on.
 
 ### Audrey Tang:
 I think what’s important is that they are open about it. Some of them, they organize the Nights of Failure or things like that and ask these people to honestly do a postmortem of a project, why it doesn’t work, and how the ecosystem can help each other so that it works more.

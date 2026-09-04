@@ -265,7 +265,7 @@ While they do that, they also share the carbon footprint, the footprint on the e
 Finally, all those innovations that I just mentioned, we co-develop with stakeholders. Nobody just monopolize this. For the foreign people, for example, the Presidential Hackathon team, there’s a water savior team that saves water. Worked with New Zealand for three more months after three months of Presidential Hackathon and they co-created their own local AI to do that.
 
 ### Audrey Tang:
-We are not a off-the-shelf, buy it or leave it, charge you a lot of it, patent all of it kind of innovation. This is co-created innovation. Even if the deployment fails or anything like that, there will be no problem. We just publish the post mortem for everybody else to learn. That’s the spirit of open innovation. That is the same in the CI Hackathon, in the Presidential Hackathon.
+We are not an off-the-shelf, buy it or leave it, charge you a lot of it, patent all of it kind of innovation. This is co-created innovation. Even if the deployment fails or anything like that, there will be no problem. We just publish the post mortem for everybody else to learn. That’s the spirit of open innovation. That is the same in the CI Hackathon, in the Presidential Hackathon.
 
 ### Caroline Laurent:
 It’s the same spirit rules.

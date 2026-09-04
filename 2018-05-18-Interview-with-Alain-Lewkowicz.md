@@ -196,10 +196,10 @@ We are witnessing a sea change in how we admit people. Previously, there was thi
 First, our foreign talent law and other immigration law is changing, so that you can stay for just three years here and keep your original French citizenship, and then still join Taiwan in a kind of dual citizenship. 20 years ago, it’s unimaginable, but today it is the norm.
 
 ### Audrey Tang:
-We’re trying to get more people who are also Taiwanese, instead of exclusively Taiwanese. If they identify not as a ethnic or as a race, but rather as a hobby, like, &quot;I’m a Taiwanese hacker,&quot; or not. As I mentioned, the international cultures, they used to be subcultures 20 years ago.
+We’re trying to get more people who are also Taiwanese, instead of exclusively Taiwanese. If they identify not as an ethnic or as a race, but rather as a hobby, like, &quot;I’m a Taiwanese hacker,&quot; or not. As I mentioned, the international cultures, they used to be subcultures 20 years ago.
 
 ### Audrey Tang:
-Now if you ask people, maybe they really identify more with the kind of social cause or the kind of mission they want to see in the world. Maybe they say, &quot;I’m a environmental activist,&quot; but that role is not dependent on being a Taiwanese or not. Maybe they will say, &quot;I’m also a Taiwanese,&quot; but that’s not their primary identity.
+Now if you ask people, maybe they really identify more with the kind of social cause or the kind of mission they want to see in the world. Maybe they say, &quot;I’m an environmental activist,&quot; but that role is not dependent on being a Taiwanese or not. Maybe they will say, &quot;I’m also a Taiwanese,&quot; but that’s not their primary identity.
 
 ### Audrey Tang:
 What we’re trying to do is that those value systems that people bring to Taiwan, being a very open society, we try to have a democratic governance model that brings everybody’s voice together into something larger.
@@ -208,7 +208,7 @@ What we’re trying to do is that those value systems that people bring to Taiwa
 That is, people can agree on the common values and find some solutions that work for all those very different concerns, but it is not because they’re Taiwanese. \[laughs\] It is because they’re willing to participate in Taiwan’s democratic governance systems.
 
 ### Audrey Tang:
-Maybe after a few years of participating, they will gradually start identifying as being Taiwanese, but as a byproduct. It is not a entry barrier. I think it is a very soft thing that people, just through osmosis, start to see the values of Taiwan, instead of one single value system.
+Maybe after a few years of participating, they will gradually start identifying as being Taiwanese, but as a byproduct. It is not an entry barrier. I think it is a very soft thing that people, just through osmosis, start to see the values of Taiwan, instead of one single value system.
 
 ### Audrey Tang:
 20 years ago, it’s all about the values fighting to be the dominant value system, but now we’re definitely a plurality. Nobody can dominate the discourse. It is through this plurality that we started to redefine the platform that is Taiwan and how those values cohere and decohere together, and eventually becomes an assemblage that people can gradually identify with.

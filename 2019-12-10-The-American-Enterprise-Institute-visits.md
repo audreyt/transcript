@@ -118,7 +118,7 @@ My approach to dealing with this issue is to start with a hypothesis. The hypoth
 Those methodologies include traditional United Front activities of reaching out to various constituencies that are mostly more on the fringe elements of society. You can find that it’s generally harder for Beijing to penetrate mainstream of those societies and public opinions. Japan is a prime case of that.
 
 ### Russell Hsiao:
-Despite a underreported volume of activities that are happening in Japan, for the most part, they’re still active in reaching out to the fringe groups in that society, which reflect an inability, at this point right now, to influence public opinion.
+Despite an underreported volume of activities that are happening in Japan, for the most part, they’re still active in reaching out to the fringe groups in that society, which reflect an inability, at this point right now, to influence public opinion.
 
 ### Russell Hsiao:
 Still, it’s quite high, the negative opinion in Japan towards China. So much so that General Secretary, Xi Jinping, recently told Japan that Japan needs to do more to improve the perceptions of Japanese people towards China, despite the fact, of course, much of that negative public opinion stems from what China \[laughs\] is doing in the East China Sea in terms of a lot of their behavior.
@@ -512,7 +512,7 @@ But because it’s radically inclusive, so we can say with a good conscience tha
 On top of that, I would say the main metric is unique visitors to our national participation platform, which is join.gov.tw, unlike in the US and other jurisdictions where petitions is one website, like We the People, regulatory pre-announcement, and other, like regulation.gov.
 
 ### Audrey Tang:
-Participatory budget yet another, probably at the state and township level, and the National Auditing Office on yet another. I’m not sure there is a equivalent in the US, although with the open government plan, they’re setting up one. In any case, all these full lifecycle of policymaking are often distributed in very different agencies and in very different engagement patterns, some institutionalized, some rather ad hoc.
+Participatory budget yet another, probably at the state and township level, and the National Auditing Office on yet another. I’m not sure there is an equivalent in the US, although with the open government plan, they’re setting up one. In any case, all these full lifecycle of policymaking are often distributed in very different agencies and in very different engagement patterns, some institutionalized, some rather ad hoc.
 
 ### Audrey Tang:
 In Taiwan, everything is institutionalized and in the same website called join.gov.tw which has 10 million unique visitors out of 23 million residents, a large portion. That’s the second quantitative measure that I keep a close eye on. On top of it, I have two more details if you’re interested.
@@ -643,7 +643,7 @@ You have a multilateral core, but a part of it, a minilateral part, is willing t
 The Internet Governance Forum is a perfect example, where you can see many other forums are now taking this multi-stakeholder plus multilateral co-governance approach. While you correctly point out that Taiwan do not get a seat here, Taiwan gets plenty of seats here.
 
 ### Audrey Tang:
-When we say “Taiwan Can Help”, we’re saying that people who we have helped with and build a mutual helping relationship in this part, are all free to just carry a iPad or a robot to a UN meeting, and I’ll just attach to them. I’ve done this many times. I think the PRC offered token resistance on the first live stream try…
+When we say “Taiwan Can Help”, we’re saying that people who we have helped with and build a mutual helping relationship in this part, are all free to just carry an iPad or a robot to a UN meeting, and I’ll just attach to them. I’ve done this many times. I think the PRC offered token resistance on the first live stream try…
 
 ### Mark Stokes:
 How do you do this?
@@ -655,7 +655,7 @@ How do you do this?
 How do you do that?
 
 ### Audrey Tang:
-Very easily. Say there is a walking robot thing, and they just brought it to the UN Geneva building because it’s just a equipment for videoconferencing, they don’t check for passport for robots, obviously. When it’s my turn to speak, they just switch it on, and I start speaking here from Taipei.
+Very easily. Say there is a walking robot thing, and they just brought it to the UN Geneva building because it’s just an equipment for videoconferencing, they don’t check for passport for robots, obviously. When it’s my turn to speak, they just switch it on, and I start speaking here from Taipei.
 
 ### Audrey Tang:
 Literally, they’re watching a movie. Even though it’s recorded a second ago, they’re watching a movie, and whatever I said is on the record, and attributed to me.

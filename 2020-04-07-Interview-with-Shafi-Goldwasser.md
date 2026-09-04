@@ -10,7 +10,7 @@ The situation is pretty calm. People feel protected. We’re like this island wh
 The social distancing is advisory. There’s no penalty yet, but people are following the social distancing ideas very diligently. It is mostly just about putting on a mask if you happen to be indoors, and around one meter from people. It’s very mild. The tourism industry, of course, is taking a hit, as is air travel.
 
 ### Audrey Tang:
-Otherwise, everyday industries such as restaurants operate normally. Movies are open but reconfigured their seatings so that it’s below 100 people each in a audience. Life is normal.
+Otherwise, everyday industries such as restaurants operate normally. Movies are open but reconfigured their seatings so that it’s below 100 people each in an audience. Life is normal.
 
 ### Shafi Goldwasser:
 Early on, I guess, my expectation would have been that you would have been the second-hard hit after China.
@@ -37,7 +37,7 @@ That is in our Privacy Act, which is GDPR compatible-ish. We’re getting adequa
 It specifically said that you can only use the collected information such as the whereabouts of the phone of the telecom companies, if it protects other people, the general public, from harm, and/or it protects the person themself from harm.
 
 ### Audrey Tang:
-In the Constitutional Court ruling, if barricading people so that they cannot leave a institution, a building, is ruled constitutional, then certainly getting this out-of-purpose signal data from the telecom providers is constitutional, because it’s used only for the purpose of digital fence.
+In the Constitutional Court ruling, if barricading people so that they cannot leave an institution, a building, is ruled constitutional, then certainly getting this out-of-purpose signal data from the telecom providers is constitutional, because it’s used only for the purpose of digital fence.
 
 ### Audrey Tang:
 Digital fence in its worst form is exactly the same as a barricade. It’s almost always better than the physical barricades, from the constitutional human right viewpoint. The legality of this is not disputed this time.

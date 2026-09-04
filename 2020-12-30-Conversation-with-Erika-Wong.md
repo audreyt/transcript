@@ -270,7 +270,7 @@ Basically, I call this the socialist core is like a GPU, and the other stuff are
 No, it’s very, very different. Even living in Europe and having a government and support to artists, it’s quite different because Taiwan is so much smaller. That sense of the handicraft and having the museums and all that, it’s the preservation from what I have seen. It’s very different like psych out.
 
 ### Erika Wong:
-I love Taiwanese like \[Mandarin\] . I love them. I think it’s because I grew up with them. I grew up in Vancouver. At the time in the ‘90s, basically, though the immigrants were Taiwanese and people from Hong Kong.
+I love Taiwanese like \[Mandarin\]. I love them. I think it’s because I grew up with them. I grew up in Vancouver. At the time in the ‘90s, basically, though the immigrants were Taiwanese and people from Hong Kong.
 
 ### Erika Wong:
 I basically grew up with a lot of Taiwanese kids, where we all sang all the Jay Chou songs. We went all to karaoke. \[laughs\] We all have the \[Mandarin\] and we have the \[Mandarin\] and all that.
@@ -475,7 +475,7 @@ There’s just so much…It’s like every gallery they’re showing at least fi
 It becomes paralyzing because it’s not something like what you’ve just talked about in the new museum, having this experience where you can virtually go into the Matterhorn and create something. You’re literally going into the centralized, “fair” to go and discover artists to go on by their art except that journey is in…
 
 ### Erika Wong:
-For me, as somebody who’s in her 30s, I’m just like, “ \[cringes\] ,” I said behind the screen a lot. I can’t do more of this unless this is physically my job.
+For me, as somebody who’s in her 30s, I’m just like, “ \[cringes\],” I said behind the screen a lot. I can’t do more of this unless this is physically my job.
 
 ### Erika Wong:
 Having these social innovations and using digital to a larger extent to be able to go and bring people together, that, for me, is very exciting especially as we’re trying to go have a larger conversation. Then, let other people know the types of work that you’re doing.

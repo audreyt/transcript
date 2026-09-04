@@ -162,7 +162,7 @@ Smart medical, I’ll let Miranda talk about smart medical.
 We still have engineering systems…
 
 ### Tai-Yi Huang:
-Oh, yeah. One thing we’re also very proud of, we use an world-class system to deliver our service. Every software deliver, need to go through all the six cycles to review the process co-management, and PII protection.
+Oh, yeah. One thing we’re also very proud of, we use a world-class system to deliver our service. Every software deliver, need to go through all the six cycles to review the process co-management, and PII protection.
 
 ### Tai-Yi Huang:
 Then we’re a 24/7 service stage, but we’re going to show you some results.
@@ -556,7 +556,7 @@ I’m not writing any of your brainstorm ideas off, but mostly, we’re seeing n
 People who don’t have a mental preparation, who don’t have a mobilization capability. The solution set looks very different. For example, one of the tools that one of my friends is working on is this one. I hope this loads.
 
 ### Audrey Tang:
-Like this is super, super, super simple user experience. It assumes that people knows nothing. Then it gradually guides them through a ask the science anything chat bot that eventually gets people into the public health literacy that we take for granted.
+Like this is super, super, super simple user experience. It assumes that people knows nothing. Then it gradually guides them through an ask the science anything chat bot that eventually gets people into the public health literacy that we take for granted.
 
 ### Audrey Tang:
 They’re still doing 101, but they use all sorts of chat bots and whatever, and in various languages, to do that. It’s multilingual. It actually also use AI, but predicting the questions and things like that.
@@ -580,7 +580,7 @@ That’s the main call of help we’re getting, but Taiwan doesn’t have that p
 I see. Since Taiwan is far more advanced than the rest of the whole world…
 
 ### Audrey Tang:
-Yeah, even in terms of mental preparation because we have a way of mobilizing against chaos or in Mandarin \[Mandarin\] . It’s something that means a lot to us. It means nothing to other countries.
+Yeah, even in terms of mental preparation because we have a way of mobilizing against chaos or in Mandarin \[Mandarin\]. It’s something that means a lot to us. It means nothing to other countries.
 
 ### Audrey Tang:
 It’s really good to solve a Taiwan problem, but it then also means that it’s unique to Taiwan, the solution. Or we can solve it for the world, but that means that it’s less applicable when Taiwan goes out of control.

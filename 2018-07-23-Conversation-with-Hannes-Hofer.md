@@ -118,7 +118,7 @@ Whereas before, it came here, it was very much cherry-picked, so there was a doz
 In the first, it was cherry picked, and now what it learned from your group is that vTaiwan is outside of the government, and so this vTaiwan, the citizens pick the topics?
 
 ### Audrey Tang:
-Yes, but they have to find a agency willing to risk...
+Yes, but they have to find an agency willing to risk...
 
 ### Hannes Hofer:
 They have to find a...
@@ -130,10 +130,10 @@ That’s kind of our office’s job.
 It’s they have to find an agency, or is it that vTaiwan, is it their job to support, and even if they don’t find an agency, the say, &quot;Well, we don’t find an agency, but we let everybody know it.&quot;
 
 ### Audrey Tang:
-That’s right. There’s a movement part in vTaiwan, a mobilization part, where if you don’t find a agency willing to discuss it, at least here, we can bootstrap the conversation so that it reaches, for example, a e-petition threshold, which is 5,000 people.
+That’s right. There’s a movement part in vTaiwan, a mobilization part, where if you don’t find an agency willing to discuss it, at least here, we can bootstrap the conversation so that it reaches, for example, a e-petition threshold, which is 5,000 people.
 
 ### Audrey Tang:
-Once you reach 5,000 people, then by regulation, a agency has to respond, no matter if they want it or not. Of course, when it reaches like 200,000 people, then it’s a referendum, whether the legislator want one or not.
+Once you reach 5,000 people, then by regulation, an agency has to respond, no matter if they want it or not. Of course, when it reaches like 200,000 people, then it’s a referendum, whether the legislator want one or not.
 
 ### Hannes Hofer:
 One question. If that system doesn’t start with the government as a backing, but it would start with, let’s say, a city or would start with...
@@ -456,7 +456,7 @@ That’s one of the technical challenges that we subsequently solved for our sub
 Yes, I think something like pol.is would have helped during the discussion, but it’s not structurally the determinant. It will perhaps make is easier for the wiser suggestions to float to the top faster.
 
 ### Audrey Tang:
-Essentially the National Pension Reform Board used human power \[laughs\] to manually go through any suggestions anyway, but that’s a lot of work, so I would say pol.is or something like pol.is would help as a work/labor reducer, but with a structure of a ongoing panel, plus public hearings, plus online a real-time Q&amp;A.
+Essentially the National Pension Reform Board used human power \[laughs\] to manually go through any suggestions anyway, but that’s a lot of work, so I would say pol.is or something like pol.is would help as a work/labor reducer, but with a structure of an ongoing panel, plus public hearings, plus online a real-time Q&amp;A.
 
 ### Audrey Tang:
 There’s the time-saving part of it, but I don’t think it will qualitatively affect the result too much.
@@ -468,7 +468,7 @@ When I travel, I talk to people, and talk with them about these political change
 I love this. I see that the world is somehow growing together. What about sharing solutions? We all try to come up with our own solutions. Do you have it in your mind to share and more promote your solutions?
 
 ### Audrey Tang:
-Yes. There is a international network called CrowdLaw. The website’s just crowd.law.
+Yes. There is an international network called CrowdLaw. The website’s just crowd.law.
 
 ### Audrey Tang:
 That’s one of the primary venues where we’re trying to share not just our vTaiwan paper or our participation of the sort of configuration that have a quantitative and qualitative comparison with every other similar efforts that’s ever been tried in other national levels for collaborative or collective policy making.
@@ -712,7 +712,7 @@ Yeah, double diamond, yes, to anchor here to endeavor, and I think it’s very u
 I see its being actionable, meaning that you can do a double diamond in a very crude way just by looking at a brochure tomorrow, so it’s actionable.
 
 ### Audrey Tang:
-It’s connected, because when people do it, they will inevitably find that if they don’t fully understand the application, they will seek help, and that creates a ecosystem for consultants and professional designers.
+It’s connected, because when people do it, they will inevitably find that if they don’t fully understand the application, they will seek help, and that creates an ecosystem for consultants and professional designers.
 
 ### Audrey Tang:
 Finally, it’s extensible, so people who want to take it into policy design, or people who want to take it into service design, and so on, they inevitably extend the original model.
@@ -876,7 +876,7 @@ Smoking, as a topic, is very controversial. At the moment, we have a very big di
 Obviously, the others, they’re saying, &quot;The government should take care of that and should ban it.&quot;
 
 ### Audrey Tang:
-Because there’s a externality for other people.
+Because there’s an externality for other people.
 
 ### Hannes Hofer:
 Yes. Did you have this kind of discussion also discussed with participation tools and experiences here in Taiwan?

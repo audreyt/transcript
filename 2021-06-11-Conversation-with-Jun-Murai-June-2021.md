@@ -91,7 +91,7 @@ We found crowd-sourced agenda setting could be really, really useful. For elderl
 
 This large call center operation is actually behind a lot of our digital planning to make sure that the elderly people who have seen on the news of a new system, their concerns are answered from day one. I have a grandma who is 88 years old, and I run those new digital flows by her and her young friends, 77 years olds.
 
-If they are happy with the flow, they tell me. If they are not happy, they tell me, also. This is important because we bring digital to elderly people. We're not asking elderly people to come to technology. Elderly people are also digital. It's just they use it in an unique way.
+If they are happy with the flow, they tell me. If they are not happy, they tell me, also. This is important because we bring digital to elderly people. We're not asking elderly people to come to technology. Elderly people are also digital. It's just they use it in a unique way.
 
 For example, the SMS based check-in system, they say they don't want to scan a QR code. They don't know how to use the scanner. They don't want to install an app. We have to work with whatever apps that's already on their phone. That's how the SMS design came about.
 

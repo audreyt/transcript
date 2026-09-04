@@ -34,7 +34,7 @@ The 2014 Sunflower Movement, there’s basically a vacancy in the parliament whe
 Back then there was this occupied parliamentary site, but there was also three different streets occupied respectively by the pro‑independence people, by the left, the labor union‑ish people, by the green, environmental, ecologist people, and also human right activists, and so on. There was like 20 different NGOs, all occupying different sites here.
 
 ### Audrey Tang:
-My role then was working with g0v people as one of the hundreds of civic hackers, meaning that we built the intranet, the network lines that connects these sites together. Then we also built a extranet, that is to say, the g0v today website that makes sure that whatever is being deliberated on any of those sites gets transcribed, and broadcasted, and live‑streamed so that the facts spreads faster than rumors.
+My role then was working with g0v people as one of the hundreds of civic hackers, meaning that we built the intranet, the network lines that connects these sites together. Then we also built an extranet, that is to say, the g0v today website that makes sure that whatever is being deliberated on any of those sites gets transcribed, and broadcasted, and live‑streamed so that the facts spreads faster than rumors.
 
 ### Audrey Tang:
 We also set up projectors, so that on the external site, on the street, people can see with their own eyes what’s happening in the occupied place. Even though there’s police between these walls, it’s as if it’s completely transparent because it provides a view into the parliament to make sure that there’s no rumors and there’s no adversarial movements.
@@ -64,7 +64,7 @@ That is a very good question. The joint website currently frequented by millions
 Meaning that for people who are more established, people who are already heads of some association or something, there are actually, of course, other channels for them to engage in politics. To work with MPs, to work with media, and so on, to set their own agenda.
 
 ### Audrey Tang:
-For people who are younger than me, they often don’t have access to this kind of channel, or at least not a agenda‑setting power level access. For them, this kind of e‑petition, e‑consultation, and so on are actually much more viable than the MPs or the media, which they have very little power to set the agenda of.
+For people who are younger than me, they often don’t have access to this kind of channel, or at least not an agenda‑setting power level access. For them, this kind of e‑petition, e‑consultation, and so on are actually much more viable than the MPs or the media, which they have very little power to set the agenda of.
 
 ### Audrey Tang:
 For them, this is a very concrete buying power where they set this agenda. We do discuss it every Friday, and then by the end of Friday we publish all the transcripts, often also live‑streamed, and then into the public for the public to see.
@@ -91,7 +91,7 @@ The very first case that we processed in this new model is how to make civil ser
 The first few cases, because the agenda is being set by what we call participation officers, or POs, there is one or more PO in every single ministry. Of the 32 ministries, there’s about 40‑something POs, and they vote the things that we process for this collaboration of weekly petition cases.
 
 ### Audrey Tang:
-Of course, them being stakeholders, the first two cases are all about civil servant rights, whether it’s legal for civil servant to go to strike \[laughs\] , and so on. We did have some very good results. For example, they also said that we need a safe space to voice our concerns on public policy without being attributed, blamed afterwards, and so on.
+Of course, them being stakeholders, the first two cases are all about civil servant rights, whether it’s legal for civil servant to go to strike \[laughs\], and so on. We did have some very good results. For example, they also said that we need a safe space to voice our concerns on public policy without being attributed, blamed afterwards, and so on.
 
 ### Audrey Tang:
 In addition to join there is now, being constructed, a new platform called internal join, which is what’s suggested by the POs. The internal join meaning that only public servants get to post there and it has a much lower threshold. The external join needs 5,000 people. The internal join only needs, maybe, 300 people.
@@ -163,7 +163,7 @@ This subject must be of some kind of worrying for you, because you want to open 
 Certainly. All I know is whether people come to the platform that we build or not. All I know is whether they approach us with extreme suspicion or with some sort of willingness to discuss.
 
 ### Audrey Tang:
-This I know, but whether there is some manipulation, or whatever, forces that makes this happen, I can make educated guesses, but I don’t really have any evidence or proof of what’s happening. I think I just deal with it on a as‑is basis.
+This I know, but whether there is some manipulation, or whatever, forces that makes this happen, I can make educated guesses, but I don’t really have any evidence or proof of what’s happening. I think I just deal with it on an as‑is basis.
 
 ### Audrey Tang:
 I also want to say that this technique of what we call ICT‑enabled, scalable listening is not actually threatening to any political system. Although it does work, as we saw, with representative democracy, it works equally well with centralized democracy or non‑democracies because technology, by itself, is neutral.
@@ -250,7 +250,7 @@ Really? Because when I participate in the Personal Democracy Forum just a few we
 We did see that there’s arrangements of people who of the different sides of the political spectrum, and so on. They arranged a retreat, and listened to each other, and reported what they learned from each other.
 
 ### Audrey Tang:
-There is a lot of pro‑something, with something, and I don’t hear that much against something anymore. It seems that the initial reaction to the election has morphed, at least for the people participating in the PDF, into a organizing force for people who care deeper.
+There is a lot of pro‑something, with something, and I don’t hear that much against something anymore. It seems that the initial reaction to the election has morphed, at least for the people participating in the PDF, into an organizing force for people who care deeper.
 
 ### Audrey Tang:
 I remember one of the senators ‑‑ the New Jersey senator, I think ‑‑ who said, &quot;You know, people think this is extraordinary time, but for black people’s rights, it’s actually just ordinary time.&quot; Their cause wasn’t surfaced as much during Obama, but it is actually one of those very structural issues that needs collective awareness.
@@ -274,7 +274,7 @@ The sampling bias I referred to is because it’s called a Personal Democracy Fo
 Another question on what is not, actually, related to digital. What is your position on same‑sex marriage in Taiwan? What significance would Taiwan have if the country becomes the first Asian country to admit same‑sex marriage?
 
 ### Audrey Tang:
-Well, it is already \[laughs\] , constitutionally. The Supreme Court has ruled that the Constitution must protect marriage equality, and that’s a done deal. It’s not like we’re waiting for two years, no.
+Well, it is already \[laughs\], constitutionally. The Supreme Court has ruled that the Constitution must protect marriage equality, and that’s a done deal. It’s not like we’re waiting for two years, no.
 
 ### Audrey Tang:
 The Secretary General is meeting with the Ministry of Justice, the Ministry of Interior every week to look at every line in the civil code that pertains to marriage equality and declare whether this applies, whether this doesn’t apply. For example, there is a very obscure clause called divorce by impotence, which doesn’t apply. \[laughs\]
@@ -289,7 +289,7 @@ This is very good because it shows that this is something that both sides, or al
 I don’t care about marriage, so I don’t say something about it, but people who care about marriage, like the divorce rate, which is sky high in Taiwan, they do want to hold to those family values. The people who are into marriage equality also uphold marriage as intimate relationship that need to be institutionalized, and so on.
 
 ### Audrey Tang:
-They actually have more in common with each other than with me. It is good, because this weekly review meeting as part of the media communication cycle actually says marriage is not some magic thing. It is, legally speaking, hundreds, if not thousands, of privileges and obligations .
+They actually have more in common with each other than with me. It is good, because this weekly review meeting as part of the media communication cycle actually says marriage is not some magic thing. It is, legally speaking, hundreds, if not thousands, of privileges and obligations.
 
 ### Audrey Tang:
 Then, by reviewing it week after week, the society is converging, rather than diverging. This also echoes what President Tsai Ing‑wen said.
@@ -313,7 +313,7 @@ Do you think that Taiwan innovation in general and this type of government innov
 As a conservative anarchist, I officially don’t think that diplomacy is exclusive among states. I maintain that state is only a useful illusion that serves the people. I would like people to eventually wake up from the illusion. Maybe not during my lifetime, but sometime in the future.
 
 ### Audrey Tang:
-As a anarchist, I think it is, of course, very worthy for people to try to participate in multilateral or bilateral talks because it does affects people’s lives and so on. My focus throughout my life was always on multi‑state coder approaches instead of multilateral approaches.
+As an anarchist, I think it is, of course, very worthy for people to try to participate in multilateral or bilateral talks because it does affects people’s lives and so on. My focus throughout my life was always on multi‑state coder approaches instead of multilateral approaches.
 
 ### Audrey Tang:
 To me, everyone who’s affected by climate change ‑‑ the Pacific Islanders, islanders anywhere who see their habitats destroyed by extreme weather and so on ‑‑ they have more in common than so‑called the nation states with nearby whatever countries and whatever.
@@ -373,7 +373,7 @@ Hello, I’m Ximena from Mexico. Is it important of a country to have a digital 
 Right. It is a great question. I’m a minister without portfolio, meaning that I’m a minister without ministry. Digital is by definition a very cross‑ministry business.
 
 ### Audrey Tang:
-I think this is also kind of an ephemeral position because maybe 20 years from now, all the ministers will be digital. Maybe we’ll reserve a analog minister for the people who are not digital yet.
+I think this is also kind of an ephemeral position because maybe 20 years from now, all the ministers will be digital. Maybe we’ll reserve an analog minister for the people who are not digital yet.
 
 > (laughter)
 
@@ -396,7 +396,7 @@ By showing people that it actually reduces costs, both in time and also in peopl
 So we turn the unknown into something that you can see on a smaller scale. It’s up to each level of government, to each ministry to see whether they want to implement these procedures and introduce those digital tools. How much to introduce is all up to them.
 
 ### Audrey Tang:
-As a anarchist, of course, I don’t give commands, but I just show those examples and people take whatever they like. They seem to like it because by showing it works, it’s probably certainly they’re all smart people. They try to pick the things that they need, that they want, and improve their quality of life, which is great.
+As an anarchist, of course, I don’t give commands, but I just show those examples and people take whatever they like. They seem to like it because by showing it works, it’s probably certainly they’re all smart people. They try to pick the things that they need, that they want, and improve their quality of life, which is great.
 
 ### Audrey Tang:
 I think having someone who demonstrate in a demo sense that digital tools does improve the quality of life, and in the future not just with VR or AR, but also with the basis of machine learning and so on as part of the public service infrastructure in a safe, repetitive way.
@@ -435,7 +435,7 @@ One of the very effective ways in practice is just by listening to each other, e
 I’m optimistic in the humanity’s potential to deal with any outbreaks, virtual or real, of virus. I also trust the people researching this kind of thing because before joining the cabinet, I was also working with Silicon Valley companies, developing social media for the enterprise setting for eight years.
 
 ### Audrey Tang:
-For me, I don’t look at Facebook posts and get angry or whatever. For me it’s just the output of a algorithm that I also contributed to design. What we didn’t think of, back in 2008, was that we all designed to make people become aware of the ambient knowledge, the ambient consciousness, presuming that there’s just one app corresponding to this.
+For me, I don’t look at Facebook posts and get angry or whatever. For me it’s just the output of an algorithm that I also contributed to design. What we didn’t think of, back in 2008, was that we all designed to make people become aware of the ambient knowledge, the ambient consciousness, presuming that there’s just one app corresponding to this.
 
 ### Audrey Tang:
 What we didn’t anticipate was that if you installed more than three of those social media tools is a cocktail of effect that people don’t have the slice of time, the attention to pay full attention to anything anymore. The emotion is much more contagious in this setting. We didn’t anticipate that.
@@ -519,7 +519,7 @@ It does seem like a very important thing as I don’t think people don’t reall
 What are some of the key elements that you’re trying to convey?
 
 ### Audrey Tang:
-Right. I was trying to look at a English slide for this, but it doesn’t really have one. So I’m sorry, but you’ll have to work with my poor translation. \[laughs\] I’ll try to translate it. Just a second. This may work.
+Right. I was trying to look at an English slide for this, but it doesn’t really have one. So I’m sorry, but you’ll have to work with my poor translation. \[laughs\] I’ll try to translate it. Just a second. This may work.
 
 > (off‑mic comments)
 
@@ -559,7 +559,7 @@ The autonomy part, has, this is the body‑mind balance. This is system thinking
 These are the things that, across the K‑12, we need to redesign all the specific class curriculum with these autonomy in mind with the very start.
 
 ### Audrey Tang:
-It also says that instead of teaching the children music, or handicraft, or whatever as classes, it is now in one large class in the first two years in school, called \[non‑English speech\] , or living, basically.
+It also says that instead of teaching the children music, or handicraft, or whatever as classes, it is now in one large class in the first two years in school, called \[non‑English speech\], or living, basically.
 
 ### Audrey Tang:
 It’s not about teachers teaching anymore. It’s about the teachers spending time with children. This is really not that revolutionary in, for example, Finland, or Estonia, or whatever, but this is unique in Asia, which are very much still in the indoctrination part of education.
@@ -657,7 +657,7 @@ It is my thought that if together we can listen to each other as each technology
 In this humanistic conservation, kind of conservative way is also why I do want to work as a public servant with the public, to make sure that the civilization as we know it still continues. I do this not out of some public duty or whatever, but because it’s fun.
 
 ### Audrey Tang:
-It is very enjoyable to work on this topic, which was one of my main research subject anyway, so it is good that the Taiwan people pay me to work full‑time with the government. \[laughs\] I will continue to do this same work regardless of whether I hold a official post or not. Any other questions or thoughts?
+It is very enjoyable to work on this topic, which was one of my main research subject anyway, so it is good that the Taiwan people pay me to work full‑time with the government. \[laughs\] I will continue to do this same work regardless of whether I hold an official post or not. Any other questions or thoughts?
 
 ### Audience Member:
 Can you give your email?

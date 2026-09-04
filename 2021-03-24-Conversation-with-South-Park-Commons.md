@@ -512,7 +512,7 @@ The main metric is to transform the public service to the citizens and the secon
 One of our colleagues is doing a PhD thesis on measuring this trust from the career public services to the citizens.
 
 ### Aviv Ovadya:
-Right, that’s a interesting insight, and I really like asking about what are your success criteria? I think this is a really good example of the power of that. I want to move this at least partially to open Q&#x26;A. I want to also ensure that my computer doesn’t randomly die. Kathy or Christina, if you can take a question from the audience.
+Right, that’s an interesting insight, and I really like asking about what are your success criteria? I think this is a really good example of the power of that. I want to move this at least partially to open Q&#x26;A. I want to also ensure that my computer doesn’t randomly die. Kathy or Christina, if you can take a question from the audience.
 
 ### Audrey Tang:
 We are having a side chat anyway, but we’re \[laughs\] less inclined to type, feel free to unmute yourself. There should be a slogan, unmute yourself.
@@ -710,7 +710,7 @@ This is massively streamlined and simplified since last Christmas. Feel free to 
 I’m of course on the WhyID signatory list. WhyID is a great checklist from the human right groups on how to assess the ID policies to make sure that it doesn’t, unfortunately more often than not, exclude people who didn’t have a voice before, and because of ID policy that is centralized, are ended up with even less voice than what they have.
 
 ### Audrey Tang:
-Basically, it could be a inclusive tool but only with very deliberate design. The decentralized ID stuff, the intersectional ID stuff, and things like that, these are really good ways to make sure that we’re freed from the more rigid PKI infrastructure informed ID imaginations. I highly recommend thinking about those.
+Basically, it could be an inclusive tool but only with very deliberate design. The decentralized ID stuff, the intersectional ID stuff, and things like that, these are really good ways to make sure that we’re freed from the more rigid PKI infrastructure informed ID imaginations. I highly recommend thinking about those.
 
 ### Audrey Tang:
 In Taiwan, we also want to make sure that the IDs are not cross purposes. For example, we do have universal IC card based ID for our universal health care. It’s only used for public services and only when the public service institutions pre register with the national health care infrastructure and so on.

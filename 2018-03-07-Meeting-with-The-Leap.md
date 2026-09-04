@@ -209,7 +209,7 @@ What kind of students or learners are you working with your educational work?
 We have The Leap project. This is with Sylvie, me and friends. It’s a growing community. We are both half Taiwanese, and I think we always have this complicated story with Taiwan. We just really wanted to be Taiwanese. \[laughs\] I was like we’re fraud. My Chinese is crap. \[laughs\]
 
 ### Ninon Godefroy:
-Her performance last week was about this, actually, where she only spoke in Chinese \[non-English speech\] . We can communicate, but then when we only speak Chinese, we realize so much frustration \[non-English speech\] we can’t get across.
+Her performance last week was about this, actually, where she only spoke in Chinese \[non-English speech\]. We can communicate, but then when we only speak Chinese, we realize so much frustration \[non-English speech\] we can’t get across.
 
 ### Ninon Godefroy:
 We do really care about education, like I study educational policy and she’s a Steiner educator. Now, in Taiwan, we’re doing this thing called the Leap, which is for 16-25. We focus on young Taiwanese adults, soon to be full-on citizens.
@@ -260,13 +260,13 @@ Engaging people with the trust of the tool or society, and for us, the importanc
 I think Ninon and I, I feel that we were lucky because we were exposed to so many different social class, so many different cultures, and mindset. From that, we found what our path, or maybe, so your family is very right in your shoe, and then you see one what that literally will let you jump off the roof and figure out if that hurts or not.
 
 ### Sylvie Barbier:
-It’s by being exposed to so many different things, and also many right or wrong \[non-English speech\] , and then engage with that conversation.
+It’s by being exposed to so many different things, and also many right or wrong \[non-English speech\], and then engage with that conversation.
 
 ### Audrey Tang:
 With autonomy.
 
 ### Sylvie Barbier:
-\[non-English speech\] . Ninon. Yeah. \[non-English speech\], Then to expose also to local Taiwanese to do loads of different weird things, and \[non-English speech\].
+\[non-English speech\]. Ninon. Yeah. \[non-English speech\], Then to expose also to local Taiwanese to do loads of different weird things, and \[non-English speech\].
 
 ### Audrey Tang:
 Just like a mutual discovery process.
@@ -275,7 +275,7 @@ Just like a mutual discovery process.
 Yes.
 
 ### Ninon Godefroy:
-The most important part of the program is \[non-English speech\] . \[laughs\]
+The most important part of the program is \[non-English speech\]. \[laughs\]
 
 ### Audrey Tang:
 Co-habitation for 10 days?
@@ -287,7 +287,7 @@ Yes.
 I think having direct access like I don’t think we want to be sleeping in the same dormitory, and living together in nature, and then she’s going to do a lot of experimental games. We went to Yilan and we blindfolded a lot of 15-year-olds Taiwanese. \[laughs\]
 
 ### Ninon Godefroy:
-\[non-English speech\] . \[laughs\] There was no one from our age range that came. Really, at the beginning we were like, &quot;What to do?&quot; We continued. Blindfolded everyone. \[laughs\] \[non-English speech\].
+\[non-English speech\]. \[laughs\] There was no one from our age range that came. Really, at the beginning we were like, &quot;What to do?&quot; We continued. Blindfolded everyone. \[laughs\] \[non-English speech\].
 
 ### Ninon Godefroy:
 Why should we be depressed by it? \[non-English speech\] any age, I felt like I went back to being a child. People gave us amazing testimonies, but, yeah.
@@ -442,7 +442,7 @@ It stressed that listening is what’s happening, and we’re just vehicles for 
 It’s not something magical. It’s just something you do. That’s it, perhaps. I learned it from a book. It’s just how it is, yeah.
 
 ### Sylvie Barbier:
-There’s one thing that I’ve done. I think naturally for me, there was always something very close to my heart, when you hear someone, and then you feel the \[non-English speech\] .
+There’s one thing that I’ve done. I think naturally for me, there was always something very close to my heart, when you hear someone, and then you feel the \[non-English speech\].
 
 ### Audrey Tang:
 That’s right.
@@ -534,7 +534,7 @@ In government settings, if there are superiors in the same room, it takes even m
 That really helps. Slido, or Pol.is, or Vmesh, or Join, all platforms, RealtimeBoard, all these platforms that I use to facilitate group listening, they have one common thing, is they don’t let participant reply to one another.
 
 ### Audrey Tang:
-That just consumes people’s energy to more narrower and narrower conversations. In all those tech that I use, the only way to refute a argument, really, is to raise a better argument. There is no ad hominem attacks, or things like that. It takes some design.
+That just consumes people’s energy to more narrower and narrower conversations. In all those tech that I use, the only way to refute an argument, really, is to raise a better argument. There is no ad hominem attacks, or things like that. It takes some design.
 
 ### Sylvie Barbier:
 Tell Audrey about IMED.
@@ -572,7 +572,7 @@ When you go and speak to funders or policymakers, if you have not got your story
 Yeah, I’ll look over it.
 
 ### Sylvie Barbier:
-I think what we notice is genuinely, because it’s a quite complex narrative, it’s basically being able to tell the narrative quite shortly and succinctly. \[non-English speech\] , because I think I have a curiosity if you believe Taiwan, would be a type of country. You would be interested in...
+I think what we notice is genuinely, because it’s a quite complex narrative, it’s basically being able to tell the narrative quite shortly and succinctly. \[non-English speech\], because I think I have a curiosity if you believe Taiwan, would be a type of country. You would be interested in...
 
 ### Ninon Godefroy:
 Basically, this year, what we are doing with the Rockefeller Fund is the first research that we did, like a horizon scan in the white paper. How would this mechanism of an open information fund work? It’s basically based on, like...

@@ -64,7 +64,7 @@ What kind of psychological strategy is this?
 We’ve been exposed to this constant threat so that it’s just point of daily life. We don’t think about it too much because we all understand that, for example, when there is a social media campaign that says people in Hong Kong, they’re paying very young people to murder police 2 million dollars – I don’t know which denomination – we know, “Oh, it’s the CCP doing its thing again.”
 
 ### Audrey Tang:
-Previously, people say \[Mandarin\] , meaning 50 cents. Recently they’ve been raising the wage to 70 or 80 cents, \[laughs\] so people say \[Mandarin\] now. In any case, that’s just astroturfing and the landscape of state propaganda. It’s just part of daily life.
+Previously, people say \[Mandarin\], meaning 50 cents. Recently they’ve been raising the wage to 70 or 80 cents, \[laughs\] so people say \[Mandarin\] now. In any case, that’s just astroturfing and the landscape of state propaganda. It’s just part of daily life.
 
 ### Audrey Tang:
 People make fun of it, make satire of it. There’s a trending song called “Taiwan” that is a parody of a song called “China.” The Taiwan song is from the satire networks. It was trending number one on video that makes fun of this kind of state propaganda.
@@ -97,7 +97,7 @@ We’re, of course, concerned when, for example, the medical officers who were s
 Of course, our medical officers, when they reported that, we treated as if SARS will happen again. Yeah, we were concerned then about the lack of accountability and transparency when it comes to the Wuhan epicenter. On the other hand, we’ve been making yearly drills about SARS since 2004, so a long time, like 15 years now.
 
 ### Audrey Tang:
-I’m saying that social mobilization, when there’s an escalating risk of pandemic or whatever, it’s just our daily life. It’s more like where special time, a time of constitutional crisis, or a emergency situation, there’s not that through the whole pandemic. Up until now, there’s no emergency situation declared in Taiwan.
+I’m saying that social mobilization, when there’s an escalating risk of pandemic or whatever, it’s just our daily life. It’s more like where special time, a time of constitutional crisis, or an emergency situation, there’s not that through the whole pandemic. Up until now, there’s no emergency situation declared in Taiwan.
 
 ### Audrey Tang:
 We’re part of the constitutional deliberative democracy framework, but we were always mobilized if that’s what you are asking.
@@ -411,7 +411,7 @@ When I negotiated with Premier Lin Chuan about my working condition – that is 
 Of all the laws that come out of the government and go into parliament, how many of those are being debated for 60 days on Join before that?
 
 ### Audrey Tang:
-I would say a vast majority. If you go to Join and look at the gazette, the \[Mandarin\] , the second section of it, you may find occasionally there is some laws that take less than 60 days because of, I don’t know, an emergency or something.
+I would say a vast majority. If you go to Join and look at the gazette, the \[Mandarin\], the second section of it, you may find occasionally there is some laws that take less than 60 days because of, I don’t know, an emergency or something.
 
 ### Audrey Tang:
 When they try to shorten it, like really short – like 7 or 14 days – people didn’t want that, like Labor Act. For the vast majority of cases, the legal pre-announcements do go through the full 60 days, especially if they have any concern about trade, international, or it affects the foreign stakeholders.
@@ -662,7 +662,7 @@ No, this is not about dumping data at people. This is about making cute dog pict
 You mean the memes to explain…
 
 ### Audrey Tang:
-Yeah, the \[Mandarin\] .
+Yeah, the \[Mandarin\].
 
 ### Klaus Bardenhagen:
 Still, OK, just in general, what do you think? How much longer are people able to deal with the kind of information flow they have right now, which will only…?
@@ -836,10 +836,10 @@ There is a lot of common ground for marriage equality, which is the first one yo
 I mean between the two camps, between the opposing camp and…
 
 ### Audrey Tang:
-A lot of common ground. They all love marriage \[inaudible 43:59\] . Eventually, we legalized the bylaw, the individual-to-individual rights and duty, and none of the in-law, the family-to-family one.
+A lot of common ground. They all love marriage \[inaudible 43:59\]. Eventually, we legalized the bylaw, the individual-to-individual rights and duty, and none of the in-law, the family-to-family one.
 
 ### Audrey Tang:
-That’s the common ground. The people who think marriage is between families are happy, because same-sex marriage is not about family values. People who only think the marriage is about the rights and duties are happy, because individuals can legally \[inaudible 44:22\] .
+That’s the common ground. The people who think marriage is between families are happy, because same-sex marriage is not about family values. People who only think the marriage is about the rights and duties are happy, because individuals can legally \[inaudible 44:22\].
 
 ### Klaus Bardenhagen:
 I know. They got the extra law instead of amending the civil code.
@@ -860,7 +860,7 @@ The pension reform doesn’t reduce the total size. It just moves some from the 
 What was the last law initiative where the vTaiwan debate had a direct impact on? Was it the revenge porn thing that’s being debated right now?
 
 ### Audrey Tang:
-Revenge porn, of course, e-scooters. I think there is going to be one about the \[inaudible 45:38\] , the limit of the pandemic countereffects and privacy. I think they’re scheduling a debate around that next, which will be very relevant.
+Revenge porn, of course, e-scooters. I think there is going to be one about the \[inaudible 45:38\], the limit of the pandemic countereffects and privacy. I think they’re scheduling a debate around that next, which will be very relevant.
 
 ### Audrey Tang:
 If the pandemic is over-over, we need to do a postmortem, as we did after SARS, and say that we really improve on ones. For example, travel history, not \[inaudible 46:03\] way after the fact, and so on. I think vTaiwan is going to do that one. I don’t know, because I’m no longer part of the active vTaiwan working group now. I’ve not been for many years now.
@@ -899,7 +899,7 @@ It’s not until I read The Tao of the Idea, which must be around ‘96, ‘97, 
 I don’t see anyone looking at their watches.
 
 ### Audrey Tang:
-It’s fine. We have maybe five more minutes before I have to do the \[inaudible 47:50\] .
+It’s fine. We have maybe five more minutes before I have to do the \[inaudible 47:50\].
 
 ### Klaus Bardenhagen:
 Another big appointment for you this week was the consumption voucher implementation.

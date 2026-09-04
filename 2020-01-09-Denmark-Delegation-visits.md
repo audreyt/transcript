@@ -329,7 +329,7 @@ The raw data, as structured open data.
 That’s very new, right? The ad library is only half a year old or something.
 
 ### Audrey Tang:
-Yes, and that’s the norm here from the Control Yuan. We’re like, “You have to either build a ad library or conforming to the Control Yuan standard.” The rest of it, like the previous campaign finance and so on, like these bar charts, are from the Control Yuan.
+Yes, and that’s the norm here from the Control Yuan. We’re like, “You have to either build an ad library or conforming to the Control Yuan standard.” The rest of it, like the previous campaign finance and so on, like these bar charts, are from the Control Yuan.
 
 ### Audrey Tang:
 What we’re saying is that they have to release the raw data, structured data, to at least the same grain detail as the Control Yuan so that the investigative journalists and civic tech people can make sense of the ad library and incorporate them into these kind of websites.
@@ -483,7 +483,7 @@ It’s less risk, more credit, also less work.
 It’s a version of digital democracy. You’re also, at the same time, a representative democracy. It looks like a good combination. It’s not referendum, but it’s public discussion. How to make them work together? This is also what should be what you discuss now…
 
 ### Audrey Tang:
-This is just crowd-sourced agenda-setting or CrowdLaw. This is not taking over the representative role. Obviously, if you look at the representation as about the development and the delivery of services, in this case, public rules, our methodology is working instead on the discover and define stages, which is often done in a ad hoc fashion.
+This is just crowd-sourced agenda-setting or CrowdLaw. This is not taking over the representative role. Obviously, if you look at the representation as about the development and the delivery of services, in this case, public rules, our methodology is working instead on the discover and define stages, which is often done in an ad hoc fashion.
 
 ### Audrey Tang:
 What we’re trying to do here is just to open up the agenda-setting power here through petition, sandbox, and so on, emphasizing the idea of building a “how might we?” question, which is about common value just by different positions.
@@ -855,7 +855,7 @@ They are having some of the same thinking as you have here on ways to be creativ
 I also have students in Hangzhou even after I become digital minister. They connect to the shared virtual reality space, and I 3D scan my avatar in. \[laughs\] In any case, we try this new way of merging classrooms together. The 3D model there, that was the China Art Academy. The people in Kaohsiung modeled the Kaohsiung Art Academy.
 
 ### Audrey Tang:
-What they uploaded is their avatar, too, to the VR space that I created, which is hosted in Changhua in Google here. I put on HTC Vive, and then the chair that were previously empty, I see the young people appearing. It’s a interesting way to have a overlapping classroom.
+What they uploaded is their avatar, too, to the VR space that I created, which is hosted in Changhua in Google here. I put on HTC Vive, and then the chair that were previously empty, I see the young people appearing. It’s an interesting way to have an overlapping classroom.
 
 ### Audrey Tang:
 I also give talks to the Global Classroom system, which include university students in Shanghai, but as part of the 50 different countries. I have some exchange through teaching and lectures to the people there who really want to learn about…
@@ -926,7 +926,7 @@ However, the new version, which is the 2019 version, is now every two years. At 
 Then you raise a referendum topic. This is by simple majority. People will no longer be incentivized to refrain from casting vote by saying no. If they don’t show up, their side actually lose. Then it’s binding only for two years.
 
 ### Audrey Tang:
-It’s a referendum every two years, so every time, the referendum can turn over the previous referendum’s topic because every referendum is binding only for two years anyway. This is a new design. It’s a interesting design.
+It’s a referendum every two years, so every time, the referendum can turn over the previous referendum’s topic because every referendum is binding only for two years anyway. This is a new design. It’s an interesting design.
 
 ### Audrey Tang:
 You can vote only if you’re 20 years old, but you can partake in referenda if you’re 18 years old, so two different systems now, on alternating years.
@@ -1129,7 +1129,7 @@ The more authoritarian the mainland becomes, the more democratic you become?
 It’s like mirror image. It really is like mirror image. The Silicon Valley over-optimism and now delusion – despair I would even say \[laughs\] – is less pronounced here because, from the very beginning when Uber came, we asked everybody, “What do you feel about it?” and have a social norm around it.
 
 ### Audrey Tang:
-When there is a IoT proliferation, we asked, “What kind of beings are you connecting to the IoT device? Can we put voices to the rivers, to the mountains?” and things like that. Three years ago, when I became digital minister, people asked me this very question, like, “Which direction are you taking it?”
+When there is an IoT proliferation, we asked, “What kind of beings are you connecting to the IoT device? Can we put voices to the rivers, to the mountains?” and things like that. Three years ago, when I became digital minister, people asked me this very question, like, “Which direction are you taking it?”
 
 ### Audrey Tang:
 Say something about the Jade Mountain growing two centimeters every year. They’re like, “This is too poetic.” \[laughs\] “We need something that’s more satisfying, that’s more connecting to digital technology.” I wrote another poem, which is literally my job description. It goes like this. It’s a really short one.
@@ -1196,7 +1196,7 @@ As a former government official…
 Speaking as a card-carrying conservative anarchist here, the governance systems, by nature, they do have a sense of professionalism in it. Career public service is, indeed, my main target audience to build digital systems about.
 
 ### Audrey Tang:
-Career public service need not be confused with government as a abstract entity. Career public service are people. What I do, mostly, is to bring them to people. This is what my typical Tuesday is like. I go to the most rural, indigenous, offshore island and so on places, meet them in their town hall.
+Career public service need not be confused with government as an abstract entity. Career public service are people. What I do, mostly, is to bring them to people. This is what my typical Tuesday is like. I go to the most rural, indigenous, offshore island and so on places, meet them in their town hall.
 
 ### Audrey Tang:
 I always visit maybe a night before, maybe two nights before, and to do a couple ethnographic hangout. I hang out with them a bit, learn their local culture and so on. When they have their town hall meetings, I bring through high-speed, multi-room connectivity, just as the one I prototype here to bring career public service, or section chiefs, or so, 12 ministries, to look through video presence what the local people are discussing in their agenda.

@@ -38,7 +38,7 @@ We are reasonably confident that we can also do a what I called a people-public-
 Fascinating. For some digital units, it's a real moment of risk though when they move from being either within a prime minister or president's office or as a transversal program with a roving brief in their own ministry. Is that something that you're concerned about? If so, what are you doing to mitigate against almost becoming a silo in your own right?
 
 ### Audrey Tang:
-There's two parts of answer in that. First, we're still playing an empowering role. For the deputy ministers, that's the CIOs of the other ministries, we are not suddenly giving out orders or vetoing their plans. In Taiwan, we're running with a EU-compatible, GDPR compatible privacy act, for example. The only thing that blocks us from getting full adequacy is that we don't have a single DPA.
+There's two parts of answer in that. First, we're still playing an empowering role. For the deputy ministers, that's the CIOs of the other ministries, we are not suddenly giving out orders or vetoing their plans. In Taiwan, we're running with an EU-compatible, GDPR compatible privacy act, for example. The only thing that blocks us from getting full adequacy is that we don't have a single DPA.
 
 In essence, the health minister and his CIO is the DPA for things that are related to health and the transportation minister for things related to transportation. There are like a dozen different norms around data use, around privacy, and things like that.
 
@@ -120,7 +120,7 @@ Yeah.
 How do you essentially keep renewing the capability and motivation to keep that sense of purpose while also dealing with what is essentially increasing technological legacies...?
 
 ### Audrey Tang:
-I think we got it easy, because at the very beginning, I'm the 數位政委, the digital minister in charge of Open Government, Youth Engagement, and Social Innovation. These are the areas, as I mentioned, that enjoy cross-party support, and built in in itself a sense of renewal, just because of the topics.
+I think we got it easy, because at the very beginning, I'm the 數位政委, the digital minister in charge of Open Government, Youth Engagement, and Social Innovation. These are the areas, as I mentioned, that enjoy cross-party support, and built in itself a sense of renewal, just because of the topics.
 
 It also helps that digital in Taiwan, the word shùwèi, also means plural. It literally means "more than one way" to do it. So I'm also the minister of plurality, meaning that digital is never replacing paper, replacing labor, replacing public servants, but it's always about even more inclusive, taking care of more national languages, making it more easy for the elderly, for people with different abilities and so on, to access the same services.
 
@@ -178,7 +178,7 @@ The filing tax experience was actually the first experience that we co-created w
 
 First, it's good that the corridor seems to be overlapping. Also, the conversations, especially around the Ukrainian experience, shows that the corridor could also be widening.
 
-There are parts of private sector contributions, that in a emergency response framework, the private sector is also happy to contribute to the state in need, in this case, Ukraine, to use it to further their purposes of public service without asking any lock-in. During a war, you don't ask for lock-ins. That's how wide that's their corridor was.
+There are parts of private sector contributions, that in an emergency response framework, the private sector is also happy to contribute to the state in need, in this case, Ukraine, to use it to further their purposes of public service without asking any lock-in. During a war, you don't ask for lock-ins. That's how wide that's their corridor was.
 
 Also, experiences from India, from other places, also shows that what used to be considered leviathan-like moves, ID cards and things like that, once tested in court and when other jurisdictions also think deep and hard about it, of how to expand the social sector capability to oversee this kind of expanded state capability. It also opens the corridor leftward, in that what seems like an authoritarian move could ultimately be checked and balanced, and maybe moved back into the civic tech framework world.
 

@@ -76,7 +76,7 @@ Very interesting and thank you. Can you a little bit speak about you are origina
 Definitely. I learned programming by drawing on a piece of paper, because I did not have a personal computer, I just have some books about personal computers. I was very interested in mathematics, but I’m quite bad at making manual calculations. What I did is that I brought a piece of paper, I took a pen, and then started drawing keyboards on it writing Q-W-E-R-T-Y and things like that.
 
 ### Audrey Tang:
-Then, every beginning of the day I would just type CLS here, and then take a eraser to erase the screen, and then type a something and then print “Hello, World!” or something like that. After programming on this paper-based terminal \[laughs\] for a while, it shows that one can learn computational thinking without a computer.
+Then, every beginning of the day I would just type CLS here, and then take an eraser to erase the screen, and then type a something and then print “Hello, World!” or something like that. After programming on this paper-based terminal \[laughs\] for a while, it shows that one can learn computational thinking without a computer.
 
 ### Audrey Tang:
 It’s just a way to approach a problem, to decompose it into independent functions, and to compose those functions together. This is the kind of thinking that anyone can master. Computer programming is just one of the ways to master it. Of course, later on I would have a personal computer, and then I started programming.
@@ -186,7 +186,7 @@ Yeah, but the staff said that I need to say it in Japanese first. \[laughs\]
 OK.
 
 ### Interviewer:
-\[Japanese\] . OK, so I’ll explain in English. Let me see what I wrote in. As in the COVID-19 situation, it is difficult to visit to the other countries, each other. For business perspective, there are no international exhibitions, that means no opportunities for international business launching.
+\[Japanese\]. OK, so I’ll explain in English. Let me see what I wrote in. As in the COVID-19 situation, it is difficult to visit to the other countries, each other. For business perspective, there are no international exhibitions, that means no opportunities for international business launching.
 
 ### Interviewer:
 When Taiwan and the Japan companies are willing to find a new business partner from each other? what kind of IT problem, or events, or any other actions can government side provide in the future, do you think?

@@ -43,7 +43,7 @@ I also get an idea that the disinformation, or organized spreading of social dis
 If we proactively discuss those rumors when they still are individual speculations, then everybody gets more inoculated and become psychologically more safe around each other. When conspiracy theories that are organized start to spread, it’s like in immunology.
 
 ### Audrey Tang:
-If you have a population and a significant proportion of them is already inoculated, then the virus of the mind, or biologically, it’s very unlikely to actually spread and cause a epidemic. That’s I think the main takeaway, both my message and the metaphor that was echoed by other people in the workshop.
+If you have a population and a significant proportion of them is already inoculated, then the virus of the mind, or biologically, it’s very unlikely to actually spread and cause an epidemic. That’s I think the main takeaway, both my message and the metaphor that was echoed by other people in the workshop.
 
 ### Audrey Tang:
 I think that is something that people are generally willing to see this as a metaphor of. That’s part of my slide.
@@ -70,7 +70,7 @@ I think when people speculate about the government, it’s mostly because the go
 My experiment is twofold. The first is for all the ministries, everybody publishes what they are actively working on, online, so that people can see all the budget items. For each of those 1,300 different projects, people can have a real conversation around the project that they care deeply about.
 
 ### Audrey Tang:
-As you can see, people mostly care about long-term care, social housing, and things like that. When people, for example, look at one execution plan and the procurements and research that this plan is currently going, it is a ongoing conversation that allows anyone to ask even very...
+As you can see, people mostly care about long-term care, social housing, and things like that. When people, for example, look at one execution plan and the procurements and research that this plan is currently going, it is an ongoing conversation that allows anyone to ask even very...
 
 ### Audrey Tang:
 This is very not clearly worded speculations, but it reflects a real authentic worry, in that the information disclosed is not written in a frankly enough way for people to easily absorb. The career public service at hand then provided a far easier-to-understand overview and links to further material and so on.
@@ -103,7 +103,7 @@ Can you talk a bit more about how that, itself, is its own defense against misin
 With GPS, yes. Mostly if it’s come from my name or a photo, of course, people can project anything on it because they don’t have a face-to-face real-time interaction with me. I built this very inviting space, the Social Innovation Lab, and invite people to meet me every Wednesday from 10:00 AM to 10:00 PM. People can come and have a real visit.
 
 ### Audrey Tang:
-I regularly publish not just a transcript, but also a video or live stream of my visits, so it becomes impossible for people to pretend \[laughs\] that Audrey is this...There’s this latest parody of those rumors that says &quot;Audrey is a Omega-level mutant.&quot; It’s a very Marvel worldview.
+I regularly publish not just a transcript, but also a video or live stream of my visits, so it becomes impossible for people to pretend \[laughs\] that Audrey is this...There’s this latest parody of those rumors that says &quot;Audrey is an Omega-level mutant.&quot; It’s a very Marvel worldview.
 
 > (laughter)
 
@@ -177,7 +177,7 @@ Trolling, basically.
 Someone who’s trolling or someone who is potentially part of a more organized campaign. When you analyze those respective motives, as there’s been a lot of talk about that, I wonder what you think when you look at that and try and understand the motives of someone part of one of these organized campaigns. Do you approach that in the same way?
 
 ### Audrey Tang:
-No. If it’s individual speculations or trolls, they usually have a distinct pattern, in that they are acting out of a need of, as I said, attention-seeking behavior. This is very different from a organized disinformation campaign, where you see a lot of repeated messages, variations on the same theme, ignoring of the context, and basically sowing discord, fear, uncertainty, and doubt.
+No. If it’s individual speculations or trolls, they usually have a distinct pattern, in that they are acting out of a need of, as I said, attention-seeking behavior. This is very different from an organized disinformation campaign, where you see a lot of repeated messages, variations on the same theme, ignoring of the context, and basically sowing discord, fear, uncertainty, and doubt.
 
 ### Audrey Tang:
 I would say there’s a qualitative difference in their behavior. With some experience, you can tell which is which very easily. I don’t waste time on the organized disinformation. They may be automated bots, for all I know.
@@ -290,7 +290,7 @@ People can get psychologically prepared that they are going to see a variation o
 The other thing is that it also lets us know how to amplify a message, like this says Foxconn is rolling out a whale-shaped grant \[laughs\] to give scholarship funds, and please share it widely, because maybe you can help some college students who are poor, and things like that.
 
 ### Audrey Tang:
-This gets viral, but this is actually a real thing \[laughs\] from Foxconn. It’s actually true, but then people spreading this truth now knows that, if you package it in this way, it goes viral. It serves a educational purpose, as well.
+This gets viral, but this is actually a real thing \[laughs\] from Foxconn. It’s actually true, but then people spreading this truth now knows that, if you package it in this way, it goes viral. It serves an educational purpose, as well.
 
 ### Nick Aspinwall:
 When you talk about the way that fake news...I know that you don’t use that term.
@@ -379,7 +379,7 @@ All these, we have existing legal code to do that. I put this slide just to ment
 You’re mentioning existing regulations. There was a Ministry of Justice report that said there’s unequivocal evidence of Chinese content farms being used to divide Taiwan. This precipitated discussions to amend a National Security Act. First of all, what is your reaction to how this discussion has played out where further legal changes are being discussed on top of what exists?
 
 ### Audrey Tang:
-We are already pushing a new act to the Parliament. I think it’s finished the first reading. It’s the Digital Communications Act. That lays the foundation, the basis, of all the follow-up discussions and enforcement because the DCA establishes a equivalence between offline actions and online actions.
+We are already pushing a new act to the Parliament. I think it’s finished the first reading. It’s the Digital Communications Act. That lays the foundation, the basis, of all the follow-up discussions and enforcement because the DCA establishes an equivalence between offline actions and online actions.
 
 ### Audrey Tang:
 It make sure that regardless of where the judge finished their education, \[laughs\] they will rule the same way \[laughs\] for the online behavior to correspond to offline behavior.
@@ -508,13 +508,13 @@ You raise a really good point. At the moment this clarification actually address
 > (laughter)
 
 ### Audrey Tang:
-This is a legit speculation about what’s happening with the Ministry of Interior. The Minister of Interior very quickly gave this response, which is commendable, and the journalists cited of them. I wouldn’t say it’s fact-checking, because the initial thing that prompted is just widespread speculation about what’s happening. That’s not a organized disinformation campaign at all.
+This is a legit speculation about what’s happening with the Ministry of Interior. The Minister of Interior very quickly gave this response, which is commendable, and the journalists cited of them. I wouldn’t say it’s fact-checking, because the initial thing that prompted is just widespread speculation about what’s happening. That’s not an organized disinformation campaign at all.
 
 ### Audrey Tang:
 There are some response to disinformation campaigns, and there are even some cases where the ministry decide to sue because the thing they’re responding to is already a criminal offense.
 
 ### Audrey Tang:
-One clear message I heard from the workshop, from the journalists, is that it will help if we color-code or somehow tag the clarifications so people know that it is just a normal clarification discussion. Or whether it is like Defcon level, like whether this is a organized disinformation campaign and we’re seriously answering that, or where some people already committed criminal offense and this is a notice that this is being sued.
+One clear message I heard from the workshop, from the journalists, is that it will help if we color-code or somehow tag the clarifications so people know that it is just a normal clarification discussion. Or whether it is like Defcon level, like whether this is an organized disinformation campaign and we’re seriously answering that, or where some people already committed criminal offense and this is a notice that this is being sued.
 
 ### Audrey Tang:
 Color-coding it is a really good idea that we really should work with the MIS Department to implement. Expect that to be rolled out some time. I cannot commit to a timeline.
@@ -546,10 +546,10 @@ At the end of it, we’re not calling it fact-checking. The fact-checkers are fr
 Could a tool like this be used to dodge hard questions if it were in the wrong hands or if it were in the hands of someone who was, for example, feeling a lot of pressure or had a motive to get a certain message out?
 
 ### Audrey Tang:
-If you’re a opposition party, you’re free to run exactly the same system. Nothing in it is exclusively administrative power. All this is is a syndicated blog. That technology was around for like 15 years. \[laughs\]
+If you’re an opposition party, you’re free to run exactly the same system. Nothing in it is exclusively administrative power. All this is is a syndicated blog. That technology was around for like 15 years. \[laughs\]
 
 ### Audrey Tang:
-No. If we say we blog or micro-blog regularly, this is not a abuse of administrative power because any opposition party can do exactly the same.
+No. If we say we blog or micro-blog regularly, this is not an abuse of administrative power because any opposition party can do exactly the same.
 
 ### Nick Aspinwall:
 I want to ask about how there have been the proposal suggestions made, I believe to your office as well, about finding a way to regulate or to engage with social media corporations.
@@ -594,7 +594,7 @@ Is there any way that they can find additional sources of funding? I know that t
 You’ll have to speak to the Open Culture Foundation. OCF is the main umbrella organization where these civic tech projects receive grants, actually. I think they got the grant from the OCF, so you can talk to OCF. I know about Cofacts mostly because they develop in the open, and so I just follow their \[laughs\] GitHub issues. \[laughs\]
 
 ### Audrey Tang:
-I know about its technological and social operation and the thoughts behind those designs. It’s all on Hackfoldr, HackMD, and the g0v community. Honestly, I don’t quite know about its funding situation, so that’s a OCF question.
+I know about its technological and social operation and the thoughts behind those designs. It’s all on Hackfoldr, HackMD, and the g0v community. Honestly, I don’t quite know about its funding situation, so that’s an OCF question.
 
 ### Nick Aspinwall:
 For what social media can do, you mentioned how you’ve engaged them with selling counterfeit goods.
@@ -638,7 +638,7 @@ They also serve as honeypots, because they know then anyone who send email to th
 Now we’re seeing, in Facebook, for example, individuals who don’t feel Facebook is doing enough. They can just install Feedless. Once you install Feedless on your phone, \[laughs\] you don’t have a feed anymore. \[laughs\] It’s just social and not media. \[laughs\]
 
 ### Audrey Tang:
-You can still follow your friends, have chats, visit fan pages or groups, and run events. It’s just you don’t see anything unexpected. \[laughs\] On the desktop, I use, personally, the News Feed Eradicator, which is exactly the same thing. That’s a easy solution. For anyone who feel Facebook is not doing enough, just install Feedless or News Feed Eradicator.
+You can still follow your friends, have chats, visit fan pages or groups, and run events. It’s just you don’t see anything unexpected. \[laughs\] On the desktop, I use, personally, the News Feed Eradicator, which is exactly the same thing. That’s an easy solution. For anyone who feel Facebook is not doing enough, just install Feedless or News Feed Eradicator.
 
 ### Nick Aspinwall:
 I’ve seen tools like that too. I think there’s one called Facebook Purity that I’ve seen before.
@@ -805,13 +805,13 @@ Counterfactual.
 Right.
 
 ### Audrey Tang:
-First of all, I think it’s not a either/or thing. The whole notion of visualization is you can see all the 2,000 sources in just a couple of seconds and see a general trend. That’s visualization.
+First of all, I think it’s not an either/or thing. The whole notion of visualization is you can see all the 2,000 sources in just a couple of seconds and see a general trend. That’s visualization.
 
 ### Audrey Tang:
 Something the g0v community is particularly good at is to invent new visualization forms for complicated information systems. These are all user-contributed, so maybe there is some misinformation there also, but through blockchain technology, people can first hold each other accountable and not modify mutated numbers.
 
 ### Audrey Tang:
-Through applying machine learning in the government-sponsored Civil IoT system, we can get other environmental/meteorological data from all the different sectors into the same place and cross-correlate each other. Actually, there is a hackathon going on. The top prize is NT$3 million to just do sense-making of this enormous amount of environmental data. The one that does the sense-making the best gets a award.
+Through applying machine learning in the government-sponsored Civil IoT system, we can get other environmental/meteorological data from all the different sectors into the same place and cross-correlate each other. Actually, there is a hackathon going on. The top prize is NT$3 million to just do sense-making of this enormous amount of environmental data. The one that does the sense-making the best gets an award.
 
 ### Audrey Tang:
 I think it is exactly as you said. If these are individual information, then, of course, there is no way to correlate the truthness of the information. If it’s aggregated, visualized, check-pointed onto distributive ledgers, analyzed by a shared data center that everybody can upload new analysis code on, then it becomes a community project.
@@ -879,7 +879,7 @@ When we’re formulating the draft of my talk, the freedom of speech, freedom of
 Our generation really sees this as core. Maybe five generations in the future, people will start to see it as instrumental, but now it is core. That’s the answer to your first worry.
 
 ### Audrey Tang:
-The second worry of a strong leadership, I think we can distinguish between 威信, which is authoritative confidence, and 誠信, a authentic confidence. It’s both trust or confidence level, but one is asymmetrical. The ruler doesn’t actually trust its subject. It’s just the subjects trusting the ruler conditionlessly.
+The second worry of a strong leadership, I think we can distinguish between 威信, which is authoritative confidence, and 誠信, an authentic confidence. It’s both trust or confidence level, but one is asymmetrical. The ruler doesn’t actually trust its subject. It’s just the subjects trusting the ruler conditionlessly.
 
 ### Audrey Tang:
 The second one is multi-directional. The government trust the citizens first, and some citizens feeling the trust, decide to trust back. It is far more reciprocal and far more equal. Of course, all the governance system that I’m designing is of the second kind, the collaborative, horizontal, new power that grows when there is more people joining.
@@ -1023,7 +1023,7 @@ The closest reminiscence of people’s experience of that is during the Chiang K
 The other factor I would say is also that people are worried that their current social media scene is not as transparent as people would like. Unless you install Feedless or Feed Eradicator, there really is close to zero transparency of why Facebook decided to show this advertisement over another advertisement, which is distinct from China.
 
 ### Audrey Tang:
-It also reminds people of a black-box, arbitrary decision-making process, which then hearkens back to the military law era, like random control and whatever. Of course, a distinction being you don’t have to use Facebook, or you can install Feed Eradicator, but there is a arrow effect. People still find themselves addicted somewhat to social media.
+It also reminds people of a black-box, arbitrary decision-making process, which then hearkens back to the military law era, like random control and whatever. Of course, a distinction being you don’t have to use Facebook, or you can install Feed Eradicator, but there is an arrow effect. People still find themselves addicted somewhat to social media.
 
 ### Audrey Tang:
 I think these two are very different things, but they share something in common, which is people don’t have agency in their life and in the way their data is being treated as an asset instead of a relationship. It goes back to what I talk about trolls, which is people worry, rightly, that their long-term relationships are under threat of being a set of transactions. They’ll lose the humanity of it.
@@ -1136,13 +1136,13 @@ Shared curriculums and shared tools are the two that are obvious. We already pub
 In a few weeks, there will be g0v Italy as well. G0v is one of those non-trademarked monikers. Anyone who want to work in civic tech can register a domain, g0v.it, or whatever, and have a run at it. \[laughs\] It’s not like Taiwan colonizes \[laughs\] other places in the world by insisting on a pattern or a trademark royalty scheme. It is entirely open innovation. It’s really just a meme.
 
 ### Audrey Tang:
-People can take it and run with it It builds solidarity. It makes people know that it is not just government state power talking to state power. It is civil society talking to civil society. It is social entrepreneurs talking with social entrepreneurs. It is people who manufacture AirBox talking with other vendors of overseas who manufacture AirBox.
+People can take it and run with it. It builds solidarity. It makes people know that it is not just government state power talking to state power. It is civil society talking to civil society. It is social entrepreneurs talking with social entrepreneurs. It is people who manufacture AirBox talking with other vendors of overseas who manufacture AirBox.
 
 ### Audrey Tang:
 All these is communication and solidarity on this citizens’ level. It could be entrepreneurs. It could be social sector or charities. The state level is just sharing our awareness of the existing civil society end of this, and empowering each other’s civil society by giving them sufficient support, tools, and legitimacy.
 
 ### Audrey Tang:
-What civil society needs the most is being respected and being treated as a equal in a government’s agenda-setting process. There is a mechanism of doing that. It’s called the Open Government Partnership. The OGP is also one of the venues that we’re sharing all those innovations.
+What civil society needs the most is being respected and being treated as an equal in a government’s agenda-setting process. There is a mechanism of doing that. It’s called the Open Government Partnership. The OGP is also one of the venues that we’re sharing all those innovations.
 
 ### Nick Aspinwall:
 Is there anything else that you would want to add, especially on transparency in general and promoting dialogue in general? You’ve called it a vaccination for disinformation several times. On how that can be expanded and continued? For example, your own transparency policy, do you think that’s something that the rest of the government could continue, becoming more transparent, as they have?
@@ -1180,7 +1180,7 @@ To become social enterprises. \[laughs\]
 I’ve heard a lot of that. I’ll start there. Once again I was at TFC yesterday, and they talked a bit about that. How do we engage? I believe they’ve tried to before and have not...At least it’s still in a very preliminary stage if anything.
 
 ### Audrey Tang:
-At the moment, Facebook, in particular, is funding the Media Watch organization to do a independent review of the most trustworthy interactive traditional media Facebook pages, which is a start.
+At the moment, Facebook, in particular, is funding the Media Watch organization to do an independent review of the most trustworthy interactive traditional media Facebook pages, which is a start.
 
 ### Nick Aspinwall:
 This is here in Taiwan?
@@ -1206,7 +1206,7 @@ At least that gets people talking. Of course, they can do more, and I think they
 I always stress the fact that if sufficient number of people have frustrations of social media or Facebook, in particular, then we do co-creation. We do a participatory design, we surface the issues, and then we send that to Facebook saying, &quot;This is the will of the people, and we are just translating their message. But if you want to engage, you need to engage directly with the people.&quot;
 
 ### Audrey Tang:
-We’re certainly not serving as a agenda server of what to ask Facebook. The civil society is doing that. As a facilitative minister, I’m mostly just making sure the words and sentiments they express can be translated faithfully into the language of algorithm, of code, of Internet technology. This applies equally to Microsoft, to Uber, to all the companies that I’m a semi-ambassador to.
+We’re certainly not serving as an agenda server of what to ask Facebook. The civil society is doing that. As a facilitative minister, I’m mostly just making sure the words and sentiments they express can be translated faithfully into the language of algorithm, of code, of Internet technology. This applies equally to Microsoft, to Uber, to all the companies that I’m a semi-ambassador to.
 
 ### Nick Aspinwall:
 Another thing that I wonder -- it’s more in the ballpark of the NCC probably than yours -- the importance of having a public broadcaster is something that I’ve also heard mentioned as a way to combat disinformation, having a trustworthy well-funded public broadcaster.
@@ -1279,7 +1279,7 @@ As part of this work, they scanned a lot of historical buildings in high-quality
 It’s of multi-use. It’s not like those one-shot props in making a movie. This is mostly about getting a generation of filmmakers the language, the tools, the assets, to do public co-creation, and with the artifacts of their work, including the scans, the SOPs, and the code and everything in the public, openly licensed.
 
 ### Audrey Tang:
-Then it also enables a accretive ecosystem not just for that one report or that one film. That’s the basic idea. They’re already getting some funding, but mostly just to get the technical know-how to a cutting-edge, competitive layer. We already talk about it. If truth is boring and disinformation is lots of fun, of course, that would never work.
+Then it also enables an accretive ecosystem not just for that one report or that one film. That’s the basic idea. They’re already getting some funding, but mostly just to get the technical know-how to a cutting-edge, competitive layer. We already talk about it. If truth is boring and disinformation is lots of fun, of course, that would never work.
 
 > (laughter)
 
@@ -1319,10 +1319,10 @@ Are click-worthy? \[laughs\]
 That’s a constant problem. We are improving on that by having visual assets next to each major policy.
 
 ### Audrey Tang:
-The Social Innovation Plan, when we roll it out, we actually engaged designers who work with people with Down syndrome \[laughs\] to explain the idea of social enterprise, of sustainable development goals, in a way that seems fun and makes it easier for people who are not that textually inclined to still have a impression of what Social Innovation Plan is really about.
+The Social Innovation Plan, when we roll it out, we actually engaged designers who work with people with Down syndrome \[laughs\] to explain the idea of social enterprise, of sustainable development goals, in a way that seems fun and makes it easier for people who are not that textually inclined to still have an impression of what Social Innovation Plan is really about.
 
 ### Audrey Tang:
-The Ministry of Health and Welfare, the Council of Agriculture, they all have engaged dedicated visual communication teams to do that. Their Facebook pages or their films tend to be the best among various ministries. Of course, we can improve other ministries’ know-how as well. This is a ongoing process.
+The Ministry of Health and Welfare, the Council of Agriculture, they all have engaged dedicated visual communication teams to do that. Their Facebook pages or their films tend to be the best among various ministries. Of course, we can improve other ministries’ know-how as well. This is an ongoing process.
 
 ### Audrey Tang:
 I totally agree. The poetic and also visual capability of engaging people using few words and a few iconic pictures is very important. We must not let content form dominate that art.
@@ -1352,7 +1352,7 @@ Yeah, it’s an invitation.
 How do I want to put this? I know that a lot of mis- and disinformation originates domestically. When we talk about China, there’s no way to really know.
 
 ### Audrey Tang:
-Certainly, it’s not a territorial description. It’s more like a ideological description. People who identify with the authoritarian regimes, sometimes they truly identify with the PRC’s way of treating people domestically. There are people who believe in that in Taiwan as well.
+Certainly, it’s not a territorial description. It’s more like an ideological description. People who identify with the authoritarian regimes, sometimes they truly identify with the PRC’s way of treating people domestically. There are people who believe in that in Taiwan as well.
 
 ### Nick Aspinwall:
 Of course.
@@ -1488,7 +1488,7 @@ The second one is if you find the urge to like something or to \[laughs\] spread
 They have to constantly context-switch without fully contemplating any messages. It’s like a cocktail of attention deficiency. Pick a trustworthy, end-to-end encrypted instant messaging system and stick with it, \[laughs\] no matter what your other friends are doing. \[laughs\]
 
 ### Audrey Tang:
-Personally, I choose email as my instant message system. Any email, I can just respond within minutes. I do have a instant message account on other instant message systems, but I only check them once in the morning and once in the night. I use them like other people use email and I use email like other people use instant message. \[laughs\]
+Personally, I choose email as my instant message system. Any email, I can just respond within minutes. I do have an instant message account on other instant message systems, but I only check them once in the morning and once in the night. I use them like other people use email and I use email like other people use instant message. \[laughs\]
 
 ### Audrey Tang:
 I feel more psychologically healthy \[laughs\] because email is self-contained. It contains more contemplated messages. It has a set of tools, the PGP and every other tool, designed to enhance its reliability. It’s been around for much longer. We solved junk mail, \[laughs\] so basically, it’s less susceptible to all the psychological attacks. It’s a more reliable, older form of communication.

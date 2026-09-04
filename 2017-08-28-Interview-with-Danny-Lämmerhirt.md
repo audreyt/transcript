@@ -229,7 +229,7 @@ It’s important because we are moving toward defining open data as fitting the 
 This resonates with our experience that the open definition really lives from the community pull. Unfortunately, there’s not a strong pull at the moment to make governments apply for the official approval, for example. It is definitely an important point to strengthen the community in this field, which doesn’t seem to happen in every country at the moment. The link you provided -- the API link -- is there documentation? Let me quickly check. Do you have any schema or something for the M2M communication, how the data is uploaded on your portal?
 
 ### Audrey Tang：
-Yeah. That’s documented in the OAS standard. It’s a updated version of Swagger. We actually also adopted that as a national standard. We’re the first, at the moment, the only one to do so.
+Yeah. That’s documented in the OAS standard. It’s an updated version of Swagger. We actually also adopted that as a national standard. We’re the first, at the moment, the only one to do so.
 
 ### Audrey Tang：
 Again, for all the newly-constructed systems, the agency can, as part of IFP, to require at zero or very little cost, a production of the OAS schema, in addition of the open data set -- not open, or any structured data set.
