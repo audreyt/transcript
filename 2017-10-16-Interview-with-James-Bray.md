@@ -162,7 +162,7 @@ Yeah.
 From the left, we have the Customer Protection Agency, the Ministry of Transport, because it involves the delivery of trucks and whether they require the Center fully have authentic contact details, and the taxation belongs to Ministry of Finance.
 
 ### Audrey Tang:
-Of course, there’s also the Ministry of Economy Affairs, because it’s about e-commerce, about fair competition, about the Ministry of Interior, in charge of police, and the Central Bank.
+Of course, there’s also the Ministry of Economic Affairs, because it’s about e-commerce, about fair competition, about the Ministry of Interior, in charge of police, and the Central Bank.
 
 ### Audrey Tang:
 Instead of all seven of them taking a little part, we actually get it into many different sub-topics, which every minister can act fully responsible. We now let everybody know that it takes all the parts, but for every part, they’re actually really responsible.

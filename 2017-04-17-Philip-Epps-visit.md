@@ -385,7 +385,7 @@ Exactly. But it’s not just the payment. You can also get...And this is what I 
 Finally, if you work one part of the focal industry ‑‑ high tech, e‑commerce, green energy, technology management ‑‑ then it’s up to these ministries to recognize your contribution to that area, and then you also automatically qualify, even not meeting the salary definition.
 
 ### Audrey Tang:
-I think if you’re talking about digital nomads, then it’s mostly about the digital economy, which will be the purview of the Ministry of Economy Affairs to make such a recognition. If you fit the definition, then you automatically qualify for the special professional, not necessarily a professional worker. This is one part that will probably make your life easier.
+I think if you’re talking about digital nomads, then it’s mostly about the digital economy, which will be the purview of the Ministry of Economic Affairs to make such a recognition. If you fit the definition, then you automatically qualify for the special professional, not necessarily a professional worker. This is one part that will probably make your life easier.
 
 ### Philip Epps:
 I’m actually thinking about this global community, because you want to attract global talent, right?

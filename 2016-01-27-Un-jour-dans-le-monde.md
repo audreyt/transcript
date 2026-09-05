@@ -334,5 +334,5 @@ Si c’est demandé, si cette explosion de petites violences partout, si ça c�
 Par exemple, ça montre une limitation très sévère disons du système. Écoutez merci à tous les trois c’était absolument passionnant, je rêverai de passer la nuit philosophique avec vous.
 
 ### nicolas-demorand：
-En tout bien tout honneur. Souleymane Bachir Diagne, philosophe professeur à la Columbia university. Saskia Sassen, sociologue économiste nérlando-américaine, parlant six langues, spécialiste de la mondialisation. Audrey Tang programmatrice de logiciels libres. Merci beaucoup d’avoir été au micro de France Inter.
+En tout bien tout honneur. Souleymane Bachir Diagne, philosophe professeur à la Columbia university. Saskia Sassen, sociologue économiste néerlando-américaine, parlant six langues, spécialiste de la mondialisation. Audrey Tang programmatrice de logiciels libres. Merci beaucoup d’avoir été au micro de France Inter.
 

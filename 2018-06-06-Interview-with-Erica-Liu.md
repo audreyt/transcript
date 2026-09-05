@@ -61,7 +61,7 @@ In the Bay Area, there are multiple network doing similar projects, like the SVT
 Yeah, SVT Angels, I’ve met David. Right, David? I don’t know. Actually, I haven’t asked him yet about their experience with how they’ve done and if it’s still operational. Do you know?
 
 ### Audrey Tang:
-It’s still operational. They’re also in close contact with the newly-consolidated ASVDA office, which features the National Development Council, Ministry of Economy Affairs, and also Ministry of Science and Technology. They are congregating and working closely.
+It’s still operational. They’re also in close contact with the newly-consolidated ASVDA office, which features the National Development Council, Ministry of Economic Affairs, and also Ministry of Science and Technology. They are congregating and working closely.
 
 ### Erica Liu:
 I didn’t know that, but we’re similarly trying to attract more angel investors. We want to be able to help as many companies as possible.

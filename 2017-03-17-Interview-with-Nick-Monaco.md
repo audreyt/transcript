@@ -428,7 +428,7 @@ The thing with anarchism is that I don’t take direct commands, nor do I issue 
 Of course, I can choose the much more acceptable way and say I’m a practitioner of direct democracy, but I think direct democracy differs from anarchism a little bit. Direct democracy is, of course, one part of it, but if you read the original anarchist text, it’s much more.
 
 ### Audrey Tang:
-There’s a communal co-ownership of facts, of production tools, and the diversity an inclusion of all kinds of different people. This willingness to work with non-specific people is, I think, the key to anarchism. If you just say direct democracy, it looks like just referendum everything, which leaves out to inform the collaborative discussion part before, and guaranteeing the inclusive part afterwards.
+There’s a communal co-ownership of facts, of production tools, and the diversity and inclusion of all kinds of different people. This willingness to work with non-specific people is, I think, the key to anarchism. If you just say direct democracy, it looks like just referendum everything, which leaves out to inform the collaborative discussion part before, and guaranteeing the inclusive part afterwards.
 
 ### Audrey Tang:
 I would still prefer the term anarchism. As for the apparent paradox, never issuing commands in my current role. Plenty of people want me to issue commands. I have resisted all the demands so far. It’s a pretty unique position in that I am a minister but I don’t have a ministry. Nobody really reports to me.
