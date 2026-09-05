@@ -760,7 +760,7 @@ As evidenced by this. Seriously, I do think the more the conflict that they are,
 I see that.
 
 ### Audrey Tang：
-In the clinics realm, group therapy or psychoanalysis, we just fix one endpoint form this large traumatic conflict thing. Of course, you hope that this person can carry some of the help or some of the resilience back to their home network. But wouldn’t that be even more effective if the home network can use such a VR to work on their...?
+In the clinics realm, group therapy or psychoanalysis, we just fix one endpoint from this large traumatic conflict thing. Of course, you hope that this person can carry some of the help or some of the resilience back to their home network. But wouldn’t that be even more effective if the home network can use such a VR to work on their...?
 
 ### Kel O’Neill：
 Let me tell you something else. Do you know who Skip Rizzo is?
@@ -810,7 +810,7 @@ There’s a certain camp appeal to pretty much all of the ’90s VR stuff. Espec
 What are your current projects?
 
 ### Kel O’Neill：
-That’s so interesting. I am here, in a way, because I feel like I need to set the reset button, just press the reset button and look a little bit inside and figure out what comes next. Because I feel like I was barreling along for two or three years and I want to take some time to rethink al lot of stuff and rethink a lot of the work that lies ahead.
+That’s so interesting. I am here, in a way, because I feel like I need to set the reset button, just press the reset button and look a little bit inside and figure out what comes next. Because I feel like I was barreling along for two or three years and I want to take some time to rethink a lot of stuff and rethink a lot of the work that lies ahead.
 
 ### Kel O’Neill：
 There’s a slate of virtual reality projects that’s developing right now that my wife and I are working on that are just starting to take shape. In addition to all of the work and meetings and everything that are happening here on the surface, underneath the surface, all that work is starting to build up because I never have any time.

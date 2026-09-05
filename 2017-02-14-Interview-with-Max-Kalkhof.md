@@ -557,7 +557,7 @@ Yeah, and during the National Day, I think, but not otherwise.
 Building this Asian Silicon Valley in Taiwan, you said, really is one of your main tasks, right?
 
 ### Audrey Tang:
-Asia, the noun form, Silicon Valley was the plan. The original resistance was that everybody, just as you said, added an aim to it, which means that we want to be the Silicon Valley of Asia, which is what drew so much resistance because it’s not feasible to build a Silicon Valley in Asia.
+Asia, the noun form, Silicon Valley was the plan. The original resistance was that everybody, just as you said, added an N to it, which means that we want to be the Silicon Valley of Asia, which is what drew so much resistance because it’s not feasible to build a Silicon Valley in Asia.
 
 ### Audrey Tang:
 The culture, for one, is completely different. We re-branded and redefined it. My contribution was to introduce this middle dot between...
@@ -1499,7 +1499,7 @@ We have constant contact. There’s now a gov‑zero cooperation with the Code f
 I would say, it’s pretty much constant contact. Not just with a party, but with the wider open government, open culture people.
 
 ### Max Kalkhof:
-What’s this, actually? What’s this jacked over there?
+What’s this, actually? What’s this jacket over there?
 
 ### Audrey Tang:
 It’s a gift from the Ministry of Defense.

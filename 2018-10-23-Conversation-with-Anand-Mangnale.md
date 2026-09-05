@@ -111,7 +111,7 @@ In India, we have more than 400 news channels, regional, the 30 states, and 28 o
 It’s through cable mostly?
 
 ### Anand Mangnale:
-Yeah, mostly through cable. There are at least 100 satellite, central national television news channels, and 99 percent are owned by big businesses. The current government is very friendly with the big businesses, so there is no criticism of the current government which comes in the mainstream news &amp; its all changing the real narrative.
+Yeah, mostly through cable. There are at least 100 satellite, central national television news channels, and 99 percent are owned by big businesses. The current government is very friendly with the big businesses, so there is no criticism of the current government which comes in the mainstream news &amp; it’s all changing the real narrative.
 
 ### Anand Mangnale:
 We also do the crowdfunding for roughly seven-eight independent journalist, media setups, online websites in total, basically, not the huge channel setup because it costs crazy. That’s also helping a lot.
@@ -393,7 +393,7 @@ That happens a lot.
 Instead of a space-based balance, which is gone anyway, we are now seeking for a time-based balance, so that when there’s a piece of information, right afterward, there will be a clarification. Now, of course, the civil society can also challenge that, but then it becomes like a turn-based game.
 
 ### Audrey Tang:
-I make a move, you make a move, and it is more rational this way. In a frenzy of mob lynching or whatever, people don’t take a deep breathe or wait until noon. People just share an act in an outrage. What we are contributing is this sense of a very reliable and timely clarification and response.
+I make a move, you make a move, and it is more rational this way. In a frenzy of mob lynching or whatever, people don’t take a deep breath or wait until noon. People just share an act in an outrage. What we are contributing is this sense of a very reliable and timely clarification and response.
 
 ### Anand Mangnale:
 What I saw in the presentation was that this bot has very limited reach right now, some 50,000 or 60,000 subscribers?

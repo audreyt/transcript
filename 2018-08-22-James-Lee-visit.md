@@ -141,7 +141,7 @@ This is the first step, but we’re going to have a grant/competition, I think i
 This is the first part of the answer. That I totally agree. We told they should move through if you API-first design, and we have to politically convince each minister.
 
 ### James Lee:
-I appreciate it now that you’re talking about it and taking about convincing ministers and that kind of thing. It makes sense. It’s a large organization, and obviously I have much less insight \[laughs\] into the organization or people aspects of that. That makes sense.
+I appreciate it now that you’re talking about it and talking about convincing ministers and that kind of thing. It makes sense. It’s a large organization, and obviously I have much less insight \[laughs\] into the organization or people aspects of that. That makes sense.
 
 ### Audrey Tang:
 You can think of the 32 ministries as essentially 31 large NPOs. They have their own annual goals, they have their own budgets, and like any other charity, they want to show that they’re useful to people, but perhaps not to the same target audience. \[laughs\] Right?

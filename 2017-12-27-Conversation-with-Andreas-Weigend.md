@@ -22,7 +22,7 @@ Then I used Gmail to email the department chair. He said, &quot;You need to take
 I thought maybe because I don’t upload this video myself, I thought the students made a joke, they put some porn in, or...really, I said, &quot;I’m sorry. I just landed in Oxford. I do not know what’s wrong with the video, just tell me.&quot; He said he has no time to watch the video. He was just told I need to take it down.
 
 ### Andreas Weigend:
-I skipped the first session of TED. I watched the video and there was absolutely nothing wrong with it. It turned out that the university thought by having the video up of Reed Hoffman -- who was a classmate of mine at Stanford, I’ve known him since the ’80s -- and me, talking about data and identity that would cut into their revenues, that people would not pay for my class, but they would just watch the class online, and I had to take it down.
+I skipped the first session of TED. I watched the video and there was absolutely nothing wrong with it. It turned out that the university thought by having the video up of Reid Hoffman -- who was a classmate of mine at Stanford, I’ve known him since the ’80s -- and me, talking about data and identity that would cut into their revenues, that people would not pay for my class, but they would just watch the class online, and I had to take it down.
 
 ### Andreas Weigend:
 I said, &quot;No, I’m not taking it down.&quot; Then he said, &quot;If you don’t take it down, you will not teach here anymore.&quot; I said, &quot;I’m not taking it down.&quot; Then, &quot;OK, you’re not teaching anymore.&quot;
@@ -33,10 +33,10 @@ I said, &quot;No, I’m not taking it down.&quot; Then he said, &quot;If you don
 I ultimately really believe that the things we create we should be behind, and we should not be willing to get suppressed by people who don’t even have 10 minutes as department chair to get to the truth of something. I’ve never set foot in that department again.
 
 ### Andreas Weigend:
-I feel very strongly about recording things. United Airplanes wants their airplane turned around and asked me to please leave because I was taking a video.
+I feel very strongly about recording things. United Airlines wants their airplane turned around and asked me to please leave because I was taking a video.
 
 ### Andreas Weigend:
-That led to very good relationships. I knew the previous CEO. I know most of the star line CEOs because of that invent.
+That led to very good relationships. I knew the previous CEO. I know most of the star line CEOs because of that event.
 
 ### Andreas Weigend:
 The notion of office hours was actually brought to me by the former United Airlines CEO, because he said, &quot;If you come and do a workshop, great, let’s add a day where you just make one-hour time slots, and people can sign up to talk to you about whatever they want to talk about.

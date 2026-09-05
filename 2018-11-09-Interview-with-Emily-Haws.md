@@ -174,7 +174,7 @@ Turning more to you and your work as a minister, why do you choose to have every
 The radical transparency is how the Internet is built. The Internet doesn’t have laws or regulations. They have what we call requests for comments, or RFCs, and the requests for comments are entirely voluntary. You can choose to follow it, you can choose to not follow it.
 
 ### Audrey Tang:
-If people all follow the Internet Protocol, their machines connect to each other. That’ the inter part in the Internet. It’s by voluntary association, but how does the legitimacy of the Internet comes forward so that everybody need to hook into the same Internet Protocols?
+If people all follow the Internet Protocol, their machines connect to each other. That’s the inter part in the Internet. It’s by voluntary association, but how does the legitimacy of the Internet comes forward so that everybody need to hook into the same Internet Protocols?
 
 ### Audrey Tang:
 The Internet doesn’t have an Army or a Navy. It can’t force any sovereign country to connect to the Internet, and the Internet as a body, it doesn’t even report to the any of the states. The UNITU tried for years to absorb us, but now it’s more of a partnership. Every year, there’s a UNITU Internet Governance Forum. I participated last year in Geneva as a robot.

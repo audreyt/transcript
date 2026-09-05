@@ -428,7 +428,7 @@ New police cannot get in anymore. This becomes a counter-surrounding situation. 
 It’s impossible then for the police to outnumber the crowd, and the crowd say, we will not attack you, if you stop attacking the students. It was a settlement, and has been like that for the next 20 days. That’s the basic situation of the Occupy. The g0v’s doing is mostly in the first 24 hours setting up two WiMax stations and then broadcast what they have inside — including the original station which was not our doing — into this Hackpad, which is a transcript platform, and we ask everybody to hear those three channels and type whatever they have heard.
 
 ### Audrey Tang：
-Another team of occupiers coordinates translation into 12 different languages based on this text or transcript. This is a spreadsheet that I helped maintaining, well, I coded it, with Dan Brickllin. It was the backbone of a crowdsource bookmark of everything that’s related to the Occupy. Here comes the covert Hong Kong system that you saw. The same designer who designed the g0v logo designed a main learning page so that people can print a bracelet to show their support, for example, our movement.
+Another team of occupiers coordinates translation into 12 different languages based on this text or transcript. This is a spreadsheet that I helped maintaining, well, I coded it, with Dan Bricklin. It was the backbone of a crowdsource bookmark of everything that’s related to the Occupy. Here comes the covert Hong Kong system that you saw. The same designer who designed the g0v logo designed a main learning page so that people can print a bracelet to show their support, for example, our movement.
 
 ### Audrey Tang：
 That’s what we did the first day. Does that answer your question?
@@ -451,7 +451,7 @@ But when the person next to you shouts, &quot;They’re being attacked over ther
 Yes, I don’t know. \[French\]. OK. Sorry.
 
 ### Audrey Tang：
-It’s OK. This is what we did. We set out a projector like this. This is the occupied place, it’s the parliament, but there’s a stenographer, three actually, rotating. There’s a stenographer in the parliament sitting here, typing everything she heard. Here, in real-time, a stenographer. You don’t have to trust what she writes, of course, buy anybody with a phone, or a headphone can check whether she’s actually being factual. She has to be factual.
+It’s OK. This is what we did. We set out a projector like this. This is the occupied place, it’s the parliament, but there’s a stenographer, three actually, rotating. There’s a stenographer in the parliament sitting here, typing everything she heard. Here, in real-time, a stenographer. You don’t have to trust what she writes, of course, but anybody with a phone, or a headphone can check whether she’s actually being factual. She has to be factual.
 
 ### Audrey Tang：
 But because this is projected, any rumour that is about the occupied area, is slower than this, because anybody on the street can check, just by reading, what’s happening.
@@ -515,7 +515,7 @@ But the parliament was built in a bottom-up way, so it’s a bazaar. A bazaar wi
 One very concrete example. We know that this is a difficult thing because most people don’t know they’re being affected, and that most people don’t know how to commentate. They are better at posting their pictures, and most people find loss to be overwhelming, but to deliberate, you really need people who have that experience.
 
 ### Audrey Tang：
-For example, this is the closely-held company law that you also passed trough a hearing in France a few years ago, about a new company type of company that takes agreements between the shareholders above the law, in a sense, so that it’s limited in the stakeholder amount, that’s more flexible so you could retain multiple votes per share, or something like that.
+For example, this is the closely-held company law that you also passed through a hearing in France a few years ago, about a new company type of company that takes agreements between the shareholders above the law, in a sense, so that it’s limited in the stakeholder amount, that’s more flexible so you could retain multiple votes per share, or something like that.
 
 ### Audrey Tang：
 That law was generally seen as — I don’t mean in France — in Taiwan, as something that runs counter to the civil law tradition that we inherited from Germany, because that is a very US thing, a very UK thing maybe, because that’s private agreement above the law, basically, is what it’s saying.
@@ -572,7 +572,7 @@ We can gather around this open space. We design the system. The system invites e
 This is the key. We use the IETF-style working groups, meaning that these people are exactly the people who made constructive comments here or here. My role is just the facilitator, the editor for the request of comment. We actually call you that. The RFC document that we proposed are we are not legal people, so we don’t speak legalese.
 
 ### Audrey Tang：
-We go through all the debates points, and said if the nation doesn’t pass this law it’s fine, but if it does, it must include multiple laws per share. It must not limit the crowdfunding in coming.
+We go through all the debates points, and said if the nation doesn’t pass this law it’s fine, but if it does, it must include multiple votes per share. It must not limit the crowdfunding in coming.
 
 ### Audrey Tang：
 It should allow telecommunication for the board meetings. It should not, it may not. This is the RFC language. It was exactly the same definition. We are like the editors for RFC. The ministry of the economy are like the coders, the implementers. They coded into legalese, and must answer to us whether they’re conforming to the spec or not. If they are not conforming, they have to justify it saying, &quot;OK, this outside our scope, or this is up to the local governments. Otherwise, they have to translate very faithfully the RFC into their implementation.
@@ -624,7 +624,7 @@ The Minister thinks it’s actually the finance ministry’s job because it’s 
 For them to even just publish a word of analysis, they risk getting occupied and surrounded or like here — burning tires in the streets, \[laughs\] so they did nothing. Doing nothing is not an option for things like that. It just escalates.
 
 ### Audrey Tang：
-What we did was that we asked people who have connections to the taxi fleets and to have them work with the ministry of economy on what they actually want out of Uber, just one simple point, but internally, the outside doesn’t have to see it. It’s that they reach something here and through the taxi fleets, we get through to the independent drivers. They are not a single organisation, which is why this is dotted, the P means private section and C means civic sector.
+What we did was that we asked people who have connections to the taxi fleets and to have them work with the ministry of economy on what they actually want out of Uber, just one simple point, but internally, the outside doesn’t have to see it. It’s that they reach something here and through the taxi fleets, we get through to the independent drivers. They are not a single organisation, which is why this is dotted, the P means private sector and C means civic sector.
 
 ### Audrey Tang：
 Then, through connection with the transport industry, we get hold of the local governments, and through them, they own sometimes illegal rights sharing platforms that’s existing before Uber. There’s already right sharing platforms, which is voluntary. They are not really making a profit, and also illegal or grey-zone Uber-like operations. It’s just never raised to the same amount, but this is city specific, so we have to reach the city.
@@ -997,7 +997,7 @@ The digital media, they’re good at zero-cost copying, but they’re worse at p
 Before we can get that, we will never cross the digital divide because the paper people who have thousands of years of observation, can use any of those idioms to say that this is not there yet. This is as close as we get now, but it’s still not so good, but it’s close. The thing is that, in Taiwan, all we have to solve is the technological problem that brings the paper culture entirely to the digital world with virtual reality and everything.
 
 ### Audrey Tang：
-In France, of course, you have a very old republican tradition, so it’s not 20 years of representative democracy versus 20 years of direct democracy. You’re not on the same terms. This is 10 times more, so you have also to solve the priority issue here to change the discourse. I like to say that, I think it was Holland who said that financialisation was his personal enemy, or something like that?
+In France, of course, you have a very old republican tradition, so it’s not 20 years of representative democracy versus 20 years of direct democracy. You’re not on the same terms. This is 10 times more, so you have also to solve the priority issue here to change the discourse. I like to say that, I think it was Hollande who said that financialisation was his personal enemy, or something like that?
 
 ### Amaëlle Guiton：
 Yes, absolutely.
@@ -1180,7 +1180,7 @@ OK. Yeah.
 > (3.3. Folksonomy)
 
 ### Audrey Tang：
-&quot;If you’re Homo Sapience, then you’re a human.&quot; Folksonomy is hashtags. #Hashtags. If you hashtag something, and then something that has absolutely nothing to do with it, except being tagged by something else with the same hashtag, then they have some correlation. You can then have tag clouds, that have &quot;family resemblances&quot; between people who tag differently.
+&quot;If you’re Homo sapiens, then you’re a human.&quot; Folksonomy is hashtags. #Hashtags. If you hashtag something, and then something that has absolutely nothing to do with it, except being tagged by something else with the same hashtag, then they have some correlation. You can then have tag clouds, that have &quot;family resemblances&quot; between people who tag differently.
 
 ### Audrey Tang：
 On Twitter people will sometimes, always tag the same three things together. Just to get the attention of different groups of people. You know that, right? This is called folksonomy. When you’re saying I’m not labelling people, that’s not entirely true. I’m OK with labelling people. But the precondition is, it’s done in the folksonomy style: People choosing their own labels.
@@ -1231,7 +1231,7 @@ On the other hand, I really think there should be a public and democratic debate
 By the people, yes.
 
 ### Amaëlle Guiton：
-One the other hand you also have to do things. Not only crypto parties, people who can code they write software.
+On the other hand you also have to do things. Not only crypto parties, people who can code they write software.
 
 ### Audrey Tang：
 I see what you’re saying. Richard Stallman is not coding nowadays. He is lobbying 100 percent of his time. What you’re saying is that Richard’s code should still get maintained and basically the idea is that people shouldn’t...the hacker community should still do what Richard started doing, but also maintain what Richard is now doing.

@@ -386,7 +386,7 @@ Or SAP.
 ...or SAP, yeah.
 
 ### Audrey Tang:
-Let’s see. Impact is great as a theme, even the GC-plus or the Global Entrepreneurship Network, that’s now rebranded, like in GC Taipei, we’re now enabling social impact with AI plus IoT.
+Let’s see. Impact is great as a theme, even the GEC-plus or the Global Entrepreneurship Network, that’s now rebranded, like in GEC Taipei, we’re now enabling social impact with AI plus IoT.
 
 ### Audrey Tang:
 Impact is definitely the right word of the year, \[laughs\] and next year for sure. You still have to distinguish yourself from WCIT somehow. Otherwise, it would be seen as a scaled-down WCIT and CompuTEX and InnoVEX. The question you always got to ask is how is this different from WTIC and the top tier, then computech and innovech.
@@ -715,7 +715,7 @@ That’s right. There’s a reform of the SME department, but now they will beco
 I see.
 
 ### Audrey Tang:
-Startup is going to be the new word in this. It used to be the usual word in international development -- &quot;MSME&quot; meaning micro, small and mesium -- but startup is not actually micro. Startup is maybe exponential in growing.
+Startup is going to be the new word in this. It used to be the usual word in international development -- &quot;MSME&quot; meaning micro, small and medium -- but startup is not actually micro. Startup is maybe exponential in growing.
 
 ### Justin Wu:
 Its own track.

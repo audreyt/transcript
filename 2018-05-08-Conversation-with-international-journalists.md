@@ -312,10 +312,10 @@ Now, of course, there are limits to any technological breakthrough. On the other
 For the time being, there are roughly speaking, three very different Internet governance philosophies being battled out. Original end-to-end innovation that starts from the US, and the human right-based thinking that is the GDPR and the current EU working groups. Of course, there is the Wuzhen paradigm that basically sees the cyberspace as a power projection of the realspace government system.
 
 ### Audrey Tang:
-These three are frankly speaking, not very compatible. Taiwan is caught in the middle of all three. We try to harmonize the laws so that, thorough open multi-stakeholder consultation, we allow innovators who work on any innovation regimes to still thrive in Taiwan.
+These three are frankly speaking, not very compatible. Taiwan is caught in the middle of all three. We try to harmonize the laws so that, through open multi-stakeholder consultation, we allow innovators who work on any innovation regimes to still thrive in Taiwan.
 
 ### Audrey Tang:
-Today, our government itself must always be held accountable by the people. However, there is no promise that in the future, hundreds of years in the future, that we will still remain a democracy. I think it’s for every generation to ensure that for the next generation, it still says true to the original democratic goals. Seven more generations, and I can’t promise anything.
+Today, our government itself must always be held accountable by the people. However, there is no promise that in the future, hundreds of years in the future, that we will still remain a democracy. I think it’s for every generation to ensure that for the next generation, it still stays true to the original democratic goals. Seven more generations, and I can’t promise anything.
 
 ### Audience Member:
 Regarding the practice that you mentioned at the beginning, to record meetings, and to be transparent, show to the people how discussions are displayed in government, can you tell us how much resistance do you find from any other colleagues?
@@ -593,7 +593,7 @@ The interesting thing about embracing a troll is that, in our spaces for discour
 We establish a way for the moderator to be able to basically edit out all the 97 words, leaving only three words, and then reply substantively to the three words. Therefore, everyone who are bystanders to learn that the only way to get the ministry response is to be constructive.
 
 ### Audrey Tang:
-It is still not censorship, because if you have too much time on your hands, you can click revision history and see the original version. It’s not like we sensor people.
+It is still not censorship, because if you have too much time on your hands, you can click revision history and see the original version. It’s not like we censor people.
 
 ### Audrey Tang:
 It is true that once people get out with the catharsis, so to speak, and find out they haven’t been kicked out, but instead rewarded, but only for the constructive parts, they’re much more willing to be a constructive member of the community.

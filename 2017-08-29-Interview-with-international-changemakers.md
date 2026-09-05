@@ -380,7 +380,7 @@ Come to the hackathon.
 OK.
 
 ### Audrey Tang:
-It’s in the same place where I have my office hour. It’s the Taiwan Air Force round. It’s, I think, one of the coming Saturdays. It’s 200 people. There’s still 100 slots. Come to the hackathon.
+It’s in the same place where I have my office hour. It’s the Taiwan Air Force ground. It’s, I think, one of the coming Saturdays. It’s 200 people. There’s still 100 slots. Come to the hackathon.
 
 ### Audrey Tang:
 There will be, roughly speaking, maybe 50 active programmers, maybe 30-ish designers, but with many other people being just like you, are working on climate change, working on different kind of social issues and things like that.

@@ -10,7 +10,7 @@ Is this the right Audrey Tang?
 It is the correct Audrey Tang. That’s my Skype ID, by the way.
 
 ### Joe Dolce:
-There are thousands of Audrey Tangs, so you know. One is in mandarin characters that I don’t read. I had no idea it was you. Good morning.
+There are thousands of Audrey Tangs, so you know. One is in Mandarin characters that I don’t read. I had no idea it was you. Good morning.
 
 ### Audrey Tang:
 There’s three Joes, as well. Good morning.
@@ -211,10 +211,10 @@ It was widely considered impossible to implement, to do. I just came out of nowh
 Can I interrupt you for a second? You haven’t told me the motivation. Why is free software and free speech important to you? Where did this come from?
 
 ### Audrey Tang:
-I was able to quit school because of things like the Guttenberg Project. It’s like before Wikipedia. There’s people who digitized all those books. I basically got all my education from projects like Project Guttenberg, so I would like to give back. That’s my motivation, because otherwise it wouldn’t be possible.
+I was able to quit school because of things like the Gutenberg Project. It’s like before Wikipedia. There’s people who digitized all those books. I basically got all my education from projects like Project Gutenberg, so I would like to give back. That’s my motivation, because otherwise it wouldn’t be possible.
 
 ### Audrey Tang:
-Also, I think my outlook on history or human nature is very much biased toward optimism. Project Guttenberg only contains at that time works before the First World War, because everything afterwards is still in copyright. I read the classics before the world wars. I think that really biased my education.
+Also, I think my outlook on history or human nature is very much biased toward optimism. Project Gutenberg only contains at that time works before the First World War, because everything afterwards is still in copyright. I read the classics before the world wars. I think that really biased my education.
 
 ### Joe Dolce:
 Why does that lead you to optimism?
@@ -304,7 +304,7 @@ Whoa, we went from 15 to your introducing something to the national government. 
 Oh, yeah. They actually faked my records to the Ministry of Education, so I won’t get fined by skipping compulsory education.
 
 ### Joe Dolce:
-What’d you parents think about this?
+What’d your parents think about this?
 
 ### Audrey Tang:
 They were initially very skeptical, because nobody really knew what the World Wide Web is, but I managed to reason it out and convince them after a couple months.
@@ -1049,7 +1049,7 @@ OK.
 Only want you to use those two words. I’m going to call out an emotion, and I want you to convey that emotion. This is not what you do naturally in English. I’m going to ask you to really convey emotion through words, just through the tone of your voice.
 
 ### Audrey Tang:
-OK, I’ll just you your words. That is fine.
+OK, I’ll just use your words. That is fine.
 
 ### Joe Dolce:
 Cheese sandwich.

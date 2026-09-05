@@ -133,7 +133,7 @@ Both before and during the show are our main ways just to see it not as a &quot;
 Within our media team, sometimes we have these slightly not so workable, or slightly not so realistic, just imagination meetings, where we ask questions like, &quot;Why isn’t...&quot; We think of media, we think of medium, like paper, analog waves, or digital transmission.
 
 ### Chieh-Ting Yeh:
-Say a convenience store, why couldn’t that be a media of some sort? If we were to present the tenants of the news media to have an informed electorate, to have a civil dialog, can that happen in the medium of a convenience store?
+Say a convenience store, why couldn’t that be a media of some sort? If we were to present the tenets of the news media to have an informed electorate, to have a civil dialog, can that happen in the medium of a convenience store?
 
 ### Audrey Tang:
 Of course. The Portuguese people are planning to have their participatory budget plan voted through automatic teller machines. That’s a media right there. You see all the PB plans and they have a screen and a drawing.

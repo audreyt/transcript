@@ -118,7 +118,7 @@ Just gathering ideas.
 Just gathering ideas, brainstorming with them. I often use teleconferencing so that every couple of weeks, 12 ministries here in social innovation lab see with a real two-way teleconferencing wherever I go, maybe to rural places and indigenous places and so on, we can resolve in real-time the questions brought by that regional social innovators.
 
 ### Audrey Tang:
-Because everything is radically transparent, it’s all published online. People can continue on previous discussions just like that. Previously, people have to wait for weeks the government to have a written response. That’s not very efficient, and it often loses relevant context, because social innovation only makes sense if you’re within the social context in which in happens.
+Because everything is radically transparent, it’s all published online. People can continue on previous discussions just like that. Previously, people have to wait for weeks the government to have a written response. That’s not very efficient, and it often loses relevant context, because social innovation only makes sense if you’re within the social context in which it happens.
 
 ### Audrey Tang:
 If they send one delegate to travel for four hours to Taipei to give a 15-minute PowerPoint presentation, it loses all the social context which it originates from. By visiting there myself, and through telepresence to let the ministry people be part of the social presence, we can all better understand what kind of regulatory changes are needed, what kind of sandbox is needed.
@@ -148,7 +148,7 @@ Do you find that this radical transparency idea, which is also...This is the fir
 Do you feel the changes the way people respond? Do you feel that maybe it gets results faster? I don’t know. What’s your sense of how useful is it as a tool?
 
 ### Audrey Tang:
-It think it’s very useful. For example, when we did the e-sport case, there was a huge gap between people who have played e-sport...
+I think it’s very useful. For example, when we did the e-sport case, there was a huge gap between people who have played e-sport...
 
 ### Chuin-Wei Yap:
 E-sports?
@@ -274,7 +274,7 @@ While they technically still work in Taiwan, they are actually working for the..
 Chinese.
 
 ### Audrey Tang:
-We do see these shapes of attempts, they are rarely very successful, but we do see these attempts. The existing trades secret law applies here. I think the Minister of Labor adjusted their interpretation on anti-competition, so that even if it’s indirect working for foreign interests, it’s still interpreted as working for foreign interests.
+We do see these shapes of attempts, they are rarely very successful, but we do see these attempts. The existing trade secret law applies here. I think the Minister of Labor adjusted their interpretation on anti-competition, so that even if it’s indirect working for foreign interests, it’s still interpreted as working for foreign interests.
 
 ### Audrey Tang:
 We did change some interpretations based on the actual happenings that we witness in the field.

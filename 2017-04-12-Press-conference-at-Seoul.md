@@ -112,7 +112,7 @@ Yes, we focusing on having local talents, and develop our cybersecurity market a
 You are youngest minister in Taiwan now and that have been a big issues in Taiwan that you’re talking. He heard that you have been a programmer or hacker, and have been quite good in it. What could be the reason, what kind of issues, or what kind of events, that has led you to be the minister?
 
 ### Audrey Tang:
-One of the oldest definition of hacker, before it becomes a cybersecurity term, is the hobbyist use of the term hacker, back in the MIT or the Chaos Computing Club. Back at that time hacker means somebody who can make their own tools when there are no existing tools to do some job. This means the maker of tools.
+One of the oldest definition of hacker, before it becomes a cybersecurity term, is the hobbyist use of the term hacker, back in the MIT or the Chaos Computer Club. Back at that time hacker means somebody who can make their own tools when there are no existing tools to do some job. This means the maker of tools.
 
 ### Audrey Tang:
 Back in 2014, when we had the Sunflower Occupy, of which students occupied the Parliament for 22 days, it was not just a protest. It is because the parliamentarians, the legislators refused to deliberate on a trade service agreement.

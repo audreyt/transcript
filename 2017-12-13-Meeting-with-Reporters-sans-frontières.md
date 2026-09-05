@@ -58,7 +58,7 @@ We’ve been doing this kind of collaborative meeting for 25 meetings at the mom
 The environmentalist versus local fishes peoples is a very common dialogue. But because people have more than 5,000 people going into the e-petitions, we now know what are the pro and con ideas are.
 
 ### Audrey Tang：
-Actually flew to that remote island, to Penghu, and have a town hall style collaborative meeting there. With 360 livestream, we were able to connect to or more spaces into one deliberative space and still come up with some consensus that people can accept.
+Actually flew to that remote island, to Penghu, and have a town hall style collaborative meeting there. With 360 livestream, we were able to connect two or more spaces into one deliberative space and still come up with some consensus that people can accept.
 
 ### Pierre Haski：
 What was the outcome?
@@ -552,7 +552,7 @@ Actually, you would be surprised.
 Really?
 
 ### Audrey Tang：
-Yeah, many of them are after their work active people, Internet forums, or other Facebook, PTT, or some forums. They do have experiencing working in the civil society space. It’s that before, it was a site job. Now, it’s their day job.
+Yeah, many of them are after their work active people, Internet forums, or other Facebook, PTT, or some forums. They do have experiencing working in the civil society space. It’s that before, it was a side job. Now, it’s their day job.
 
 ### Audrey Tang：
 We explicitly recruited on the PTT board for the public servants to join the PO workforce. We actually get the career public servants. It’s important, because otherwise, people will think it’s particular to a cabinet, and once the election cycle comes, all the system goes away.

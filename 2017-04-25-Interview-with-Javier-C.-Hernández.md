@@ -121,7 +121,7 @@ For the non‑bikers there, like me, they had also the first point of view recor
 What I mean is that we start small, like 5,000‑people level, and gradually build that trust, instead of just having the most controversial, the most difficult. I wouldn’t say that if we do a, for example, same‑sex marriage forum we would get meaningful results. We would need to get people’s habit into this kind of process for this situation.
 
 ### Javier C. Hernández：
-In terms of how you incorporate this into your own role as a minister here, maybe you can talk a bit about your daily life and how you incorporate these principals into how you manage a government office.
+In terms of how you incorporate this into your own role as a minister here, maybe you can talk a bit about your daily life and how you incorporate these principles into how you manage a government office.
 
 ### Audrey Tang：
 The PDIS team is all volunteers and I’m an anarchist, meaning that don’t give commands. Everybody just determined which part of this roadmap they’re interested in, and then just go ahead and do it. Every week we have a roadmap ‑‑ I mean quite literally a roadmap, so you can see that we have...and that’s last week.
@@ -343,7 +343,7 @@ There was not so much interdisciplinary work. People were educated to join one p
 Even public servants, they used to be once you get into public service, they would get out. Nowadays, people are switching in and out more and more. We’re seeing a lot more cross pollination between youth people, which is great, because then they apply different science views to also the different thinking they have outside of the government.
 
 ### Audrey Tang：
-They go back a change the government in a way that fits better with the collaborative tools, the collaborative spirit. We’re seeing a lot more young Korean public servants to maybe take a sabbatical and then do some collaborative work.
+They go back and change the government in a way that fits better with the collaborative tools, the collaborative spirit. We’re seeing a lot more young Korean public servants to maybe take a sabbatical and then do some collaborative work.
 
 ### Audrey Tang：
 We’re also seeing so‑called civic actors that just saw something that the government really doesn’t do well, and then try to form NGOs, or even a social enterprise, and then try to fill in the gaps that the government doesn’t do. Like Tzu-Chi, it’s huge. It does a lot of administrative work on health and welfare.
@@ -451,7 +451,7 @@ I’m a friendly anarchist.
 The other thing that’s very historic is that you’re probably the world’s highest‑ranking publicly transgender people. I’m curious, how does that influence just being in this office? Having a face, and somebody who obviously has, for many years, been someone who people look up to in this realm.
 
 ### Javier C. Hernández：
-Now, you’re in government. I’m sure that’s brought of lot of inspiration, perhaps, to people who are...
+Now, you’re in government. I’m sure that’s brought a lot of inspiration, perhaps, to people who are...
 
 ### Audrey Tang：
 I’m happy about it. I don’t feel that I can represent transgender people in general. My own experience growing up, because the body’s testosterone level naturally is about the average of human beings. I don’t really belong to either camp, chemically speaking.

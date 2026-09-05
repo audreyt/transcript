@@ -54,7 +54,7 @@ I can understand. Do you have time now so I can...?
 Yeah, I do have time now, so we can still chat.
 
 ### Marieme Jamme:
-Just in case. Basically, I’ve been doing a lot of work in Taipei and Taiwan with the Shin Kong Life Foundation. Two days ago, I was reading a google alert on Taiwan and something just popped up on my email saying that there’s a Taiwanese delegation going to the UN.
+Just in case. Basically, I’ve been doing a lot of work in Taipei and Taiwan with the Shin Kong Life Foundation. Two days ago, I was reading a Google alert on Taiwan and something just popped up on my email saying that there’s a Taiwanese delegation going to the UN.
 
 ### Audrey Tang:
 During the UNGA. That’s right.
@@ -72,7 +72,7 @@ Yeah, I’ve read all the online materials. You can assume that I’ve read all 
 \[laughs\] You know? OK. Then basically, what we’re trying to do in Taiwan is, this Shin Kong Life Foundation, they’ve been absolutely great. I was there for five days. They organized so many meetings.
 
 ### Marieme Jamme:
-I meet the people in government. They were excited. They really welcome me very, very nicely. I told them i will come back to Taiwan. Two things we discussed. They wanted us to come back in Taipei to meet other partners. Then the second thing they wanted us to do is to help them with our curriculum and computers.
+I meet the people in government. They were excited. They really welcome me very, very nicely. I told them I will come back to Taiwan. Two things we discussed. They wanted us to come back in Taipei to meet other partners. Then the second thing they wanted us to do is to help them with our curriculum and computers.
 
 ### Marieme Jamme:
 We have a very nice content. We have a very nice curriculum around the SDGs, over 1,200 lesson plans, totally based on the SDGs challenges, tracks, and all of that.
@@ -117,7 +117,7 @@ Wow. That’s amazing.
 I think this very much will align to your mission.
 
 ### Marieme Jamme:
-It’s so great. It’s so fantastic. The other thing also we do, you just touched on it, is the pre-21 framework, the 21st century learning skills. We align this with the SDGs now. It’s really fantastic. Also, one of the things we can also look into, I don’t know.
+It’s so great. It’s so fantastic. The other thing also we do, you just touched on it, is the P21 framework, the 21st century learning skills. We align this with the SDGs now. It’s really fantastic. Also, one of the things we can also look into, I don’t know.
 
 ### Marieme Jamme:
 African countries, they really like Taiwan, but it’s a bit of a deep dive. I think content, let’s say we find a way of working together. This content could be spread out across Africa, in the Middle East, and in many, many countries. The reach is massive.

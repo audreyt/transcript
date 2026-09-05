@@ -139,7 +139,7 @@ When you look at Taiwan and compare potentially with Korea, I was at the IDEAS s
 I’ve heard Hong Kong’s laws were drafted by a British lawyer and are quite strict on privacy. I don’t know about enforcement. How do you think Taiwan sits? I learned about something else that at the show there, the CBPR with APEC, which is the same data protection across economies.
 
 ### Audrey Tang:
-We did do a thorough check of our currency privacy law when compared with the new 2018 EU GDPR. After we enacted the sensitive data protection clause, the main thing that’s left is our different interpretation of data protection agencies, with each ministry being its own DPA, which is frankly quite strange when compared with other countries.
+We did do a thorough check of our current privacy law when compared with the new 2018 EU GDPR. After we enacted the sensitive data protection clause, the main thing that’s left is our different interpretation of data protection agencies, with each ministry being its own DPA, which is frankly quite strange when compared with other countries.
 
 ### Audrey Tang:
 Otherwise, I would say also that initially there were cases where ministry interpreted the data protection laws kind of differently, because they have different information technology capabilities.

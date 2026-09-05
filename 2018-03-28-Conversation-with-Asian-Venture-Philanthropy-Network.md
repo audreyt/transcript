@@ -125,7 +125,7 @@ For the extra money, they’ve got to work to innovate. Their funding situation 
 Despite it not being the presidential hackathon thing, I think it actually is one of the strongest open data culture in the cabinet. There’s more.
 
 ### Audrey Tang:
-The Ministry of Finance actually have a very strong data ownership and they have control departments. The Council of Agriculture also is pretty strong, the Ministry of Interior also. That’s about open licenses. They’re very strong in that. The Minister of Education certainly is one of the leading ministries.
+The Ministry of Finance actually have a very strong data ownership and they have control departments. The Council of Agriculture also is pretty strong, the Ministry of Interior also. That’s about open licenses. They’re very strong in that. The Ministry of Education certainly is one of the leading ministries.
 
 ### Kevin Tan:
 Got it.
@@ -613,7 +613,7 @@ That may also add to your network. I told our Ministry of Health and Welfare, as
 That would be great. To the extent that we can take the social impact bond journey to the next level, I think your suggestions earlier about where are the low-hanging fruits will be really valuable. I suppose if, in doing the discussions, we come across any potential challenges, we can maybe have a further conversation with you.
 
 ### Audrey Tang:
-At the moment, for someone to try out a creative programming model, it is not legal. The public servant who signed this, they have the responsibility to explain to their minister. That actually is the main issue. If they choose the lowest price fit, there is no risk whatsoever, which is why they tend to use this traditional procurement method.
+At the moment, for someone to try out a creative procurement model, it is not legal. The public servant who signed this, they have the responsibility to explain to their minister. That actually is the main issue. If they choose the lowest price fit, there is no risk whatsoever, which is why they tend to use this traditional procurement method.
 
 ### Audrey Tang:
 In our proposed bill now in the Legislative Yuan, we are change the procurement law, that they no longer require explanation in this arm. The risk is not concentrated. The traditional way, and the best value, whatever the value means, it could include such value, are now on par. They no longer have to justify to this.

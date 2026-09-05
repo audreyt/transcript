@@ -537,7 +537,7 @@ It is also not just a topological, what we call a place ref, but is also has a p
 The links are what makes this alive and organic and not just people who splinter into smaller and smaller places. These two taken together there is a theory that describes this called Bigraphs. The Bigraph theory which is used, for example, when you take the high speed rail in Taiwan.
 
 ### Audrey Tang:
-The software uses Bigraphs to figure out where your mobile phone is going to be and tells the next tower to prepare its signal anticipating your activity. To do that, you need to think in category theory where you’re placed in a place wrap but also where you’re trying to reach in the Link Graph to figure this out. There is this whole calculus to talk with this.
+The software uses Bigraphs to figure out where your mobile phone is going to be and tells the next tower to prepare its signal anticipating your activity. To do that, you need to think in category theory where you’re placed in a place graph but also where you’re trying to reach in the Link Graph to figure this out. There is this whole calculus to talk with this.
 
 ### Audrey Tang:
 My mental model is just occupies used to be thinking about the price model. For example, the people’s microphone, the megaphone, where one person speaks and people around him repeat and so on. It is fundamentally one directional. There is no people listening. It doesn’t work in reverse. \[laughs\]
@@ -812,7 +812,7 @@ More?
 Yeah. When used as a violent device, it excludes possibilities. A gun only excludes certain instances of a possibility, but code has the potential of the effect on excluding even the ways to think about those possibilities.
 
 ### Audrey Tang:
-While guns and canons can only make examples and deter people from thinking some thoughts, code can actually make people not to think about those thoughts. I would say in many ways it’s a more violent device.
+While guns and cannons can only make examples and deter people from thinking some thoughts, code can actually make people not to think about those thoughts. I would say in many ways it’s a more violent device.
 
 ### Martin Legros:
 That’s what anarchistic means. What is conservative?

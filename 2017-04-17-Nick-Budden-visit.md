@@ -303,7 +303,7 @@ Because it’s all in Chinese.
 Yeah, I don’t really know...
 
 ### Audrey Tang:
-But you can start with our website, with is pdis.tw, which, for once, is an English website.
+But you can start with our website, which is pdis.tw, which, for once, is an English website.
 
 ### Nick Budden:
 PDIS?
@@ -324,7 +324,7 @@ Just out of curiosity, are you getting anybody in government to do that? I don�
 Yeah. The whole idea here is to build an accountability trail. We started working with the e-Sport case just as a demo. This is, unfortunately, in Chinese, but let me translate this.
 
 ### Audrey Tang:
-Because East Port doesn’t really have a ministry to look after them, we worked with three different ministries, each doing one different thing, one about academic, one about conscription, and one about regulations of subsidies of investments. We convinced those ministries to do policy making in this radically transparent, before‑decision fashion, and they agreed.
+Because e-Sport doesn’t really have a ministry to look after them, we worked with three different ministries, each doing one different thing, one about academic, one about conscription, and one about regulations of subsidies of investments. We convinced those ministries to do policy making in this radically transparent, before‑decision fashion, and they agreed.
 
 ### Nick Budden:
 They’ve had a pretty consistently positive reaction?

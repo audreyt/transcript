@@ -486,7 +486,7 @@ Right. Well, social media is very broad. What I care about is whether we ended u
 This is basically a public concerned very deeply on the ways in which they communicate, they form decisions, and so on. It’s as if everyone in a public, in republic is concerned with constitutional law. It’s something like that, how the society itself is being formed is being constantly under scrutiny by people who participate in public discussion.
 
 ### Audrey Tang:
-This characterized, not only the free software community, but Wikipedia community, the Creative Common community, the open access, open science community, and many other communities who are vitally concerned about the rules, constitutions of how the public is formed.
+This characterized, not only the free software community, but Wikipedia community, the Creative Commons community, the open access, open science community, and many other communities who are vitally concerned about the rules, constitutions of how the public is formed.
 
 ### Audrey Tang:
 Then, later, of course, we see the current generation of social media, Twitter, Facebook, and so on, which are not recursive in the same way. People who participate don’t actually think they do have a say on the code that makes up Facebook or that makes up Twitter. They’re more users in the traditional user sense.

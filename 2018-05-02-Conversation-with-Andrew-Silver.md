@@ -68,7 +68,7 @@ Sure, the technology department of MOEA is also...
 Oh, the Ministry of Economic...
 
 ### Audrey Tang:
-The Ministry of Economy Affairs. The division of labor is mostly the MOST work on the research part and MOEA work on the development part, but they’re both technology, R&amp;D.
+The Ministry of Economic Affairs. The division of labor is mostly the MOST work on the research part and MOEA work on the development part, but they’re both technology, R&amp;D.
 
 ### Audrey Tang:
 Technology department in MOEA is concerned with how to transfer cutting-edge research into something that has an economic impact, whereas here we are among the staff and associates of the SME department in MOEA, who is then concerned of how to take those technological developments, and then realizing it in a way that benefits the SME in Taiwan, which is the vast majority of enterprises in Taiwan.
@@ -238,7 +238,7 @@ They have their own open data policies, but they’re distinct from the executiv
 All the branch can propose law amendments to the legislative. This is, again, very different from certain other countries. In other countries only MPs get to propose bills and amendments, but here all the five branches can propose their own amendments to the legislative branch.
 
 ### Audrey Tang:
-We have prepared an amendment to the legislative branch that concerns the corrective branch, to ask them to, as part of the sunshine campaigning law, publish he fine details of all the political donations to an election campaign. If passed by the legislation, that will bind the corrective power, but we can’t directly use a regulation to ask data out of the corrective branch.
+We have prepared an amendment to the legislative branch that concerns the corrective branch, to ask them to, as part of the sunshine campaigning law, publish the fine details of all the political donations to an election campaign. If passed by the legislation, that will bind the corrective power, but we can’t directly use a regulation to ask data out of the corrective branch.
 
 ### Andrew Silver:
 Right now, there’s no way to get data from the corrective branch, because there’s no...?

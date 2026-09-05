@@ -414,7 +414,7 @@ No, you just speak in English, and I’m going to record it.
 That’s great. Yeah, I started very early on to take an interest in mathematics, and I started reading programming language books when I was eight. They described a way for people to very quickly get results with mathematics without having to do all the calculations by hand, and it’s much less error-prone.
 
 ### Audrey Tang：
-I got very interested. I didn’t have a computer, so I basically just took pencil and paper and drew keyboard and typed on paper, and then wrote what the computer would say and so one. Basically, I drew a paper computer.
+I got very interested. I didn’t have a computer, so I basically just took pencil and paper and drew keyboard and typed on paper, and then wrote what the computer would say and so on. Basically, I drew a paper computer.
 
 ### Audrey Tang：
 This means that computational thinking is one way of thinking. It doesn’t depend on the machine, and if one structure oneself in some way, some part of the thought process can be automated.
@@ -438,7 +438,7 @@ You’re a civic hacker since you are 33, right?
 What kind of activities did you focus on, and what were your goals at the time?
 
 ### Audrey Tang：
-I’m always a civic hacker. I started working on Internet’s human ride and freedom of speech movement at least since 1996. That’s during the Blue Ribbon Campaign and so on, so yeah, I’m always a civic hacker I would say.
+I’m always a civic hacker. I started working on Internet’s human rights and freedom of speech movement at least since 1996. That’s during the Blue Ribbon Campaign and so on, so yeah, I’m always a civic hacker I would say.
 
 ### Audrey Tang：
 The primary thing, of course, is the sharing of the knowledge and making the process of sharing also a common knowledge. As early hackers, we all believe that the tools that we use to shape our lives is more and more taking over the role that was initially taken by laws.

@@ -91,7 +91,7 @@ Digital Minister, I’m from India. India has a massive digital transformation p
 That’s a great question. In my previous life, last year, \[laughs\] I was a software engineer and designer. I worked with Apple for six years before joining the Cabinet. That was my previous job. As you well imagine, in Silicon Valley, there’s a lot of bi-directional communication with India, both in the sense of the movement of talents and the movement of capital, and collaboration on the software chain.
 
 ### Audrey Tang:
-I think Taiwan can learn a lot from India in how we should collaborate internationally, both in the easier movement of talents, both to and from. and also about how we redefine ourselves as a design-first or a software-first place.
+I think Taiwan can learn a lot from India in how we should collaborate internationally, both in the easier movement of talents, both to and from. And also about how we redefine ourselves as a design-first or a software-first place.
 
 ### Audrey Tang:
 Taiwan, as many of you well know, was known for semiconductors, peripherals and all kind of hardware manufacturing. But we are now also changing in our own value chain, driven by technologies such as AI on the edge, IoT, and stuff like that, which all require us to move closer to the user and closer to design and to user needs.
@@ -390,7 +390,7 @@ I don’t think this is anyone’s fault or anyone’s blame. It is a natural co
 When I work in social enterprise or social innovation here with these three groups of people, we see people who are entrepreneurs, who set out to solve a societal problem, mostly young people. We see NGOs, the not-for-profits, taking care of the parts that is neglected by industries and by governments.
 
 ### Audrey Tang:
-In Taiwan, there’s a huge number of people in the voluntary sector. Tsu Chi, for example, is almost governmental size in its aim and in its reach. The NPOs, including Tsu Chi, as I mentioned, now turn to work with the market in a way that is innovative and is sustainable in its business model but, at the end, it’s still an NPO that takes care of regional needs.
+In Taiwan, there’s a huge number of people in the voluntary sector. Tzu Chi, for example, is almost governmental size in its aim and in its reach. The NPOs, including Tzu Chi, as I mentioned, now turn to work with the market in a way that is innovative and is sustainable in its business model but, at the end, it’s still an NPO that takes care of regional needs.
 
 ### Audrey Tang:
 We see more and more companies, big companies, with a for-profit vision or mission, including foreign companies like Facebook, who then suddenly take such a mission because they see their work as something that is being embedded with humanity. As a fellow human being that, perhaps, do not want their society to go hardly wrong, they see it as more than social responsibility and see it more as a social mission.
@@ -477,7 +477,7 @@ The government’s part in it is just, first, we shouldn’t make rumors ourselv
 > (laughter)
 
 ### Audrey Tang:
-The other thing is that when there is some fact that we can provide to aid those fact-checkers, those collaborative efforts, we need to make the Frequently asked questions each into its own URL, in a very easy-to-disseminate format, in a very easy-to-share, basically, make it content form-like, so that the truth spreads as easy as rumors.
+The other thing is that when there is some fact that we can provide to aid those fact-checkers, those collaborative efforts, we need to make the frequently asked questions each into its own URL, in a very easy-to-disseminate format, in a very easy-to-share, basically, make it content form-like, so that the truth spreads as easy as rumors.
 
 ### Audrey Tang:
 Make sure that all the evidence-checkers and people who work on media literacy can then use these as easy sources. That is what we’re actively doing. I think, Taiwan is where we work with the constraint that we must never censor anything.
@@ -759,7 +759,7 @@ Any other questions? There’s some seven minutes. You’re all good?
 A little esoteric but what might you be doing in five years time?
 
 ### Audrey Tang:
-People ask me that all the time. There’s a companion question: &quot;Where do you see Taiwan going in five year’s time?&quot;
+People ask me that all the time. There’s a companion question: &quot;Where do you see Taiwan going in five years’ time?&quot;
 
 > (laughter)
 

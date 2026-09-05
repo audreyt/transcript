@@ -453,7 +453,7 @@ There is quite a few public hearings that people can also provide their input. T
 That’s one of the technical challenges that we subsequently solved for our subsequent discussions by essentially having the deliberation in a smaller room, but having people who want town halls watch the live-streaming in a separate town hall, rather than having them in the same room. That’s the technical thing.
 
 ### Audrey Tang:
-Yes, I think something like pol.is would have helped during the discussion, but it’s not structurally the determinant. It will perhaps make is easier for the wiser suggestions to float to the top faster.
+Yes, I think something like pol.is would have helped during the discussion, but it’s not structurally the determinant. It will perhaps make it easier for the wiser suggestions to float to the top faster.
 
 ### Audrey Tang:
 Essentially the National Pension Reform Board used human power \[laughs\] to manually go through any suggestions anyway, but that’s a lot of work, so I would say pol.is or something like pol.is would help as a work/labor reducer, but with a structure of an ongoing panel, plus public hearings, plus online a real-time Q&amp;A.
@@ -779,7 +779,7 @@ This is...?
 ...17, yeah. It talks about cross-sectoral trust. It talks about open data. It talks about transparency. It talks about broadband as human right. It talks about connectivity of all clients, and so on.
 
 ### Audrey Tang:
-All this resonates really well with the work that I’m going. I wouldn’t say that it’s entirety of my work. I also do social entrepreneurship and things like that, but even those can also be factored into the SDG 17 hashtag.
+All this resonates really well with the work that I’m doing. I wouldn’t say that it’s entirety of my work. I also do social entrepreneurship and things like that, but even those can also be factored into the SDG 17 hashtag.
 
 ### Audrey Tang:
 Nowadays, it’s just like design thinking. I am just saying, &quot;I’m doing SDG 17.&quot; It’s easier to explain.
@@ -867,7 +867,7 @@ How important is trust in this field that they’re working with, and is that so
 We move at speed of trust. In the environment where there is less trust, we move slower and earn the trust. In an environment where trust is plenty then we move faster and earn trust even faster, so that’s the whole idea.
 
 ### Hannes Hofer:
-At my core job, taking care of tobacco shops. What we do is we provide tobacco shops to people with disability. We’re saying that’s not a normal market so we interfer and link it to a social problem.
+At my core job, taking care of tobacco shops. What we do is we provide tobacco shops to people with disability. We’re saying that’s not a normal market so we interfere and link it to a social problem.
 
 ### Hannes Hofer:
 Smoking, as a topic, is very controversial. At the moment, we have a very big discussion going on about smoking in bars and restaurants. On that topic, Freedom Party said people should rather take their own decision, like restaurants owners, what they want to do. They want the people, as well, have the decision what they should do.

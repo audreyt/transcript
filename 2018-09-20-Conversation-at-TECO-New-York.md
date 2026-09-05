@@ -796,7 +796,7 @@ I think we’re experiencing at the SDG implementation a new relevance of youth.
 That’s specifically for youth, which I think was great, I agree with that. I think the implementation of the SDGs, the 2030 Agenda, it definitely incorporates youth. All the countries are trying to deliver this, incorporating youth. That’s extremely good.
 
 ### Audrey Tang:
-That’s great. I would also like to highlight the important work that our youth councilors, the youth advisor group to the administration, is doing. The website may take a while. In this demonstration, this is the first time that we have an administration level above all the different ministries board of young people who advise the premiere and the ministers.
+That’s great. I would also like to highlight the important work that our youth councilors, the youth advisor group to the administration, is doing. The website may take a while. In this demonstration, this is the first time that we have an administration level above all the different ministries board of young people who advise the premier and the ministers.
 
 ### Audrey Tang:
 I think these 35 people are remarkably broad in what they care about, in what they propose, and what they advise us to do. I would also like to highlight the fact that most of their ideas are drawn from the common SDG vocabulary.
@@ -870,7 +870,7 @@ To contribute to SDG? This is also part of the Isabel question.
 > (laughter)
 
 ### Isabel Pérez Dobarro:
-Oh, here, too. It’s almost like you’re anticipating these quetions.
+Oh, here, too. It’s almost like you’re anticipating these questions.
 
 ### Audrey Tang:
 I think personally, just SDG index your work is very important. Just use the hashtag. Many a time, I just see people hashtag SDG 17, and then just discover like-minded people. It is like a virtual chatroom.
@@ -926,7 +926,7 @@ Whether it’s disinformation or misinformation, it’s the reality of our time.
 This is not saying that our civic space of expression, of assembly, of freedom -- why is this not showing up? -- but of speech is the best in the world. We’re certainly not, as compared to Nordic, or our New Zealand or Australian friends.
 
 ### Audrey Tang:
-In our region, if you go to Civics monitor with a faster Internet connection than I have, click Asia, and click fully open, and then you will see that Taiwan really is the only place that’s very open here. Because of that, we’re constrained in the way that we can use to combat disinformation.
+In our region, if you go to Civicus monitor with a faster Internet connection than I have, click Asia, and click fully open, and then you will see that Taiwan really is the only place that’s very open here. Because of that, we’re constrained in the way that we can use to combat disinformation.
 
 ### Audrey Tang:
 We must not sacrifice these very important core freedoms. What we did, actually, is to make sure that in the administration’s front page, there’s a dedicated syndicated feed of all the different clarifications.
@@ -944,7 +944,7 @@ Now, with the Internet, that model doesn’t work anymore. People just take one 
 Instead of a physical balance or an on-paper balance, what we are now achieving is a temporal balance, so that whenever people see a disinformation campaign, they learn to wait for a couple hours, and for the clarification to come out from this page.
 
 ### Audrey Tang:
-Instead of just changing this page over and over, people in the civic tech community, they built a lot of very innovative tools. For example, there is this tool called Cofact, which is a g0v project. The Cofact bot essentially is saying anyone can add this Line bot, which is like WhatsApp, as their Line friend.
+Instead of just changing this page over and over, people in the civic tech community, they built a lot of very innovative tools. For example, there is this tool called Cofacts, which is a g0v project. The Cofacts bot essentially is saying anyone can add this Line bot, which is like WhatsApp, as their Line friend.
 
 ### Audrey Tang:
 Then whenever you see information that you don’t know whether it’s rumor or not, you can just send it to that bot. That bot will get back with you whether this is actually a rumor, disinformation, or whether it’s true.

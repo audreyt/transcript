@@ -371,7 +371,7 @@ Yeah. If the judicial process has more jury system involved, then people has thi
 This is just because of this that we are not connecting to the sortation. Otherwise, theoretically, after the first diamond, the second diamond is best handled with sortation. We don’t have this culture here. Maybe in another generation, we will.
 
 ### Frederic Laloux:
-Can you expend on first and second diamond? I’m just curious.
+Can you expand on first and second diamond? I’m just curious.
 
 ### Audrey Tang:
 Sure. In design thinking, the first diamond consists of discovering the problem. People are putting their personal experience, their gripes, facts, whatever, evidences. It’s the first time it converges by people deciding on what is the common value around which to share a how might we question. How might we make something better? The theory of change.
@@ -880,7 +880,7 @@ The first one is actually a bundle. The legalization should be supervised. We ne
 > (laughter)
 
 ### Audrey Tang:
-There’s details in that. This is just high-level summary. the second, of course, legislation before reviewing the service trade. Actually, this is already agreed by the head of the parliament even before the Occupy retreated. is an early agreement. A mayor actually also aready supported this point.
+There’s details in that. This is just high-level summary. the second, of course, legislation before reviewing the service trade. Actually, this is already agreed by the head of the parliament even before the Occupy retreated. is an early agreement. A mayor actually also already supported this point.
 
 ### Audrey Tang:
 The third thing is, which is the discount when it comes to answering this, we will call for a civic constitutional conference, the Iceland style. People have already prototyped a grassroot forum for a civic constitutional conference. People are going to run them all over the place.
@@ -1020,7 +1020,7 @@ Maybe I can show you.
 I’ve actually never had a VR thing before. Have...
 
 ### Audrey Tang:
-The idea, very simply put, is you look at the Earth from space. This is my dynamic wallpaper. It actually reflects the time of the day. People often come from a mission to International Space Station and come back to Earth a better person, because of the overview fact. They see the Earth as fragile.
+The idea, very simply put, is you look at the Earth from space. This is my dynamic wallpaper. It actually reflects the time of the day. People often come from a mission to International Space Station and come back to Earth a better person, because of the overview effect. They see the Earth as fragile.
 
 ### Audrey Tang:
 Even for the private entrepreneurs like Mark Shuttleworth and so on, who paid privately for a space trip, it actually has the same effect, which is why he founded this Ubuntu Linux effort. The short-term makes a lot of sense because we’re literally clouded by the clouds. We can’t see people from the other side of the world as neighbors.

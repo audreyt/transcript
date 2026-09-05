@@ -440,7 +440,7 @@ You’re part of the government, but do you think they fully recognize that this
 We are working on the so-called Digital Nation Plan. It’s an eight-year plan. We know fully that the bureaucracy, or the professional career public servants were raised in an era where the fields have very delineated demarcations between the fields.
 
 ### Audrey Tang:
-People were trained in one field or the other, and they seldom talked to each other. Now it’s very cross-disciplinary, inter-disciplinary. While we are changing our curriculum to reflect this fact, we can’t just change everybody who work in the pubic service overnight, which is why this is an eight-year plan, and not an eight-month plan.
+People were trained in one field or the other, and they seldom talked to each other. Now it’s very cross-disciplinary, inter-disciplinary. While we are changing our curriculum to reflect this fact, we can’t just change everybody who work in the public service overnight, which is why this is an eight-year plan, and not an eight-month plan.
 
 ### Audrey Tang:
 We recognize the difficulty in tackling this, but we also recognize we’re not alone. All the governments everywhere is working on digital transformation. We have good friends to share notes and learn from each other.
@@ -533,7 +533,7 @@ My main boss is actually still research, \[laughs\] but I’m very fortunate to 
 Audrey, I was just thinking, you probably are in contact with a lot of startups here now. Is there anything you would say that is missing to startups in Taiwan that they need urgently?
 
 ### Audrey Tang:
-It used to be that our company law was preventing some structures that the startups really need, such as not having their stocks diluted after a few rounds of investments, and things like that, which is why a lot of startups went to Cayman Islands or other places to setup a company.
+It used to be that our company law was preventing some structures that the startups really need, such as not having their stocks diluted after a few rounds of investments, and things like that, which is why a lot of startups went to Cayman Islands or other places to set up a company.
 
 ### Audrey Tang:
 Thanks to our previous digital minister, Jaclyn Tsai’s effort, and the vTaiwan community’s process, we actually fixed that in the company law, where you can now have a closely-held company where you have special voting rights, and things like that.

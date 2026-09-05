@@ -143,7 +143,7 @@ Now, with the Join platform, all they have to do is running a public consultatio
 They collect those worries, and send it to the minister in charge of social innovation, to me, saying, &quot;People have those nine worries. Please give us a clear guidance of how to do accounting on these.&quot; I gave them, and now they established a new accounting mechanism. Then, of course, the administrative innovation can happen.
 
 ### Audrey Tang:
-As we can see, this is a very good collaboration, both side using collective intelligence. Then, the Corrective Yuan can say, &quot;OK, I am now working with the will of the people,&quot; instead of just a few accountants. That is Corrective. We also use the same system to share it with local and municipal governments. Like Taipei city used the Join platform for e-petition also, but their e-petition is tied to the i-Voting system.
+As we can see, this is a very good collaboration, both side using collective intelligence. Then, the Corrective Yuan can say, &quot;OK, I am now working with the will of the people,&quot; instead of just a few accountants. That is Corrective. We also use the same system to share it with local and municipal governments. Like Taipei City used the Join platform for e-petition also, but their e-petition is tied to the i-Voting system.
 
 ### Audrey Tang:
 While our e-petition is more about demanding an explanation of facts, having face-to-face meetings to share feelings, and to make a &quot;How may we?&quot; question together, like the first diamond, in Taipei City, they actually connect to the second diamond by having the i-Voting system be the final decision-making process.
@@ -257,7 +257,7 @@ What they gain is new solidarity with horizontal power, because maybe their cons
 Because of this, at the end of that year, the mayoral election, basically anyone who oppose the Occupy lose the election. Anyone who participate or support the Occupy or use open government in their platform, in particular Mayor Lai Ching-Te and Mayor Ko Wen-je in that year both use open government as their main platform.
 
 ### Audrey Tang:
-The won a lot. That really gave legitimacy to the open government. That made the central administration...After the election, the premier resigned. The new premier, an engineer, said, &quot;OK, so now open throughout is our national direction.&quot;
+They won a lot. That really gave legitimacy to the open government. That made the central administration...After the election, the premier resigned. The new premier, an engineer, said, &quot;OK, so now open throughout is our national direction.&quot;
 
 ### Audrey Tang:
 Next year, we’re going to be number one on Open Data Index and that become the national direction. It’s led by the Occupy, realized by the municipals, and then finally ratified at an administration level, all within the same year.
@@ -304,13 +304,13 @@ We don’t do that. \[laughs\] We support social entrepreneurship.
 Should not use that word. \[laughs\]
 
 ### Audrey Tang:
-They reason why is that the government, we can only change our direction once every year. That’s how the national budget works. Emerging social issues, they don’t wait for the budget cycle. \[laughs\]
+The reason why is that the government, we can only change our direction once every year. That’s how the national budget works. Emerging social issues, they don’t wait for the budget cycle. \[laughs\]
 
 ### Audrey Tang:
 Basically, the government is not very well equipped to have a rapid response to an emergent social innovation or a social situation. That’s why we have the sandbox system, to make new, emergent players willing to try with us in a co-creation relationship, instead of a law-breaking relationship.
 
 ### Audrey Tang:
-Sandbox is only for regulatory or place-based problems. Of course, we can do that, but for many other issues, for example an aging population, for example the loss of identity of many smaller townships, it’s not about a low or a regulation change. It doesn’t matter.
+Sandbox is only for regulatory or place-based problems. Of course, we can do that, but for many other issues, for example an aging population, for example the loss of identity of many smaller townships, it’s not about a law or a regulation change. It doesn’t matter.
 
 ### Audrey Tang:
 They’re not suffering because of we don’t have a law for anything. They’re suffering because the constitutive power of the community is changing. Maybe they all went to large cities. Maybe they don’t care about their local culture anymore. Maybe their traditional language is disappearing, and no laws can completely solve that.

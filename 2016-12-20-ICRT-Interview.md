@@ -141,7 +141,7 @@ What I did at the time was not taking any particular sides, but rather developin
 We have the green, ecologically‑minded people here. We have the labor‑minded people there, the left wing people, and also the separated independence people. Each street held their own deliberations. The occupied parliament also held their deliberations.
 
 ### Audrey Tang:
-As the ICT Geeks, we also built with Eight Months before. We worked for Eight Months to build one particular app that lets you enter your company’s name, or the trade that your company’s doing, and look at exactly the part in the cross‑trade service trade agreements that affects you. You don’t have to read through 500 pages of PDF files.
+As the ICT Geeks, we also built with Eight Months before. We worked for Eight Months to build one particular app that lets you enter your company’s name, or the trade that your company’s doing, and look at exactly the part in the cross‑strait service trade agreements that affects you. You don’t have to read through 500 pages of PDF files.
 
 ### Audrey Tang:
 There is these kind of factual, evidence‑based tools that lets you make informed decisions. Now we also, during the occupy, not only videotape all the deliberations that happened, but also worked with stenographic transcript people to type it down to those online documents, which are collaborative edited, and then translated to various other languages.
@@ -150,7 +150,7 @@ There is these kind of factual, evidence‑based tools that lets you make inform
 What this does is essentially a cross‑pollination between all the different occupy side streets so that people begin each day, not over the same topics but picking up of the consensus items that was left the previous day, that was undecided the previous day, and then do a deliberation for entire day, involving as much as half a million people on one particular day. The next day, although it was different people, can pick up where the previous day has left.
 
 ### Audrey Tang:
-This is basically the scalable listening technology that we have deployed during the occupy, with help with professional deliberative democracy facilitators to make sure that ‑‑ be it an ordinary citizen, be it someone who feels concerned about democracy, whichever side of the street they went on ‑‑ there is some deliberative space for them to join, and to participate their part in the collective intelligence about the cross‑trade service trade agreement.
+This is basically the scalable listening technology that we have deployed during the occupy, with help with professional deliberative democracy facilitators to make sure that ‑‑ be it an ordinary citizen, be it someone who feels concerned about democracy, whichever side of the street they went on ‑‑ there is some deliberative space for them to join, and to participate their part in the collective intelligence about the cross‑strait service trade agreement.
 
 ### Audrey Tang:
 It evidently works, because toward the end of the occupy, there is a set of consensus that people could not 100 percent agree on, but at least could live with. These are the kind of consensus items that the head of the Parliament at the time eventually agreed on, which is why the occupiers left the building. It’s not because they were evicted, but their main demands were agreed upon.
@@ -243,7 +243,7 @@ The MPs, the ministries, and the stakeholders behind these ministries, and athle
 It’s a very small case. It’s one public hearing and three meetings, but it shows the essential idea of not having any meeting go to waste by having each meeting recorded, and having the camera representing the meeting stakeholders that couldn’t make it here.
 
 ### Keith Menconi:
-Maybe to help those of us that weren’t actually a part of all these meetings and all that understand, what would you say is the essential thing that’s really different from the way this issue may have worked through the pubic system before?
+Maybe to help those of us that weren’t actually a part of all these meetings and all that understand, what would you say is the essential thing that’s really different from the way this issue may have worked through the public system before?
 
 ### Keith Menconi:
 Because part of what’s happening here is you, as a minister, see an issue that you care about and you feel like isn’t getting enough attention. You bring in the stakeholders. You get them to talk about it, and you work it through the system.
@@ -608,7 +608,7 @@ Benson Yeh is one of the best interviews I’ve ever had. He’s obviously the g
 Exactly. We drew a lot of inspiration from Benson’s work, but two dimensional screens has its limits. You cannot really teach the art of motorcycle repairing over a two dimensional screen because, obviously, there’s no motorcycle for you to repair.
 
 ### Audrey Tang:
-Some of those knowledge, especially in the mission maintenance or interpersonal relationships and things like that, does require a kind of face‑to‑face or hand‑to‑device connection. This is where virtual reality comes in.
+Some of those knowledge, especially in the machine maintenance or interpersonal relationships and things like that, does require a kind of face‑to‑face or hand‑to‑device connection. This is where virtual reality comes in.
 
 ### Audrey Tang:
 In the virtual reality, we can already have photo‑realistic models of motorcycles and of you and me to bring our hands and everything basically that we care about into the virtual reality space where we can construct a social circle around a virtual motorcycle in which you can still teach the art of repairing that virtual motorcycle, and so on.
@@ -659,7 +659,7 @@ It is on this ground that I can live this autonomous team‑building, that every
 This is a radial change of the governance because, previously, in many government structures, it is the boss who dictates the key performance metrics, and it is the underling who delivers those results, and so on.
 
 ### Audrey Tang:
-In my office, it doesn’t work like that. It is a collaborative space where anybody is free to propose, to pitch some idea that they see needs doing, and then to call for collaborative help from any of those, 15 now, collaborators, and soon the be joined by the Principal Officers of the open government in each ministry to try to make it happen.
+In my office, it doesn’t work like that. It is a collaborative space where anybody is free to propose, to pitch some idea that they see needs doing, and then to call for collaborative help from any of those, 15 now, collaborators, and soon to be joined by the Principal Officers of the open government in each ministry to try to make it happen.
 
 ### Audrey Tang:
 This is almost a collaborative syndicate way to run a team. This is not that unusual in the Silicon Valley startups. Many startups started this way. GitHub started this way. Valve, in many ways, is still running in this way.

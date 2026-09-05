@@ -10,7 +10,7 @@ A hacker is someone who immerse themselves into a system so that they become an 
 A white hat hacker is someone who fix the system, who patch system, notifying the system owner what are the problems that needs to be fixed. A black hat hacker is someone who use those loopholes for their own benefit without notifying the person maintaining the system.
 
 ### Audrey Tang:
-As I’m not a cyber security hacker -- I’m a civic hacker, I hack politics, I hack law, I hack other things -- but when I say &quot;hack,&quot; it’s just by seeing the same problems, the same loopholes in the system, but instead of fixing it or exploiting it for my own gain, I work on a needs system that doesn’t suffer from the same problems.
+As I’m not a cyber security hacker -- I’m a civic hacker, I hack politics, I hack law, I hack other things -- but when I say &quot;hack,&quot; it’s just by seeing the same problems, the same loopholes in the system, but instead of fixing it or exploiting it for my own gain, I work on a new system that doesn’t suffer from the same problems.
 
 ### Audrey Tang:
 I’m more a creative hacker. Rather than working with an existing system, I try to make new systems.
@@ -84,7 +84,7 @@ What do you think about gov tech in Singapore? I mean this modern, it is a good 
 There is of course certain elements where we call behavioral insights or nudging or things like that that is more about policy shaping people’s behavior rather than people shaping the government’s behavior.
 
 ### Audrey Tang:
-Like Yin and Yan, you can’t really tell one from the other. Because when the government proposes something, it is natural that the citizens respond with something else.
+Like Yin and Yang, you can’t really tell one from the other. Because when the government proposes something, it is natural that the citizens respond with something else.
 
 ### Audrey Tang:
 If the government of course is one directional, like if you have an Internet link that downloads very quickly but you cannot upload anything, then nowadays we would think that this is broken because you cannot contribute to the Internet. My work here is not to make it entirely upload nor entirely download.
@@ -279,7 +279,7 @@ I haven’t spoke to President Trump or the FCC about net neutrality.
 He said he doesn’t care. He doesn’t want to keep it, net neutrality.
 
 ### Audrey Tang:
-I think net neutrality is very interesting, in the sense that different people on the different part of the value chain tends to think of it either as a liberating force or a constricting force, depending on whethere you work on: the content layer, the transmission layer, or in some other layers.
+I think net neutrality is very interesting, in the sense that different people on the different part of the value chain tends to think of it either as a liberating force or a constricting force, depending on whether you work on: the content layer, the transmission layer, or in some other layers.
 
 ### Audrey Tang:
 I think this is a natural thing that, during the digital convergence, different interested parties will take different stands on net neutrality. I think it is very important to have an informed dialogue. But I really don’t know personally about the US government’s stance on this matter.

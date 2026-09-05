@@ -266,7 +266,7 @@ That became their main aim after a lot of back and forth. Because half a million
 Thank you. That’s fascinating. Thank you for bringing that up. One thing that related that I would like to dive a bit deeper on, the idea of 網軍 in Taiwan. I did read a paper by a professor at Táidà. His name is Chen Shishi. He wrote a paper about PTT and the 2014 mayoral election in Taipei, which I’m sure you know quite a bit about.
 
 ### Nick Monaco:
-Essentially, they found 19 accounts that the suspected were 網軍, and they were posting messages, posting articles that either displayed Sean Lien in a good light, or talked bad about Ko Wen-je. There was this propagandistic thing going on with that election.
+Essentially, they found 19 accounts that they suspected were 網軍, and they were posting messages, posting articles that either displayed Sean Lien in a good light, or talked bad about Ko Wen-je. There was this propagandistic thing going on with that election.
 
 ### Audrey Tang:
 I’m familiar with that research.

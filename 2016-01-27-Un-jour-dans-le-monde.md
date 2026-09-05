@@ -4,7 +4,7 @@
 Paris capitale du monde des idées, le ministère des affaires étrangères organise aujourd’hui la première nuit des idées en invitant des intellectuels, des universitaires, des penseurs, des écrivains, des artistes du monde entier.
 
 ### nicolas-demorand：
-Tous plongeront sur ce vaste, très vaste sujet: ’ Pensez le monde de demain ’ dans une approche évidemment pluridisciplinaire et en pensant d’ailleurs d’autre part or des frontières de l’Hexagone.
+Tous plongeront sur ce vaste, très vaste sujet: ’ Pensez le monde de demain ’ dans une approche évidemment pluridisciplinaire et en pensant d’ailleurs d’autre part hors des frontières de l’Hexagone.
 
 ### nicolas-demorand：
 Mon dieu ce que ça fait du bien que d’essayer de réfléchir de cette manière là en regardant les choses et les sujets non pas depuis ici. Mais depuis là-bas. Je salue nos invités ce soir, Souleymane Bachir Diagne, bonsoir monsieur.
@@ -133,13 +133,13 @@ Et lorsque l’espace est structuré de cette façon là comme une technologie o
 Allez encore une question générale pour tous les trois et on entre dans la problématique qui vous est soumise par cette nuit des idées, pensez le monde de demain.
 
 ### nicolas-demorand：
-Le monde d’aujourd’hui c’est déjà compliqué. Est-ce que vous vous inscrivez dans l’affiliation de ce qu’on appelle l’intellectuel à la française - C’est-à-dire l’intellectuel organique celui qui intervient dans l’espace publique, dont le savoir vient légitimer le pouvoir à parler, à dire, à dénoncer ? Ou est ce que ça, ça vous semble une figure ancienne et désormais dépassée ? Saskia Sassen.
+Le monde d’aujourd’hui c’est déjà compliqué. Est-ce que vous vous inscrivez dans l’affiliation de ce qu’on appelle l’intellectuel à la française - C’est-à-dire l’intellectuel organique celui qui intervient dans l’espace public, dont le savoir vient légitimer le pouvoir à parler, à dire, à dénoncer ? Ou est ce que ça, ça vous semble une figure ancienne et désormais dépassée ? Saskia Sassen.
 
 ### saskia-sassen：
 Non, je trouve ça très important et très intéressant. Ce n’est pas possible de le faire dans tous les pays. C’est vrai qu’à New York on peut le faire un peu. Mais disons à Chicago, ça devient déjà plus difficile. N’est ce pas ?
 
 ### saskia-sassen：
-Alors, je crois que l’Amérique, les états unis n’aident pas cette manière. Je dois dire aussi que dans mon cas personnellement quand je fais ma recherche, je dois vraiment abandonner l’espace publique. Je dois aller creuser. Et je veux me perdre dans tant d’argumentations, tant de dates, et cetera. Je ne peux pas à ce point aussi penser d’une autre manière. Je dois vraiment pénétrer, entrer et me perdre un peu et ça me fonctionne bien.
+Alors, je crois que l’Amérique, les états unis n’aident pas cette manière. Je dois dire aussi que dans mon cas personnellement quand je fais ma recherche, je dois vraiment abandonner l’espace public. Je dois aller creuser. Et je veux me perdre dans tant d’argumentations, tant de dates, et cetera. Je ne peux pas à ce point aussi penser d’une autre manière. Je dois vraiment pénétrer, entrer et me perdre un peu et ça me fonctionne bien.
 
 ### saskia-sassen：
 Moi, j’aime beaucoup interroger les catégories qui existent. Alors pour moi je dis toujours que moi j’opère dans le fuzzy edges du paradigme.
@@ -175,7 +175,7 @@ D’abord, je dois dire géographiquement, je vis vraiment entre trois pays. Je 
 Et quand j’interviens, bien évidemment quand j’écris un livre sur l’algèbre de Boole, on n’intervient pas dans l’espace public sur l’Algèbre de Boole. En revanche, quand je conduis l’interrogation qui est la mienne, qui consiste à me demander ce que signifie la fidélité. Une des thèses que je soutiens, c’est que la fidélité n’est pas dans la crispation sur une identité mais justement dans le mouvement de devenir ce que l’on a à devenir.
 
 ### souleymane-bachir-diagne：
-Et bien, c’est une thèse que j’applique à la fois à ma réflexion sur le champ africain et à ma réflexion sur le champ islamique. Je travaille je vous l’ai dit dans le domaine de la philosophie dans le monde islamique, ça veut dire donc que moi, je travaille sur une tradition intellectuelle celle de la philosophie, une tradition spirituelle, celle du mysticisme, du soufisme et par la force des choses étant donné la configuration de notre monde actuel et étant donné le bruit que font les religions et en particulier la religion islamique, ce travail devient de lui-même une forme d’intervention dans les débats publiques et donc, on a cette responsabilité il faut l’accepter, il faut accepter qu’on ait cette responsabilité parce qu’on travaille dans le domaine où on travaille.
+Et bien, c’est une thèse que j’applique à la fois à ma réflexion sur le champ africain et à ma réflexion sur le champ islamique. Je travaille je vous l’ai dit dans le domaine de la philosophie dans le monde islamique, ça veut dire donc que moi, je travaille sur une tradition intellectuelle celle de la philosophie, une tradition spirituelle, celle du mysticisme, du soufisme et par la force des choses étant donné la configuration de notre monde actuel et étant donné le bruit que font les religions et en particulier la religion islamique, ce travail devient de lui-même une forme d’intervention dans les débats publics et donc, on a cette responsabilité il faut l’accepter, il faut accepter qu’on ait cette responsabilité parce qu’on travaille dans le domaine où on travaille.
 
 ### nicolas-demorand：
 Même question pour Audrey Tang, est ce que vous vous pensez comme intellectuelle, activiste, militante ? Quel mot vous semble correspondre le mieux à ce que vous faites ?
@@ -199,7 +199,7 @@ J’ai la sensation qu’il y a de l’inédit partout, que nous sommes en crise
 Est-ce que je me trompe totalement ou est ce que vous partagez aussi ce sentiment d’avancer, de tâtonner comme ça dans l’ombre et dans le noir ? Saskia Sassen.
 
 ### saskia-sassen：
-Oui et non. Oui parce qu’on sait trop. Moi, je parle six langues, pas tellement bien. Mais quand même six langues. Alors, je suis partout le monde. Il y a tant de choses qui se passent. Il y a tant de manières de terroriser, tant de manières de le penser. Alors, on sait trop. Mais de l’autre côté, moi quand je fais ma recherche, j’ai des vecteurs très forts, je ne me perds pas. Je sais qu’il n y a pas besoin de savoir tout sur conditions. Il faut savoir quelque chose qui porte, qui bouge, qui peut avoir des conséquences sévères, même si c’est un élément minimal. Alors ça m’aide de trouver vous savez de manières de...
+Oui et non. Oui parce qu’on sait trop. Moi, je parle six langues, pas tellement bien. Mais quand même six langues. Alors, je suis partout le monde. Il y a tant de choses qui se passent. Il y a tant de manières de terroriser, tant de manières de le penser. Alors, on sait trop. Mais de l’autre côté, moi quand je fais ma recherche, j’ai des vecteurs très forts, je ne me perds pas. Je sais qu’il n’y a pas besoin de savoir tout sur conditions. Il faut savoir quelque chose qui porte, qui bouge, qui peut avoir des conséquences sévères, même si c’est un élément minimal. Alors ça m’aide de trouver vous savez de manières de...
 
 ### saskia-sassen：
 Et je crois qu’un problème dans la science sociale en Amérique où il y a tant de capacités pour tous les ordinateurs, tous les datasets. On pourrait savoir tous les derniers détails de tant de situations. Et la science sociale fait beaucoup de ça. Et je trouve ça quand même un peu pas nécessaire.
@@ -238,7 +238,7 @@ Quand on se dit cette religion est la culture et la tradition intellectuelle et 
 Et pourtant on se les pose.
 
 ### souleymane-bachir-diagne：
-On se les pose. Alors, on se donne cette profondeur historique si vous voulez en amont. C’est-à-dire qu’on regarde historiquement et on se donne également la profondeur temporel en aval. Et c’est ça l’intérêt de cette nuit des idées. Se projeter dans l’avenir, ça nous permet aussi de mettre en perspective les urgences telles que nous les vivons. Avoir le sentiment que nous sommes quelque peu noyés dans une actualité qu’on a du mal à saisir pour laquelle on a l’impression que les mots et les concepts habituels ne marchent pas, ne fonctionnent pas comme instances explicatives.
+On se les pose. Alors, on se donne cette profondeur historique si vous voulez en amont. C’est-à-dire qu’on regarde historiquement et on se donne également la profondeur temporelle en aval. Et c’est ça l’intérêt de cette nuit des idées. Se projeter dans l’avenir, ça nous permet aussi de mettre en perspective les urgences telles que nous les vivons. Avoir le sentiment que nous sommes quelque peu noyés dans une actualité qu’on a du mal à saisir pour laquelle on a l’impression que les mots et les concepts habituels ne marchent pas, ne fonctionnent pas comme instances explicatives.
 
 ### souleymane-bachir-diagne：
 Si on se projette dans l’avenir en disant au fond quelles sont les tendances et quel est le monde qui risque de se produire ou quel est le monde que nous voulons ? À ce moment là, on a une position qui nous amène à rendre intelligible les réalités que nous vivons au présent et de dégager ce qu’il faut faire. Et c’est ça l’intérêt d’une réflexion de type de celle à laquelle nous sommes invités, une réflexion qui regarde demain. Et regarder demain c’est à la fois le préparer et c’est aussi mieux comprendre aujourd’hui.
@@ -259,7 +259,7 @@ J’aime énormément notre conversation et le temps avance. Donc, j’aimerai v
 Avant de parler de la démocratie, il faut parler de démos, c’est-à-dire la foule, la population. Un peuple, des gens qui sont au même endroit imaginaire ou pas. Mais au moins, ils pensent qu’ils peuvent interagir les uns avec les autres d’une façon qui a du sens.
 
 ### audrey-tang：
-Quand je pense aux musulmans, je pense à 150 millions, ou 150 milles musulmans à Taiwan, les indonésiens qui travaillent avec nous tous les jours. Et il y a quelques heures, je parlais avec nos interlocuteurs de ce soir. Ils nous ont dit: ’ Peut-être que certains ne voudraient pas que nous parlions avec le reste du démos. ’
+Quand je pense aux musulmans, je pense à 150 millions, ou 150 mille musulmans à Taiwan, les indonésiens qui travaillent avec nous tous les jours. Et il y a quelques heures, je parlais avec nos interlocuteurs de ce soir. Ils nous ont dit: ’ Peut-être que certains ne voudraient pas que nous parlions avec le reste du démos. ’
 
 ### audrey-tang：
 Et en le disant, c’est exactement comme le climat. Regardez la terre de l’extérieur. Vous pouvez voir beaucoup de tsunamis, beaucoup de changements dans le climat de climat arctique. Bien sûr, les tsunamis ne négocient pas avec les hommes politiques. Ce sont des catégories d’objets complètement différents. Mais, si on les considère comme un système qui fait partie de la terre, vous voyez qu’il y a des causes.
@@ -295,7 +295,7 @@ C’est dangereux ?
 C’est dangereux. Quoi, c’est dangereux ?
 
 ### nicolas-demorand：
-C’est dangereux de voir que cette forme politique qui finalement n’a pas que des avantages et qui a même beaucoup d’avantages est entrain de s’affaisser, de s’affadir à tel point qu’on voit apparaître ce qu’on appelle les démocraties illibérales, des démocraties autoritaires, des démocraties qui ont la non démocratie à l’intérieur d’elles-mêmes.
+C’est dangereux de voir que cette forme politique qui finalement n’a pas que des avantages et qui a même beaucoup d’avantages est en train de s’affaisser, de s’affadir à tel point qu’on voit apparaître ce qu’on appelle les démocraties illibérales, des démocraties autoritaires, des démocraties qui ont la non démocratie à l’intérieur d’elles-mêmes.
 
 ### saskia-sassen：
 C’est pour ça. Nous devons comprendre qu’est ce qu’on veut ? Quand on dit démocratie. Qu’est ce que c’est la chose qu’on veut vraiment ? Quels sont les éléments principaux ? La participation a tout. Le fait que chaque neighborhood devrait avoir des gens qui peuvent y travailler, qui peuvent faire une économie locale, etc. Tant de choses très pratiques. Alors, on monte à des choses plus compliquées. Quel système politique pourrait aider ça ? Alors, je trouve que beaucoup de pays dans l’Europe réussissent assez bien. Mais, maintenant, il y a un peu de décadence.

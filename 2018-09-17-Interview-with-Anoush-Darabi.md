@@ -28,7 +28,7 @@ Yeah.
 There’s literally more than 20 NGOs in the Occupy. The Occupy certainly wasn’t my idea. I was just there supporting their communication. The g0v segment is one of the three neutral groups, generally regarded as impartial during the occupy, which provides communication.
 
 ### Audrey Tang:
-The other two neutrals are the doctors and the lawyers, the teams who separated regardless of the message or the NGO. Even the anti-protest spirit is because communication is a fundamental human right and all that. I think what this means politically speaking, is that all the teams, the three teams the doctors, lawyers, and club zero gained legitimacy.
+The other two neutrals are the doctors and the lawyers, the teams who separated regardless of the message or the NGO. Even the anti-protest spirit is because communication is a fundamental human right and all that. I think what this means politically speaking, is that all the teams, the three teams the doctors, lawyers, and g0v gained legitimacy.
 
 ### Audrey Tang:
 That is perhaps at times even more than the movement itself, because it’s trusted as a neutral arbitrator, or at least neutral supporting to all the sides involved.
@@ -40,7 +40,7 @@ My personal involvement in the cabinet setting was when Jaclyn Tsai, the ministe
 All the multi-stakeholder setting and things like that, it’s basically an adapted Internet Society decision making process. I think nobody can take full credit for it, because it’s a very full co-creative session, even at that hackathon.
 
 ### Audrey Tang:
-Then just as we’re implementing it, the election came. Non-Occupiers lost all their seats. Occupiers and supports found themselves mayors, even when they did not prepare for it, so the cabinet all resigned. \[laughs\] Then, of course, Jaclyn Tsai still retained her position right afterward.
+Then just as we’re implementing it, the election came. Non-Occupiers lost all their seats. Occupiers and supporters found themselves mayors, even when they did not prepare for it, so the cabinet all resigned. \[laughs\] Then, of course, Jaclyn Tsai still retained her position right afterward.
 
 ### Audrey Tang:
 That’s when we started worked for real, because this election at the mayoral level sends a very clear signal that anyone who is not for crowdsourcing and open government lose the election. That became the national direction by the new premiere.
@@ -94,7 +94,7 @@ Meanwhile, you build a network or a system that allows people to make collective
 It’s nonviolent communication.
 
 ### Anoush Darabi:
-Did you feel that the potential danger of technology back end when the movement was creating the vTaiwan platform then? Did you see the potential for online spaces to be potentially damaging to debate?
+Did you feel that the potential danger of technology back then when the movement was creating the vTaiwan platform then? Did you see the potential for online spaces to be potentially damaging to debate?
 
 ### Audrey Tang:
 Very much so. We were around in the previous generations of P2P networks: Gnutella, Freenet, SETI@home. Back then already, this whole debate that we’re now having around distributed ledgers and around surveillance data and whatever, database nation, has already happened in the cypherpunks community way back then.
@@ -288,7 +288,7 @@ My primary tribe is, of course, the Internet society and the open culture moveme
 Empathy is something you mentioned earlier as well. I find really interesting as well this idea that, especially because it seems that the Internet has become a breeding ground for a lack of empathy, especially in United States. It seems that it can be a tool for people you would otherwise never meet and just talking to people you otherwise wouldn’t meet. Again, is a design problem.
 
 ### Audrey Tang:
-It is. It is a design problem. It is also a problem of basic literacy. We designed in the new curriculum nine elemental characteristics or characters that are the go of education. Instead of other Asian educational traditions, which put emphasis on skills or disciplines in persons afterwards, we focus on character building.
+It is. It is a design problem. It is also a problem of basic literacy. We designed in the new curriculum nine elemental characteristics or characters that are the goal of education. Instead of other Asian educational traditions, which put emphasis on skills or disciplines in persons afterwards, we focus on character building.
 
 ### Audrey Tang:
 The three category of characters are autonomous, the curiosity and stuff like that, and interactive, being able to communicate across different ethnic, cultural and discipline backgrounds, and also the common good, by finding out common values.

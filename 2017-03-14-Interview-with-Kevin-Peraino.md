@@ -1024,7 +1024,7 @@ I would say it’s a mock democracy if you just do this referendum without all t
 A referendum or direct voting on issues or even political leaders isn’t always desirable if you haven’t done the prep work. Is that what you’re saying?
 
 ### Audrey Tang:
-Yeah, and then even in parts victory budgeting. The whole idea is for people to understand each other’s concerns and not just ranking of where the policy must be made. I admit that it’s much easier to implement the whole circle if it’s voting about policies or about priorities.
+Yeah, and then even in participatory budgeting. The whole idea is for people to understand each other’s concerns and not just ranking of where the policy must be made. I admit that it’s much easier to implement the whole circle if it’s voting about policies or about priorities.
 
 ### Audrey Tang:
 It’s very hard if you are voting about people because to make one person fully understood by millions of people is no easy task. The person changes every day, but it about policies or priorities of budget spending. It’s much easier because it’s much more concrete, and we can use a lot more data‑model spending.

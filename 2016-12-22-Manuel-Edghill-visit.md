@@ -261,7 +261,7 @@ Let’s say hundreds of people register fake accounts and vote exactly the same.
 Or I’m the taxi driver, so I tell all my taxi driver friends, &quot;Hey, we don’t want Uber. Let’s skew it.&quot;
 
 ### Audrey Tang:
-Right, that’s exactly what happened. When we invited everybody from the taxi, the Uber, and everybody to contribute, that’s what happens. The all voted very similarly in the first week, and they all clustered in the corners.
+Right, that’s exactly what happened. When we invited everybody from the taxi, the Uber, and everybody to contribute, that’s what happens. They all voted very similarly in the first week, and they all clustered in the corners.
 
 ### Audrey Tang:
 You can see with your own eyes that people are divided in the four corners, because we take as finding agenda only the consensus items, then manage to convince people we’re different than they are. They have to come up with something to convince at least 80 percent of the total population, regardless of how many people they get through here.
@@ -502,7 +502,7 @@ So far, we’ve just been documenting the tools, the rules, the playbooks, that 
 You mean vTaiwan?
 
 ### Audrey Tang:
-No. PDIS. \[pulls up PDIS.tw website and projects its on the wall\]
+No. PDIS. \[pulls up PDIS.tw website and projects it on the wall\]
 
 ### Manuel Edghill:
 What does PDIS stand for?
@@ -1145,7 +1145,7 @@ You are a minister.
 > (laughter)
 
 ### Shuyang Lin:
-This one is &quot;Taiwan’s Digital Minster.&quot;
+This one is &quot;Taiwan’s Digital Minister.&quot;
 
 ### Manuel Edghill:
 Yes, you are the minister, therefore you have some political weight behind, you have some clout. You have a team. You have some kind of power, and you’re in digital... You are in tech. So you don’t have to educate. You don’t have to spend any time, effort, money in reeducating the people.
@@ -1175,7 +1175,7 @@ The US Digital Service.
 If we want to be a counterpart of them.
 
 ### Manuel Edghill:
-For example, you could have the name ‑‑ let’s take Twitter ‑‑ be &quot;digital minister,&quot; and then the &quot;@pdis&quot; a the handle. Whatever.
+For example, you could have the name ‑‑ let’s take Twitter ‑‑ be &quot;digital minister,&quot; and then the &quot;@pdis&quot; as the handle. Whatever.
 
 ### Audrey Tang:
 Ah, very clever.
@@ -2148,7 +2148,7 @@ How about some tabs? An easier way to figure this out is tabs.
 Tabs?
 
 ### Manuel Edghill:
-You could translate the tabs using Google again, because these are hard‑coded \[referring to current text no prone to automatic google translation\]
+You could translate the tabs using Google again, because these are hard‑coded \[referring to current text not prone to automatic google translation\]
 
 ### Audrey Tang:
 That’s right.
@@ -2280,7 +2280,7 @@ Whether it’s sufficient to just register on the company law or website, rather
 You can comment.
 
 ### Audrey Tang:
-Yeah, you can click it, and then you can see what’s the existing people’s thoughts on it. Like Jalin says that. RonKuo says that. If it needs some explanatory or expository material, then within seven days the ministry in charge of this has to come here and replay to you as a part of the planning process.
+Yeah, you can click it, and then you can see what’s the existing people’s thoughts on it. Like Jalin says that. RonKuo says that. If it needs some explanatory or expository material, then within seven days the ministry in charge of this has to come here and reply to you as a part of the planning process.
 
 ### Audrey Tang:
 Part of the thing that’s highlighted, seen in this design, is that any comments that’s constructive here will be part of the agenda and the face‑to‑face deliberation that this live‑streamed 30 days every month. This is basically crowdsourcing the agenda of the face‑to‑face deliberation.

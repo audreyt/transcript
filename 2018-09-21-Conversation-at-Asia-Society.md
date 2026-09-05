@@ -685,7 +685,7 @@ I wonder if you’ve experimented with taking it a step further, even, gamifying
 I’m sorry, just to repeat the question to get it on the record. This is Jonathan from the CRIA Society asking you about whether you can gamify some of these initiatives.
 
 ### Audrey Tang:
-Yes. There’s this project called Holopolis. The reflection stage technology is called Polis. Holopolis basically use virtually reality, immersive reality technology to get people in the IMAX Theater state of mind, and put people into each other’s shoes by first starting on the International Space Station, looking at the Earth.
+Yes. There’s this project called Holopolis. The reflection stage technology is called Polis. Holopolis basically use virtual reality, immersive reality technology to get people in the IMAX Theater state of mind, and put people into each other’s shoes by first starting on the International Space Station, looking at the Earth.
 
 ### Audrey Tang:
 It’s called the “overview effect.” We know as a fact that it makes people better people, just looking at the Earth as a single object, and then zooming in into the environmental system, and viewing, for example, a construction project from the viewpoint of an indentured animal.

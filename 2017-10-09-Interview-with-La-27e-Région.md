@@ -119,7 +119,7 @@ Our first question is about the software tools that you are using while you work
 On PDIS website, we have a page just for the tools. We refer to tools, both software tools and also process tools, and it’s quite different, the two of it. The software tools, we use mostly the open source suite called Sandstorm.io, and Sandstorm is this secure, self-hosted, completely open source tool that I also mentioned in &quot;Nuit des idées.&quot;
 
 ### Audrey Tang：
-It’s a combination of a Slack clone, a Cielo clone, a Google Dot clone, a Google Spreadsheet clone, like everything, \[laughs\] that one can use during team collaboration. It’s a productivity suite that everybody can just add to it.
+It’s a combination of a Slack clone, a Cielo clone, a Google Doc clone, a Google Spreadsheet clone, like everything, \[laughs\] that one can use during team collaboration. It’s a productivity suite that everybody can just add to it.
 
 ### Audrey Tang：
 Because it’s open source, the PDIS team -- P-D-I-S, that’s my office -- also wrote our own apps on top of this Sandstorm platform, such as the Hackfoldr, which is a collaborative bookmarking tool.
@@ -206,7 +206,7 @@ This service doesn’t allow us to use some tools. For example, for most of Fren
 Yeah, if it’s pertaining to national security, of course that’s another matter, but because by definition I don’t even touch national security it’s less of a problem, also because we host the core tools, the Sandstorm tools ourselves.
 
 ### Audrey Tang：
-You can see that one of the first things that I did was to ask the same people as we mentioned, The Department of Cyber Security, to commission a security revue, a penetration testing of the Sandstorm platform.
+You can see that one of the first things that I did was to ask the same people as we mentioned, The Department of Cyber Security, to commission a security review, a penetration testing of the Sandstorm platform.
 
 ### Audrey Tang：
 Because the Sandstorm platform is also a security product, it’s not just a productivity product, it also makes it much harder to attack those individual programs. Once the Department of Cyber Security did the audit of the Sandstorm platform itself, it is less worried about a specific application that we run on the platform because the platform itself is hardened. It protects against the intrusion.
@@ -293,10 +293,10 @@ For example, we integrated the two national disaster response agencies. One has 
 Another case is, again with a decoupled architecture, a data-driven architecture, is the national dashboard on the vegetable and fruit prices because people will speculate on those prices after a typhoon or something. Now we try to make it entirely transparent whether to import, export. Reserve levels and things like that are all published.
 
 ### Audrey Tang：
-Again, this is done in the open, meaning that the data providers from the agricultural agency, from the local markets, from the weather bureau, and so on, they become aware of the possibility of doing this kind of things. They can write their own proposals saying, &quot;OK, we want do to things this way because this lowers everybody’s risk overall and share the highlights.&quot;
+Again, this is done in the open, meaning that the data providers from the agricultural agency, from the local markets, from the weather bureau, and so on, they become aware of the possibility of doing this kind of things. They can write their own proposals saying, &quot;OK, we want to do things this way because this lowers everybody’s risk overall and share the highlights.&quot;
 
 ### Audrey Tang：
-That’s the basic idea. It’s not so much as telling all the ministry that you have to do this but to make two or three really prominent cases visible and make very transparent what are the decisions involved, and the provide templates to every step. That’s the basic idea.
+That’s the basic idea. It’s not so much as telling all the ministry that you have to do this but to make two or three really prominent cases visible and make very transparent what are the decisions involved, and then provide templates to every step. That’s the basic idea.
 
 ### Anna Lochard：
 OK. On your everyday work, your team, with who are you working in each administration? Is it with the top direction? Is it with some people working on specific projects? Is it a mix of all of that? Why are you...?
@@ -531,7 +531,7 @@ Meaning that if a public servant decide to run this process, it’s an experimen
 It goes well, then the attribution, the credit is actually to not just the ministry, but actually to the career public civil servant themself. Because through radically transparent records, everybody can see who is the one that actually proposed this wonderful idea.
 
 ### Audrey Tang：
-Using this strategy, we see a lot of public servants now proposing creative ideas that may be have only 20 percent chance of succeeding. Then PDIS collaboratively make it a higher chance of succeeding, but the motivation is there because they know that if it works, it’s their credit. If it doesn’t work, it’s Audrey Tang’s fault. I think it is a really important atmosphere to make this happen.
+Using this strategy, we see a lot of public servants now proposing creative ideas that maybe have only 20 percent chance of succeeding. Then PDIS collaboratively make it a higher chance of succeeding, but the motivation is there because they know that if it works, it’s their credit. If it doesn’t work, it’s Audrey Tang’s fault. I think it is a really important atmosphere to make this happen.
 
 ### Audrey Tang：
 We resolve many regional cases this way also. We’re actually going to the most rural areas and even offshore islands and try to get people into this kind of deliberative meetings without learning any digital tools, because it’s the meeting itself being digitized using what we call ambient computing rather than having the people going to a website or whatever. That’s our current situation.

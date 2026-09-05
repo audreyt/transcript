@@ -18,7 +18,7 @@ Oh, slides.
 We didn’t know what you know about the organization we work in, so we have a quick introduction through the slides and then maybe something where we could explore about...
 
 ### Audrey Tang:
-Is this pubic information?
+Is this public information?
 
 ### Michiel Kolman:
 Yeah. You could share it.
@@ -117,7 +117,7 @@ Good to know. \[laughs\]
 What do we do with the technology? These are the typical big data solutions. We have all these datasets. How can you make sense out of that? How can you focus on the quality? How can you do entity resolution, the link analysis, the clustering analysis, etc.?
 
 ### Michiel Kolman:
-If we talk about Elsevier, more the science publisher, today’s researcher has many, many difficult tasks to survive. Get grants, get published, do the teaching, attract the right people to work with, start collaborations, keep up-to-date with today’s research. I’m sure there are other things here, but the form size is too small for somebody of my age.
+If we talk about Elsevier, more the science publisher, today’s researcher has many, many difficult tasks to survive. Get grants, get published, do the teaching, attract the right people to work with, start collaborations, keep up-to-date with today’s research. I’m sure there are other things here, but the font size is too small for somebody of my age.
 
 ### Audrey Tang:
 That’s OK. I can read them just fine.
@@ -280,7 +280,7 @@ GVM.
 Yeah, GVM. They have special list for Taiwan university ranking.
 
 ### Audrey Tang:
-You make have to speak a little bit louder. Sorry.
+You may have to speak a little bit louder. Sorry.
 
 ### Weiwei Cheng:
 This is a special project for Taiwan university ranking. Here you can see five different measurements. For the research component, data comes from Scopus and the SciVal metrics. I think this is in July this year issue. Based on the metrics that we discuss with them, we came out like...

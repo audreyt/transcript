@@ -230,7 +230,7 @@ I quit school and I helped to build the World Wide Web, because I took so much f
 I think this one, in particular, made a lasting impact that probably everybody knows about, is the Wikipedia project where people use the same open source idea, but use it to produce human knowledge.
 
 ### Audrey Tang:
-There is one common thing in all this different project I worked with, is that it’s facilitating a safe space, where nobody could censor each others’ speech or drive a tank, or something, to stop other people from talking. In this relatively safe space, we can learn from each other, and just try one at a time and many times, until we have something that’s working.
+There is one common thing in all this different project I worked with, is that it’s facilitating a safe space, where nobody could censor each other’s speech or drive a tank, or something, to stop other people from talking. In this relatively safe space, we can learn from each other, and just try one at a time and many times, until we have something that’s working.
 
 ### Audrey Tang:
 Before Wikipedia, there were at least 10 different projects like Wikipedia that I participated in personally. None of them worked, but the Wikipedia somehow clicked. It’s OK, because over the Internet, it costs nothing to fail. It is not a scarcity economy. We just keep trying until we get something that is acceptable to the world.
@@ -299,7 +299,7 @@ To do what the government would do but do it ourselves, this is the idea of fork
 It would take maybe two minutes or three minutes to type it as a cell or something like a spreadsheet. It’s too much. If we ask people to do this over the Internet, nobody would come. Why do we know? Because we tried.
 
 ### Audrey Tang:
-Then we used technology, OpenCV, to cut this in to bite-sized tasks, what we call Tofu. Then for each one, you will just take five seconds. It’s the same amount as a like, a share, or as a comment on Facebook.
+Then we used technology, OpenCV, to cut this into bite-sized tasks, what we call Tofu. Then for each one, you will just take five seconds. It’s the same amount as a like, a share, or as a comment on Facebook.
 
 ### Audrey Tang:
 Instead of seeing more cute cat pictures, you can feel you are saving the country. That draws a lot of people. In fact, when we built a gamification website of this data, if people here have played FarmVille, Candy Crush, or any of those games, you know that as long as you have a progress bar and a counter, the countdown, and it says how many people are playing with you.
@@ -350,7 +350,7 @@ You took some years.
 Yes, that’s a great question. When we do the voting guide, as Gio said, we could only really do this before and after analysis for people who are going to be re-elected, so that we can correlate their actual performance. For people who are going running for the first time, we cannot do the same kind of analysis, for obvious reasons.
 
 ### Audrey Tang:
-Many people run for legislator, but before they are running for legislator, they are running for the county, a country counselor or city level counselor. There is still a track record on the national level, even if they are running for the first time for the parliament. They also already have a campaign finance record level on the local government before.
+Many people run for legislator, but before they are running for legislator, they are running for the county, a county counselor or city level counselor. There is still a track record on the national level, even if they are running for the first time for the parliament. They also already have a campaign finance record level on the local government before.
 
 ### Giovanni Allegretti:
 You started backwards from the ones that were candidates?
@@ -806,7 +806,7 @@ Within 24 hours, we, the hackers, downloaded everything from the dictionaries an
 Some other hacker converted the relational database, and some other hacker turned it into a website, also an input method extension, also an online dictionary, also an offline dictionary, and also a mobile phone. All of this was done in 24 hours. \[laughs\]
 
 ### Audrey Tang:
-This is called rough consensus, because we don’t need anybody’s permission. Everybody just works on whatever they need or their children need, with out any niche coordination.
+This is called rough consensus, because we don’t need anybody’s permission. Everybody just works on whatever they need or their children need, without any niche coordination.
 
 ### Audrey Tang:
 About those 24 x 24 bitmaps, where we need to identify the Unicode for it, we set up a Google spreadsheet that asked people to look at the pictures, and then using handwriting input method something, to try to identify the Unicode for those characters.
@@ -830,7 +830,7 @@ Actually, you cannot link to it anyway, but they said you can just link to the h
 I imagine it’s the same doctrine anywhere. We’re not using a part, we’re using 100 percent of that data.
 
 ### Audrey Tang:
-Correspondingly, we have to relinquish 100 percent of our claim. At that time, there is an invention firm Creative Common movement called Creative Commons Zero. When people use CC0, they say, “I relinquish even the attribution copyright.”
+Correspondingly, we have to relinquish 100 percent of our claim. At that time, there is an invention from Creative Commons movement called Creative Commons Zero. When people use CC0, they say, “I relinquish even the attribution copyright.”
 
 ### Audrey Tang:
 It’s like it enters the public domain immediately, without waiting for me to die, and the 70 more years. With CC0, we said all our code in the dictionary are CC0. All our data that we converted are CC0, meaning that we’re really just doing data conversion work for the government.
@@ -1677,10 +1677,10 @@ This is a website where you can be with your mobile phone. You can enter the tra
 Then clicking on the kind of work that you do, it will show in a three-panel comic how exactly does the CSSTA affect you.
 
 ### Audrey Tang:
-It will show you a mail-in Chinese coming by person or just the money, whether you can also do it to some province or the entire mail-in China, and how many impact would it have on your neighboring industries. Or if you are not in that service industry, it will show you that you are not affected by the CSSTA.
+It will show you a mainland Chinese coming by person or just the money, whether you can also do it to some province or the entire mainland China, and how many impact would it have on your neighboring industries. Or if you are not in that service industry, it will show you that you are not affected by the CSSTA.
 
 ### Audrey Tang:
-Instead of reading through hundreds of pages of PDF files, which was the launch we were working with, we correlated it with the registration data, with the UN data, with the WTO data, was the mail-in Chinese laws to show everybody in five seconds how exactly do they affect them, and to show the support of the occupiers on the street.
+Instead of reading through hundreds of pages of PDF files, which was the launch we were working with, we correlated it with the registration data, with the UN data, with the WTO data, with the mainland Chinese laws to show everybody in five seconds how exactly do they affect them, and to show the support of the occupiers on the street.
 
 ### Audrey Tang:
 On that day when we started the deliberation in place of legislatures, the president said we do not acknowledge the result of this deliberation. We do not think, even though you can convince thousands of students, they are representatives in anyway.
@@ -1860,7 +1860,7 @@ A lot of mayors from the Progressive Party in the independence were surprised th
 After that landslide victory of the counter-power, the ruling cabinet, the prime-minister resigned immediately. Then a new prime-minister came, still working for the Nationalist Party, but knowing that he only has one year, until the election cycle that changed the president and the entire administration and legislation on a national level.
 
 ### Audrey Tang:
-When he was tasked with directing the country’s agenda, when he have only one year left, and he has essentially two bosses. The president that’s going down with an approval rate of nine percent, and the president’s that coming up controlling all the cities, but not yet the national parliament or national administration.
+When he was tasked with directing the country’s agenda, when he have only one year left, and he has essentially two bosses. The president that’s going down with an approval rate of nine percent, and the president that’s coming up controlling all the cities, but not yet the national parliament or national administration.
 
 ### Audrey Tang:
 The new prime minister is in a very difficult position, but he is an engineer. The day he went on office he was quoted saying, “An engineer has no right to say no to a technical problem,” which is a very good mentality, which I completely agree with. He then set a completely new agenda for the next year that will not alienate any of his two bosses.
@@ -1905,7 +1905,7 @@ They ask us, “Is there a union for all the teleworkers in Taiwan, who could sp
 Nobody would dare to speak for other kind of people, because the entire work flow, the labor and the company relations is completely different. Nobody would stand and say, “I represent all the teleworkers.”
 
 ### Audrey Tang:
-They change course. They say, “OK, but how about the companies, early stage startups who only have an email address. Maybe they go on Kickstarter or some other you know confounding website, registered their company in Cayman Islands, and then they’ll have a physical address. Is there an association of such early stages starters and representatives?”
+They change course. They say, “OK, but how about the companies, early stage startups who only have an email address. Maybe they go on Kickstarter or some other you know crowdfunding website, registered their company in Cayman Islands, and then they’ll have a physical address. Is there an association of such early stages starters and representatives?”
 
 ### Audrey Tang:
 Of course, there are not. They have problem paying their next month’s salary. Why would they form an association? This is ridiculous. Then, they were faced with a problem because if they ask only the startup entrepreneurs and the teleworkers they know, everybody else will say this is lobbying, this is just closed deal with the people who are so close to administration, and so on.

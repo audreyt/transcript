@@ -133,7 +133,7 @@ We’re sort of the other end of things. One of the things we’re doing is call
 We have an algorithm out there that’s open source. What we’re doing, too, which is not done for most other engines, is we’re training models.
 
 ### Kelly Davis:
-Again, we started in English, so we’re working right now on a model, which is open source under Mozilla public license, to do speech recognition in English. We’re going to do other languages, too. Actually, we just got an NSF grant, National Science foundation grant, to create speech recognition models for languages that are under-resourced. For example, Welsh would be one of them.
+Again, we started in English, so we’re working right now on a model, which is open source under Mozilla public license, to do speech recognition in English. We’re going to do other languages, too. Actually, we just got an NSF grant, National Science Foundation grant, to create speech recognition models for languages that are under-resourced. For example, Welsh would be one of them.
 
 ### Kelly Davis:
 The interesting thing about that is that, while we’re building up corpora, data sets for other languages, the initial phase where we’re building out the data sets in other languages, these other languages will be under-resourced languages for a bit of time.
@@ -232,7 +232,7 @@ There’s a lot of projects from the civil society, like the g0v Moedict project
 That’s just Taiwanese Hoklo, and it’s more about dictionary, mostly about lexicon. We don’t have anything that is speeched for the Taiwanese Hakka and indigenous languages. On the other hand, the Minister of Science and Technology recently has been building thousands of hours of Mandarin corpus and a little bit of Taiwanese Hoklo.
 
 ### Audrey Tang:
-Part of this act also tasks our public television system and the Minister of Culture to start building, as part of their broad custom programming -- also hopefully openly licensed \[laughs\] -- databases for everybody to use.
+Part of this act also tasks our public television system and the Minister of Culture to start building, as part of their broadcast programming -- also hopefully openly licensed \[laughs\] -- databases for everybody to use.
 
 ### Audrey Tang:
 We’re now looking at a landscape where we will continuously have new corpora, continuously have new content, and a strong demand in the education sector to have ubiquitous access to all those different languages.
@@ -400,7 +400,7 @@ By public television, public radio stations, from the source, to make sure the v
 ...conversational, I guess.
 
 ### Zsehong Tsai:
-The carefully select the anchor’s name.
+They carefully select the anchor’s name.
 
 ### Zsehong Tsai:
 Then the additional tagging and other effort also, to make everything machine readable, such effort is done by the Ministry of Science and Technology. Because this Grand Challenge is planned to be held every year, we can believe that next year, one year later, they will prepare additional data set, so that the Grand Challenge will not be the same every year. \[laughs\]

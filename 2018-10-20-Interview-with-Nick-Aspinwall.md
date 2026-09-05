@@ -302,7 +302,7 @@ No.
 I wanted to ask that. Can you describe your opposition to the term?
 
 ### Audrey Tang:
-Especially it’s Mandarin form, 假新聞, it has two connotations. It could be a journalistic output that is misinformed, which we will call a journalistic misinformation. Or it could mean something like a content form that’s intentional spreading of falsehood, but framed as a journalistic output, while holding them self to no journalistic standards, like pretending to be journalism, which is, of course, one form of disinformation.
+Especially its Mandarin form, 假新聞, it has two connotations. It could be a journalistic output that is misinformed, which we will call a journalistic misinformation. Or it could mean something like a content form that’s intentional spreading of falsehood, but framed as a journalistic output, while holding them self to no journalistic standards, like pretending to be journalism, which is, of course, one form of disinformation.
 
 ### Audrey Tang:
 These two endeavors, they have nothing in common, but then 假新聞 kind of describe both. It’s impossible to have a real discussion if it encompasses two things that has no overlap.
@@ -912,7 +912,7 @@ Exactly.
 It’s not a hierarchical society. You raise a very interesting point because I think that it can be a bit of an abstract concept if people come to this proverbial table of horizontal, equally...
 
 ### Audrey Tang:
-Suddenly everybody is a news outline now. What to do next?
+Suddenly everybody is a news outlet now. What to do next?
 
 > (laughter)
 

@@ -231,7 +231,7 @@ The thing is that Estonia is city state-like. It can’t very easily export its 
 It’s based on the fact that there is no paper legacy to begin with. There is no bureaucratic legacy to begin with. It’s city-sized, to boot. So far as I know, we’re trying to do this inter-generational reconciliation between the digital and the paper culture, digital twinning and so on.
 
 ### Audrey Tang:
-I think we’re pretty unique, in Asia at least, but there’s many counterparts in Iceland, in Madrid, in Ottawa, of all places, and in New Zealand to recently. At least in this region, I think we’re kind of unique.
+I think we’re pretty unique, in Asia at least, but there’s many counterparts in Iceland, in Madrid, in Ottawa, of all places, and in New Zealand too recently. At least in this region, I think we’re kind of unique.
 
 ### Shawn Jang:
 Yeah, definitely. It’s interesting. You’re saying broadband as a right. What we’re focused on is a healthy space as a human right and air quality as a human right. I feel like those are things that we could definitely improve on. I’m lost at an idea. What do you think we can do, as our goals, our missions, to meet or work with what you guys are doing?

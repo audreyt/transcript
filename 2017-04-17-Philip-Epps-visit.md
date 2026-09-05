@@ -25,7 +25,7 @@ I had to show you a photograph because I didn’t know your Chinese names. I sho
 I’m sorry.
 
 ### Philip Epps:
-You saw my email. I’m a producer. I’m also a wannabe technie, but not a programmer. I’ve done some PR and marketing for two companies in China and Hong Kong here. I’m not the millennial age that you normally see. Obviously, I’m 59. But I have a lot of ideas and I’ve been around a bit. I read a lot. I assimilate stuff.
+You saw my email. I’m a producer. I’m also a wannabe techie, but not a programmer. I’ve done some PR and marketing for two companies in China and Hong Kong here. I’m not the millennial age that you normally see. Obviously, I’m 59. But I have a lot of ideas and I’ve been around a bit. I read a lot. I assimilate stuff.
 
 ### Philip Epps:
 When I saw that you had gotten your position I thought...I hadn’t heard of you before but I was like, &quot;Oh, yeah. That’s the symbol of the new Taiwan or the global ethic that’s going on.&quot; Smart. Hacker. Transgender. Minister without portfolio.
@@ -271,7 +271,7 @@ Thailand is attractive, because you get ‑‑ at least Americans ‑‑ you get
 That’s an issue. It’s like what if you’ve got online businesses ‑‑ several ‑‑ which I kind of do, and yet, you’re not really officially paying taxes if you’re on a visitor visa. You don’t want to do anything illegal. You like where you are. It’s obviously pretty alternative compared to the structure that this is set up.
 
 ### Audrey Tang:
-If you’re online company is targeting Taiwan or the vicinity as a primary user base...
+If your online company is targeting Taiwan or the vicinity as a primary user base...
 
 ### Philip Epps:
 Targeting the world. That’s what...
@@ -370,7 +370,7 @@ Oh, I see.
 ...patents, or papers.
 
 ### Audrey Tang:
-Right, exactly. The special professional, our draft definition is that you’re in the top quarter of salaries, so professional, currently, in Taiwan, that is to say average of about this number NDD per month. If your previous job, not necessarily in Taiwan, pay you this much, then we actually want you here.
+Right, exactly. The special professional, our draft definition is that you’re in the top quarter of salaries, so professional, currently, in Taiwan, that is to say average of about this number NTD per month. If your previous job, not necessarily in Taiwan, pay you this much, then we actually want you here.
 
 ### Philip Epps:
 Sure. That’s pretty standard. Most countries attract...Anybody who’s got that certain level...
@@ -622,7 +622,7 @@ What your proposing is a much smaller thing?
 It’s, I guess, the idea would be it’s a live‑work space. The graffiti is welcome. It’s alternative San Francisco kind of bohemia ethic. That’s going to scare people away, because, &quot;Oh no way. I don’t have my PhD or my...I’m not capable to do that.&quot; But something like this, if there was some PR, word of mouth...
 
 ### Audrey Tang:
-A little bit like Freemont before it got gentrified? There was this town, where...
+A little bit like Fremont before it got gentrified? There was this town, where...
 
 ### Philip Epps:
 You worked in Silicon Valley, right?
@@ -631,7 +631,7 @@ You worked in Silicon Valley, right?
 Yeah.
 
 ### Philip Epps:
-I know Freemont. It’s kind of near San Francisco.
+I know Fremont. It’s kind of near San Francisco.
 
 ### Audrey Tang:
 Right. It was like that, graffiti were coming and so on, and there would be people that set up home there, and then they all left it and so on, but then...
@@ -643,7 +643,7 @@ Kind of a squat, right?
 Yeah, but like a gentrified, like really quickly.
 
 ### Philip Epps:
-That’s Freemont, though, with the houses prices and...
+That’s Fremont, though, with the houses prices and...
 
 ### Audrey Tang:
 No, but the thing is that we see this happening in Taiwan all the time. If you don’t have a status of a heritage site, that prevents housing speculation. Any bustling center of graffiti very quickly get gentrified with skyrocketing housing prices and so on. This is...
@@ -676,7 +676,7 @@ It used to be that Taiwan allocates all the budgets from the administration to t
 You need to offer incentives to...
 
 ### Audrey Tang:
-Exactly. They are not aligned. They’re mostly aligned just to please the administration’s planners, and the KMD, of course, loved this, for obvious reasons.
+Exactly. They are not aligned. They’re mostly aligned just to please the administration’s planners, and the KMT, of course, loved this, for obvious reasons.
 
 ### Audrey Tang:
 We are working on a new law that will change the administration, local level political responsibility, the financial reform act. It’s very controversial.

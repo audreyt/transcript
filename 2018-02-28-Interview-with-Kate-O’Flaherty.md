@@ -257,7 +257,7 @@ I have no idea. Friday.
 > (laughter)
 
 ### Audrey Tang：
-My typical Friday \[laughs\] is having a multi-stakeholder forum or discussion with the participant officers in the ministries. In every ministry, and it is part of a national regulation we instated is that every ministry must assign at least one person, but more often than not, a team of people who work as POs, or participation officers.
+My typical Friday \[laughs\] is having a multi-stakeholder forum or discussion with the participation officers in the ministries. In every ministry, and it is part of a national regulation we instated is that every ministry must assign at least one person, but more often than not, a team of people who work as POs, or participation officers.
 
 ### Audrey Tang：
 Just like officers who talk with the Parliament or officers who talk with the media, these people are there to talk with everybody, with state organs. The PO network is one of our ways of trying to imbue into the government this coordination without control or leaderless framework that we’ve been quite dependent on for the past 20 years or so outside of the government in a national setting.
@@ -269,7 +269,7 @@ The way it works is, of course, we use this free software system called Sandstor
 By the end of 2014, it is a demand of the national forum of citizens, which was held because of the Sunflower Movement, that the government must not repeat this mistake, which was to open the cross-strait service trade agreement to public consultation very late in the process, where people are left with the agenda-setting power of, I don’t know, just bikeshedding.
 
 ### Audrey Tang：
-The idea is that for all the regulations and all the laws, there must be an ongoing system for people to have meaningful conversations. When the agenda set in power was monopolized by the government, people really want a We the People like addition system where 5,000 citizens together can demand a response from the administration.
+The idea is that for all the regulations and all the laws, there must be an ongoing system for people to have meaningful conversations. When the agenda-setting power was monopolized by the government, people really want a We the People like petition system where 5,000 citizens together can demand a response from the administration.
 
 ### Audrey Tang：
 Unlike We the People, many people propose to cross-ministerial issues. It wasn’t really clear which minister or which officer would be in charge of responding to those e-petitions. What we observed was that the single-ministry issues get really meaningful two-way dialog with ministries, especially the already public-facing ministries, such as the health and welfare.

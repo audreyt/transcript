@@ -164,7 +164,7 @@ Then we had, of course, a lot of division of ideas, but because we employ a Pol.
 Then we made the regulatory auditory structure based on people’s block consensus, even among people who are divisive. One of the consensus was basically taking Uber as a source of inspiration, saying that it is true that we have a way to help taxis that does not depend on the car having any yellow paintings, any medallions, or any other markers. It really is a new way to call a car. That’s true.
 
 ### Audrey Tang:
-The other innovation that Uber brings is this 5‑star system that let’s not just the passengers, but also the drivers, who can also have their reputation for the clients. I think these are some things that are very inspirational and that we do want to learn from.
+The other innovation that Uber brings is this 5‑star system that lets not just the passengers, but also the drivers, who can also have their reputation for the clients. I think these are some things that are very inspirational and that we do want to learn from.
 
 ### Audrey Tang:
 Just last month we passed what we call the e‑taxi regulation, or more formally taxi driver certification regulation structure, so that any company who just want to introduce this non‑painted yellow, non‑medallion fleet can apply to the ministry of transportation, and also operate just exactly like Uber with this 5‑ star and with the app that shows the whole license plate number, the driver’s name, and so on, so that everybody has a transparency and the record of what exactly goes where.

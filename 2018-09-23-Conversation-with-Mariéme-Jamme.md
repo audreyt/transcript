@@ -300,7 +300,7 @@ Like co-domesticate each other, like we and wolves co-domesticated into dogs and
 It’s amazing.
 
 ### Audrey Tang：
-It’s like machine intelligence co-living with collective inteeligence. I would love of course to...
+It’s like machine intelligence co-living with collective intelligence. I would love of course to...
 
 ### Mariéme Jamme：
 You are the minister of digital economy?
@@ -984,7 +984,7 @@ The technology, that’s what Africa need now. That will give you a door to be p
 The ideation is there, the wishes are there, they all want to do something big. The Rwandese government for example, they want to digitalize all the birth certificate. I helped the Mozambican government with e-government solutions.
 
 ### Mariéme Jamme：
-They all have projects like this they’re working on, or they want but sometimes the just don’t have an example, a very simple example, not too much, not too expensive to do it. Usually it’s just big ideas and they don’t have...If you can come in, if Taiwan and yourself can come in as a tech partner...
+They all have projects like this they’re working on, or they want but sometimes they just don’t have an example, a very simple example, not too much, not too expensive to do it. Usually it’s just big ideas and they don’t have...If you can come in, if Taiwan and yourself can come in as a tech partner...
 
 ### Audrey Tang：
 A facilitator really, and just facilitate the local people, local girls to understand the technology and maintain it.

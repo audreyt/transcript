@@ -305,10 +305,10 @@ We’re way beyond where people think the vote would be rigged or it would be co
 That is good. That is one of the key things.
 
 ### Audrey Tang:
-That’s also why we’re publishing...Instead of just the Parliament, the administration, and the courts, we have a dedicated system called the Correct Yuan. It’s an auditory body that is separate from the Parliament and the administration.
+That’s also why we’re publishing...Instead of just the Parliament, the administration, and the courts, we have a dedicated system called the Control Yuan. It’s an auditory body that is separate from the Parliament and the administration.
 
 ### Audrey Tang:
-It audits both the Parliament and the administration’s use of budget and also campaign donations. When the legislators were still campaigning, the Correct Yuan would oversee it, independent of the administration and the parties that the administration and the legislation is in.
+It audits both the Parliament and the administration’s use of budget and also campaign donations. When the legislators were still campaigning, the Control Yuan would oversee it, independent of the administration and the parties that the administration and the legislation is in.
 
 ### Audrey Tang:
 There’s debatable whether there’s a better constitutional design or not, but at least it’s an independent organization, well trusted by the population. They now are moving to publish their audit reports, including the specifics of the campaign donations online, so that not just they can do the auditing, but everybody can do the auditing.
@@ -398,7 +398,7 @@ Also, we adopted a license that is compatible with the Creative Commons Attribut
 We get a lot of adoption from the Linux community, from the other community, as well, who will want to use the fonts or the basic vocabulary or whatever, produced in Taiwan. That’s the background of our transparency policy.
 
 ### Audrey Tang:
-Now, we’re doing procurement support. We’re also using the Linux Foundation standards, the open API and also Speedex, so that the procurement can be, in addition to providing open API, also reuse as much as possible the open source components as part of their procurement.
+Now, we’re doing procurement support. We’re also using the Linux Foundation standards, the open API and also SPDX, so that the procurement can be, in addition to providing open API, also reuse as much as possible the open source components as part of their procurement.
 
 ### Audrey Tang:
 Again, we’re not biased saying, &quot;You must only procure open source.&quot; We’re saying, &quot;You can say open source and open API are the key technical requirements.&quot;
@@ -434,7 +434,7 @@ Exactly.
 That’s exactly right. We start from the air and the water, earthquake disaster recovery data, because there’s no privacy concern. The river will not wake up and say, &quot;You invaded my privacy.&quot; \[laughs\] It’s all public environmental data anyway.
 
 ### Audrey Tang:
-We are setting up a four-year program, where we use a national petabyte super-computing cluster to absorb all the data that’s indicated there and normalize its vocabulary using the state-of-the-art XML vocabularies. Then, allow the mission learning people to use the NVIDIA Tesla accelerator GPUs in place.
+We are setting up a four-year program, where we use a national petabyte super-computing cluster to absorb all the data that’s indicated there and normalize its vocabulary using the state-of-the-art XML vocabularies. Then, allow the machine learning people to use the NVIDIA Tesla accelerator GPUs in place.
 
 ### Audrey Tang:
 Instead of bringing data to people like the previous generation, we’re now also working on this style, peta style, peta-scale data. It lets the algorithm bring to the data, and then run the algorithms there and publish their statistics.
@@ -560,7 +560,7 @@ The driver, after driving for three weeks, they decide it’s not a really good 
 The idea is essentially saying, &quot;We need to have a thorough discussion because otherwise, people are just looking at the size of this discussion.&quot; One side will say, &quot;This is the future, this is our road to self-driving cars and whatever. It’s very cool, very hip.&quot;
 
 ### Audrey Tang:
-The other side is always saying, &quot;There’s no insurance. There’s no taxation. There’s no professional driver’s license. Nobody caries the liabilities. What do you do?’
+The other side is always saying, &quot;There’s no insurance. There’s no taxation. There’s no professional driver’s license. Nobody carries the liabilities. What do you do?’
 
 ### Audrey Tang:
 The discussions tend to be more divergent over time, instead of convergent over time. The basic methodology that we use is called the focused conversation method. It’s invented in Canada. That says, &quot;First, we need to do a stakeholder mapping that absorbs everybody’s facts, and everybody validates those facts.&quot;
@@ -653,10 +653,10 @@ For the petition case, the 25K petition ended up about 2,500 people, so about on
 We’ve been experimenting, then, using more AI in this conversation, because at the moment the AI is only used to analyze the principal component to group people, to cluster people together and pick, and write automated report, which is already very useful.
 
 ### Audrey Tang:
-We’re also now looking at AI to synthesize people’s ideas and feelings into personas. We can have a conversation in the Holodeck System for NVDI, and also, we’re also working with the Hololens people in Microsoft so that we have all the advertisers here.
+We’re also now looking at AI to synthesize people’s ideas and feelings into personas. We can have a conversation in the Holodeck System for NVIDIA, and also, we’re also working with the Hololens people in Microsoft so that we have all the advertisers here.
 
 ### Audrey Tang:
-To recreate the conversation so that when we’re talking about a park or a stadium, we can actually have a conversation in that hypothetical part or stadium, which is the only thing that is factual anyway when we’re talking about a future building. Otherwise, people have to understand the diagrams of architects, which is very difficult.
+To recreate the conversation so that when we’re talking about a park or a stadium, we can actually have a conversation in that hypothetical park or stadium, which is the only thing that is factual anyway when we’re talking about a future building. Otherwise, people have to understand the diagrams of architects, which is very difficult.
 
 ### Audrey Tang:
 There’s a lot of experiments with VR. Now since we have 360 recording, we’re also working with the AI labs here to automatically identify the speaker, and produce real-time transcript, and things like that.
@@ -779,7 +779,7 @@ For example, the virtual workplace that we use, Sandstorm, it’s entirely free 
 Because it’s an open source it’s not the simple reverse engineering. They went line by line to look at the loopholes.
 
 ### Audrey Tang:
-Once we have this secure underpinning, then we open this innovation for any public servant to write their own software to run on this secure sandbox system. They would write a system to let people order lunchbox together. People in our office us it every week to order lunch together.
+Once we have this secure underpinning, then we open this innovation for any public servant to write their own software to run on this secure sandbox system. They would write a system to let people order lunchbox together. People in our office use it every week to order lunch together.
 
 ### Audrey Tang:
 It’s a simple JavaScript application. The person who wrote this doesn’t even have to care about cyber security because it’s running under a sandbox that’s already hardened.

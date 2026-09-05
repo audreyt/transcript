@@ -93,7 +93,7 @@ Regarding the think tank, and how we’ve been thinking and trying to structure 
 We want to bring a more circular way, an engaging way, where when a technology is being designed, it’s really designed from the human perspective and addressing already the impact that technology is going to have on society and users, and to have technology not designed as thinking just about consumers, but as about all of us as a society, and also talking about sustainability and so on.
 
 ### Carina Lopes:
-The four main topics will be very generic topics we’ll be taking about is about inclusion and citizen empowerment, which is related with the relation between citizens and the technological development, and then we have public innovation.
+The four main topics will be very generic topics we’ll be talking about is about inclusion and citizen empowerment, which is related with the relation between citizens and the technological development, and then we have public innovation.
 
 ### Carina Lopes:
 That’s really about the challenges that the digital brings to policymakers, and how we have to change the dynamic, the speed, but also the relations of engagement to design policy.
@@ -168,7 +168,7 @@ You mean the program of the Digital Future Society? It’s a program that we’r
 That will be an initiative led by our foundation. That will be a global initiative, so it’s really about bringing different institutions together and creating space. We have a privileged position within the telecommunication sector, because we have the Mobile World Congress in Barcelona.
 
 ### Carina Lopes:
-We have very close relationship with the different stakeholders and with GSMA, and we want to start within that space that we already have, and really create a space for reflection and also to position Spain and the Spanish-speaking countries to create this space of debate to really thing about digital, but always in relation with Europe and other geographic regions of the world.
+We have very close relationship with the different stakeholders and with GSMA, and we want to start within that space that we already have, and really create a space for reflection and also to position Spain and the Spanish-speaking countries to create this space of debate to really think about digital, but always in relation with Europe and other geographic regions of the world.
 
 ### Audrey Tang:
 So it’s mostly, I would say — because you are a foundation — a social sector institution that’s supporting this endeavor, and there’s no corresponding office within the Catalonian Government or the Barcelonian City Council? They’re more like participants to your program. Is that the idea?

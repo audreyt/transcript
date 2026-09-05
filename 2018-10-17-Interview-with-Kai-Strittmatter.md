@@ -303,7 +303,7 @@ This is the same for disinformation. At the moment, it’s still lucrative. Peop
 How do you do that?
 
 ### Audrey Tang:
-By listening to people, by getting people into the habit of listening and waiting a couple of hours for the clarification to come out, for it not to be a real-time strategy game but a term-based game, if you will, by tuning the news cycle so that by the time of the afternoon news already have a balanced report from both sides to report.
+By listening to people, by getting people into the habit of listening and waiting a couple of hours for the clarification to come out, for it not to be a real-time strategy game but a turn-based game, if you will, by tuning the news cycle so that by the time of the afternoon news already have a balanced report from both sides to report.
 
 ### Kai Strittmatter:
 Does it work?
@@ -383,7 +383,7 @@ Yeah. People would dispute on the ground of that runs counter to the One-China p
 As we’re talking about a subject like this, what would you tell my readers, why should they care about Taiwan? Why is Taiwan important?
 
 ### Audrey Tang:
-Why is Taiwan important? We can help. We’re developing those vaccines, just like Taiwan leads research on vaccines against the snake venom, because we have a high number of poisonous snake spieces, huge pile of diversity. \[laughs\] We’re doing vaccine research.
+Why is Taiwan important? We can help. We’re developing those vaccines, just like Taiwan leads research on vaccines against the snake venom, because we have a high number of poisonous snake species, huge pile of diversity. \[laughs\] We’re doing vaccine research.
 
 ### Audrey Tang:
 We’re happy to take this work from the predominant social media here, to WhatsApp or whatever thing the Europeans are using. So we’re research partners.
@@ -766,7 +766,7 @@ Do you see that?
 Yes. There’s 30 or so ministers and there’s 8 -- up to 9, but currently 8 -- horizontal ministers. As one of the eight, it’s already in the job description that I facilitate across ministries.
 
 ### Audrey Tang:
-People generally come to me when it’s part of the three mandates that I have, open government, use engagement, and social innovation. The good thing about these three, which reinforce each other, is that there’s no clear owner of these issues. Social innovation means emergent things. That doesn’t have an owner.
+People generally come to me when it’s part of the three mandates that I have, open government, youth engagement, and social innovation. The good thing about these three, which reinforce each other, is that there’s no clear owner of these issues. Social innovation means emergent things. That doesn’t have an owner.
 
 ### Audrey Tang:
 The ministers generally think if the credit is fairly distributed, and the risk can be absorbed, they’ll voluntarily be facilitated, but if they think, &quot;It’s my own domain. It’s my own turf. It’s something that I’m already working on for 30 years and it’s none of the other ministries’ business,&quot; of course, they don’t come to me.
@@ -990,7 +990,7 @@ When you compared yourself, for example, to Estonia, which is always the model s
 There’s two main differences. First is that Estonia doesn’t have the paperwork legacy. Our digital transformation includes the recipe of how to migrate from a paper-based system, which makes it actually much more exportable \[laughs\] to other countries, because there is very few countries that were founded after the Internet, Estonia being one.
 
 ### Audrey Tang:
-This is not to say that they don’t play a role model kind of way. It could be like that, but actually together, they don’t have to experience either because there is no paper legacy. I think it’s more practical for out digital governance to be exported. That’s the first one.
+This is not to say that they don’t play a role model kind of way. It could be like that, but actually together, they don’t have to experience either because there is no paper legacy. I think it’s more practical for our digital governance to be exported. That’s the first one.
 
 ### Audrey Tang:
 The second is that Taiwan just has more verticals. In the digital transformation, it helps to have all the people working on agriculture, on environment, on sustainable agriculture, on all those different things to participate in digital transformation.

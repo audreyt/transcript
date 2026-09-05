@@ -92,7 +92,7 @@ Within the technology sphere, I’m new to the technology field. I worked more o
 The concept of working open was not one that had really permeated my consciousness, although it was true for my practice, in terms of some of the work that I was doing. Thinking about infusing that at all levels of work, including in the government, is very interesting to me.
 
 ### Audrey Tang:
-So many people ask me whether being radically transparent and being privacy conscious is at odds with each other, but they actually compliment with each other, because there’s the radically transparent part.
+So many people ask me whether being radically transparent and being privacy conscious is at odds with each other, but they actually complement with each other, because there’s the radically transparent part.
 
 ### Audrey Tang:
 Everything else is secure, is private, and is built on the promise that you know the cyber security is there to prove which side is which, instead of having any grey area in between.

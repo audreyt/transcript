@@ -340,7 +340,7 @@ When I was 15 years old, that was 1996, I discovered this World Wide Web thing a
 This strange condition of discovering World Wide Web I think is very specific to the ’90s. Now there’s people grew up with Wikipedia, they grew up with their sources on the Internet. The teacher’s role has already changed because the students will fact-check their teachers using their mobile phones and such.
 
 ### Audrey Tang:
-I don’t think the lack of access to Internet is the problem in Taiwan. Taiwan actually have very good Internet connectivity. Now days I thinks it’s mostly a more siloing effect of people doing education going to schools.
+I don’t think the lack of access to Internet is the problem in Taiwan. Taiwan actually have very good Internet connectivity. Nowadays I thinks it’s mostly a more siloing effect of people doing education going to schools.
 
 ### Audrey Tang:
 Nowadays, they have to enroll into one or the other discipline and to choose one or the other major fields they want to study, and one or more things they want to pursue, but always kind of exclusively with other things.

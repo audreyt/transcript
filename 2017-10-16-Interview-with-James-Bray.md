@@ -168,7 +168,7 @@ Of course, there’s also the Ministry of Economic Affairs, because it’s about
 Instead of all seven of them taking a little part, we actually get it into many different sub-topics, which every minister can act fully responsible. We now let everybody know that it takes all the parts, but for every part, they’re actually really responsible.
 
 ### Audrey Tang:
-For the career public servant, it actually refuses their work, because, otherwise, they’d have to respond to individual MPs repetitively. They have to respond to individual protestors repetitively.
+For the career public servant, it actually reduces their work, because, otherwise, they’d have to respond to individual MPs repetitively. They have to respond to individual protestors repetitively.
 
 ### Audrey Tang:
 Now, because there’s 5,000 people e-petitioning, it’s essentially 5,000 people subscribing to our newsletter. Once we publish this picture, at least 5,000 people get the same picture.
@@ -207,7 +207,7 @@ Our contributions are two-fold. The first is we make it regular. It’s not some
 This is an approach that involves more simplification of administrative work, instead of the highlighting of a certain prime minister. Our first contribution is a reposit of this AI stuff, of this augmented reality stuff, all this collaborative ideation stuff as time-savers. It’s actually welcome, and so that’s our first contribution.
 
 ### Audrey Tang:
-The second is that we see ourself as a fact-finding, essentially, consultancy, not just for the administration, but for everybody including the MPs, local city counselors, and local city government. That solves an issue where always in cases like this...It’s actually not necessarily found in national government level, but from the MPs and the local governments, who are even more likely to think about this as taking their power away.
+The second is that we see ourself as a fact-finding, essentially, consultancy, not just for the administration, but for everybody including the MPs, local city councilors, and local city government. That solves an issue where always in cases like this...It’s actually not necessarily found in national government level, but from the MPs and the local governments, who are even more likely to think about this as taking their power away.
 
 ### Audrey Tang:
 Because we focus on the fact-finding and the reflection phase, it does not at all move into the positional power. There’s no e-voting. There’s no showing of hands, or whatever, so this is seen as a welcome addition to the normal process that they do to their job.
@@ -420,7 +420,7 @@ If there’s no city, like urban/rural difference. The reason is, this is unfair
 People who want broadband access get broadband access. Our current president campaign was Internet is human right. There’s less excuse of we don’t have Internet access. Now, of course, it’s possible that they have Internet access, but they don’t prefer the textual way of engagement.
 
 ### Audrey Tang:
-Now, that’s actually a cognitive mode. That’s the argument, instead of a network access argument. For this, which is why we adopted ARBR. We adopted a real time board that posted notes, which is why we adopted this ambient computing idea, where we take all this reporting environment into a town hall, but for the citizen, it’s just working into the same town hall and having a real discussion.
+Now, that’s actually a cognitive mode. That’s the argument, instead of a network access argument. For this, which is why we adopted ARBR. We adopted a real time board that posted notes, which is why we adopted this ambient computing idea, where we take all this reporting environment into a town hall, but for the citizen, it’s just walking into the same town hall and having a real discussion.
 
 ### Audrey Tang:
 We do a lot of assisted civic technology to try to make it much more inclusive for people with different cognitive modes than purely textual and PowerPoint.
