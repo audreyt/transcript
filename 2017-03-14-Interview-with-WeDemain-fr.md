@@ -626,7 +626,7 @@ You mean you need pictures free for you to use?
 Yes.
 
 ### Audrey Tang:
-Of course, I have a lot of pictures in the commons, like Creative Common Zero, where you don’t have to ask for a license.
+Of course, I have a lot of pictures in the commons, like Creative Commons Zero, where you don’t have to ask for a license.
 
 ### Jean-Jacques Valette:
 Excellent.

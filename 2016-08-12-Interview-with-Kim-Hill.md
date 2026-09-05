@@ -168,7 +168,7 @@ What is a &quot;civic hacker&quot;?
 Well, a hacker is someone who makes new rules out of new situations, instead of trying to retrofit old rules to new situations. A civic hacker is just someone who does this to the public sphere.
 
 ### Kim Hill:
-In 2014, you had a big year in Taiwan. You had big social protest, the Sunflowers movement, which as far as I can gather was against the ratification of a trade treaty with china. And you had the occupation of Parliament. I think that you found that very interesting, in terms of what civic hacking could achieve. Could you tell me what happened?
+In 2014, you had a big year in Taiwan. You had big social protest, the Sunflowers movement, which as far as I can gather was against the ratification of a trade treaty with China. And you had the occupation of Parliament. I think that you found that very interesting, in terms of what civic hacking could achieve. Could you tell me what happened?
 
 ### Audrey Tang:
 Certainly. So the short of it is very simple. There’s a bunch of students who didn’t like the way that a Legislative Yuan — that’s our Parliament — refused to debate the treaty with Beijing, because their interpretation of constitution at the time was that Beijing is a domestic city of Taiwan, and &quot;domestic agreements&quot; doesn’t need legislative oversight.
