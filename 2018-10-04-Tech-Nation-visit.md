@@ -55,7 +55,7 @@ Secondly, digital skills initiatives, all the way from influencing formal educat
 Last but not least, we have a lot of, that might be interesting here, older CXOs, leaders of large private or public organizations to work with start-ups in a fruitful, collaborative way. Starts with funny things like language, different methodologies, different processes.
 
 ### Stephan Kuester:
-The leader, the CEO of Barclay’s would come to us and would be educated in a way that he or she is a little bit more effective in collaborating with the innovators. Innovation, for us, very strongly comes out of the CXOs.
+The leader, the CEO of Barclays would come to us and would be educated in a way that he or she is a little bit more effective in collaborating with the innovators. Innovation, for us, very strongly comes out of the CXOs.
 
 ### Audrey Tang:
 Also, capacity building for them, right? Not just as mentors?
@@ -168,7 +168,7 @@ Also, with the regulation and whatever specific challenges they have, whether it
 Do you also do advocacy for people who are petitioning? For example, to change the regulatory rules of ethical AI or AI relating to children’s rights. There’s a lot of consultations that are going on. You are also active in that process?
 
 ### Parveen Dhanda:
-Absolutely. We will be. Fintech’s launched, so we work very closely with HM Treasury. We’ll be doing the same with cybersecurity. We’re working with GHCQ and others. Really, for us, we can’t lobby, but we do policy convening. We bring in various entrepreneurs. We have round table discussions with Number 10, the special advisors to the prime minister, to make sure their voices are heard.
+Absolutely. We will be. Fintech’s launched, so we work very closely with HM Treasury. We’ll be doing the same with cybersecurity. We’re working with GCHQ and others. Really, for us, we can’t lobby, but we do policy convening. We bring in various entrepreneurs. We have round table discussions with Number 10, the special advisors to the prime minister, to make sure their voices are heard.
 
 ### Parveen Dhanda:
 Talent has come up, especially with Brexit. We’ve done various round tables around that. We did round tables in terms of visas. Actually, from the policy convening, this is where the Tech Nation visa scheme came about from a few years back.
@@ -186,10 +186,10 @@ The same might happen actually in blockchain, blockchain smart contracts, to hav
 In the UK, when the fintech sandbox first came about, we see a lot of start-ups working on regulation technology or RegTech. I think that is one of the main thing that everybody wants nowadays. It’s less clear on RegTech works on blockchain, actually. Actually, very blurry. \[laughs\] I think, whenever there’s a regulatory challenge, there is a potential market official.
 
 ### Stephan Kuester:
-To make sure we have this dial-up between sometimes old, established administrators trying to use regulation to block innovative services. We want to make sure this doesn’t happen, it’s a level playing field, eye to eye. Most likely it is going to happen in AI, as well.
+To make sure we have this dialogue between sometimes old, established administrators trying to use regulation to block innovative services. We want to make sure this doesn’t happen, it’s a level playing field, eye to eye. Most likely it is going to happen in AI, as well.
 
 ### Parveen Dhanda:
-Yeah, I think so. That’s very much our early-stage programs. Then we have our mid-stage, which is those companies that have raised, at sector or across state, Series A or have Â£500,000 in revenues. They tend to have 30 percent month-on-month growth based on their business metrics. That could be customer acquisitions and so forth.
+Yeah, I think so. That’s very much our early-stage programs. Then we have our mid-stage, which is those companies that have raised, at sector or across state, Series A or have £500,000 in revenues. They tend to have 30 percent month-on-month growth based on their business metrics. That could be customer acquisitions and so forth.
 
 ### Parveen Dhanda:
 What we do with them, it’s actually more of a master class. We have scale-up coaches. We’ve had the CEO and founder of PayPal, who would almost give a master class in scaling, like, &quot;These are the things you need to be thinking about.&quot;
@@ -210,7 +210,7 @@ It really changed.
 It totally changed. We’re on six. There was an IPO last week with Funding Circle. We’ve had six IPOs, but four of those were in 2014 with Just Eat, Zoopla, and so forth. We’ve had 29 M&amp;As. I’ve mentioned Skyscanner, which was acquired for over a billion dollars. We’ve also had Matches Fashion, which was reported acquired over a billion.
 
 ### Parveen Dhanda:
-Since the companies have joined the program, they’ve raised Â£5.5 billion in VC funding in capital markets. How we support them is really shining a light on these companies to say, &quot;Look, these are the UK’s top-scaling digital businesses.&quot;
+Since the companies have joined the program, they’ve raised £5.5 billion in VC funding in capital markets. How we support them is really shining a light on these companies to say, &quot;Look, these are the UK’s top-scaling digital businesses.&quot;
 
 ### Parveen Dhanda:
 We also do, I’ve mentioned the policy convening. We help them with any press opportunities, scaling internationally, as well, but where the secret sauce is with that program is the networking. We’ll bring in the CMOs together every quarter, the CEOs, and so forth.
@@ -357,7 +357,7 @@ Yeah. We want them to make billions for revenue, but we also want them to addres
 Again, it ties into the scaling story, so with the growth programs, mid-sized, late stage, if proven that this mentorship-based approach is incredibly effective, it doesn’t sound that complicated. I’m from consulting background. It’s interesting to see that these entrepreneurs don’t want consultants. They want to speak to somebody who’s actually been in the same environment.
 
 ### Audrey Tang:
-Yeah, it’s all about the report.
+Yeah, it’s all about the rapport.
 
 ### Parveen Dhanda:
 Yeah.
@@ -420,7 +420,7 @@ We need this company in London.
 Then we SDG index it as part of our presidential Social Innovation Hackathon, and then the people in New Zealand discovered. They didn’t have a water shortage problem, but because of climate change, they now have.
 
 ### Audrey Tang:
-They don’t really have that technology ready, so it’s either buying a very expensive solution on the she from Tel Aviv, or co-create with some local start-up there, the Taiwan Water Company. The team is now actually in Wellington working with the water company.
+They don’t really have that technology ready, so it’s either buying a very expensive solution on the shelf from Tel Aviv, or co-create with some local start-up there, the Taiwan Water Company. The team is now actually in Wellington working with the water company.
 
 ### Audrey Tang:
 This is one of the pieces that I think it makes a lot sense, just exactly as you said, to have the entry area still be a revenue-based or employment-based or whatever, but once you enter in it, we just demand some SDG numbers out of them, and then we start those natural collaborations.

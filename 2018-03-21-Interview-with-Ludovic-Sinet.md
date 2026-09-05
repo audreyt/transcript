@@ -170,7 +170,7 @@ For example, the aging society. There’s no minister for aging society, and thi
 As the digital minister, I’m mostly tasked to absorb the risk of digital transformation by trying, in the administration, in our day-to-day operation, as much automation as possible, as much digital tools as possible, as much paperless work as possible. By doing this as a pilot in a minister’s office we eliminate the need for the low-level civil servants to petition for the digital transformation.
 
 ### Audrey Tang:
-Once that I do this first, everybody can site me as an example. For example, every Monday and Thursday I am in administration office, but the other days I’m not. I’m actually touring around Taiwan, and bring with me live stream cameras, 360 cameras, and then let a dozen ministries see with their own eyes in the Social Innovation Lab here and project it with me in the rural areas.
+Once that I do this first, everybody can cite me as an example. For example, every Monday and Thursday I am in administration office, but the other days I’m not. I’m actually touring around Taiwan, and bring with me live stream cameras, 360 cameras, and then let a dozen ministries see with their own eyes in the Social Innovation Lab here and project it with me in the rural areas.
 
 ### Audrey Tang:
 Then visiting social entrepreneurs so that they can ask questions to those 12 ministries. They have to answer immediately. This is using digital tools to bridge the gap of space. All of my meetings are radically transparent, so everybody can see that if this particular public servant proposed a very good idea, they get the credit and I absorb the risk.
@@ -221,10 +221,10 @@ Finally, the Ministry of Foreign Affairs and Labor worked together on the SDG di
 We have a very aggressive strategy of basically taking all the civic tech. For example, this is the civic tech that monitors air pollution. We see one of the sensors here actually. This is all citizen science, but also government-supported once it gets to scale.
 
 ### Ludovic Sinet:
-Yeah, it’s the lass network.
+Yeah, it’s the LASS network.
 
 ### Audrey Tang:
-Right, it’s the lass network. We will feature all of these cases very prominently. This is May 5th and 6th. In Taichung we’ll have 1,500 people, large summit, to get all the social entrepreneurs in the Asia Pacific, to get all the intermediary organizations here, and maybe sign a Taichung statement or something.
+Right, it’s the LASS network. We will feature all of these cases very prominently. This is May 5th and 6th. In Taichung we’ll have 1,500 people, large summit, to get all the social entrepreneurs in the Asia Pacific, to get all the intermediary organizations here, and maybe sign a Taichung statement or something.
 
 ### Audrey Tang:
 The entire idea is SDG ’17, Taiwan wants to be a connector that makes contributions without dominating, and the government basically is the problem-solver of the problem-solvers. That’s the five-minute pitch.
@@ -522,7 +522,7 @@ For example, high performance computing facilities. For example, data storage. F
 What should not be done is to over-highlight any particular part in those circles, because then we lose the tree for the forest. These are the trees, and this is the forest. We really need to focus on the human value that is here, rather than the particular technology that is here.
 
 ### Audrey Tang:
-Of course, all thus will be competitive, instead of collaborative, if not for the transformative digital technologies. Again, we should not over-emphasize on any particular digital technologies.
+Of course, all this will be competitive, instead of collaborative, if not for the transformative digital technologies. Again, we should not over-emphasize on any particular digital technologies.
 
 > (pause)
 
@@ -635,7 +635,7 @@ Thank you.
 We convinced the hell out of the pol.is people to license it under \[inaudible 50:50\] GPL, which ensures in commons. We advised them into having a community governance model. We pay with taxpayer money to freedom from Heroku so that everybody can host it themselves, and so on.
 
 ### Audrey Tang:
-Basically, we take what anyone who are still with the commons will do to increase, as I said, access, sharing, and collaboration of those tools that should be in the commons. Part of the pol.is bill is that it’s really simple to explain. It’s not AI in a mission learning sense. It is AI in a chatbot, like Eliza with a face, sense. \[laughs\]
+Basically, we take what anyone who are still with the commons will do to increase, as I said, access, sharing, and collaboration of those tools that should be in the commons. Part of the pol.is bill is that it’s really simple to explain. It’s not AI in a machine learning sense. It is AI in a chatbot, like Eliza with a face, sense. \[laughs\]
 
 ### Audrey Tang:
 It’s basically just a visualization to put a face on the crowd, to use K-means clustering and principal component analysis. That’s the two main concepts. There’s no machine learning involved. This is basically an easier way for you to listen to millions of people, and that’s it.
@@ -683,7 +683,7 @@ If the traditional job is 100 percent automation tasks, meaning it uses no human
 If we automate a part that’s going to be the same regardless of who do it away, the overall quality of the worker increases. There’s no, strictly speaking, jobs that are entirely automatable away. I think that’s science fiction. There is jobs that will be redefined as part of it become automated, so that the people working on it has to continuously learn to work in collaboration with machine. That is true.
 
 ### Audrey Tang:
-We have augmented intelligence or whatever. There’s a whiff of that. As long as way can make the relearning process fun and relatively worry-free, there’s a social safety network and so on, I don’t think it’s much of a big problem.
+We have augmented intelligence or whatever. There’s a whiff of that. As long as we can make the relearning process fun and relatively worry-free, there’s a social safety network and so on, I don’t think it’s much of a big problem.
 
 ### Ludovic Sinet:
 You don’t think there will be maybe just 10, 20, 30 percent more of unemployed people?

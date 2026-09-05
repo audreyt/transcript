@@ -37,7 +37,7 @@ The second thing is that because the Internet itself is too important for every 
 I think the third one, which is often overlooked is that it is by itself an inspiration or a call to a governance model that is not ruled by so called domination.
 
 ### Audrey Tang：
-That is to say, at its core, when we see requests for comments or IFCs, the very waiting itself or the Tao of the IETF, the document itself, it promotes this idea of non domination. I think this is a very odd hope by most people that’s people can reach something that they can all live with without one party dominating the other.
+That is to say, at its core, when we see requests for comments or RFCs, the very waiting itself or the Tao of the IETF, the document itself, it promotes this idea of non domination. I think this is a very odd hope by most people that’s people can reach something that they can all live with without one party dominating the other.
 
 ### Audrey Tang：
 Of course, recently, due to mutual distributed ledgers and other technologies, this kind of idea has gained some more currency. Cryptocurrency, but \[laughs\] since the very beginning, IETF has heralded this radical idea, almost an anarchistic way of thinking.
@@ -157,7 +157,7 @@ The other two third have more nuanced, more interesting ideas for other to share
 On the other hand, because they are all individuals and they’re given the freedom to propose their own feelings, I think this re presentation of their own feelings is even more important than whether they are mobilized by Airbnb or not. They’re, after all, individuals.
 
 ### Audrey Tang：
-I do agree that this legitimacy only works because, just like repress for comments, everything is just recommendations. If you see a few Internet RFCs, even though they’re on the standards track, if you don’t implement it, if you see &quot;must&quot; and don’t implement, you see &quot;must not&quot; and implement it, there’s no enforcement \[laughs\] agency.
+I do agree that this legitimacy only works because, just like request for comments, everything is just recommendations. If you see a few Internet RFCs, even though they’re on the standards track, if you don’t implement it, if you see &quot;must&quot; and don’t implement, you see &quot;must not&quot; and implement it, there’s no enforcement \[laughs\] agency.
 
 ### Audrey Tang：
 There’s no Internet police that will make sure you implement this way. The only punishment is that your browser will not be able to see other websites. Because of this, it is not purely binding in a decisional way. It is only a resonating rough consensus way.

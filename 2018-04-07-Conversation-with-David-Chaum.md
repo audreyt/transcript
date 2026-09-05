@@ -25,7 +25,7 @@ No, it’s good.
 We had a system called Two Ballot, which hasn’t been published yet.
 
 ### Audrey Tang:
-It helps the economy?.
+It helps the economy?
 
 ### David Chaum:
 \[laughs\] Help is quite a thing. I have to keep in mind that I’m on the record.
@@ -129,7 +129,7 @@ I’m sorry. You threw me for a loop there.
 The only bifurcation in the proposal, and it’s actually just a footnote, is that there is a version where...The basic version is where who the voters are is revealed after the vote in a kind of audit. The special version is different in that the voters are more or less never revealed publicly. Both are good because if you reveal the voters before the vote, they could be manipulated.
 
 ### David Chaum:
-The way we do that is not perfect, but it is by a kind of what you might call indirection in computer science. We say, &quot;OK, we’re going to reveal the name of all voters, but each voters name is only revealed to a single randomly chosen person that’s specifically randomly chosen for that voter.&quot;
+The way we do that is not perfect, but it is by a kind of what you might call indirection in computer science. We say, &quot;OK, we’re going to reveal the name of all voters, but each voter’s name is only revealed to a single randomly chosen person that’s specifically randomly chosen for that voter.&quot;
 
 ### David Chaum:
 Then we say, &quot;Go talk to that voter, get this number from them, and make sure they’re happy and then bring that number back and when we see that number come back then we’ll know that you really did check on them.&quot;
@@ -165,7 +165,7 @@ Yes, sure.
 No one’s supposed to see what the outcome is, and then the counter-party says, &quot;If it’s heads, I’m going to be a voter.&quot; Then, only then, is it opened or revealed. Because of that mechanism, there is no way for me to cheat you out of having a 50/50 chance of being a voter, because even though you don’t know what I have hidden here, I cannot change it.
 
 ### David Chaum:
-You flip a coin basically and decide whether to say it’s heads you get to be a voter, or tails you get to be a voter. I have no way of knowing what you’re going to do, there is no way for me to change it once its covered by my hand. It only reveals exactly what was there before. Does that make sense?
+You flip a coin basically and decide whether to say it’s heads you get to be a voter, or tails you get to be a voter. I have no way of knowing what you’re going to do, there is no way for me to change it once it’s covered by my hand. It only reveals exactly what was there before. Does that make sense?
 
 ### Audrey Tang:
 Yes.
@@ -678,7 +678,7 @@ We don’t. It would require a flip in the Parliament. But there’s a real need
 Well put, but it’s also a very clean mechanism. Because you know some countries don’t allow for that, others say it has to be provisional, and others say you have to register no in that district.
 
 ### Audrey Tang:
-In some countries, you can override it by walking to the walking booths at the very end. But we don’t have that here.
+In some countries, you can override it by walking to the voting booths at the very end. But we don’t have that here.
 
 ### David Chaum:
 This was the thing I wanted to mention about remote voting. The decoys now perfected with the proof of decoy allows remote voting to be done securely. I think that’s a huge contribution that random-sample voting has made.
@@ -816,7 +816,7 @@ I see.
 Unbelievable. Either an election is publicly verifiable or it isn’t. These are publicly verifiable. In other words, you would present this as openly, I don’t know what you’d call it, transparently verifiable. \[laughs\] Anybody with a laptop or a smartphone can go and see that all the posted data really does add up correctly and check it.
 
 ### David Chaum:
-We have multiple people whove written their own independent auditing softwares and then the APIs are public and documented, people can write their own auditing software or they could run those auditing softwares from others.
+We have multiple people who’ve written their own independent auditing softwares and then the APIs are public and documented, people can write their own auditing software or they could run those auditing softwares from others.
 
 ### David Chaum:
 Now, here’s like a technical hacker perspective on this, &quot;It’s a certain amount of work to check everything,&quot; but actually, what we never wrote, but there was a German guy that got halfway through it, but what you really ideally want is a smartphone app that while you’re looking to see that your own code is there, your vote is there...
@@ -1036,7 +1036,7 @@ What we did to make it practical -- the election officials were happy with it an
 The election officials put those in, and they boot up this virgin desktop machine. Then they each type in their passphrase, which is a cryptographic key-length string, and then it starts up and it runs step one.
 
 ### David Chaum:
-That’s why it’s all divided into those steps. It recreates the secret state from that. It gets the randomness from those keys. Then it does the one state. Then it posts that step nine. Then they witness its complete erasure. They go home happily, but they save this enscripted state on their thumb drives.
+That’s why it’s all divided into those steps. It recreates the secret state from that. It gets the randomness from those keys. Then it does the one state. Then it posts that step nine. Then they witness its complete erasure. They go home happily, but they save this encrypted state on their thumb drives.
 
 ### David Chaum:
 Next time they come together, we call those &quot;meetings,&quot; they put in the thumb drive and the passcodes. They’re off the races again to do the next step, which is generate the PDF ballots. Then they sit there while they print those out. It’s neat.
@@ -1190,13 +1190,13 @@ Let me ramble, if you don’t mind, just for a minute or two about some of the c
 You can have rolling elections. You can always be voting on a certain issue. Like the prime minister, &quot;Do we still think he’s doing what he said he was going to do when he ran for office?&quot; Or whatever.
 
 ### David Chaum:
-As soon as the public says, &quot;Hmm, he cheated us. He lied. He’s not really going to do what he said he’s going to do,&quot; and then we’re going to keep voting that way, then the secession rules kick in and everyone moves forward.
+As soon as the public says, &quot;Hmm, he cheated us. He lied. He’s not really going to do what he said he’s going to do,&quot; and then we’re going to keep voting that way, then the succession rules kick in and everyone moves forward.
 
 ### David Chaum:
 Instead of wasting a good fraction of the government’s time with these periodic lame duck sessions and the campaigning periods, which is raised to a ridiculous level in the US, you just say, &quot;Screw that. Why vote a person in for four years if typically they don’t do what they say they were going to do anyway?&quot; \[laughs\] Then, they waste a whole year at the end voting and campaigning for the next.
 
 ### David Chaum:
-Screw it. We’ll just keep voting on them because that costs us nothing. There’s room for thousands of elections concurrently, we just keep voting to make sure that we think that person’s doing a reasonably good, I’m not saying make it a hair trigger thing, but at a certain point, it’s like, &quot;This is really not happening,&quot; and just secession and move people along.
+Screw it. We’ll just keep voting on them because that costs us nothing. There’s room for thousands of elections concurrently, we just keep voting to make sure that we think that person’s doing a reasonably good, I’m not saying make it a hair trigger thing, but at a certain point, it’s like, &quot;This is really not happening,&quot; and just succession and move people along.
 
 ### David Chaum:
 Probably they won’t start doing the wrong thing and that’ll be an impetus to make it. I don’t know how that applies to political parties in a multiparty system as they get elected and they negotiate themselves about how they want to form the government, which totally betrays the same thing, what people voted for in the first place. I don’t know how it relates to that.

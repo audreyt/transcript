@@ -177,7 +177,7 @@ Because you mentioned Spain, is there similar cooperatives, or even platform coo
 No, not really at the moment. New Zealand’s got quite a deep history in cooperatives, but a lot of them have been really pragmatic structures, which reflects an agricultural economy, and have been less advanced by a solidarity or cooperative agenda. With the exception of things like Loomio, or what have you, we don’t really have momentum in that movement.
 
 ### Alex Hannant:
-Again, you mentioned the indigenous. Within Maori development it works differently, but there’s a sense of how community ownership plays out in those contexts, which his analogous, but different.
+Again, you mentioned the indigenous. Within Maori development it works differently, but there’s a sense of how community ownership plays out in those contexts, which is analogous, but different.
 
 ### Alex Hannant:
 One of the things I’ve been watching from a distance has been the community finance, the community shares, the cooperative movements happening in the UK as there’s been a retreat of a lot of services, basic shops, leisure centers, pubs from remote areas. There’s been a real renaissance in community ownership there.
@@ -257,7 +257,7 @@ No, we’ve deliberately avoided putting figures on those things. I, personally,
 For example, if you take an organization that’s working in a submarket condition, they might be selling a good or a service at a submarket rate. Therefore, \[laughs\] they pre-distributed, rather than having to re-distribute. I think those things are unhelpful.
 
 ### Alex Hannant:
-I think it’s actually been bound up with the DNA of the Social Enterprise World Forum as its evolved, in terms of being quite definite around the more non-profit, if you like, aspect of the social enterprise models.
+I think it’s actually been bound up with the DNA of the Social Enterprise World Forum as it’s evolved, in terms of being quite definite around the more non-profit, if you like, aspect of the social enterprise models.
 
 ### Alex Hannant:
 I can understand that. I understand why they do it, but I don’t think it’s helpful in terms of I think it’s re-litigating politics of the past, rather than trying to redefine the ones of the future.
@@ -595,7 +595,7 @@ Beyond that, I think there’s some really good strategic government...why gover
 Yes. Exactly.
 
 ### Alex Hannant:
-A third independent party kind of leverage. The other thing is around, effectively, credibility, independence, and I think also the convenient power. Government always should be at the table in a capacity, but it cannot necessarily be the convener because it compromises its own position.
+A third independent party kind of leverage. The other thing is around, effectively, credibility, independence, and I think also the convening power. Government always should be at the table in a capacity, but it cannot necessarily be the convener because it compromises its own position.
 
 ### Audrey Tang:
 That’s exactly right.

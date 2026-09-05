@@ -1144,7 +1144,7 @@ I don’t think it would be a good idea to go to my bank account. Maybe if they 
 OCF was set up so that each community doesn’t have to hire an accountant by itself.
 
 ### Lisa Lin:
-Any different small project of g0v, they have different way to raise their money. Like Cofacts, they get the grand. I think they are from the grand. Another, the election guide...
+Any different small project of g0v, they have different way to raise their money. Like Cofacts, they get the grant. I think they are from the grant. Another, the election guide...
 
 ### Audrey Tang:
 &quot;Vote Taiwan?&quot; ( [https://councils.g0v.tw/](https://councils.g0v.tw/) )
@@ -1246,7 +1246,7 @@ I think the community is not against prize money. Unlike grant, sometimes people
 We’ve had government fund a few positions in our community where you’d think there would be resentment from government money going to one person.
 
 ### Patrick Connolly:
-It actually works pretty beautifully, because there’s a general sense in the community that the work of holding a project together, doing the hard work, and maybe the boring work, the being a scrub master work, everyone knows that it’s really hard for an open project to do that.
+It actually works pretty beautifully, because there’s a general sense in the community that the work of holding a project together, doing the hard work, and maybe the boring work, the being a scrum master work, everyone knows that it’s really hard for an open project to do that.
 
 ### Patrick Connolly:
 There’s a lot of gratefulness when someone is paid a token amount, but a fair wage, to...

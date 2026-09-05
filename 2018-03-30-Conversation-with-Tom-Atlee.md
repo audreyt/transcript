@@ -229,7 +229,7 @@ OK, stop there. The fact is the fast track go talk to Audrey, so you have talked
 In all fairness, they can also petition to the Premier, who is also touring around Taiwan the same way I do. It’s not just me who are doing this office hour thing. The Premier is doing this thing too.
 
 ### Audrey Tang:
-Anyway, people are petitioning because they understand that we’ll have a complete transparent made of whatever material...
+Anyway, people are petitioning because they understand that we’ll have a complete transcript made of whatever material...
 
 ### Tom Atlee:
 Whatever happened while they talked to you.

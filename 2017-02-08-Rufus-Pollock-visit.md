@@ -104,7 +104,7 @@ The &quot;Talk&quot; section is similar to regulations.gov in the US, where all 
 For example, the NDC is planning to have a Foreign Talent Act to encourage more foreign contributors. We post in both languages, the consultations, and then we get a lot of feedback, both in English and Chinese, as of how this should be implemented.
 
 ### Audrey Tang：
-We can see the Ministry of Interior here, and the National Development Council, and so on. Each ministry has those participation officers, who then faciliates reflection on people’s input, and draw a consensus, and so on. This the consultative section.
+We can see the Ministry of Interior here, and the National Development Council, and so on. Each ministry has those participation officers, who then facilitates reflection on people’s input, and draw a consensus, and so on. This the consultative section.
 
 ### Audrey Tang：
 In addition to petitions and consultations for every regulation, we also have a &quot;Supervision&quot; part. This part has not seen anything quite at the scale of the previous two sections, but we are going to post 1,000s of government projects here soon. Oh, the first one is the open data plan. How quaint.
@@ -469,7 +469,7 @@ We already have a national mandate that says, if it’s FOIA and it’s in a dat
 Then the only other thing to fix is the general access, which then we have data.g0v.tw, which means that ministry-to-ministry data, they just need to check a checkbox. Then they will go there.
 
 ### Audrey Tang：
-It’s already got a well-known URL here. It’s just intranet only. Once they check that checkbox, the NDC people will then take care of putting this on data.g0g.vtw, in which case it becomes automagically open data.
+It’s already got a well-known URL here. It’s just intranet only. Once they check that checkbox, the NDC people will then take care of putting this on data.g0v.tw, in which case it becomes automagically open data.
 
 ### Audrey Tang：
 Each unit can just say, &quot;we crawl this weekly,&quot; or daily or whatever. Then the &quot;GET&quot; part of the API automagically become open data, and in a universal structural way, because they already have this JSON schema documented. Then we can wrap this up in a data package presentation form for outsiders to consume.
@@ -547,13 +547,13 @@ You could also talk about freedoms act as freedoms, but yeah, exactly. I just sa
 One thing that I think is important, that I think at the moment, is that sometimes it’s like Google Takeout. People think a little bit, that if they have access to the data or they’ve got a well-defined API, it doesn’t matter whether they buy proprietary or not buy it proprietary.
 
 ### Rufus Pollock：
-I see this argument sometimes. For example, I see it in, there’s a vendor who supplies data platforms called Socrato. Socrato make a big play that, because they competed for years with CKAN. I’ve seen their pitches. They go on and on about how, &quot;Look, we...&quot;
+I see this argument sometimes. For example, I see it in, there’s a vendor who supplies data platforms called Socrata. Socrata make a big play that, because they competed for years with CKAN. I’ve seen their pitches. They go on and on about how, &quot;Look, we...&quot;
 
 ### Rufus Pollock：
 They first of all try to pretend they’re open source, but then they’re not. When they sometimes say, &quot;Oh, you know, it doesn’t matter that we’re not open source, because everything is going open API.&quot;
 
 ### Rufus Pollock：
-We’ve got this Socrato open data API. It doesn’t matter that you’ve got...
+We’ve got this Socrata open data API. It doesn’t matter that you’ve got...
 
 ### Audrey Tang：
 It’s much more writable. It’s much more readable. However, it’s still a black box.
@@ -889,7 +889,7 @@ That’s totally right. The training is going to be more important, and tougher,
 What data package represents is, for me, first of all it’s basically borrowed from elsewhere. Nothing here is technically original, it is borrowed from packaging and software that’s based on the node package model.
 
 ### Rufus Pollock：
-It was over the last 10 or 12 years, and it’s also an effort to be Zen. Basically, as a specification, it was an attempt to take everything out rather than to add anything in. It’s very different from linked data or Symantec Web which, I am not a huge fan of now, because no developers use it.
+It was over the last 10 or 12 years, and it’s also an effort to be Zen. Basically, as a specification, it was an attempt to take everything out rather than to add anything in. It’s very different from linked data or Semantic Web which, I am not a huge fan of now, because no developers use it.
 
 ### Rufus Pollock：
 The thing I just want to mention about it though, that’s come up a lot, which is the challenge. One of the things, the data quality you mentioned, was just how we fill descriptions in...
@@ -948,10 +948,10 @@ Right. It’s Kenton’s work. We actually commissioned Kenton to build what the
 What we paid him to develop, which was just finished now, is a way for a grain -- which is the technical term for a microcontainer, a single-document container running in Sandstorm -- to serve an HTTP proxy so that if it wants OpenID login or a process that feeds its spreadsheet updates to external services, now it can do that as of this week.
 
 ### Audrey Tang：
-What we are saying -- and we are getting far more technical than usual, but I think it’s important -- is that the spreadsheet that we use internally, and inside our institutional platform, is EnterCalc. I happen to be the maintainer, so I can get whatever features in.
+What we are saying -- and we are getting far more technical than usual, but I think it’s important -- is that the spreadsheet that we use internally, and inside our institutional platform, is EtherCalc. I happen to be the maintainer, so I can get whatever features in.
 
 ### Audrey Tang：
-What we are doing here is essentially saying that any metadata maintenance, which is often collaborative, you can not only share access to internal stakeholders, but because it is capacity-based architecture, you can also do a bulk download.
+What we are doing here is essentially saying that any metadata maintenance, which is often collaborative, you can not only share access to internal stakeholders, but because it is capability-based architecture, you can also do a bulk download.
 
 ### Audrey Tang：
 If you do a bulk download, it basically packages everything written, because that application services are mounted read-only. By definition, any file that’s writable would be specific to this instance. So it’s data portability. If you click this arrow and you migrate somewhere else, then you automagically get data portability.
@@ -1018,7 +1018,7 @@ For example here, they have no tests, clearly that the data publish each month..
 Yes. The NDC already is working on automatic checks for simple things like this...
 
 ### Rufus Pollock：
-The other thing you’re probable encountering is the human aspect of data maintenance.
+The other thing you’re probably encountering is the human aspect of data maintenance.
 
 ### Rufus Pollock：
 This has been amazing because also I’m aware of time, and we all run out of time.
@@ -1153,10 +1153,10 @@ Right, and it means you don’t have the Heartbleed bug. You have basic support.
 Often what will happen, and I’ve had this experience with CKAN, &quot;Great, I can go and get a deal one year, but three years later, I’ll have a load of competition.&quot; That’s good, because that’s the whole point of open source.
 
 ### Rufus Pollock：
-Three years down the line, anyone can supply CKAN. However, I’m competing in that first deal with Socrato.
+Three years down the line, anyone can supply CKAN. However, I’m competing in that first deal with Socrata.
 
 ### Rufus Pollock：
-Socrato will come and say, &quot;Look, we’ll get you a whole instance for free. We’ll make it beautiful. We’ll import all your data. We’ll come and have three executives give you a pitch, we’ll spend tens of thousands dollars, maybe, up front, and we’ll give you a really cheap instance. It will cost $10,000 this year.&quot;
+Socrata will come and say, &quot;Look, we’ll get you a whole instance for free. We’ll make it beautiful. We’ll import all your data. We’ll come and have three executives give you a pitch, we’ll spend tens of thousands dollars, maybe, up front, and we’ll give you a really cheap instance. It will cost $10,000 this year.&quot;
 
 ### Rufus Pollock：
 The fact that in two-and-a-half years’ time, when your contract runs out and you’re now locked in, you’ll get charged 10 times as much. I’ve watched it happen. New York City, first time around, $15,000. Two years later, $100,000 was their price. I remember arguing with the guy. He would say, &quot;But they’re just so cheap.&quot;

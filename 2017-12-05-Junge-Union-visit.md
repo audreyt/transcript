@@ -19,7 +19,7 @@ At first, thank you very much for spending your time this morning with us, to be
 We have around 106,000 members in Germany, so we have the biggest political youth organization in Germany. We have several members in our federal parliament and our regional and local parliaments. The persons who are here today are mainly members of the federal board of our organization.
 
 ### Martin Plum:
-This is Marian Bracht. He is the vice chairman of our Committee for Digital Affairs. Victoria Lehmann is Vice Chairman of our Committee for Agriculture and Environment. Eva Keldenich is Vce Chairman of our Committee for Culture and Media. Christian Kreiser is International Secretary at our office in Berlin.
+This is Marian Bracht. He is the vice chairman of our Committee for Digital Affairs. Victoria Lehmann is Vice Chairman of our Committee for Agriculture and Environment. Eva Keldenich is Vice Chairman of our Committee for Culture and Media. Christian Kreiser is International Secretary at our office in Berlin.
 
 ### Martin Plum:
 Marius Maurer is Vice Chairman of our Committee for Interior and Law. Philipp Hoffmann is Vice Chairman of our Committee for Finance and Tax. Marius Keite is chairman of our Committee for Agriculture and Environment. I, Martin Plum, I am the Legal Adviser of the Junge Union Deutschlands.
@@ -106,7 +106,7 @@ For example, when Facebook came to Taiwan a lot of people used Facebook, but in 
 For example, it sells a hard disk, but it actually corrupts after you write the first megabyte, or something, and then it gets very difficult to return this issue. All the customer service, the customer would discover that they are actually automated bots, or whatever.
 
 ### Audrey Tang:
-This is a new kind of scam. The related ministries, there’s about seven of them. We get everybody in the same room, the NGOs, the social enterprise that purposely try to fix this problem, the local associations, and due the user journey that basically identifies all the touch points and what every ministry can do and should do in order to solve this issue.
+This is a new kind of scam. The related ministries, there’s about seven of them. We get everybody in the same room, the NGOs, the social enterprise that purposely try to fix this problem, the local associations, and do the user journey that basically identifies all the touch points and what every ministry can do and should do in order to solve this issue.
 
 ### Audrey Tang:
 We basically harness the protestors and invite them into the national government in order to make maps like this.
@@ -178,7 +178,7 @@ It’s always a discussion, &quot;Oh, let us try to establish something like tha
 First of all, I don’t think those companies consider themselves American, either. \[laughs\] They’re semi-sovereign now. It’s not like they’re loyal to any particular...maybe they’re more loyal to California. I don’t really know. \[laughs\]
 
 ### Audrey Tang:
-The idea is that those, I would say, semi-sovereign entities, they may be borne out of a particular American culture in the Silicon Valley, but they’re something else now.
+The idea is that those, I would say, semi-sovereign entities, they may be born out of a particular American culture in the Silicon Valley, but they’re something else now.
 
 ### Audrey Tang:
 Basically, what I see is that they try to absorb innovations that happens anywhere. It could be in Estonia. It could be Israel. It could be in Taiwan, or whatever. It eventually get bought by Google, or Facebook, or Microsoft anyway.
@@ -337,7 +337,7 @@ Those are, to be honest, superficial solutions. The real solution, I believe, is
 I was part of the design team. We put -- I think the first in Asia -- ICT and media literacy as one of the core characters in the new curriculum.
 
 ### Audrey Tang:
-We’re shifting from a sore and skill based into a character-based education system. One of the key characters is that the teachers are now, instead of lecturers, a co-learner with the student.
+We’re shifting from a score and skill based into a character-based education system. One of the key characters is that the teachers are now, instead of lecturers, a co-learner with the student.
 
 ### Audrey Tang:
 They, together, find those information from all over the Internet, and the teacher demonstrate how to do fact checking, critical thinking, and fact finding, and whatever. This is not just a two-hour class that everybody must use. It’s all the different classes, all the different fields are now required to be educated like this.
@@ -543,7 +543,7 @@ They build some centers for deleting comments that are too hard. I don’t know 
 The trolls just move on to use some other words. \[laughs\]
 
 ### Audience Member:
-Yeah, there’s people that are getting...I think they get paid €12 per hour. They don’t just do it for Facebook. They also do it for MacDonald’s because you can design your own burgers, and people are giving them weird names. They’re writing down racist stuff for burgers.
+Yeah, there’s people that are getting...I think they get paid €12 per hour. They don’t just do it for Facebook. They also do it for McDonald’s because you can design your own burgers, and people are giving them weird names. They’re writing down racist stuff for burgers.
 
 ### Audience Member:
 There’s people getting paid 12 bucks, and they go through the names. If they find something like a pork burger which is called Mohamed’s Revenge, they delete it. It’s exactly the same system. It’s chopping the snake’s head off.

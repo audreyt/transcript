@@ -91,7 +91,7 @@ Because of the scientific relations is growing fractal-like into specific minist
 I’m curious if you can go back to how it felt in that moment when you realized the Sunflower Movement was happening. You’ve talked about this before in the &quot;Wired&quot; article that just came out. Paint a picture. Where were you sitting? What were you doing? What did that make you think?
 
 ### Audrey Tang:
-I was in the street and in response to a, I think, IRC call for help the protesters because the CCSTA was being rushed into passing. That afternoon, they had a very impromptu protest the streets close to the parliament that night.
+I was in the street and in response to a, I think, IRC call for help the protesters because the CSSTA was being rushed into passing. That afternoon, they had a very impromptu protest the streets close to the parliament that night.
 
 ### Audrey Tang:
 When I heard the protest is coming to the certain passing of the CSSTA in the parliament, I think it was a short distance actually from where I lived at that point. I was near the National Taiwan University at the moment and it was about 15 minutes car ride to the parliament.
@@ -102,7 +102,7 @@ I thought that the equipments that we used 10 days ago in March 8, 2014 is still
 > (laughter)
 
 ### Audrey Tang:
-At that point, 10 days ago before the Sunflower Movement, we kind of rehearsed all this in the national parade against the fourth nuclearpower plant. That was when we first discovered that because there was a typhoon and a lot of people couldn’t make it to the parade, they nevertheless really want to show their support.
+At that point, 10 days ago before the Sunflower Movement, we kind of rehearsed all this in the national parade against the fourth nuclear power plant. That was when we first discovered that because there was a typhoon and a lot of people couldn’t make it to the parade, they nevertheless really want to show their support.
 
 ### Audrey Tang:
 Even when we set up the YouTube live, which was just rolled out in Taiwan at that point, there’s more people joining the online broadcast than people in the front of the stage in the parade even though it was entirely unannounced.
@@ -135,7 +135,7 @@ It’s great that we do have the civic media people there because the entire bre
 When the mainstream media at the very next day tried to paint a student as mobs, we have the live footage as well as high-resolution footage to prove that it’s not the case. Then, we were able to negotiate peacefully a channel for food and medical supplies.
 
 ### Audrey Tang:
-The police did not actually dare to move the next day, because after seeing this live video of non-violent Occupy, a lot more people came to counter-surrounding police so that the police, if they to move the counter-surrounding, people will then also move, so the policy just stall there. It starts non-violently and remained that way around the parliament for the next 22 days.
+The police did not actually dare to move the next day, because after seeing this live video of non-violent Occupy, a lot more people came to counter-surrounding police so that the police, if they to move the counter-surrounding, people will then also move, so the police just stall there. It starts non-violently and remained that way around the parliament for the next 22 days.
 
 ### Nathan Storey:
 What was your day-to-day like for those next...You really took three weeks off of work. What were you doing during that time? Was it continuing your support role or...?

@@ -72,7 +72,7 @@ Now, one FinTech sandbox is already planning to run, starting later this year, w
 This is really breaking existing regulations, but we allow them for a year to experiment. Finally, at the end of the year, we expect to pass the UV law, which allows not only tricycles, but also cars that flies, or ships that go to the road, or whatever.
 
 ### Audrey Tang:
-As long as it solves a real social need, the local municipality can offer up a space for the people to devise and play with these new AI creatures for a year. During that year, not only the data need to be shared to a multistakeholder panel, chaired by the Ministry of Economy Affairs, but also, you can extend the scope of the experiment if it goes well.
+As long as it solves a real social need, the local municipality can offer up a space for the people to devise and play with these new AI creatures for a year. During that year, not only the data need to be shared to a multistakeholder panel, chaired by the Ministry of Economic Affairs, but also, you can extend the scope of the experiment if it goes well.
 
 ### Audrey Tang:
 If it doesn’t go well, well, we thank the investors, for everybody learned something. If it goes well, and if the regulation change after 60 days of public commentary, then the regulation just change to your version.

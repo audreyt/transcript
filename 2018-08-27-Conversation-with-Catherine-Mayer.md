@@ -175,7 +175,7 @@ It is a concern. At the beginning, when we were doing the mobile version of the 
 Back in 2010 or so, it’s like if a person only installs one messaging system on their phones, it actually increased their productivity. If a person installs three or four instant message systems, it’s like a cocktail effect on the mind because the mind would be constantly context-switching.
 
 ### Audrey Tang:
-It actually, from a mental health perspective, puts people in an always adrenaline rush or a fear-of-missing-out state that is not conductive to the kind of deep listening or deliberation that we were just talking about.
+It actually, from a mental health perspective, puts people in an always adrenaline rush or a fear-of-missing-out state that is not conducive to the kind of deep listening or deliberation that we were just talking about.
 
 ### Audrey Tang:
 We were part of the problem, I guess \[laughs\], but we’re, I think, also aware that it is possible to have technologies that reduce the demand on attention and indeed the inherent bias that certain technology has introduced.
@@ -229,7 +229,7 @@ Thank you. That’s an incredibly useful way of looking at it. I’m interested 
 I’ll give you one example. There was a lot of concern here around the Cambridge Analytica controversy. What that actually showed, although this again got very little coverage, was not just about that one incident. In fact, there are many people who legitimately provide such services, where they get a great deal of big data around the electorate. They analyze it, and they are able to zero in on what that means.
 
 ### Catherine Mayer:
-The bigger parties that can afford to pay for that therefore have an advantage when it comes to, particularl y in a first-past-the-post system, in terms of targeting their voters.
+The bigger parties that can afford to pay for that therefore have an advantage when it comes to, particularly in a first-past-the-post system, in terms of targeting their voters.
 
 ### Catherine Mayer:
 One of the things we have to think about is how we can be clever and do things that try and mitigate some of these in-built disadvantages under which we are acting. Do you have any particular tips for us about what that might look like?
@@ -256,10 +256,10 @@ They also crowdsource for newcomers their platforms in the form of a small, shor
 In all these cases, they act with what we call the ACE principle. A means actionable. It means that if you support a small party’s candidate, there’s something that you can do with five seconds’ time. There’s something you can do with your five minutes’ time or something you can do with five hours’ time. That’s the actionable part.
 
 ### Audrey Tang:
-It’s connected, meaning that whenever you do this, it raises your relative status among your peers \[laughs\] so that people would feel proud to endorse a candidate, to ask a candidate relevant question or to make a summary of a candidate’s position and so on. That makes its social so that people see on their social media profiles all the time there’s an independent candidate.
+It’s connected, meaning that whenever you do this, it raises your relative status among your peers \[laughs\] so that people would feel proud to endorse a candidate, to ask a candidate relevant question or to make a summary of a candidate’s position and so on. That makes it social so that people see on their social media profiles all the time there’s an independent candidate.
 
 ### Audrey Tang:
-For example, there’s a so-called obasan coalition. Obasan is a Japanese law word, literally means elder women. \[laughs\] There’s a loose coalition of elder women councilor candidates who are all running for the first time that maximize the use of social media through this use of the councilors voting guide.
+For example, there’s a so-called obasan coalition. Obasan is a Japanese loanword, literally means elder women. \[laughs\] There’s a loose coalition of elder women councilor candidates who are all running for the first time that maximize the use of social media through this use of the councilors voting guide.
 
 ### Audrey Tang:
 They’re not just doing it on the Internet, but rather it crowdsources the agenda that people care about on the Internet and hold face-to-face deliberations based on the topics that people on the Internet feel as important.
@@ -325,7 +325,7 @@ How should we approach these different strains, if you like, in evolving technol
 That’s right. The two use cases that I mentioned, one for the use of public charity donations, and the second for people’s public discourse. Those two are definitely in the public sphere and not at all in a private, French, or whatever family setting.
 
 ### Audrey Tang:
-I would not advice the use of mutual distributed ledgers at this point in time for any actions that you just mentioned that has a privacy part in it. I understand that there’s many mathematicians working on privacy-preserving, so-called zero-knowledge mathematics, but they are far from mature at this point.
+I would not advise the use of mutual distributed ledgers at this point in time for any actions that you just mentioned that has a privacy part in it. I understand that there’s many mathematicians working on privacy-preserving, so-called zero-knowledge mathematics, but they are far from mature at this point.
 
 ### Audrey Tang:
 If people are intending to use distributed ledgers in a way that interacts with private data, sensitive data, data with limited distribution, and things like that, there are other cryptographic tools such as end-to-end messaging and publicly auditable, forward secrecy-preserving chat tools.

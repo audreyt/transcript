@@ -1,7 +1,7 @@
 # 2017-11-07 Interview with Felix Lill
 
 ### Audrey Tang:
-We’ll be recording this. for example, here is an interview that I did with a BBC correspondent. And this is WCIT International Press, and the format would be like this. It’s basically everything that we say, and everyone can lay in context, and you’ll have 10 days to modify the transcript if the transcript was inaccurate or something, then you can edit it before we publish it. I hope that’s OK with you.
+We’ll be recording this. For example, here is an interview that I did with a BBC correspondent. And this is WCIT International Press, and the format would be like this. It’s basically everything that we say, and everyone can lay in context, and you’ll have 10 days to modify the transcript if the transcript was inaccurate or something, then you can edit it before we publish it. I hope that’s OK with you.
 
 ### Felix Lill:
 Mm-hmm.
@@ -148,7 +148,7 @@ I’ll add to it. If I’m giving a lecture, usually I compete with students’ 
 If I confiscate their phones I become very unpopular. Instead, I ask them to go to Slido. Slido is designed so that it looks very much like any other social media site. You can still press likes if you want.
 
 ### Audrey Tang:
-It addresses people’s addiction to like pressing, but it also takes over their phone so their phone won’t be used for something that’s not conductive to the lecture. It’s really the best of both worlds.
+It addresses people’s addiction to like pressing, but it also takes over their phone so their phone won’t be used for something that’s not conducive to the lecture. It’s really the best of both worlds.
 
 ### Felix Lill:
 It conquers the tool you would otherwise use for different things.
@@ -183,7 +183,7 @@ Sorry, it’s me being pedantic.
 Long story short, there was this Occupy Movement. The Occupy Movement in 2014 determined a lot of what people want from the political system.
 
 ### Audrey Tang:
-Case in point is that it stem out of a trade service agreement, the Cross-Straight Trade Service Agreement. The trade service agreement, basically, the MPs said that they won’t deliberate it, or they won’t discuss it, because they consider it domestic, or something. It’s a technical issue.
+Case in point is that it stem out of a trade service agreement, the Cross-Strait Trade Service Agreement. The trade service agreement, basically, the MPs said that they won’t deliberate it, or they won’t discuss it, because they consider it domestic, or something. It’s a technical issue.
 
 ### Audrey Tang:
 Instead of just protesting, there’s people who went into the parliament and say, &quot;If the MPs don’t deliberate it, we’re doing their job for them.&quot; This is an important part of the Taiwan’s current political climate, is that people don’t generally wait for government to do things.

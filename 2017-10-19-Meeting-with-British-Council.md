@@ -307,7 +307,7 @@ Then, from the facts, how do people feel about those facts? One may feel angry, 
 Now there is a metric. The best idea is the one that takes care of the most people’s feelings. Then we ratify it.
 
 ### Audrey Tang:
-The issue we need so solve, technically, is the translation issue. Because these people speak professional language when they’re doing policy-making because of one government -- before, the government resolved its internal lobbying with the professional lobbyists, with academics, scholars -- they tend to say nothing.
+The issue we need to solve, technically, is the translation issue. Because these people speak professional language when they’re doing policy-making because of one government -- before, the government resolved its internal lobbying with the professional lobbyists, with academics, scholars -- they tend to say nothing.
 
 ### Audrey Tang:
 It doesn’t mean people on the street doesn’t talk about this. They talk about this in a very different reality.
@@ -628,7 +628,7 @@ Yes. The idea is that through these collaborative meetings, we actually go and l
 Because of the radical transparency, we go back every two months to the same place saying that OK, this ministry now resolve your problem A, that ministry, problem B. In the government, it’s really just a peer-to-peer model, where we’re not seeing this as bottom-up or top-down.
 
 ### Audrey Tang:
-We’re just solving the problems that the problem solvers face. That’s the basic idea. I think, really we’re trying to do a regional SCWF-like conference, maybe June next year. When we do that, again, we make sure the agenda setting is entirely done by nongovernmental entities...
+We’re just solving the problems that the problem solvers face. That’s the basic idea. I think, really we’re trying to do a regional SEWF-like conference, maybe June next year. When we do that, again, we make sure the agenda setting is entirely done by nongovernmental entities...
 
 ### Mark Walker:
 You plan to host that in Taiwan?
@@ -924,7 +924,7 @@ I have visited Madrid and Boston. Actually, I just gave a virtual talk in Sichua
 It’s actually really cheap. You can rent it trivially. It’s basically an iPad on wheels. I can walk around and have a 360 view.
 
 ### Audrey Tang:
-It’s pretty smart, it avoids obstacles and things like that. So I’ve been able...There’s no regulation in UN or any multilateral agreemen that says the minister cannot look at a video recording, even though it’s recorded two seconds ago.
+It’s pretty smart, it avoids obstacles and things like that. So I’ve been able...There’s no regulation in UN or any multilateral agreement that says the minister cannot look at a video recording, even though it’s recorded two seconds ago.
 
 > (laughter)
 
@@ -949,7 +949,7 @@ Building on Susana’s question, in many countries, it’s very easy to be innov
 Not at all. I’m finding it’s exactly the same. I don’t actually give orders. That’s what anarchism means. I only help people when they come to me for facilitation. Because of that, the career public servants, they just call me Audrey. I’m not like a higher rank official. I’m still doing very much the same thing.
 
 ### Audrey Tang:
-Of course, now with much more publicity. It means they’re engagement programs are more successful than before. Otherwise, it’s the same relationship.
+Of course, now with much more publicity. It means their engagement programs are more successful than before. Otherwise, it’s the same relationship.
 
 ### Susana Galvan:
 That’s positive. \[laughs\]

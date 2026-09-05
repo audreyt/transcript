@@ -289,7 +289,7 @@ Taiwan’s got a lot of software and designers in the young generation and a lot
 You can Google for it. It is a series of events like TED talks, where they put one young entrepreneur, usually of the software kind, and one successful large company, heads of company, usually of the hardware kind, and also academician from AI together. The three of them make speeches in a panel, and then they try to fuse the inter‑generational companies together.
 
 ### Audrey Tang:
-If you are working with any part of Ministry of Economy Affairs, they will be very receptive of the inter‑generational idea.
+If you are working with any part of Ministry of Economic Affairs, they will be very receptive of the inter‑generational idea.
 
 ### Laurent Le Guyader:
 Data city, seeing all those things. It could be one of the topics or subtopics of FAB15. Taiwan is already ready to host some of the events or even all the events. Then maybe for FAB14 next year to do this like one week of the meeting and then there is...
@@ -451,7 +451,7 @@ There’s no shortage of highlights if we want to make policy highlights the poi
 How many people attend the FAB Conference usually?
 
 ### Nicolas Lassabe:
-Usually, one is in Europe, is around 1,000. In China, it was 600. I think in Chile, t’s very far away, will be 800. In France, they think there will be 1,200 people.
+Usually, one is in Europe, is around 1,000. In China, it was 600. I think in Chile, it’s very far away, will be 800. In France, they think there will be 1,200 people.
 
 ### Nicolas Lassabe:
 Of course, there is a festival. This is only for FabLabs and for the festival, and for during the weekend. For May, we are awaiting 10,000 people.

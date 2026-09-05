@@ -711,7 +711,7 @@ It is a drone photo, yes. There’s a lot of use of aerial drones to count the n
 To provide free WiFi for all the sites you need a lot of equipment.
 
 ### Audrey Tang:
-Yes, so we worked with the Chunghwa Telecom, who provided a fiber optic line to a street, not to an address. \[laughs\] That’s the first time they provided. Instead of as street address, we just said to the camp outside the legislation, close to the 7-11. This you bring the high-speed fiber optic on.
+Yes, so we worked with the Chunghwa Telecom, who provided a fiber optic line to a street, not to an address. \[laughs\] That’s the first time they provided. Instead of as street address, we just said to the camp outside the legislature, close to the 7-11. This you bring the high-speed fiber optic on.
 
 ### Ursula Gauthier:
 In fact, it’s like you had a new account on Chunghwa Telecom?
@@ -916,7 +916,7 @@ This is something that people don’t usually see on Facebook or on Twitter. On 
 Then we converge on the seven here that really resonate with everybody, like how insurance must be mandatory, registration must be mandatory, and professional driver’s license should be mandatory. Then we check with all the stakeholders on a live stream consultation so that they can see people’s consensus and commit to it. Only after everybody commit to it do we translate it into law.
 
 ### Audrey Tang:
-Now Uber is operating legally in Taiwan, but only with chartered cars and drivers. You can call taxi using Uber app, but then you can also using other taxi app to call with search prices or with cars not painted yellow so they’re competing on fair grounds,
+Now Uber is operating legally in Taiwan, but only with chartered cars and drivers. You can call taxi using Uber app, but then you can also using other taxi app to call with surge prices or with cars not painted yellow so they’re competing on fair grounds,
 
 ### Audrey Tang:
 Everybody see that it was coming, because it was a consensus including the Uber drivers. They are also agreeing with such things. We were able to use this process to process maybe a dozen or so emerging issues working with the minister, Jaclyn Tsai at the time, all the way to late 2015.

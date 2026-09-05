@@ -106,7 +106,7 @@ For example, utilizing them to do live Q&amp;A with leadership team. Another is 
 Later, I will show a lot of examples of it. Another thing, later on, Georg will focus, talk about integrations and bots. That’s really very interesting. I will just let Georg later on tell about it.
 
 ### Yujing Guo:
-I just mentioned about live streaming, this is a very good example shared from an Indian national telecom company, Airtel. India is a huge country. Airtel has a lot of branch stars in a lot of remote cities and villages.
+I just mentioned about live streaming, this is a very good example shared from an Indian national telecom company, Airtel. India is a huge country. Airtel has a lot of branch stores in a lot of remote cities and villages.
 
 ### Yujing Guo:
 Their remote offices sometimes actually live stream back their huddles, their important meetings, activities, to make sure that the headquarter can hear directly from them, as well, to make them more visible.
@@ -123,7 +123,7 @@ I’ll just quickly share it.
 We also allow live API, so you cannot just only use your mobile phone. You can also use your professional devices to do HD version.
 
 ### Georg Zoeller:
-One of the key use cases is, obviously, one too many email. Email is OK one-on-one. We all use it. I use it mostly with customers, because internally we don’t use it that much.
+One of the key use cases is, obviously, one-to-many email. Email is OK one-on-one. We all use it. I use it mostly with customers, because internally we don’t use it that much.
 
 ### Georg Zoeller:
 It’s much higher signal because all the mailing lists, all the groups organically move to Workplace fairly quickly, because you have the threaded view. It’s easy to add new people without moving the entire thread.

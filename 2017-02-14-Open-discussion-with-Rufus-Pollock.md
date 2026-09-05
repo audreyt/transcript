@@ -159,7 +159,7 @@ You can store it.
 ...and find whatever. Then you can also see what’s a valid GDP value. Now that you know the country code has to be part of the iso-3-geo-codes/id geo codes.
 
 ### Rufus Pollock:
-Exactly. If you like, this is the part which I think is the least developed, but most exciting. What was the exciting think about link data? Link data I think fundamentally ultimately hasn’t really worked, but what was exciting was foreign keys.
+Exactly. If you like, this is the part which I think is the least developed, but most exciting. What was the exciting thing about link data? Link data I think fundamentally ultimately hasn’t really worked, but what was exciting was foreign keys.
 
 ### Rufus Pollock:
 One of the problems at the moment with the web, if you’ve ever done... You guys have probably taken part in hack days or anything like that. You spend 90 percent of your time preparing the data, downloading it, merging it with some other data set, tidying it up. One of the things here, like that foreign key would be a breakthrough, would be we start to be able to if we had some...
@@ -197,7 +197,7 @@ Let me give you another one actually that I’m...I could, on my laptop, just ve
 There’s a text file here that describes all the core data sets.
 
 ### Rufus Pollock:
-At the moment linked most of the core data. It’s actually more coming. This is the list of all of them. You can build data. What’s also nice is, if you start up to their package, if you want to build really lightweight data catalogs, you don’t even need full on CCAN or something like that. You can just write a text file and then almost do it in JavaScript. Just have a little browser of your data packages.
+At the moment linked most of the core data. It’s actually more coming. This is the list of all of them. You can build data. What’s also nice is, if you start up to their package, if you want to build really lightweight data catalogs, you don’t even need full on CKAN or something like that. You can just write a text file and then almost do it in JavaScript. Just have a little browser of your data packages.
 
 ### Rufus Pollock:
 Let me get you data.oecd. Here’s an example of something I’m actually interested in at the moment, just by coincidence. I’m putting up data.oecd. I think if you just search for OECD pharmaceutical expenditure, I think it’s the top, possibly that one. Here we go.
@@ -224,13 +224,13 @@ By the way, this is how much we spend on buying...
 You’re right, by the way. This is the US.
 
 ### Rufus Pollock:
-One of the things, the US has gone crazy. This is partly Hepatitis C. There’s one drug category in 2014 that’s released. For example, I know you’re in Taiwan. I don’t know the numbers. In mainland China, there at 30 million people with Hepatitis C who will need this expensive...
+One of the things, the US has gone crazy. This is partly Hepatitis C. There’s one drug category in 2014 that’s released. For example, I know you’re in Taiwan. I don’t know the numbers. In mainland China, there are 30 million people with Hepatitis C who will need this expensive...
 
 ### Rufus Pollock:
 The point being, just by the way, is if you just look at this dropdown list. Let’s say I wanted total spending on pharmaceuticals, which is the number I actually want. Guess what? It’s not in this list. I would need to join this data set with population per capita over time to do this.
 
 ### Rufus Pollock:
-That was just one example. We constantly need to do joined and often on the same data set, population, GDP. In fact, the data sets you normally need to join on are quite common. Not always the same, but often they’re the same data sets. Going back, I think you had a nice example of the data package that you...
+That was just one example. We constantly need to do joins and often on the same data set, population, GDP. In fact, the data sets you normally need to join on are quite common. Not always the same, but often they’re the same data sets. Going back, I think you had a nice example of the data package that you...
 
 ### Audrey Tang:
 The GDP one?
@@ -372,7 +372,7 @@ There might be an IT department. There might be a common one, as well.
 Sure, of course. They would be in a larger IT office or something. In some cases they report directly to an upper level IT unit, sometimes they report to the organization, the command structure doesn’t matter here.
 
 ### Audrey Tang:
-What matters is that whenever we want to do any data exchange in a normal way, there has to be either a hub in the meta-level, or a direction connection between these IT guys. Then the public servants are blissfully ignorant of it. That’s your picture.
+What matters is that whenever we want to do any data exchange in a normal way, there has to be either a hub in the meta-level, or a direct connection between these IT guys. Then the public servants are blissfully ignorant of it. That’s your picture.
 
 ### Audrey Tang:
 In Taiwan it doesn’t work that way. \[laughs\] In Taiwan the “IT” people is just a part of the picture. Let’s put it lowercase, like “it”.
@@ -745,7 +745,7 @@ To un‑normalize it, to un‑nest it. If you read the Redux docs, they’ll tal
 Because it doesn’t want nesting.
 
 ### Rufus Pollock:
-It doesn’t want nesting. Why? It’s because it’s hard to do atomic updates of individual items. it becomes a very complex thing to track. Let’s say, for example, you retrieve a post from the server. If that’s nested under the user, then you have to go to...
+It doesn’t want nesting. Why? It’s because it’s hard to do atomic updates of individual items. It becomes a very complex thing to track. Let’s say, for example, you retrieve a post from the server. If that’s nested under the user, then you have to go to...
 
 ### Audrey Tang:
 It’s expensive, but we can solve it with JSON operational transformation.

@@ -204,7 +204,7 @@ Yeah. Gets a picture of it. That is still scannable, by the way, because the URL
 Yeah. I’m well acquainted with that.
 
 ### Audrey Tang:
-Right. Our current update is February 17. The next one is around March the 1st. Then we have this whole plan of what we call a skillful cultural performer. That’s how we define eSport atheletes. Now what we’re working with what qualifies as mind sport. This is the whole picture. If you care about the education part, you can click the education part, which is here.
+Right. Our current update is February 17. The next one is around March the 1st. Then we have this whole plan of what we call a skillful cultural performer. That’s how we define eSport athletes. Now what we’re working with what qualifies as mind sport. This is the whole picture. If you care about the education part, you can click the education part, which is here.
 
 ### Audrey Tang:
 Then it brings you to the conclusion of our internal meetings, the actual transcript that accounts for the policy. It’s color-coded so that we know which are resolved, which are still pending, and which will require maybe another meeting. But the normal meeting records are just executional conclusions. It only provided this part, but we also provide what everybody says.
@@ -411,7 +411,7 @@ This is what we call a reflective space. The point here is not to tally people�
 This is actually the extent of our work. We’re not about building a better voting mechanism, about building a better tally mechanism or e-ID or whatever. On the decisional stage, of course, we try to make this process accountable so that we can complete a policy cycle and lead back to the facts. This interpretation stage, we logically still have professionals and MPs do it.
 
 ### Audrey Tang:
-So we still have the professional ministries. It’s just that the agenda was set by people expressing their feelings — they determine what ideas should be focused on. This is what we call &quot;crowdsourced agenda-setting,&quot; it flips the consultative format arounds. The traditional consultative format is the ministry deciding what to consult about. The ministry already has some feelings, they just want to hear people’s ideas.
+So we still have the professional ministries. It’s just that the agenda was set by people expressing their feelings — they determine what ideas should be focused on. This is what we call &quot;crowdsourced agenda-setting,&quot; it flips the consultative format around. The traditional consultative format is the ministry deciding what to consult about. The ministry already has some feelings, they just want to hear people’s ideas.
 
 ### Eileen Wagner:
 I see.

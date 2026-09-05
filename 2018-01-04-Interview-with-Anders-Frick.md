@@ -46,7 +46,7 @@ Which camera is that?
 That’s the camera, the one that’s shining green. Transparency for me is an instrument, it is not an end in itself. The end all of transparency, or radical transparency as you put it, is to rebuild trust between the civil society and the government, as well as between different stakeholders in a civil society.
 
 ### Audrey Tang:
-That is our driving value. Everything that we do is centered around this rebuilding trust. On the civil society side of course, I’m the minister with a portfolio in charge of social innovation and use the empowerment. In that, we try to build a civil society that can look at new issues facing the society.
+That is our driving value. Everything that we do is centered around this rebuilding trust. On the civil society side of course, I’m the minister with a portfolio in charge of social innovation and youth empowerment. In that, we try to build a civil society that can look at new issues facing the society.
 
 ### Audrey Tang:
 Instead of waiting for the government to fix it, instead take proactive action to solve it, and share the result with the government. This is a very different idea from this top-down approach of policy-making.
@@ -73,7 +73,7 @@ If the government affirms this kind of citizen science, also uses this in our po
 Nevertheless, it’s based on the same factual data as the government policy makers. This is basically us saying we respect the civil society and private sector actors as peers. Then, we do policy-making by looking at the social innovations that’s perhaps done on a local level or on a smaller scale, and then we amplify those good ideas.
 
 ### Audrey Tang:
-That’s the left side of my work, which is social innovation and used empowerment.
+That’s the left side of my work, which is social innovation and youth empowerment.
 
 ### Anders Frick:
 May I just stop about with this air pollution thing?
@@ -133,7 +133,7 @@ The whole idea is that the data governance and the automated data gathering devi
 For example, there is a project that we did called IoT for Public Welfare. This is a special budget project.
 
 ### Audrey Tang:
-This broad project combines the air pollution data with the disaster recovery data. For example, shelters, and things like that, as well a typhoon and weather data, as well as water pollution measurement, as well as earthquake predicted. Anything that is part of the nature that doesn’t have privacy concerns is game for IoT for Public Welfare.
+This broad project combines the air pollution data with the disaster recovery data. For example, shelters, and things like that, as well as typhoon and weather data, as well as water pollution measurement, as well as earthquake predicted. Anything that is part of the nature that doesn’t have privacy concerns is game for IoT for Public Welfare.
 
 ### Audrey Tang:
 One of the end goals of the IoT for Public Welfare, especially when it comes to pollution, like air and river pollution, is that for the EPA, for the Environmental Protection Agency. At the moment, when they get some incident response saying that this particular factory or this particular field is perhaps burning something or smoking something that causes air or water pollution, they have to actually go there, measure, and do a lot of preparatory work.
@@ -349,7 +349,7 @@ This open by default philosophy, how did you achieve that? How did you make it p
 Our freedom of information law already specify that there’s only two things that shouldn’t be public or should be public only after internal deliberation. One is the decisional history of a policy before the policy decision is made. That is draft data. That’s one set of data.
 
 ### Audrey Tang:
-The other thing is that when it’s collected, but it touches on privacy, or trace secret, or any other thing that people would reasonably only allow this data to be used for a specific purpose, then other purposes need to be deliberated before it could be published.
+The other thing is that when it’s collected, but it touches on privacy, or trade secret, or any other thing that people would reasonably only allow this data to be used for a specific purpose, then other purposes need to be deliberated before it could be published.
 
 ### Audrey Tang:
 We don’t even encourage, if it’s purely private data like healthcare to produce this open data, because conceptually personal data and open data is entirely not overlapping category. In our FOI law, there’s already those two conditions.
@@ -442,7 +442,7 @@ Internet was designed with that in mind. That’s the Internet’s idea is a pro
 There are of course, people who want to reinstall nation-state into the Internet with the idea’s called separate sovereignty, or things like that. So far, I think people who actively work on the core Internet protocols still have not adopted the separate sovereignty view. It still has this liberalizing or equalizing force as you said.
 
 ### Audrey Tang:
-I’m also aware that there are thinkers and policy-makers who want to reign in Internet and its cross-country or even anarchistic, participatory nature, and try to reinstate the Internet as part of the state’s apparatus instead of something that is orthogonal to states. This trend and its counter trend both exist. I’m not denting that it doesn’t exist, but so far, this seems to be still working.
+I’m also aware that there are thinkers and policy-makers who want to reign in Internet and its cross-country or even anarchistic, participatory nature, and try to reinstate the Internet as part of the state’s apparatus instead of something that is orthogonal to states. This trend and its counter trend both exist. I’m not denying that it doesn’t exist, but so far, this seems to be still working.
 
 ### Anders Frick:
 Do you think that this and also automation in general finally will lead to basic income?
@@ -611,7 +611,7 @@ We really do need ways to get more solidarity and more familiarity with people w
 Taiwan was very early with the semiconductor. Much of Taiwan’s wealth is built on semiconductors. There is still lots of semiconductors, but then more and more software. How would the future growth be for Taiwan?
 
 ### Audrey Tang:
-Semiconductor, of course, is still a very important part of Taiwan. We see it as the driving force, because there are many AI-related, or IOT-related, applications that does require a creative chip design, especially when we work very closely with people who are working closer to human beings -- The service designers, the Youth Experience designers. We don’t arbitrarily say, &quot;OK, these are software people. These are hardware people.&quot;
+Semiconductor, of course, is still a very important part of Taiwan. We see it as the driving force, because there are many AI-related, or IOT-related, applications that does require a creative chip design, especially when we work very closely with people who are working closer to human beings -- The service designers, the User Experience designers. We don’t arbitrarily say, &quot;OK, these are software people. These are hardware people.&quot;
 
 ### Audrey Tang:
 My own experience, working with Apple for six years, is that everybody listen to designers, and designers listen to people. \[laughs\] Instead of shipping products or designing products, we are more and more in the civil society and the private sector in Taiwan seeing this just as a service design part of the ecosystem, and the hardware people and the software people are just there to respond to the demands of society.
@@ -620,7 +620,7 @@ My own experience, working with Apple for six years, is that everybody listen to
 If we see it as a product design, then we will worry about, &quot;OK, there is a new technology. Why isn’t the adoption rate already 80 percent?&quot; and those very arbitrary, competition-based views for particular technology. We did that with WiMAX and with other technology. \[laughs\] It really didn’t do us much good.
 
 ### Audrey Tang:
-The idea is not just locking in to particular new and exciting technologies, but instead using symboxes, using social innovation hubs and things like that for every new technology to have a way to connect to existing software, and hardware, and service, and every other ecosystem, and collaboratively break some laws, break some relations, do some experimentation and try to figure out how the society can reconfigure itself to everybody’s benefit.
+The idea is not just locking in to particular new and exciting technologies, but instead using sandboxes, using social innovation hubs and things like that for every new technology to have a way to connect to existing software, and hardware, and service, and every other ecosystem, and collaboratively break some laws, break some relations, do some experimentation and try to figure out how the society can reconfigure itself to everybody’s benefit.
 
 ### Audrey Tang:
 If it doesn’t work, then we design the way, so that the risk is absorbed, not by one single public servant or by one single innovator, but instead the whole ecosystem just takes the postmortem and then do something better. The idea in Taiwan is to have a more holistic, more integrated ecosystem. Taiwan, because of our absolute freedom of expression, you can’t say anything that gets you arrested, unlike many other Asian countries.

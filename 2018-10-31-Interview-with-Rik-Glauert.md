@@ -298,7 +298,7 @@ What have you seen? Do you connect with other approach, gender diverse movements
 ...things?
 
 ### Audrey Tang:
-Transgender right is human right. Human right is part of STGs. Just yesterday, we hosted the Open Tech Fund Summit, the OTF Summit in Taiwan. Actually, it’s the first time that those human right conference is not just in Taiwan, but first time in Asia. Very soon we’re going to host the Oslo Freedom Forum.
+Transgender right is human right. Human right is part of SDGs. Just yesterday, we hosted the Open Tech Fund Summit, the OTF Summit in Taiwan. Actually, it’s the first time that those human right conference is not just in Taiwan, but first time in Asia. Very soon we’re going to host the Oslo Freedom Forum.
 
 ### Audrey Tang:
 Reporter Without Borders, for example, set up their HQ in Taiwan. All this is because everywhere in Asia the civil society space is shrinking, including Hong Kong, but in Taiwan it’s expanding. It’s very easy for them to see that if they base in Taiwan, they get the protection on their work on human rights. It becomes a safeguard, a stronghold, for people working on human rights.

@@ -31,7 +31,7 @@ Talking about fake news in St. Petersburg. How’s that for a trip?
 \[laughs\] They could probably use some of this stuff in St. Petersburg.
 
 ### Audrey Tang:
-The CDCs, I was just reading your reply email. It is true that the constitutional draft bill is more a hybrid. It says basically around half of the button-up constitutional thing is statistically, randomly, very representatively driven, but the other parts are from the legislators, and one from all the indigenous drives.
+The CDCs, I was just reading your reply email. It is true that the constitutional draft bill is more a hybrid. It says basically around half of the bottom-up constitutional thing is statistically, randomly, very representatively driven, but the other parts are from the legislators, and one from all the indigenous drives.
 
 ### Audrey Tang:
 There are three constitutional components. All around, it’s 146 people, where the indigenous people are six, the legislators are 35, and everything else is randomly sampled. It is a hybrid.
@@ -117,7 +117,7 @@ Globally speaking, never far away.
 Before getting into some of the major things, I had some leftover bits and pieces I was curious about from our earlier things. First of all, I’m curious. You say that English is your fifth or sixth language. I go, &quot;What are the languages that you know, and how well do you know them?&quot; just at a personal level.
 
 ### Audrey Tang:
-Fifth language. I was raised by a lot of people, but primarily by my grandma who speaks Taiwanese Huklo. My grandpa was from Szechwan, and so he speaks, I guess, Mandarin, but with a lot of Szechwan accent and idioms. Of course, when I go to school, I learned Mandarin-Mandarin, so that’s two and a half languages.
+Fifth language. I was raised by a lot of people, but primarily by my grandma who speaks Taiwanese Hoklo. My grandpa was from Szechwan, and so he speaks, I guess, Mandarin, but with a lot of Szechwan accent and idioms. Of course, when I go to school, I learned Mandarin-Mandarin, so that’s two and a half languages.
 
 ### Audrey Tang:
 Then, when I was 10, I went to Germany -- Saarland, to be precise -- when my dad was doing his PhD there, on the Tiananmen incident -- he was doing his field research there -- and so I had to learn Deutsch, and so that’s the third. But because...
@@ -705,7 +705,7 @@ Downshifting for a moment to the government model. Of people holding these funct
 By far, the president.
 
 ### Tom Atlee:
-The next question, because I watched this elsewhere, if the president is replaced by somebody who is less sympathetic, does this whole thing get wiped out? What’s the resilience in a quasi-democractic scenes we’ve got? What is the vulnerability of v.Taiwan to getting overturned by a replacement?
+The next question, because I watched this elsewhere, if the president is replaced by somebody who is less sympathetic, does this whole thing get wiped out? What’s the resilience in a quasi-democratic scenes we’ve got? What is the vulnerability of v.Taiwan to getting overturned by a replacement?
 
 ### Audrey Tang:
 The structure, the participation officers, the align platforms, petition platform, referendum platform and so on, they are variously defined by regulations and laws. The National Referendum Act, which just passed a couple of months ago, is binding because it’s a Parliament saying.
@@ -909,7 +909,7 @@ It is about a media that has an inherent frame of public affairs and current aff
 Right, and there are branches of that. There is the journalist branch, which is, is it covered by media? Are the things that are going on part of the daily news? In Taiwan, the vTaiwan activities, are they being covered by the daily news? So that most of the population knows at least that it’s going on and that...
 
 ### Audrey Tang:
-Oh yeah. Yes, but only for really controversial issues will the journalists devout extra time. At least the CNA, the national news agency, which is part of the public...The CNA is the Central News Agency. They do send out announcements of the upcoming not just vTaiwan conversations, but really any conversation that we really want mass awareness.
+Oh yeah. Yes, but only for really controversial issues will the journalists devote extra time. At least the CNA, the national news agency, which is part of the public...The CNA is the Central News Agency. They do send out announcements of the upcoming not just vTaiwan conversations, but really any conversation that we really want mass awareness.
 
 ### Audrey Tang:
 They also run more detailed conversations such as there is one where they interviewed me for half an hour summarizing the recent conversation on autonomous vehicles on vTaiwan and our joint platforms in the format of an interactive dialog.
@@ -1091,7 +1091,7 @@ Within the world of China, where there’s a lot of interest, apparently, in dem
 I’m uniquely not qualified as a political analyst of Communist China, just because of my position. Broadly speaking, they also had their constitutional reform not too many months ago. Their constitutional reform are straight...
 
 ### Audrey Tang:
-In Taiwan., Chiang Kai-shek did the same thing. He amended the legal system, so that he can be the president forever. We saw that dynamic happening back when Chiang Kai-shek was still ruling.
+In Taiwan, Chiang Kai-shek did the same thing. He amended the legal system, so that he can be the president forever. We saw that dynamic happening back when Chiang Kai-shek was still ruling.
 
 ### Audrey Tang:
 Chiang Kai-shek also used a lot of Confucius, and especially Wang Yangming terminologies, to paint himself as the sage that is the lighthouse tower, whatever, that embodies the Heaven’s Mandate in a &quot;democracy&quot; setting that allows him to uniquely reflect the will of the people. We have all this before in Taiwan.
@@ -1461,7 +1461,7 @@ Yeah, but to be honest it’s much easier to just filter out the trolls and send
 Rather than just setting a threshold, which is what we end up doing. In the very beginning of the vTaiwan design, we entertained with the idea. We were still using foreign technology then, but the basic idea is the same.
 
 ### Audrey Tang:
-We identify the ones that are making original contributions, meaning that their raise points that nobody else has raised, and we just invite those people to form a working group. It soon becomes difficult to subjectively judge originality, and so then we move to Pol.is, and we use resonance.
+We identify the ones that are making original contributions, meaning that they raise points that nobody else has raised, and we just invite those people to form a working group. It soon becomes difficult to subjectively judge originality, and so then we move to Pol.is, and we use resonance.
 
 ### Audrey Tang:
 The general agreement within and globally to surface the agenda. Then we entertain the idea of inviting the people who contribute the most, as picked by Pol.is.
@@ -1530,7 +1530,7 @@ As I said, sometimes these people, as well as people who offer opinions online, 
 CNA is the major publishing of the whole thing that’s happening, so if you want to...
 
 ### Audrey Tang:
-Right, exactly. We’re also working more with the speakspersons team as well as if there’s any ministry that is the host of one particular issue, then the media channel of that particular ministry is also leveraged.
+Right, exactly. We’re also working more with the spokespersons team as well as if there’s any ministry that is the host of one particular issue, then the media channel of that particular ministry is also leveraged.
 
 ### Tom Atlee:
 Got it. What are you doing here, Martin? \[laughs\]
@@ -1813,7 +1813,7 @@ That’s right.
 This would be a starting point now in May and November to give it to start and to start improving the material, and then offer these workshops.
 
 ### Audrey Tang:
-Yes, and we will focus on the tools at the middle of the diamond. Co-called issue-based mapping is the code name for it. It will be very hands-on, and we will use concrete many mock subjects that the audience cares about to go through part of the process together.
+Yes, and we will focus on the tools at the middle of the diamond. So-called issue-based mapping is the code name for it. It will be very hands-on, and we will use concrete many mock subjects that the audience cares about to go through part of the process together.
 
 ### Martin Rausch:
 Interesting. I’m wondering. One possibility would be to take part at one of these workshops in May and see how you do it. Then see, &quot;Oh, we would like to do this,&quot; introduce the material I need, and if we think there’s some material missing, we would ask you for it, or come to Taiwan and complete and do the extra material which is needed.
@@ -1896,7 +1896,7 @@ Yeah. I just noticed how fast you are while I’m doing it myself. OK. That woul
 Right. Yeah. This is the Venn diagram. Yeah, I’ve read this before. In any case, the answer is several-fold. I do have a lot of friends in the civic tech world, so, if you frame yourself as a technology amplifier or enabler, but by far the largest networks aside from the usual suspects Google, Microsoft, Facebook, and friends, are this network called Omidyar Network.
 
 ### Audrey Tang:
-Omidyar is very interesting, because they don’t directly or put friends in very smallish organizations, but they put their work into intermediaries, like my society in the UK and many others.
+Omidyar is very interesting, because they don’t directly or put friends in very smallish organizations, but they put their work into intermediaries, like mySociety in the UK and many others.
 
 ### Audrey Tang:
 The Omidyar extended network, like Code for America, and things like that, do have a lot of different grants and different supporting for endeavors like this, but they don’t have a very close track of their extended network. It’s all in the media public website, so that’s one part of it.
@@ -1949,7 +1949,7 @@ I’m not exactly sure how robotics and your work mix, but it actually mix a lot
 > (laughter)
 
 ### Audrey Tang:
-There’s parts of affective computing, from playful systems, from the human dynamics group, which are all Medial Lab things. They get their sponsorship from Lego, of all places. They’re like a bridge between the thought leaders or wisdom leaders and the Lego-ish companies and try to find synergies between those.
+There’s parts of affective computing, from playful systems, from the human dynamics group, which are all Media Lab things. They get their sponsorship from Lego, of all places. They’re like a bridge between the thought leaders or wisdom leaders and the Lego-ish companies and try to find synergies between those.
 
 ### Audrey Tang:
 That’s another network that I’m not intimately familiar but am aware that they’re doing a lot of these catalyst work that connect rich companies and the social impacts they could have had with the leading thinkers. That’s another network.
@@ -1991,7 +1991,7 @@ Mm-hmm.
 It’s an interesting...
 
 ### Audrey Tang:
-10-years-old level fluent, but yes. I stayed for a year in Südland when my dad was doing his PhD in the Südland University. It’s very rusty now, but I still read a little bit of original German material. It’s OK if you just send me materials in Deutsch. I will probably be able to read.
+10-years-old level fluent, but yes. I stayed for a year in Saarland when my dad was doing his PhD in the Saarland University. It’s very rusty now, but I still read a little bit of original German material. It’s OK if you just send me materials in Deutsch. I will probably be able to read.
 
 ### Martin Rausch:
 OK, wow. Great, that’s good to know.

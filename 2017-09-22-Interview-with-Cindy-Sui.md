@@ -231,7 +231,7 @@ We’re connecting them to their counterparts in the Silicon Valley. So if, for 
 Right. There is a new capital that’s being done that’s called a Taiwania capital or in Mandarin it’s called 台杉. It’s a pretty large capital fund. There’s a preparatory office that’s just completed their forming of Taiwania Capital Management Corporation. There is several branches, but we’ll start with a national IoT fund.
 
 ### Audrey Tang:
-The idea is that we will have the head of the ASVDA as well as the CEO David Wong to run this new fund on perhaps 20 percent of return of investment and with the size of entity two to four billion. This idea is that we will look to anything that works with this ecosystem building play that the Taiwan government is doing.
+The idea is that we will have the head of the ASVDA as well as the CEO David Weng to run this new fund on perhaps 20 percent of return of investment and with the size of entity two to four billion. This idea is that we will look to anything that works with this ecosystem building play that the Taiwan government is doing.
 
 ### Audrey Tang:
 The special thing about this is that it’s run and managed and overseen by expert private sector investors as well as private sector managers. It’s not something that career public servants manage. It is like an arm’s length from the government.
@@ -420,7 +420,7 @@ Or other investors, yeah, but I don’t have the details.
 I understand that there’s many people currently in talks with Taiwania.
 
 ### Audrey Tang:
-That’s exactly right, by partnering rather than just going by ourselves, and by having the private sector actors manage those funds, and even in the Taiwanese case, accepting international investments. What we’re trying to do is that we’re trying to shape the local-venture capital market to be less risk-adverse, that is to say to be more risk-tolerant.
+That’s exactly right, by partnering rather than just going by ourselves, and by having the private sector actors manage those funds, and even in the Taiwanese case, accepting international investments. What we’re trying to do is that we’re trying to shape the local-venture capital market to be less risk-averse, that is to say to be more risk-tolerant.
 
 ### Audrey Tang:
 The angel one, because it’s been running a few years now, is easier. They run these regional explanatory meetings, let’s call them meet-ups, in north, middle, south, as well as east in Taiwan.
@@ -545,7 +545,7 @@ About 900 million in total.
 Right.
 
 ### Audrey Tang:
-It’s mostly about toward what we call circulation economy. That is to say, environmental protection, green energy, and things like that. It’s most easy to get this fund. I think one in five green energy circular economy companies gets this funding.
+It’s mostly about toward what we call circular economy. That is to say, environmental protection, green energy, and things like that. It’s most easy to get this fund. I think one in five green energy circular economy companies gets this funding.
 
 ### Audrey Tang:
 Of course, it’s an angel fund, so they are small companies. Otherwise, it won’t be called an angel fund.
@@ -667,7 +667,7 @@ Software innovation takes care of its own iteration. You can roll out updates in
 That’s not really hampering, I would say it’s molding the local software talents into thinking in a time interval that is more fitting to the hardware innovation cycle, which is measured in months. Whereas most of the innovators in Silicon Valley who work on pure software plays, they think in terms of days or weeks. Does that answer your question?
 
 ### Audrey Tang:
-Yeah. For example, if they innovate, for example, Pokémon GO, to use the example, they would see real-time what the user’s experiences are like, how they plan their events, how they gather around in this augmented reality trying to catch Pocket Masters.
+Yeah. For example, if they innovate, for example, Pokémon GO, to use the example, they would see real-time what the user’s experiences are like, how they plan their events, how they gather around in this augmented reality trying to catch Pocket Monsters.
 
 ### Audrey Tang:
 Using those analytics, using those user behavior patterns, they can plan and update their software within the same day, if not the same hour.
@@ -693,7 +693,7 @@ It’s kind of hard, because they are pretty lucrative when a new hardware cycle
 It’s safer. It earns more money.
 
 ### Audrey Tang:
-Yes. The hardware companies pay their software programmers pretty decently, and the risk is also absorbed over the hardware ecosystem. It’s not just purely absorbed in the software which is a much riskier, because as easy as it to roll our new features, it’s also easy for upcoming disruptor to enter the same market and winner-takes-all ecosystem. To do a software entrepreneur, one really need to change to a new mindset.
+Yes. The hardware companies pay their software programmers pretty decently, and the risk is also absorbed over the hardware ecosystem. It’s not just purely absorbed in the software which is a much riskier, because as easy as it to roll out new features, it’s also easy for upcoming disruptor to enter the same market and winner-takes-all ecosystem. To do a software entrepreneur, one really need to change to a new mindset.
 
 ### Audrey Tang:
 Pretty good stock options also, so it’s not just salary.
@@ -804,7 +804,7 @@ That’s exactly right.
 Yeah, but for example, in Taipei city, there’s I think 66 primary schools that has already become early adopters to the new curriculum.
 
 ### Audrey Tang:
-It’s easy for us to, for example, make the K-12 examination-free between the primary, and the secondary, and the senior high school. It’s trivia for us to ask the textbook writers to redo their textbooks so that it’s more exploratory and minimize the rote memorization.
+It’s easy for us to, for example, make the K-12 examination-free between the primary, and the secondary, and the senior high school. It’s trivial for us to ask the textbook writers to redo their textbooks so that it’s more exploratory and minimize the rote memorization.
 
 ### Audrey Tang:
 All these we can do, and we already did that because I was part of the curriculum committee, but the one thing that we cannot change easily is for the parents to change their expectation of their children.
@@ -1086,7 +1086,7 @@ I don’t have his phone number, but I can give you email and/or Facebook contac
 There’s GeoThings, as in geographical things. It’s a software company that works on disaster relief as well as real-time notification and crowd reporting of incidents like post-earthquake reconstruction and things like that, and that their video I think it’s shown on one of the UN panels.
 
 ### Audrey Tang:
-They’re also a local startup that is software only, but I think has pretty good visibility and is also one of the cases showcased by the Asia Silicon Valley on InnoVEC.
+They’re also a local startup that is software only, but I think has pretty good visibility and is also one of the cases showcased by the Asia Silicon Valley on InnoVEX.
 
 ### Audrey Tang:
 It’s called GeoThings.
@@ -1250,7 +1250,7 @@ I think AI Lab is entirely privately funded. GeoThings might have applied for fu
 The GeoThings, I think, is a spinoff from ITRI...Let me just very quickly look up their story. Yeah, they’re incubated by the Industrial Technology Research Institute, the ITRI. It is a social enterprise, which means that they use this for a social purpose and their profits are committed to further this social purpose.
 
 ### Audrey Tang:
-I’m not sure whether they applied to the ASV fund or there’s actually plenty of other funds as well from the Minister of Economic Affairs and other ministries, as well.
+I’m not sure whether they applied to the ASV fund or there’s actually plenty of other funds as well from the Ministry of Economic Affairs and other ministries, as well.
 
 ### Audrey Tang:
 I think so.
@@ -1541,7 +1541,7 @@ I became a co-founder of a company. There were other co-founders as well. It’s
 Afterwards, I also visited Silicon Valley, started a company there. Also visited Suzhou, China, to work with the BenQ -- then still called Acer Peripheral Group -- and then started another company around 2001 in Taiwan, working on open source and other technologies.
 
 ### Audrey Tang:
-Then I toured around the world, and beaome mentor to many Silicon Valley company teams, and retired around 33. It’s a previous life.
+Then I toured around the world, and became mentor to many Silicon Valley company teams, and retired around 33. It’s a previous life.
 
 ### Audrey Tang:
 I’m always based in Taiwan. I telecommuted.

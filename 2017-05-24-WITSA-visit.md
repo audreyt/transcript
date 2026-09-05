@@ -533,7 +533,7 @@ Absolutely. I’ve gotten about 12 of them with 100 in. The rest of them have be
 Also, tell him about year 2000. You were talking about Bill Gates, and some other...
 
 ### Jim Poisant:
-We don’t have marquis speakers. In 2000, we had Gates, Fiorina, Chambers.
+We don’t have marquee speakers. In 2000, we had Gates, Fiorina, Chambers.
 
 ### Yvonne Chiu:
 Year 2000 really did a great job. One other thing you were talking about, you send a letter to everyone. Don’t talk about their merchandise. Bill Gates was talking about their merchandise.

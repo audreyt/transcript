@@ -126,7 +126,7 @@ Our work as the G-0-V or g0v community is to be a neutral facilitator that enabl
 Every day, we check the points that people have general, broad, rough consensus. Every day, we begin with a list of the unresolved issues of the previous day, read aloud by the students in the occupied parliament. This process over 22 days is very much unlike other Occupies, which diverge over time into an agenda of everything and nothing.
 
 ### Audrey Tang:
-In this case, in the Sunflower Movement, the agenda just coalesced, converged over the three weeks. At the end of it, there’s five very firm commitments and general consensus of everybody who participated that then the head of the parliament took and agreed. The occupy was a success. it demonstrated to the entire country that it is possible to get consensus, even from very divisive topics from very diverse groups.
+In this case, in the Sunflower Movement, the agenda just coalesced, converged over the three weeks. At the end of it, there’s five very firm commitments and general consensus of everybody who participated that then the head of the parliament took and agreed. The occupy was a success. It demonstrated to the entire country that it is possible to get consensus, even from very divisive topics from very diverse groups.
 
 ### Audrey Tang:
 What is g0v, The civic type of people who provide those communication and digital facilitation methodologies?. G0v was started in 2012. I joined in 2013. It is a very simple idea. All the governments there, this is in Taiwan, ends in gov.tw. I’m sure it’s the same around the world, .gov.something.
@@ -285,7 +285,7 @@ I’d just like to show you a picture of my office before I go into other Slido 
 This is my office. This is my office in Taipei, the Social Innovation Lab. It is a fun place. The soccer field here, it is drawn by people with Down syndrome and supported by the Children Are Us Foundation, which is one of the oldest and most respected charities from Kaohsiung. They just turned those people with Down syndrome’s drawings into decorations all over the place.
 
 ### Audrey Tang:
-This place is co-created by hundreds of social entrepreneurs and innovators. Around that time, we also held a one-month consultation. You see a pattern here? The consensus is, first, that it needs to be decorated, of course, according to each social entrepreneur’s culture. It need to open until 11:00 PM every day because it’s important for people to mingle. It needs to have a kitchen, a cafÃƒÂ©, and a resident chef.
+This place is co-created by hundreds of social entrepreneurs and innovators. Around that time, we also held a one-month consultation. You see a pattern here? The consensus is, first, that it needs to be decorated, of course, according to each social entrepreneur’s culture. It need to open until 11:00 PM every day because it’s important for people to mingle. It needs to have a kitchen, a café, and a resident chef.
 
 ### Audrey Tang:
 The minister, I need to be every week, so I’m here \[laughs\] every week from Wednesday 10:00 AM to 10:00 PM. Anyone can come and talk to me -- it’s my office hour -- provided that they’re willing to be on the record of the conversation.
@@ -405,7 +405,7 @@ Yes, there’s follow-up questions.
 I know that there’s a lot of dependency on new digital technologies. That implies the backbone of the Internet and Taiwan being sovereign or something like that. I’m wondering what’s the cybersecurity posture of Taiwan? How does that interact with politics in the region with other powers? You have a vested interested in protecting cyber power and that sort of thing.
 
 ### Audrey Tang:
-Our cybersecurity strategy. Just like Estonia, we’re on the front line. Around the year 2000, I personally worked on the advocacy and translation of a project called Freenet, which is an early version of something like Pour or Shadowsocks, and things like that.
+Our cybersecurity strategy. Just like Estonia, we’re on the front line. Around the year 2000, I personally worked on the advocacy and translation of a project called Freenet, which is an early version of something like Tor or Shadowsocks, and things like that.
 
 ### Audrey Tang:
 Because the Great Firewall and the Golden Shield was still in its nascent stages, it was relatively easy to break at the time. In any case, I personally worked on these technologies. I believe that secure communication is a human right. Because of that, our Snowden moment came way before the Western world.
@@ -755,7 +755,7 @@ Just to make sure that people don’t think g0v is misogynic or something, every
 If you go to the Cofacts website, I ask you add that bot as a LINE friend. Once you add it to a line friend -- there’s about 50K, 60K users now -- any time your family sends you something that you think is perhaps a rumor, you can send forward very simply to that bot, and that bot can get back to you.
 
 ### Audrey Tang:
-The bot is literally named is it true or not, zhÃ„Â“n de jiÃ„Âƒ de. This is a very good first reaction to any disinformation campaign. If you just reply to every disinformation, &quot;zhÃ„Â“n de jiÃ„Âƒ de, zhÃ„Â“n de jiÃ„Âƒ de,&quot; it turns people’s mind from a fast-thinking reaction to a slower-thinking mode where people stop and think, &quot;Yeah, is it true or not?&quot;
+The bot is literally named is it true or not, zhēn de jiǎ de. This is a very good first reaction to any disinformation campaign. If you just reply to every disinformation, &quot;zhēn de jiǎ de, zhēn de jiǎ de,&quot; it turns people’s mind from a fast-thinking reaction to a slower-thinking mode where people stop and think, &quot;Yeah, is it true or not?&quot;
 
 ### Audrey Tang:
 This bot helps to remind people of that, and they just reply very quickly whether this is true or not. The most important contribution of this bot, aside from the media literacy education for the elderly, \[laughs\] is that we see all the trending disinformation campaigns.
@@ -1046,7 +1046,7 @@ Anarchism is, by default, a way for people to associate that achieve what we cal
 People only bring to me cases that they feel are wicked problems, meaning that they’re structural problems that has hit the Nash equilibrium, meaning that nobody can act alone to solve their problem. Everybody need to coordinate, form a consensus, and move to solve the problem.
 
 ### Audrey Tang:
-If the problem is of this shape, it’s brought to my office for deliberation and open government. If they think that they can solve it just fine with their old vertical power model, they don’t even bother me. I don’t even know about these things. This is a way that compliments but doesn’t reinforce neoliberal capitalism or any form of vertical power.
+If the problem is of this shape, it’s brought to my office for deliberation and open government. If they think that they can solve it just fine with their old vertical power model, they don’t even bother me. I don’t even know about these things. This is a way that complements but doesn’t reinforce neoliberal capitalism or any form of vertical power.
 
 ### Audrey Tang:
 Sorry.

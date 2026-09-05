@@ -924,7 +924,7 @@ Of course, by fact checking they need actual factual information, in short, one 
 Any affected party, anyone who says they’re being defamed and so on, should be empowered to create this kind of instant clarifications. Ultimately it’s a matter of self-regulation, and the thing that we have, and that Facebook doesn’t, is that we have the potential to be a recursive public.
 
 ### Audrey Tang:
-In a sense that our platform’s rule is our platform’s constitutional principles and everything, it could be affected by people’s input and our algorithms of visualization. Everything is there for contributors to change it, and I think in the long run it may be more effective than Facebook, but we don’t know fore sure, so it is worthwhile to try.
+In a sense that our platform’s rule is our platform’s constitutional principles and everything, it could be affected by people’s input and our algorithms of visualization. Everything is there for contributors to change it, and I think in the long run it may be more effective than Facebook, but we don’t know for sure, so it is worthwhile to try.
 
 ### Nicolas Blanchard:
 One thing is, I’m afraid of such technologies like Facebook or Google, and I think at some point there could the role of the states to be in this position. At some point when the private power becomes too big it becomes hard for the public to keep it in check.

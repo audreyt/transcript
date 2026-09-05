@@ -436,7 +436,7 @@ Another related question is, &quot;Can you give examples about open government w
 A little bit nitpicking, but I usually say distributed ledgers, or mutually distributed ledgers, rather than blockchains, but this is just being very pedantic. Feel free to continue saying blockchains.
 
 ### Audrey Tang:
-The reason I say that, because there’s multiple ledgers that we use in Taiwan now, like the one I talk about in the civil IoT platform, which is IoTA. But it is an acyclic graph. It’s not really a chain, so I don’t know whether to call it blockchain or not.
+The reason I say that, because there’s multiple ledgers that we use in Taiwan now, like the one I talk about in the civil IoT platform, which is IOTA. But it is an acyclic graph. It’s not really a chain, so I don’t know whether to call it blockchain or not.
 
 ### Audrey Tang:
 It certainly is a mutually distributed ledger. Such ledger technologies are now routinely used not as cryptocurrencies but rather as just what they are, ledgers, to provide people with trust.

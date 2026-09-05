@@ -82,7 +82,7 @@ Anyone that has Internet can check in and see whatever my team and other people 
 That’s very, very innovative. It’s completely different from anything else that we’ve heard or experienced. It’s exciting.
 
 ### Audrey Tang:
-This is how the free software community and the Internet society has always run their decisions. All the three, you can find it in the, for example, the Debian, that’s a Linux distribution, the predecessor of Ubuntu Linus.
+This is how the free software community and the Internet society has always run their decisions. All the three, you can find it in the, for example, the Debian, that’s a Linux distribution, the predecessor of Ubuntu Linux.
 
 ### Audrey Tang:
 You can find all these principles in the Debian constitution and also, of course, the IETF. I’m basically bringing a tradition that’s almost 40 years old by now, but running it in a different operating system within the government systems.
@@ -194,7 +194,7 @@ Under this methodology, of course, if people cannot agree on facts, then this wh
 This is something that people don’t have an intuitive grasp of unless you’re trained in mathematics, and cryptography. Even if you are, you may not be trained in philosophical, and dependent use of human rights.
 
 ### Audrey Tang:
-It requires very cross discipline conversation in order to even start the sense making. That’s not very effective for consultations if we just put up things like that without a lift end experience that’s shared by all participants involved.
+It requires very cross discipline conversation in order to even start the sense making. That’s not very effective for consultations if we just put up things like that without a lived experience that’s shared by all participants involved.
 
 ### Audrey Tang:
 Because of that, we are working on a lot of empathy building projects. For example, using virtual augmented reality to just situate people in a possible future, and have some living experience of the possible future. With that needs strong scientific research.
@@ -507,7 +507,7 @@ That’s very interesting. Do you have any sort of approaches that you use to ev
 Based on the four core values of open government, which is basically how clear the information is presented, how white is the space and time for people’s input, how easy is it for people to find out what happened to their input, and also how facilitative are we of populations of different backgrounds to join.
 
 ### Audrey Tang:
-These are for core values of open government in Taiwan. I think if we don’t measure, especially these two, it very quickly becomes a, what we call, open washing, meaning that it’s for a selected number of people’s friends and circle, and everything is online, but nobody knows what happens to their inputs.
+These are four core values of open government in Taiwan. I think if we don’t measure, especially these two, it very quickly becomes a, what we call, open washing, meaning that it’s for a selected number of people’s friends and circle, and everything is online, but nobody knows what happens to their inputs.
 
 ### Audrey Tang:
 You see that all the time in other places on the web. We really need to evaluate the whole, we call it, the policymaking account or account trail, essentially, of the policymaking process. Fang-Jui is designing future metrics to generate these measurements as the policymaking accounts gets extended over time on one particular policy.

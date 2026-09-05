@@ -133,7 +133,7 @@ You don’t think social media is a dignified purpose within life?
 > (laughter)
 
 ### Dan Lejerskar:
-No. You can do art. You can do anything. This reminds me a little bit of Matrix. The only think I’m missing is the fluids where you get your body, and you get your injections.
+No. You can do art. You can do anything. This reminds me a little bit of Matrix. The only thing I’m missing is the fluids where you get your body, and you get your injections.
 
 ### Audrey Tang:
 Perhaps we’re getting there. \[laughs\]
@@ -309,7 +309,7 @@ That becomes, now, suddenly, a little bit more powerful, because now you can con
 Then there’s a problem, still, that normal teachers in Taiwan, and anywhere in the world, 98 percent of them will never program a curriculum. Most of them, 90 percent, maybe more in Taiwan, knows how to use PowerPoint. \[laughs\] That’s the upper level.
 
 ### Dan Lejerskar:
-What we did is to say how do we take that know-how, their single matter expertise -- they may be expert in biology, or chemistry, or whatever -- and allow them to create this content themselves?
+What we did is to say how do we take that know-how, their subject matter expertise -- they may be expert in biology, or chemistry, or whatever -- and allow them to create this content themselves?
 
 > (background music)
 
@@ -392,7 +392,7 @@ Where’s the market? According to Goldman Sachs 85 percent comes from non-gamin
 Most people -- this you’re probably familiar with -- think about the top of the iceberg. They see the gadgets. That’s not so important. \[laughs\]
 
 ### Dan Lejerskar:
-To do real implementation you have to be able to take existing data. You have to be able to support a lot of different systems. You have to be able to be compliant with all the new image recognition solutions and, at the same time, support various engines and be complaint with various AI, IoT devices. That’s what we’re doing.
+To do real implementation you have to be able to take existing data. You have to be able to support a lot of different systems. You have to be able to be compliant with all the new image recognition solutions and, at the same time, support various engines and be compliant with various AI, IoT devices. That’s what we’re doing.
 
 ### Dan Lejerskar:
 You have the layer with the product. You have the platform that agnostically supports all these things. You have the system that you have the freedom to choose, and different systems for different type of application or budget, then you put your application on top. That’s how we do it.
@@ -848,7 +848,7 @@ I would encourage you to look at the detail plan. It’s at [http://achievement.
 This includes the DIGI⁺ program?
 
 ### Audrey Tang:
-The one-time hardware part of DIGI⁺ are there. The recurrent parts, we can’t use the special budget. It’s all at DIGI⁺ webside, [http://www.digi.ey.gov.tw/.](http://www.digi.ey.gov.tw/.) Here you will see this AVR science mark hub project.
+The one-time hardware part of DIGI⁺ are there. The recurrent parts, we can’t use the special budget. It’s all at DIGI⁺ website, [http://www.digi.ey.gov.tw/.](http://www.digi.ey.gov.tw/.) Here you will see this AVR science mark hub project.
 
 ### Dan Lejerskar:
 Who’s heading that?

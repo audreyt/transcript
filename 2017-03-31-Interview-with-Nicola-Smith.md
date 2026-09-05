@@ -301,7 +301,7 @@ Yet, companies like WhatsApp, and not just WhatsApp, but other instant messaging
 The terrorists always can use their own system instead of the system that’s compromised in security. This is the old saying: If you outlaw encryption, only outlaws have encryption. The terrorists, if they are determined to use a secure communication method, always find a way. This is not an excuse for backdooring systems.
 
 ### Nicola Smith:
-No, absolutely. Where do you then draw the line? Where do you, when it comes to the issues of natural security, do you just say the intelligence agency should have absolutely no access to encrypted messages, or do you allow some leeway?
+No, absolutely. Where do you then draw the line? Where do you, when it comes to the issues of national security, do you just say the intelligence agency should have absolutely no access to encrypted messages, or do you allow some leeway?
 
 ### Audrey Tang:
 On the business between the platforms and the intelligence agencies, ultimately this is not something that the state can determine alone. Because if the state rushes to act on this, it would end up outlawing particular forms of cryptography, which doesn’t work.
@@ -495,7 +495,7 @@ When we were working in the NAER, we talked a lot about Finland. We talked a lot
 But in Asia, would you say that Taiwan is taking a leading role...?
 
 ### Audrey Tang:
-I would say we take freedom of speech much more seriously that most other Asian countries. Many other Asian countries see it as a utility value, which could be traded if some other value of higher utility, for example if national security is at risk.
+I would say we take freedom of speech much more seriously than most other Asian countries. Many other Asian countries see it as a utility value, which could be traded if some other value of higher utility, for example if national security is at risk.
 
 ### Audrey Tang:
 For many people here, it’s a core value, not utility value. We have to design our curriculum, our cybersecurity agenda, our whole response to rumors, by taking in freedom of expression as a core value. We are unique in that around Asia, I would say.
@@ -531,7 +531,7 @@ A hacker is someone who immerse themselves into a system, and knows its details.
 Basically, I’m a hacker in the sense that I’m trying to learn where the public service works or not, but we’re not patching it or exploiting it. We’re trying to come up with a different way of making policy, starting small but gradually expanding, so that people can learn there is a different way, a more inclusive way to make policies, so more and more policies can be made this way.
 
 ### Audrey Tang:
-That’s essentially what we call open-source governance. Just taking the lessons we learned from Internet community, and see whether its applicable to public service as well.
+That’s essentially what we call open-source governance. Just taking the lessons we learned from Internet community, and see whether it’s applicable to public service as well.
 
 ### Nicola Smith:
 I’ve just got a couple of questions.

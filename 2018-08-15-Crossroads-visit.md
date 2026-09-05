@@ -143,7 +143,7 @@ Of the entire...
 Yeah, the Crossroads.
 
 ### Didi Bethurum:
-I agree with you. I think the trust needs to be established. there needs to be a few more testimonials, maybe even a working model that you can tell that story. I know you’re in beta right now, so it’s just trying to make sure it works before we flood it with traffic.
+I agree with you. I think the trust needs to be established. There needs to be a few more testimonials, maybe even a working model that you can tell that story. I know you’re in beta right now, so it’s just trying to make sure it works before we flood it with traffic.
 
 ### Didi Bethurum:
 You’ve done a good job keeping some of those connections. I think there needs to be a few stories to be told that it’s possible. Even myself going through the tool, seeing all the parameters and stipulations that you need to have as an entrepreneur here, it looks pretty impossible to even get one of these things through.
@@ -222,7 +222,7 @@ Right, and I think that’s...
 I’ve been hearing more successful cases now. Maybe it’s time to try.
 
 ### Didi Bethurum:
-If you can utilize your platform to tell these stores, great.
+If you can utilize your platform to tell these stories, great.
 
 ### David Chang:
 Yes.
@@ -489,7 +489,7 @@ They give you funding, fellowship, investment, and whatever. One of the -- I thi
 The river can be part of the board. The river can be part of anything, just like a company, and the river is collaboratively, their interest is being represented by someone from the government and someone from the tribe. That’s because they have a very interesting constitution that is basically a treaty between the Maori people and the colonizers.
 
 ### Audrey Tang:
-This allows for this new kind of legal invention, but then it puts a whole new spin on venture philantrophy, on impact investing, because you’re treating, just like the Maori people did, a river as a person.
+This allows for this new kind of legal invention, but then it puts a whole new spin on venture philanthropy, on impact investing, because you’re treating, just like the Maori people did, a river as a person.
 
 > (laughter)
 

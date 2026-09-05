@@ -20,7 +20,7 @@ I would just like to show you my office. This is my office in Taipei.
 > (laughter)
 
 ### Audrey Tang:
-It’s the social innovation lab. It’s co-created by hundreds of social innovators. This soccer field is from people with Down syndrome, which turns out their excellent visual artists and so on.
+It’s the social innovation lab. It’s co-created by hundreds of social innovators. This soccer field is from people with Down syndrome, which turns out they’re excellent visual artists and so on.
 
 ### Audrey Tang:
 Basically, I’m a junior high school dropout. I think that’s on the CV. When I was 15 years old, that was 1996, I discovered this new thing called the Wide Web, and that text books that I’m reading were all out of date.
@@ -135,7 +135,7 @@ People, when they participate in the Sunflower movement, everyday people deliber
 Instead of other occupies, where they just diverge into no agenda in particular, over time, this one actually converge after 22 days into five various followed points after which the head of parliament actually agreed. It was a victory.
 
 ### Audrey Tang:
-This is a first public demonstration with half a million people on the street that with the right tools, what Clay Shirky would call situational applications, with the right civic attack, people can actually agree on things, even if we start being very ideologically charged.
+This is a first public demonstration with half a million people on the street that with the right tools, what Clay Shirky would call situational applications, with the right civic tech, people can actually agree on things, even if we start being very ideologically charged.
 
 ### Audrey Tang:
 The g0v people at a time were invited into the public service as mentors and as people who actually care about governance, and are invited to train public service into this art of migrating from a paper-based normativity to an Internet-based horizontal data and algorithm-based normativity.
@@ -147,7 +147,7 @@ In the first case, we’re given using the free software, and free software in T
 2015 was the time when Uber started operating using unlicensed drivers and unprofessional licensed cars. All over the world all the red and pink areas are the one that we’re having intense debates like here also, about the private taxi companies and so on, were about a debate back in 2015.
 
 ### Audrey Tang:
-Of course, Taiwan is no exemption. There are taxi drivers around the minster of transportation and so on. We thought maybe using the same civic technology but a scale-downed version.
+Of course, Taiwan is no exemption. There are taxi drivers around the minister of transportation and so on. We thought maybe using the same civic technology but a scale-downed version.
 
 ### Audrey Tang:
 We need to get people from different aisles and different values to see the same evidence, because we believe that we are not really targeting Uber as a company, but really sharing economy as a meme. At the time, the meme is like &quot;algorithm dispatch cars better than laws, so we should follow algorithms, not laws.&quot;
@@ -171,7 +171,7 @@ This is what we focus our conversation around, after which, of course, we have a
 Without checking feelings, those grow into very different pathways. Ideas in that scenario become ideologies that blinds people to new facts and to each other’s feelings. When we say open data in Taiwan, we don’t just mean open government data. We also mean open social sector data, we also mean open private sector data, we mean open algorithms that can work across all those data silos.
 
 ### Audrey Tang:
-Through this kind of curated effort, we use AI-powered conversation to talk with basically all the stakeholders, all the taxi drives, Uber drivers, passengers, and so on, spread through WhatsApp or whatever the same link to the pol.is system for a month.
+Through this kind of curated effort, we use AI-powered conversation to talk with basically all the stakeholders, all the taxi drivers, Uber drivers, passengers, and so on, spread through WhatsApp or whatever the same link to the pol.is system for a month.
 
 ### Audrey Tang:
 What you see here is basically your avatar among your Facebook and Twitter friends if you log in or among famous people if you don’t. You see where they start this idea of using cars that are private to carry passengers.

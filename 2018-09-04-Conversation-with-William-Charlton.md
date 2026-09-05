@@ -100,7 +100,7 @@ This facilitation, we found, was the key to small group who already share some l
 Using language of experts of different domains to put them on a shared mind map, so that everybody can understand the issue at hand, but using the vocabulary and structure that they are comfortable with. It is a little bit like simultaneous interpretation, but not between languages, but rather between worldviews.
 
 ### Audrey Tang:
-That’s the main work. For 100 people or less, who already know each other and share the same language, like British English, that’s overkill, to be frank. Normally, a weekly or biweekly gathering, on ongoing relationship, plenty of food, \[laughs\] which people can bring by themselves, a good recording or capturing device, is all you need.
+That’s the main work. For 100 people or less, who already know each other and share the same language, like British English, that’s overkill, to be frank. Normally, a weekly or biweekly gathering, an ongoing relationship, plenty of food, \[laughs\] which people can bring by themselves, a good recording or capturing device, is all you need.
 
 ### Audrey Tang:
 The capturing device could be, Discourse is pretty popular. For very tight-knit groups, Loomio is even better. There are already ready-made tools for exactly this purpose, for capturing structured data and the context.
@@ -346,7 +346,7 @@ I think it’s worth asking the question. I don’t want to go necessarily on th
 If they ask their family, but their family, it is just to help picking and carrying stuff, then they can’t do as much real conversation as they would do, if they have invited a normal accompany trip. They’re taking the trivial part out of the connection.
 
 ### Audrey Tang:
-I don’t think the grandchildren or teenagers or very happy if they are just reduced to a carrier or something. That’s what I mean by equalizing the relationship between humans by automating part of the work that is not seen as a desirable job, but as a kind of filial piety.
+I don’t think the grandchildren or teenagers are very happy if they are just reduced to a carrier or something. That’s what I mean by equalizing the relationship between humans by automating part of the work that is not seen as a desirable job, but as a kind of filial piety.
 
 ### Audrey Tang:
 I know this concept doesn’t quite mean as much in the UK, but something, an obligation to your family. It makes the family dynamic more dynamic, is all what I’m saying. I don’t think it really deprives any social connection.
@@ -451,7 +451,7 @@ I have a bunch of friends who’s working on it. They call themselves the Secure
 They have built a lot of infrastructure so that you can do Git development on it. If you can do Git development on it, then you can do everything, really, because then everything else on top of it is just an overlay. If you want to build an application, this could save you some time, is what I’m saying.
 
 ### William Charlton:
-It certainly would. Again, my thinking is that they could output their meeting data is an XML file, validated against a schema, stick it anywhere on any public space. Then the bots, when they arrive, and when some people build them, can search for these XML slugs, incorporate them, and they’ve got the data.
+It certainly would. Again, my thinking is that they could output their meeting data as an XML file, validated against a schema, stick it anywhere on any public space. Then the bots, when they arrive, and when some people build them, can search for these XML slugs, incorporate them, and they’ve got the data.
 
 ### Audrey Tang:
 The schema we are using for our deliberation is called Akoma Ntoso, which is a proper XML vocabulary for parliamentary, legislative, and judiciary documents. It just so happens that it can work for deliberations as well.
@@ -598,7 +598,7 @@ There’s a lovely story, another one. This is my favorite subject at the moment
 Extract for this, yeah. \[quiet muttering\] This is an extract from a book by an earlier anthropologist, where he falls foul of the unwritten rules. It’s a lovely story. He should have known, really, but he didn’t.
 
 ### William Charlton:
-This is part of his anthropology. He should have really understood what he was doing, but didn’t. They had to explain to him in simple worlds. They have this thing, they call it cursing the meat. It’s a way of, as the previous writer James Suzman, calls it, &quot;fiercely egalitarian.&quot;
+This is part of his anthropology. He should have really understood what he was doing, but didn’t. They had to explain to him in simple words. They have this thing, they call it cursing the meat. It’s a way of, as the previous writer James Suzman, calls it, &quot;fiercely egalitarian.&quot;
 
 ### William Charlton:
 They are fiercely egalitarian. Rather than just expect it, they will actually enforce it, which is unusual. I’m not sure you’d get away with that today, in our current culture. It’s counterintuitive.
@@ -732,7 +732,7 @@ That’s right. That’s one comforting thought.
 Good. Enjoy your supper.
 
 ### Audrey Tang:
-Take care. Yeah, have a good localtime.
+Take care. Yeah, have a good local time.
 
 ### William Charlton:
 If want to meet up when you’re in London, just give me a shout, and I’ll hop on a plane.

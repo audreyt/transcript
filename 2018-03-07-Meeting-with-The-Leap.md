@@ -13,7 +13,7 @@ Also, I was super happy because we’re talking with Nesta. We’re going to do 
 Yeah, of course.
 
 ### Ninon Godefroy:
-The effect of electromagnetic field on peoples’ health. There are people who really believe in science who are like, &quot;There’s no ...&quot;
+The effect of electromagnetic field on people’s health. There are people who really believe in science who are like, &quot;There’s no ...&quot;
 
 ### Audrey Tang:
 Microwave powers?
@@ -88,7 +88,7 @@ I am currently really enthusiastic and focused on education.
  I learned a lot working with Sylvie, her background in performance art, we do an event in France where we bring in super serious experts in different fields. In the morning, she makes us do these games with our senses and blindfolded. Afterward, we have talks sharing our research and understanding and collaboration reaches another level. It’s so magical. It’s an experience. You can’t believe it.
 
 ### Audrey Tang:
-There is a social enterprise there in the lab called a dialogue in the dark. I think also it has European counterpart. It’s originated in Germany. The idea is that people would be enclosed in this totally dark place and have blind people as facilitators. Of course, they feel super confident in that environment.
+There is a social enterprise there in the lab called a Dialogue in the Dark. I think also it has European counterpart. It’s originated in Germany. The idea is that people would be enclosed in this totally dark place and have blind people as facilitators. Of course, they feel super confident in that environment.
 
 ### Audrey Tang:
 Not only it made people much more aware of the space between what we call normal individuals are actually permeable boundary, but also have much more respect to blind people afterwards as a bonus. There’s quite a few experiences there.

@@ -40,7 +40,7 @@ We were like, we need to build a relationship. We need to see that they’re cha
 ...opportunity enabling, potentially.
 
 ### Cindy Yang:
-Yeah, empowering them. Other things that the mayor’s office did that I just learned about in class, so I took a class about this as well. They solved a lot of problems that the government couldn’t solve on their own, because they don’t have the technology or the developers or the right talent. They would create RFPs, and then different start-ups in Boston would take that RSP...
+Yeah, empowering them. Other things that the mayor’s office did that I just learned about in class, so I took a class about this as well. They solved a lot of problems that the government couldn’t solve on their own, because they don’t have the technology or the developers or the right talent. They would create RFPs, and then different start-ups in Boston would take that RFP...
 
 ### Audrey Tang:
 Respond to part of the RFPs. Is that competitional in the sense that only one group that would solve one at a time?

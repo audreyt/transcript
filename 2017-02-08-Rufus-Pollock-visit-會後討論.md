@@ -221,7 +221,7 @@ clkao也是因為這樣，才建立這一個grant，還是說本來他就有同�
 對。好比Linux是真的成型了，它有Linux Foundation，所以捐給Linux Foundation就好了；但是現在大部分開放源碼軟體來講，其實它並沒有分到這個。
 
 ### 唐鳳：
-有系統在補助大量小規模的開放源碼或者是開放文化的，好比像Google有所謂「Summer of Code」，在暑假期間出錢請學生能夠去幫忙開放源碼社群，然後Knignt Foundation、Omidyar Network，都有一些類似的program，所以g0v的這一個grant其實就是小規模，但是它運作方式跟國外那一些是類似的。
+有系統在補助大量小規模的開放源碼或者是開放文化的，好比像Google有所謂「Summer of Code」，在暑假期間出錢請學生能夠去幫忙開放源碼社群，然後Knight Foundation、Omidyar Network，都有一些類似的program，所以g0v的這一個grant其實就是小規模，但是它運作方式跟國外那一些是類似的。
 
 ### 唐鳳：
 Rufus的意思是因為不管g0v grant最後給了誰，那個誰所建立的東西還是架設在這一些國際的開放源碼這一些東西上，當然每一個國家補助他們自己國民參加研發是一件好事，但是Rufus認為這個比較沒有系統性，因此是特定的人及特定的小專案上。

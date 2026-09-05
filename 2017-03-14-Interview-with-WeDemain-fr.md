@@ -52,7 +52,7 @@ Digital Minister.
 You told me that your proposal is more like to implement a method about discussion than to go towards some goals. Could you elaborate a bit about that?
 
 ### Audrey Tang:
-I said that I’m interested much more in the process and the tools, not the policies. The idea is to still make policies, but make it in an open space that invites not just the ministry in charge of that policy, but other related ministry, and not just ministries, but also other non-governmental actions -- the stakeholders, people who filed petitions before, people who went to the street before, and also the private-sector stakeholders.
+I said that I’m interested much more in the process and the tools, not the policies. The idea is to still make policies, but make it in an open space that invites not just the ministry in charge of that policy, but other related ministry, and not just ministries, but also other non-governmental actors -- the stakeholders, people who filed petitions before, people who went to the street before, and also the private-sector stakeholders.
 
 ### Audrey Tang:
 The whole idea is that instead of just doing full, deliberative democracy on the largest public-building cases, we are now in the age where this kind of discussion is low-cost enough, inexpensive enough that we can do it to pretty much everything.
@@ -515,7 +515,7 @@ I think they participated in a lot of student movements also during their studen
 > (laughter)
 
 ### Audrey Tang:
-They do have a lot of friends in that cycle.
+They do have a lot of friends in that circle.
 
 ### Jean-Jacques Valette:
 Another question. Do you still work in g0v or not?

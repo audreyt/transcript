@@ -171,7 +171,7 @@ It’s permission-less.
 It’s permission-less, right.
 
 ### Lewis Freiberg:
-It doesn’t discriminate on any transaction value, so you know if you have a transaction that’s worth a million dollars or you have a transaction that’s worth zero, they’re both equal in the network. Anyone can participate and set up a full note, you just need to be able to peer with your neighbors.
+It doesn’t discriminate on any transaction value, so you know if you have a transaction that’s worth a million dollars or you have a transaction that’s worth zero, they’re both equal in the network. Anyone can participate and set up a full node, you just need to be able to peer with your neighbors.
 
 ### Audrey Tang:
 It’s eventually time stamped?
@@ -315,7 +315,7 @@ Good marketing.
 It’s good, yeah. Once, if we can have another famous...because they’re all top-10 cryptocurrency technology for the market capital. If we can have another one have a good impression at all, I think, &quot;Whoa, it’s very interesting.&quot; Especially they will make world have some special imagination. IOTA, they talked for the IoT.
 
 ### Lman Chu:
-The people think Taiwan is island of hardware, then I think there will be a very good impact for all of Taiwan. Another meaning is that, &quot;Hey, why?&quot; Why that some top of the cryptocurrency foundation, they all try to come to Taiwan. If this is good or not, or even others should come to Taiwan, there will be some impact f for the regulation department, but I think it’s a good impact.
+The people think Taiwan is island of hardware, then I think there will be a very good impact for all of Taiwan. Another meaning is that, &quot;Hey, why?&quot; Why that some top of the cryptocurrency foundation, they all try to come to Taiwan. If this is good or not, or even others should come to Taiwan, there will be some impact for the regulation department, but I think it’s a good impact.
 
 ### Lman Chu:
 I just have such images, &quot;Yeah, let’s see what will happen.&quot; \[laughs\] That’s why, right now, I try to discuss with the III that is just...especially last week, I see some news that the Fintech park. I’m not sure...
@@ -333,7 +333,7 @@ The Fintech lab... But you’re not marketing yourselves as a cryptocurrency?
 No. You don’t read the news last week? Actually, the first lab in Asia is in Singapore’s Fintech hub.
 
 ### Lewis Freiberg:
-The IOTA Foundation works on the technology for the Tangle, with is the architecture of the network and how it functions, but also the IOTA core. IOTA is the currency. There is a token on top of the network. The network can be used without the token, so it’s still good for that. It’s still a very good distributed ledger.
+The IOTA Foundation works on the technology for the Tangle, which is the architecture of the network and how it functions, but also the IOTA core. IOTA is the currency. There is a token on top of the network. The network can be used without the token, so it’s still good for that. It’s still a very good distributed ledger.
 
 ### Lewis Freiberg:
 Additionally, the value that distributed ledgers allow for is money or value to transferred.
@@ -357,7 +357,7 @@ In Taiwan, we’re not outlawing anything, but we do view cryptocurrencies as so
 Whenever regulators see cryptocurrency, they think money laundering. I’m just trying to make sure that the current generation of IOTA technology is not adapted for money laundering as compared to IoT...
 
 ### Lewis Freiberg:
-No, \[laughs\] it definitely isn’t. Like with any distributed ledger, you can do analysis, and you can follow transactions. It’s not on the level of a Zcash or a Monera, which is a bit more specialized in privacy. \[laughs\]
+No, \[laughs\] it definitely isn’t. Like with any distributed ledger, you can do analysis, and you can follow transactions. It’s not on the level of a Zcash or a Monero, which is a bit more specialized in privacy. \[laughs\]
 
 ### Audrey Tang:
 That’s right.

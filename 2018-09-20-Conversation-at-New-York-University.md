@@ -58,7 +58,7 @@ I think we’re very deeply concerned that this is not simply another cycle in t
 They very chillingly paint the picture of how the dangers that we face today are not tanks in the streets. It’s not people with guns. It’s not people being thrown in prison. It is in fact what we’re seeing, which is Putin who is permanently in office by swapping the role of President and Prime Minister. It’s Erdoğan in Turkey. It’s Orbán in Hungary. It’s Maduro in Venezuela. It’s Modi in India.
 
 ### Beth Simone Noveck:
-Of course, it’s Trump here in the United states. People who deride their opponents as criminals, who maintain a constant sense of threat and support and endorse violence in our political culture, who show contempt for their critics and for the media, and who, frankly, stoke conspiracy theories galore, again to reinforce their power, and in ways that actually make us, I think, deeply fearful about our democracy.
+Of course, it’s Trump here in the United States. People who deride their opponents as criminals, who maintain a constant sense of threat and support and endorse violence in our political culture, who show contempt for their critics and for the media, and who, frankly, stoke conspiracy theories galore, again to reinforce their power, and in ways that actually make us, I think, deeply fearful about our democracy.
 
 ### Beth Simone Noveck:
 Add on top of that the fact that for a long time now, trust in government even before these current spate of authoritarian and populist leaders, that trust in government has been declining over many, many years. In 1958, 73 percent of people said that they could trust the federal government in the United States to do the right thing just about always.
@@ -279,13 +279,13 @@ A thing that had an afterward attack with the live streaming of the meetings bet
 Just by committing their words in a live stream way, transcribe and so on, people can refer to that transcription as the social object. That leads to the much easier ratification, because people cannot easily go back on the statements they have when they know that thousands of people are watching the live stream.
 
 ### Audrey Tang:
-That agenda was done by the same people who formed over the course of three weeks through live stream. That is the UberX case, we did maybe 26 or so cases this way, before I became the Digital Minister, and that’s the vTaiwan process in and on itself.
+That agenda was done by the same people who formed over the course of three weeks through live stream. That is the UberX case, we did maybe 26 or so cases this way, before I became the Digital Minister, and that’s the vTaiwan process in and of itself.
 
 ### Beth Simone Noveck:
 That’s the vTaiwan process. A couple of questions. Tell us something about who’s participating here? vTaiwan over the course of those 26 pieces of legislation they’ve been developed have engaged about 200,000 people, is that number about correct?
 
 ### Audrey Tang:
-That’s right. If you count people watch line stream or in pol.is, because it’s a very low threshold. All you have to do is just click a bunch of agree or disagree.
+That’s right. If you count people watch live stream or in pol.is, because it’s a very low threshold. All you have to do is just click a bunch of agree or disagree.
 
 ### Beth Simone Noveck:
 For me, your own reflection on it. 200,000 is a pretty big number, but Taiwan has 23 million people, right?
@@ -353,7 +353,7 @@ Zero dollars.
 Who pays for the pizza?
 
 ### Audrey Tang:
-Yeah, who pays for the pizza? We had a donation box. After each meeting, people just chime in with coins and whatever. It is all very much crowd-funded of the people who show up for the pizza. Really, what government does is essentially two things, first, to agree to appear on the pre-meetings sending their people from the right agency.
+Yeah, who pays for the pizza? We had a donation box. After each meeting, people just chip in with coins and whatever. It is all very much crowd-funded of the people who show up for the pizza. Really, what government does is essentially two things, first, to agree to appear on the pre-meetings sending their people from the right agency.
 
 ### Audrey Tang:
 Finally, after the questions and the reflections are synthesized, the government to reply point by point. That’s the two main commitments, and they don’t cost anything from the government agencies standpoint.
@@ -859,7 +859,7 @@ I have a question.
 You have two, one here and one here.
 
 ### Audience Member:
-You came out in the room and talked that you’re an anarchist. When I think of anarchy, I think of a lot of passion and protest. We see people here protesting on the streets and at the end of the day, nothing gets down.
+You came out in the room and talked that you’re an anarchist. When I think of anarchy, I think of a lot of passion and protest. We see people here protesting on the streets and at the end of the day, nothing gets done.
 
 ### Audience Member:
 What you’re doing in Taiwan, I see a lot of organization there. It takes a long time. How do you maintain that momentum of passion that you always have for what you’re doing and with everyone else who’s involved, how do you maintain that through this process?
@@ -989,7 +989,7 @@ Has the g0v community thought about how to support such an implementation? Is th
 You’re using Sandstorm. You’re using all these softwares. What is the minimum viable resource investment necessary to put that infrastructure together to be able to implement this in any type of way that would be respected in the public arena?
 
 ### Audrey Tang:
-Like how to boot strap, huh? I think the minimum boot loader is very simply a physical place. The architecture of the physical place, of the public additional innovation space, I think, determines the kind of people who want to go to it and who want to stay and who want to basically make collective decisions and take risks together.
+Like how to bootstrap, huh? I think the minimum boot loader is very simply a physical place. The architecture of the physical place, of the public additional innovation space, I think, determines the kind of people who want to go to it and who want to stay and who want to basically make collective decisions and take risks together.
 
 ### Audrey Tang:
 I say this because this place was literally co-created by hundreds of social innovators. They asked for a kitchen, and they got a kitchen, a chef. It opens until 11:00 PM every night and so on. Basically, people feel that this place is where they are, where they belong, and where they is willing to come back even after spectacular failures in experimentation.

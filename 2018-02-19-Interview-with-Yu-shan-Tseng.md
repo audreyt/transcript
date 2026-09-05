@@ -138,7 +138,7 @@ You can analyze this topic and see whether it is hot in social media, in traditi
 For things that the government or the society doesn’t quite have this strongly opinion on, we don’t have to handle this volume of input.
 
 ### Yu-shan Tseng:
-I see your point. I want the skip the third question but I will come back to it. I will go to the fifth...ah the fourth question. The fourth question is, when you say there’s a moderator in the Discourse in a forum format, I wonder perhaps there is a comment moderation in pol.is. There’s a by-default setting, such as lazy or strict. I wonder, which mode did you choose?
+I see your point. I want to skip the third question but I will come back to it. I will go to the fifth...ah the fourth question. The fourth question is, when you say there’s a moderator in the Discourse in a forum format, I wonder perhaps there is a comment moderation in pol.is. There’s a by-default setting, such as lazy or strict. I wonder, which mode did you choose?
 
 ### Audrey Tang:
 We tried both ways. Initially, in the UberX case, we did strict moderation, but I almost watched it constantly, approving new comments as quick as I can.
@@ -513,13 +513,13 @@ Christopher wrote this, the term of use and the...
 No, no, no, the code. I don’t know which lawyer wrote this. You have to talk to their lawyer, but I think the intent is never to control the intellectual property of user-generated material. I’m pretty sure about it.
 
 ### Yu-shan Tseng:
-Thank you. According to GNU APGL Version 3.0, if through open source you get the source code of pol.is and you modify it, you will probably have to publish the modified pol.is. Does it apply to the Sandstorm pol.is?
+Thank you. According to GNU AGPL Version 3.0, if through open source you get the source code of pol.is and you modify it, you will probably have to publish the modified pol.is. Does it apply to the Sandstorm pol.is?
 
 ### Audrey Tang:
 Yeah, of course. We will have to provide the modified code to any user of the system. That is actually a Sandstorm feature. You can, whenever you use a Sandstorm system, download any data you have in the Sandstorm as well as a copy of the code that is running in Sandstorm.
 
 ### Audrey Tang:
-This is called portability. You can move to your own hardware anything that you participate on a Sandstorm instance. Sandstorm is designed with this kind of free software copy left in the cloud in mind, in the sense that any user is able to obtain not only the data stored on the cloud, but also a copy of the code that’s running in the cloud.
+This is called portability. You can move to your own hardware anything that you participate on a Sandstorm instance. Sandstorm is designed with this kind of free software copyleft in the cloud in mind, in the sense that any user is able to obtain not only the data stored on the cloud, but also a copy of the code that’s running in the cloud.
 
 ### Audrey Tang:
 By that, I think we’re already AGPL-compliant. In addition to that, I think our modifications are all done publicly on GitHub anyway. People can just follow our fork and chase the changes we made.
@@ -639,7 +639,7 @@ It’s not that easy, or it’s not that it’s all the same. I think showing so
 Last question, because I read some text on the archive vTaiwan, they do a hackathon history, and so I learned that you refer to RegulationRoom as kind of like the prototype.
 
 ### Audrey Tang:
-Yeah. We basically recreated RegulationRoom using this course, and some GitBook and other technologies. RegulationRoom was written from Drupal, and we find its interface not exactly the best to modify.
+Yeah. We basically recreated RegulationRoom using Discourse, and some GitBook and other technologies. RegulationRoom was written from Drupal, and we find its interface not exactly the best to modify.
 
 ### Audrey Tang:
 The design principles I think is really advanced, and that there is something very concrete in its output, as well the synthetic documents and so on. We basically started exactly where the RegulationRoom left off.

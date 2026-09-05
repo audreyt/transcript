@@ -246,10 +246,10 @@ The second thing that the UK GDS also advocates is that when you build a digital
 Ultimately, they’re accountable for this digital service, and they can then solicit more idea of innovation from this service. We adopted this spirit, and also call for leader to be basically cross-disciplinary.
 
 ### Audrey Tang:
-I think the person who asked this question is maybe most interested in our GDSP number eight, which says, &quot;Open first,&quot; basically, open is the priority. To reduce the time spent on developing services, and the total cost of ownership, open should be the foremost principal when designing and building services.
+I think the person who asked this question is maybe most interested in our GDSP number eight, which says, &quot;Open first,&quot; basically, open is the priority. To reduce the time spent on developing services, and the total cost of ownership, open should be the foremost principle when designing and building services.
 
 ### Audrey Tang:
-By open we mean specifically that all the machine-to-machine data built by this system need to be available under an open license, most commonly the Creative Comments Attribution 4.0 license, which is the default license for all the ICT systems built in Taiwan.
+By open we mean specifically that all the machine-to-machine data built by this system need to be available under an open license, most commonly the Creative Commons Attribution 4.0 license, which is the default license for all the ICT systems built in Taiwan.
 
 ### Audrey Tang:
 Also, we prioritize open source. If the service component reuses existing open source components, we recommend people to use Linux Foundation’s SPDX, or S-P-D-X, manifest to solve this warranty issue for the system integrators. Once they declare their reusable free software components under SPDX, the warranty in the legal perspective has a clear delineation.

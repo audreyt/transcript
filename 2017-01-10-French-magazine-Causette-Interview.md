@@ -423,7 +423,7 @@ First of October.
 What are you main tasks?
 
 ### Audrey Tang:
-Open government that is the main mandate. Reporting, also the use console, which is like an open government, especially for young people and social enterprise, which is mostly around young people and startups, but also carries this social impact and sustainability with mission.
+Open government that is the main mandate. Reporting, also the youth council, which is like an open government, especially for young people and social enterprise, which is mostly around young people and startups, but also carries this social impact and sustainability with mission.
 
 ### Audrey Tang:
 However, open government is the main one.

@@ -97,7 +97,7 @@ It’s not just me. It’s a whole generation of people who occupied the parliam
 The process they were demonstrating is what we’d call a scalable listening process. The government, of course, is very good at using radio or television to talk to millions of people, but it’s less good at listening to millions of people. It’s especially not good at getting millions of people to listen to each other.
 
 ### Audrey Tang:
-The later of two categories of technologies, the listening and deliberation, respectively, technology are the ones that are often missing during a policymaking process. Instead, we have the parliament doing a smaller scale of this kind of debate.
+The latter of two categories of technologies, the listening and deliberation, respectively, technology are the ones that are often missing during a policymaking process. Instead, we have the parliament doing a smaller scale of this kind of debate.
 
 ### Audrey Tang:
 We can never be sure that the MPs are reflecting correctly the people who elected them. Many of them do, and do very successfully, but there is no systematic way to guarantee that the imagined ideas between the two voting election cycles are reflected properly into the policymaking process.
@@ -546,7 +546,7 @@ Of technology, yeah.
 I think of this generation of, say, machine learning or other advanced technologies. When you talk about policing, of course people think about AI now, because that’s the technology that needs policing, if there’s any technology that needs policing. I just use it as an example, but it applies to other technologies as well.
 
 ### Audrey Tang:
-I think of AI as like the invention of fire. When human beings invented fire, we took something that is internal to our body, which is the digestion of proteins and other molecules into smaller molecules, it’s like a slow-burning process. When the people were hunters or gathers, we’re digesting.
+I think of AI as like the invention of fire. When human beings invented fire, we took something that is internal to our body, which is the digestion of proteins and other molecules into smaller molecules, it’s like a slow-burning process. When the people were hunters or gatherers, we’re digesting.
 
 ### Audrey Tang:
 The thing is that our body can only burn things very slowly and not very efficiently. The things beyond that which could be eaten is left to rot or can’t really be processed efficiently to last for a long time.

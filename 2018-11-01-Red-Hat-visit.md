@@ -318,7 +318,7 @@ There’s another initiative that you are working which is called SPDX, which is
 > (laughter)
 
 ### Audrey Tang:
-...but a mess for everybody else. We also adopted the manifest as our procurement standard. Now, if any vendor working on any project says, &quot;We can only produce something that’s human-readable, but not open API,&quot; or if they say, &quot;We would like to use some proprietary software because AGPL or GPO is antithetical to our procurement strategy,&quot; and so on.
+...but a mess for everybody else. We also adopted the manifest as our procurement standard. Now, if any vendor working on any project says, &quot;We can only produce something that’s human-readable, but not open API,&quot; or if they say, &quot;We would like to use some proprietary software because AGPL or GPL is antithetical to our procurement strategy,&quot; and so on.
 
 ### Audrey Tang:
 The procuring agency, actually, we have specific wording that says they’re now disqualified because they’re not being professional. At zero or very little cost, implement Open API and declare the open source manifest is considered as part of professionalism criteria in procurement.
@@ -327,7 +327,7 @@ The procuring agency, actually, we have specific wording that says they’re now
 That’s amazing.
 
 ### Audrey Tang:
-That’s the extent \[laughs\] of my work towards...In education, of course, we’re promoting open source by default. If they graduate and choose to join proprietary software, that’s their choice, but in basic education, essentially, if people learn something and the vendor goes away are they change their mind, it is, of course, not a good idea for anybody.
+That’s the extent \[laughs\] of my work towards...In education, of course, we’re promoting open source by default. If they graduate and choose to join proprietary software, that’s their choice, but in basic education, essentially, if people learn something and the vendor goes away or they change their mind, it is, of course, not a good idea for anybody.
 
 ### Audrey Tang:
 We roll out TensorFlow, Raspberry Pi, or whatever equipments instead of proprietary solutions. We task each school to develop their own what we call the digital awareness and media literacy education materials based on free software ideas.
@@ -369,7 +369,7 @@ Anyone can use the platform. Anyone with a g0v.tw email address can upload their
 It’s almost a marketplace as well.
 
 ### Audrey Tang:
-Sandstorm stands for sandbox, right? \[laughs\] We asked our top-notch cybersecurity white hats -- they’re second place at Defcon or something -- to attack this entirely open source, container-based system. For half a year, they filed three minor CBEs. That’s like medals for them. The presidents meet them, and they’re paid very well.
+Sandstorm stands for sandbox, right? \[laughs\] We asked our top-notch cybersecurity white hats -- they’re second place at Defcon or something -- to attack this entirely open source, container-based system. For half a year, they filed three minor CVEs. That’s like medals for them. The presidents meet them, and they’re paid very well.
 
 ### Audrey Tang:
 In any case, they declared that this is the most secure container-based platform that they found so far. After that, we allow all the public service to write apps. There’s apps that order lunch box together or something. That’s also a very \[laughs\] simple thing, but because of the sandbox thing, the single sign-on, and things, they can just upload to the thing and just run it.
@@ -392,7 +392,7 @@ It’s called EtherCalc.
 That’s your evening job.
 
 ### Audrey Tang:
-That’s my evening job. If we see a new open source innovation that’s really good, like there’s a Taiwanese start-up called HackMD that does a WYSIWYG markdown editor that’s collaborative and that supports UML, Gant charts, and all sort of nice interactive features.
+That’s my evening job. If we see a new open source innovation that’s really good, like there’s a Taiwanese start-up called HackMD that does a WYSIWYG markdown editor that’s collaborative and that supports UML, Gantt charts, and all sort of nice interactive features.
 
 ### Audrey Tang:
 We think it’s better than Etherpad, and so we work with them and incorporate that into the Sandstorm platform so that we don’t have to maintain two branches going forward. We’re doing this in a way...

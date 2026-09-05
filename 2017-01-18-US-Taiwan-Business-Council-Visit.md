@@ -192,7 +192,7 @@ That’s before I went into a cabinet. I’ve been facilitating this kind of pet
 I think there was just one response, yeah.
 
 ### Audrey Tang:
-But for some other ministries, The Ministry of Health and Welfare, there’s an initial kickoff meeting about seven days after the proposal went through to make sure we know what the petition is asking for, and then a lot of kick‑off meetings but internally. There was outside experts and those were made public.
+But for some other ministries, the Ministry of Health and Welfare, there’s an initial kickoff meeting about seven days after the proposal went through to make sure we know what the petition is asking for, and then a lot of kick‑off meetings but internally. There was outside experts and those were made public.
 
 ### Audrey Tang:
 At least the transcript is made public and then on the 15 days, they release the infographics to explain the issue to general public. Then at 45 days, they had the initial statement and things like these. It’s every two weeks and on the third day, they announce the timetable, saying that we will do this every two weeks and so on.
@@ -266,7 +266,7 @@ Finally, this is the regional part which is the demo, or the initial deregulatio
 I think, this is pretty comprehensive obviously. For the first year, this planning center the ASVDA is on the planning stage. What it does is that it looks at automated streaks at all the regional governments, and find which existing projects align with these visions.
 
 ### Audrey Tang:
-On the next budget cycle, it will then create new ministerial projects that didn’t exist but is necessary for this vision to happen. As well as advice the administration to maybe cut some budgets for the things that clearly doesn’t align. That’s going to be their project. They always say that here, as far as I’m concerned.
+On the next budget cycle, it will then create new ministerial projects that didn’t exist but is necessary for this vision to happen. As well as advise the administration to maybe cut some budgets for the things that clearly doesn’t align. That’s going to be their project. They always say that here, as far as I’m concerned.
 
 ### Vicki Cheng:
 How is the agent in the US going to help with your effort in Taiwan? Because I think I’ve read something on President Tsai’s Facebook.
@@ -348,7 +348,7 @@ I think, the areas we are thinking about in the PayPal’s sync in terms of fint
 That’s a lot of what will help make payments reduce the friction, and make it more seamless. A great example actually is Uber, where we power the payments underneath the Uber experience.
 
 ### David Katz:
-One of the things that I think people who come to Uber, I’ll use this as an example, that they find really satisfying as a customer is that experience where you order your car, you get in it. You take you ride, you get out, and you don’t stop to pay. It’s automatic. It happens. It’s seamless. People who get used to it then take a taxi at one point, and they try and walk out without paying because they get so used to that.
+One of the things that I think people who come to Uber, I’ll use this as an example, that they find really satisfying as a customer is that experience where you order your car, you get in it. You take your ride, you get out, and you don’t stop to pay. It’s automatic. It happens. It’s seamless. People who get used to it then take a taxi at one point, and they try and walk out without paying because they get so used to that.
 
 ### David Katz:
 We see a lot of opportunity to reduce that friction to put in the background. A lot of other technologies that payments can be integrated in a way that could be more facilitate that development. Good examples would be contextual commerce, where you’re seeing that, people who are in websites.
@@ -387,7 +387,7 @@ I think, it’s also the whole issue around trust of the data, both your payment
 You need systems that are dynamic enough to say, &quot;Wait a second. RT doesn’t behave this way. That’s not right. I’m going to stop this.&quot; It creates some friction, but it’s for a good reason because instead of the normal place where you might pick up your latte or whatever it is, suddenly you’re across town and you’re trying to buy sports equipment. That just doesn’t match what your behavior is.
 
 ### David Katz:
-I think, having that dynamic capability is very important, I’d add. There’s also a lot of development in the PDP space where I think that’s an opportunity also, as you think about the sandbox. We see this in the United States certainly.
+I think, having that dynamic capability is very important, I’d add. There’s also a lot of development in the P2P space where I think that’s an opportunity also, as you think about the sandbox. We see this in the United States certainly.
 
 ### David Katz:
 One of our most popular products in the area is a product called Venmo, which last year or the year before was the third most downloaded app in the US. It’s incredibly popular with millennials. I’m sure there are products like this developing here in your country, but it’s something that we think we got a lot of expertise in helping make movement of cash cashless.
@@ -492,7 +492,7 @@ I want to echo David’s earlier point about his example on KYC. I just thinking
 I’m sure for our case, I think one interesting thing is that we are developing telematics technology, where we are able to have dynamic feedback about drivers’ behavior, which could potentially be more credible than your preferential driver’s license that you’ve applied 10 years ago.
 
 ### Vicki Cheng:
-Are you respective to these new ways to looking into where to get the credibility of a certain person’s skill sets? How are you seeing that as a relationship with the current regulatory environment in Taiwan?
+Are you receptive to these new ways to looking into where to get the credibility of a certain person’s skill sets? How are you seeing that as a relationship with the current regulatory environment in Taiwan?
 
 ### Audrey Tang:
 I did not work with the Apple car team \[laughs\]. It was one of the motivations for sure, because then, it’s just like your family. It’s a symbiotic relationship with you, and it becomes an extension of you, by it I mean the car. As a rule maker, this is very difficult to reconcile with any kind of regulatory mechanism that’s based on supervision.
@@ -573,7 +573,7 @@ Mayor Cheng is very open minded. I’m sure that he’s not opposed to other pla
 By opening up the pilot sites to selected other cities instead of Taiwan, that also gives Taiwan a lot of...Because frankly speaking, Taiwan’s IT budget before the Asia SV plan does not compare to Taipei’s or Kaohsiung’s.
 
 ### Audrey Tang:
-If Taipei, or Kaohsiung, or Taitung, or Tainan has something that’s already proven using their existing IT budget, then it’s better for Taiwan, because then they can scale it, being a relatively less populace area, or things like that. I’m sure it’s pretty big for them also.
+If Taipei, or Kaohsiung, or Taitung, or Tainan has something that’s already proven using their existing IT budget, then it’s better for Taiwan, because then they can scale it, being a relatively less populous area, or things like that. I’m sure it’s pretty big for them also.
 
 ### William Morin:
 You’re really groundbreaking here. Any other points or comments to make? You’ve been very generous with your time.
