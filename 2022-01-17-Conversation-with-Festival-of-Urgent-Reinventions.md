@@ -13,7 +13,7 @@ Hello. Good local time.
 Well, I would love for us to, if this is OK with you. I am Rachel, pronouns she/her. I am working with the Instrument team and The Great Foundation on this event. Jack, do you want to introduce yourself, maybe?
 
 ### Jack De Caluwe:
-Yeah. My name is Jack De Caluwe. Pronouns he/him. Work at Instrument. Creative Director on the team. Been a part of the foundation origins of The Festival Urgent Reinventions. Your name Audrey was from day one. We thought about the event. It was part of our wish lists of people we wanted to have in our lineup. Really honored to be on this call with you.
+Yeah. My name is Jack De Caluwe. Pronouns he/him. Work at Instrument. Creative Director on the team. Been a part of the foundation origins of The Festival of Urgent Reinventions. Your name Audrey was from day one. We thought about the event. It was part of our wish lists of people we wanted to have in our lineup. Really honored to be on this call with you.
 
 ### Rachel Coddington:
 Absolutely. Do anyone else want to make any intros? I think we all know everyone else, but if you wanted to...
@@ -59,7 +59,7 @@ The idea was to connect these thought leaders, these change makers, with young, 
 Blew us away. We had four winners come out of it. The format worked. That got us on a path towards year two, which is where we are now and thinking about, what's the lineup? Where are those urgent problems that we can help rally ideas around. That's where we landed with you as one of the people and the groups we're excited about.
 
 ### Rachel Coddington:
-I can give you a little lay of the land for what our other speakers look like this year, and then that way you can have some context. I know one of the things you're passionate about is misinformation. One of the speakers we have is Jessica Malaty Rivera and she's a science communicator, who fights miss and disinformation frequently, epidemiologist.
+I can give you a little lay of the land for what our other speakers look like this year, and then that way you can have some context. I know one of the things you're passionate about is misinformation. One of the speakers we have is Jessica Malaty Rivera and she's a science communicator, who fights mis- and disinformation frequently, epidemiologist.
 
 One of our briefs will be about that, one of our talks. We also have Olatunde Sobomehin, he does work in impoverished communities of color to bring tech awareness to them, to create leaders within those communities. Not just bringing laptops to underprivileged schools, but to actually foster talent inside those communities.
 

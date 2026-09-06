@@ -76,7 +76,7 @@ It also seems big platforms externalize harm. Thoughts on corporate responsibili
 
 ### Audrey Tang:
 
-Sometimes itis less than zero — they profit from harm (e.g., scam ads). Our response is to ensure bridging context appears quickly.
+Sometimes it is less than zero — they profit from harm (e.g., scam ads). Our response is to ensure bridging context appears quickly.
 
 A critique of Community Notes is that it is too slow because it relies on human juries. So Taiwan’s g0v community built locally tuned open models that draft first‑pass context within seconds. See Cofacts for a live dashboard of viral memes with immediate, editable context.
 

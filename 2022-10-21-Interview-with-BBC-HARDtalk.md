@@ -3,7 +3,7 @@
 ### Zeinab Badawi:
 Welcome to this special edition of "HARDtalk" with me, Zeinab Badawi, from the Taiwanese capital, Taipei. People here in Taiwan which is self-governed live under a constant threat from China which lies about 160 kilometers across the waters.
 
-Beijing claims Taiwan is part of its territory and in the past few months has carried out hundreds of military sources near Taiwan leading to speculation that it is preparing for an invasion. Taiwan has also been subjected to cyberattacks from China. My guest is the Taiwanese digital minister, Audrey Tang. Can Taiwan really forge its own path?
+Beijing claims Taiwan is part of its territory and in the past few months has carried out hundreds of military sorties near Taiwan leading to speculation that it is preparing for an invasion. Taiwan has also been subjected to cyberattacks from China. My guest is the Taiwanese digital minister, Audrey Tang. Can Taiwan really forge its own path?
 
 Minister Audrey Tang in Taipei, welcome to HARDtalk.
 

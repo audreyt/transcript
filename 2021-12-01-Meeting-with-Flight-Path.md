@@ -75,7 +75,7 @@ We have meetings with them coming up at the end of the year, and we've also been
 OK. What you're saying is that the CTOT, the Canadian Trade Office in Taiwan, have not yet determined their strategy in engaging with you and helping your course. That is what I'm hearing.
 
 ### Cassandra Brennan:
-Yeah, we've even been in touch with the people in Canada Chamber of Commerce and the College if Immigration and Citizenship Consulants to get a letter to support because Canada has as of the 23rd of November changed governing bodies. Instead of calling it the ICCRC, now we are called the CICC, and that gives them legal right to pursue illegal agencies.
+Yeah, we've even been in touch with the people in Canada Chamber of Commerce and the College of Immigration and Citizenship Consultants to get a letter to support because Canada has as of the 23rd of November changed governing bodies. Instead of calling it the ICCRC, now we are called the CICC, and that gives them legal right to pursue illegal agencies.
 
 Prior to the 23rd of November, there was no money, but the government has given them $448 million to start pursuing illegal companies. I've done quite a few cold calls. For example, a sponsorship of a family of two for me to do is around NT $100,000, and they are charging around 600,000. They are not educated as to how the process works.
 
@@ -159,7 +159,7 @@ All the grants, investments, incubation-related offers by the local municipal an
 From what I heard, just to check my understanding, you're doing essentially what we call here 遊學留學 educational consultants. That's the trade you're in?
 
 ### Cassandra Brennan:
-No. We would working in immigration. What I do as an RCIc is handle all of the student visas applications to ensure they are complete, giving them the best chance for a successful results. Their schools will direct them to the education advisors or maybe the schools we work with.
+No. We would working in immigration. What I do as an RCIC is handle all of the student visas applications to ensure they are complete, giving them the best chance for a successful results. Their schools will direct them to the education advisors or maybe the schools we work with.
 
 We work with the entire districts of public schools in Canada. All of our districts have homestay programs. The kids would not be staying in dormitories, they would be living with parents and families of kids that go in that district. They would be able to experience what it's like to live in Canada.
 
@@ -209,7 +209,7 @@ OK. Stacy noticed that we would have to provide the accountant with the paperwor
 I think it's lowered now. You even just have one person with NT $100,000 or something like that. That would also work. It could also be a trivial amount of money.
 
 ### Cassandra Brennan:
-We will contact the ministry of interior to dicuss as how to proceed with our registration.
+We will contact the ministry of interior to discuss as how to proceed with our registration.
 
 Stacy is actually one of the very first people I met when I landed on this island. We were teaching together back in Changhua in 2008. I've begged her to come on board with us, and I'm happy she's accepted it. She has some ideas as to how she can help us with that basic starting point.
 
@@ -308,7 +308,7 @@ Canada is a very safe place, carrying a gun is not allowed.
 It's a much more similar environment for them as a Taiwanese kid, and it's also safer, so the parents wouldn't worry too much, compared to a lot of these other countries. It's much more enjoyable for both the parents and the students.
 
 ### Cassandra Brennan:
-Yes, especially because the price for an education, as an international student, it's around 56,000 for let's say, an engineering degree and that's the price for the entire four years. The price of a semester for a local American citizen at university is around 50,000 dollars so I can only imagine for an interantional student, meaning cmopared to America, where you get only a semester, there's far more affordable investment for parents. Canada is high recognized for its quality of education.
+Yes, especially because the price for an education, as an international student, it's around 56,000 for let's say, an engineering degree and that's the price for the entire four years. The price of a semester for a local American citizen at university is around 50,000 dollars so I can only imagine for an international student, meaning compared to America, where you get only a semester, there's far more affordable investment for parents. Canada is highly recognized for its quality of education.
 
 What we are trying to do, is also offer the government our idea and use the grants that are available for children grade 7-12, giving them a chance to study in some of the top destinations for education in Canada. Taiwan also has a tax treaty for businesses that operate in both Canada and Taiwan.
 

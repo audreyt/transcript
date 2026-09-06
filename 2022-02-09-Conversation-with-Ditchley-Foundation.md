@@ -105,7 +105,7 @@ Yes. Emerson, please jump in if you have views on that, but I think this is doab
 If it wouldn't be too much of an ask to, at some point, have you involved in some shorter discussion or a more focused one, this would be excellent, or deliver opening remarks or closing remarks?
 
 ### Audrey Tang:
-Sure. As I mentioned, my working hours are weekdays, 7:00 to 7:00, Taipei time. Within that, in one hour segments, we can always talk about that. Also, because starting around a couple of weeks from now until May ish, it's our parliamentary interpolation. Practically, that's my busiest month. It's unlikely that I can submit...
+Sure. As I mentioned, my working hours are weekdays, 7:00 to 7:00, Taipei time. Within that, in one hour segments, we can always talk about that. Also, because starting around a couple of weeks from now until May ish, it's our parliamentary interpellation. Practically, that's my busiest month. It's unlikely that I can submit...
 
 ### Audrey Tang:
 I'm happy to keep up on the updates, and so on. Maybe the next step would be for you to outline the kind of in person participation, that if I'm in London, you would like to invite me over to.
@@ -221,7 +221,7 @@ For example, when South Korea implemented in their pharmacies, in March 2020, th
 
 One of the first visualization of medical grade masks in Seoul was actually from Tainan. The developer speaks no Korean, but he speaks JavaScript. That's sufficient. It requires, in pandemic times, a discretionary procurements process, and it depends on a really good OpenAPI fabric that both South Korea and Taiwan have.
 
-With the common urgency, then it became very easy to connect together. A simple story maybe told about the Taiwanese team of detecting water leakage in pipes and they went to Lightning Lab in Wellington, to work with New Zeeland because it became more urgency and so on.
+With the common urgency, then it became very easy to connect together. A simple story maybe told about the Taiwanese team of detecting water leakage in pipes and they went to Lightning Lab in Wellington, to work with New Zealand because it became more urgency and so on.
 
 ### Emerson Csorba:
 The point is that only because of the urgency that is caused, for instance by the pandemic, the countries were really able to work together and maybe banned the procurement processes?
@@ -307,7 +307,7 @@ The great thing there is that it's a natural augmentation of the parliamentary r
 
 They can also be run almost natural semi automatically using policies and maybe other technologies that do a weekly survey where people respond to each other's sentiments without a reply button. Trolls don't control.
 
-We crowd source, not the decision, the agenda. It replace a lighter engagement. It's literally a couple of minutes of your time. Of course, they can always commit more time. It feels like a latter of participation that have gratification along the way, instead of a national referendum on the EU UK relationship.
+We crowd source, not the decision, the agenda. It replace a lighter engagement. It's literally a couple of minutes of your time. Of course, they can always commit more time. It feels like a ladder of participation that have gratification along the way, instead of a national referendum on the EU UK relationship.
 
 ### Maciej Kuziemski:
 It's all the way to the top. I like that ladder of participation. Assuming that people can commit different amounts of time and resources. There are ways to engage for them, no matter their amount of time and an interest. Is this something that you consistently apply across the board, or do you use it only...?

@@ -74,7 +74,7 @@ Yeah, definitely. There was a time when the MP Kao Hung-an, Ann Kao, she served 
 She cited the numbers from the geoBingAn mask map, another OpenStreetMap based idea of mask availability, and showed the difference between what looks like fair is actually only measured by physical distance, but if you take into the account that people have to spend on public transport, the picture looks very different.
 
 ### Audrey Tang:
-She require adjustment for the Minister Chen Shih chung, the Minster for Health and Welfare. Instead of defending the existing policy, Minister Chen just said, “OK, legislator. Please teach us,” and then we revised it, co creating with the community the very next day.
+She require adjustment for the Minister Chen Shih chung, the Minister for Health and Welfare. Instead of defending the existing policy, Minister Chen just said, “OK, legislator. Please teach us,” and then we revised it, co creating with the community the very next day.
 
 > (interviewer speaks)
 

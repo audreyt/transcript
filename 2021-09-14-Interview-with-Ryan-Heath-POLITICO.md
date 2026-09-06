@@ -212,7 +212,7 @@ My point is that it's about changing the practice of memorizing what's there in 
 I jump all over the place here but I read that you're a fan of self-learning as well, and I feel like that's a close cousin to what you're talking about. Not just co-creating, or learning through creation instead of just receiving the material.
 
 ### Audrey Tang:
-Yes, and that's really how I learnt. After dropping out of the second year of middle high, when I was 14 years old, I found this Internet community. Indeed, the very beginning of the World Wide Web was the preprint servers, the comprehensive PERLE archive network of W3C, of IEPF, of these fiercely non-centralized organizations that are organized with this principle of end-to-end innovation.
+Yes, and that's really how I learnt. After dropping out of the second year of middle high, when I was 14 years old, I found this Internet community. Indeed, the very beginning of the World Wide Web was the preprint servers, the Comprehensive Perl Archive Network of W3C, of IEPF, of these fiercely non-centralized organizations that are organized with this principle of end-to-end innovation.
 
 I believe that corresponds real well with the self-learning, or learning through doing, because end-to-end innovation means that nobody need to get permission from the authority, from the author of the Internet, before inventing anything new. You can go ahead and invent a lot of new things without getting anyone's permission but somebody else around the world that want to try it out with you.
 

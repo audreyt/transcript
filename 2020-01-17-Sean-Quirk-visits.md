@@ -28,7 +28,7 @@ The Presidential Hackathon. I can send you the transcripts that describe this. I
 The best five ideas, every year, are co-created across three sectors. The five team receive a trophy from the president, which is a micro-projector that, when turned on, summons the president. The president shows her promise to implement whatever they have done in the past 3 months within the next 12 months into national policy.
 
 ### Audrey Tang:
-It’s the binding power as a trophy to the Presidential Hackathon. We also have the international track. The winners last year where Malaysia and Honduras.
+It’s the binding power as a trophy to the Presidential Hackathon. We also have the international track. The winners last year were Malaysia and Honduras.
 
 ### Sean Quirk:
 That’s awesome. I saw a YouTube about it. That’s great. Another question. Whether it’s an actor or a specific cyber threat, what do you think is the biggest concern for Taiwan’s democracy? What do you think is the biggest threat?
@@ -225,7 +225,7 @@ I’m just quoting from their press release saying that they’re working with t
 They also understand that this bill is a first version, version one. They are also open to the possibility of version two or other complementary laws and regulations from other participating ministries. They will do so in a transparent fashion. They will make sure people see actual cases and how to tell what are infiltration in, what are not.
 
 ### Audrey Tang:
-Finally, they will work with the head COA to setup a service window also for telling these people currently working or living within the patency territory, so that they can get the most frequently ask questions clarified quickly. That’s what the administration has been doing.
+Finally, they will work with the head COA to setup a service window also for telling these people currently working or living within the patency territory, so that they can get the most frequently asked questions clarified quickly. That’s what the administration has been doing.
 
 ### Sean Quirk:
 Do you think it’s an effective step forward, rather than something from the private sector? The US rhetoric is whether Silicon Valley can help solve some of these problems on their own. The Zuckerberg testimony in our Congress saying that Facebook was taking practical measures. There’s a pretty strong debate right now about how much we can rely on the private sector to do this and how much relies on government action.
@@ -237,13 +237,13 @@ Of course, there’s a heavy dose of skepticism whether the private sector will 
 Is this step–the Act–kind of a step that says the government, the legislature, has to take action and they can’t rely on the tech sector, or not necessarily?
 
 ### Audrey Tang:
-We’re a bit ahead though. While you’re still debating the honest advertisement, \[laughs\] I think. We’ve already passed a law two years ago, to publish campaign finance and expense, as well as data, for independence analysis by investigative journalism so we have a pretty strong norm of complete transparency when it comes to election.
+We’re a bit ahead though. While you’re still debating the honest advertisement, \[laughs\] I think. We’ve already passed a law two years ago, to publish campaign finance and expense, as well as data, for independent analysis by investigative journalism so we have a pretty strong norm of complete transparency when it comes to election.
 
 ### Audrey Tang:
 What we have done is to point at these norms established by the social sector and sent to Facebook, Google and friends, “Since you have signed on the self-regulation package for recovering this information, you have two choices.
 
 ### Audrey Tang:
-“You either conform to the social norm around campaign donation and treat all your advertisements, social or political dream election session as campaign donation published in real time, in a structural data, that contains as many fields as least as the contributor fields because these are come in expenses or you refrain from running them. Your choice.”
+“You either conform to the social norm around campaign donation and treat all your advertisements, social or political dream election session as campaign donation published in real time, in a structural data, that contains as many fields at least as the contributor fields because these are come in expenses or you refrain from running them. Your choice.”
 
 ### Audrey Tang:
 It’s not even a law. It’s just a social sector norm. Instead of facing social sanction, they ought to choose either – like Facebook – to publish the Ads Library for the social sector to analyze in real time. Or like Google who referred from running political out skill in an election.
@@ -291,7 +291,7 @@ The definition that they cited for “intentional harmful untruth” would poten
 Which is why they signed on this self-regulatory norm package. That is to say they agree to conform to their definition of intentional harmful untruth. They listed the actions they’re willing to take to do it.
 
 ### Audrey Tang:
-Take down is not what we’re after, because take down is not useful in generally speaking variation is so easily propagated. Take that individually, we will overwhelm the court. It’s just the fact of the life, it’s far better for the likely virility to be bow down.
+Take down is not what we’re after, because take down is not useful in generally speaking variation is so easily propagated. Take that individually, we will overwhelm the court. It’s just the fact of the life, it’s far better for the likely virality to be bow down.
 
 ### Audrey Tang:
 If Facebook recommended it, it’s like spam. We’re not taking down spam. We’re moving it to the spam folder. That’s one thing. Or, doubts. Whenever they see the information, they also see a short disclaimer that says NCC have fact checked this and this and it’s false actually. Click here to learn more.

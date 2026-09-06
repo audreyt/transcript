@@ -93,7 +93,7 @@ And that's really helped legitimizing the use of quadratic funding because we've
 
 And so, thanks to that experiment, we've been scaling up -- and out, and deep -- the quadratic funding in terms of, for example, the public innovation is entirely structured with the three leading crowdfunding sites in Taiwan to participate in quadratic funding.
 
-So, as part of that plan, we work with the three leading crowdfunding sites. And there are others. So that they can form their API to prevent civil attacks and so on. The basic infrastructure needed to get quadratic funding to work and eventually morph into plural funding, which takes care of intersectionality.
+So, as part of that plan, we work with the three leading crowdfunding sites. And there are others. So that they can form their API to prevent Sybil attacks and so on. The basic infrastructure needed to get quadratic funding to work and eventually morph into plural funding, which takes care of intersectionality.
 
 So, I think we've got the infrastructure here. So, if you're interested in building on top of that infrastructure, I'm very interested.
 
@@ -712,7 +712,7 @@ I think that's the route we're going. So, maybe we will forever be in phase zero
 That's good. Exciting as well.
 
 ### Barry Whitehat:
-I'm concerned about the civil resistance. If we do a quadratic funding round and you're able to sign in with a Gmail or something, that could be... You can buy a Gmail account.
+I'm concerned about the Sybil resistance. If we do a quadratic funding round and you're able to sign in with a Gmail or something, that could be... You can buy a Gmail account.
 
 ### Phini Yang:
 Right. You can have several...

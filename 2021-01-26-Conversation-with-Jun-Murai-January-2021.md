@@ -147,7 +147,7 @@ Any game community like the id Software like Doom, Quake, they are both a compan
 > (Jun speaks)
 
 ### Audrey Tang：
-Not at the moment. Our Privacy Act takes a blacklist approach. That is to say, unless we blacklist certain brands as detrimental to national security. Otherwise, other brands and other localizations can compute on their own facility outside of the boarder without having to compute within the boarder.
+Not at the moment. Our Privacy Act takes a blacklist approach. That is to say, unless we blacklist certain brands as detrimental to national security. Otherwise, other brands and other localizations can compute on their own facility outside of the border without having to compute within the border.
 
 ### Audrey Tang：
 For very private data, we would need then to use homomorphic encryption, which is a new mathematical device, so that we can decouple privacy with computation. I can send an encrypted text for Amazon to calculate, but Amazon do not have access to the raw data. They compute, they send the result back, I decrypt.

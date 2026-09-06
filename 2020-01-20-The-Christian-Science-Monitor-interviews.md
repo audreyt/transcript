@@ -10,7 +10,7 @@ The press conference of the launch of this year’s Presidential Hackathon is in
 Fantastic. You’re well prepared to speak about that. How is it going? What is working well? What would you consider some of the stronger accomplishments of it, to date? Then, where do you hope to expand maybe in the coming year?
 
 ### Audrey Tang:
-The Presidential Hackathon, now in its third year, is similar to efforts like the Protype Fund in Germany or many of those grant challenges in the US, in that it basically looks at a structural issue.
+The Presidential Hackathon, now in its third year, is similar to efforts like the Prototype Fund in Germany or many of those grant challenges in the US, in that it basically looks at a structural issue.
 
 ### Audrey Tang:
 For example, things about climate change, that’s a favorite subject now. Not only climate change, but also all the different agric, environmental, sea debris and all of these environmental challenges that we’re facing in the Taiwanese islands.

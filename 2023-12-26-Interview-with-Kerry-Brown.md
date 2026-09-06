@@ -134,7 +134,7 @@ Well, maybe because I meet people who are here for extended amount of time, beca
 
 Indeed, during the pandemic, many of my Silicon Valley friends are in Taiwan, thanks to the Gold Card program. So I think, although many of them joined from zero times, let's call it that, as soon as they land in Taiwan, they feel that this transcultural friendliness, I think it's very hard to miss as long as you start spending even a week in Taiwan. And I think Taiwan really is home to many, many traditions and including new traditions.
 
-For example, the bubble tea is a tradition that started from Taiwan. We've got many people who are in Taiwan for the pride parade for marriage equality, LGBTIQA+ cultures. We've got people, Maori people and other Australian people who consider Taiwan their [primeval home](https://soundcloud.com/yesandera/i-dreamt-of-an-island-nation) of the Australian Indigenous nations and so on.
+For example, the bubble tea is a tradition that started from Taiwan. We've got many people who are in Taiwan for the pride parade for marriage equality, LGBTIQA+ cultures. We've got people, Maori people and other Austronesian people who consider Taiwan their [primeval home](https://soundcloud.com/yesandera/i-dreamt-of-an-island-nation) of the Austronesian Indigenous nations and so on.
 
 So I think maybe it's because of the kind of people I meet, but many people cherish the cultural traditions either started from Taiwan or significantly blended in Taiwan, like Boba — bubble tea. And then they want to also spread that idea of collaborative diversity in their original ethnicities or their original countries.
 

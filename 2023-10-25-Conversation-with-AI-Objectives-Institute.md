@@ -135,7 +135,7 @@ You can't just ask what is the likelihood. You can get the likelihood of what th
 But I'm just going to reel back. So the video is a backstory.
 
 ### Ke Wei-Jan:
-Actually, they can return the likelihood? because they are generating model inside. They have a probability. They are sub-max distribution.
+Actually, they can return the likelihood? because they are generating model inside. They have a probability. They are softmax distribution.
 
 ### Vehbi Deger Turan:
 They don't give it to the public.
@@ -320,7 +320,7 @@ That's fine. If you don't yet require speaker identification, I'm sure that just
 I think that makes sense.
 
 ### Audrey Tang:
-Just existing SRT, right? API that you can do a YT-GLP download to obtain.
+Just existing SRT, right? API that you can do a yt-dlp download to obtain.
 
 ### Vehbi Deger Turan:
 My partner actually has a startup that works on speaker identification. I have talked about this with him a lot. What next comes to your mind?
@@ -406,7 +406,7 @@ The ideal flow, in my opinion, would be we can have a separate repo that is resp
 And in that repo, there will be a lot of AI driven bridging, etc. Because there is a lot of work to be done there. I think that is still very much in research mode. Maybe a couple more years of open source model will make that trivial. We're not there just yet. So my suggestion is we can have a repo that explores that as a research experience.
 
 ### Audrey Tang:
-Yeah, Cilia Tamarin core is Cilia Tamarin Extras. So in the Cilia Tamarin repo, there's any number of plugins that as you chat to those AI chatbots, it draws illustrations, do real-time summarization, and none of which work very well. Which is why it's called Extras. So the devs can focus on core functionality.
+Yeah, SillyTavern core is SillyTavern Extras. So in the SillyTavern repo, there's any number of plugins that as you chat to those AI chatbots, it draws illustrations, do real-time summarization, and none of which work very well. Which is why it's called Extras. So the devs can focus on core functionality.
 
 ### Vehbi Deger Turan:
 I actually like that model. So separate repo for talk plus features. Because I am very interested in playing with those features, but they are not necessary. In fact, it's likely a turnoff if it is very priority. Because if you say I don't trust the AI to talk to it to get a conclusion, that shouldn't be an issue. Anything else that comes to your mind that you would say this would be good to have?
@@ -461,7 +461,7 @@ Exactly. He doesn't scale.
 Yeah.
 
 ### Audrey Tang:
-Actually, colin has an issue that lists how he thinks. I don't know whether you've seen it. I'll just paste it somewhere. And a lot of this, like 80% of this, is actually capturing the Michigan facilitation conversation. We really want to help fund developments to work that very specific vision. Because as a professionally trained facility, we want to work on the Michigan facilitation.
+Actually, colin has an issue that lists how he thinks. I don't know whether you've seen it. I'll just paste it somewhere. And a lot of this, like 80% of this, is actually capturing the Michigan facilitation conversation. We really want to help fund developments to work that very specific vision. Because as a professionally trained facilitator, we want to work on the Michigan facilitation.
 
 ### Vehbi Deger Turan:
 Yeah.
@@ -698,7 +698,7 @@ That's what we do. The double diamond stuff. So you run one at an exploration, y
 I'm curious what else could we do that makes this contained in one process, in one product. I don't know what I'm looking for here. That's why I'm at a loss of words. I think this is the thing we're trying to make headway.
 
 ### Audrey Tang:
-There's a certain virtue in having well-defined artifacts at those handover points. Rather than thinking them as a single process. Because those artifacts are the cruxes that allow the civil society to have alternate visions. After the poll, we now know the breaching statements, we now know the cruxes.
+There's a certain virtue in having well-defined artifacts at those handover points. Rather than thinking them as a single process. Because those artifacts are the cruxes that allow the civil society to have alternate visions. After the poll, we now know the bridging statements, we now know the cruxes.
 
 ### Vehbi Deger Turan:
 I like that a lot.
@@ -781,7 +781,7 @@ This is like where I was. I think that's interesting. No, no, no.
 I just I didn't know if you knew or not.
 
 ### Yen-Lin Huang:
-Because when you use the YouTube video to integrate into the city, I think that is a little bit similar to the deliberated pool product from Stanford University. They can make 1000 people to chat, to have the conversation at the same time. And no human to be the facilitator to facilitate the conversation. Only the automatic tools. And they can make the analysis after the recording of the video. mAnd they can have so many videos to import into the city at the same time.
+Because when you use the YouTube video to integrate into the city, I think that is a little bit similar to the deliberated pool product from Stanford University. They can make 1000 people to chat, to have the conversation at the same time. And no human to be the facilitator to facilitate the conversation. Only the automatic tools. And they can make the analysis after the recording of the video. And they can have so many videos to import into the city at the same time.
 
 ### Vehbi Deger Turan:
 I'm curious. I haven't talked to this group much, actually.
@@ -790,7 +790,7 @@ I'm curious. I haven't talked to this group much, actually.
 I think it's another AI digital society.
 
 ### Vehbi Deger Turan:
-I haven't seen the URL at Stanford. These are my people.  All of their websites are the same. But yeah. Jim Tishkin's group is this. Deliberated democracy. Yeah, this is Tishkin.
+I haven't seen the URL at Stanford. These are my people.  All of their websites are the same. But yeah. Jim Fishkin's group is this. Deliberated democracy. Yeah, this is Fishkin.
 
 ### Yen-Lin Huang:
 Oh, yeah.
@@ -805,7 +805,7 @@ Yeah, I have a lot of thoughts. Oh, a lot of thoughts.
 I like all of them. That was one good.
 
 ### Vehbi Deger Turan:
-No, no. I think there's a. Yeah. They were very much the first movers in the landscape. Jim Tishkin himself was charted out a lot of deliberative approaches. And I think there has been some negative side effect of that to prevent other approaches to pop up. By creating a certain territory. I mean, it happens. I don't think this makes something bad. But that wall was actually quite apparent when I first came.
+No, no. I think there's a. Yeah. They were very much the first movers in the landscape. Jim Fishkin himself was charted out a lot of deliberative approaches. And I think there has been some negative side effect of that to prevent other approaches to pop up. By creating a certain territory. I mean, it happens. I don't think this makes something bad. But that wall was actually quite apparent when I first came.
 
 So I have this. When I was writing my thesis, I talked a lot with Jim. One of the things I was saying is I'm really interested in AI tooling. And this was back in 2015, 2014. And he was not very open. I'm not looking for your blessings anymore. So I am curious to hear your thoughts. But I think they have shifted.
 
@@ -858,12 +858,12 @@ That is interesting.
 Another one is to create this in a way where this directly feeds constitutional AI.
 
 ### Audrey Tang:
-The way CIP does it is still with a huge amount of unstructured text. And then increasingly automated, but not entirely automated. And frankly speaking, GPT-4 assisted, even though it's entropic, pipeline. So that it eventually arrives to the constitutional compatible recommendations, as well as recommendations that are more about deployment and therefore not part of the constitution.
+The way CIP does it is still with a huge amount of unstructured text. And then increasingly automated, but not entirely automated. And frankly speaking, GPT-4 assisted, even though it's Anthropic, pipeline. So that it eventually arrives to the constitutional compatible recommendations, as well as recommendations that are more about deployment and therefore not part of the constitution.
 
 So just being able to tell these two apart is valuable. What things can be controlled at language model level and what can only be controlled at API endpoints. And so I think if we share just the toolkits around these and say, if you're an eligible community organizer, you can run this yourself.
 
 ### Vehbi Deger Turan:
-I mean, Shagana, for example, who runs the Heal Machine group, she gathered like 200 people. She put us in touch with just 15 because we want to start somewhere. It would be very easy for her to be able to do something like this. Easy as in socially.
+I mean, Shagana, for example, who runs the Heal Michigan group, she gathered like 200 people. She put us in touch with just 15 because we want to start somewhere. It would be very easy for her to be able to do something like this. Easy as in socially.
 
 Technically, no, she's not a technical person. So it has to be like just "go to this website." So I'm thinking of her just as an example. She could really rally a lot of Detroit. I'm particularly interested in cities like Detroit that are, in America, it's like purple cities. It's not really red or blue at this point. It's just like this city has its own right.
 
@@ -893,10 +893,10 @@ Right. So that is one output that comes from here. I don't think Shaban or the p
 
 So what would be a reaction? They'd be more interested in the artifact here. And that artifact would be the topics they discussed, the summary. And how the summary became better.
 
-In that summary, I think some of the parts that we were talking about earlier on, like bridging or cracks finding or identifying, these are things we think we should double down on in our discussion next. It could also be interesting to introduce. I can envision a future for my work or our work. Next year, we will just try this back to back and collect a lot of different models. Give a model to every community.
+In that summary, I think some of the parts that we were talking about earlier on, like bridging or crux finding or identifying, these are things we think we should double down on in our discussion next. It could also be interesting to introduce. I can envision a future for my work or our work. Next year, we will just try this back to back and collect a lot of different models. Give a model to every community.
 
 ### Audrey Tang:
-One thing we discovered with our alignment assemblies is that the Taipei delivery workshop in Tainan and the Deliver workshop are very different by art. So a natural follow up is, what are the bridge making model results? If we have two models on each, are there a way for us to create a bridge maker model based on just these two models that will translate the core concerns of one city to the other so they stay on the same page and can take collective action. And if we solve that, we can have a very different model. We can imagine recursively applying it. And this is again part of the canvasing.
+One thing we discovered with our alignment assemblies is that the Taipei delivery workshop in Tainan and the Deliver workshop are very different by art. So a natural follow up is, what are the bridge making model results? If we have two models on each, are there a way for us to create a bridge maker model based on just these two models that will translate the core concerns of one city to the other so they stay on the same page and can take collective action. And if we solve that, we can have a very different model. We can imagine recursively applying it. And this is again part of the canvassing.
 
 It's great if you have your local facilitators and so on, but actually the same facilitator cannot facilitate an adversarial group. A community that's hostile to this community. But they have their own trusted facilitators too. So if they independently do this, we can actually give those bridge making narratives to both. Or even to your congress people. Saying that here are the things that you promised us, people can live with.
 
@@ -916,7 +916,7 @@ And I think Meta and Facebook is shifting toward next door space anyway. They al
 How do you think this synergizes with other work in the lab space? Like CIP and other forms? It's not really duplicates, it's different. I'm trying to understand what are ideal ways to have collaboration synergies, both with Meta and Stability. They will create more models. And other folks that are interested in this.
 
 ### Audrey Tang:
-I think CIP, with the triangle, already sees safety and progress, is already kind of marrying that, with the glitchy remarks and everything. So CIP's main strategy has always been to take this side as granted. But then saying that there are ways for participation to make evals, redshaming, everything even better. So for training participation, not as a proliferation, as a safety hazard or a progress hazard, but rather as something that adds to it.
+I think CIP, with the triangle, already sees safety and progress, is already kind of marrying that, with the glitchy remarks and everything. So CIP's main strategy has always been to take this side as granted. But then saying that there are ways for participation to make evals, red-teaming, everything even better. So for training participation, not as a proliferation, as a safety hazard or a progress hazard, but rather as something that adds to it.
 
 ### Vehbi Deger Turan:
 I think that has been my main difficult thing.

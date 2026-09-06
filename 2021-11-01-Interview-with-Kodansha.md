@@ -140,7 +140,7 @@ Uh huh. 1989.
 OK. You say that when you have a different opinion from someone else, you should try to think of things from their perspective to empathize. Is it around also eight years old that you started doing this?
 
 ### Audrey Tang:
-Yeah. I mean, you mentioned forgiveness, but forgiveness doesn't mean that I can actually see things from their prospective. It only means that I agree not to look too hot [laughs] to the situation, but no. I think by empathizing was not only the classmate that bullies me, but also his parents and so on.
+Yeah. I mean, you mentioned forgiveness, but forgiveness doesn't mean that I can actually see things from their perspective. It only means that I agree not to look too hot [laughs] to the situation, but no. I think by empathizing was not only the classmate that bullies me, but also his parents and so on.
 
 I come to a fuller understanding of how to prevent something from happening again. That would not be possible without, so to speak, taking all sides.
 
@@ -414,7 +414,7 @@ Sure, no worries. Let me just very quickly find out to you. I think it's here.
 ### Audrey Tang:
 There's also plenty from my dad, actually. I just discovered that. [laughs] The websites called memory.culture.tw. Here are the materials that I just pasted on the omnism chat. It's a slideshow of sorts, and you can download with it.
 
-The first one was when I was, I don't know, 14. That was the science fair. Then, the next one when I was, I don't know, seven or something. You can look at your ledger.
+The first one was when I was, I don't know, 14. That was the science fair. Then, the next one when I was, I don't know, seven or something. You can look at your leisure.
 
 ### Interviewer:
 Awesome. Thanks. That's really helpful.

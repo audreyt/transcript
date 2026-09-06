@@ -90,7 +90,7 @@ In 1981. I remember the martial law and the democratic transition. '87, '89 that
 > (interviewer part not recorded)
 
 ### Audrey Tang:
-I was six. My parents were both journalists. They had to sensor themselves a lot. There's only the party, the one party. They could regularly see that their journalistic ideas, opinion pieces, in Taiwan, with the help of Taiwan international correspondents in Hong Kong [laughs] and the US to push Taiwan toward democratization.
+I was six. My parents were both journalists. They had to censor themselves a lot. There's only the party, the one party. They could regularly see that their journalistic ideas, opinion pieces, in Taiwan, with the help of Taiwan international correspondents in Hong Kong [laughs] and the US to push Taiwan toward democratization.
 
 At first illegal assembly of the DPP, the Democratic Progressive Party -- the current ruling party -- was a staple in our dinner table and I was six. I remember a lot of that.
 

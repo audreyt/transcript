@@ -13,7 +13,7 @@ Do you know anything about my organization, the Eurasia Group?
 Not so much.
 
 ### Kelsey Broderick:
-It’s a consulting company. We work with businesses and help the understand politics. It’s a lot of multinational businesses, mostly American and European. I’m responsible for Taiwan, and some of mainland China.
+It’s a consulting company. We work with businesses and help them understand politics. It’s a lot of multinational businesses, mostly American and European. I’m responsible for Taiwan, and some of mainland China.
 
 ### Kelsey Broderick:
 I come here once a year to do research, to talk with people. Do you mind if I take some notes?
@@ -342,7 +342,7 @@ What kind of an impact do you think you’re having there on the cyber norms con
 I think the cyber norms conversation, we’re using Taiwan’s, for example, the way that we can counter disinformation with memetic engineering, and fun, and humor, to make sure that instead of turning helplessness and anger into outrage that spreads divisiveness online, we’re turning out these memes that highlights the disinformation without reinforcing its frame. Instead, we’re telling jokes about that.
 
 ### Audrey Tang:
-This is important because when people associate something that makes them angry with fun, with something that makes them laugh, then actually outrage as no place to spread, you just laugh about it. That’s humor works.
+This is important because when people associate something that makes them angry with fun, with something that makes them laugh, then actually outrage has no place to spread, you just laugh about it. That’s how humor works.
 
 ### Audrey Tang:
 A lot of norms around disinformation currently is being predicated on the fact that if you don’t take down, if you don’t do all sort of movement that may encroach on the civil society freedoms, it may just be unsolvable.
@@ -362,7 +362,7 @@ OK, tell me about that.
 > (laughter)
 
 ### Audrey Tang:
-There is already a Tao coin in the Orchid Island, by the Tao people. They of course is one of the indigenous nations, because of the physical distance the mainland Taiwan, the main island of Taiwan, there are building their own indigenous nation identify.
+There is already a Tao coin in the Orchid Island, by the Tao people. They of course is one of the indigenous nations, because of the physical distance the mainland Taiwan, the main island of Taiwan, there are building their own indigenous nation identity.
 
 ### Audrey Tang:
 Their issuance of the Tao coin as part of their idea of to build more solidarity across cultures. Anyone can identify with the Tao by just spending more time with them. I think that’s the strength of Taiwan’s model of FinTech sandbox, is that you don’t have to wait for a central planner in a central bank.
@@ -371,7 +371,7 @@ Their issuance of the Tao coin as part of their idea of to build more solidarity
 Anyone with an idea of how to make a digital currency can apply for one year of exemption from really any regulation from any ministry who care about and challenge them for one year. Other than, of course, funding terrorism and money laundering, because we know what would happen.
 
 ### Audrey Tang:
-Otherwise, everything else is good for experiment, \[laughs\] and so you can find a lot of experiments on the FinTech area. If they made sense, if the local people really love them, then we just make them into regulations. We’re doing that not just for FinTech, but self-driving vehicles, as well as 5G test cases, which is actually taking effect just the week.
+Otherwise, everything else is good for experiment, \[laughs\] and so you can find a lot of experiments on the FinTech area. If they made sense, if the local people really love them, then we just make them into regulations. We’re doing that not just for FinTech, but self-driving vehicles, as well as 5G test cases, which is actually taking effect just this week.
 
 ### Kelsey Broderick:
 I had a question on, very specific question on a digital healthcare.
@@ -395,7 +395,7 @@ The trophy is a micro projector, when turned on it shows the President herself h
 One of the teams last year in the Presidential Hackathon worked with the Green Island, it’s a smaller island where the local people didn’t trust the local clinic that much, so that when their family members are injured or sick, they insist on helicopters carrying them to the main island.
 
 ### Audrey Tang:
-At night, it was raining, and a helicopter crashed, everybody was like, “What’s the root cause for that?” The local nurses said the current telemedicine laws disallows the nurse to practice in medicine in the diagnostics with a remote supervision by a specialist doctor in the main island. They can only do so if they’re physically nearby. That’s impossible, right? \[laughs\]
+At night, it was raining, and a helicopter crashed, everybody was like, “What’s the root cause for that?” The local nurses said the current telemedicine laws disallows the nurse to practice medicine in the diagnostics with a remote supervision by a specialist doctor in the main island. They can only do so if they’re physically nearby. That’s impossible, right? \[laughs\]
 
 ### Audrey Tang:
 Then the regulations, for example, require a physical signature to get the healthcare copies of the records of that patient to the both systems. Actually, the third system, which is the hospital in charge of determining whether helicopter run is needed. They cannot really share the data because of the regulation that didn’t catch up on the Electronic Signature Act.

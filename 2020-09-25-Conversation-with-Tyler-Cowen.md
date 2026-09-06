@@ -121,7 +121,7 @@ Take a systemic risk system approach. Do what the Taiwanese people did in 2014, 
 We decided, eventually, that making the infrastructure components in the PRC while they’re a state subsidy looks quite lucrative. Amortized is actually a higher overall cost of ownership because you have to reassess for each upgrade whether the state have already taken over that so-called private phantom.
 
 ### Tyler Cowen:
-The US government should block TikTok, or make sure it’s solved to Oracle or Microsoft? Or what, concretely, would that mean?
+The US government should block TikTok, or make sure it’s sold to Oracle or Microsoft? Or what, concretely, would that mean?
 
 ### Audrey Tang:
 I’m saying that all of society deliberation, the style of the 2014 Sunflower, needs to happen for the society to come to a common value about these sort of things, and this is what we call data norm. Do you think it is normal for facial recognitions and such data that you are just filming yourself as singing and dancing to be aggregated to a single state, of which there’s no jurisdictional accountability of using such data? If you think it’s great, as a country, well, more powers. But if you think it’s not great, as a country, then maybe you collectively can find something to do.
@@ -217,7 +217,7 @@ Use humor over rumor.
 What does that mean, specifically?
 
 ### Audrey Tang:
-In Taiwan, whenever there’s a trending, even end-to-end encrypted channels disinformation campaign, there are people who voluntarily report that, just like flagging email as spam — dedicated not to the government, certainly, but to the social sector, with a crowdsource fact-checking mechanism called Coach facts and also the Taiwan FactCheck Center, MyGoPen and so on, part of the International Fact-Checking Network.
+In Taiwan, whenever there’s a trending, even end-to-end encrypted channels disinformation campaign, there are people who voluntarily report that, just like flagging email as spam — dedicated not to the government, certainly, but to the social sector, with a crowdsource fact-checking mechanism called Cofacts and also the Taiwan FactCheck Center, MyGoPen and so on, part of the International Fact-Checking Network.
 
 ### Audrey Tang:
 The trending rumors are met with fact-checkers almost immediately. And our ministries, who has teams of participation officers who talk to hashtags . . . The Ministry of Health and Welfare participation officer literally lives with this dog and so can meet the rumors within a couple hours, and wrote out very funny dog memes that just respond to the disinformation.
@@ -466,7 +466,7 @@ I believe no Chinese person from the mainland would have given me that answer. A
 Yes, the Taiping Rebellion, the Jesus-worshipping religion.
 
 ### Tyler Cowen:
-There’s a millenarian sense to it that’s a bit like some of tech utopianism, right? That the word should become an open place.
+There’s a millenarian sense to it that’s a bit like some of tech utopianism, right? That the world should become an open place.
 
 ### Audrey Tang:
 It was a document — I think it was Taiping Zhao Shu or something — that has a lot of tech utopianism in it, but I don’t think it’s ever put into practice. If you view it from an admiring, science-fiction-novel kind of way, I think you can definitely root for it. But I don’t think the Taiping Tianguo actually deployed what’s described in the Taiping Zhao Shu to any significant degree.

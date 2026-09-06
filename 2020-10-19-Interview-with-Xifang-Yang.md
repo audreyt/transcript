@@ -94,7 +94,7 @@ That’s right. It’s their responsibility to answer to people.
 As a government, we think that anything that we do is within our constitutional limit.
 
 ### Audrey Tang:
-If we do make, for example, new digital endeavors such as the clarification, the humor over rumor, the digital quarantine efforts and so on, we need to answer to the journalistic community and to the parliamentary interpolations, but I’m not sure that we are responsible for other government’s digital efforts, that we need to explain for them. I’m not sure that it’s our job to do so.
+If we do make, for example, new digital endeavors such as the clarification, the humor over rumor, the digital quarantine efforts and so on, we need to answer to the journalistic community and to the parliamentary interpellations, but I’m not sure that we are responsible for other government’s digital efforts, that we need to explain for them. I’m not sure that it’s our job to do so.
 
 ### Xifan Yang:
 What do you know about the resources Beijing has put in place specifically targeted at Taiwan?

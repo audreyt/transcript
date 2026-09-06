@@ -41,7 +41,7 @@ Those unique assets online that are dear to you, and it started with Bitcoin, ha
 ### Ian Rogers:
 Hey, Audrey. Great to meet you. Ian Rogers. At some point when we have more time, maybe we can talk about the history of Perl and Larry Wall. That was my weapon of choice in the early to mid '90s. I studied computer science in the early '90s. I dropped out of grad school in 1995 to go on tour with Beastie Boys, and then I just did digital music for 20 years.
 
-We had an MP3 player in the late '90s called Winamp. I ran Yahoo! Music for a period of time, did Beats Music, and then Apple Music. Then, came here to France to look after digital for LVMH in Arnault family, which is when I met Pascal. Over a lot of years, through a friendship with Pascal, l went down the rabbit hole, on crypto generally, but specifically on Ledger.
+We had an MP3 player in the late '90s called Winamp. I ran Yahoo! Music for a period of time, did Beats Music, and then Apple Music. Then, came here to France to look after digital for LVMH in Arnault family, which is when I met Pascal. Over a lot of years, through a friendship with Pascal, I went down the rabbit hole, on crypto generally, but specifically on Ledger.
 
 Realizing that to believe in Ledger, you only need to believe that we will have digital assets, and that security will be a key concern within that ecosystem. Hard not to believe those two things, and so when I had the opportunity to throw my lot in with Pascal and the team, I did. I've been here for a year now, looking after the consumer business for Pascal and Ledger.
 
@@ -90,7 +90,7 @@ They're like a shadow government that always try to improve for the better. The 
 
 I call this the reverse procurement because the state become like a vendor of a decentralized community. For example, the contact tracing tool was a prime design, the states design was pen and paper. Of course, that's insufficient, because of the variants.
 
-The civil society came up with the design of, basically, the venue owner knows what 15 entirely random digits correspond to that venue, and they post this QR code, that anyone without downloading an app, scan it with their building camera triggers an SMS that's sent to 1922, a shortcode for the central epidemic command center.
+The civil society came up with the design of, basically, the venue owner knows what 15 entirely random digits correspond to that venue, and they post this QR code, that anyone without downloading an app, scan it with their built-in camera triggers an SMS that's sent to 1922, a shortcode for the central epidemic command center.
 
 It's not stored in any aggregated fashion in any state agency, but rather within those telecom carriers, which already knows the telephone number anyway.
 

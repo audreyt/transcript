@@ -100,7 +100,7 @@ For example, in the algorithmic bias. A couple years before ProPublica had issue
 I was trying to look for something like that, where there is something that is an existing problem for these projects and would benefit from having someone with computational background and a year’s worth of research resources to tackle.
 
 ### Audrey Tang:
-You’re looking at a quiet quantitative thing?
+You’re looking at a quite quantitative thing?
 
 ### JiaChen Jiang:
 Yes, if possible. I’m more interested in the social aspect, but because my major is computer science my department is going to push me into doing more computational work.
@@ -193,7 +193,7 @@ Definitely. I’m definitely trying to get this huge database of reading to get 
 I was also wondering, I was looking a previous interview you’ve done. You speak a little bit about the issue of accessibility when it comes to getting everyone to participate, because part of a digital democracy is the idea that once everything’s digital everyone can participate. The question then becomes what if the stakeholders are people who don’t have access to technology and the digital.
 
 ### JiaChen Jiang:
-I know that in Taiwan you’ve set through the motion for broadband for all.
+I know that in Taiwan you’ve set in motion for broadband for all.
 
 ### Audrey Tang:
 Broadband as human right.

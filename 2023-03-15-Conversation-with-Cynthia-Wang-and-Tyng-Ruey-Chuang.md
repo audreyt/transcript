@@ -191,7 +191,7 @@ Yeah.
 ### Audrey Tang:
 Everyone can just set up their own MoeDict without crediting me or anyone who participate in the movement, not Yeh Ping or KC Wu or anyone. We did that because we see ourselves as an extension of the public service work the ministry of education is doing.
 
-The MOE publish as public work. If we do a derivative and then put our name on it, in a sense, we're freewriting on the work, the public work, and get all the credit. Whereas actually, it's the dictionary makers are putting in most of the efforts, we just do the data streamlining and presentation.
+The MOE publish as public work. If we do a derivative and then put our name on it, in a sense, we're freeriding on the work, the public work, and get all the credit. Whereas actually, it's the dictionary makers are putting in most of the efforts, we just do the data streamlining and presentation.
 
 By giving up attribution, it doesn't really matter. The Ministry of Education can add anytime edit afterward to merge back our work and then say, "This is a new revised dictionary website," without crediting any of us. This is something that we give up.
 
@@ -400,7 +400,7 @@ They have their reasons. The orthography is a good reason. On the other hand, it
 
 Later on, the MOE relaxed a little bit, saying, stylistic changes and also omitting some fields is fine, as long as you don't change the stroke number and order, definition, which makes it OK for Pleco many of our uses.
 
-Around the time there's always a function within the g0v (gov-zero) open data movement that says the government should simply pass a law, so that it becomes illegal for the Ministry of Education to not use the fully permissive license, so at least attribution share like, but preferably attribution or CC Zero.
+Around the time there's always a function within the g0v (gov-zero) open data movement that says the government should simply pass a law, so that it becomes illegal for the Ministry of Education to not use the fully permissive license, so at least attribution share alike, but preferably attribution or CC Zero.
 
 That movement didn't at the time go anywhere, perhaps because the Ministry of Education would really feel if there's a forked dictionary that still says the source comes from the MOE, the MOE would take all the blame while the forks gained all the credit. This is not a good calculus for the MOE.
 
@@ -620,7 +620,7 @@ The private sector should adhere to the new norms, as we've just shown by the Mo
 
 As a result of that, there is a gap between people who know a lot about technologies, especially advanced, transformative technologies, like AI, and so on, and the people who care deeply about empowering marginalized groups, LGBTQ, and many other communities. These people, who are natural allies, don't see themselves as such.
 
-Whereas, in Taiwan, we can easily point at the MOE dictionary, the text filing system, and things like that, and say it's natural for these people to work together. Technology, of course, should impart democracy. That sentence, that utterance, much harder to make in the US.
+Whereas, in Taiwan, we can easily point at the MOE dictionary, the tax filing system, and things like that, and say it's natural for these people to work together. Technology, of course, should impart democracy. That sentence, that utterance, much harder to make in the US.
 
 In the US, think about decontextualized anti-social social media that builds addiction and polarization. Think about controlling authoritarian use in surveillance capitalism, and so on. Then the big tech, it doesn't carry the same notion in Taiwan. They can't co-prosper with the marginalized communities, especially not in the last few years.
 

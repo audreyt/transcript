@@ -37,7 +37,7 @@ Now, of course, we don’t want to rehash all the different things you did at th
 I’m just one small petal in the Sunflower movement. I was there at the night before they broke in, providing connectivity to, for example, Indie DaaDee, who was covering the live-stream of the protest on the street.
 
 ### Audrey Tang:
-I helped putting together the HSPDA, because there was no 4G at the time, a connection for that live stream to happen. Broadly speaking, the g0v movement was the banner under which the civic tech people provided communications support to the protesters. Incidentally, it just happens that when they broke into the parliament, another team from g0v was there.
+I helped putting together the HSDPA, because there was no 4G at the time, a connection for that live stream to happen. Broadly speaking, the g0v movement was the banner under which the civic tech people provided communications support to the protesters. Incidentally, it just happens that when they broke into the parliament, another team from g0v was there.
 
 ### Audrey Tang:
 Because I went home and handed off to Venev and Bropheus, and they capture the entire process of breaking in. That proved to be very valuable, because it was posted to YouTube, which was just opening live-stream service at the time, people can see with their own eyes that it was nonviolent.
@@ -133,7 +133,7 @@ That’s right, I was her understudy. I think that’s very peculiar about the T
 The people’s election is for the President, the President appoints a Premier, and the Premier then appoints the cabinet. Basically, that makes the cabinet members, especially in the administration itself, the nine so-called &quot;horizontal ministers&quot; -- also known as minister without portfolio -- are remarkably free of party politics, because we don’t even have to answer parliamentary inquiries.
 
 ### Audrey Tang:
-We go to the legislation as assistance to the Premiere, as moral support, but we don’t have to answer questions.
+We go to the legislation as assistance to the Premier, as moral support, but we don’t have to answer questions.
 
 ### Florian Schneider:
 I can see the advantage of that, for both Jaclyn and yourself, would you say there’s also disadvantages of being that removed, or especially not having the portfolio, not having resources or power like another minister who is in charge of an entire ministry? Would you say that affects you?
@@ -547,7 +547,7 @@ Working out loud assigns credit where credit is due, instead of having the minis
 You cannot really trade one for the other two. You can’t sacrifice one for the other two. All of them must be pareto improvements, meaning that you can increase a little bit on one of the three without sacrificing the other two, and then people get more accepting and they defend it as the norm, instead of something that you impose on them.
 
 ### Florian Schneider:
-Is there a tension between that vision, particularly one that’s open access, free software, and so on, and the market dynamics that you’re also utilizing to make that vision happen? Traditionally, there’s different streams of anarchism, off course. I’m thinking of Noam Chomsky, or I don’t know if you know if David Graeber from the London School of Economics.
+Is there a tension between that vision, particularly one that’s open access, free software, and so on, and the market dynamics that you’re also utilizing to make that vision happen? Traditionally, there’s different streams of anarchism, of course. I’m thinking of Noam Chomsky, or I don’t know if you know if David Graeber from the London School of Economics.
 
 ### Audrey Tang:
 Mm-hmm.
@@ -586,7 +586,7 @@ Another question about design. We have all these large platforms that are not op
 How do you feel about the way that interactions on Facebook work and shape politics in Taiwan or how interactions within Line communities work and shape politics in Taiwan? How can we -- I wouldn’t say oppose -- but at least counteract some of the negative outcomes of design choices that are not in service of your values or ideas?
 
 ### Audrey Tang:
-All my computers and browsers have the Facebook Feed Eradiactor. I don’t even participate in this AI-generated dopamine addiction cycle...
+All my computers and browsers have the Facebook Feed Eradicator. I don’t even participate in this AI-generated dopamine addiction cycle...
 
 ### Florian Schneider:
 \[laughs\]

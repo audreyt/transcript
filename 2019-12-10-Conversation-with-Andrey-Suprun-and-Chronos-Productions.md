@@ -196,7 +196,7 @@ I’m really interested in this upward spiral of collaborative engagement that y
 I think there’s a few things. If you participate in one of the petitions, which by definition, is over 5,000 people. Of course, people already mobilize themselves, so when their petition becomes a reality, they do have their own way to produce films, clips, and so on, to celebrate their success.
 
 ### Audrey Tang:
-We also make sure that in my columns I write every couple of weeks, in “April Daily,” one of the largest newspapers and also, every three weeks on “Business Weekly,” again, one of the largest magazines that have online and paper versions. I insist on getting a creative commons license so they only have the right to publish first but then, I publish on my blog the very next day.
+We also make sure that in my columns I write every couple of weeks, in “Apple Daily,” one of the largest newspapers and also, every three weeks on “Business Weekly,” again, one of the largest magazines that have online and paper versions. I insist on getting a creative commons license so they only have the right to publish first but then, I publish on my blog the very next day.
 
 ### Audrey Tang:
 If you were to look at my blog, you would see, basically, how I go about and share the success cases and, sometimes, with films as well. A lot of people discovered that how people engage into, for example, diplomatic policies and so on, and find their suggestions turned into real policies simply by reading the blog, either in printed form or in the blog.

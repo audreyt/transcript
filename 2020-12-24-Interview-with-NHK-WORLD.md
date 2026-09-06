@@ -361,7 +361,7 @@ Maybe in a quick way?
 In a quick way? OK, sure.
 
 ### Kiyoko Nagashiro:
-Yeah, in a quick way because we only have three minutes each. I’m so sorry. Yo-san, maybe you can say to Minster Tang, “Do you mean SARS 2.0 as COVID-19?” Then you say, “Yes.” That’s it.
+Yeah, in a quick way because we only have three minutes each. I’m so sorry. Yo-san, maybe you can say to Minister Tang, “Do you mean SARS 2.0 as COVID-19?” Then you say, “Yes.” That’s it.
 
 ### Yoshi Ogasawara:
 Oh, I see. This will be edited into the interview.

@@ -839,7 +839,7 @@ It should be the other way around.
 > (laughter)
 
 ### Audrey Tang:
-It took quite a bit of multi-stakeholder conversaion for the Declaration for the Future of the Internet to clearly spell out the democratic values in which resilience, security, and so on is in service of human rights. I think an established Cyber Studies field could help spreading that message.
+It took quite a bit of multi-stakeholder conversation for the Declaration for the Future of the Internet to clearly spell out the democratic values in which resilience, security, and so on is in service of human rights. I think an established Cyber Studies field could help spreading that message.
 
 ### Lucas Kello:
 As I'm listening to this, this is, in a way, it's music to my ears because it's precisely the sort of thing we want to do. What you are saying is valuable to us because it gives credence. The fact that someone in your position with your vision and aspirations, resurgence, gives credence to what we're trying to do in Oxford.

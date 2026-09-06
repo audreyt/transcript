@@ -60,7 +60,7 @@ I’m Taiwan’s Digital Minister in charge of social innovation. First, I would
 Dr. Tsai Ing-wen, in her second term elected and soon to be embarking on her second term now, said a very inspiring quote from her first term’s inauguration speech. She said, “Before we think of democracy as showdown between two opposing values, but from now on, democracy must become a conversation between many diverse values.”
 
 ### Audrey Tang:
-You are looking at my office. This is really my office. We tore down the walls, they owed Airforce HQ, and everybody can just walk in. There’s no walls now, \[laughs\] and have a conversation with me for 40 minutes every Wednesday from 10:00 AM to the evening.
+You are looking at my office. This is really my office. We tore down the walls, the old Airforce HQ, and everybody can just walk in. There’s no walls now, \[laughs\] and have a conversation with me for 40 minutes every Wednesday from 10:00 AM to the evening.
 
 ### Audrey Tang:
 This is the basis of radical transparency meaning that everybody who talk with me need to agree that we put either the transcript or the full video online for everybody to see. Interestingly, in that circumstances, everybody lobbied for the public benefit for environmental sustainability, and nobody lobby for private interest, because they know that other stakeholders will be watching.
@@ -75,7 +75,7 @@ Tackling the disinformation crisis, those intentional harmful disinformation tha
 In Taiwan, we’ve only gained the right to get the presidential election running in 1996. We still remember what it was like to have no freedom of speech and freedom of press, and nobody want to go back there. We’re forced to innovate the ways to counter disinformation as well as other modern source of outrage as a sort of virus. It’s a virus of the mind that puts people into…
 
 ### Audrey Tang:
-Now I’m talking ideological camps. One of the main way that we respond to it is what we call humor over rumor, or a rapid response. Whenever there is a rumor, within an hour we have a clarification that is very funny using mimetic engineering ways that make sure that it goes viral.
+Now I’m talking ideological camps. One of the main way that we respond to it is what we call humor over rumor, or a rapid response. Whenever there is a rumor, within an hour we have a clarification that is very funny using memetic engineering ways that make sure that it goes viral.
 
 ### Audrey Tang:
 This is just one of the pre-COVID examples. It used to be that there was a rumor that says perming your hair will be subject to one million-dollar fine starting next week, and that’s of course not true. If the government simply say, “It’s not true,” research shows that it only reinforces people’s…what the stereotypes they have.
@@ -126,7 +126,7 @@ For example, this is a popular picture that was making the rounds on Taiwanese s
 We adopt a strategy we call notice and public notice. That is to say, instead of taking any of this down, the Taiwan FactCheck Center, working with their international counterparts, located the source of this disinformation to the central legal and political unit of the CCP.
 
 ### Audrey Tang:
-What they have done is they’ve posted that in the Weibo, and people started remixing that propaganda, which is obviously untrue, not to mention copyright violation on the Reuter’s photo, into the social media and remixing into it. Instead of taking it down, we make sure that everybody look at this picture, learn where the source comes from, and that, in turn, makes people aware that there is propaganda going on.
+What they have done is they’ve posted that in the Weibo, and people started remixing that propaganda, which is obviously untrue, not to mention copyright violation on the Reuters’ photo, into the social media and remixing into it. Instead of taking it down, we make sure that everybody look at this picture, learn where the source comes from, and that, in turn, makes people aware that there is propaganda going on.
 
 ### Audrey Tang:
 There’s another one about making invisible inks for ballots \[laughs\] during the casting process. Again, this is resolved through radical transparency by making sure that everybody, YouTubers and so on, can live-stream the balloting counting process in each individual voting places.
@@ -177,7 +177,7 @@ Not necessarily because of hoarding, but because of people who don’t know for 
 There’s a civic hacker named Howard Wu, Wu Chan Wei in Tainan, started working for the convenience stores to be mapped on the Google Map so that they can see which convenience stores still have stock, relying on people to report their experience to this map.
 
 ### Audrey Tang:
-He’s designed this just for his friends and family. He certainly did not design it to be used by the entire country, but people started using it for real. Very quickly his Google Map API built started to soar, and he has to close the service.
+He’s designed this just for his friends and family. He certainly did not design it to be used by the entire country, but people started using it for real. Very quickly his Google Map API bill started to soar, and he has to close the service.
 
 ### Audrey Tang:
 This is the spirit of social innovation. It is something that we did not anticipate from the government side. We see that there’s a real social demand of it. We need help from the private sector. For example, Google eventually waives all their Google Map fees. Also, based upon the public sector, so that when we switch to pharmacies, I showed the Premier who is in a much higher resolution here.
@@ -255,7 +255,7 @@ I have one here. Is it true there are also apps that show where COVID-19 infecte
 There’s no app, per se. There is a civic sector-developed tool that allows people to compare their personal digital trail, the Google Map related data and things like that, against published trails of people who are infected.
 
 ### Audrey Tang:
-We do not, as a rule, publish such trails of infected people. We only do so if the CECC can safely say that it affects a large number of people, and they cannot do the contact tracing all by them self.
+We do not, as a rule, publish such trails of infected people. We only do so if the CECC can safely say that it affects a large number of people, and they cannot do the contact tracing all by themselves.
 
 ### Audrey Tang:
 I can share my screen again. This probably doesn’t work without a screen share.
@@ -309,7 +309,7 @@ Right after SARS there was a challenge in the constitutional court whether it ma
 For people who travel from abroad who are under home quarantine, if they don’t have a mobile phone we give them one. Otherwise, their own personal phone is used.
 
 ### Audrey Tang:
-The five telecoms, in a data collaborative, makes sure that if they break the digital fence the contact traces are after them within five minutes. The private companies are working in a much more fundamental level, the telecom level, rather than from the app level.
+The five telecoms, in a data collaborative, makes sure that if they break the digital fence the contact tracers are after them within five minutes. The private companies are working in a much more fundamental level, the telecom level, rather than from the app level.
 
 ### Audrey Tang:
 Especially if you have played any location-based games, you know how easy the app level data can be manufactured. It’s much more difficult for the telecom data to be manufactured.
@@ -480,7 +480,7 @@ I will never hang up on her.
 We would, exactly, promise her not to hang up, and that any question on Taiwan would be free and would be answered.
 
 ### Jonas Parello-Plesner:
-That’s a good segue to the question here about WHO, asked my Mr. Denborg.
+That’s a good segue to the question here about WHO, asked by Mr. Denborg.
 
 ### Audrey Tang:
 It really is a problem, and not specifically of a problem to people in Taiwan, but people from all over world, that our early warnings were unheeded.
@@ -602,7 +602,7 @@ More than at GitHub page, I think this whole process of a very strict clinic usi
 Prime Minister Ardern from New Zealand said, “When it comes to guidelines of that sort, whatever Taiwan does New Zealand follows.” \[laughs\] We do have some contributions to like-minded democracies. That is a really good question. I don’t know whether we have enough samples to draw scientific conclusions but I will check with the CECC.
 
 ### Jonas Parello-Plesner:
-Thank you. I was curious about also, and I’ve talked with you about this before. I’ve seen you’re ted talk where you talk about co-regulations and new ways of making laws also through Internet conversations. I was thinking whether you’re planning to use this in Taiwan.
+Thank you. I was curious about also, and I’ve talked with you about this before. I’ve seen your ted talk where you talk about co-regulations and new ways of making laws also through Internet conversations. I was thinking whether you’re planning to use this in Taiwan.
 
 ### Jonas Parello-Plesner:
 Maybe not during short term but again, just longer term of how do we after…Right now it’s about curbing the pandemic. It’s also about the longer term. What is the new division between government, citizens, data, and health tracking? Whether this is an area that you’re looking at, making it a co-regulation?
@@ -656,7 +656,7 @@ Every year, as a Taiwan citizen, anyone can join, literally through the join.gov
 Everybody can vote on the top 20 cases that receive the incubations was the top 20 in the previous year. It’s still ongoing, and you’re very much welcome to look into Presidential Hackathon.
 
 ### Audrey Tang:
-We also welcome foreign participants. We make sure that even if you for some reason cannot travel, I wonder why, we make sure that you can be telepresent as a robot through a teleprescence robot when it comes to the day of workshops at the Presidential Hackathon.
+We also welcome foreign participants. We make sure that even if you for some reason cannot travel, I wonder why, we make sure that you can be telepresent as a robot through a telepresence robot when it comes to the day of workshops at the Presidential Hackathon.
 
 ### Jonas Parello-Plesner:
 That’s fascinating. I’m getting Minister Tang, another question in here about, I would say our session is part of that, how much you’re promoting exporting the approach you’ve taken, particularly on public health data, to other countries, and in particular Europe.
@@ -704,7 +704,7 @@ It’s very important to say that this is mostly about education for sustainable
 Using air quality is an example that it applies equally to COVID, climate change mitigation, and to many places where you trust the data source that you know without putting a lot of resource into all that people cannot back-track on their numbers.
 
 ### Jonas Parello-Plesner:
-Thank you, Minister Tang, there. I think that will more or less be our last question. I promised you a half stop here at 30. Probably, we are keeping you maybe from your dinner. I just want to say thank you for spending time with us.
+Thank you, Minister Tang, there. I think that will more or less be our last question. I promised you a hard stop here at 30. Probably, we are keeping you maybe from your dinner. I just want to say thank you for spending time with us.
 
 > (applause)
 

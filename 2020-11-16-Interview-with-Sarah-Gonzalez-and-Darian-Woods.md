@@ -262,7 +262,7 @@ That’s exactly right. I don’t have to queue in vain.
 \[laughs\]
 
 ### Sarah Gonzalez:
-It worked, I think in part, because my understanding is someone in Taiwan’s government made a decision that they were only going to sell masks at convenience stories. Is that correct? That was one of the early decisions?
+It worked, I think in part, because my understanding is someone in Taiwan’s government made a decision that they were only going to sell masks at convenience stores. Is that correct? That was one of the early decisions?
 
 ### Audrey Tang:
 No, that’s not quite right. We already sell medical-grade masks in pharmacies, in convenience stores, and so on. Basically, anywhere that can legally sell masks sold masks. The reason why convenience store was chosen by Howard as the first target of visualization is mostly that there is more of them.

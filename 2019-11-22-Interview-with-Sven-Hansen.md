@@ -194,7 +194,7 @@ It’s not like we’re making them more powerful in the sense that they can ent
 Your point is well-taken. For things like petitioning, which is agenda-setting, we may use SMS. For really bylaw, like referendum, collecting signature for referendum, we use the state-issued EID card. That EID card is independent of any telecom company, because it has a legally-binding power for electronic signatures.
 
 ### Audrey Tang:
-It’s two different binding level, and we only use the later one if it has legally-binding power. For that, we require the use of a proper EID card. Thank you for bringing that up.
+It’s two different binding level, and we only use the latter one if it has legally-binding power. For that, we require the use of a proper EID card. Thank you for bringing that up.
 
 ### Sven Hansen:
 I understand digitalization as a tool, but not as a substance, of democracy.
@@ -209,7 +209,7 @@ How you protect against digitalization being mistaken as substance of democracy?
 I write a job description about it, which is a poem. It’s pinned on my Twitter.
 
 ### Audrey Tang:
-It says, “When we see the Internet of Things, we must make it an Internet of beings. When we seeing virtual reality, let’s make it a shared reality. When in see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. And whenever we hear the singularity may be near, we must always remember the plurality is here.”
+It says, “When we see the Internet of Things, we must make it an Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. And whenever we hear the singularity may be near, we must always remember the plurality is here.”
 
 ### Audrey Tang:
 The difference between two sets of words is that of agency, of human agency, of people being able to understand each other more, to listen to one another more, and digital is just the instrument to make it happen.
@@ -254,7 +254,7 @@ By empowering the social sector to create viable alternatives. If you rely on th
 On the other hand, if you rely on large corporations, with their weather balloons or whatever, or drones, to do the same, then you again rely on their mercy. They probably do not go to low-resources areas. Only by empowering the social sector with very affordable technologies, as I mentioned, with open hardware, like Arduino, Raspberry Pi, and also by offering broadband access as a human right.
 
 ### Audrey Tang:
-In Taiwan, the most remote, the most indigenous, the highest mountains, all have 10 megabits per second at â¬15 per month for unlimited 4G connection. That enables social innovation to take place in the poorest, in the most rural places where no capitalistic companies will enter voluntarily.
+In Taiwan, the most remote, the most indigenous, the highest mountains, all have 10 megabits per second at €15 per month for unlimited 4G connection. That enables social innovation to take place in the poorest, in the most rural places where no capitalistic companies will enter voluntarily.
 
 ### Audrey Tang:
 Even there, we see a lot of appropriate technologies being developed. Indeed, we can scale it to the entirety of Taiwan through the means of them proposing it, like Water Box and so on, in the Presidential Hackathon.
@@ -275,7 +275,7 @@ No. I think I was just at Amsterdam and the Hague, and I mentioned this idea abo
 In Berlin, we are experimenting with it. We have one train station which has artificial face recognition.
 
 ### Audrey Tang:
-I think, using GDPR as an example, GDPR says that everybody have the rights that you cannot wave through contracts, the natural rights of asking for a copy for explanation, for updating, for deletion, for portability. That’s the basic GDPR rights.
+I think, using GDPR as an example, GDPR says that everybody have the rights that you cannot waive through contracts, the natural rights of asking for a copy for explanation, for updating, for deletion, for portability. That’s the basic GDPR rights.
 
 ### Sven Hansen:
 GDPR stands for?

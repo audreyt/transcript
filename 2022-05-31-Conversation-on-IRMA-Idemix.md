@@ -61,7 +61,7 @@ That's an excellent point, and also, a very good segue to my next slide. Basical
 
 Also, that you have some attribute that you are vaccinated. This problem of implementing an attribute-based credential system that is private is exactly the problem that this tool IRMA has been designed to solve.
 
-IRMA is an existing smartphone app that's an online service that's developed by a privacy non-profit, Privacy by Design Foundation, in Nijmegen in the Netherlands. I'm not sure if you've heard of the before.
+IRMA is an existing smartphone app that's an online service that's developed by a privacy non-profit, Privacy by Design Foundation, in Nijmegen in the Netherlands. I'm not sure if you've heard of them before.
 
 ### Audrey Tang:
 No.
@@ -268,7 +268,7 @@ I believe that because of where they're located, they focused most of their lobb
 You can get your ID credential from the city of Nijmegen and then use that if there's some IRMA server or service operating outside of Nijmegen that wants to check your ID.
 
 ### Audrey Tang:
-I see. The Taiwan equivalent would be Taipei Pass adopting the IRMA protocol and the bars in Tayoan start scanning Taipei Pass QR codes which is IRMA QR codes. That would be a municipal action, but they can give credentials to everyone in Taiwan.
+I see. The Taiwan equivalent would be Taipei Pass adopting the IRMA protocol and the bars in Taoyuan start scanning Taipei Pass QR codes which is IRMA QR codes. That would be a municipal action, but they can give credentials to everyone in Taiwan.
 
 ### Jonathan Levin:
 That's a good analogy, indeed.
@@ -304,7 +304,7 @@ These proofs are constantly randomized. That randomization is what makes it poss
 As soon as you do the same proof or reveal the same proof, then you can immediately say, "Jonathan was at this place and at this place." Those would be the two balance...
 
 ### Audrey Tang:
-Say if the bar operates its own WiFi hotspot, and then you connect to the WiFi of the bar, then could bar operate a federated local IRMA server that does this your knowledge proof in case that the connection to the main Internet goes down? Can it work in a LAN situation?
+Say if the bar operates its own WiFi hotspot, and then you connect to the WiFi of the bar, then could bar operate a federated local IRMA server that does this zero-knowledge proof in case that the connection to the main Internet goes down? Can it work in a LAN situation?
 
 ### Jonathan Levin:
 That actually is possible. The only problem that might happen is -- Credentials can be updated, the attributes of a credential can be updated if necessary -- if the local federated IRMA server at the bar is air gapped in a sense, and it's not getting these updates, you might have verifications fail there if the versioning isn't correct. In terms of how it functions, that could totally work.
@@ -985,7 +985,7 @@ The idea, very simply put, is like a diploma. The university publishes all the g
 
 I think the completely public on a distributed ledger like Ethereum doesn't quite work for all the use cases. Neither does the completely private.
 
-Your knowledge proofs is a bridge in the middle where people can selectively review the kind of attributes that they have and the communities can also federate in a way that is public within the community, but private outside of that community.
+Zero knowledge proofs is a bridge in the middle where people can selectively review the kind of attributes that they have and the communities can also federate in a way that is public within the community, but private outside of that community.
 
 I've been thinking a lot about designs from the other side of the spectrum, but I really appreciate thinking about things from this side of the spectrum.
 

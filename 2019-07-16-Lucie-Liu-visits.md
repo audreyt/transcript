@@ -141,7 +141,7 @@ That’s a photo of him when he was young.
 When he was younger, yeah.
 
 ### Audrey Tang:
-What’s actually happening is that we’re requiring by 2021 all the perming products suppliers to start labeling their products. That’s a big difference. This part isn’t translated by it says, &quot;However, if you keep perming or dyeing your hair multiple times a week, your hair may be damaged, and you may end up looking like me now.&quot; \[laughs\]
+What’s actually happening is that we’re requiring by 2021 all the perming products suppliers to start labeling their products. That’s a big difference. This part isn’t translated but it says, &quot;However, if you keep perming or dyeing your hair multiple times a week, your hair may be damaged, and you may end up looking like me now.&quot; \[laughs\]
 
 ### Audrey Tang:
 This went viral by its own. What we have found is it’s like inoculation. If people who read this before they read the rumor, then they’re inoculated, and they can just compare the different narratives. What we’re doing is essentially not the same that we have to take down all the messages because it’s just not very possible.

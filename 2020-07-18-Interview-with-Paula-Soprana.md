@@ -303,7 +303,7 @@ There’s no shareholder value to maximize. Rather, it’s supported by the acad
 The point here is that if you have a media that serve the people instead of serving particular interest groups, then you’re much likely to get design patterns that encourage people, instead of attacking each other, they can contribute to the opinions and ideas.
 
 ### Audrey Tang:
-You see that there is no reply button, for example. There is not nested threats on PTT or on the Join platform of e-petition. You have pro column of comments, con column of comments, but they are not allowed to reply to each other. You can only upload and download.
+You see that there is no reply button, for example. There is not nested threads on PTT or on the Join platform of e-petition. You have pro column of comments, con column of comments, but they are not allowed to reply to each other. You can only upload and download.
 
 ### Audrey Tang:
 In a way, taking away the reply button leaves no room for trolls to grow. People can upload important ideas, but they cannot make personal attacks on each other.

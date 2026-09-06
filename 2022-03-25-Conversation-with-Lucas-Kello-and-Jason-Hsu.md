@@ -472,7 +472,7 @@ Even though, of course the cyber security and the info sec people, sure. They're
 ### Audrey Tang:
 It does. I'm just trying to figure out the contributions that I can possibly make, aside from making introductions. Jason is very good at that too. [laughs] At the end of the day, to gather empirical data, you would need the actual cases of the global supply chain being interfered with and things like that.
 
-Then you would want to simulate those scenarios, replaying it, so to speak, to gorge the response from the private sector and public sector leaders and also from the society as well. How can I help in that agenda?
+Then you would want to simulate those scenarios, replaying it, so to speak, to gauge the response from the private sector and public sector leaders and also from the society as well. How can I help in that agenda?
 
 ### Lucas Kello:
 That's a legitimate question. What could be really valuable input from your perspective is if you could help us researchers understand what the next stage of digital public services are? What new citizen initiatives are being developed? What that would do...
@@ -559,7 +559,7 @@ This conversation has really helped, at least me, understand a bit more about wh
 ### Audrey Tang:
 Let me also point out that many ministries are developing their own, like you mentioned Estonian ID system. Just yesterday [laughs] actually, I applied and received in maybe just two minutes, the entire flow of my vaccine records, my vaccination record using FIDO compliant way.
 
-We call it 行動自然人憑證 or the Citizens Digital Certificate mobile version. Instead of using esoteric underpinnings like a sim card or whatever, the FidO flow feels exactly like integrated Google login on Android or something.
+We call it 行動自然人憑證 or the Citizens Digital Certificate mobile version. Instead of using esoteric underpinnings like a sim card or whatever, the FIDO flow feels exactly like integrated Google login on Android or something.
 
 Because it pops up a notification, I say it's me and then it lets me in, and it creates a Google Pay certificate. I can authenticate biometrically to show the EU DCC compliant QR code and so it's all very smooth.
 

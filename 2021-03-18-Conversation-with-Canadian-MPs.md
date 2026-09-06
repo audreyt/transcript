@@ -125,7 +125,7 @@ Certainly. I will point to join.gov.tw, our national participation portal. We us
 On the portal is an entire life cycle of policy making, starting from citizens initiatives, which if 5,000 signature is gathered using SMS based authentication, but the proposer could be 16 years old. Actually, they’re very popular with 16 year olds who usually propose things like banning plastic straws from bubble teas and things like that for future generations.
 
 ### Audrey Tang:
-5,000 signatures later, all the ministries related to that issue need to come out and respond point by point, as if this is a parliamentary interpolation. It carries the same power as a parliamentary interpolation within 60 days. If this is inter agency, then we have a team of participation officers embedded in each ministry. 32 ministries, more than 100, these people.
+5,000 signatures later, all the ministries related to that issue need to come out and respond point by point, as if this is a parliamentary interpellation. It carries the same power as a parliamentary interpellation within 60 days. If this is inter agency, then we have a team of participation officers embedded in each ministry. 32 ministries, more than 100, these people.
 
 ### Audrey Tang:
 They are responsible for engaging those emerging hashtags. They have to speak through the memes, cute dogs and cats, and things like that, making sure that people understand the current policy decision situations in a way that’s fun and engaging, but also always ready to listen to the various different stakeholders.
@@ -355,7 +355,7 @@ Is it OK if I jump in and ask a question Bob?
 Yeah, absolutely.
 
 ### Rachael Harder:
-Because we’re on this topic right now, I just wanted to jump in, like when you’re talking about Pol.is or Joint, are there algorithms that are used in order to draw people into those forums or towards specific questions?
+Because we’re on this topic right now, I just wanted to jump in, like when you’re talking about Pol.is or Join, are there algorithms that are used in order to draw people into those forums or towards specific questions?
 
 ### Audrey Tang:
 Yeah, definitely. Here’s the recommendation engine as I mentioned, there’s also the Pol.is clustering is K means clustering. Based on the yes and no answers, agree or not answers, you are grouped with the people who share a similar sentiments and most outstanding divisiveness in the conversations is also automatically surfaced.
@@ -376,7 +376,7 @@ Could your platforms ever be misused by a bad actor?
 Yeah. Well, there’s many intentional abuses that we have seen. For example, people sometimes thought that if they mobilize other people to vote exactly the same way, it will work to their advantage, but they discover we only hold ourselves accountable to the agenda that is resonating across all the different clusters. Mobilizing people to vote the same doesn’t work.
 
 ### Audrey Tang:
-Sometimes it doesn’t work, but in creative ways. For example, right after UberX, we did an Airbnb consultation, and Airbnb sent a newsletter, an email to all its Taiwanese members, saying please go to Pol.is and vote for our company platform. They discovered that this would actually have worked if this is just a few preedesigned survey questions where there’s the standard answer.
+Sometimes it doesn’t work, but in creative ways. For example, right after UberX, we did an Airbnb consultation, and Airbnb sent a newsletter, an email to all its Taiwanese members, saying please go to Pol.is and vote for our company platform. They discovered that this would actually have worked if this is just a few predesigned survey questions where there’s the standard answer.
 
 ### Audrey Tang:
 Because the Pol.is is a weekly survey, you’re basically asked to also share your feelings for other people to respond to. It’s a higher bitrate, higher dimension. Only one third of Airbnb members mobilized this way actually voted in a pro-Airbnb way.
@@ -511,7 +511,7 @@ It’s not an administrative take down, but rather this is making it clear that 
 For example, in November 2019, right before the presidential election, the Hong Kong issue is shaping to be the deciding factor in our election at the time. There is a trend in this information, I said, and I quote, “The teenagers in Hong Kong are being paid $200,000 to murder a police,” with a scary looking teenage person.
 
 ### Audrey Tang:
-That’s actually fit for a take down, if any, if it’s actually going viral, which it was. We didn’t take it down. Instead, we worked with the professional journalists to fact check this Hong Kong thug, whatever thing. We tracked the Reuters photo, but Reuters didn’t say anything about being paid. Reuter said that there’s teenage protesters, that’s all.
+That’s actually fit for a take down, if any, if it’s actually going viral, which it was. We didn’t take it down. Instead, we worked with the professional journalists to fact check this Hong Kong thug, whatever thing. We tracked the Reuters photo, but Reuters didn’t say anything about being paid. Reuters said that there’s teenage protesters, that’s all.
 
 ### Audrey Tang:
 This alternate caption of this 13 year old thug being paid to import iPhones and recruiting his brothers came from somewhere else. We track it very quickly to the Weibo account of the central political and law units of the Chinese Communist Party, the Chang-an Sword .

@@ -283,7 +283,7 @@ I learned then the Perl language, which was really the super glue of the early W
 With that Perl community, I gradually found out that most of the programs that I wanted to write, that I needed to write is already written. At that time, they were sharing these ready-to-use programs in a place called CPAN, the Comprehensive Perl Archive Network, which is first of its kind for a programming language.
 
 ### Audrey Tang:
-It’s not the first thing of its kind, though. Before, it was the Comprehensive Tech Archive Network of the typesetting language, like LaTeX. CPAN was really early. It was introduced in ‘95. I become a contributor right away and just joined this worldwide community that builds on the ideas of rough consensus and running code.
+It’s not the first thing of its kind, though. Before, it was the Comprehensive TeX Archive Network of the typesetting language, like LaTeX. CPAN was really early. It was introduced in ‘95. I become a contributor right away and just joined this worldwide community that builds on the ideas of rough consensus and running code.
 
 ### Audrey Tang:
 These early Internet cultures are really defining to me, because I wasn’t having voting rights till five years later, because I was just 15. By the time I was able to vote politically, I would already be immersed in the multi-stakeholder Internet governance model for five years. For me, that’s what I would refer to as my tribe, like my indigenous people tribe.
@@ -349,7 +349,7 @@ People saying, “All right, if you’re going to vote for Trump, then you might
 The thing is just like when you’re building a physical space like the Acropolis, that there’s a lot of choices that one can do to do attenuation. Attenuation, meaning the sound is getting weaker. If you have a soundproof echo chamber material, then, of course, that’s very much attenuated because the other side of the chamber doesn’t hear you at all.
 
 ### Audrey Tang:
-If you have a place where the soundscape is more conductive to listening, then people are prompted to speak less and listen more, because they learn by listening. That’s where I draw the spectrum of anti-social media, like mediascapes that promotes antisocial behavior to track people better to sell them more advertisements.
+If you have a place where the soundscape is more conducive to listening, then people are prompted to speak less and listen more, because they learn by listening. That’s where I draw the spectrum of anti-social media, like mediascapes that promotes antisocial behavior to track people better to sell them more advertisements.
 
 ### Audrey Tang:
 In any case, we can all read the book, “Surveillance Capitalism.” It’s thousands of words. That serves primarily the interest of people who want to hypertarget other people and basically elicit automated subconscious responses on one side, and pro-social media which elicits more nuanced deliberative responses on the other side.
@@ -364,13 +364,13 @@ It always results in this reflection of the agree to disagree points, but also, 
 In Taiwan, the main rift in the previous national referendum day, which was the marriage equality, which is also a very polarizing topic in the US as well, super polarizing.
 
 ### Audrey Tang:
-What we did, though, was taking the results of the two referenda. One talking about the civic code, and one talks about the rights and duties of individuals when they marry, as well as their constitutional court ruling, and fused it into a social innovation that I call to \[non-English speech\], legalizing the bylaws, but not the in-laws.
+What we did, though, was taking the results of the two referenda. One talking about the civil code, and one talks about the rights and duties of individuals when they marry, as well as their constitutional court ruling, and fused it into a social innovation that I call to \[non-English speech\], legalizing the bylaws, but not the in-laws.
 
 ### Audrey Tang:
 It’s basically saying that we hear both sides. We take both sides. They bump into each other, and the Jade Mountain rises again. Then we deliver an innovation that guarantees all the rights, duties, and protections of individuals when they wed.
 
 ### Audrey Tang:
-It doesn’t hyperlink back to the part of civic code that talks about kinship. The families don’t wed. We don’t have to invent another eight pronouns, eight nouns or proper nouns for family relationships, which could be very stretched.
+It doesn’t hyperlink back to the part of civil code that talks about kinship. The families don’t wed. We don’t have to invent another eight pronouns, eight nouns or proper nouns for family relationships, which could be very stretched.
 
 ### Audrey Tang:
 The generation that think about marriage as families wed together is happier, because same-sex marriage \[inaudible 38:27\] families. The people who care about the registration and the protection of rights and so on are also happier, because it’s exactly the same as heterosexual families.
@@ -511,7 +511,7 @@ Whatever the case, in my reductive understanding, by 2014, things had moved far 
 Yeah, I think it’s a symbiotic relationship between decision movements on one side and decision media on the other. I mean, the Wild Strawberries Movement also pioneered the use of a lot of live streaming media and things like that and was live streaming.
 
 ### Audrey Tang:
-People will feel much closer to each other, even if they’re physically far away. People even at their homes feels that they care about what’s happening right down in the demonstration side. Much more allowing the demonstration to become another protest, but a demo, like a demo scene, a scene of demonstration that shows people watching live stream, a different imagination of how democracy could work.
+People will feel much closer to each other, even if they’re physically far away. People even at their homes feels that they care about what’s happening right down in the demonstration site. Much more allowing the demonstration to become another protest, but a demo, like a demo scene, a scene of demonstration that shows people watching live stream, a different imagination of how democracy could work.
 
 ### Audrey Tang:
 I mean, that’s true for most of the Occupy movements anyway in the waves after Occupy Wall Street. I think Taiwan is quite unique in that, because it takes place directly in the legislative chambers.

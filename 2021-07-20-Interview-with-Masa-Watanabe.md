@@ -52,7 +52,7 @@ I think what's important is to have what I call a People-Public-Private Partners
 
 One example is that in 2018, when we held a national referendum plus mayoral election, there was a lot of suspicions about the foreign sponsored advertisement on social media, when it pertains to political and social issues and agenda setting.
 
-In Taiwan, a social sector movement called g0v or gov-zero, have been calling for the radical transparency, that's to say, open data for the campaign donation expanded to over quite some time now. Because of the civil disobedience work, that's the gOv people advocated and participated in.
+In Taiwan, a social sector movement called g0v or gov-zero, have been calling for the radical transparency, that's to say, open data for the campaign donation expanded to over quite some time now. Because of the civil disobedience work, that's the g0v people advocated and participated in.
 
 For example, going to the national auditing office, coming out with Xerox copies of the campaign donation expenditure and scanning it and doing what we call OCR, Otaku Character Recognition, by getting people online to collaboratively reverse engineer the paper reports into spreadsheets.
 
@@ -64,7 +64,7 @@ Now, these money, the expenditure for campaigns have a very well regulated norm 
 
 We talked to Facebook and other social media companies saying, "Look, there is a very strong social norm here, so any political advertisement during elections must be published in real time open data, enabling the same investigative journalist oversight and calling out any what we call dark pattern."
 
-Without passing any new laws or amending any act, by enforcing the social norm that the social sector force the public factor to adopt the private sector work with two sectors.
+Without passing any new laws or amending any act, by enforcing the social norm that the social sector force the public sector to adopt the private sector work with two sectors.
 
 Starting in 2019, Taiwan became one of the first jurisdiction in which Facebook adopted radical transparency in real time for advertisement rivalry. We've seen that this hate speech and divisive campaigns do not appear as much in sponsored advertisements in the 2020 presidential election.
 
@@ -74,7 +74,7 @@ This is one concrete example. There are many other examples, but I believe, like
 Minister, what do you think about the Big Tech like GAFA platform regulation issues?
 
 ### Audrey Tang:
-That's what I've just said. The GAFA, of course, adopt different polices in different jurisdictions. One of the employees who later on left Facebook civic integrity team would eventually speak to the media, and say that Facebook adopted a different civic integrity policy depending on how much social pressure they receive.
+That's what I've just said. The GAFA, of course, adopt different policies in different jurisdictions. One of the employees who later on left Facebook civic integrity team would eventually speak to the media, and say that Facebook adopted a different civic integrity policy depending on how much social pressure they receive.
 
 For example, they singled out a few countries, including, of course, our country, and said that they received this kind of pressure, so they have to adopt a different policy, a more transparent one in Taiwan. In jurisdictions where there's no much social pressure for one reason or another, then they did not adapt that quickly.
 
@@ -93,7 +93,7 @@ Interesting. Thank you so much, Minister.
 Thank you.
 
 ### Masa Watanabe:
-It is a huge honor to have such a great opportunity. I'm going to talk about the transcript with your secretary Zthat later.
+It is a huge honor to have such a great opportunity. I'm going to talk about the transcript with your secretary that later.
 
 ### Audrey Tang:
 Very much appreciated, and thank you for the very thoughtful questions.

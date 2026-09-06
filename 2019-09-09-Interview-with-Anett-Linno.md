@@ -170,7 +170,7 @@ Actually, Citizen OS also grew up from Let’s do It Foundation. Maybe you have 
 Yes.
 
 ### Anett Linno:
-Which is organizing work clean-up days now, and actually in Taiwan, we have really active team there as well. \[laughs\]
+Which is organizing world clean-up days now, and actually in Taiwan, we have really active team there as well. \[laughs\]
 
 ### Anett Linno:
 Social innovation is definitely more wider and better word for that. Thank you. If you think about your current work and what you currently do, then do you personally think that if there would be the kind of community, would you like to be part of it? Would you like to participate in the discussions, or working groups, or things like that?

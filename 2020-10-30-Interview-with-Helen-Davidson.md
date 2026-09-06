@@ -66,7 +66,7 @@ Basically, we piggyback our existing data collections channels, but still, there
 In the hearing, the Department of Cyber Security explained in very fine detail how exactly the system works, and then approval rates came from 91 to 94 percent. We still thank the other 6 percent for holding us accountable and honest.
 
 ### Helen Davidson:
-When you’re talking about the foreign towers triangulating and that sort of thing, is that the technology that was used after the Diamond Princess cases where they alerted people who had been in the same area using Google Maps over the course of two weeks?
+When you’re talking about the phone towers triangulating and that sort of thing, is that the technology that was used after the Diamond Princess cases where they alerted people who had been in the same area using Google Maps over the course of two weeks?
 
 ### Audrey Tang:
 It’s not using Google Maps by the way. It contains a link to Google Maps where you can check whether your whereabouts intersect with the Diamond Princess Trail, their itinerary. At no point do we collect the whereabouts of the people receiving the SMS. That’s why I emphasized that these SMSes are a onetime thing.
@@ -152,7 +152,7 @@ If you search for triple stimulus vouchers, you’ll see how exactly it works. I
 The last question I have for you is, the new things that have been brought in to Taiwan’s society now for COVID response, are there ones where you think will stay?
 
 ### Audrey Tang:
-Yes. All the thousands of people, more than one thousand who get a Taiwan gold card, \[laughs\] which is people who have some ties to Taiwan, or maybe they return back for the Lunar New Year, or they went here for hiking of surfing.
+Yes. All the thousands of people, more than one thousand who get a Taiwan gold card, \[laughs\] which is people who have some ties to Taiwan, or maybe they return back for the Lunar New Year, or they went here for hiking or surfing.
 
 ### Audrey Tang:
 Suddenly, the virus came and they discovered they can convert their tourism visa into a gold card, which means that they can still continue to work with whichever organization they’re working internationally, but then they enjoy the same health benefits, their spouse and family enjoy the same health benefits, and they can stay in Taiwan for up to three years just as a resident.

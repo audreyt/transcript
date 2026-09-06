@@ -133,7 +133,7 @@ On-chain randomness.
 Yeah, on-chain numbers, not random generation.
 
 ### Jon Jones:
-Finally, we utilize DID, or decentralized ID, in our system, because actually, we feel like in order...Of course, it’s a civil prevention mechanism, to have one person, one node, one vote. That’s kind of our mantra.
+Finally, we utilize DID, or decentralized ID, in our system, because actually, we feel like in order...Of course, it’s a Sybil prevention mechanism, to have one person, one node, one vote. That’s kind of our mantra.
 
 ### Jon Jones:
 We believe that a public blockchain should be of individuals and real people. It’s almost very democratic. We believe those are the things that set us apart.
@@ -391,7 +391,7 @@ We know that. We know that’s true.
 It’s a metaphor, too. If you’ve been to Taroko Gorge, you can see how the plate tectonics clash, the Pacific on one side, and the continent on the other side. That’s actually what shapes Taiwan. In 20 years, we’ll have as many earthquakes and typhoons as, maybe more, because of climate change.
 
 ### Audrey Tang:
-That describes not just the meteorological, as measured by the civil IoT system, but also the social changes as well. The authoritarian past, and the democratic future is going to clash event more violently than we saw in the referendums the past month.
+That describes not just the meteorological, as measured by the civil IoT system, but also the social changes as well. The authoritarian past, and the democratic future is going to clash even more violently than we saw in the referendums the past month.
 
 ### Audrey Tang:
 If we do our earthquake prevention right, if we do smart governance through accountable and transparent institutions, then everybody raises higher. As you said, in a more benefiting from the plurality — we get to curate from the best of the direct, participatory, and representative democratic thoughts.

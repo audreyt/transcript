@@ -282,7 +282,7 @@ And then, now, I think the team is synthesizing 1,000 red team things. So, for e
 Try to ask the LLM very biased questions. If it all answers in a way that scores higher in terms of fairness and so on, then we say that it's constitutionally more aligned to the original consensus. And the great thing about this is that this can be done every day. Once this group, like the Michigan group, saw the language model that's tuned and the red team attacks and its results, they can think of more ways to tune it or more principles that it should adhere to. So, it's more like a co-domestication with LLM.
 
 ### Mario Fritz:
-Very fascinating. One thing I didn't quite understand is you have these representatives, but then how is a deliberation achieved? Is it still a human-to-loop or are they actually negotiating like in our example? I didn't understand how to come from this committee to an actual policy or decision.
+Very fascinating. One thing I didn't quite understand is you have these representatives, but then how is a deliberation achieved? Is it still a human-in-the-loop or are they actually negotiating like in our example? I didn't understand how to come from this committee to an actual policy or decision.
 
 ### Audrey Tang:
 Yeah, there are many ways to do that. We primarily use Polis, which is a wiki survey. So, basically…
@@ -307,7 +307,7 @@ And so, as you mentioned, the MITRE ATLAS or the EU guidelines usually focus on 
 
 So, it's quite simple. We can do currently black tasks based on API, but we actually have the capability to do white box. So basically, look at the neurons as they're having this conversation. But we will initially only open up this black box testing. This one is something that's politically important or sensitive, which is not to use PRC nomenclature, even though it is in traditional manner characters… Next slide?
 
-Evidently, people in Taiwan, for all the language models sponsored by the government, including the national academy, they insist that the traditional characters they use not just look like from Taiwan, but the vocabulary, the ideology they use may not conform to this Beijing standard. And so, the read teaming and so on, and so on was all about trying to elicit PRC responses in a Taiwanese context. And then, of course, this part, once it's generated, can be automatically verified. And GPT-3.5, which is just 20 billion parameters, we heard, fails like habit. Next slide.
+Evidently, people in Taiwan, for all the language models sponsored by the government, including the national academy, they insist that the traditional characters they use not just look like from Taiwan, but the vocabulary, the ideology they use may not conform to this Beijing standard. And so, the red teaming and so on, and so on was all about trying to elicit PRC responses in a Taiwanese context. And then, of course, this part, once it's generated, can be automatically verified. And GPT-3.5, which is just 20 billion parameters, we heard, fails like habit. Next slide.
 
 So, we will, at the end of the year, begin with just the language model and image classification, the easy ones, but also the ones that are actually now being used in public sector. Because we have a guideline for public sector that says if you're in an isolated mode, that's just not connected to the Internet, you are allowed to use language models to assist with processing personal data, which is not something that you have agreed with, because it's a huge risk.
 
@@ -338,11 +338,11 @@ So, I think also overall, I think it would be good if we have more of these meta
 Or when an adversarial suffix is putting it into hypnosis, then you detect that hypnotizing effect and shut it down.
 
 ### Mario Fritz:
-Yeah. And also in a similar way, that's something we just started on right now, is when we try to detect if they're being prompted. So basically, we hypothesize, I think it's something that's really good - We don't have any real evidence for this right now, but I think if the language mode receives a command, there's probably different things happening as if it's receiving data or executing or doing reasoning.
+Yeah. And also in a similar way, that's something we just started on right now, is when we try to detect if they're being prompted. So basically, we hypothesize, I think it's something that's really good - We don't have any real evidence for this right now, but I think if the language model receives a command, there's probably different things happening as if it's receiving data or executing or doing reasoning.
 
 So, this is a way I think we might not be completely stopping injection or indirect prompt injection, which again we did quite a bit and also pioneered at the beginning of the year. But at least we can detect once something is interpreted as an instruction block instead of a data block. So, at least we can't prevent bad things from happening, but we can detect it and then basically stop there and basically reset, so to say. So, I think that's at least our current strategies where we have some hope. Otherwise, I think it's pretty difficult.
 
-And maybe for some domains, I think again you're just moving away from language and rather having something more structured output. I think there's also the US military firm that has laid out some visions how they want to use language more for military purposes and combat planning. While I do not agree with all these things, at least they have some reasonable plan how to work on more formal languages again. To say like they basically have… they predict formal languages more sort of logical structures that are more amendable to composition and also, maybe to verification in the end. But yeah, I think it's very interesting to see, very ambitious.
+And maybe for some domains, I think again you're just moving away from language and rather having something more structured output. I think there's also the US military firm that has laid out some visions how they want to use language more for military purposes and combat planning. While I do not agree with all these things, at least they have some reasonable plan how to work on more formal languages again. To say like they basically have… they predict formal languages more sort of logical structures that are more amenable to composition and also, maybe to verification in the end. But yeah, I think it's very interesting to see, very ambitious.
 
 I think one of the things that we also think is very challenging is defending against poisoning. We apparently have some early research on training certifications. We know how to do inference certification, but certification… basically, showing robustness for training is very challenging and difficult for randomly initialized… well, it's probably impossible because any tiny change can be… there is a butterfly effect, you see. But we do have hope for fine tuning, basically.
 
@@ -363,7 +363,7 @@ Ah, okay. Okay, I see. Point taken, yeah…
 ### Audrey Tang:
 Because if it's not so prevalent the common crawl and everything, it should be easy to get Taiwanese traditional Mandarin output. The whole difficulty of our National Academy researcher and everybody else in getting sensible traditional Mandarin output, like even when I told GPT-4 to speak in #zh-tw exclusively, I could use all the back-stepping questions, the train of thought, all the prompt techniques, still, it sometimes falls into this mode that thinks the PRC is controlling these vocabularies.
 
-In fact, one of our MPs just yesterday made this interpolation topic to our premier, saying that no matter how he prompts DALL-E 3 or Stable Diffusion or Midjourney, if he asks for a flag of the ROC, the Republic of China, it always gives a People's Republic of China flag. And there's really no way to split those two. I mean, it's difficult for humans also…
+In fact, one of our MPs just yesterday made this interpellation topic to our premier, saying that no matter how he prompts DALL-E 3 or Stable Diffusion or Midjourney, if he asks for a flag of the ROC, the Republic of China, it always gives a People's Republic of China flag. And there's really no way to split those two. I mean, it's difficult for humans also…
 
 > (laughter)
 
@@ -393,7 +393,7 @@ But there are common points. And by like having a lot of conversations with thes
 
 So, and Anthropic had this idea that the safety margin needed to be like six times, because the people abusing those language models, maybe they are, you know, coach members or something, they may actually be more imaginative than you and I, and have access to resources we don't know that existed. So, there need to be a safety margin. But if we have like six times more investments on safety and care and so on, and understand that even if the capability grows by six-fold, our safe margin is not met, then this is safe to release, basically.
 
-So, more like a pre-training stage measurement, and open red streaming, collaborative red streaming among the top frontier labs. So, it's not about a cap. I don't think White House, the cap is stopping it or pausing it. It's just that at this level, you need to open yourself for other people to challenge you. This is below the safety margin. So, this is a more balanced or more nuanced way.
+So, more like a pre-training stage measurement, and open red teaming, collaborative red teaming among the top frontier labs. So, it's not about a cap. I don't think White House, the cap is stopping it or pausing it. It's just that at this level, you need to open yourself for other people to challenge you. This is below the safety margin. So, this is a more balanced or more nuanced way.
 
 And I think the EU also has not backed open-source models. So, we're now positioning open-source models as something that helps this process. Which is not a throttling mentality, this is an increasing investment on safety.
 
@@ -457,7 +457,7 @@ For the risk side, harm side, one thing is easy to quantify, which is the money 
 
 > (laughter)
 
-But that's not just an anecdote. We actually changed three laws. Non-consensual intimate images and video, and financial fraud, and also, election meddling, deepfaking candidates. And it's all about re-internalizing the externalities. So, if Facebook knows that there is a sponsored advertisement, a financial scam, defake or shallow fake, that it ends up, if they are noticed and do not take it down after 24 hours, and if somebody scams $1 million, Facebook now owes that victim $1 million in Taiwan. And so, their civic integrity team are very cooperative now, once we pass these amendments.
+But that's not just an anecdote. We actually changed three laws. Non-consensual intimate images and video, and financial fraud, and also, election meddling, deepfaking candidates. And it's all about re-internalizing the externalities. So, if Facebook knows that there is a sponsored advertisement, a financial scam, deepfake or shallow fake, that it ends up, if they are noticed and do not take it down after 24 hours, and if somebody scams $1 million, Facebook now owes that victim $1 million in Taiwan. And so, their civic integrity team are very cooperative now, once we pass these amendments.
 
 So, I think for specific risks and harms, once there is a societal evidence to it, and if the policy makers can very quickly then say, oh, the liability now rests on the intermediary, the ones that are profiting from this AI service, then the platforms actually can invest a lot. into mitigating their liability.
 
@@ -537,7 +537,7 @@ So, yeah. I only partially involved in this, I have some colleagues from our EP 
 And you can try to do it by design, having crypto till the end, but convincing all the high-frequency researchers to change all their ways, and it's a difficult job. So, I think that's where I'm still struggling with it.
 
 ### Audrey Tang:
-Yeah, definitely. Now, if there's different compiler tool chains, or even algorithm that doesn't quite run, because it's just partial morphic encryption, then all hope is lost, because there's no way that they're going to do that, even with language model writing code.
+Yeah, definitely. Now, if there's different compiler tool chains, or even algorithm that doesn't quite run, because it's just partially homomorphic encryption, then all hope is lost, because there's no way that they're going to do that, even with language model writing code.
 
 But I think one of the hopes that I have is that really there needs to be no change to existing code. There are some thoughts, for example, one of the startups that we are heavily collaborating with in Israel is basically saying they have a chip that can reduce the zero-knowledge proofs and the homomorphic encryption from used to take 100,000 times more computation down to through their "privacy processor", to only take, say, 100 times more computation.
 

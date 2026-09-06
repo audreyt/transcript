@@ -123,7 +123,7 @@ In Taiwan, there’s already a community called gov-zero, or g0v, and it’s bas
 Literally, changing a letter to a digit in your browser bar gets you into the shadow government, which is always more fun and participatory, and is always under an open source or free-software license, meaning that the other people can also fork it and also the government.
 
 ### Audrey Tang:
-If we understood that, for example, the map visibility is much better that whatever PDF or tables that the NHIA, the National Health Insurance Agency’s rolling out, then we can do a reverse procurement basically for filling their data on these, and then just retroacting to the citizen hackers’ implementation.
+If we understood that, for example, the map visibility is much better than whatever PDF or tables that the NHIA, the National Health Insurance Agency’s rolling out, then we can do a reverse procurement basically for filling their data on these, and then just retroacting to the citizen hackers’ implementation.
 
 ### Audrey Tang:
 I personally curate this list of more than one hundred implementations that, for example, showed availability as a chat bot, as voice assistant for people with seeing difficulties in multiple languages, and so on.

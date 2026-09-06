@@ -72,10 +72,10 @@ There are all sorts of examples, for instance, Cloudflare, the DDoS product whic
 
 We invested a lot in educating Russians about VPNs and they installed basic software, but for these VPN service, you have to pay. You can't do it, because Visa and Mastercard are not working in the country anymore.
 
-This access to information resisting digital Iron Curtain, requests a lot of work from both sides, not only from civil society and from those who want to break through through the digital Iron Curtain, but also from the western governments and first of all [inaudible 11:15].
+This access to information resisting digital Iron Curtain, requests a lot of work from both sides, not only from civil society and from those who want to break through the digital Iron Curtain, but also from the western governments and first of all [inaudible 11:15].
 
 ### Janelle Dumalaon:
-Now, I want to grab on to a word that you mentioned there and it's participation. And I would like to go to Adrey Tang, who can tell us something about this. Also again, the original question of how you have been affected by the digital iron curtain.
+Now, I want to grab on to a word that you mentioned there and it's participation. And I would like to go to Audrey Tang, who can tell us something about this. Also again, the original question of how you have been affected by the digital iron curtain.
 
 ### Audrey Tang:
 For me, the digital iron curtain is not something new, it shaped my career, as around the century, I was working with Freenet and later on with Tor, and with many peer-to-peer decentralized communication technologies around the time that the golden shield program gets designed and then later implemented.
@@ -130,7 +130,7 @@ We need also to first build a good habit of what we call media competence here i
 
 When middle schoolers can fact-check the three presidential candidates or if they're having real-time debates, when their fact-checks appear on the screen, their live TV, for everyone, it's not just about fact-checking as a thing that students learn. Rather, it's about something actively civic, that they contribute to the society.
 
-Then the students very quickly learn about the same civic tech communities, not just the cofacts channel. Instead of the professional journalists doing all the fact-checking, people can join in those local meetups, like the Wikipedia meetups that edits certain parts of Wikipedia, except of course in Taiwan, they go together and check particular aspects of the disinformation landscape so that can people can simply report, just like reporting spam, what's the trending disinformation there is. If it's information manipulation, people crowd source their intelligence.
+Then the students very quickly learn about the same civic tech communities, not just the cofacts channel. Instead of the professional journalists doing all the fact-checking, people can join in those local meetups, like the Wikipedia meetups that edits certain parts of Wikipedia, except of course in Taiwan, they go together and check particular aspects of the disinformation landscape so that people can simply report, just like reporting spam, what's the trending disinformation there is. If it's information manipulation, people crowd source their intelligence.
 
 At the end of the day, it is still vetted by someone in the international fact-checking network to add to the notice-and-public-notice regime. Before that, it is a collective learning tool. So instead of taking anything down, just like we don't do lockdown here in Taiwan vis-à-vis the pandemic, we don't do takedowns.
 
@@ -182,7 +182,7 @@ They just need to push one button, and everything that Russian and famous censor
 
 Another example, Instagram, as you mentioned, has been blacklisted in Russia in the first days of the war. Instagram has been the second-largest media platform after YouTube. Instagram didn't resist. They could, and this is well known. It's well-described and well-documented how Russian censorship model actually works.
 
-While it's hardly possible to protect a website from being blacklisted. The only way to access a blacklisted website would be via a Tor browser or via VPN or tools like Psiphon - for an application to protect itself from those in blacklist,hat's not rocket science.
+While it's hardly possible to protect a website from being blacklisted. The only way to access a blacklisted website would be via a Tor browser or via VPN or tools like Psiphon - for an application to protect itself from those in blacklist, that's not rocket science.
 
 Telegram did it in 2018. This isn't the application you have many tools you could use different protocols, rotate IP addresses of your servers. It requires a bit of investment, a bit of technical competence, and a lot of knowledge of the country you're operating in.
 
@@ -245,7 +245,7 @@ I forgot to say it in the very beginning, that all means are good if it leads to
 Thank you very much. The gentleman who had a question, perhaps you can stand up, say your name and your question, please?
 
 ### Oliver:
-Sure, thank you very much. I'm Oliver, deali with [inaudible 35:23] and Strategic Communication. I listened very carefully to this panel, and I have a question to Maria and Leonid.
+Sure, thank you very much. I'm Oliver, dealing with [inaudible 35:23] and Strategic Communication. I listened very carefully to this panel, and I have a question to Maria and Leonid.
 
 As we learned a little bit about the measures of the European Union to tackle disinformation, increasing fact-checking, and, also first and forwards, to reaching out to people behind the digital curtain. Are you satisfied with these efforts or should the EU and their efforts, their campaigning more offensive?
 
@@ -259,7 +259,7 @@ Not because they're expensive -- they're not -- but because they just don't have
 
 The actual cost of the service is maybe 10 percent of that. All others is marketing, margin, and whatever, and the infrastructure of collecting three euro a month from [laughs] many users. No problem. Spend this money on this side. Provide a high-quality, free service, accessible and least-resistant, so there's some technology.
 
-Not just a mainstream VPN, but a little bit of technical sophistication instead. Promote it. Russians will be thankful. It will make a difference [inaudible 37:50], very important when [inaudible 37:52] help a lot. Now, US is doing something like this. They have invested very much, and Siphon and [inaudible 37:57]. Europe is not doing anything like this.
+Not just a mainstream VPN, but a little bit of technical sophistication instead. Promote it. Russians will be thankful. It will make a difference [inaudible 37:50], very important when [inaudible 37:52] help a lot. Now, US is doing something like this. They have invested very much, and Psiphon and [inaudible 37:57]. Europe is not doing anything like this.
 
 ### Janelle Dumalaon:
 Leonid? I'm so sorry, we have to leave it there. Perhaps you can network with Maria Makeeva afterwards to hear her views. At this stage, I'd like to thank my panelists. Thank you very much for the insights, Maria Makeeva, Leonid Volkov, Lutz Guellner, and Audrey Tang. Thank you, all.

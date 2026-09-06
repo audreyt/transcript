@@ -222,7 +222,7 @@ I signify during that hot debate and two referenda that you see there’s a comm
 Ultimately, our so-called hyperlink act to legalize marriage equality is to rule that homosexual people, when they wed, they wed as individuals, hyperlinking to all the rights and duties, the parts in the civic code, but it hyperlinks to none of the codes in the in-law relationships, so their families do not become in-laws to one another on the legal code, and so on.
 
 ### Audrey Tang:
-This is not a compromise, compromise. This is an innovation that, just like Taiwan is caught between the Eurasian Plate on one side and the Philippines Sea Plate on the other, after earthquakes, grows.
+This is not a compromise, compromise. This is an innovation that, just like Taiwan is caught between the Eurasian Plate on one side and the Philippine Sea Plate on the other, after earthquakes, grows.
 
 ### Audrey Tang:
 Literally, the tip of Taiwan grows two or three centimeters every year because of this tension, this earthquake, and the idea that, “I’m going to innovate no matter what the left-wing says or the right-wing says. I’m determinedly going up-wing.” I think this is something any individual can say to become a force of common value out of the divisiveness and tension.
@@ -302,7 +302,7 @@ The argument goes that because it’s heavily state subsidized and may appear in
 At each and every upgrade, we have to do another system risk assessment, to see whether this is now de facto state-owned or whether there are still some autonomy left in that company. It’s amortized. It’s a much higher business cost than just working with Nokia or Ericsson, and so on, which doesn’t have that problem of being taken over \[laughs\] by their state at any given moment in time.
 
 ### Audrey Tang:
-People broadly come to consensus. The magic thing is that the head of Parliament eventually agreed with the occupiers and basically said, “OK. Let’s put a CSSTA on hold and start in national wide conversation around economic and trade as the occupiers demanded.” Out of it comes the e-participation platform, and so on.
+People broadly come to consensus. The magic thing is that the head of Parliament eventually agreed with the occupiers and basically said, “OK. Let’s put a CSSTA on hold and start in nationwide conversation around economic and trade as the occupiers demanded.” Out of it comes the e-participation platform, and so on.
 
 ### Audrey Tang:
 I think the lessons learned then is that any mayoral candidate that support these consensus on the street gets elected at the end of that year. Sometime without an inauguration speech prepared, it’s surprising even to them. The mayor candidate no matter which party that did not support open governance didn’t get elected.
@@ -355,7 +355,7 @@ That during the pandemic that the most recent…Our baseball games are tens of t
 They all wear masks, of course, but we are a post-pandemic for quite a while now. During the pandemic, people do feel anxious that humor over rumor playbook is still worth sharing.
 
 ### Audrey Tang:
-I remember an instance, where there was a panic buying of instant noodles. There was a conspiracy theory that says that the instant noodles aren’t going to run us then, and we all need to stockpile it, and so on. Then the premier, using the humor over rumor playbook immediately rolled out this huge cute scene banner.
+I remember an instance, where there was a panic buying of instant noodles. There was a conspiracy theory that says that the instant noodles aren’t going to run out then, and we all need to stockpile it, and so on. Then the premier, using the humor over rumor playbook immediately rolled out this huge cute scene banner.
 
 ### Audrey Tang:
 Basically, him showing a display of a huge storage of food, and says that there’s plenty of them and buy as much as you want. Just go out and buy. Basically, it’s kind of paradoxical prescription. People buy because they fear that there will be a shortage and the premier is saying that buy as much instant noodle as you want. We have plenty more.
@@ -470,7 +470,7 @@ Of course, you can always leave your phone there, but if it doesn’t move for t
 Anyway, if you break out of the quarantine, the fine is 1,000 times that daily stipend. You can fund 1,000 times most people in current scene. There’s a very few people break out of quarantine. We all understand at the end of the 14 days, there is no constitutional basis to continue to deploy this SMS notification.
 
 ### Audrey Tang:
-People understand because it’s not an app. There’s no way that this could, for example, interact with your WhatsApp or Instagram usage. That’s 91 percent of people’s approval rate, and the other 9 percent, we thank them for it because we’ve never declared state of emergency. We have to answer to the parliamentary interpolation.
+People understand because it’s not an app. There’s no way that this could, for example, interact with your WhatsApp or Instagram usage. That’s 91 percent of people’s approval rate, and the other 9 percent, we thank them for it because we’ve never declared state of emergency. We have to answer to the parliamentary interpellation.
 
 ### Audrey Tang:
 When the Department of Cybersecurity’s head, Howard Jyan, explained exactly how the digital fence works, how he partners with the five telecoms, how we do not collect new data, how they lock rotation is still in effect, so after 14 days, we know nothing about your cell phone signal strength, and so on, the approval rate grew to 94 percent, and of course we still thank the other 6 percent because they keep us honest and accountable.

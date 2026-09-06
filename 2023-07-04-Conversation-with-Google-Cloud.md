@@ -81,7 +81,7 @@ We recently, about three weeks ago, announced a very deep partnership with the S
 
 And really giving our learnings as we've been working on in terms of what should be the framework or policy standard. Of course, it's the government's call, we just give suggestions.
 
-And finally, it's about the ecosystem of startups. How do you encourage the ecosystem of startups? So, that's a fairly deep partnership. We are off the blocks on that. We'd love to explore how you're thinking about AI more broadly, but Gen AI more in particular as well. Some of our AI capabilities are starting to get… you are a user of Google Workspace. I think the first place we can start is showcase to you, do it AI capabilities.
+And finally, it's about the ecosystem of startups. How do you encourage the ecosystem of startups? So, that's a fairly deep partnership. We are off the blocks on that. We'd love to explore how you're thinking about AI more broadly, but Gen AI more in particular as well. Some of our AI capabilities are starting to get… you are a user of Google Workspace. I think the first place we can start is showcase to you, Duet AI capabilities.
 
 ### Audrey Tang:
 Yeah, when is it coming to our Workspace account?
@@ -141,10 +141,10 @@ Okay. 我跟部長報告一下，目前有跟 Google 提出政府雲的 POC 部�
 ### Audrey Tang:
 有些運算放地端，不是所有的東西一定要到 Google 的機房算？
 
-So, we’re talking about this hybrid Ccoud configuration where each government agency may have some locally-kept data in their local compute, but for certain compute that is beyond the local compute capability, they may, through dedicated lines, send to the Google data centers for additional computing. But the source of truth, the primary storage, is in the local agency.
+So, we’re talking about this hybrid Cloud configuration where each government agency may have some locally-kept data in their local compute, but for certain compute that is beyond the local compute capability, they may, through dedicated lines, send to the Google data centers for additional computing. But the source of truth, the primary storage, is in the local agency.
 
 ### 柯維然:
-其中有一個不一樣的是，這一塊政府雲的區域，一樣 Google 是有一部分幫我們維運持續的能力，這塊維運還是有 SSL 的品質，只是管理的權限可能是我們有一部分掌握的能力在裡面，這個是過去放在自己家裡，維運不善的話，還是有一些風險在，政府雲的肉還是會受到 Google 一定水準的保護跟維運能力，把不想要放在他家的資料，暫時放在這邊來做機敏的管控。
+其中有一個不一樣的是，這一塊政府雲的區域，一樣 Google 是有一部分幫我們維運持續的能力，這塊維運還是有 SLA 的品質，只是管理的權限可能是我們有一部分掌握的能力在裡面，這個是過去放在自己家裡，維運不善的話，還是有一些風險在，政府雲的肉還是會受到 Google 一定水準的保護跟維運能力，把不想要放在他家的資料，暫時放在這邊來做機敏的管控。
 
 ### Audrey Tang:
 這個是誰的需求，我們是要滿足誰的需求？
@@ -170,7 +170,7 @@ So, we’re talking about this hybrid Ccoud configuration where each government 
 
 
 ### Audrey Tang:
-這個需求之前微軟也有來談過，他們提議的解決方案就是我們自己塞自己的 Key 進去，他們保證不會在記憶體解密的時後偷看，所以概念上是我們送去運算的部分是直接加密到晶片，他就主張落地，這就跟放在自己家一樣，我不知道你們有沒有現在的 offer，你們對這樣的想法是什麼？
+這個需求之前微軟也有來談過，他們提議的解決方案就是我們自己塞自己的 Key 進去，他們保證不會在記憶體解密的時候偷看，所以概念上是我們送去運算的部分是直接加密到晶片，他就主張落地，這就跟放在自己家一樣，我不知道你們有沒有現在的 offer，你們對這樣的想法是什麼？
 
 
 ### Isaac Tsai：
@@ -304,7 +304,7 @@ Got it. Yes, absolutely. Short answer. Yes, we will come back with the trusted a
 Okay, that's awesome. Yeah. And the other thing I would like to ask is about cybersecurity. So, when you talk about partnership, do you mean like threat indicator sharing or some other things?
 
 ### Karan Bajwa:
-That is the basic. We recently made an acquisition of a company called Mandate, which I'm not sure you've heard of…
+That is the basic. We recently made an acquisition of a company called Mandiant, which I'm not sure you've heard of…
 
 ### Audrey Tang:
 I’ve heard of it but…
@@ -312,7 +312,7 @@ I’ve heard of it but…
 ### Karan Bajwa:
 You've heard about them. So really, they are the ones that governments call when there is a cyber risk. That's really the gold standard. So that's an acquisition we made that basically incident response, threat management. And we can bring in all the best practices to your cybersecurity team, including also exposure to all the foundational tools that Google has from a security standpoint, which we use to protect our own properties.
 
-So, Mandate is one more kind of a services capability and sharing all the best practices, tools, and then the broader Google capability as well. We can work offline with your team on the details of that.
+So, Mandiant is one more kind of a services capability and sharing all the best practices, tools, and then the broader Google capability as well. We can work offline with your team on the details of that.
 
 ### Audrey Tang:
 Great.
@@ -526,7 +526,7 @@ And if people do get access to those language models that they can run locally o
 
 The other risk I think is more short-term, which is like Red Team AI bots. So, if there is a ransomware that can write itself using the system resources on the target system, then to most of the threat indication mechanisms, they simply don't exist until they finally decide to coordinate an attack. So, the traditional defense in depth will probably be not very useful in this case.
 
-I don't have a very good solution to that, and maybe you have thought about that already- a persistent advanced self-writing Red Teaming bot. So, that is something I'm interested to explore together with the Nice and Google partnership.
+I don't have a very good solution to that, and maybe you have thought about that already- a persistent advanced self-writing Red Teaming bot. So, that is something I'm interested to explore together with the NICS and Google partnership.
 
 And finally, I think is about bias. In Taiwan, we've got 20 national languages. PaLM currently doesn't speak any of the 20. And GPT only speaks Mandarin and not very well at that. So, there is… because I, before entering the cabinet, worked with the Siri team for six years. And we very much care about Siri's impact on a previously heterogeneous or plural population. And it has a tendency of just streamlining or collapsing the context so that everybody has to speak perfect English to be understood. And it has a devastating effect on the next generation of the languages.
 

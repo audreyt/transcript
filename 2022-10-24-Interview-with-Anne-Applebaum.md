@@ -144,7 +144,7 @@ I was going to ask you that.
 ### Audrey Tang:
 Yeah. Where the Uber drivers, the taxi drivers, their passengers and so on looked like very polarized. They actually have many things in common. They care about insurance, registration, the fair use of the road, taking care of people in the very rural places.
 
-The local temples and churches, maybe they want to organize their own Uber like fleet and benefit from this kind of search pricing and things like that. The traditional media and the more antisocial form of social media, fueled by advertisement, tend to capitalize on the division on the one or two things.
+The local temples and churches, maybe they want to organize their own Uber like fleet and benefit from this kind of surge pricing and things like that. The traditional media and the more antisocial form of social media, fueled by advertisement, tend to capitalize on the division on the one or two things.
 
 Like it's gig economy. Economy is exploitation, or it's sharing economy is good for science. That is big ideological thing. Underneath these ideological thing, like 90 percent of arguments is actually shared by 90 percent of people most of the time.
 
@@ -160,13 +160,13 @@ Again, whether you identify as Democrat or Republican, everybody understand that
 Where else have you used pol.is? I know the taxi driver example you told us ...
 
 ### Audrey Tang:
-For example, we also use that to have a conversation about e-scoters. It's all very practical like whether e-scooters can be as bikes or as pedestrian or things like that and to very good effect. We have now multiple paddle sites and an upcoming ...
+For example, we also use that to have a conversation about e-scooters. It's all very practical like whether e-scooters can be as bikes or as pedestrian or things like that and to very good effect. We have now multiple paddle sites and an upcoming ...
 
 The law change already happens, so it would just have to put it into effect. Also online liquor sales, like non-consensual intimate images online. Airbnb, quite a few, like 25 legislations on the original platform. It is also being used for something this suddenly known digital.
 
 There was people who a few years ago proposed that we adopt the Singaporean caning for people who drunk drive. That was very divisive. Using pol.is we were able to adopt something that is not a corporal punishment on human, but on the car.
 
-There was a mandatory alcohol levels sensing device that locks your car if you're alcohol level is a little bit high for offenders. Lock down the car, not the person or something like that.
+There was a mandatory alcohol levels sensing device that locks your car if your alcohol level is a little bit high for offenders. Lock down the car, not the person or something like that.
 
 ### Anne Applebaum:
 That's interesting. You don't use it for areas that are very sensitive to the government, for example, like budgets. You don't have a national debate on budgets using pol.is?
@@ -458,7 +458,7 @@ This was into 2014?
 ### Audrey Tang:
 Yeah, this was in 2014, where the National Development Council was just formed, and really needed the legitimacy that was in very short supply. The government support was nine percent or something in 2014.
 
-In a sense, we built a pact where we, the occupiers, leant them legitimacy. They provide the open-data infrastructure, providing the data we want. That collation together has higher legitimacy than political figures.
+In a sense, we built a pact where we, the occupiers, lent them legitimacy. They provide the open-data infrastructure, providing the data we want. That coalition together has higher legitimacy than political figures.
 
 It's this legitimacy surplus that made a conversation to Facebook work because Facebook cannot appeal to the lawmakers to test pro-Facebook law. Previously, we already said that this way, the radical transparency was better.
 
@@ -518,7 +518,7 @@ I think so. [laughs]
 ### Audrey Tang:
 Yeah. The general sentiment ... A lot of Silicon Valley VCs, people working on startup ecosystem, they were physically in Taiwan with a gold card during the height of the pandemic. We had a lot of talks. Some of them relocated back, like YouTube's cofounder, Steve Chen, but they still maintain connections.
 
-It's quite clear that the investment climate after the NFT crash, incidentally, is now really on somethings like that, something civic, something improves the democratic experience, seeing that the NFT community don't have the same level of legitimacy now ...
+It's quite clear that the investment climate after the NFT crash, incidentally, is now really on something like that, something civic, something improves the democratic experience, seeing that the NFT community don't have the same level of legitimacy now ...
 
 Again, a very similar structure. Now they're looking for the impact certificates, or the use for Blockchain to prove you have decarbonized, things like that, things that are of environmental and social benefits that are non-partisan. There's a renewed appetite to invest to these things.
 
@@ -600,7 +600,7 @@ Yeah. If they do, they lose access to all the cutting-edge AI research. By, agai
 Do you have any sense of any kind of take-up among the general public? Is that something you can measure or not? Are you able to measure counter-messaging in Chinese media or Chinese Internet?
 
 ### Audrey Tang:
-Of course, I'm biased because I read those ... matters.news or whatever, so I'm unusually optimistic. It's quite true that, especially on the oversea communities where ...
+Of course, I'm biased because I read those ... matters.news or whatever, so I'm unusually optimistic. It's quite true that, especially on the overseas communities where ...
 
 ### Anne Applebaum:
 Overseas Chinese communities?

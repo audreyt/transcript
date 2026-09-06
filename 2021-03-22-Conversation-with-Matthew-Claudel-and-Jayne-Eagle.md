@@ -37,7 +37,7 @@ You had mentioned that you were doing some transformation within the government 
 Yeah. There’s an Open Parliament Action Plan. It’s not directly me. Mostly, you can say it’s inspired by me. \[laughs\] The point is that even though we’re in the administration, we do, through the publication of our National Action Plan open government, have the support from the MPs.
 
 ### Audrey Tang:
-It’s quite rare because all the four major parties in Taiwan’s legislature are through their way behind the Open Parliament Plan, making it truly a cross partisan thing, which is very rare, I tell you. \[laughs\]
+It’s quite rare because all the four major parties in Taiwan’s legislature are throwing their weight behind the Open Parliament Plan, making it truly a cross partisan thing, which is very rare, I tell you. \[laughs\]
 
 ### Audrey Tang:
 That’s pretty good. They have also a set of very concrete promises of structured data, of more accessibility and inclusion in the more rural areas to the hearing process, and many more. Quite happy about that.
@@ -555,7 +555,7 @@ There’s another thing about data innovation. If both jurisdictions recognized 
 Not in nightclubs where people shout to get heard, where addictive toxic drinks are served with private bouncers and so on. There’s a place in the nightlife district for people, but it’s not the place where the families go to dinner and have a civic deliberation, the upcoming natural personhood, right? \[laughs\] This signal is what Rachel and Bob Zimmer is more focused on.
 
 ### Audrey Tang:
-We didn’t talk that much about a direct bilateral thing, but this collective signal to sent to the surveillance capitalist is their focus.
+We didn’t talk that much about a direct bilateral thing, but this collective signal to send to the surveillance capitalist is their focus.
 
 ### Matthew Claudel:
 It’s really interesting to imagine putting something together along this front, in terms of digital infrastructure and potentially the legal implications of natural personhood. Let’s keep pursuing this.

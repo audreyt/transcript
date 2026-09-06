@@ -187,7 +187,7 @@ Once you had an experience in doing so just as a journalist who once was working
 > (laughter)
 
 ### Audrey Tang:
-...in democratic narratives, and then, of course, true civic participation become possible, because this is about people contributing their personal experiences in the way that still maintains that listening attitudes towards new ideas, instead of just reducing thing to one bit, which is not conductive to civic participation.
+...in democratic narratives, and then, of course, true civic participation become possible, because this is about people contributing their personal experiences in the way that still maintains that listening attitudes towards new ideas, instead of just reducing thing to one bit, which is not conducive to civic participation.
 
 ### James Chater:
 The idea of participation comes across very strongly as well and we can talk about it but I have a few more questions like that. Could you talk a little bit more about some of the examples that you've been initiating within government? I know that you have an office hours in Taipei, and then you also travel around Taiwan to various regions and [laughs] prepractice to the word...
@@ -200,11 +200,11 @@ The social innovation tours the office hours and interview where we publish the 
 
 Also important is the idea of a Participation Officer network, or a PO network. Within each ministry 32 of them, around 100 people, are trained in the art of listening skill, facilitation of making sure that hashtags are engaged in the here and now [laughs] is much like in the previous century, how media officers react to journalists and how a Parliamentary Officer react to the MPs.
 
-The Participation Officers need to react to, for example, some designers starting a petition saying textile systems are explosively hostile. Now, this is not something that you can actually solve it by a press release. The real solution is obviously inviting anyone who complained and co creating a tax filling experience together.
+The Participation Officers need to react to, for example, some designers starting a petition saying textile systems are explosively hostile. Now, this is not something that you can actually solve it by a press release. The real solution is obviously inviting anyone who complained and co creating a tax filing experience together.
 
 We got, last year, a 98 percent approval rate, which is unheard of in digital service. That's because a lot of people has participated in the co design. That includes participation offices in other ministries.
 
-When we hold workshops and collaborative meetings, the facilitators at each table are public servants, but they are not reporting to the competent authority of the issue at hand. When we talk about tax filling, for example, the facilitator may be a public servant from the Ocean Affairs Council or from the National Palace Museum. Totally unrelated to tax.
+When we hold workshops and collaborative meetings, the facilitators at each table are public servants, but they are not reporting to the competent authority of the issue at hand. When we talk about tax filing, for example, the facilitator may be a public servant from the Ocean Affairs Council or from the National Palace Museum. Totally unrelated to tax.
 
 ### James Chater:
 It's a pooling responsibility, in a sense?

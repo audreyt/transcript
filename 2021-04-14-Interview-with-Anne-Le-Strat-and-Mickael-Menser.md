@@ -182,7 +182,7 @@ Yes. Thank you. Go ahead, Anne.
 ### Anne Le Strat:
 I have a question regarding public governance and public policies. I would like to focus on a concrete example.
 
-Since recently, Taiwan has experienced a dramatic draught, the worst in over half of century. This very challenging situation leads the government to take drastic decisions.  To save water for homes and Tech factories, Taiwan has decided to impose severe water use restrictions and has shut off irrigation across tens of thousands acres of farmland. Even giving some compensations for growers in the affected rural areas, this decision to prioritize Tech companies does not meet with consensus.
+Since recently, Taiwan has experienced a dramatic drought, the worst in over half of century. This very challenging situation leads the government to take drastic decisions.  To save water for homes and Tech factories, Taiwan has decided to impose severe water use restrictions and has shut off irrigation across tens of thousands acres of farmland. Even giving some compensations for growers in the affected rural areas, this decision to prioritize Tech companies does not meet with consensus.
 
 In concrete terms, in this case, has there been a process of consultation with the various stakeholders? Could a national debate on the uses of water, on the choice of public policies to be carried out, be conceived in your framework of participatory democracy?
 
@@ -226,7 +226,7 @@ The loss was not friendly to a doubt. We change the laws and all of that because
 That's a concrete amendment to the result of the formula in the forward-looking infrastructure plan. Nothing similar has yet happened to my knowledge to the water infrastructure at this moment.
 
 ### Anne Le Strat:
-One of the conditions for the success of theses participatory processes of deliberation is the widest possible awareness of, and knowledge about these democratic mechanisms among the population.  It means that everybody at every level knows how to launch a petition, to request a consultation process, and so on.
+One of the conditions for the success of these participatory processes of deliberation is the widest possible awareness of, and knowledge about these democratic mechanisms among the population.  It means that everybody at every level knows how to launch a petition, to request a consultation process, and so on.
 
 For example, in that case, I am wondering if in your view the majority of growers and farmers know that they can request a consultation process?
 
@@ -367,7 +367,7 @@ We've all worked in the public service. We know that there's a natural tendency 
 
 Our open API initiative started when it was 2016. The first digital minister action is the open API movement that says the public servants are not held liable if we build systems that pre-delineate on the privacy boundaries. Things unrelated to privacy and trade secrets or whatever are published upon collection, meaning that nobody reviews it.
 
-In that sense, they're not liable for the data bias or data errors, because the errors and bias are also social objects. They are in the Commons. For example, during our national mosque rationing -- started last February -- we were quite happy because the pharmacies were to dispense the mask overlay almost exactly with the population census due to market mechanisms.
+In that sense, they're not liable for the data bias or data errors, because the errors and bias are also social objects. They are in the Commons. For example, during our national mask rationing -- started last February -- we were quite happy because the pharmacies were to dispense the mask overlay almost exactly with the population census due to market mechanisms.
 
 We think that each person has the same distance when they go to secure their PPEs, but because we publish every 30 seconds, their real-time purchasing history, it soon turns out we're biased. It's not a company. It's called OpenStreetMap. It's a community.
 
@@ -438,7 +438,7 @@ I think we need to go in depth social governance question. That's why we collabo
 Yes.
 
 ### Anne Le Strat:
-Even if what I understand is that theses democratic tools are specially relevant in order to discuss laws, regulations and norms, but not totally implemented within the management of public services. If I take the example of Taipei water service I am not sure that this kind of democratic governance is developped.
+Even if what I understand is that these democratic tools are specially relevant in order to discuss laws, regulations and norms, but not totally implemented within the management of public services. If I take the example of Taipei water service I am not sure that this kind of democratic governance is developed.
 
 ### Audrey Tang:
 I think that the paper I just posted have some relevance to the Civil IoT project, is worth looking into.

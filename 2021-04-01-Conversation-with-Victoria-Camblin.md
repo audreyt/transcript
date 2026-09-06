@@ -144,7 +144,7 @@ What’s RxC Taipei?
 RxC Taipei is basically a bunch of people who are interested in the distributed ledger technology as governance tools rather than as, I don’t know, cryptocurrency to replace Fiat. Instead of replacing the Central Bank, maybe they want to replace the central government. \[laughs\]
 
 ### Audrey Tang:
-I’ve known the RxC Taipei folks, a lot of them for quite a while, in 2014, right after the Occupy, the people that we convinced a career public service to start listening to us through both mentors, the weTaiwan project and so on.
+I’ve known the RxC Taipei folks, a lot of them for quite a while, in 2014, right after the Occupy, the people that we convinced a career public service to start listening to us through both mentors, the vTaiwan project and so on.
 
 ### Audrey Tang:
 That lecture to all the senior public service I deliver with the AP or publisher, one of the more prominent RxC Taipei, a guy who is working on popularizing blockchain governance ideas in everyday governance and exploring instead of virtual reality in deliberative modes and things like that, more artsy, like applied art person.
@@ -159,7 +159,7 @@ Mostly, because Glenn’s main geologist models are what Dr. Sun Yat-sen founded
 For the past 110 years or so, we’ve been running with this Georgia’s idea. We’re quite familiar with this idea. We don’t have to popularize it in Taiwan, but we do want to introduce the modern applications of these ideas to more people, not in politics or economy, but rather in art, in design, in pedagogy and so on.
 
 ### Victoria Camblin:
-That’s interesting with the pedagogy as well, that was geared towards that conversation a little bit, even the way, or at least it certainly seems to be in the perception of Emporium versus Bitcoin.
+That’s interesting with the pedagogy as well, that was geared towards that conversation a little bit, even the way, or at least it certainly seems to be in the perception of Ethereum versus Bitcoin.
 
 ### Audrey Tang:
 Definitely.
@@ -182,7 +182,7 @@ Certainly.
 How’s it going? \[laughs\]
 
 ### Audrey Tang:
-It’s going very well. \[laughs\] That’s our story, that the idea of digital democracy, moving post pandemic world is more and more in, for example, the Lincoln/Biden diplomatic playbook is more and more center around an alliance of democracies making improvements to democracy itself to solve world skills problems better than autocracy.
+It’s going very well. \[laughs\] That’s our story, that the idea of digital democracy, moving post pandemic world is more and more in, for example, the Blinken/Biden diplomatic playbook is more and more center around an alliance of democracies making improvements to democracy itself to solve world skills problems better than autocracy.
 
 ### Audrey Tang:
 That’s definitely what a so called democratic alliance in the Pacific \[laughs\] is alliance of two. We do have the full support of not just the four major parties, which just signed an Open Parliament Accord National Action Plan on the open parliament in the legislature, but also foreign service and pretty much all the people facing ministries.
@@ -346,7 +346,7 @@ Then noting the similarities, not comparing but I would say synthesizing, then s
 My first impulse would be getting excited about the chapters or figuring out what the community is without intervening upon it, without being hashtag this piece or implement this piece but almost doing some audit or whatever the less scary language for audit is.
 
 ### Victoria Camblin:
-Deep dive into the conversations in the already existing international chapters to decide where everyone’s at and then also how this can grow inappropriate, organic ways.
+Deep dive into the conversations in the already existing international chapters to decide where everyone’s at and then also how this can grow in appropriate, organic ways.
 
 ### Audrey Tang:
 Audit is exactly what it is, to go regularly to a class without being formally involved. \[laughs\]
@@ -370,7 +370,7 @@ We had an international audience. It was always about navigating those things. T
 When I elected to cover, say, a digital art collective in Seoul, Korea, it was because whatever they were talking about was also something that art students at the Georgia State University were talking about. Even if they were doing it on a super look like.
 
 ### Victoria Camblin:
-What I would want to do with that media platform was to allow people to connect the dots. If there’s a housing rights group in Budapest and they’re doing something interesting that could apply to housing right groups in Minnesota, then there’s certain ways you can get them in touch. That’s by acting it up.
+What I would want to do with that media platform was to allow people to connect the dots. If there’s a housing rights group in Budapest and they’re doing something interesting that could apply to housing rights groups in Minnesota, then there’s certain ways you can get them in touch. That’s by acting it up.
 
 ### Victoria Camblin:
 For me, in addition to auditing what the applications and what the conversations are in the existing network before building it up, which will be easy once you know what people are doing, it’s creating ways that can also expand based on the work of others within the network.

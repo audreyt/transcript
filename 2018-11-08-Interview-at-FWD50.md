@@ -187,7 +187,7 @@ I love this idea of working out loud. That is, saying if you have any part of co
 Once you do, tag and label it according to the mission that you are having to the world, you will find spontaneous connections. People can form support groups and units that share the same mission internationally.
 
 ### Audrey Tang:
-By just sharing case studies on, for example, the crowd log catalog, we get a worldwide view of people in different municipalities doing the processes that are talking to the people in, roughly speaking, the same way, which is why I tour around the globe, really, running two-day workshops, sharing the Taiwan experience of policy co-creation.
+By just sharing case studies on, for example, the Crowd Law Catalog, we get a worldwide view of people in different municipalities doing the processes that are talking to the people in, roughly speaking, the same way, which is why I tour around the globe, really, running two-day workshops, sharing the Taiwan experience of policy co-creation.
 
 ### Audrey Tang:
 We truly believe, by sending fellows from one jurisdiction to another, and sharing the civic tech inventions with the gov tech inventions, we’re co-creating a world in which the line between the government technology and digital, and the civic technology and digital and social innovation, is being blurred.

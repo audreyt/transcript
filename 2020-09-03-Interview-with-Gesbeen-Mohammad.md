@@ -70,7 +70,7 @@ Maybe the participation officer of the MOHW and the dog would be a good intervie
 A single trip to the Tainan City would enable you to interview pretty much all the civic technologists that did this technology and who worked quite closely without actually having met once face to face or even video conferencing. We just type it online.
 
 ### Audrey Tang:
-They don’t have to make a trip to Taipei to convince people because I’m kind of the bridge that connects them to the premiere. Howard Wu and his space of also the Google developer group that collectively did the first version of the map is actually quite visual and is a great story to tell.
+They don’t have to make a trip to Taipei to convince people because I’m kind of the bridge that connects them to the premier. Howard Wu and his space of also the Google developer group that collectively did the first version of the map is actually quite visual and is a great story to tell.
 
 ### Gesbeen Mohammad:
 Sorry, just going back. You’ve talked quite a lot about authoritarian systems and democracy.

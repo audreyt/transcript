@@ -724,7 +724,7 @@ And it also can run voice cloning and face cloning in real time with non-percept
 
 But this year, the algorithm is powerful enough so that any laptop that's good enough can run it. So, interactive deepfakes is going to be a thing.
 
-What's used to take creativity and what is cybersecurity, we will go social engineering, phishing attacks, spare phishing attacks, and so on, cannot be done on a mass scale, yet completely individualized.
+What's used to take creativity and what is cybersecurity, we will go social engineering, phishing attacks, spear phishing attacks, and so on, cannot be done on a mass scale, yet completely individualized.
 
 Previously, FIMI relies on viral spread but it's also self-limiting in a sense because it's the same message, just slightly mutated, and people develop antibody to it. But this time around, it's the same scale, however, completely individualized, and that's going to be a very different attack vector.
 

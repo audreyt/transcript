@@ -87,9 +87,9 @@ When there's also disinformation attack, intentional ones like when people panic
 
 It was a very popular narrative back in 2020, 2021. We countered them again very quickly through the examination. People built ways to show the real-time inventory of masks, PPEs and things like that. Even contact tracing system, which in the PRC means that the provincial governments can actually lockdown anyone at will.
 
-Even people who wants to fight for withdrawing funds from their banks, and so on, were subjected to this random redcoat treatment because it was very top down. In Taiwan, it's entirely decentralized distributed, so people can put the data in the places they trust, it could be a local grocery store, it could be their telecom company, it could be Bluetooth, peer to peer, at any given time.
+Even people who wants to fight for withdrawing funds from their banks, and so on, were subjected to this random red code treatment because it was very top down. In Taiwan, it's entirely decentralized distributed, so people can put the data in the places they trust, it could be a local grocery store, it could be their telecom company, it could be Bluetooth, peer to peer, at any given time.
 
-We've never mandated any to-down way to do contact tracing. We did do contact tracing very well, but without encroaching on privacy. I think the main point is that social innovation is much better than any top-down measure. When people come up with these ideas, the compliance is better, and also allows human rights or ideas that takes care better of privacy to emerge more naturally.
+We've never mandated any top-down way to do contact tracing. We did do contact tracing very well, but without encroaching on privacy. I think the main point is that social innovation is much better than any top-down measure. When people come up with these ideas, the compliance is better, and also allows human rights or ideas that takes care better of privacy to emerge more naturally.
 
 This is the idea of resilience for all, and with everyone, with the people, not just for the people. That forms now the backbone of their modus work on both cybersecurity security and countering disinformation.
 
@@ -118,7 +118,7 @@ When this was started, we needed to organize some digital line to Poland for ind
 ### Audrey Tang:
 For example, we are now in talks with Alphabet -- Google and YouTube -- and Meta, that's Facebook, to make sure that they also need, especially Google, to work with the journalists and practitioners here to ensure that there is a fair share of the advertisement related revenues because they are way to be a choke point to the revenue meet.
 
-Especially the textual part of the journalism dwindled, the revenue has more than halfed during the past 10 years and workforce has dwindled more than 20 percent. If this trend goes on, then we will not have this journalistic weapon to counter the virus of the mind when the time needs to come.
+Especially the textual part of the journalism dwindled, the revenue has more than halved during the past 10 years and workforce has dwindled more than 20 percent. If this trend goes on, then we will not have this journalistic weapon to counter the virus of the mind when the time needs to come.
 
 All around the world, there are ways. In EU, there's an extension of the copyrights, the neighboring rights. In Australia, there's a collective negotiation, and so on.
 
@@ -220,7 +220,7 @@ Whereas in Taiwan, the campaign donation and expense needs to be transparent and
 
 The same civil society people that really forced to control you into release the campaign donation and expense data as open data is the same people threatened to socially sanction Facebook if they don't adhere to the Taiwanese norms. No matter what they're doing at the US, they must adhere to the norms.
 
-According to someone from the Facebook civic integrated team, who will later quited and become a whistleblower, only a very few jurisdictions where there's this real threat of social backlash that Facebook invest serious energy in 2019 to enhance the transparency.
+According to someone from the Facebook civic integrated team, who will later quit and become a whistleblower, only a very few jurisdictions where there's this real threat of social backlash that Facebook invest serious energy in 2019 to enhance the transparency.
 
 By 2019, Facebook just changed its course totally and said, "We will just publish immediately who posted social or political advertisement. We will ban all foreign interferences," and so on. If someone tried to do that again, actually, that will be exposed, that would be a self news. We don't see that anymore leading up to the 2020 presidential election.
 
@@ -335,7 +335,7 @@ Everyone has this problem. It's very sticky. If I interact through a keyboard or
 From security point of view, it's...
 
 ### Audrey Tang:
-It's the same because we trust not the OS or anything, really. We trust a combination of MDM, the authenticator, the hardware security model, the SIM card, Endoleak, so you don't have to play ultimate trust on any brand. I assume they are all breached.
+It's the same because we trust not the OS or anything, really. We trust a combination of MDM, the authenticator, the hardware security module, the SIM card, Endoleak, so you don't have to play ultimate trust on any brand. I assume they are all breached.
 
 ### IPAC Member:
 The overall narrative still is different to politics as I have learned them in Germany. That is it is OK to make a mistake and learn from it and be able to also publicly not deny it, but speak about it and say well, "Dear legislator, how can you help us do better?"
@@ -382,7 +382,7 @@ Now, they're also mobilizing to get the national referendum, which is end of thi
 
 The older people are now also mobilizing online. Again, this is a panpartisan issue. During the pandemic, we've also seen that people use call centers, like telephone lines, to express for the people who are even more junior than 17, people who are 7 years old, 10 years old.
 
-When they see something wrong or something that can be changed with the counter pandemic measures, they can call this toll free number, 1 922, and someone with a lot of sympathy, empathy, and so on listen to their case, either explaining or escalating their suggestions to the command center, again, to be adopted within the next 2:00 PM daily press conference.
+When they see something wrong or something that can be changed with the counter pandemic measures, they can call this toll free number, 1922, and someone with a lot of sympathy, empathy, and so on listen to their case, either explaining or escalating their suggestions to the command center, again, to be adopted within the next 2:00 PM daily press conference.
 
 We've expanded through not just online websites, but also the local community gathering, even toll free numbers that very young people can call, to ensure this maximum inclusive input into the decision making process.
 
@@ -407,13 +407,13 @@ Which was yesterday. There was a disinformation that says we're going just to us
 
 The important thing is that instead of issuing a press release, which doesn't reach the original people who receive those end to end messages, the clarification on Cofacts actually goes back to the groups that shares those messages either via The Trend Micro. That's a private sector antivirus company. There's a bot doing that. Gogolook, that's another private sector company.
 
-If you subscribe to any of those anti scam antivirus services, or even if just one of your friends is friend with Cofact's bot, the time that I take to clarify this message actually is well spent because then it goes back to all the original groups that shares this message. Without taking anything down, this is notice and public notice.
+If you subscribe to any of those anti scam antivirus services, or even if just one of your friends is friend with Cofacts bot, the time that I take to clarify this message actually is well spent because then it goes back to all the original groups that shares this message. Without taking anything down, this is notice and public notice.
 
 This is especially useful leading up to the election when there is simply no time to do this full journalistic fact checking thing. For example, the fact checker discovered that there was a disinformation leading up to the 2020 election that says the people in Hong Kong, the young people, are being paid $200,000 to murder each police, their mercenaries, or something. Of course, it's not true.
 
 It's coupled with a very scary looking Reuter photo. Once the Taiwan FactCheck Center, the independent fact checker, discover that the origin of the message was actually the central political and low units weapon of the CCP, they simply go back to cofacts and so on to basically say the message you just saw is propaganda. It's sponsored by the CCP, without taking anything down.
 
-It suddenly shifts people's frame of reference, so that people, they still share the message, but now with a different frame. That, just going back to the route, is very important. There's an immune system that's built by the cross sectoral approach, collaborative fact checking, co facts.
+It suddenly shifts people's frame of reference, so that people, they still share the message, but now with a different frame. That, just going back to the route, is very important. There's an immune system that's built by the cross sectoral approach, collaborative fact checking, Cofacts.
 
 ### IPAC Member:
 Chinese, they create some group for disinformation here, for example.

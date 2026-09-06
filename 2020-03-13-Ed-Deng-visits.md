@@ -172,7 +172,7 @@ There’s Japan and Taiwan, and then after we do well in these markets, then we�
 In Japan, they have a legislation that enable the kind of data cooperative. I think they call it Infobank, or something like that, where people can pool their data together, join in the increased value that is only possible if you pool your data together, but have visibility and accountability into its governance.
 
 ### Audrey Tang:
-If it pays dividends, then everybody also earns the dividends out of the act of pulling the data together. I don’t know whether you have any experience working with that new jurisdictional regulation. It is a new thing.
+If it pays dividends, then everybody also earns the dividends out of the act of pooling the data together. I don’t know whether you have any experience working with that new jurisdictional regulation. It is a new thing.
 
 ### Ed Deng:
 I’ve heard of it, but we don’t see it in action yet. In fact, in terms of data flow and the access to health data, not much going on in Japan.
@@ -289,7 +289,7 @@ I know. If any of the SDK users has a data breach, everybody suffers…
 Potentially, yeah.
 
 ### Audrey Tang:
-…because everybody will fought the SDK, not the user. Cambridge Analytica uses this way, and then FB plummets in legitimately. \[laughs\]
+…because everybody will fault the SDK, not the user. Cambridge Analytica uses this way, and then FB plummets in legitimacy. \[laughs\]
 
 ### Ed Deng:
 In your example, hypothetically, if we would be the one to be breached, we would be the one to be hacked, not the individual.
@@ -334,7 +334,7 @@ True.
 Currently, there is no legitimate way to label this kind of different uses.
 
 ### Audrey Tang:
-For example, in vendor-rated learning, your consent is actually very weak. You just need to not actively be against your clinic sharing the wisdom, not the data, the wisdom, like the top two layers of neural network.
+For example, in federated learning, your consent is actually very weak. You just need to not actively be against your clinic sharing the wisdom, not the data, the wisdom, like the top two layers of neural network.
 
 ### Audrey Tang:
 If you don’t opt out, you can be affirmed that none of your raw data will be shared, because it’s just the top two layers of a multi-layer neural network. This requires less degree of consent. The problem currently is that there is no equivalent of PM2.5 or AQI indicators for the kind of consent that we’re giving.
@@ -388,7 +388,7 @@ Before us?
 Before us. Exactly, right.
 
 ### Audrey Tang:
-Because they’re rich. They’ve very small in population, very small in area, and so they can afford to run experiments.
+Because they’re rich. They’re very small in population, very small in area, and so they can afford to run experiments.
 
 ### Audrey Tang:
 Actually, our NHI itself, the IC Card has been running the Pescadores in Penghu for extended amount of time before everybody in Taiwan gets the IC card, the NHI card. For a while, everybody in Pescadores is using the IC Card. People in Taiwan is using…

@@ -271,7 +271,7 @@ If we found solutions in technology, we would do that. In that way, we would bui
 It’s not on tech first. It’s people first. Who are we serving? What issue are we tackling? We say this in Code for Japan that we think together and create together so that technology comes together with people.
 
 ### Tsuyoshi Wakahara:
-I want to ask an additional question to Audrey. I heard from somebody that we don’t call something that we were born with technology. For example, for myself, when I was born, telephones were already there. It came natural that it’s mean to do something. However, when we encounter something new as an adult, that would be overbearing, and we tend to overrate that.
+I want to ask an additional question to Audrey. I heard from somebody that we don’t call something that we were born with technology. For example, for myself, when I was born, telephones were already there. It came natural that it’s meant to do something. However, when we encounter something new as an adult, that would be overbearing, and we tend to overrate that.
 
 ### Tsuyoshi Wakahara:
 My question to you, Audrey, is this. How should we keep our mindsets in a neutral or a natural way even when we encounter new technology that might scare us in a way? How do we just plainly see it as a means to help ourselves?

@@ -209,7 +209,7 @@ We are not able to oversee all of these when we are on the high seas because the
 > (non-English speech)
 
 ### Translator:
-When we are going abroad to war, going overseas to war, we are expecting to have a better life for us and for our families. Oftentimes, when we are not able to communicate with our families, we cannot discuss of what is happening, or what do they need, or how is our salary being used. Then, the conflicts arise and it destroy our family.
+When we are going abroad to work, going overseas to work, we are expecting to have a better life for us and for our families. Oftentimes, when we are not able to communicate with our families, we cannot discuss of what is happening, or what do they need, or how is our salary being used. Then, the conflicts arise and it destroy our family.
 
 > (non-English speech)
 
@@ -219,7 +219,7 @@ When we are working on the high seas, usually, the employer gave us two days or 
 > (non-English speech)
 
 ### Translator:
-We are hoping the government could push a revolution that requires all the fishing vessels to have WiFi that allow us to stay connected with our families.
+We are hoping the government could push a regulation that requires all the fishing vessels to have WiFi that allow us to stay connected with our families.
 
 > (non-English speech)
 
@@ -456,7 +456,7 @@ An analysis of that so we can be logical and practical in the solutions, we're v
 That's excellent.
 
 ### Female Participant:
-I think the question is, is this a political will question because of what it means for workers to have a voice, or is it actually caustic? Can we solve the practical pieces together?
+I think the question is, is this a political will question because of what it means for workers to have a voice, or is it actually costly? Can we solve the practical pieces together?
 
 ### Audrey Tang:
 I think it's just practical question.
@@ -517,7 +517,7 @@ When we say broadband is a human right, we certainly don't just mean broadband i
 
 On the other hand, the universal access fund is not a taxpayer fund. It is a fund that is willingly contributed -- well, by law, so somewhat willingly contributed -- by all telecom operators to fund, to subsidize, telecom users in remote places.
 
-It never gets into the treasury of our country, but rather it's basically a structured subsidy payment system for the telecoms to base on their revenue to spend a portion of their profits to such universal access uses. The fund is quite sizable, and if we can redirect part of the fund to this, it will easily cover the FAA needs.
+It never gets into the treasury of our country, but rather it's basically a structured subsidy payment system for the telecoms to base on their revenue to spend a portion of their profits to such universal access uses. The fund is quite sizable, and if we can redirect part of the fund to this, it will easily cover the FA needs.
 
 The question is how to convince the existing telecom providers that this also is maybe not in letter, but in spirit of the universal access. That is also one angle that we should explore. Once the research concludes by the end of this year, it may take effect on the next year.
 
@@ -779,15 +779,15 @@ Yes.
 For me, I have a question. You were mentioning several recent development in technologies like Starlink, new iPhone, T-Mobile, and so on. According to your explanation, it is new. How long do you think it takes to be a common consumption for people, and affordable for the vessel owner, and accessible for us? How long do you think it's going to be?
 
 ### Audrey Tang:
-As I mentioned, it doesn't need to be a universal commodity. It only needs to be more desirable and less expensive than the current 300,000 NT dollar satellite receiver that the FAA is subsidizing the vehicle owners because the reason that they can only cover it 10 percent, sounds to me that it's just cost-based reasoning.
+As I mentioned, it doesn't need to be a universal commodity. It only needs to be more desirable and less expensive than the current 300,000 NT dollar satellite receiver that the FA is subsidizing the vehicle owners because the reason that they can only cover it 10 percent, sounds to me that it's just cost-based reasoning.
 
 Maybe it's not yet that you will be a normal phone, which is only a few thousand NT dollars now. Even if it's 10 times more, like 10 or 20 NT dollars phone, like a high-end phone, it's still 10 percent of what used to be a satellite receiver. Because we only need to hit the spot where it's 10 percent of the previous cost, not one percent of the previous cost, which is that of the commodity phone.
 
-I think by early next year or the end of this year, we will hit the point where a satellite receiver is just 10 percent of what the FAA is subsidizing, but I cannot tell you how long it takes for the commodification for it to be 1 percent of the current vehicle because that depends on market situation and also on demand.
+I think by early next year or the end of this year, we will hit the point where a satellite receiver is just 10 percent of what the FA is subsidizing, but I cannot tell you how long it takes for the commodification for it to be 1 percent of the current vehicle because that depends on market situation and also on demand.
 
 If there's a lot of demands, then the commodification happens faster. If there is only a specialized demand, like in your work fields or people hiking high mountains, but their calculation stays small sized, then maybe we never moved to this point because there's no desire to mass manufacture such equipments.
 
-That's not our end goal. Our end goal is actually just here because if FAA already committed to subsidize this bucket and it covers 10 percent, so we only need to drive cost to the 10 percent...
+That's not our end goal. Our end goal is actually just here because if FA already committed to subsidize this bucket and it covers 10 percent, so we only need to drive cost to the 10 percent...
 
 ### Female Participant:
 You already need to...
@@ -857,7 +857,7 @@ Yeah, they've invited us...
 Will you be joining them?
 
 ### Audrey Tang:
-I was in 2020 Rightscon, I think, but I don't know. It's my staff and foreign ministry planning my travels now, parliamentary interpolation and budget defense duties, as I'm not as free to roam as my previous job.
+I was in 2020 Rightscon, I think, but I don't know. It's my staff and foreign ministry planning my travels now, parliamentary interpellation and budget defense duties, as I'm not as free to roam as my previous job.
 
 > (laughter)
 

@@ -78,7 +78,7 @@ Old Greek people do not spend all their days on the acropolis either. [laughs] T
 
 That is to say, at this agenda setting stage, we go to these places. At the reflective deliberative stage, we go to these places. When it comes to the voting and decisions, we go to these places. That each specific, as part of the social norm, serve a purpose.
 
-But this purposeless wondering of this fear of missing out and things like that, that's simply absent from the classical analog civic infrastructures. We don't linger there. What's the point of getting the same addictiveness cycle to the civic infrastructure? I don't think that makes sense.
+But this purposeless wandering of this fear of missing out and things like that, that's simply absent from the classical analog civic infrastructures. We don't linger there. What's the point of getting the same addictiveness cycle to the civic infrastructure? I don't think that makes sense.
 
 If people just went through this public deliberation and raised, for example, Dr. Li Wenliang's message about SARS happening in Wuhan, getting circulating PTT, triaging it, uploading it, and within 24 hours, the medical team in the Center for Disease Control say, "OK, we heard you." We start health inspections for all flights coming in from Wuhan, and that's done.
 
@@ -176,7 +176,7 @@ They have nothing to lose.
 ### Audrey Tang:
 Our minister of culture and the National Palace Museum, which is its own ministry of sorts due to various historical reasons representing the Qi Dynasty, they are all very much in the open data and visualization and Creative Commons.
 
-In fact, for the animals cross inking, the National Palace Museum in a special digitalized version so that you can create levels of debt in your island or something.
+In fact, for the Animal Crossing, the National Palace Museum in a special digitalized version so that you can create levels of debt in your island or something.
 
 ### Noah Swartz:
 It seems like open Creative Commons stuff is very important to you to have Taiwan contribute more to the Commons.

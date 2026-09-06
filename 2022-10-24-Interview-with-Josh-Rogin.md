@@ -102,9 +102,9 @@ How did that work out?
 ### Audrey Tang:
 Very well. That's what enabled us to go almost a year without a single infection. That's what enabled people to... As another example, we publish this real time open data on people's preference for the vaccination, pre-registration for vaccines of different brands.
 
-People who don't like AstraZeneca for example, nevertheless see that there's these people in this age bracket referring it. We had turned what, in other jurisdictions, a vaccine and vax polarization into a healthy competition between I don't know, football or play basketball, like one of your four favorite teams in a league or something like that.
+People who don't like AstraZeneca for example, nevertheless see that there's these people in this age bracket preferring it. We had turned what, in other jurisdictions, a vaccine and vax polarization into a healthy competition between I don't know, football or play basketball, like one of your four favorite teams in a league or something like that.
 
-It drove the vaccination rate very high because people end up having one favorite and saying the other three are back. Nevertheless, they're proud to support the team. Team BNT, Team Moderna, or...
+It drove the vaccination rate very high because people end up having one favorite and saying the other three are bad. Nevertheless, they're proud to support the team. Team BNT, Team Moderna, or...
 
 ### Josh Rogin:
 Who won?
@@ -296,7 +296,7 @@ Yeah. Immunized.
 Do you think this is an evolution of the tactics of the Chinese government and how they use cyber attacks from disruption, to cognitive warfare, and influence?
 
 ### Audrey Tang:
-Yeah. Disinformation, unlikes hard cyberattacks, used to be very different lines of attack. In the events following Speaker Pelosi's visit, we've seen these two working very closely together, almost intertwined.
+Yeah. Disinformation, unlike hard cyberattacks, used to be very different lines of attack. In the events following Speaker Pelosi's visit, we've seen these two working very closely together, almost intertwined.
 
 ### Josh Rogin:
 When you think about cognitive warfare, that also comes through legal means of media and social media, and is one of your areas of interest and responsibility to influence operations, digital influence operations, that may be on TikTok, or may be on Facebook, or may be on Instagram. Is that part of...?
@@ -310,7 +310,7 @@ How do you think about the challenge of cognitive warfare and social media platf
 ### Audrey Tang:
 Again, I think the point here is to build preexisting networks of trust between people and journalism. I say journalism, not journalists, because I believe in civic journalism. People who learn about fact checking about checking your sources, about the right framing and so on, who can be a trusted party that is not affected by this partisan fight.
 
-For example, one example during the 2020 January election for presidents, during the voting, there was a disinformation that says "the CIA provides invisible ink. No matter who you vote for, that vote will disappear and Tsai Ing-wen will gain votes thanks to thouse invisible markers."
+For example, one example during the 2020 January election for presidents, during the voting, there was a disinformation that says "the CIA provides invisible ink. No matter who you vote for, that vote will disappear and Tsai Ing-wen will gain votes thanks to those invisible markers."
 
 ### Josh Rogin:
 I wish the CIA was so capable...
@@ -368,7 +368,7 @@ That's a big project.
 ### Audrey Tang:
 Yeah, it is, it is. For lifelong education, people, even my parents, when they read possible disinformation on the line, platform, they learn to check the Cofacts, which is a g0v civil society project, like Wikipedia. To answer your question more directly, everyone can write their own fact-finding nuggets.
 
-Now the most trending of disinformation is reported by people like spawn reporting on Cofact, but nobody is the arbiter. You see multiple inputs, and nobody can delete the other people. But because this place, Cofacts, is pro-social, not anti-social media, it doesn't sell advertisement based on profiling in any way.
+Now the most trending of disinformation is reported by people like spawn reporting on Cofacts, but nobody is the arbiter. You see multiple inputs, and nobody can delete the other people. But because this place, Cofacts, is pro-social, not anti-social media, it doesn't sell advertisement based on profiling in any way.
 
 This is the place in which people learn about the act of collaborating across very different party affiliations and so on. Especially because they usually collaborate more mundane things like which fruit, which tea causes cancer, or things like that. Even across party differences, they can already learn to work together on the more food-and-drug issues.
 
@@ -450,7 +450,7 @@ Not at all. I'm working with the government, not for the government, and also I'
 
 Everyone understand that I serve all the 17 SDG colors, not any particular party color. This is very well-known in Taiwan. In this, I'm very much like a kind of a senior bureaucrat, in a sense that no matter which ruling party is in place, I work to defend democracy.
 
-This is important because the disinformation attack and so on that we just mentioned, is not about attacking particular projects, it's trying to undermine people's faith in the democratic process itself. They will support any faction, any party if it's serves the need to make people doubt the democratic process, about their participation and so on. Something you have also seen in the US, right?
+This is important because the disinformation attack and so on that we just mentioned, is not about attacking particular projects, it's trying to undermine people's faith in the democratic process itself. They will support any faction, any party if it serves the need to make people doubt the democratic process, about their participation and so on. Something you have also seen in the US, right?
 
 ### Josh Rogin:
 Sure. I do want to talk about this. I'm just curious about this idea of how anarchism and democracy can coexist, because in a purely conservative anarchist system, there would be no governments or there would be no democracies.
@@ -496,7 +496,7 @@ That's the thing. When people watch the Public TV broadcast in Taiwan, they don'
 
 Nobody would normally associate that with the ruling party. That's a good example of a commons or social sector, or civil society-led conversation. Now, in Taiwan, it just so happens that our largest Reddit-like forum, the PTT, this in the social sector unlike Reddit, which has to think about shareholder value or whatever, or Facebook, which has to think about advertisement and so on.
 
-The PTP never had a shareholder or advertisement. It's entirely within the common academic network. In fact, the governing body is called a Bulletin Board System Research Club in the National Taiwan University — it is a voluntary association of undergrads running the most important public forum in Taiwan for 25 years. Source code is open and governance is distributed, and you earn moderator privileges by contributing to community, not by shareholder appointment. Because we have multiple good examples at PTT, g0v, and so on, that's our daily life.
+The PTT never had a shareholder or advertisement. It's entirely within the common academic network. In fact, the governing body is called a Bulletin Board System Research Club in the National Taiwan University — it is a voluntary association of undergrads running the most important public forum in Taiwan for 25 years. Source code is open and governance is distributed, and you earn moderator privileges by contributing to community, not by shareholder appointment. Because we have multiple good examples at PTT, g0v, and so on, that's our daily life.
 
 When we look at mainline Google and say, oh, they should of course, coexist and co-thrive with the journalistic endeavors, there's this good, well-trusted intermediary community that can mediate this conversation. It's not an either/or public or private thing.
 
@@ -709,7 +709,7 @@ On digital issues, we can contribute our own cybersecurity designs, like protect
 
 We provide contributions in both components so that if people from Ukraine, but also from anywhere in the world, want to reuse those components, they can freely do so, where we share the same commons repository.
 
-Just as we set the public code from the Nordic countries like Estonia, Finland, Iceland, and so on, so too can we contribute into the common spool so that... For example, we can do penetration testing on those components, discover vulnerabilities, and then help them to uncover possible vulnerabilities before the authoritarians take advantage of those. It's all in a shared open-source public function.
+Just as we set the public code from the Nordic countries like Estonia, Finland, Iceland, and so on, so too can we contribute into the common pool so that... For example, we can do penetration testing on those components, discover vulnerabilities, and then help them to uncover possible vulnerabilities before the authoritarians take advantage of those. It's all in a shared open-source public function.
 
 ### Josh Rogin:
 Do you have any specific Taiwan/Ukraine operation efforts ongoing now that are addressing their current crisis?

@@ -420,7 +420,7 @@ It’s been really cool to see the different ways, some of the contributions tha
 Interactive non-fiction. \[laughs\] I also did one with the Architecture Biennale, with the German team. They did an interview called Project 2038. My interview’s already online. They asked everyone to talk in a sci-fi fashion, looking backward from the year 2038, how we averted the great climate crisis, the great other crises, and our part in it. \[laughs\]
 
 ### Audrey Tang:
-It’s a very speculative design way to look into future history. We have to say, “Oh, in the ‘20s, Etherium community developed the Serenity Project,” and speak everything future tense in past tense.
+It’s a very speculative design way to look into future history. We have to say, “Oh, in the ‘20s, Ethereum community developed the Serenity Project,” and speak everything future tense in past tense.
 
 ### Raman Jit Singh Chima:
 It’s also nice to see it doing it in a dystopian time we deal with. It’s not just like, “Oh, everything has gone horrible.”
@@ -621,7 +621,7 @@ Give them a sense of not just agency, but government accountability and oversigh
 The other issue for us is definitely cybersecurity, at both the national and global level in Asia-Pacific. Both in terms of increasing government commitments to global cyber norms, actually creating them. They’re seeing this message that, “Oh, we will run this operation because you ran this operation against us.”
 
 ### Raman Jit Singh Chima:
-But try and at least say, “Look, cyberspace is a global commons. We need rules that protect everyone on this.” But also ensuring that these re not just military or intelligence-dominated. Citizens, developers, tech organizers, they’re able to have to a voice in that. Right now, it’s very either big company, or big military, or some type government-based in terms of conversations.
+But try and at least say, “Look, cyberspace is a global commons. We need rules that protect everyone on this.” But also ensuring that these are not just military or intelligence-dominated. Citizens, developers, tech organizers, they’re able to have to a voice in that. Right now, it’s very either big company, or big military, or some type government-based in terms of conversations.
 
 ### Raman Jit Singh Chima:
 These are some of the priorities for us in the region. The other thing, very honestly, we’re also trying to do is drive more connection on digital rights of the Asia-Pacific tech community, and by that, I mean particularly tech companies, hardware manufacturers.
@@ -815,7 +815,7 @@ That would be May. It’s kind of interesting, because it’s right between two 
 Even if you decide to run in South Korea, we can also do pre or post events in Taiwan. That’s a short flight.
 
 ### Raman Jit Singh Chima:
-…we ask the quality question to our South Korean colleagues and counterparts. If we did it in Taipei, how would it still be connected? That’s very helpful news for us. Whatever we do, we will work with both counties. We really don’t want to do it siloed off only in one country. We really are a community.
+…we ask the quality question to our South Korean colleagues and counterparts. If we did it in Taipei, how would it still be connected? That’s very helpful news for us. Whatever we do, we will work with both countries. We really don’t want to do it siloed off only in one country. We really are a community.
 
 ### Audrey Tang:
 When the g0v and the South Korean communities decide to run hackathon together, they went to Okinawa.

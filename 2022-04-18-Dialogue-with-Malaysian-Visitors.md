@@ -45,14 +45,14 @@ That is the bottom right meme, a very cute dog putting food to their own mouth. 
 We out meme, boast this information. Before we got full vaccination, we also out innovate the viral mutations including the alpha and delta variants.
 
 ### Malaysian Moderator:
-Can you also elaborate a little bit about your office, how big is your innovation space? This is very unconvention in terms of administrative bureaucracy. What does your office do? What are the future of the office?
+Can you also elaborate a little bit about your office, how big is your innovation space? This is very unconventional in terms of administrative bureaucracy. What does your office do? What are the future of the office?
 
 ### Audrey Tang:
 My office in the Cabinet is literally horizontal. Each ministry can send one career public servant to my office. Out of the 32 ministries, maybe half of them have sent people, around 16 people each from a different ministry. My role is to ensure that they can co create. I don't give them orders. I don't take orders from them.
 
 Whenever any of them think of a way that can work better, then we collaborate together to solve the issue together. Every time anyone in the Join platform, join.gov.tw, propose something and people have 5,000 countersignatures, then we do a ministerial response to those petitions. Many of the petitions are cross ministerial.
 
-It requires people from various different ministries to work together. There was a petition that said the text filing experience is explosively hostile to Linux and Mac users. Then we got the participation officers from, say, the coastguard, the Ocean Affairs Council, unrelated ministries but they are Mac and Linux users. They can co create a better solution.
+It requires people from various different ministries to work together. There was a petition that said the tax filing experience is explosively hostile to Linux and Mac users. Then we got the participation officers from, say, the coastguard, the Ocean Affairs Council, unrelated ministries but they are Mac and Linux users. They can co create a better solution.
 
 When we have a conversation about the ocean affairs, about fishing, surfing, and so on, maybe it will be the tax agency or the Financial Ministry chairing the breakout conversations. They also surf and fish in their spare time, and so on. They are on the side of petitioners. They are on the side of citizens.
 
@@ -106,7 +106,7 @@ The idea of wu-wei very simply put is to "No top down." No forced action, I thin
 
 One quick example, very early on in the pandemic 2020 February, we found out that there is not enough mass production capability in Taiwan. At that time, with 24 million people, we only produce less than 2 million per day.
 
-While we are ramping up the production, naturally, we will have to ration out the mask so that more than three quarters of people can have access to mask. That's how we fought off the original variance in 2020.
+While we are ramping up the production, naturally, we will have to ration out the mask so that more than three quarters of people can have access to mask. That's how we fought off the original variants in 2020.
 
 Now, if we simply ask people to follow the rules, without publishing any information about the actual distribution of masks, that will be your way. That will be very top down. Instead, what we're doing is that we trust these citizens with open data so that everyone can see every 30 seconds, which pharmacy's near them, how much inventory they have in adults mask and children's mask. The best thing is that this interface is not a government technology. It's just civic technology created by people in Thailand city.
 
@@ -124,7 +124,7 @@ It's actually biased, is being unfair, and we advertise it as fair. What's going
 
 After 24 hours, the opposition party working with the community discovered a new distribution method with pre registration, a convenience stores as pickup points, and so on. Then we immediately made it more fair in 24 hours.
 
-In turns previously a zero sum or lose lose scheme of political blame into a positive sum game of cooperative and co creation. That's the most important part of working with the people in away kind of way.
+In turns previously a zero sum or lose lose scheme of political blame into a positive sum game of cooperative and co creation. That's the most important part of working with the people in a way kind of way.
 
 ### Malaysian Moderator:
 It's quite unusual to see a good cooperation between the opposition and the ruling party. It's hard to find in some certain democratic countries. Let's talk a bit about this Creative Commons project that your office has been forwarding open data about the people that you're going to meet even for certain policies. These people will be coming to your office for lobbying.
@@ -197,7 +197,7 @@ The city governments only use this data in a way that corresponds to the purpose
 
 This is nothing like private to private SMS that may be part of the telecommunication surveillance. This is purely a counter epidemic approach. Once people get assured that, "Oh, this has actual use," this will reduce the spread of Delta and Alpha variants.
 
-The first variant of Omicron, we fought off all these because we shortened the contract tracing from 24 hours to 24 minutes, so people participated in it. They see the meaning of it. They know it will not be misused, so they work together very well. More than 2 million venues printed those QR codes in the first week and then together provide very high quality data.
+The first variant of Omicron, we fought off all these because we shortened the contact tracing from 24 hours to 24 minutes, so people participated in it. They see the meaning of it. They know it will not be misused, so they work together very well. More than 2 million venues printed those QR codes in the first week and then together provide very high quality data.
 
 ### Malaysian Moderator:
 It's a very eye opener for this kind of approach in managing the data. I would like to open up this floor to the participants. Anyone who has any questions, can you please unmute yourself. Let us know where you're from and your name.
@@ -284,7 +284,7 @@ Another example that I usually use is that the citizens in 2016 occupied the nat
 
 We at a time, the g0v community worked together to run a CAPTCHA, a massive CAPTCHA, that people use like solving CAPTCHA to reverse engineer those printouts into structured data. That not just the national auditing office can do audit, but anyone. The investigative journalist can do audit.
 
-That led to the control UN, releasing finally as open data the campaign expense and donation in the 2018 election. Once they released that, the independent journalist discovered that the social media advertisements, which bypassed both fact checking and parliamentary oversight, the Facebook advertisements, they're never declared as campaign expense.
+That led to the Control Yuan, releasing finally as open data the campaign expense and donation in the 2018 election. Once they released that, the independent journalist discovered that the social media advertisements, which bypassed both fact checking and parliamentary oversight, the Facebook advertisements, they're never declared as campaign expense.
 
 The donors came from outside of our jurisdiction and even from jurisdictions that there's no Facebook. Obviously, they're doing something. [laughs] It creates a social pressure.
 
@@ -324,7 +324,7 @@ It also developed antibodies because they see, "Oh, this trending disinformation
 Now a question from Aylin. What are some of the challenges you face when it comes to co-creation, especially getting more input from the marginalized or less politically dominant members of the society? Does your civic society engage in their own crowdsourcing, which then integrates to government services?
 
 ### Audrey Tang:
-Definitely. This, from 2016, is the airbox where people, usually high school and primary school teachers, teach data stewardship and data competence to their students by having a PN2.5.
+Definitely. This, from 2016, is the airbox where people, usually high school and primary school teachers, teach data stewardship and data competence to their students by having a PM2.5.
 
 That's air quality, small particles pollution measuring device on their balconies, on their schools, and so on. Each dot here is something that is contributed into data altruism by a local school.
 
@@ -336,7 +336,7 @@ The local city government instilled this way of setting up the airbox according 
 
 That takes care of not just air pollution but also the water quality, earthquake and other disaster recovery in a truly crowdsourcing way. We also invested and distributed ledger technology so that every student can upload their own models to the shared data store and is all immutable.
 
-It will not be changed leading to an election and things like that. It's a fabric that engenders trust. Because of the success of civil IoT and many other civil collaboratives, we finally instill this annual event called Presentation Hackathon that gives out five trophies as you can see here. Which is a micro projector underneath.
+It will not be changed leading to an election and things like that. It's a fabric that engenders trust. Because of the success of civil IoT and many other civil collaboratives, we finally instill this annual event called Presidential Hackathon that gives out five trophies as you can see here. Which is a micro projector underneath.
 
 If you turn on, it shows Dr. Tsai Ing Wen, our president, handing you the trophy. It's very meta. Then the teams that won those trophies are selected by the people using voting method called quadratic voting.
 
@@ -367,7 +367,7 @@ When people ask my job description, I'm like, "This is very easy. I just make th
 I think that galvanizes people because they see that they are being treated as complementary partners, not just supplementary data points.
 
 ### Malaysian Moderator:
-Another question here. In the context of social innovation during pandemic. How do you see the roles of social enterprises in Taiwan, in the context of social innovation during pandemic? The other question is, do you observe distinctive business or operating modules on all these SEs, social enterprises?
+Another question here. In the context of social innovation during pandemic. How do you see the roles of social enterprises in Taiwan, in the context of social innovation during pandemic? The other question is, do you observe distinctive business or operating models on all these SEs, social enterprises?
 
 ### Audrey Tang:
 Yes. Taiwan has a very long tradition of, especially consumer cooperatives, but also labor cooperatives in our indigenous lands in Taiwan. Cooperatives form the backbone of our social enterprise movement. Of course, many social enterprises take non coopt form of association.
@@ -378,9 +378,9 @@ It could be a foundation holding as a permanent board member to a corporation, a
 
 This kind of hybrid organization of a charity owning a for profit company, so for purpose with profit, this is a new organizational innovation that has been taken hold in the past few years. Not necessarily a coop but with the spirit of a public benefit coop. There's many other variations on this theme.
 
-There's also decentralized autonomous organizations on the distributor ledger, especially Ethereum, where people also found global for purpose not necessarily companies, but DAOs and part of the open collective movement, the Gitcoin and so on. Many of them have Taiwanese inputs that furthers a global goal that is beyond Taiwan.
+There's also decentralized autonomous organizations on the distributed ledger, especially Ethereum, where people also found global for purpose not necessarily companies, but DAOs and part of the open collective movement, the Gitcoin and so on. Many of them have Taiwanese inputs that furthers a global goal that is beyond Taiwan.
 
-They get their association of charter not in any particular jurisdiction, not even in Cayman Island but in distributor ledgers. There's a wide embracing of this technology when it comes to crowd funding, crowd sourcing. That's another frontier of social enterprise.
+They get their association of charter not in any particular jurisdiction, not even in Cayman Island but in distributed ledgers. There's a wide embracing of this technology when it comes to crowd funding, crowd sourcing. That's another frontier of social enterprise.
 
 Finally, the other SEs, they share the sustainability development goals as they are common index of their purpose. They're just like publicly listed companies which has the obligation to do the reporting for SDGs and the ESG annual report.
 

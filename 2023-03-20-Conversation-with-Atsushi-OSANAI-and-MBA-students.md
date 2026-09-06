@@ -5,7 +5,7 @@
 Shall we proceed?
 
 ### Atsushi OSANAI：
-That's okay. 今天非常高興妳百忙之中抽出時間，So thank you so much, your Excellency. We have some students from Wasabi University. So they are part time MBA students. They are a business person that they even have a work in the daytime. So we study MBA related classes in the evening. Today, so all of us read your book in Japanese, we have some question about innovation, diversity, and democracy. So we'd like to ask some questions.
+That's okay. 今天非常高興妳百忙之中抽出時間，So thank you so much, your Excellency. We have some students from Waseda University. So they are part time MBA students. They are a business person that they even have a work in the daytime. So we study MBA related classes in the evening. Today, so all of us read your book in Japanese, we have some question about innovation, diversity, and democracy. So we'd like to ask some questions.
 
 ### Audrey Tang：
 Sure.
@@ -85,7 +85,7 @@ Thank you so much.
 ### Audrey Tang：
 我最近在台灣有一本訪問我的書，99 個私抽屜，這個是先在日本出版，日本的名字叫做「一無所有的空間裡充滿價值」之類的，在那裡面我提到的概念是只要有標準答案的，AI 就會做掉了，所以剩下來人類可以做的都是沒有標準答案的事情，沒有標準答案事情的意思是，每個人按照他的生命經驗不同，能夠貢獻不同的部分，所以像是我剛剛舉的例子，像是翻譯的部分就沒有了，但跟你做好朋友的部分都還在，協助你融入當地的社群，介紹你給當地的社群認識，因為 AI 沒有自己的生命經驗，是做不到的。
 
-因為台灣有一個概念叫做「雙語環境」，2030 年大家都要很友善來使用外國語，不管這個外國語是英語或者日語也好，現在也有一種講法是，其實重點是在理解到彼此的文化，可以教這樣的朋友，並不是掌握這樣的語言，因為語言的話，翻譯器都可以做到了。所以我覺得文化的翻譯裡面，靠近機器或者是字典的這邊就教給 AI，但靠近人的這邊，還是要人來做。
+因為台灣有一個概念叫做「雙語環境」，2030 年大家都要很友善來使用外國語，不管這個外國語是英語或者日語也好，現在也有一種講法是，其實重點是在理解到彼此的文化，可以交這樣的朋友，並不是掌握這樣的語言，因為語言的話，翻譯器都可以做到了。所以我覺得文化的翻譯裡面，靠近機器或者是字典的這邊就交給 AI，但靠近人的這邊，還是要人來做。
 
 > (laughter)
 

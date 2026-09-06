@@ -125,7 +125,7 @@ Yeah, what’s the time commitment I’m looking at?
 The Digital Future Society. Yeah, and I think later in the year, they’re going to have a summit as well, because Mobile World Barcelona got canceled because of the pandemic. Probably, they are trying to make up that.
 
 ### Audrey Tang:
-In any case, I was in Barcelona nevertheless, even though the NWC was canceled. Because this is a smaller group, we did manage to have pretty good meetings. If I can time that to the visit to you, that’s just a single trip for me. It makes it easier.
+In any case, I was in Barcelona nevertheless, even though the MWC was canceled. Because this is a smaller group, we did manage to have pretty good meetings. If I can time that to the visit to you, that’s just a single trip for me. It makes it easier.
 
 ### Audrey Tang:
 We can also do remote. If it’s more than two physical visits a year, I probably cannot make it. I will have to do telepresence.

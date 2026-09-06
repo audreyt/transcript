@@ -93,7 +93,7 @@ More or less some of the same topics.
 More or less the same topics. OK.
 
 ### Audience Member:
-Of course, my focus is more on the what we call traditional security, the geopolitics of it, but of course these things place into it as well, especially and when you talk cross-strait relations.
+Of course, my focus is more on the what we call traditional security, the geopolitics of it, but of course these things play into it as well, especially and when you talk cross-strait relations.
 
 ### Audience Member:
 The specific project that I work on as part of so with this delegation is more on how the worsening relationship between the US, China are debated and playing into domestic politics in Taiwan, and of course specifically this election coming up, so how the whole US-China great power competition, rivalry is playing into that.
@@ -460,7 +460,7 @@ Then you raise it for the other people to share. We always see this picture afte
 Basically, we then took these and bound ourself to use only these as the agenda for our multistakeholder conversation. Then Uber agreed to work only with a driver with professional license.
 
 ### Audrey Tang:
-They agree with the insurance, agree without the registration, then basically empowering existing taxi fleets to develop Uber-like, like search pricing or whatever, pricing mechanisms. Uber must always work with what we call a multipurpose taxi driver.
+They agree with the insurance, agree without the registration, then basically empowering existing taxi fleets to develop Uber-like, like surge pricing or whatever, pricing mechanisms. Uber must always work with what we call a multipurpose taxi driver.
 
 ### Audrey Tang:
 Now, if you use Uber in Taiwan, you always find a legal taxi driver, but then the legal taxi driver has been far expanded. They no longer drive the yellow cars because they’re not hailing on the street and so on. That is basically something nobody can say, “I’m perfectly fine with it,” but everybody say, “I can live with it.” That is the idea of rough consensus.
@@ -674,7 +674,7 @@ Yeah, you mean that I know positively that it’s not true. In other words, if I
 Then the Taiwan Fact Check Center actually has algorithmic co-governing status. If it’s already fact checked as false, you will actually see a line below the story. Before you share, Facebook will actually warn you that, “This has been fact checked by the TFFC. Are you sure that you would like to share?”
 
 ### Audrey Tang:
-In that case, the proof of intentionality is easier for the persecutors.
+In that case, the proof of intentionality is easier for the prosecutors.
 
 ### Audience Member:
 Makes sense.
@@ -820,7 +820,7 @@ They’re actually from Reuters, and the Reuters said nothing about them getting
 > (laughter)
 
 ### Audrey Tang:
-The initial re-framing was actually done in the public onin the Weibo of Zhongyang Zhengfawei. What I’m trying to say is that we thought of disinformation manipulation, it’s mostly a covert thing. That’s why the content farms, the bots, or whatever. But this is overt. They sign their name on it, encouraging remixes and things like that. I think they’re also innovating.
+The initial re-framing was actually done in the public on the Weibo of Zhongyang Zhengfawei. What I’m trying to say is that we thought of disinformation manipulation, it’s mostly a covert thing. That’s why the content farms, the bots, or whatever. But this is overt. They sign their name on it, encouraging remixes and things like that. I think they’re also innovating.
 
 ### Audience Member:
 Interesting. That fit with something they tried globally as well, where “Huanqiu Shibao” had, on 9/11, this whole, “The West should be aware as well because Hong Kong were as terrorist as the terrorists that attacked at that time.”
@@ -1223,7 +1223,7 @@ What they do in the mainland where they keep hiding the numbers.
 In Taiwan, this basically forces the environmental minister to come out, and because we can’t beat them, we must join them. They must negotiate.
 
 ### Audrey Tang:
-They negotiated with the civic tech community who say by collective bargaining we allow the environment minister to join in our calibration of our numbers and join our distributor ledger, which is an immutable record of air quality, because at the time, the EPA only have 87 stations.
+They negotiated with the civic tech community who say by collective bargaining we allow the environment minister to join in our calibration of our numbers and join our distributed ledger, which is an immutable record of air quality, because at the time, the EPA only have 87 stations.
 
 ### Audrey Tang:
 No match to the more than 2,000 stations from the civil society. The civil society say, by allowing the EPA to join the civil IoT system, we ask something in return. We want air measurement devices in those industrial parks. These are private property. We can’t break and enter and install them.
@@ -1235,7 +1235,7 @@ It turns out we own the lamps in the industrial parks. We use their spec, their 
 They think that whatever AI algorithm they can develop to predict air quality or whatever, they can upload to the civil IoT system, the world’s, I think, 20th-fastest supercomputer, to just analyze this together.
 
 ### Audrey Tang:
-Data collaboratives, I really think, is what sets Taiwan apart, not just from the PRC, but from anywhere that doesn’t have the absolute freedom of speech that make the social sector gaining legitimacy in an unprecedented way, vis-Ã -vis the public sector.
+Data collaboratives, I really think, is what sets Taiwan apart, not just from the PRC, but from anywhere that doesn’t have the absolute freedom of speech that make the social sector gaining legitimacy in an unprecedented way, vis-à-vis the public sector.
 
 ### Audrey Tang:
 Which is why I say the government must trust the people, because if the government doesn’t trust the people, this looks like a nightmare. Only by radically trusting the people can we figure out some co-governance possibilities with them.

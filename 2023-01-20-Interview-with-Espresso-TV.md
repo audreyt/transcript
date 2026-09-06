@@ -12,7 +12,7 @@ Thank you for the question. In Taiwan, we have the saying, wherever there is sch
 
 I, myself, a junior high school dropout, but I worked with all schools together to learn a lot to build a better tomorrow, not just for myself, but also for my community of free software and open-source developers.
 
-Because of that, I think we understand the power of education to build better tomorrows with the people. Politics should never stand in the way of Rio cooperation. It's perfectly logical, that during this process, schools should play a frontline role in ensuring that the people's thirst, foreknowledge, and learning is satiated.
+Because of that, I think we understand the power of education to build better tomorrows with the people. Politics should never stand in the way of real cooperation. It's perfectly logical, that during this process, schools should play a frontline role in ensuring that the people's thirst, for knowledge, and learning is satiated.
 
 ### Vitaly Portnikov:
 My further question will be about the education of the future because in the recent months, weeks, we have seen pretty big opportunities that are possible by means of AI, artificial intelligence. Of course, some usual norms of educational are becoming useless, because by means of the AI, the manuals, the essays can be written by pupils, instead of pupils.
@@ -55,7 +55,7 @@ I would like to talk about the information war experience. We have put it in one
 
 Of course, prior to the war, the information resistance of Ukrainians was not that successful, and that was due to the fact that many Ukrainians speak Russian and understand Russian fluently, and therefore, they become easy targets for their propaganda.
 
-In this respect, Taiwan is like Ukraine, because Taiwanese people also speak China. Or, maybe perhaps due to your experience, Taiwanese people are not so easy targets because of their mindset. How do you think?
+In this respect, Taiwan is like Ukraine, because Taiwanese people also speak Chinese. Or, maybe perhaps due to your experience, Taiwanese people are not so easy targets because of their mindset. How do you think?
 
 ### Audrey Tang:
 Indeed. We've had a very long history fighting authoritarian expansionism. Consistently, we put a key priority on strengthening resilience of not just our critical infrastructure, but also our journalism, our newsmakers sector so that we can, together, overcome online harms and also increase participation in democratic processes.
@@ -177,7 +177,7 @@ Indeed, people who are aligned value wise, despite their timezone differences, r
 This is why worldwide co-creation is native to the digital natives. We're very happy that in Taiwan, through lifelong education, through reverse mentorship by young people to the older people in the cabinet, and so on, we've been able to share the wisdom of the elderly generation with the agility of the younger generation together.
 
 ### Vitaly Portnikov:
-We have an opportunity to address our young people, to our young children and students. Yes, they are already living within the modern life, digitalized life, but still, right now, they are captured within the archive war waged by Russians. It should be compared to the feudal wars of the past. What would you tell them?
+We have an opportunity to address our young people, to our young children and students. Yes, they are already living within the modern life, digitalized life, but still, right now, they are captured within the archaic war waged by Russians. It should be compared to the feudal wars of the past. What would you tell them?
 
 ### Audrey Tang:
 I would say that your neighbors are the people who share the same values as you. With the communication infrastructure, with the laptops and notebooks that Taiwan can help provide, I wish that you think beyond the immediate neighborhood, which is, as you said, captured by a feudal era war.

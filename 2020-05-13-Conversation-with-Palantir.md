@@ -70,7 +70,7 @@ These are the main things I want to walk you through today. First, we’re looki
 Lastly, how do I proactively allocate that equipment in my supply chain? The goal of this session is to show you how we’ve used together all these different data sources to give you a living, breathing data asset of what’s going on and what you can find about it.
 
 ### Carolyn Mulher:
-Let’s start by taking a look at our global common operating picture. Please, as I go through this, feel through to jump in and say, “That’s interesting. Can you show me more about that?” as there’s some additional news and data that I can go into a bit more detail if it’s interesting to you.
+Let’s start by taking a look at our global common operating picture. Please, as I go through this, feel free to jump in and say, “That’s interesting. Can you show me more about that?” as there’s some additional news and data that I can go into a bit more detail if it’s interesting to you.
 
 ### Carolyn Mulher:
 Currently, we’re taking a look at the global pandemic one-stop shop where we have a comprehensive understanding of what’s happening in the world. Members of government on a national, regional, state, county, as well as commercial business partners, all have the same understanding of what’s happening across the globe.
@@ -223,7 +223,7 @@ Yeah.
 The branching is like a fundamental construct of the platform itself. Is that relocated? It is what allows multiple people to collaborate and build up this shared data asset. Everyone has their own personal sandbox for doing whatever modification in testing they need to do.
 
 ### Audrey Tang:
-This is a workbench, I understand that. The metadata diversioning, things like that, are all kind of a descriptive file in the Git repository for each data, and you refresh that whenever you check in new imported sorts of data. It’s something like a data package.
+This is a workbench, I understand that. The metadata versioning, things like that, are all kind of a descriptive file in the Git repository for each data, and you refresh that whenever you check in new imported sorts of data. It’s something like a data package.
 
 ### Clark Minor:
 Yep, and it’s all back to the other key thing here is that every piece of work and every transformation, every new dashboard analysis, anything you do in the platform, the lineage of that is tracked automatically. That allows you to do a couple of interesting things.
@@ -274,7 +274,7 @@ You could go ahead and drill down just to specific product lines, which often ha
 You can drill in a bit further to say why might that be? Is it because customer demand is dropping off? Is it because there’s a problem in my supply chain that I’m not actually able to meet all of the demand that’s even coming in?
 
 ### Carolyn Mulher:
-In this case, we have a view that we have an open order back on of over $200,000. That means that those orders that have been placed to my specific company have not actually been fulfilled in this time.
+In this case, we have a view that we have an open order backlog of over $200,000. That means that those orders that have been placed to my specific company have not actually been fulfilled in this time.
 
 ### Carolyn Mulher:
 I have things going back through March and April that are still open that signals a specific problem in my supply chain. I can also check out my customer demand and see it’s really just hollering-off. Once we have that understanding of what is my business picture for the rest of the year, we can go ahead and also change our demand forecasting.
@@ -409,7 +409,7 @@ It’s technically possible. I’ve done a few of those. \[laughs\] I’m not su
 What Taiwan have been doing consistently is, for example, our PPE availability map. The raw data is published every 30 seconds at that time. Now every three minutes, so that all the application makers, including voice assistants, like literally in Taiwan, if you ask Siri where the mask is, it will actually tell you \[laughs\] the nearest pharmacy that has the mask in stock.
 
 ### Audrey Tang:
-To enable that integration with the civic technologists that are now, I don’t know, they have users, the numbers to half the population, so they’re also civil engineers now. \[laughs\] These civic tech/civil engineering projects, it’s essential that all data in the pipeline, we publish also our on open data platform so they can reproduce this result without using any proprietary technology.
+To enable that integration with the civic technologists that are now, I don’t know, they have users, the numbers to half the population, so they’re also civil engineers now. \[laughs\] These civic tech/civil engineering projects, it’s essential that all data in the pipeline, we publish also on our open data platform so they can reproduce this result without using any proprietary technology.
 
 ### Audrey Tang:
 Proprietary technology is also very useful because it informs with no coding abilities a very easy interaction view. I really do also think that your platform, at this stage and from what I see, is designed to have 10 million people using it every day. \[laughs\] It may not be the best kind of workbench.
@@ -481,7 +481,7 @@ That’s fantastic. Thank you.
 Thank you. I don’t know if Barret, you had anything else to add on the last sets of ideas there. You can certainly get back with your team and talk some of those things through. Just over to you, Barret, real quick.
 
 ### Barret Brown:
-Sure. As you know, were doing this in lots of countries around the world. Lauren knows more about it than I do. I just know Asia. Essentially, the goal is to help people as fast as possible.
+Sure. As you know, we’re doing this in lots of countries around the world. Lauren knows more about it than I do. I just know Asia. Essentially, the goal is to help people as fast as possible.
 
 ### Barret Brown:
 As you mentioned, Taiwan is in an amazing place compared to everyone else on this. If there’s something that is important to Taiwan in this regard that is related to COVID response, then we should certainly talk about how we can get you using the platform.

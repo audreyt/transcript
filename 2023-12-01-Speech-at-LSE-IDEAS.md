@@ -108,7 +108,7 @@ In Taiwan, we believe in, as I mentioned, local resilience, which is quite diffe
 
 I think the idea of data embassy was pioneered by Estonia. They started with an embassy in Luxembourg, if I remember correctly, which keeps the data backed up, even if something happens to Estonia. So similarly, we're doing the same for the core data in public clouds. But that creates massive concerns about how do we ensure that it is zero-knowledge in nature, that no cloud providers can look at the personal data and so on.
 
-So, which is why we consider privacy enhancing technologies a public infrastructure. Only by investing in the latest of encryption technologies, including homomorphic encryption and so on, can we ensure that the data storage is decoupled from computation. That is to say, computation, when we work with cloud provider, we should adopt this theory of trust principle.
+So, which is why we consider privacy enhancing technologies a public infrastructure. Only by investing in the latest of encryption technologies, including homomorphic encryption and so on, can we ensure that the data storage is decoupled from computation. That is to say, computation, when we work with cloud provider, we should adopt this zero trust principle.
 
 So, think of like a chat bot. You send the model an encrypted version of the question you're going to ask it. The model operator knows nothing about your question. But through homomorphic encryption, the model can send back its response to you anyway. And then, only you can decrypt its response. So, it is advanced encryption algorithms like this that we're investing in accelerating that we believe will very clearly delineate between non-personal data on one side and PII, Personally Identifiable Information or data, on the other side. Whereas currently it's very much a gray zone with like k-anonymity and so on. It's partially identifiable, somewhat re-identifiable and so on. But we think we need to look at the web3 world where there is like, you know, zero trust all around. And they have developed ways to cryptographically separate these two kinds of personal and non-personal information.
 
@@ -176,7 +176,7 @@ And the residency, as I mentioned, can be earned through open-source contributio
 
 And if we forbid people younger than 18 and residents, including expats, to participate. Then we lose the important voices that are not going to be reflected equally well in the traditional representative democracy, simply because they cannot vote for local city councilors.
 
-So, a lot of our experiments in presidential hackathon and so on is about increasing the bandwidth of democracy and reducing the latency of democracy in a way that augments and complements, but do not replace referendums in the national level and the parliament itself. It basically informs them better, creates agendas better, setting priority for budget better; but at the end the decision-making paired is still in the parliament and the national level referendums.
+So, a lot of our experiments in presidential hackathon and so on is about increasing the bandwidth of democracy and reducing the latency of democracy in a way that augments and complements, but do not replace referendums in the national level and the parliament itself. It basically informs them better, creates agendas better, setting priority for budget better; but at the end the decision-making power is still in the parliament and the national level referendums.
 
 ### Audrey Tang:
 Thank you. Live long and prosper.

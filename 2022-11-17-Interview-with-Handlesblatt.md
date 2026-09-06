@@ -103,7 +103,7 @@ Broadband connection is already a human right in Taiwan, but even more doubly so
 ### Roman Winkelhahn:
 You just mentioned the deep fakes and the fake news that people might be confronted with in case the communication infrastructure in Taiwan gets damaged in case of an invasion. Before we start about the whole software and information part, we'd like to talk about the hardware that needs to be installed to build up this backbone of communication that you announced.
 
-What are the concrete plans that you were thinking of when you were announcing the testing trails for the satellites, the US$18 million testing trails that you mentioned?
+What are the concrete plans that you were thinking of when you were announcing the testing trials for the satellites, the US$18 million testing trials that you mentioned?
 
 ### Audrey Tang:
 It's actually following upon a previous proof of concept very successful already in Hsinchu City with the fire service to connect mobile 5G telecom mini towers. By mobile, I don't just mean the cell phone is mobile. The tower itself is mobile, is mounted on a fire service, ambulance car, and so on, a firefighter's truck.
@@ -611,7 +611,7 @@ The reason why I would argue is that, as I mentioned, the societal resilience, t
 
 And we achieve that not through some top down or lock down measures and so on but through people generally understanding through the work of journalists, and civic journalists, the science between each variants of the virus. There's a general trust from the public sector to the population to fully expand what we're doing.
 
-The explaining is done not just through text but also through data, real time open data, that let people see the vaccine preferences from the people and its effects. The real time supply and demand of the PBEs and rapid testing kits, the pre registration of vaccines, the contact tracing, and so on.
+The explaining is done not just through text but also through data, real time open data, that let people see the vaccine preferences from the people and its effects. The real time supply and demand of the PPEs and rapid testing kits, the pre registration of vaccines, the contact tracing, and so on.
 
 I think our main contribution, I would say, is to prove that it's not a zero sum game between the public health on one side and economy on the other, or human right on the other, but rather, you can take care of both the economy and social wellbeing and public health, and the same for countering the computer virus and virus of the mind, as we say, it's the disinformation crisis.
 

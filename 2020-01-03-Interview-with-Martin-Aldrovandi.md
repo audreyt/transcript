@@ -51,7 +51,7 @@ Anyone who support your protocol, that is to say your innovation of a new way to
 After the “inter” part of the Internet is invented it’s called the end-to-end principle, meaning that any two person using the Internet can innovate together regardless of their geographic or topological relationship.
 
 ### Audrey Tang:
-That’s the ideal. Of course, we all know that Internet has become vulcanized recently, but that was its original vision.
+That’s the ideal. Of course, we all know that Internet has become balkanized recently, but that was its original vision.
 
 ### Martin Aldrovandi:
 The Internet, or at least, the World Wide Web is something fairly new and also democracy in Taiwan as well.
@@ -108,7 +108,7 @@ After e-collecting then it depends on the social will, which in turn will determ
 You have many different projects where you also use these, whether it’s companies or people. Can you talk a little about that? Was there something like this before you came into office, or was this just something very new for Taiwan?
 
 ### Audrey Tang:
-If you’re talking about the petitioning system, then the join the gov.tw is perhaps the largest petition site for Taiwan. It has around more than 10 million users, 10 million visitors, unique visitors.
+If you’re talking about the petitioning system, then the join.gov.tw is perhaps the largest petition site for Taiwan. It has around more than 10 million users, 10 million visitors, unique visitors.
 
 ### Audrey Tang:
 Considering Taiwan is just 23 million people, that’s a lot of people. The petition, they have to collect 5,000 e-signatures before it will get a guaranteed response from the ministry in charge. If it’s cross-ministerial, then I will personally visit the place to talk with the stakeholders and so on.
@@ -467,10 +467,10 @@ How can a government deal with this, or should it not deal with it at all?
 We deal with it with rapid, humorous response, because humor is a great pathway if you are angry about something, but you can make fun of it at the expense of one’s self, not of other people, which would be something else altogether.
 
 ### Audrey Tang:
-If one can be humorous about it, then that clarification message itself goes viral without reinforcing the stereotypes. If people look at something and laugh at it, it’s very difficult to turn into outrage any more. People will be more likely to engage in rational discussions after laughing about it. These mematic engineering task forces are embedded now in all the different ministries that are facing the people.
+If one can be humorous about it, then that clarification message itself goes viral without reinforcing the stereotypes. If people look at something and laugh at it, it’s very difficult to turn into outrage any more. People will be more likely to engage in rational discussions after laughing about it. These memetic engineering task forces are embedded now in all the different ministries that are facing the people.
 
 ### Audrey Tang:
-They are required, when there’s a trend in this information, to roll out such funny packages within two hours, and each one 200 characters or less, with 2 pictures. Because of that, people come to expect that there will be a real-time clarification from the minister that’s in charge, so they work with the new cycle instead of against the new cycle.
+They are required, when there’s a trend in disinformation, to roll out such funny packages within two hours, and each one 200 characters or less, with 2 pictures. Because of that, people come to expect that there will be a real-time clarification from the minister that’s in charge, so they work with the news cycle instead of against the news cycle.
 
 ### Martin Aldrovandi:
 Can you make an example of that?
@@ -500,7 +500,7 @@ I even wrote a blog post called, “My hobby troll hooking” on that particular
 It is really to the credit of the spokesperson \[Mandarin\] and now Kolas Yutaka who then built the necessary logistics supply for all those ministries to be able to…It’s just like doing a stand-up comedy all the time, right? \[laughs\]
 
 ### Audrey Tang:
-The necessary expertise within all the ministries, so that on average they can roll out such mematic responses within an hour or so, the requirements to us.
+The necessary expertise within all the ministries, so that on average they can roll out such memetic responses within an hour or so, the requirements to us.
 
 ### Martin Aldrovandi:
 It’s not a lot of time to come up with a…
@@ -542,10 +542,10 @@ I would encourage the readers to consult our mac.gov.tw responses, but I was not
 Do you think such a law is necessary?
 
 ### Audrey Tang:
-I would say that this law enables a clear legal definition of what infiltration is. That helps to set the frame of debate around particular issues pertaining to infiltration. But I would say that this information and infiltration, although it may have overlaps, are actually two different problems.
+I would say that this law enables a clear legal definition of what infiltration is. That helps to set the frame of debate around particular issues pertaining to infiltration. But I would say that disinformation and infiltration, although it may have overlaps, are actually two different problems.
 
 ### Audrey Tang:
-It’s just like content forums. If you look at content forums, most of them are around for safety or health. It’s not around politics. Of course, it creates opportune moments where the politics can leverage these topics to follow their political campaign, or disinformation campaign’s purposes.
+It’s just like content farms. If you look at content farms, most of them are around for safety or health. It’s not around politics. Of course, it creates opportune moments where the politics can leverage these topics to follow their political campaign, or disinformation campaign’s purposes.
 
 ### Audrey Tang:
 Similarly, disinformation is a more general problem, like spam. It’s a general problem that can be taken to an infiltrator’s context for information or cognitive space, as they prefer to call it. They may have overlap, but I don’t think Anti-Infiltration law is all by itself solves, or aims to solve, the disinformation issue.

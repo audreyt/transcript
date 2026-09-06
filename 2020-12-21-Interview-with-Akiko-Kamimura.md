@@ -37,7 +37,7 @@ The main difference is in social innovation, it’s everyone’s business with e
 How do you think that the relationship between company organizations or employers and individuals will change in this coming feature?
 
 ### Audrey Tang:
-In the modern culture, many people are slashy, meaning that they are something, slash something, slash something, like I’m digital minister.tw/board member of radical exchange/digital future society member/ \[laughs\] console foundation member, and so one.
+In the modern culture, many people are slashy, meaning that they are something, slash something, slash something, like I’m digital minister.tw/board member of radical exchange/digital future society member/ \[laughs\] console foundation member, and so on.
 
 ### Audrey Tang:
 Although, of course, there are still companies and organizations just as a company will work with many people, each individual also work with many companies. It become many-to-many relationship.
@@ -124,7 +124,7 @@ I attended three kindergarten, six primary school, and one year of high school. 
 Did they say any bad things to you because you are different I think from other ordinary children?
 
 ### Audrey Tang:
-Of course young people when they are vey young, like when I was eight years old, the people who want to work with me already say that I’m a little bit like an adult, like I’m an adult in an eight-year-old class. It, of course, creates some difficulty. Then I just spend more time with adults, so that’s OK.
+Of course young people when they are very young, like when I was eight years old, the people who want to work with me already say that I’m a little bit like an adult, like I’m an adult in an eight-year-old class. It, of course, creates some difficulty. Then I just spend more time with adults, so that’s OK.
 
 ### Akiko Kamimura:
 Ok, so you are not afraid of being different from others.

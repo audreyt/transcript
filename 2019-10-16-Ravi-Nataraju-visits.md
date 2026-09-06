@@ -382,7 +382,7 @@ As long as people were given facts and they made decisions based on facts, then 
 I totally agree.
 
 ### Ravi Nataraju:
-That also compliments you telling that the windows also should be sending the data back as to what…
+That also complements you telling that the windows also should be sending the data back as to what…
 
 ### Audrey Tang:
 Yeah, the air boxes project.
@@ -421,7 +421,7 @@ Right, to do high resolution resolutions.
 Yes. I was like, “Yeah, I can see where you’re coming from.” I said, “OK, fine. We will work with you, no problem. We will do that.” For us, we have seen that, from a synergy perspective…I was working in London for the last 15 years, but I don’t see London for whatever forward thinking first nation, whatever.
 
 ### Ravi Nataraju:
-They’re not that synergistic as compared to Taiwan at least from my perspective, and I’m guessing a lot of positive wipes running around from the governance side, from the business side.
+They’re not that synergistic as compared to Taiwan at least from my perspective, and I’m guessing a lot of positive vibes running around from the governance side, from the business side.
 
 ### Ravi Nataraju:
 Everybody else can actually see if you can actually portray it in a non-negative way, a non-competitive way, but a more collaborative way to actually make things work and reuse existing resources, which I think was a very, very good way of doing it.
@@ -863,7 +863,7 @@ The main person you want to convince is not necessarily any particular departmen
 Got it.
 
 ### Audrey Tang:
-They have that kind of internal escalation process. For many municipalities, if you look for…For example, Taoyuan recently has an innovation and digital office as well, which is on part with the other bureaus and departments in the mayorship. I think that is the main vehicle.
+They have that kind of internal escalation process. For many municipalities, if you look for…For example, Taoyuan recently has an innovation and digital office as well, which is on par with the other bureaus and departments in the mayorship. I think that is the main vehicle.
 
 ### Audrey Tang:
 Otherwise, in many other municipalities where there is no DOIT or equivalent, usually it falls to the Research, Development and Evaluation Commission, the RDEC.

@@ -22,7 +22,7 @@ So, on the short term, in March, I believe everybody agreed about three things. 
 
 Second, when actual harm, or likely harm of escalation is caused, people want the AI companies providing such services to be liable, and not just in a financial damage sense, but also in an early forecasting, warning, and mitigation sense. So, this is the second thing.
 
-And the third thing is that people don't want governments to disappear. They want sufficient regulation so that on the short term, people who don't prove that they can raise to safety can be escalated in an overtime window to villains maybe one year or two years from now.
+And the third thing is that people don't want governments to disappear. They want sufficient regulation so that on the short term, people who don't prove that they can race to safety can be escalated in an overtime window to villains maybe one year or two years from now.
 
 So, although on the midterm, like three years, five years from now, things vary wildly. I think around March, what we're seeing is that there's a wide agreement on what to do the year leading up to elections, which is next year.
 
@@ -108,7 +108,7 @@ Like, people say that synthetic media will threaten people's trust in political 
 
 And it looks like that is threatening the status quo when it comes to campaigning, but what people are actually saying is that they previously enjoyed this capability of building personal connections around a social object, that is political speech around political figures, and now that feeling is being decimated, is being taken out.
 
-So, I think if we focus on the later, it is possible to surface that sort of harm, usually through ethnography, interactive ones like that, and so on, and the question then become how do we scale that sort of ethnography so that everybody can do it, and also the result is meaningfully blended or aggregated.
+So, I think if we focus on the latter, it is possible to surface that sort of harm, usually through ethnography, interactive ones like that, and so on, and the question then become how do we scale that sort of ethnography so that everybody can do it, and also the result is meaningfully blended or aggregated.
 
 But if we focus on the first, then it becomes just protecting the bureaucratic processes, the existing institutions, and so on. And there's a lot of ways to do that, but I don't think that is where we should focus most of our energy on.
 
@@ -434,7 +434,7 @@ Can I jump to a different thing for a little bit?
 Yeah.
 
 ### Aza Raskin:
-I'm thinking about like ways of upgrading the institutions, all the things you normally think about for how do you make the liberation go at the speed that we need to match the OODA loops of like all the tech that's coming? How do we have institutions of deliberation scale with the scale of the technology?
+I'm thinking about like ways of upgrading the institutions, all the things you normally think about for how do you make the deliberation go at the speed that we need to match the OODA loops of like all the tech that's coming? How do we have institutions of deliberation scale with the scale of the technology?
 
 Because if you don't do that, then like your deliberation speeds do not match the scale or the speed at which like the tech is going to move. And sort of originally thinking about this because we've been sitting with Wojciech from OpenAI, like watching all of the like democratic governance, like democratic input work go.
 

@@ -440,7 +440,7 @@ For the medium and small enterprises, it is an uphill battle. I think what we ca
 Today, almost one in three knows about social entrepreneurship and one in five knows about SDGs. We’ve made a large progress just getting the message out. Whether they actually convert to triple bottom line is another issue altogether. I think that’s our main challenge.
 
 ### Belay Begashaw:
-Your work on capturing the values, you said, the tripple bottom line. Have you ever thought of actually capturing the real cost or cost of production?
+Your work on capturing the values, you said, the triple bottom line. Have you ever thought of actually capturing the real cost or cost of production?
 
 ### Audrey Tang:
 That’s right!

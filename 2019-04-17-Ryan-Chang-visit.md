@@ -349,7 +349,7 @@ Mm-hmm.
 One thing I’m curious about your thoughts on is how we can measure values for the subjective thing, like a website might have value for me and to you, like value website, a lot that I would value it on. We were having a discussion, internally, about what metrics should we look at to measure the user’s stats.
 
 ### Ryan Chang:
-Is it a combination of things? Or is it something that’s quantitative or more qualitative, or something that users can subject to be choosed, like a star rating, or like a comment box, or like a thumbs up, thumbs down button for each website?
+Is it a combination of things? Or is it something that’s quantitative or more qualitative, or something that users can subject to be chosen, like a star rating, or like a comment box, or like a thumbs up, thumbs down button for each website?
 
 ### Audrey Tang:
 What are you quantifying it for?
@@ -608,7 +608,7 @@ We’re working on a creator system that might be a little bit similar to a Face
 If you’ve streamed a certain amount of money to them this month or you’ve spend a certain amount of time engaging some content you have access to, their latest updates or some premium content as well. One thing we really want to do is micropayments. We don’t send lump-sum payments. We send payments every second.
 
 ### Ryan Chang:
-We wanted to open the door for things that weren’t possible before. You know CodePen? The idea is we’ll have paid CodePen. You would pay the micropayments while you’re on the CodePenCodePen for every second that you’re running it.
+We wanted to open the door for things that weren’t possible before. You know CodePen? The idea is we’ll have paid CodePen. You would pay the micropayments while you’re on the CodePen for every second that you’re running it.
 
 ### Ryan Chang:
 In the back end, we’re spinning something like an AWS cloud to run your thing that you are paying for with micropayments. The second that you close the website that instance closes or is used by some other user that is also streaming. We’re still not 100 percent sure what micropayments will bring to the web.
@@ -818,7 +818,7 @@ To promote the charities?
 Yes. To promote the charities, to spread awareness for causes like autism, for example, on kids.
 
 ### Audrey Tang:
-Personally, I’m on Medium now. I have my own blog in my office, blog.pdis.tw. What I’m seeing is that people is very much willing to write on forum but an old way of segregators and so on doesn’t scale that well and it doesn’t solve the discovery problem which is why people converge to a more centralized Medium.
+Personally, I’m on Medium now. I have my own blog in my office, blog.pdis.tw. What I’m seeing is that people is very much willing to write on forum but an old way of aggregators and so on doesn’t scale that well and it doesn’t solve the discovery problem which is why people converge to a more centralized Medium.
 
 ### Ryan Chang:
 What do you think about Medium as a platform? I think they’re recently going changes where they’re pushing a paid version.
@@ -905,7 +905,7 @@ There are some terms, actually, put into the Digital Communication Act, the DCA,
 I see.
 
 ### Audrey Tang:
-We do have a net neutrality draft bit.
+We do have a net neutrality draft bill.
 
 ### Ryan Chang:
 I know it was a huge issue in the US, as well as Europe recently, was Article 13, it passed.

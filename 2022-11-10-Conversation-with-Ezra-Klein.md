@@ -34,7 +34,7 @@ Tell me about what comprises a meaningful feedback loop.
 ### Audrey Tang:
 The kind of question you're asking, you can ask clarifying question. People have the opportunity to contextualize within their conversation, or recontextualize.
 
-Meaning that, taking a conversation interpreted in their own frame, and also carry this ambient frame into the conversation to share meaningful references so the other people within the conversation can gradually fuse the horizon with the other interlocutors. Gadamau or Habermas have written all about it. [laughs] I don't need to repeat their theories.
+Meaning that, taking a conversation interpreted in their own frame, and also carry this ambient frame into the conversation to share meaningful references so the other people within the conversation can gradually fuse the horizon with the other interlocutors. Gadamer or Habermas have written all about it. [laughs] I don't need to repeat their theories.
 
 A lot of the interface designers...People talk about dark patterns, but it depends on what...
 
@@ -127,7 +127,7 @@ Two main learnings. The first is, one must pre commit to symmetrical attention a
 
 If they successfully collect more than 5,000 signatures, there must be administrative level response. If it's interagency, chances are that there will be an actual collaborative meeting between those agencies and inviting the stakeholders and so on.
 
-If people have spent so much attention to provide us with input, and if the software reliably just surfaces the good enough consensus, or at least the potential of good enough consensus, then we need to treat it as seriously as a parliamentary interpolation, or even more serious than parliamentary interpolation. That's the first thing, equality of attention.
+If people have spent so much attention to provide us with input, and if the software reliably just surfaces the good enough consensus, or at least the potential of good enough consensus, then we need to treat it as seriously as a parliamentary interpellation, or even more serious than parliamentary interpellation. That's the first thing, equality of attention.
 
 The second thing, is that the space itself need to be, I want to say, troll proof. Anyway, need to be troll proof, meaning that people who mobilize by outrage or by other personal opinions or by bots [laughs] need to have absolutely no effect on the outcome of such conversations.
 
@@ -170,7 +170,7 @@ One thing I've been thinking about in this whole area is whether or not we shoul
 
 TikTok is much less social than some of the things that came before it. Before the rise of social media, you would go to home pages and you'd choose things. Netflix is not really social media. At one point, it tried to be a little bit more like that. Spotify is not really social media in the way it once was.
 
-I recognize this is a more philosophical question, but do you think the experiment with trying to structure things through the social graph has been a good one, and we should build on it? Maybe, it went to far, and it is worth rethinking if that's the right way to order our very important communicative spaces.
+I recognize this is a more philosophical question, but do you think the experiment with trying to structure things through the social graph has been a good one, and we should build on it? Maybe, it went too far, and it is worth rethinking if that's the right way to order our very important communicative spaces.
 
 ### Audrey Tang:
 When I was working in Socialtext on the enterprise social sector, Salesforce tried to trademark the words social enterprise. The Social Enterprise World Forum and all the social entrepreneurs, think Patagonia, don't like that Salesforce wants to use the term social enterprise to describe what they're doing.
@@ -217,7 +217,7 @@ It's a demonstration of course of counterpower of raising the important topics a
 
 You see very reliably that people portray the protesters as simply that protesters. You don't see much use of the Buckminster Fuller Aryan language of essentially seeing them not as protesters but as demonstrators in the demo scène sense providing alternative systems without tearing apart the old one and rendering the old one slightly obsolete with time.
 
-In Taiwan, people look to the civic sector for this kind of innovations. If the state cannot make a good privacy preserving contact tracing system. The civic sector they have zero goes and invent one. My role is just to convince the five telecoms to join the civic sector in implementing SMS based contact tracing of business privacy. The same goes for mask ratio and visibility, rapid testing ratio, and pre registration of vaccines.
+In Taiwan, people look to the civic sector for this kind of innovations. If the state cannot make a good privacy preserving contact tracing system. The civic sector they have g0v and invent one. My role is just to convince the five telecoms to join the civic sector in implementing SMS based contact tracing of business privacy. The same goes for mask ratio and visibility, rapid testing ratio, and pre registration of vaccines.
 
 Vaccine preference score boards that turns anti vaxx conspiracies into a friendly competition between favorite brands. The list goes on. I think around the world, the civil society is already doing a lot of these altruistic things during the pandemic especially, but whether they're elevated into national level consciousness is another matter altogether.
 

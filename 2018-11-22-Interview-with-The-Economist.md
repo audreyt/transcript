@@ -250,7 +250,7 @@ That’s the four categories they work on.
 How do you detect rumors in LINE messaging system if everything is encrypted? Is that a violation of privacy? How do you detect some of the rumors in transit?
 
 ### Audrey Tang:
-People voluntarily share tat to Cofacts. One of the way Cofacts works is everything that’s shared through it gets posted to the public Web.
+People voluntarily share that to Cofacts. One of the way Cofacts works is everything that’s shared through it gets posted to the public Web.
 
 ### David Rennie:
 The analogy you made with spam and email, are you saying that in some similar timeframe, the world, or at least Taiwan, will get a handle on disinformation, and it won’t seem like the threat that it currently does to all the people who are wound up about it?
@@ -312,7 +312,7 @@ In the Russian case, what was so fascinating was that a group of people working 
 I haven’t seen anything similar either, which is why I can’t give any example. I’m just saying people own their cyber space, based on what we’ve seen from the Cofact rumors. There are people doing a lot of concerted work to spread disinformation. Whether they are PRC-based, PRC-funded, I don’t know. I seriously don’t know.
 
 ### Audrey Tang:
-It’s pretty clear that the ones that are the most viral are somewhat related to the idea that all these referendum topics and things like this, they all attract a huge of number of disinformation that diverts attention from the substance of the referendum topics, but rather along particular ideological lines that tries to get people into a knee-jerk mood around such referendum topics.
+It’s pretty clear that the ones that are the most viral are somewhat related to the idea that all these referendum topics and things like this, they all attract a huge number of disinformation that diverts attention from the substance of the referendum topics, but rather along particular ideological lines that tries to get people into a knee-jerk mood around such referendum topics.
 
 ### Audrey Tang:
 That’s the kind of attention pollution, or attention hijacking, or whatever I’m trying to get across. First, I don’t know whether they are PRC-generated.

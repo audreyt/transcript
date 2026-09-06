@@ -160,7 +160,7 @@ In Taiwan news, 新聞 literally had the same word root as journalists, 新聞�
 Traditional media and social media.
 
 ### Audrey Tang:
-That’s right, exactly. Our focus more is not on the media literacy part off education but rather on the media competency part. Meaning that each and every primary scholar is a “news worker” if they could, for example, fact check the presidential debates. If they could, for example, reveal the water or air pollutions around a vicinity.
+That’s right, exactly. Our focus more is not on the media literacy part of education but rather on the media competency part. Meaning that each and every primary scholar is a “news worker” if they could, for example, fact check the presidential debates. If they could, for example, reveal the water or air pollutions around a vicinity.
 
 ### Audrey Tang:
 Their collaboration with their local college and community colleges, university social responsibility projects and so on. All of these makes them not just journalists but also investigative journalists. They are \[inaudible 13:14\] journalists with the people, right?
@@ -466,7 +466,7 @@ That’s right.
 What about software? It’s not as strong as hardware investments in Taiwan, and we’re seeing a bunch of strong software investments going on? Is it the trend? Or this is improving?
 
 ### Audrey Tang:
-There’s also a peer. There’s Trent Micro, there’s Whoscall . It’s not like we don’t have a software field. On the other hand, of course, the semiconductor supply chain and the so called AIoT industry do gets most of that talent. I would say maybe 80 percent.
+There’s also a peer. There’s Trend Micro, there’s Whoscall . It’s not like we don’t have a software field. On the other hand, of course, the semiconductor supply chain and the so called AIoT industry do gets most of that talent. I would say maybe 80 percent.
 
 ### Audrey Tang:
 This is a pattern that we say that people work first with TSMC or other semiconductor industry, MediaTek, or whatever until they are at their 30s, late 30s. Then they go and found a start up because, in Taiwan, everybody wants to found a start up at some point, I don’t know why.

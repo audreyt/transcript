@@ -68,7 +68,7 @@ Speaking about the post pandemic lifestyle, one of the most prominent trend is t
 
 So much so that if there's any computer security issues, if there's any, like penetration testing, revealed issues, and so on, it only affects that particular virtual machine and not my computer. I can have several of these virtual machines running concurrently.
 
-Compare that with the more traditional going into the office, going into an onsite premise and guarding that using traditional ways of centralized messaging controls or VPNS and such. This way of securing the edge is like building a habit of wearing mask, and washing hands, and vaccinate oneself, and that is to say the protection resides in the very practitioners of public service, or practitioners in office, and without requiring them to use specific devices or network connections.
+Compare that with the more traditional going into the office, going into an onsite premise and guarding that using traditional ways of centralized messaging controls or VPNs and such. This way of securing the edge is like building a habit of wearing mask, and washing hands, and vaccinate oneself, and that is to say the protection resides in the very practitioners of public service, or practitioners in office, and without requiring them to use specific devices or network connections.
 
 The cybersecurity edge also translates into the policy space, where we need to figure out all those different ways to identify someone who's subject to public service, using ways that doesn't require face to face contact. I understand Estonia, just as in Taiwan, we have electronic ID cards in Taiwan, the National Health Insurance Card.
 
@@ -108,7 +108,7 @@ Good norms, clear norms, and good habits is the most important. Like when people
 
 These technologies doesn't work unless people build a good habit to use them regularly, and so on. Especially in the configuration stats, put the power at the self serviced edges, and so on.
 
-If someone doesn't have a good cybersecurity norm or habits, if someone, for example, a management is getting into the habit of assigning the route, or the super user, the full administrator privilege to the top management, to the leadership team who doesn't quite understand how this works and doesn't require that permissions after all.
+If someone doesn't have a good cybersecurity norm or habits, if someone, for example, a management is getting into the habit of assigning the root, or the super user, the full administrator privilege to the top management, to the leadership team who doesn't quite understand how this works and doesn't require that permissions after all.
 
 If you have a bad habit of assigning all the permissions, just because, to the top management or top leadership, none of the best defense design mechanism can help you [laughs] because that is a self defeating habit to begin with. The same as counter pandemic adopt reasonable, clear to follow norms and habits. That's the most important.
 
@@ -155,19 +155,19 @@ Certainly, this is it. As you said, no one announces when they're going to be at
 I think, definitely capacity building around that would be a good investment backed up for people. Last question for you, which is, we've talked about a number of different things. What is the one thing that we've not talked about? You've not told me that you believe startups and semi small businesses need to know and be considering in order to protect themselves to create future for best businesses.
 
 ### Audrey Tang:
-I believe that Free Software with a capital F [laughs] is still very important. The reason why we adopted Sandstorm or Police or other free software technologies in Taiwan's digital public infrastructure is not an ideological choice.
+I believe that Free Software with a capital F [laughs] is still very important. The reason why we adopted Sandstorm or Polis or other free software technologies in Taiwan's digital public infrastructure is not an ideological choice.
 
 It is out of thought that says if we empower the people closest to the edge with the full view of the system instead of security through obscurity, we actually invite everyone in the public service to serve as white hats, [laughs] to report as soon as possible, which lies of cost potential resilience challenges and so on. To give no trust is to get no trust. We trust our public service this way and they trust back by alerting us to the White Hat related reports and so on.
 
 I believe a good relationship with the White Hat community is essential. Even as small and medium enterprises, you can still participate in bug bounties and other activities, not with an astronomical price, of course, but just to create good will with the White Hat community, and partly so that the White Hats understand, as in Taiwan, they are national heroes. [laughs]
 
-They meet with president or the minister all the time that the team that found their three CVEs in sense storm called Def core team. Actually I announced their name in all my interviews, including this one so that they don't fall to the dark side, which always has more cookies. [laughs] To cherish your White Hat community, to build a relationship with the White Hat community, that's the one thing I would like to remind you.
+They meet with president or the minister all the time that the team that found their three CVEs in Sandstorm called DevCore team. Actually I announced their name in all my interviews, including this one so that they don't fall to the dark side, which always has more cookies. [laughs] To cherish your White Hat community, to build a relationship with the White Hat community, that's the one thing I would like to remind you.
 
 ### Kristen Davis:
-Excellent advice. In fact, that chimes very much with one of the other people that I interviewed about this topic. How can people find out, for example, a disclosure policy? Do you have templates that are out there that the people could take a look at? If a White Hat finds a bunk in a piece of code, how do they communicate them? How do you build this trust and bridge between small businesses and the White Hat community?
+Excellent advice. In fact, that chimes very much with one of the other people that I interviewed about this topic. How can people find out, for example, a disclosure policy? Do you have templates that are out there that the people could take a look at? If a White Hat finds a bug in a piece of code, how do they communicate them? How do you build this trust and bridge between small businesses and the White Hat community?
 
 ### Audrey Tang:
-Yeah, this norm is established in conjunction with the Hacks in Taiwan community, the Hit Com community, as well as TW search CC. If you search for a hit com zero day, then you can see the templates and kind of scoreboard. They're real time reports of the responsible disclosures of zero days, that gets the response not just from the public sector.
+Yeah, this norm is established in conjunction with the Hacks in Taiwan community, the HITCON community, as well as TWCERT/CC. If you search for a HITCON zero day, then you can see the templates and kind of scoreboard. They're real time reports of the responsible disclosures of zero days, that gets the response not just from the public sector.
 
 Nowadays they are working in very close partnership with the semiconductors industries and so on, does very critical infrastructure and critical economic industries in Taiwan. I think the White Hats do not just serve the public sector they serve the public in general.
 

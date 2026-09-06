@@ -77,7 +77,7 @@ What do you remember of that time?
 I remember my dad sending me the facsimiles, the fax machines, which is the first application of digital photography at the time. I remember viewing on television these new ideas of digital photography that was transmitted through phone lines for the first time.
 
 ### Audrey Tang：
-I think Kodak just invented that idea of a camera transmitting a photographic image through telephone lines at that year. That’s how we get, for example, the Techman coverage from the Tiananmen Square.
+I think Kodak just invented that idea of a camera transmitting a photographic image through telephone lines at that year. That’s how we get, for example, the Tank Man coverage from the Tiananmen Square.
 
 ### Audrey Tang：
 Later on my dad also went to Berlin, when the Wall fell. I remember him sending me a small plastic bag and with it a part of the Berlin Wall that broke. It was a very happening year.
@@ -182,7 +182,7 @@ I’ll use one example. It’s very simple language that a six year old understa
 \[laughs\]
 
 ### Audrey Tang：
-For example, there’s a verse that said 30 spoke meet in the harbor and that form a wheel, where the wheel is not as empty. It’s where it is useful and like hollowed out, the clay make a pot. It’s empty, but where the pot is not is where it’s useful. The use of what is is in the what isn’t.
+For example, there’s a verse that said 30 spoke meet in the hub and that form a wheel, where the wheel is not as empty. It’s where it is useful and like hollowed out, the clay make a pot. It’s empty, but where the pot is not is where it’s useful. The use of what is is in the what isn’t.
 
 ### Audrey Tang：
 For example, we cut the existing structures but we make windows and we make rooms out of these spaces. Where the room is not, there is room for us. The emptiness, the space is actually where the possibility is, and the structure is just there to support the empty space.
@@ -738,7 +738,7 @@ What can we do with this whole dark side of the Internet, the lies, how they can
 In Taiwan, we say disinformation.
 
 ### Audrey Tang：
-Which means intentional and truth that harm the public.
+Which means intentional untruth that harm the public.
 
 ### Audrey Tang：
 That harm the public. Not a minister’s image.

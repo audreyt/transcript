@@ -303,7 +303,7 @@ Then we can introduce this group systemically as any others, what we call civic 
 This model is something that I would really love to see happening. We’ve mostly been talking about this in terms of ethnicity and, for example, indigenous nations, as well as underprivileged, what we call groups that qualify for low income, or single parents, or things like that.
 
 ### Audrey Tang:
-These are great for physical services that government is developing. For digital ones, because of the bilingual strategy, just having people who have native language that is not Mandarin, or Taiwanese Hoko, or Taiwanese Hakka, or any of those Taiwan national languages, will actually be a very good addition.
+These are great for physical services that government is developing. For digital ones, because of the bilingual strategy, just having people who have native language that is not Mandarin, or Taiwanese Hoklo, or Taiwanese Hakka, or any of those Taiwan national languages, will actually be a very good addition.
 
 ### Audrey Tang:
 It’s not just about people who are underrepresented economically, but people who are underrepresented in digital service. I think it’s a good idea.
@@ -417,7 +417,7 @@ That’s one part. The other part is that if there is a particular website that 
 Then maybe we can have a more in-depth meeting on one particular...It doesn’t have to be one particular website. It’s just one particular life event. That will be very useful.
 
 ### Audrey Tang:
-For example, currently we’re evaluating a live event around getting preschool and early primary school parents all they need in terms of, I don’t know, vaccination, reimbursement, the essential parenting help, or whatever. It’s easily five agencies. For the young parents, it’s a single life event, which is their children going to preschool.
+For example, currently we’re evaluating a life event around getting preschool and early primary school parents all they need in terms of, I don’t know, vaccination, reimbursement, the essential parenting help, or whatever. It’s easily five agencies. For the young parents, it’s a single life event, which is their children going to preschool.
 
 ### Audrey Tang:
 That kind of design is needed, unless people would be very keen to adjust their mind between the five agencies’ design language. I don’t think many people enjoy that. If they go to a physical district office, at least they know five people by talking to the different counters, but on a website, it’s pure annoyance.

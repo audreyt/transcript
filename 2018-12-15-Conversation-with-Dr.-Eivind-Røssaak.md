@@ -166,7 +166,7 @@ As I tour around -- for example, when I was in Taitung -- it was maintained by t
 These people, they previously had a lot of legal complications, because they are not a company. They are not subject to the labor basic law, and things like that. People often mistake them for just associations and things like that, but they are actually a co-op. They raise a lot of points.
 
 ### Audrey Tang：
-Previously, they were stuck, because the Ministry of Interior would say, &quot;Oh, I need to talk with the Ministry of Health and Welfare. I need to talk with the Counsel of Public Construction, and National Development Counsel, and things like that.&quot;
+Previously, they were stuck, because the Ministry of Interior would say, &quot;Oh, I need to talk with the Ministry of Health and Welfare. I need to talk with the Council of Public Construction, and National Development Council, and things like that.&quot;
 
 ### Audrey Tang：
 This original story gets lost when you only have like five pieces of A4 papers. Often, it just gets nowhere, but because when I was touring around, it’s not just me. All the 12 ministries, here, are in the Social Innovation Lab, on the second floor. Watching through my eyes the actual people, and people’s stories, and their problems, their issues. It’s two-way.
@@ -193,7 +193,7 @@ I think it started back in 2001, and it was a very pioneering project, because a
 That’s right.
 
 ### Eivind Røssaak：
-I thought it was extremely interesting. I told my colleagues about this, and I’ve been trying to follow it up. Now, it seems their website is hosted from Academia Sinica. IHowever, it seems to me, it’s not very much updated recently - is it still active?
+I thought it was extremely interesting. I told my colleagues about this, and I’ve been trying to follow it up. Now, it seems their website is hosted from Academia Sinica. However, it seems to me, it’s not very much updated recently - is it still active?
 
 ### Audrey Tang：
 It has several successor projects that reuses the archives in a way that is more participatory. It is true that the TELDAP was very pioneering, but as with the National Palace Museum, which started a very similar...
@@ -480,7 +480,7 @@ Oh yes, you’re absolutely right. Taiwan can help. Taiwan can help other people
 Taiwan can help other people, really. Most of our work is around the sustainable goals, as I said, but a part of the sustainable goal that I am personally interested in is enhancing reliable data. We talked a little bit about that, encouraging cross-sectoral partnerships, and most importantly, open innovation.
 
 ### Audrey Tang：
-In the sense that, for example, in many UN settings, I shared the AirBox, which is people measuring their own air qualities using measurement boxes that’s less than $100 USD, so they’re very cheap. In many jurisdictions, they don’t allow citizen scientists to organize to 2,000 or more sides, especially around this region.
+In the sense that, for example, in many UN settings, I shared the AirBox, which is people measuring their own air qualities using measurement boxes that’s less than $100 USD, so they’re very cheap. In many jurisdictions, they don’t allow citizen scientists to organize to 2,000 or more sites, especially around this region.
 
 ### Audrey Tang：
 If there’s more than 200, maybe they get disappeared, or severely discouraged, because they really threaten the legitimacy of the government. What we do is that we can’t beat them, so we join them. We not only set up complementary measuring sites on the places where citizen scientists are not as active, we also listen to the citizen scientists who say, &quot;We want a measurement point here.&quot;
@@ -525,7 +525,7 @@ Well, eventually.
 Eventually? You will do it through windmills?
 
 ### Audrey Tang：
-Wind turbine is one of the most interesting ones, because the Taiwan Straight is really powerful, in terms of the wind. The main challenge of course, is that Taiwan don’t have the technologies. We have to partner with people in UK and Denmark and so on.
+Wind turbine is one of the most interesting ones, because the Taiwan Strait is really powerful, in terms of the wind. The main challenge of course, is that Taiwan don’t have the technologies. We have to partner with people in UK and Denmark and so on.
 
 ### Eivind Røssaak：
 And Norway.

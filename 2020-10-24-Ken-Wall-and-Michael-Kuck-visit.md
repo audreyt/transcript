@@ -172,7 +172,7 @@ Technically, you’re able to provide on-premises. OK, that’s all good.
 Technically, it’s not an issue software-wise.
 
 ### Ken Wall:
-Yeah, it’s just not a topic of conversation or a use case that we’re talked about extensively on our end, to be perfectly honest.
+Yeah, it’s just not a topic of conversation or a use case that we’ve talked about extensively on our end, to be perfectly honest.
 
 ### Ken Wall:
 Here’s what we’re working on, and we’ve got a lot of things to learn and to validate. We’re here talking to you, because we’re hoping to get feedback that can make us better.
@@ -216,7 +216,7 @@ That’s cool.
 They’re, I think, also open source, at least open API, and they’re also your natural allies. They already have done all the work to get the negative environment impact stuff figured out. They convinced people to just work with the boo-hoo part without getting uninstalled.
 
 ### Audrey Tang:
-I think that’s an important thing, because at some point, you need to do some boo-hoo, not all woo-hoo. It’s just in the very initial MVP thing – and I hear you – that it’s always better to start with a PokÃ©mon Go, like all fun part of it.
+I think that’s an important thing, because at some point, you need to do some boo-hoo, not all woo-hoo. It’s just in the very initial MVP thing – and I hear you – that it’s always better to start with a Pokémon Go, like all fun part of it.
 
 > (laughter)
 
@@ -325,7 +325,7 @@ Firefox mobile, if it doesn’t cost you too much to just test whether it works�
 I will definitely do that.
 
 ### Audrey Tang:
-…I think it’s a good existential proof, because it then motivates the younger people to think twice about choosing the default browser. Then if they go to Firefox, not because of ÂµBlock or whatever…Which is actually another very good reason.
+…I think it’s a good existential proof, because it then motivates the younger people to think twice about choosing the default browser. Then if they go to Firefox, not because of µBlock or whatever…Which is actually another very good reason.
 
 ### Audrey Tang:
 The uBlock origin, to be precise, but also, because of the not-named-Melio, but we don’t know what extension \[laughs\] then that’s an extra thing for them to say. Like, “I support the open Web and the environment.”
@@ -349,7 +349,7 @@ Of course, you can. The Presidential Hackathon winners win because they mobilize
 What it does is that it shows you how many plastic bottles you have saved by choosing to use refill stations. Hey, we are in a Social Innovation Lab which has a refill station that offers three different water temperatures.
 
 ### Audrey Tang:
-You can just have a, I don’t know, conversation with people around you that also cares about saving plastic bottles. The great thing is that they designed it like PokÃ©mon Go, so if you keep checking in every day, eventually, you get a sufficient number of points. That actually gets you some tea.
+You can just have a, I don’t know, conversation with people around you that also cares about saving plastic bottles. The great thing is that they designed it like Pokémon Go, so if you keep checking in every day, eventually, you get a sufficient number of points. That actually gets you some tea.
 
 ### Michael Kuck:
 What’s the name of app?

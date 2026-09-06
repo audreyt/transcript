@@ -116,7 +116,7 @@ That would still concentrate power on the social sector and the journalists them
 I’ll go through, very quickly, the three reactive ones that only triggers when something seems like disinformation begin to emerge.
 
 ### Audrey Tang:
-The first one, which is very intuitive, is that all our ministries are now equipped with sufficient personnel, budget, and mimetic engineers to roll out a viral clarification one hour, at most, after each trending disinformation is detected by our system. There’s no exceptions to that. Our prime minister then adds some design to it.
+The first one, which is very intuitive, is that all our ministries are now equipped with sufficient personnel, budget, and memetic engineers to roll out a viral clarification one hour, at most, after each trending disinformation is detected by our system. There’s no exceptions to that. Our prime minister then adds some design to it.
 
 ### Audrey Tang:
 This is a typical clarification message. There’s the so-called triple two rule. The title must be 20 characters or less, like “Perming your hair many times within a week will be subject to a one million dollar fine, it’s not true,” so 20 characters.
@@ -163,7 +163,7 @@ Yeah, how do we even know it’s trending?
 Yeah and how does the minister then make a comment so quickly, how do you coordinate all that?
 
 ### Audrey Tang:
-Great question. In each ministry there’s a cross-functional team of at least five roles of graphic design, of text, of political acumen, analysis of the connection to the career public service, existing database of frequently answers questions and open data, as well as one coordinator that talks with every other ministry. There’s 32 ministries, and each one has this kind of teams for rapid response.
+Great question. In each ministry there’s a cross-functional team of at least five roles of graphic design, of text, of political acumen, analysis of the connection to the career public service, existing database of frequently asked questions and open data, as well as one coordinator that talks with every other ministry. There’s 32 ministries, and each one has this kind of teams for rapid response.
 
 ### Audrey Tang:
 We treat it a little bit like cybersecurity incidence response, except requiring more creativity. Also, the premier and our president is very willing to serve as the actor, or actress, as the model for the model, right?
@@ -180,7 +180,7 @@ However, when the prime minister and the president started featuring their photo
 Intentional harmful untruth. Talk a little bit about the harmful, and how you are defining it, and allowances for allowing that word to evolve over time and harmful.
 
 ### Audrey Tang:
-If you’re harmful to the public, for example during an epidemic like SARS, mislead people about the diseased areas and inviting people to come to places that actually has SARS, it’s demonstratably harmful to the public health, and we have existing laws to punish such behaviors regardless whether it’s online or offline.
+If you’re harmful to the public, for example during an epidemic like SARS, mislead people about the diseased areas and inviting people to come to places that actually has SARS, it’s demonstrably harmful to the public health, and we have existing laws to punish such behaviors regardless whether it’s online or offline.
 
 ### Audrey Tang:
 The harmful is based on existing codes of law that looks public harm in the physical space without digital technologies, many of them written before social media.
@@ -327,7 +327,7 @@ There are researchers doing this analysis right now, but because the feature of 
 Can you also create using, for instance, the riots/demonstrations in Hong Kong, and how that is being treated on social media, and how your system works in using that as an example?
 
 ### Audrey Tang:
-Sure. Hong Kong mostly runs on Telegram, which is not exactly end-to-end encrypted by default, but it could be, opt-in end-to-end encrypted channel. It’s also running on LIHKG, which is a Reddit-like bulletin board system. In Taiwan they’re counterpart would be the PTT. I think in Hong Kong, a lot of voluntary fact-checking is done just by that platform, and by participants alone.
+Sure. Hong Kong mostly runs on Telegram, which is not exactly end-to-end encrypted by default, but it could be, opt-in end-to-end encrypted channel. It’s also running on LIHKG, which is a Reddit-like bulletin board system. In Taiwan their counterpart would be the PTT. I think in Hong Kong, a lot of voluntary fact-checking is done just by that platform, and by participants alone.
 
 ### Audrey Tang:
 They have also a shared dashboard of all the informations that they receive, and the sources, and whether it was really a nurse or protester that got her eyes damaged, or whether it was a real, well, minister, well in the Catholic sense that stopped a gunshot, or whether they’re just an actor, or things like that.
@@ -1242,7 +1242,7 @@ We use paper technology, because the cybersecurity threat is too strong. For ref
 For the national referendums we are considering, for example, online signature collection, online consensus making during the formation of the referendum items, and even electronic tallying or long-distance voting. That is a separate space, because there’s no exponential return. The most you can do, rig one referendum vote is win that particular referendum vote, you cannot get someone in the office to recursively change the rules for you.
 
 ### Audrey Tang:
-We think that’s a safer part, and that’s my opinion also as digital minster. Of course, at the end, the central election committee take care of that, they’re independent organ, but we do provide our opinions.
+We think that’s a safer part, and that’s my opinion also as digital minister. Of course, at the end, the central election committee take care of that, they’re independent organ, but we do provide our opinions.
 
 ### Audience Member:
 You mentioned earlier that Italy had adopted the g0v, how much coordination went into persuading or helping them to get that started, if any? Is this something that independent groups are…
@@ -1309,7 +1309,7 @@ Thank you very much.
 Thank you.
 
 ### Audience Member:
-Minster, sorry, just one more information, piece of information. Actually US and Taiwan are working together in this media literacy.
+Minister, sorry, just one more information, piece of information. Actually US and Taiwan are working together in this media literacy.
 
 ### Audrey Tang:
 We are, with GCTF and so on. In fact, this presentation that you just saw, the initial one anyway, started in a Taiwan-US GCTF workshop, media literacy.

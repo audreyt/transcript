@@ -76,7 +76,7 @@ In the era of radio and television, one person can broadcast to millions of peop
 
 When early broadcasting technology were around, it was very easy to start world wars by broadcasting to people who hate each other without any way for them to understand each other through conversations. The Internet changed all that. It can connect people of very different ideas and opinions. Internet is symmetric, meaning that as much as you can listen, you can also talk to other people.
 
-It created a new foundation, a technological background, for the kind of democracy that is deliberative, meaning that people can deliberat,e to think about things together, and come to rough consensus or good enough consensus, meaning that we can all live with it. By discovering what we can all live with, this creates opportunity for collaborative diversity.
+It created a new foundation, a technological background, for the kind of democracy that is deliberative, meaning that people can deliberate, to think about things together, and come to rough consensus or good enough consensus, meaning that we can all live with it. By discovering what we can all live with, this creates opportunity for collaborative diversity.
 
 ### Moritz Riesewieck:
 In which way is democracy a technology itself?
@@ -166,7 +166,7 @@ Antisocial network.
 The anti... [laughs] We see a different behavior. What's your secret sauce? How do you manage to get a pro social network instead of antisocial one?
 
 ### Audrey Tang:
-In her first in operation speech as the president, Dr. Tsai Ing wen said in 2016, "Before we think of democracy as a showdown between two opposing factions, but now democracy must become a conversation between many diverse values."
+In her first inauguration speech as the president, Dr. Tsai Ing wen said in 2016, "Before we think of democracy as a showdown between two opposing factions, but now democracy must become a conversation between many diverse values."
 
 Focusing on the common values is the secret to get non polarized consensus view online. To do that, we need to ensure two technological underpinnings. One, everyone who participate in our national deliberation participation platform, the joint platform, need to authenticate himself through an SMS.
 
@@ -260,7 +260,7 @@ Because the government trusted the citizen enough to not just have a free speech
 Can you maybe explain what PTT is?
 
 ### Audrey Tang:
-Sure. The PTT is like Reddit, a forum in which people can start subforums, like subreddits. Unlike the Reddit, PTT is not owned by any company. It is owned by the Student Club in the National Taiwan University. It's open source, meaning people can take the PTT's code and start their own forex of PTT. It is free software, meaning that people can inspect how things work.
+Sure. The PTT is like Reddit, a forum in which people can start subforums, like subreddits. Unlike the Reddit, PTT is not owned by any company. It is owned by the Student Club in the National Taiwan University. It's open source, meaning people can take the PTT's code and start their own forks of PTT. It is free software, meaning that people can inspect how things work.
 
 Through transparency for more than two decades in Taiwan, PTT achieved a special status that the journalists often just curate the conversations from the PTT into their journalistic reports, which is why PTT is a public digital space in Taiwanese politics.
 
@@ -451,7 +451,7 @@ The lives have never been seen. It's 23 times higher than the previous peak in a
 
 This hybrid cognitive coordinated warfare in the cyberspace is what we face every day. In a way to not confuse dialing to keep a website busy and actually taking over control of the website on the same hour when the drill started, we put our ministerial website moda.gov.tw online on web2 and web3.
 
-I said publicly to the press that we invite everybody to attack us and if you can take us down, you would also take down the NFTs, the Board Ape Yacht Club, pictures that people were crazy about in 2021, 2022. By tying ourselves to the InterPlanetary File System, we not only proved resilient against this kind of cyber attacks, but also turned the conversation into a participatory one.
+I said publicly to the press that we invite everybody to attack us and if you can take us down, you would also take down the NFTs, the Bored Ape Yacht Club, pictures that people were crazy about in 2021, 2022. By tying ourselves to the InterPlanetary File System, we not only proved resilient against this kind of cyber attacks, but also turned the conversation into a participatory one.
 
 Anyone around the world more than 200,000 computer volunteers can help backing up our websites by donating their hard discs and so on. We got a lot of interest from community, from the protocol lab which runs this protocol of IPFS and so on and builds us more democratic allies around the world thanks to the cyber attack.
 

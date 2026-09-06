@@ -73,7 +73,7 @@ They're our neighbors in top-level country domain. Dot TW is next to Dot TV.
 ### Audrey Tang:
 Yeah. I heard Korea, one of the companies is also planning to launch 2,000 satellites in the next 10 years to build a very similar system.
 
-In Taiwan, we have a lot of offshore islands, and of course our diplomatic allies in the Pacific, and from an accessibility inclusion point of view, we of course, welcome more connectivity choices in such areas that's underserved, or real expensive, because we commit to broad as human right.
+In Taiwan, we have a lot of offshore islands, and of course our diplomatic allies in the Pacific, and from an accessibility inclusion point of view, we of course, welcome more connectivity choices in such areas that's underserved, or real expensive, because we commit to broadband as human right.
 
 We're very much looking forward to partner, to solve the last mile accessibility issues on the smaller island in rural areas. We're also quite interested in being part of the supply chain, to make such technologies happen.
 

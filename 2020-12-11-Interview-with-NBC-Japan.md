@@ -12,7 +12,7 @@ The idea is to use the social innovation three pillars, fast, fair, and fun, esp
 Well, we know how bad it could be, because back in 2003, we also had our SARS 1.0. When SARS 1.0 was released \[laughs\] in the Taiwan, the municipal government was saying very different thing from the central government. People were buying N95 masks for no good reason. It’s panic buying. We had to lock down an entire hospital unannounced, so we had it pretty bad.
 
 ### Audrey Tang:
-Then, back in 2003, only the small island of Penghu of the Pescadores Island have a pilot test of the IC card, of the universal healthcare card. The rest of Taiwan, the main island, is still user paper-based health records. What a contrast it is to look at the IC card in Penghu and then the rest of the country.
+Then, back in 2003, only the small island of Penghu of the Pescadores Island have a pilot test of the IC card, of the universal healthcare card. The rest of Taiwan, the main island, is still using paper-based health records. What a contrast it is to look at the IC card in Penghu and then the rest of the country.
 
 ### Audrey Tang:
 In 2004, not only did we redesign our Center for Disease Control to have the idea of the Central Epidemic Command Center, which takes care of the communications, the toll-free numbers, and everything, but also, making sure that the universal healthcare card, the IC card, is available not only to citizens, but also for residents as well. It covers more than 99.99 percent of the population.
@@ -85,7 +85,7 @@ It’s just a way to approach a problem, to decompose it into independent functi
 Then I joined this fabulous Internet community, the second largest community around co-creation called CPAN, the Comprehensive Perl Archive Network back in 1994-95. It’s modeled after the Comprehensive T-E-X, TEX Archive Network by Donald Knuth and friends.
 
 ### Audrey Tang:
-The idea is that everybody in the beginning of the World Web instead of just working our own silos, we make the fragments of our CGI scripts. That is to say the handlers for dynamic web pages add those components freely in the open for everyone to share so our work can link together, just like how web pages can hyperlink to one another.
+The idea is that everybody in the beginning of the World Wide Web instead of just working our own silos, we make the fragments of our CGI scripts. That is to say the handlers for dynamic web pages add those components freely in the open for everyone to share so our work can link together, just like how web pages can hyperlink to one another.
 
 ### Audrey Tang:
 That is the community around rough consensus, about radical transparency. I learned about the community governance back then, when I was just 15 years old. It would not be another few years until I have my first vote. Representative voting is a lower bandwidth system.

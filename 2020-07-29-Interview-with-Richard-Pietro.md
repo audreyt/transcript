@@ -210,7 +210,7 @@ From my understanding, there’s a bit of a subculture that there’s very stron
 How would you classify yourself between the two? Do you just jump between both or you feel very strongly about one over another?
 
 ### Audrey Tang:
-We never had schism in Taiwan though. I helped naming the association in Taiwan, we call it the Software Liberty Association Taiwan or SLAT. That’s important that we focus on liberty, because that’s the idea could both be interpreted from this collective liberty point of view, like against surveillance, capitalism or stateism, and that’s called liberty.
+We never had schism in Taiwan though. I helped naming the association in Taiwan, we call it the Software Liberty Association Taiwan or SLAT. That’s important that we focus on liberty, because that’s the idea could both be interpreted from this collective liberty point of view, like against surveillance, capitalism or statism, and that’s called liberty.
 
 ### Audrey Tang:
 This could also be interpreted from a market point of view as a liberal market that early movers cannot monopolize and prevents later innovators from joining. While the free software of course is a human right argument, essentially an open source of economic arguments, I think liberalism captures the ideas of both sides, and so I’m firmly taking both sides.
@@ -240,10 +240,10 @@ We started this idea called Elixus, which stands for Elixir and Nexus, which is 
 Then we took, for example, the subversion version control system and one of my co-founders CL Kao did a distributed versioning plugin on top of that called SVK, which was really, really nifty before Git came along, and we all converted to Git.
 
 ### Audrey Tang:
-Later on, our company which powered the first version of open foundry, which is Taiwan’s national project of creating something like GitHub. Then, I will also use that hosting technology to host plugs, which is the first implementation of Roku.
+Later on, our company which powered the first version of open foundry, which is Taiwan’s national project of creating something like GitHub. Then, I will also use that hosting technology to host Pugs, which is the first implementation of Raku.
 
 ### Audrey Tang:
-At that time, it’s not called Roku, it was corporate six language and unite basically, people from the functional and object-oriented, and command line scripting communities together, to create a brand new language and so on. At that time, I would have been like 24 years old, so it’s roughly four years of startup time.
+At that time, it’s not called Raku, it was corporate six language and unite basically, people from the functional and object-oriented, and command line scripting communities together, to create a brand new language and so on. At that time, I would have been like 24 years old, so it’s roughly four years of startup time.
 
 ### Richard Pietro:
 You spend quite a bit of time in San Jose creating this startup.
@@ -254,7 +254,7 @@ I fly back to Taipei after I realized that I can bootstrap and drink our own cha
 > (laughter)
 
 ### Audrey Tang:
-…in order to work well with communities of all kinds. No, I didn’t stay in San Jose long for that matter. When I started the plugs project in 2004, I didn’t stay in any city. I hosted or co-created more than 20 hackathons in 20 cities all across the world. I just actively worked like Paul Erdős, I guess.
+…in order to work well with communities of all kinds. No, I didn’t stay in San Jose long for that matter. When I started the Pugs project in 2004, I didn’t stay in any city. I hosted or co-created more than 20 hackathons in 20 cities all across the world. I just actively worked like Paul Erdős, I guess.
 
 ### Audrey Tang:
 People who have a free couch in their home and that are passionate about open source and free software communities and we can co-create something together until they get fed up with me and then send me an address at the next stop to go to. No, I was not in any city. I was couchsurfing.
@@ -295,7 +295,7 @@ I want to get the chronology right, a little bit here.
 Yes. Inforian was in 1996 to 1997. Then, in around year 2000, that’s OurInternet, first in San Jose, in Taipei, and then many other cities. That continued until 2005 or so 2006. Then, in which time I was working full time on the PRAXIS language for a couple years.
 
 ### Audrey Tang:
-Then afterwards, in 2008, I will join Socialtext with also CL Kao, my co-founder in the OurInternet days, and stats continued from 2008 all the way to 2013, ‘14-ish. I still am retained as an independent contractor at that time starting in 2010, not only with Socialtext, but also with Apple. In 2013, it would also bring me to work with the Oxford University Press.
+Then afterwards, in 2008, I will join Socialtext with also CL Kao, my co-founder in the OurInternet days, and that's continued from 2008 all the way to 2013, ‘14-ish. I still am retained as an independent contractor at that time starting in 2010, not only with Socialtext, but also with Apple. In 2013, it would also bring me to work with the Oxford University Press.
 
 ### Audrey Tang:
 When I retired, I was still holding three consultant positions with Apple, Socialtext, and Oxford University Press respectively. Then, we occupied the parliament in 2014 and my life took a very interesting turn. Then became Digital Minister in 2016.
@@ -310,7 +310,7 @@ Around 2013, you retired from your work, but during the 2008-2013, is that when 
 A bunch of people that we work on in the early Elexis days in late 2012, started the g0v movement. I wasn’t one of the co-founders. I joined early 2013, working on dictionary technologies, lexicography, but in late 2012, there was this advertisement paid by the government on YouTube called the Economic Boost Up Plan.
 
 ### Audrey Tang:
-The plan was so complicated that they filmed for ordinary citizens looking at that plan which pass them in a word cloud and looking very confused, and while voiceover says, “Oh, you don’t have to understand that. You just have to do it.” The advertisement was immediately flagged as spam by angry netizens, \[laughs\] because that’s basically elitism.
+The plan was so complicated that they filmed four ordinary citizens looking at that plan which pass them in a word cloud and looking very confused, and while voiceover says, “Oh, you don’t have to understand that. You just have to do it.” The advertisement was immediately flagged as spam by angry netizens, \[laughs\] because that’s basically elitism.
 
 > (inaudible 25:58) and three of his classmates back when he was in NDU, started this budget visualization, basically making a case that people don't understand the budget and the boost up plan, not because people are dumb, but because the government's way of presenting them are dumb.
 
@@ -405,7 +405,7 @@ Aside from my usual concluding remark, may you live long and prosper. I would li
 I would love for you to do that.
 
 ### Audrey Tang:
-OK. The poems called “Like a Larva Holding on for Transformation.” It’s by Chen Yi-Wen, translation by yours truly:
+OK. The poem's called “Like a Larva Holding on for Transformation.” It’s by Chen Yi-Wen, translation by yours truly:
 
 ### Audrey Tang:
 I would like you to firmly resist your weakness like a chrysalis holding back a butterfly, a maple leaf resisting the autumn a newly splashed droplet resisting breakup

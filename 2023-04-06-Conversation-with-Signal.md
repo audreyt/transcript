@@ -414,7 +414,7 @@ So after this meeting, I can have a reason to ask my boss to pay well.
 > (laughter)
 
 ### Audrey Tang:
-Yeah. In NICS, we already pegged our average salary to the median of cyber security researchers and engineers in financial institutions. It is the median, right? So, it’s not particularly good or bad. It just ensures a talent circulation but it really is true that the really senior people add to the team’s spirits and also a sense of mission. And so these people would have a separate paygrade that is just you know, a few hundred bucks shorter of a minister’s salary.
+Yeah. In NICS, we already pegged our average salary to the median of cyber security researchers and engineers in financial institutions. It is the median, right? So, it’s not particularly good or bad. It just ensures a talent circulation but it really is true that the really senior people add to the team’s spirits and also a sense of mission. And so these people would have a separate paygrade that is just you know, a few hundred bucks short of a minister’s salary.
 
 > (laughter)
 
@@ -476,7 +476,7 @@ Almost no one has the resources now to run our own servers. It’s hundreds of m
 
 We would like to live in a world where those infrastructures were more trustworthy because they touch a lot of data that isn't encrypted, but our methodology is that we don't trust them and we use encryption to allow us to use them anyway.
 
-Close-border data protection is very difficult in a globally connected world where only a handful of companies have infrastructure, so I think it’s a very difficult problem given the last 10 years we moved from a world where most organizations ran their own infrastructure to a world where a handful of companies run all the infrastructure. And the norms around how people expect technology to work have been established by those organizations. Either we meet those norms and it works, or we don't, and then five cryptographers in Berlin might use us but no one else can.
+Cross-border data protection is very difficult in a globally connected world where only a handful of companies have infrastructure, so I think it’s a very difficult problem given the last 10 years we moved from a world where most organizations ran their own infrastructure to a world where a handful of companies run all the infrastructure. And the norms around how people expect technology to work have been established by those organizations. Either we meet those norms and it works, or we don't, and then five cryptographers in Berlin might use us but no one else can.
 
 ### Chuan-Te Ho:
 One of the ways where NICS can collaborate with Signal is maybe we can share the threat intelligence.
@@ -721,5 +721,5 @@ Absolutely. Please do… Feel free at any time if you have questions, tech suppo
 Keep in touch.
 
 ### Meredith Whittaker:
-Yeah, keep it touch. Wonderful, thank you. And I love your graphic designs, they look very nice.
+Yeah, keep in touch. Wonderful, thank you. And I love your graphic designs, they look very nice.
 

@@ -32,10 +32,10 @@ Okay. So where does this fit in with Taiwan's exclusion from international insti
 ### Audrey Tang:
 Yeah, I think there's a lot of talk in the sidelines, right? And as I mentioned in my talk, we toil tirelessly from the sidelines. But I think our message is one that resonates, that when AI harms democracy, we can counter that harm with more democracy and AI-assisted democracy. So we've seen many top labs resonating with that idea. As I mentioned in the talk, we already partner with OpenAI and Anthropic, and from the response at the Concordia Summit, it seems that Meta and Google, also our recent meetings, are quite interested in helping out as well, especially around the testing and verification part.
 
-These are not traditional bilateral or multilateral talks, it's not like those top labs are sovereign countries, but they are interested. And in a multistakeholder setting, I think this message resonates very well. And I think UN is evolving into a hybrid. There's a multilateral part of it, but there's also a multistateholder part of it as well. And we're working with the multistakeholder groups.
+These are not traditional bilateral or multilateral talks, it's not like those top labs are sovereign countries, but they are interested. And in a multistakeholder setting, I think this message resonates very well. And I think UN is evolving into a hybrid. There's a multilateral part of it, but there's also a multistakeholder part of it as well. And we're working with the multistakeholder groups.
 
 ### Interviewer:
-Okay, so you said Meta in Google, and that's just from conversations you had today.
+Okay, so you said Meta and Google, and that's just from conversations you had today.
 
 ### Audrey Tang:
 At Concordia, and right after Concordia.
@@ -164,7 +164,7 @@ Yeah, I think there's much more visibility and urgency this year after earlier t
 
 Of course, we quickly kicked into action along with NCC to set up microwave stations and satellite capacity and so on, but it did put – it's just like how last August cyber attacks during Nancy Pelosi's visit put cyber attack and DDoS into everybody's mind.
 
-This year, the Matsu incident put the cutting of subsea cables from a hypothetical situation into an actual situation. And so we've doubled down on the investment in non-geostationary satellite systems. We now have capacity with SES in the Middle Earth orbit, and OneWeb, as I mentioned, in lower Earth orbit. Both are being tested by the TTC, the Telecom Technology Center, as we speak.
+This year, the Matsu incident put the cutting of subsea cables from a hypothetical situation into an actual situation. And so we've doubled down on the investment in non-geostationary satellite systems. We now have capacity with SES in the medium Earth orbit, and OneWeb, as I mentioned, in lower Earth orbit. Both are being tested by the TTC, the Telecom Technology Center, as we speak.
 
 The hope is that we work with as much as possible – as many as possible – satellite vendors, so that by the end of next year, we'll have more than 700 either mobile or fixed satellite receiving points, and each point, either a hotspot or a backhaul, connects hopefully to two or more satellite systems. So that it's less likely that all of them will be disrupted or jammed or broken during an earthquake.
 

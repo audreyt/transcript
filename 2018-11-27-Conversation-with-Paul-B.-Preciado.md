@@ -34,7 +34,7 @@ Somehow, from 2002 to now, 2018, I think some of these topic we will be revisiti
 That was such a moment I always remember in my studio in Paris in the Cité des Arts. I was doing a residency there. Somehow you feel the sunlight beams in. Since then, I have been collaborating with Preciado in different occasions.
 
 ### Shu Lea Cheang:
-In 2008, Preciado brought me to Arteleku in Spain to stage...At the time, it was a performance piece and workshop called &quot;FLUID.&quot; It was an exhibition called &quot;Feminismo Porno Punk.&quot; I think somehow these three words always stay with me. I think a lot of my work carry the punk, the porn, and the feminisimo mode, yes. \[laughs\]
+In 2008, Preciado brought me to Arteleku in Spain to stage...At the time, it was a performance piece and workshop called &quot;FLUID.&quot; It was an exhibition called &quot;Feminismo Porno Punk.&quot; I think somehow these three words always stay with me. I think a lot of my work carry the punk, the porn, and the feminismo mode, yes. \[laughs\]
 
 ### Shu Lea Cheang:
 This was the first time when Paul brought me to Arteleku. It was the first time I was able to realize this particular performance and workshop. It actually did happen. Before that, I was censored and shut down three times, in Norway, in Montreal, and in Berlin.
@@ -245,7 +245,7 @@ What some of us are doing very much as hackers on the level of writing the code,
 This is something that I’ve been call opening up the pill, which I think is quite close to some of the things that you’re doing, but in my case, my work is more related to biotechnologies, chemical technologies, and so on, technologies of production of the body.
 
 ### Paul B. Preciado:
-This expression of &quot;opening up the pill&quot; comes from the ’90s when HIV patients were not given the choice of being or not the object of medical trials. They didn’t have the choice of knowing what pill they were talking. Basically, what happened is that, depending on which pill you would be taking, if you are an HIV-positive person, some of them would be dying. Some of them will not die.
+This expression of &quot;opening up the pill&quot; comes from the ’90s when HIV patients were not given the choice of being or not the object of medical trials. They didn’t have the choice of knowing what pill they were taking. Basically, what happened is that, depending on which pill you would be taking, if you are an HIV-positive person, some of them would be dying. Some of them will not die.
 
 ### Paul B. Preciado:
 What happened is that, among themselves, and this is very close to this kind of cooperation that you are promoting, they came together and they said, &quot;We need to open up the pill. We need to break up the pill and get to understand the technologies that we are eating, that we’re digesting, in order to be able to know if we will die or we will live.&quot;
@@ -275,7 +275,7 @@ Basically, all the workers would feel the pressure of being watched and suddenly
 Recently, we’ve been visiting a prison like that in the mid-south of Taiwan that was constructed during the Japanese occupation. These became a model of control and maximizing of the production within not just European, but also globally, disciplinary institutions. What is interesting...
 
 ### Paul B. Preciado:
-That’s nice, too. I never seen this image with your writing before. This already quite a hacking. You see the central structure. This is the prison of Chiaya that is here in Taiwan and that now is a museum, but that was constructed during the Japanese occupation. You can see. It’s not exactly a full panopticon, but the model is quite close to a panopticon.
+That’s nice, too. I never seen this image with your writing before. This already quite a hacking. You see the central structure. This is the prison of Chiayi that is here in Taiwan and that now is a museum, but that was constructed during the Japanese occupation. You can see. It’s not exactly a full panopticon, but the model is quite close to a panopticon.
 
 ### Paul B. Preciado:
 Exactly. You see the structure, but what is interesting is that in an architecture like this, your subject position, your possibilities of action are defined by the location that you have within this architecture. In a sense, those architectures of power work as exoskeletons, like in a structure is really like a frame that constrains the body physically.
@@ -335,7 +335,7 @@ To our conversation which is going places quite a lot. I want to do a bit of sum
 At the moment, the way we are talking about technology is pretty much refer to any kind of almost intervention technology, in terms of gender intervention, medical intervention, body intervention.
 
 ### Shu Lea Cheang:
-This is quite an interesting area, will be the main threat for the Venice Biennale exhibition we are working on. The other question is the question of the binary. I think the word binary/nonbinary will keep coming up. Again, we would refer to what is the binary technology.
+This is quite an interesting area, will be the main thread for the Venice Biennale exhibition we are working on. The other question is the question of the binary. I think the word binary/nonbinary will keep coming up. Again, we would refer to what is the binary technology.
 
 ### Shu Lea Cheang:
 As soon as we’re speaking about technology by the way mechanical, electronic equipment is designed -- you have the male and female -- this is the part it drive me crazy. All the time working with technologies, it seems I am working always with the male and female. The female needs to find a male to plug in the male/female plugging thing, and then, finally, you have to find an adapter.
@@ -437,13 +437,13 @@ Exactly at that point, the medical sciences, but also many of the movements, the
 They have to be either operated, hormones have to be administrated to them, and this is the moment of the invention of the modern notion of gender and the invention of what we call the John Money protocol, which in a sense is, more or less, I could say is a software in terms of gender that it’s amazing that we keep using this software when we should be rewriting this code constantly.
 
 ### Paul B. Preciado:
-That’s what we’re trying to do within the movements. For instance, I would say that the work that Shu Lea Cheng is doing is in a sense experimenting with the aesthetics of gender and sexuality, producing an enormous amount of new grammars, of new codings, some of which will not be fully inscribed within reality.
+That’s what we’re trying to do within the movements. For instance, I would say that the work that Shu Lea Cheang is doing is in a sense experimenting with the aesthetics of gender and sexuality, producing an enormous amount of new grammars, of new codings, some of which will not be fully inscribed within reality.
 
 ### Paul B. Preciado:
 Some of them remain within fiction, but it’s important to have those fictions to be able to imagine political change. The first and most difficult thing to do is to change the way you’re thinking. This is the most difficult thing to do.
 
 ### Paul B. Preciado:
-This is what artists will be helping us doing. What we see now is a strong fight precisely for opening up the binary code within gender and sexuality and maybe something like quite similar to what you were saying before, Audrey, in terms of the IPB six, so something like that that could look like an n+1 genders.
+This is what artists will be helping us doing. What we see now is a strong fight precisely for opening up the binary code within gender and sexuality and maybe something like quite similar to what you were saying before, Audrey, in terms of the IPv6, so something like that that could look like an n+1 genders.
 
 ### Paul B. Preciado:
 Not just female or male, but any gender, and therefore, maybe avoiding completely to be assigned to female or male gender when you’re being born. Erase fully, completely, therefore, multiply up to infinity the amount of genders that we could have.
@@ -469,7 +469,7 @@ Better.
 Actually, I think in a sense when I say I know, Audrey, I think you are still — always — a hacktivist. In a sense of hacktivism or hacker of technology or computer codes or hacker as a sex and gender and body. When we are talking about hacking, we’re not limited to computer codes anymore. Refer to this particular question about...Would you like to pick up from?
 
 ### Audrey Tang:
-Yes, the question reads, about gender hacking, this discussion falls into the category of post-human or post-humanity. The questioner, which is anonymous, says that it seems to connotate the notion of seeing the subjectivity model as an information modal instead of a material model. It coincides with the idea that consciousness itself is an epiphenomena -- it’s not just phenomena, it’s epiphenomena, it’s something out of the phenomenal world -- or whether it is a new noble in evolution.
+Yes, the question reads, about gender hacking, this discussion falls into the category of post-human or post-humanity. The questioner, which is anonymous, says that it seems to connotate the notion of seeing the subjectivity model as an information model instead of a material model. It coincides with the idea that consciousness itself is an epiphenomena -- it’s not just phenomena, it’s epiphenomena, it’s something out of the phenomenal world -- or whether it is a new noble in evolution.
 
 ### Audrey Tang:
 They would like to ask about the relationship between information and body: Does it actually mean that subjectivity is purely information, or is it also somewhat body, or body is purely information? What does that even mean?
@@ -748,7 +748,7 @@ For once, even though, as I said the other day, I used to be a pathological utop
 What I can tell you is that, in the West, we are going through a double moment of, on one side, revolution. I would say that, yes, there is a revolution going on. That revolution not only happened in, let’s say, the 1960s as we traditionally think.
 
 ### Paul B. Preciado:
-Also, happening now in all the underground, sub-alter movements that are fighting precisely to have access to the technologies of government, to the technologies of knowledge production, to the technologies of inscription. Yes, this is a revolution happening today.
+Also, happening now in all the underground, subaltern movements that are fighting precisely to have access to the technologies of government, to the technologies of knowledge production, to the technologies of inscription. Yes, this is a revolution happening today.
 
 ### Paul B. Preciado:
 You see it also here but all around the world in terms of feminism, the sexual minorities, the colonized that are in a whole process of decolonization. This is happening. At the same time, there is also a counter-reform going on with a full movement towards much more conservative thinking, even, at least in the West, and Europe, and in the US, neo-fascist thinking.
@@ -929,7 +929,7 @@ It’s called \[Taiwanese\] or the Endowed City, which is working with people wh
 Because of their unique geometric composition, they get much more people’s attention. Also, gets people into a more relaxed and collaborative mood. Using those regulative designs to address the issue of not knowing what the street vendors’ financial flow is, of their limited interaction with the people on the street, and with their &quot;supply chain management,&quot; a very capitalistic term.
 
 ### Audrey Tang:
-Basically, the group’s working on enabling them for better interaction, for redesigning the wheelchair to be a mobile station to connect them to the city services of fair trade and so one. They began with nothing else than just a sketch. That’s all they started with.
+Basically, the group’s working on enabling them for better interaction, for redesigning the wheelchair to be a mobile station to connect them to the city services of fair trade and so on. They began with nothing else than just a sketch. That’s all they started with.
 
 ### Audrey Tang:
 They began to sketch, and now they have a monitor here that can show advertisements, that can, through crowdfunding, share WiFi. You can bring your phone for charging, sharing folded umbrellas and so on.
@@ -974,7 +974,7 @@ OK, cool.
 Great technology.
 
 ### Paul B. Preciado:
-Otherwise if there’s no question for the time begin, I wanted to say that I would fully avoid using the notion of the masses because basically this is a notion that implies that there is a look from the point of view of the state and there is something that we cannot govern that is a mass, something like that.
+Otherwise if there’s no question for the time being, I wanted to say that I would fully avoid using the notion of the masses because basically this is a notion that implies that there is a look from the point of view of the state and there is something that we cannot govern that is a mass, something like that.
 
 ### Paul B. Preciado:
 Whereas basically what I see with today much more than even if I think about...
@@ -1184,7 +1184,7 @@ While some of the most radical, let’s say, critical thinkers within gender, we
 At the same time, there can be a debate that has to do with the reform within the law to create more spaces of full citizenship and avoid violence of the state of state violence and state discrimination.
 
 ### Paul B. Preciado:
-This is what we...I mean I think that if we have citizens that are allowed to get married and some that are not allowed to get married because of different reasons -- it can be because they are like homosexual, transsexual but also because they are like, let’s say, as we said the other day, Down syndrome or what happens, for instance, when you are in jail to come back to the project that we’ve been discussing with and we’re working on towards the Benny’s biennial with Shu Lea.
+This is what we...I mean I think that if we have citizens that are allowed to get married and some that are not allowed to get married because of different reasons -- it can be because they are like homosexual, transsexual but also because they are like, let’s say, as we said the other day, Down syndrome or what happens, for instance, when you are in jail to come back to the project that we’ve been discussing with and we’re working on towards the Venice biennial with Shu Lea.
 
 ### Paul B. Preciado:
 When you’re in prison, you have absolutely no rights. You’re really stripped of all your rights. Is this even legal? Maybe not. What are the conditions that grant full citizenship in a certain society?

@@ -613,7 +613,7 @@ I think that's it.
 I was always curious.
 
 ### Audrey Tang:
-Sure. I don't know about that particular incidence for sure, but similar stories were the prompt during the Sunflower Movement in 2014 to say that, if we use PRC's so-called private sector product in our telecommunication -- at the time not 5G -- 4G infrastructure, then it cost a lot more to do system risk analysis as compared to sourcing with European counterparts.
+Sure. I don't know about that particular incident for sure, but similar stories were the prompt during the Sunflower Movement in 2014 to say that, if we use PRC's so-called private sector product in our telecommunication -- at the time not 5G -- 4G infrastructure, then it cost a lot more to do system risk analysis as compared to sourcing with European counterparts.
 
 ### Noah Smith:
 The Sunflower Movement, you were involved in that, right?
@@ -791,7 +791,7 @@ Universal healthcare for you and your family.
 Universal healthcare. I don't speak the language.
 
 ### Audrey Tang:
-That's fine. We have 20 national languages. Pick one to learn. John here doen't speak any of them either.
+That's fine. We have 20 national languages. Pick one to learn. John here doesn't speak any of them either.
 
 ### Noah Smith:
 Are you serious?
@@ -862,10 +862,10 @@ Yes.
 That's where that is. It's just a small town in the middle of nowhere.
 
 ### John Scott Marchant:
-Friday Nightlights.
+Friday Night Lights.
 
 ### Noah Smith:
-We would play them in football every year and there would be fights between us, and our fans, and their fans would give them fist fights because they both cared about football so much. That's Odessa for me, it's Friday Nightlights.
+We would play them in football every year and there would be fights between us, and our fans, and their fans would give them fist fights because they both cared about football so much. That's Odessa for me, it's Friday Night Lights.
 
 They were more corrupt. They did a lot of crime and we didn't, so that's why they got the show about them. Because they did crime.
 
@@ -917,7 +917,7 @@ You know Jay Chou or whatever is popular...
 Yes. Cinema too.
 
 ### Noah Smith:
-...of course beyond Southeast Asia, Chinese people know Jay Chou and stuff. I really feel like South Korea has... Of course Japan succeeded by accident. It was really interesting because I interviewed someone from Kodansha, the Mongo publisher in 2014 or 2015.
+...of course beyond Southeast Asia, Chinese people know Jay Chou and stuff. I really feel like South Korea has... Of course Japan succeeded by accident. It was really interesting because I interviewed someone from Kodansha, the manga publisher in 2014 or 2015.
 
 I was talking about cultural exports and he said, "Americans don't want to see Japanese people on screen." I said, "Are you crazy? That's all Americans want to see." their stuff got exported by accident. Whereas Korea, it was very intentional.
 
@@ -1034,7 +1034,7 @@ My principle is that the more... Oh, thank you. Nice.
 
 The more packaged and separated from the people a product is, the less it connects forward it is to the country. The least are like, for example, Sony products. I would say that probably 90 percent of Americans think Sony is an American company. Nobody even had...Which was part of the reason they named it Sony.
 
-They thought Americans would want to buy domestic products and so they knew it. Manufacturing products than food, then things like video games and comics that depict stylized representations of a culture and a people.
+They thought Americans would want to buy domestic products and so they knew it. Manufacturing products then food, then things like video games and comics that depict stylized representations of a culture and a people.
 
 Then music, TV, and movies are the most, because when Americans watch "Parasite" the Korean movie. which I thought started good but got bad at the end.
 
@@ -1173,7 +1173,7 @@ Yeah.
 That's cute.
 
 ### Noah Smith:
-Yeah. I hope to eventually make it into the top tier of sub stackers on...Some of the top sub stackers I really like and some of the top sub stackers are people that I don't really like. The only solution is to be more popular.
+Yeah. I hope to eventually make it into the top tier of substackers on...Some of the top substackers I really like and some of the top substackers are people that I don't really like. The only solution is to be more popular.
 
 ### Audrey Tang:
 Easy.
@@ -1672,7 +1672,7 @@ Of love.
 Thinking of the big deal.
 
 ### Noah Smith:
-Yes. Because when you really think about what the world is dividing into political blocks. In World War I, the political blocks didn't really stand for different things. At least at first, Woodrow Wilson pretended they did, but really like Germany, Britain, and France.
+Yes. Because when you really think about what the world is dividing into political blocs. In World War I, the political blocs didn't really stand for different things. At least at first, Woodrow Wilson pretended they did, but really like Germany, Britain, and France.
 
 These countries were not that different, in terms of values, they didn't really think about values. Then by World War II, people really defined the struggle as a struggle of values. They dramatically exaggerated how different how those values were.
 

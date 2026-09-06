@@ -73,7 +73,7 @@ That is to say, whenever a new idea gains legitimacy through democracy, the gove
 After we confirm it in our Food and Drug Administration, our CECC Commander Minister Chen Shih-chung demonstrated this procedure on the livestream conference and later on from the international academic journals that [it works for N95 too](https://pubs.acs.org/doi/full/10.1021/acs.estlett.0c00534) .
 
 ### Audrey Tang:
-This essentially tripled our mass availability just by showing this simple social innovation and all this imbues into the civil society. This idea that innovation does not need to originate from top down, it can come from grassroots. That’s the core of democracy.
+This essentially tripled our mask availability just by showing this simple social innovation and all this imbues into the civil society. This idea that innovation does not need to originate from top down, it can come from grassroots. That’s the core of democracy.
 
 ### Thor Halvorssen:
 Again, incredibly inspiring. Rice cookers, that’s awesome. I’d heard about using an oven and doing a low temperature. Rice cooker, that’s terrific. I’m going to start looking into that. You played a key role in leading the effort of your country’s government in combating COVID-19. As you keep mentioning technology was a key component of this.
@@ -82,7 +82,7 @@ Again, incredibly inspiring. Rice cookers, that’s awesome. I’d heard about u
 What were some of your primary concerns when leading this effort, and how did you incorporate protections for privacy and individual freedoms into this plan? Has there been any tension between citizens’ concern over, say, surveillance or contact tracing or just general rights concerns and the government’s use of big data to fight the pandemic?
 
 ### Audrey Tang:
-In Taiwan, because we never declared either a lockdown or a state of emergency, our administrative actions need to go through the oversight from the parliamentarians, including interpolations, public hearings, and such.
+In Taiwan, because we never declared either a lockdown or a state of emergency, our administrative actions need to go through the oversight from the parliamentarians, including interpellations, public hearings, and such.
 
 ### Audrey Tang:
 Because of this constitutional restriction, we only make use of the data collection method already in place before the pandemic. We do not, as a rule, collect new data in the name of the counter-pandemic effort.
@@ -100,7 +100,7 @@ The digital quarantine where the phone, instead of asking people to install anyt
 By reusing mechanisms that’s already in place, we make sure that the human rights organizations can better communicate with the CECC, the Command Center. The approval rate about this CECC’S digital quarantine measures was at 91 percent.
 
 ### Audrey Tang:
-We think the nine percent for asking the MPs for us to have to do an interpolation and explanation session after which the posts show approval rate grows to 94 percent. Of course, we thank the six percent for keeping us honest and accountable.
+We think the nine percent for asking the MPs for us to have to do an interpellation and explanation session after which the posts show approval rate grows to 94 percent. Of course, we thank the six percent for keeping us honest and accountable.
 
 ### Thor Halvorssen:
 It’s wonderful to hear someone in government say, “Keep us honest and accountable.” It’s very inspiring. In past Oslo Freedom Forums and actually already in this one, we’ve had several speakers discuss how Chinese tech companies could threaten the digital rights and human rights of users.
@@ -166,7 +166,7 @@ They are definitely at the forefront of this be water form of activism compared 
 Also, in the early days of Taiwan’s young democracy, as you mentioned, when we just lifted the martial law in the ‘80s, we rely in large part on the freedom of the press, especially international correspondence, journalist, and so on in Hong Kong to help working out what we have not learned because of systemic authoritarianism in a dictatorship era in Taiwan.
 
 ### Audrey Tang:
-That’s greatly sped up Taiwan’s democratic activists outreach to the world through the help from the journalists and activists in Hong Kong. We have been, I guess, returning the favor in the past few years when Reporter Without Borders moved their headquarters to Taipei, when the Oslo Freedom Forum \[laughs\] that sets up physically in Taipei and many other events such as these as well.
+That’s greatly sped up Taiwan’s democratic activists outreach to the world through the help from the journalists and activists in Hong Kong. We have been, I guess, returning the favor in the past few years when Reporters Without Borders moved their headquarters to Taipei, when the Oslo Freedom Forum \[laughs\] that sets up physically in Taipei and many other events such as these as well.
 
 ### Audrey Tang:
 We made sure that the Hong Kong people can safely in Taiwan, not only share their experience but also as you mentioned, radiate a message of hope that if the liberal democratic countries all keep our eyes a watchful coalition on the Hong Kong situation, then it will not deteriorate. It will not suffer because of neglect.

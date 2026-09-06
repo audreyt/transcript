@@ -58,7 +58,7 @@ Thank you very much for that introduction, Damon. I am so excited to be here. I 
 It just feels like bad news after bad news. I am very excited to get the opportunity to spotlight a good news story in the fight against coronavirus for a change.
 
 ### Amy Mackinnon:
-As you mentioned in your opening remarks there, given Taiwan’s proximity to China and the high amount of travel between the two countries, researchers at John Hopkins had initially estimated that Taiwan would have the second most amount of cases of COVID-19 in the world outside of mainland China. Clearly, that’s not the case.
+As you mentioned in your opening remarks there, given Taiwan’s proximity to China and the high amount of travel between the two countries, researchers at Johns Hopkins had initially estimated that Taiwan would have the second most amount of cases of COVID-19 in the world outside of mainland China. Clearly, that’s not the case.
 
 ### Amy Mackinnon:
 In fact, Taiwan is now one of the global success stories when it comes to their coronavirus response, proving that early intervention, smart and innovative leadership, and steps that they took early on in the outbreak were able to produce a markedly different outcome.
@@ -109,7 +109,7 @@ This, to me, says two things. First, the civil society trusts the government eno
 Because of this open civil society – according to the CIVICUS Monitor, Taiwan is the most open society in the whole of Asia – we emphasize opening our mind to new, novel ideas like first as an advanced collective-intelligence warning system.
 
 ### Amy Mackinnon:
-Where did things go from there? You got winds that there was this possibly another SARS outbreak or this new pneumonia spreading in Wuhan. What were the next steps which the government took?
+Where did things go from there? You got wind that there was this possibly another SARS outbreak or this new pneumonia spreading in Wuhan. What were the next steps which the government took?
 
 ### Audrey Tang:
 The setting up of the Central Epidemic Command Center, the CECC, is really the most important part. The CECC is an organization with a full authority as authorized by the Act that has been revised by the legislature after SARS so that I think it was in January ‘20s where they started their daily press conferences. Every daily press conferences are live streamed.
@@ -187,7 +187,7 @@ Sorry. I mean things like the digital fence, has that raised any concerns about�
 Of course, it is surveillance. Of course, it is an intrusion on human rights and privacy during those 14 days. That is because we do have the constitutional ruling dating back from the SARS days.
 
 ### Audrey Tang:
-After we look at the barricading of the hospital, the Constitutional Court found that it is not unconstitutional, but if you can replace it with something better, something that had a fixed lens of termination, that has a fully informed process, and that is less intrusive than a physical barricade, then by all means, use that instead of a physical barricade.
+After we look at the barricading of the hospital, the Constitutional Court found that it is not unconstitutional, but if you can replace it with something better, something that had a fixed length of termination, that has a fully informed process, and that is less intrusive than a physical barricade, then by all means, use that instead of a physical barricade.
 
 ### Audrey Tang:
 Because of that constitutional ruling, I think over 91 percent of people do approve of the CECC responses. I’m not pretending the 9 percent who do not agree, do not exist, but there is constitutional basis for this digital fence that we’ve been building.
@@ -241,7 +241,7 @@ Because of that, the panic buying of tissue papers actually died down within a d
 Yeah, certainly. There was a persistent disinformation about Taiwan, for example, gets zero cases because we do not do tests or things like that. Of course, it’s not true. We do a lot of tests. We’re using RT-PCR predominantly as other jurisdictions.
 
 ### Audrey Tang:
-The great thing in Taiwan is that when people question this kind of things, they are guaranteed to get a response, and education in epidemiology really, with our CECC commander, the Ministry of Health and Welfare, Chen Shih-chung.
+The great thing in Taiwan is that when people question this kind of things, they are guaranteed to get a response, and education in epidemiology really, with our CECC commander, the Minister of Health and Welfare, Chen Shih-chung.
 
 ### Audrey Tang:
 After he gives his lecture, all the journalists can ask questions. He always take on the role of a student also learning about this new epidemic, because it was not SARS. It’s not the same as SARS. This is actually much more complicated than SARS.
@@ -328,7 +328,7 @@ For example, the founder of PTT, the equivalent of Reddit, is currently running 
 We actually allow a lot of remixes using Creative Commons so that people can really remix the memes so that it become more precise toward the target audiences that they want to inform. For example, the proper hand sanitation rules. There’s very easy to remember lyrics and like \[non-English speech\], that tells you how to wash your hands properly and things like that.
 
 ### Audrey Tang:
-There’s a lot of creativity and innovation across the board in the US, Taiwan, and now Japan co-created GCTPR forums.
+There’s a lot of creativity and innovation across the board in the US, Taiwan, and now Japan co-created GCTF forums.
 
 ### Amy Mackinnon:
 That’s interesting. What has been the role of citizen hackers in this? I feel like you’ve mentioned that a lot. Hackers is not the right word, but citizen developers.
@@ -381,7 +381,7 @@ Actually, we’re very open now.
 > (laughter)
 
 ### Audrey Tang:
-We’re are all open. I’m not quite sure what else to open. I guess the main thing being discussed right now is to resume business flights. That’s for sure.
+We’re all open. I’m not quite sure what else to open. I guess the main thing being discussed right now is to resume business flights. That’s for sure.
 
 ### Amy Mackinnon:
 Did you ever have a full shutdown like we’ve seen in the US and Europe? No?

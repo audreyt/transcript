@@ -145,7 +145,7 @@ I would say our work is a bit hard, even though we have tried for 10 years. Stil
 You mean C2C-certified products?
 
 ### Yi-Chin Chang:
-Yeah, not just certified, but people follow these principle. We have principle for the certification, but it’s OK if you don’t get the certificate. You could follow it. We haven’t hears so many people actually make a product code.
+Yeah, not just certified, but people follow these principle. We have principle for the certification, but it’s OK if you don’t get the certificate. You could follow it. We haven’t heard so many people actually make a product code.
 
 ### Yi-Chin Chang:
 We think there’s a barrier between, I don’t know how to say it, but maybe the designer and manufacturers, and also the whole system.
@@ -166,7 +166,7 @@ I looked at your background, and so I thought, “This is unique.”
 Yeah, I think it is about building, exactly as you said, an ambient awareness platform, so that people understand, even in day-to-day circumstances, without having to rely on an annual report, BNR, or something like that, that they can weave these into their normal behavior day-to-day.
 
 ### Audrey Tang:
-Air quality, water quality, earthquake advanced prevention and things like that, I’ve been working on that for the past four years through the co-called Civil IoT Project. We know something about giving an identity to anything from the air and water quality on one, or on actually building materials on the other.
+Air quality, water quality, earthquake advanced prevention and things like that, I’ve been working on that for the past four years through the so-called Civil IoT Project. We know something about giving an identity to anything from the air and water quality on one, or on actually building materials on the other.
 
 ### Audrey Tang:
 If you see one building as potentially a stop for the next building when it tears apart, it changes a construction worker’s view on material management. I think we know something about digital, about giving things an identity, and relating people to it.
@@ -202,7 +202,7 @@ Good. We survived a lot of government changes and activities. To see, we have so
 Now, secretary general of the president’s office.
 
 ### Michael Braungart:
-Yeah, sure. You see it here, that we have a long history. The basic idea is to distinguish between consumption products, like shoe soles, break pads, and washing detergent sinks, which are actually consumed by being used and chemically, biologically changed by being used, and things which are just services.
+Yeah, sure. You see it here, that we have a long history. The basic idea is to distinguish between consumption products, like shoe soles, brake pads, and washing detergent sinks, which are actually consumed by being used and chemically, biologically changed by being used, and things which are just services.
 
 ### Michael Braungart:
 The amazing thing is there are no business models for that. Never, in no area of the world. You don’t need to own a washing machine, you just need to service a…
@@ -289,7 +289,7 @@ For the biosphere, we can make perfectly de-cradleable stuff, and that for all d
 > (video starts)
 
 ### Male Announcer:
-Mass Line will implement the most comprehensive cradle-to-cradle passport ever seen for the new giant EEE ships. The cradle-to-cradle passport will identify each and every nut and bolt of the giant, 60,000-ton ships, making vastly improved recycling possible for most materials…
+Maersk Line will implement the most comprehensive cradle-to-cradle passport ever seen for the new giant EEE ships. The cradle-to-cradle passport will identify each and every nut and bolt of the giant, 60,000-ton ships, making vastly improved recycling possible for most materials…
 
 > (video end)
 
@@ -309,7 +309,7 @@ We need to, buildings as material banks, material passports. You need digital wo
 People are still at the beginning. People buy solar panels, for example, but you don’t need a solar panel. You only need to harvest photons. When you buy it, you need to get the cheapest stuff. When you just buy 20 years of service, you can use the best material.
 
 ### Michael Braungart:
-People buy it raw as well. This is from BMW’s Factory of the Future. Can you imagine, they buy 200 robots, but nobody needs a robot. You only need melding points. Digital understanding is not there. This is why your approach to go into these interfaces makes so much more sense.
+People buy it raw as well. This is from BMW’s Factory of the Future. Can you imagine, they buy 200 robots, but nobody needs a robot. You only need welding points. Digital understanding is not there. This is why your approach to go into these interfaces makes so much more sense.
 
 ### Michael Braungart:
 We can do put information in recordings at the beginning. There’s a regulatory burden where you can see that these are universities who I work for right now, in Munich. We need cradle-to-cradle platforms.
@@ -375,7 +375,7 @@ We’re certainly raising awareness by using deliberately, entirely circular mat
 Mostly, it’s about incentivizing and promoting technologies and designer to think of their contribution. A couple of months ago, I met with a materials science person. They have a new technology that can shrink the Styrofoam, which was very difficult to…
 
 ### Audrey Tang:
-Not to say recycle, to move in any form. They can shrink it to one-hundredth or so of its original size in small pellets, so that it can be transported much easier. Again, what they are using is, again, a sandbox approach, where they worked with the places where it’s the most costly to ship Styrofoam waste, such as the Pescador Island.
+Not to say recycle, to move in any form. They can shrink it to one-hundredth or so of its original size in small pellets, so that it can be transported much easier. Again, what they are using is, again, a sandbox approach, where they worked with the places where it’s the most costly to ship Styrofoam waste, such as the Pescadores Islands.
 
 ### Audrey Tang:
 Because they don’t have any processing capability in that remote island, they have to actually take a ship to ship it literally back to Taiwan. They then worked with the Pescadores Islands, on such an experimental field.

@@ -141,7 +141,7 @@ To simultaneously balance out these two things as you described them, moving qui
 Making it safer. Safer while driving at high speed.
 
 ### Chris Bauer:
-Saver while driving at high speed. How can we operate safer while driving at higher and higher speeds?
+Safer while driving at high speed. How can we operate safer while driving at higher and higher speeds?
 
 ### Audrey Tang:
 I lived in Germany for a year when I was 11. I was told on their highways, there's no speed limit. It's safer when you would drive at high speed. [laughs]

@@ -84,7 +84,7 @@ Thank you for the contribution.
 
 These met with no resistance because there are simply no private sector alternatives to these foundational layers stuff, right? And for cutting edge stuff like IPFS, there's nothing quite in IPFS's category from the commercial vendors. So, in those places where there is no alternative, the main worry was just like who or what is it? Has it been penetration tested? Where is the red teaming? Right? But that is a resource problem. So, if we allocate sufficient resource and make the software bill of material, then they can be introduced just fine.
 
-The issues occur more when there's already a commercial competitor and the user experience is similar. And I'm speaking specifically about the LINE messenging system. And that's like WhatsApp or whatever, right? I don't use LINE for my office work, for my day job.
+The issues occur more when there's already a commercial competitor and the user experience is similar. And I'm speaking specifically about the LINE messaging system. And that's like WhatsApp or whatever, right? I don't use LINE for my office work, for my day job.
 
 If the public sector overly rely on LINE groups, that's bad on two counts.
 
@@ -341,7 +341,7 @@ Oh, is there really? Okay yeah, so the Snowmobilers in Canada is one of the most
 Yeah, definitely. And I totally agree that this almost forced interoperability between firewall vendors or whatever vendors, that creates the space for open-source community. Because if it's so tightly integrated that it has to be reverse engineered, no community members will even take a look at it. So, I think this convening factor also is an interoperating factor. And I think we can learn a lot from your previous experiences in actually enabling this, not just for the core communication needs, but also just as part of our procurement process. That would be ideal.
 
 ### Tim Van Name:
-Yeah. And I certainly worked with a number of people much smarter than me in that space and learned a ton from them. But yeah, if I can be helpful, even in just connecting you to the folks who, the TAC product center, the acquisition experience program manager that runs it, it was incredible. Taught me more about the system than I had ever learned. And so those types of people, if they can be helpful. I know this is an area of emphasis for us.
+Yeah. And I certainly worked with a number of people much smarter than me in that space and learned a ton from them. But yeah, if I can be helpful, even in just connecting you to the folks who, the TAK product center, the acquisition experience program manager that runs it, it was incredible. Taught me more about the system than I had ever learned. And so those types of people, if they can be helpful. I know this is an area of emphasis for us.
 
 ### Audrey Tang:
 Yeah, definitely. Thank you for that.

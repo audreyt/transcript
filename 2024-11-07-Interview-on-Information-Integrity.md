@@ -76,7 +76,7 @@ I know I'm giving you a hard example, but.
 Yeah, but there's a word for that. From who? It's called infodemic because there's so many requests for information, the desire is so strong, but the science is not there yet. So this void creates very fertile ground. If there is a scientific consensus, then these ideas would not even spread.
 
 ### Audrey Tang:
-But because of the lack of scientific consensus, it's the perfect time for them to grow into an infodemic. And exactly like virus, but mimetic, the most potent one, goes viral.
+But because of the lack of scientific consensus, it's the perfect time for them to grow into an infodemic. And exactly like virus, but memetic, the most potent one, goes viral.
 
 ### Interviewer:
 Gotcha. Okay, great. So one thing I wanted to ask you is you describe this mechanism of crowdsourced fact checking, source verification, all of that. What do you see as the intersection? And you did talk about this when giving the holistic viewpoint, but just to break it down for people listening, the collaboration between this collaborative environment and then more traditional monitoring groups or civil society organizations who have, you know, a mandate to do that, can those reinforce each other?
@@ -85,7 +85,7 @@ Gotcha. Okay, great. So one thing I wanted to ask you is you describe this mecha
 Yeah, definitely, definitely. So Wikipedia is actually a very good example. There are many groups, meetups and so on that just narrowly focuses on, for example, heritage buildings or museums or things like that. So whenever you try to add something on Wikipedia or edit one of the existing articles, all their members get pinged and they made sure that it's up to the rigor and so on that they care about.
 
 ### Audrey Tang:
-So a good commons project like KOFact serves as a hub. So it's not that we entirely rely on crowdsourcing, but rather it's backed by sometimes professional, internationally recognized Pointer Institute level Taiwan Fact Check center or Michael Penn and so on. And they because have limited resources in each of those teams. So they rely on the crowd flagging to show which ones are trendy.
+So a good commons project like KOFact serves as a hub. So it's not that we entirely rely on crowdsourcing, but rather it's backed by sometimes professional, internationally recognized Poynter Institute level Taiwan Fact Check center or Michael Penn and so on. And they because have limited resources in each of those teams. So they rely on the crowd flagging to show which ones are trendy.
 
 ### Audrey Tang:
 Because if this is not trending, if this only has a replication factor, basic reproduction number of less than 1, then it doesn't go viral. And so therefore probably not worth your time to do professional fact checking. But if it is going viral, then the great thing about the commons is that it can show very quickly that something is going viral.

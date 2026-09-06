@@ -595,7 +595,7 @@ And other minister visiting the center?
 Yeah, the larger area is also the Minister of Culture, it is also putting a lot of effort on what they call the culture lab. It’s not just social innovation lab, it’s part of the larger culture lab, contemporary culture lab.
 
 ### Audrey Tang:
-The Minister of Science and Technology, the Minister of Economy, have also visited the space. When they visited they didn’t just take a tour, the sit down and have a conversation like this one.
+The Minister of Science and Technology, the Minister of Economy, have also visited the space. When they visited they didn’t just take a tour, they sit down and have a conversation like this one.
 
 ### Chadchart Sittipunt:
 Yeah, spend time. For the town hall meeting that you mentioned, so this one, they do it locally and then you…?

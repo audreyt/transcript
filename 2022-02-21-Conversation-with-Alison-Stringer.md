@@ -25,7 +25,7 @@ It's fine. I pick up whichever accent of the person I'm talking to. I don't have
 ### Alison Stringer:
 Thank you. I have a relatively unusual background. I overlap with technology, research, and civil society and government. I started life as a microbiologist. I'm still with the biologist and DOI by Pearson.
 
-I worked for central government for quite a long time. I now work for myself as a consultant. I worked on issues like open data, open government, and data infrastructure for environmental data. Also, I'm trying to get contraction on green innovation.
+I worked for central government for quite a long time. I now work for myself as a consultant. I worked on issues like open data, open government, and data infrastructure for environmental data. Also, I'm trying to get traction on green innovation.
 
 ### Audrey Tang:
 Excellent.
@@ -78,7 +78,7 @@ In Taiwan is an ecosystem comprised of Trend Micro, which is Taiwan's largest an
 
 There's entrepreneurs and established cybersecurity companies working on this problem. In Trend Micro's case, the initial funding for the 防詐達人, don't know how to translate that, something like "Myth buster" or "Scam buster", is provided by the global engagement center that the US State Department international competition are countering disinformation.
 
-I think they won the price, so they provide initial funding that converts an internal company kind of pet project that can invite to their instant message closed groups and virus scanner, because that's what Trend Micro does, would scan for suspicious links, scams and things like that, but also scans for reported and clarifies this information and gets back to the group.
+I think they won the prize, so they provide initial funding that converts an internal company kind of pet project that can invite to their instant message closed groups and virus scanner, because that's what Trend Micro does, would scan for suspicious links, scams and things like that, but also scans for reported and clarifies this information and gets back to the group.
 
 It's not taking anything down, it's rather adding context, it's a real contextifier that people can contribute to.
 
@@ -90,7 +90,7 @@ Then, we have a dashboard of public mental health threads, and then we allocate 
 
 That's a wikilike collaborative where anyone can join, but mostly they run weekly meetups, so they actually meet and squash the rumor of the week, that's another part of that.
 
-A lot of funding also comes from the Ministry of Education, which has its own project, media competence learning portal, and learn that moe.gov.tw, that allocates a lot of government funding into what we call media competence education, meaning via literacy we encourage students to contribute to the clause of fact checking as I mentioned, but also real time, for example, verification of the three presidential candidates as they were having debates and forums online.
+A lot of funding also comes from the Ministry of Education, which has its own project, media competence learning portal, and learn that moe.gov.tw, that allocates a lot of government funding into what we call media competence education, meaning via literacy we encourage students to contribute to the cause of fact checking as I mentioned, but also real time, for example, verification of the three presidential candidates as they were having debates and forums online.
 
 They work also with public TV and other public media so that the students feel empowered because, whatever they disclose will appear to millions of watchers immediately and so on.
 

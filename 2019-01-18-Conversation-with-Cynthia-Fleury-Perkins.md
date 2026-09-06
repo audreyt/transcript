@@ -313,7 +313,7 @@ However, although it powers people individually, it doesn’t actually empower t
 No, it’s divisive.
 
 ### Audrey Tang:
-Exactly, it’s divisive. Through the same technologies, and taking away the ability to attack, taking away the idea of diversion of replies, the threaded mode that interfers communication, we create new spaces in which one person only reacts to a single considered subjective opinion of another subject at a time.
+Exactly, it’s divisive. Through the same technologies, and taking away the ability to attack, taking away the idea of diversion of replies, the threaded mode that interferes communication, we create new spaces in which one person only reacts to a single considered subjective opinion of another subject at a time.
 
 ### Audrey Tang:
 You are free to agree or disagree but it is not among a flood of messages. You only consider this one on your phone perhaps, which has screen only sufficient to show one idea anyway and have one single reaction, which is agree or disagree or pass. Once you do so, your avatar moves among the people you know and another sentiment comes.
@@ -388,7 +388,7 @@ By the time this event was complete, the immediacy is lost because it’s five w
 With this arrangement, first it’s the synchronous immediacy. People raise questions and other people in all of the ministries, they need to answer. They would not say, &quot;I have to consult the Ministry of Interior,&quot; because it’s sitting next to them.
 
 ### Audrey Tang:
-It’s collective consciousness that kind of flips the old model of democratic institution because previously, the minister is the face of this cross ministry of policy. If anything goes right, it’s the minister’s credit. If anything goes wrong, the minister can always go back to the citizen and blame the Korea Public Service for not implementing the policy well.
+It’s collective consciousness that kind of flips the old model of democratic institution because previously, the minister is the face of this cross ministry of policy. If anything goes right, it’s the minister’s credit. If anything goes wrong, the minister can always go back to the citizen and blame the career public service for not implementing the policy well.
 
 ### Audrey Tang:
 It is what we see in most of the democratic institutions. Here, it’s exactly the other way around because these people, they all have names, they all see each other eye to eye, and the conversation with their names is all on the public Internet 10 working days after some editing.
@@ -574,7 +574,7 @@ Yeah. It’s a pity. I’m not sure that it’s going to continue like this. I h
 Because if the yellow vests and the French people -- because it’s not just about the yellow vests -- realize that this thing is only something to gain time, gosh, it’s going to be a fire. \[laughs\] It’s going to be terrible because, really, the situation in France with the question of resentment is really great, really.
 
 ### Cynthia Fleury-Perkins:
-You can see really the hate, the frustration. It will have a political translation, terrible, because when you...The political translation of resentment is far right parties. We know that. Populous parties, we know that. There is only one way.
+You can see really the hate, the frustration. It will have a political translation, terrible, because when you...The political translation of resentment is far right parties. We know that. Populist parties, we know that. There is only one way.
 
 ### Cynthia Fleury-Perkins:
 Here, we have a great opportunity to calm down everything and to really construct what is a model, adult, reflexive, inclusive democracy. A big challenge, but I don’t know yet if all the government is totally aware of the stakes of that. I don’t know.
@@ -685,7 +685,7 @@ She’s doing ethnographic research as an intern of sorts.
 She hangs out with our office and with pretty much every week’s vTaiwan meeting, and actually, two days ago, the meeting was mostly all about the grand debate.
 
 ### Audrey Tang:
-People are very thirsty to know that after the CNDP position changed, what kind of...Because we saw the website, it’s built by the Cap Collectif. They built the république numérique consultation website so we know them well. We trust their execution of the online part, but we really don’t know about the social configuraiton.
+People are very thirsty to know that after the CNDP position changed, what kind of...Because we saw the website, it’s built by the Cap Collectif. They built the république numérique consultation website so we know them well. We trust their execution of the online part, but we really don’t know about the social configuration.
 
 ### Cynthia Fleury-Perkins:
 We have to go?

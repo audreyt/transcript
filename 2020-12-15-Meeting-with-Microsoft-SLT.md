@@ -152,7 +152,7 @@ On the other hand, we have scaled that out, nevertheless, to South Korea, which 
 The civic technologists there, as young as 14 years old, I videoconference with them, saw our mask rationing stuff. They managed to build the same system without having a single universal healthcare system running in the pharmacies by doing a lot of workarounds and hacks.
 
 ### Audrey Tang:
-After a month or so they wrote out the mask rationing. The same map from Tainan, Finjon Kiang’s map, works in Korea as the first available map, even though Finjon doesn’t speak Korean. He speaks JavaScript.
+After a month or so they rolled out the mask rationing. The same map from Tainan, Finjon Kiang’s map, works in Korea as the first available map, even though Finjon doesn’t speak Korean. He speaks JavaScript.
 
 ### Audrey Tang:
 It is possible. It’s just a lot of work. \[laughs\]
@@ -187,7 +187,7 @@ The Digital Dialogues, they are not toy problems. They are actual issues.
 I will share the website. Hopefully you can see it. It’s called AIT@40 Digital Dialogues.
 
 ### Audrey Tang:
-It talks about, for example, how to get Taiwan more uniquely seen in the global community, how to remove the trade barriers and have a prosperous network in economy, how to promote US-Taiwan security cooperation, and how to promote people-to-people ties. You can the Polis and Dialogue results later.
+It talks about, for example, how to get Taiwan more uniquely seen in the global community, how to remove the trade barriers and have a prosperous network in economy, how to promote US-Taiwan security cooperation, and how to promote people-to-people ties. You can see the Polis and Dialogue results later.
 
 ### Audrey Tang:
 The point here is that this talks about the common values, despite different cultures and different possessions, with a set of questions. The binding power being the people of both sides, after they share their common values, we use these and only these as agenda for the diplomatic corps, the foreign service of both sides, and in the case of the economic one, also the chambers of commerce and so on, to respond point to point in their white paper about the commonly identified ideas.
@@ -388,7 +388,7 @@ When returning to Taiwan, your phone needs to be placed into this digital quaran
 When they check your whereabout, if you’re not home, then you’re fined up to 33K US dollars, which is a very heavy fine for something that you cannot opt out. There are, of course, people asking, “How the hell is this constitutional?”
 
 ### Audrey Tang:
-We simply pointed out that right after SARS 1.0 in 2004, our Constitutional Court told our legislature that the unannounced lockdown of the Hoping Hospital is unacceptable. Figure out something that’s constitutional and proportional doesn’t require GPS or Bluetooth or whatever other technology but will still work in a way with equity.
+We simply pointed out that right after SARS 1.0 in 2004, our Constitutional Court told our legislature that the unannounced lockdown of the Heping Hospital is unacceptable. Figure out something that’s constitutional and proportional doesn’t require GPS or Bluetooth or whatever other technology but will still work in a way with equity.
 
 ### Audrey Tang:
 So this measure is deemed constitutional in Taiwan, but I’m not pretending that this sounds like liberty- and freedom-preserving for everybody else. On the other hand, it does make sure that when apply with equity, people feel it’s fair. It’s fast. If not particularly fun… We make sure that they have streaming video during the quarantine. That enabled the rest of the country to enjoy Pride Parade.

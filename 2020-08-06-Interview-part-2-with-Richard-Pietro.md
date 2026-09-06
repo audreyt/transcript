@@ -245,7 +245,7 @@ The control branch of course said, “You know, you can’t be sure that you’r
 When faced with the lesser of two evils \[laughs\], either allowing this civil disobedience produce may or may not be correct date spreading around or having to work with the legislators to publish the campaign donation expenditure as structured raw data, which is actually a one-time investment only in getting the schema right and so on…
 
 ### Audrey Tang:
-The career public service would inevitably chose the later, but they would not choose this without an outside game.
+The career public service would inevitably chose the latter, but they would not choose this without an outside game.
 
 ### Richard Pietro:
 And it sounds as though, based on your answers, that the leadership…

@@ -100,7 +100,7 @@ Right, and so you’re very much relying on sort of a decentralized system of in
 Yeah. We think that sort of system is inherently detrimental to a liberal democracy, because the kind of freedom that it encroaches, basically, not only the freedom of not being tracked in its whereabouts.
 
 ### Audrey Tang:
-We do a deep and narrow harm of privacy for 14 days, and not through bracelets or anything. It’s just through the phone, but we trait that, because it would allow, then, most of the people, to retain their freedom of mobility, their freedom of assembly, their freedom of many other things. We consider this as a worthwhile tradeoff.
+We do a deep and narrow harm of privacy for 14 days, and not through bracelets or anything. It’s just through the phone, but we trade that, because it would allow, then, most of the people, to retain their freedom of mobility, their freedom of assembly, their freedom of many other things. We consider this as a worthwhile tradeoff.
 
 ### Trisha de Borchgrave:
 There are these reports that we don’t actually know how long someone remains infected. There have been reports that it can be much longer than two weeks. We’re not sure on immunization. For you, that two-week lockdown, as such, of the individual, you feel is enough to…
@@ -234,7 +234,7 @@ It’s based on voters siding with candidates to put forward their policy prefer
 We have seen as part of Internet governance that this actually works. Without this idea of rough consensus and running code, there will be no new Skype that we’re using right now, because we’re literally using maybe different operating systems, certainly different telecom providers.
 
 ### Audrey Tang:
-There’s easily 10 stakeholders between us as the hubs, the CDNs, and so one. Not to mention the video codec we’re using and things like that. All of it are settled in a way without any coercive power. The Internet triumphs because, unlike traditional telecom companies, you do not have to agree on what we call a single point of failure.
+There’s easily 10 stakeholders between us as the hubs, the CDNs, and so on. Not to mention the video codec we’re using and things like that. All of it are settled in a way without any coercive power. The Internet triumphs because, unlike traditional telecom companies, you do not have to agree on what we call a single point of failure.
 
 ### Audrey Tang:
 If the connectivity doesn’t work as well, the routing on the Internet just switch to a different telecom provider. Still, we can be assured that the image that’s being transmitted or the sound that’s being transmitted cannot be altered by the intermediary. This is called end-to-end innovation.
@@ -243,7 +243,7 @@ If the connectivity doesn’t work as well, the routing on the Internet just swi
 These central ideas of the early Internet, although certainly not perfect, otherwise, people would not have to work on blockchains, \[laughs\] but they still provide a far more diplomatic than coercive working model of politics. This is nowadays, we call it, CoGov or collaborative governance. Back in the days, they call it the multistakeholder model instead of a multilateral model.
 
 ### Audrey Tang:
-We have a running proof that this works. The Internet is built for this. It’s built for like a post-nuclear war, apocalyptic world where there is no command and control hierarchical center anymore, and you can run it upon academic career pigeons or things like that. \[laughs\] It was designed for this is what I’m saying. This is political. It’s just not representational democracy.
+We have a running proof that this works. The Internet is built for this. It’s built for like a post-nuclear war, apocalyptic world where there is no command and control hierarchical center anymore, and you can run it upon academic carrier pigeons or things like that. \[laughs\] It was designed for this is what I’m saying. This is political. It’s just not representational democracy.
 
 ### Trisha de Borchgrave:
 How do you get around those who believe in more progressive policies, those who believe in greater or smaller-scale intervention? How does that get resolved when you’re always looking for consensus?
@@ -324,7 +324,7 @@ Democracy is a technology, a social technology. It’s not a single technology, 
 As far as the voting on that, do you have to have 60 percent majority on a referendum for it to go through?
 
 ### Audrey Tang:
-Yes, of course, but it’s binding for only two years. We have alternating years. We have one year where we vote for the president and legislators, one year where we do a national referenda, then another year where we do a mayoral and consular voting, and another year for national referenda. Basically, it’s a representative deliberation on alternating years.
+Yes, of course, but it’s binding for only two years. We have alternating years. We have one year where we vote for the president and legislators, one year where we do a national referenda, then another year where we do a mayoral and councilor voting, and another year for national referenda. Basically, it’s a representative deliberation on alternating years.
 
 ### Audrey Tang:
 It gives room to both ideas of democracy for representative and participatory, because if you put them into the same voting day, which we did try, that didn’t work because everybody goes into the voting booth with a very partisan mindset instead of as required on a deliberation, which is about issue-by-issue mindset. We took them out on alternating years.
@@ -444,7 +444,7 @@ There is no privacy when you do algorithmic governance. The governing algorithm 
 At least you need to, as I said, use a ledger to publish the open data and the open APIs to facilitate not only no vendor lock-in, but also ensure that public money is spent on public code and no amount of privacy for the legal fiction person’s data trade secret should stay in the way of realizing this algorithmic transparency.
 
 ### Audrey Tang:
-To that degree, I agree. That is because the legal person is just a legal fiction. It doesn’t have the same kind of privacy that we attribute to nature person, although there’s many ways of twisted language. You can say incentivizing companies so that they have more motivation as if they’re real people, but at the end of the day, they’re not real people. \[laughs\] Do not have privacy.
+To that degree, I agree. That is because the legal person is just a legal fiction. It doesn’t have the same kind of privacy that we attribute to natural person, although there’s many ways of twisted language. You can say incentivizing companies so that they have more motivation as if they’re real people, but at the end of the day, they’re not real people. \[laughs\] Do not have privacy.
 
 ### Audrey Tang:
 That is what I mean. Real people have privacy. It’s only when we think in private can we entertain unpopular ideas. That is the core of democracy because the unpopular ideas may actually be better ideas, may actually be better innovation.
@@ -609,7 +609,7 @@ We brainstorm a lot on how to make the non-indigenous people feel indigenous, ho
 It’s their culture of being one with nature and not having a linear economy, a linear academic growth, and linear achievement that’s cured me of the kind of perfectionism, and success-ism, or whatever you want to call it. This is very important because then those cultural lineages can counterbalance agenda.
 
 ### Audrey Tang:
-Even though there may be tensions, this makes everybody much better because everybody can see on a higher vantage point. I would say yes, this is my platform, if you will, that we need to recognize each other’s different positions, and because of different positions, to build share values. If the positions are uniform to begin with, there is no value to be shared.
+Even though there may be tensions, this makes everybody much better because everybody can see on a higher vantage point. I would say yes, this is my platform, if you will, that we need to recognize each other’s different positions, and because of different positions, to build shared values. If the positions are uniform to begin with, there is no value to be shared.
 
 ### Trisha de Borchgrave:
 One last question, I beg you.

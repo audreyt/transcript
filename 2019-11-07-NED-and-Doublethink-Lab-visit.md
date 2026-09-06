@@ -106,7 +106,7 @@ The next election, the coming election?
 Yes, the coming election. How do we act? What roles an organization can do to prevent or to educate people to know that disinformation is among us?
 
 ### Audrey Tang:
-Two things. You talk about raising awareness, which is the same as the social effect part, but you’re also talking about attribution, like having data with academic rigor that shows disinformation campaigns being wages.
+Two things. You talk about raising awareness, which is the same as the social effect part, but you’re also talking about attribution, like having data with academic rigor that shows disinformation campaigns being waged.
 
 ### Audience Member:
 Hello, everybody. I’m from Doublethink Lab. I do the software development part to help social community team and for our organization. I build software, custom too. I participated in the moedict project, too.
@@ -259,7 +259,7 @@ The great thing is that the head of Parliament at the time accepted those consen
 They also did a valuable demonstration that the government can then say we’ll just…In Taiwan we say harvest. We will just harvest the result of those demonstrations and make the civic tech the foundation of gov tech. At the end of that year, everybody who supported such mechanisms become mayors. Sometimes, they didn’t prepare inauguration speech. People who did not support it did not become mayors.
 
 ### Audrey Tang:
-I use this to show that in our experience, a viable demonstration is usually the best way to get large companies to change their direction, to change its mind. I personally participated in the original spam wars where we coded a software called SpamAssasin. It’s very warlike, Ninja, whatever metaphors.
+I use this to show that in our experience, a viable demonstration is usually the best way to get large companies to change their direction, to change its mind. I personally participated in the original spam wars where we coded a software called SpamAssassin. It’s very warlike, Ninja, whatever metaphors.
 
 ### Audrey Tang:
 At the end, the issue of spam was solved by this kind of demonstration, by people showing to Hotmail, to Gmail, to all the mail providers that it is to everybody’s benefit to have a flag as spam button to your inbox, and it’s better if everybody work with Spamhaus instead of having your in-house analysis team only.
@@ -295,7 +295,7 @@ This issue is especially confused in Taiwan, because journalism, 新聞業, is t
 Whether it’s an attack on journalistic integrity, or whether it’s saying that random people are pretending to be journalists, or that journalistic standards are being lowered by editors who are clickbait, and things like that. These are very different, not overlapping issues. It’s difficult to address any one of them when the word is the same.
 
 ### Audrey Tang:
-In Taiwan, were facing this issue because it’s the same word that’s used to discuss all these issues, so we have to make new words. I’m not talking about this. I’m talking about this. In Taiwan, we made a new legal definition actually that used existing legal terms. Intentionality, harm to the public, not just to the minister’s image, which is good journalism by the way, and also untruths, knowing that it’s not true.
+In Taiwan, we're facing this issue because it’s the same word that’s used to discuss all these issues, so we have to make new words. I’m not talking about this. I’m talking about this. In Taiwan, we made a new legal definition actually that used existing legal terms. Intentionality, harm to the public, not just to the minister’s image, which is good journalism by the way, and also untruths, knowing that it’s not true.
 
 ### Audrey Tang:
 Any piece of communication, message, or information that fits all three criteria simultaneously is now legally defined as disinformation or 假訊息, which doesn’t touch the word news. This has two benefits. First, exactly as you said, when institutional media make a news without due diligence, source checking and fact checking, but just take a picture from social media, that’s more clearly turning a 訊息 into a 新聞. It’s very clear now that they are doing something that’s against the journalistic integrity.
@@ -357,7 +357,7 @@ For us, private data is a beginning of a relationship. The relationship begins w
 What would be construed as misuse according to my interpretation, I’m required to ask for your consent before I even start the record button. There is that side of it as well. There is many conversations nowadays around specifically facial recognition. It’s one thing that’s camera that’s low resolution that just measures the height of the water during a flood.
 
 ### Audrey Tang:
-We have a lot of camera angles for that particular purpose, because we are an island of resilience, meaning that water flows easily. Instead of just making floods not happen, we have a lot of cameras designed to make floods go away very quickly, and we need those information, but those cameras must never do facial recognition, which owuld be out of original purpose scope use.
+We have a lot of camera angles for that particular purpose, because we are an island of resilience, meaning that water flows easily. Instead of just making floods not happen, we have a lot of cameras designed to make floods go away very quickly, and we need those information, but those cameras must never do facial recognition, which would be out of original purpose scope use.
 
 ### Audrey Tang:
 There is a whole governance structure with dedicated, including cyber security personnel, but also privacy protection office in the National Development Council overseeing that. Each ministry is actually also overseeing all the privacy invasions and misuses in all the different commercial entities and noncommercial entities, that they are the ministry in charge of, so two layers of oversight.
@@ -483,7 +483,7 @@ You have given your personal data, your privacy, to that company. That is the sa
 Let me rephrase it this way. It’s not so much the privacy part, but mostly the media literacy and disinformation part. You get a lot of information from social media. My parents get a lot terrible fake news from WeChat, but they don’t know it’s from WeChat, because they’re using Line. Or they get it from their friends who forward it.
 
 ### Audience Member:
-For example, the disinformation we have talked to everyone about the case of Kaisai airpot. The fake news that is actually originated at Weibo. Someone saw that on Weibo and then posted on PTT and that become the headline of next morning. It’s actually a chain of disinformation and we’re affected.
+For example, the disinformation we have talked to everyone about the case of Kaisai airport. The fake news that is actually originated at Weibo. Someone saw that on Weibo and then posted on PTT and that become the headline of next morning. It’s actually a chain of disinformation and we’re affected.
 
 ### Audience Member:
 I know there probably is not much that we can do in freedom of speech about this, but it’s a serious problem that government should be aware of.

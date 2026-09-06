@@ -22,7 +22,7 @@ Instead of treating things like the cross-strait service and trade agreement as 
 I was helping with the communication both for everybody, like tens of millions of people, online and half a million on the street to nevertheless get an idea of what’s being discussed that day.
 
 ### Audrey Tang:
-Which aspect did they care about the trade agreement? Maybe they own a company. Maybe they work at a co-op or whatever, and they just enter the trade or the serial number of their company, and they can see immediately how the CSSDA affects them.
+Which aspect did they care about the trade agreement? Maybe they own a company. Maybe they work at a co-op or whatever, and they just enter the trade or the serial number of their company, and they can see immediately how the CSSTA affects them.
 
 ### Audrey Tang:
 From there, they can choose one of the 20 or so NGOs who has a public deliberation booth of sorts to talk about that particular aspect and gradually through 22 days, a set of consensus emerge, which is then ratified or accepted by the head of the parliament.
@@ -265,7 +265,7 @@ Let me try out a statement on you. Everyone likes the Internet of Things until y
 Talk about how are we going to protect ourselves from hostile actors, whether be it Mainland China, North Korea, other actors who could just shut down the whole system or use it against us, have all the driverless cars crash into each other or this sort of thing.
 
 ### Christopher Metzger:
-Data privacy, too, with Cambridge Analytics.
+Data privacy, too, with Cambridge Analytica.
 
 ### Daniel F. Runde:
 They’re separate.
@@ -277,7 +277,7 @@ These are two things.
 Those are two things.
 
 ### Audrey Tang:
-I can talk about that, too. For cyber-resilience, not too long ago, maybe five years ago, before the ICANN independence from the US – Depart of Commerce, I believe – the US held the kill switch.
+I can talk about that, too. For cyber-resilience, not too long ago, maybe five years ago, before the ICANN independence from the US – Department of Commerce, I believe – the US held the kill switch.
 
 ### Daniel F. Runde:
 Yes, I know.
@@ -292,7 +292,7 @@ That state can engage in industrial espionage and say that it’s a form of non-
 It’s a reactive framework saying that, if something happens, you do something to counter it.
 
 ### Audrey Tang:
-Nowadays, it happens all the time, which is why we’re switching to the mindset of cyber-resilience. There are three aspects of cyber-resilience I would like to highly quickly. The first one is of threat hunting. Our network services…
+Nowadays, it happens all the time, which is why we’re switching to the mindset of cyber-resilience. There are three aspects of cyber-resilience I would like to highlight quickly. The first one is of threat hunting. Our network services…
 
 ### Daniel F. Runde:
 I’m operating as if my Gmail’s read all the time.
@@ -630,7 +630,7 @@ I know him.
 In any case, Terry, at the time, legitimately asked the NCC whether it’s OK for him to deploy a 4G core technology framework using…
 
 ### Daniel F. Runde:
-With Foxxcon, or ZTE, or?
+With Foxconn, or ZTE, or?
 
 ### Audrey Tang:
 That was Huawei. The National Security Council and the NCC deliberated on this issue I think for couple of month, did a systemic risk analysis and decided that there really is no…
@@ -753,7 +753,7 @@ They all did.
 …then it’s much more difficult to switch to another vendor’s 4G infrastructure.
 
 ### Daniel F. Runde:
-It’s like ripping out the old railroad tracks and building new rail road tracks.
+It’s like ripping out the old railroad tracks and building new railroad tracks.
 
 ### Daniel F. Runde:
 Exactly. The cost for upgrading to 5G or 6G in the future, the real cost is not the infrastructure cost but actually the path dependence or debt that people already owed.
@@ -765,7 +765,7 @@ I’m convinced that the World Bank and the Asian Development Bank and the alpha
 OPIC, JPIC, and so on.
 
 ### Daniel F. Runde:
-…whether it’s the International Finance Corporation, JBIC, the International Finance corporation, OPIC, are going to be required to set aide 20, or 30, or 40 percent of their spend over a several-year period to finance an alternative to Huawei. When you rip up the railroad tracks of Huawei and replace them with somebody else, I think that’s coming.
+…whether it’s the International Finance Corporation, JBIC, the International Finance corporation, OPIC, are going to be required to set aside 20, or 30, or 40 percent of their spend over a several-year period to finance an alternative to Huawei. When you rip up the railroad tracks of Huawei and replace them with somebody else, I think that’s coming.
 
 ### Audrey Tang:
 That’s right, and something that’s not like railroad tracks is that Huawei is really just a system integrator. If you look into its components, it’s coming from maybe US, Japan, Taiwan.
@@ -866,7 +866,7 @@ They don’t want to sell energy products, or they don’t want to sell agricult
 Can you talk about, how has digital…There seems to be, there’s a series of digital disruptions to the innovation-led economic growth model here in Taiwan? Talk about those disruptions, and how are government house education and how’s the private sector responding to these digital disruptions?
 
 ### Audrey Tang:
-Sure. One example is Gogoro. It’s almost a unicorn now. It’s a Taiwan company that doesn’t really sell motorcycles. It sells a way of managing the energy grid using swappable batteries. They’ve very popular here. You can see the Gogoro motorcycle scooters everywhere.
+Sure. One example is Gogoro. It’s almost a unicorn now. It’s a Taiwan company that doesn’t really sell motorcycles. It sells a way of managing the energy grid using swappable batteries. They’re very popular here. You can see the Gogoro motorcycle scooters everywhere.
 
 ### Audrey Tang:
 I think they get trendy in Taiwan because of three things. First that in Taiwan, people genuinely care about the environmental impact.
@@ -905,7 +905,7 @@ Yes, and they sometimes serves as warnings, as examples, such as the ASFV, the s
 Much lower.
 
 ### Audrey Tang:
-Mulch lower, almost zero in our jurisdiction, or sometime negative really, as people suspect and then they go on strike and refuse to buy something and turn out to be a mistake, but it’s considered OK to do that. Better to be cautious than sorry.
+Much lower, almost zero in our jurisdiction, or sometime negative really, as people suspect and then they go on strike and refuse to buy something and turn out to be a mistake, but it’s considered OK to do that. Better to be cautious than sorry.
 
 ### Audrey Tang:
 All this shapes an economy that delivers innovations by not sacrificing the social environmental goals, and that’s what I’m getting at is that innovations like Gogoro in Taiwan is much more exportable because every other nearby petrol station about these things as well.
@@ -947,7 +947,7 @@ That’s an easy question. \[laughs\]
 That’s an easy question. We didn’t lose our jobs to automobiles…
 
 ### Daniel F. Runde:
-To auto mobiles and….
+To automobiles and….
 
 ### Audrey Tang:
 It used to be that “printers” were people.
@@ -1022,7 +1022,7 @@ It is radical in Asia. As far as we know, we’re the only jurisdiction in East 
 Is this creating a backlash among parents?
 
 ### Audrey Tang:
-Fortunately, the parents of the primary schoolers now is the generation after lifting of the martial law and educational reform, so they learned mathematics and so on in a constructive way. If we introduced this just five years earlier, there would be a huge backlash because then the parents at that time are still Marshall era educated.
+Fortunately, the parents of the primary schoolers now is the generation after lifting of the martial law and educational reform, so they learned mathematics and so on in a constructive way. If we introduced this just five years earlier, there would be a huge backlash because then the parents at that time are still martial era educated.
 
 ### Audrey Tang:
 We waited almost a decade actually to introduce this particular curriculum. We knew that we had to do that.
@@ -1046,7 +1046,7 @@ AI is actually the best teacher. Anyone can now learn other languages very easil
 That’s amazing.
 
 ### Audrey Tang:
-We’re not worried about this coming part of automation. The near future where automation is going to take not only the mechanical case of major parts of our cortexes, but It actually also the synthetic part, like making the art and things like that. That’s what the society needs to address more and also the attitude.
+We’re not worried about this coming part of automation. The near future where automation is going to take not only the mechanical case of major parts of our cortexes, but it actually also the synthetic part, like making the art and things like that. That’s what the society needs to address more and also the attitude.
 
 ### Audrey Tang:
 We need to start identifying ourselves, not in terms of individual achievements because it’s just like racing without a mobile, but rather what kind of common good that we as a community can provide to each other as individuals and not as reified by machines.
@@ -1091,7 +1091,7 @@ It’s speculative?
 Yeah, it can also be seen as a security. If you use it like ICO, which is the classical use, or sometimes misuse and abuse, because it’s like an initial offering but is purely speculative or even more so than the IPOs, then we take an approach that we mandate a due diligence, the same responsibility to declare and so on. Basically, security by any other name. It’s a security.
 
 ### Audrey Tang:
-If you decide to issue an STO through Ethereum tokens, you have to declare exactly the same threshold for professional investors and so on. Again, security by any other name is a security, not matter what you call it, crypto or not. That’s our stance.
+If you decide to issue an STO through Ethereum tokens, you have to declare exactly the same threshold for professional investors and so on. Again, security by any other name is a security, no matter what you call it, crypto or not. That’s our stance.
 
 ### Audrey Tang:
 If you don’t qualify for this, which is kind of difficult to qualify anyway, then it’s just speculative like gaming. We’re not specifically regulating those, because regulating those gives them legitimacy.

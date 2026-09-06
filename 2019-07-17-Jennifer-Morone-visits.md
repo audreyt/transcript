@@ -141,7 +141,7 @@ It gives people some inspiration to think of the truly revolutionary nature that
 All that actually isn’t what people usually associate with Sun Yat-sen. He was like Confucius, in that they are often nowadays interpreted in a more doctrine-like way, like institutionalized Confucianism.
 
 ### Audrey Tang:
-Confucius was actually quite radical at his time. I think it’s good to have people re-evaluate Sun Tat-Sen just by way of us quoting him.
+Confucius was actually quite radical at his time. I think it’s good to have people re-evaluate Sun Yat-sen just by way of us quoting him.
 
 > (laughter)
 
@@ -191,7 +191,7 @@ They’re part of III, Institute for Information Industry, which is 18F, but dec
 This corner is actually also maintained by III. These are all III staff. \[laughs\] It’s very interesting, the definition of this space. The C-Lab, or the Contemporary Culture Lab, which is the largest space, is Minister of Culture, but this corner, Social Innovation Lab, is III and Minister of Economy.
 
 ### Audrey Tang:
-Here we see a very interesting, very RadicalxChange-like dialog the entrepreneurship side of things and the artsy side of things. I think it is a good ground. I think this project has been refocusing on platform cooperativesim. Platform co-op is very close to data trends or whatever other things.
+Here we see a very interesting, very RadicalxChange-like dialog the entrepreneurship side of things and the artsy side of things. I think it is a good ground. I think this project has been refocusing on platform cooperativism. Platform co-op is very close to data trends or whatever other things.
 
 ### Jennifer Morone:
 We’re actually collaborating with some members of the Platform Cooperativism Movement.
@@ -245,7 +245,7 @@ Yes, definitely, an example are the MIDs or Mediators of Individual Data. Otherw
 Or for the chapters, yeah.
 
 ### Jennifer Morone:
-Ys, true. It would be good to have some kind of protocol for when projects come to us, to make it an easy way of mapping what we choose to support or develop and what we don’t.
+Yes, true. It would be good to have some kind of protocol for when projects come to us, to make it an easy way of mapping what we choose to support or develop and what we don’t.
 
 ### Jennifer Morone:
 Also, if there is a way to implement quadratic voting and quadratic funding for such projects.
@@ -263,7 +263,7 @@ We can actually use it to redistribute something that, for the social change. It
 There is one called Dodoker, that specifically use Ethereum to do cross-jurisdictional crowdfunding for the public benefit project for NGOs, because Taiwan just rolled out our STO regulation.
 
 ### Audrey Tang:
-Many people in the voluntary sector also see the SDOs as a crowdfunding by share. If you tie that share with some kind of QV and QF, then you get basically a good legal model to support the distribution. In that sense, STO is used not cryptocurrency at all. It’s just easier to issue security, basically. That’s also one direction I think is very fruitful.
+Many people in the voluntary sector also see the STOs as a crowdfunding by share. If you tie that share with some kind of QV and QF, then you get basically a good legal model to support the distribution. In that sense, STO is used not cryptocurrency at all. It’s just easier to issue security, basically. That’s also one direction I think is very fruitful.
 
 ### Jennifer Morone:
 I agree. It would be really good to try and amplify some of these examples and other stories. Is the community, the artists and poets, the cultural community, involved in the design?
@@ -395,7 +395,7 @@ After co-creation for four workshops, even people who are very toxic online, onc
 What’s more important is that we have thousands of people who feel that this is something that they helped giving birth to. They therefore speak as advocates for this new system.
 
 ### Audrey Tang:
-We have a lot more buy-in to this radically new design that people feel that, &quot;Oh, it’s us who created that,&quot; and so it has like an approval rating of 96 percent just last year. This year, because it’s now running on windows as well, it’s a Web-based system, so people really likes it. It has actually considered one of the min institutional innovations.
+We have a lot more buy-in to this radically new design that people feel that, &quot;Oh, it’s us who created that,&quot; and so it has like an approval rating of 96 percent just last year. This year, because it’s now running on windows as well, it’s a Web-based system, so people really likes it. It has actually considered one of the main institutional innovations.
 
 ### Audrey Tang:
 Many other ministries, after the success, actually reached out to us. We’re also helping redesigning their mobile healthcare experience, redesigning even the National Palace Museum experience of buying admissions tickets online, and QR codes, and all that.
@@ -449,7 +449,7 @@ There’s also another use case of more remote, rural areas where they rely more
 When the doctor do visit, they, before our redesign, have to carry a very heavy bag of a laptop computer, a card reader, all the usual things, while they can actually nowadays just carry an iPhone or an Android with NFC capabilities and just have a Bluetooth reader, and that’s it. That’s the only thing they can carry. It could be in their pocket.
 
 ### Audrey Tang:
-When I say we’re redesigning experience to free people form the current card reader system, that’s the main design criteria. We’re not really changing the payment of the...Actually, we are.
+When I say we’re redesigning experience to free people from the current card reader system, that’s the main design criteria. We’re not really changing the payment of the...Actually, we are.
 
 ### Audrey Tang:
 There was a petition about nutritionists. \[laughs\] Nutritionists want to get paid by the healthcare when they sat for ICU Two, but that’s another case. We’re redesigning the experience, not the payment, but we are also redesigning the payment a little bit.

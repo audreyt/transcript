@@ -247,7 +247,7 @@ When the fact doesn’t change, to change our perspective could be a beautiful t
 A LA friend is a still photographer from Paris. He told me he takes photos of empty streets as art that comforts him. LA has never been like this,
 
 ### Shih-Ting Hung:
-We see “The Last Supper” becomes completely empty. Edward Hopper paintings become empty. The empty “Nighwaks” really strikes me, as his composition is so refined architecturally - perfectly reflecting what we just discussed about our attempt to control.
+We see “The Last Supper” becomes completely empty. Edward Hopper paintings become empty. The empty “Nighthawks” really strikes me, as his composition is so refined architecturally - perfectly reflecting what we just discussed about our attempt to control.
 
 ### Shih-Ting Hung:
 To have no protagonists come in to play, that’s something super artistic for our time.
@@ -335,7 +335,7 @@ That is true. I’m learning that. That’s a really good point.\[laughs\]
 It’s a mental health thing. I, personally, use the Pomodoro method, where I work for 25 minutes and then shut \[indecipherable 17:10\] for 5 minutes, or 15 minutes and then I shut it off for 10.
 
 ### Shih-Ting Hung:
-Do you know everybody thinks of tomatos they might think about you now?
+Do you know everybody thinks of tomatoes they might think about you now?
 
 ### Audrey Tang:
 I know that.

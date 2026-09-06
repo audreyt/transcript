@@ -4,7 +4,7 @@
 Very nice meeting you.
 
 ### Gabriella Colarusso:
-Thank you so much for your time. I know you are really busy in this period. For the people who are listening to us, I am Gabriella Colarusso. I am editor at “La Republica,” which is one of the two main newspaper, daily, in Italy.
+Thank you so much for your time. I know you are really busy in this period. For the people who are listening to us, I am Gabriella Colarusso. I am editor at “La Repubblica,” which is one of the two main newspaper, daily, in Italy.
 
 ### Audrey Tang:
 Excellent.
@@ -241,7 +241,7 @@ It’s so successful now, with the spokes-dog of the Ministry of Health and Welf
 It’s almost like a rhythm, where people, even if they have some doubts or some questions, waits for the 2:00 PM daily press conference. After that, they wait for the spokes-dog to push out very comical, funny messages.
 
 ### Gabriella Colarusso:
-Now, a more political question, and it’s breaking news. US State Security Mike Pompeo is accusing China of being covering up the news, especially from the first weeks of the pandemic. United States are asking for an international investigation.
+Now, a more political question, and it’s breaking news. US State Secretary Mike Pompeo is accusing China of being covering up the news, especially from the first weeks of the pandemic. United States are asking for an international investigation.
 
 ### Gabriella Colarusso:
 What is the Taiwan government’s position on this part? Also, I would like to know if you notice some Chinese propaganda also online to build the narrative about this pandemic.
@@ -253,7 +253,7 @@ There’s a few things. First of all, as a participant in the Wikimedia communit
 I will just paste you the link, and you can decide for yourself whether that qualifies or not as a material in your work. If you translate through machine translation this, this clearly shows that, as of January the 11th, the Wuhan City is still telling the world that they have not discovered any new cases in the past week or so.
 
 ### Audrey Tang:
-That there is no clear evidence that this is being a human-to-human transmission, and things like that. It is a real document that they published over the web at that time. This is also the document upon which that they penalized Dr. Li Wenliang for incorrectly whistleblowing, because that contracts with what they say on this document.
+That there is no clear evidence that this is being a human-to-human transmission, and things like that. It is a real document that they published over the web at that time. This is also the document upon which that they penalized Dr. Li Wenliang for incorrectly whistleblowing, because that contradicts with what they say on this document.
 
 ### Audrey Tang:
 Strictly speaking, it’s not SARS happened again. It’s SARS, variation two, and COV2. They have some way to say that Dr. Li Wenliang isn’t entirely accurate in saying that SARS have repeated itself. Again, they have a way of saying that. If you click the link at the end of [the Wikisource page that links to wjw.wuhan.gov.cn](https://zh.wikisource.org/zh-hant/%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E7%9A%84%E7%97%85%E6%AF%92%E6%80%A7%E8%82%BA%E7%82%8E%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5) , you will find that is 404 — the link is gone.
@@ -265,7 +265,7 @@ They have taken down the notice in January 11th, even though that the Wikipedia 
 This document is used both domestically, to hamper the whistleblower as well as the journalistic freedom, and also, externally, so that the WHO at that day still did not recommend health inspection from people flying out from Wuhan to their member countries. The fact that they took this document down, I think, warrants international discussion.
 
 ### Gabriella Colarusso:
-What you are telling me is that, basically, we already have evidence that China didn’t communicate the rights things, and we don’t need an international investigation for this?
+What you are telling me is that, basically, we already have evidence that China didn’t communicate the right things, and we don’t need an international investigation for this?
 
 ### Audrey Tang:
 What I am trying to say is that, if they take down a notice that they did post by the Wuhan City in January 11th, there would need to be an accountable reason why that they took this down.

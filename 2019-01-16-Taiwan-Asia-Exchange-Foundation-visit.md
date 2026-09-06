@@ -19,7 +19,7 @@ What were your thoughts about it?
 It’s pretty good. I really appreciate that you invited the Nobel Prize recipient. Also, I saw in the introduction video where our foreign minister, Joseph, said something about warm power of Taiwan, &quot;臺灣暖實力 命運共同體&quot; is the 10 words that he said. We just took that verbatim to here as the slogan. \[laughs\]
 
 ### Audrey Tang:
-It’s a really universal message that talks both about cross sexual collaboration toward common goals internationally but also domestically as well. It’s a really good unifying message for the Yushan Forum. Great work. How can I help?
+It’s a really universal message that talks both about cross-sectoral collaboration toward common goals internationally but also domestically as well. It’s a really good unifying message for the Yushan Forum. Great work. How can I help?
 
 ### Yuri Baral:
 Sorry. The purpose of our visit today is to first say &quot;Hi.&quot; Also, because we were previously looking for a venue for an event coming up in April, it just so happened that we were looking for a very casual, very cozy environment, something that people could easily relate to. A place that would be very inviting for people to walk-in.
@@ -413,7 +413,7 @@ Our request for July, though, it’s going to be a stretch of five days, four ni
 I saw this.
 
 ### Yuri Baral:
-The theme would be...It’s still fluid. Day 1 would be on non-traditional security. Day 2 would be human rights. Day 3, heritage and culture. Everyday there’s a different theme. Towards the evening or after the major lectures or classes, we would be doing a heart-to-heart, personal talk with more established young leaders.
+The theme would be...It’s still fluid. Day 1 would be on non-traditional security. Day 2 would be human rights. Day 3, heritage and culture. Every day there’s a different theme. Towards the evening or after the major lectures or classes, we would be doing a heart-to-heart, personal talk with more established young leaders.
 
 ### Yuri Baral:
 We say you’re still a young leader. People to talk on a more personal note about their passions or advocacies, what drove them to where they are right now. It’s important, since this is a leadership camp, we need to have a session that lets them understand the value of leadership among the youth.
@@ -765,7 +765,7 @@ We’re looking at partnering and working closely with countries within Indochin
 One of the future plans that we have, and this can be said on record, is to conduct future sessions or next iterations of the Asian Dialogues overseas.
 
 ### Yuri Baral:
-We hope to work closer with our contact, the deputy governor from Kampong Chhnang in holding a leadership dialogue in Cambodia. Me and our executive director are looking at having that maybe for next year. By continuing to do collaborations with overseas organizations, we hope that, through our combined networks and shared objectives, we can do such dialogues beyon Taiwan’s borders.
+We hope to work closer with our contact, the deputy governor from Kampong Chhnang in holding a leadership dialogue in Cambodia. Me and our executive director are looking at having that maybe for next year. By continuing to do collaborations with overseas organizations, we hope that, through our combined networks and shared objectives, we can do such dialogues beyond Taiwan’s borders.
 
 ### Yuri Baral:
 If we can branch off further and bring the dialogues to other countries in Southeast Asia and maybe in South Asia, if we can find good partners, good counterparts, organizational and governmental contacts, as well as young leader contacts, that would be great.

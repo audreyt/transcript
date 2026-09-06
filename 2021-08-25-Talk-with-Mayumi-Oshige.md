@@ -184,7 +184,7 @@ But, even for the most populated in tablet areas, like the Taipei Municipal City
 Sorry, I don't know if I understand right. You said the job of the government is to provide infrastructures. All those infrastructures are already there?
 
 ### Audrey Tang:
-Yeah, they're ready here. For example, it's the government's job to provide a...I'm using an analogy and metaphor. We, of course, should provide metro service, bus service, high speed rails, or whatever. It's our job, but we do not say for you to commute from Taipei to Taiyuan, you must take the metro.
+Yeah, they're already here. For example, it's the government's job to provide a...I'm using an analogy and metaphor. We, of course, should provide metro service, bus service, high speed rails, or whatever. It's our job, but we do not say for you to commute from Taipei to Taoyuan, you must take the metro.
 
 For people who want to take the metro, it's our job to make sure it's reliable, affordable.
 

@@ -75,7 +75,7 @@ We also respond to the e-petitions. Whenever, wherever people – that includes 
 We make sure that we have a ministerial point-by-point response and a face-to-face collaborative meeting that take care of all the stakeholders, including the makers of such one-use utensils to make sure that everybody can transition into circular design and so on. I haven’t mentioned the reverse mentors yet, but that is the basic idea of this portfolio.
 
 ### Matthew Claudel:
-What you’re talking about, you said support but not control. There is something really interesting. There’s a nuance. Of course, you’re not controlling, but you also have the credibility with the pharmacies that when you turn around and say, “Look, we need you to open the data,” it’s not that your mandating. I want to understand this dynamic. It’s not that you’re mandating.
+What you’re talking about, you said support but not control. There is something really interesting. There’s a nuance. Of course, you’re not controlling, but you also have the credibility with the pharmacies that when you turn around and say, “Look, we need you to open the data,” it’s not that you're mandating. I want to understand this dynamic. It’s not that you’re mandating.
 
 ### Audrey Tang:
 Of course. They can stay out of it, but they see that if people go to their pharmacy, they get now, if you’re adult, 9 mask every two weeks or if you’re a child, 10 mask every two weeks.
@@ -156,7 +156,7 @@ Our mask distribution data is also then adapted by the Korean people who took ou
 The first working navigatable mask availability map in Korea is actually written by Kiang in Tainan, from Taiwan. He doesn’t know any Korean language, but he knows, I guess, JSON, and GeoJSON, and OpenAPI. \[laughs\] That’s how international collaboration is done.
 
 ### Audrey Tang:
-It’s not in a kind of traditional track one diplomacy, where you have to first sing an MOU before doing anything, but rather, people just collaborate on Slack and GitHub just very organically. It just so happens that some of the collaborators and researchers are digital ministers or vice presidents.
+It’s not in a kind of traditional track one diplomacy, where you have to first sign an MOU before doing anything, but rather, people just collaborate on Slack and GitHub just very organically. It just so happens that some of the collaborators and researchers are digital ministers or vice presidents.
 
 > (laughter)
 

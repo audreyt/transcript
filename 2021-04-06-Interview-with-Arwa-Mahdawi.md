@@ -283,7 +283,7 @@ Again, those are traits that I feel like women are socialized to think about oth
 You’ve talked a little bit about how transitioning helps you see different sides of…Do you think that transition helped change your leadership style? You’ve also talked about your heart is helping to shape how you look at leadership. Would you mind talking a little bit about that?
 
 ### Audrey Tang:
-Certainly. Having went through to puberties personally, it means that I don’t have this binary category in my mind where half of the population is closer to me and half a population is strange to me. I don’t have this in my mind.
+Certainly. Having went through two puberties personally, it means that I don’t have this binary category in my mind where half of the population is closer to me and half a population is strange to me. I don’t have this in my mind.
 
 ### Audrey Tang:
 Everyone in the Homo sapiens community feel equally close to me. This is not just about gender. This is also about culture. It’s all too often that within a jurisdiction, people take on the us versus them attitude, where people feel connected to one half of population and feel like the other population isn’t even quite understandable of why they talk this way.

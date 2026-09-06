@@ -983,7 +983,7 @@ Once we did institutionalization, anyone can be the digital minister in charge o
 That’s the second thing. It’s career service public service buy-in.
 
 ### Audrey Tang:
-The third thing is this whole notion of remixes of this kind of popular icon status of me licensing my photos, my speech, my interviews, and my videos as, essentially, material for everybody else to work with creates a wider international reach because I speak in English, I do most of my interviews in in English. Even if it’s in Mandarin we take care to translate the key parts of it in English.
+The third thing is this whole notion of remixes of this kind of popular icon status of me licensing my photos, my speech, my interviews, and my videos as, essentially, material for everybody else to work with creates a wider international reach because I speak in English, I do most of my interviews in English. Even if it’s in Mandarin we take care to translate the key parts of it in English.
 
 ### Audrey Tang:
 We see many of our bits and pieces of our idea, like the participation officer, as seriously considered and adopted in some form in the Italian cabinet with their ministry of direct democracy. The crowd law methodologies that we use form the first chapter of the US Library of Congress crowd law training materials.

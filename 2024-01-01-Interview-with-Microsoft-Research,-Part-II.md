@@ -591,7 +591,7 @@ Yeah.
 But it's a great input to an edge algorithm.
 
 ### Audrey Tang:
-That's how podcasts work, right? So they use just this ancient format of ATM or RSS, but all the innovation happened on the edge on the podcast readers and players.
+That's how podcasts work, right? So they use just this ancient format of Atom or RSS, but all the innovation happened on the edge on the podcast readers and players.
 
 ### Madeleine Daepp:
 If you had a magic wand and you could do anything you wanted in this space.

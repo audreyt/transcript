@@ -64,7 +64,7 @@ It’s always translated into fun dog pictures by the Ministry of Health and Wel
 It also makes it possible for everybody to treat each other as fellow students of digital epidemiology, rather than as a top-down relationship where people rely on the experts in the technocracy. That’s just a few examples that you can look in more detail in the websites. That’s the basic idea.
 
 ### Audrey Tang:
-The idea of bridging the digital divide is done by intergenerational solidarity. We amplify the local elders. We design the mass rationing system so you can take your NHI card to your convenience store, insert it into a kiosk, pay for it at the counter, and receive nine mask the next week.
+The idea of bridging the digital divide is done by intergenerational solidarity. We amplify the local elders. We design the mask rationing system so you can take your NHI card to your convenience store, insert it into a kiosk, pay for it at the counter, and receive nine mask the next week.
 
 ### Audrey Tang:
 You can do it every other week. Nine mask for adults every two weeks. It’s all medical-grade mask. 10 if you’re a child.
@@ -124,7 +124,7 @@ First of all, I would say that it’s the government that trusts the people. Peo
 If you ask people why they wear mask they say, “That’s because we protect ourselves, and we remind each other to protect our self, because wearing a medical mask can remind yourself not to touch your mouth. It reminds you to wash your hands properly, so when we see people who do not wear a medical mask, we remind them that they need to protect themselves.
 
 ### Audrey Tang:
-“It’s not the government’s mandate. Actually, the government, for a while, during the mass shortage, said that we should leave the medical mask to the medical workers. We will have none of it. The government should ensure everybody have medical masks.” That’s an average response from people in the street.
+“It’s not the government’s mandate. Actually, the government, for a while, during the mask shortage, said that we should leave the medical mask to the medical workers. We will have none of it. The government should ensure everybody have medical masks.” That’s an average response from people in the street.
 
 ### Audrey Tang:
 This says two things. First of all, it’s far more Daoist than Confucius. The Daoist idea is that the people think it’s what is natural. It’s a norm-based approach. It’s what’s natural to do.

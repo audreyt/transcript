@@ -27,7 +27,7 @@ That’s right. We’ll be sending you a transcript for co-editing. We can embar
 That’s great. To start with, we thought we would just ask you maybe to explain to our readers what are the responsibilities of a digital minister. Perhaps, what do you consider to be some of the main achievements over the past few years since you’ve been in this position? What are some of the key things that still need to be done, that you’re looking forward to tackling?
 
 ### Audrey Tang:
-My office, the Public Digital Innovation Space, is not a ministry. I’m one of the horizontal ministers, at which there’s eight at this moment called 政務委員 or ministers without portfolio, whereas there’s 32 ministries with their own minsters that are vertical.
+My office, the Public Digital Innovation Space, is not a ministry. I’m one of the horizontal ministers, at which there’s eight at this moment called 政務委員 or ministers without portfolio, whereas there’s 32 ministries with their own ministers that are vertical.
 
 ### Audrey Tang:
 We in the cabinet – all of us are on the ground floor – work on cross-ministerial issues, that is to say things that are not very clearly cut when it comes to the responsibility and their roles. When there’s emerging digital technologies that threaten to disrupt people’s lives, or whenever there is something like e-sports that none of the ministries have a natural obligation to work on, these become my work.
@@ -63,7 +63,7 @@ We engage those hashtags with funny memes, humor over rumor, and things like tha
 When people complain the tax filing system is bad, the people who complain gets invited to do the tax filing experience together, and so on and so forth. That becomes a radical thing. Social innovation also gets ratified as an annual project, co-sponsored by the American Institute in Taiwan for the presidential hackathon.
 
 ### Audrey Tang:
-That’s run by the President’s Office, making sure that every year, we choose five winning teams. We just chose one actually yesterday, the day before, Saturday. We made sure that these five winning teams receive a trophy from the president, which is a micro project that, when turned on, projects the president handing you have a trophy. It’s a self-describing trophy.
+That’s run by the President’s Office, making sure that every year, we choose five winning teams. We just chose one actually yesterday, the day before, Saturday. We made sure that these five winning teams receive a trophy from the president, which is a micro projector that, when turned on, projects the president handing you a trophy. It’s a self-describing trophy.
 
 ### Audrey Tang:
 Whatever they did in the past three months then will become national agenda for the next 12 months. Executive power as a social innovation hackathon prize. That’s that. For the youth engagement, we also regularize reverse mentorship so that each of the 12 ministers now have one or two social innovators under 35 serving as their reverse mentors.
@@ -98,7 +98,7 @@ These things are pretty much autonomous now. \[laughs\] I’m helping the Presid
 > (laughter)
 
 ### Audrey Tang:
-Maybe not museum, \[laughs\] but anyway, a dedicated agency that’s on par with any other ministry or council. That is to say, in addition to the horizontal digital minister role, we will also be able to call digital ministry, counsel or museum that accompanies the role…
+Maybe not museum, \[laughs\] but anyway, a dedicated agency that’s on par with any other ministry or council. That is to say, in addition to the horizontal digital minister role, we will also be able to call digital ministry, council or museum that accompanies the role…
 
 ### Don Shapiro:
 In addition to?
@@ -384,7 +384,7 @@ If it’s too much of a hassle to talk to independent clinics and individual soc
 You don’t know what the data is about, but you still run your research algorithm on it, and the result can only be decrypted by the people who volunteer into this project. It’s a new methodology. It only becomes commercially available this year. It’s also one way to look into it. IBM is funding a lot of efforts on that particular approach.
 
 ### Audrey Tang:
-The reason why we need a data protection authority, an independent one, is like the Aviation Security Council. They need to serve as this independent social sector board that look at these new materials, new technologies, and say yes, this is a good way to make sure that there is no compromise between data utility and privacy.
+The reason why we need a data protection authority, an independent one, is like the Aviation Safety Council. They need to serve as this independent social sector board that look at these new materials, new technologies, and say yes, this is a good way to make sure that there is no compromise between data utility and privacy.
 
 ### Audrey Tang:
 If this is done by, with all due respect, public service International Development Council, the people who are more inclined about privacy would say that but the National Development Council mandate is to push economic development. Of course, they will say something that compromise privacy. Actually, they don’t do that, but people will keep saying that.
@@ -393,7 +393,7 @@ If this is done by, with all due respect, public service International Developme
 If this is a truly multi-stakeholder, a multi-sectoral board that makes their decision like fully homomorphic encryption, like zero-knowledge proofs, federated learning, split learning, open algorithm, is fit for this particular use. Even though its unspecified population, unspecified hypothesis, it still doesn’t compromise anyone’s privacy, and by the way, gives you full data utility.
 
 ### Audrey Tang:
-If it ratifies the DPS mandate, then all the ministries can rest assured that this conveys the same strength as an interpretation by law. It’s both interpretation by law and an interpretation by the algorithm.
+If it ratifies the DPA mandate, then all the ministries can rest assured that this conveys the same strength as an interpretation by law. It’s both interpretation by law and an interpretation by the algorithm.
 
 ### Audrey Tang:
 For this to work, the privacy act also has to change and to appoint this particular DPA as what we call the competent authority for data privacy, instead of for each fragmented ministry to be their own DPA. These legal changes need to first happen before your pharmaceutical researchers can enjoy an entirely privacy-preserving but also utilizable data.
@@ -417,7 +417,7 @@ Pfizer, right?
 Yeah. At least one, I think that one, is published on YouTube. I think Joel can help getting the conversation out. Maybe you can just share that link to other pharmaceutical companies who are concerned about two things. One is this advertisement law about illegal advertisement for them.
 
 ### Audrey Tang:
-They can’t even share their latest research studies about their products on the Internet, but random people paying for Google advertisements can. \[laughs\] That’s their first thing. The second this is data utilization. Dr. \[non-English speech\], I think, also invited Sean Moss-Pultz of Bitmark, \[non-English speech\], Microsoft, and KKBOX, they also visit me as a group, talk about exactly the same thing.
+They can’t even share their latest research studies about their products on the Internet, but random people paying for Google advertisements can. \[laughs\] That’s their first thing. The second thing is data utilization. Dr. \[non-English speech\], I think, also invited Sean Moss-Pultz of Bitmark, \[non-English speech\], Microsoft, and KKBOX, they also visit me as a group, talk about exactly the same thing.
 
 ### Audrey Tang:
 Was it Asus? I think it was Asus, also talk about the same thing. There’s at least three YouTube recordings that talks about this particular matter. Maybe we can curate a little bit and send to your constituents.

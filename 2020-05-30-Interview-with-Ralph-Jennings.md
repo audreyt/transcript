@@ -228,7 +228,7 @@ Yeah. You talk to Champ, and based on the capabilities, they will make this hori
 How many prospective buyers have you identified?
 
 ### Audrey Tang:
-Other than the five jurisdiction that I just mentioned for the medical mask part, there’s also N95/R95 asks, but I don’t think even the MoFA have the full list. You’ll have to ask Champ Mask for that. I got my information from MoFA.
+Other than the five jurisdiction that I just mentioned for the medical mask part, there’s also N95/R95 masks, but I don’t think even the MoFA have the full list. You’ll have to ask Champ Mask for that. I got my information from MoFA.
 
 ### Ralph Jennings:
 Is China allowed to buy them?

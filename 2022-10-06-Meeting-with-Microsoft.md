@@ -3,7 +3,7 @@
 ### Audrey Tang：
 Welcome. When I first entered the governments as a minister at-large in 2016, one of my first projects was on emergency response with the EMIC and NCDR system which formed the backbone of the Civil IoT system. And I thank Microsoft for helping popularize these ideas.
 
-We were just having a conversation before this meeting, with Dr. Herming Chieuh and we talked about red team assessments. While other governments and companies have to pay people for such service, we get such service for free, like from actual red teams. This is one of the areas that we are very concerned about and really this is a pan-partisan issue. All the four major parties in our Parliament, this is maybe their number one focus when they inquire our ministry.
+We were just having a conversation before this meeting, with Dr. Herming Chiueh and we talked about red team assessments. While other governments and companies have to pay people for such service, we get such service for free, like from actual red teams. This is one of the areas that we are very concerned about and really this is a pan-partisan issue. All the four major parties in our Parliament, this is maybe their number one focus when they inquire our ministry.
 
 Now, cybersecurity is usually about confidentiality and integrity, but maximum availability through multiple channels is becoming very important now.
 

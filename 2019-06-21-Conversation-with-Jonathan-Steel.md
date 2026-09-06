@@ -46,7 +46,7 @@ In the UK, it would be called a social enterprise.
 Exactly. We started to think about developing it. We started piloting in late 2015. Around about 18 months, we had 130 units out mostly in London, various other places. About halfway through that pilot, the VW scandal broke. Now, everybody’s talking about pollution, and they’ve continued talking about it, which is a good outcome.
 
 ### Jonathan Steel:
-More and more people are aware around the world of the large-scale health impact that it has. As a result of that, about 15 months ago, we flipped into a commercial organization as we identified a viable commercial model around it, which then meant we could actually start rolling out infastructure, keeping it viable for the long term.
+More and more people are aware around the world of the large-scale health impact that it has. As a result of that, about 15 months ago, we flipped into a commercial organization as we identified a viable commercial model around it, which then meant we could actually start rolling out infrastructure, keeping it viable for the long term.
 
 ### Jonathan Steel:
 That’s where we are. We’re the world’s oldest startup, \[laughs\] in that sense. We’re now in scale-up, and are building meshes in the UK, in the Channel Islands, the Island of Jersey. I don’t know if you’ve ever been there, but it’s an island between the UK and France. They have a very interesting approach there. It’s a digital sandbox. They have a piece of government called Digital Jersey, which encourages people to come in and trial things. It’d be well worth having a look at that, and the approach they take.

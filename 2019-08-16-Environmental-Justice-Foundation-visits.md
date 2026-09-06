@@ -399,7 +399,7 @@ Right, and buildings. It’s all about just social norm. If the social norm thin
 When it goes to the MPs, who have constituents, they will look at it and say, “Is this absolutely necessary?” and things like that.
 
 ### Max Schmid:
-In addition to EJF, there’s some really good groups working on this, on that issue of vessel location. A group called Global Fishing Launch, which I think now has a person working in Taiwan, I’m sure they could rise to that challenge of showing how to present data in way that doesn’t go beyond…
+In addition to EJF, there’s some really good groups working on this, on that issue of vessel location. A group called Global Fishing Watch, which I think now has a person working in Taiwan, I’m sure they could rise to that challenge of showing how to present data in way that doesn’t go beyond…
 
 ### Audrey Tang:
 The necessary data for the necessary conditions.
@@ -462,7 +462,7 @@ I think that is the balance between not compromising the legal operators’ posi
 Incidentally, it’s about beneficial ownership. It’s using data about companies’ operation, land, trade, things like that, to detect what we call 詐貸. How do we translate that to English? A fraudulent loan, maybe. A company sets up with two sibling, conspiring companies. They trade something that’s worthless as $1 billion, and that trades back. It creates a false revenue. Then they use that to take a loan on the bank, because they have false credit. Then they go to some extrajudicial place.
 
 ### Audrey Tang:
-In our Presidential Hackathon a couple months ago, a cross-sectoral team built a machine learning system that looks at these issues and numbers which could be uncorrelated to a human eye. Then they also, with land prize and everything, and they trained an AI model to predict in the next month how is a public-list company likely to engage in fraudulent loan behavior.
+In our Presidential Hackathon a couple months ago, a cross-sectoral team built a machine learning system that looks at these issues and numbers which could be uncorrelated to a human eye. Then they also, with land price and everything, and they trained an AI model to predict in the next month how is a public-list company likely to engage in fraudulent loan behavior.
 
 ### Audrey Tang:
 During, I think, the second round, they showed this presentation saying, “We predict that in the next two months, these will be at risk.” At the Presidential Hackathon demo day, one of them actually gets reported as having this illicit behavior. So I think this showed a real promise of this kind of open algorithm collaboration.

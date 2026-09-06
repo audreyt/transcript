@@ -457,7 +457,7 @@ Above a certain bandwidth, 10 megabits per second, trust become possible with re
 It’s still a discussion, but we wouldn’t call it a deliberation. In Taiwan, Dr. Tsai Ing-wen, when she was campaigning for president last time, she promised broadband as a human right as her campaign platform.
 
 ### Audrey Tang:
-It means that anywhere in Taiwan, even on the top of Yu Shan, 4,000 meters, or the offshore islands of Dongsha and Taiping, everybody is guaranteed to have 10 megabits per second as a human right. Through 4G, or through landline, it’s now only â¬15 per month, â¬16 per month, so very affordable for unlimited data.
+It means that anywhere in Taiwan, even on the top of Yu Shan, 4,000 meters, or the offshore islands of Dongsha and Taiping, everybody is guaranteed to have 10 megabits per second as a human right. Through 4G, or through landline, it’s now only €15 per month, €16 per month, so very affordable for unlimited data.
 
 ### Visitor:
 You guys have that in every single corner of the country?
@@ -719,7 +719,7 @@ We say, “You either treat yourself, as a fellow governor, to the same standard
 Google is like, “OK, we will just not run political advertisements for your campaign session.” Twitter says, “OK, no political ads.” There is some norm-setting possible using diplomatic fashion, like we do the same here. This is the norm here. Diplomatically, you need to respect our norm, but there is a limit of what diplomatic approaches can take.
 
 ### Audrey Tang:
-Their diplomatic power goes more strong the more into life, like Libra or whatever, that they become, like issuing their own currency. Until a day where citizens can form meaningful coalitions, vis-Ã -vis those control-holders, it will become more and more difficult for so-called sovereign entities to negotiate with those semi-sovereign entities.
+Their diplomatic power goes more strong the more into life, like Libra or whatever, that they become, like issuing their own currency. Until a day where citizens can form meaningful coalitions, vis-à-vis those control-holders, it will become more and more difficult for so-called sovereign entities to negotiate with those semi-sovereign entities.
 
 ### Audrey Tang:
 They are essentially collecting more tax than the sovereign entities.

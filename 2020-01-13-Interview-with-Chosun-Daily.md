@@ -43,19 +43,19 @@ In 2014 Sunflower Movement, it is not only young people who occupy the parliamen
 For many people in an open document partnership, which I introduced this idea in 2016, sharing our idea around Occupy movement, youth engagement in open document is intertwined. This is also because in Taiwan we only get to vote for president in 1996. That is also the generation that has the Wide Web and so on.
 
 ### Audrey Tang:
-People who can vote in 1996 become the first generation to build democracy but also Wide Web. There’s no difference between these two because they arrived in the same year. At the end of 2014 I was a reverse mentor to a minister. I was under 35, I’m older now. \[laughs\] I was under 35 at that time. I was also a reverse mentor to a Minster Tsai at that time to work on what we call E-rulemaking.
+People who can vote in 1996 become the first generation to build democracy but also Wide Web. There’s no difference between these two because they arrived in the same year. At the end of 2014 I was a reverse mentor to a minister. I was under 35, I’m older now. \[laughs\] I was under 35 at that time. I was also a reverse mentor to a Minister Tsai at that time to work on what we call E-rulemaking.
 
 ### Interviewer:
 E-rule…?
 
 ### Audrey Tang:
-E-rulemaking. The vTaiwan project. That is how I begin my work with the cabinet, not for the cabinet. I was just reverse mentoring the cabinet. We continued this plan after Dr. Tsai Ing-wen became president in 2016. Instead of just two minsters having reverse mentors, now more than 12 ministers have reverse mentors.
+E-rulemaking. The vTaiwan project. That is how I begin my work with the cabinet, not for the cabinet. I was just reverse mentoring the cabinet. We continued this plan after Dr. Tsai Ing-wen became president in 2016. Instead of just two ministers having reverse mentors, now more than 12 ministers have reverse mentors.
 
 ### Interviewer:
 Can you explain a little bit more about the reverse mentors?
 
 ### Audrey Tang:
-Yes. In the cabinet, there are what we call Youth Advisory Council. And this youth advisory council is convened by the prime minister himself. Anything that gets decided in the youth council meeting become directly policy. It is not just a purely consultative function. It is an actual meeting, presided by the prime minister that has binding power to the minsters involved.
+Yes. In the cabinet, there are what we call Youth Advisory Council. And this youth advisory council is convened by the prime minister himself. Anything that gets decided in the youth council meeting become directly policy. It is not just a purely consultative function. It is an actual meeting, presided by the prime minister that has binding power to the ministers involved.
 
 ### Audrey Tang:
 Instead of just one or two ministries related to youth, we have many ministries, each one choosing two people under 35 as their reverse mentor. These are people who already worked in some fashion with that ministry. As I mentioned, the World Skills one is when he proposed that idea he was just 29 years old, but already a social entrepreneur and respected by the ministry of labor.
@@ -99,7 +99,7 @@ Around that time, I think it was August or something 2014, there is a call for �
 The binding power is only to those two ministers and their portfolio, and not to the prime minister. That went around 2015. The entire 2015 was the initial youth group but only consultative power. Then Dr. Tsai Ing-wen, when she was running for president, said as her platform saying that we will promote this consultative group into a decision-making group.
 
 ### Audrey Tang:
-Premiere will hold the convening chair, meaning that it will become part of the cabinet. Because Dr. Tsai Ing-wen won the election, that platform need to be fulfilled. When I joined the cabinet in October 2016, the prime minister asked me whether I want to co-chair the Youth Advisory Group. I’m like, “Of course, I can chair this, but my condition, the same condition apply.”
+Premier will hold the convening chair, meaning that it will become part of the cabinet. Because Dr. Tsai Ing-wen won the election, that platform need to be fulfilled. When I joined the cabinet in October 2016, the prime minister asked me whether I want to co-chair the Youth Advisory Group. I’m like, “Of course, I can chair this, but my condition, the same condition apply.”
 
 ### Audrey Tang:
 It need to be radically transparent, meaning that all our work is published online. It is by voluntary association, meaning each ministry choose their own reverse mentor. Random people on the street, but actually people they already trust somewhat. Also location independence, meaning that we don’t just convene in Taipei, but we go around Taiwan to convene.
@@ -379,7 +379,7 @@ I answered about the young people in the government. \[laughs\] Now I will answe
 If you look at the time they spend, the most active group is around 15 years old, and then around 60 to 65. These are the two most active age group. I think because they have more time on their hand, obviously, but also because they care more about the next generation, not just about their own family, but about the planet.
 
 ### Audrey Tang:
-For the 15-year-old, this is even more the case because they cannot vote. There is no voting right. Two years ago, we had a petition, and we allowed pseudonym, so we only know the petitioner is called I Love Elephant and Elephant Love Me. They petition we ban plastic straw. We banned one-use food stencils, even for bubble tea. This is very controversial obviously.
+For the 15-year-old, this is even more the case because they cannot vote. There is no voting right. Two years ago, we had a petition, and we allowed pseudonym, so we only know the petitioner is called I Love Elephant and Elephant Love Me. They petition we ban plastic straw. We banned one-use food utensils, even for bubble tea. This is very controversial obviously.
 
 > (laughter)
 
@@ -491,7 +491,7 @@ I think that’s one of the main places where we want to build more relationship
 Real last question. What do you want to focus on? What’s the area or issue from now on as a person or a politician or a minister?
 
 ### Audrey Tang:
-Of the 17 goals, my personal interest is definitely at the 17, which is why I put it in the middle. Acting towards the goals relies on reliable data so as to build trust, effective patnership, so that each sector will not monopolize the work but, rather, work across sectors to form collaborative.
+Of the 17 goals, my personal interest is definitely at the 17, which is why I put it in the middle. Acting towards the goals relies on reliable data so as to build trust, effective partnership, so that each sector will not monopolize the work but, rather, work across sectors to form collaborative.
 
 ### Audrey Tang:
 Even more importantly, the idea of open innovation must not be only within a country. It must be across countries. Even as digital minister, I’m also board member of international social-innovation NGOs, such as RadicalxChange. That is so that Taiwan is only one of the places which will try out those new ideas, like the new voting system.

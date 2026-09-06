@@ -16,7 +16,7 @@ Thousands of people were wanting to get involved in this domain.
 Exactly. Also, people wouldn’t bother to read through the comments anyway, so a lot of redundancy will also be shown by people who enter their statements. However, pol.is let the moderation part be crowdsourced by everybody who participates. That is to say, by clicking simply agree or disagree on each statement, people help clustering themselves into folks with similar ideas.
 
 ### Carl Miller:
-Is it fair to say that policy is really core and central to any deliberation, where there’s more people than you can listen to without technology?
+Is it fair to say that pol.is is really core and central to any deliberation, where there’s more people than you can listen to without technology?
 
 ### Audrey Tang:
 Exactly. This person is still listening to part of the participation process. Everybody helps to group like-minded people together. For example, as we can see here, in group A, they think the law enforcement against unregistered cars is a duty of the Ministry of Transportation and Communication.
@@ -31,7 +31,7 @@ Say we were just two people, normal people, that just cared about the Uber debat
 You will see one statement from your fellow citizen, in this case, incidentally, Audrey Tang. \[laughs\] Obviously, I have used the Uber app to call a car. This is what we call a metadata statement, meaning that nowadays it will not be included in the clustering. This is not about your opinion or your feeling. This is about your lived experience.
 
 ### Audrey Tang:
-Nevertheless, it helps us to tell initial groups to see that there are Uber passengers on one side and passenger who have never taken Uber on the other side, how it correlates with their lifting experience.
+Nevertheless, it helps us to tell initial groups to see that there are Uber passengers on one side and passenger who have never taken Uber on the other side, how it correlates with their lived experience.
 
 ### Carl Miller:
 It begins in quite a similar experience-wise way to Twitter or Facebook in a sense that it brings you face-to-face with a series of statements which other people have drafted. The origin is quite similar.
@@ -64,7 +64,7 @@ Step one is that it empathizes the other camp by deliberately showing you your f
 That’s right.
 
 ### Carl Miller:
-Then, secondly, then it shows what we have in common. What happens in the journey next? We’ve maybe even drafter some comments at this point.
+Then, secondly, then it shows what we have in common. What happens in the journey next? We’ve maybe even drafted some comments at this point.
 
 ### Audrey Tang:
 That’s right. After answering a few ideas, you can see this “share your perspective.” It reminds you that it should be an idea that stands alone, meaning that you shouldn’t write ten ideas in a single statement.
@@ -122,7 +122,7 @@ Were you nervous before Uber? Was it a nerve-racking one to try this process on?
 No, not particularly. I made a point of trying everything emergent that we deliberate here. Even before we deliberate Airbnb, I register Airbnb account and stay in one of the Airbnb places. The owner claimed that they have 15 apartments which look all the same in Taiwan.
 
 ### Audrey Tang:
-Before the e-liquor case, I just call a member that I Google online and bought some liquor over the Internet. They tried to assess whether I’m 18 years older or more, but the delivery person never checked anything.
+Before the e-liquor case, I just call a number that I Google online and bought some liquor over the Internet. They tried to assess whether I’m 18 years older or more, but the delivery person never checked anything.
 
 ### Audrey Tang:
 Just before, last evening actually, we drove the Segways and e-scooters. That’s my first time on a e-scooter. I’ve driven Segways before, the parallel wheels, but the front and rear wheels, that’s the first time, the kick scooters.
@@ -248,7 +248,7 @@ Exactly. The coherent set of reflections at the end is what we hold ourselves to
 From now on, please start talking about how you plan to address those seven points, which clearly is the consensus of the people including registration, including insurance, taxation, and so on.
 
 ### Carl Miller:
-At the end of all of this, seven consensus items emerged from policy. Is that right?
+At the end of all of this, seven consensus items emerged from pol.is. Is that right?
 
 ### Audrey Tang:
 Yes.
@@ -286,7 +286,7 @@ The fourth thing says that registration is still needed because public transport
 Five says, “Aside from the professional drivers, there is a room of ridesharing.” If one shares two rides to work and back every day on average, that shouldn’t be counted as driving for professional profit. It’s carpooling, essentially. They think that it should be exempt from the registration. However, even in that case, insurance coverage for passengers is still paramount.
 
 ### Audrey Tang:
-Finally, the sixth point says, “I think multiple apps should be working with multiple drivers so that there’s a menu-to-menu relationship and the driver should be accepted to be dispatched by several apps concurrently.”
+Finally, the sixth point says, “I think multiple apps should be working with multiple drivers so that there’s a many-to-many relationship and the driver should be accepted to be dispatched by several apps concurrently.”
 
 ### Carl Miller:
 After that, it was a question of fleshing out the detail, and the specific challenges, and then, as you said, coding it into law.
@@ -307,7 +307,7 @@ Generally speaking, for decision-makers, having consensus items is completely di
 Yes. Previously, decision-makers faced a dilemma of getting very good qualitative feedback through focus groups. It’s limited to people we already know. You can do a survey or a poll and get a good quantitative report. It’s always on cases that you already determined. It’s very rare that you see your imagination. There’s no emergent ideas to happen.
 
 ### Audrey Tang:
-It’s forced to use those two very lopsided way to gorge the public’s interest. Thinking from the angle of the citizen, if I get a survey telephone, I may want to fill in the blank and say, “This is what I actually think.” It’s never recorded by the person who does the survey. If I join a focus group, I may say, “Actually, I don’t represent the Uber drivers.”
+It’s forced to use those two very lopsided way to gauge the public’s interest. Thinking from the angle of the citizen, if I get a survey telephone, I may want to fill in the blank and say, “This is what I actually think.” It’s never recorded by the person who does the survey. If I join a focus group, I may say, “Actually, I don’t represent the Uber drivers.”
 
 ### Audrey Tang:
 We have maybe 4,000 people. Each of them need to have a say. Even as an association leader, I don’t have the time to listen to the 4,000 people. As a citizen, participate, it feels frustrating when you’re being surveyed, or polled, or invited to a focus group because even representatives can’t really know what their constituents think.

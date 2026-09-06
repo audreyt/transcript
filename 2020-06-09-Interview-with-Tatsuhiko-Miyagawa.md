@@ -189,7 +189,7 @@ Before this, if you wear masks, you’re seen as someone…
 You would be social signaling that you’re sick.
 
 ### Tatsuhiko Miyagawa:
-Exactly, and people will see you and they will be afraid of getting in closer contact with you. Now, this is becoming a norm and everyone is supposed to wear masks, and if you do not a wear mask, you can’t enter grocery stores anymore. This is becoming normal.
+Exactly, and people will see you and they will be afraid of getting in closer contact with you. Now, this is becoming a norm and everyone is supposed to wear masks, and if you do not wear a mask, you can’t enter grocery stores anymore. This is becoming normal.
 
 ### Tatsuhiko Miyagawa:
 Although it looks a little terrifying, I think it’s a good thing. In the coming spring or summer, when I have this hay-fever problem, I have a pollen allergy so I need to wear a mask to avoid sneezing in public. I want to wear masks for that, and I’m sure it’s going to be OK because of this situation.
@@ -302,7 +302,7 @@ To me personally, there is absolutely nothing surprising to hear that Audrey Tan
 I do this all the time. I’m an internationalization and multilingualization expert. \[laughs\]
 
 ### Tatsuhiko Miyagawa:
-I see sometimes, in my Gmail inbox I have email notifications from GitHub saying that audreyt merged a pull request, or made a comments, created a pull request to one of my repositories. “This happens all the time. What is surprising about it?” That was my first reaction.
+I see sometimes, in my Gmail inbox I have email notifications from GitHub saying that audreyt merged a pull request, or made a comment, created a pull request to one of my repositories. “This happens all the time. What is surprising about it?” That was my first reaction.
 
 ### Tatsuhiko Miyagawa:
 I think it was nevertheless a symbolic event that had an impact on people’s perception about how you’re still doing a lot of things in the open source community and engineering, while doing your job as a digital minister.
@@ -451,7 +451,7 @@ That remains a struggle that currently is still being fought over the world, but
 What’s your go-to license choice….not your, but the government’s?
 
 ### Audrey Tang:
-Creative Common Zero of course, CC0. That’s written in our copyright law. For things that we must publish as public information, just like the NASA photos, these are in the public domain.
+Creative Commons Zero of course, CC0. That’s written in our copyright law. For things that we must publish as public information, just like the NASA photos, these are in the public domain.
 
 ### Audrey Tang:
 When things are not quite sure whether it’s public domain or not, like the transcript I’m producing, I put a notice on the very beginning that says, “If you agree to make a transcript with me, thank you for your dedication to the Commons. We’re going to use the CC0 of public domain dedication.”
@@ -696,7 +696,7 @@ I don’t know if that’s a good material, but that’s absolutely something th
 Yes, I heard that question. I think it’s not about IT. I keep stressing, especially to Japanese people that I’m not the IT minister, that the IT which is part of technology, we have a minister for science and technology.
 
 ### Audrey Tang:
-I’m the digital minster, and the digital is the new space made possible for human habitation, made possible by ICT, but it’s not by itself ICT. It is a culture, the plurality. Instead of teaching IT to young people, it’s easier if you teach instead digital competence. That’s not media literacy, which is about consuming media.
+I’m the digital minister, and the digital is the new space made possible for human habitation, made possible by ICT, but it’s not by itself ICT. It is a culture, the plurality. Instead of teaching IT to young people, it’s easier if you teach instead digital competence. That’s not media literacy, which is about consuming media.
 
 ### Audrey Tang:
 This is more media competence, which is about producing media, like how to make a podcast. That means that everybody participates in contributing to the plurality of the digital culture, rather than some people produce and a lot of people just view.
@@ -823,7 +823,7 @@ That’s the collaborative intelligence works quite well. I like “The Three-Bo
 I think that’s because there’s various different angles, perspectives such as “The Dark Forest” which directly came from the cultural revolution where people simply cannot trust even their own families and in other places with no such memory. It’s impossible to provide that angle.
 
 ### Tatsuhiko Miyagawa:
-I read the three-body problem last year in Japanese translation. The Japanese translation of the Deep Forest will be out next week. I’m really looking forward to reading it. I haven’t read it in English or Mandarin, \[laughs\] so I’m really looking forward to it.
+I read the three-body problem last year in Japanese translation. The Japanese translation of the Dark Forest will be out next week. I’m really looking forward to reading it. I haven’t read it in English or Mandarin, \[laughs\] so I’m really looking forward to it.
 
 ### Tatsuhiko Miyagawa:
 Also, the three-body problem, there’s another one that I saw in an early interview that “Stories of Your Life.” That’s a collection from Ted Chiang.

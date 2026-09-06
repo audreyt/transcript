@@ -295,7 +295,7 @@ It was April 24th, that day, which is today, actually. \[laughs\] Exactly 17 yea
 Wait, but before you go on, explain. How long was the hospital barricaded for?
 
 ### Audrey Tang:
-The Hoping Hospital, which was the name of the hospital, there was a spreading of SARS within that hospital. The hospital, they didn’t know that it was SARS back at the time. Then people realized that it was SARS.
+The Heping Hospital, which was the name of the hospital, there was a spreading of SARS within that hospital. The hospital, they didn’t know that it was SARS back at the time. Then people realized that it was SARS.
 
 ### Audrey Tang:
 It was barricaded by, I think, Mayor Ma Ying-jeou at the time. As I mentioned, that was exactly 17 years ago. I think how long was that? That was a really good question. I know that it started that day, and I know that it ended with 24 people dead, with 97 people infected with SARS.

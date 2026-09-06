@@ -25,7 +25,7 @@ Right.
 I do see that we share many common values in that we seem to not be so acutely aware that we share some very common values. That is the part that I would really like to introduce because in Taiwan, nowadays, like with President Tsai’s agenda of not just marriage equality but also transitional justice but also about all the sort of different reforms, it turns out that our issues, social issues, are very compatible, actually.
 
 ### Audrey Tang:
-We also have mining rights with indigenous lines and how to meaningfully consult with the indigenous nations. It turns out, you’re having the same problem, sorry, same challenge.
+We also have mining rights with indigenous lands and how to meaningfully consult with the indigenous nations. It turns out, you’re having the same problem, sorry, same challenge.
 
 ### Dr. Todd Lowary:
 Yeah.
@@ -160,10 +160,10 @@ One of it is co-creation of the important digital services that touches everybod
 We also work with the National Palace Museum – which is part of the cabinet because of an interesting history that goes back to the Qing Dynasty \[laughs\] – to co-design their ticketing systems. Their visitors may be 70 years old, may be 17 years old, and it’s a challenge to please those groups at the same time. We did a co-design workshop and there are still ongoing collaboration.
 
 ### Audrey Tang:
-We worked with AIT a digital dialogue that invited both sites to communicate. Currently, our topic is security collaboration. There’s a lot of innovations in this field. Their first dialogue was how to promote Taiwan in the world. We came up with like the Presidential Hackathon and AIT sent someone to the Presidential Hackathon, which they did, things like that.
+We worked with AIT a digital dialogue that invited both sides to communicate. Currently, our topic is security collaboration. There’s a lot of innovations in this field. Their first dialogue was how to promote Taiwan in the world. We came up with like the Presidential Hackathon and AIT sent someone to the Presidential Hackathon, which they did, things like that.
 
 ### Audrey Tang:
-Trade was the previous one. The next one is people do people, to be followed by AmCham’s consultation on talent circulation, I think. All this becomes kind of the norm for diplomacy to be public for everybody to participate meaningfully.
+Trade was the previous one. The next one is people to people, to be followed by AmCham’s consultation on talent circulation, I think. All this becomes kind of the norm for diplomacy to be public for everybody to participate meaningfully.
 
 ### Dr. Todd Lowary:
 Have you engaged Sinica in some of these activities?
@@ -184,7 +184,7 @@ There’s the bilingual, meaning that everything concerning foreign people need 
 Right.
 
 ### Audrey Tang:
-On this part is kind of a multi-ethnicity nation being built. On the other hand, there is English from the kindergarten level that’s being taught. Those are two strategies. I’m paying a lot of attention to enable them without wasting too much time on repetitive work, so mission translation and AI to speech and also mission translation transfer from one language to a near but lower resource language and so on. That is my field.
+On this part is kind of a multi-ethnicity nation being built. On the other hand, there is English from the kindergarten level that’s being taught. Those are two strategies. I’m paying a lot of attention to enable them without wasting too much time on repetitive work, so machine translation and AI to speech and also machine translation transfer from one language to a near but lower resource language and so on. That is my field.
 
 ### Audrey Tang:
 I worked with Apple on Siri for six years, so I help on that regard, but law making, that is the Ministry of Culture and the National Development Council respectively.

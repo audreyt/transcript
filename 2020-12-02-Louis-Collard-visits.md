@@ -153,7 +153,7 @@ I think what you just said on the publisher side, this evolutionary pressure, or
 For that behavior to change, an expectation of – I wouldn’t just say good news – what news is supposed to look like, that need to be established as a social norm, without which I don’t think people who actually work in the newsrooms have a lot to say about how their work is being laid out on the World Wide Web. These are actually two very different groups of people.
 
 ### Audrey Tang:
-Unless here is a clear norm around this, like for example, there was a norm that says you should gracefully degrade, even if the phone isn’t the latest phone. It should still display some content and respond to the different size, because for the elderly, they will usually resize the font to be large.
+Unless there is a clear norm around this, like for example, there was a norm that says you should gracefully degrade, even if the phone isn’t the latest phone. It should still display some content and respond to the different size, because for the elderly, they will usually resize the font to be large.
 
 ### Audrey Tang:
 Instead of requiring horizontal scroll, if you will react with the width of the device as it’s measured by that particular user, not by centimeters, then it’s responsive content, and which is good. I think Google even helped to do the AMP and stuff like that toward that goal.

@@ -109,7 +109,7 @@ When we involve the young people in decision-making, in deliberation, both onlin
 If they see some message that is bordering on vengefulness, discrimination, outrage or things like that, simply because they have thought about this and thought it through. Digital competence, not just literacy, education in basic and lifelong education, I believe that's the most important, and we do have to open up our decision-making process on all levels to even very young people.
 
 ### Emily Chan:
-I think Taiwan has been a big beneficiary of COVID in the sense that it is a tech powerhouse, is the crown jewel, TSMC. The world's largest contract ship maker, a big beneficiary of the global demand for electronics, used in both study and for work from home. Has the pace of this change been too swift for supply to keep up with demand? Is this current pace of digitization sustainable?
+I think Taiwan has been a big beneficiary of COVID in the sense that it is a tech powerhouse, is the crown jewel, TSMC. The world's largest contract chip maker, a big beneficiary of the global demand for electronics, used in both study and for work from home. Has the pace of this change been too swift for supply to keep up with demand? Is this current pace of digitization sustainable?
 
 ### Audrey Tang:
 First of all, I think the digitalization is not just about going paperless, not just going about digitization. Digitalization includes, for example, the user experience and service design that take care of the senior people and so on, and people who are not that versed with the current generation of touchscreens, and so on.

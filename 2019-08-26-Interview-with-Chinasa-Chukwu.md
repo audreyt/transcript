@@ -55,7 +55,7 @@ I started programming when I was eight years old, and I started without a progra
 I was pretty good at mathematics, but I really isn’t that good at calculation, it’s never been my forte, so I learned about this machine that can automate all the calculations, but leaving the mathematic, the creative part of mathematics to human beings.
 
 ### Audrey Tang:
-We didn’t have computers at the time, so I just took A4 paper and split it in half, and drew on the button half a keyboard, a QWERTY keyboard, and started mock typing it and writing the computer’s responses and so on.
+We didn’t have computers at the time, so I just took A4 paper and split it in half, and drew on the bottom half a keyboard, a QWERTY keyboard, and started mock typing it and writing the computer’s responses and so on.
 
 ### Audrey Tang:
 Of course, after a couple month my parents kind of gave in and bought me a personal computer. I always remember programming without computer. It kind of what we’re saying today is called computational thinking.
@@ -171,7 +171,7 @@ To be a conservative is to respect a tradition. To understand that there are way
 In Taiwan, this is very important, because while the west of Taiwan is more Western, the east of Taiwan is the indigenous nations.
 
 ### Audrey Tang:
-We have more than 15 indigenous nations, and they share the same culture with the entire Polynesian population. The whole Australian nation culture originated from Taiwan, and the culture extends all the way to New Zealand. We have in our New Zealand economic agreement, the NZTech, a separate track for diplomacy between the Maori people and our indigenous people.
+We have more than 15 indigenous nations, and they share the same culture with the entire Polynesian population. The whole Austronesian culture originated from Taiwan, and the culture extends all the way to New Zealand. We have in our New Zealand economic agreement, the NZTech, a separate track for diplomacy between the Maori people and our indigenous people.
 
 ### Audrey Tang:
 If I’m not a conservative, in the sense of conserving the tens of thousands of years of western, of our indigenous traditions, it’s very easy to introduce new digital policies that essentially forces everybody to just learn the very resourceful languages and cultures. It will contribute to the decimation of their culture.
@@ -225,7 +225,7 @@ It’s a very simple idea. Also, in our e-participation, we often just set the a
 We still leave the implementation to the career public servants, and/or the social sector, and/or the private sector. Everybody can commit to the thing that it’s best for them to do, and hold each other accountable. What we’re not doing is that we’re just counting the headcount and say, Oh, this is the private sector. It doesn’t matter. This is the social sector. It doesn’t matter.”
 
 ### Audrey Tang:
-In desire thinking terms, to frame the best question of how might we find common values despite different positions, is more important than the decisional stage. If you’re asking the wrong question, no matter what you put to the referendum, the result will be terrible.
+In design thinking terms, to frame the best question of how might we find common values despite different positions, is more important than the decisional stage. If you’re asking the wrong question, no matter what you put to the referendum, the result will be terrible.
 
 ### Chinasa Chukwu:
 Thinking about how this can be carried on, I guess to other countries, other communities, in another society, perhaps that doesn’t have the same group of like-minded people that came together to found g0v, how would you say individuals can push their governments towards more transparency?
@@ -234,13 +234,13 @@ Thinking about how this can be carried on, I guess to other countries, other com
 I think it’s easier if you start with a level of governance that is smaller scale. If you’re just deciding for a local co-op of 200 people, that will be easy because everybody knows everybody, and you already shared the common values. If you start with a township of maybe 20,000 people, many of these tools we use scales very easily to that level.
 
 ### Audrey Tang:
-Basically, I think Taiwan is just a larger municipality, geographically speaking. From the north most to the south most through high-speed rail, it’s just one and a half hours. We may have 23 million people, but it’s a really small place, and highest popular density, I think, or second highest.
+Basically, I think Taiwan is just a larger municipality, geographically speaking. From the north most to the south most through high-speed rail, it’s just one and a half hours. We may have 23 million people, but it’s a really small place, and highest population density, I think, or second highest.
 
 ### Audrey Tang:
 In any case, the point is that if people share similar lived in experiences, you can always start there. In your city council, in your precinct, or even without the public sector, you can just run it in your co-op. This methodology works best if people don’t have to focus on very different lived in experiences, if people already share more or less the same concerns.
 
 ### Audrey Tang:
-They’re just squabbling on the few ideologies that masks the common concerns. If it’s a federation that spends multiple time zones, just getting everybody’s common values would take a lot of time.
+They’re just squabbling on the few ideologies that masks the common concerns. If it’s a federation that spans multiple time zones, just getting everybody’s common values would take a lot of time.
 
 ### Chinasa Chukwu:
 I think what I’m getting from this, is that you approach policymaking very much from an empathy base, as well as from looking at commonalities. What would you say? I noticed that you added, or that it was added as part of the g0v platform, an emotion ratings added as part of the process. Can you explain to me why you thought that was important?
@@ -479,7 +479,7 @@ A lot of innovations in the free software and the open source movement is to mak
 Right.
 
 ### Audrey Tang:
-Forking and merging used to be a very expensive operation, but because of improvements in the theoretical understanding of the so-called conflict-free replication of data, you can now use like GitHub to provide what we call poor requests, which essentially is a small fork with the intention to be merged.
+Forking and merging used to be a very expensive operation, but because of improvements in the theoretical understanding of the so-called conflict-free replication of data, you can now use like GitHub to provide what we call pull requests, which essentially is a small fork with the intention to be merged.
 
 ### Audrey Tang:
 This is not just for software development. We’re seeing it in the development of foundation of mathematics, of text of Wikipedia, of journalism actually. We’re seeing a new generation of journalists that kind of work with groups like Bellingcat and so on to crowdsource the fact-checking part, crowdsource the information producing part, and so on.
@@ -488,7 +488,7 @@ This is not just for software development. We’re seeing it in the development 
 All with the promise of if you don’t like the direction I’m going, you’re free to take this material and make your own interpretation and indeed, your own journalistic output.
 
 ### Audrey Tang:
-G0v is based on the idea that each project can potentially be forked into many projects. If you want to impose a deadline, you take whatever work is already there, impost a deadline, and see if you can recruit people to join your vision. That’s how it works. It’s like a rhizome or something.
+G0v is based on the idea that each project can potentially be forked into many projects. If you want to impose a deadline, you take whatever work is already there, impose a deadline, and see if you can recruit people to join your vision. That’s how it works. It’s like a rhizome or something.
 
 ### Chinasa Chukwu:
 Then, you’ve spoken about finding a common cause and pushing forward with that beyond approaching it from different perspectives as it applies to policy review. How easy or how difficult have you found this to be in practice?

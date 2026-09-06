@@ -309,7 +309,7 @@ What you empowered, yeah.
 I empowered people who feel a strong need to break existing laws, because they think they’re no good for their society, in the world’s first sandbox system within the continental law system. There is already sandbox systems within common law systems. Like the UK fintech sandbox is quite famous.
 
 ### Audrey Tang:
-In Taiwan, we curved out continental law system sandbox ideas so that people who want to experiment a year with, say, self-driving vehicles, or with fintech, or indeed with any regulation by any ministry, as long as it’s not money laundering or funding terrorism, they are fair game. They can apply for a year of testing.
+In Taiwan, we carved out continental law system sandbox ideas so that people who want to experiment a year with, say, self-driving vehicles, or with fintech, or indeed with any regulation by any ministry, as long as it’s not money laundering or funding terrorism, they are fair game. They can apply for a year of testing.
 
 ### Audrey Tang:
 We are now doing the same for 5G special spectrum as well for one year, challenging existing regulations. If it’s a good idea as considered by the society at the end of that year, then we adopt that back as a new regulation.

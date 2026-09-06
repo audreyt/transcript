@@ -100,7 +100,7 @@ Nowadays, it’s still that animals and rivers don’t have a say. So today it�
 My work is using technology to enable people who are 15 or 16 years old to have a say, not only individually but also to organize. And to organize online, you need a technology that is good for listening, not just good for speaking. Speaking is very easy. If you have megaphones, you can speak very loudly. Now radio, television, and so on.
 
 ### Audrey Tang:
-Now, with the Internet, the person who raised an e-petition, for example. Two years ago, we had a person raising the e-petition of gradually banning all one-time use plastic utensils. That’s a very imaginative proposal with a lot of photos like sea turtles chocked by plastics and things like that.
+Now, with the Internet, the person who raised an e-petition, for example. Two years ago, we had a person raising the e-petition of gradually banning all one-time use plastic utensils. That’s a very imaginative proposal with a lot of photos like sea turtles choked by plastics and things like that.
 
 ### Audrey Tang:
 The important thing is when they propose this petition, they get 5,000 signatures from all walks of life, and each of them have a different reason to sign this e-petition, which is part of our e-participation website, called Join, now with 10.6 million unique visitors since 2015. For each petition, we also have a pro and contra columns for people to post their different opinions and upvote and downvote, but they cannot reply to each other.
@@ -208,7 +208,7 @@ I think instead of preventing that, we’re showing people it’s not about majo
 This visualization is very interesting because as you can see, even though this is less than 200 people, this is 242, but the area is not dependent on the number of people holding that opinion.
 
 ### Audrey Tang:
-So if you have 5,000 people going in, vote exactly the same, it’s not going to expand the area because the are is calculated by asking each person, for each comment, whether you agree or disagree.
+So if you have 5,000 people going in, vote exactly the same, it’s not going to expand the area because the area is calculated by asking each person, for each comment, whether you agree or disagree.
 
 ### Audrey Tang:
 As you press agree or disagree, your avatar moves among the people who share your ideas, and so first you can see that these are not anonymous enemies. These are your friends and family. You just disagree on this particular public issue.
@@ -262,7 +262,7 @@ How do you prevent such an example from happening, even if everything else is li
 The petition is just saying that we should talk about it. The petition is not a referendum. In design thinking terms, the petition is just for us to get people’s wide, diverging opinions of what the feelings and issues are.
 
 ### Audrey Tang:
-A face-to-face meeting is just to converge, but to converge is not to a policy implementation, which is what you were referring to. The convergence is just to a “How might we” question. Meaning that this is something that people across the isles identify as important.
+A face-to-face meeting is just to converge, but to converge is not to a policy implementation, which is what you were referring to. The convergence is just to a “How might we” question. Meaning that this is something that people across the aisles identify as important.
 
 ### Audrey Tang:
 Once we have this, of course we can have more substantial conversations, but that would not be crowdsourced as well. It would be between the partnerships that was forged between this conversation.
@@ -439,7 +439,7 @@ You can see the basic check points in the CrowdLaw manifesto. This is all in the
 Yeah, I’ll definitely look it up. I wasn’t aware of that one. That’s super cool. Because I work, basically I facilitate discussions and do things like that as my job. I would be interested in what is the model of discussion that you are using in the final part that you mentioned, the co-creation.
 
 ### Audrey Tang:
-We use what we call “dynamic facilitation.” I’m sure that you are already quite \[laughs\] fluent in that. Tom Attlee, the person who showed me dynamic facilitation, actually [wrote a few blogs](http://www.tomatleeblog.com/archives/175327889) about how the practice works in Taiwan. I would also recommend you to checkout…
+We use what we call “dynamic facilitation.” I’m sure that you are already quite \[laughs\] fluent in that. Tom Attlee, the person who showed me dynamic facilitation, actually [wrote a few blogs](http://www.tomatleeblog.com/archives/175327889) about how the practice works in Taiwan. I would also recommend you to check out…
 
 ### Antonios Triantafyllakis:
 Yeah.

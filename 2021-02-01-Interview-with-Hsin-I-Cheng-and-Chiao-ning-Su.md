@@ -78,7 +78,7 @@ There was no robust methodology in the traditions that we associated ourselves w
 My main contribution is to help, to assist out now what we called Fast, Fair and Fun principles, to design engagements that are both pro-social and also democratic in the sense that anyone can participate in this governance.
 
 ### Audrey Tang:
-We successfully launched, for example, the MoeDict Dictionary Project that caught the Taiwanese Holo, Taiwanese Hakka, Amis, and other national languages in Taiwan – although at the time not official national languages. That will come in 2017 – o make a dictionary together.
+We successfully launched, for example, the MoeDict Dictionary Project that caught the Taiwanese Holo, Taiwanese Hakka, Amis, and other national languages in Taiwan – although at the time not official national languages. That will come in 2017 – to make a dictionary together.
 
 ### Hsin-I Cheng:
 That’s great. You mentioned about it was a way to just congregate people who are already having fun and doing this little clicktivism, that you’re mentioning. What are some of the goals that you had when you first got involved or in the beginning of that involvement?
@@ -96,7 +96,7 @@ In that sense, it also draws a lot of lessons from the early community building 
 A longer-term goal is to democratize the thinking around democracy, because in many other established democracies, only very few people actively work on democracy. I include people who work on gerrymandering, for example. That’s also working on democracy \[laughs\] as a mechanism.
 
 ### Audrey Tang:
-Citizens, by enlarge, they participate only maybe uploading three bits of information every four years. It’s called voting. The day-to-day life is not that involved with democracy.
+Citizens, by and large, they participate only maybe uploading three bits of information every four years. It’s called voting. The day-to-day life is not that involved with democracy.
 
 ### Audrey Tang:
 In Taiwan, having the benefit of being a very new democracy, everything is malleable in the sense that if people think we need to have a referendum, then we design a referendum. The referendum mechanism by itself is currently undergoing another change, but we’re maybe at the fourth revision. The Constitution is at maybe the sixth or seventh amendment.
@@ -333,10 +333,10 @@ They popularize mask use by taking a photo of the dog putting their foot to thei
 All these communication strategies are very important because that enable people to remix the message. If it’s me or Minister Chen talking about wearing a mask, people may understand. They may even comply, but it’s unlikely they will share it that much. Because it’s such a cute dog, people will share it much more than the conspiracy theories.
 
 ### Audrey Tang:
-We also made sure that there’s plenty of room literally in the picture for the people to translate it to their local language. This one has been translated to more than four or five different languages. That make sure that people receive these clarifications, these scientific information in a way that is conductive to social sharing.
+We also made sure that there’s plenty of room literally in the picture for the people to translate it to their local language. This one has been translated to more than four or five different languages. That make sure that people receive these clarifications, these scientific information in a way that is conducive to social sharing.
 
 ### Audrey Tang:
-That has a pro-social outcome. Because of this Fast, Fear, and Fun communication infrastructure, we made sure that none of the conspiracy theories are value stay above one for long. Like vaccines of the mind are very funny and reached a lot of people.
+That has a pro-social outcome. Because of this Fast, Fair, and Fun communication infrastructure, we made sure that none of the conspiracy theories are value stay above one for long. Like vaccines of the mind are very funny and reached a lot of people.
 
 ### Chiao-ning Su:
 I too pay a lot of attention to that kind of social media messaging put forward by our public sectors. I personally found it super effective and also very entertaining. In the meantime, I saw a lot of critique from either KMT or other political parties. They stated that they didn’t appreciate this kind of strategy.
@@ -483,7 +483,7 @@ I can go on with these examples, but the point is that because people who rememb
 That is our counter to this information playbook, again, a unique innovation that are now of broad application to the world.
 
 ### Audrey Tang:
-I guess we will keep doing so. We will keep doing innovations that melds, seemingly, in reconcilable positions and then deliver innovations that are truly good for everyone.
+I guess we will keep doing so. We will keep doing innovations that melds, seemingly, irreconcilable positions and then deliver innovations that are truly good for everyone.
 
 ### Hsin-I Cheng:
 I’m learning so much from talking and thinking about what you’re saying. What might be the role of technology, do you think, specifically, play in Taiwan’s future?

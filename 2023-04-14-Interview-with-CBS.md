@@ -160,7 +160,7 @@ What sort of military attack?
 What if China decided to send missiles in, take out your essential infrastructure, blockade, country runs out of essential things pretty quickly and is forced to capitulate?
 
 ### Audrey Tang:
-Yeah. so right before the interview, you mentioned that you visited one of our allying islands. We are now in Taiwan proper, but we have smaller islands. And just a few months ago, in the smaller islands of Matsu, the submarine cables that connect Matsu to Taiwan proper was cut accidentally by PRC fishing vessels and cargo vessels.
+Yeah. so right before the interview, you mentioned that you visited one of our outlying islands. We are now in Taiwan proper, but we have smaller islands. And just a few months ago, in the smaller islands of Matsu, the submarine cables that connect Matsu to Taiwan proper was cut accidentally by PRC fishing vessels and cargo vessels.
 
 And indeed, exactly as you said, the communications were disrupted. There's a lot of infrastructural worry, right? Like how are we going to keep communicating with people in Matsu and from Matsu to the world.
 

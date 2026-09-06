@@ -88,7 +88,7 @@ Yeah, you get one at some point, right?
 ### Audrey Tang:
 That was my position since 2014. We had a consultation, 2016, and the general consensus was that we need to have a single DPA. Then later on, GDPR negotiations started, so the council, the NDC, in charge of the GDPR negotiation, took the Personal Data Protection Act interpretation authority from the Ministry of Justice to the NDC. Then, the NDC became our privacy office, so to speak.
 
-The goal was always for it to be an incubator so that the NDC can incubate a truly independent DPA at some point. The NDC is interesting because the minister is also an at-large minister or minister without portfolio. The NDC is more horizontal, in the sense that it doesn't have one single interest, but rather it looks after multiple interests. I'm also a councilor of the NDC, many minsters are.
+The goal was always for it to be an incubator so that the NDC can incubate a truly independent DPA at some point. The NDC is interesting because the minister is also an at-large minister or minister without portfolio. The NDC is more horizontal, in the sense that it doesn't have one single interest, but rather it looks after multiple interests. I'm also a councilor of the NDC, many ministers are.
 
 Aside from being not independent, like the term is not guaranteed and so on, it is more well-placed than other ministries to be this privacy office. Now NDC is, as I mentioned, an incubator. They're aiming for some time next year, to establish the independent DPA for real.
 

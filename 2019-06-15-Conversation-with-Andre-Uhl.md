@@ -91,7 +91,7 @@ But actually, I do have quite a few friends already in the council. For example,
 He’s supervised projects like self-driving tricycles and so on. Totally fit our vision and we’ve been deploying open algorithm because Taiwan has a privacy law that is European.
 
 ### Audrey Tang:
-We’re very quickly seeking GDPR adequacy. In that environment, you really need Alex’s word of thinking in order to make sure that we can deliver the social benefits without compromising individual privacy and so on.
+We’re very quickly seeking GDPR adequacy. In that environment, you really need Alex’s way of thinking in order to make sure that we can deliver the social benefits without compromising individual privacy and so on.
 
 ### Audrey Tang:
 There’s quite a few people that I’m already reasonably familiar with. I think it’s a good bunch of people to bring in. Like Sarah Spiekermann was also in the Vatican conference, so that’s how we were connected.
@@ -115,7 +115,7 @@ Oh, that’s great. Actually, one of our members is working closely with Otto Sc
 I agree that it really isn’t enough to look at technology alone. The actual question is how people are using it. I think that’s more a question of culture, something that for example also Sarah Spiekermann is looking at in her work on values-driven design.
 
 ### Andre Uhl:
-I myself am currently exploring how cultural intervention can be a means for shiftig paradigms within the AI community. This coming fall, I am going to start a residency here at Harvard at the Center for the Study of World Religions to incubate an interfaith AI ethics council. I think that we need to pay more attention that public opinions on AI are shaped by certain religious and spiritual narratives, at least metaphorically. There are all those talks around whether humans are going to upgrade themselves into gods or robots will outsmart their human creators... What would happen if we’d apply a Buddhist or a Hinduist or an indigenous worldview to these questions? I think they could offer a completely different kind of imagination, which would sound quite radical to some people here... So I’m also interested to bring this project to Asia, to find more collaborators on that side of the planet.
+I myself am currently exploring how cultural intervention can be a means for shifting paradigms within the AI community. This coming fall, I am going to start a residency here at Harvard at the Center for the Study of World Religions to incubate an interfaith AI ethics council. I think that we need to pay more attention that public opinions on AI are shaped by certain religious and spiritual narratives, at least metaphorically. There are all those talks around whether humans are going to upgrade themselves into gods or robots will outsmart their human creators... What would happen if we’d apply a Buddhist or a Hinduist or an indigenous worldview to these questions? I think they could offer a completely different kind of imagination, which would sound quite radical to some people here... So I’m also interested to bring this project to Asia, to find more collaborators on that side of the planet.
 
 ### Audrey Tang:
 I’m very well-connected to Impact Hub Taipei, which has been hosting the CP Yen Foundation. The foundation in Taiwan has been around for forever, pushing facilitation methodologies and transformative theory. They give their Dialogue Impact Award based on actually Theory of U thinking.
@@ -346,7 +346,7 @@ The participation framework is both wide in the sense that people can join with 
 Also, a gradual slope in the sense that you can just participate part-time as a participant or a contributor instead of a project lead during the Presidential Hackathon period, which is three months to every year. This year, we also have International Track with seven countries joining as well.
 
 ### Audrey Tang:
-This is just one mechanism out of dozens that we’re doing. I think it’s is a good idea because then we have a directly elected president. We imbue in her presidential will. She shares it horizontally to a process of co-creation. That totally ignores representative democracy, but is realized and maintained by MPs.
+This is just one mechanism out of dozens that we’re doing. I think it’s a good idea because then we have a directly elected president. We imbue in her presidential will. She shares it horizontally to a process of co-creation. That totally ignores representative democracy, but is realized and maintained by MPs.
 
 ### Audrey Tang:
 In design thinking terms, the MPs are still around, but they’re responsible only for the second diamond. The first diamond is decentralized in the process so that the society can convene on the pressing &quot;how might we&quot; questions in the middle of the double diamond. That is the shape that I’ve been introducing. It’s national regulation now actually, so it’s institutionalized.

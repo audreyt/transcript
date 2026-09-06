@@ -150,7 +150,7 @@ That’s a continuous exercise throughout that whole ecosystem, and what can we 
 We’re interested in all of the people who use Google in Taiwan, of course, but it’s also, you can be reassured by the fact that it’s also an investment in ourselves because we’ve got such big commitments here. We need to protect those as well.
 
 ### Audrey Tang:
-The Deputy Ministry just earlier today delivered a very comprehensive presentation about how we're helping the helpers to the elderly people. If you go directly to see, then it's very difficult actually.
+The Deputy Minister just earlier today delivered a very comprehensive presentation about how we're helping the helpers to the elderly people. If you go directly to see, then it's very difficult actually.
 
 There are helpers who can, themselves, maybe in their 50s and so on, who are going to get us in any way, if you make sure that they're acquainted as an additional ambassador to the even older people they're taking care of, empowering them with, for example, a service map that they can get more help on, and make matching guarantees so that when they used a website and so on, it is accessible by default, it has universal design.
 
@@ -362,7 +362,7 @@ Cybersecurity has got three broad component parts. One is the rules and laws and
 
 We’re very happy to continue to speak to your teams and to share different models on critical infrastructure in cybersecurity, policy frameworks elsewhere, and how our products and services can help meet some of the goals because we think about zero day events and resilience.
 
-We have had to think about two-factor authentication and secure by design. If I go through the three different parts, in terms of the rules of the road first. Let me give you and example on cross border data flows, how can you do those securely? How can you do enable data flows that are privacy compliant, consistent ways to have trusted data flows?
+We have had to think about two-factor authentication and secure by design. If I go through the three different parts, in terms of the rules of the road first. Let me give you an example on cross border data flows, how can you do those securely? How can you do enable data flows that are privacy compliant, consistent ways to have trusted data flows?
 
 We've been certified under CBPR, Global CBPR. We are also doing things to help others, small businesses certify under CBPR in the US. There might be some opportunities there for example to consider whether the pilot we are doing in the US is applicable here. Then on the products and services, one example is how does our secure cloud work, how does our subsea infrastructure work and contribute, how do these help mean that you don’t have to worry so much about vulnerabilities of users, people, but you can have scalable secure by design products and services where the security is built in and gives the users confidence.
 

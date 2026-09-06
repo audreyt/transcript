@@ -166,7 +166,7 @@ Sure. The idea of disinformation in Taiwan is very well-defined. It’s a legal 
 If it’s unintentional, as I said, it’s misinformation, or it doesn’t cause public harm, it only harms an image of a minister. That may be just good journalism. It has to be intentional and it has to cause public harm.
 
 ### Audrey Tang:
-Whenever we detect that such a disinformation is trending, every ministry is now equipped with the capability to roll out a fun mimetic message within 60 minutes. When they do that, it’s very effective so that whenever we see – I hope that you can see my screen – something that needs to be clarified to use the humor-over-rumor response system.
+Whenever we detect that such a disinformation is trending, every ministry is now equipped with the capability to roll out a fun memetic message within 60 minutes. When they do that, it’s very effective so that whenever we see – I hope that you can see my screen – something that needs to be clarified to use the humor-over-rumor response system.
 
 ### Audrey Tang:
 For example, this is our Premier, our Prime Minister, who wrote it out after an hour of a rumor that says, “Perming your hair will be subject to one million NT dollar fine.” It not only says it’s not true, it says, “I may be bald now, but I will not punish people who look like my youth.
@@ -199,7 +199,7 @@ Of course, they do have to clear that, but by clearing that I mean like five min
 One day there was a rumor that says there’s a panic-buying of tissue papers, because people think that the material of those medical mask is the same as tissue paper, which is not true. It’s intentional untruth that harms the public.
 
 ### Audrey Tang:
-Again, applying humor over rumor, the same Premier also now publishes a mimetic image now showing his buttocks and wiggling it a bit. The title here says, “We only have one pair of buttocks each,” meaning that there is no point in panic-buying tissue papers. There’s a table that shows the materials of medical mask is actually plastic, and it’s from Taiwan.
+Again, applying humor over rumor, the same Premier also now publishes a memetic image now showing his buttocks and wiggling it a bit. The title here says, “We only have one pair of buttocks each,” meaning that there is no point in panic-buying tissue papers. There’s a table that shows the materials of medical mask is actually plastic, and it’s from Taiwan.
 
 ### Audrey Tang:
 The tissue paper which is paper they mostly are produced from South America. These are different and we don’t need to panic-buy. It’s so effective that within a day or two everybody stopped panic-buying, and we found out the origin of disinformation source is from a tissue paper reseller. A very good, interesting use of humor, but it’s only useful if it’s rolled out timely.

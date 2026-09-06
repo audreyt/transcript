@@ -120,7 +120,7 @@ That is also very much treasured. Of course, there is also just simple questions
 People went here, and asked what really is going on. People responsible for that particular construction actually went here and did a specific reply, explaining why the accumulated spending actually goes down.
 
 ### Audrey Tang:
-The original question is very simple. It just asks, is the picture wrong or what? In a very not, the authography, while not very standard, everybody understand what it mean. Then the administration just replies that a vendor, for example, has defaulted on a lot of construction targets, and they canceled contract.
+The original question is very simple. It just asks, is the picture wrong or what? In a very not, the orthography, while not very standard, everybody understand what it mean. Then the administration just replies that a vendor, for example, has defaulted on a lot of construction targets, and they canceled contract.
 
 ### Audrey Tang:
 They have to find a new vendor, and so on, and so there is a temporary stage where they returned the procurement money, and so on. After explaining this once, they don’t have to respond to 40 phone calls, because everybody can just go to a search engine and see the explanation.
@@ -168,7 +168,7 @@ This is very much a Perl community thing. I was educated in that environment. No
 I only respond to the parts, again, that are authentic, that they share their own experience. The reason why is that most trolls just want attention. When you feed the troll, so to speak, is when you reply only to the part that are provoking.
 
 ### Audrey Tang:
-Then that kind of response tend to be transactional, because it doesn’t sustain long-term relationships. The trolls wakes up still feeling empty, and troll somebody else instead. Only be responding to the part that are authentic can I gradually draw out more authentic experience from the troll.
+Then that kind of response tend to be transactional, because it doesn’t sustain long-term relationships. The trolls wakes up still feeling empty, and troll somebody else instead. Only by responding to the part that are authentic can I gradually draw out more authentic experience from the troll.
 
 ### Audrey Tang:
 Then invite them to my Wednesday office hour in the Social Innovation Lab, so I can give them a physical hug. Then they become co-creators, essentially. All this troll hugging is basically to make transactional relationships based on emotions into more long-term relationships based on authentic experiences.
@@ -297,7 +297,7 @@ There is also an online system that helps collect those lunchbox ordering orders
 Is that just in your office, or do you open that up to everybody?
 
 ### Audrey Tang:
-It’s an open app market. All the app that we wrote is on the Sandstorm app market. Everybody can use it, not just the public servant. If your email address ends in something.gov.tw, meaning that you are a Taiwanese public servant, then you can do to .ey.pdis.tw, and for free, get your own hosting account, and start setting up those apps.
+It’s an open app market. All the app that we wrote is on the Sandstorm app market. Everybody can use it, not just the public servant. If your email address ends in something.gov.tw, meaning that you are a Taiwanese public servant, then you can go to .ey.pdis.tw, and for free, get your own hosting account, and start setting up those apps.
 
 ### Audrey Tang:
 That lets you coordinate, for example, the to-do lists, the online chat. Just think of it like the Google apps, Slack, or Trello of today’s productivity tools, but we have a free software equivalent that are hosted on cyber security-hardened infrastructure.

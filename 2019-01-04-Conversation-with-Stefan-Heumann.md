@@ -266,7 +266,7 @@ Starting this year, we’re also expanding this model to the youth council. Ther
 Not just across the screen, but actually to the locality. The National Development Council is working on the enabling technologies. For example, many of these areas told us that autonomous vehicles, especially drone delivery, is critical.
 
 ### Audrey Tang:
-Otherwise, just getting the necessary material is difficult for them. They have to drive a very long distance, for example. Autonomous delivery is a key. Another one is teleworking. A lot of work here is actually to enable the, I think more than 100 public servants have design up to the National Development Council’s call for them to relocate back to their homeland, and to work there.
+Otherwise, just getting the necessary material is difficult for them. They have to drive a very long distance, for example. Autonomous delivery is a key. Another one is teleworking. A lot of work here is actually to enable the, I think more than 100 public servants have signed up to the National Development Council’s call for them to relocate back to their homeland, and to work there.
 
 ### Audrey Tang:
 Through teleworking initiatives...
@@ -335,7 +335,7 @@ On the other side, you have traditionally pretty hierarchical, formalistic burea
 I think open government is embraced because, compared to the NGOs, compared to the social sector, the public sector actually have less legitimacy. I think that is the answer to your question. In Taiwan, we lifted the martial law in the late ’80s, but the first presidential election is only in the late ’90s.
 
 ### Audrey Tang:
-There is a decade where the regional co-ops, the regional NGOs, and so on, very well-known names, have been building their legitimacy during that decade. Even today, when we go to, for example, disaster recovery or whatever, if the public sector publish a normal and the social sector publish a number, most people will believe the social sector number.
+There is a decade where the regional co-ops, the regional NGOs, and so on, very well-known names, have been building their legitimacy during that decade. Even today, when we go to, for example, disaster recovery or whatever, if the public sector publish a number and the social sector publish a number, most people will believe the social sector number.
 
 ### Audrey Tang:
 The public sector is working with a legitimacy deficient.

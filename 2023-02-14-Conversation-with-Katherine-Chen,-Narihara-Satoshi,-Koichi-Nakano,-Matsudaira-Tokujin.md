@@ -239,7 +239,7 @@ Basically, what we're saying is we need to work on a clear delineation between p
 
 The problem with radical transparency was that if, for example, we live streamed this conversation, then the delineation could be done in real time, [snaps] like every sentence I saw must be pre cleared, like this is confidential, this is not.
 
-If we change the frame, for example for this conversation, everybody will be given a transcript in 10 days. If you what to redact anything, you can do that at your leisure. If you want to clarify something you said, you can also add that, hyperlinks and all, so that nobody's taken out of context.
+If we change the frame, for example for this conversation, everybody will be given a transcript in 10 days. If you want to redact anything, you can do that at your leisure. If you want to clarify something you said, you can also add that, hyperlinks and all, so that nobody's taken out of context.
 
 At the end of the day, what we want is not a show of live streaming. What we want is that everybody has the full context of the how of policymaking, not just the what of policies. Again, with digital innovation, we can foster this careful delineation of public data, open data, public code, and so on vis à vis the secrets. That is what we're going forward to.
 
@@ -314,7 +314,7 @@ I mean, some people just don't talk. In a meeting, you know, they don't talk. In
 ### Audrey Tang:
 Again, I think this is a great point, which is why in meetings with asymmetrical power structures, for example, if another ministry is joining the meeting, usually their deputies, their DGs and staff and so on, will not just speak to counter the minister's point. I don't know why, but maybe they have their reason. We have a lot of such talks among ourselves in moda. [laughs]
 
-Not contradicting people in a position of superior power... I don't think it's just Asian, it's just what people do. Usually, when we hold meetings such as this, there's a site channel, maybe a Slido conversation, maybe a chat box, that preserves the pseudonymity or anonymity of the person, but still is limited to the people in the same meeting room or in the same town hall.
+Not contradicting people in a position of superior power... I don't think it's just Asian, it's just what people do. Usually, when we hold meetings such as this, there's a side channel, maybe a Slido conversation, maybe a chat box, that preserves the pseudonymity or anonymity of the person, but still is limited to the people in the same meeting room or in the same town hall.
 
 Still, they can use their phone to anonymously publish into our collective agenda. What is that we're missing, the administers are missing? They can also like each other's answers so that we know that of the 100 people in the meeting, 30 people feel that we really need to pay attention to this, without disclosing who was the actual person.
 

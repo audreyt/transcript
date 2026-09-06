@@ -276,9 +276,9 @@ I think for autonomous bus, in particular, or a transportation system where you 
 
 All these must be secure because you will record a lot of things that have private data. For instance, you will have a camera on the vehicle, and you will record everything on the street. Can you store that on the vehicle? Can you store that on your cloud side? If you cannot, how can we resolve the issue? It will take a long time to remove all identity for all image data. It's just not possible.
 
-If we cannot solve this issue, the camera probably won't be banded for an autonomous vehicle just because of privacy issues. That's actually a very critical issue for autonomous vehicle. This is a time because we are looking for business service in the public sector, so we need to have a regulation or guidelines to see how we can work together.
+If we cannot solve this issue, the camera probably won't be banned for an autonomous vehicle just because of privacy issues. That's actually a very critical issue for autonomous vehicle. This is a time because we are looking for business service in the public sector, so we need to have a regulation or guidelines to see how we can work together.
 
-Shinpei just mentioned the way they do in Japan, and actually, they just passed level four regulation in April 2022. They will execute this in April. If the vehicle pass the regulation and receive a permit, under that regulation, actually they can operate level for service in Japan starting for April.
+Shinpei just mentioned the way they do in Japan, and actually, they just passed level four regulation in April 2022. They will execute this in April. If the vehicle pass the regulation and receive a permit, under that regulation, actually they can operate level four service in Japan starting for April.
 
 As you understand that there's a lot of software on the vehicle. How do we test and verify those software? That's important. When you have open source, you can save a lot of effort because everybody can see it, you can verify, you can understand what's going on there.
 

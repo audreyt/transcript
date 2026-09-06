@@ -226,7 +226,7 @@ Mostly within the past two and a half years of pandemic. We've got, of course, t
 
 Many of them started Taiwanese companies, like Steve Chen from YouTube. Also, I was interviewing Kevin Lin from Twitch, and so on. Of course, they were Taiwanese second generation, or moved to the US while they were young. They still had a social connection in Taiwan.
 
-For these Taiwanese or Taiwanese/American co-founders or founders, they are quite comfortable with starting a local team here in Taiwan. Setting up so that it's entirely telework or hybrid work, and bringing their circles in the Silicon Valley in into the operation.
+For these Taiwanese or Taiwanese/American co-founders or founders, they are quite comfortable with starting a local team here in Taiwan. Setting up so that it's entirely telework or hybrid work, and bringing their circles in the Silicon Valley into the operation.
 
 For people who did not have this Taiwanese connection before, I don't think that's a natural choice.
 

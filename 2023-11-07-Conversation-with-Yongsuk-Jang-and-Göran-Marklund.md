@@ -47,7 +47,7 @@ NICS is the institute that works on AI evaluation, for example. Because it is no
 That's the main organizational chart. And I promised to be brief, so I'll stop here. Anything you would like to discuss?
 
 ### Yongsuk Jang:
-First of all, let me thank you again for inviting us. It's a big honor for me. Before coming over here, I read your resume or short bio, and I was very much impressed by the catchphrase that you brougt up with and I reconfirm my impression.
+First of all, let me thank you again for inviting us. It's a big honor for me. Before coming over here, I read your resume or short bio, and I was very much impressed by the catchphrase that you brought up with and I reconfirm my impression.
 
 In this morning, I delivered my presentation to the forum, and your introduction of MODA is exactly in the same token that I delivered in this morning. So I think you are the pioneer in this field and on the same page with the OECD. You provided the core values of democracy. We should not forget about the promoting innovation itself. But also, we have to make sure such innovation should be secure with the open science, open innovation.
 
@@ -285,7 +285,7 @@ So, moda in Taiwanese Taigi, also in Nihongo, means "motor". So, we always say w
 It's a good way of nudging the system.
 
 ### Yongsuk Jang:
-Since you mentioned that, I have a similar story, which is that in Korean history of the Ministry of Science and Technology, it started with the administration, rather than the ministry. It was created in 1966, and probably the first agency focusing on science and technology, so. But it started as an Administration rather tha as the Ministry.
+Since you mentioned that, I have a similar story, which is that in Korean history of the Ministry of Science and Technology, it started with the administration, rather than the ministry. It was created in 1966, and probably the first agency focusing on science and technology, so. But it started as an Administration rather than as the Ministry.
 
 And its mission was to support all other ministries. And at that time, and since then, probably up to 1990, it works, I think. It works very well, very well, in terms of the supporting all other ministries toward a better country. And making one consensus toward to the national development.
 

@@ -52,7 +52,7 @@ Meaning that I call myself digitalminister.tw, but it doesn’t mean that I comm
 They basically are given a space to form rough consensus, to work out loud, to publish not only the end result of policy-making, but the process of the making of the policies by listening at scale to citizens, and so on.
 
 ### Audrey Tang:
-At the end of the day, I do not give them command, and they do not give me orders, either. This is what I mean by working with the government on one side, and of course the social movements on the other. I’m kind of like Lagrange point between the social movements on side, and the governments on the other.
+At the end of the day, I do not give them command, and they do not give me orders, either. This is what I mean by working with the government on one side, and of course the social movements on the other. I’m kind of like Lagrange point between the social movements on one side, and the governments on the other.
 
 ### Peter Pomerantsev:
 Fine. That already sounds a lot like the philosophy that we’re talking about, but in terms of vision of the Internet, is there a role for the state in it then? How does one make sure that that role is never coercive and is always…?
@@ -76,7 +76,7 @@ That enable us to essentially do a negotiation with, say, Facebook saying, “If
 That is to say limited to only domestic contributors, and also publish the exact terms, like algorithmic transparency in real time for independent social sector journalists to analyze.
 
 ### Audrey Tang:
-If they don’t do so, we don’t really have jurisdiction over them, but they will face social sanction. This is the state’s role to amplify the norm that’s set and agreed by the social sector, and to make sure that it can also reach other stakeholders in Internet governance so that they can act in a prosocial rather antisocial way.
+If they don’t do so, we don’t really have jurisdiction over them, but they will face social sanction. This is the state’s role to amplify the norm that’s set and agreed by the social sector, and to make sure that it can also reach other stakeholders in Internet governance so that they can act in a prosocial rather than antisocial way.
 
 ### Anne Applebaum:
 That actually, what you’ve just described, was tried in Europe during the last European election campaign, and it didn’t work.
@@ -106,7 +106,7 @@ Otherwise they will face social sanction here.
 What do you mean by social sanctions?
 
 ### Audrey Tang:
-Like boycotting, like people actually going to, say, PTT or the vCard, or any of those alternatives run by other players who, like PTT, have already signed up to these social sector norms. Basically they would be seen as the odd entity out.
+Like boycotting, like people actually going to, say, PTT or the Dcard, or any of those alternatives run by other players who, like PTT, have already signed up to these social sector norms. Basically they would be seen as the odd entity out.
 
 ### Audrey Tang:
 If everybody else agree that this is the norm, then people would just maybe publicly delete their Facebook accounts if Facebook continued to not respect the local norm. Our government – the control branch is a separate branch in the government – published the campaign donation expenditure previously also only as statistics in a very difficult to understand format.
@@ -127,7 +127,7 @@ The fact that the social sector sets the norm and pressure the public sector to 
 The problem in Europe was that we didn’t have citizen activists who were that attuned to the problem and weren’t paying attention. I’m trying to understand what’s different between Taiwan and Europe. Is that the problem, that we haven’t got this same public…
 
 ### Audrey Tang:
-There are alternatives also, because the PTT or, really, vCard, or Plurk, or whatever, they are real competitors to Facebook. Also, like the PTT, although we call it the Taiwanese equivalent of Reddit, it’s actually different because the PTT is run essentially by National Taiwan University students in their spare time as an exercise in open source governance.
+There are alternatives also, because the PTT or, really, Dcard, or Plurk, or whatever, they are real competitors to Facebook. Also, like the PTT, although we call it the Taiwanese equivalent of Reddit, it’s actually different because the PTT is run essentially by National Taiwan University students in their spare time as an exercise in open source governance.
 
 ### Audrey Tang:
 The entire PTT regulatory framework is open source, and the code for PTT is also open source, enabling participatory accountability. That is the norm in Taiwan. Anything that falls short of this norm automatically have less legitimacy. That probably cannot be said in the whole of EU.
@@ -256,7 +256,7 @@ What’s the difference between that and anonymity? That’s the definition of a
 No, it’s different, actually. A pseudonym that persists over time, of course, has its own identity. It’s just you can’t go back and trace to the real person behind that pseudonym. It’s one degree of protection.
 
 ### Audrey Tang:
-For many people, actually, their pseudonyms are much more widely known than their real name. For example, \_why is a great example in the Rails Rudy community. The full name is why the lucky stiff. You can google that and learn the story.
+For many people, actually, their pseudonyms are much more widely known than their real name. For example, \_why is a great example in the Rails Ruby community. The full name is why the lucky stiff. You can google that and learn the story.
 
 ### Audrey Tang:
 A pseudonym is in no way temporal or temporary. It can be as long-lived as an actual human being, and we promote that. We also understand that, if people have to participate with their legal real name and with their traceable-to-actual-person identity, then there’s a lot of things that people who are currently suffering power imbalance would not dare to bring up in public consultation.
@@ -325,7 +325,7 @@ What about the kinds of data that are captured by social media companies, by you
 Yeah, profiling, yes.
 
 ### Anne Applebaum:
-The profiling data. Do you think we need a regulatory regime for that kind of data? Should there be some controls on it, or is that just up to the companies or up to consumers to react to it? How do look at social media data, profiling data?
+The profiling data. Do you think we need a regulatory regime for that kind of data? Should there be some controls on it, or is that just up to the companies or up to consumers to react to it? How do you look at social media data, profiling data?
 
 ### Audrey Tang:
 Again, I would think in terms of not consumers, because in a sense, we are not consumers. We are producers. It’s just through those intermediary platforms, different producers are paired into each other’s so-called news feed, having no journalistic…
@@ -553,7 +553,7 @@ That’s the first thing. It’s based, again, on watchdog organizations in the 
 The second thing is that if we see the fact-checkers’ notices, of course, that does not automatically win people over. Another strategy that we deploy is called humor over rumor, making sure that people also have the information presented to them, the scientific information sometimes, saying that, “Wear a mask to protect yourself from your own unwashed hands.”
 
 ### Audrey Tang:
-This went literally viral and convinced a lot of people to wear the mask and also keep physical distance measured in dogs – Shiba Inus, to precise – three Shiba Inu indoors and two outdoors. What you’re pointing out is that fact-checking does not, by itself, of course, change people’s minds.
+This went literally viral and convinced a lot of people to wear the mask and also keep physical distance measured in dogs – Shiba Inus, to be precise – three Shiba Inu indoors and two outdoors. What you’re pointing out is that fact-checking does not, by itself, of course, change people’s minds.
 
 ### Audrey Tang:
 If we make sure that within the same news cycle, people get exposed to both a very humorous message that promotes joyful sharing, which interestingly have a similar R-value to the messages that trades on outrage, but it’s a one-way street.

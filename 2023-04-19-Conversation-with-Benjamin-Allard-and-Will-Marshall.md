@@ -255,7 +255,7 @@ So, we talk with like one web, you know, with the usual suspects TASA, SES to ma
 Yep, understood. Understood.
 
 ### Benjamin Allard:
-And Audrey, when it comes to… We can certainly have a conversation around the resiliency-type of capabilities within the Planet constellations. It's one of the core tenants as to how we actually build and operate our constellations and how that helps in terms of with distributed access to imagery outside of either sovereign capabilities or other commercial providers as well.
+And Audrey, when it comes to… We can certainly have a conversation around the resiliency-type of capabilities within the Planet constellations. It's one of the core tenets as to how we actually build and operate our constellations and how that helps in terms of with distributed access to imagery outside of either sovereign capabilities or other commercial providers as well.
 
 ### Audrey Tang:
 Is it just downloading from the satellites? Or do you also have uplink bandwidth?
@@ -341,7 +341,7 @@ So, I just want to emphasize that we like to build long-term relationships where
 Let's work together to ensure Taiwan's long-term existence — the foundation of long-term relationships.
 
 ### Will Marshall:
-Exactly, right, exactly. And so, thank you and thank you in advance for your help as the Digital Minister helping us to navigate this because it's not always easy for us to find the right people or how to connect, or if you could help us be that interlocker we would really, really appreciate that.
+Exactly, right, exactly. And so, thank you and thank you in advance for your help as the Digital Minister helping us to navigate this because it's not always easy for us to find the right people or how to connect, or if you could help us be that interlocutor we would really, really appreciate that.
 
 Well, and my job is to make you successful, so thank you very, very much. Planet is keen to help and support countries shine a light on global events that include security and sustainability.
 

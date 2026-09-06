@@ -78,7 +78,7 @@ Yes, many middle schoolers among the fact checkers. It’s part of competence, t
 When people flag something as spam to the counter-infodemic tool even into an encrypted channels such as Line, there’s no ecosystem. There’s the Virus Buster from Trend Micro. There’s Meiyuyi from Whoscall. There’s Cofacts, the original one from g0v, and you can flag video or pictures or text.
 
 ### Audrey Tang:
-It doesn’t have to be…This information is the intentional, untrue things that harms the public good. It could also be scams, like the original email junk mail. \[laughs\] A lot of those are still around in these messaging channels and also hate speech.
+It doesn’t have to be…Disinformation is the intentional, untrue things that harms the public good. It could also be scams, like the original email junk mail. \[laughs\] A lot of those are still around in these messaging channels and also hate speech.
 
 ### Audrey Tang:
 When these are flagged, the dashboard on the Line platform shows what’s trending, what’s going viral without saying whether this is disinformation, scam, hate speech, or something. Very neutral, like these messages are going viral.
@@ -92,7 +92,7 @@ Some of them may be true, so we may have discovered a way to package better jour
 What’s viral is not necessarily toxic. When it is toxic, the early detection enable the humor over rumor to take effect. Because if you wait until a week after or even just one night, then people already associate these viral memes with long-term memory.
 
 ### Audrey Tang:
-If we see in the same new cycle, say within the couple of hours, we roll out a comedic response as something that motivates people to share enjoyment rather than in retaliation or discrimination or revenge, and then people feel much better.
+If we see in the same news cycle, say within the couple of hours, we roll out a comedic response as something that motivates people to share enjoyment rather than in retaliation or discrimination or revenge, and then people feel much better.
 
 ### Audrey Tang:
 Like the young boy with pink mask example. If after receiving this call from this young boy saying, “I don’t want to go to school, because all I got was pink masks.” Say if we punish classmates that bullied the young boy, that will actually lead to the reverse effect because people will start attacking each other.
@@ -186,7 +186,7 @@ The simple answer is this: Don’t compromise your values.
 > (laughter)
 
 ### Audrey Tang:
-The main thing about world trade negotiation, or really any negotiation is that if your values are coherent, then the constituency either your shareholders or stakeholders, your citizens and so on, eventually gets to know you more. In the Sunflower Movement, each NGO deliberating about one aspect of this TSSTA basically did that.
+The main thing about world trade negotiation, or really any negotiation is that if your values are coherent, then the constituency either your shareholders or stakeholders, your citizens and so on, eventually gets to know you more. In the Sunflower Movement, each NGO deliberating about one aspect of this CSSTA basically did that.
 
 ### Audrey Tang:
 When people generally agreed that we don’t allow the PRC components into the 4G telecom infrastructure, we don’t name specific brands. This is not about against ZTE, against Huawei or against anything. This is about realizing that the PRC can through party branches or whatever plug-and-play leadership in the so-called private sector at any given time.
@@ -240,10 +240,10 @@ That’s precisely what’s happening now. \[laughs\]
 Exactly, but I mean the decoupling of referendum days and election days is what we in Switzerland have done for 100 years. It’s obviously an asset to focus on issues and on elections separately. What I wonder a little bit is this experience you have mastered very much with these participatory tools involving people.
 
 ### Bruno Kaufmann:
-You get people who are really interested and willing. While in a referendum you’re inviting basically everybody and especially older people who are maybe unhappy with the government in place. How does these two worlds fit together in your review? Are they complementary or are they in a way antagonists?
+You get people who are really interested and willing. While in a referendum you’re inviting basically everybody and especially older people who are maybe unhappy with the government in place. How does these two worlds fit together in your view? Are they complementary or are they in a way antagonists?
 
 ### Audrey Tang:
-They’re not antagonists. They can’t be because we have universal broadband access. As I mentioned this, 70 or 80 years old are quite active. We have in the joint platform for example that’s anywhere from 8 million or 10 million visitors a year out of country with 23 million.
+They’re not antagonists. They can’t be because we have universal broadband access. As I mentioned this, 70 or 80 years old are quite active. We have in the Join platform for example that’s anywhere from 8 million or 10 million visitors a year out of country with 23 million.
 
 ### Audrey Tang:
 The national health insurance app has more than 10 million people using it as a data collaborative access tool. What I’m trying to say is that easily half of the offline participants are also online participants. By definition these are not antagonistic groups.
@@ -255,7 +255,7 @@ On the other hand it is quite true that on the digital world it’s easy to expl
 There are some fundamental difference between digital actions and physical actions. What a digital democracy platform excels at is to make sure that those alternate divisions are explored in a way that allows for simultaneous experiments.
 
 ### Audrey Tang:
-Maybe through sandbox application, we have different municipality trying out different configuration of say self-driving vehicle just that’s a really good example, or through the online mask availability map we have hundreds of people coding different visualizations, some as chatbots, some as voice assistance, or whatever of the PPE distribution.
+Maybe through sandbox application, we have different municipality trying out different configuration of say self-driving vehicle just that’s a really good example, or through the online mask availability map we have hundreds of people coding different visualizations, some as chatbots, some as voice assistants, or whatever of the PPE distribution.
 
 ### Audrey Tang:
 Again, it’s non-rival. It’s non-exclusive. The participation tools allow people to enjoy this non-rival roles co-creation so that in the things that are concerning physical action people still remember that we are a polity after all. That we have much more in common with each other, the common values despite our different positions.

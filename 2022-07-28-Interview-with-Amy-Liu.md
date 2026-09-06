@@ -46,7 +46,7 @@ Sure. There are of course general-purpose regulations, such as that we should no
 
 Then the other thing that we do is to ensure a safe space for us. One example is our Youth Advisory Council, which looks at all the different configurations to find the places that are less safe for LGBTIQ people in particular.
 
-In my office in the Social Innovation Lab, that's the Section Three here in our road. Used to be an Air Force headquarter. On the ground floor, we've got four restaurants. One for each major gender, one for gender inclusive, and another for accessibility, like wheelchair accessible.
+In my office in the Social Innovation Lab, that's the Section Three here in our road. Used to be an Air Force headquarter. On the ground floor, we've got four restrooms. One for each major gender, one for gender inclusive, and another for accessibility, like wheelchair accessible.
 
 We make sure that it expands the space instead of cannibalizes existing spaces. That is the strategy we very consciously pursue, prompted by our Youth Advisory Council on that cabinet level.
 
@@ -86,7 +86,7 @@ We can all make it more friendly to people with that condition, because we may o
 
 Of course, for our websites, we've long mandated that all government website need to pass the WCAG accessibility standard. It benefits not just people who have seeing difficulties. It must be machine-readable for the screen readers, it also helps the end-to-end, machine-to-machine API bridges. In a sense, a robot, a bot, is also people with seeing difficulties.
 
-Again, there's a lot of intersectionalities going on. Our public campaign is centered around, not just taking care for people who are heard of seeing, but seeing this as a way to open up our website designs so that they could be translated into the other 19 national languages, including indigenous ones.
+Again, there's a lot of intersectionalities going on. Our public campaign is centered around, not just taking care for people who are hard of seeing, but seeing this as a way to open up our website designs so that they could be translated into the other 19 national languages, including indigenous ones.
 
 ### Amy Liu:
 That's really exciting. That's great. My last question for you is actually, do you feel that the general public supports women's rights and LGBTQ rights?

@@ -340,7 +340,7 @@ TCP/IP, and...
 It’s a different language altogether.
 
 ### Audrey Tang:
-The laws of the Internet, the request for comments, they are, of course, written in English. It’s written in RFC English, which is not exactly English. It has very interesting connotations like SHOULD, MAY, MUST, MOST NOT, that are clearly defined.
+The laws of the Internet, the request for comments, they are, of course, written in English. It’s written in RFC English, which is not exactly English. It has very interesting connotations like SHOULD, MAY, MUST, MUST NOT, that are clearly defined.
 
 ### Audrey Tang:
 Their use of the word &quot;consensus&quot; doesn’t mean what the English users mean by &quot;consensus&quot;, and so on. It is a very particular jargon in the Internet community. That’s my native language.
@@ -501,7 +501,7 @@ Meaning like body politics, you say like...
 The polity, 政體.
 
 ### Shu Lea Cheang:
-Paul just did this big public program at Documenta last year. It was in Athens and in a castle. It’s called &quot;The Parliament of Bodies,&quot; so parliament. When I first read his work, I was like, &quot;Wow, what the...&quot;
+Paul just did this big public program at Documenta last year. It was in Athens and in Kassel. It’s called &quot;The Parliament of Bodies,&quot; so parliament. When I first read his work, I was like, &quot;Wow, what the...&quot;
 
 ### Audrey Tang:
 Parliament just means to hang out and talk a lot, parler.
@@ -740,7 +740,7 @@ Yes.
 OK. Before, I was thinking about you more as a politician, but now I see you more as an artist.
 
 ### Audrey Tang:
-In this space, which we co-create, I would stay it’s speculative design. It’s not quite art. If it’s art, it also has the negative side and shows what’s impossible, what’s impenetrable, what’s suffering, what’s painful. You don’t see those elements in our Social Innovation Lab.
+In this space, which we co-create, I would say it’s speculative design. It’s not quite art. If it’s art, it also has the negative side and shows what’s impossible, what’s impenetrable, what’s suffering, what’s painful. You don’t see those elements in our Social Innovation Lab.
 
 ### Audrey Tang:
 It’s artsy, I guess. I focus on the positive part of art energy, which we call speculative or futuristic design, but I don’t think it’s quite the entirety of art.
@@ -1129,7 +1129,7 @@ That is both by law, because we really are changing the law to allow that, but i
 For me, that’s quite interesting, the position of the artist in relation to that, as opposed to the scientist, the physician, or whatever.
 
 ### Shu Lea Cheang:
-I would want to bring up another two keywords, would be the cryptology an encryption in the sense of when speaking of codes and in the sense of cryptology. I think it somehow should be brought in. I am hoping from this -- if we start talking about cryptology and encryption -- from this, then we can talk about a kind of resistance of surveillance system, if it’s possible.
+I would want to bring up another two keywords, would be the cryptology and encryption in the sense of when speaking of codes and in the sense of cryptology. I think it somehow should be brought in. I am hoping from this -- if we start talking about cryptology and encryption -- from this, then we can talk about a kind of resistance of surveillance system, if it’s possible.
 
 ### Audrey Tang:
 Yes.
@@ -1749,7 +1749,7 @@ Yes, trisomic. Basically, it’s a genetic modification that causes what until n
 I think that even before we get into writing the code or the technologies that...and it’s an epistemology. They are the technologies allowed for a certain body to be recognized as human. Of course, then you see maybe the action of the philosopher, the politician, and the poet are different levels.
 
 ### Audrey Tang:
-Interesting fact. The Social Innovation Lab’s geometry is contributed by people with Down syndrome, which is also a trisomic difference. It turns out their geometric intuition is better than we are. As a poet, I’m, of course, doing OK with code and text, but my geometric intutition is far behind them.
+Interesting fact. The Social Innovation Lab’s geometry is contributed by people with Down syndrome, which is also a trisomic difference. It turns out their geometric intuition is better than we are. As a poet, I’m, of course, doing OK with code and text, but my geometric intuition is far behind them.
 
 ### Audrey Tang:
 They contribute to geometry of the Social Innovation Lab. We have a foundation called 喜憨兒基金會, the Children Are Us Foundation, that’s been working with people with Down’s syndrome for over 20 years. They really cultivate their geometric contribution to the society.
@@ -1911,7 +1911,7 @@ You can highlight any.
 Anybody can highlight?
 
 ### Audrey Tang:
-No, only moderators can, and I’ll work with them to make sure that you do. The idea, very simply, is here. You see a list of questions, and you can highlight just by clicking highlight. You can censor them just by clicking archive. There were be two button next to each question, and that’s it.
+No, only moderators can, and I’ll work with them to make sure that you do. The idea, very simply, is here. You see a list of questions, and you can highlight just by clicking highlight. You can censor them just by clicking archive. There will be two button next to each question, and that’s it.
 
 ### Audrey Tang:
 You can censor them by clicking archive. There will be two button next to each question, and that’s it. There’s no need to use anything other than a phone. If you prefer a tablet, of course, it’s easier. For me, tablet allows for a view of more question at the same time, but it’s up to you. You essentially see a list of live questions.

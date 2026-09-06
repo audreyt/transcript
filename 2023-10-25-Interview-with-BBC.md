@@ -85,7 +85,7 @@ People have different views. Some people want the status quo. There's some that 
 I don't know, how do you get people prepared? How do you speak to them about a potential threat?
 
 ### Audrey Tang:
-Plurality means collaborative diversity. So, it's not just about collaboration, it's also about respecting diversity. And the people you just mentioned that have very different views on the PRC. On the other hand, there are also people within PRC that actually want democracy, want democratic networks, and so on. And so, by investing in those pluralist technologies, we also enhance the ability to self-organize and to not be censored or tempered, and so on, within even the most autocratic regimes.
+Plurality means collaborative diversity. So, it's not just about collaboration, it's also about respecting diversity. And the people you just mentioned that have very different views on the PRC. On the other hand, there are also people within PRC that actually want democracy, want democratic networks, and so on. And so, by investing in those pluralist technologies, we also enhance the ability to self-organize and to not be censored or tampered, and so on, within even the most autocratic regimes.
 
 And so, this kind of people-to-people solidarity toward democracy, this is what unites people together. So, this is not about a political party winning and taking all the power and things like that, but rather about a commitment to simply say, actually, democracy can advance mutual understanding, and technology can advance democracy.
 
@@ -119,7 +119,7 @@ Okay, and let's talk a little bit about your initiatives that you've had. I read
 ### Audrey Tang:
 This is a very simple idea. AI, in its current form, you can tell it to behave in such and such a way. And it might remember for a chat session, but it will not fundamentally change its bias, because exactly as you said, it's constrained by the kind of data it reads when it's doing the pre-training.
 
-On the other hand, the AI can be amended by what we call an adapter. With the same AI, like Anthropics Cloud, or GPT-4, or LLaMA, a local community can train an adapter that says, before this AI actually speaks to me, it needs to run it through this cultural perspective, this cultural lens, that takes these important things into account before actually outputting any message to me.
+On the other hand, the AI can be amended by what we call an adapter. With the same AI, like Anthropic's Claude, or GPT-4, or LLaMA, a local community can train an adapter that says, before this AI actually speaks to me, it needs to run it through this cultural perspective, this cultural lens, that takes these important things into account before actually outputting any message to me.
 
 And to train this LoRA, we can do this adapter's training overnight on a MacBook. So, on my laptop, I have trained an adapter based on my email correspondence that writes my email reply drafts for me. I always read before hitting send. It's not an answering machine. But it really imitates my style, and my thinking, and so on, very, very well.
 
@@ -309,7 +309,7 @@ Instead of the O, there's a zero.
 ### Audrey Tang:
 Exactly, right. So, for example, if people like to learn about budgets but find the PDFs that was 10 years ago very difficult to understand and impossible to interpret and there's no way to press like or unlike on particular budget items, they can change an O to a zero and went to budget.g0v.tw, which provides the visualization of the budget and allows to interact and such.
 
-So, the idea is that whenever people think there's something that the government is not doing well, it's not protesting. It is a demo of taking, for example, the government had a PDF listing of where to find medical grade masks in early 2020. But the Gov Zero people took a carbon copy and made a navigating GPS map or whatever based on Google Map and also OpenStreetMap where you can see at a glance where are the remaining mask near you and you can do a lot more, actually. Contact tracing and vaccination and so on were all forged by the civil society groups.
+So, the idea is that whenever people think there's something that the government is not doing well, it's not protesting. It is a demo of taking, for example, the government had a PDF listing of where to find medical grade masks in early 2020. But the Gov Zero people took a carbon copy and made a navigating GPS map or whatever based on Google Map and also OpenStreetMap where you can see at a glance where are the remaining mask near you and you can do a lot more, actually. Contact tracing and vaccination and so on were all forked by the civil society groups.
 
 And so, the great thing about software is that what's forked can be merged. So, when we saw that the Gov Zero way of doing contact tracing is much better because it just involves scanning a QR code and pressing send to SMS number and that's it. You don't have to type anything. Then we just adopted as the national recommended way to do SMS-based contact tracing.
 

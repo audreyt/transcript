@@ -47,7 +47,7 @@ The PRC wasn’t always going the opposite direction. For a while it seemed like
 So I’m not saying that PRC was always an opposite influence, but especially in the past four years or so, with the rapid closing of the media and speech freedoms, and censorship not only after the speech, but before the speech too.
 
 ### Audrey Tang:
-You see a lot of Internet automated censorship. These were originally only deployed around October, or something like that, but now it’s years-round.
+You see a lot of Internet automated censorship. These were originally only deployed around October, or something like that, but now it’s year-round.
 
 ### Audrey Tang:
 I do agree with your assessment that recently the PRC has been really narrowing down.
@@ -62,7 +62,7 @@ Without the technology.
 That’s right. A lot, especially the elderly, have a difficulty telling disinformation apart from truly journalistic work, simple because the state-run TV media at the time were the only permitted channels and there was, frankly speaking, lots of propaganda around, so it’s not very easy to tell.
 
 ### Audrey Tang:
-For people who are born or educated after the lifting of the marital law, which is after the ’80s, they have a broad swathe of information sources to choose from. Our democracy, with the first presidential election in ’96, coincides with the World Wide Web, so people associate democracy with the democratization of information sources.
+For people who are born or educated after the lifting of the martial law, which is after the ’80s, they have a broad swathe of information sources to choose from. Our democracy, with the first presidential election in ’96, coincides with the World Wide Web, so people associate democracy with the democratization of information sources.
 
 ### Audrey Tang:
 We have had, since ’96, a long time to have an educated civil society, so that people generally can take a more critical thinking attitude when it comes to media sources.

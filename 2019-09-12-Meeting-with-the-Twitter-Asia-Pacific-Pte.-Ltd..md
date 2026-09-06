@@ -297,7 +297,7 @@ We need to acknowledge those risks, but also not bury the good and the important
 Our view is that by starting to share more of what we can and more often, we’re hoping to partner with more people who can give us feedback and tell us what we can learn from what’s happening. Also, how we can continue to partner in innovative ways that yield stronger results going forward.
 
 ### Kathleen Reen:
-We also think that this is part of our journey towards protecting citizens and customers who use Twitter as a service. That goes to your earlier point about privacy. Twitter has expanded its commitments to privacy over the last couple of years.Very, very deeply, in terms of new policy changes we’ve made, new commitments we’ve made. That trade-off and the stressors on how we comply with an expanding range of local laws coming onto the books around the world, while we try to protect our privacy values, is because that trust is everything to us.
+We also think that this is part of our journey towards protecting citizens and customers who use Twitter as a service. That goes to your earlier point about privacy. Twitter has expanded its commitments to privacy over the last couple of years. Very, very deeply, in terms of new policy changes we’ve made, new commitments we’ve made. That trade-off and the stressors on how we comply with an expanding range of local laws coming onto the books around the world, while we try to protect our privacy values, is because that trust is everything to us.
 
 ### Kathleen Reen:
 If we lose that trust, then Twitter doesn’t really exist very well in the world. It’s also a real value point for us and to us a company. A lot of people come to Twitter to work for us because one, most of its surfaces are so public, and it is so open.
@@ -532,7 +532,7 @@ I think we’re aware of that, Audrey. We can tell. It’s far too entertaining,
 > (laughter)
 
 ### Kathleen Reen:
-Those definitions are there. Actually, we rely on some important resource groups from the around the world. Unfortunately, actually, there aren’t really any rankings that are developed by academic institutions or larger-scale social groups that produce regularized, periodic reporting around these kinds of issues (in the Asia region).
+Those definitions are there. Actually, we rely on some important resource groups from around the world. Unfortunately, actually, there aren’t really any rankings that are developed by academic institutions or larger-scale social groups that produce regularized, periodic reporting around these kinds of issues (in the Asia region).
 
 ### Kathleen Reen:
 We turned, instead, to those which were internationally credible and trusted sources, used by other credible institutions all over the world. A combination of multilateral UN inputs, as well as some of the most trusted nonprofits in the world that address or think about these issues every day, such as Reporters Sans Frontières and…

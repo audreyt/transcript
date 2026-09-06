@@ -214,7 +214,7 @@ One example that we have targeted is in faith-based organizations. I will illust
 
 In faith-based setting, we work with the leader to announce that the digital tool exists for people to use, and then depends on the literacy level of the targeted population, we give them needed support.
 
-We also develop the community health worker implementation approach to support participants who have low literacy. We are not using hospital resources, more on using community resources. Taiwan has a lot of volunteers, which is nice and can be used to support mSELF digital tool implemenation.
+We also develop the community health worker implementation approach to support participants who have low literacy. We are not using hospital resources, more on using community resources. Taiwan has a lot of volunteers, which is nice and can be used to support mSELF digital tool implementation.
 
 ### Audrey Tang:
 Oh, yeah, definitely. Even in this incubator, we have a couple of startups just working on the board games for mental health literacy and competency.
@@ -321,13 +321,13 @@ The changing talk, that's right.
 The changing talk. What's a rapped up? You actually write from hip hop lyrics? [laughs]
 
 ### Keng-Yen Huang:
-Once you review the results, we have a few follow up questions. We ask if this in line with what you think about your family? What would be the factors that may influence your family the most. We also give a list of learning options, so they could pick, tick which one option they want to learn more and focuse on?
+Once you review the results, we have a few follow up questions. We ask if this in line with what you think about your family? What would be the factors that may influence your family the most. We also give a list of learning options, so they could pick, tick which one option they want to learn more and focus on?
 
 ### Audrey Tang:
 It's more like a theory for change, not just personally, but for the family to share.
 
 ### Keng-Yen Huang:
-Yes. It depends on age, for young children, the only people we can work with is parents. For adolescents, we can work with both adolescents and parents. Working with both is also one way to address the communication gap. There's a perception gap between parents and adolescents. The adolescent version is a different approach of implemenation.
+Yes. It depends on age, for young children, the only people we can work with is parents. For adolescents, we can work with both adolescents and parents. Working with both is also one way to address the communication gap. There's a perception gap between parents and adolescents. The adolescent version is a different approach of implementation.
 
 When working with family, a lot of issue come up, but one major one is family functioning issue, it's a dynamic issue. If we don't address that issue, parents will never pay attention to their kid. That's why families...
 
@@ -350,7 +350,7 @@ I can't just say I'll change 20 habits [laughs] tomorrow. It's just not possible
 This is also where sometimes the support system is critical, it's important because behavior change is hard. That's why we need to think about the support system when helping people make changes. This is shown here (point to the support system in the figure) as the additional referral resource. Past year, because of COVID, digital health as the changes are skyrocketing.
 Even in US context, telehealth space has changed and improved dramatically. It's the right time to do more on mHealth and telehealth.
 
-The links hear are for two versions of mSELF that are much ready to be used. Right now, I'm going to also show you some other examples and give you some timelines for things/differnet mSELF versions that we're working on. This is another version. You can see, it's a similar assessment. We first introduce what we're doing, and then ask questions.
+The links here are for two versions of mSELF that are much ready to be used. Right now, I'm going to also show you some other examples and give you some timelines for things/different mSELF versions that we're working on. This is another version. You can see, it's a similar assessment. We first introduce what we're doing, and then ask questions.
 
 The goal is to help them understand multiple areas of need. This is more like discussion. Then we show them their result on their mental health. In young-adult, because relationship issue is also a big issue. We assess their relationship health and give them some advice.
 
@@ -371,7 +371,7 @@ The local people who volunteer to ask those questions and complete this assessme
 ### Keng-Yen Huang:
 That's right. We trained health committee members in faith-based organizations. [point to the timeline slide for 3 versions of mSELF],In the US, We also tested somewhat similar concept like in pediatric care, but this is a little bit harder, [laughs] because there's too many professional dynamic, there. Right now, 2020, after COVID, it's a very different environment. we are continue testing these in diverse contexts in the US.
 
-Given the lesson learned, we have also applied these and starting mSELF project in Kenya. Last year, we test out, again, a community-health facility partnership model. In this example, community agencies provide mSELF to indiviauls, and Health facility actually provide referral intervention services for needed people. I think that partnership also worked very well.
+Given the lesson learned, we have also applied these and starting mSELF project in Kenya. Last year, we test out, again, a community-health facility partnership model. In this example, community agencies provide mSELF to individuals, and Health facility actually provide referral intervention services for needed people. I think that partnership also worked very well.
 
 The adult wellness version that I'm also currently testing is in Ugandan schools. This is part of the school mental health intervention that we're scaling up and working with Minister of Education to test adult version.
 
@@ -379,7 +379,7 @@ Machine learning method, we also started developing. We are using the current tr
 
 Using some of the system domain, that's also helping us think about how we integrate the strategy. It's really long time local intervention. The US, the adolescent version, now, I'm also working with Asian American [laughs] in New York City, trying out what kind of adaptation need to be made. I could see a lot of commonalities and the same issue that we see in Taiwan.
 
-I also here them from college students. Like I mentioned that a lot of platform potentially, can be targeted. Usually, I tend to go with the community approach because less stigma. Web platform, it's also a good source, because a lot of projects right now is a phase one is developing the digital tool, then moving toward using expert approach compared to the machine learning approach.
+I also hear them from college students. Like I mentioned that a lot of platform potentially, can be targeted. Usually, I tend to go with the community approach because less stigma. Web platform, it's also a good source, because a lot of projects right now is a phase one is developing the digital tool, then moving toward using expert approach compared to the machine learning approach.
 
 That's something we're hoping to do in the next couple of years. Thinking about the scaling of it, when we're developing, we're thinking about what system, what setting would be the priority for the local context, so we can use that.
 
@@ -622,7 +622,7 @@ They list around 20 percent of all basic school teachers in Taiwan in such a con
 Yeah. If it is some education platform, it's already well-established and integrated into that it's much easier.
 
 ### Audrey Tang:
-This is a very vocal community. Yu can look into that. They especially care about the rural and the places where it's certainly not possible for one teacher to serve the role of poster parents, professional counselor, and many others.
+This is a very vocal community. You can look into that. They especially care about the rural and the places where it's certainly not possible for one teacher to serve the role of foster parents, professional counselor, and many others.
 
 This kind of digital-assistive platforms that can bring in outside support through either video conferencing or, as I mentioned, a machine-learning-based dashboard or analytics and things like that, that's going to be very helpful for them.
 

@@ -153,7 +153,7 @@ The architecture, in a sense, makes norm happen in a way that's prosocial becaus
 
 We see a lot of problems [laughs] in our corner of the world. The code is opinionated. It's never un-opinionated. It's just whether it's intentionally designed to be prosocial, in which case it's like the intentional designs of public parks, museums, academic campus, even a town hall.
 
-It takes a lot of acoustic design, a lot of architecture to make it conductive to a pro-social gathering, but what happens in many nearby jurisdictions is that people are using something that's designed to like a nightclub. Deliberately to be loud music, addictive drinks, private bouncers, a lot of noise, literally a loud noise, where people have to shout to get heard, and so on.
+It takes a lot of acoustic design, a lot of architecture to make it conducive to a pro-social gathering, but what happens in many nearby jurisdictions is that people are using something that's designed to like a nightclub. Deliberately to be loud music, addictive drinks, private bouncers, a lot of noise, literally a loud noise, where people have to shout to get heard, and so on.
 
 People try to use that as a town hall. That never works just as we wouldn't host an analog face-to-face Town Hall in the local nightlife district. I'm not saying that we should ban the nightlife district. It's a place for a nightlife district. It's just not public deliberation.
 
@@ -324,7 +324,7 @@ That makes sure that this can accurately reflect the citizens, which...That's al
 Can I come back to the horizontal minister thing? I love that phrase. Can you define horizontal minister versus, is it, vertical minister?
 
 ### Audrey Tang:
-Sure, also known as "minister at large" or "minster without portfolio", but please don't call me The Right Honorable -- that's a British thing.
+Sure, also known as "minister at large" or "minister without portfolio", but please don't call me The Right Honorable -- that's a British thing.
 
 > (laughter)
 
@@ -444,7 +444,7 @@ They also need to offer OpenAPI, so that the next generation of technologists do
 
 That's because the systems are designed like Lego blocks to be API first. That's what enabled what you said, the newer generation of technologists, to think that it's quite inviting for them to join. They do not have to, I don't know, relearn COBO, or to [laughs] rewrite certain Fortran programs [laughs] to deploy DB2, or whatever.
 
-These bedrock technologies are still there. They're still functioning, but they are now speaking open API and interacting in a way that's much more conductive to connecting people to people, not just the old ways of connecting machines to machines.
+These bedrock technologies are still there. They're still functioning, but they are now speaking open API and interacting in a way that's much more conducive to connecting people to people, not just the old ways of connecting machines to machines.
 
 That's the direction of digitalization and that's how our procurement, even reverse procurement, like the social sector build applications that we need to provide a reliable real-time API that doesn't need public-service review before each batch of publishing. Published upon collection.
 

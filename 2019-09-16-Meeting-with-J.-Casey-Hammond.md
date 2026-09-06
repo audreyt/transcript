@@ -124,7 +124,7 @@ Thank you for helping to develop that curriculum.
 In order to change the way people think, you need to reframe their understanding of connections.
 
 ### J. Casey Hammond:
-At the OFF last year I said, “You know, Taiwan and Indonesia are the two brightest spots for democracy in Southeast Asia, so they are where human rights will probably be best protected, and this commmonality could be better recognized.”
+At the OFF last year I said, “You know, Taiwan and Indonesia are the two brightest spots for democracy in Southeast Asia, so they are where human rights will probably be best protected, and this commonality could be better recognized.”
 
 ### J. Casey Hammond:
 I said, “In April of 2019, Indonesia will have a presidential election. In January of 2020, Taiwan will have a presidential election.

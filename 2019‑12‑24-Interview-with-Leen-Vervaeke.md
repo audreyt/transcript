@@ -136,7 +136,7 @@ For example, there was a rumor that said perming your hair would be subject to o
 “What we have done is introduce a labeling requirement for hair products starting in 2021. Premier as he looks now, since if you keep perming your hair many time a week, it will not damage your pocket. It will damage your hair. When serious, you may look up. You look like me.”
 
 ### Audrey Tang：
-It’ s humor, because he makes fun of himself, not other people. This goes viral, much more viral than the original disinformation. It serves as an inoculation.
+It’s humor, because he makes fun of himself, not other people. This goes viral, much more viral than the original disinformation. It serves as an inoculation.
 
 ### Leen Vervaeke：
 It also goes much more viral than just…

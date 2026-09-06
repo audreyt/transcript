@@ -47,7 +47,7 @@ No, because in the 10 days, the trick is that you can take away anything that yo
 I can see overall it’s very useful so long as people don’t suddenly refuse to do it. \[laughs\]
 
 ### Audrey Tang:
-No, the thing is that the public service before this mechanism, the minister take all the credit. If things go wrong, then they take the blame. It’s not very conductive to innovation, but now with this mechanism, they always get the credit because the journalist can see who exactly came up with this decision and I take all the blame if things goes wrong.
+No, the thing is that the public service before this mechanism, the minister take all the credit. If things go wrong, then they take the blame. It’s not very conducive to innovation, but now with this mechanism, they always get the credit because the journalist can see who exactly came up with this decision and I take all the blame if things goes wrong.
 
 > (laughter)
 
@@ -112,7 +112,7 @@ In many cases, they’re the data stewards themselves asking for people to impro
 What we have witnessed is that there’s a lot of lower level or mid level public servants actually working with the data partners to provide such proposals. Because A, there’s no risk for them if it doesn’t work out. They actually get, because of the presidential promise, a better working pipeline if it does work out. There’s no downside and all upside for them.
 
 ### Audrey Tang:
-This year, we’re using quadratic voting. That is a new voting method invented by the blockchain people, VitalikButerin and friends. When we have that hundreds or so cases, and each one will get a number of votes, but the votes is quadratic in the sense that if you vote three votes, you have to spend nine points. When you have 100 points, you can devote 10 of them into a vote.
+This year, we’re using quadratic voting. That is a new voting method invented by the blockchain people, Vitalik Buterin and friends. When we have that hundreds or so cases, and each one will get a number of votes, but the votes is quadratic in the sense that if you vote three votes, you have to spend nine points. When you have 100 points, you can devote 10 of them into a vote.
 
 ### Audrey Tang:
 People are highly encouraged to swap votes so that you can get 7 votes on both cases with 2 points to spare because 100 divided by 2 is 50 50, then that means 7 and 7 on two cases. What we’re doing here is rewarding people to trade their votes and to suss out the potential partnerships across those petitions.
@@ -253,7 +253,7 @@ Just like if the government procures something and people with disabilities cann
 Basically, if the vendor says, &quot;This is for human only but we cannot provide API for all its data functions,&quot; then the vendor can be disqualified for being unprofessional. If they say, &quot;I have to charge you five times because of that,&quot; they could also be disqualified as unprofessional. We, basically, solve that on a procurement level.
 
 ### Mike Short:
-Can some of these data stools ingest data from the private sector or is it public data only?
+Can some of these data tools ingest data from the private sector or is it public data only?
 
 ### Audrey Tang:
 They do. One of the primary examples we have here is the civil IoT system. The civil IoT system is notable because when we talk about civil IoT, it’s really data from everywhere -- industry, the general public, the academic institution.
@@ -394,7 +394,7 @@ What will look really good maybe five years down the road, is that a lot of budg
 How much business buy in, is that it’s so much a business is helping you? Are they sponsoring schemes?
 
 ### Audrey Tang:
-Yeah, very much so. Truth to be told, really, the social and private sector really lead to this. We’re really just ratifying what they have always been doing. The background is that because, in Taiwan, the Marshall Law was lifted in the late ’80s by the presidential election of ’96.
+Yeah, very much so. Truth to be told, really, the social and private sector really lead to this. We’re really just ratifying what they have always been doing. The background is that because, in Taiwan, the Martial Law was lifted in the late ’80s by the presidential election of ’96.
 
 ### Audrey Tang:
 There’s a decade where the social and private sector gets to accumulate legitimacy before the first presidential election. For now, for cases like this, if there’s a disaster, or if there’s an earthquake or whatever, if city, publish a number and the government published another one, people tend to believe the Citizens Association’s number. \[laughs\]
@@ -606,7 +606,7 @@ Yeah. There’s a two level answer to this. If you look at, for example, the Pre
 That means that they do have a stake in getting the SDG message out, or at least sustainable infrastructure message out. That’s two levels. One is that, because in Taiwan we’re choosing this as a brand, in the sense that this open innovation is not a colonizing innovation.
 
 ### Audrey Tang:
-It’s a co creative relationship with whatever foreign markets and so on. It serves as good bilateral for social good and not exploitative marking, which is what every ministry is behind also.
+It’s a co creative relationship with whatever foreign markets and so on. It serves as good bilateral for social good and not exploitative marketing, which is what every ministry is behind also.
 
 ### Audrey Tang:
 Also, it recruits more people into the ministry’s mission. The young people here, when they partake in something, they ask for the meaning in this. They’re not just doing...
@@ -972,7 +972,7 @@ That’s right.
 How much more are you doing on social media now as a government? Have you really stepped that up?
 
 ### Audrey Tang:
-Very much so. Our premier basically is making cute videos literally every day now, \[laughs\] and very interesting. They’re designed for mobile phone users who are set on mute, so every frame as the really large fonts that jumps to your face. \[laughs\] The thing is it’s really good.
+Very much so. Our premier basically is making cute videos literally every day now, \[laughs\] and very interesting. They’re designed for mobile phone users who are set on mute, so every frame has the really large fonts that jumps to your face. \[laughs\] The thing is it’s really good.
 
 ### Audrey Tang:
 I had to redo my style of communication because of the premier’s example. My Twitter posts now look like this, and you don’t have to turn on sound to see what I’m talking about. I’m talking about the fifth anniversary of Sunflower Movement. All the archives are being put into National Museum of History. We’re doing a show on post war social movement in Taiwan commemorating this.
@@ -984,7 +984,7 @@ It’s really stepped up, and we’re also making very intentional response vide
 Your premier is putting stuff out on Facebook?
 
 ### Audrey Tang:
-Facebook, Twitter, YouTube, and LINE. It’s multimodal, you see. \[laughs\] I think the president’s YouTube channel gets really popular now because she’s collaborating with popular You Tubers, like YouTube personalities. There’s a really close relationship to the most prominent YouTubers, easily in the millions of views.
+Facebook, Twitter, YouTube, and LINE. It’s multimodal, you see. \[laughs\] I think the president’s YouTube channel gets really popular now because she’s collaborating with popular YouTubers, like YouTube personalities. There’s a really close relationship to the most prominent YouTubers, easily in the millions of views.
 
 ### Andy Pittam:
 I really hope that Twitter takes off in Taiwan. Despite Audrey’s excellent efforts, unfortunately, it’s all about Facebook here.
@@ -1017,7 +1017,7 @@ Facebook in the UK is more f the oldies, in their 30s.
 Yeah, it’s the same here.
 
 ### Audrey Tang:
-That’s right. Yeah, I think it’s because of the cross pollination of the multimodel, you know, communication. We’re not all shooting like square videos and things like that because, really, it doesn’t...It has a real advantage in that whether it’s portrait or landscape mode, it reads equally well. We’re amping up the social media.
+That’s right. Yeah, I think it’s because of the cross pollination of the multimodal, you know, communication. We’re not all shooting like square videos and things like that because, really, it doesn’t...It has a real advantage in that whether it’s portrait or landscape mode, it reads equally well. We’re amping up the social media.
 
 ### Mike Short:
 Well, look advanced to me...I think...
@@ -1038,7 +1038,7 @@ Since the election.
 The government’s use of social media. The sense was the message wasn’t getting out there enough.
 
 ### Audrey Tang:
-Right, and also I think that one part of the reason is not just the election but also the response cycle. Previously, we count in terms of working days, like, one working day or two working day, and when the new premiere came, he said, &quot;No, it’s calendar days. It’s actually calendar hours.&quot;
+Right, and also I think that one part of the reason is not just the election but also the response cycle. Previously, we count in terms of working days, like, one working day or two working day, and when the new premier came, he said, &quot;No, it’s calendar days. It’s actually calendar hours.&quot;
 
 ### Audrey Tang:
 Each ministry is pressured to respond and counts the calendar hours that sends a kind of major misinformation phenomenon versus this kind of video. Now they start at six hours but the better ministries are now at three hours or two hours.

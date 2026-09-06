@@ -97,7 +97,7 @@ Yes.
 Regional I meant \[inaudible 6:59\] more or less problem, but now we have a global problem. You do have the experience. You just cannot really share it with WHO.
 
 ### Audrey Tang:
-I personally, I’m mostly sad because in Taiwan we figured out what was really happening quiet early on and set up the central epidemic command center even before we had the first local case. Because of that, we already played the SARS playback from the beginning of it January and sent experts to Wuhan to investigate.
+I personally, I’m mostly sad because in Taiwan we figured out what was really happening quite early on and set up the central epidemic command center even before we had the first local case. Because of that, we already played the SARS playbook from the beginning of it January and sent experts to Wuhan to investigate.
 
 ### Audrey Tang:
 Even amidst all those actions 14th of January last year, WHO was still saying that there is, “no clear evidence of human to human transmission of the novel coronavirus.” Had we had ministerial access to other countries, health ministers, we would probably save a lot of time and a lot of lives. It would save at least 10 days of time.
@@ -142,7 +142,7 @@ Whenever people see anything like a rural-urban distribution, inequality or the 
 We do take that to effect and say, “Sorry, we didn’t think of that. Let’s implement that next Thursday.” Keep doing these weekly iterations, apologizing if necessary. Last February, early February for example we used to sign in well-ventilated metros for healthy people.
 
 ### Audrey Tang:
-You do not need to wear medical grade mask because we were afraid that we’ll run out of mask. The people will have none of it. They criticized the CECC and keep on wearing the masks anyway. We say just two days afterwards, “We’re sorry and we’re ramping out the production from two million a day to now 20 million a day of medical grade mask.”
+You do not need to wear medical grade mask because we were afraid that we’ll run out of mask. The people will have none of it. They criticized the CECC and keep on wearing the masks anyway. We say just two days afterwards, “We’re sorry and we’re ramping up the production from two million a day to now 20 million a day of medical grade mask.”
 
 ### Audrey Tang:
 By swiftly apologizing and showing competency of fast iteration and implementing people’s ideas, we earned trust by merit, I guess.
@@ -205,7 +205,7 @@ That’s right. Also, 20 years ago we didn’t have broadband as a human right b
 Otherwise, it’s my fault personally. Because of that we can make sure that this is democratic as in it’s not leaving parts of the population behind by bringing everybody onboard.
 
 ### Nagy Gábor:
-It’s a little bit of a science fiction, but I’d like to go back to the idea of open government. How open could it be? Because when I was in Sweden in ‘94 when they were preparing to join the EU, I was told that any Swede can go to the prime minister’s officer and read the letters.
+It’s a little bit of a science fiction, but I’d like to go back to the idea of open government. How open could it be? Because when I was in Sweden in ‘94 when they were preparing to join the EU, I was told that any Swede can go to the prime minister’s office and read the letters.
 
 ### Nagy Gábor:
 It was quite unique learning that in the mid ‘90s. He or she can learn the letters except for the secrets. Where are the limits of the open government in Taiwan? You cannot of course be very open about the strategy against the pressure of Beijing. The part of…
@@ -403,7 +403,7 @@ Of course, I guess it is possible for Taiwan to export our model to other parts 
 There’s many other successes around the world that showed if the government is responsive enough and with sufficient agenda-setting power, people do understand the difference between the entertainment part and the public as a decisions part.
 
 ### Nagy Gábor:
-Fake news, the real news and the conspiracy theories run the real theories. It should be important to teach people to differentiate between those two kinds of things. Right now as we could see in America, you have equal chambers, you don’t really have another kind of opinions.
+Fake news, the real news and the conspiracy theories run the real theories. It should be important to teach people to differentiate between those two kinds of things. Right now as we could see in America, you have echo chambers, you don’t really have another kind of opinions.
 
 ### Nagy Gábor:
 You do see a role for the government in making a difference between fake news, real news, conspiracy theories and the reality. It leads through the open government, the digital infrastructure and the digital participatory democracy. If I…

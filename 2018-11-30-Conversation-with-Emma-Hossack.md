@@ -323,7 +323,7 @@ That’s what I’ve been doing for 10 years.
 Awesome.
 
 ### Emma Hossack:
-In Australia only. Asia has always frightened me a little bit. IP wise, I was frightened of China, when we had things like that. My experience in India, that would be fantastic. I worked a little bit the George Global Institute for Health in Sidney. We’ve done a trial there.
+In Australia only. Asia has always frightened me a little bit. IP wise, I was frightened of China, when we had things like that. My experience in India, that would be fantastic. I worked a little bit the George Global Institute for Health in Sydney. We’ve done a trial there.
 
 ### Emma Hossack:
 Also, with Monash University, we did a really interesting AIDS trial. People who have had AIDS and got chronic disease as a result. They got all of these multiple chronic disabilities and they need to manage them, so they use our system to manage that.
@@ -808,7 +808,7 @@ It’s such a pity because it’s a good idea of having all of government digita
 Thank you. Very nice seeing you.
 
 ### Eliza Chui:
-Good to you see you.
+Good to see you.
 
 ### Audrey Tang:
 Very good to see you. Cheers.

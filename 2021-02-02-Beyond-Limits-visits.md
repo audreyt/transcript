@@ -414,7 +414,7 @@ Sometimes that Taipei City also have a small city office. It’s a project manag
 Any preference in terms of whether there’s any particular preference for working with domestic companies rather than international companies like…?
 
 ### Audrey Tang:
-Well, I don’t think there is a clear heuristic whether to work with domestics startups or oversea startups. It all depends on how viable or scalable the solution is. If it’s catering to one particular county and has very little likelihood to scale out, then if I am a mayor, I would prefer to work with local startups and retain the talents here.
+Well, I don’t think there is a clear heuristic whether to work with domestic startups or oversea startups. It all depends on how viable or scalable the solution is. If it’s catering to one particular county and has very little likelihood to scale out, then if I am a mayor, I would prefer to work with local startups and retain the talents here.
 
 ### Audrey Tang:
 On the other hand, this is just like a pilot run. The model it generates has a high possibility to extend to the world, then some sort of connection to international community will have belonged.

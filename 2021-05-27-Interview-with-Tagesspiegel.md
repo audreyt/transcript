@@ -107,7 +107,7 @@ What I'm trying to do here is to show that if, for example, the judicial branch 
 
 If all people's access to the judicial court is not by participation but only by the done deals of the judgments and so on, then it's impossible to learn together and not easy to be an informed jury. Getting people to feel familiar with the context of policymaking, the how of policymaking, is my main goal. You can call it pedagogical.
 
-I'm not saying that all the missile basis, or under sea submarines or whatever need to publish its GPS coordinates on open data website. That's not what I'm advocating for.
+I'm not saying that all the missile bases, or under sea submarines or whatever need to publish its GPS coordinates on open data website. That's not what I'm advocating for.
 
 ### Jan Oberländer:
 You once said that your approach is a reaction to China's approach to make the citizens transparent...
@@ -207,7 +207,7 @@ Not at the moment. We're at a level of three, which means it's not a lockdown, b
 
 Three days, I work in the Cabinet office, but I've been always doing that for the past five years. It don't count. What was pioneering in 2016 is now the norm in the public service.
 
-We're finally getting a taste of the new normal. Finally, I'm having come on topics to discuss with my international friends. Previously, we've never even had a level three, a lockdown would be level four. At the moment, there's no plan to go to level four.
+We're finally getting a taste of the new normal. Finally, I'm having common topics to discuss with my international friends. Previously, we've never even had a level three, a lockdown would be level four. At the moment, there's no plan to go to level four.
 
 ### Cornelius Dieckmann:
 You said you've always been working from home. Is that where we're catching you right now as well?
@@ -345,7 +345,7 @@ What impulses from citizens have impressed or surprised you the most? Is there a
 ### Audrey Tang:
 A lot. It's all on the record, right, but I'll just highlight a few. For example, there was a visitor to the Social Innovation Lab that said: When we're handing out the stimulus vouchers, it's only done to people who are citizens, but not to residents.
 
-Even though we would later on extend it to people with permanent residence certificate, still, that excludes pretty much all immigrant workers, and this is unlike the mass rationing, which includes the immigrant workers. Well, for very practical public health purposes.
+Even though we would later on extend it to people with permanent residence certificate, still, that excludes pretty much all immigrant workers, and this is unlike the mask rationing, which includes the immigrant workers. Well, for very practical public health purposes.
 
 A German journalist that visited me on social innovation, not just for interview, but for chatting really, who suggested he would like to help with the stimulus voucher design, by allowing people to instead of spending 3,000 NT dollars and get a 2,000 cash back, which was the original design, he would like to just enter the donation code for one of the immigrant workers helper group so that he would spent 3,000 NT dollars and then the state donates to the immigrant worker help fund that he appoints to, and then we just changed the code like that, because it was really good idea.
 
@@ -353,7 +353,7 @@ I personally then dedicated to 140, one of the immigrant worker education group,
 
 Then I get visits from other people who are not citizens, but are running into issues with their residential certificates.
 
-Then the website owner of taiwangoldcard.com visited, after heard of the previous story, I'm sure, and talk about how to build a better Gold Card website so that the international community know about it, and during the conversation, I send a poor request, that is to say, I helped the website designed by the gold card holders, and then later on, he would be introduced to the National Development Council.
+Then the website owner of taiwangoldcard.com visited, after heard of the previous story, I'm sure, and talk about how to build a better Gold Card website so that the international community know about it, and during the conversation, I send a pull request, that is to say, I helped the website designed by the gold card holders, and then later on, he would be introduced to the National Development Council.
 
 Actually the gold card if you Google for timecode.com the website now has his contribution, and I also wrote a recommendation letter so that one of his co workers is now a Taiwanese citizen, that is to say, he gained naturalization without abandoning his original passport, and that led to the reform to the rights of the people who held those residential certificate numbers, so they can now enjoy much better access to previously citizen only services.
 
@@ -369,7 +369,7 @@ I wrote them, and they didn't know I was just 14, my English is bad and so on. T
 
 The head of my school, said, "OK, from tomorrow, you don't have to go to school any more. Just do 16 hours of research every day. Why not?" And I'm like, "What about the compulsory education act?" And she's like, "I'll handle for you."
 
-So basically, this says to me, that joining the community where knowledge is being created is a good thing, is ratified by existing career public service and educated as a way to basically say, "Yeah, if the school is not for you, good for you!" And this is like an epiphany moment because had she said, "No, you have to still spend seven hours, eight hours every day in school," there's literally nothing I can do about it. So, it's really a life at changing moment.
+So basically, this says to me, that joining the community where knowledge is being created is a good thing, is ratified by existing career public service and educated as a way to basically say, "Yeah, if the school is not for you, good for you!" And this is like an epiphany moment because had she said, "No, you have to still spend seven hours, eight hours every day in school," there's literally nothing I can do about it. So, it's really a life-changing moment.
 
 ### Jan Oberländer:
 Yeah. OK, but still, it's interesting to read about this. Is it true though, that you started to learn coding with a pen and paper? Because that's counterintuitive for me to hear.
@@ -392,7 +392,7 @@ I would some time play such a game and then just go back to home and just recrea
 Do you remember one specific videogame you recreated?
 
 ### Audrey Tang:
-Many. There was one about teaching fractions. I think that's one of the first programs I wrote where there is a line of numbers — well, two numbers, zero and one — and then random balloons appear on it, and then you would try to find a fraction of that correspond to the balloons position. So you will tie 3/5, and then it will go to this position and slightly missed a balloon, and then you will then guess again.
+Many. There was one about teaching fractions. I think that's one of the first programs I wrote where there is a line of numbers — well, two numbers, zero and one — and then random balloons appear on it, and then you would try to find a fraction of that correspond to the balloons position. So you will type 3/5, and then it will go to this position and slightly missed a balloon, and then you will then guess again.
 
 Maybe you do 4/9 or something like that, and so quickly learn about, for example, 4/8 is the same as 1/2 and such important concepts as fractionals. That's one of the very first games I wrote.
 
@@ -506,7 +506,7 @@ To me, it's a continuity of experience all the way since I was 12 years old and 
 That interface is still with the PTT. It's quite rare that we do have a civic infrastructure in the social sector that is now intergenerationally experienced for 25 years, meaning at least two or three generations of people had common experiences in that particular chat board. That's not something like Reddit or Facebook, can simply say.
 
 ### Jan Oberländer:
-You've described gender identities has being similar to the myriad of languages in the world. Are there any other commonalities in how you view gender and how you view coding? In a sense that you can hack gender?
+You've described gender identities as being similar to the myriad of languages in the world. Are there any other commonalities in how you view gender and how you view coding? In a sense that you can hack gender?
 
 ### Audrey Tang:
 Yeah, I used to come out to the computer science community. The blog title was "Runtime Typecasting." Runtime means not compile time, meaning: after being born. Typecasting means that there's just different social experience, different social scripts that I am happy to experience.
@@ -609,7 +609,7 @@ It was about a China-friendly trade act that people wanted to protest against. N
 Are you worried that because Taiwan is now on the top of that list, that a war could be coming?
 
 ### Audrey Tang:
-I also work with the Hong Kong people, in 2014. Right after our movement, they have this umbrella movement. We're quite tightly connected in personal links and so one. I would say... well, dismantling may be a good description. I'm certainly not contesting that.
+I also work with the Hong Kong people, in 2014. Right after our movement, they have this umbrella movement. We're quite tightly connected in personal links and so on. I would say... well, dismantling may be a good description. I'm certainly not contesting that.
 
 But I would also say the leaderless, "Be Water" countermovement is still going on.
 
@@ -704,11 +704,11 @@ That's like music. It could be vocalized. So thank you. I think the poetician pa
 Speaking of music, I think it was curious that you by all styles of music were part of this extreme metal music, CHTHONIC. Are you a metal fan, except from knowing Freddy personally, is it something...?
 
 ### Audrey Tang:
-No, to be honest, I'm not. But my co founder, Chia-Laing, Kao (高嘉良), his brother worked as a drum player in CHTHONIC, still now after all these years. Back when I was 20, 21, when we're co founding a company, he would just play the music all night long. I was in the next room, which is a safe distance away. [laughs]
+No, to be honest, I'm not. But my co founder, Chia-Liang, Kao (高嘉良), his brother worked as a drum player in CHTHONIC, still now after all these years. Back when I was 20, 21, when we're co founding a company, he would just play the music all night long. I was in the next room, which is a safe distance away. [laughs]
 
 It's slightly less loud when I get to hear in my room, but it's like a theme. It allows us to churn out code all night long without drinking too much caffeine. It's also good for our body in a sense.
 
-Other than CHTONIC, I don't listen to metal. I mostly listened to things like hip hop, rap, or some classical music. I listened to a lot of Leonard Cohen and translated quite a few pieces.
+Other than CHTHONIC, I don't listen to metal. I mostly listened to things like hip hop, rap, or some classical music. I listened to a lot of Leonard Cohen and translated quite a few pieces.
 
 ### Jan Oberländer:
 You listen to it while coding? You get around to coding these days much?
@@ -817,7 +817,7 @@ I know. I know. This went much more... There's nothing wrong about having hair a
 By repackaging this information, this conspiracy theory kind of inactivated mRNA samples in a much funnier payload, this works as a kind of vaccine of the mind or inoculation of the mind. This example to date is still the best example I have because it really relates to people of all different cultural backgrounds.
 
 ### Cornelius Dieckmann:
-Something else that just went viral is the actor John Cena. The American actor John Cena caused an outrage in China, after he had said in an interview that Taiwan was a country. He then posted this video where he, in Mandarin, was basically apologizing profusely and saying, "I've made a lot of mistakes, I have a lot to learn," which then, in turn, provoked the hastag #taiwanisacountry.
+Something else that just went viral is the actor John Cena. The American actor John Cena caused an outrage in China, after he had said in an interview that Taiwan was a country. He then posted this video where he, in Mandarin, was basically apologizing profusely and saying, "I've made a lot of mistakes, I have a lot to learn," which then, in turn, provoked the hashtag #taiwanisacountry.
 
 This type of thing pops up every once in a while – this type of controversy and discussion where a famous figure will do such an alleged misstep? Is that something that frustrates you when it happens?
 
@@ -863,7 +863,7 @@ I've got five minutes, just to check on time. I think they took it with pride. T
 
 That is showing the beauty of trans cultural households. My father's mother was from Lukang and my father's father was from Sichuan, which came to Taiwan around the great retreat. Their marriage was slightly... just a few years, maybe not even a few years — maybe just one year or two — after the February 28 massacre, which was not a great moment for their backgrounds people to get married. My grandma's family even threatened to disown her.
 
-It's specifically because of the tension between the culture communitie did they actually raise their family to be a really inclusive and diversity embracing one because initially they could only compose love letters to one another. Their language don't even match.
+It's specifically because of the tension between the culture communities did they actually raise their family to be a really inclusive and diversity embracing one because initially they could only compose love letters to one another. Their language don't even match.
 
 My father's father definitely didn't speak Japanese, which was their native tongue — one of their native tongues for my father's mother. There's many trans cultural stories in our family. Trans cultural in a sense of gender, trans cultural in a sense of a cross sectoral partnerships. These are just accepted in the family.
 

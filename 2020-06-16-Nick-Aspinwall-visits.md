@@ -280,7 +280,7 @@ In Taiwan, we still have like 20 leaders, but in Hong Kong now, 20,000 leaders. 
 If you keep saying that this comes from Taiwan without people understanding what Taiwan stands for, that doesn’t necessarily translate to better incentive design.
 
 ### Audrey Tang:
-If you just say, “I know a place that managed to fight off the pandemic without a lockdown and fight off the infodemic without a takedown,” these words by itself have the power to convince the social sector, or the fast fear fun, or humor over rumor. For those memes to grow, it’s more important than the brand Made in Taiwan to grow.
+If you just say, “I know a place that managed to fight off the pandemic without a lockdown and fight off the infodemic without a takedown,” these words by itself have the power to convince the social sector, or the fast fair fun, or humor over rumor. For those memes to grow, it’s more important than the brand Made in Taiwan to grow.
 
 ### Nick Aspinwall:
 Is this something that we’ve seen where a community in a decentralized way has adopted this technology in countries? For instance in…
@@ -543,7 +543,7 @@ And the judicial precedents draw the line quite firmly.
 Do you think that there are any lessons that Taiwan took away from those debates, which at times, if we go back to in 2018, there were quite a few proposals to institute harsher fines, harsher penalties against disinformation.
 
 ### Nick Aspinwall:
-At that time, the Thai administration did not have approval ratings that are quite as high as it does now. I think there was a greater bit of societal push back.
+At that time, the Tsai administration did not have approval ratings that are quite as high as it does now. I think there was a greater bit of societal push back.
 
 ### Audrey Tang:
 That was never our goal to instate penalties in order to control the societal order. Even the most harsh people did that specifically to counter state-based propaganda. That’s the often-cited goal, and de facto foreign-state controlled media as well.
@@ -696,7 +696,7 @@ I see.
 Yes.
 
 ### Nick Aspinwall:
-I know that conversation has gained a bit more attraction in Taiwan lately. Since you have been working to open government data to just digitize things, I’d like to ask about Taiwan’s current…Its current policies and data keeping as well, on foreign workers from Southeast Asia in Taiwan?
+I know that conversation has gained a bit more traction in Taiwan lately. Since you have been working to open government data to just digitize things, I’d like to ask about Taiwan’s current…Its current policies and data keeping as well, on foreign workers from Southeast Asia in Taiwan?
 
 ### Audrey Tang:
 Yeah. It’s a real topic.
@@ -730,7 +730,7 @@ That’s right. Right at the same thought where it’s possible to track their s
 I’m basically quite optimistic when it comes to privacy enhancing technologies. Pretty much all, may not be not all, a majority of the cohack winners, of the coronavirus hackathon winners are privacy enhancing technology in one way or another. Something quite advanced the AI labs, for example, who was part of the judge.
 
 ### Audrey Tang:
-Even do as the judge, it’s very much aligned with using the latest in federated learning and fully homomorphic encryption in all those new tools that basically allows for a statistical overview of things with our compromising any individual’s privacy.
+Even do as the judge, it’s very much aligned with using the latest in federated learning and fully homomorphic encryption in all those new tools that basically allows for a statistical overview of things without compromising any individual’s privacy.
 
 ### Audrey Tang:
 Again, where the old generation of big data analytics basically makes a false dichotomy between over collection of data and over protection of personal data, to the detriment social good. Now, we have a new set of technology that again, can build a new axis out of those two seemingly intentional issues.

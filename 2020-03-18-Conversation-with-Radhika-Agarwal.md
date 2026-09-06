@@ -31,7 +31,7 @@ Maybe since you mentioned we have about 40 minutes, I was curious how the work t
 Here, the you is definitely plural. I personally work only 24 hours a day. \[laughs\] There’s a limited amount of hours in a day. Truth to be told the civic tech community has really rose up to the challenge. Just on the pharmacy, mask rationing alone, there’s more than 100 different applications.
 
 ### Audrey Tang:
-There’s voice assistance, there’s chatbox, there’s all sort of different things that quells the fear, uncertainty, and doubt, not only around mass distribution. Of course, as the professional pharmacists are distributing those masks, they also deliver a much-needed education about hand sanitation. All the masks are useless without a good hand sanitation habit and so on.
+There’s voice assistance, there’s chatbox, there’s all sort of different things that quells the fear, uncertainty, and doubt, not only around mask distribution. Of course, as the professional pharmacists are distributing those masks, they also deliver a much-needed education about hand sanitation. All the masks are useless without a good hand sanitation habit and so on.
 
 ### Audrey Tang:
 I think the pedagogy of the teaching the good habits to work around the various inherent limitations of human beings, such as the inability to spot people’s reflex to touch their mouth or the social distancing, it’s all very counterintuitive. It really needs just constant education and interaction opportunities with robots, and with the online knowledge materials, with visualizations, and so on.
@@ -88,7 +88,7 @@ Yeah. That’s true. I can just see the branding now. \[laughs\]
 Suggestions are welcome. It’s like a fast-tracked Presidential Hackathon, where we have two or three weeks of a Polis, which I showed you or at least described last time. It’s about getting the rough consensus of what’s the more pertinent issues to be addressed.
 
 ### Audrey Tang:
-The idea is that we interview maybe five or seven top experts currently working on the CECC, the Center for Epidemic Control, asking if you don’t have any technology or budget constraints, then what is the single tool or the single idea that you think if implemented well, in a rapid fashion, would significantly reduce the RO, or something like that.
+The idea is that we interview maybe five or seven top experts currently working on the CECC, the Center for Epidemic Control, asking if you don’t have any technology or budget constraints, then what is the single tool or the single idea that you think if implemented well, in a rapid fashion, would significantly reduce the R0, or something like that.
 
 ### Audrey Tang:
 We get those five or seven ideas online, we ask people to upload or download them, and if you are a frontline medical worker and you have a better idea to be implemented, then you can just contribute. After two weeks or three, we will have a rough consensus on what is the most legit innovations that is interesting during this coronavirus session.
@@ -112,7 +112,7 @@ That means the government is the top aggregator of all the conceptual data, whic
 It’s different.
 
 ### Audrey Tang:
-Or of course, each individual vendors can agree on a data exchange format, so that you send requests separably to dozens of us, and that only gets you back a hash or something, and then you compute the hash yourself offline. That’s the second model. Or people can voluntarily join a mutual or collaborative, and people joining that data union or something like that.
+Or of course, each individual vendors can agree on a data exchange format, so that you send requests separately to dozens of us, and that only gets you back a hash or something, and then you compute the hash yourself offline. That’s the second model. Or people can voluntarily join a mutual or collaborative, and people joining that data union or something like that.
 
 ### Audrey Tang:
 We talked a little bit about that before. We’ll willingly share their private movement information, but only with people in the same cooperative, or in the same family, and so on. That’s a social sector perspective. Of course, the first one is more constitutionally troubling. The second one is slightly better. The third one, of course, can even be run in normal times.
@@ -136,7 +136,7 @@ It sounds like you guys are very open to that. I was hoping just to chat about w
 Our office is pretty well connected because the initial founders came already, I think I mentioned that before, abroad from the design community. We currently have two colleagues in UK, and also quite a few international visiting researchers as well over the years.
 
 ### Audrey Tang:
-With Singapore actually, Singapore GovTech, we connected very early on, both on law and consultation. Actually, they also develop a mass rationing system online. We learned copiously from their design and experience. We didn’t reuse any code, but it was an early inspiration. I think on the GovTech front, we’re very well connected.
+With Singapore actually, Singapore GovTech, we connected very early on, both on law and consultation. Actually, they also develop a mask rationing system online. We learned copiously from their design and experience. We didn’t reuse any code, but it was an early inspiration. I think on the GovTech front, we’re very well connected.
 
 ### Audrey Tang:
 Now, wearing my other hat, the civic tech front, I think the g0v community is already very international. They have a dedicated English channel and even Japanese channel, with automated translations and things like that. If you joined g0v Slack, that’s join.g0v.tw, then you’ll find plenty of people who don’t speak Mandarin.
@@ -220,7 +220,7 @@ What are some of the other communities? I know you mentioned the Singapore GovTe
 There is not so much a design thing, unless you consider participatory mechanism design as design, which I guess is design. It’s the RadicalxChange community which does the Singapore chapter. It is mostly about a set of labs that use mechanism design, the idea to, for example, rethink how taxation works, rethink how spectrum allocation works, and so on.
 
 ### Audrey Tang:
-It’s more wider swathe, broader swathe design, but because there’s a strong link between the RadicalxChange community and the Ethereum community, most of the too-crazy-to-be-realized designs ends up realized in Ethereum anyway as GetCoins and so on. That’s another community that I am personally interested in, but it’s less related to my day job.
+It’s more wider swathe, broader swathe design, but because there’s a strong link between the RadicalxChange community and the Ethereum community, most of the too-crazy-to-be-realized designs ends up realized in Ethereum anyway as Gitcoin and so on. That’s another community that I am personally interested in, but it’s less related to my day job.
 
 ### Radhika Agarwal:
 That sounds good, just open up the website. That sounds really interesting. It sounds good. Then there’s another…I was wondering…Let me see if I can find it. I think in the US, there was also another design lab called, I think, the GovLab in New York. I was wondering if you know anything about that lab, the work they do.
@@ -232,7 +232,7 @@ I’m on their international advisory board, so I know something about it. We co
 That’s the two endeavors in GovLab that I’m more connected to. There’s other parts around innovation labs and so on that I’m still maybe being interviewed or building connections, but CrowdLaw folks and Data Collaborative folks, we have pretty close relationship.
 
 ### Audrey Tang:
-When I visited Beth Novak, we had a public conversation together talking about how vTaiwan works, but also about how to merge vTaiwan into their playbook. This is the interview in the CrowdLaw Playbook. Here is the Beth Novak conversation. It’s a public event that I had when we get interviewed, kind of we co-interviewed each other when I visited New York.
+When I visited Beth Noveck, we had a public conversation together talking about how vTaiwan works, but also about how to merge vTaiwan into their playbook. This is the interview in the CrowdLaw Playbook. Here is the Beth Noveck conversation. It’s a public event that I had when we get interviewed, kind of we co-interviewed each other when I visited New York.
 
 ### Radhika Agarwal:
 That’s great. In terms of some of the work that you’re doing aside from your day job, Audrey, what’s most exciting for you right now with all of the extra time that you currently have?

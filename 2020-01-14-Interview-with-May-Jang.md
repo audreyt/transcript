@@ -132,7 +132,7 @@ Yes.
 It’s happening as well. I heard some presentations from fellows in IF, as well. They are making some digital tools for education or for game purpose and so on to educate. They are worried about some people who don’t have computers or who don’t have Internet connections and so on.
 
 ### May Jang:
-If technologists want to make this kind of Excel or spreadsheet, like Dan Bricklin, but what if there are someones who are not getting benefit for many reasons. You don’t have all of the solutions but I just wondsered. There are some people like that, for sure.
+If technologists want to make this kind of Excel or spreadsheet, like Dan Bricklin, but what if there are someones who are not getting benefit for many reasons. You don’t have all of the solutions but I just wondered. There are some people like that, for sure.
 
 ### Audrey Tang:
 All of the UN members, nations, agreed that by this year, there should be universal access to information and communication technology, specifically to computation devices like mobile phone, and communication infrastructure such as mobile wireless, fiber optics, or cable, whatever, satellite.

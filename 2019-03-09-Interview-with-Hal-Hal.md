@@ -412,7 +412,7 @@ Sometimes the people who are computer scientists, they publish their paper with 
 > (laughter)
 
 ### Audrey Tang:
-It takes many years for a new social science insight to be turned into social technology. I think whatever social technology we’re using, it could be the focus conversation method. It could be the open space technology, it could be non-violent communication, dynamic facilitation. All these are social technologists.
+It takes many years for a new social science insight to be turned into social technology. I think whatever social technology we’re using, it could be the focus conversation method. It could be the open space technology, it could be non-violent communication, dynamic facilitation. All these are social technologies.
 
 ### Audrey Tang:
 If we involve more social technologists and social scientists in our community, then we can theorize faster. I think we really benefited in the early days in open-source because we have anthropologists like Eric Raymond and social scientists, Clay Shirky, Larry Ward the one developing the theory of open-source while they are practicing the technology of open-source.

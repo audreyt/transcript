@@ -61,7 +61,7 @@ How do you tackle this? I mean, what is your overriding strategy for tackling th
 
 I suppose, when it comes to disinformation, the height of the disinformation campaigns was during 2018-2019.
 
-Leading up to our Presidential election January 2020 we have adopted two strategies. One is called "notice and public notice," which means instead of taking anything down, when we noticed that there were, for example, a trending rumor that's going viral about painting the protesters from Hong Kong as "rioters that have been paid 20 million to murder the police," all these of course are not taken down but we work with independent fact checkers, like Tawan Fact Checking Center and so on, members of the International Fact-Checking Network, to trace the origin of that alternate caption.
+Leading up to our Presidential election January 2020 we have adopted two strategies. One is called "notice and public notice," which means instead of taking anything down, when we noticed that there were, for example, a trending rumor that's going viral about painting the protesters from Hong Kong as "rioters that have been paid 20 million to murder the police," all these of course are not taken down but we work with independent fact checkers, like Taiwan Fact Checking Center and so on, members of the International Fact-Checking Network, to trace the origin of that alternate caption.
 
 We soon discovered, by the independent journalists, that the photo was real and it was a Reuters photo, but the original Reuters caption said nothing about being paid or murdering police; it just said there were young protesters in Hong Kong.
 

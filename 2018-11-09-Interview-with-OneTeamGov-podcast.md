@@ -64,7 +64,7 @@ Excellent. We are at the Forward 50 Conference here in Ottawa. It’s snowing ou
 It’s really, really good. For this visit we first stopped by in Toronto and held a two-day workshop -- with people from the Ontario government, the civic tech people in Toronto, Toronto city government, civil society organizations -- on the vTaiwan method and the open government approach that we take in Taiwan.
 
 ### Audrey Tang:
-We chose a topic that’s common to Taiwan and Ontario, which is ride-sharing. Uber, Lift, and taxis, and how we can work with different sectors and make the transportation better in a way that’s more fair and accessible to people.
+We chose a topic that’s common to Taiwan and Ontario, which is ride-sharing. Uber, Lyft, and taxis, and how we can work with different sectors and make the transportation better in a way that’s more fair and accessible to people.
 
 ### Audrey Tang:
 The workshop went really well because we noticed that people sitting next to their kins. The first thing that we did at workshop is to say, &quot;If you know anyone from your table, you have to move to another table.&quot; \[laughs\] It is a very mixed audience in each table.
@@ -109,7 +109,7 @@ I really enjoyed working in the open source community with the aim towards softw
 We really bootstrapped that ecosystem back around the turn of the century in Taiwan, and I founded quite a few social enterprises toward that period. Finally, we landed on what we call OpenFoundry, which is a state-sponsored open source collaboration.
 
 ### Audrey Tang:
-It’s a kind of pre-GitHub. Then we developed a lot of distributed version control systems to enable cool requests like workflows.
+It’s a kind of pre-GitHub. Then we developed a lot of distributed version control systems to enable pull requests like workflows.
 
 ### Audrey Tang:
 When I did the Perl 6 implementation called Pugs, I did this thing called radical trust, where anyone who complained anything about our language, about our way of implementing the language automatically got a commit bit, meaning that they can write directly to the repository.
@@ -406,10 +406,10 @@ Great. Finally, a charity or an enterprise social that you could recommend?
 I’m going to recommend Mozilla Corporation. Mozilla Corporation, we closely partner with them to deliver the indigenous languages automatic translation, voice recognition, and so on through the Common Voice Project.
 
 ### Audrey Tang:
-After returning to Taiwan, next week, actually, I’m going to read aloud two hours of corpus into the Common Voice so that people can recognize that it’s possible to donate different accents to different dialects, different languages of Taiwan and have the AI system not forcing anyone to speak perfect Mandarin or perfect Hakka or perfect Holog.
+After returning to Taiwan, next week, actually, I’m going to read aloud two hours of corpus into the Common Voice so that people can recognize that it’s possible to donate different accents to different dialects, different languages of Taiwan and have the AI system not forcing anyone to speak perfect Mandarin or perfect Hakka or perfect Holo.
 
 ### Audrey Tang:
-And still be able to converse in their native way with the AI-assisted speech system. Everything is donated in the Creative Common Zero, which means that it’s in the public domain. Everybody can use it, including the Alexas and Siris of the world. \[laughs\]
+And still be able to converse in their native way with the AI-assisted speech system. Everything is donated in the Creative Commons Zero, which means that it’s in the public domain. Everybody can use it, including the Alexas and Siris of the world. \[laughs\]
 
 ### Audrey Tang:
 I think it’s a good innovation, and it’s brainstormed and designed in Taiwan. I’m very proud that Mozilla Corporation can work with Taiwan in this way. All the earnings of that corporation goes back to the Mozilla Foundation anyway.

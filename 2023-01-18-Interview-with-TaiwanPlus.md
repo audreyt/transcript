@@ -99,7 +99,7 @@ Whether they're interested in design or coding or anything that can be delivered
 ### Yin Khvat:
 Thank you, minister. Back to Lithuania. The Baltic country and Taiwan are expected to sign an agreement to develop chip technology and bolster Lithuania's semiconductor industry.
 
-The project between Lithuania's Teltonika IoT Group and Taiwan's Industrial Technology Research Institute could see the cofounding of a new chip fab is part of a deal announced in November 2022 and a Taiwanese investment in Lithuanians chip industry with $10 million.
+The project between Lithuania's Teltonika IoT Group and Taiwan's Industrial Technology Research Institute could see the cofounding of a new chip fab is part of a deal announced in November 2022 and a Taiwanese investment in Lithuania's chip industry with $10 million.
 
 Taiwanese government says its aims are to strengthen the resilience of the democratic supply chain in the face of coercion by autocracies. Earlier this year, Taiwan launched a $200 million equity investment fund and a one billion dollar loan facility for Lithuania, and other Central and Eastern European countries.
 
@@ -158,7 +158,7 @@ The E-residency idea transcends borders and it allows us to in addition of signi
 Which services do you think you will make use of? [laughs]
 
 ### Audrey Tang:
-Maybe not starting a company because I'm still a public servant, but simply signing documents, because previously, we have in Taiwan pretty good electronics signing capabilities. All my official documents could be electronically signed. In Lithuania too, they're tax filing for personal tax like Taiwan also take a couple of minutes.
+Maybe not starting a company because I'm still a public servant, but simply signing documents, because previously, we have in Taiwan pretty good electronic signing capabilities. All my official documents could be electronically signed. In Lithuania too, their tax filing for personal tax like Taiwan also take a couple of minutes.
 
 Their official documents are all electronically signed and verified. Across these two jurisdictions, most of the actual documents as exchanged are still based on paper, because we don't yet cross-recognize each other's electronic signatures in many critical commercial transactions.
 

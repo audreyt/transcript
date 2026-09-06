@@ -95,7 +95,7 @@ Then the impact of that in financial inclusion...We gather data and we do analys
 As a research center, by far the largest scale of research in that empirical analysis, that’s led to a joint venture with the World Bank, which is very focused on financial inclusion. All those data sets become available next quarter in a joint website that researchers can download.
 
 ### Robert Wardrop:
-Another very focused research area around alternative payment systems and tokenizer cryptoassets, and then a lot of work in regulatory innovation.
+Another very focused research area around alternative payment systems and tokenized cryptoassets, and then a lot of work in regulatory innovation.
 
 ### Robert Wardrop:
 Some of the stuff I talked about today was drawn from a report we just finished for the United Nations...it’s a long -- UNSGSA, which is United Nations Secretary-General Special Advocate for Inclusive Development, which is Queen Maxima’s group.
@@ -285,7 +285,7 @@ It’s emerging so rapidly, there aren’t formalized structures collecting this
 Right, and now also with assistive intelligence or AIs.
 
 ### Kieran James Garvey:
-I think what’s interesting with looking at this from the regulatory side, something that I’m really keen to explore in 2019 is how we can use the same types of techniques for entity mapping to see who’s in the market, looking at, say, a techonomy of different activities.
+I think what’s interesting with looking at this from the regulatory side, something that I’m really keen to explore in 2019 is how we can use the same types of techniques for entity mapping to see who’s in the market, looking at, say, a taxonomy of different activities.
 
 ### Kieran James Garvey:
 Assuming that business wants to describe what it does on its website, you can use that language and then categorize them into the different activities.

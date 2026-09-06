@@ -146,7 +146,7 @@ Your idea is that this, which is usually called digital transformation, is not j
 How to build a relationship that sees the customers not as consumers, but as partners in the common good, is something that is opened up by the possibility of a service-based economy. However, this maximizes the public value, while this still optimizing the shareholder value.
 
 ### Audrey Tang:
-Those two values may sometimes conflict, and that creates attention that did not exist in the previous product-based era. Is that understanding correct?
+Those two values may sometimes conflict, and that creates tension that did not exist in the previous product-based era. Is that understanding correct?
 
 ### Atsushi Osanai:
 Yeah.
@@ -172,7 +172,7 @@ Excellent point. Anyone else?
 Our services has got to make it to business sometimes. We didn’t make that situation where it’s easy, but to make that practical, that situation, is sometimes difficult.
 
 ### Audrey Tang:
-Service is something that everybody wants a little bit differently, so it scales deeply, but not widely. Hardware is easy to scale widely, but maybe not that easy to scale deeply. These two much complement each other and mix, instead of just using one to dominate the other.
+Service is something that everybody wants a little bit differently, so it scales deeply, but not widely. Hardware is easy to scale widely, but maybe not that easy to scale deeply. These two must complement each other and mix, instead of just using one to dominate the other.
 
 ### Audrey Tang:
 This, I totally agree. Thank you for the point. Anyone else?
@@ -196,7 +196,7 @@ You think that, if the company or the management of that organization concentrat
 The other way around, too, so it seems like a zero-sum or a tradeoff that one need to make. It’s a tradeoff relationship. This is also an excellent observation. Indeed, many Taiwan people split the organizations into profit organizations, companies, and nonprofit organizations or charities, NPOs.
 
 ### Audrey Tang:
-They know nothing about cooperates, \[laughs\] which is sometime in between. How to make this in between not something that is forced to go one way or the other is our main challenge here as well. Thank you raising this point. Anyone else?
+They know nothing about cooperatives, \[laughs\] which is sometime in between. How to make this in between not something that is forced to go one way or the other is our main challenge here as well. Thank you raising this point. Anyone else?
 
 > (pause)
 
@@ -236,7 +236,7 @@ By inventing an index that joins peoples’ ideas together, even when people don
 We must have, in our mind, an image of the other people we are working with. In the digital transformation era, we can collaborate. Meaning I don’t know you, and you don’t know her, but we use the same hashtag.
 
 ### Audrey Tang:
-We can say hashtag, I don’t know, MeToo, or #ClimateStrike. With the raise of the SNS, the social networking services, sometimes, people first see the hashtag, and then they start working together, before they meet.
+We can say hashtag, I don’t know, MeToo, or #ClimateStrike. With the rise of the SNS, the social networking services, sometimes, people first see the hashtag, and then they start working together, before they meet.
 
 ### Audrey Tang:
 Sometimes, they never meet, but they still use crowdfunding and crowdsourcing, reach great things together. That is how the common good can make itself seen in the digital era. Before, the common good can only be seen among people who already know each other somewhat.
@@ -248,7 +248,7 @@ Now, the common good can be manifested just by looking at trending hashtag on SN
 Digital Minister means 17.18, making sure that everybody’s data is trusted by everybody else, using distributed ledger and other technologies. It means 17.17, by making sure that we all have in our mind the same objective fact.
 
 ### Audrey Tang:
-We can discover the common problems and start working together, finally, 17.6. When we invented someone, we can share with anyone for them to change it in the way that fit their society, instead of colonizing them, by forcing their society to change to our technology.
+We can discover the common problems and start working together, finally, 17.6. When we invented something, we can share with anyone for them to change it in the way that fit their society, instead of colonizing them, by forcing their society to change to our technology.
 
 ### Audrey Tang:
 This theory of change is not invented by myself. Indeed, it’s not invented by anyone, not even Jeffrey Sachs. What they have done is to ask a million people around the world, “What do you want to see in the year 2030?”
@@ -413,10 +413,10 @@ Theoretically, I can have 32 colleagues, but in reality, I have 22 colleagues. Y
 Maybe they are not ready for radical transparency, but \[laughs\] all the people-facing ministries, such as the Ministries of Interior, of Culture, of Education, Communication, all these have sent people to my office.
 
 ### Audrey Tang:
-This is the people-facing office. When the National Palace Museum has a new head, a new chief curator, he said, “The National Palace Museum, our problem is not that we are not good enough, or our museum is not rich enough, or we are not attractive enough. The main problem is that we’re not user-friendly enough, that people run into a loss of issues when you are visiting.”
+This is the people-facing office. When the National Palace Museum has a new head, a new chief curator, he said, “The National Palace Museum, our problem is not that we are not good enough, or our museum is not rich enough, or we are not attractive enough. The main problem is that we’re not user-friendly enough, that people run into a lot of issues when you are visiting.”
 
 ### Audrey Tang:
-Maybe you have stood in the queue before. Maybe you used a kiosk, only at the last moment, have it reject your credit card. Maybe you find something that say you can book online, but your are a Taiwanese citizen, so you cannot actually book online. That’s just for foreign people.
+Maybe you have stood in the queue before. Maybe you used a kiosk, only at the last moment, have it reject your credit card. Maybe you find something that say you can book online, but you are a Taiwanese citizen, so you cannot actually book online. That’s just for foreign people.
 
 > (laughter)
 
@@ -721,7 +721,7 @@ It’s OK. I have another chair. Let’s begin with the transparency. That’s S
 One is about utility, that utilitarian philosophy. “We must make the max amount of people feel better about their lives.” Another is about justice, is about distribution, and making sure that equal opportunity is preserved.
 
 ### Audrey Tang:
-Finally, it’s about the democratic will, which is impossible to define, because it represents a collective preference of the society. I just heart a very good definition, which is, “A decision that makes everybody happy.” \[laughs\] That is a good footnote to the democratic principle.
+Finally, it’s about the democratic will, which is impossible to define, because it represents a collective preference of the society. I just heard a very good definition, which is, “A decision that makes everybody happy.” \[laughs\] That is a good footnote to the democratic principle.
 
 ### Audrey Tang:
 These three are always at odds with each other. It’s not possible to maximally satisfy any design problem that simultaneously take care with three. You have to make compromise, because philosophically, this means that people’s values are not co-measurable.
