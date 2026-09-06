@@ -396,7 +396,7 @@ We're now pretty sure that the so called augmented collective intelligence, or A
 
 For example, Whoscall, which is a collective intelligence project that let people report unsolicited calls. Once people report that, then the next call to everybody else is more so you will not pick it up.
 
-Then Whoscall, who is the other unicorn, right? That also went to Japan. That's another issue for another day. HUSCO then branched into the disinformation space. They work with an acquaintance of ours to call the team of maybe who basically you can invite to your chat groups on end to end encrypted channels like LINE.
+Then Whoscall, who is the other unicorn, right? That also went to Japan. That's another issue for another day. Whoscall then branched into the disinformation space. They work with an acquaintance of ours to call the team of maybe who basically you can invite to your chat groups on end to end encrypted channels like LINE.
 
 Then there's a kind of virus scan of each and every message, but not just computer virus or phish, but also mind virus, which is to say information manipulation.
 
@@ -434,7 +434,7 @@ A disinformation oversight board. [laughs]
 Yeah, that's very cool. I guess you're saying about how it's possible to track this stuff and see these trends, which makes a lot of sense. Are these volunteers also going in and are you injecting additional messaging or other things so that people, as they're being exposed to it, is that like the Twitter warning?
 
 ### Audrey Tang:
-Yeah, it is exactly like committee notes. So far as I understand that the Kofax people are now learning from the community notes. The committee notes has these guidelines of how to write a community note.
+Yeah, it is exactly like committee notes. So far as I understand that the Cofacts people are now learning from the community notes. The committee notes has these guidelines of how to write a community note.
 
 They're now having a conversation just a few days ago on g0v channels about how to incorporate something like this prompt engineering to their collective intelligence.
 

@@ -88,7 +88,7 @@ In those 12 ministries, each one has maybe two reverse mentors, and so all the m
 A reverse mentor, for example 黃偉翔, who was just 20-something when he joined as reverse mentor for the Minister of Labor, proposed we have the world’s skilled, like the most skilled people in Taiwan who won collectively the third place in the annual World Skill competition to not only go on a national day parade like the athletes, but also integrate them into the basic education system to revamp to the schools together with the children so people learn to aspire to the skill level, and the creativity, and the design of these people.
 
 ### Audrey Tang:
-This is not direct participation, this is more about reaching out to a reverse mentor who take the various idea in those four stages directly to a minister. The minister agreed to be a kind of champion of that idea, then ever four months, the Prime Minister says OK to those reverse mentor ideas, and that becomes national policy without having to wait three months.
+This is not direct participation, this is more about reaching out to a reverse mentor who take the various idea in those four stages directly to a minister. The minister agreed to be a kind of champion of that idea, then every four months, the Prime Minister says OK to those reverse mentor ideas, and that becomes national policy without having to wait three months.
 
 ### Audrey Tang:
 That’s kind of a short cut, but is determined by the idea that young people lead the direction and the older people implement those directions, so that’s the five main venues that I’m in charge of. Yes?
@@ -220,7 +220,7 @@ Thank you.
 Yes?
 
 ### Audience Member:
-What to do with maligned-formed regimes who seek to use the Internet in order to attack democracies. You being here in Taiwan. We’re seeing these sorts of attacks worldwide.
+What to do with malign foreign regimes who seek to use the Internet in order to attack democracies. You being here in Taiwan. We’re seeing these sorts of attacks worldwide.
 
 ### Audience Member:
 My understanding is that you’re also looking at solutions as to how to address that challenge as well. What is Taiwan doing right now in practical terms of defending its society against its government, against attacks, disinformation that happening online, as well as cyber?
@@ -597,7 +597,7 @@ The first question is easily answered in Taiwan context. The Occupy was done by 
 The legitimacy theory was that the MPs refused to deliberate on it, so people took people’s representatives, Parliament, and start deliberating on it. It’s very legitimate, as you can see. Those 20 NGOs, one of them is deliberating on the telecommunications services.
 
 ### Audrey Tang:
-At that time, there was pre-4G. When we occupy, we were still using the YMAX technology, which serve its really good use for the Occupy. \[laughs\] At that time, we’re migrating to 4G. The entire core and periphery network was not yet built back in 2014.
+At that time, there was pre-4G. When we occupy, we were still using the WiMAX technology, which serve its really good use for the Occupy. \[laughs\] At that time, we’re migrating to 4G. The entire core and periphery network was not yet built back in 2014.
 
 ### Audrey Tang:
 The consensus on the street with half a million people and many more online is that it’s not about any specific company. We didn’t mention any specific company. We say that the non-market force, that’s the CCP, has control of any so-called private sector, so-called companies in their economy so strong that we can anticipate, at any given time, they become de facto state-owned when the situation calls for it.
@@ -612,7 +612,7 @@ The next time when there is a disaster happened at backdoor discovered, accident
 It makes each operate more expensive, but migrating away, even more expensive. That’s the path dependency argument. These two arguments were the rough consensus of people at the time. The National Communication Commission and National Security Council at the time, basically look at what people had consensus on the street, and basically said we agree with it. That systemic analysis of risk is already done five years ago.
 
 ### Audrey Tang:
-That’s why we don’t have much debate here about the 5G telecommunication network, because no PRC component are allowed in the 4G network anyway, we’re free of the path dependency. Because of that, that is not as hot a top in Taiwan.
+That’s why we don’t have much debate here about the 5G telecommunication network, because no PRC component are allowed in the 4G network anyway, we’re free of the path dependency. Because of that, that is not as hot a topic in Taiwan.
 
 ### Audrey Tang:
 Your second question, when I joined in late 2014 there was still Ma Ying-jeou’s presidency, and I worked as a reverse mentor to a minister at the time, Minister Jacklyn Tsai. I wouldn’t say that it is particularly partisan about it, this the public service collectively seeing the occupy as a demonstration, but not as a protest. As a demo, as a demo of this new way of governance actually gets consensus more effectively.

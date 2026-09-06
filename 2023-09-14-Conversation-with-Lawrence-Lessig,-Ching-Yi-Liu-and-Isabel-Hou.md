@@ -811,7 +811,7 @@ No, I don't think there will be pushback if we're just increasing cybersecurity 
 
 I think the main pushback was, like from Meta and so on, was on whether they would be denied access to H100 or allowing them access to H100s only with state-controlled backdoors.
 
-But I don't think just spending 50% of relevant budget on defense to buy NGX farms from Jensen Huang is going to have any backlash.
+But I don't think just spending 50% of relevant budget on defense to buy DGX farms from Jensen Huang is going to have any backlash.
 
 ### Lawrence Lessig:
 That's hopeful.
@@ -823,7 +823,7 @@ Good -- a bit of optimism after all.
 So how long are you going to be in New York?
 
 ### Audrey Tang:
-For a week. This is not public information yet. I think it's just on the sidelines of UNGA with the Concordia Summit. I'm also attending the [2023 Global Emerging Technology Summit](https://www.youtube.com/watch?v=8w_aF4ObT-w), organized by Special Competitive Studies Project for a couples days in D.C.
+For a week. This is not public information yet. I think it's just on the sidelines of UNGA with the Concordia Summit. I'm also attending the [2023 Global Emerging Technology Summit](https://www.youtube.com/watch?v=8w_aF4ObT-w), organized by Special Competitive Studies Project for a couple days in D.C.
 
 ### Eric Juang:
 Yeah, two days in D.C.
@@ -908,7 +908,7 @@ Do the Chinese participate in the conversations about safety in a way that's cre
 ### Audrey Tang:
 I think the researchers in PRC, some of them are quite genuinely worried about AI risks. On the other hand, though, their alignment to their societal norms and so on already assumes that everybody's conversation is already surveilled by the state anyway. So their alignment techniques may have some effect but cannot be easily copied.
 
-In this sense, surveillance for everybody's every waking second can be contrued as genuinely useful for them instrumentally. But that doesn't quite bring viable options to us in the democratic societies.
+In this sense, surveillance for everybody's every waking second can be construed as genuinely useful for them instrumentally. But that doesn't quite bring viable options to us in the democratic societies.
 
 I think the hard shutdown measures are also considered by them not as risk mitigation, but as population control. It comes from a very different tradition, unfortunately. Do you think we should actively engage Beijing on these matters?
 

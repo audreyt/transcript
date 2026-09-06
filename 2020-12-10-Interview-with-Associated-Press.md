@@ -158,7 +158,7 @@ The data processing is done, still, by the telecoms. The data collection is the 
 You mean the application’s actually being used by CECC?
 
 ### Audrey Tang:
-By the CECC-mandated norms. That is to say, “Send an SMS to the local medical officers if somebody breaks quarantine, or send it to a police officer is somebody who is already a confirmed case breaks the perimeter.”
+By the CECC-mandated norms. That is to say, “Send an SMS to the local medical officers if somebody breaks quarantine, or send it to a police officer if somebody who is already a confirmed case breaks the perimeter.”
 
 ### Huizhong Wu:
 Another question that arose, I don’t know which databases are being combined, but I understand that CECC also gain access to, say, immigration databases. One of the other people I spoke with, what he told me was that it wasn’t publicly stated how this data is being used, the data operators – what else? – how long the data’s going to be in use for.
@@ -329,7 +329,7 @@ Of course, and I care too.
 …every day.
 
 ### Audrey Tang:
-I’m squarely in the six percent that wasn’t happy the way the digital fence is being communicated. There were 94 percent of approval, but the 6 percent, including probably the two people you have spoken to, eventually worked with the member of our parliament who set up a public hearing, essentially interpolation.
+I’m squarely in the six percent that wasn’t happy the way the digital fence is being communicated. There were 94 percent of approval, but the 6 percent, including probably the two people you have spoken to, eventually worked with the member of our parliament who set up a public hearing, essentially interpellation.
 
 ### Audrey Tang:
 Then the department of cybersecurity, the minister of justice, and so on published for the first time how exactly this thing works, to the members of parliament, also, because it’s live-streamed, to the public. I don’t know whether it’s live-streamed or recorded. In any case, it’s published to the public afterwards.
@@ -525,7 +525,7 @@ For example, during election campaigns, it’s essential for the campaign donati
 Publishing as PDF files makes their life harder. Publishing as just paper copies makes it even harder.
 
 ### Audrey Tang:
-People in the g0v movement did this interesting intervention where they went straight to the Control Yuan, the 監察院, and took out those 84 photocopied campaign donation records and expenditure records and scanned them and published it for everybody to do a capture-style OCR, so that people can collectively rebuild the structural data that was hoarded by the Control Yuan.
+People in the g0v movement did this interesting intervention where they went straight to the Control Yuan, the 監察院, and took out those 84 photocopied campaign donation records and expenditure records and scanned them and published it for everybody to do a captcha-style OCR, so that people can collectively rebuild the structural data that was hoarded by the Control Yuan.
 
 ### Audrey Tang:
 That was so successful that the Control Yuan said, “Even if each number have three people looking at it, you can’t be sure it’s 100 percent true, so you’re probably publishing some misinformed information.” The response from the g0v movement is that, “Yeah, which is why you should publish the structural data as your duty.” I also participated in drafting that response.
@@ -600,7 +600,7 @@ Content workers, right, which is devoid of the meaning. It’s just like when yo
 Reinforcing that, that journalistic standard, making sure that everybody can be an amateur journalist, and participate in journalistic ethics and norms and also in the schools, teach not media literacy
 
 ### Audrey Tang:
-But media competence for a lot of those childrens maybe have more Instagram followers than I do. In a sense, they are media, and so be a competent media, and adhere to the journalistic standards.
+But media competence for a lot of those children maybe have more Instagram followers than I do. In a sense, they are media, and so be a competent media, and adhere to the journalistic standards.
 
 ### Audrey Tang:
 I think this is, again, very important and really, the reason why even though we do have our own share of disinformation – during our presidential election, there was a trending rumor that says the CIA printed invisible ink so that no matter who votes, your ink would disappear and President Tsai will get a vote.

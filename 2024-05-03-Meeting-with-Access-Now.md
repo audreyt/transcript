@@ -132,7 +132,7 @@ But I think that overall makes sense. I think what we have, I think we could do 
 And from late June, July onwards, we'll start having RightsCon regular participants for sure. But we'll have that set.
 
 ### Audrey Tang:
-And I trust that you already have the list of visa-free countries with Taiwan as well as the e-visa countries, with interesting exceptions like Colombians need to have a valid Shenzhen visa first and things like that. But it's all very spelled out on the BOCA website. So, for the ones that are outside of that list, maybe we just do a kind of monthly refresh or something like that.
+And I trust that you already have the list of visa-free countries with Taiwan as well as the e-visa countries, with interesting exceptions like Colombians need to have a valid Schengen visa first and things like that. But it's all very spelled out on the BOCA website. So, for the ones that are outside of that list, maybe we just do a kind of monthly refresh or something like that.
 
 ### Raman Jit Singh Chima:
 I think that's great. In fact, working on these protocols roughly now, so it's predictable for the Democracy Network team, for our team, and for BOCA to make sense. I know Reetz would be our main point of contact on visa issues right now. She has that honor of managing that. She was keen to work out that exact process, so it's very clear. So, it could be a meeting time every month. That's very clear. So, people are planned ahead. The predictability is there. If there are any issues, we can resurface it. Because that's most helpful to us, knowing who is a clear point of contact. And the fact that you already clarified Democracy Network, as a particular official contact, that's important.

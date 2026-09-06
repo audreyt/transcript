@@ -85,7 +85,7 @@ Oh, yeah.
 With this kind of representation? —
 
 ### Audrey Tang:
-Yeah, definitely. So, the Polis algorithm, which is precursor to community notes in Twitter, so it's very rigorous. It's been studied to be essentially clone proof, meaning that we don't count the headcount. So, it doesn't matter whether it's 152 or 1520 or 15200. The area, the principal component analysis in Cayman's cluster measures the plurality of the sentiments here instead of any vote-ish things.
+Yeah, definitely. So, the Polis algorithm, which is precursor to community notes in Twitter, so it's very rigorous. It's been studied to be essentially clone proof, meaning that we don't count the headcount. So, it doesn't matter whether it's 152 or 1520 or 15200. The area, the principal component analysis in k-means cluster measures the plurality of the sentiments here instead of any vote-ish things.
 
 So, if you have 10,000 people joining each voting exactly the same to each other's statements, they would just be consolidated to one single point here, and they would not make this group disappear.
 
@@ -100,7 +100,7 @@ And so, the point I'm making is that no matter whether they believe to the AI Fo
 ### Arka Dhar:
 Makes sense. I have further questions. So, we played a little bit with Polis. I noticed that maybe one of the problems is sometimes the statements that people are committing, they can be true or false depending on the interpretation that they ask necessary details.
 
-And it's almost like there's this property that when someone creates the very generic statement, like, oh, sky is blue, then everyone is likely to agree. But when there are a larger number of details, then it's actually, this tend to be more divisible. So, how do you think about this property?
+And it's almost like there's this property that when someone creates the very generic statement, like, oh, sky is blue, then everyone is likely to agree. But when there are a larger number of details, then it's actually, this tend to be more divisive. So, how do you think about this property?
 
 ### Audrey Tang:
 Yeah. First of all, I think it makes sense for people to post those general statements at the first stages of Polis conversation just to show that consensus is possible to reach. So, for example, in the UberX conversation we had in 2015, the main point of division was, of course, whether it's sharing economy, that's the future of platforms, or whether it is just gig economy that exploits workers.
@@ -144,7 +144,7 @@ Yeah, makes a ton of sense. So, basically, some level of qualifier that shows yo
 Yeah, and that's just interface design. You can design so that you're engaging them, not only like click share, right? Click retweets, frame of mind.
 
 ### Arka Dhar:
-Yeah, no, that makes a lot of sense. I have two questions for you. One is, so, you know, if you go back in the days when you were first thinking about doing something like this, what was defining the kind of, let's call it a prompt for our conversation, what was defining some of those first seated, let's say, Polis polls that you wanted to run, or legislation that you wanted to get inside some? Yeah.
+Yeah, no, that makes a lot of sense. I have two questions for you. One is, so, you know, if you go back in the days when you were first thinking about doing something like this, what was defining the kind of, let's call it a prompt for our conversation, what was defining some of those first seeded, let's say, Polis polls that you wanted to run, or legislation that you wanted to get inside some? Yeah.
 
 ### Audrey Tang:
 Yes. So, I want to maximize the chance that the stakeholder groups that feel they're in the minority, a majority of them feel they're in the minority, but the people who feel they're in the minority feel at least possibly represented by the seed statements. So, we work hard on the initial nine seed statements, and we use the same formula for Uber, for Airbnb, for many other things.

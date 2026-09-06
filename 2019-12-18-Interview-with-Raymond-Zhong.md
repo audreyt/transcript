@@ -310,7 +310,7 @@ Funny information. \[laughs\]
 Humorous.
 
 ### Raymond Zhong:
-I think the issue is if people have lost faith in all information, the don’t believe the media. They don’t believe social media. They know everything has bias. They know everything is, potentially, manipulated. Then, your solution doesn’t really work. It still doesn’t restore faith.
+I think the issue is if people have lost faith in all information, they don’t believe the media. They don’t believe social media. They know everything has bias. They know everything is, potentially, manipulated. Then, your solution doesn’t really work. It still doesn’t restore faith.
 
 ### Audrey Tang:
 Yeah, but it’s not an either/or. It’s not what you said, an extreme case. It’s like saying if somebody doesn’t have Internet connectivity, then you can’t reach them through social media.
@@ -605,7 +605,7 @@ Separate from the China issue, this is something a lot democracies are dealing w
 It’s very memetic.
 
 ### Raymond Zhong:
-I don’t know in Taiwan how bad or how widespread any acquisitions of official untruth. I just don’t know how big of a problem it is.
+I don’t know in Taiwan how bad or how widespread any accusations of official untruth. I just don’t know how big of a problem it is.
 
 ### Audrey Tang:
 It’s not unheard of, but I wouldn’t say it’s a dominating factor.
@@ -662,13 +662,13 @@ What did you hear in Wulai yesterday?
 Lots of things. We were working with co-ops, which is a long and proud tradition, especially in indigenous lands. Increasingly, they’re facing a lot of regulatory challenges and differences as compared to modern companies, because Taiwan just changed our company act. Each company can have a certain sense of autonomy like a co-op, like special voting rights and things like that.
 
 ### Audrey Tang:
-Especially the labor co-ops, which is very strange in the eye of many regulators, because they don’t have any capitalist side, it’s entirely they’re worker side. It’s difficult, for example, to talk about the insurance, the procurement, the labor law enforcement which all are designed to reign the capitalists. In the sense of a labor co-op, there is no capitalist in the equation.
+Especially the labor co-ops, which is very strange in the eye of many regulators, because they don’t have any capitalist side, it’s entirely their worker side. It’s difficult, for example, to talk about the insurance, the procurement, the labor law enforcement which all are designed to reign the capitalists. In the sense of a labor co-op, there is no capitalist in the equation.
 
 ### Audrey Tang:
 How exactly do the regulations work? The public procurement, public construction commission designed a check form for people who are in the public procurement in various different municipalities and ministries to check that labor co-ops need to have their co-op charter agree with the public procurement. They cannot just get all sorts of different cases. They have to at least align with their charter.
 
 ### Audrey Tang:
-The design is so that if you don’t click that button, if you don’t check that checkbox, then the entire procurement become illegible for worker co-ops, especially worker co-ops to apply. That becomes a discrimination of sorts. Our constitution said specifically that state is required to encourage co-ops. That creates a counter-constitutional situation.
+The design is so that if you don’t click that button, if you don’t check that checkbox, then the entire procurement become ineligible for worker co-ops, especially worker co-ops to apply. That becomes a discrimination of sorts. Our constitution said specifically that state is required to encourage co-ops. That creates a counter-constitutional situation.
 
 ### Audrey Tang:
 We just work with the public procurement agency to just change that check box into a reminder text. Of course, there was 20 different cases. I’m just saying one that requires cross-literature collaboration.

@@ -70,7 +70,7 @@ That's one. The second thing is we're also offering a kind of prize, award for r
 
 It encourages people to think about cyber security not as something that's purely reacting to things, but actually designing the zero-trust parameters using the latest zero knowledge, homomorphic encryption, and so on.
 
-Giving a real incentive for the technical people to be involved in the early conversations about business logic as early as possible to promote privacy-enhancing technology, the algorithm, and so on, by associating it with a real contribution on the cyber security era, which is also a very hot topic now with the geopolitical turn of things this year.
+Giving a real incentive for the technical people to be involved in the early conversations about business logic as early as possible to promote privacy-enhancing technology, the algorithm, and so on, by associating it with a real contribution on the cyber security area, which is also a very hot topic now with the geopolitical turn of things this year.
 
 ### Emily Middleton:
 Of course. That prize is available...

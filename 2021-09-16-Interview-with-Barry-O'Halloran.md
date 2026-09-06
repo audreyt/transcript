@@ -143,7 +143,7 @@ You offer yourself as the guinea pig.
 That's right.
 
 ### Barry O'Halloran:
-The thing that I think most impressed people in the West has been Taiwan's unique success in looking after the residence of elderly care homes.
+The thing that I think most impressed people in the West has been Taiwan's unique success in looking after the residents of elderly care homes.
 
 ### Audrey Tang:
 Yeah, definitely. My maternal grandma is in one of those care places.
@@ -176,7 +176,7 @@ Looking a little bit forward now on the pandemic, it almost looks like we're goi
 ### Audrey Tang:
 Yeah, of course, and therapeutics are being worked on. We have procured monoclonal antibodies to treat the people in need of the emergency treatment.
 
-I also believe that as the virus mutates, the mutation strains that get far more lethal than COVID-19 already is going back to original SARS-like lethality. That's not going to sustain well if they're compared vis-a-vis the more viral, but less lethal versions of the variance. The natural progression is for the virus to be even more easy to spread but even less lethal.
+I also believe that as the virus mutates, the mutation strains that get far more lethal than COVID-19 already is going back to original SARS-like lethality. That's not going to sustain well if they're compared vis-a-vis the more viral, but less lethal versions of the variants. The natural progression is for the virus to be even more easy to spread but even less lethal.
 
 ### Barry O'Halloran:
 Yes. Moving on to the economy again a little historical review. Taiwan has changed dramatically in the last few decades. It's now leading to claim the house in microchip area. How was that transformation executed?
@@ -289,10 +289,10 @@ There's been some discussions and debates on that matter between those parliamen
 ### Barry O'Halloran:
 OK. Looking at the geopolitical situation of the sanctions in China, there has been a big, big change, in my view, my experience, and West in terms of China, since the pandemic began.
 
-Xi Jingping now comes across to many, in a way opinion polls show, as being effectively a new mode. Does Taiwan see him in that light?
+Xi Jinping now comes across to many, in a way opinion polls show, as being effectively a new mode. Does Taiwan see him in that light?
 
 ### Audrey Tang:
-Even before the pandemic, I think there are already discussions around, for example, that the indefinite extension of Xi Jingping's terms.
+Even before the pandemic, I think there are already discussions around, for example, that the indefinite extension of Xi Jinping's terms.
 
 The commentators in Taiwan's political journalism and commentators, they didn't miss that. We've been having that conversation and those commentaries in Taiwanese media for quite a while. It's not exclusive to the pandemic times.
 

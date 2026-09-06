@@ -420,7 +420,7 @@ You can zoom in to learn about discrepancies within the county that…For exampl
 Even though the pharmacies look like they’re evenly distributed, it’s actually if you are an elderly person and rely on public transportation or bicycle, it will actually cost much more time for you in the more rural parts, even though the distance looks the same, because of lack of public transportation and so on.
 
 ### Audrey Tang:
-There’s a legislator, MP Ann Kao, is a new legislator of the Taiwan People’s Party who served as VP of Data Analytics at Foxconn, so she knows something about data science. She cited numbers and projected the Geobingan map in her interpolation to Minister Chen Shih-chung.
+There’s a legislator, MP Ann Kao, is a new legislator of the Taiwan People’s Party who served as VP of Data Analytics at Foxconn, so she knows something about data science. She cited numbers and projected the Geobingan map in her interpellation to Minister Chen Shih-chung.
 
 ### Audrey Tang:
 Saying that there’s uneven distribution due to supply and demand differences. Minister Chen at the time was at the height of his popularity. He did not jump to defend any of our existing systems.

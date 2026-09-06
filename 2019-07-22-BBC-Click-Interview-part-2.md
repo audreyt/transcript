@@ -243,7 +243,7 @@ All the CGI people, what’s the problem? Somebody just called it deepfake and i
 Yeah, recording.
 
 ### Carl Miller:
-All right. Sorry for the opposition. What kind of decisions is vTaiwan good at deciding and what decisions are they not good at deciding?
+All right. Sorry for the imposition. What kind of decisions is vTaiwan good at deciding and what decisions are they not good at deciding?
 
 ### Audrey Tang:
 The original design of vTaiwan is meant to ask people who don’t have yet a union or association to speak for themselves over the Internet. Because of that, it’s particularly good at emerging technologies such as self-driving vehicles or teleworking that the government have no idea how to regulate and indeed, there is no associations or unions around it. That was the original design.
@@ -510,7 +510,7 @@ I’m not referring to any other…
 You’re fine. We may need to…
 
 ### Audrey Tang:
-Yeah, I’m sure. ‘m sure everybody understands what president means, yeah.
+Yeah, I’m sure. I’m sure everybody understands what president means, yeah.
 
 ### Carl Miller:
 Do you see yourself as reinventing or hacking, in the original sense of the word, democracy?
@@ -760,7 +760,7 @@ Sorry. Here, we’re in a collaboration meeting as hosted by the Ministry of Fin
 Are they using that to come to a conclusion?
 
 ### Audrey Tang:
-Yes. Here, we’re seeing the IMI, the issue mapping technology and here, we’re seeing the real-time projection of the posit notes that represent people’s ideas.
+Yes. Here, we’re seeing the IMI, the issue mapping technology and here, we’re seeing the real-time projection of the Post-it notes that represent people’s ideas.
 
 ### Audrey Tang:
 Through these technologies, people are coming to common understanding of what vacancy is caused by, what vacancy affects the market, and how to make adjustments to our policies so that people can have more affordable housing.

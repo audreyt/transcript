@@ -60,7 +60,7 @@ Therefore, it's not advisable to immediately release these models as open weight
 
 Given these safety concerns, we're establishing an AI evaluation center. This center will focus on inspecting how AI models might confabulate or perpetrate epistemic injustices. By identifying and halting these patterns, we aim to foster more honest AI interactions.
 
-Techniques like LoRa and fine-tuning are valuable for aligning AI with societal norms. Therefore, all things considered, I favor models that are adaptable through fine-tuning. Our primary investments are in ensuring safety, alignment with ethical standards, and promoting collaboration.
+Techniques like LoRA and fine-tuning are valuable for aligning AI with societal norms. Therefore, all things considered, I favor models that are adaptable through fine-tuning. Our primary investments are in ensuring safety, alignment with ethical standards, and promoting collaboration.
 
 While we do work with proprietary vendors, we aim to avoid vendor lock-in. Given the current dominance of certain models, it might appear that we're primarily engaged in open-source projects. This approach is a strategic move to counteract the imbalance between capabilities and safety in this field.
 

@@ -246,7 +246,7 @@ Of course, if you say, “Taiwan can help.” Around here, we say \[Mandarin\], 
 Is it a problem that China is doing so much to isolate Taiwan in the world? Does that make it more difficult for Taiwan to use this soft power?
 
 ### Audrey Tang:
-Not for me, personally, no. I don’t feel that. I participate in 2017 International Governance Forum on the Internet, the UN IGF in UN Geneva as a robot across the distance. I also attended the UN Sustainable Development Solution Network, multiple meetings, UN ESCAP, UN-Habitat, many venues.
+Not for me, personally, no. I don’t feel that. I participate in 2017 Internet Governance Forum on the Internet, the UN IGF in UN Geneva as a robot across the distance. I also attended the UN Sustainable Development Solution Network, multiple meetings, UN ESCAP, UN-Habitat, many venues.
 
 ### Audrey Tang:
 A key thing here is that all the venues that I attended were multistakeholder or multistakeholder and multilateral hybrid panels where I joined from the multistakeholder side. While the PRC is, as you put it, excluding or isolating the multilateral platforms, because they also sign on the SDGs for the Sustainable Goals, they couldn’t quite do so on the multistakeholder forums.
@@ -414,7 +414,7 @@ Given China’s record over the past several years in the area, are you basicall
 What I’m trying to say here is that Internet by itself is decentralized. It decentralizes innovation. People around the world, whether they’re in, say, Hong Kong or whether they’re in Taiwan, as long as there is free Internet access, people can innovate on new social technologies, that is to say, new ways to move around existing social configurations and mobilize people in a different way.
 
 ### Audrey Tang:
-We see this very clearly in the so-called “be water” principal in Hong Kong during their anti-ELAB protests. As long as there are still such room for permissionless innovation, I’m optimistic around its democratic potentials.
+We see this very clearly in the so-called “be water” principle in Hong Kong during their anti-ELAB protests. As long as there are still such room for permissionless innovation, I’m optimistic around its democratic potentials.
 
 ### Audrey Tang:
 On the other hand, if such room for innovation is taken away, then, of course, democracy on the Internet risks to be choked. The space for such innovations may no longer be there if, for example, people are forced to be face-recognition finger-printed every time they use the Internet.
@@ -432,7 +432,7 @@ If people stop paying attention of what’s happening on the ground in Hong Kong
 Taiwan certainly, for example, many of our universities have offered exchange programs for Hong Kong students and offered them a safe space, for example, to host the Oslo Freedom Forum with the key leaders, for them to exchange freely with the international press community and international correspondents.
 
 ### Audrey Tang:
-The fact that the Reporter Without Borders is headquartered in Asia in Taipei also helps to spread the idea that the international NGOs can operate freely here. We have Asia’s most free civic space to keep a very close watch on how Hong Kong progresses. I wouldn’t say that we’re just standing here. Rather, we’re offering a safe space.
+The fact that the Reporters Without Borders is headquartered in Asia in Taipei also helps to spread the idea that the international NGOs can operate freely here. We have Asia’s most free civic space to keep a very close watch on how Hong Kong progresses. I wouldn’t say that we’re just standing here. Rather, we’re offering a safe space.
 
 ### Peter Harmsen:
 I’d like to ask a few questions about yourself as a transgender person in politics. My first question is I’ve seen you described as an anarchist. Is that an apt description?
@@ -591,7 +591,7 @@ Another thing I would like to ask you is I read that you have offered preferenti
 To anyone. There’s more than 400 such organizations now who anyone who can provide an account of how their procurement dollars can transform into social returns of investment, or SROI, that is to say, anyone who can account for the social effect of their income sources becomes a…
 
 ### Audrey Tang:
-I wouldn’t say preferential, but I would say I go out and give an award every year for anyone who procures to more than five million anti-dollars of such social innovation organizations’ products and services. That’s true.
+I wouldn’t say preferential, but I would say I go out and give an award every year for anyone who procures to more than five million NT-dollars of such social innovation organizations’ products and services. That’s true.
 
 ### Peter Harmsen:
 Yeah. It’s just because this particular example of people with Down syndrome is particularly interesting. Was there something about a soccer field? They were involved in designing something like that…?

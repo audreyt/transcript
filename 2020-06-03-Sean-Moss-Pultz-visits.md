@@ -484,7 +484,7 @@ It’s a good bubble to be trapped in.
 It’s a good bubble.
 
 ### Sean Moss-Pultz:
-There’s three people that work for Peter Schwabe, one of our advisors, in Amsterdam. They’re postdocs. They happened to be stuck at Academic Sinica, and now they’re stuck for a year.
+There’s three people that work for Peter Schwabe, one of our advisors, in Amsterdam. They’re postdocs. They happened to be stuck at Academia Sinica, and now they’re stuck for a year.
 
 ### Audrey Tang:
 That’s right. There’s Ray Chan and Joe Hsueh.

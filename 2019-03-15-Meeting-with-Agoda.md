@@ -109,7 +109,7 @@ Last topic is more generic. The question is how can we help generate more busine
 The question is what can we do in order to help the government to bring more people to Taiwan? We have all sorts of options at our disposal, from emails that we can send to millions of customers, from ads that we can put on our platform. Push notifications, you name it. All sorts of things that we can do.
 
 ### Omri Morgenshtern:
-We don’t know exactly who we need to walk with. Under that umbrella, call it, there’s always a question about we know that there were subsidies before that we were part of, and then we got excluded, I think, in the generate subsidy.
+We don’t know exactly who we need to work with. Under that umbrella, call it, there’s always a question about we know that there were subsidies before that we were part of, and then we got excluded, I think, in the generate subsidy.
 
 ### Omri Morgenshtern:
 I think we are coming back to those subsidies. There was a new subsidy announced a couple of days ago where now every hotel can decide if they want to accept them. The question about those subsidies, whether we can do something in order to help explain what I mean.

@@ -269,7 +269,7 @@ They have their own apps as well.
 Yes. These are the local platforms that were built, because two years ago, we had this business model. It’s very important to make sure that these rental car companies...
 
 ### Audrey Tang:
-They have the optional to carry over to the e-taxi.
+They have the option to carry over to the e-taxi.
 
 ### Renne Chou:
 The companies.

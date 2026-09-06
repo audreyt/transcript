@@ -271,7 +271,7 @@ Again, the full ability to hack human beings, it’s still in the future. We are
 You have the big corporation. They say, “Look, people are spending 30 minutes a day on our app, on our device, on our platform. We want them to spend one hour. This is your mission for this year.”
 
 ### Yuval Noah Harari:
-They take the smartest people in the world and give them this task, how to hijack people’s attention and keep them on our platform. These smartest people in the world discovered how to press out emotional buttons, the fear button, the hate button, the greed button. This is the easiest way to grab people’s attention.
+They take the smartest people in the world and give them this task, how to hijack people’s attention and keep them on our platform. These smartest people in the world discovered how to press our emotional buttons, the fear button, the hate button, the greed button. This is the easiest way to grab people’s attention.
 
 ### Yuval Noah Harari:
 Looking to the future, again, the threat of a rising dictatorship, a new kind of dictatorship is a big one. But even if we avoid that, how to deal with the new tools for hacking the human brain, the human mind, that’s the really big question.
@@ -334,7 +334,7 @@ Our mothers, fathers, and community members may offer interpretations, that is t
 To me, I think a way to free ourselves from this value alignment issue is just to have, as a norm, multiple interpretations. Just as you can have many human assistants, each perfectly aligned to you to make accountable explanation if they do some decision not in your best interest, you will have those different human assistants, compare notes. If one of them consistently makes things that are not value-aligned to you, at least you have other assistants to warn you about it.
 
 ### Audrey Tang:
-I think this plurality, instead of a singularity vision is what I have written in my own job description. Instead of user experience, we need to think about human experience. When we think about user experience, I know some other industries that also use that term user. You only care about the time that you spent addicted with that technology when you use the term user. It’s a zero-sum gain of attention and time span.
+I think this plurality, instead of a singularity vision is what I have written in my own job description. Instead of user experience, we need to think about human experience. When we think about user experience, I know some other industries that also use that term user. You only care about the time that you spent addicted with that technology when you use the term user. It’s a zero-sum game of attention and time span.
 
 ### Audrey Tang:
 But if you think of the total human experience, then these different interpretations may add to one another and eventually liberate one self from one, singular vision of one self.
@@ -433,7 +433,7 @@ I think the idea of an AI mentor doesn’t imply a single trajectory or a partic
 If you think about something like music, let’s say I have a particular musical taste. Now one vision of the algorithmic sidekick or the algorithmic mentor is that the AI learns what I like and just gives me more and more of that and kind of imprisons me in the cocoon or the prison of my own previous biases and opinions.
 
 ### Yuval Noah Harari:
-But the opposite view is that, no, because it knows me so well, it also knows the best way to expose me to new musical tastes. Sometimes when you try to much, then it backfires. So it knows that 10 percent of the music that it gives me would be from genres or traditions that I myself would never think of trying. It can also know the best moment in the day or the week when I’m most open to new experiences.
+But the opposite view is that, no, because it knows me so well, it also knows the best way to expose me to new musical tastes. Sometimes when you try too much, then it backfires. So it knows that 10 percent of the music that it gives me would be from genres or traditions that I myself would never think of trying. It can also know the best moment in the day or the week when I’m most open to new experiences.
 
 ### Yuval Noah Harari:
 In the traditional way of school, you go to music class. So music class is every Tuesday, at 11 o’clock. That’s it. This is when you are supposed to be exposed to new kinds of music.

@@ -462,7 +462,7 @@ Aside from being on an international advisory board of a certain GovLab… I am 
 The Consul/Decidim communities is still very much on my radar, not the least because it seems that the developers’ community are still quite eager carry it forward, metric or not. Also, that this Consul/Decidim forks seems to bring those two communities in a generative, and not so adversarial, network relationship. I spend quite some time thinking about Consul and Decidim. That’s one.
 
 ### Audrey Tang:
-I’m also a board member in RadicalxChange – Glen Weyl, Vitalik Buterin, Danielle Allen, and folks. This is less about designing any particular mechanism, but rather using the Etherum communities, like bitcoin, to try out new mechanisms, and then applying it to, say, Colorado. It resembles very much how vTaiwan/Join relationship works, although on an international level. I think about RxC also quite a bit.
+I’m also a board member in RadicalxChange – Glen Weyl, Vitalik Buterin, Danielle Allen, and folks. This is less about designing any particular mechanism, but rather using the Ethereum communities, like bitcoin, to try out new mechanisms, and then applying it to, say, Colorado. It resembles very much how vTaiwan/Join relationship works, although on an international level. I think about RxC also quite a bit.
 
 ### Audrey Tang:
 I’m also very soon, after DC, flying to Barcelona for the Digital Future Society Mobile World Congress. These folks are less about citizen participation, but are definitely open for innovation around governance, especially now, with 5G, AI, and everything else.

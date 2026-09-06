@@ -55,7 +55,7 @@ I always call AI assisted intelligence. To your question of why AI works well wi
 Also whenever they make a decision that you’re not comfortable with, you will demand an explanation from the assistant. That’s called accountability.
 
 ### Audrey Tang:
-If there’s value alignment and accountability that the entire society can shape the norm upon which the AI enters the society, then we can trust the AI as we trust some of our assistance. On the other hand, if they fail to provide the account or fail to align for value, then that AI will not be symbiotic. It will be parasitic with the society.
+If there’s value alignment and accountability that the entire society can shape the norm upon which the AI enters the society, then we can trust the AI as we trust some of our assistants. On the other hand, if they fail to provide the account or fail to align for value, then that AI will not be symbiotic. It will be parasitic with the society.
 
 ### Audrey Tang:
 Then, of course, the society would just say no to that particular use of AI because it’s not assistive anymore. Thinking AI not as artificial but as assistive is very important.
@@ -97,7 +97,7 @@ I think it’s the other way around. I support them. They don’t have to suppor
 In Taiwan, even for people who are just 16 years old, who campaign, for example, to ban the plastic straws for bubble tea because they don’t want the plastic to pollute the sea, the ocean, even without the right to vote, they can get many people into this E-petition and start a social movement.
 
 ### Audrey Tang:
-It’s not just in Taiwan where you see. Like European countries, the students refuse to go to school on Fridays because they care about climate change, because they will suffer more from climate change, then either of us will. They will live \[laughs\] to a more climate-changed future.
+It’s not just in Taiwan where you see. Like European countries, the students refuse to go to school on Fridays because they care about climate change, because they will suffer more from climate change, than either of us will. They will live \[laughs\] to a more climate-changed future.
 
 ### Audrey Tang:
 A more important thing is that even before they have the right to vote, we need to enable them with, for example, participatory budgeting rights, deliberation rights and policymaking, proposing sandbox regulations and laws, and engaging in presidential hackathons, starting e-petitions, and so on, which are all empowering disenfranchised people, that is to say people who couldn’t vote because they were not yet at the voting age.

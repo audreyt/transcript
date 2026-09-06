@@ -262,7 +262,7 @@ Then the premier, who is in his 70s now, post a photo of him as a young man with
 
 In the fine print, it says, "What you've seen in the rumors are actually a labeling requirements for the warnings that the labels of the manufacturer of those hair products, they must be printed on that bottle." The fine goes to the manufacturer or the bottler if they don't put in the warning label.
 
-The viral payload is the premier as he looks now almost no hair, and then with the hair blower and said, "But if you perm you hair many times a week, it will not damage your bank account. It will damage your hair, your hairstyle may become my hairstyle." [laughs]
+The viral payload is the premier as he looks now almost no hair, and then with the hair blower and said, "But if you perm your hair many times a week, it will not damage your bank account. It will damage your hair, your hairstyle may become my hairstyle." [laughs]
 
 He makes fun of himself, and it's very convincing. I guess it serves as a health public service announcement. In any case, that went absolutely viral, much more viral than the disinformation, and the people who laughed about it, who vent their outrage literally became immune when they see the original disinformation.
 
@@ -398,7 +398,7 @@ I'm excited that the ledger community have now seen that public goods has a wide
 
 The National Center of high speed computation also contributed with post quantum cryptography, also, by running their own ledgers of air boxes, the air pollution measurement across those networks, and also doing fully homomorphic encryptions that doesn't suffer from losses of resolution after many steps and so and so.
 
-These are kind of fundamental insights in research that will then let us have the kind of building blocks, as architects of democracy, as a form of pleural technology. We can then build things without compromising our building materials and ledger space, by its very nature have nothing to hide.
+These are kind of fundamental insights in research that will then let us have the kind of building blocks, as architects of democracy, as a form of plural technology. We can then build things without compromising our building materials and ledger space, by its very nature have nothing to hide.
 
 Basically, they are kind of the swarm like the 20, or more contact tracing tools that we see at the height of the pandemic last year. We are now seeing to tackle this privacy preserving mandate.
 

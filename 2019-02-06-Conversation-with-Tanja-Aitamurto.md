@@ -354,7 +354,7 @@ We set up hundreds of spots in the lamp lights exactly in the industrial areas, 
 They want to tell domestic air pollution versus non-domestic pollution. The citizen scientists cannot actually build a site there, even with drones. They run out battery. It’s actually very far away. We are building wind power turbines with oversea partners.
 
 ### Audrey Tang:
-We changed the contract to say all the oversea wind power stations offshore need to carry those meteorological air measurement devices. The third thing is that they want a high-speed GPU to do analysis of the crowdsourced vis-à-vis government sources to collaborate their equipment.
+We changed the contract to say all the oversea wind power stations offshore need to carry those meteorological air measurement devices. The third thing is that they want a high-speed GPU to do analysis of the crowdsourced vis-à-vis government sources to calibrate their equipment.
 
 ### Audrey Tang:
 We set up a, what we call, collective intelligence, ci.taiwan.gov.tw. It also stands for civil IoT, to show that this is not a ministry, local, or national, or whatever. It is just Taiwan. It is a shared database. We have one website, like ai.taiwan.gov.tw, si.taiwan.gov.tw, bio.taiwan.gov.tw, smart.taiwan.gov.tw, and so on for such national agenda.
@@ -450,7 +450,7 @@ Do you have sufficient number of portable devices — such as Oculus Go — that
 Yeah. Could you send me the information, what’s needed for this robotic performance, or appearance, so then I can look into that?
 
 ### Audrey Tang:
-OK, sure. I’ll send you just the actual cases that I’ve been to, both in immersive modalities, as well as in robotic modality. I spoke in Geneva in a United Nation meeting through a &quot;Double 2&quot; robot. That solves an interesting political problem, because the robot doesn’t need passports to enter Un.
+OK, sure. I’ll send you just the actual cases that I’ve been to, both in immersive modalities, as well as in robotic modality. I spoke in Geneva in a United Nation meeting through a &quot;Double 2&quot; robot. That solves an interesting political problem, because the robot doesn’t need passports to enter UN.
 
 ### Audrey Tang:
 I’ve been attending quite a few UN meetings in this way. It’s an interesting hack.

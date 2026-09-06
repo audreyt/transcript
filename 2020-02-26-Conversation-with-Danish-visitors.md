@@ -99,7 +99,7 @@ For example, if we’re going to distribute mask using a rationing system, where
 If we share the context of our policy-making and publish it as open data, the real-time stock of those pharmacies, then everybody in the private sector and social sector can make applications, like voice assistant Siri or whatever, that lets people even with blindness or other disabilities to get access to the nearest pharmacy that still has masks in stock in very easy terms.
 
 ### Audrey Tang:
-This is much better and easier than if we have to build all the different language, all the different accessibility websites ourself. That’s why we have more than 100 applications now for mass distribution within the first couple days.
+This is much better and easier than if we have to build all the different language, all the different accessibility websites ourself. That’s why we have more than 100 applications now for mask distribution within the first couple days.
 
 ### Audrey Tang:
 The whole point of open government, then, is to let people understand the why of policy-making and trusting the citizens without requiring citizen to trust back. We mean making ourself transparent to the citizens. That’s this very just two side of the same coin.

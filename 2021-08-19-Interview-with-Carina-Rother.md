@@ -51,7 +51,7 @@ Mm-hmm. They are not, but we're on very friendly terms. There is a grassroots co
 It sounds like Taiwan is particularly strong when it comes to IT specialists and the knowledge and from what I understand the Taiwanese government also encourages these solutions or initiatives. One example of these encouragement is the Presidential Hackathon. What is the plan behind the Presidential Hackathon or why is it important in your opinion?
 
 ### Audrey Tang:
-The Presidential Hackathon does not offer cash price, but a system designed by the winning teams are promoted by the government just like the presidential promises.
+The Presidential Hackathon does not offer cash prize, but a system designed by the winning teams are promoted by the government just like the presidential promises.
 
 For five teams each year, they receive this trophy and they are invited to take part in those government initiatives to further those systems from telehealth to net zero emissions movement and things like that.
 

@@ -64,7 +64,7 @@ Where do you think that rumor came from? Was it from inside Taiwan or was it fro
 ### Audrey Tang:
 The picture that accompanied this piece of disinformation come from Reuters, but the Reuters journalists did not say anything about being paid or whatever. The original caption simply say that there were teenage protesters, and that's it. Somebody else supplied the misleading caption.
 
-Within a day or so, the Tower Effect Check Center, independently operated fact checking service traced that message back to the Central Political and Law Units, Zhongyang Zhengfawei of the PRC regime on their Weibo account, no less.
+Within a day or so, the Taiwan FactCheck Center, independently operated fact checking service traced that message back to the Central Political and Law Units, Zhongyang Zhengfawei of the PRC regime on their Weibo account, no less.
 
 The local people in Taiwan who took the message from the Weibo account of the PRC regime then remixed it and sent derivative messages on various, more antisocial corners of social media.
 
@@ -110,7 +110,7 @@ I have nothing against the entertainment sector, but these are not the places to
 
 By promoting the public infrastructure in a digital realm, the natural progression in those prosocial forms are toward actual decision-making, are toward early warnings. For example, when Dr. Li Wenliang revealed that there were seven SARS cases in Wuhan by the end of 2019, PTT is the early forum that I'm aware of that resulted in decisive action on the very next day, beginning of 2020.
 
-We started health inspections for all flight passengers coming in from Wuhan to Taiwan. That's because people contributed their collective intelligence rather that polarizing into hate or something.
+We started health inspections for all flight passengers coming in from Wuhan to Taiwan. That's because people contributed their collective intelligence rather than polarizing into hate or something.
 
 ### Erin Hale:
 You brought up PTT. I just wanted to ask you, did you notice any differences of how information is shared on PTT than with Dcard, Facebook and others? Do you see any big differences in how people are talking about things?

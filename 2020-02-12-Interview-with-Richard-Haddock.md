@@ -41,7 +41,7 @@ So four years ago when I first become Digital Minister, our HR because there was
 
 ### Audrey Tang:
 
-So plural version, a transcultural version of open government is what we in Taiwan has been striving for the past four years, five years now. So very simply put, it is a way to have more than one way to do democracy. Anyone anywhere in Taiwan who want to have a new way to do democracy can try it out. And having a lot of support and social innovators across 12 mini stries. All they have to do is to walk into my office and talk to me for 40 minutes at a time or to hold a local town hall where would dial in. Using telecommunication from five municipalities or they can raise a petition and collect 5000 signatures and ensure a face-to-face conversation with ministry or a buy-in or they can participate in a presidential hackathon where every year we give out five trophies that promises to implement their prototypes within a year from the presidential mandate.
+So plural version, a transcultural version of open government is what we in Taiwan has been striving for the past four years, five years now. So very simply put, it is a way to have more than one way to do democracy. Anyone anywhere in Taiwan who want to have a new way to do democracy can try it out. And having a lot of support and social innovators across 12 ministries. All they have to do is to walk into my office and talk to me for 40 minutes at a time or to hold a local town hall where would dial in. Using telecommunication from five municipalities or they can raise a petition and collect 5000 signatures and ensure a face-to-face conversation with ministry or a buy-in or they can participate in a presidential hackathon where every year we give out five trophies that promises to implement their prototypes within a year from the presidential mandate.
 
 ### Audrey Tang:
 
@@ -61,7 +61,7 @@ Right, so digital doesn’t automatically mean open as you witnessed that it cou
 
 ### Audrey Tang:
 
-And so I think the main challenge or the main limit that we’re running into is just people kind of take technology like buzzwords like internet of things, virtual reality, machine learning and so on and kind of by default think them as good. You see that in a lot of so-called smart city narratives as if like city being smart while living the citizens dumber is a good thing. So where offers smart citizens and not necessarily for smart cities. And so I think if you get the values right, if you get a design and facilitation right in the first principles, then you can very easily see that digital technology can amplify these values. But on the other hand, if you start your values by saying that the government doesn’t trust it’s citizen but nevertheless expect the citizen to trust back, it is a paradoxical expectation to begin with and then you will deploy more and more reverse technologies.
+And so I think the main challenge or the main limit that we’re running into is just people kind of take technology like buzzwords like internet of things, virtual reality, machine learning and so on and kind of by default think them as good. You see that in a lot of so-called smart city narratives as if like city being smart while living the citizens dumber is a good thing. So where offers smart citizens and not necessarily for smart cities. And so I think if you get the values right, if you get a design and facilitation right in the first principles, then you can very easily see that digital technology can amplify these values. But on the other hand, if you start your values by saying that the government doesn’t trust its citizen but nevertheless expect the citizen to trust back, it is a paradoxical expectation to begin with and then you will deploy more and more reverse technologies.
 
 ### Richard Haddock:
 
@@ -77,7 +77,7 @@ That is to say just as there are new virus like literally happening every year. 
 
 ### Audrey Tang:
 
-And because people feel helpless and insecure after seeing such a picture, they will not bother then to fact check it’s content but rather just reach for the nearest positive experience which is clicking share because that turns this personal anger into group outrage, which feels positive. And we found out that the best way to counteract such disinformation campaigns, is not take down because take down tends to actually make people even angrier, nor is it kind of just government press release that denounce the people who spread such messages, which pushes them even further away. Rather we hire professional comedians in each and every ministry to roll out funny messages, humorous messages that make fun of the ministers themselves, even the prime minister and in clarification of those messages and that are individually just funny videos and funny pictures.
+And because people feel helpless and insecure after seeing such a picture, they will not bother then to fact check its content but rather just reach for the nearest positive experience which is clicking share because that turns this personal anger into group outrage, which feels positive. And we found out that the best way to counteract such disinformation campaigns, is not take down because take down tends to actually make people even angrier, nor is it kind of just government press release that denounce the people who spread such messages, which pushes them even further away. Rather we hire professional comedians in each and every ministry to roll out funny messages, humorous messages that make fun of the ministers themselves, even the prime minister and in clarification of those messages and that are individually just funny videos and funny pictures.
 
 ### Audrey Tang:
 
@@ -109,7 +109,7 @@ Because we know that children nowadays are no longer media consumers only they�
 
 ### Audrey Tang:
 
-For the next four years were looking into establishing a digital council or a digital ministry, which is a new organization in a cabinet level that take care of the digital era issues such as protecting human rights, what we call data dignity. The dignity of people as producers of data. We’re at a moment, kind of like in an era before labor union was invented so that every single data produce vis a vis large data corporations have minuscule bargaining power and we’re looking to correct that using the principles as the early cooperatives, as the data collective coalitions and bargaining.
+For the next four years we’re looking into establishing a digital council or a digital ministry, which is a new organization in a cabinet level that take care of the digital era issues such as protecting human rights, what we call data dignity. The dignity of people as producers of data. We’re at a moment, kind of like in an era before labor union was invented so that every single data produce vis a vis large data corporations have minuscule bargaining power and we’re looking to correct that using the principles as the early cooperatives, as the data collective coalitions and bargaining.
 
 ### Audrey Tang:
 
@@ -125,7 +125,7 @@ That sounds fantastic. Actually I’m curious to hear what are the actors involv
 
 ### Audrey Tang:
 
-Yeah. We just rolled out last year the new curriculum, which is very different from every other curriculum before it because we switched into a core competency model. That puts less emphasis, I would say almost no emphasis route memorization or on standardized answers around the teachers holding the “authority” over students and instead the teachers are now just co-learners. This ideas of co-learning is very important especially for the people who are in the rural, indigenous or remote places.
+Yeah. We just rolled out last year the new curriculum, which is very different from every other curriculum before it because we switched into a core competency model. That puts less emphasis, I would say almost no emphasis rote memorization or on standardized answers around the teachers holding the “authority” over students and instead the teachers are now just co-learners. This ideas of co-learning is very important especially for the people who are in the rural, indigenous or remote places.
 
 ### Audrey Tang:
 

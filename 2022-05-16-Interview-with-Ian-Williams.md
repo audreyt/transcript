@@ -114,7 +114,7 @@ Public mental health.
 Not just the pandemic but infodemic.
 
 ### Ian Williams:
-That's right. Infodemic is a very good way of describing it. I was tough by the way you've combined the language. In some ways, the language of the epidemic with the language of...
+That's right. Infodemic is a very good way of describing it. I was struck by the way you've combined the language. In some ways, the language of the epidemic with the language of...
 
 ### Audrey Tang:
 ...of the infodemic. It's not my invention. Infodemic is the WHO invention. WHO define infodemic as not just the miss in this information but a sheer information overload that people experience during a pandemic.
@@ -137,7 +137,7 @@ That not just informs the people, but it turns this entirely anti vax sentiment 
 In a sense, the disinformation is very dangerous. In an open society, you're never going to be able to stop it because then you're playing their game. It's these strategies.
 
 ### Audrey Tang:
-Just like we can't fight a biological virus with full lockdowns, this files some jurisdictions. Could do. We can't fight the infodemic through takedowns. There are jurisdictions that use takedowns the same as they used lockdowns. Your words, brutal, casually. [laughs]
+Just like we can't fight a biological virus with full lockdowns, this fits some jurisdictions. Could do. We can't fight the infodemic through takedowns. There are jurisdictions that use takedowns the same as they used lockdowns. Your words, brutal, casually. [laughs]
 
 We can't do that because we're a liberal democracy. Instead of takedowns, we work through notice and the public notice.
 
@@ -208,7 +208,7 @@ Basically, it's a way to say live and let live with existing institutions. Repur
 ### Audrey Tang:
 I emphasize the parts that anarchism shares with early Taoism in not taking the orders and giving the orders, preferring instead voluntary association, and things like that. If we overemphasize that part, people say some individualistic. Meaning that each person should be able to disrupt whatever institutions they don't feel like. I'm like, "No."
 
-I'm actually saying that indigenous traditions, Taiwan's 20 national languages. They all exist in a plural way. It's transcultural conservativism instead of a single culture monopoly that conserve that culture to the detriment to the other 19 different languages.
+I'm actually saying that indigenous traditions, Taiwan's 20 national languages. They all exist in a plural way. It's transcultural conservatism instead of a single culture monopoly that conserve that culture to the detriment to the other 19 different languages.
 
 ### Ian Williams:
 What would you say your best definition would be of radical transparency?
@@ -300,7 +300,7 @@ Basically, if the civic hackers see something that's not responding to the emerg
 
 Every year out of the 200 or so local innovations, through a new way of voting called quadratic voting and a coaching process, which is five of those civic hacking teams...President Tsai Ing wen personally gave the awards to those five teams each year, which was shared with Taiwan was a micro projector and their needs.
 
-When you turn it on, it projects President giving you the trophy. It's self describing. Very mentor. Then through this, the President is committed to offer her support on the personnel and regulation on the budget to ton that small scale experiment into country wide innovation.
+When you turn it on, it projects President giving you the trophy. It's self describing. Very mentor. Then through this, the President is committed to offer her support on the personnel and regulation on the budget to turn that small scale experiment into country wide innovation.
 
 That's how we got, for example, the telemedicine support for the offshore islands and indigenous areas. That's how we got the ambulance transmitting to the emergency centers, instead of people calling you Jada. We can now leverage 5G transmission to make sure that the ambulance service kind of mobile hospital.
 

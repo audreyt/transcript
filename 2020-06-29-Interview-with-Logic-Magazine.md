@@ -46,7 +46,7 @@ This being a respiratory disease, even if you have all the mask produced, and we
 I would argue soap is the most important technology. It’s hands-down really there’s no alternative than soap and hand spray. On top of soap and hand spray, you can of course wear a mask to protect yourself from your own hands.
 
 ### Audrey Tang:
-It’s a threefold function. First, it protects your mouth from you own hands. Second, it reminds you to wash your hands properly. Third, it’s a social signal to remind other people to also take care of themself by washing their hands properly. That’s essential.
+It’s a threefold function. First, it protects your mouth from your own hands. Second, it reminds you to wash your hands properly. Third, it’s a social signal to remind other people to also take care of themself by washing their hands properly. That’s essential.
 
 ### Audrey Tang:
 In Taiwan, we’re billing mask as something that protects the wearer, not something that people wear to protect others. It also makes this idea easier to spread.
@@ -76,7 +76,7 @@ If they have any questions, or even suggestions, they can pick up their phone, w
 They can pick up their phone, call 1922, and say, “Hey, I know a boy who refuse to go to school,” because all you have in their district is pink medical mask and he was afraid that people would laugh at him. Then the very next day everybody in the CECC press conference start wearing pink medical mask.
 
 ### Audrey Tang:
-This very quick feedback cycle is enabled and amplified by digital technology, but as its core is still the CECC officers having a face-to-face meeting with journalists every day, every 2:00 PM, answering every question.
+This very quick feedback cycle is enabled and amplified by digital technology, but at its core is still the CECC officers having a face-to-face meeting with journalists every day, every 2:00 PM, answering every question.
 
 ### Ann Chen:
 I was hearing about the press conferences, how the journalists are allowed to ask questions exhaustively.
@@ -109,7 +109,7 @@ It’s always translated into a memetic picture. That is to say, a funny Interne
 What I’m trying to get at is that if the journalists are allowed only to ask the questions in one exchange per day then people won’t satisfy with the answers that CECC pushes out, but because it’s multiple rounds the journalists then works as co-detective with the CECC.
 
 ### Audrey Tang:
-In fact, at one point Commander Chen Shih-chung said, “OK, how about we off you all,” the journalists, “free epidemiology classes so that you can do the contact tracing with us.” He said that very sincerely.
+In fact, at one point Commander Chen Shih-chung said, “OK, how about we offer you all,” the journalists, “free epidemiology classes so that you can do the contact tracing with us.” He said that very sincerely.
 
 ### Audrey Tang:
 Indeed, VP, at that time, Chen Chien-jen, the author of the epidemiology textbook, recorded such a crash course, and so everybody can learn some basic terminology so that the journalists can ask questions on a more equal scientific ground.
@@ -309,7 +309,7 @@ Yeah, single-payer.
 …single-payer system and that collected database, do you think this kind of method or strategy could work in places without this ease of being able to, because everyone could scan their ID card and immediately get masks?
 
 ### Audrey Tang:
-What’s the most important is to communicate that mask are there to protect you from your own hands. You can do this with cute dog pictures. US people also like cute dog pictures. I don’t think there’s anything particularly Taiwanese about cute dogs. Actually, I think the Dodge meme came from US. Use more cute dogs. Don’t panic.
+What’s the most important is to communicate that mask are there to protect you from your own hands. You can do this with cute dog pictures. US people also like cute dog pictures. I don’t think there’s anything particularly Taiwanese about cute dogs. Actually, I think the Doge meme came from US. Use more cute dogs. Don’t panic.
 
 ### Ann Chen:
 It seems like a unified, effective messaging is more important.
@@ -348,7 +348,7 @@ We’re not anti-government.
 Not totally…
 
 ### Audrey Tang:
-We’re basically saying that the government should work with people, trusting people, making itself transparent to the people, that the government should not just say we’re working for people. We know the best. We’re not against government per say, but we’re against this kind of top down way of essentially patriarchal imagination of government.
+We’re basically saying that the government should work with people, trusting people, making itself transparent to the people, that the government should not just say we’re working for people. We know the best. We’re not against government per se, but we’re against this kind of top down way of essentially patriarchal imagination of government.
 
 ### Ann Chen:
 It also seems like the government is adopting those strategies as well.
@@ -583,7 +583,7 @@ It’s more privacy-preserving in two accounts. First, it’s not GPS. We’re n
 Even the SMS that’s sent when your phone moves out of the digital fence to the local household managers or local police. These are already a well-understood system called cell broadcasting. Like after an earthquake, if you’re in an area that’s dangerous because of landslide potential, you get such a SMS, or, if there’s a typhoon and you’re in a flood area, and so on.
 
 ### Audrey Tang:
-People understand intuitively how that works. Instead of collecting new data or requiring you to install a new app, we repurpose exists existing data collected and existing notification mechanisms to create something that people are more comfortable with.
+People understand intuitively how that works. Instead of collecting new data or requiring you to install a new app, we repurpose existing data collected and existing notification mechanisms to create something that people are more comfortable with.
 
 ### Ann Chen:
 It calms people’s fears that more of their private data is being taken.
@@ -637,7 +637,7 @@ We’re working on the bubble.
 You’re working on the bubble.
 
 ### Audrey Tang:
-The trouble bubble. We initially will be very careful. People coming from lower-risk areas, they still need to do quarantine, but maybe shorter, as short as five days. They still have to take our RT-PCR before boarding and after the quarantine.
+The travel bubble. We initially will be very careful. People coming from lower-risk areas, they still need to do quarantine, but maybe shorter, as short as five days. They still have to take our RT-PCR before boarding and after the quarantine.
 
 ### Ann Chen:
 It’s still essentially the same system that you’re following. It’s just shortening the days.

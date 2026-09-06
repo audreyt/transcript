@@ -136,7 +136,7 @@ If the first action they do is making one edit on Wikipedia, making one edit on 
 
 We have designed competence education building a more tangible thing because when you're younger, tangible things remember better. Only older kids have abstract memory. When you're younger, something like Lego. Something you can touch makes a lot more sense. The same applies for very senior people.
 
-The tangible things that enables people to measure air quality, measure water quality, to enter data collaborative. I believe that is something that both our countries excel. The MB IoT, or LoRa or the Internet of beings network. That's one angle to approach. The other angle is when it comes to tele education because both our countries are forced into tele-education by the pandemic.
+The tangible things that enables people to measure air quality, measure water quality, to enter data collaborative. I believe that is something that both our countries excel. The NB-IoT, or LoRa or the Internet of beings network. That's one angle to approach. The other angle is when it comes to tele education because both our countries are forced into tele-education by the pandemic.
 
 There's no established traditions of tele-education in either of our countries before the pandemic, so just helping the teachers and the students and people who learn to motivate better on self regulated learning, is another way of approaching this.
 
@@ -181,7 +181,7 @@ My own experience working with public servants, as I mentioned, is in the family
 
 My grandma, who is raised speaking Tâi-gí and Nihongo, actually had a Japanese name and grew up when Taiwan was considered part of Japanese territory.
 
-Within my family, there's easily four languages going on. Of course, they share the kanji writing system. Eventually, everyone learned Mandarin, but still with a heavy accent. I was raised by my grandparents and uncles and aunts along with my parents, and I learned about transculturalism very earily on.
+Within my family, there's easily four languages going on. Of course, they share the kanji writing system. Eventually, everyone learned Mandarin, but still with a heavy accent. I was raised by my grandparents and uncles and aunts along with my parents, and I learned about transculturalism very early on.
 
 There's no particular side to take. Instead, I take all the sides. After all, all the different positions have the same shared value because they raised me together. They wanted the future generation to enjoy living at least as good or better than the current generation.
 

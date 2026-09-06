@@ -193,10 +193,10 @@ Humorous way, and a highly interactive way.
 Yeah.
 
 ### Audrey Tang:
-That’s what I mean by openness. People will see that the deputy premiere and the premiere have a public dialog on social media around this clarification. That’s very important. Also, I will also add to that point that live stream is a really good way for interaction, because people can keep commenting on a social object that evolves with time.
+That’s what I mean by openness. People will see that the deputy premier and the premier have a public dialog on social media around this clarification. That’s very important. Also, I will also add to that point that live stream is a really good way for interaction, because people can keep commenting on a social object that evolves with time.
 
 ### Audrey Tang:
-We have our deputy premiere, for example, live stream a session where he play a popular Taiwanese video game. It’s very funny, actually, to just watch him stumble.
+We have our deputy premier, for example, live stream a session where he play a popular Taiwanese video game. It’s very funny, actually, to just watch him stumble.
 
 > (laughter)
 
@@ -233,7 +233,7 @@ Yes, Winnie the Pooh. Never would have imagined it took on such political connot
 That’s right, that’s right. I’ll move on. That’s our first line of defense. Our second line of defense, which thanks partly to NDI’s contributions, is essentially a crowdsourced community that does fact checking. We have two tiers of that. The first tier, you’re already very familiar with, is a Line bot called Cofacts. Anyone can flag something as spam by forwarding it to the bot.
 
 ### Audrey Tang:
-The bot goes with a response, just like a wiki that says, “Here are our netizens’ input of fact checking” there may be several “about this one.” A bot from Trend Micro, which is our leading antivirus company here, then if you invite that bot into your chatroom, they automatically scans each incoming message. They didn’t keep a log, but they check it against the fact check Cofact provides.
+The bot goes with a response, just like a wiki that says, “Here are our netizens’ input of fact checking” there may be several “about this one.” A bot from Trend Micro, which is our leading antivirus company here, then if you invite that bot into your chatroom, they automatically scans each incoming message. They didn’t keep a log, but they check it against the fact check Cofacts provides.
 
 ### Audrey Tang:
 Then immediately responds if it is actually already clarified disinformation with a hopefully more funny clarification message. It’s true social sector private sector partnership. Because the social sector also has a bot called Meiyu that looks very much like the Trend Micro bot, actually works very similarly, and is open source.
@@ -447,7 +447,7 @@ They basically teach media literacy by having the perpetrator of the mass shooti
 Wow.
 
 ### Audrey Tang:
-It teach media literary in a very succinct way of how framing works, how fact checking works, how media bias perpetuates itself, how pressures from advertisers work, how content moderation works, and so on. All in all, using a very compelling, and on IMDb, 95 percent approval, first rate cast.
+It teach media literacy in a very succinct way of how framing works, how fact checking works, how media bias perpetuates itself, how pressures from advertisers work, how content moderation works, and so on. All in all, using a very compelling, and on IMDb, 95 percent approval, first rate cast.
 
 ### Shari Bryan:
 That’s very cool.

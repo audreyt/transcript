@@ -283,7 +283,7 @@ So the main challenge is that there's a generation of people whose identities ar
 So the main work that we do is just to find new patterns. Sometimes as simple as saying there's no reply button that creates a thread, but rather elevating like the community notes on Twitter, only the voices that speaks broadly to the people of dividing ideologies. So nonviolent communication actualized as code.
 
 ### Audrey Tang:
-By creating those spaces, we magically then see that the young people who care about environmental sustainability and so on, can see that the people who care about, say, innovation in material sciences, in community organization, or very diverse fields, they now see a common goal to band together instead of fighting over the trivialities, the back-shedding.
+By creating those spaces, we magically then see that the young people who care about environmental sustainability and so on, can see that the people who care about, say, innovation in material sciences, in community organization, or very diverse fields, they now see a common goal to band together instead of fighting over the trivialities, the bike-shedding.
 
 Raising the agenda-setting power to the collective intelligence through a pro-social space, that's the main challenge.
 

@@ -367,7 +367,7 @@ The norm in Taiwan is that you deploy facial recognition only when you opt into 
 It is always with the idea that it should create a tangible public benefit, and the governance needs to be either owned or closely monitored by the social sector. In Taiwan currently, we don’t have an independent data protection authority.
 
 ### Audrey Tang:
-The usual legitimacy building device that is conveniently specified in the GDPR is not here in Taiwan. Taiwan, the closest we have is the Ethic Board within the MOHWM within each agency within the MOHW, but the legal interpretation is done by the National Council.
+The usual legitimacy building device that is conveniently specified in the GDPR is not here in Taiwan. Taiwan, the closest we have is the Ethic Board within the MOHW within each agency within the MOHW, but the legal interpretation is done by the National Council.
 
 ### Audrey Tang:
 None of these are independent, multi-stakeholder legitimacy devices. When they make a decision, even if they publish the entire transcript as the NHI insurance committee actually do, people will say that they are too professional.

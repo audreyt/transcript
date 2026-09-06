@@ -181,7 +181,7 @@ In Taiwan, even the constitution itself is under constant amendment. We’re a v
 There are few places in the world where the constitution, the Referendum Act, and the very methods of election, whether we’re a presidential or a parliamentarian polity, are still being hotly debated and innovative.
 
 ### Audrey Tang:
-For many jurisdictions, the system, whatever existed for regulation, is already there. It’s not built as adaptive, and certain not agile. In order for the governance system to support the inclusion value, which is the idea of DIGI⁺, the last link is the missing one.
+For many jurisdictions, the system, whatever existed for regulation, is already there. It’s not built as adaptive, and certainly not agile. In order for the governance system to support the inclusion value, which is the idea of DIGI⁺, the last link is the missing one.
 
 ### Audrey Tang:
 There are many people working on digitalization that is happy to support innovation from the digitization viewpoint, support governance from an innovation viewpoint, but supporting inclusion from a governance as a technology viewpoint, that is quite missing. That’s literally the last line of the Declaration of the Asia Digital Interdependence.
@@ -316,7 +316,7 @@ If you look at who participated in the age of digital interdependence consultati
 They are recent enough – it was just last year, last June, if I am not mistaken – and so yeah, this report include already the list of stakeholders that I would suggest you to pursue.
 
 ### Erich Prem:
-Brilliant. I’m nearly through with the questions. Let me ask you one more question, which I think is quite important for us here in making these decisions. It’s this question about a rational approach versus an emotional approach to the cureated event.
+Brilliant. I’m nearly through with the questions. Let me ask you one more question, which I think is quite important for us here in making these decisions. It’s this question about a rational approach versus an emotional approach to the curated event.
 
 ### Erich Prem:
 Much of regulation has this, typically, it’s all very rational. It’s about rules, how they are to be followed, and the consequences. Then again, we are human beings. We also approach things with emotion. It’s about the feeling that something has.

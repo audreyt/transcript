@@ -148,7 +148,7 @@ It is a small thing, but why is there no reply button? From a participation pers
 Can you explain us why you’re so happy that there is no reply button on the screen?
 
 ### Audrey Tang：
-I’m also very happy that it participate pseudonymously. This is definitely not your ordinary habemus conversation deliberation. \[laughs\] There’s a very simple example here in the Uber case, is that for people who are driving for Uber at the time, they are actually doing very questionably legal things.
+I’m also very happy that it participate pseudonymously. This is definitely not your ordinary Habermasian conversation deliberation. \[laughs\] There’s a very simple example here in the Uber case, is that for people who are driving for Uber at the time, they are actually doing very questionably legal things.
 
 ### Audrey Tang：
 If they are required to show up with their real name and/or have a reply button where they can question and even interrogate essentially each other, very quickly, you will get people who get pulled into those divisive statements, like what is sharing economy, is Uber even sharing economy, is it sharing economy if you are not carpooling, and things like that, which is great from a debate point of view.
@@ -157,7 +157,7 @@ If they are required to show up with their real name and/or have a reply button 
 What we want is actually design thinking, just to explore people’s feelings. The facts and interpretations are what the traditional deliberations focus on. What Pol.is does is that it adds a step called reflection of feelings between the facts and interpretations.
 
 ### Audrey Tang：
-When people can see that we are a polity after all, we have very similar feelings, for example, around registration, around insurance, and things like that, then people can then expand to the kind of face-to-face, habemus-style deliberation that you just alluded to, and we live-stream them, too.
+When people can see that we are a polity after all, we have very similar feelings, for example, around registration, around insurance, and things like that, then people can then expand to the kind of face-to-face, Habermasian-style deliberation that you just alluded to, and we live-stream them, too.
 
 ### Audrey Tang：
 What we are doing is essentially crowdsourced agenda setting that focus on the things that people have broad rough consensus about, instead of the debate that leads to polarization, and maybe find consensus, but most of the time just enmity.
@@ -199,7 +199,7 @@ I seek out the least connected places, the remote islands, the rural places, the
 Then connect through video conference to the municipality and the Social Innovation Lab where the 12 ministerial people, section chief, or above, listen to what is happening around Taiwan. By viewing connected spaces for people who are going to be included in this discussion, for them it’s just another town hall. It’s just I arrived a couple of days earlier and do an ethnography or hanging out.
 
 ### Audrey Tang：
-I hang out with them for a couple of days and make sure that I can understand where they are coming from. Then we empower the people closest to the paint by essentially broadcasting, amplifying their message to the people in municipalities and so on. It always augments face to face conversation. It doesn’t replace face to face deliberation.
+I hang out with them for a couple of days and make sure that I can understand where they are coming from. Then we empower the people closest to the pain by essentially broadcasting, amplifying their message to the people in municipalities and so on. It always augments face to face conversation. It doesn’t replace face to face deliberation.
 
 ### Dominik Hierlemann：
 I’ve got one more question that I’d like you to answer, then I want to bring in our experts. I also want to encourage all of you to use the chat. It’s a fascinating conversation. We don’t have that much space left to write on your own. Use the chat and then we’re going to try to bring in as many comments as possible. I’ve been working in the field of citizen participation for a while.
@@ -214,7 +214,7 @@ If so, what are you doing to get the trust of your fellow politicians and of the
 I just replied it on the chat room but will say it loud again. \[laughs\] The solution is simply to show that for lower level bureaucrats, it saves their time. It’s much more preferred than sifting through endless phone calls. Each phone doesn’t know that 50 people have already made the same questions again.
 
 ### Audrey Tang：
-Having a semi-automated system that can generate cute dog pictures that serves frequently answered questions as memes. For example, this is our physical distancing advertisement that says if you are indoor keep three Sheba Inu away, and if your outdoor keep two of those dogs away.
+Having a semi-automated system that can generate cute dog pictures that serves frequently answered questions as memes. For example, this is our physical distancing advertisement that says if you are indoor keep three Shiba Inu away, and if your outdoor keep two of those dogs away.
 
 ### Audrey Tang：
 These dogs are basically companion animal of our participation officer in charge of deliberations and citizens engagement for the Ministry of Health and Welfare. Whenever there is something that need to be discussed, for example you wear a mask to do what? To protect yourself from your own unwashed hand. You go back home and take a picture of the dog. This is called humor over rumor.
@@ -229,13 +229,13 @@ If you introduce something without considering some stakeholders, in Taiwan, we�
 Also, the most compelling argument is that in those face to face meetings, in those Presidential Hackathon conversations in those teams and so on, the public servants themselves are recognized as the experts as they are. They are no longer anonymized abstract PowerPoints or Word documents, where we use Open Office, but you get the idea, Liberal Office.
 
 ### Audrey Tang：
-The idea is that they engage in their work also more because they get a credit if I amplify their idea. I always say, oh, this is the public servant like 楊金亨 — former participation officer at Ministry of Finance — who decided to work with the petitioner that said our text filling system is “explosively hostile” so they get promoted much more quickly. If there’s anything that is risky, I absorb the risk.
+The idea is that they engage in their work also more because they get a credit if I amplify their idea. I always say, oh, this is the public servant like 楊金亨 — former participation officer at Ministry of Finance — who decided to work with the petitioner that said our tax filing system is “explosively hostile” so they get promoted much more quickly. If there’s anything that is risky, I absorb the risk.
 
 ### Audrey Tang：
 By absorbing the risk, spreading the credit, reducing the time spent, and also make sure that there’s less risk of everybody involved, that is the Pareto improvement, we never trade one for the others. We must always make movements that increase one of those access without sacrificing the other field. This may look slow in the beginning, but it grows exponentially.
 
 ### Dominik Hierlemann：
-Thank you, Audrey. Bureaucrats are getting ready for their ideas, not just the minsters and politicians. That’s the time to bring in another politician, Eva Maydell, a member of the European Parliament, and President of European Movement International.
+Thank you, Audrey. Bureaucrats are getting ready for their ideas, not just the ministers and politicians. That’s the time to bring in another politician, Eva Maydell, a member of the European Parliament, and President of European Movement International.
 
 ### Dominik Hierlemann：
 Eva, I’m not sure whether your video is working right now, but I’m sure you can hear us and we can all hear you. From what you’ve heard, what can the EU learn from Taiwan? Do we need more coverage, more technical skills? What would you love to know from Audrey Tang?
@@ -289,7 +289,7 @@ We also had a boost of confidence in doing collective things and had a bunch of 
 I think also in Europe, the biggest problem is too much focusing on the problem itself, too much focusing on the privacy issues at some point that can block and bridge the creative process. We should more focus on solutions in order for us to be able to move faster and to take action.
 
 ### Anna Piperal：
-Maybe fail, but maybe find out what is the way to move forward. You are fascinating for me that you’re moving forward with the situation that it is today, and how we can embrace this, what is going on, instead of creating and ideal solution.
+Maybe fail, but maybe find out what is the way to move forward. You are fascinating for me that you’re moving forward with the situation that it is today, and how we can embrace this, what is going on, instead of creating an ideal solution.
 
 ### Anna Piperal：
 My question is very simple. Do you consider that coronavirus, that we in Europe is just very devastating for many countries, but could it be a good thing that will help to boost this collaboration, e-participation around the world, e-inclusion? Do you think it has a positive impact?

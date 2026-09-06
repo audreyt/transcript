@@ -213,7 +213,7 @@ National.
 ### Audrey Tang:
 It's used for town halls in Bowling Green in Kentucky. In many places, if you check Pol.is website, you will see. But mostly, they are for municipalities or districts and so on. And we take those small-scale technology and make it national, so that everybody can chime in.
 
-And very quickly, we saw on the Uber conversation, that everybody actually agreed on most of the points. There's just one that people don't agree. Whether to call it sharing economy, or geek or extractive economy, that's different ideologies. But actually, everybody agrees there should be insurance, there should be registration, they should undercut existing meters, but surge pricing is fine and so on.
+And very quickly, we saw on the Uber conversation, that everybody actually agreed on most of the points. There's just one that people don't agree. Whether to call it sharing economy, or gig or extractive economy, that's different ideologies. But actually, everybody agrees there should be insurance, there should be registration, they should undercut existing meters, but surge pricing is fine and so on.
 
 So, when people learn that everyone across the party aisles actually do agree on these things…
 

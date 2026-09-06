@@ -184,7 +184,7 @@ In Hong Kong, the actual power control over budget, policy, and things like that
 Are you proud of this young generation in Hong Kong?
 
 ### Audrey Tang:
-I’m proud of the young generation anywhere that can use the Internet the liberate people out of the old idea that, if you’re only alone in your vicinity that care about a social issue, you cannot act, because your neighbors are against it.
+I’m proud of the young generation anywhere that can use the Internet to liberate people out of the old idea that, if you’re only alone in your vicinity that care about a social issue, you cannot act, because your neighbors are against it.
 
 ### Audrey Tang:
 People are learning that, if you get onto the cyberspace, you can meet tens of thousands of people who feels just like you, but independently isolated. They can form a collective force and to do collective action using hashtags.

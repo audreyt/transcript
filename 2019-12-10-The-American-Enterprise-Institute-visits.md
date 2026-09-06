@@ -157,7 +157,7 @@ Again, as an organization focused on Taiwan however, as GTI is, we’re literall
 You certainly don’t need me to tell you that Taiwan’s experience matters. But I think there is a growing appreciation in the world for what’s happening in Taiwan because the rest of the world is facing it now. Taiwan’s been facing United Front for a very, very long time.
 
 ### Mark Stokes:
-Since 1937. Russell and I back in 2012, 2013 spent about a year, no funding, no particular reason other than…Well, there’s a background to it. It focused on one aspect of Chinese political warfare, Community Party political warfare at the PLA side, which is probably one of the most overlooked aspects of PLA military operations, which is the pervasive role of the political work system.
+Since 1937. Russell and I back in 2012, 2013 spent about a year, no funding, no particular reason other than…Well, there’s a background to it. It focused on one aspect of Chinese political warfare, Communist Party political warfare at the PLA side, which is probably one of the most overlooked aspects of PLA military operations, which is the pervasive role of the political work system.
 
 ### Mark Stokes:
 I’m until today somewhat biased in terms of behind every action, whether its targeted against Taiwan or the US, a bias that, first suspect, whether it’s basically applying perception management techniques of disinformation and the like, going through PT, whatever term he wants to use, injecting false information.
@@ -172,7 +172,7 @@ I’d be interested, I think all would, in your portfolio, background about what
 My office is literally, as we were saying, one delegate from each ministry that wish to work out loud as we say here. You saw the posted notes and all the various artifacts as you walked in. It’s basically the system we’re setting up and getting about 12 ministries to participate in day-to-day conversations with the public.
 
 ### Audrey Tang:
-This is because, with social media, we’ve seen that people feel disconnected with the government, although the distance is exactly the same in information theory terms if you vote is three bits every four years and so on. But people have much more closer relationship with one another using hashtags now.
+This is because, with social media, we’ve seen that people feel disconnected with the government, although the distance is exactly the same in information theory terms if your vote is three bits every four years and so on. But people have much more closer relationship with one another using hashtags now.
 
 ### Mark Stokes:
 Sort of a transparency mission?
@@ -247,7 +247,7 @@ Because as Americans, you can only control ourselves. You can’t tell the Solom
 In other words, we take responsibility to move toward a more normal, stable, constructive relationship instead of…
 
 ### Audrey Tang:
-You’re basically brainstormign with your friends here, someplace here, \[laughs\] because they will categorize people’s opinions according to the clusters.
+You’re basically brainstorming with your friends here, someplace here, \[laughs\] because they will categorize people’s opinions according to the clusters.
 
 ### Michael Mazza:
 It surprises me that that’s a very divisive…
@@ -361,10 +361,10 @@ I’m with you there. The very reason why we run those four digital dialogues is
 The bilateral issue.
 
 ### Audrey Tang:
-The process to get to a bilateral is of course more important than the wording of the bilateral. In the second dialogue, which is about economy, of course, people talk about micro-FDAs for precisely this reason, because we know the full FDA is difficult for administration on both sides.
+The process to get to a bilateral is of course more important than the wording of the bilateral. In the second dialogue, which is about economy, of course, people talk about micro-FTAs for precisely this reason, because we know the full FTA is difficult for administration on both sides.
 
 ### Audrey Tang:
-Maybe it’s possible to just look at some parts that already have broad consensus and just sign a rapid series of micro-FDAs, and each would be a bilateral. That reaffirms, as you said, the legitimacy of the government-to-government relationship and so on. I’m with you on that point. I’m just saying that the process there, as I hear from you, is more important than the actual wording of the communiqué.
+Maybe it’s possible to just look at some parts that already have broad consensus and just sign a rapid series of micro-FTAs, and each would be a bilateral. That reaffirms, as you said, the legitimacy of the government-to-government relationship and so on. I’m with you on that point. I’m just saying that the process there, as I hear from you, is more important than the actual wording of the communiqué.
 
 ### Mark Stokes:
 Exactly. There’s a precedent for this. It goes back into the history, but I was in DoD for seven years, in charge of US-Taiwan defense relations. Yeah, back in those days, it was a blossoming, because always sitting around doing ideas, crazy ideas that actually never went anywhere – some good, some bad.
@@ -442,13 +442,13 @@ I think we mostly showed that how do we approach these issues for both disinform
 We run far more workshops in Thailand. I think three workshops now in Bangkok. When we run the workshops, I think all the major parties people are there. They’re all quite interested.
 
 ### Mark Stokes:
-Our institute has a program. It’s actually State Department Democracy, DRL funded. I get some funding from them and NED. The DRL one is of course rehabilitation of political prisoners. It’s support for LGTBQ rights. Burma’s one of the members. As well, NED side is looking at Chinese political warfare infiltration. It’s a big problem.
+Our institute has a program. It’s actually State Department Democracy, DRL funded. I get some funding from them and NED. The DRL one is of course rehabilitation of political prisoners. It’s support for LGBTQ rights. Burma’s one of the members. As well, NED side is looking at Chinese political warfare infiltration. It’s a big problem.
 
 ### Mark Stokes:
-The Philippines in interesting because there’s been I would say credible information that it has been a long target of again PLA in terms of infiltration targeting the military. I’m just flabbergasted because a lot goes on with Japan trilateral. I just haven’t seen anything that’s been initiated in terms of trilateral context between US, Taiwan, and the Philippines.
+The Philippines is interesting because there’s been I would say credible information that it has been a long target of again PLA in terms of infiltration targeting the military. I’m just flabbergasted because a lot goes on with Japan trilateral. I just haven’t seen anything that’s been initiated in terms of trilateral context between US, Taiwan, and the Philippines.
 
 ### Audrey Tang:
-That’s right. Japan is very active, as you said. The coined the term Indo-Pacific in the first place and also joined the GCTF trilateral. We visit Japan quite a few times too.
+That’s right. Japan is very active, as you said. They coined the term Indo-Pacific in the first place and also joined the GCTF trilateral. We visit Japan quite a few times too.
 
 ### Russell Hsiao:
 Minister, if I may, I think one of the things that you’ve highlighted in the course of the initiatives that your government is undertaking is how you are utilizing technology to promote national cohesion in Taiwan. I think that’s an important element that is often missing in our discussion about having a better understanding. What are the metrics of national cohesion?
@@ -553,7 +553,7 @@ We include that in K-12 education curriculum and lifelong education, of course. 
 What we’re teaching now to the teachers are what we call media competencies. Meaning that, instead of being readers and viewer, the students are learning become producers essentially, becoming their own broadcast stations, learning to participate in group that cares about fact-checking, that cares about source-checking.
 
 ### Audrey Tang:
-That participate in the collaborative efforts such a Cofacts, which fact-checks every reported voluntarily message on the Line messaging system all the way all the way to the presidential election fact-check project which is done by a dozen of institutional and social media with almost a thousand contributors. Just typing in all the public speeches by the three presidential candidates and fact-check each one of them semi-automatically.
+That participate in the collaborative efforts such as Cofacts, which fact-checks every reported voluntarily message on the Line messaging system all the way all the way to the presidential election fact-check project which is done by a dozen of institutional and social media with almost a thousand contributors. Just typing in all the public speeches by the three presidential candidates and fact-check each one of them semi-automatically.
 
 ### Audrey Tang:
 It’s a really good crowdsourced fact-checking exercise. The point here is that soon as people learn how journalism works, they held themself to a higher standard.
@@ -625,7 +625,7 @@ What effect does this have on social psychology? If you’re in junior high or s
 Quite a few. I think that’s exactly why the MOFA, the foreign service, for the past three years now has settled on this Taiwan Can Help slogan. What we’ve found is that…This is not entirely a MOFA design I must confess. Only this part is MOFA design. It’s part of my name card.
 
 ### Audrey Tang:
-What we say here essentially is that we’re a good friend to anyone who are trying to achieve the sustainable goals. Unlike pretty much any of our nearby jurisdictions, we have pretty good goals achievement in terms of human development index but also pretty good experience of coming from a lesser developed part in Egypt the 17 goals to now which is were we’re doing very well.
+What we say here essentially is that we’re a good friend to anyone who are trying to achieve the sustainable goals. Unlike pretty much any of our nearby jurisdictions, we have pretty good goals achievement in terms of human development index but also pretty good experience of coming from a lesser developed part in Egypt the 17 goals to now which is where we’re doing very well.
 
 ### Audrey Tang:
 Every year we highlight different part of the goals. This year, we highlight climate change and life underwater. These are the two colors.
@@ -768,7 +768,7 @@ The Balkanization.
 …the Balkanization of the Internet, or the fragmentation of the Internet. What are your thoughts about that trajectory? Are we on that trajectory?
 
 ### Russell Hsiao:
-What can open societies do to again, ensure that the Internet does empower not only the people in our socities, as we should certainly protect the freedoms we enjoy in open societies, but to help those who are less fortunate and can also access and benefit from the empowering aspect of the Internet that has helped fuel so much openness and freedom in our societies?
+What can open societies do to again, ensure that the Internet does empower not only the people in our societies, as we should certainly protect the freedoms we enjoy in open societies, but to help those who are less fortunate and can also access and benefit from the empowering aspect of the Internet that has helped fuel so much openness and freedom in our societies?
 
 ### Russell Hsiao:
 Do you have any thoughts on the Balkanization of the Internet, and how you see the long-term development of the Internet, for instance, as someone whose life is dedicated to technological empowerment, and things like that?
@@ -777,7 +777,7 @@ Do you have any thoughts on the Balkanization of the Internet, and how you see t
 Balkanization happens on the tactical and the strategic levels. The tactical level is the everyday operation of the Great Firewall and the Great Cannon, for that matter. The strategy-level is establishing Internet with PRC characteristics as a new norm, and a viable alternative norm. These are two very different things. They really shouldn’t be discussed as kind of one thing.
 
 ### Audrey Tang:
-On the tactical level, I’m cautiously optimistic because of two things. First, the PRC have never cut access to GitHub, and GitHub is kind of the cannery. If they cut access to GitHub, it means that…
+On the tactical level, I’m cautiously optimistic because of two things. First, the PRC have never cut access to GitHub, and GitHub is kind of the canary. If they cut access to GitHub, it means that…
 
 ### Audrey Tang:
 GitHub is where all the cutting-edge AI and open source and technology research happens. It is a social network run by Microsoft for everybody to relinquish their copyright and patents so that people can build upon ideas, called the open-source movement.

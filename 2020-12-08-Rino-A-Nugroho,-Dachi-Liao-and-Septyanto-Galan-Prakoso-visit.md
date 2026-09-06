@@ -243,7 +243,7 @@ It’s already trending on certain groups…
 It’s already trending?
 
 ### Audrey Tang：
-…in the LINE platform. Because they are end-to-end encrypted, you can’t find them with a Google search or something. Between the time the that it gets trending on selected LINE groups to the time that it gets trending on public media or on public social media, this is the period that we need to work a clarification message. We’re already aware of it, but it has not yet affected a majority of the population.
+…in the LINE platform. Because they are end-to-end encrypted, you can’t find them with a Google search or something. Between the time that it gets trending on selected LINE groups to the time that it gets trending on public media or on public social media, this is the period that we need to work a clarification message. We’re already aware of it, but it has not yet affected a majority of the population.
 
 ### Rino Nugroho：
 Very interesting. One of the way to fight the disinformation is just giving all the story before the fake news be observed. I think that’s the best strategy to use.

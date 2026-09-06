@@ -34,10 +34,10 @@ We hear maybe there’s 10 people waiting to join PDIS from the foreign service,
 Is there a team dedicated to fake news within PDIS?
 
 ### Audrey Tang:
-No. Not at all. I’m personally responsible for part of the strategy to counter this information, but it’s not the core work of PDIS. I’m personally responsible to foster meaningful collaboration between the social sector, and the global platforms.
+No. Not at all. I’m personally responsible for part of the strategy to counter disinformation, but it’s not the core work of PDIS. I’m personally responsible to foster meaningful collaboration between the social sector, and the global platforms.
 
 ### Audrey Tang:
-To be specific, the platform that have signed on the norm package to counter this information, namely Yahoo, Google, Facebook, PTT, LINE and such.
+To be specific, the platform that have signed on the norm package to counter disinformation, namely Yahoo, Google, Facebook, PTT, LINE and such.
 
 ### Anne-Sophie Labadie:
 Since it’s been implemented, have you noticed any improvement in the way citizens are using this gov, this platform?
@@ -115,13 +115,13 @@ How to counter the misinformation? because it’s a core problem in Taiwan.
 Basically by mimetic engineering. That is to say make our clarifications, our messages fun, and fun is a great way to make sure that people who see the message enjoy the message.
 
 ### Audrey Tang:
-This information is mostly predicated. The personal anger being amplified into a group outrage on social media, but if we can turn anger into fun, into humor, and humor that makes fun not of others, but of one self, then that kind of messages tends to spread virally.
+This information is mostly predicated. The personal anger being amplified into a group outrage on social media, but if we can turn anger into fun, into humor, and humor that makes fun not of others, but of oneself, then that kind of messages tends to spread virally.
 
 ### Audrey Tang:
 When people are laughing about a matter, then afterward, they will be much more calm, and able to co-create a common polity without being attracted to outrage because these two pathways in the mind is mutually exclusive. If you see something, and find it’s humorous, then you cannot feel outrage about it, and vice-versa.
 
 ### Anne-Sophie Labadie:
-Now, does it mean that you sensor a meme or no?
+Now, does it mean that you censor a meme or no?
 
 ### Audrey Tang:
 No. We are just making jokes quickly after each rumor rolls out. Within two hours, average one hour now, whenever there’s a rumor, we just made a joke about it.
@@ -156,7 +156,7 @@ Can you give a specific example for what the media captures, and what’s your c
 Sure. For example, in 2015 when we first used the term rough consensus, and Polis as a civic technology, at that time, the topic was around UberX or people who don’t have a professional driver’s license driving to work, picking up a stranger that they meet from the app. Taking a detour to take that stranger to their destination, and charging them for it. Like what do you feel about this?
 
 ### Audrey Tang:
-There are quite a few divisive issues. For example, there is one that says Uber’s service is so good that even when taxis are wishing past me, I will still use my phone to call an Uber. That’s very divisive.
+There are quite a few divisive issues. For example, there is one that says Uber’s service is so good that even when taxis are whizzing past me, I will still use my phone to call an Uber. That’s very divisive.
 
 ### Audrey Tang:
 Media tends to capture these anecdotal statements, and make it seem like a polarizing dialogue. Actually regardless of whether they’re Uber drivers, or Uber passengers or taxi drivers, or other passengers, everybody agreed that insurance is important. That registration is important. That some sort of mutual feedback mechanism is important.
@@ -186,7 +186,7 @@ Yeah. Usually, we have what we call seed comments in the sense that we first try
 It’s the minimum. Three groups.
 
 ### Audrey Tang:
-Yeah. Because if it’s entirely bilateral, then it could be framed as a zero sum game. Like a tag of war, but if there’s at least three stakeholder groups, then some sort of common value is usually easier to form.
+Yeah. Because if it’s entirely bilateral, then it could be framed as a zero sum game. Like a tug of war, but if there’s at least three stakeholder groups, then some sort of common value is usually easier to form.
 
 ### Anne-Sophie Labadie:
 Basically one coming from the government, and two, other stakeholders.
@@ -213,7 +213,7 @@ What could be improved?
 A lot. Like for the additional dialogue for example, we deployed for the first time bilingual because it’s between the Taiwan and US communities. Everyone needs to be able to comment in Mandarin, or in English, and have the other side, CA accurate translation of their statements in order for this voting to work.
 
 ### Audrey Tang:
-Just internationalization or localization is one improvement we made on Polis. The other one is to make sure that it can run in our service security audited data sensor instead of a public cloud.
+Just internationalization or localization is one improvement we made on Polis. The other one is to make sure that it can run in our service security audited data center instead of a public cloud.
 
 ### Anne-Sophie Labadie:
 Is it a bigger budget? Does it cost a lot, this kind of technology?

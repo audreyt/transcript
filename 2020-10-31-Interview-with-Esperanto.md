@@ -201,7 +201,7 @@ We don’t have jurisprudence toward Facebook, we understand that, but the peopl
 Because of that, last November, Facebook rolled out the advertisement library in Taiwan, at that time, the only jurisdiction that they roll out with a real-time radical transparency that will ban all the foreign payment of the election-related campaign, but also the domestic donors need to be radically open, like submitting their own national ID or company ID.
 
 ### Audrey Tang:
-It’s all structured data so that anyone who want to try any dark pattern will be discovered and shamed immediately. The way to go out of this “control the Internet” force dilemma is for the social sector to establish a norm, just like wearing the mask, and then enforcing the norm for the business sector.
+It’s all structured data so that anyone who want to try any dark pattern will be discovered and shamed immediately. The way to go out of this “control the Internet” false dilemma is for the social sector to establish a norm, just like wearing the mask, and then enforcing the norm for the business sector.
 
 ### Victor Leclercq:
 Are there a lot of local other social media in Taiwan at the moment? Do you reckon it’s something that should be developed, local social media, for each region of the world or each country?
@@ -231,7 +231,7 @@ We recognize, as I mention, Facebook. When I negotiate with them, I treat them a
 Even if they’re not sovereign, they are co-governor. When we have overlapping jurisdictions, the multi-stakeholder governance model, or COGOV, is a United Nations thing, if you call it co-governance, then people understand intuitively that it’s worldwide.
 
 ### Audrey Tang:
-It concerns worldwide stakeholders, and it’s what’s required if we are to deal with truly global issues, the pandemic, the infodemic, the climate crisis. If you say government, then the states feel like they are being threatened in their sovereigncy, and then you get nowhere.
+It concerns worldwide stakeholders, and it’s what’s required if we are to deal with truly global issues, the pandemic, the infodemic, the climate crisis. If you say government, then the states feel like they are being threatened in their sovereignty, and then you get nowhere.
 
 ### Hanako Zhang:
 That’s for sure.
@@ -270,7 +270,7 @@ I know, so we like to share. It’s called “Taiwan can help.” \[laughs\] I t
 The quote was, “The future is already here. It’s just not evenly distributed.” Just like that glimpse, in modern-day Taiwan, you do have a glimpse of not only the post-pandemic future, but a post-infodemic culture, and also what a democracy that responds in the here and now rather than uploading three bits every four years. It’s called voting.
 
 ### Audrey Tang:
-Not ritualized and fossilized, but rather a living technology that people see democracy, and rightly so, as a technology that they contribute and send poll requests, even to the kernel. It’s called a constitution, and so on. We’re working on constitutional amendment right now.
+Not ritualized and fossilized, but rather a living technology that people see democracy, and rightly so, as a technology that they contribute and send pull requests, even to the kernel. It’s called a constitution, and so on. We’re working on constitutional amendment right now.
 
 ### Audrey Tang:
 The point here is that it’s a living lab of the kind of co-governance that I just mentioned. I truly understand that it’s not that easy to copy because not all the jurisdictions can get the idea of random people occupying the Parliament non-violently, with the blessing of the head of the Parliament, resulting in the cabinet saying, “OK, so crowdsourcing, future direction is fine.”
@@ -585,7 +585,7 @@ Definitely, yes. You can take the same attitude. It’s probably easier, because
 How do you stay proactive about it? What do you do about it? You can calm your thoughts, but do you do anything to take action?
 
 ### Audrey Tang:
-Yeah, definitely. Basically, I think of call to actions like hashtags. I will make new hashtags, or reuse existing hashtags. The STGs are very useful for that particular regard, because we can almost repurpose anything \[laughs\] into the STG hashtags. It doesn’t need to be STGs, it could be anything.
+Yeah, definitely. Basically, I think of call to actions like hashtags. I will make new hashtags, or reuse existing hashtags. The SDGs are very useful for that particular regard, because we can almost repurpose anything \[laughs\] into the SDG hashtags. It doesn’t need to be SDGs, it could be anything.
 
 ### Audrey Tang:
 For example, before we had this conversation, literally just a few minutes before, I posted on Instagram a simple hashtag called “Fratelli Tutti,” the solidary, the fraternity, the Comment Solidarité. It’s cyclical, published recently by the Pope, so by the Catholic Church.
@@ -600,10 +600,10 @@ Why would I start a hashtag or join a hashtag by the Pope? \[laughs\] It’s bec
 I quote, “In a pluralistic society, dialogue is the best way to realize what are always to be reaffirmed and respected, apart from any ephemeral consensus. Such dialogue will need to be enriched, illuminated by clear-thinking, rational arguments, a variety of perspectives and contribution of the different views of knowledge and points of view.”
 
 ### Audrey Tang:
-That’s what the Pope wrote. It’s literally a letter from the Catholic Church, talking about the importance of plurality, dialogue and so on. It’s more like a bridge between the ideas that are considered holy in the Catholic community, and by the ideas that are considered in a secular world as foundational, especially when it comes to LBGTIQ movement.
+That’s what the Pope wrote. It’s literally a letter from the Catholic Church, talking about the importance of plurality, dialogue and so on. It’s more like a bridge between the ideas that are considered holy in the Catholic community, and by the ideas that are considered in a secular world as foundational, especially when it comes to LGBTIQ movement.
 
 ### Audrey Tang:
-They both hinge on dialogue across different positions to form common values. These creative views that hashtag encourages LTBTIQ people to read some Pope \[laughs\] that encourages some Catholic people to read something that the LTBTIQ operate at the Pride. This is a conscious move to call action on both sides.
+They both hinge on dialogue across different positions to form common values. These creative views that hashtag encourages LGBTIQ people to read some Pope \[laughs\] that encourages some Catholic people to read something that the LGBTIQ operate at the Pride. This is a conscious move to call action on both sides.
 
 ### Victor Leclercq:
 What is the place of religion? Is there a place for religion in the digital world?
@@ -666,7 +666,7 @@ I think it brings us closer to the Matterhorn even if we didn’t climb it. We p
 It probably brings you closer together with the people because you’re sharing this experience, even though it’s a virtual experience.
 
 ### Audrey Tang:
-Yeah, and it’s a very new experience. Not many people have been to Matterhorn. I had a similar conversation with Saskia Sassen of the book “Explusions,” the sociologist and philosopher.
+Yeah, and it’s a very new experience. Not many people have been to Matterhorn. I had a similar conversation with Saskia Sassen of the book “Expulsions,” the sociologist and philosopher.
 
 ### Audrey Tang:
 The idea, very simply put, is that before we went to a radio show together around the new Desi Day – I was in Paris at that time – I invited her to go to the moon. \[laughs\] I bring with myself the virtual reality headset.
@@ -1039,7 +1039,7 @@ How can we work to become whole-earth citizens? What can we do in our local envi
 You already know my job description. My job description is written to answer this very question. It’s almost like, “Whenever you see IT that connects machines, make it digital so it connects people.” I don’t have better answers than my job description. Otherwise, I will change my job description. \[laughs\]
 
 ### Audrey Tang:
-It’s the same thing. “When we see the Internet of Things, make it an Internet of beings. When we see virtual reality, make it shared reality. With machine learning, make it collaborative learning. When we see user experience, make it about human experience. Whenever we hear the singularity is near, let is always remember the plurality is here.”
+It’s the same thing. “When we see the Internet of Things, make it an Internet of beings. When we see virtual reality, make it shared reality. With machine learning, make it collaborative learning. When we see user experience, make it about human experience. Whenever we hear the singularity is near, let us always remember the plurality is here.”
 
 ### Victor Leclercq:
 That was a great conclusion.

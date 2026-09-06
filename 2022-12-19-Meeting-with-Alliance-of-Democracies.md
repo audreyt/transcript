@@ -212,7 +212,7 @@ I always do.
 ### Audrey Tang:
 You always visit Denmark in the weekends... Sure. [laughs]
 
-Anyway, it will deny access even though it's biometrically me and the device is me. It means manufacture of authentication so that even one of this gets taken over, it doesn't cause harm and the forensic attribution and so on can be done in a more convenient time slot instead of like mitigating the damage and then also doing attribution.
+Anyway, it will deny access even though it's biometrically me and the device is me. It means multi-factor authentication so that even one of this gets taken over, it doesn't cause harm and the forensic attribution and so on can be done in a more convenient time slot instead of like mitigating the damage and then also doing attribution.
 
 We can say, "Oh, there's no damage done." It's like a honeypot and then we mitigate the damage. The idea is to don't rely on the firewall, intranet, or anything, but instead verify each access as if assume breach, assuming each component has already been breached.
 
@@ -354,7 +354,7 @@ You think that's the long term inoculation to Chinese disinformation?
 ### Audrey Tang:
 To any sort of disinformation. In a sense, it's just journalism, but civic journalism, and the incentives to speak, to get young people to participate in journalism. Aside from if you fact check a presidential candidate, your name appears on the big screen, is actually to result in meaningful policy changes.
 
-It could be, for example, instead of mandating everybody show up at school by 8:00 AM, now for most days in a week, four days a week, they can show up by 9:00 AM, and that's because of their mobilization and voting. Also, plastic straws are banned from takeout of buble tea franchises.
+It could be, for example, instead of mandating everybody show up at school by 8:00 AM, now for most days in a week, four days a week, they can show up by 9:00 AM, and that's because of their mobilization and voting. Also, plastic straws are banned from takeout of bubble tea franchises.
 
 They can point to these actual changes in their life that they have successfully effected. Then on those domains, it's far less likely for them to be spreading disinformation propaganda.
 

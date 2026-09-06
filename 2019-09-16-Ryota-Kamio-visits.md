@@ -290,7 +290,7 @@ Taiwan has a culture of community-building movement since the ‘80s. When the m
 People didn’t get to vote for the president, but people do get to organize locally. The co-op movement, the movement for community colleges, the movement for educational reform, and so on all took the form of micro-institutions is what I’m referring to. The federation of micro-institutions very quickly emerged because there was no “central government” that works with them.
 
 ### Audrey Tang:
-At the time, the Counsel for Culture very much encouraged the building of the social sector. Again, seeing that this is before direct presidential election, the end result can be seen in disaster recovery, for example. Tzu Chi is really strong in the social sector here, and they do carry more legitimacy than the central administration on their specialties.
+At the time, the Council for Culture very much encouraged the building of the social sector. Again, seeing that this is before direct presidential election, the end result can be seen in disaster recovery, for example. Tzu Chi is really strong in the social sector here, and they do carry more legitimacy than the central administration on their specialties.
 
 ### Audrey Tang:
 They’re very well-funded, but they mostly rely on volunteers in the local chapters, which are all micro-institutions. This gave them agility that can respond to the September 21 earthquake or any other large disaster in a fashion that is simply unimaginable just after lifting of martial law public service.
@@ -341,7 +341,7 @@ Ilya Eric Lee, he’s no longer around in this world now, but if you read his bl
 The second-largest change is mobile computing, of course. With mobile computing, people can suddenly both take direct action, but at the same time, maintain the institutional link between the algorithm-defined collaborations.
 
 ### Audrey Tang:
-For example, during the Sunflower Occupy, you can literally see across the walls of the Occupy legislation by virtue of having a phone or a projector that shows what happens across the street. Recently, Hong Kong, you can hear a tactic or a new interaction pattern emerging two blocks from you.
+For example, during the Sunflower Occupy, you can literally see across the walls of the Occupy legislature by virtue of having a phone or a projector that shows what happens across the street. Recently, Hong Kong, you can hear a tactic or a new interaction pattern emerging two blocks from you.
 
 ### Audrey Tang:
 You can immediately replicate it here just by turning down the light and turning up the volume. Then it feels like you’re with them. That mobile computing really changed the landscape.
@@ -401,7 +401,7 @@ A lot of social movement happened as well, so I was basically following all thes
 I was in a traditional university where I was doing just research. Research is still one of my favorite activities, but I felt like, “I’m young. Maybe I should change something.” I thought, “OK, maybe I need to learn different discipline to make something happen,” which was design for me.
 
 ### Ryota Kamio:
-That’s why I join IAAC Institute. I learned emergent technologies like digital publication, AI, coding. Still, I’m practicing it, and I’m nowhere close to…
+That’s why I join IAAC Institute. I learned emergent technologies like digital fabrication, AI, coding. Still, I’m practicing it, and I’m nowhere close to…
 
 ### Audrey Tang:
 That’s fine.
@@ -448,7 +448,7 @@ Excellent.
 It was really interesting. That’s where I found, “OK, maybe my research skill can be super useful in this field.” Maybe I could engage more on how to use technology in a more creative way, with a more social way, not only the technological advancement or issues but the engagement with the people, between people and technology.
 
 ### Ryota Kamio:
-That’s why I’ve been doing material design as well, which is really different from digital technology. I went to a beer factor in Barcelona and I was making new material out of the waste, which was the starting point of my circular design thing.
+That’s why I’ve been doing material design as well, which is really different from digital technology. I went to a beer factory in Barcelona and I was making new material out of the waste, which was the starting point of my circular design thing.
 
 ### Ryota Kamio:
 I’m still interested…I’m introducing emerging technology in that sort of sector as well. That’s why I’m here in Taiwan this time. I’m in a Japan-Taiwan circular economy symposium. I’m also interested at how to emerge those micro-institutions which help those movement to scale up.
@@ -557,7 +557,7 @@ Like if they over-rely on subsidies, we know that never works. Thank you for pro
 > (laughter)
 
 ### Ryota Kamio:
-At the end, that’s the thing. Here today in the conference, a funny thing is some of the Taiwanese, I think he’s director of Taiwan industry sector or something, he said, “We’re really good a speaking, but haven’t done anything.” He said Japan is really good at doing things, but I felt the opposite. Actually, it’s the other way around.
+At the end, that’s the thing. Here today in the conference, a funny thing is some of the Taiwanese, I think he’s director of Taiwan industry sector or something, he said, “We’re really good at speaking, but haven’t done anything.” He said Japan is really good at doing things, but I felt the opposite. Actually, it’s the other way around.
 
 ### Audrey Tang:
 It depends on how high you are in the institution.

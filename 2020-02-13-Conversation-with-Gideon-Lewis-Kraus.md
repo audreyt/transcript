@@ -194,7 +194,7 @@ It’s really interesting, because one think about how well do I know about thes
 You can kind of feel the hum across the board about whether we need more information about this issue as compared to a single kind of plurality vote, of which you can get very efficient, but less information about your fellow board members. Just this voting technology itself is interesting, much as why Pol.is is interesting for listening at scale.
 
 ### Audrey Tang:
-We’re meeting on the board level every quarter, but at working level, like with Matt, the president, actions are happening leading up to the annual summit, I think this time in Brazil, in Sao Paolo. Again, there is that international vantage point of how these ideas apply in the Sao Paolo context.
+We’re meeting on the board level every quarter, but at working level, like with Matt, the president, actions are happening leading up to the annual summit, I think this time in Brazil, in Sao Paulo. Again, there is that international vantage point of how these ideas apply in the Sao Paulo context.
 
 ### Audrey Tang:
 This is the inaugural RxC Taipei meet up, so you have Jennifer of the staff of RxC, and Vitalik of course, and also the HTC person offering the centralized identity crypto phone, the HTC Exodus that you may have heard of, and offering it as one of the data dignity thing that RxC is fundamentally about. It is a platform that people can just piggyback on with their imaginations.

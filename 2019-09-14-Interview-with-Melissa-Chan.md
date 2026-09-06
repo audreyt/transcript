@@ -142,7 +142,7 @@ There’s two different regulations in play here. The one that I mentioned that 
 It has much more power to, for example, forge an SMS from anyone to nearby communication towers, and so on. That is the critical infrastructure within telecommunication. We’ve banned PRC components in it since five years ago.
 
 ### Audrey Tang:
-There’s no question about it. The reasons, as I said, is that there is no real “private company” on the PRC origin. They can become state-owned, or de fact state-controlled, overnight, at any point in time. For the government procurement thing, that then applies to the peripheral devices, such as mobile phones, drones, all those IoT devices, and so on.
+There’s no question about it. The reasons, as I said, is that there is no real “private company” on the PRC origin. They can become state-owned, or de facto state-controlled, overnight, at any point in time. For the government procurement thing, that then applies to the peripheral devices, such as mobile phones, drones, all those IoT devices, and so on.
 
 ### Audrey Tang:
 What we’re saying is that it has to pass a certification to be cyber security safe. It does not only apply to PRC. It applies to any foreign – well, even domestic – components for the government systems to use, as well as the critical infrastructures, such as the electric grid, the TSMC, the Taiwan Semiconductor Company.

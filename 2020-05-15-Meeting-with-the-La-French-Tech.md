@@ -917,7 +917,7 @@ And then also German. I did a German one myself, but…
 > (video starts)
 
 ### Audrey Tang:
-…und heute werde ich Ihnen demostrieren wie Mann eine Schutzemaske revitalisieren kann.
+…und heute werde ich Ihnen demonstrieren wie Mann eine Schutzemaske revitalisieren kann.
 
 ### Audrey Tang:
 Each one has a slightly different. German record are more cooler, so it’s a kind of light blue background, and the French people are more warm, so it’s a light orange.

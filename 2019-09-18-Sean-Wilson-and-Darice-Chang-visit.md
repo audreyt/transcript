@@ -430,13 +430,13 @@ No, we have actual translator, but they may be initially machine-translated, in 
 Oh, where is it clearly labeled?
 
 ### Audrey Tang:
-I think they’ve completely the hand-translation now, so you don’t see any automated translation. One good example is Pol.is. You see third party translation. That’s a clearly, something like that.
+I think they’ve completed the hand-translation now, so you don’t see any automated translation. One good example is Pol.is. You see third party translation. That’s a clearly, something like that.
 
 ### Darice Chang:
 Then you know it’s machine-translated.
 
 ### Audrey Tang:
-Right. For example, in, I don’t know, the mounting permit from the police agency, I think, now use Google Translate and explicitly mark it as such, like this is Google Translate.
+Right. For example, in, I don’t know, the mountain permit from the police agency, I think, now use Google Translate and explicitly mark it as such, like this is Google Translate.
 
 ### Darice Chang:
 OK, I see. That one was real confusing.
@@ -897,7 +897,7 @@ We should get all of our suggestions in.
 It’s important, because we are in charge of sending user experience feedbacks as concrete pull requests back to Pol.is Foundation. We made a lot of changes that the Pol.is Foundation did just merge straight in.
 
 ### Audrey Tang:
-Just full disclosure, I’m flying to New York. If the premiere approves, I’m going to join the board of the Pol.is Foundation. When that happens, there will be a lot more international collaboration to make the user experience not only good for Taiwanese people, that are bilingual, or monolingual in one or some sense.
+Just full disclosure, I’m flying to New York. If the premier approves, I’m going to join the board of the Pol.is Foundation. When that happens, there will be a lot more international collaboration to make the user experience not only good for Taiwanese people, that are bilingual, or monolingual in one or some sense.
 
 ### Audrey Tang:
 Also, make it so customizable so that even people in trilingual cases, in indigenous cases, and things like that, can flexibly enable these without incurring burden among monolingual consultations. That’s going to be a very important direction, if I successfully get to join the Pol.is Foundation. It’s called Math and Democracy Foundation, but yeah.

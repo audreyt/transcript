@@ -26,7 +26,7 @@ One of my friends was Jamal Khashoggi, who the regime killed him through technol
 ### Audrey Tang:
 I believe that journalism like how public health as a profession is our counter against the virus of the mind. I believe journalism that is to say, the art and craft of getting the truth out to the public in a way that perfectly comprehends with perspectives, with investigation and so on. Should itself be democratized.
 
-That is to say, anyone in Taiwan at least we strive for our basic education to include what we call, media competence, not just media literacy. You see literacy, is when you're a consumer of media, of narratives, of stories, of flowcharts, ad statistics, but competence is when you are a producer.
+That is to say, anyone in Taiwan at least we strive for our basic education to include what we call, media competence, not just media literacy. You see literacy, is when you're a consumer of media, of narratives, of stories, of flowcharts, and statistics, but competence is when you are a producer.
 
 You're someone in the field, and you can make your own narrative, even if you are one of the most disadvantaged group in the frontline. Competence enable you to amplify the stories so that more people who care about this cause can join together and highlight the inequality, the injustice.
 
@@ -87,7 +87,7 @@ Of course, you can still go into other places around the occupied parliament and
 
 It allowed cross pollination in a learning society, but it also most crucially allow people who know from their first-hand experience about the things that we are deliberate about, not be sidetracked into polarization, into hate speech, into attacking each other.
 
-Focus on demonstration as in demo on how we can look at CSTA, and to make coherent points that would then eventually be adopted by the head of department.
+Focus on demonstration as in demo on how we can look at CSSTA, and to make coherent points that would then eventually be adopted by the head of department.
 
 ### Rula Jebreal:
 Audrey, you're the first minister of technology. This is the first time in our lifetime. We used technology as a fundamental tool. It's been used as a weapon for a long time, but now it's a tool. In this, I would like to understand your vision for the future for this digital world. I'm not sure I can call it post COVID.
@@ -195,7 +195,7 @@ Most of it is not around privacy and trade secret. Then ask the people, "How wou
 
 The second thing, of course, is also to amplify those innovations by reducing the latency. Every week, I hold office hours to amplify the best ideas from the social innovators to the entire country and beyond.
 
-In the counter-pandemic, every 24 hours at 2:00 PM every day, the Center for Epidemic Command Center broadcasted and answered question from all the journalists until they ran out of questions so that we can amplify the innovation that happened in the past 24 hours into national awareness.
+In the counter-pandemic, every 24 hours at 2:00 PM every day, the Central Epidemic Command Center broadcasted and answered question from all the journalists until they ran out of questions so that we can amplify the innovation that happened in the past 24 hours into national awareness.
 
 The other thing you can do is to reduce the latency of democracy. Improve the powers by trusting the citizens and then reduce the latency by responding faster in the here and now.
 

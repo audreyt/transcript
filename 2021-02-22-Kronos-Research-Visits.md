@@ -157,7 +157,7 @@ If you connect it to like 100 different cities, then people feel that there’s 
 Right now we’re not. We’ve spent some time going to some of the schools here, doing more education, more outreach. That’s something that we do want to do more of. Sometimes we’re not really sure what is the right avenue aside from going to the schools. Happy to learn more if you have any suggestions.
 
 ### Audrey Tang:
-The more active communities in Taiwan, they share this hashtag called GZero or gov0, which is not an organization per se. It’s more a shared hashtag of people who see a government service usual additional service something.go.tw. They think that “Hey, I can do it better.” Then just register something that is gzero.tw.
+The more active communities in Taiwan, they share this hashtag called GZero or gov0, which is not an organization per se. It’s more a shared hashtag of people who see a government service usual additional service something.gov.tw. They think that “Hey, I can do it better.” Then just register something that is gzero.tw.
 
 ### Audrey Tang:
 Changing an O into a zero gets you into the shadow government, I guess, and deliver the service in a more open source and better way that always was the open source and creative commons copyrights, civic ads.
@@ -325,13 +325,13 @@ Surely intentional.
 Yeah, my current work, it’s easier to go full open source. We don’t have essentially shareholders. We have co op members which vote every four years. \[laughs\] The organization is already at work. That’s what republic means when we don’t have too many words.
 
 ### Audrey Tang:
-It is already a republic that’s governed by what we in the blockchain cause participatory governance or stakeholder base governance. It’s quite democratic anyway. The governance incentives align with my personal incentives to be maximally transparent and open.
+It is already a republic that’s governed by what we in the blockchain call participatory governance or stakeholder base governance. It’s quite democratic anyway. The governance incentives align with my personal incentives to be maximally transparent and open.
 
 ### Audrey Tang:
 We have no problem at all, to convince the, for example, Cabinet Office saying that our transcripts are going to be free of copyright even though that we could only publish by request, according to a Freedom of Information Act. We preemptively publish it before anyone asks it.
 
 ### Audrey Tang:
-That’s more radical, but that’s considered under generally right pass for the republic. We have no problem getting approval from the Cabinet Office. With that said, I do see dads for cutting edge research, the funding to get such research data in the first place, necessarily requires some “intellectual property,” especially on the trade secrets side.
+That’s more radical, but that’s considered under generally right path for the republic. We have no problem getting approval from the Cabinet Office. With that said, I do see dads for cutting edge research, the funding to get such research data in the first place, necessarily requires some “intellectual property,” especially on the trade secrets side.
 
 ### Audrey Tang:
 I don’t think there’s anything wrong with that. I’m a big admirer of John Carmack, who releases the id Software’s Doom engine, Quake engine and things like that. Essentially, whenever he wrote out a new game, the game dealt with the previous one, two generations before it goes open source.
@@ -394,7 +394,7 @@ Does the government sponsor any default community for these Gold Card visa holde
 Yes. Actually, the gold card portal, goldcard.nat.gov.tw is built by the Gold Card holders. It’s actually a gov0 move, because the website and the digital service wasn’t good at all. They started this GitHub project called taiwangoldcard.com. That forced the original website, I also contributed.
 
 ### Audrey Tang:
-Once they reached critical threshold, this team then gets hired as consultants, like mentors to the MDC. Now if you check out goldcard.nat.gov.tw, it’s brilliant. It doesn’t look like a government website anymore. They have so many gatherings into them.
+Once they reached critical threshold, this team then gets hired as consultants, like mentors to the NDC. Now if you check out goldcard.nat.gov.tw, it’s brilliant. It doesn’t look like a government website anymore. They have so many gatherings into them.
 
 ### Jack Tan:
 That’s something we should get involved in.
@@ -493,7 +493,7 @@ What do you spend most of your time on these days?
 It varies by the day of the week \[laughs\] like Monday is for team gathering, for working with the conference to my office and so on to make the weekly plan. Wednesday is office hours. It is working with social innovators who can pretty book my time. Thursday is meeting and board of Science and Technology meetings, the more formal stuff.
 
 ### Audrey Tang:
-On Tuesday and Friday usually just tours around Taiwan or just go to the places where our young previous mentors or our local social innovators, they have a local issue that spans more than two industries is the interagency issue and sometimes they raise it by petition on the joint platform.
+On Tuesday and Friday usually just tours around Taiwan or just go to the places where our young previous mentors or our local social innovators, they have a local issue that spans more than two industries is the interagency issue and sometimes they raise it by petition on the Join platform.
 
 ### Audrey Tang:
 Sometimes by going to the Youth Advisory Council and anyone who reach 5,000 petitions, even if they are in the south of Taiwan. I go there and have a collaboration meeting with them and connecting to the central government through a conference, if necessary.
@@ -541,7 +541,7 @@ That’s right. All the winning teams need to be three sectors, so all those thr
 That’s a good Zero knowledge application is not necessarily blockchain, but it’s something that conveys a more positive outlook on crypto, like crypto derived technologies.
 
 ### Audrey Tang:
-There is also Humomorphing encryption plays a large part. So there’s health and environment seems to be the focus in the past few presidential hackathons and that’s also something that can connect you as the private sector to the public service, to the social sector of the community much more because then you have to come up problems to work on.
+There is also Homomorphic encryption plays a large part. So there’s health and environment seems to be the focus in the past few presidential hackathons and that’s also something that can connect you as the private sector to the public service, to the social sector of the community much more because then you have to come up problems to work on.
 
 ### Mark Pimentel:
 Do you have any ideas on things that we can do as a company in particular? One of the things that we’ve been wanting to do is to do the things that are still more…all the things that we can do to help. Some of the resources that we have, for instance, are we have lots of data. We captured data from all the major crypto exchanges around the world.

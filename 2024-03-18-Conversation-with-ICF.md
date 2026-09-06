@@ -92,7 +92,7 @@ Budgets are always a challenge but very important, because you can have all the 
 
 We're seeing that in several countries where you know the smart city ideas are actually being executed. I mean look at what's going on in the United States. For many years people have expected these things, but it wasn't until Covid that people realized how important it was.
 
-But one thing, years ago, I read an article about this lady here, Suvi Linden - about the human rights of people to have access to the internet. And it was Suvi whose organization put that forward. And that was very important for me to understand how important the internet was not just as a physical requirement for communications but how people 's lives and their whole well-being was important about it.
+But one thing, years ago, I read an article about this lady here, Suvi Linden - about the human rights of people to have access to the internet. And it was Suvi whose organization put that forward. And that was very important for me to understand how important the internet was not just as a physical requirement for communications but how people's lives and their whole well-being was important about it.
 
 And so, we advocated it but it wasn't until Covid that people started to realize exactly what people like Suvi was talking about.
 
@@ -183,7 +183,7 @@ Yeah. First of all, it's a big honor to meet you and I have also been in Taipei 
 
 I always saw my role as an enabler the government role is to make the environment that kind that for example, smart cities can do their things and there is no regulation being obstacle for that or…
 
-So, of course, every country is different and it would be interesting to hear in Finland, we have a big social and health reform going on and we have a minister who is responsible for legislation and somehow tutoring or controlling the local regions. But still, the regions have the responsibility and now we are… first of all, the interoperability. What you were mentioning between the regions that's a big challenge. Because it used to be that the regions had their independence and they could decide what kind of system and whatever so there were no interoperability. And nowadays, there is a low but still it costs a lot of money because they have to redo a lot of things.
+So, of course, every country is different and it would be interesting to hear in Finland, we have a big social and health reform going on and we have a minister who is responsible for legislation and somehow tutoring or controlling the local regions. But still, the regions have the responsibility and now we are… first of all, the interoperability. What you were mentioning between the regions that's a big challenge. Because it used to be that the regions had their independence and they could decide what kind of system and whatever so there were no interoperability. And nowadays, there is a law but still it costs a lot of money because they have to redo a lot of things.
 
 But the bigger issue is that we have just launched a couple years ago the so-called National Health Record where when I go to a doctor, whether I go in my hometown or in Helsinki or wherever, my data has to be there. And then, of course, the doctors can see wherever, but also that I can see. Because it used to be when I went to doctor, and the doctor made the diagnosis and the patient didn't have the right kind of idea of that you didn't get any documents out of that.
 
@@ -198,7 +198,7 @@ Our constitutional court actually made a ruling a couple years ago that, you kno
 
 And so, yeah, so even before the pandemic, people already use the app. Like I can use it to check my dentistry visits, my prescriptions for traditional medicines as well. And like everything on the same app. And using this MyData regime, we're applying the same idea to all the other stuff that the government keeps about this person.
 
-So, part of the data fabric is actually to make sure that if any record changes by a person, like a name change or an ID change or whatever, in one of the registries, like the household registry, we want to make sure that everybody, including insurance companies and everyone, gets a real time notification. Something that the so-called X-Roll system is known to be doing like just modify once and be known everywhere, but currently the MyData regime already applies to individual pockets. It's just the synchronization itself still require an opt-in authorization by the person who will make the change. But otherwise, I think everything else is automated.
+So, part of the data fabric is actually to make sure that if any record changes by a person, like a name change or an ID change or whatever, in one of the registries, like the household registry, we want to make sure that everybody, including insurance companies and everyone, gets a real time notification. Something that the so-called X-Road system is known to be doing like just modify once and be known everywhere, but currently the MyData regime already applies to individual pockets. It's just the synchronization itself still require an opt-in authorization by the person who will make the change. But otherwise, I think everything else is automated.
 
 ### Suvi Linden:
 That’s very good and very interesting. What about the… What’s the… It’s been some years since I was the minister, but still, the big data is very… It's a big pressure for companies and of course for public service as a base for services.
@@ -233,14 +233,14 @@ And so, for example, we have had some kind of… it's not a regulation, it's jus
 
 Because in a way, I think that's something that you cannot regulate people to do. Of course, you can but then it's a challenge but to create awareness that how important it is for me when I’m part of the digital society that the devices I used are protected. And quite often people don’t think about it, but now we have the issue that there are these importers, they have agreed that they will install the antivirus, so then you have to pay after six months. But then, you’re already kind of… You are used to have this kind of protection and it's easier to get the people to pay.
 
-But it would be interesting to hear that what kind of ideas you have on the on the citizen level of the security issues.
+But it would be interesting to hear that what kind of ideas you have on the citizen level of the security issues.
 
 ### Audrey Tang:
 Yeah. This is such a great question, and in fact, is the number one frequently asked question for the ADI. Like what have you done to protect people against fraud? Things like that. We've been getting nonstop for the past year on that. And exactly as you said, while it is technically possible to regulate individual behavior, the people don't seem to like that. So, there are limited things that we can do in an enforcement level.
 
 So, for example, one example, we're now just now sending an amendment for the Digital Signature Act to the parliament. And along with the ADI becoming competent authorities for Facebook and Google and other advertisement companies, we're going to say to post an advertisement, the KYC process, which previously only require you to take a photo of your passport, which is easily doctored now with AI and generative AI, we are switching it so that it requires essentially a notarized digital signature, like the high-level EU digital signature.
 
-And this is because we've seen many phishing and scam and so on attacks that begin with the advertisement. That is precision targeted to the vulnerable populations that will likely believe this stuff. And they always redirect them to a personal like WhatsApp for us is lying conversation, a personal end to end encrypted conversation, which we have no visibility about.
+And this is because we've seen many phishing and scam and so on attacks that begin with the advertisement. That is precision targeted to the vulnerable populations that will likely believe this stuff. And they always redirect them to a personal like WhatsApp for us is LINE conversation, a personal end to end encrypted conversation, which we have no visibility about.
 
 So, instead of controlling on the end-to-end encrypted channels, we need to get the upstream to adopt a real KYC infrastructure. But even for the end-to-end encryption, currently, our Ministry of Interior is essentially subsidizing people to install an app. It's from Gogolook, called Whoscall. And as part of the Gogolook offering is this idea of message checker, so that instead of wiretapping into encryption, which is a big no no here, anytime your phone pushes a notification, that message checker checks that.
 
@@ -339,7 +339,7 @@ And so, this is quite good for like people in Argentina who have worked on Ether
 So, I think there's already plenty of documentaries or materials or things like that that you can also help to look at and maybe translate, so that it speaks more to your target audience.
 
 ### John Jung:
-Yeah, we have already worked with your team on some podcasts and some other kinds of promotional activities. And, of course, we do videos and promote through conferences and what not, but there are many other areas to explore. You know, promoting the work that you do on a n international level by underwriting possibly books that can be put through high-level channels like Cambridge Scholars and those kind of… done by a third party, because I think you need that separation…
+Yeah, we have already worked with your team on some podcasts and some other kinds of promotional activities. And, of course, we do videos and promote through conferences and what not, but there are many other areas to explore. You know, promoting the work that you do on an international level by underwriting possibly books that can be put through high-level channels like Cambridge Scholars and those kind of… done by a third party, because I think you need that separation…
 
 ### Audrey Tang:
 Academic rigor.

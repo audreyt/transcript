@@ -163,7 +163,7 @@ We also have a cabinet level youth advisory council, which I also used to co-cha
 ### Helen Zhang:
 That's fantastic. I love the pioneering spirit of the radical transparency. As somebody who used to work in government, this is all very fresh to me. I used to work for the Australian government as a foreign service officer, so this is… it's all very new, which is great.
 
-I would love to know also, Minister, if you have anyone else who you could recommend as potential advisors from Taiwan. As you know, we're still trying to expand our network and we would love to hear your recommendations. Maybe, you know, the um… This is… I mean…l you've just preempted my question.
+I would love to know also, Minister, if you have anyone else who you could recommend as potential advisors from Taiwan. As you know, we're still trying to expand our network and we would love to hear your recommendations. Maybe, you know, the um… This is… I mean… you've just preempted my question.
 
 ### Audrey Tang:
 Yeah, the two other ministers with our portfolio, Lee and Lin, would be good advisors to you.

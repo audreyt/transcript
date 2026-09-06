@@ -161,7 +161,7 @@ Recruiting the military, the service, a whole range of issues could benefit from
 That’s a great question. When MOFA first started working with us, they basically sent the people in charge of public diplomacy, that is to say, things that they want as many people to know as possible rather than secret conversations.
 
 ### Audrey Tang:
-We used the technology that I just demoed to run a conversation called digital dialog with IAT talking about the four promotes, the first one being how to promote Taiwan’s role in their global community.
+We used the technology that I just demoed to run a conversation called digital dialog with AIT talking about the four promotes, the first one being how to promote Taiwan’s role in their global community.
 
 ### Audrey Tang:
 You can very quickly see, through this kind of radical transparency, we both identify the most divisive statements, such as this one, &quot;Every time China closes an international door for Taiwan, the US should try to open one for Taiwan someplace else.&quot; Everybody on the right-hand side agrees with it. Everybody on the left-hand side didn’t.
@@ -241,7 +241,7 @@ To budgets and all the parts. Just one minute of context. G0v is an idea that al
 For all government services -- to date, there is over 200 government services -- that the civil society don’t like, they don’t have to protest on the street. They just register the same domain, exactly the same as the government, but change the O to a zero. You just go to a government website, change O to a zero, and you get into the shadow government where it is more interactive, more open, and more fun.
 
 ### Audrey Tang:
-The budget, for example, become an interactive map that you can have a real-time conversation around. This was originally in 2012. Two years later, in 2014, it was adopted then by the Taiwan City mayor, Ko Wen-je, as the system for the participatory budgeting in Taipei.
+The budget, for example, become an interactive map that you can have a real-time conversation around. This was originally in 2012. Two years later, in 2014, it was adopted then by the Taipei City mayor, Ko Wen-je, as the system for the participatory budgeting in Taipei.
 
 ### Audrey Tang:
 It spread to other municipalities and cities, and after I became the digital minister in 2016, we then merged this back into the e-participation platform that has 5 million visitors out of 23 million people in Taiwan, so one-quarter of population.
@@ -345,7 +345,7 @@ Could you talk about fake news, deliberate misinformation? How much is this a pr
 Very quickly, in Taiwan, both news and journalism translates to the same word, 新聞. We try not to use the word &quot;fake news&quot; in Mandarin because then it alienates journalists. Both my parents are journalists. Filial piety dictates that I don’t use these words. I always say "disinformation" or "information manipulation."
 
 ### Audrey Tang:
-They actually is a global threat, as you noted. The more society is open, the more harmful it becomes because it basically abuse the freedom of expression to sow discord. We actually have a legal definition of disinformation in Taiwan, not just a layperson’s definition.
+There actually is a global threat, as you noted. The more society is open, the more harmful it becomes because it basically abuse the freedom of expression to sow discord. We actually have a legal definition of disinformation in Taiwan, not just a layperson’s definition.
 
 ### Audrey Tang:
 It’s called intentional harmful untruth. Here, the harm is to the general public, to the democratic process, not to a minister’s image. That’s just good journalism. Harmful to the public, not to the government. These are like spam, like junk mail, like things that waste people’s attention on.
@@ -362,7 +362,7 @@ Democratic overseers, I’m not naming names. \[laughs\] In any case, what we ar
 It is very worrying trends in our nearby jurisdictions. What we are doing is the opposite. We basically make sure that people become more immune to disinformation by getting our piece of the puzzle, real-time clarifications out to people.
 
 ### Audrey Tang:
-Whenever we detect there is a disinformation that is raising in popularity, within one hour, on average, we publish a more funny video, film, or things like that. Our president goes on a stand-up comedy show. Our premier post a very funny photo of himself when he was young and have hair to clarify a rumor regarding hairdress companies.
+Whenever we detect there is a disinformation that is rising in popularity, within one hour, on average, we publish a more funny video, film, or things like that. Our president goes on a stand-up comedy show. Our premier post a very funny photo of himself when he was young and have hair to clarify a rumor regarding hairdress companies.
 
 ### Audrey Tang:
 Our deputy premier goes to live stream and play video games and things like that. \[laughs\] They all use very engaging memes to make sure that the clarification actually gets shared more and reach more people than the rumors and the disinformation.
@@ -395,7 +395,7 @@ By definition, it doesn’t really worth your attention in general. That’s the
 It’s like WhatsApp. It’s encrypted, and so we don’t look into the messages. Line works very closely with civil society -- actually, g0v teams -- to make sure that anyone can very quickly flag something as possible disinformation.
 
 ### Audrey Tang:
-Then the civil society has a public repository where you can very quickly -- it’s called Cofacts -- and it’s looks like a government website, but it’s not. You can see it’s cofacts.g0v.tw. You can very quickly see what are the trending rumors, and whether they are clarified as true or not.
+Then the civil society has a public repository where you can very quickly -- it’s called Cofacts -- and it looks like a government website, but it’s not. You can see it’s cofacts.g0v.tw. You can very quickly see what are the trending rumors, and whether they are clarified as true or not.
 
 ### Audrey Tang:
 It’s fact-checking, but it’s crowdsourced fact-checking. People can very easily join the fact-checking effort to make sure that they provide useful service to their fellow citizens. We also have independent journalists to do fact-checking in a way that is fully conformant to the international fact-checking standards.
@@ -451,7 +451,7 @@ Can you provide any examples of the kind of corrective messaging that is sent ou
 You can just go on Twitter. This is our premier. This is mine. You can very quickly see this one. There’s not an English translation here, but basically, the top four characters says that there’s a popular rumor that says after a week, if you dye your hair, or to perm your hair, you will get fined a million NT dollars.
 
 ### Audrey Tang:
-The red balloon says false. Then the premiers who, with his younger self, says that, &quot;Even I don’t have hairs now, I will not punish the people with hair because of it.&quot;
+The red balloon says false. Then the premier who, with his younger self, says that, &quot;Even I don’t have hairs now, I will not punish the people with hair because of it.&quot;
 
 > (laughter)
 
@@ -646,7 +646,7 @@ It’s just, the first paragraph says someone. The second paragraph says someone
 On the other hand, this is not whitewashing the fact that President Chen is on the list. This is basically just making sure that people can actually know what the New York Times is saying.
 
 ### Audrey Tang:
-You can see very clearly that the GFCC is not a party propaganda machine, because if it is, then it would not say this, actually. \[laughs\] You won’t find the DPP spokesperson \[laughs\] saying this.
+You can see very clearly that the TFCC is not a party propaganda machine, because if it is, then it would not say this, actually. \[laughs\] You won’t find the DPP spokesperson \[laughs\] saying this.
 
 ### Visitor 2:
 Looking forward, whatever happens on January 11th next year, both in terms of the presidential election and the legislative election, it seems to me that it’s very important that this new function of government be institutionalized enough so that it can carry on whoever.
@@ -664,7 +664,7 @@ Yes. By me, I mean Yeh Ning here. \[laughs\] He’s the principal architect of t
 For example, the participation officer network, where we introduce one person in each ministry at first as seed. A seed then began to grow, and so now, we have almost 100 people in each ministries, just in charge of bringing topics that they feel need to engage with the public. That’s the PO network. If you’re interested, there’s a website for that, po.pdis.tw, that introduces this -- it’s also in English -- of the entire communication.
 
 ### Audrey Tang:
-I think there is an English version, anyway. Yes. As you can see, you can see...Oh, we haven’t translated that page, have we? [We should fix that.](http://po.pdis.tw/en/directions/) In any case, there is a regulation, adminsitration-level central government regulation on the participation officer network that we held our collaboration meeting on.
+I think there is an English version, anyway. Yes. As you can see, you can see...Oh, we haven’t translated that page, have we? [We should fix that.](http://po.pdis.tw/en/directions/) In any case, there is a regulation, administration-level central government regulation on the participation officer network that we held our collaboration meeting on.
 
 ### Audrey Tang:
 There is a directive also on the [e-participation platform](https://talk.pdis.nat.gov.tw/t/directions-for-implementing-online-participation-in-public-policy/5166). There is an administrative regulation, or a policy on Presidential Hackathon, how to hold a Presidential Hackathon, and how to merge the five winning teams into the national policy.

@@ -488,7 +488,7 @@ Suddenly, from that point onward to the day of the participation meeting, 80 per
 The point here being to put them into the language of the people is just like a judo, or depending on your inclination, aikido move, that says we used the citizens’ language — actually their complaints — to describe what needs to be fixed.
 
 ### Audrey Tang:
-This is user journey. It’s a standard designed thinking form that describes what happens before the tax filing, during the tax filing and after the tax filing, what the users’ actions are, what are their needs. Or the problems they see, how it affects their emotions and possible solutions.
+This is user journey. It’s a standard design thinking form that describes what happens before the tax filing, during the tax filing and after the tax filing, what the users’ actions are, what are their needs. Or the problems they see, how it affects their emotions and possible solutions.
 
 ### Audrey Tang:
 An overview map is the first thing we did after engaging people online. Even if 500 people post about the same thing, it’s just one post-it note. It means that this is not telling the number of people. This is not voting. This is not representative democracy at all.
@@ -586,7 +586,7 @@ I like the immediate goals, the idea that sustainability is not just about the e
 This whole bottom line thing is kind of clichéd by now, because everybody says it now. I think in 2015 when they really crystalize it as saying, &quot;When we say cross sectoral partnership,&quot; we don’t mean that for climate change we do all those sectors.
 
 ### Audrey Tang:
-We mean for people who are working on climate change and people working on solving hunger, and people who work on LGBTQIA+ rights, their inter sectionality is what it means, to have a real partnership with their goals — meaning that all these main goals are a holistic thing instead of trade offs between the social forces.
+We mean for people who are working on climate change and people working on solving hunger, and people who work on LGBTQIA+ rights, their intersectionality is what it means, to have a real partnership with their goals — meaning that all these main goals are a holistic thing instead of trade offs between the social forces.
 
 ### Audrey Tang:
 The illustration that I usually use for this is that whereas before we liked to think of the ministers as the touch points for various economic or environmental, or whatever, forces to lobby and the career public service being the anonymous string that fuels all the tension...
@@ -871,7 +871,7 @@ There’s a very subtle difference. When we talk about currency, we mean somethi
 This \[foreign word\], good exchange, we see a lot of use in Taiwan. The Mayor of Kaohsiung just announced that he is having a Kaohsiung B or the Kaohsiung good exchange, the Kaohsiung point, which is not going to convertible to the new Taiwan dollars.
 
 ### Audrey Tang:
-Indigenous people of Tao in Orchid Island, based by a Blockchain Etherium technology, has already issued their \[foreign word\] tokens, which again, is a form of local currency world economy token that can only be used in a natural preserving way. Or it’s loud or legitimate use it’s the one that you can clinically spend it on are by default use good, or at least not bad for the environmental sustainability of the Orchid Islands, and so on.
+Indigenous people of Tao in Orchid Island, based by a Blockchain Ethereum technology, has already issued their \[foreign word\] tokens, which again, is a form of local currency world economy token that can only be used in a natural preserving way. Or it’s loud or legitimate use it’s the one that you can clinically spend it on are by default use good, or at least not bad for the environmental sustainability of the Orchid Islands, and so on.
 
 ### Audrey Tang:
 To use a very early term now, there’s colored coins which nobody uses any more but I still like the term. Colored coins means that these are economic incentives, but they are designed so that one gets nudged into social and environmental contribution when one used it.

@@ -201,7 +201,7 @@ Exactly. And so because then in Taiwan, when the two same sex persons marry then
 It's a new design. Because of that, after the law passed, actually, both sides depolarized very quickly. Because they can see that their ideas are being reflected by this uncommon ground. It is important to have not just a referendum, which is the right democracy, but also deliberative democracy that discovered this uncommon ground.
 
 ### Nataliya Gumenyuk:
-We are where we are today in the world when we see a bit of a backslash when community notes were popular, but now with everything which is happening in social media, actually let's say, liberals and progressive are very much afraid of technology like, because you see that it can be an oligarchy as well.
+We are where we are today in the world when we see a bit of a backlash when community notes were popular, but now with everything which is happening in social media, actually let's say, liberals and progressive are very much afraid of technology like, because you see that it can be an oligarchy as well.
 
 It can be the rule of a couple autocrats, who are just very much enlightened by knowing algorithms and the way how to work, could be also very rich. We can speak about Elon Musk. We can speak about what's going on in Facebook. What is your take on that?
 

@@ -77,7 +77,7 @@ Yes. We’re open for both, I can also send you description of…
 The thing is would you have anyone who would like to defend surveillance capitalism or surveillance state-ism?
 
 ### Alexandra Ettlin:
-Yes, we’ve have invited people from Facebook and from Google.
+Yes, we’ve invited people from Facebook and from Google.
 
 ### Audrey Tang:
 Ah, yes, excellent, excellent.

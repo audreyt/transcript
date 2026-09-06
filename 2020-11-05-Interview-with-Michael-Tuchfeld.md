@@ -37,7 +37,7 @@ If they are found to break the quarantine, for example, through the digital quar
 If you have to put a finger on the main factor, the major factor that led to the success, what would you say?
 
 ### Audrey Tang:
-It’s definitely soap and mask use, which only works in tandem. Very early on, we have this spokesdog, the Zongchai, a very cute dog that says, “Wear your mask to protect yourself from you own unwashed hands.” This is an entirely rational, self-interest argument. This says nothing about respecting your elders or protecting your community. This message resonates with people.
+It’s definitely soap and mask use, which only works in tandem. Very early on, we have this spokesdog, the Zongchai, a very cute dog that says, “Wear your mask to protect yourself from your own unwashed hands.” This is an entirely rational, self-interest argument. This says nothing about respecting your elders or protecting your community. This message resonates with people.
 
 ### Audrey Tang:
 Once we get three-quarter of people through mask rationing access to the mask and hand sanitizers, the R value decreased to be under one, at which point the virus is no longer a pressing concern.

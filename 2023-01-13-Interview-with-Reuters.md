@@ -37,7 +37,7 @@ You went to the cemetery to...
 To lay flowers.
 
 ### Andrius Sytas:
-What dos these events mean to you?
+What do these events mean to you?
 
 ### Audrey Tang:
 A lot. My father was a journalist. My mother, too. My father, in 1989, was covering the Tiananmen protest. He stayed in Tiananmen until the 1st of June, not three days later. He returned to Taiwan, I guess, in time.
@@ -162,7 +162,7 @@ It's a large place. In each and every jurisdiction and its subdivisions, we have
 That's not the case in China, right?
 
 ### Audrey Tang:
-I think it's not a very uniform place... For many people, their experience when it comes to pandemic control is that of learning together. We first learned about efficacy of masks and the various different types of masks, of hand-washing, of physical distancing, in Taiwan, about contract tracing and how it protects privacy, and so on.
+I think it's not a very uniform place... For many people, their experience when it comes to pandemic control is that of learning together. We first learned about efficacy of masks and the various different types of masks, of hand-washing, of physical distancing, in Taiwan, about contact tracing and how it protects privacy, and so on.
 
 Any jurisdiction, even just a city, even just a town, that engages with this kind of group learning practices so people know without fear about what's actually going on in their neighborhood and with science, that will help them.
 

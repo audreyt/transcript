@@ -287,7 +287,7 @@ When we say transparency, we always mean how the state works is transparent to t
 
 Taiwan's civil society invented the contact tracing method called 1922 SMS. It's very easy to explain. You visit any venue and that venue prints this random code, a QR code in its front door. But just like this slide of screen you're looking at, it's actually also in clear text.
 
-So what the QR code represents is 15 random numbers and you can manually, like my grandma can manually tweet SMS those 15 numbers to 1922, the well-known number in your telecom for pandemic services. Everybody can see you just scan the QR code, press send, and then the 15 digit goes to your own telecom company.
+So what the QR code represents is 15 random numbers and you can manually, like my grandma can manually text SMS those 15 numbers to 1922, the well-known number in your telecom for pandemic services. Everybody can see you just scan the QR code, press send, and then the 15 digit goes to your own telecom company.
 
 This has two properties.
 
@@ -369,7 +369,7 @@ So as long as you do the openness in a properly staged way, like first opening i
 
 This is why Linux is easier to harden. If you work on security-enhanced Linux, many Linux variants that focus on security, it's much easier because you do not have to be Linux robots to make such enhancements. Everybody can attack Linux and see its weak points and also improve on it.
 
-But if you just do openness without doing collaboration, then it does make you more vulnerable to attacks because you don't benefit from your collaborators working with you to make your move secure. We need to plan openness with participation and an accountable way to get democratic input, including white hat input.
+But if you just do openness without doing collaboration, then it does make you more vulnerable to attacks because you don't benefit from your collaborators working with you to make you more secure. We need to plan openness with participation and an accountable way to get democratic input, including white hat input.
 
 And if you don't do that and just put it on GitHub, of course it makes you more vulnerable to attacks. I hope that answers the question.
 

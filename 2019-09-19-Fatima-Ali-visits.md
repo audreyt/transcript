@@ -208,7 +208,7 @@ African Swine Flu, yeah.
 It’s beyond our control. Food safety, from a recent [social issue survey by NARLabs](https://payment.narlabs.org.tw/stpibooks/book/bookDetail?id=ff8080816c40a572016c4bca51ec6815) , it is the top, out of 100 topics that people cares about. Anything that impacts your safety, which, of course, includes pollution is on top of everybody’s agenda.
 
 ### Audrey Tang:
-That is, I think, where we are at moment. Social accountability using distributive ledgers, using Internet of beings and other technologies to ensure a safe cradle-to-cradle delivery, the air boxes, the water boxes, the various IoT contributions we have to the word, they are all very popular subjects.
+That is, I think, where we are at moment. Social accountability using distributive ledgers, using Internet of beings and other technologies to ensure a safe cradle-to-cradle delivery, the air boxes, the water boxes, the various IoT contributions we have to the world, they are all very popular subjects.
 
 ### Audrey Tang:
 They don’t require public funding. People care about it so much that the social sector just gathered the funding and crowdfund those issues themselves. That’s the general care about the environment. They have a much higher social legitimacy than economic development.
@@ -220,7 +220,7 @@ You don’t find it in other highly developed jurisdictions near here. Here, the
 The second thing is the plastic waste. Again, because people who are my age or younger than my age, have a habit to recycle and to sort the waste. It’s very easy to introduce this additional idea that plastic pollution to the sea, it doesn’t only affect the food chain, but actually is a symptom to a bad resource management framework.
 
 ### Audrey Tang:
-Which means that if we do this right, it gives us additional leverage to innovate on climate change mitigation. If we can’t even take care of our plastic, then we’re actually very limited in the leverage. Because that means the environmental, echo design, and other sectors are not closely working together.
+Which means that if we do this right, it gives us additional leverage to innovate on climate change mitigation. If we can’t even take care of our plastic, then we’re actually very limited in the leverage. Because that means the environmental, eco design, and other sectors are not closely working together.
 
 ### Audrey Tang:
 Our e-petition to gradually ban plastic straws was raised two years ago by a 16-year-old girl. Our e-petition allows for pseudonyms, so at the beginning, we didn’t know who this person is. It’s just they get 5,000 signatures in no time. It must be from the environmental minister. It must be a very seasoned social activist…

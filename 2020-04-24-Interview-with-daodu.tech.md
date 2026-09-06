@@ -43,7 +43,7 @@ I think open data will be important in our later discussion about how we manage 
 Well, I already worked in the cabinet for two years since the end of 2014, as a reverse mentor or as an advisor to the then Minister Jaclyn Tsai. And so I worked with both cabinets.
 
 ### Audrey Tang:
-I think the idea of open data and open government is an idea that has broad agreements. Nowadays, if you ask anybody in the legislation whether they’re from the DPP (Democratic Progressive Party), the KMT (Kuomintang), the New Power Party or the TMD (Taiwan People’s Party), everybody would say, they are for open government. That is one of the very few things that they agree on.
+I think the idea of open data and open government is an idea that has broad agreements. Nowadays, if you ask anybody in the legislation whether they’re from the DPP (Democratic Progressive Party), the KMT (Kuomintang), the New Power Party or the TPP (Taiwan People’s Party), everybody would say, they are for open government. That is one of the very few things that they agree on.
 
 ### Michael Chou:
 Fast forward a little bit to the pandemic. In early late January or early February, there was a panic and people were buying masks and there was a shortage of masks. How were you informed? And what was the duty in terms of the whole government response? What part did you play?
@@ -172,7 +172,7 @@ I understand completely. I have two young kids and it has been a struggle to fin
 That’s right.
 
 ### Michael Chou:
-So I think lots of people are concerned about privacy. And this distribution system which we all benefit from it and we are very grateful for it; but at the same time, we recognize that the NIH card is very powerful and it goes with us wherever we go… So what do you say about what is the benefit worth its tradeoff here that we should make?
+So I think lots of people are concerned about privacy. And this distribution system which we all benefit from it and we are very grateful for it; but at the same time, we recognize that the NHI card is very powerful and it goes with us wherever we go… So what do you say about what is the benefit worth its tradeoff here that we should make?
 
 ### Audrey Tang:
 There’s no tradeoff.

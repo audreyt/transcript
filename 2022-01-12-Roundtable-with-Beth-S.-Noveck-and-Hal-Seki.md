@@ -18,7 +18,7 @@ In my capacity as head of The GovLab, I worked with governments around the world
 Hal. You're on mute.
 
 ### Hal Seki:
-Sorry. Good morning. I am Hal Seki from Code for Japan. I'm the founder of Code for Japan. Code for Japan is a nonprofit foundation for facilitating the speak tech activities in Japan. Also, I'm working for the Digital Agency Japan as a project manager of civi tech activities. Thank you.
+Sorry. Good morning. I am Hal Seki from Code for Japan. I'm the founder of Code for Japan. Code for Japan is a nonprofit foundation for facilitating the civic tech activities in Japan. Also, I'm working for the Digital Agency Japan as a project manager of civic tech activities. Thank you.
 
 ### Joichi Ito:
 Miyata, who's my co-chair, maybe you can introduce yourself, too.
@@ -70,11 +70,11 @@ My second point is that, when people see the good idea, the good models and so o
 
 I know it has at least seven different names like Retroactive Public Good Funding or whatever. There's somebody who says the debt, but it's not really a debt, it's an investment, that is co-created, co-designed.
 
-We ask the private sector to help fund these in the expectation of a contract, of a return by the government when these innovation create social values that could be at least monetized in such away. It's not monetized. It's dollarized, you can put a social return of investment on it.
+We ask the private sector to help fund these in the expectation of a contract, of a return by the government when these innovation create social values that could be at least monetized in such a way. It's not monetized. It's dollarized, you can put a social return of investment on it.
 
 Now that the crux of the matter is to get a people public-private partnership, where the people set a norm -- in which the republic sector as the private sector -- to put a dollar amount. The time is saved. The budget is saved, and so on, so that we can payout.
 
-We structure it like award, not a particular grant. That's the structure that we've been engaging the youth in making sure that they participate in original rejuvenation attempts, without worrying too much about the initial capital investment.
+We structure it like award, not a particular grant. That's the structure that we've been engaging the youth in making sure that they participate in regional rejuvenation attempts, without worrying too much about the initial capital investment.
 
 The traditional VCs -- unless we designed something like Pay for Success -- would not put money into it. That's my two very brief points.
 
@@ -172,7 +172,7 @@ I'll use a very concrete example of this year. This year's presidential hackatho
 
 It's only on open data and data pipelines and privacy-enhancing technology and so does the digital ministry come to play. This is a very clear strata, that the National Science Council does this shared goals, co-definition. It's firmly on the problem identification phase.
 
-The Ministry of Interior, because the theme of the hackathon is, I don't know how to translate, but anyway is a co-habitable balanced Taiwan. Basically, original rejuvenation, same as your topic.
+The Ministry of Interior, because the theme of the hackathon is, I don't know how to translate, but anyway is a co-habitable balanced Taiwan. Basically, regional rejuvenation, same as your topic.
 
 We have two phases. One is multi-month, what we call the idea zone. Where we engage the artists, the poets, the moviemakers, the game makers, or whatever. Their job is not to produce any code, although some code would still be involved. Rather to clarify the vision and to put into visual or interactive arts, what people's collaborative wish are.
 
@@ -194,7 +194,7 @@ When we co-created tax filing together, maybe the ocean guard, the coastal guard
 
 The tax agency officer [laughs] also surfing, and fishing and things like that. The citizens when they entered this workshop were both online and face-to-face, they feel that their break out group leader A, he knows a lot about public service, and B is actually on citizens' side.
 
-Then, that's a very empowering move, because then those persuasion officers feel that they have solved [laughs] their problems by not breaking out of their own silos, but starting outside of those silos.
+Then, that's a very empowering move, because then those participation officers feel that they have solved [laughs] their problems by not breaking out of their own silos, but starting outside of those silos.
 
 That's one of the mentalities that could be fostered very easily if you just design your co-creation groups by facilitating with senior or at least mid-level public officials well outside of their silo, but themselves represent the same values that local system have.
 
@@ -247,7 +247,7 @@ I see. I don't know. Seki, do you have any learnings come from Japan may be that
 ### Hal Seki:
 Yeah. The teaching is really important. We have the workshops for the local government officials called Data Academy and GovTech Academy. We have similar program. We have a series of workshops for the local officials, invite them, and teach them.
 
-Not only teach, also we work with them and solve their local programs because they have no time to only learn new things. They have to solve their programs so that we work with them and try to solve the small program with them using the data visualization or using some RPAs or some other techniques.
+Not only teach, also we work with them and solve their local problems because they have no time to only learn new things. They have to solve their problems so that we work with them and try to solve the small problem with them using the data visualization or using some RPAs or some other techniques.
 
 I have a question to Beth. The difficult point is, public officials are too busy to learn this kind of new things. They are not fueled to try but they learned. The government give official support for the learners or some mandatory things to learn new things?
 
@@ -264,7 +264,7 @@ What we lack for sure, in the United States, unlike in Singapore and Canada, and
 
 In Singapore, they've said, "We think it's important for public servants to know how to code." I don't think that's the right thing, frankly, but I like the fact that they've picked something, and that there's a vision for what to do, which we completely lack in the United States.
 
-In the US, there's no incentive, there's no requirement, there's no vision. You just have no culture of learning particularly, and then when people get busy, it's the very first thing that you stop doing, is you stop upscaling, basically.
+In the US, there's no incentive, there's no requirement, there's no vision. You just have no culture of learning particularly, and then when people get busy, it's the very first thing that you stop doing, is you stop upskilling, basically.
 
 ### Joichi Ito:
 All right. Thank you. Audrey, go ahead.
@@ -377,7 +377,7 @@ Aside from pull requests, it's also a political necessity if the municipal mayor
 
 In many cases, data sharing arrangements and open source is the only way politically, that they can collaborate on things like contact tracing. The great thing about open source collaboration is that it's collaborating in a dictionary sense, you don't have to love your collaborator but you can still collaborate with them.
 
-It's constructive criticism whenever the MPs of opposition party asks, "Why the Open StreetMaps community tells us your map of mosque rationing is a terrible data bias because you assume everyone on helicopter." You had only measured in KM, kilometer distances between a person and the mosque available but in the rural places, they have to spend three hours blah, blah, blah.
+It's constructive criticism whenever the MPs of opposition party asks, "Why the Open StreetMaps community tells us your map of mask rationing is a terrible data bias because you assume everyone on helicopter." You had only measured in KM, kilometer distances between a person and the mask available but in the rural places, they have to spend three hours blah, blah, blah.
 
 Then the minister can say, "It's an open API, due to something else, right? What would you like to do instead?" Then that they're Flipster kind of interpolation around. They have the same data and API and standards as we do.
 

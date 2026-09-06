@@ -69,7 +69,7 @@ We chose competencies, realizing that, because we have broadband as human right 
 > (laughs) In the rural, indigenous, and offshore, the most remote places, we now have 98 percent broadband, so soon to be 100 percent. The idea, simply put, is that we make it very affordable, both the connectivity, which is less than 16 US dollars per month for unlimited 4G. As well as almost free use to computational resources, such as the supercomputing center.
 
 ### Audrey Tang:
-The point here is that, just as the children are becoming YouTubers, and therefore producers of media, instead of consumers, people are also becoming just everyday programmers who just automate away the chores. Instead of becoming a computer scientist, they still have other aspirations, but can just use code to make their word easier, and automate away the various trivial tasks.
+The point here is that, just as the children are becoming YouTubers, and therefore producers of media, instead of consumers, people are also becoming just everyday programmers who just automate away the chores. Instead of becoming a computer scientist, they still have other aspirations, but can just use code to make their work easier, and automate away the various trivial tasks.
 
 ### Audrey Tang:
 Trivial as in a simple instruction, not as in unimportant. Basically, by undergrad now, half of the undergrad students can use programming to simplify the work they do in their studies. We expect that rate to still continue. The municipal governments are free to design their curriculum guidelines so that students in the primary school are required to learn code as a kind of foreign language.

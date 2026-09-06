@@ -602,7 +602,7 @@ We would do that a lot.
 That’s great. That’s part of our students’…A lot of people know about Minerva through the global travel, but our students take their classes through a platform that we’ve designed. We very much focus as well on access to education, globally, and how technology can be this partner in starting that.
 
 ### Capri La Rocca:
-I dream of times where we might have even more futuristic, like probably doing augmented-realty learning or ways that we can merge the physical and digital even more.
+I dream of times where we might have even more futuristic, like probably doing augmented-reality learning or ways that we can merge the physical and digital even more.
 
 ### Audrey Tang:
 With 5G, you don’t need cities anymore. \[laughs\]
@@ -717,7 +717,7 @@ Oh, man. That’s great.
 Thank you, Audrey, for your time.
 
 ### Capri La Rocca:
-This is fantastic. I’m excited to keep in conversation. We’ll share the ideas with the students. We’ll be thinking about them with the SDGs lens, and then well share more details on the 17th of January.
+This is fantastic. I’m excited to keep in conversation. We’ll share the ideas with the students. We’ll be thinking about them with the SDGs lens, and then we'll share more details on the 17th of January.
 
 ### Audrey Tang:
 That’s awesome. I’ll send you the transcript. Cheers.

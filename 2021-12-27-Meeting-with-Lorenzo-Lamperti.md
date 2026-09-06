@@ -104,7 +104,7 @@ No.
 ### Audrey Tang:
 [laughs] OK. I think in terms of data transmission, we've traditionally been quite open, in the sense that we're OK to accept the kind of norms that private sector brings to the table. If it's a European operator, then of course, it has to obey the GDPR.
 
-If it's the American one, then of course, the cross border rule of the APAC, which is less strict than GDPR, is enforced, but we don't a priority say that. We prefer GDPR to CBPR. We say that if you want to do business with Europeans who have to follow their rules, and we're here to protect whatever norms that people agree on.
+If it's the American one, then of course, the cross border rule of the APEC, which is less strict than GDPR, is enforced, but we don't a priori say that. We prefer GDPR to CBPR. We say that if you want to do business with Europeans who have to follow their rules, and we're here to protect whatever norms that people agree on.
 
 At this moment, I think we're a very diverse situation when it comes to data transmission.
 
@@ -172,7 +172,7 @@ When it initially looks cheaper, it's actually not cheap at all when you're look
 I think that's a conversation that needs to happen in a general population level, and we had a long discussion around that in 2014. I think the rough consensus is non partisan. All the different parties in Taiwan all agree broadly that we should not allow PRC components in our 4G infrastructure.
 
 ### Lorenzo Lamperti:
-Is there still a need of another conversation about this, for example about semi conductors?
+Is there still a need of another conversation about this, for example about semiconductors?
 
 ### Audrey Tang:
 I think every jurisdiction need to have their own conversation about that. There is no universal method to set the boundaries, and the boundaries also shift based on the actual state taken over, activities that we see.
@@ -189,7 +189,7 @@ Previously, if I am attending a video conference, usually I meet younger working
 
 If it is a multi lateral setting then there is all sorts of things about protests, about passports, about diplomatic fall out and about things like that.
 
-Nowadays, all the senior officials are very used to video conferencing and if we setup video conferencing there is no one protesting or checking our passports. Indeed, there is no difference between member or observer. There is no seating, everybody is just a 16 by 9 box.
+Nowadays, all the senior officials are very used to video conferencing and if we set up video conferencing there is no one protesting or checking our passports. Indeed, there is no difference between member or observer. There is no seating, everybody is just a 16 by 9 box.
 
 In that arrangement, the freedom of movement and the freedom to associate with my counterparts has greatly expanded, because my counterparts, ministers or parliamentarians in other countries, they don't have to fear retaliation. They can just ping me and we set up a video conference like that.
 
@@ -197,7 +197,7 @@ It's greatly expanded in a very practical sense and then don't have to suffer je
 
 I think Taiwan's role in contributing to fighting the pandemic with no lockdown and the infodemic with no take down really showed that there's a possibility for a democracy to deliver instead of to be seen as a hindrance.
 
-If you look at only the more authoritarian jurisdictions, there's this narrative that says you have to sacrifice the freedom of assemble, of speech for the greater good during those extraordinary pandemic times. Taiwan, along with New Zealand, is a great counter narrative that says, actually, we didn't give up any freedom, we did even better.
+If you look at only the more authoritarian jurisdictions, there's this narrative that says you have to sacrifice the freedom of assembly, of speech for the greater good during those extraordinary pandemic times. Taiwan, along with New Zealand, is a great counter narrative that says, actually, we didn't give up any freedom, we did even better.
 
 There's something in our way of participating in the counter pandemic that's not led by the state but rather led by the people. The citizen centric democracies and social technology actually pay dividends when we are facing the pandemic and infodemic.
 

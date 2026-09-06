@@ -419,7 +419,7 @@ A pharmacy near my place, my residence, even put very large fonts, A4 papers on 
 > (laughter)
 
 ### Audrey Tang:
-It’ a clash. It’s like Coca Cola and Mentos, independently good things. \[laughs\] We apologized very quickly. We didn’t say that the pharmacies have to swipe the IC card during the queuing. You can’t collect IC cards, which is what the authoritarian CECC would do. Instead, we said, “We’re sorry. We didn’t know that this will run like this. We will consult the pharmacists of what to do.”
+It’s a clash. It’s like Coca Cola and Mentos, independently good things. \[laughs\] We apologized very quickly. We didn’t say that the pharmacies have to swipe the IC card during the queuing. You can’t collect IC cards, which is what the authoritarian CECC would do. Instead, we said, “We’re sorry. We didn’t know that this will run like this. We will consult the pharmacists of what to do.”
 
 ### Audrey Tang:
 The pharmacists suggested, because there’s feedback forms on the mask maps, suggested that the map should display two different time slots, one for collecting numbers and one for collecting masks. We fixed that the very next week.

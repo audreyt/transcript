@@ -94,13 +94,13 @@ We need to talk to those multinationals and say, “If people do political preci
 Another part of my work, as I said, is to use digital tools to transform the way the public service work, be it water repair, or taking care of nursing and long-term care in remote islands, and so on. I wouldn’t say it’s my idea. I’m merely providing a platform on which the different ideas can co-create shared values, and so it is, I think, everybody’s idea.
 
 ### Sébastien Lebelzic：
-In Europe, we have a lot of debate with how to talk, how to address the issue from the GAFA, or Google, Amazon, etc. The way you’re doing it is quite different. You’re not coercetive. You’re more engaging in a dialogue with them, or…?
+In Europe, we have a lot of debate with how to talk, how to address the issue from the GAFA, or Google, Amazon, etc. The way you’re doing it is quite different. You’re not coercive. You’re more engaging in a dialogue with them, or…?
 
 ### Audrey Tang：
 Yes, because in Taiwan, we have the idea of data coalition. People who care about, say, environmental data, they can form a data coalition completely separate from the private sector. It’s entirely in the social sector, and it’s called the air box.
 
 ### Audrey Tang：
-All the 2,000 measurement points you see here are people who voluntarily use a cheap, like â¬10 per month connection. In Taiwan, we have unlimited broadband 4G as a human right for at most â¬16 per month.
+All the 2,000 measurement points you see here are people who voluntarily use a cheap, like €10 per month connection. In Taiwan, we have unlimited broadband 4G as a human right for at most €16 per month.
 
 ### Audrey Tang：
 Very cheaply, you can connect those measurement boxes into a distributed ledger to let people see what the air quality really is, by people who donate their balcony, their schools, and things like that. They use it as a teaching tool so that children can learn about data stewardship.
@@ -163,7 +163,7 @@ For this one, for example, the AIT just said, “Yeah, we’ll send someone,” 
 The people who join are between director-general level and section chief level. The people who are not yet section chief are made into section chief when they return to their ministry. There was considerable resources in their dispatch.
 
 ### Audrey Tang：
-When they become aware of people’s rough consensus, more often than not, then can just connect back to their ministerial network. We give out a public account following each consultation. Even if, when it’s not directly possible, like within a month or so, we always say what will be possible within the next two month, what’s possible within the next one year, and so on.
+When they become aware of people’s rough consensus, more often than not, they can just connect back to their ministerial network. We give out a public account following each consultation. Even if, when it’s not directly possible, like within a month or so, we always say what will be possible within the next two month, what’s possible within the next one year, and so on.
 
 ### Sébastien Lebelzic：
 You have a very special career, a different profile from what we used to have in the past. How do you define yourself? How do you go to career into politics? Do you consider yourself as a politician?

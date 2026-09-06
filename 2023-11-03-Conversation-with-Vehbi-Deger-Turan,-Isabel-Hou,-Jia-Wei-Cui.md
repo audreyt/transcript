@@ -110,7 +110,7 @@ Indeed.
 ### Isabel Hou:
 But engineers who knows about how to contribute to the event might chat like AI learning or general or random. So, I think that would be wonderful if we can set up or maybe just register a short talk in the next g0V capsule, which will happen in December 9th. So, I think we can arrange to share how Talk to the City works to the more broader communities in g0v. We invite more people to contribute.
 
-And also, I think what you can corroborate with vTaiwan is not only about the subject of AI discussion, because there are so many different topics and the declarations. I talked to Ronnie and he said he will try to… He actually has the data sets of join.gov.tw platform. There are so many declaration discussions out there about gay marriage laws two years ago. So, he will try to use these data sets to test how Talk to the City’s report will be like, but he needs some time to understand how it works.
+And also, I think what you can collaborate with vTaiwan is not only about the subject of AI discussion, because there are so many different topics and the declarations. I talked to Ronnie and he said he will try to… He actually has the data sets of join.gov.tw platform. There are so many declaration discussions out there about gay marriage laws two years ago. So, he will try to use these data sets to test how Talk to the City’s report will be like, but he needs some time to understand how it works.
 
 But yeah, but what I want to say is that I think this school is not only for AI discussion, but that is AI Academy focused on. But vTaiwan and also g0v community, they are not only focused on AI.
 
@@ -443,14 +443,14 @@ Yeah. It has been a while since I last chatted with her when I was in the UK. Ba
 
 Two questions I have is my understanding last time we chatted was that these might not feel as fast for example. HCS article that he was interested in he wanted there to be a hosted version. Does this get hosted in Taiwan or do we host it for now? Like, if photo wants to have a hosted version for a lot of the projects here, that would be great.
 
-But I don't know what's your timeline on that side but you was pretty straightforward at this point because that way there is more of a shelling point for more people to not have to deploy an instance but they can just create…
+But I don't know what's your timeline on that side but you was pretty straightforward at this point because that way there is more of a Schelling point for more people to not have to deploy an instance but they can just create…
 
 Basically, like one thing I blow is there's some features that will come across any of you that want to contribute on developing them or making RFCs, that is also a great way for like… if we have RFs that come from you guys that would be actually wonderful because then more people will be stewards of what's created, especially around the chat avenue.
 
 Like, one is the transcription and diarization tooling for example, that was relevant for civil as well. I'm curious, Peter, your thoughts on this because you guys already have tried to whisper for…
 
 ### Jia-Wei Cui:
-Well, I think can do test first like test about the AI model summarizations to work these kinds of words and these types of results and with these kinds of features, I think you'll be more like extension. So, it would be like… it is not a core function of the model but it would be like, OK if you have that it would be more convenient for us to convert the data into the super data security into the Talk to the City or we can generate the better outage whether it's kind of better inputs.
+Well, I think can do test first like test about the AI model summarizations to work these kinds of words and these types of results and with these kinds of features, I think you'll be more like extension. So, it would be like… it is not a core function of the model but it would be like, OK if you have that it would be more convenient for us to convert the data into the super data security into the Talk to the City or we can generate the better output whether it's kind of better inputs.
 
 Yeah so, we actually talk about some features that probably that will have more extension and probably have that can be installed on the top two seats model in Wednesday like how to remove it if we can remove the planks and because we know that if we are currently using the western model right now to do the transcript of the video they would automatically have the time script… timestamps on the paragraphs, which means that the models still rely on the time stamps instead of the real paragraph. And we understand the whole paragraph to understand the content, to make the transcript so…
 
@@ -493,7 +493,7 @@ We signed the twenty first century agreement with US. And the core demand of not
 ### Vehbi Deger Turan:
 Right. I would love to meet Ronnie too and talk more about this too. And I’ll take a look at the Join Plus app.
 
-I guess the last thing here that we didn't touch on was the decolorization tool kit. I did send… I did put the link of Bruno 's project on depolarized, which is…it actually has a lot of the some of the aspects on you know is it establishing common ground. it's more so thinks about this from are you performing the right steps for it to be a healthy discourse. Is the avenue it takes… Um, if you have any thoughts or feedback on that that would be great I don't think.
+I guess the last thing here that we didn't touch on was the depolarization tool kit. I did send… I did put the link of Bruno 's project on depolarized, which is…it actually has a lot of the some of the aspects on you know is it establishing common ground. it's more so thinks about this from are you performing the right steps for it to be a healthy discourse. Is the avenue it takes… Um, if you have any thoughts or feedback on that that would be great I don't think.
 
 You can just review it with the skin but I would love to share that with you so if you have anything you want to see…
 

@@ -239,10 +239,10 @@ That’s right.
 Line today, I’ve seen some of the messaging on Instagram, Twitter, Facebook. Is there anything I’m missing relating to WhatsApp?
 
 ### Audrey Tang:
-PPT.
+PTT.
 
 ### Clara Gillispie:
-PPT, yeah. Is there anything that’s being, either like a bot or accounts on WhatsApp?
+PTT, yeah. Is there anything that’s being, either like a bot or accounts on WhatsApp?
 
 ### Audrey Tang:
 There are Line at-bots. I think a few ministries and politicians have Telegram accounts, as well. Especially, Line started charging too much. Some of them switched to Telegram first. I don’t know about WhatsApp. WhatsApp is not the most popular messaging app here.

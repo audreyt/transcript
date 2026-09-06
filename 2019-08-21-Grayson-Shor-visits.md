@@ -500,7 +500,7 @@ Two other questions related to this as well. What would you suggest as a potenti
 That’s a pretty high level question…
 
 ### Grayson Shor:
-Yeah. I know you work with the hackathon. When we first sat down, you were saying we want it not just be where everybody comes, you take a picture and then leave. We want it to be something that you make a promised, and then something happens long-term, it turns into something bigger.
+Yeah. I know you work with the hackathon. When we first sat down, you were saying we want it not just be where everybody comes, you take a picture and then leave. We want it to be something that you make a promise, and then something happens long-term, it turns into something bigger.
 
 ### Audrey Tang:
 Right.

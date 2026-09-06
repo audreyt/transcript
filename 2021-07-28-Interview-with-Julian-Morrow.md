@@ -152,7 +152,7 @@ That's amazing. Audrey Tang, in the tech industry, innovation is often associate
 ### Audrey Tang:
 That's an excellent question. Last February, when we invented this mask rationing idea, the idea is that because we have a country of 23 million people but only manufacture less than 2 million medical grade masks a day.
 
-We basically set all the pharmacies all around Taiwan receive a fixed number of masks and people can use their national health cards to collect those masks. It sounds beautiful and we even overlate the pharmacist place with the population centers.
+We basically set all the pharmacies all around Taiwan receive a fixed number of masks and people can use their national health cards to collect those masks. It sounds beautiful and we even overlay the pharmacist place with the population centers.
 
 They align almost perfectly so that we can see that each person no matter where they are in Taiwan, they can reach the nearest pharmacy with a fixed number of mask, with exactly the same distance on average. But after we roll it out, it didn't quite work like that.
 

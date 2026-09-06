@@ -27,7 +27,7 @@ Yes, I remember that.
 We've been doing well in the meantime, and we appreciate your time to hear about this new project that Leo's taking. Over to you.
 
 ### Audrey Tang:
-Excellent. Now, Vitalk is my fellow board member at RadicalxChange. Thank you for precipitating this collaboration.
+Excellent. Now, Vitalik is my fellow board member at RadicalxChange. Thank you for precipitating this collaboration.
 
 ### Alex Liu:
 Yeah, please.
@@ -45,7 +45,7 @@ It's already becoming much more mainstream as a payment tool, as a tool for sett
 
 Our version of a stablecoin is where the customer will give us one NT dollar, we will take that and put it in the bank in a guaranteed account so that it is truly one-to-one back by currency. Not like, even some of the stablecoins you see in the US who been buying commercial paper and other things.
 
-By the way, we believe that those approaches are going to be regulated by the Fed very soon. End of this year or next year, they will require them to act more like banks and keep larger cash reverse. In Taiwan, we planned it back through that one-to-one with the dollar.
+By the way, we believe that those approaches are going to be regulated by the Fed very soon. End of this year or next year, they will require them to act more like banks and keep larger cash reserves. In Taiwan, we planned it back through that one-to-one with the dollar.
 
 ### Audrey Tang:
 OK, so that makes a local bank digital currency?
@@ -59,7 +59,7 @@ We've talked to people in the online payment platform, they're very interested. 
 
 We've talked to large banks here, who could act as custodian banks, very interested. We've talked to large tech companies, who will use this as a settlement tool for their supply chain, also interested.
 
-We've also talked to companies that are doing similar types of things in Asia, because if we can link this with other cryptocurrencies, other stablecoins within Asia, it will become even more widely used and will be away for Taiwan to really broaden its commercial influence.
+We've also talked to companies that are doing similar types of things in Asia, because if we can link this with other cryptocurrencies, other stablecoins within Asia, it will become even more widely used and will be a way for Taiwan to really broaden its commercial influence.
 
 Because this area is currently unregulated or I should say despite that we still have gone to the FSC. We've talked to them, Brenda Hu and got her view on things. From their perspective they said, "We want to make sure that there's no laws covering this right now. We confirmed that there's not and we don't believe there are."
 
@@ -96,7 +96,7 @@ Go ahead, Alex.
 ### Alex Liu:
 That's correct on both counts, Audrey. First of, which is we're not seeking to become a service provider to our Central Bank to provide this relevant technology. Secondly and more broadly, we don't think outside of, again, quite special entities like the People's Bank of China on mainland China.
 
-This CBDC approach would work for Taiwan for the simple reason that we perhaps don't have the sufficient economic cloud, especially internationally, to bring the significant economic partners along. A CBDC for domestic consumption is less meaningful than any something for cross-border trade.
+This CBDC approach would work for Taiwan for the simple reason that we perhaps don't have the sufficient economic clout, especially internationally, to bring the significant economic partners along. A CBDC for domestic consumption is less meaningful than any something for cross-border trade.
 
 Our approach, again this sort of private sector stablecoin approach, we kind of squares that circle, right? It maximally preserves the domestic commercial banking infrastructure. We do not bypass the commercial banks while surfing the cross-border rules.
 
@@ -168,7 +168,7 @@ If you look at all the stuff going on with non-fungible tokens and stuff like th
 I see that. The other thing I want to ask is what's your underlying infrastructure, or running it off an existing public chain, like the rollups?
 
 ### Alex Liu:
-Yes. We have the technology infrastructure because of our many years of operation exchange. We intend to use a public chain such as etherium as a base layer.
+Yes. We have the technology infrastructure because of our many years of operation exchange. We intend to use a public chain such as Ethereum as a base layer.
 
 As you know, it's quite expensive to pay gas and ether these days. There are layer-two solutions like Polygon that will bore the per-transaction cost. That's the type of public infrastructure we intend to use.
 

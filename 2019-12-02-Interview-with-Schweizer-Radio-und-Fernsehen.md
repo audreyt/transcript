@@ -315,7 +315,7 @@ Yeah.
 …to elicit negative emotion to distract from public discussion, then we have evidence, of course, there are hundreds of thousands of fake accounts.
 
 ### Audrey Tang:
-For example, on the Honk Kong protests alone, there’s 200,000 fake accounts on Twitter designed to troll discussions. They’re all semi-automated from the same block of computers within the PRC that doesn’t need to bypass the Great Firewall. They’re blessed by the Great Firewall to directly troll Twitter, Facebook, and Google.
+For example, on the Hong Kong protests alone, there’s 200,000 fake accounts on Twitter designed to troll discussions. They’re all semi-automated from the same block of computers within the PRC that doesn’t need to bypass the Great Firewall. They’re blessed by the Great Firewall to directly troll Twitter, Facebook, and Google.
 
 ### Interviewer:
 Are there also such trolling farms when it comes to questions concerning Hong Kong?
@@ -798,7 +798,7 @@ Yeah, that there’s a clause. There’s a clause.
 Basically, we look systemically at what is the presidential purview that the administration should not touch because those are political questions pertaining to the president. We said that it is basically issues pertaining to the Chinese continent, issues pertaining to foreign affairs, issues pertaining to national defense.
 
 ### Audrey Tang:
-These are the things that you can write to the president about, but it is beyond the minsters to respond. Because a minister cannot respond and an e-petition calls for a ministerial response, so it is falling outside of the purview of the ministerial part, the administration part of the Join platform.
+These are the things that you can write to the president about, but it is beyond the ministers to respond. Because a minister cannot respond and an e-petition calls for a ministerial response, so it is falling outside of the purview of the ministerial part, the administration part of the Join platform.
 
 ### Interviewer:
 I suggest because it’s already 9:50, that we start with the shooting of the…

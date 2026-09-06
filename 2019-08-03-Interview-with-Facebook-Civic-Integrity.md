@@ -291,7 +291,7 @@ As you can see, \[laughs\] half of the people absolutely love this statement. Ha
 If we had allowed reply, easily hundreds of harassments would very quickly show up. Again, because we don’t have replies, you can see it’s the only thing that divides people. There’s nothing else. \[laughs\] People generally agree on most of the things.
 
 ### Audrey Tang:
-We just got the AIT people, the MOFA people to work on the parts that pass what we call group informed consensus. Both the grouping and well as the group informed consensus are very useful here to quantitatively show people that people have more in common than we thought about.
+We just got the AIT people, the MOFA people to work on the parts that pass what we call group informed consensus. Both the grouping as well as the group informed consensus are very useful here to quantitatively show people that people have more in common than we thought about.
 
 ### Audrey Tang:
 If people get into the rabbit hole of just expanding that one divisive issue, then they have this false perception that these are people who are anonymous enemies that are even not part of the polity. That leads to both fragmentation by unfriending and blocking, as well as personal harassment which are not really personal. It’s just reacting to that one controversial statement.
@@ -387,7 +387,7 @@ Honest advertisement is consensus across jurisdictions. I’m very happy that Fa
 You’d mentioned that divisiveness can often be amplified where there’s more consensus in reality. Are there particular kinds of rhetoric or language that concerns you that you see increasing or on the rise with Taiwanese users online that contributes to this perception of polarization or being more divided than they are in fact?
 
 ### Audrey Tang:
-That’s a great question. A lot of it are still along party lines. Especially, the next election is a single winner in each district or presidential. We’re not going to elect two presidents, right? \[laughs\] It’s a very zero some thing. Usually, in this kind of elections, most of the rhetoric will be along party lines.
+That’s a great question. A lot of it are still along party lines. Especially, the next election is a single winner in each district or presidential. We’re not going to elect two presidents, right? \[laughs\] It’s a very zero-sum thing. Usually, in this kind of elections, most of the rhetoric will be along party lines.
 
 ### Audrey Tang:
 People who are affiliated with one party will be motivated, incentivized to paint people from the other party as essentially outside of the polity. This is particularly easy in Taiwan because of that single divisive issue with PRC.
@@ -399,7 +399,7 @@ That’s gradually changing. If anything, it’s not on the rise. After Hong Kon
 Even the leading KMT, Mayor Han Kuo-yu, his main campaign policy thinker, ex-Premier Simon Chang, is now publicly saying the ’92 consensus is out of date and we shouldn’t hold to it.
 
 ### Audrey Tang:
-That rhetoric is on the decline. It’s not on the rise. I don’t see any divisiveness on the rise at the moment. If you asked me a few months ago, I would say it could tie into the referendum. Because we witnessed that if we tie referendum into the voting day, then everybody votes in the referendum with a very binary thinking, which isnot good for the deliberation of referendum agenda.
+That rhetoric is on the decline. It’s not on the rise. I don’t see any divisiveness on the rise at the moment. If you asked me a few months ago, I would say it could tie into the referendum. Because we witnessed that if we tie referendum into the voting day, then everybody votes in the referendum with a very binary thinking, which is not good for the deliberation of referendum agenda.
 
 ### Audrey Tang:
 Now we’re on alternating years. It’s an election year, then a referendum year, election year, referendum year, so they won’t polarize each other anymore.

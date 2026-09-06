@@ -377,7 +377,7 @@ Basically, what it does is that it uploads it to the blockchain and takes the ha
 Oh, right.
 
 ### Audrey Tang：
-Detecting the accelerator and everything, all the different signals of forensics. This is applied forensics.
+Detecting the accelerometer and everything, all the different signals of forensics. This is applied forensics.
 
 ### Jefcoate O’Donnell：
 That’s how you know that we’re the real Foreign Policy and the real Audrey Tang.

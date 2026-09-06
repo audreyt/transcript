@@ -40,10 +40,10 @@ He paid Google in API-used fees for more than 20k Euros overnight because it wen
 If you add, there’s more than 100 different applications so that when we queue in line in any pharmacy, now there is every two weeks 9 masks per adult or 10 per children. This enables people queuing in line to refresh their phone or chatbot or voice assistant and understand that this gets deducted in real-time so that if people see that erratic creases in availability after a purchase they will call 1922 right there.
 
 ### Audrey Tang:
-This also enable people to analyze the distribution, about fairness, and so on. When an MP, previously data analytics VP from Foxconn, made an interpolation to Minister Chen Shih-chung saying, “The OpenStreetMap community is saying that your distribution looks fair on the map, but it’s actually unfair because you haven’t taken care of people who use public transport or have to walk, the time that they have to spend to get a mask is not fair.”
+This also enable people to analyze the distribution, about fairness, and so on. When an MP, previously data analytics VP from Foxconn, made an interpellation to Minister Chen Shih-chung saying, “The OpenStreetMap community is saying that your distribution looks fair on the map, but it’s actually unfair because you haven’t taken care of people who use public transport or have to walk, the time that they have to spend to get a mask is not fair.”
 
 ### Audrey Tang:
-The Minister Chen, he didn’t defend the policy at all. He just said, “Legislator, teach us,” and the very next day, we co-created a new algorithm that’s more fair, and also enable people to pick up the mask 24 hours a day in a convenient store.
+The Minister Chen, he didn’t defend the policy at all. He just said, “Legislator, teach us,” and the very next day, we co-created a new algorithm that’s more fair, and also enable people to pick up the mask 24 hours a day in a convenience store.
 
 ### Audrey Tang:
 This illustrate this fairness principle that is maximally inclusive, not just people who are enabled by mobile phones or things like that, but anyone who have a trust with the local pharmacies, and later on, convenience stores.
@@ -67,7 +67,7 @@ Also, if there is fact-check as false disinformation, the public attribution is 
 To conclude, I would want to say, last year onward, we made sure that in our K-12 curriculum, we stopped talking about media literacy, or digital literacy, or data literacy, because that’s an old regime where the older people makes media, and the younger people consume media, but we all know it’s the other way around.
 
 ### Audrey Tang:
-It’s the younger people making media now, and so, because in Taiwan, broadband is a human right, anywhere in Taiwan, even top of Taiwan, 4,000 meters high, you’re guaranteed to have 10 megabits per second both ways for just â¬15 a month, otherwise it’s my fault.
+It’s the younger people making media now, and so, because in Taiwan, broadband is a human right, anywhere in Taiwan, even top of Taiwan, 4,000 meters high, you’re guaranteed to have 10 megabits per second both ways for just €15 a month, otherwise it’s my fault.
 
 ### Audrey Tang:
 The younger people need to be educated, thinking they are data producers, media producers, and instead of just consumers. That in turn makes sure that they can crowdsource and crowdfund the conversations around getting the epidemiological and also infodemic knowledge to everybody.

@@ -248,7 +248,7 @@ Now, in the global scene, the cybersecurity is moving towards this idea of zero-
 
 It is a very large investment for Taiwan to digitally transform ourselves into this new zero-trust architecture.
 
-We need all the help that we can get, both from shared code, like the software build of materials, so that we can collectively, jointly maintain similar infrastructures as the Nordic Institute, like the Iceland, Finland, and Estonia are maintain X-Road together, so we can collaborate in maintaining shared infrastructures.
+We need all the help that we can get, both from shared code, like the software bill of materials, so that we can collectively, jointly maintain similar infrastructures as the Nordic Institute, like the Iceland, Finland, and Estonia are maintain X-Road together, so we can collaborate in maintaining shared infrastructures.
 
 Then, we can also share our best practices on how to work within the public sector to introduce the innovation from the private sector, to accelerate the adoption of better cyber-hygiene and cybersecurity practices.
 
@@ -419,7 +419,7 @@ As I understand, Taiwan is going to participate in reconstruction of Ukraine, ye
 We're ready to commit to that, yes.
 
 ### Giedrius Gaidamavičius:
-The last question. You are one of the first highest-ranking Taiwanese officials who visits Lithuania. Minister of National Development visited Vilnius in 2021, Speaker of Taiwan parliament was in Lithuania last year. Do other Taiwan's ministers have any plans to visit Lithuania, and maybe such plans have Taiwan's President or Prime Minster?
+The last question. You are one of the first highest-ranking Taiwanese officials who visits Lithuania. Minister of National Development visited Vilnius in 2021, Speaker of Taiwan parliament was in Lithuania last year. Do other Taiwan's ministers have any plans to visit Lithuania, and maybe such plans have Taiwan's President or Prime Minister?
 
 ### Audrey Tang:
 This is an interesting question because there are chances that around the end of this month, there will be a cabinet reshuffle. After I go back to Taiwan, there may be some reconfigurations of the cabinet, the size of which we don't know yet. Right after that, I will relay your question to my colleagues in the cabinet.

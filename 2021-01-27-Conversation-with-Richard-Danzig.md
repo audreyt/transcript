@@ -329,7 +329,7 @@ Certainly. And wolves/dog is great for my analogy of assistive intelligence, bec
 Of course, I don’t know much about the psychology of dogs, but I know people who know. I know people who can teach me a little bit if I want to know more. The same goes for elevators.
 
 ### Audrey Tang:
-It’s a ladder of expertise in the society that makes sure that whenever we need access to justice, when the dog or the elevator behaves erotically, then this justice in an epistemic sense, but also in a lower sense is achieved.
+It’s a ladder of expertise in the society that makes sure that whenever we need access to justice, when the dog or the elevator behaves erratically, then this justice in an epistemic sense, but also in a lower sense is achieved.
 
 > (interviewer speaks)
 

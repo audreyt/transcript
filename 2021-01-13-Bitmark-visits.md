@@ -10,7 +10,7 @@ Now, our model is generally well known, so there’s less pressure on my time.
 That’s interesting. Is it well known and people want to emulate it, people are adopting it?
 
 ### Audrey Tang:
-There are parts, like wear a mask to protect your own face against your own hands. That part actually, the idea we’re spreading, it’s spreading. The cue spokesdog, it’s only emulated in places. The daily live press conference and the hotline, that get emulated. The ask-a-scientist portal, chatbots and so on.
+There are parts, like wear a mask to protect your own face against your own hands. That part actually, the idea we’re spreading, it’s spreading. The cute spokesdog, it’s only emulated in places. The daily live press conference and the hotline, that get emulated. The ask-a-scientist portal, chatbots and so on.
 
 ### Audrey Tang:
 There are also parts that are, frankly speaking, hard to emulate, like their national health IC card. That’s maybe prepare it in anticipation for SARS 3.0.
@@ -46,7 +46,7 @@ Christmas Eve, I got documents from some other investors that I could sign. That
 That sounds good.
 
 ### Sean Moss-Pultz:
-Berkley was also a struggle. We did a pilot with 3,000 students. It was really exciting. Then everything stopped because they couldn’t go back to school. Everything got super locked down. We have all of this COVID stuff pending. Not that we want another strand to come back, but we’re using this technology for other stuff. I’ll tell you in a second.
+Berkeley was also a struggle. We did a pilot with 3,000 students. It was really exciting. Then everything stopped because they couldn’t go back to school. Everything got super locked down. We have all of this COVID stuff pending. Not that we want another strand to come back, but we’re using this technology for other stuff. I’ll tell you in a second.
 
 ### Sean Moss-Pultz:
 The Berkeley students seemed to really like it. Of course, the faculty we were working with, they really liked it. I have no idea when the US will reactivate this kind of thing. Everybody is so fatigued. There was these starts and stops and starts and stops. It was very expensive, the pilot. That’s 2020. \[laughs\] Maybe you tell them we’re still struggling with III.
@@ -85,7 +85,7 @@ Did they indicate whether this is a potential case within the Triple-I with the 
 New data. We’re going to work hospitals or other institutions…
 
 ### Audrey Tang:
-Right, the Taobao bank or whatever.
+Right, the Taiwan Biobank or whatever.
 
 ### Vivian Chen:
 Yeah.
@@ -109,10 +109,10 @@ The choices now is either to work with data that’s already there and is clear 
 It will not get postponed indefinitely. \[laughs\] They’re just rolling out the process now.
 
 ### Vivian Chen:
-As what you know, they are now getting consent from Taobao bank or is your…?
+As what you know, they are now getting consent from Taiwan Biobank or is your…?
 
 ### Audrey Tang:
-That’s the idea. They’ve found voluntary institutions including hospital that participates in the Taobao bank project. I’m just saying that it’s a process that’s well-defined, but because it’s well-defined, there’s also a lot of steps to go through for each and every person to re-give their consent and also understanding what they are consenting into.
+That’s the idea. They’ve found voluntary institutions including hospital that participates in the Taiwan Biobank project. I’m just saying that it’s a process that’s well-defined, but because it’s well-defined, there’s also a lot of steps to go through for each and every person to re-give their consent and also understanding what they are consenting into.
 
 ### Audrey Tang:
 It’s more like a popular science problem than anything else. I need to know what sort of data coalition or data collaborative that I’m going to send my data to. Until such a time where it could be explained in a way that each lay person participating in that consent structure can understand very well, they’re not going to give their consent that easily.

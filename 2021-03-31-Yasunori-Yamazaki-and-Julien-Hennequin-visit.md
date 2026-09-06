@@ -232,7 +232,7 @@ Urban setting is cool, like this, but I want to do meaningful stuff. Monitoring 
 The other thing I’m thinking is the reservoir, maybe monitor the entire reservoir on a frequent basis. See what’s going on, making sure everything’s OK.
 
 ### Yasunori Yamazaki:
-The other thing is, we noticed that there is a lot of power plans along your coasts. It’s necessary because you need energy, but then that’s also usually in a very beautiful place. My proposal is, why don’t we monitor all the power plants to make sure there’s no destruction in the neighboring environment.
+The other thing is, we noticed that there is a lot of power plants along your coasts. It’s necessary because you need energy, but then that’s also usually in a very beautiful place. My proposal is, why don’t we monitor all the power plants to make sure there’s no destruction in the neighboring environment.
 
 ### Yasunori Yamazaki:
 If there are, let’s do something about it. Let’s expose this. I mean, expose is a strong word. Let’s make it clear. Let’s get the help from everybody to watch it by having this data available to everyone to see.
@@ -298,7 +298,7 @@ That experience taught me, and then we decided to start hosting a conference on 
 From that experience, I now know that you need to involve people. When you involve people, no one great man can do a work of 1,000 people. That’s my belief ever since. That’s why I’m passionate about this open data approach because I just feel excited just thinking about it, that everyone has this access, and not have to worry about paying for the data, but just thinking creatively how to use it.
 
 ### Yasunori Yamazaki:
-That creates really unprecedent imagination and why I notice because I have data scientists in my company. Half of our engineers are data scientists. We build satellites but we also do a data analysis. Our data scientists are probably one of the luckiest in the world because they get free data obviously because we have the satellites.
+That creates really unprecedented imagination and why I notice because I have data scientists in my company. Half of our engineers are data scientists. We build satellites but we also do a data analysis. Our data scientists are probably one of the luckiest in the world because they get free data obviously because we have the satellites.
 
 ### Yasunori Yamazaki:
 They’re the luckiest people on Earth because they love data, and they can capture anywhere they want for free with our satellite. That’s leading to blossom of imagination because they don’t need to worry about sourcing data. They can get as much as they want.

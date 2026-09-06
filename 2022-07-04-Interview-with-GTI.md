@@ -233,7 +233,7 @@ Like our Q&A, where we're having this exchange, we're not sacrificing anything. 
 > (laughter)
 
 ### Audrey Tang:
-The journalist and I were both very surprised, but also happy that we get to reach an entirely very different audience thanks to the hip-hip band. Something like that, a remix, vibrant, more ingredients to the bubble tea that is the Taiwanese dish of democracy, I believe that is our future.
+The journalist and I were both very surprised, but also happy that we get to reach an entirely very different audience thanks to the hip-hop band. Something like that, a remix, vibrant, more ingredients to the bubble tea that is the Taiwanese dish of democracy, I believe that is our future.
 
 ### Adrienne Wu:
 I always love hearing you speak. I learn so much every time I listen to an interview of yours. Are there any developments that we should be aware of in the coming months? Is there anything that we haven't covered that you would like to discuss in our remaining time?

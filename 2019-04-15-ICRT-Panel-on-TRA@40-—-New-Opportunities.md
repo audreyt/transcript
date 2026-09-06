@@ -147,7 +147,7 @@ Personally, to me, that signifies a level of trust that is, of course, laws are 
 I personally value that mostly because that’s my portfolio. In this department, I also think that it extends beyond US and Taiwan. For example, our Presidential Hackathon in which we select five teams every year and get a president’s guarantee that they become the public service.
 
 ### Audrey Tang：
-Last year, one of the winning teams used machine learning to solve water leakage for water pipes. It may look like very trivial, but it’s actually a great issue in the days of climate change. There were then invited by New Zealand to Wellington to work for another three months.
+Last year, one of the winning teams used machine learning to solve water leakage for water pipes. It may look like very trivial, but it’s actually a great issue in the days of climate change. They were then invited by New Zealand to Wellington to work for another three months.
 
 ### Audrey Tang：
 It takes a great trust to hand to some other country’s team all your water flow, all your water pressure, all your scale down dimension and data. That is the kind of binding issues that binds all of our concerns together and build co creative teams together. I look forward to collaborating with the US more on that particular front.
@@ -156,7 +156,7 @@ It takes a great trust to hand to some other country’s team all your water flo
 Jason?
 
 ### Jason Hsu：
-This is a quite difficult question to answer. Also, I think it covers a wide variety of complexity as the situation we face today. Obviously going forward, we will see China continuing to push the envelope. We’ll see more and more crossing the centerline of the Taiwan’s trade, of their fighter jets.
+This is a quite difficult question to answer. Also, I think it covers a wide variety of complexity as the situation we face today. Obviously going forward, we will see China continuing to push the envelope. We’ll see more and more crossing the centerline of the Taiwan Strait, of their fighter jets.
 
 ### Jason Hsu：
 Also, we’ll see more and more activities being harnessed in the cyberspace to continue to influence Taiwan. To answer this question, as a lawmaker and legislator, I think one fair and responsible comment on this is we have to understand the balance of power in the US system where executive branch or administrative branch have against or check balance between executive branch and legislative branch.

@@ -139,7 +139,7 @@ OK.
 That was cool.
 
 ### Audrey Tang:
-Yeah. The rainbows represents the solidarity in Taiwan’s intersectional movements from the women’s empowerment movement that was many decades ago, all the way to the LBGTIQA+ movements such as the Pride in Taiwan, is the largest…this year, it’s the largest anywhere, because we have physical Pride and other places not.
+Yeah. The rainbows represents the solidarity in Taiwan’s intersectional movements from the women’s empowerment movement that was many decades ago, all the way to the LGBTIQA+ movements such as the Pride in Taiwan, is the largest…this year, it’s the largest anywhere, because we have physical Pride and other places not.
 
 > (laughter)
 

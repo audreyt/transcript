@@ -157,7 +157,7 @@ Feel free to follow the g0v news, g0v.news, that reports all the civic tech thin
 I’ve been very able to reverse recruit public service into the g0v movement. This idea is a policy. It is a regulation, a procurement framework, and also a national Participation Officer Network directive. It is all three sides.
 
 ### Audrey Tang:
-Finally, collective intelligence, how do we do in Africa? For example, you can use the tool that we use, like Sandstorm. The Sandstorm tool that we use is cybersecurity audited, entirely open source, and you can rest ensure that when you’re using Sandstorm, whatever app you’re running in it, even though it may contain backdoors or whatever, it is still secure.
+Finally, collective intelligence, how do we do in Africa? For example, you can use the tool that we use, like Sandstorm. The Sandstorm tool that we use is cybersecurity audited, entirely open source, and you can rest assured that when you’re using Sandstorm, whatever app you’re running in it, even though it may contain backdoors or whatever, it is still secure.
 
 ### Audrey Tang:
 Sandstorm has been one of our core tools to operate within intranets, where the Internet connection and intranet exchange points has been closely watched, and BGP, hijacking, or SSL forgery is rampant. You can still run, essentially, intranet using Sandstorm tools. That has been very useful in occupies.

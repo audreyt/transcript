@@ -142,7 +142,7 @@ That’s what designers cannot do. I look very optimistic because I’m trained 
 My main approach of working with artists is precisely what you just described a few minutes ago is basically looking at art as something that provides aware about for young people like the younger people who don’t have the, for lack of a better term, legacy of their social norms and the social relationships that goes with the social institutions.
 
 ### Audrey Tang:
-They can approach those institutions with a different vision. If you approach that vision and carry on that vision, there is a chance that history change because of your contribution, because people will see that the world can enjoy new possibilities without getting into those paints.
+They can approach those institutions with a different vision. If you approach that vision and carry on that vision, there is a chance that history change because of your contribution, because people will see that the world can enjoy new possibilities without getting into those pains.
 
 ### Audrey Tang:
 It’s shows not necessarily – but less than optimistic – futures. Arts is futurist is my main kind of outbound message. I wonder if that resonates with you.
@@ -264,7 +264,7 @@ I find that, when I was doing research, there’s so many resources available in
 Definitely. Taiwanese is known for the national healthcare and poverty. What’s less known \[laughs\] is that there’s constitutionally mandated system to support basic education, where learning at all levels, science and then culture and including the arts.
 
 ### Audrey Tang:
-Basically, I call this the socialist core is like a GPU, and the other stuff are the catalyst core, there’s this CPU, so the left wing and the right wing of the Republic, but art in culture is definitely on the socialist wing, which is very different from many other jurisdictions.
+Basically, I call this the socialist core is like a GPU, and the other stuff are the capitalist core, there’s this CPU, so the left wing and the right wing of the Republic, but art in culture is definitely on the socialist wing, which is very different from many other jurisdictions.
 
 ### Erika Wong:
 No, it’s very, very different. Even living in Europe and having a government and support to artists, it’s quite different because Taiwan is so much smaller. That sense of the handicraft and having the museums and all that, it’s the preservation from what I have seen. It’s very different like psych out.
@@ -326,7 +326,7 @@ If you are into, for example, Taiwanese Holo which is called Tâi-gí or Taiwane
 That’s amazing. We talked a lot about inbounding, so people come in to Taiwan. I also want to have the conversation the other way around in terms of what you’re bringing from Taiwan out to a more global international context as well for the arts and for artists.
 
 ### Audrey Tang:
-There’s many ideas that, for example, in the film industry. Of course, there’s waves of Taiwanese directors like video games. There’s also quite a successful like the red console team and so on. In the popular culture, there’s the idle films, \[laughs\] TV shows, and pop music \[laughs\] that you just mentioned.
+There’s many ideas that, for example, in the film industry. Of course, there’s waves of Taiwanese directors like video games. There’s also quite a successful like the red console team and so on. In the popular culture, there’s the idol films, \[laughs\] TV shows, and pop music \[laughs\] that you just mentioned.
 
 ### Audrey Tang:
 The main idea of the Taiwan Creative Content Agency, the TAICCA, is that is at arm’s length to the Ministry of Culture, because the Ministry of Culture is in the socialist art. It can only do so much, but the TAICCA is its extension to the international and therefore also capitalist art.
@@ -377,7 +377,7 @@ We want to simplify that process, so both on the memory.culture.tw and also the 
 That’s amazing.
 
 ### Audrey Tang:
-That’s the intersection between social innovation, which is idea was spreading an art, which is taking those ideas and then create something new.
+That’s the intersection between social innovation, which is ideas worth spreading and art, which is taking those ideas and then create something new.
 
 ### Erika Wong:
 Would you say that your social innovation is more on the digital aspect or the physical aspect, or is it both?
@@ -425,7 +425,7 @@ Because it’s new to both of us and given our previous mountaineering experienc
 What I’m trying to get at is that’s experienced as part of the co-creation – I think it’s called 7x7 – enabled me to then work with a sculpture artist to make, essentially, my conversations and transcripts that we’re going to make into a lottery poetry experience where the lottery poetry sticks are not wooden sticks, but actually fish.
 
 ### Audrey Tang:
-You’re in the storm of fish swimming with the fish. Randomly, a fish will, like a fortune cookie, show you a message pertaining to the conversation, but it’s all from the real conversation like between you and me, and so two fish will start speaking your wood and my wood \[laughs\] and things like that.
+You’re in the storm of fish swimming with the fish. Randomly, a fish will, like a fortune cookie, show you a message pertaining to the conversation, but it’s all from the real conversation like between you and me, and so two fish will start speaking your word and my word \[laughs\] and things like that.
 
 ### Audrey Tang:
 There was a lot of fun. A lot of the messages, the artists that I pair with in the Poland, is enabling the new experiences using technology, but not dictated by technology, just to open up new visions by the artists in the creation process. A lot of this viewing room is already on the very end of the journey. This is more about assessing the value.
@@ -572,7 +572,7 @@ Wow. That’s a good wordplay.
 > (laughter)
 
 ### Erika Wong:
-That’s amazing. Thank you so much. This has been such a wonderful conversation. I will end the recoding on my end…
+That’s amazing. Thank you so much. This has been such a wonderful conversation. I will end the recording on my end…
 
 ### Audrey Tang:
 I’ll send my complete recording as a voice file to you.

@@ -103,7 +103,7 @@ This conversation, which I posted here, covers most of the motif that my own poe
 As a genderqueer, the first openly transgender cabinet member in the world, I believe, there is also a lot of interesting conversations around nonbinary thinking and how to take it into politics. I would say non-duality is the main idea that I am working in Taiwan.
 
 ### Audrey Tang:
-This includes the duality between the government and the people. I am at this La Grange Point between the movements on one side and government and the other, and working on things like counter-COVID.
+This includes the duality between the government and the people. I am at this Lagrange Point between the movements on one side and government and the other, and working on things like counter-COVID.
 
 ### Audrey Tang:
 We’re officially post-pandemic for quite a few months now, which works really well, because there’s whole-sector mobilization on the sort of innovations. It’s just poetic work, really, but it seems to really get into the current zeitgeist of people wanting to feel much closer together.

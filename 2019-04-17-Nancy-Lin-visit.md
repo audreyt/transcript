@@ -25,7 +25,7 @@ They did.
 I had an initial meeting with them, and they’re very interested. The question right now is whether or not to open the event to the public. I’m pretty sure there are going to be interest, but they were a little nervous about it.
 
 ### Nancy Lin:
-They wanted me to reach out t other groups, and make sure that there are other people who want to co-sponsor the event before we make that final decision of whether or not to keep it to just the employees or open the event to the public.
+They wanted me to reach out to other groups, and make sure that there are other people who want to co-sponsor the event before we make that final decision of whether or not to keep it to just the employees or open the event to the public.
 
 ### Audrey Tang:
 Employees, as in their company’s employees?
@@ -196,7 +196,7 @@ Except that the person who’s doing the moderating, she will be in the room. It
 We would script it so that she asks me and then I tilt my head to listen. Then I give back my answers. This is very easy to script.
 
 ### Nancy Lin:
-I want to make sure we are on the same page. What you’re saying to me, I want to make sure I understand it correctly, is that one thing we can do is let you know the questions we want to go over so that you can prepare all the visuals. They we still ask you the question live, right? Is that what you’re saying?
+I want to make sure we are on the same page. What you’re saying to me, I want to make sure I understand it correctly, is that one thing we can do is let you know the questions we want to go over so that you can prepare all the visuals. Then we still ask you the question live, right? Is that what you’re saying?
 
 ### Audrey Tang:
 Of course. Then the so called live answer will be actually prerecorded video.
@@ -345,7 +345,7 @@ What do you think about fake news? If you are put in charge to deal with the iss
 Disinformation, which is my preferred term by the way. We don’t really know whether fake news is meant to mean disinformation that pretends to be news or actual news, that isn’t fact checked. There’s two different definition that doesn’t overlap. It’s very hard to put the operational definition.
 
 ### Audrey Tang:
-We see this information as like an epidemic of the mind. It is basically virus of the mind, that infused a sense of usually outrage, but it could be any other emotion, for people who cannot help but share this piece of information. Even if they know that it’s potentially misguided, it struck a chord, so that people really need to share it with somebody else.
+We see disinformation as like an epidemic of the mind. It is basically virus of the mind, that infused a sense of usually outrage, but it could be any other emotion, for people who cannot help but share this piece of information. Even if they know that it’s potentially misguided, it struck a chord, so that people really need to share it with somebody else.
 
 ### Audrey Tang:
 That makes the message viral, basically. There’s two different forums that were making this...basically managing this epidemic. First, is that to treat it as spam, as junk mail. We sort the original junk mail issue, not by loss, but rather by just adding a flag that is spam button to every email, and so forth.
@@ -369,7 +369,7 @@ The person who receives it, is the person who....can it classify whether that’
 Well, when you flag something as spam, you’re helping everybody else. When a sufficient number flags something as spam, and it’s checked as spam by this SpamHaus, and other domain blocking lists, then for every new people who received the same piece of email, that goes to their junk mail folder.
 
 ### Audrey Tang:
-They don’t have to participate in this flagging, in order to benefit from the social innovation, that is the collaborative flagging response. In Taiwan, we have a popular end to end encrypted app called Line, which is like WhatsApp. Because it’s encrypted, nobody can peak into content.
+They don’t have to participate in this flagging, in order to benefit from the social innovation, that is the collaborative flagging response. In Taiwan, we have a popular end to end encrypted app called Line, which is like WhatsApp. Because it’s encrypted, nobody can peek into content.
 
 ### Audrey Tang:
 We’re building partnerships with Line, which in turn is partnering with a lot of social sector innovators, to whenever you see a potential rumor in Line, you can forward it very quickly and easily to third party fact checkers. When a sufficient number of people raise the red flag, so to speak, then they can be fact checked.

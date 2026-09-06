@@ -59,7 +59,7 @@ Instead of asking them to all convert to, I don't know, PDF — sorry, it's a jo
 ### Audrey Tang:
 ...not particular relation — convert to any particular file formats like filing PDF online, but to ensure that even if 10 percent of people who do not like digital services and prefer instead face to face, over the counter transactions can find someone who cares about them personally. That person, instead of having to handle all the analog paper stuff is fully empowered.
 
-The examples I can give that we're going to issue NT$6000 to everybody soon, including people with a permanent resident certificate. I don't whether you're...
+The examples I can give that we're going to issue NT$6000 to everybody soon, including people with a permanent resident certificate. I don't know whether you're...
 
 > (laughter)
 
@@ -68,7 +68,7 @@ The examples I can give that we're going to issue NT$6000 to everybody soon, inc
 
 The people who don't trust either nevertheless can show up at their local post office, present their identities and so on, and then withdraw cash from the post office. The post office worker is not overwhelmed because the backend is all integrated.
 
-This shows the kind of taking care of the people by empowering people closes to the pain while leaving open the infrastructure so that people who figure out better ways to get similar payments and so on can tap into this public infrastructure. Which is why we need to design so it's extensible to the future.
+This shows the kind of taking care of the people by empowering people closest to the pain while leaving open the infrastructure so that people who figure out better ways to get similar payments and so on can tap into this public infrastructure. Which is why we need to design so it's extensible to the future.
 
 ### Nerio Musa：
 If you think about it, this mindset, this way of thinking, not working for the government, working with that kind of thing, is a huge shift for people who think in terms of, "We have to have a strong government, a strong ministry to do this."
@@ -166,18 +166,18 @@ It's a social sector first approach. We're just following the people in a sense.
 Another concern for people is about data protection. Again, going back to what you mentioned previously about confidentiality and integrity of data, how can people using digital services in Taiwan trust that their data is being handled with care?
 
 ### Audrey Tang:
-Again, using the SMS 1922 as a running example, we don't keep the data. Your telecom, if you trust your telecom, then your telecom keeps those random numbers, but they don't know how those random members map to the venue.
+Again, using the SMS 1922 as a running example, we don't keep the data. Your telecom, if you trust your telecom, then your telecom keeps those random numbers, but they don't know how those random numbers map to the venue.
 
-This is what's called a PET, a privacy enhancing technology specifically oblivious federated story or whatever. Using these designs, you don't have to put blind trust in any particular data controller. Instead through design you can ensure that the service still gets accomplished, but there's nothing that a telecom doesn't already know about you ends up being revealed to the operator.
+This is what's called a PET, a privacy enhancing technology specifically oblivious federated store or whatever. Using these designs, you don't have to put blind trust in any particular data controller. Instead through design you can ensure that the service still gets accomplished, but there's nothing that a telecom doesn't already know about you ends up being revealed to the operator.
 
-This is the principle usually code zero knowledge. If we apply this ZK idea everywhere then you do not have to overextend your trust, so to speak. There's some sort of trust of course, but that is a preexisting one. It's not like you have to trust someone just because you need this essential service.
+This is the principle usually called zero knowledge. If we apply this ZK idea everywhere then you do not have to overextend your trust, so to speak. There's some sort of trust of course, but that is a preexisting one. It's not like you have to trust someone just because you need this essential service.
 
-This is even more important when it comes to the essential service, like proving your age of consent or things like that. If you have to accidentally also review everything that's printed on your ID card just to prove that you're 18, then it's not zero knowledge, it's the flip of their knowledge.
+This is even more important when it comes to the essential service, like proving your age of consent or things like that. If you have to accidentally also reveal everything that's printed on your ID card just to prove that you're 18, then it's not zero knowledge, it's the flip of their knowledge.
 
-It's maximum of privacy leak which is why we're committed to implement as part of the Zero Trusts Network Architecture reform, the ZK principle toward all the essential services, including on My Data platform.
+It's maximum of privacy leak which is why we're committed to implement as part of the Zero Trust Network Architecture reform, the ZK principle toward all the essential services, including on My Data platform.
 
 ### Nerio Musa：
-Part of that, one thing that we didn't talk about is about the friction of proving that consent, proving you're showing your idea. That creates friction and that creates...You're solving two problems then, essentially, right?
+Part of that, one thing that we didn't talk about is about the friction of proving that consent, proving you're showing your ID. That creates friction and that creates...You're solving two problems then, essentially, right?
 
 ### Audrey Tang:
 Yeah. Exactly. By making the privacy preserving option even more easy to use than the better days.
@@ -192,7 +192,7 @@ Oh, yeah.
 Obviously you're not storing any data in some cases, but it is still on a lot of...
 
 ### Audrey Tang:
-Yeah. Computation still relies on specific notes. Those notes either keep operating when our submarine cables are cut or they do not. It's very clear cut. We did actually in 2006 have submarine cables cut by earthquake.
+Yeah. Computation still relies on specific nodes. Those nodes either keep operating when our submarine cables are cut or they do not. It's very clear cut. We did actually in 2006 have submarine cables cut by earthquake.
 
 Which is what we're planning. We're planning toward a scenario where earthquake cuts our submarine cables, maybe a human made earthquake. Then anything that keeps operating then means our standards.
 
@@ -212,7 +212,7 @@ This is legislative instruments and regulatory instruments that are just coming 
 ### Audrey Tang:
 Yeah. I think the GDPR, to be fair to it, actually has clauses like joint data controllership and so on, that deals with a more federative or decentralized use cases. In the later acts, the Data Governance Act, the Data Act and so on, also deals with this evolvement of technology.
 
-As I mentioned, fundamentally, what we care about is — I don't want to use the word sovereignty — but the sense of summary is using Web 3.0. The freedom to co-determine how to co-create with a diverse stakeholders and essentially form your own network in the Internet network of networks.
+As I mentioned, fundamentally, what we care about is — I don't want to use the word sovereignty — but the sense of sovereignty is using Web 3.0. The freedom to co-determine how to co-create with a diverse stakeholders and essentially form your own network in the Internet network of networks.
 
 If you look at that lens, then GDPR is a boon because GDPR mandates portability. Without portability, you cannot even bootstrap a network because everything is locked in. [laughs] In that sense, GDPR is a great help to our cause.
 
@@ -359,7 +359,7 @@ Those actual uses, because I think the first week we started, I was diagnosed wi
 
 Our MIS department end up doing a lot of R&D to make this work. Of course, CloudFlare helps a lot. They help us to convert, frankly speaking, very legacy systems into ZTNA without having to reprogram them.
 
-After that initial boost trapping experience, we found that there are corners within the government that are still paper based. Because they did not trust the old intranet security model. It was good reason. They found many threat actors, many threat models that led them to conclude that maybe a physical paper with physical seal, with physical signature, is actually more secure.
+After that initial bootstrapping experience, we found that there are corners within the government that are still paper based. Because they did not trust the old intranet security model. It was good reason. They found many threat actors, many threat models that led them to conclude that maybe a physical paper with physical seal, with physical signature, is actually more secure.
 
 It's done with rigor. It's a good assessment. it also bothers everyone because we all have laptops now. If you have to run a paper based process, it feels like extra work. Again, it's about flipping the default because if you are tied to your desktop anyway, then it doesn't feel like extra work.
 
@@ -489,7 +489,7 @@ It's pending... somewhere.
 My essay right now is moda.
 
 ### Audrey Tang:
-Before you joined moda, we were just checking out the data market of the National Science and Technology Council that infuses all the data from everywhere. I was looking at it during the Luna New Year vacation.
+Before you joined moda, we were just checking out the data market of the National Science and Technology Council that infuses all the data from everywhere. I was looking at it during the Lunar New Year vacation.
 
 I saw Wjke's name on the data market because he was working with the Hsinchu City government before moda that does traffic planning as the one to make the traffic police work easier...
 
@@ -548,9 +548,9 @@ We already talked about, during our initial conversation about IPFS and Ethereum
 
 The mainstreaming of these two technologies is something that interests both of us, because when we joined the W3C, we specifically, in addition to accessibility, security, anything that we should care about, we also care about decentralized identifiers.
 
-The Democracy Network Department within our ministry is explicitly tasked to investigate to the DIDs. DIDs rely on a mainstreaming of a common knowledge player of the Internet, of which, of course, IPFS and Ethereum are some of those common knowledge players.
+The Democracy Network Department within our ministry is explicitly tasked to investigate to the DIDs. DIDs rely on a mainstreaming of a common knowledge layer of the Internet, of which, of course, IPFS and Ethereum are some of those common knowledge layers.
 
-By making it not esoteric, but rather as simple as, for example, HTV3 or things like that, that's something that we overlap in a lot of our interests.
+By making it not esoteric, but rather as simple as, for example, HTTP/3 or things like that, that's something that we overlap in a lot of our interests.
 
 ### Nerio Musa：
 On another topic, what about quantum computing? Does moda play any kind of role in that?
@@ -594,11 +594,11 @@ No.
 That's not really the case.
 
 ### Audrey Tang:
-No, I don't think that's the case. It is the case if the technology brings people farther away from one another. If the technology fosters polarization, if it fosters anti democratic actions, if it discourages people from voting or participating in the democratic process in these senses like antisocial social media, really we do see other democratic jurisdictions passing laws trying to wring in such counter democratic forces in technology.
+No, I don't think that's the case. It is the case if the technology brings people farther away from one another. If the technology fosters polarization, if it fosters anti democratic actions, if it discourages people from voting or participating in the democratic process in these senses like antisocial social media, really we do see other democratic jurisdictions passing laws trying to rein in such counter democratic forces in technology.
 
 The kind of technology we're describing — appropriate technology, public code, digital public infrastructure, and so on — is the prosocial force. The more people implement this kind of mindset, the more people feel that, "Oh, democracy is not just about voting every four years, but rather about a day to day.
 
-Sending pull requests to moda, for example, is democracy. The more people engage in that, the less we need to wring anything. Rather, our legislation is then just to encourage this kind of expression by the community.
+Sending pull requests to moda, for example, is democracy. The more people engage in that, the less we need to rein anything. Rather, our legislation is then just to encourage this kind of expression by the community.
 
 ### Nerio Musa：
 It's fully open source basically?
@@ -639,7 +639,7 @@ Yes.
 ### Vera Tsai:
 As a Taiwanese, I'm so proud of I was born in a country. It's freedom country. I always have choice. I'm also proud of the company I belong to. I only have three different jobs and Cloudflare is my third job. I really appreciate the vision of our company and they encourage us to do the right thing and they want to support the country, the government.
 
-I can help wondering if I'm employee of moda, it would be very difficult. It's a not easy job because what you mentioned you want to leverage a different solution. How do you ensure their skill set is ready, and how do you develop your talent, your army, to help you overcome the challenge and build the solution for our Nation?
+I can't help wondering if I'm employee of moda, it would be very difficult. It's a not easy job because what you mentioned you want to leverage a different solution. How do you ensure their skill set is ready, and how do you develop your talent, your army, to help you overcome the challenge and build the solution for our Nation?
 
 ### Audrey Tang:
 Yeah. We simply look at all the open source conference presenters. COSCUP, SITCON, and so on. The open source community have one thing going for it in Taiwan.
@@ -654,7 +654,7 @@ Basically we just tap into that community and see the people who want to embrace
 
 Nowadays we're still recruiting. In a month or so we'll start recruiting even more people throughout new National Institute of Cybersecurity. We are working with many of the community leaders to ensure that on topics such as design systems, ZTNA configuration and so on, there's a new team that will develop on the public code first way.
 
-Because previously many of these were done by the, for example, Institute for Information Industry, or the ITRI and so on, which are all institutes that do not have a public code default culture. Because we want to show to the community, that they can contribute their spare time also to the national cybersecurity infrastructure through what they're already doing, like sending poll requests and so on, so we need a bridging team of around 40 people.
+Because previously many of these were done by the, for example, Institute for Information Industry, or the ITRI and so on, which are all institutes that do not have a public code default culture. Because we want to show to the community, that they can contribute their spare time also to the national cybersecurity infrastructure through what they're already doing, like sending pull requests and so on, so we need a bridging team of around 40 people.
 
 To your question, we look at the community and the kind of time they can contribute. They either do part time contribution or full time but just for three years or so on a bridging way. If they truly like public service, at any given time, they can become moda staff proper.
 
@@ -677,7 +677,7 @@ None of those four major parties in the government, in the Parliament, is even a
 
 If we, through our work in moda and NICS, connects to the world, to the democracies that care about Taiwan like during last August there's a lot of people donating their spare hard drive, IPFS, to help us stay afloat. I got many emails from many communities around the world thanks to the Web3 Gateway.
 
-Protocol Labs contract us immediately carrying a very similar message as you just said from Cloudflare, "Whatever we can do to help." Through this, we connect with democratic network. That, again, is urgency and clarity in one.
+Protocol Labs contacted us immediately carrying a very similar message as you just said from Cloudflare, "Whatever we can do to help." Through this, we connect with democratic network. That, again, is urgency and clarity in one.
 
 None of our parliamentary parties is against us engaging more democracies in the world. I think we're very fortunate in that we're in this intersectional zone of a shared clarity and urgency.
 
@@ -804,7 +804,7 @@ Not to sound like Audrey fan club... What's one of the mistakes that moda has ma
 ### Audrey Tang:
 Yeah, a lot. Actually even before moda, our first collaboration with CloudFlare had many people, so very publicly, that the traffic went through Singapore for a few hours. That's like the one image of CloudFlare that was on everyone's mind. When we first started 1922.gov.tw. That's literally the first screen that many have seen.
 
-It really started a very good conversation. Because then the legislators, our department of cybersecurity people and so on, all went back and look at what actually happens when CloudFlare processes incoming requests. What would it take for a sovereign county to take over CloudFlare?
+It really started a very good conversation. Because then the legislators, our department of cybersecurity people and so on, all went back and look at what actually happens when CloudFlare processes incoming requests. What would it take for a sovereign country to take over CloudFlare?
 
 All the difficult questions, because it involved the universal healthcare number. It's not health data per se, but it is a number that many people associate with the most sensitive of personal information.
 

@@ -103,7 +103,7 @@ It’s called Sunny Founder. Sunny, as in lots of sun, founder, as in a founder.
 You pay upload a bit to own a stake at one of the sites of the solar panels, and you eventually earn back, or if you want, you can also donate to a charity. Instead on one-time donation, you can try to help them to set up those photovoltaic panels, and then of course as a fellow donor you can visit them and share them up.
 
 ### Audrey Tang:
-Either through the Homemakers’ Union front or through the Sunny Founder front that gets you immediate access to this co-op or co-op-like structure. Of course, you can also visit Taramak. \[laughs\] They’ve got quite a few visitors.
+Either through the Homemakers’ Union front or through the Sunny Founder front that gets you immediate access to this co-op or co-op-like structure. Of course, you can also visit Taromak. \[laughs\] They’ve got quite a few visitors.
 
 ### Alex Wagner:
 I go to Taitung quite a bit, so this would be great.
@@ -180,13 +180,13 @@ Why do you think Taiwan is in such a position? It feels so progressive. Is that 
 It’s mostly the people. The people here, as I mentioned, there’s a lot of different national languages, so the indigenous perspectives, the ethnic Han have at least three or more perspectives and so on.
 
 ### Audrey Tang:
-In order to make progress, it has to be transcultural meaning that we can’t do what some other jurisdiction does, which is to a point a sector or a certain industry and say, “You know, you’re going to be our bet, and everybody sacrifice for you.”
+In order to make progress, it has to be transcultural meaning that we can’t do what some other jurisdiction does, which is to appoint a sector or a certain industry and say, “You know, you’re going to be our bet, and everybody sacrifice for you.”
 
 ### Audrey Tang:
 In Taiwan there’s nothing like that. There’s more than 90 percent small and medium enterprises, and each one work on different cultural perspective. The improvement tends to be truly cross-sectoral.
 
 ### Alex Wagner:
-It’s why I’ve never been able to out my finger on why it is. It seems like such a sandbox of opportunity here.
+It’s why I’ve never been able to put my finger on why it is. It seems like such a sandbox of opportunity here.
 
 ### Audrey Tang:
 Definitely.

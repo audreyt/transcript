@@ -74,7 +74,7 @@ That’s fine. It’s part of me, right? It’s an extension of me. There’s mo
 Next question. You were interested in programming from a very young age. What sparked this interest?
 
 ### Audrey Tang:
-My first foray into programming is to make a pedagogy, to make educational games. It’s a game about teaching fractionals to my brother, who is four years my junior. He was four years old at the time.
+My first foray into programming is to make a pedagogy, to make educational games. It’s a game about teaching fractions to my brother, who is four years my junior. He was four years old at the time.
 
 ### Audrey Tang:
 To me, it is always about the interaction that programming brings in people rather than the program in itself. To me, programs, it’s like notes made out of logic, and the melody it makes is about the possibility of interaction between people.
@@ -167,7 +167,7 @@ This simple story says that the private sector has plenty of room to innovate, f
 There is less of this public-private tension between the state own something and the private sector own something, because whatever we do, we’re doing this for the common goals that we share.
 
 ### David Lopez:
-You are one of the more recent players in the Taiwan Government’s emergence as an eGov leader - and yet you were once one if its biggest critics. Can you tell us about your journey to get to where you are now?
+You are one of the more recent players in the Taiwan Government’s emergence as an eGov leader - and yet you were once one of its biggest critics. Can you tell us about your journey to get to where you are now?
 
 ### Audrey Tang:
 Yeah. Back in 2014, yes, indeed, I was a demonstrator, and we occupied the Parliament for 22 days for a lack of transparency and accountability for the passing of the Cross-Strait Services Trade Agreement or CSSTA.
@@ -206,7 +206,7 @@ The threats of weaponization of social media as well as election interference ba
 For the past couple of years, what we’ve been doing is researching vaccines and inoculations against such a toxic virus of the mind. We develop it through humor, through rapid responses, through a collaborative journalism and fact-checking and so on.
 
 ### Audrey Tang:
-By our past presidential election, we see that less that 16 minutes after each harmful disinformation gets spread, instead of going to censorship or take down or encroaching on the media platform, we do none of these things.
+By our past presidential election, we see that less than 16 minutes after each harmful disinformation gets spread, instead of going to censorship or take down or encroaching on the media platform, we do none of these things.
 
 ### Audrey Tang:
 The citizens organize themselves to put out clarifications in real time attaching it to the public notice, attributing the sources of such interferences. The ministries in charge all roll out hilarious funny mimetic pictures within an hour for people to get into a more humorous mindset, which is a natural inoculation against hate.
@@ -790,7 +790,7 @@ With the democratization of the materials as well as the knowhow of building, an
 They can do essentially a kind of wiki-making of their neighborhoods, of production tools, and things like that. That will fundamentally change how we distribute resources, because previously we all say that we have to find the captains of the industry, and make sure that they have the investment resource they need, because they then can make at scale that take care of a lot of our population.
 
 ### Audrey Tang:
-If we only empower the small and median enterprises, we’ll never get sufficient goods that feeds everybody in the citizenry. That is going to change because of democratization and access to the knowhow and the change from a linear economy mindset into a circular economy mindset.
+If we only empower the small and medium enterprises, we’ll never get sufficient goods that feeds everybody in the citizenry. That is going to change because of democratization and access to the knowhow and the change from a linear economy mindset into a circular economy mindset.
 
 ### David Lopez:
 How can society continue to evolve alongside tech in a way that is fair, equitable and beneficial to everyone?

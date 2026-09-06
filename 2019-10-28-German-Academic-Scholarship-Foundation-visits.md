@@ -72,7 +72,7 @@ Welcome.
 My name’s Oran. I’m studying journalism and economics in Bonn. I’m mostly interested in the developing media systems.
 
 ### Sonja:
-I’m Sonja. I’m studying law in MÃ¼nster. I’m in my second year, so I don’t have a research purpose yet, but I’m generally interested in Taiwan.
+I’m Sonja. I’m studying law in Münster. I’m in my second year, so I don’t have a research purpose yet, but I’m generally interested in Taiwan.
 
 ### Audience Member:
 I’m Sophia. I study political science and law in Munich. I’m very interested in political systems. That’s why I’m so interested in this topic.
@@ -145,7 +145,7 @@ This is what we call a norm-first design or, in UN parlance, a co-governance des
 Then we set a market policy, and then that turns into programming, new code, and finally into law. To do the other way is very top-down and builds a surveillance state or surveillance capitalism very quickly. What we’re trying to do is to empower the social sector to take governance and control of that mechanism.
 
 ### Audrey Tang:
-Full disclosure, I’m also on the board of RadicalxChange. I sit along Glen Weyl the economist or Vitalik Buterin the Etherium inventor, and so on, using blockchain ideas and mechanism design to empower the social sector so that the social innovation can happen without over-reliance or industrial innovation. That’s my main mandate.
+Full disclosure, I’m also on the board of RadicalxChange. I sit along Glen Weyl the economist or Vitalik Buterin the Ethereum inventor, and so on, using blockchain ideas and mechanism design to empower the social sector so that the social innovation can happen without over-reliance or industrial innovation. That’s my main mandate.
 
 ### Audrey Tang:
 My office is one person from each ministry. Theoretically, I can have 32 colleagues from 32 vertical ministries. At the moment, we have maybe 20 people here, meaning not all ministries have bought into radical transparency. The Ministry of Defense never send anyone.
@@ -267,7 +267,7 @@ China’s planning on being top in all key technologies by 2025. I was wondering
 When they’re running in our opposite direction, it’s hard to keep up. Rather, perhaps it will wrap around… \[laughs\]
 
 ### Audience Member:
-Looking at cross strait relations, Taiwan, it’s in my opinion, try to be a bit more independent form China, since China’s the greatest economic partner in this part, and since your focus is on digitalization, I was wondering if your ministry has any mean of counteracting that economic power and pressure that China has put on Taiwan, and how you’re planning on…
+Looking at cross strait relations, Taiwan, it’s in my opinion, try to be a bit more independent from China, since China’s the greatest economic partner in this part, and since your focus is on digitalization, I was wondering if your ministry has any mean of counteracting that economic power and pressure that China has put on Taiwan, and how you’re planning on…
 
 ### Audrey Tang:
 Economic and supply chain diversification in terms of digital technology? OK. Was there question there?
@@ -478,7 +478,7 @@ So that every time the Minister of Health and Welfare says oh, thanks to your in
 Also people who ask the same question, they can just google it and find it instead of calling the same ministry and asking for the 50th time, but each one not knowing 49 people have asked that before. This greatly simplified the direct connection between the career public service and the citizenry.
 
 ### Audrey Tang:
-On the basic level all the regulations and most of the bills went through this public commentary and discussion period. On the second level, we also have the collaboration meetings where we choose the ones that are particularly contentional, or particularly difficult, particularly not within any ministry’s purview, by a voting by all the participation officers.
+On the basic level all the regulations and most of the bills went through this public commentary and discussion period. On the second level, we also have the collaboration meetings where we choose the ones that are particularly contentious, or particularly difficult, particularly not within any ministry’s purview, by a voting by all the participation officers.
 
 ### Audrey Tang:
 So far, we’ve done 55 of these open collaboration meetings, but the ministries may also run it by their own. Altogether, maybe close to 100 such meetings that was done not only through agenda-setting by the Internet, but also using those agenda has a binding agenda for people to meet with ministers and agency leaders face to face as the second level.
@@ -555,7 +555,7 @@ I think that handles most of it, we are getting GDPR adequacy real soon now. Our
 We’re definitely on the site of viewing personal data as a beginning of a relationship, not something to be extracted as oil. That is our basic stance, but I’m happy to explore more. Finally, this so-called non-red supply chain thing.
 
 ### Audrey Tang:
-Back in 2014 when I helped people occupy in the parliament, the occupiers are segmented into 20 different NGOs around the parliament that’s occupying. Each talk about one particular aspect of the cross-straight service and trade agreement, the CSSTA with Beijing.
+Back in 2014 when I helped people occupy in the parliament, the occupiers are segmented into 20 different NGOs around the parliament that’s occupying. Each talk about one particular aspect of the cross-strait service and trade agreement, the CSSTA with Beijing.
 
 ### Audrey Tang:
 Which the parliament at the time were refusing to deliberate, because they considered it an administrative policy, not something that is worthy of legislative debate for some reason. The MPs were on strike, so we took their place and deliberate for them. That’s the legitimacy theory, anyway.
@@ -570,7 +570,7 @@ That triggered a conversation in the national security council and the national 
 Any pure market actor can at any given time become de facto state-owned, if escalation – actually nowadays it doesn’t require escalation if people feel like it – they will become de facto state-controlled. Because of that, we shouldn’t really treat them in the same WTO-based economic order, in the context of core 4G infrastructure.
 
 ### Audrey Tang:
-The second thing is the cybersecurity argument. Instead of saying the current generation contains cybersecurity loopholes, we say this creates a past dependence. If you use their 3G software and hardware, it’s actual very difficult to not use them for 4G, not to use them for 5G, and so on.
+The second thing is the cybersecurity argument. Instead of saying the current generation contains cybersecurity loopholes, we say this creates a path dependence. If you use their 3G software and hardware, it’s actual very difficult to not use them for 4G, not to use them for 5G, and so on.
 
 ### Audrey Tang:
 At any given time where there’s a systemic break of a virus or something, you have to trust the vendor to supply you with the kind of hot patch, and these hot patches are deemed too great a risk, because of that they’re claim Taiwan, I guess, to greater risk to allow into the core infrastructure.
@@ -629,7 +629,7 @@ Because of that, our innovation must necessarily thrive in a moment for which, f
 The core values, which by the way, we are not as open as I think New Zealand and the Nordic countries, so we’re not saying we’re the best, we’re just best in this region. Our work must be, for example, a timely response across ministries, that are fun, that goes viral by itself without taking anything down. You can take the picture. It’s a funny one, but I would not spend time going into details.
 
 ### Audrey Tang:
-The idea is that wherever there is a disinformation we have a mechanism that roles out this kind of viral clarification messages that are 20 characters or less. In Thai, though, 200 characters or less in its body, that’s always very funny, and also at least two pictures.
+The idea is that wherever there is a disinformation we have a mechanism that rolls out this kind of viral clarification messages that are 20 characters or less. In Thai, though, 200 characters or less in its body, that’s always very funny, and also at least two pictures.
 
 ### Audrey Tang:
 For example, this is the Premier when he was young, and how he looks now. He says that even though it’s a rumor that Premier Tsai will be subject to $1 million fine, that is not true. I may be bought now, I would not punish people who look like my youth, however, if you keep perming your hair, many time within a week, you will damage your hair, you may end up looking like me. \[laughs\]
@@ -785,7 +785,7 @@ For this kind of interface design, which is a social media that we set up oursel
 Let’s take a real example. For example, currently there’s many debates going on. The current one is about promoting US-Taiwan security cooperation. There’s people feeling differently. You can go to each one and see how they differ, but also how they agree.
 
 ### Audrey Tang:
-This, it servers two purposes. First is that you can see your friends and families on the other side of the aisle, but they’re not sure. They’re not nameless enemies. They’re still your friends and family, it’s just you didn’t talk about this over at dinner.
+This, it serves two purposes. First is that you can see your friends and families on the other side of the aisle, but they’re not sure. They’re not nameless enemies. They’re still your friends and family, it’s just you didn’t talk about this over at dinner.
 
 ### Audrey Tang:
 The second thing is that there are people who support your opinion, as well. This clustering both makes it more polity forming, because as time goes by it was actually four different small groups. They’re converged to the middle so that people arrive to common understanding by looking into that picture.
@@ -1036,7 +1036,7 @@ It’s not like that they can shut this down. When I shared that, they did a kin
 Even though the person in the flesh sometime need an invitation later to get into the UNCC-AA building in Ethiopia, we can always send robotic doubles which doesn’t need passports, and what I said through the robots is also on official UN public record. It’s just a digital innovation toward SDGs.
 
 ### Audrey Tang:
-As soon as we stray of the SDGs, then it becomes political, it’s not policy anymore; so we stay firmly within this policy area, SDGs, that’s what we’ve been constantly doing for the past three years.
+As soon as we stray off the SDGs, then it becomes political, it’s not policy anymore; so we stay firmly within this policy area, SDGs, that’s what we’ve been constantly doing for the past three years.
 
 ### Audrey Tang:
 Any other questions? Thoughts?
@@ -1054,7 +1054,7 @@ Yeah, in the cryptocurrency industry. I would like to learn is there an official
 It’s a deliberate strategy. The v-Taiwan platform which pioneered the use of polis for Uber, Airbnb and so on, at that time when we first run this consultations in 2015, after Uber and Airbnb, the topmost interest was in Bitcoin.
 
 ### Audrey Tang:
-In 2016 when I first became Digital Minister, actually before I became Digital Minster, while I was still the understudy, we did the initial consultation on what we call the FinTech sandbox, which is a UK idea. Singapore also implemented it.
+In 2016 when I first became Digital Minister, actually before I became Digital Minister, while I was still the understudy, we did the initial consultation on what we call the FinTech sandbox, which is a UK idea. Singapore also implemented it.
 
 ### Audrey Tang:
 We extended it to a general-purpose sandbox. Very simply put, sandbox or GTW collects anything that innovators want to clarify whether it’s legal or not, whether it’s a legal gray area, or they think the regulations should be changed to their favor. They usually have to provide a fork, that is to say an alternate version of regulation. FinTech, Crypto is of course part of it.
@@ -1063,7 +1063,7 @@ We extended it to a general-purpose sandbox. Very simply put, sandbox or GTW col
 We just matchmake them with the jurisdictions like municipalities and so on, or primary banks, or primary telco operators that can write a business proposal. For self-driving vehicles, which the sandbox goes online this month, with the vehicles.
 
 ### Audrey Tang:
-It could be a car that flies, or s hip that also drives, it’s not pertaining to a specific way of vehicle. Then everybody gets one year of sandbox. The one year means that the law will work in your version in that area.
+It could be a car that flies, or ship that also drives, it’s not pertaining to a specific way of vehicle. Then everybody gets one year of sandbox. The one year means that the law will work in your version in that area.
 
 ### Audrey Tang:
 For FinTech, for example, people want to use mobile banking, or want to use blockchains to do international wiring without going into the SWIFT system, or things like that. They have to prove to the regulators that they can take care of themselves, that the risk factor is actually lower not higher than the traditional KYC mechanism, so they’re given a year.
@@ -1093,7 +1093,7 @@ While the MPs figure out how to regulate, and once they regulate, like there was
 You use existing laws on equity-based crowdfunding with some provision on the token-based mechanism of record. That took some time. During that, if there’s a sandbox happening, that can continue to run so that incentivizes disruptive innovators to become less disruptive by actually talking to a society and convince 5,000 people it’s a good idea.
 
 ### Audrey Tang:
-Yeah. It’s also far more predictable, compared to a nearby continential jurisdiction. \[laughs\] There will be not a sudden panic, or a sudden spike. Yes?
+Yeah. It’s also far more predictable, compared to a nearby continental jurisdiction. \[laughs\] There will be not a sudden panic, or a sudden spike. Yes?
 
 ### Audience Member:
 My question is rather different from these specific topics, I would like to know from you if you could implement whatever you wanted to in Germany, our political landscape in Germany, our society, what would you do? What would your recommendations be?

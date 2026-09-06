@@ -150,7 +150,7 @@ Then, they mapped out the injury side, the major trauma side, the EMT side, and 
 Actually, each person here represent a different stakeholder, but they all received this trophy. This trophy is the shape of Taiwan with a micro projector here.
 
 ### Audrey Tang:
-The micro project, if you turn it on, it shows this picture and with Dr. Tsai Ing-wen promising the team that whatever they did in three months, we will allocate, from the central government, the budget, the personnel, the law and regulation to make it happen next year.
+The micro projector, if you turn it on, it shows this picture and with Dr. Tsai Ing-wen promising the team that whatever they did in three months, we will allocate, from the central government, the budget, the personnel, the law and regulation to make it happen next year.
 
 ### Audrey Tang:
 There’s no money in this hackathon, but there is a presidential promise that we will do whatever it takes to make it real. That’s all I need to say because everything else you probably already know, after the Presidential Hackathon, we work with professional facilitators.
@@ -262,7 +262,7 @@ Yes.
 > (Jun speaks)
 
 ### Audrey Tang:
-You can teach people to play quantum chess. There’s a video with Steven Hawking playing with the actor from “Ant-Man” about quantum chess. It’s very easy to understand. \[laughs\]
+You can teach people to play quantum chess. There’s a video with Stephen Hawking playing with the actor from “Ant-Man” about quantum chess. It’s very easy to understand. \[laughs\]
 
 > (Jun speaks)
 

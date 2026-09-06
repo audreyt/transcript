@@ -564,7 +564,7 @@ Sure, yes. I don’t have many specific details, but I do personally work on two
 Honestly speaking, it starts with data that is not in the private sector, but rather people’s measurement of air quality, water quality, atmospheric, free of privacy concern data. Still, that is very important, because when Dr. Aaronson said that Taiwan is number one in the global open data index, I want to emphasize that open data in Taiwan doesn’t only mean open government data.
 
 ### Audrey Tang:
-It means open data from the citizen scientists, from the private sectors, in a true collaborative, data collaborative way. How to generate trust between a supply chain of any manufacturing, of a shipping line, of the so-called the code storage between a manufacturing of a food to its final safety space, organic food, and things like that.
+It means open data from the citizen scientists, from the private sectors, in a true collaborative, data collaborative way. How to generate trust between a supply chain of any manufacturing, of a shipping line, of the so-called the cold storage between a manufacturing of a food to its final safety space, organic food, and things like that.
 
 ### Audrey Tang:
 All of this needs people who don’t have implicit trust in each other to contribute data to a common pool that people trust, that cannot be mutated by any other party. When it makes sense to use distributed ledger technology, we do use the distributed ledger technology.
@@ -639,7 +639,7 @@ Basically, it takes every incoming message. It doesn’t store it, but it compar
 I think the idea is that it saves people from the effort to correct their parents and their children. A bot does that for them. It’s so effective that we can literally see a trending map of the disinformation or misinformation campaigns.
 
 ### Audrey Tang:
-Also, that the LINE accommodate itself after seeing the success of this civic tech innovation, now agrees, I think by June or so, to basically have this as one of their built-in features. For anything, any message, you and long-press and forward it to the Cofacts and other fact-checking community as a built-in function of the LINE app itself.
+Also, that the LINE accommodate itself after seeing the success of this civic tech innovation, now agrees, I think by June or so, to basically have this as one of their built-in features. For anything, any message, you can long-press and forward it to the Cofacts and other fact-checking community as a built-in function of the LINE app itself.
 
 ### Audrey Tang:
 They are going to dedicate a tab for real-time clarification, so that there’s a balance of views for everybody using that end-to-end encrypted system. The beauty of it is, just as how we solved spam, we don’t solve spam by forcing everybody to disclose people’s email contents to the government.
@@ -699,7 +699,7 @@ I don’t want to get into the details of the nature of that attack, what might 
 Do they feel a sense of urgency? This is my question. Do they feel a sense of urgency in being prepared both individually, and as part of a generation, that’s going to have to confront this thing? Thank you.
 
 ### Audrey Tang:
-The answer is an unequivocal yes. I wouldn’t say that before 2014. I think 2014 really is the watershed year, with the Sunflower Movement and the Occupy Movement, where young people literally occupied the parliament for 22 days to put a stop to the cross-strait service and trade agreement that was just fact-tracked through the parliament.
+The answer is an unequivocal yes. I wouldn’t say that before 2014. I think 2014 really is the watershed year, with the Sunflower Movement and the Occupy Movement, where young people literally occupied the parliament for 22 days to put a stop to the cross-strait service and trade agreement that was just fast-tracked through the parliament.
 
 ### Audrey Tang:
 Somehow, constitutionally, a loophole makes that it doesn’t have to be subject to the same process that all the bilateral agreements have to go through. Beijing is a domestic city of Taiwan, you see. In any case, \[laughs\] in 2014, that constitutional was viewed with some tolerance by the general population. The Occupy really brought it to everybody’s mind, that we do have this constitutional loophole going on.

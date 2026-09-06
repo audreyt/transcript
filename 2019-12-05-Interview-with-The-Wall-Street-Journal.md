@@ -141,7 +141,7 @@ I will instead show this, my social innovation lab office, which is my real offi
 > (laughter)
 
 ### Audrey Tang:
-Because first day is cabinet meeting, and so I’m, by necessity, in this office. Usually, I’m in this office, which is must more co-creative. The soccer field here is co-created by people with Down’s Syndrome, who look at the world through geometric abstractions. We work with them because we cannot see the world through this abstraction.
+Because first day is cabinet meeting, and so I’m, by necessity, in this office. Usually, I’m in this office, which is much more co-creative. The soccer field here is co-created by people with Down’s Syndrome, who look at the world through geometric abstractions. We work with them because we cannot see the world through this abstraction.
 
 ### Audrey Tang:
 People become more creative in this space. Just by existing, this space provides the sandbox for new experiments. For example, self-driving tricycles, to interact with, literally, the market. Because it’s next to the Jian Guo Flower Market.
@@ -153,7 +153,7 @@ People can look at those robots and say, “Oh, we know that it can take me plac
 It calls for creativity across sectors to modify their self-driving vehicles so that it has two eyes. It can follow people, things like that, and can read non-verbal expressions.
 
 ### Audrey Tang:
-This way of co-gov, instead of saying the law determining the code, determining the market, determining the social norm, which is what you would do if you’re into serveillant statism, the Taiwan approach is to start with the norms and figuring out what feels normal when you’re interacting with these self-driving creatures.
+This way of co-gov, instead of saying the law determining the code, determining the market, determining the social norm, which is what you would do if you’re into surveillant statism, the Taiwan approach is to start with the norms and figuring out what feels normal when you’re interacting with these self-driving creatures.
 
 ### Audrey Tang:
 After a year or so, when the market co-created norm, that then decide the technological architecture that protects not only privacy, but also the will of the people for collective control and also financial reimbursements, and so on. Once that happens, then we say it’s out of the sandbox. We can turn it into a regulation.
@@ -207,7 +207,7 @@ During the Presidential Hackathon with the involvement of the participatory plat
 To this year, of course, we are seeing in more than 100 places in the more rural places, indigenous nations and offshore islands, more than 100 teleclinics get set up, and that would only expand with 5G deployment which starts next month.
 
 ### Audrey Tang:
-That is two cases from last year’s Presidential Hackathon, and there’s many, many more cases from this year’s Presidential Hackathon. That is just one of the more flagship products, very similar co-creations happening on the Prime Minister, on the ministrial agency, and every day work level.
+That is two cases from last year’s Presidential Hackathon, and there’s many, many more cases from this year’s Presidential Hackathon. That is just one of the more flagship products, very similar co-creations happening on the Prime Minister, on the ministerial agency, and every day work level.
 
 ### Audience Member:
 Let me just go back to the water issue, very intriguing. How is it they discover the leaks in the water system? What is the method?
@@ -300,7 +300,7 @@ Is there a way to measure that?
 Of course. There’s a way to measure that on our national participation platform, which is called join.gov.tw, which has 10 million visitors. Out of 23 million people in Taiwan, that’s not a bad participation. You can also see that at any given point like right now, there’s 149 petitions going on. There’s 141 regulatory pre-announcements and so on, under discussion.
 
 ### Audrey Tang:
-In all 2,004 mid to long-term projects are for people to supervise, and look at KPIs and how well they’re delivering in their original planning and the budgeting. This exactly is the same numbers and information as seen by the control Yuen, which is a separate branch of the government.
+In all 2,004 mid to long-term projects are for people to supervise, and look at KPIs and how well they’re delivering in their original planning and the budgeting. This exactly is the same numbers and information as seen by the Control Yuan, which is a separate branch of the government.
 
 ### Audrey Tang:
 This basically allows for day to day participation. We did actually a survey, multiple surveys, to measure people’s reaction to it. Everybody feel they have understood more, more curious about public matters, and much more engaged if they around 15 or 65 years old.
@@ -388,7 +388,7 @@ I’m a conservative anarchist. My ultimate goal is for any hierarchical top-dow
 As I said, I don’t represent anyone here. I’m just presenting my own view. Basically, for me, it’s a demonstration, in the sense of a demo.
 
 ### Audrey Tang:
-After collaboration, people would discover that if they hold each other to account, the social innovators can deliver what used to take a state apparatus to deliver, but then it doesn’t have to be that. Through distributed ledgers, for example, my favorite example of one of the very few legitimate uses of DLT, also know as block chain, is the AirBox.
+After collaboration, people would discover that if they hold each other to account, the social innovators can deliver what used to take a state apparatus to deliver, but then it doesn’t have to be that. Through distributed ledgers, for example, my favorite example of one of the very few legitimate uses of DLT, also known as block chain, is the AirBox.
 
 ### Audrey Tang:
 All the 2,000 points you see here, are people who donate their balcony, their schools, or whatever, to measure PM2.5 air quality indicator, and sharing it to distributed ledger system. It’s called an AirBox, and all of them have different interests, right? For people who are in this area, maybe they want to hold the over polluters to account, and just report it for justice.
@@ -451,7 +451,7 @@ Whenever there is a kind of disinformation package that sows discord, say betwee
 According to CIVICUS Monitor, we’re the only jurisdiction in Asia that’s not doing that. Everybody else infringe a little bit on the freedom of the civil society because of disinformation crisis.
 
 ### Audrey Tang:
-We’re saying no, that journalists’ word is as good, if not better, than a minster’s words. Because of that, we have to contribute into journalism by getting you the fact-checked clarifications faster. Also, by publishing when a disinformation is kind of brewing within two hours, and now usually within one hour, a meme that are independently interesting.
+We’re saying no, that journalists’ word is as good, if not better, than a minister’s words. Because of that, we have to contribute into journalism by getting you the fact-checked clarifications faster. Also, by publishing when a disinformation is kind of brewing within two hours, and now usually within one hour, a meme that are independently interesting.
 
 ### Audrey Tang:
 There’s the triple two principle, within two hours, there need to be a clarification that’s less than 200 characters. For example, this one says perming your hair many times a week is subject to a million-dollar fine. That’s not true. A younger version of the Prime Minister says, “I may be bald now but I would not punish people with hair.”
@@ -712,7 +712,7 @@ In any case, the willingness of public service to join, I think, should be the p
 What about more broadly? So that’s a way to measure…?
 
 ### Audrey Tang:
-Also, how it’s spreading to other countries. I think that’s another measure. As I said, Chulalonkorn University in Thailand invited us to do a workshop. They really started adopting some of the measures. You can see it on their CoFact.org system. That spreads easily.
+Also, how it’s spreading to other countries. I think that’s another measure. As I said, Chulalongkorn University in Thailand invited us to do a workshop. They really started adopting some of the measures. You can see it on their CoFact.org system. That spreads easily.
 
 ### Audrey Tang:
 We’ve seen the Polis system, the AI-based conversation system, which was invented in Seattle by some occupiers and not only taking place in Taiwan but also in Canada, where they contribute this bilingual mechanism by the AIT, which is a de facto US embassy that sets the diplomatic agenda with Taiwan and also by many newer parties across Europe.

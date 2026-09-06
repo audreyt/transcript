@@ -475,7 +475,7 @@ I’ll have a look at them there. Thanks for sharing that.
 I realize that you have to go elsewhere soon. I don’t want to be keeping you. I understand also you’re going to be speaking in another public European forum, of course, at the University of Copenhagen.
 
 ### Maaike Okano-Heijmans:
-The final question that I had in the list is to what extend are you familiar with the EU European approach. I suppose that’s really not of your main interest. From what you know, what strikes you as what are we doing well? Where could we do much better?
+The final question that I had in the list is to what extent are you familiar with the EU European approach. I suppose that’s really not of your main interest. From what you know, what strikes you as what are we doing well? Where could we do much better?
 
 ### Audrey Tang:
 Connectivity, attention to accessibility and inclusion is great. It used to be that Taiwan talks about digital developments. We center on innovation and governance without considering inclusion. I personally put inclusion in as important as innovation back in 2016. That is a very European thing as well.

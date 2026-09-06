@@ -104,7 +104,7 @@ Wonderful. I will definitely reach out to her. That sounds right up the line of 
 ### Audrey Tang:
 No. It's fine. It's about innovation. I don't think I'm in any position to tell you what to do or what not to do. What we're offering is a set of, like bubble tea, recipes.
 
-You will have to necessarily use different kind of tea like rooibos or something in different locals, different kind of soy milk or different kind of tapioca. [laughs] I don't have specific ideas about ingredients which necessarily differ from place to place. The way that it's put together, our experience can share.
+You will have to necessarily use different kind of tea like rooibos or something in different locales, different kind of soy milk or different kind of tapioca. [laughs] I don't have specific ideas about ingredients which necessarily differ from place to place. The way that it's put together, our experience can share.
 
 ### Justin Allen:
 I'm very much looking forward to this implementation and using these in Bhutan, and then, hopefully, elsewhere as I continue to encourage other folks to look at this approach to collective sensing and collective decision-making and prioritization.
@@ -116,7 +116,7 @@ Yes, definitely.
 Any other advice for me? You've been at this, you're changing the world in so many ways. I would open to any ideas or recommendations you have.
 
 ### Audrey Tang:
-Start small. The main lesson we've learned is to involve career public servers, as low-level as possible. The actual section chiefs that will be in charge of implementing the recommendations. The reason why is that if you involve them, they have a lot of ideas that they may previously have no budget to do.
+Start small. The main lesson we've learned is to involve career public servants, as low-level as possible. The actual section chiefs that will be in charge of implementing the recommendations. The reason why is that if you involve them, they have a lot of ideas that they may previously have no budget to do.
 
 They may be an avid reformer that's previously limited by the political power of their superiors and things like that. In such environments, because it's pseudonymous or they can pester suggestions to their civil society friends and/or to different departments, some truly good idea that has been shelved forever do shine on these platforms.
 

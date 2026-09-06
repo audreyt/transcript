@@ -463,7 +463,7 @@ Wow. \[laughs\]
 Do you think, the IT technology can be used to create an inclusive society, based on your experience, and then your thought?
 
 ### Audrey Tang:
-Never start with technology. That’s my answer. The Creative Commons founders, Lawrence Lessig, he has this theory called the pathetic thought, or the New Chicago School, that you might be already very familiar with.
+Never start with technology. That’s my answer. The Creative Commons founders, Lawrence Lessig, he has this theory called the pathetic dot, or the New Chicago School, that you might be already very familiar with.
 
 ### Audrey Tang:
 There is this innovation in the middle, and the innovation is informed by IT technology, architecture, on the top. It’s also informed by the market forces, market policies, from the right. It’s also informed by the law, the legal code, from the bottom.
@@ -687,7 +687,7 @@ Yeah. I did visit Seoul, actually. That was I think for a cyber-security confere
 I believe our Open Government partnership National Action Plan, which because of political reasons is now just called the Open Government National Action Plan – we dropped the P from it – it is very kindly supported by the Korea government, the OGP liaison.
 
 ### Audrey Tang:
-We did have a regional meeting with pretty much all my deputies came to Seoul to learn from the OGP process and the IRN process. We will kick off our National Action Plan really quickly, maybe a month from now. Then starting next January, we will begin the co-creation process with the social sector.
+We did have a regional meeting with pretty much all my deputies came to Seoul to learn from the OGP process and the IRM process. We will kick off our National Action Plan really quickly, maybe a month from now. Then starting next January, we will begin the co-creation process with the social sector.
 
 ### Audrey Tang:
 At that time, if any of your OGP community – I’m sure Creative Commons Korea is part of your Open Government community – is interested, we’re very happy to do bilateral or mini-lateral gatherings in South Korea, and I will love to come.

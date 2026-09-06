@@ -263,7 +263,7 @@ We have an actual conversation that was just before this one. This one is still 
 For example, that every time the PRC closes an international door, the US should try open one for Taiwan someplace else. Half of people really like the idea. The other half really hates the idea.
 
 ### Audrey Tang:
-If it is a mainstream conversation, it maybe just ends there, and people will just amplify the controversy, because there is no reply button, we actually let people see there’s only one very divisive statement, and that’ the one I just showed you.
+If it is a mainstream conversation, it maybe just ends there, and people will just amplify the controversy, because there is no reply button, we actually let people see there’s only one very divisive statement, and that’s the one I just showed you.
 
 ### Audrey Tang:
 There’s a few that has less than 50 percent consensus, but otherwise, everybody agrees on pretty much everything. Then we use that as agenda to ask the AIT and Ministry of Foreign Affairs and so on, to respond to those 10 consensus, and only those 10.
@@ -424,7 +424,7 @@ In Taiwan, we’re the only one in this region that doesn’t have anything to t
 Our entire counter-disinformation design rests on this definition. We say disinformation is information that is intentionally harmful and untrue.
 
 ### Audrey Tang:
-All three need to check. Harmful means that it harms the public and the democratic institution, not any particular minster’s image -- that’ just good journalism.
+All three need to check. Harmful means that it harms the public and the democratic institution, not any particular minister’s image -- that’ just good journalism.
 
 ### Audrey Tang:
 What we found is that the most important way to counter that is using exactly the same technology. That is to say if it’s a rumor that spread online, or on Facebook, or on PTT, or whatever, the clarifications are posted to the same channels and always within an hour.
@@ -433,7 +433,7 @@ What we found is that the most important way to counter that is using exactly th
 It’s always within 20 characters the title, the payload always less than 200 characters means that it fits one single screen, even the mobile phone screen and always contains two pictures. This is a classic example.
 
 ### Audrey Tang:
-A couple months ago, there was a popular disinformation that says if you perm your hair twice a week, you will be subject to a MT one-million-dollar fine. 60 minutes after this circulates, you see this picture, this memetic engineering product being posted by our premier’s office.
+A couple months ago, there was a popular disinformation that says if you perm your hair twice a week, you will be subject to a NT one-million-dollar fine. 60 minutes after this circulates, you see this picture, this memetic engineering product being posted by our premier’s office.
 
 ### Audrey Tang:
 The photo you see here is the premier when he was young. It says, &quot;This rumor is not true. I may be bald now but I will not punish people with hair. Premier Su.&quot; The fine print reads, &quot;What we’ve introduced is a labeling requirement for hair products and it only take effect on 2021.&quot;
@@ -630,7 +630,7 @@ Our position when talking with the National Audit Office is that instead of aski
 They frame their conversation as, &quot;What’s your fear, uncertainty, and doubt concerning renting at zero dollar of social entrepreneurs for that SE building in Taipei?&quot; Sometimes when discussing budget, you can see that most have maybe 20 or 30 conversations every quarter, and we consider a success.
 
 ### Audrey Tang:
-When they ask for fear, uncertainty, and doubt, they have at least hundreds \[laughs\] in conversations. It’s always easier to express distrust \[laughs\] than expressing concrete suggestions. To express concrete suggestion, even feelings, you have to grow through the actual plan. If you’re just saying, &quot;Oh, I really doubt that this will happen,&quot; that can be written in no time. \[laughs\]
+When they ask for fear, uncertainty, and doubt, they have at least hundreds \[laughs\] in conversations. It’s always easier to express distrust \[laughs\] than expressing concrete suggestions. To express concrete suggestion, even feelings, you have to go through the actual plan. If you’re just saying, &quot;Oh, I really doubt that this will happen,&quot; that can be written in no time. \[laughs\]
 
 ### Audrey Tang:
 They always get much more input than we in the administration do. Once they do that, they sort them into nine categories, nine clusters of fear, uncertainty, and doubt.
@@ -806,7 +806,7 @@ All this is subject to the different ministries’ capacity building, that once 
 The second thing is the delegates sending to my office. I only have two HR criteria. First is that the person dispatched here needs to have at least one competency or skill that is above the existing members.
 
 ### Audrey Tang:
-It could be anything. It could be making coffee. I’m not joking. \[laughs\] It could making visualizations, illustrations, real-time interpretation. It could be anything. They have something to teach.
+It could be anything. It could be making coffee. I’m not joking. \[laughs\] It could be making visualizations, illustrations, real-time interpretation. It could be anything. They have something to teach.
 
 ### Audrey Tang:
 The second is that they must be at least as much a giver as they are a taker. It’s OK to build your own personal career, but one must stand ready to help each other in their careers as well. That’s really the only two things that I’m looking for.
@@ -827,13 +827,13 @@ It turns everybody who complain into chefs that participate in the kitchen, so t
 We livestreamed the conversation, and he really helped mapping what we call the user journey of everybody receiving the tax filing advertisements to enter the tax filing system to finish filing their tax. What their actions, needs, problems, emotions, feelings, and solutions to make them feel better.
 
 ### Audrey Tang:
-The greatest thing is that even thought at that time, there’s easily thousands of commentaries online, if you have this kind of structure, what we call service design structure, actually, people who post the same thing 500 times, it’s just one Post-it note on this graph. It lets people see the signal out of the noise.
+The greatest thing is that even though at that time, there’s easily thousands of commentaries online, if you have this kind of structure, what we call service design structure, actually, people who post the same thing 500 times, it’s just one Post-it note on this graph. It lets people see the signal out of the noise.
 
 ### Audrey Tang:
 That become on-the-job learning for everybody involved. The only thing that I need to remind my colleagues is that whenever there is people online saying that it’s explosively wordy, public service, sometimes just instinctively, when they’re writing the Post-it note, even without any awareness, writes this that maybe it’s a little bit verbose than we would have liked, to tone down.
 
 ### Audrey Tang:
-The continent China calls it the harmonious transformation of online comments to make more harmony, but then you lose solidarity if you don’t report people’s comments as is. We need to reign in our instinct to make harmonious words.
+The continent China calls it the harmonious transformation of online comments to make more harmony, but then you lose solidarity if you don’t report people’s comments as is. We need to rein in our instinct to make harmonious words.
 
 ### Audrey Tang:
 If the tax filing interface is so baroque so that it confuses the hell out of people, we can take out all the exclamation marks, but the words need to stay here.
@@ -972,7 +972,7 @@ The job description goes like this, &quot;When we see the Internet of Things, le
 > (applause)
 
 ### Audrey Tang:
-It’s poetic in a sense that it brings people’s false projections about technology into something that’s obviously shared no matter which technological cap you’re on. For people who are more graphically minded, we also have the SDG icons that explains the same idea.
+It’s poetic in a sense that it brings people’s false projections about technology into something that’s obviously shared no matter which technological camp you’re on. For people who are more graphically minded, we also have the SDG icons that explains the same idea.
 
 ### Audrey Tang:
 In that, we use technology to enhance availability of reliable data, that we build partnerships out of those reliable data, and that we offer such open innovations always in a co-creative way instead of a colonizing way for our international partners.
@@ -990,7 +990,7 @@ Just by promoting the idea of sustainable development in poetry or in graphics, 
 When you were discussing co-creating with opposing sides, you talked about the importance of face-to-face interactions. I noticed that some of the other techniques you use reorient communication away from face-to-face interactions. I was wondering if you could talk a bit about where you see face-to-face interactions being crucial.
 
 ### Audrey Tang:
-We never replace face-to-face interactions, we augment them. That is the crucial difference. Instead of asking people to forget about town halls and come to this website, we make sure people still help town halls.
+We never replace face-to-face interactions, we augment them. That is the crucial difference. Instead of asking people to forget about town halls and come to this website, we make sure people still hold town halls.
 
 ### Audrey Tang:
 Their argument are mapped and archived and presented to the public on the website, that it become the agenda of the next town hall, that people can track each other’s promises, not just governmental promises but private and social sector stakeholders on the table who promise to do something to make sure that people have mutual accountability.
@@ -1041,13 +1041,13 @@ Sometimes people enjoy the feed in any case. What I’m getting at is that if we
 By addressing those social rifts, not the symptom, in a way that are proactive like making sure that anybody recurring on one of those conspiracy theories, one of which concerns me personally...There’s a recurring conspiracy theory that I’m able to detect the brainwaves of any Facebook user and control their account, X-Men style. \[laughs\]
 
 ### Audrey Tang:
-People who are locked out from their accounts or see their post disappear, or flagged, or something, they will say that Audrey is exercising her power of mind control. Sometimes they say this as satire. There are people who really believes that I can read the GPS signals of their mobiles phones and they have to turn their GPS off in order not to be tracked by Audrey’s mind-controlling machine.
+People who are locked out from their accounts or see their post disappear, or flagged, or something, they will say that Audrey is exercising her power of mind control. Sometimes they say this as satire. There are people who really believes that I can read the GPS signals of their mobile phones and they have to turn their GPS off in order not to be tracked by Audrey’s mind-controlling machine.
 
 ### Audrey Tang:
 I would say that this is a symptom of a social rift, that this shows our common value of caring a lot about freedom of expression, that people don’t want government surveillance of their everyday move and things like that.
 
 ### Audrey Tang:
-Whenever people mention me by name in a public social-media post in Facebook, or Twitter, or PPT, or anything, I go and reply by myself in very short, to the point replies only on the part that are authentic to their own experience instead of the copy-paste style part of it or personal attack.
+Whenever people mention me by name in a public social-media post in Facebook, or Twitter, or PTT, or anything, I go and reply by myself in very short, to the point replies only on the part that are authentic to their own experience instead of the copy-paste style part of it or personal attack.
 
 ### Audrey Tang:
 I was able to ignore all the personal attack. Whenever I see any word that makes me upset, I have a new nonverbal stimuli meaning that I put on some new music. Recently I’ve been listening to negative harmonies, that is to say, remixes of favorite songs but in a mirror image. It’s a new stimuli, or I make some new tea, or whatever.
@@ -1159,7 +1159,7 @@ If you already have a B Corps certificate, you can just reuse that as an entry h
 We’re not making people conform to the same organization type. Rather, we’re making sure that the social sector, no matter which organizational form it takes, can reflect on the goals that they’re reaching.
 
 ### Audrey Tang:
-The second characteristic is that every municipal, county, and city government can also choose the focus of their work in terms as SDGs. For example, Taoyuan City, which has its own voluntary local review of SDG KDIs, can both list the associations, companies, and co-ops registered Taoyuan that are helping the city reach its own SDG goals.
+The second characteristic is that every municipal, county, and city government can also choose the focus of their work in terms as SDGs. For example, Taoyuan City, which has its own voluntary local review of SDG KPIs, can both list the associations, companies, and co-ops registered Taoyuan that are helping the city reach its own SDG goals.
 
 ### Audrey Tang:
 Also, those SDG goals, across Taiwan, what kind of other associations not based on Taoyuan is nevertheless willing to work with Taoyuan on these matters? This is a very systemic, holistic picture of people’s common goals.
@@ -1222,7 +1222,7 @@ Are there any Chinese language titles?
 If you want a Chinese title, I would recommend Ursula K. Le Guin’s translation of the Tao Te Ching. It is still a classic.
 
 ### Audrey Tang:
-This is actually not the Ursula K. Le Guin translation, it’s the more scholarly one by James Legge. I still drive a lot of my main attitudes from the thoughts of Lao Tzu, and the thoughts of Lao Tzu is why I call myself a conservative anarchist, because they both conserve the tradition, as they are, the various traditions.
+This is actually not the Ursula K. Le Guin translation, it’s the more scholarly one by James Legge. I still derive a lot of my main attitudes from the thoughts of Lao Tzu, and the thoughts of Lao Tzu is why I call myself a conservative anarchist, because they both conserve the tradition, as they are, the various traditions.
 
 ### Audrey Tang:
 Also, they insist on anyway goes, anything goes. This is like a core against method, a way of anarchism without objectives. Just a Taoist thing, but Ursula K. Le Guin’s rendition, you can find on YouTube, her reading it out loud and with musical accompaniment, and I think that makes it crystal clear in a poetic fashion what Lao Tzu’s thought really is about.

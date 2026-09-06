@@ -525,7 +525,7 @@ That is, I think, in everybody’s mind. When we do our usual end to end encrypt
 However, we’re not simply saying “Zoom is bad, ban them” — we’re saying we need to keep putting pressure on them on true end-to-end encryption, which they are now working on with the Keybase folks. That their web client also needs to go through independent audit — so we won’t have to install their desktop software.
 
 ### Audrey Tang:
-Anyway, back to surveillance capitalism. There are ways to advocate, to regulate, and to litigate, but in this part of the world, we always assume that there is a state behind the surveillance capitalism if it looks like it goes through the physical route to any of the PRC territories, either de facto or du jour.
+Anyway, back to surveillance capitalism. There are ways to advocate, to regulate, and to litigate, but in this part of the world, we always assume that there is a state behind the surveillance capitalism if it looks like it goes through the physical route to any of the PRC territories, either de facto or de jure.
 
 ### Alaphia Zoyab:
 That’s a great reminder. Assume that the state is behind it. You mentioned audit, and actually, that’s something that I think would, we’d greatly benefit from your expertise, which is, one of the policy objectives that we’re advancing, trying to emphasize, to regulate as rulemakers, is that they have to have powers to audit and inspect the algorithms.
@@ -617,7 +617,7 @@ Currently, I don’t think we can — there’s no app for that.
 I really want to get you and Pia together to talk about, when do we start passing legislation that allows for more fluidity in those decisions? Where it’s like, it’s so hard for the subjective stuff to pass a law that results in a contract that the government has to hold.
 
 ### Dan Blah:
-With quadratic voting and more real time assessment of where is the populous at right now but still avoiding populism swings, you could end up in a situation where a change in temperament from society, enshrined by a law requiring this vote, changes the individual contracts that agencies, companies, and society, ultimately, abides by.
+With quadratic voting and more real time assessment of where is the populace at right now but still avoiding populism swings, you could end up in a situation where a change in temperament from society, enshrined by a law requiring this vote, changes the individual contracts that agencies, companies, and society, ultimately, abides by.
 
 ### Dan Blah:
 Now, we’re getting into a liquid democracy and all these other things, so I’m just going to step away from that radical. \[laughs\]

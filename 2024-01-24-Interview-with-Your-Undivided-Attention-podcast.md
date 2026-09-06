@@ -364,7 +364,7 @@ Because ideally I would like people to point this episode, shared around in ever
 ### Aza Raskin:
 Yeah, and I feel like we only, I'm not sure which way to go, so I'll put into the shared space, which is we touched on deliberative polling, but deliberative polling I think in most people's heads, draws no image, they just like they see they see a blank thing it sounds sort of boring.
 
-And there's a motivation, which is, I remember is actually originally saw this from the constitutional or Larry Lessig where he showed work from Martin Gillins and Benjamin Page. And it's about the disenfranchisement like why do people think democracy doesn't work. And there is this incredible set of graphs, where they show like average citizens preferences to what policies get passed, and there is no correlation. Everyone's average citizens preferences make no change to the agenda of what government cares about.
+And there's a motivation, which is, I remember is actually originally saw this from the constitutional or Larry Lessig where he showed work from Martin Gilens and Benjamin Page. And it's about the disenfranchisement like why do people think democracy doesn't work. And there is this incredible set of graphs, where they show like average citizens preferences to what policies get passed, and there is no correlation. Everyone's average citizens preferences make no change to the agenda of what government cares about.
 
 But if you look at economic elites preferences or interest group preferences that does correlate that is if an interest group or an economic elite wants something there is a correlation, it'll get on the agenda and it may come become policy.
 
@@ -375,7 +375,7 @@ So I think building that out for people, giving like a specific example for how 
 ### Audrey Tang:
 Sure. So the first time we've used collective intelligence systems on a national issue was in 2015, when Uber first entered Taiwan. There were protests and everything, just like in other countries. But very differently, we asked the Uber drivers, the taxi drivers, the passengers, and everyone really, to go to this online pro-social media called Polis.
 
-And the difference of that social media is that instead of highlighting the most clickbait, the most polarizing, most sensational views, it only surfaced the views that bridges across differences. So for example, when somebody says, oh, I think search pricing is great, but not when it undercut existing meters. This is a nuance.
+And the difference of that social media is that instead of highlighting the most clickbait, the most polarizing, most sensational views, it only surfaced the views that bridges across differences. So for example, when somebody says, oh, I think surge pricing is great, but not when it undercut existing meters. This is a nuance.
 
 And with nuanced statements like this, usually in other antisocial social media, that just gets scroll through because it costs more, right, in terms of mental bandwidth to process that. But Polis makes sure that it's up and front.
 
@@ -383,7 +383,7 @@ The same algorithm that powers Polis would eventually find its way into communit
 
 And also, it gives policy makers a complete survey of what are the middle of the road solutions that will leave everybody happier. And much to our surprise, most people agree with most of their neighbors on most of the points, most of the time. It is only that one or two most polarized points that people keep spending calories on.
 
-But if we just say, you know, let's make sure that rural places, the co-ops, the unions, and so on can also enjoy their Uber-like dispatch apps. If we make sure that insurance is taken care of, if we make sure that it's clearly labeled in an app, that the search pricing never undercuts existing meters, and so on, then everybody's actually happy with it.
+But if we just say, you know, let's make sure that rural places, the co-ops, the unions, and so on can also enjoy their Uber-like dispatch apps. If we make sure that insurance is taken care of, if we make sure that it's clearly labeled in an app, that the surge pricing never undercuts existing meters, and so on, then everybody's actually happy with it.
 
 So for many years now, Uber is a legal taxi fleet in Taiwan, but many existing fleets are also upgraded to be Uber-like, so it's a win-win-win situation. Now, because of that peak experience, we've applied this method also to tune AIs.
 
@@ -578,7 +578,7 @@ So I'm wondering like a simpler way to talk about what we think the philosophy o
 ### Aza Raskin:
 The way it sort of breaks in my head is one of the principles I think you stand for, Audrey, is like the power should be at the edges, that people should be able to use AI the way that matches like their desires.
 
-Because democracy should have the ability to retune these powerful AI models to be in service of strengthening democracy, and for that, it really helps for them to be open source and open way.
+Because democracy should have the ability to retune these powerful AI models to be in service of strengthening democracy, and for that, it really helps for them to be open source and open weight.
 
 But we've also said at the beginning that the proliferation of open models preferentially harms democracies, because their information systems are open and so they are more vulnerable to flooding attacks.
 
@@ -634,7 +634,7 @@ Or not even watermarks, they just keep a record of all their output it has gener
 
 But we do not live in such a world.
 
-What Tristan just alluded to, is that you can always take a watermarked output from DALL-E 3 or whatever, and then use a small open source model to rephrase it. And once it's rephrased, remixed, the watermark is gone and the original maker, OpenAI, doesn't recognize the remixed picture anymore. But the remixed picture, it’s is as persuasive or even more persuasive than the one that's generated by the larger model.
+What Tristan just alluded to, is that you can always take a watermarked output from DALL-E 3 or whatever, and then use a small open source model to rephrase it. And once it's rephrased, remixed, the watermark is gone and the original maker, OpenAI, doesn't recognize the remixed picture anymore. But the remixed picture, it is as persuasive or even more persuasive than the one that's generated by the larger model.
 
 So we now live in a world where we really have to decentralize the defensive capabilities just because the existing rephrasers, remixers, are already there in forms of open source, and it's almost impossible to ban them now, which is why we're shifting left to the actor layer, which is why we're saying to our people, no matter how convincing Audrey Tang's video or SMS or website looks like, if it doesn't come from 111, then it's not Audrey.
 
@@ -817,7 +817,7 @@ I mean, these are great examples and other democracies should adopt liability la
 
 And so we're keep racing to go as fast as possible, with heavier and heavier venture capital, billions of dollars, to build a more powerful thing that's racing across the pond, because of the promise that if I do that and I really unlock the, the Lord of the Rings ring, at the end of that, and that process, I get access to automating all science, you know, colonizing the galaxy, etc.
 
-But there's this point, where we don't know where the ice is going to break, underneath our feet, as we're racing to get that golden ring. Is there some critical point, Audrey, where there's something else that would need to happen some other emergency break, whether it's TSMC shutting down the flow of chips in the world or something else? How do you think about that question, because that's not that many years away.
+But there's this point, where we don't know where the ice is going to break, underneath our feet, as we're racing to get that golden ring. Is there some critical point, Audrey, where there's something else that would need to happen some other emergency brake, whether it's TSMC shutting down the flow of chips in the world or something else? How do you think about that question, because that's not that many years away.
 
 ### Audrey Tang:
 And this did happen, right? This did happen.

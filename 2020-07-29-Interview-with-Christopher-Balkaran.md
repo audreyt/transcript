@@ -204,7 +204,7 @@ That’s right. If we can make exponential battery technology, we solve all our 
 There you go. Exactly, yeah, and phone technology, phone battery technology. That would be perfect.
 
 ### Audrey Tang:
-Anyway, I digress. The point here, I think, is that we’ve always been looking at this reverse mentorship tradition in the Taiwanese political system. Starting from 1990, when the White Lily – it’s also an occupy movement back then – demanding for direct presidential election.
+Anyway, I digress. The point here, I think, is that we’ve always been looking at this reverse mentorship tradition in the Taiwanese political system. Starting from 1990, when the Wild Lily – it’s also an occupy movement back then – demanding for direct presidential election.
 
 ### Audrey Tang:
 It was agreed by the then-president, Lee Teng-hui, to put the Taiwan constitution amendments to allow for direct presidential election that the first one of which happened in 1996.
@@ -579,7 +579,7 @@ You go out to all the different areas in Taiwan. I think that’s a really good 
 Definitely.
 
 ### Christopher Balkaran:
-It’s so important to do that. I’m sure you’ve met people who are just, they’ve written off your government. They’ve written off government altogether. They don’t believe necessarily in the force of government for good or for chance. They’re certainly not going to go online and share their opinion online.
+It’s so important to do that. I’m sure you’ve met people who are just, they’ve written off your government. They’ve written off government altogether. They don’t believe necessarily in the force of government for good or for change. They’re certainly not going to go online and share their opinion online.
 
 ### Audrey Tang:
 No, not at all.
@@ -687,7 +687,7 @@ The definition of the common problem is, I think, one of the most important thin
 How might we, for example, ensure all of the population are masked up while ensuring the efficiency of the distribution method? That’s a common “how might we.”
 
 ### Audrey Tang:
-Even people who are very old, or even people who are traditionally marginalized, or even people who don’t have the voting rights, like people who are in their, very young age, like 12-years-olds and so on, they can all participate equally in this process.
+Even people who are very old, or even people who are traditionally marginalized, or even people who don’t have the voting rights, like people who are in their, very young age, like 12-year-olds and so on, they can all participate equally in this process.
 
 ### Audrey Tang:
 This is not about voting. This is not about making a decision. This is about finding out the “how might we” question and defining it so that it take care of the most people’s feelings. That’s the first diamond.

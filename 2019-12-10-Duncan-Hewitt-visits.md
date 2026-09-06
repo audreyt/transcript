@@ -1253,7 +1253,7 @@ No.
 Was this your own sort of…?
 
 ### Audrey Tang:
-Because I’m a horizontal, I’m a horizontal minister. Above the 32 vertical ministries each with a vertical minister. The 9 horizontal ministers are already using this way of cross ministerial coordination anyway, they only difference is that I’m making this public, this process public.
+Because I’m a horizontal, I’m a horizontal minister. Above the 32 vertical ministries each with a vertical minister. The 9 horizontal ministers are already using this way of cross ministerial coordination anyway, the only difference is that I’m making this public, this process public.
 
 ### Duncan Hewitt:
 The participation officers, their role is to get public participation, to respond…

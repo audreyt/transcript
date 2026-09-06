@@ -171,7 +171,7 @@ In addition to Mexico City, we also had one in New York City in October, which w
 Taiwan is really important to us, because Taiwan is the location that Human Rights Foundation picked for Asia region. Obviously, it’s very exciting to have Taiwan shown in the global spotlight regarding human rights and democracy. I think it’s great that Human Rights Foundation cares about Taiwan so much in this matter. I believe that Taiwan can help in the global fight against authoritarianism.
 
 ### Audrey Tang:
-I have an additional question. We’re quite familiar with the Open Tech Fund or even the CIVCUS micro-grant and other micro-grants of that nature. You used to or are still running a micro-grant, but the material around that is less visible online. I don’t really know how is that going.
+I have an additional question. We’re quite familiar with the Open Tech Fund or even the CIVICUS micro-grant and other micro-grants of that nature. You used to or are still running a micro-grant, but the material around that is less visible online. I don’t really know how is that going.
 
 ### Jenny Wang:
 Let me get that information for you. I can ask my teammates to help provide more information if that’s something you’re interested in.

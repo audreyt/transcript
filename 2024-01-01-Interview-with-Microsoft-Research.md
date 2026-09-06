@@ -286,7 +286,7 @@ Yeah, that's not what we're getting.
 Not yet, no.
 
 ### Audrey Tang:
-And like one concrete example, when I speak tâI-gí (台語) with chatgpt, it almost always tell me something in cantonese, which is not tâI-gí. And then I will point out, this is Cantonese, and chatgpt would be a sycophant. Apologize profusely and whatever. And then it still gets it wrong.
+And like one concrete example, when I speak tâi-gí (台語) with chatgpt, it almost always tell me something in cantonese, which is not tâi-gí. And then I will point out, this is Cantonese, and chatgpt would be a sycophant. Apologize profusely and whatever. And then it still gets it wrong.
 
 ### Madeleine Daepp:
 Right.
@@ -324,7 +324,7 @@ So the attention based mechanism is going to prioritize the thing that came late
 ### Audrey Tang:
 But if you run it like every day continuously, it doesn't matter. So this is what the talk to the city people with the taiwan people are now calling this recursive public agenda setting. So it's recursive public because we expect the agenda to shift and the community to evolve, and so to freeze something in time and call it the constitution.
 
-But we can also open up the constitution so that it can be done at any level. Incremental fine tuning, I think that is the check and balance here, because I totally agree with you. Only the largest labs can afford to do this fine tuning and constitutional alignment, and only every half a year, like from clock two to clock three or whatever, but if anyone who assembles four people in a living room can start fine tuning it for these four people. Then it becomes a check and balance to the privilege on the upper.
+But we can also open up the constitution so that it can be done at any level. Incremental fine tuning, I think that is the check and balance here, because I totally agree with you. Only the largest labs can afford to do this fine tuning and constitutional alignment, and only every half a year, like from Claude two to Claude three or whatever, but if anyone who assembles four people in a living room can start fine tuning it for these four people. Then it becomes a check and balance to the privilege on the upper.
 
 ### Madeleine Daepp:
 Go ahead, Robert.
@@ -339,7 +339,7 @@ Go for it.
 Why not use the RLHF interface instead? I mean, if OpenAI can hire anthropologists and doctors and lawyers and stuff to do fine tuning to provide feedback, why not a grassroots approach to that?
 
 ### Audrey Tang:
-Yeah, that's obviously part of it. It is the aggregation part. Right? So, like the collective intelligence project, as part of alignment, assemblies work with open air to do precisely that. They sent 1000 invitations to statistically somewhat representative Americans that are already customers of OpenAI and so on. And so this is essentially a wiki survey. It is not unlike randomly polling ChatGPT users to improve their product by filling out the survey. The only difference is that the surveys are free form.
+Yeah, that's obviously part of it. It is the aggregation part. Right? So, like the collective intelligence project, as part of alignment, assemblies work with OpenAI to do precisely that. They sent 1000 invitations to statistically somewhat representative Americans that are already customers of OpenAI and so on. And so this is essentially a wiki survey. It is not unlike randomly polling ChatGPT users to improve their product by filling out the survey. The only difference is that the surveys are free form.
 
 Like you would like ChatGPT to behave this way, then you write it down, and then you get to vote on other people's preferences as well. And so what this actually does is that it creates a prioritized result, a rank order list, which, as I mentioned, is the native data format. And this is how it looks like this is isomorphic to polis. Like, when it comes to making AI safer for the public, I want to make sure that the data works and people are compensated fairly or that it doesn't use up a huge amount of resources, like water or energy, which is more important.
 
@@ -355,7 +355,7 @@ Yeah, I would first say that we were just dealing with that, right, because the 
 
 So I think the social infrastructure here is based on making sure that it's like, help the helpers, right, the existing community organizers, grassroots organizations, civil society groups, and so on, see this as augmenting, not as an authoritarian force. So whatever polis or AllOurIdeas or whatever, must not get in the way of their original work. It is purely one of two things. It is purely to make sure that their work transmits cogently to more people that they cannot immediately reach because of composability.
 
-And also that it helps to save their time to identify the crux, the nuance, to compress the nuance without sacrificing the nuance, as facilitators do at the end of an assembly. Usually they co-write an executive summary, but that is where the bias enters the most. Based on the facilitator style, one almost always conducts epidemic injustice. And here, the tools we just talked about can help surf that lone voice cluster and say, that was also mentioned, but it's not in your executive summary. So it can keep the facilitator honest, but it's not there to replace the need for facilitators or human energy. It is just to make sure that the degree of coexistence is higher. This Glen Weyl person has a [beautiful diagram](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/PPF.png).
+And also that it helps to save their time to identify the crux, the nuance, to compress the nuance without sacrificing the nuance, as facilitators do at the end of an assembly. Usually they co-write an executive summary, but that is where the bias enters the most. Based on the facilitator style, one almost always conducts epistemic injustice. And here, the tools we just talked about can help surf that lone voice cluster and say, that was also mentioned, but it's not in your executive summary. So it can keep the facilitator honest, but it's not there to replace the need for facilitators or human energy. It is just to make sure that the degree of coexistence is higher. This Glen Weyl person has a [beautiful diagram](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/PPF.png).
 
 ### Madeleine Daepp:
 We know Glen quite well.
@@ -422,7 +422,7 @@ Yeah, they're usually one of the first at any natural disaster or international 
 Very early during the tsunami.
 
 ### Audrey Tang:
-Yes. So if Taiwan has an earthquake, if Tzu Chi published a number and the chief statistician of the administration published the number, people are going to believe the Tzu Chi number of these two differ. This is a fact we have seen many times. So. And it's quite obvious that Tzu Chi thrives not by monopolizing charity.
+Yes. So if Taiwan has an earthquake, if Tzu Chi published a number and the chief statistician of the administration published the number, people are going to believe the Tzu Chi number if these two differ. This is a fact we have seen many times. So. And it's quite obvious that Tzu Chi thrives not by monopolizing charity.
 
 You can, I mean, not believe in Buddhism, but still appreciate Tzu Chi's contribution to many things. And then they also have a very strong social entrepreneurship track so that the parts of their recycle, reduce, reuse, upcycle work, and so on become quite profitable. The DA.AI technology company that upcycles these materials into something that is fit for wearing and so at a premium and so on. But it's 100% owned by the foundation.
 
@@ -495,7 +495,7 @@ So I worked in Minnesota, in the United States, during the summer when the state
 And there we were showing up. And that made a huge difference for our research. But with the ojibwe, no legitimacy, the history and prior work of the university with that community had so eroded the trust that my principal investigator of the project had to go for 4 hours and just be yelled at in order to build back trust, people needed the catharsis and then over time they were able to get to a place of collaboration, actually. But I just want to sort of give you that as sort of my own background in thinking about how different institutions, different civil society institutions, different government institutions, have different forms of credibility, again with different constituents and how easy it is to lose it.
 
 ### Audrey Tang:
-I totally agree. Well, because my previous job was the ministry at large for social entrepreneurship, social innovation to be precise. And so what we have witnessed again and again is that, for example, Tzu Chi (慈濟) would work with Impact Hub Taipei and working on “FUN 大視野 想向未來”, which is their social entrepreneurship accelerator incubator program.
+I totally agree. Well, because my previous job was the minister at large for social entrepreneurship, social innovation to be precise. And so what we have witnessed again and again is that, for example, Tzu Chi (慈濟) would work with Impact Hub Taipei and working on “FUN 大視野 想向未來”, which is their social entrepreneurship accelerator incubator program.
 
 And if you just look at the website, you will not think it's a typical Tzu Chi project. It is like totally hip, sustainable young impact hub stuff, but it's totally funded by Tzu Chi and actually connects with their existing connections. And this only happens when the social sector thinks itself as a sector. If they think of themselves as charities, co-ops and consumer co-ops, unions, advocacy organizations, universities, research institutes, then they have their own silos.
 
@@ -628,7 +628,7 @@ Yeah, I can imagine that was very, there was much head shaking going on.
 We just have to composite new Chinese characters and make it work.
 
 ### Audrey Tang:
-Yeah. So by saying that we're definitely not doing that. By saying that this is not a kinship affecting move, this is what's called a confidence building measure, cbn. And the way that we kind of produce, synthesize those. It is of course partially assisted by digital participation platforms because we can see in the national participation platform, the Join platform, what are the pro arguments, the counterarguments, what are the most upvoted ones?
+Yeah. So by saying that we're definitely not doing that. By saying that this is not a kinship affecting move, this is what's called a confidence building measure, cbm. And the way that we kind of produce, synthesize those. It is of course partially assisted by digital participation platforms because we can see in the national participation platform, the Join platform, what are the pro arguments, the counterarguments, what are the most upvoted ones?
 
 So just like those clusters that I showed, you can see that these are the main tension points and the confidence measure has to appear here. Of course, we didn't use LLMs to synthesize that line, but something analogous is happening. But to do this systematically and say that anybody can learn this art, this is, I think, what's missing.
 
@@ -794,7 +794,7 @@ So even if they're discovered, even if they're attributed and so on, they don't 
 
 On confidence. So I would say that first, it makes the scam easier to target. Like, it's easier to pass widely agreed measures against scamming than it is against political propaganda. Because the existing power structures all stand to lose something if people stop trusting anyone talking over the phone and are reduced to only trusting people in the civilian world, none of the existing power structures will survive in that setting. And so just to kind of carry the thread from our previous conversation, to get the existing powers to not obstruct confidence building measures, context building measures, and so on.
 
-It's much easier politically if you first focus on financial scamming, especially across border alliances, whereas especially leading up the election, telling foreign interference versus domestic campaigning becomes harder by the day until you reach the day of the vote. But every day, regardless of how close we're to the voting, financial scans look exactly the same, which makes it harder for the legislators to confuse these two, because the more close you are to the election, the more different the financial scam and political propaganda looks, because this is very intense close to the election day, but this remains the same level. So to pass a law that addresses both looks more and more untenable the closer you are to the election.
+It's much easier politically if you first focus on financial scamming, especially across border alliances, whereas especially leading up the election, telling foreign interference versus domestic campaigning becomes harder by the day until you reach the day of the vote. But every day, regardless of how close we're to the voting, financial scams look exactly the same, which makes it harder for the legislators to confuse these two, because the more close you are to the election, the more different the financial scam and political propaganda looks, because this is very intense close to the election day, but this remains the same level. So to pass a law that addresses both looks more and more untenable the closer you are to the election.
 
 So we managed to pass very specific laws that I think are very helpful, even close to election time against scams, specifically deep fake investing advice posted on facebook. So there was a flurry of celebrities, but I was never featured — which is very weird — on facebook. That purpose is to teach you to invest in something, always by a celebrity, sometimes holding a book on investment and things like that. And it's quite interactive. If you ask that celebrity a question, it will actually give you investment advice and so on.
 
@@ -906,7 +906,7 @@ And so they're now upping their game by using an LLM that auto-magically does th
 Yeah, you can't keep up.
 
 ### Audrey Tang:
-So of course, human investigation is needed only on the few that are threatened to actually do the cognitive bandwidth. But the first line defense can already be offered by LLM. And again, that lm is a very strategic place to be community tuned.
+So of course, human investigation is needed only on the few that are threatened to actually do the cognitive bandwidth. But the first line defense can already be offered by LLM. And again, that LLM is a very strategic place to be community tuned.
 
 And so, I think this kind of community input, democratic input opportunity over time will be more important than just the transparency, legitimacy part. But of course, if it's not transparent, not legitimate people will not participate. So it's a necessary condition.
 
@@ -1151,7 +1151,7 @@ So there's no nuance here that I'm missing. Should I be understanding the Taiwan
 ### Audrey Tang:
 Well, the nuance is more during the news segments than the opinion segments. The opinion segments, as you observed, are the same. Yeah.
 
-The issue we were talking about was that if somebody wants to mount an information manipulation attack, do they open 7000 facebook channels and groups or whatever, or do they pass it off as news, as fact, by an ideology affiliated media? And more often than not, the later it's actually easier, but it's not the case in japan.
+The issue we were talking about was that if somebody wants to mount an information manipulation attack, do they open 7000 facebook channels and groups or whatever, or do they pass it off as news, as fact, by an ideology affiliated media? And more often than not, the latter it's actually easier, but it's not the case in japan.
 
 ### Robert Ness:
 Okay, so to make sure I have that part clear, so that you're saying that there's likely use of generative AI crafting these narratives. And typically it starts off some of the evidence here again, is like some of the cultural contextual differences that you see kind of raw red flags and machine generated text.
@@ -1234,7 +1234,7 @@ Why is Japan the natural baseline as opposed to Korea or Poland?
 ### Audrey Tang:
 I think it's mostly just that we're more familiar with the Japanese media landscape. And also, I would also say that this is quite automatic for especially senior people in taiwan. Like whenever we want to compare a societal civilized baseline, we just automatically say, oh, Japan does this. And Taiwan isn't up to par.
 
-So it's cognitively a little bit dissonant, when we read that in terms of purchase and power parity or whatever, we're like selling japan because for the longest time, taiwanese people, when they say something that is civilized and part of liberal democracy, societal structure, designing a friendly environment for aging or whatever, people automatically say, oh, that's how the japanese people do it. So we at least need to do that. So it's a kind of steering effect.
+So it's cognitively a little bit dissonant, when we read that in terms of purchasing power parity or whatever, we're like selling japan because for the longest time, taiwanese people, when they say something that is civilized and part of liberal democracy, societal structure, designing a friendly environment for aging or whatever, people automatically say, oh, that's how the japanese people do it. So we at least need to do that. So it's a kind of steering effect.
 
 ### Robert Ness:
 But one could argue that Taiwanese democracy is...

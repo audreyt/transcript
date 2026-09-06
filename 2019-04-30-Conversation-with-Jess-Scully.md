@@ -183,7 +183,7 @@ Sitting and waiting and anyone can book in to see you. What do people bring to y
 Well, quite a few things. I mean, just let me look at tomorrow’s schedule, because tomorrow appears to be a Wednesday, right? It’s Labor Day, but in Taiwan public service is still working on Labor Day. Let’s see, my first booking is from the BLab. They’re making a ’let’s be the change together’, business for good, social innovation competition.
 
 ### Audrey Tang:
-They’re asking me if I can maybe hold a starting ceremony or be one of the judges and indeed connect that to our APSIPA, Asia Pacific Social Innovation Partnership Award, which is our way to promote SDGs, the sustained development goals. That’s one thing.
+They’re asking me if I can maybe hold a starting ceremony or be one of the judges and indeed connect that to our APSIPA, Asia Pacific Social Innovation Partnership Award, which is our way to promote SDGs, the sustainable development goals. That’s one thing.
 
 ### Audrey Tang:
 The next meeting is from Crossroads, which is a local organization intending to make foreign people understand Taiwan more. Also making sure that Taiwan’s uniqueness, like our work in human rights, our work in democracy, innovation and things like that is also translated into a foreign context, because too much of this information is still just in Mandarin Chinese. They really want to make sure that they’re bilingually sound.
@@ -273,7 +273,7 @@ G0v is just a meme, really. The meme says whenever you see any government servic
 The g0v.it is from Italy. They show also the Italian budget with all the drilldown like in our g0v.tw topic. They don’t ask for license or patent or authorization or anything. It is literally a meme.
 
 ### Audrey Tang:
-People who are in the g0v community, roughly speaking, agrees to work out in the open using open-source and Creative Common licenses for the public good and in a radically participative way because it’s implied by the license.
+People who are in the g0v community, roughly speaking, agrees to work out in the open using open-source and Creative Commons licenses for the public good and in a radically participative way because it’s implied by the license.
 
 ### Audrey Tang:
 It allows people who are even not of the same nationality to contribute because there’s no domestic open-source. Basically, it’s participation from everybody to the benefit of the public service and not just public servants, but to the public service.
@@ -303,7 +303,7 @@ It’s interesting, because it’s become so identified with Taiwan.
 It starts from Taiwan. It became internationally known after the Sunflower Movement. That’s already more than two years after its inception. Of course, it’s associated with Taiwan because most g0v people learned it from Taiwan.
 
 ### Audrey Tang:
-On the other hand, there’s also many Taiwanese people all over the world, like g0v in Washington, DC or g0v in UK and Europe and so on. They also participate in the main g0v Slack channel, which is also a telebrand channel and an IRC channel.
+On the other hand, there’s also many Taiwanese people all over the world, like g0v in Washington, DC or g0v in UK and Europe and so on. They also participate in the main g0v Slack channel, which is also a Telegram channel and an IRC channel.
 
 ### Audrey Tang:
 They report from all over the world trying to do pretty much the same thing. They identify as g0v contributor and less like Taiwanese. I think there’s a kind of overlapping identity.
@@ -375,7 +375,7 @@ You’ve actually answered another question that maybe you can clarify. I’ve n
 Yes. It starts from not all the SDGs. I think it starts from our bid to the World Health Organization. Because of political reasons, Taiwan was denied entry to the Annual Summit of the WHO for quite a few years now.
 
 ### Audrey Tang:
-But Taiwan really is excellent when it comes to all sorts of just disease prevention and healthcare, good health and well-being and so on. Just for SDG 3, as part of the minister of foreign affair and minster of health and welfare, the WHA bid, they developed this taiwancanhelp hashtag.
+But Taiwan really is excellent when it comes to all sorts of just disease prevention and healthcare, good health and well-being and so on. Just for SDG 3, as part of the minister of foreign affair and minister of health and welfare, the WHA bid, they developed this taiwancanhelp hashtag.
 
 ### Audrey Tang:
 Then we discovered that actually Taiwan can help on pretty much everything in the Sustainable Development Framework, and so we gradually just expanded that to include all the SDGs.
@@ -405,7 +405,7 @@ We, for example, translate our open government manuals and so on into indigenous
 Just by making sure of paying attention to what every other culture is doing in terms of intersectionality often reveals the kind of hidden, excluded communities that we, nevertheless, have not yet considered in our open government presence.
 
 ### Jess Scully:
-Fantastic. Thank you so much, Audrey. This has been really, really helpful. Thank you so much for you time. This is fascinating work, so thank you so much for sharing it.
+Fantastic. Thank you so much, Audrey. This has been really, really helpful. Thank you so much for your time. This is fascinating work, so thank you so much for sharing it.
 
 ### Audrey Tang:
 Thank you, and thank you for contributing to the Creative Commons.

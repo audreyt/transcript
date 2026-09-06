@@ -231,7 +231,7 @@ One property that QV absolutely does have is that, in this particular formula, t
 On the other hand, unlike purely majoritarian schemes, it’s not like that’s predetermined. It’s not like, &quot;Oh, you have to just vote for one thing.&quot;
 
 ### Glen Weyl:
-Instead, the notion is, you could give a little bit of funding to some things, more funding to others, etc. The notion is that it should allow for an optimal balance between you not wanting things to bee too de-fragmented because people feel they can free-ride on the things that already have momentum.
+Instead, the notion is, you could give a little bit of funding to some things, more funding to others, etc. The notion is that it should allow for an optimal balance between you not wanting things to be too de-fragmented because people feel they can free-ride on the things that already have momentum.
 
 ### Glen Weyl:
 On the other hand, things being too concentrated because the democratic process just leads to whatever the majority prefers to win.
@@ -258,7 +258,7 @@ That’s very, very cute.
 Anything with the same height will show the same total amount is counted, but then the volume of them shows how much actually comes from the contributions relative to how much comes from the matching.
 
 ### Glen Weyl:
-The matching is the right-hand side, and the block’s width is how much comes form the private contributions, so I thought that was a smart visualization of it.
+The matching is the right-hand side, and the block’s width is how much comes from the private contributions, so I thought that was a smart visualization of it.
 
 ### Audrey Tang:
 That’s a great visualization. Just think that you have any number of square votes, really. \[laughs\] You can buy areas, but the areas is going to count toward their height. I think that’s a beautiful thing.
@@ -421,7 +421,7 @@ Well, yes. Ah, that screen.
 You have 100 credits left, and here are various referenda, which you could vote in favor of or against. An immediate tax cut for wealthy individuals and corporations.-- let’s say we’re opposed to that. We put one credit on that.
 
 ### Glen Weyl:
-Background requirements for all gun purchases. Let’s say we’re in favor of that, but we’re actually strongly in favor, so we want to put more than one vote on t. You see, my votes are going down faster and faster, as I put more and more votes on it? You see what I mean? Whereas if I just put one vote on that it just goes very quickly.
+Background requirements for all gun purchases. Let’s say we’re in favor of that, but we’re actually strongly in favor, so we want to put more than one vote on it. You see, my votes are going down faster and faster, as I put more and more votes on it? You see what I mean? Whereas if I just put one vote on that it just goes very quickly.
 
 ### Glen Weyl:
 This measures how much you care about it, by making it increasingly expensive to have more votes, so that you go buy votes just up to the point where you care enough. Then that will be proportional of the number of votes that you’ve already bought.
@@ -448,7 +448,7 @@ I think this is a very good idea. I think this also reflect to our conversation 
 Raising awareness.
 
 ### Fang-Jui Chang:
-When you want to propose something, it depends on you’re allocation of attention. Your allocation of attention, based on the information you receiving and also, the people you interact with. What if your echo chamber is limited? It prevent you from seeing the people’s view from other sides, even within the same topic.
+When you want to propose something, it depends on your allocation of attention. Your allocation of attention, based on the information you receiving and also, the people you interact with. What if your echo chamber is limited? It prevent you from seeing the people’s view from other sides, even within the same topic.
 
 ### Fang-Jui Chang:
 I see this as a very dangerous move towards proposal. What I would like to talk a little bit more is a step before. Like, how can we make sure that we got...

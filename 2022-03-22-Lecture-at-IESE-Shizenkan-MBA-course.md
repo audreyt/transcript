@@ -353,7 +353,7 @@ This can only happen in a society that cannot be bothered about perfect liberty.
 ### Audrey Tang:
 I'm in charge, as I mentioned, for social innovation. I personally incubate the social entrepreneurs. The social entrepreneurs are there for a purpose, but with profit. Purpose first, before profit.
 
-The idea of social entrepreneurship, as I mentioned, actually is only possible if the state is willing to entertain the idea that for some of the public services, the civil society and social entrepreneurs may actually do better. As one very concrete example, as you can see here, in 1I22 SMS example, here, the 15 digits are entirely random.
+The idea of social entrepreneurship, as I mentioned, actually is only possible if the state is willing to entertain the idea that for some of the public services, the civil society and social entrepreneurs may actually do better. As one very concrete example, as you can see here, in 1922 SMS example, here, the 15 digits are entirely random.
 
 When you go into, I think this is a 711, your phone transmits just 15 digits posted by 711 into your telecom. 711 doesn't know anything about you, not even your phone number. Your telecom does not know what those 15 digits mean.
 
@@ -558,7 +558,7 @@ I am a fervent believer in the assistive paradigm, in the sense of technology fi
 
 I would say, they are very familiar and comfortable and not because they're my parents and grandparents, but because we design with their input in mind. It's not that it's about old or young, it's about how many hours do they spend as fellow designers, as fellow participants and contributors, as makers, essentially.
 
-If you get them involved in the design of digital services as early as possible, they have very much a lot to say, and a lot more time on their hands since they're are retired to try out different things. My grandma, 90 years old for example, suggested a bunch of her younger friends around 80 years old, to try out our mask ration in preregistration system.
+If you get them involved in the design of digital services as early as possible, they have very much a lot to say, and a lot more time on their hands since they're retired to try out different things. My grandma, 90 years old for example, suggested a bunch of her younger friends around 80 years old, to try out our mask ration in preregistration system.
 
 We designed initially to use debit card in the ATMs within all the convenience stores. You can enter your debit card, type your password. It will wire a trivial amount of money to prove that you are you, and with the receipt you can redeem for the preregistered mask. It all works very quickly.
 
@@ -757,7 +757,7 @@ I see AI as "assistive intelligence". By assistive, I mean aligned and accountab
 
 I do not have to pay three million dollars of licensing fee or spend three years to reverse engineer it just so that it does not project advertisement to my retina, which will not be aligned to me, it will be aligned to the advertisers.
 
-A very simple example of an eyeglass as assistive technology showed that we need to treat AI, hold them accountable and aligned, exactly as any other from of assistive technology. If we do so, so that it protects the dignity of the citizens instead of treating them just as users, then it will enhance the possibility of creating better jobs.
+A very simple example of an eyeglass as assistive technology showed that we need to treat AI, hold them accountable and aligned, exactly as any other form of assistive technology. If we do so, so that it protects the dignity of the citizens instead of treating them just as users, then it will enhance the possibility of creating better jobs.
 
 That leads to more satisfaction because you can then delegate the part of the mundane task, that nobody want to do anyway, to those assistants. If you do not have the local tweaking control, if the innovation is not open, is not aligned to you, then actually it's the other way around.
 

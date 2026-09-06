@@ -39,7 +39,7 @@ We chose that as a subject for us to simulate a different way about talking abou
 It’s a long consultation. We witnessed something very interesting, which is the civil society organizations, the tech people, the city envoy, the provincial people, they started the workshop sitting very close to their kins.
 
 ### Audrey Tang:
-Our first instruction in the workshop, which is co-hosted by about six facilitators from Taiwan is to maximize the number of strangers in each table so that in each table, you if feel somebody you already know, move to some other table so they really mix and work together.
+Our first instruction in the workshop, which is co-hosted by about six facilitators from Taiwan is to maximize the number of strangers in each table so that in each table, if you feel somebody you already know, move to some other table so they really mix and work together.
 
 ### Audrey Tang:
 Some of them tell us that it’s the first time they actually sit down face-to-face to talk about this cross-sectoral issue in a way that feels a lot of rapport. People actually build common values instead of just sending Word documents to each other.
@@ -210,7 +210,7 @@ I’m like their investigative reporter that goes to places, maybe stay for a da
 Usually, if they write an email to their minister, that ministry will say, &quot;Oh, we’ll have to consult that ministry, that ministry, that ministry.&quot; It’s always a structural problem, but when all the 12 ministries are in the same room, enjoying good food, good geometric design, and things like that, they actually get into a very creative mode.
 
 ### Audrey Tang:
-They think about solutions together, seeing face-to-face though digital technology to resolve the local issues. Usually, they resolve it just like that within two weeks because it’s every two-week iteration cycle.
+They think about solutions together, seeing face-to-face through digital technology to resolve the local issues. Usually, they resolve it just like that within two weeks because it’s every two-week iteration cycle.
 
 ### Audrey Tang:
 If they admit that the government doesn’t have the resource or the policy currently is really a problem, is really blocking the social process, the entire thing is published on the Internet, really very transparent.
@@ -262,7 +262,7 @@ Mm-mm.
 No? OK.
 
 ### Audrey Tang:
-I’m post-gender, so I don’t care. That’s what it is. I think also in many Taiwanese First Nations, some of them are matriarchical like Amis. In for example Paiwan, which is I think our president’s grandmother’s nation, they don’t actually make a difference based on gender in their social roles and things like that.
+I’m post-gender, so I don’t care. That’s what it is. I think also in many Taiwanese First Nations, some of them are matriarchal like Amis. In for example Paiwan, which is I think our president’s grandmother’s nation, they don’t actually make a difference based on gender in their social roles and things like that.
 
 ### Audrey Tang:
 In my young age, just right after dropping out of high school, around that age, I lived also in the indigenous tribes in the Atayal region. I have a pretty different view around gender and gender expressions. I get the idea of the two-spirited and things like that, which carries a very non-binary situation in the First Nations. I mostly bring my gender understanding and narrative from that tradition.
@@ -469,7 +469,7 @@ What they found challenging is that they need to stay relevant to young people. 
 The young people value community voluntary contribution also, but they do it in a collaborative way, whereas the older NGOs in the older, paper-based workflows, mostly still work in a hierarchical way. Interesting worldwide, because that was the best technology like 30 years ago.
 
 ### Audrey Tang:
-Mostly, people bring in young people as communication experts to help them put their message through, to do digital storytelling, to make ways to interact with their constituents more, to bring more power to the people closer to the pain, to relief the social workers and \[inaudible 36:41\] workers of their chores, and things like that.
+Mostly, people bring in young people as communication experts to help them put their message through, to do digital storytelling, to make ways to interact with their constituents more, to bring more power to the people closer to the pain, to relieve the social workers and \[inaudible 36:41\] workers of their chores, and things like that.
 
 ### Audrey Tang:
 Through this, the digitally native generation, learn that they can actually be guides or leaders in the not-for-profit community. Whatever innovations they make, for example, I’ll use one example. Environmental groups in Taiwan, which is highly respected, partnered with the civic tech community to do self-measurement of air quality.
@@ -507,13 +507,13 @@ Yeah. Even with a drone, you can’t stay there all the time.
 At a certain point, it does need to come back and recharge.
 
 ### Audrey Tang:
-That’s right. We’re building wind-turbine, clean-energy stations in exactly this place. We agreed to us their protocol and put their measurement devices around the power plant that we’re constructing along the Taiwan Strait, report to the same network, and check and balanced by the distributed ledger.
+That’s right. We’re building wind-turbine, clean-energy stations in exactly this place. We agreed to use their protocol and put their measurement devices around the power plant that we’re constructing along the Taiwan Strait, report to the same network, and check and balanced by the distributed ledger.
 
 ### Audrey Tang:
 All this is open innovation without any MOU or whatever. People around the world just downloaded their software from Taiwan and build your own air boxes locally with open hardware. They can, of course, build their own analysis center, but by default, it goes back to Taiwan.
 
 ### Audrey Tang:
-We have a pretty good idea of those voluntary associated air quality, water quality, earthquake prevention, disaster relief, metrological data. We have a website called collectiveintelligence.taiwan.go.tw that does cross-sectoral data collection using, for example, the water quality data and contribution from the Taiwan Water Corporation around the flow and pressure of the water pipes.
+We have a pretty good idea of those voluntary associated air quality, water quality, earthquake prevention, disaster relief, meteorological data. We have a website called collectiveintelligence.taiwan.go.tw that does cross-sectoral data collection using, for example, the water quality data and contribution from the Taiwan Water Corporation around the flow and pressure of the water pipes.
 
 ### Audrey Tang:
 The machine-learning people came forward and devised their algorithm that allows the people to detect new water leakage points in one tenth of the time, compared to when the old masters and apprentices have to tour around Taiwan and listen to the pipes where there were leakages happening.
@@ -540,7 +540,7 @@ Infrastructure was not possible before the Company Act changed, but through a mu
 Are you meeting with Scott Brison at all? I know Canada and Taiwan don’t have diplomatic relations, but I was just wondering, are you planning to meet with him at all or any of his staff?
 
 ### Audrey Tang:
-I listened to the minister’s team addressing the FWD50. I think there was another minster who gave a speech of procurement.
+I listened to the minister’s team addressing the FWD50. I think there was another minister who gave a speech of procurement.
 
 ### Emily Haws:
 Carla Qualtrough?

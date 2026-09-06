@@ -136,7 +136,7 @@ In a very high-resolution way.
 Yes. Is that a problem with social media, that people have got avatars that they are hiding behind?
 
 ### Audrey Tang:
-There’s a few things. If people are encouraging people meeting each other…Note that I said meeting face-to-face in airy quotes, because it’s just a projector projecting on a large wall. \[laughs\]
+There’s a few things. If people are encouraging people meeting each other…Note that I said meeting face-to-face in air quotes, because it’s just a projector projecting on a large wall. \[laughs\]
 
 ### Audrey Tang:
 It’s face-to-face, but it’s not three-dimensional. It’s a two-dimensional face. What’s important is that it’s synchronized. Like as I say these words, I see you nodding. Even though we’re physically, I guess, in very different places with very different weather, we feel as if we are in the same place.

@@ -1167,7 +1167,7 @@ It’s not that the elders don’t use digital technologies. We have solid numbe
 Through the CoFact Bot is a prime example because then the elderly people or their children can just add the bot as a friend on the LINE communication system. Whenever you hear in your family LINE group that if you eat something and something, something will happen you to, \[laughs\] you can just forward. It’s the most popular boomer kind.
 
 ### Audrey Tang:
-You can just forward, like flag S spam, but just forward it to the bot and the bot will review it to the public Internet. People can crowdsource the fact-finding, and then the bot will get back to the elders saying, &quot;We checked, and it’s not quite like that.&quot; It’s catering to the elderly specifically.
+You can just forward, like flag as spam, but just forward it to the bot and the bot will review it to the public Internet. People can crowdsource the fact-finding, and then the bot will get back to the elders saying, &quot;We checked, and it’s not quite like that.&quot; It’s catering to the elderly specifically.
 
 > (pause)
 
@@ -1510,7 +1510,7 @@ For example, here, the CIO of CARE International, Dar Vanderbeck, the NPOst peop
 Not abstract sustainable goals as it is a UN thing, but rather an everyday thing. They tried to explain important new concepts like deep canvassing and things like that in a local social frame, which is more like popular science work than academic work, but again, that is also important.
 
 ### Audrey Tang:
-I would also encourage you to just get in touch, or just give the SE Insights and En Post and other related blogs a cursory view and maybe it’s possible to bridge some of your learnings with the local popular science scene. I think that’s also important to have the academics seen as a somewhat accessible, almost like office hours online...
+I would also encourage you to just get in touch, or just give the SE Insights and NPOst and other related blogs a cursory view and maybe it’s possible to bridge some of your learnings with the local popular science scene. I think that’s also important to have the academics seen as a somewhat accessible, almost like office hours online...
 
 > (laughter)
 

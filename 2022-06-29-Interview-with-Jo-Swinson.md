@@ -56,7 +56,7 @@ The fair part requires participation that is fair, meaning that, well, nothing a
 
 We see in some extractive or speculative use of, for example, distributed ledgers like cryptocurrency. There's a very strong unfairness, power imbalance between the people who were there when the organization was first formed, and the people who joined later as part of the decentralized autonomous organizations.
 
-Whenever that fairness is not guaranteed, then you suffer from vampire attacks, civil attacks, all sort of attacks very quickly. There's an inherent gap between the legitimacy of the structure that you participated in when it was founded, vis-a-vis, like you joined after the revolution. [laughs] Fairness in governance, that's very important.
+Whenever that fairness is not guaranteed, then you suffer from vampire attacks, sybil attacks, all sort of attacks very quickly. There's an inherent gap between the legitimacy of the structure that you participated in when it was founded, vis-a-vis, like you joined after the revolution. [laughs] Fairness in governance, that's very important.
 
 Finally, it needs to be fun. For an imagined communities to become real, there needs to be something that people enjoy intrinsically. Any extrinsic so-called incentives decimate that intrinsic motivation. All the long-running social movements such as open-source, and so on, continuously renew on itself using this appeal to intrinsic motivations such as fun, joy, and solidarity.
 
@@ -91,7 +91,7 @@ Taiwan, very interestingly, is viewed as a very large civics group like that Mal
 Obviously, Taiwan, as a jurisdiction is neither considered a country nor a corporation, by many other jurisdictions. Civics is the people-to-people diplomacy is easier than state-to-state diplomacy in Taiwan. That intersection nature of radicle civics appeals a lot to also the Ministry of Digital Affairs people in Taiwan that works on democracy networks.
 
 ### Jo Swinson:
-Maybe I'm going off-piece here, but I'm really quite intrigued about these issues about what enables participation, what enables a strong culture, and the trust that isn't a prerequisite for that kind of strong civics. Do you think that Taiwan's particular situation which I don't know how it feels, but includes significant feeling of threat?
+Maybe I'm going off-piste here, but I'm really quite intrigued about these issues about what enables participation, what enables a strong culture, and the trust that isn't a prerequisite for that kind of strong civics. Do you think that Taiwan's particular situation which I don't know how it feels, but includes significant feeling of threat?
 
 Do you think that that is important also as one of the motivators for there being that kind of strong culture? I suppose, maybe it's an impossible question, but how much do you think it's partly because of that specific situation versus could this work anywhere?
 
@@ -104,7 +104,7 @@ We saw a lot of, not just domestic, but also international civic sector bonding 
 
 I would say that those peak experiences, is indeed essential in fostering a culture that can renew itself because one do not have to talk anything abstract.
 
-One can just talk about the food stand around the occupied corner of the street and so on, and people who have been to the occupy naturally just get it. We retain a lot of that open space technology and mobile communication facilitation. In our work, we don't have to explain to each other that OSD is also technology, because people have experienced that as a technology.
+One can just talk about the food stand around the occupied corner of the street and so on, and people who have been to the occupy naturally just get it. We retain a lot of that open space technology and mobile communication facilitation. In our work, we don't have to explain to each other that OST is also technology, because people have experienced that as a technology.
 
 I wouldn't say that it requires a military or geopolitical threat, but it does require a sense of urgency. I don't think anywhere on earth people have escaped the urgency that is the pandemic. In democratic jurisdictions, the divisiveness polarization of the infodemic also is similarly urgent.
 

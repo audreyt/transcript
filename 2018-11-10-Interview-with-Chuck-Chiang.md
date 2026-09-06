@@ -82,7 +82,7 @@ Aboriginal issues here is a very big issue. We had a big incident here last year
 The Elders.
 
 ### Chuck Chiang:
-It came from the Elders. They don’t want the pipeline to go though. What can Taiwan offer from its experience from dealing with Aboriginals and benefit economically business-wise that Canada can learn from. Is there something that we can learn from?
+It came from the Elders. They don’t want the pipeline to go through. What can Taiwan offer from its experience from dealing with Aboriginals and benefit economically business-wise that Canada can learn from. Is there something that we can learn from?
 
 ### Audrey Tang:
 Yes, definitely. We say &quot;indigenous people&quot;. We changed the name of the council from &quot;aboriginal&quot; to &quot;indigenous people&quot;. Our First Nations, of which there are 16, are very diverse both in terms of culture, of the Austronesian culture, as well as in the model that they operate.

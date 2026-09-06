@@ -154,13 +154,13 @@ I wouldn’t say so. I mean, the citizen science, as I mentioned, is a proof tha
 It’s a bad analogy except that it’s expensive to extract and to collect. If we democratize the collection and if we use deep learning and newer techniques for analysis, then it’s neither expensive to collect nor to analyze, to extract.
 
 ### Audrey Tang:
-Essentially, by building artificial intelligence on top of our existing plan on industrial innovation based on collective intelligence, we’re saying that an AI doesn’t need to be a centralized power. That is Taiwan’s unique contribution in that our main employment is provided by miss meets by small and medium enterprises.
+Essentially, by building artificial intelligence on top of our existing plan on industrial innovation based on collective intelligence, we’re saying that an AI doesn’t need to be a centralized power. That is Taiwan’s unique contribution in that our main employment is provided by SMEs by small and medium enterprises.
 
 ### Audrey Tang:
 Each of them has a very different configuration of social problem they need to solve in order to go about any business. It’s less vertical integration. Rather it’s more swarm like behavior to solve emerging issues both domestic and abroad. By empowering them to utilize AI and automate whenever they could appropriately, we get the AI talent from all sectors instead of only by CS majors.
 
 ### Audrey Tang:
-We get AI talents by essentially the miss meets looking to reinvent their flow without relying on trickle down from the largest corporations as in other nearby countries. I’m not saying we’re just better. I’m just saying it’s a different form of innovation.
+We get AI talents by essentially the SMEs looking to reinvent their flow without relying on trickle down from the largest corporations as in other nearby countries. I’m not saying we’re just better. I’m just saying it’s a different form of innovation.
 
 ### Audrey Tang:
 What we’re saying is that we’re essentially a partner. Whatever your centralized collection device or application is, there’s some part...It could be the chips. It could be the acoustic or optics. It could be the edge computing devices. It could be anything that is invariably designed or produced in Taiwan.
@@ -169,7 +169,7 @@ What we’re saying is that we’re essentially a partner. Whatever your central
 What we’re saying is that we’re not particular saying we’re locking in in particular data monopolies as you talk about. We’re not particularly betting any surveillance capitalist regimes. \[laughs\] Rather, whatever they’re using, first we’re in the loop because they use Taiwanese components.
 
 ### Audrey Tang:
-Also, we make sure that our own regulation is done in a way that provides ample opportunity for newcomers, for miss mets to build on the existing base and to, essentially, do social innovation. I’m not blindly saying, &quot;Social innovation is great. You can disrupt the large monopolies.&quot;
+Also, we make sure that our own regulation is done in a way that provides ample opportunity for newcomers, for SMEs to build on the existing base and to, essentially, do social innovation. I’m not blindly saying, &quot;Social innovation is great. You can disrupt the large monopolies.&quot;
 
 ### Audrey Tang:
 What we’re saying is that we’re happy to work with large monopolies. They’re all setting up AI centers in Taiwan. Once our talent understand the logic in which they operate, then they take those logic and also apply it to solve real social issues.
@@ -205,7 +205,7 @@ It makes it very obvious that foreign people are foreign people even if they hav
 It’s A1 or A2 something, for nationals. It will be A8 or A9 something for foreign people. The national EID will look very similar. It’s all touch NFCs and PKI, just like Estonia, for both domestic and also foreign nationals. That will create a much more welcoming system for people to try out Taiwan for a while and to be also Taiwanese after a while. We’re getting pretty good feedback on those programs.
 
 ### Audrey Tang:
-Brain drain to, especially, Silicon Valley but also other innovation centers has been reversed in the past couple years. Ethan Du came back from Microsoft. He didn’t come back alone. He brought his friends, and teams, and so on with him.
+Brain drain to, especially, Silicon Valley but also other innovation centers has been reversed in the past couple years. Ethan Tu came back from Microsoft. He didn’t come back alone. He brought his friends, and teams, and so on with him.
 
 ### Audrey Tang:
 We’re seeing now that Facebook just today opened its new research headquarter here in Taiwan, the Facebook Taiwan HQ. Of course, Microsoft convinced 200 or something AI researchers here and so on. All of the fame is eyeing Taiwan to be their AI talent.
@@ -244,7 +244,7 @@ What’s the catch?
 The catch is that people have heard of Thailand, but not Taiwan. \[laughs\] That’s the main catch. We have a very good story. We could really do better in telling that story.
 
 ### Juergen Maurer:
-Would you say that now those AI entrepreneurs or digital people, they go more to Taiwan because it’s notexpensive to live?
+Would you say that now those AI entrepreneurs or digital people, they go more to Taiwan because it’s not expensive to live?
 
 ### Audrey Tang:
 Yes. The cost of living is one thing. As I said, a digital nomad can live anywhere. Mostly, it’s only time zone diametrics. All places in the same time zone is the same for us. What makes Taiwan the preferred destination in GMT+8, plus or minus one, is, as I said, the social interactions.
@@ -304,7 +304,7 @@ Essentially, train apprentices, AIs as pilots instead of having to wait for some
 Currently, autonomous driving is either low speed or in dedicated lanes that can already provide the 5G like connectivity. For massive amount of cars, random placed out of nowhere, 5G is still needed for the latency of mobility. Everything else, we can fiddle with WiFi and fiber and make it happen.
 
 ### Juergen Maurer:
-A huge amount of money is put into start ups. In TSIthey told me this is very well financed.
+A huge amount of money is put into start ups. In TSI they told me this is very well financed.
 
 ### Audrey Tang:
 Yes. The start up is extremely well financed in Taiwan.
@@ -313,7 +313,7 @@ Yes. The start up is extremely well financed in Taiwan.
 Which is a very good thing because this is a development everywhere.
 
 ### Audrey Tang:
-Yes. Taiwan has traditionally been all miss met when it comes to job anyway. A very large percentage, 70 percent or something, provided by miss mets. Miss mets partner naturally start ups. Large verticals, less naturally. The configuration of our miss met is predetermining a friendly to startup culture.
+Yes. Taiwan has traditionally been all SMEs when it comes to job anyway. A very large percentage, 70 percent or something, provided by SMEs. SMEs partner naturally start ups. Large verticals, less naturally. The configuration of our miss met is predetermining a friendly to startup culture.
 
 ### Juergen Maurer:
 If you put 100 in, how much would come out?
@@ -325,7 +325,7 @@ Yes, we do have some idea. The best answer is that they approve it. We encourage
 Basically, we want to get this idea of fail fast and provide post mortems and contribution to the ecosystem. When you fail, you fail in front of everybody. Everybody learns something because of your failure instead of always having to be acquired or bought. We also encourage acquisitions but only when it makes sense, not randomly.
 
 ### Audrey Tang:
-Taiwan’s main attraction in startup scene is not particularly the ease of getting loans or the ease of getting your credit even before you release your product to being assured by the miss met fund or whatever. We have kind of pioneers, some of those designs, the e tree and things like that. Now pretty much everybody else has those designs as well.
+Taiwan’s main attraction in startup scene is not particularly the ease of getting loans or the ease of getting your credit even before you release your product to being assured by the SME fund or whatever. We have kind of pioneers, some of those designs, the e tree and things like that. Now pretty much everybody else has those designs as well.
 
 ### Audrey Tang:
 It’s still mostly the culture of not afraid to fail. That is the main strength. That can be compared more easily with Japan, which is still finding the normativity in their curriculum for a parent to not panic when their child decide to become an entrepreneur. They have a huge challenge to culturally solve for parents to acquiesce their children to be entrepreneurs.
@@ -349,10 +349,10 @@ The last Presidential Hackathon last year has more than 100 participants. All fi
 These are the new story we want to tell is that we found ways to work around the silos in the ministries and cross the local and national regulations. Many such attempts are met with enthusiasm by younger career public servants. The cabinet office in Tokyo is also trying to do something like that lately.
 
 ### Audrey Tang:
-I just visited Tokyo and met with people from the cabinet office. They say all the elderly states people are now giving more free reign to the young reformists in the career public service to try to come up with some kind of cross silo innovation reaching. I don’t know how well they’re going. At least there is public signals to that direction, which is new.
+I just visited Tokyo and met with people from the cabinet office. They say all the elderly states people are now giving more free rein to the young reformists in the career public service to try to come up with some kind of cross silo innovation reaching. I don’t know how well they’re going. At least there is public signals to that direction, which is new.
 
 ### Juergen Maurer:
-I saw that in theopen data index, Taiwan is on top.
+I saw that in the open data index, Taiwan is on top.
 
 ### Audrey Tang:
 Yes, but they stopped compiling that last year. We’ve been on top for two years while it’s there.
@@ -379,13 +379,13 @@ For these issues, they’re actually kind of willing to participate in the circu
 Still, most of AI cutting edge research is open source. That’s also because they hoard the data but not the algorithm. They’re perfectly happy to publish all the algorithm but not necessarily the data.
 
 ### Juergen Maurer:
-Every country has always the fear that too much information isiphoned off by somebody else.
+Every country has always the fear that too much information is siphoned off by somebody else.
 
 ### Audrey Tang:
 That’s what I don’t understand. Unlike oil, when you copy data the original copy is still there. It’s additive. It’s intangible. You don’t take anything away by sharing data. You can’t siphon off data. The original copy is still there.
 
 ### Audrey Tang:
-That’s because people connect AI directly to job loss instead of job reorganization or re architecting. That’s, again, why Taiwan’s missing based innovation model works. People can plainly see that you don’t lose job because of AI. You do have to re engineer your jobs to be co pilots with AI, essentially.
+That’s because people connect AI directly to job loss instead of job reorganization or re architecting. That’s, again, why Taiwan’s mission-based innovation model works. People can plainly see that you don’t lose job because of AI. You do have to re engineer your jobs to be co pilots with AI, essentially.
 
 ### Audrey Tang:
 With less fear of job loss, there’s less cause to automation tax or universal basic income. That’s also a very popular response. The UBI movement in Taiwan is...There’s no pressing social tension for the UBI. UBI is like a litmus test. If someplace UBI has a huge advocacy, it means that there is some social tension around automation in particular sectors.
@@ -418,7 +418,7 @@ It’s OK to be open about electricity standards. We center AI on the sockets, a
 The algorithm can always be shared. It doesn’t really matter. It’s a call center anyway.
 
 ### Juergen Maurer:
-What do you think about the idea that some kind of setup like an AI related technologies be taxedinstead of people? The more robots you have in a company, the more tax the company should pay.
+What do you think about the idea that some kind of setup like an AI related technologies be taxed instead of people? The more robots you have in a company, the more tax the company should pay.
 
 ### Audrey Tang:
 It’s an interesting idea. It’s an interesting idea. As I said, it often reflects a social tension around job displacement by automation.
@@ -460,10 +460,10 @@ This one I think it’s called index. They needed to manually turn the parameter
 Then they take these lessons away from their industry and become alums or teachers to the next batch who want to then spread this innovation to other SME industries and so on. It’s a rolling alum system. There’s huge amount of classes that’s going on. This is why I’m really optimistic in that you can see not only the code and the foundational infrastructure technologies, it’s democratized.
 
 ### Audrey Tang:
-It’s the experience of integrating AI into miss mets that is being democratized. They can often take it to increase their job mobility for sure. It also make horizontal integration much easier than previously. They now all talk through the same language that is data.
+It’s the experience of integrating AI into SMEs that is being democratized. They can often take it to increase their job mobility for sure. It also make horizontal integration much easier than previously. They now all talk through the same language that is data.
 
 ### Audrey Tang:
-I think in five years or so we’re going to see the miss mets still going strong. AI would have helped the horizontal integration that were previously impossible or very costly into general purpose partnerships not limited to within Taiwan but also internationally.
+I think in five years or so we’re going to see the SMEs still going strong. AI would have helped the horizontal integration that were previously impossible or very costly into general purpose partnerships not limited to within Taiwan but also internationally.
 
 ### Juergen Maurer:
 Awesome.
@@ -535,7 +535,7 @@ That’s right.
 What are the best areas for German and Taiwan to cooperate in AI?
 
 ### Audrey Tang:
-Lots of things. You can attend the presidential hackathon. We’re having a semi permanent relationship with New Zealand now, because they have a very similar program of three months of gov tech tech accelerator program, where the private sector, or social sector, can tell the government that, &quot;This part need to be changed by AI, and I will show you how.&quot;
+Lots of things. You can attend the presidential hackathon. We’re having a semi permanent relationship with New Zealand now, because they have a very similar program of three months of govtech accelerator program, where the private sector, or social sector, can tell the government that, &quot;This part need to be changed by AI, and I will show you how.&quot;
 
 ### Audrey Tang:
 The government promises to implement the winning team’s idea into public service. In there, three months is right after our presidential hackathon. We’re just shuffling teams that won our hackathon to New Zealand.

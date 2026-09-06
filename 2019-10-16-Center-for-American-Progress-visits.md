@@ -151,7 +151,7 @@ This is the real root of the UberX conversation in 2015, which is the first time
 If you have a very divisive idea, you will not get agenda-setting power. People can still compete, but compete on getting more resonating ideas.
 
 ### Audrey Tang:
-For example, for the The Bowling Green Civic Assembly, it turns out that, no matter which partisan side they are on, everybody agreed that, instead of STEM, the arts should be part of the K–12 education, making it STEAM. This is what they have not yet done, but this is such a, I think the English term is a no-brainer, so that people can see that this is an area we should dedicate our attention to.
+For example, for the Bowling Green Civic Assembly, it turns out that, no matter which partisan side they are on, everybody agreed that, instead of STEM, the arts should be part of the K–12 education, making it STEAM. This is what they have not yet done, but this is such a, I think the English term is a no-brainer, so that people can see that this is an area we should dedicate our attention to.
 
 ### Audrey Tang:
 Instead of focusing our attention on those five divisive statements, we should just ratify whatever people think is important across the different aisles. That was the idea of keeping the trolls at bay, basically: you can’t make personal attacks.

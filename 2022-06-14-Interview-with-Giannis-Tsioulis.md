@@ -331,7 +331,7 @@ I think this model really inspired many activists. I know personally many activi
 How did you manage in such a short term, almost something like 30 years to achieve social approval of these? In my mind, a lot of communities in Southeast Asia, they can be a bit super traditional. How did you achieve for them to accept all rights of queer people in general?
 
 ### Audrey Tang:
-That's where the 20 national languages come in. Because in the amiss nation is a matriarchy. In the Taiwan nation debt, our president shares the linage. The chief does not look at gender when choosing successors and so on. We are a transcultural nation that is comprised of many nations.
+That's where the 20 national languages come in. Because in the amiss nation is a matriarchy. In the Taiwan nation debt, our president shares the lineage. The chief does not look at gender when choosing successors and so on. We are a transcultural nation that is comprised of many nations.
 
 Each nation have a different gender stereotype, a different gender norm. When those norms co-exist we can then see that actually it's not about one tradition making sure other traditions do not get their expression, but rather how to word our legislation and our constitution so that we can pay respect to all the 20 or more different traditions, while making sure that the human rights is asserted.
 

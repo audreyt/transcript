@@ -12,7 +12,7 @@ Maybe first of all, first question if I may, what do you think, in your opinion,
 ### Audrey Tang:
 The number one reason was probably our SARS experience. Back in 2003, we've had, quite tragic, a lockdown of an entire hospital of the SARS epidemic. Taiwan suffered the most among our nearby jurisdictions.
 
-We set up not just a legal structure for the central epidemic command center, the Communicable Disease Act, and so on, but everyone who is above 30 years old remembers SARS. This time around, we understand that if you don't do our quarantine, contract tracing, mask wearing, we will go back to the bad old SARS days. I think that's the number one reason.
+We set up not just a legal structure for the central epidemic command center, the Communicable Disease Act, and so on, but everyone who is above 30 years old remembers SARS. This time around, we understand that if you don't do our quarantine, contact tracing, mask wearing, we will go back to the bad old SARS days. I think that's the number one reason.
 
 > (pause)
 
@@ -192,7 +192,7 @@ Yeah. Another human rights situation occurs when people...As part of this contac
 
 It became an overarching data collection for personal data. It was not very clear that they would delete it after 28 days. The CECC explicitly changed the name from 實名制, real name policy to 實聯制, real contact policy, in a sense that the venue do not have a right to ask the customers to write their full name or any identifying name.
 
-You can just write a nickname, you surname, or really anything. As long as there is some way, an email or phone number, that can notify you where there is a local outbreak in the venue. The venue must delete that after four weeks. They must not collect unnecessary personal data.
+You can just write a nickname, your surname, or really anything. As long as there is some way, an email or phone number, that can notify you where there is a local outbreak in the venue. The venue must delete that after four weeks. They must not collect unnecessary personal data.
 
 In 2021, we also saw that many third party providers online and many other technologies, again, collected much more data than necessary, when people do not want to use pen and paper anymore because the risk of community infection is higher in 2021 than 2020.
 
@@ -228,7 +228,7 @@ The CDA, the Communicable Disease Act, was very clear on that. The human right v
 
 There's no compensation. There's no habeas corpus. In the short quarantine, which I personally went through, it's not like that. I know from the very beginning it was just going to be seven days. I know from the very beginning that there will be full coverage of the cost involved, including the saliva based test and things like that.
 
-For people who have to be quarantined despite they're not a returning visitor or an infected person, but just someone who is a close family member or listed as a contact, those three days quarantine you eluded to, there are NT $1,000 per day to compensate for their loss of productivity. There's still a compensation.
+For people who have to be quarantined despite they're not a returning visitor or an infected person, but just someone who is a close family member or listed as a contact, those three days quarantine you alluded to, there are NT $1,000 per day to compensate for their loss of productivity. There's still a compensation.
 
 Finally, there's always habeas corpus if you feel that you have been misidentified. I think it's pretty proportional.
 
@@ -279,7 +279,7 @@ This time around, if Taiwan was part of WHO in 2019, December, [laughs] then eve
 The same with vaccines? You expect maybe more cooperation in this area as well?
 
 ### Audrey Tang:
-We're a party of COVAX. In that sense, we are part of this international network. I understand the WHO sponsors, for example, the solidarity studies of the Taiwan home grew Medigen in the hope that we can distribute it more widely to give out our vaccines to help the world. In that sense, we're part of this system.
+We're a party of COVAX. In that sense, we are part of this international network. I understand the WHO sponsors, for example, the solidarity studies of the Taiwan homegrown Medigen in the hope that we can distribute it more widely to give out our vaccines to help the world. In that sense, we're part of this system.
 
 As I mentioned, this working level access is not the same as ministerial access so we was not part of the, for example, conversation about the fair distribution of vaccines before the COVAX was set up and Taiwan joined the COVAX. Including Taiwan more on the agenda setting stage is very important too, not just the working level.
 
@@ -299,7 +299,7 @@ It's very different way to get to zero covid.
 Yeah, it's a very different way, but did it play a role, the measures that Mainland China has imposed, were they part of the debate in Taiwan, in comparison to Mainland China? Of course, Taiwan has a much different society, so you don't follow...
 
 ### Audrey Tang:
-We really cannot do those top down lockdowns mostly because people find that very traumatic during the SARS days. Also, because we really trusted the citizens that they will make the MPIs work the mask wearing, and so on.
+We really cannot do those top down lockdowns mostly because people find that very traumatic during the SARS days. Also, because we really trusted the citizens that they will make the NPIs work the mask wearing, and so on.
 
 The PRC regime took the Wuhan response and made it replicable way. Whenever any place happened...There's a community outbreak, they immediately think of Wuhan, like motto, because there's something they're familiar with.
 

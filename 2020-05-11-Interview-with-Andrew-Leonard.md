@@ -734,7 +734,7 @@ Do you have a favorite meme of this period?
 Sure. My favorite meme is that of our prime minister. When the tissue papers are going out of stock, if people are panic buying, he filmed himself, wiggling his bottoms a little bit, and saying to people that we only have one pair of buttocks each in very large print.
 
 ### Audrey Tang:
-Of course, there’s never a meme without a payload. The payload is a table that says, “The tissue papers are made from materials from South America, and the medical masks are made out of materials locally. You do not need to panic by, but rather you can just make sure that you buy whatever you want because it’s no use stocking this anyway.”
+Of course, there’s never a meme without a payload. The payload is a table that says, “The tissue papers are made from materials from South America, and the medical masks are made out of materials locally. You do not need to panic buy, but rather you can just make sure that you buy whatever you want because it’s no use stocking this anyway.”
 
 ### Audrey Tang:
 This is how the meme looks like, literally. I’m sharing my screen. You can see even the format itself is shaped like a tissue paper box, with all the right decorations. This is our premier with his wiggling bottom that says, “We only have one pair of buttocks each,” and then a factual table that shows how the producer differ and the material is different.

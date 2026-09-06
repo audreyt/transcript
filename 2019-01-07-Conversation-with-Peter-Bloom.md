@@ -76,7 +76,7 @@ For me, I think participative democracy over the Internet is my kind of native t
 I’m not that unique in the sense that people mostly experimented with a lot of community level or Internet level consensus making before we actually get to elect for our own president about 30 years ago.
 
 ### Audrey Tang:
-In Taiwan representative democracy’s a new overly, but people take a lot of consensus based participative decision making processes that they are already very versed in, and just overlay on top of it representative democracy.
+In Taiwan representative democracy’s a new overlay, but people take a lot of consensus based participative decision making processes that they are already very versed in, and just overlay on top of it representative democracy.
 
 ### Audrey Tang:
 Which is why many people, what we call the civic hackers in Taiwan, are at once technologists, but also people working on democracy, because in Taiwan there’s no 200 years of democratic, republican, or federal tradition. For us it’s all the very same generation that gets to experiment with all these things.
@@ -174,10 +174,10 @@ Absolutely, and that’s a really interesting way, because what we’ve been loo
 Even if it’s something like creating a strike, you use WhatsApp to organize the strike, then what comes next? How do you engage in collective bargaining? How do you engage in a vibrant economic union, a co op, or on a more political sense?
 
 ### Peter Bloom:
-One of the things that is really interesting, as well, is in terms of 21st century solidarity. Traditionally this would mean this almost Orwellian...he went down to the Spanish Civil War, he fought, and he got shot. If also means the common term.
+One of the things that is really interesting, as well, is in terms of 21st century solidarity. Traditionally this would mean this almost Orwellian...he went down to the Spanish Civil War, he fought, and he got shot. It also means the common term.
 
 ### Peter Bloom:
-One of the things that I found really interesting, again, if I can be so bold, is I’ve seen in some of your other interviews is that while you, yourself, work within Taiwan, you and others in the civil hacker movement, also in more technological politics, and certainly with the anarchism, see solidarity as more of a sharing of knowledge and information, and learning best practices and things.
+One of the things that I found really interesting, again, if I can be so bold, is I’ve seen in some of your other interviews is that while you, yourself, work within Taiwan, you and others in the civic hacker movement, also in more technological politics, and certainly with the anarchism, see solidarity as more of a sharing of knowledge and information, and learning best practices and things.
 
 ### Peter Bloom:
 I’m wondering if you could talk a little bit about that, in terms of we seem to have a lot of different progressive technological movements coming, like from Momentum in the UK to our revolution in the US.
@@ -503,7 +503,7 @@ There’s human suffering, and there’s no ideological dispute that can prevent
 The 17 colors for once doesn’t make a distinction purely based on developed versus developing, or the people who can help versus the people who needs help. Rather, it says can we understand that there are 169 different important things. We know this because we consulted more than one million people around the world.
 
 ### Audrey Tang:
-We understand that these are not commeasurable, meaning that you can’t really trade one thing for another. We do understand that there are 17 roughly speaking communities worldwide that would consider one or two of these different goals as more important than the others. You choose to work on whatever you want to work on.
+We understand that these are not commensurable, meaning that you can’t really trade one thing for another. We do understand that there are 17 roughly speaking communities worldwide that would consider one or two of these different goals as more important than the others. You choose to work on whatever you want to work on.
 
 ### Audrey Tang:
 Regardless of whether you are developing or developed, you can still identify though the sustainable goals, one of the 17 tribes that you identify with. The shape of the 169 targets are shaped in the sense that it minimizes tradeoff and maximizes energy, in the sense that if you work on any of those goals, you automatically contribute to the other goals even if you don’t like their politics.

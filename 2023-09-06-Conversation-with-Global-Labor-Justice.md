@@ -259,7 +259,7 @@ Then we went to the city of Barcelona, which is a very, was, a very progressive 
 Then as you know, there is a U.S. trade and Taiwan initiative.
 
 ### Audrey Tang:
-21th Century Trade? We're part of that too.
+21st Century Trade? We're part of that too.
 
 ### Valery Alzago:
 Of course, of course you're part of that too. You are the reason.
@@ -274,7 +274,7 @@ One is the labor rights and one is the migrants within that. And so we, you know
 
 We then also had to do our part in the U.S., and so we went to visit the U.S. trade representatives and people in charge of the negotiation to talk about why we needed to make sure that in the language there was a provision to enable fisher's rights and communication, and see for monitoring and enforcing at the vessel level.
 
-We've been pushing hard, and you can see we also talked to the U.S. Deputy Undersecretary for Internal Affairs, Thea, who is a great champion really. She made her speech in Boston about this campaign, which is, you know, again, very amazing.
+We've been pushing hard, and you can see we also talked to the U.S. Deputy Undersecretary for International Affairs, Thea, who is a great champion really. She made her speech in Boston about this campaign, which is, you know, again, very amazing.
 
 The U.S. State Department was also, you know, they have a labor side. They were meeting with us.
 
@@ -360,7 +360,7 @@ And these are the vessels that we really want fishermen to have communication.
 
 That's the reason why we think mandatory is important, to make sure all of them can be under the sunshine, and we all see all of them, and at the same time also to level the playing field, because of course having Wi-Fi is an extra cost, and only for those fishery vessels that are doing the right thing to have Wi-Fi, it's basically putting the burdens on them by not creating this kind of a level playing field. And that's the reason why we think it's better to have them in the tree.
 
-And at the same time, I mean, we are not just pushing this in Taiwan, but we believe that by having a tree Wi-Fi, we can contribute to putting Taiwan out of that list of existing, we are at the moment, Taiwan's fishery products are on that list. So that can contribute to us to kind of get our reputations and names back by having that kind of a stronger policy.
+And at the same time, I mean, we are not just pushing this in Taiwan, but we believe that by having a free Wi-Fi, we can contribute to putting Taiwan out of that list of existing, we are at the moment, Taiwan's fishery products are on that list. So that can contribute to us to kind of get our reputations and names back by having that kind of a stronger policy.
 
 Also, as you have read, having Wi-Fi, we are asking for that kind of five major goals.
 
@@ -474,9 +474,9 @@ I just came back from Indonesia after Johnson and Rob. I went to a joint meeting
 
 Of course, we are not part of ASEAN, but I am the only one from Taiwan to join the meeting. I presented in the workshop to present the fishing condition in Taiwan. That is a panel, so I am one of the speakers.
 
-Actually, everyone is concerned about the fishing condition. Taiwan is one of the biggest receiving countries of migrant fishermen. A lot of people in the world know the condition is not good. False labor and human trafficking is a very common issue. I think all of us, we are all keen to eradicate this reputation.
+Actually, everyone is concerned about the fishing condition. Taiwan is one of the biggest receiving countries of migrant fishermen. A lot of people in the world know the condition is not good. Forced labor and human trafficking is a very common issue. I think all of us, we are all keen to eradicate this reputation.
 
-I think Wi-Fi is a very key thing. From the US side, I think, aside from the description of the TIP report, and also some sanctions, there is NOAA, the National Oceanic and Atmospheric Administration. They also highlighted nine countries. Taiwan is one of them, who has the bad records of IUU and false labor. They specifically highlighted China and Taiwan as the problem of false labor. This is really very bad for us.
+I think Wi-Fi is a very key thing. From the US side, I think, aside from the description of the TIP report, and also some sanctions, there is NOAA, the National Oceanic and Atmospheric Administration. They also highlighted nine countries. Taiwan is one of them, who has the bad records of IUU and forced labor. They specifically highlighted China and Taiwan as the problem of forced labor. This is really very bad for us.
 
 The FAA, the Fisheries Agency, often said that we have to see if there is any common practice in other countries. Maybe it is not compulsory yet, but there are some good practices we can see.
 
@@ -659,7 +659,7 @@ So what do you think? [laughter]
 We will need to work with FA to understand what they mean by “using satellite services” and “domestic telecommunications law”. Right? Like these words.
 
 ### Mina Chiang:
-Right now, it's in Kaohsiung and in other providers. In Taiwan, like Inmarsat, Eutelsat, and Iridium, these are the three major technologies that are available for Taiwanese agencies. Neither Chunghwa Telecom nor other private companies are acting as distributors for Starlink services. So vessel owners can’t purchase it in Taiwan; they have do it abroad.
+Right now, it's in Kaohsiung and in other providers. In Taiwan, like Inmarsat, Eutelsat, and Iridium, these are the three major technologies that are available for Taiwanese agencies. Neither Chunghwa Telecom nor other private companies are acting as distributors for Starlink services. So vessel owners can’t purchase it in Taiwan; they have to do it abroad.
 
 ### Audrey Tang:
 We understand that. As we’ve mentioned earlier, we have some partners who have already tested the satellites abroad. They are also from the Republic of China. So of course, if it’s illegal to use Starlink outside of Taiwan, then all these people would be breaking the law. But if they provide free Wi-Fi, are they providing telecommunication services? Is it a transfer? We need to think about that. We can confirm that with the FA, and they can give a clear explanation.
@@ -758,7 +758,7 @@ Yes. So, I mean, we can talk about the subsidy/universal service equation in a s
 
 So what I was talking about was controlling the terminal should go to the workers meaningfully in an ideal world. From my point of view, the vessel owner operating the hotspot is an acceptable intermediate solution. But because if they have access to OneWeb or Starlink terminals, then they may be willing to pay just so that they can watch Netflix or whatever, right? So, the intermediate step is a good first step. I'm not saying that we bypass this step. Okay, first point.
 
-Second point, I think currently the terminals are smaller and smaller, and so you mentioned it's difficult for a phisher to install and to operate. But for many, this is already so small that it is just a laptop size or even smaller, like a small tablet. And so just like a Wi-Fi hotspot that you purchase when you go to some airport abroad, right? You'll have this small tablet thing that just shares Wi-Fi and nothing more. So, this form factor, I don't think it's harder to use than a phone. So, that’s my second point.
+Second point, I think currently the terminals are smaller and smaller, and so you mentioned it's difficult for a fisher to install and to operate. But for many, this is already so small that it is just a laptop size or even smaller, like a small tablet. And so just like a Wi-Fi hotspot that you purchase when you go to some airport abroad, right? You'll have this small tablet thing that just shares Wi-Fi and nothing more. So, this form factor, I don't think it's harder to use than a phone. So, that’s my second point.
 
 And third point is that in the next few years, it will be part of the phone. So, iPhone 14 already has the way to connect to satellites. Android 14 soon will have that capability. Within a couple of years, if you don't insist on very high bandwidth video, and just use it for phone calls and pictures, the newer phones will already have that.
 

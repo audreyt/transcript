@@ -30,7 +30,7 @@ I know.
 > (laughter)
 
 ### Maeve Whelan-Wuest:
-I was looking through my notes of that meeting, and you brought up the point on democracy. I wrote down, "The foundation of democracy is public health," which was very presssing at the time. Talking about how fighting pandemics and here we are. [laughs]
+I was looking through my notes of that meeting, and you brought up the point on democracy. I wrote down, "The foundation of democracy is public health," which was very pressing at the time. Talking about how fighting pandemics and here we are. [laughs]
 
 ### Audrey Tang:
 We talked about quarantine, the vaccines of the mind -- all in a metaphoric sense -- and then the pandemic happened.
@@ -105,7 +105,7 @@ If they are tied together, then you have to change also the referendum act, not 
 Yeah, to make sure you have both.
 
 ### Audrey Tang:
-That's right, to make sure that the same loophole doesn't exist in the upcoming referendum/election. Of course, if people choose at the end to continue having alternate years, then that's one last thing to worry about.
+That's right, to make sure that the same loophole doesn't exist in the upcoming referendum/election. Of course, if people choose at the end to continue having alternate years, then that's one less thing to worry about.
 
 ### Maeve Whelan-Wuest:
 Got it, because you don't have that issue.
@@ -173,7 +173,7 @@ Feel free to share the finalized version because it's finalized.
 Maybe there's another press launch, then the plan...
 
 ### Audrey Tang:
-Currently we're not scheduling a press event, mostly because for the administration side, there's something we already public committed to do. I like the LY side, which is quite innovative because there's nothing in the OGP per say that says that the open parliament plan needs to be published in conjunction with the administration. It's a new thing.
+Currently we're not scheduling a press event, mostly because for the administration side, there's something we already public committed to do. I like the LY side, which is quite innovative because there's nothing in the OGP per se that says that the open parliament plan needs to be published in conjunction with the administration. It's a new thing.
 
 For the administration, everybody knows that we're doing this since at least a couple of years ago. There's less newsworthiness, but if you want to time a recent event with a conversation or some elaboration about some aspects within our administration's NAP, that would be great because the administration's NAP is all encompassing.
 
@@ -471,7 +471,7 @@ It's all about familiarity. The reason why the mask use is prevalent in Taiwan i
 
 The reason why mask collection at pharmacies works so well is because people already get their refilling prescriptions, drugs, and things like that at a local community pharmacy using their health card.
 
-Even the very old people don't need to learn new things when collecting the mask. We were able to do the digital fans based on the phone based location tracking for quarantine observation because people are already used to get earthquake warnings and flood warnings in exactly the same way without having to enable Bluetooth or installing an app.
+Even the very old people don't need to learn new things when collecting the mask. We were able to do the digital fence based on the phone based location tracking for quarantine observation because people are already used to get earthquake warnings and flood warnings in exactly the same way without having to enable Bluetooth or installing an app.
 
 This building our familiarity is the key to get the public health measures taken. If you invent a new system during the pandemic, that will not work because the privacy or civil security implications is unknown to the people. Therefore the conspiracy theories will have a field day.
 

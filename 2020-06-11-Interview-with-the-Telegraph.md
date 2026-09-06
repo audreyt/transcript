@@ -255,7 +255,7 @@ That’s right, because we don’t collect new data.
 The app is there, though, and you’d be prepared to use it. If there was community spread, my understanding was that the app would be used.
 
 ### Audrey Tang:
-I really think that would be the last resort. We probably will use every single venue that does not collect new data. When those prove to be ineffective, even after hand sanitation, physical distancing, and mask use, then maybe if our R-value is still above one, we may consider app-level contract tracing.
+I really think that would be the last resort. We probably will use every single venue that does not collect new data. When those prove to be ineffective, even after hand sanitation, physical distancing, and mask use, then maybe if our R-value is still above one, we may consider app-level contact tracing.
 
 ### Audrey Tang:
 But all the epidemiologists, I think the current consensus is that the measures that I just listed in Taiwan produce a R-value under one, which we have now empirical evidence because of the Dunmu fleet, the Panshi ship.
@@ -334,7 +334,7 @@ There’s many innovations like this, where you can see for sure that this is wo
 You know more than me, and I’m Scottish.
 
 ### Audrey Tang:
-Yeah, where the community collaboratively owns and controls the people of the community infrastructure. Digital infrastructure is a kind of infrastructure, so if it’s governed this way, then is has a chance. Otherwise, of course, legitimate concerns about state and capitalist surveillance would apply.
+Yeah, where the community collaboratively owns and controls the people of the community infrastructure. Digital infrastructure is a kind of infrastructure, so if it’s governed this way, then it has a chance. Otherwise, of course, legitimate concerns about state and capitalist surveillance would apply.
 
 ### Nicola Smith:
 Basically, there has to be a lot of trust between the population and its government.

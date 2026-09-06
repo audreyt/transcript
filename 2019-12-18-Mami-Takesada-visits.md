@@ -439,7 +439,7 @@ It’s not because people are healthy. \[laughs\] It’s because the environment
 In that case we have to make some more care in the education, in the elementary school, we have to take care more than before. That’s why we have to hire more teachers, but because the number of the children decreased, the government don’t want to use money for education.
 
 ### Audrey Tang:
-What is your vision? There’s two different visions. One is called full inclusion, which is we use assistive technologies and personnel to make sure that people with neuropath diversity can still learn with every other children and with different cognitive capabilities.
+What is your vision? There’s two different visions. One is called full inclusion, which is we use assistive technologies and personnel to make sure that people with neurodiversity can still learn with every other children and with different cognitive capabilities.
 
 ### Audrey Tang:
 The other is special education, which is making sure that people with similar conditions are learning very effectively together. I don’t know which direction are you working with.
@@ -754,7 +754,7 @@ There’s many people actually are fine with the law, because they’re heterono
 They’re not affected. They will say statement like, “We will not marry until our lesbian and gay friends can legally marry.” That is a real thing. A lot of people say that, including very prominent musicians and so on.
 
 ### Audrey Tang:
-That became a social pressure for the parliament to make regulation that changed the social norm, not just the name of it, that actually have, for example, a gender assessment procedure who are by design, there’s one more seat by the civil society, then the minister. They must listen to the civil society, because when they vote, the ministers lose.
+That became a social pressure for the parliament to make regulation that changed the social norm, not just the name of it, that actually have, for example, a gender assessment procedure who are by design, there’s one more seat by the civil society, than the minister. They must listen to the civil society, because when they vote, the ministers lose.
 
 ### Audrey Tang:
 This kind of design is what’s needed to enforce the social norm and not just the change in name. If you reverse this number, then you get a lot of changing name. The civil society is very weak, and the social norm don’t get changed.

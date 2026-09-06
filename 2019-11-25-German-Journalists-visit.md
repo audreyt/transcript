@@ -342,7 +342,7 @@ At the end of that year, the mayors who supported the occupy won. The mayors who
 I was one of the two people from the occupy movement that was reverse mentor to Minister Jaclyn Tsai at the time, at the end of 2014. We run quite a few consultations together, the UberX one, the Airbnb one, and so on.
 
 ### Audrey Tang:
-After working with the public service for two years, and trained maybe 1,000 or so care public servants, when Lin Chuan came around, he was the independent, nonpartisan premier of Tsai Ing-wen, the first premier of Tsai Ing-wen.
+After working with the public service for two years, and trained maybe 1,000 or so career public servants, when Lin Chuan came around, he was the independent, nonpartisan premier of Tsai Ing-wen, the first premier of Tsai Ing-wen.
 
 ### Audrey Tang:
 He just asked me quite naturally to find someone that could continue our work. I asked around, and nobody have too much time on their hands. I told Lin Chuan that, and then Lin Chuan asked me to maybe do it.
@@ -753,7 +753,7 @@ Now that we say we share the wisdom, we don’t share the raw data, and through 
 The statistics that can enrich the public good are shared, but the statistics are never part of the raw data. It’s not even de-identified, because there’s still raw data. It’s just de-identified. We only share the wisdom, the statistics that’s gathered from the personal data. That’s by law and regulation. It’s not just because I’m the digital minister.
 
 ### Paula Elise Landschek:
-A follow-up on the security before we go, we were visiting the ministry of defense, and they were telling us how there are lots of attacks on Mainland China. Do you think this cybersecurity will be big issue in Thailand? Are they capable of protecting the system?
+A follow-up on the security before we go, we were visiting the ministry of defense, and they were telling us how there are lots of attacks on Mainland China. Do you think this cybersecurity will be big issue in Taiwan? Are they capable of protecting the system?
 
 ### Audrey Tang:
 Yes, definitely.
@@ -867,7 +867,7 @@ What I’m saying is that both sides are very firm in this, and they maybe mutua
 For the world, I think that the norms in the Internet, for example the Great Firewall, has not blocked the GitHub, which is the largest open-source social network maintained by Microsoft now. The reason why is that they don’t want to cut themselves off the cutting edge AI research and the other scientific researchers.
 
 ### Audrey Tang:
-They did turn, for example, the Great Firewall into the Great Fire Canon that attacks GitHub whenever GitHub publishes something that they don’t want to see that really happened, but again not very effective.
+They did turn, for example, the Great Firewall into the Great Cannon that attacks GitHub whenever GitHub publishes something that they don’t want to see that really happened, but again not very effective.
 
 ### Audrey Tang:
 Because of that, I think there are still links in the global internetwork into the most balkanized intranets, because they don’t want to be left out of the global scientific regime. That is so far the case, and maybe will continue to this thin thread between the scientific community on this side and the scientific on the other end.

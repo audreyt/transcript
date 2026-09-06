@@ -141,7 +141,7 @@ Thank you.
 First of all, I have to explain the position of digital minister. In Taiwan, there is 32 ministries and councils, each with a chief commissioner or a minister. These, we call the 32 vertical ministries.
 
 ### Audrey Tang:
-By vertical, it means that it’s the usual come in and control, tree shaped bureaucracy hierarchy. Above the 32 vertical ministries, in the Executive Yuan itself, are nine horizontal ministers. I am one of the nine. The horizontal ministers, we don’t have any specific ministry assigned to us.
+By vertical, it means that it’s the usual command and control, tree shaped bureaucracy hierarchy. Above the 32 vertical ministries, in the Executive Yuan itself, are nine horizontal ministers. I am one of the nine. The horizontal ministers, we don’t have any specific ministry assigned to us.
 
 ### Audrey Tang:
 Rather, our work is in our mandate. For example, for me, it’s open government, it’s social innovation, it’s youth engagement, etc., to work horizontally with all the ministries related to that idea to find common values and to resolve their disputes.
@@ -233,7 +233,7 @@ In a different configuration of territories, if sometimes people rely on dial up
 That would not be embraced by the central government because it would decrease their democratic legitimacy. In Taiwan, as I said, broadband is a human right, even on the topmost of the Jade Mountain, which is almost 4,000 meters high, you have 10Mbps, you can do high quality video conference. Even in the Dongsha Island, you have 10Mbps.
 
 ### Audrey Tang:
-Anywhere in Taiwan you don’t have 10Mbsp, it’s personally my fault. You can talk to me. Because of that, we can then roll out those broadband based consultation mechanisms without worrying about the digital exclusion or the digital gap.
+Anywhere in Taiwan you don’t have 10Mbps, it’s personally my fault. You can talk to me. Because of that, we can then roll out those broadband based consultation mechanisms without worrying about the digital exclusion or the digital gap.
 
 ### Audrey Tang:
 Our methodology, frankly speaking, we run workshops in these areas and they’re mostly not countries. Because when the city government wants to make a decision, most of their citizens in the city do have broadband as human right, not as cheap as Taiwan, but at least affordable.
@@ -260,7 +260,7 @@ Some of you may have visited or one of their sibling websites such as socialarch
 The preprint archive is literally the cutting edge of research in these domains. Even after becoming the digital minister, I also publish our work on WeTaiwan and so on to the social archive as a contribution back to the community that I belonged to in 1994.
 
 ### Audrey Tang:
-My principle, I explained to her, that instead of taking 10 years of getting GRE, going to a lab, working as post doc or post post doc with the professors that I like to co author something together, I actually just replied to my favorite professors’ papers here.
+My principal, I explained to her, that instead of taking 10 years of getting GRE, going to a lab, working as post doc or post post doc with the professors that I like to co author something together, I actually just replied to my favorite professors’ papers here.
 
 ### Audrey Tang:
 To them, they don’t know I’m just 14 or 15 years old, for them, I’m just another contributor. We started working together immediately. This movement now is called open access, meaning that anybody, even without any university degree, should be able to access the cutting edge of research and contribute to the cutting edge of the research.
@@ -522,7 +522,7 @@ The second image is the Premier as he looks now. He said, “However, if you per
 If you get the flu, you don’t cough anymore, because you have already seen this very funny vaccine.
 
 ### Audrey Tang:
-That is our first line of defense, is just by being quick enough to trending rumors, to push out mimetic engineering products. That’s the first line of defense. The second line of defense is the social sector collaborative checking in the International Fact Checking Network and also crowdsourced community.
+That is our first line of defense, is just by being quick enough to trending rumors, to push out memetic engineering products. That’s the first line of defense. The second line of defense is the social sector collaborative checking in the International Fact Checking Network and also crowdsourced community.
 
 ### Audrey Tang:
 While this addresses the public social media like Facebook posts and Twitter, far more dangerous is end to end encrypted channels such as WhatsApp and LINE, which is the most popular here. Because both sites are encrypted, the state has no way to look into what’s trendy or not.
@@ -723,7 +723,7 @@ Yes.
 What about the Taiwan model do you think so far perhaps needs improvement, or what has to come next in this country to really build on what has happened?
 
 ### Audrey Tang:
-As I said, we have not actually run an election using this new model. We have been kind of cooking this model since 2017, but we cannot roll it out in the previous election because then it will be seen as an election manipulation effort. Then we announce it right after the previous election. This takes affect in the next one, and so we will of course make adjustments based on the actual data collected.
+As I said, we have not actually run an election using this new model. We have been kind of cooking this model since 2017, but we cannot roll it out in the previous election because then it will be seen as an election manipulation effort. Then we announce it right after the previous election. This takes effect in the next one, and so we will of course make adjustments based on the actual data collected.
 
 ### Audrey Tang:
 Before, the social media companies doesn’t even publish the data, so there is nothing to analyze, but now the situation is changing.
@@ -840,7 +840,7 @@ That is what party politic is. Having the referendum in the same day as the part
 Which is why we have now changed to have a mayoral election and a national referendum, presidential election, national referendum, mayoral election, and so on, so it falls on every other year. We have entire year for deliberation without getting captured by binary party politics.
 
 ### Audrey Tang:
-That’s the first observation. The second is that, in our current referendum act, it doesn’t handle constitutional changes. To declare du jour independence from what, from the ROC, maybe? \[laughs\] That would require a constitutional level change.
+That’s the first observation. The second is that, in our current referendum act, it doesn’t handle constitutional changes. To declare de jure independence from what, from the ROC, maybe? \[laughs\] That would require a constitutional level change.
 
 ### Audrey Tang:
 It would either require amending the constitution or making a new constitution, as in Iceland. Not very successfully, but as in Iceland. That is not covered by the Referendum Act, which strictly speaking, is one implementation of the direct democracy creation right, as guaranteed by the constitution.

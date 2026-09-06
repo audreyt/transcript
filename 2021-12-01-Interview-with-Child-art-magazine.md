@@ -134,7 +134,7 @@ The common values around those on the minister central government level are much
 
 That's the first benefit.
 
-Second, my social innovation work made sure that whenever there's a system or innovation that works better than the governmental one, then it's faster to adopt those ideas, as compared to the previous process where you have to essentially find a legislator to vouch for you via interpolation, or load someone in, which easily took months, if not years.
+Second, my social innovation work made sure that whenever there's a system or innovation that works better than the governmental one, then it's faster to adopt those ideas, as compared to the previous process where you have to essentially find a legislator to vouch for you via interpellation, or load someone in, which easily took months, if not years.
 
 In the social innovation way, it takes on average, maybe just a week, for a truly good idea to be amplified throughout the society and equally around the country wide scale.
 
@@ -171,7 +171,7 @@ Any plans for you to visit Washington?
 I actually visited Washington at the very beginning of the pandemic, when the Taiwanese people were already out buying masks; the people in DC were less alert at that time. So I was spreading a message of mask and preparation and so on in DC. That was early last year. I think nowadays after the vaccination, and I would like to thank the US for sending us the Moderna vaccines, they are very helpful. I think we will resume travel next year.
 
 ### Ashfaq Ishaq:
-I do look forward to the honor of meeting you face-to-face, in the near future. Perhaps we produce the World Children's Festival at the Nashville Mall in Washington every four years, so the next one will be in 2024. I would love to extend an invitation for you to come and address the children.
+I do look forward to the honor of meeting you face-to-face, in the near future. Perhaps we produce the World Children's Festival at the National Mall in Washington every four years, so the next one will be in 2024. I would love to extend an invitation for you to come and address the children.
 
 They can learn so much, from the brilliance that you have. It would be such an honor. Thank you for the wonderful work that you do and thank you so much for your time.
 

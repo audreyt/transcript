@@ -25,7 +25,7 @@ We are very casual.
 > (laughter)
 
 ### Audrey Tang:
-OK, I see this is a capella version of the sound effect.
+OK, I see this is a cappella version of the sound effect.
 
 ### Mat Dryhurst:
 Yes, exactly.
@@ -165,7 +165,7 @@ That’s right. I don’t even answer fork bombs, not even software ones.
 Anyway, the conservative part means that we respect the more than 20 national languages in Taiwan, the various traditions of the Austronesian indigenous, the ethnic Han. That includes Taiwanese Holo, Hakka, and many other Mandarin speaking communities.
 
 ### Audrey Tang:
-That is a transcultural setting where we make progress only by including all the 20 or more different cultural perspectives instead of making progress on one particular culture to the expense or to the detriment of the other culture. It’s a transcultural take on conservativism. That includes the Internet culture.
+That is a transcultural setting where we make progress only by including all the 20 or more different cultural perspectives instead of making progress on one particular culture to the expense or to the detriment of the other culture. It’s a transcultural take on conservatism. That includes the Internet culture.
 
 ### Holly Herndon:
 A transcultural take on conservatism, that’s a new phrase for me. That’s…
@@ -313,7 +313,7 @@ They show public infrastructure, literally a pet project by National Taiwan Univ
 People focus their energy on the issues that actually have a social impact, without being derailed into advertisement or surveillance capitalism tricks. That actually made the early warnings far more reliable.
 
 ### Audrey Tang:
-Later on when there’s this information or conspiracy theories around mask efficacy, around mass distribution, around the effectiveness of vaccines which we are now seeing there’s always a reliable crowd sourced community where people can participate in the fact checking, in the essentially journalism work by themselves without having to trap ourselves into the more addicted places, the more intense social corners of social media.
+Later on when there’s disinformation or conspiracy theories around mask efficacy, around mask distribution, around the effectiveness of vaccines which we are now seeing there’s always a reliable crowd sourced community where people can participate in the fact checking, in the essentially journalism work by themselves without having to trap ourselves into the more addicted places, the more intense social corners of social media.
 
 ### Holly Herndon:
 That’s fascinating. You’re mentioning that PTT was already in wide public use for a while when that’s happened to you, already had those rails. How long has it been in use publicly?
@@ -331,7 +331,7 @@ Wow. Was PTT also part of the infrastructure in the surgical mask data success t
 It’s good to spread the news about the availability of such masks. That’s the more pro social use of social media. Equally important is the g0v or the gov zero community, which was the umbrella term that we used during the occupy and now has also evolved into the idea of — you just mentioned it — forking the governments.
 
 ### Audrey Tang:
-It’s very simple. For example, take the national participation portal, join that gov.tw. You can change the O to a zero so join the g0v.tw and you get into the shadow government, which is more fun.
+It’s very simple. For example, take the national participation portal, join.gov.tw. You can change the O to a zero so join the g0v.tw and you get into the shadow government, which is more fun.
 
 > (laughter)
 
@@ -351,7 +351,7 @@ I was also part of the discussion, so I just took his idea to the head of cabine
 The premier gave a green light, and literally the next day, we started this three day sprint to make all the pharmacies, more than six thousands of them in Taiwan, report real time selling data of the ration medical mask so that people can see when they are queuing, that people came before them, swipe their national health card and stand the real time stock deplete by two by two, every time I see cards swapped.
 
 ### Audrey Tang:
-It builds public trustworthiness because people can verify them using participatory accountability. They don’t have to use a map because the same API also powers a chatbot or voice assistance for people with seeing difficulties. At the end of it more than one hundred different applications.
+It builds public trustworthiness because people can verify them using participatory accountability. They don’t have to use a map because the same API also powers a chatbot or voice assistants for people with seeing difficulties. At the end of it more than one hundred different applications.
 
 ### Holly Herndon:
 My mind is blown how fast things can move in Taiwan?
@@ -400,7 +400,7 @@ That’s wonderful, but as I said, there’s so many small interventions that co
 > (laughter)
 
 ### Audrey Tang:
-Yeah. Just as we find a pandemic was no lockdown, we need to find infodemic was no takedown. That’s because people above 40 years old, all remember the martial law and nobody want to go back to the martial laws.
+Yeah. Just as we fight a pandemic with no lockdown, we need to fight infodemic with no takedown. That’s because people above 40 years old, all remember the martial law and nobody want to go back to the martial laws.
 
 ### Audrey Tang:
 Anything that begins with censorship, even for hate speech or information manipulation by foreign actors, which tend to be the justification for censorship in other parts of the world still, they face a lot of resistance when anything that looks like a takedown or censorship as proposed by any legislator is just a non starter.
@@ -415,15 +415,15 @@ Outrage goes to revenge, discrimination, the beginning of a hate speech, that re
 We stumbled upon joy, our humor for this is a one way street. If you have left about something, it’s very difficult to go back and feel a sense of vengefulness or a sense of discrimination.
 
 ### Audrey Tang:
-The best comedians do this. If you feel like discrimination or vengefulness, is very much able for a well placed comedic effect to channel that into laughter and into joy. One case in point was in last April, we’ve had a conspiracy theory detected by people who volunteer to a long press on their enter encrypted channels called Line, but it’s like WhatsApp, to fly things as spawn essentially.
+The best comedians do this. If you feel like discrimination or vengefulness, is very much able for a well placed comedic effect to channel that into laughter and into joy. One case in point was in last April, we’ve had a conspiracy theory detected by people who volunteer to a long press on their enter encrypted channels called Line, but it’s like WhatsApp, to flag things as spam essentially.
 
 ### Audrey Tang:
-People voluntarily dedicate those misinformation as they were first starting to trend. We can see on the dashboard that there is an ongoing disinformation about, “The tissue papers materials are being confiscated by the state to make medical grade mask. We’ll run out of tissue papers soon,” which is really quite bad. This information is intentional. It started by tissue paper rich sellers, who will later find out.
+People voluntarily dedicate those misinformation as they were first starting to trend. We can see on the dashboard that there is an ongoing disinformation about, “The tissue papers materials are being confiscated by the state to make medical grade mask. We’ll run out of tissue papers soon,” which is really quite bad. Disinformation is intentional. It started by tissue paper rich sellers, who will later find out.
 
 > (laughter)
 
 ### Audrey Tang:
-People do go out and panic buy. Within the same news cycle within two hours, we wrote out the vaccine, the inoculation and vaccine reads, “Each of us only have one pair of bottoms. Then with the premier, the head of cabinet as showing his bottom weakling it a little bit.”
+People do go out and panic buy. Within the same news cycle within two hours, we rolled out the vaccine, the inoculation and vaccine reads, “Each of us only have one pair of bottoms. Then with the premier, the head of cabinet as showing his bottom weakling it a little bit.”
 
 > (laughter)
 
@@ -433,7 +433,7 @@ It’s a wordplay, because in Mandarin to stockpile twin sounds the same, is a h
 > (laughter)
 
 ### Audrey Tang:
-Then, once it’s really says in a payload in a large table, is that tissue papers are made out of South American materials, and medical grade masks being plastic products are actually made from domestic materials. There’s no way data nationalizing mass production could hurt the tissue paper production.
+Then, once it’s really says in a payload in a large table, is that tissue papers are made out of South American materials, and medical grade masks being plastic products are actually made from domestic materials. There’s no way that nationalizing mask production could hurt the tissue paper production.
 
 ### Audrey Tang:
 If we only said that as a public service announcement, nobody will share it, but a premier weakling his bottom is so hilarious so people shared that and very soon it has a higher R value than the conspiracy \[laughs\] theory. Just after a weekend, nobody shared the conspiracy theory anymore, and everyone is laughing about the bottom, like making himself literally the butt of the joke.
@@ -457,10 +457,10 @@ Do you see that approach scaling to other contexts? Because this is obviously a 
 Definitely, the Thai people, we run a couple of workshops together. I visited Chulalongkorn University before the pandemic, and still very interested in running a fact checking organization based on this principle of the fun of bringing comic relief \[laughs\] almost from the leading journalists and to health workers and so on, to fact check the ongoing rumors about the medicines, that simply doesn’t work.
 
 ### Audrey Tang:
-There’s a large need for this kind of fact checking that is also fun because it makes the journalists and the fact checkers work much more worthwhile because they know that they can reach far more people in an idea of notice and public notice or even notice in public performance, rather than notice and picked out because it would take things down, people don’t learn from it.
+There’s a large need for this kind of fact checking that is also fun because it makes the journalists and the fact checkers work much more worthwhile because they know that they can reach far more people in an idea of notice and public notice or even notice in public performance, rather than notice and takedown because it would take things down, people don’t learn from it.
 
 ### Audrey Tang:
-If you shared this as a notice in public, notice media competence material, then everybody can remix it for fun, for the littlest.
+If you shared this as a notice in public, notice media competence material, then everybody can remix it for fun, for the lulz.
 
 > (laughter)
 
@@ -589,7 +589,7 @@ Sure, it’s no longer a pilot. It’s a part of our public \[laughs\] infrastru
 In our concrete case, the Presidential Hackathon, we have more than 200 different project ideas, each realizing one or more of the global goals of the sustainable goals. Any professional jury probably wouldn’t have the expertise to look through them all, let alone see the synergies.
 
 ### Audrey Tang:
-We turn voting to our national preservation platform, The Joint Platform. In each person, there’s, I think, 10 million visitors to The Joint Platform. Each of them, if they want, can participate in the QV and get 99 tokens.
+We turn voting to our national participation platform, the Join platform. In each person, there’s, I think, 10 million visitors to The Joint Platform. Each of them, if they want, can participate in the QV and get 99 tokens.
 
 ### Audrey Tang:
 Each token can be spent a variety of voting strategies. One very simple strategy is to pick 99 projects you like and give them one vote each. Very few people do that. People often, as with Internet polls, really want to put everything into one single project that brought them here, which is just natural.
@@ -657,7 +657,7 @@ In Presidential Hackathon, we do have projects cross promoting. \[laughs\] If yo
 OK, that makes sense.
 
 ### Mat Dryhurst:
-We want to have Kevin from GitCoin on the on the podcast soon.
+We want to have Kevin from GitCoin on the podcast soon.
 
 ### Audrey Tang:
 Cool.
@@ -726,7 +726,7 @@ A poem, if you have it up, is called “Like a Larva Holding on for Transformati
 Sometimes they’re part of the evacuated teams. Then later on, they returned to Fukushima and rebuilt that place but with this headwind because the international community still remember it as a disaster zone of sorts.
 
 ### Audrey Tang:
-What I’m trying to get at is that this poem, to me, speaks of the continuity between generation and future generations, and about invariance to things that do not change. That’s throughout this transcultural journey of conservativism, like conserving the things that matter and pretty much ignoring things that didn’t matter.
+What I’m trying to get at is that this poem, to me, speaks of the continuity between generation and future generations, and about invariance to things that do not change. That’s throughout this transcultural journey of conservatism, like conserving the things that matter and pretty much ignoring things that didn’t matter.
 
 ### Audrey Tang:
 When you talk about connecting via machines — like time machines, time capsules, being a time machine — with future generations, I think about those invariants, about the things that we do that are going to still make sense seven generations down the line.
@@ -785,7 +785,7 @@ It reminded me of this project here in Berlin called terra0 where they’re atte
 We’ve also had conversations with the indigenous protocol and artificial intelligence working group about the need to respect the nonhuman. Along those lines, I was wondering, what are your ideas for how to bring the nonhuman entities into the democratic process?
 
 ### Audrey Tang:
-First of all, getting them votes that would be \[laughs\] a good first step. In a sense, we are expanding in a much more inclusive way to future adults. That is to say, the National Participation platform in Taiwan, the Joint Platform, already counts more than a quarter of the citizen initiatives by people who are not 18 years old.
+First of all, getting them votes that would be \[laughs\] a good first step. In a sense, we are expanding in a much more inclusive way to future adults. That is to say, the National Participation platform in Taiwan, the Join platform, already counts more than a quarter of the citizen initiatives by people who are not 18 years old.
 
 ### Audrey Tang:
 Meaning that people in the middle school, even in the primary school, they can set an agenda for policy making for the country. They don’t have to think that, “People will start to care about my voice, politician will care about my voice when I become an adult.”
@@ -863,7 +863,7 @@ This is where maybe I start getting a bit too psychedelic but…
 …I noticed there quite a great segue when we are talking about the idea of a kind of the avatar representative for the natural system like a forest. That’s a really cool intro to something I’ve been thinking about great deal.
 
 ### Mat Dryhurst:
-I was reminded off from seeing for example that you’ve been known to present quite often telematically through a hologram, which is very interesting, very pression, and obviously with COVID and remote work and remote presentation lightly becoming a reality.
+I was reminded of from seeing for example that you’ve been known to present quite often telematically through a hologram, which is very interesting, very pression, and obviously with COVID and remote work and remote presentation likely becoming a reality.
 
 ### Audrey Tang:
 A norm. Yes.
@@ -973,7 +973,7 @@ We don’t need to worry about the message integrity of the traditional statemen
 To dig in a little bit, if they’re in contrast, can we think of any application? The cartel application is an interesting one. Can you think of in your own scenario, any application where anonymity would actually be beneficial?
 
 ### Audrey Tang:
-Anonymity is beneficial when there is a power imbalance. For example, a whistleblower like Dr. LI Wenliang would probably benefit from pseudonymity. If he was in a place where there’s a lot of power imbalance between him and surveillance state, which didn’t at first want the idea of source resurfacing being distributed to the community.
+Anonymity is beneficial when there is a power imbalance. For example, a whistleblower like Dr. LI Wenliang would probably benefit from pseudonymity. If he was in a place where there’s a lot of power imbalance between him and surveillance state, which didn’t at first want the idea of SARS resurfacing being distributed to the community.
 
 ### Audrey Tang:
 No more pipe which is a student name on PTT enjoys that particular protection. We know she is a young doctor because she said as much, but we didn’t know who she is.
@@ -1029,7 +1029,7 @@ It’s missing all the applications where the values to the society cannot be mo
 Then I think there need to be more applications to storing dollar values for people to realize, “Hey, this actually works for other applications as well.”
 
 ### Mat Dryhurst:
-It’s true. It’s a great source of frustration for me. I’ve been very, very interested in participating in the theory community for a very long time and the asymmetry between the public perception of projects built on top of a theory as mostly being speculative financialization projects.
+It’s true. It’s a great source of frustration for me. I’ve been very, very interested in participating in the Ethereum community for a very long time and the asymmetry between the public perception of projects built on top of Ethereum as mostly being speculative financialization projects.
 
 ### Mat Dryhurst:
 The emphasis of people you mentioned earlier, like Vitalik, focusing a great deal of his time and energy and thinking about specifically mechanisms for the support of public goods.

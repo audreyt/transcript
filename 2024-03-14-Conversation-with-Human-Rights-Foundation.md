@@ -96,7 +96,7 @@ Yeah, that's really helpful to hear. It sounds like based on our conversation wi
 And I'm curious with the Freedom Online Coalition, have you seen a lot of those sort of multilateral organizations wanting to come to Taiwan and be a part of meetings here?
 
 ### Audrey Tang:
-Oh, yeah, definitely. Yes, and also because we have ratified the Universal Declaration of Human Rights and its convenants as our domestic laws, so although we're not a UN member yet, we have implemented laws for children's rights and disability rights and so on. So when it comes to review our annual plans, actually a lot of those UN experts and panelists and so on, they fly in as experts, like individual experts. We do the same for the Open Government Partnership, independent reporting mechanism as well.
+Oh, yeah, definitely. Yes, and also because we have ratified the Universal Declaration of Human Rights and its covenants as our domestic laws, so although we're not a UN member yet, we have implemented laws for children's rights and disability rights and so on. So when it comes to review our annual plans, actually a lot of those UN experts and panelists and so on, they fly in as experts, like individual experts. We do the same for the Open Government Partnership, independent reporting mechanism as well.
 
 So this is something that MOFA is very comfortable with because we have to do it every year for many, many topics. And so if, for example, Freedom Online Coalition or OGP or anything is following a similar protocol, then any international expert is kind of automatically trusted by MOFA as somebody who travels in to help us to convene.
 

@@ -260,7 +260,7 @@ As usual, when we look at any Polis conversation, we see that previously, if you
 If we just spend calories on these statements, we will never get the end of it. We made sure that there is what we call group-informed consensus. Meaning that no matter which side you are on, whether you’re for amateur or for professional mountaineering, everybody agrees on those things.
 
 ### Audrey Tang：
-We made sure that we hold ourselves to accounts to talk about the top 20 group-informed consensus across those five different aspects. We invite everybody who proposed this idea to resonate with everyone to the face-to-face meeting, which is also livestreamed, to make sure that we collectively build the agenda for opening up the mountains. Polis is alive and well.
+We made sure that we hold ourselves to account to talk about the top 20 group-informed consensus across those five different aspects. We invite everybody who proposed this idea to resonate with everyone to the face-to-face meeting, which is also livestreamed, to make sure that we collectively build the agenda for opening up the mountains. Polis is alive and well.
 
 ### Audrey Tang：
 We’re exporting the use of Polis to Philippines, to Thailand, to many different places as well. We also contributed because of the digital dialogue that we’re running with AIT, the de facto embassy of US in Taiwan, we also made sure that Polis have good bilingual capabilities and that everybody can leave statements in any language and it’s automatically translated to the other language.
@@ -278,7 +278,7 @@ Yeah, there are two necessary but not sufficient conditions. The first one is to
 It’s easy to get to the point where it’s maybe 80 percent of people enjoying broadband. In Taiwan, we made sure that we look at it a couple of years ago, and we have coverage maybe 98 percent. But we focus very hard on those final 2 percent.
 
 ### Audrey Tang：
-Now, even if you are on the topmost of Taiwan, which is the Yu Shan mountain, almost four kilometers high, or if you’re on the southmost Pacific islands of Dongsha and Taping, depending, your guaranteed to have 10 megabits per second, if you don’t, it’s my fault.
+Now, even if you are on the topmost of Taiwan, which is the Yu Shan mountain, almost four kilometers high, or if you’re on the southmost Pacific islands of Dongsha and Taiping, depending, you're guaranteed to have 10 megabits per second, if you don’t, it’s my fault.
 
 ### Audrey Tang：
 I think that kind of zeal is needed because otherwise the more you introduce on those online platforms, the more people can say, but you leave systematically these people behind. But now we can say, no, everybody is online.
@@ -305,13 +305,13 @@ I think this relationship between face to face and digital is also very importan
 Is there something like a highlight, a really good example that you can present to foreign governments or in you contact when you were telling about your vision? Is there something like your most favorite project that you like to present?
 
 ### Audrey Tang：
-Well, that depends on the level of the government. Right? If it’s national government, we have a comic book in six language that I can get you a copy, that talks about how people re really mad about our tax filing experience.
+Well, that depends on the level of the government. Right? If it’s national government, we have a comic book in six language that I can get you a copy, that talks about how people are really mad about our tax filing experience.
 
 ### Audrey Tang：
 But it’s through national petition, eventually people who care a lot and therefore blames a lot the government are invited into co-creation workshop, so now we’re end up with the tax filing system co-created with people that has 98 percent approval rate. That’s like a perfect story if you’re a national government.
 
 ### Audrey Tang：
-If you’re a municipal government, you don’t quite care about tax filing and then maybe we talk about some more municipal-riented projects.
+If you’re a municipal government, you don’t quite care about tax filing and then maybe we talk about some more municipal-oriented projects.
 
 ### Audrey Tang：
 But yeah, I’m happy to share the comic books with you.
@@ -356,7 +356,7 @@ The point here I’m making is that there are many what we can lower hanging fru
 It reminds me to the citizens of the people’s initiative in Switzerland. It’s only 10 percent of them are adopted, but they have a very important political and social impact. Not everyone, but even if they are rejected, so this, yeah.
 
 ### Audrey Tang：
-Yeah, I can see that also there is a kind of cross-generational and cross-cultural conversation aspect to it, because just like Switzerland, where a country with many different cultures and lineages, and what seems as natural for someone to propose may actually come across as not really acceptable for somebody from a different generation or from a different culture.
+Yeah, I can see that also there is a kind of cross-generational and cross-cultural conversation aspect to it, because just like Switzerland, we're a country with many different cultures and lineages, and what seems as natural for someone to propose may actually come across as not really acceptable for somebody from a different generation or from a different culture.
 
 ### Audrey Tang：
 This kind of collaborative meetings, the main value is just to get everybody on the same table and look at their common values despite their different positions.
@@ -684,7 +684,7 @@ For foreign people, even after they get a permanent certificate for residency, t
 Many systems, for example ordering movies, ordering train tickets, and so on, only check for this format, and not this format. Essentially what it did is that it made sure that the nationals can always get reservation, but for many services if you’re a permanent resident, but you’re of a foreign passport, you cannot use these systems at all.
 
 ### Audrey Tang：
-This is not only digital systems, but also physical systems. It’s not a law, there’s no law that says we must discriminate foreign people versus local people. It’s in the code, and the code is both represents the architecture like in software code, but also just the coded forms. Anything that is something that restricts the possibility of a flow of service is code. This is what Lawrence Lansing called an architecture. The architecture precludes these people form participating.
+This is not only digital systems, but also physical systems. It’s not a law, there’s no law that says we must discriminate foreign people versus local people. It’s in the code, and the code is both represents the architecture like in software code, but also just the coded forms. Anything that is something that restricts the possibility of a flow of service is code. This is what Lawrence Lansing called an architecture. The architecture precludes these people from participating.
 
 ### Audrey Tang：
 What we’re now doing is starting next year also, the foreign people would get a different numbering, what used to be AA would be A8, what used to be AC would be A9, for example. Because of this, they are now of the same code, and they can get a service. We do all this because the norm changed, and then there’s a market policy of being inclusive about people with residence, so we changed the code. It involves no change in law at all.

@@ -112,7 +112,7 @@ These were almost like civic remixes. Would that be how you’d describe it?
 At the time, civil disobedience as well. Because the dictionary that we downloaded said “all rights reserved.” Fortunately, Taiwan has Fair Use clause that says it should be used in proportion. The government publications can be used in a free way if your use is in proportion.
 
 ### Audrey Tang:
-This is actually controversial because we download each and every entry. What’s proportional about it? What we’re saying is we’re adopting a device that was just invented back then. It’s called Creative Commons Zero, meaning that we wave all our copyright and any nearby right to our remixes. We were like “All times zero is zero.”
+This is actually controversial because we download each and every entry. What’s proportional about it? What we’re saying is we’re adopting a device that was just invented back then. It’s called Creative Commons Zero, meaning that we waive all our copyright and any nearby right to our remixes. We were like “All times zero is zero.”
 
 ### Audrey Tang:
 We’re making zero profit out of this. We say we’re just a format converter for the Minister of Education. After two years of legal debate, they eventually agreed.
@@ -298,7 +298,7 @@ Conversation?
 Yeah.
 
 ### Audrey Tang:
-People who have voted sufficiently to be mapped on the visualization, that is to say, maybe seven or nine votes are more, numbers in the few thousands. People who merely have read, interacted, or voted casually is much more than that. People also watch the live stream knowing that we would talk explicitly only the agenda that is set by the consensus.
+People who have voted sufficiently to be mapped on the visualization, that is to say, maybe seven or nine votes or more, numbers in the few thousands. People who merely have read, interacted, or voted casually is much more than that. People also watch the live stream knowing that we would talk explicitly only the agenda that is set by the consensus.
 
 ### Carl Miller:
 It began with, “I love Uber. I hate Uber.” You had Uber drivers on one side and conventional taxis, vans, on the other, I presume. What were the consensus items which emerged?
@@ -346,7 +346,7 @@ Also, Taiwan is one of the first jurisdictions in Asia that has a good VAT/OECD 
 What’s the moral weight? Say vTaiwan produces a series of consensus items. How is it then coded into law? What’s the process? Is it your job to take that to Parliament?
 
 ### Audrey Tang:
-vTaiwan is more regulation than law. Only 10 percent or so of vTaiwan ends up in the Parliamentary floor. Mostly, it’s about regulations. That is the say, the law didn’t anticipate this. It doesn’t mean that the law doesn’t permit this, but how to make it work is the level of regulations?
+vTaiwan is more regulation than law. Only 10 percent or so of vTaiwan ends up in the Parliamentary floor. Mostly, it’s about regulations. That is to say, the law didn’t anticipate this. It doesn’t mean that the law doesn’t permit this, but how to make it work is the level of regulations?
 
 ### Audrey Tang:
 Teleworking is a great example. It doesn’t require changing of the Labor Act. It just need a regulation-level policy as guidelines for people to consider. All these levels is easy because the Parliament doesn’t need to really debate substantially unless they feel like.
@@ -418,7 +418,7 @@ It doesn’t scale? What do you mean?
 Basically, it has a limited transaction speed, rather like Bitcoin. There’s only so much bills that can be processed through this main chain of legislators. There’s only so much regulation that can be processed in each ministry using the traditional methods. When there’s an emergent issue that nobody really has firsthand experience of, it doesn’t scale well. That’s the only observation that I’m saying.
 
 ### Audrey Tang:
-Much as Bitcoin must have a kind of slight chain underlining their work, we’re basically offering a way to synthesize the rough consensus in the agenda setting stage before the government even consider how to respond. We have this collaborative governance infrastructure that plugs in into the democracy.
+Much as Bitcoin must have a kind of side chain underlying their work, we’re basically offering a way to synthesize the rough consensus in the agenda setting stage before the government even consider how to respond. We have this collaborative governance infrastructure that plugs in into the democracy.
 
 ### Audrey Tang:
 But once it becomes a government affair, it becomes a referendum topic in Taiwan. Of course, the traditional methods takes over. But it always was kind of an informed consensus as an input to that institution, so that people don’t feel accidentally polarized.
@@ -532,7 +532,7 @@ Would you see kind of vTaiwan style procedures being used much more often on man
 Now that the public service is well aware of this technology, and indeed, started its own vTaiwan-like network within the government, the Participation Office or the PO network, the culture is growing both within the public service and now, on some municipality like Tainan as well, as it is on the social sector.
 
 ### Audrey Tang:
-Because its protocol is the same, that is to say, collaborative governance and multi-stakeholderism, it’s very easy for people to just build ad hoc collisions, because people have very similar ideas and design thinking and things like that. The new curriculum also helps.
+Because its protocol is the same, that is to say, collaborative governance and multi-stakeholderism, it’s very easy for people to just build ad hoc coalitions, because people have very similar ideas and design thinking and things like that. The new curriculum also helps.
 
 ### Audrey Tang:
 In five years’ time, I think the participation that we see that is a surge of participations to this methodologies, especially after we wed this process into the e-petition, we see a flow of people are around 15 or 16 years old, participating very actively.
@@ -619,7 +619,7 @@ Yeah, I think it could be automated. Like this year we have a Presidential Hacka
 If you want to pass sentences, there’s really nothing in it for value judgment to enter, usually, it’s very mechanical. They basically write an AI that analyze the prosecutor’s document and to suggest a sentencing, thereby relieving the chore of the judges.
 
 ### Audrey Tang:
-Of course, there still need to be human review to be GDPR compliant, right? It’s not automated decisions, but it’s very mechanical and so all the chores are automated by the machine before the human considers the facts and writes their own opinion on it, which is not unlike how mission learning clusters people and let people discover that their true resonances.
+Of course, there still need to be human review to be GDPR compliant, right? It’s not automated decisions, but it’s very mechanical and so all the chores are automated by the machine before the human considers the facts and writes their own opinion on it, which is not unlike how machine learning clusters people and let people discover that their true resonances.
 
 ### Carl Miller:
 That vision, that would mean that, genuinely, some sovereignty would sit within that process as well as in a parliament and as well as in an executive. It’s almost like that’s another branch of government.
@@ -1366,7 +1366,7 @@ Democracy is already changing. It’s whether the democratic institutions go wit
 Does that mean that if democracy becomes irrelevant, fossilized, doesn’t reform, it could actually collapse before it’s reformed?
 
 ### Audrey Tang:
-I wouldn’t say that it’s quite collapsing. Right? The Occupy back in 2014 is not about collapsing the establishment, it’s about demo, demonstrating a way of governance that actually works more in real time for a specific topic that is across straight service and trade agreement.
+I wouldn’t say that it’s quite collapsing. Right? The Occupy back in 2014 is not about collapsing the establishment, it’s about demo, demonstrating a way of governance that actually works more in real time for a specific topic that is Cross-Strait service and trade agreement.
 
 ### Audrey Tang:
 The Occupiers don’t presume to do this for each and every subject, but for that particular subject, with 20 or so NGOs, it’s a viable demonstration that something new is possible. It’s the existential proof.

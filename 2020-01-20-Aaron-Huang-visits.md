@@ -192,7 +192,7 @@ The journalists and social sector.
 …with the journalists, social sector. Who is coordinating all of this?
 
 ### Audrey Tang:
-In a multi-stakeholder fashion, the mechanism itself, the multi-stakeholder model is doing so. There’s regular sharing events, there is a self-regulatory, what we call a norm package signed by the likes of Yahoo!, Google, Line, FFB, and PTT, and PTT in particular is interesting, because it’s an open source, open governance project. It’s a kind of social sector version of Reddit.
+In a multi-stakeholder fashion, the mechanism itself, the multi-stakeholder model is doing so. There’s regular sharing events, there is a self-regulatory, what we call a norm package signed by the likes of Yahoo!, Google, Line, FB, and PTT, and PTT in particular is interesting, because it’s an open source, open governance project. It’s a kind of social sector version of Reddit.
 
 ### Audrey Tang:
 They can also pilot many new ideas, and see if it does have an effect on disinformation disarmament. I would say that the social norm building is not particularly coordinated by any one single piece of political mechanism, it’s rather by creating a space of free exchange of ideas, and honest measurement of what worked and what not.
@@ -216,7 +216,7 @@ You can help in our mission in conforming to the social norm, but also open up y
 If people do so, but knowing that this will only be published in statistics after the election, there’s a lot of incentive for them to do so, if they know that this approach, their effort will be discovered within an hour by independent investigators and journalists, and they will face social sanction for doing so. They will refrain from doing so.
 
 ### Audrey Tang:
-FB agreed to publish the ads library as least as transparent and accountable as the Control Yuan, and do it in a real-time fashion. That’s like the honest advertisements push in the US, while Google and also Twitter simply say, “OK, so during the election we don’t run political and social advertisements.”
+FB agreed to publish the ads library at least as transparent and accountable as the Control Yuan, and do it in a real-time fashion. That’s like the honest advertisements push in the US, while Google and also Twitter simply say, “OK, so during the election we don’t run political and social advertisements.”
 
 ### Aaron Huang:
 It sounds like a lot of work is a whole society crowdsourcing model.
@@ -228,7 +228,7 @@ It’s norm-building.
 Yeah, norm-building. Now, I want to talk a little bit about the 2020 elections. I was wondering, what were you guys able to learn from the 2020 elections regarding Chinese misinformation and propaganda?
 
 ### Audrey Tang:
-First, decoupling referenda and election is a really good idea. In the previous mayor election, each of the referendum topic was a point of disagreement in the society. They automatically split the society in half, well-intentioned even. It’s not even disinformation. They provide natural opening for disinformation packages to sew discord and to decimate trust.
+First, decoupling referenda and election is a really good idea. In the previous mayor election, each of the referendum topic was a point of disagreement in the society. They automatically split the society in half, well-intentioned even. It’s not even disinformation. They provide natural opening for disinformation packages to sow discord and to decimate trust.
 
 ### Audrey Tang:
 Add to that that certain mayor candidates are also proposers of referenda. Adding to that that there’s no campaign on the election day, but there could be campaign on the referendum day for referenda, which is the same day.
@@ -382,7 +382,7 @@ Yeah, that’s right, that’s right. At least it inoculates them against future
 This is really interesting, and I haven’t seen this before. Could you talk a little bit about how you came to this delivery mechanism, like what were some of your ideas behind it?
 
 ### Audrey Tang:
-It’s a very old tradition. In the old Usenet days, the old Internet, before the World Web, there was a person that goes by the name Kibo, and there’s this whole practice of looking at each and every public post on the Usenet forums. Whenever anyone mentions Kibo, they go and make a reply, and so that’s called kibology.
+It’s a very old tradition. In the old Usenet days, the old Internet, before the World Wide Web, there was a person that goes by the name Kibo, and there’s this whole practice of looking at each and every public post on the Usenet forums. Whenever anyone mentions Kibo, they go and make a reply, and so that’s called kibology.
 
 ### Audrey Tang:
 One of my mentors, Larry Wall, inventor of the Perl language, we worked very closely for many years, do the same when he first invented Perl. He looks at any posting that involves any text processing using the previous generation of tools, and he jumps in and say, “You know, Perl is a better tool for this job.”

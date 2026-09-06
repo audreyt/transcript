@@ -321,7 +321,7 @@ They re-planned their help centers, and so on, around public transportation, wal
 This time around, we’re also working with the open contracting partnership, internationally, so that people who can also apply for international engagement could look at our procurement data, for example, to make sure that we’re even more accountable than we already are.
 
 ### Audrey Tang:
-Here are the related links if you’re interested in recommending other teams to participate, and have a change to demo to our president. I think the international track is still open for participation for another month or so. That’s the thing that we’re working on right now.
+Here are the related links if you’re interested in recommending other teams to participate, and have a chance to demo to our president. I think the international track is still open for participation for another month or so. That’s the thing that we’re working on right now.
 
 ### Prachi Vidwans:
 Very cool.
@@ -348,7 +348,7 @@ Oh, cool!
 Here is the link: [https://talkto.ait.org.tw/.](https://talkto.ait.org.tw/.) If you open that link, and scroll to the bottom, you can already see the hundreds of people who participates interest to sign in. You can also vote anonymously each other’s opinions, and so on.
 
 ### Audrey Tang:
-Very interestingly, it highlights not only the divisive issues, but also the majority opinions. Because there is no reply button, there is no way for ad hominem attacks, trolls, or whatever. Tt’s a very civil way to talk about common agenda. This is actually one of the most polarizing issue in Taiwan.
+Very interestingly, it highlights not only the divisive issues, but also the majority opinions. Because there is no reply button, there is no way for ad hominem attacks, trolls, or whatever. It’s a very civil way to talk about common agenda. This is actually one of the most polarizing issue in Taiwan.
 
 ### Audrey Tang:
 Because we have worked with many polarizing issues, we worked with like this technology in Taiwan has been worked with mainstream media. The continuation of death penalty following a random killing. It has been used for associating Singaporean style caning to drunk driving. Uber, also. Basically, all the divisive issues you can think of, we’ve deployed this technology to really good result.
@@ -366,7 +366,7 @@ That’s right. If you want to experiment with this, it’s free, as in free sof
 You can start a new conversation anytime.
 
 ### Sevim Abaza:
-In a way, because you don’t have these, I guess, trolls, there’s no way to sew divisiveness in the conversation.
+In a way, because you don’t have these, I guess, trolls, there’s no way to sow divisiveness in the conversation.
 
 ### Audrey Tang:
 That’s right. The insight here is just to take away the reply button. Once you take away the reply button, everybody becomes civil.

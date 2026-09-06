@@ -264,7 +264,7 @@ Instead of just reviewing and giving scores and so on, there’s some matchmakin
 This is important, because only then it will become a feasible and sustainable data collaborative, instead of having the social entrepreneurs carry all the cost. The same applies to the mask availability map, actually. By looking at the data for social good, that’s another initiative starting in the civil society and the g0v grants, we decide to elevate it to the presidential office.
 
 ### Audrey Tang:
-Dr. Tsai personally work with our investor-at-large, \[non-English speech\], to design the system. I’m merely the convener of the jury. I don’t give scores, but I make sure that the trilingual communication is a smooth as possible by essentially doing cultural translation between the three expertise.
+Dr. Tsai personally work with our investor-at-large, \[non-English speech\], to design the system. I’m merely the convener of the jury. I don’t give scores, but I make sure that the trilingual communication is as smooth as possible by essentially doing cultural translation between the three expertise.
 
 ### Kathrin Hille:
 If you had to explain to someone who is really not in these circles at all, like, I don’t know, someone who is much older and is not…
@@ -482,7 +482,7 @@ How do you create or bring this kind of radical transparency to those structures
 Indeed, the campaign donation and finance is now published as raw open data for all the parliamentarians. It’s a great norm that Facebook also adhere to in their advertisement library and things like that. If you look at some county councils, they don’t have that rule. They don’t publish as transparently as the Legislative Yuan, which is, I believe, the culture that you were alluding to.
 
 ### Audrey Tang:
-I don’t have a good answer, because we see participation offices, these kind of networks in, for example, Tainan City. That’s because Mayor Lai Ching-te, back in 2014, that was his campaign promise, so is Dr. Ko Wen-je in Tapei City. Nowadays, Cheng Wen-tsan in Taoyuan City also exclusively says that is the goal of that municipality.
+I don’t have a good answer, because we see participation offices, these kind of networks in, for example, Tainan City. That’s because Mayor Lai Ching-te, back in 2014, that was his campaign promise, so is Dr. Ko Wen-je in Taipei City. Nowadays, Cheng Wen-tsan in Taoyuan City also exclusively says that is the goal of that municipality.
 
 ### Audrey Tang:
 For the six municipalities, it’s easier mostly because they have a better resource for this cross-agency collaboration similar to the system that we have built on the central government level. For the counties that do not have these resources, I really don’t have an idea. In the longer term, we will see that people who are educated under the new K-12 curriculum take more matters to their hearts.

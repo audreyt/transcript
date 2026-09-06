@@ -31,7 +31,7 @@ Yes, I think, because privacy is less of an issue, because – in Switzerland, a
 It is not private to begin with.
 
 ### Hernâni Marques：
-Yes. I mean, att least, if you do it in a way that you sign against your commune, so at the very low level, and then they like…
+Yes. I mean, at least, if you do it in a way that you sign against your commune, so at the very low level, and then they like…
 
 ### Audrey Tang：
 Do a cryptographic verification of it.
@@ -103,7 +103,7 @@ No, you can do it now. That is the point. We think that – and we are also sayi
 Yeah, we are more about public money, public data, and API, because when we realized that when people publish code and we will rely on a proprietary database, or rely on an existing monolithic code base that – even though technically open – nobody can quite penetrate. It is like the early Mozilla code base. Being open source really does not mean much.
 
 ### Audrey Tang：
-We say, from the very beginning, that open source is good, and we use Linux Foundation standards, like Spedix to make sure that people can waive their warranties if they use Open Source. The more they use, the less responsibility of warranty you would have to take, so they are incentivized to use Open Source.
+We say, from the very beginning, that open source is good, and we use Linux Foundation standards, like SPDX to make sure that people can waive their warranties if they use Open Source. The more they use, the less responsibility of warranty you would have to take, so they are incentivized to use Open Source.
 
 ### Audrey Tang：
 What we are really requiring in procurement is that we say discriminating against robots is like discriminating against people with blindness. Open API is a machine-readable and writable part of a website. That is our way of doing it.
@@ -555,7 +555,7 @@ Yeah, yeah.
 …They even wrote in a half-year report – I think, last year – that the hardware is basically broken which we use. We should like create everything ourselves, or we just need to recreate. So, this is the question here.
 
 ### Hernâni Marques：
-So if governments, at least some parts of it, start to realize that we are lie doomed, in a way… at least, in the long run… or already now, in certain cases…
+So if governments, at least some parts of it, start to realize that we are like doomed, in a way… at least, in the long run… or already now, in certain cases…
 
 ### Audrey Tang：
 You are not talking about Climate Change now?
@@ -677,7 +677,7 @@ Yeah, I see what you are saying.
 Also, these MELANI guys, for example… what will they do? Because they are not really independent of the Swiss Secret Service, which is called NBD, “Nachrichtendienst des Bundes”. They are not really independent of that thing. If they know that the NBD has like zero-days on stock, and they can use them to enter into some Linux boxes or Windows systems, how do they go about it?
 
 ### Hernâni Marques：
-I mean, they would have the job to tell to several government agencies, “Sorry, we know that you can be attacked. There are lie zero-days with remote exploit capabilities and stuff like that.” So, that is like a contradiction there.
+I mean, they would have the job to tell to several government agencies, “Sorry, we know that you can be attacked. There are like zero-days with remote exploit capabilities and stuff like that.” So, that is like a contradiction there.
 
 ### Hernâni Marques：
 The other thing I mean – with mass surveillance in that sense – is that they can search like the data flows which go through fiber-optic cables, which pass through the borders outside Switzerland: they do that by forcing the ISPs to give them… well, yeah… the bulk data, basically… so that they can run selector searches over it.
@@ -1248,7 +1248,7 @@ You can treat them as an embassy. They will be happy because they are being trea
 It is actually a full diplomatic, government-to-government relationship. In some countries, there are petitions going on – for example, in Germany right now, that want the German government to do something like the TRA. Of course, we are not thinking that this will happen just because of the petition. Nevertheless it is good to have a public discussion about it.
 
 ### Audrey Tang：
-Because, indeed, with something like TRA, you can recognize Beijing as representing China while actually offering de facto full ambassarial relationship with Taiwan. That is not mutually exclusive. I do not know about the Swiss’ own politics but there also are countries like Bhutan, which specifically did not recognize either but do de facto with both. That is possible, too.
+Because, indeed, with something like TRA, you can recognize Beijing as representing China while actually offering de facto full ambassadorial relationship with Taiwan. That is not mutually exclusive. I do not know about the Swiss’ own politics but there also are countries like Bhutan, which specifically did not recognize either but do de facto with both. That is possible, too.
 
 ### Hernâni Marques：
 About the democracy project there, I also read a lot. I will ask things here about, what we would be very interested in, by the way, is if you, like say, next year, if you are in Europe around or if you can come specifically, we would like to have a civic tech conference where we have not just the activists and hackers around, as usual, but also officials from the government for…

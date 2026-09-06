@@ -140,7 +140,7 @@ I appreciate how you’ve broken them all down. The feasibility and the expense 
 If you are already, for example, reimbursing the travel for selected people to travel to Taiwan anyway that was the plan, right? Then, the same resource may be repurposed to get them decent equipment.
 
 ### Audrey Tang:
-It may be virtual reality through XR space, which is a form of hands free virtual reality eyeglass that can be put on for four hours or five hours at a time or to eye staging, which is, again, something that can capture a vicinity, a scenery, or an auditorium or whatever, and make sure that people can engage in a much more interactive high resolution way.
+It may be virtual reality through XR space, which is a form of hands free virtual reality eyeglass that can be put on for four hours or five hours at a time or to iStaging, which is, again, something that can capture a vicinity, a scenery, or an auditorium or whatever, and make sure that people can engage in a much more interactive high resolution way.
 
 ### Audrey Tang:
 These are expensive. You can’t deliver them to maybe more than twice of the people who you originally are going to prepare to pay air travel for. While it’s cheap, it’s only half as cheap as an air flight. \[laughs\]
@@ -152,10 +152,10 @@ How would we sustain engagement over time? As you were saying, in some ways…I 
 Facebook is something that people have had for coming up to a long time. Is it possible to be that consistent engagement which no longer then depends on the organization like it would? It becomes almost a space where people talk to each other.
 
 ### Audrey Tang:
-A social infrastructure of sorts. This is a great question. This is a question of digital public infrastructure of our time. Domestically, within the same culture there tend to be dominant forms of this ambience social communication. In Taiwan, we have the social sector LED PTT.
+A social infrastructure of sorts. This is a great question. This is a question of digital public infrastructure of our time. Domestically, within the same culture there tend to be dominant forms of this ambience social communication. In Taiwan, we have the social sector-led PTT.
 
 ### Audrey Tang:
-We also have the commercial sector LED, of course, Facebook, Instagram, and things like that. For a cross cultural communication, for example, when I engage with my counterparts in the Japanese community, I will have to use Twitter because Twitter is by far the dominant social media there.
+We also have the commercial sector-led, of course, Facebook, Instagram, and things like that. For a cross cultural communication, for example, when I engage with my counterparts in the Japanese community, I will have to use Twitter because Twitter is by far the dominant social media there.
 
 ### Audrey Tang:
 While one can design for a specific interaction patterns, what I found is that we end up having to build bridges. For one particular group of people to use Slack, but then build bots, that’s to say, the chat robots that syndicates the Slack conversation to a Telegram or to IRC or to some other forms of communication and share the same working documents like Google Docs and so on.
@@ -208,10 +208,10 @@ You’re muted, so maybe unmute yourself is a call to action. \[laughs\]
 Hi, yeah, sorry for that. I believe you have answered already a part of the question. I’m also thinking about, because normally, through my experience in Taiwan, usually we buy the model scheme for the company. It will cost down. I also worry about the privacy of our members, especially those ones doing movement and the cross continentals. I see that the data protection would be an important thing, but I also have the question mark, how can we balance to have our own app?
 
 ### SzuHui Huang:
-Hooba Ida is like a CCO, co creating for everyone. Can other NGO have the ability to keep the reason up for the local return? It’s quite a broad question, but, still, it’s one with a bigger question mark for me at the moment.
+Hooba Ida is like a CC0, co creating for everyone. Can other NGO have the ability to keep the reason up for the local return? It’s quite a broad question, but, still, it’s one with a bigger question mark for me at the moment.
 
 ### Audrey Tang:
-Just to check my understanding, there’s two requirements here. One is for, essentially, the ability to self host, to not be reliant on any particular wide label company because, when they get acquired, nobody knows where the privacy details go. To self host the communication infrastructure.
+Just to check my understanding, there’s two requirements here. One is for, essentially, the ability to self host, to not be reliant on any particular white-label company because, when they get acquired, nobody knows where the privacy details go. To self host the communication infrastructure.
 
 ### Audrey Tang:
 The second thing is about the more clear delineation of this is for private chat, and that is for public consumption, for public co creation, for the Creative Commons. Are there platforms that are more supportive of this kind of co creation in a safe space, rather than saying everybody goes to Wikipedia. We all know that’s not a very \[laughs\] good call to action.
@@ -220,10 +220,10 @@ The second thing is about the more clear delineation of this is for private chat
 People who are on Wikipedia already are on Wikipedia anyway. The first question, most of the large community spaces, such as MediaWiki, which powers Wikipedia, can already be self hosted, and without too much trouble. My suggestion would be host one yourself. If you need a wiki, MediaWiki is old fashioned, but it’s still serviceable.
 
 ### Audrey Tang:
-If you want a more modern forum, we usually use Discourse. Discourse can also be easily self hosted, and it’s quite conductive to crowd moderation. That is to say, when people step out of the code of conduct boundary, it’s very easy for moderators to notice and to gently nudge certain members back to civility.
+If you want a more modern forum, we usually use Discourse. Discourse can also be easily self hosted, and it’s quite conducive to crowd moderation. That is to say, when people step out of the code of conduct boundary, it’s very easy for moderators to notice and to gently nudge certain members back to civility.
 
 ### Audrey Tang:
-Discourse would be my primary suggestion if you want to move to the social production level. In Taiwan, there’s a community called FOReignMOSA for expats in Taiwan that is very successful. Discourse deployments, that you may want to check out how they operate it. Also, for real time communication, we, personally in our office, use Rocket.Chat.
+Discourse would be my primary suggestion if you want to move to the social production level. In Taiwan, there’s a community called Forumosa for expats in Taiwan that is very successful. Discourse deployments, that you may want to check out how they operate it. Also, for real time communication, we, personally in our office, use Rocket.Chat.
 
 ### Audrey Tang:
 There’s also pretty good responses about Rocket.Chat Lite, which is a carbon copy of Slack. There’s many, like Discord, that are more for ambient awareness, that could also be easily self hosted. WhiteLabel, too. If you want WhiteLabel, the Discourse app, or the Rocket.Chat app, and so on, there’s many community members in the g0v community that can help you to customize that.

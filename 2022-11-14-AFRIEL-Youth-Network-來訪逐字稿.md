@@ -27,7 +27,7 @@
 
 另外一部分，資訊權利法案有提到鼓勵政府機構針對特別訊息要主動披露，但是在實務上也非常少見。另外一部分我們想要尋求數位部的指導，是有關於公部門系統的數位化，其實有非常多的公眾問題可以得到解決，而且大部分大家申請的資料都是跟行政資料有關，也就是一些文件。數位化的部分可以解決很多問題，像經濟發展、杜絕貪污，增加公民代表的問責跟政治參與等等，但現在遇到的挑戰是，斯里蘭卡沒有身分證件的民眾將近 70 萬，有很多人手上沒有足夠的文件去證明土地所有權，如果想要到公家機關申請副本的話，有很多的案件整個過程是長達將近 20 年。通過資訊權利法案之後，如果提出申請，公家機關有 3 天的時間可以提供 acknowledgement，接下來有 14 天可以回答，如果這部分需要更多的時間來回應，也可以再延長 21 天。
 
-21 天結束之後，如果沒有得到滿意的回答或者是被拒件的話，通常是向資訊官的上級提出異議，有 14 天可以回覆，如果沒有的話，還可以向資訊權力委員會上訴，所以即便是在資訊權利法案通過之後，很多事情還是被拖延非常久。
+21 天結束之後，如果沒有得到滿意的回答或者是被拒件的話，通常是向資訊官的上級提出異議，有 14 天可以回覆，如果沒有的話，還可以向資訊權利委員會上訴，所以即便是在資訊權利法案通過之後，很多事情還是被拖延非常久。
 
 另外一部分是，斯里蘭卡的人口數其實跟臺灣的人口數相當，有 2,100 萬人，但是公務人員有超過 200 萬人，而且從遴選、升遷到調職都是高度政治化，所以我們跟決策者在倡議改革公務人員的遴選系統或者是制度，尤其是必須要大規模實行國家的考選制度；我們也在跟公民團體跟機構遊說，實施行政系統的數位化。
 
@@ -244,7 +244,7 @@ Yeah, because when we talk about high level things like open procurement, which 
 Of course, that's good for anti-corruption. It's also good for many other things.
 
 ### 唐鳳:
-My suggestion is to defer... We would't talk about e-petition either, which is another flagship project from the NDC.
+My suggestion is to defer... We wouldn't talk about e-petition either, which is another flagship project from the NDC.
 
 We start with something very humble, which is to minimize the IT budget to each and every ministry to deliver on their legally required public service purely as a conserving way.
 

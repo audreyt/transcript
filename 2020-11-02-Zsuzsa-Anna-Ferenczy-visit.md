@@ -125,7 +125,7 @@ Yeah. That would be the clip. If you could maybe speak a little bit about the Ta
 If you could tell me how you think Taiwan can promote the innovations in the Taiwan model, describe the model, and maybe identify some elements that can be picked out of the model, that can serve as a soft power tool for Taiwan.
 
 ### Audrey Tang:
-You mentioned the virus, but there’s two virus simultaneously. There’s virus of the body, which is SARS 2.0, and there’s virus of the mind, which is the info damning conspiracy theories and so on. These two are intertwined.
+You mentioned the virus, but there’s two virus simultaneously. There’s virus of the body, which is SARS 2.0, and there’s virus of the mind, which is the infodemic conspiracy theories and so on. These two are intertwined.
 
 ### Audrey Tang:
 When people buy into conspiracy theories, then they become less capable of acting in the way that helps the scientific knowledge that could prevent the epidemic in the first place.
@@ -386,7 +386,7 @@ One side of the coin is government trusting citizens. The other side is citizens
 Yeah. To give no trust is to get no trust. It’s very simple. We also thank the people who do not trust their government. For example, the quarantine measures we just talked about. There’s many people who are OK with it, but there were nine percent of people not OK with it. They found some parliamentarians who did a public hearing. We have no emergency state. Everything we do must be pre-approved by the parliament.
 
 ### Audrey Tang:
-In the interpolation, the Department of Cyber Security explained the digital fence very clearly and saying that after 14 days, there’s no constitution basis for the data to be kept, so you don’t have to worry about advertisements targeting you or whatever.
+In the interpellation, the Department of Cyber Security explained the digital fence very clearly and saying that after 14 days, there’s no constitution basis for the data to be kept, so you don’t have to worry about advertisements targeting you or whatever.
 
 ### Audrey Tang:
 Also, the telecoms have the data anyway, and they are processed within the telecom, just like the earthquake and flood warnings. Again, they are not shipping the data to any commercial vendor or anything like that.

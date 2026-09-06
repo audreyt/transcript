@@ -49,7 +49,7 @@ If anyone buys from this, procures continuous food, as we call it here – 續�
 We don’t use the word 剩食…
 
 ### Audrey Tang:
-Leftover food. You don’t say leftover, you say abundant, or things like that, if it’s integrated into the supply chain. If it’s more than $5 million anti-dollars per year, then I personally go out and give them an award. It’s what we call social buying power.
+Leftover food. You don’t say leftover, you say abundant, or things like that, if it’s integrated into the supply chain. If it’s more than $5 million NT dollars per year, then I personally go out and give them an award. It’s what we call social buying power.
 
 ### Audrey Tang:
 All this way is just to get the corporate think beyond CSR and think it as a sustainability strategy. That’s the movement that I am trying to just give some contribution to.
@@ -401,7 +401,7 @@ Anyone who can identify which specific SDG…
 Also, one thing for Lisa. Lisa, GFN this year, they has cooperate with the Walmart Foundation and have a project with the Harvard University. Would you like to mention that, as related to policy side?
 
 ### Lisa Moon:
-Yeah. Obviously, a big part of the way food banks, as you all know, work is that it’s important that food producers all along the supply chain are donating the project. There’s a number of policy barriers to that in many places.
+Yeah. Obviously, a big part of the way food banks, as you all know, work is that it’s important that food producers all along the supply chain are donating the product. There’s a number of policy barriers to that in many places.
 
 ### Lisa Moon:
 There’s liability concerns, of course. Is the food going to be potentially diverted for sale and end up on the gray market? There’s obviously food safety concerns. A lot of times, it is cheaper, in some places, to throw away food than it is to donate it.
@@ -571,7 +571,7 @@ Anything else you would like to address?
 Yeah, anything you would like to…
 
 ### Lisa Moon:
-I just want to thank you so much for your time and your readership. We feel so fortunate to have the Taiwan People’s Food Bank Association as part of our network. It’s just fantastic to just be here and learn more about the amazing culture here in Taiwan and the commitment to achieving the SDGs.
+I just want to thank you so much for your time and your leadership. We feel so fortunate to have the Taiwan People’s Food Bank Association as part of our network. It’s just fantastic to just be here and learn more about the amazing culture here in Taiwan and the commitment to achieving the SDGs.
 
 ### Audrey Tang:
 Once the atlas include Taiwan, or if you are translating into Mandarin Chinese, after the next round of members of parliament, maybe it will be time to start some education for the parliamentarians as well.

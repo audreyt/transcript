@@ -211,7 +211,7 @@ That's my height, 180 centimeters, and it's not particularly high, anyway. Essen
 
 What I'm trying to get at is that I'm not here to outsmart anyone. Rather, I'm designing this space where people can take care of themselves while taking care of future generation's interest.
 
-Whereas most of the shorter term design, linear GDP, and so one, are a fundamentally anti-social design that let people prioritize growth in the short-term at the expense of the environment and society and lonesome economy for the future generations.
+Whereas most of the shorter term design, linear GDP, and so on, are a fundamentally anti-social design that let people prioritize growth in the short-term at the expense of the environment and society and lonesome economy for the future generations.
 
 I seen as if not as individual-to-individual competing with any person currently alive, but I'm rather trying to make a space so that people do not have to think in competitive terms vis-a-vis future generations.
 

@@ -171,7 +171,7 @@ Yes, that’s about things the government itself does. This is about things that
 We don’t block the way, or we amplify the progress. We supply supplements, but we’d never take direct control. The annual social enterprise summit, for example, we are committed to do sponsorship up to 49 percent.
 
 ### Audrey Tang:
-The local people, the Children Are Us Foundation and Impact Hub Taipei, Social Entreprise Insights, and B Lab Taipei, they drive the agenda. We never control the agenda. That’s the plan here. The NCSD, by contrast, mostly what the government are committed to do.
+The local people, the Children Are Us Foundation and Impact Hub Taipei, Social Enterprise Insights, and B Lab Taipei, they drive the agenda. We never control the agenda. That’s the plan here. The NCSD, by contrast, mostly what the government are committed to do.
 
 ### Joe Hsueh:
 I see.
@@ -243,7 +243,7 @@ Then also, concrete cases that’s already working, which is a showcasing of loc
 The Taipei SE Square would be a very good example. Telling the other municipalities and other people in the country, if you do it this way, then social financing can actually work. They put a lot of emphasis on social innovation data, and evidence and knowledge sharing.
 
 ### Audrey Tang:
-Some structure like this is what I have in mind, but it may not be what you have in mind. I just want to collaborate a little bit of our expectations.
+Some structure like this is what I have in mind, but it may not be what you have in mind. I just want to calibrate a little bit of our expectations.
 
 ### Joe Hsueh:
 I haven’t really put too much thought into what that structure would look like. I think part of it will be co-created with the group.
@@ -513,7 +513,7 @@ It’s less of an issue then.
 They have their issues.
 
 ### Audrey Tang:
-For all practicalities, like when I visited Open Government Partnership, which is some structure very much like the GSG -- it’s a hybrid government, civil sector, multistakeholder thing -- I gave keynote in the Paris Open Government Partnership Summit with the title of Taiwn’s Digital Minister, but with Taiwan classified as a nonprofit.
+For all practicalities, like when I visited Open Government Partnership, which is some structure very much like the GSG -- it’s a hybrid government, civil sector, multistakeholder thing -- I gave keynote in the Paris Open Government Partnership Summit with the title of Taiwan’s Digital Minister, but with Taiwan classified as a nonprofit.
 
 ### Audrey Tang:
 So there is a nonprofit called Taiwan, and I’m its digital minister. Maybe that kind of minister, as in preaching.

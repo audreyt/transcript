@@ -262,7 +262,7 @@ The paid-advertisement thing was quite interesting.
 There’s quite a few political campaigns already declaring themselves on the Facebook targeted-advertisement archive. Twitter put a twist on it because they are not accepting political \[laughs\] advertisements anymore. Even for Twitter, we’re also seeing a proactive disclosure whenever they do detect a block of IP addresses’ origins from the PRC, that doesn’t need a VPN. It doesn’t need a proxy to attack Twitter.
 
 ### Audrey Tang:
-They not only closed their hundreds of thousands of accounts, they actually published a fact that these are dedicated computers within the PRC territory. That doesn’t need to bypass the Great Firewall because they’re designed for offense to sew discord around the Hong Kong case in Twitter.
+They not only closed their hundreds of thousands of accounts, they actually published a fact that these are dedicated computers within the PRC territory. That doesn’t need to bypass the Great Firewall because they’re designed for offense to sow discord around the Hong Kong case in Twitter.
 
 ### Audrey Tang:
 This revelation, which was corroborated by Facebook and Google, also resulted in Twitter publishing exactly, as I said, the individual raw data of the identities of these accounts. People in Taiwan, especially investigative journalists working with data scientists did a pretty good analysis of those public data sets provided by Twitter.

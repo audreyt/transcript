@@ -123,7 +123,7 @@ Yeah, I think if you look at Cortico, that's their main mode now, right? Their w
 
 So, I think that's very powerful. That really is very powerful. Because in Taiwan we have many governmental agencies that regularly run deliberative conversations that is set by the citizens or at least the stakeholders, but they're all just tallied on the same website through all the very different organizers. But almost always just in summary form, or summary form plus a, I don't know, YouTube video, live stream, but nobody has the time to, you know, review them all, right?
 
-One very good example is called Let's Talk. It's at youthhub.tw. It's just called Let's Talk, right? So, very year there's dozens and dozens…
+One very good example is called Let's Talk. It's at youthhub.tw. It's just called Let's Talk, right? So, every year there's dozens and dozens…
 
 ### Değer Turan:
 Can you copy it into the document?
@@ -325,7 +325,7 @@ But being here to be fair, I’ve noticed some Taiwanese exceptions…
 Please, I’m all ears.
 
 ### Brittney Gallagher:
-Like the public transit situation is up front like, it's all just so easy so I really just... Everyone 's so nice...
+Like the public transit situation is up front like, it's all just so easy so I really just... Everyone's so nice...
 
 ### Audrey Tang:
 You can take a nap in the park and don’t worry about your belongings.
@@ -334,7 +334,7 @@ You can take a nap in the park and don’t worry about your belongings.
 Yeah, it’s very refreshing.
 
 ### Değer Turan:
-I was at the jade market yesterday and I was looking at something and she says, give me one second, and she just left. A I'm there for like five minutes and it' just like all of our jade things are done. I'm like yeah, I see…
+I was at the jade market yesterday and I was looking at something and she says, give me one second, and she just left. A I'm there for like five minutes and it's just like all of our jade things are done. I'm like yeah, I see…
 
 ### Audrey Tang:
 Radical trust.
@@ -415,7 +415,7 @@ For example, I can very easily think about integration with Cofacts, that's anot
 Actually, I like how in Thailand there are religious communities is what I’m…
 
 ### Brittney Gallagher:
-Yeah, I think it's a very interesting avenue of driving into the religious communities of like fact checking. Because if you look at our if you take our country as a case study there, one of the biggest issues with facts is through religious communities and how certain ones are not seen in a specific way. And if you could start with certain groups who are more likely to operate on the same set of facts as most people, you could maybe start to influence the other fringe groups. And I think it's really interesting.
+Yeah, I think it's a very interesting avenue of diving into the religious communities of like fact checking. Because if you look at our if you take our country as a case study there, one of the biggest issues with facts is through religious communities and how certain ones are not seen in a specific way. And if you could start with certain groups who are more likely to operate on the same set of facts as most people, you could maybe start to influence the other fringe groups. And I think it's really interesting.
 
 ### Audrey Tang:
 Yeah. Also, in the US I believe people who are religious are also a bit more DEI diverse, right? So, like the idea of, you know, more inclusivity in the conversations and so on, religiousness is one kind of proxy indication of that.
@@ -430,7 +430,7 @@ They’re pretty chill.
 They’re very pleasant. They make a lot of sense. I’ve been to lots of temples in the last week and I’m like, this is beautiful. I get this, like I love this.
 
 ### Audrey Tang:
-Yeah, so our current premier Chen Jian-ren, John Hopkins-trained epidemiologist did say on formal interpellation in the LY that God does talk to him. So, that was part of the LY proceedings. Like everyone is very chill about his catholic beliefs.
+Yeah, so our current premier Chen Jian-ren, Johns Hopkins-trained epidemiologist did say on formal interpellation in the LY that God does talk to him. So, that was part of the LY proceedings. Like everyone is very chill about his catholic beliefs.
 
 Alright, any more ideas from DN?
 

@@ -79,7 +79,7 @@ Thank you for talking me through that. When you were first approached about bein
 I actually have three portfolios. I usually just introduce myself as digital minister in charge of open government, social innovation, and youth engagement. The thing about without portfolio is without fixed portfolio. This portfolio may at any time change, but at the time, it’s these three that I’m working on.
 
 ### Audrey Tang:
-Every other horizontal minister – we have nine – each one works on different shifting emergent issues. For me, its social innovation, open government, youth engagement.
+Every other horizontal minister – we have nine – each one works on different shifting emergent issues. For me, it's social innovation, open government, youth engagement.
 
 ### Audrey Tang:
 The digital minister idea has a different feeling in Mandarin, because 數位政委 literally means a minister for plurality. Digital is many, like countably many. It also means several. It also means pluralism. There is a lot of language games that you can play with this.
@@ -279,7 +279,7 @@ You can display it in your indigenous culture, using the ways that you’re alwa
 It means that everybody participate in the innovation ecosystem according to their own need in solving issues in open source we say scratch one’s own itch, I think that’s the open source ethos, right? \[laughs\]
 
 ### Audrey Tang:
-Scratching one’s own itch quickly became a social movement, because the great invention called hashtag, if you got the right hashtag, scratching one’s own itch very quickly became hashtag, I don’t know, #ClimateStrike or something like that. Because of that then it creates it’s own legitimacy theory.
+Scratching one’s own itch quickly became a social movement, because the great invention called hashtag, if you got the right hashtag, scratching one’s own itch very quickly became hashtag, I don’t know, #ClimateStrike or something like that. Because of that then it creates its own legitimacy theory.
 
 ### Audrey Tang:
 My main point is that if the public service still wants to monopolize on the purpose of public service, they usually are rendered obsolete very quickly. If we say we’re just making the ground for open innovation, and just fork as however you want, usually they stay relevant for far longer than the top-down designs.
@@ -404,7 +404,7 @@ If they endorse innovation and it fails, they absorb all the blame from their mi
 All my mechanism design in the public sector is designed, so that people in the career public service, especially the senior level, can always say Audrey made me do it when it fails. I just present their case all sort of international conferences in my slides, and just tell their story, give them a lot of credibility, bring them to UNGA if it works.
 
 ### Audrey Tang:
-They get the credibility, not their ministers, not me. If it fails, I absorb the risk, not their ministers. When designed his way, they’re much more willing to have junior officers to start driving the innovation agenda.
+They get the credibility, not their ministers, not me. If it fails, I absorb the risk, not their ministers. When designed this way, they’re much more willing to have junior officers to start driving the innovation agenda.
 
 ### Audrey Tang:
 For the junior officers, it’s mostly that they’re lonely. They are innovative, they see some issues, some solutions, but because of, I don’t know whether you have this in your government, but we have this idea of public service anonymity. Lower level, junior public servants are not even allowed to speak publicly about issues concerning their work.
@@ -521,7 +521,7 @@ The not-so-good thing, again, I think mostly is about public service anonymity. 
 That is something that is very common in the Commonwealth. I have many friends, that just goes from the UK, to Canada, to New Zealand, and so on, and just sharing their digital transformation and skill sets as they go, and as contractors and so on.
 
 ### Audrey Tang:
-There really is no such flexibility in Taiwan, maybe because we’re not part of Commonwealth. In any case, that wasn’t even designed in. Last year we got the civil service ministry to do a new interpretation that now allows this. I’m now also on the board of radical exchange of digital future society, thank to that new ruling.
+There really is no such flexibility in Taiwan, maybe because we’re not part of Commonwealth. In any case, that wasn’t even designed in. Last year we got the civil service ministry to do a new interpretation that now allows this. I’m now also on the board of radical exchange of digital future society, thanks to that new ruling.
 
 ### Audrey Tang:
 It’s not just me. Any public servant can now do that. The culture of doing a side job that enable you to connect more with the social sector, that then empower your main day job work by bringing new fresh perspective, that needs time to grow. That culture is not yet the norm in Taiwan.
@@ -599,7 +599,7 @@ What are the particular issues for transgender people in this sphere, and how sh
 The best thing of my work as a transgender in the cabinet, is that I didn’t receive special treatment, it’s all the same. That I think is the best I can say about Taiwan’s public service, is that people simply don’t care much. That’s also my experience in the early Internet community.
 
 ### Audrey Tang:
-When I entered Internet community in 1993, was 12 years old, I didn’t specifically mention any gender, and Internet community is fine with it. The computer, the algorithm, your compilers, don’t are about your gender. \[laughs\]
+When I entered Internet community in 1993, was 12 years old, I didn’t specifically mention any gender, and Internet community is fine with it. The computer, the algorithm, your compilers, don’t care about your gender. \[laughs\]
 
 ### Audrey Tang:
 What they care is your volunteer contributions, what are common values, not stereotypes or labels, those don’t even make any sense in the early Internet. There’s simply no bandwidth to transmit these kind of things.

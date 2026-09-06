@@ -148,7 +148,7 @@ Exactly. Also, another reason is that we never declare a state of emergency. Acc
 Whereas in many jurisdictions they declare a state of emergency, where the administration gets to do pretty much anything, and then the legislation post-approves it in a post hoc fashion, in Taiwan we never do that.
 
 ### Audrey Tang：
-Because of that, everything we do must be subject to the parliamentary interpelletion. Because of that, we don’t really want to collect new data, because any new data collection would go through this very lengthy process of parliamentary debate, so basically we reuse whatever we have.
+Because of that, everything we do must be subject to the parliamentary interpellation. Because of that, we don’t really want to collect new data, because any new data collection would go through this very lengthy process of parliamentary debate, so basically we reuse whatever we have.
 
 ### Kate O'Flaherty：
 What kind of data are you collecting that you’re using for things like contact tracing, for example? How do you collect the patient data and that sort of thing?
@@ -166,7 +166,7 @@ The digital fence is that very simple idea that the telecom already know through
 Because it’s not GPS, Bluetooth, or WiFi, the resolution is very coarse. Even in the most urban areas, it may be 15-meter radius. Because of that, we don’t know which room you are in, but we do know which district you are in.
 
 ### Audrey Tang：
-Because of that, the telecoms do not need to hunt that data to third party processors. They process it entirely within their own data center, and the SMS is sent in a format that very much resembles the advanced earthquake warnings and flood evacuation warnings or a forest fire or whatever that people are already accustomed to.
+Because of that, the telecoms do not need to hand that data to third party processors. They process it entirely within their own data center, and the SMS is sent in a format that very much resembles the advanced earthquake warnings and flood evacuation warnings or a forest fire or whatever that people are already accustomed to.
 
 ### Audrey Tang：
 They understand that when we send the SMS to the people in quarantine, and also to the health officers, that SMS has no way to, for example, track their email \[laughs\] or read their WhatsApp, because it’s not an app.
