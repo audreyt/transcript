@@ -16,7 +16,7 @@ Back in Taiwan and feeling pretty good. How are you doing?
 
 ### Georg Diez:
 
-I'm okay. I'm also good. I had a good summer. I'm in the countryside, just going back into town. And yeah, I've been working a lot. I don't know — I mean, you know, you're also involved in all these many activities, and these are complicated, exciting times. It's demanding. But thanks for taking the time for this. This is journalism, as I also used to do — and still do sometimes. This would be for [Die Zeit](https://www.zeit.de/index "DIE ZEIT. “DIE ZEIT | Nachrichten, News, Hintergründe und Debatten.” zeit.de, n.d.; first-party site of the German weekly, published in Hamburg by Zeitverlag Gerd Bucerius GmbH & Co. KG."), the German publication. Let's see if this works. Why is this not — I'm just checking whether the recording works.
+I'm okay. I'm also good. I had a good summer. I'm in the countryside, just going back into town. And yeah, I've been working a lot. I don't know — I mean, you know, you're also involved in all these many activities, and these are complicated, exciting times. It's demanding. But thanks for taking the time for this. This is journalism, as I also used to do — and still do sometimes. This would be for [Die Zeit](https://www.zeit.de/digital/2026-08/audrey-tang-digitalisierung-demokratie-zukunft-china), the German publication. Let's see if this works. Why is this not — I'm just checking whether the recording works.
 
 ### Audrey Tang:
 
