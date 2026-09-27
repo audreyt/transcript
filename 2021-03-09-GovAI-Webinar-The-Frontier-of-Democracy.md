@@ -1,5 +1,7 @@
 # 2021-03-09 GovAI Webinar: The Frontier of Democracy
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hEZQWFMipZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Allan Dafoe:
 
 Welcome. I’m Allan Dafoe, the director of the Center for the Governance of AI, which is organizing this talk series. We are based at the Future of Humanity Institute at the University of Oxford. We research the opportunities and challenges brought by advances in AI and related technologies, so as to advise policy to maximize the benefits and minimize the risks from advanced AI. Governance, this key term in our name, refers both descriptively to the ways that the decisions are made about the development and deployment of AI, but also the normative aspiration that those decisions emerge from institutions that are effective, equitable, and legitimate. If you want to learn more about our work, you can go to governance.ai.
