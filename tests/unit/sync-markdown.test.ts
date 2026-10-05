@@ -12,9 +12,10 @@ import {
   readCommittedWrite,
   readFileAtRef,
   requestWithRetry,
+  resolveBeforeSha,
   runSync,
 } from "../../scripts/sync_markdown";
-import { commitAll, createTempDir, initGitRepo, runBun, writeFile } from "./test-helpers";
+import { commitAll, createTempDir, git, initGitRepo, runBun, writeFile } from "./test-helpers";
 
 const REPO_ROOT = path.resolve(import.meta.dirname, "../..");
 const SYNC_SCRIPT = path.join(REPO_ROOT, "scripts/sync_markdown.ts");
@@ -308,6 +309,78 @@ describe("readCommittedWrite", () => {
     expect(readCommittedWrite(JSON.stringify({ error: "Service temporarily unavailable" }))).toBeNull();
     expect(readCommittedWrite(JSON.stringify({ success: false }))).toBeNull();
     expect(readCommittedWrite(JSON.stringify({ success: "true" }))).toBeNull();
+  });
+});
+
+describe("resolveBeforeSha", () => {
+  // Simulates a force push: `before` was on origin's main, then rewritten away.
+  function forcePushedRepos(): { clone: string; before: string; after: string; base: string } {
+    const origin = createTempDir();
+    initGitRepo(origin);
+    git(origin, ["config", "uploadpack.allowAnySHA1InWant", "true"]);
+    writeFile(origin, "a.md", "# a\n");
+    const base = commitAll(origin, "base");
+    writeFile(origin, "gone.md", "# gone\n");
+    const before = commitAll(origin, "later rewritten away");
+    git(origin, ["reset", "-q", "--hard", base]);
+    writeFile(origin, "a.md", "# a, edited\n");
+    const after = commitAll(origin, "rewritten head");
+    const clone = createTempDir();
+    // --no-local: a plain local clone hardlinks every object, dangling ones included.
+    git(clone, ["clone", "-q", "--no-local", origin, "."]);
+    return { clone, before, after, base };
+  }
+
+  test("passes through empty, zero, and present SHAs", () => {
+    const { clone, after, base } = forcePushedRepos();
+    expect(resolveBeforeSha("", after, clone)).toBe("");
+    expect(resolveBeforeSha("0".repeat(40), after, clone)).toBe("0".repeat(40));
+    expect(resolveBeforeSha(base, after, clone)).toBe(base);
+  });
+
+  test("fetches a force-pushed-away before SHA from origin", () => {
+    const { clone, before, after } = forcePushedRepos();
+    expect(() => git(clone, ["cat-file", "-e", `${before}^{commit}`])).toThrow();
+    const log: string[] = [];
+    expect(resolveBeforeSha(before, after, clone, undefined, (line) => log.push(line))).toBe(before);
+    expect(git(clone, ["diff", "--name-status", before, after])).toContain("gone.md");
+    expect(log.some((line) => line.includes("::warning::"))).toBe(false);
+  });
+
+  test("falls back to the after commit's parent with a warning when before is gone", () => {
+    const { clone, after, base } = forcePushedRepos();
+    const missing = "1".repeat(40);
+    const log: string[] = [];
+    expect(resolveBeforeSha(missing, after, clone, undefined, (line) => log.push(line))).toBe(base);
+    expect(log.join("\n")).toContain(`::warning::before=${missing} is unreachable`);
+  });
+
+  test("runSync survives an unreachable before SHA", async () => {
+    const { clone, after } = forcePushedRepos();
+    const output: string[] = [];
+    const code = await runSync(
+      {
+        API_ENDPOINT: "https://archive.tw/api/upload_markdown",
+        TOKEN: "secret",
+        GITHUB_WORKSPACE: clone,
+        BEFORE_SHA: "1".repeat(40),
+        AFTER_SHA: after,
+      },
+      ["--dry-run"],
+      { stdout: (line) => output.push(line) },
+    );
+    expect(code).toBe(0);
+    expect(output.join("\n")).toContain("PATCH");
+  });
+
+  test("CLI --resolve-before-sha prints only the SHA on stdout", () => {
+    const { clone, after, base } = forcePushedRepos();
+    const result = runBun(clone, SYNC_SCRIPT, ["--resolve-before-sha"], {
+      env: { GITHUB_WORKSPACE: clone, BEFORE_SHA: "1".repeat(40), AFTER_SHA: after },
+    });
+    expect(result.status).toBe(0);
+    expect(result.stdout.trim()).toBe(base);
+    expect(result.stderr).toContain("::warning::");
   });
 });
 

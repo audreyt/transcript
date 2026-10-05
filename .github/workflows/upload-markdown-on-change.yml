@@ -149,6 +149,18 @@ jobs:
         working-directory: sayit-hono
         run: bun install --frozen-lockfile
 
+      # After a force push github.event.before is not in this checkout; the
+      # sync job's resolver fetches it by SHA or falls back to after^.
+      - name: Resolve before SHA
+        id: before
+        env:
+          BEFORE_SHA: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.before_sha || github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          sha="$(bun scripts/sync_markdown.ts --resolve-before-sha)"
+          echo "sha=${sha}" >> "${GITHUB_OUTPUT}"
+
       - name: Bake Lanyang OG PNGs to R2
         working-directory: sayit-hono
         env:
@@ -156,7 +168,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           ALLOW_PROD_R2: 1
           REQUIRE_LANYANG_FONTS: 1
-          BEFORE_SHA: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.before_sha || github.event.before }}
+          BEFORE_SHA: ${{ steps.before.outputs.sha }}
           AFTER_SHA: ${{ github.sha }}
         run: |
           # CACHE_KEY_VERSION: bake-og-lanyang.ts fetches live https://archive.tw/version (no jq)
