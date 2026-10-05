@@ -14,6 +14,8 @@
  *   GITHUB_REF_NAME
  *
  * Pass --dry-run to print intended HTTP requests without sending them.
+ * Pass --resolve-before-sha to print only the usable before SHA (see
+ * resolveBeforeSha) for other jobs that diff BEFORE_SHA..AFTER_SHA.
  */
 
 import { existsSync, readFileSync } from "node:fs";
@@ -374,6 +376,59 @@ function readWorkspaceFile(filePath: string): string {
   return readFileSync(filePath, "utf-8");
 }
 
+/**
+ * Return a before SHA that `git diff` can use in this checkout.
+ *
+ * A force push (or a push deeper than the shallow checkout) leaves
+ * github.event.before absent locally, and `git diff before after` then dies
+ * with "bad object". Try, in order: the SHA as given; fetching it by SHA
+ * (GitHub serves rewritten-away commits until they are garbage-collected);
+ * and finally AFTER_SHA's first parent, with a warning that files changed
+ * only in the discarded commits need a catch-up workflow_dispatch.
+ */
+export function resolveBeforeSha(
+  beforeSha: string,
+  afterSha: string,
+  workspace: string,
+  git: (args: string[], cwd: string) => string = defaultGit,
+  log: (line: string) => void = (line) => console.log(line),
+): string {
+  if (!beforeSha || beforeSha === "0".repeat(40)) {
+    return beforeSha;
+  }
+  const hasCommit = (sha: string): boolean => {
+    try {
+      git(["cat-file", "-e", `${sha}^{commit}`], workspace);
+      return true;
+    } catch {
+      return false;
+    }
+  };
+  if (hasCommit(beforeSha)) {
+    return beforeSha;
+  }
+  try {
+    git(["fetch", "--no-tags", "--depth=1", "origin", beforeSha], workspace);
+    if (hasCommit(beforeSha)) {
+      debug(log, `fetched before=${beforeSha} by SHA`);
+      return beforeSha;
+    }
+  } catch {
+    // fall through to the parent fallback
+  }
+  let fallback = "";
+  try {
+    fallback = git(["rev-parse", "--verify", "--quiet", `${afterSha}^`], workspace).trim();
+  } catch {
+    // root commit: diffCommand falls back to `git show after`
+  }
+  log(
+    `::warning::before=${beforeSha} is unreachable (force push?); diffing from ${fallback || "the after commit alone"} instead. ` +
+      "Files changed only in the discarded commits are not synced; run a workflow_dispatch catch-up with the last synced SHA if needed.",
+  );
+  return fallback;
+}
+
 export function diffCommand(beforeSha: string, afterSha: string): string[] {
   if (beforeSha && beforeSha !== "0".repeat(40)) {
     return ["diff", "--name-status", "--no-renames", "-z", beforeSha, afterSha];
@@ -441,8 +496,14 @@ export async function runSync(
   const endpoint = env.API_ENDPOINT;
   const token = env.TOKEN;
   const workspace = path.resolve(env.GITHUB_WORKSPACE);
-  const beforeSha = env.BEFORE_SHA ?? "";
+  const rawBeforeSha = env.BEFORE_SHA ?? "";
   const afterSha = env.AFTER_SHA ?? "";
+
+  if (argv.includes("--resolve-before-sha")) {
+    // stdout carries only the SHA; diagnostics go to stderr.
+    stdout(resolveBeforeSha(rawBeforeSha, afterSha, workspace, git, (line) => console.error(line)));
+    return 0;
+  }
   const eventName = env.GITHUB_EVENT_NAME ?? "";
   const refName = env.GITHUB_REF_NAME ?? "";
 
@@ -464,12 +525,13 @@ export async function runSync(
   }
 
   debug(stdout, `event=${eventName} ref=${refName}`);
-  debug(stdout, `before=${beforeSha}`);
+  debug(stdout, `before=${rawBeforeSha}`);
   debug(stdout, `after=${afterSha}`);
   if (dryRun) {
     debug(stdout, "DRY-RUN mode: no HTTP requests will be sent");
   }
 
+  const beforeSha = resolveBeforeSha(rawBeforeSha, afterSha, workspace, git, stdout);
   const command = diffCommand(beforeSha, afterSha);
   debug(stdout, `cmd=git ${command.join(" ")}`);
   const diffOutput = git(command, workspace);
