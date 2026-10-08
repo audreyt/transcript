@@ -1,4 +1,4 @@
-# 2026-09-11 Oxford Discussion — Audrey Tang on Civic AI
+# 2026-09-11 Oxford Discussion — Audrey Tang on [Civic AI](https://civic.ai)
 
 <div style="position: relative; padding-top: 56.25%;"><iframe src="https://customer-07bto6bf9uibrlc3.cloudflarestream.com/f0ec2efaeb8f2150f1f3b273ac2a08c3/iframe?poster=https%3A%2F%2Fcustomer-07bto6bf9uibrlc3.cloudflarestream.com%2Ff0ec2efaeb8f2150f1f3b273ac2a08c3%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" loading="lazy" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
 
