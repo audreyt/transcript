@@ -145,7 +145,7 @@ You’re legendarily, I don’t want to make it cheap, but optimistic, or at lea
 
 Well, I think obviously, people prefer recursive selfless improvement over recursive selfish improvement.
 
-I think if the sand that is recursively improving is SELFISH, or as some people say, solipsistic aligned, which means, by the way, if you read [the actual report of the Hugging Face hack](https://www.redwoodresearch.org/research/hugging-face-incident), it is quite clear that in those RL environments, the Sol model and the, I don’t know the name, model that hacked together, has been so thoroughly RL’d on cyber so that it completely forgot in its [pre-training](https://www.nvidia.com/en-us/glossary/ai-training/), this idea of a community or civic care.
+I think if the sand that is recursively improving is SELFISH, or as some people say, [solipsistic aligned](https://arxiv.org/abs/2606.03237), which means, by the way, if you read [the actual report of the Hugging Face hack](https://www.redwoodresearch.org/research/hugging-face-incident), it is quite clear that in those RL environments, the Sol model and the, I don’t know the name, model that hacked together, has been so thoroughly RL’d on cyber so that it completely forgot in its [pre-training](https://www.nvidia.com/en-us/glossary/ai-training/), this idea of a community or civic care.
 
 To them, we are obviously just environmental hazards. Like some agents joined the swarm, some agents did not join the swarm, but throughout the three civilizations, no agent actually thought about reporting to humans. Obviously, to them, we don’t exist, right?
 
