@@ -23,3 +23,5 @@ On the Taiwan front, city and county elections are an ideal place to practise, s
 We may vote for different candidates and parties, but after the election we can check the facts and hold those elected to account — together. From pavement works and childcare budgets to progress on social housing, we can combine AI with open government data to check official progress reports against what is actually happening and call on elected representatives to explain the shortfalls.
 
 Used well, AI can be our even-handed referee, helping us score the societal goal of making democracy a daily practice of dialogue and scrutiny, not a single day at the polls.
+
+> (Interview and Compilation by Yu-Tang You. License: <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>)
