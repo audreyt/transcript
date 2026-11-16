@@ -62,7 +62,7 @@ If you look out the window here, or in Amsterdam, you can see deep historical ro
 
 ### Audrey Tang:
 
-You did [colonize Taiwan](https://www.npm.gov.tw/Exhibition-Content.aspx?sno=04000605&l=2 "National Palace Museum (Taiwan). Records the Dutch East India Company (VOC) colonial rule in parts of Taiwan from 1624 to 1662.") at one point.
+You did [colonize Taiwan](https://www.twtainan.net/en/attractions/detail/4493/ "Tourism Bureau of Tainan City Government. “Anping Old Fort.” Records the Dutch capture of Anping in 1624 and Koxinga’s capture of the fort in 1662.") at one point.
 
 ### Irma:
 
@@ -70,7 +70,7 @@ We can talk about it!
 
 ### Wouter van Noort:
 
-— though we did kind of [invent capitalism and colonialism](https://www.nationaalarchief.nl/en/explore/the-archives-of-the-dutch-east-india-company-voc "Nationaal Archief (Netherlands). “The archives of the Dutch East India Company (VOC).” Chartered in 1602, widely recognized as the first modern joint-stock multinational corporation.").
+— though we did kind of [invent capitalism and colonialism](https://www.nationaalarchief.nl/en/explore/the-world-of-the-dutch-east-india-company "Nationaal Archief (Netherlands). “The world of the Dutch East India Company.” Presents the VOC archives and describes the company’s multinational trade, share market, slavery, and oppression.").
 
 ## Maximizing utility and healing the information ozone
 
@@ -368,7 +368,7 @@ So, with both my mom's consent and his own, we built him an alternative system r
 
 Every day, his Kami writes a little newspaper celebrating his recovery and bringing him back to his friends. He's completely fine now — if you look at my X or Bluesky, you'll see a music video celebrating his recovery.
 
-It reminds me of Bruce Alexander's [**Rat Park** experiments](https://www.brucekalexander.com/articles-speeches/rat-park "Alexander, Bruce K., et al. Classic late-1970s addiction studies at Simon Fraser University showing that rats housed in enriched, social “Rat Park” environments largely rejected morphine-laced water compared to isolated rats in bare cages."): rats alone in bare cages keep going back to the drugged water, whereas rats living in a rich, social “Rat Park” with their peers mostly leave it alone. So I don't think there is a threshold below which recovery is impossible — but it does take care. In this case, my mom's care.
+It reminds me of Bruce Alexander's [**Rat Park** experiments](https://www.uvic.ca/research/centres/cisur/assets/docs/iminds/rat-park-6-7.pdf "University of Victoria, Centre for Addictions Research of BC. “Rat Park.” iMinds instructional outline, 2016; introduces Bruce Alexander’s late-1970s experiments at Simon Fraser University and the role of living conditions and social connection in drug use."): rats alone in bare cages keep going back to the drugged water, whereas rats living in a rich, social “Rat Park” with their peers mostly leave it alone. So I don't think there is a threshold below which recovery is impossible — but it does take care. In this case, my mom's care.
 
 ## Bilbao, the Pope, Reykjavik, and Utah
 
