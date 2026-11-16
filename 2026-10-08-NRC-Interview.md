@@ -16,7 +16,7 @@ Yeah, on the record. For humanity. Yes, and [plurality](https://www.plurality.ne
 
 ### Wouter van Noort:
 
-For me, this stems from a deep worry that the path we're headed down with artificial intelligence — especially the frontier American models — is leading us somewhere that feels wrong, so to speak. We're exploring this for [*NRC*](https://www.nrc.nl/ "NRC (formerly NRC Handelsblad). Dutch national daily newspaper based in Amsterdam.") with three thinkers, including you: first, what is actually happening when we look at current developments in artificial intelligence, and second, what we should do about it. We hope to get some enlightenment and relief from you. And Irma is visualizing these futures, because we have a strong sense that looking closely at what is happening — and visualizing how it could be otherwise — might help us find new ways forward.
+For me, this stems from a deep worry that the path we're headed down with artificial intelligence — especially the frontier American models — is leading us somewhere that feels wrong, so to speak. We're exploring this for [*NRC*](https://www.nrc.nl/ "NRC (formerly NRC Handelsblad). Dutch national daily newspaper based in Amsterdam.") with three thinkers, including you: first, what is actually happening when we look at current developments in artificial intelligence, and second, what we should do about it. We hope to get some enlightenment and relief from you. And Dirma Janse is visualizing these futures, because we have a strong sense that looking closely at what is happening — and visualizing how it could be otherwise — might help us find new ways forward.
 
 ### Audrey Tang:
 
@@ -64,7 +64,7 @@ If you look out the window here, or in Amsterdam, you can see deep historical ro
 
 You did [colonize Taiwan](https://www.twtainan.net/en/attractions/detail/4493/ "Tourism Bureau of Tainan City Government. “Anping Old Fort.” Records the Dutch capture of Anping in 1624 and Koxinga’s capture of the fort in 1662.") at one point.
 
-### Irma:
+### Dirma Janse:
 
 We can talk about it!
 
@@ -194,7 +194,7 @@ If AI can open a door for us to resonate with the health of a river, then that l
 
 I know Studio Ghibli, though sadly I haven't seen that one yet.
 
-### Irma:
+### Dirma Janse:
 
 Oh, it's wonderful — especially to watch with your children. That and *Howl's Moving Castle*.
 
@@ -458,9 +458,9 @@ On the other hand, if you can “speed-run” the consequences of war in advance
 
 ### Wouter van Noort:
 
-Irma, we've covered huge territory — what's jumping out to you visually from your sketches?
+Dirma Janse, we've covered huge territory — what's jumping out to you visually from your sketches?
 
-### Irma:
+### Dirma Janse:
 
 *(Showing her notebook sketches)* Two images really stood out to me. First, channeling that geothermal energy — the co-creation out of conflict, almost like a *yin-yang*. And second, instead of technology standing outside people, different AI models *with* people — this one connected to a river, that one to a place.
 
@@ -498,7 +498,7 @@ We're also interviewing the sociologist [Hartmut Rosa](https://www.uni-jena.de/ 
 
 Oh, Yuk Hui is a good friend — **technodiversity**! Please say hi to him for me. If you go to [technodiversity.org](https://technodiversity.org/ "Technodiversity. Project of ITS Rio (Institute for Technology & Society, Rio de Janeiro); hosts the video dialogue “Technodiversity with Audrey Tang.”"), you'll see an interview with me there.
 
-### Irma:
+### Dirma Janse:
 
 One last question for my illustration: if there is a single “must-have” visual idea to carry through the whole piece, what is it for you?
 
